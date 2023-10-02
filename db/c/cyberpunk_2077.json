@@ -12833,10 +12833,10 @@
       "Count": 7629
     }
   ],
-  "EOS_Progressed": 887682,
+  "EOS_Progressed": 887711,
   "EOS_Completed": 2542,
-  "EOS_NewPlayers": 6630,
-  "EOS_NewCompleters": 188,
+  "EOS_NewPlayers": 6623,
+  "EOS_NewCompleters": 186,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31388,6 +31388,11 @@
       "Time": "2023-10-02T10:07:09.3515344+00:00",
       "NumProgressed": 887682,
       "NumCompleted": 2542
+    },
+    {
+      "Time": "2023-10-02T11:08:18.0703166+00:00",
+      "NumProgressed": 887711,
+      "NumCompleted": 2542
     }
   ],
   "TotalAchievements": 57,
@@ -31415,7 +31420,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "Cyberjunkie",
@@ -31479,7 +31484,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26630
+      "UsersEstimate": 26631
     },
     {
       "ID": "HandyMan",
@@ -31495,7 +31500,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31583,7 +31588,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35507
+      "UsersEstimate": 35508
     },
     {
       "ID": "Temperance",
@@ -31599,7 +31604,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35507
+      "UsersEstimate": 35508
     },
     {
       "ID": "TheDevil",
@@ -31687,7 +31692,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26630
+      "UsersEstimate": 26631
     },
     {
       "ID": "TrueSoldier",
@@ -31854,21 +31859,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 887682,
+      "Progressed": 887711,
       "Completed": 2542
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16305,
+      "Progressed": 16334,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-02T08:59:29.4230215+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:07:09.3515338+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:08:18.0703159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:44.4844328+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:07:09.3516666+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:59:41.7978716+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:08:18.070551+00:00"
 }

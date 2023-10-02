@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11949,18 +11949,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 250128,
       "NumberOfAwardsMax": 61675
+    },
+    {
+      "Time": "2023-10-02T11:00:07.3255814+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 250175,
+      "NumberOfAwardsMax": 61722
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 250128,
-  "NumberOfAwardsMax": 61675,
+  "NumberOfAwards": 250175,
+  "NumberOfAwardsMax": 61722,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 61675
+      "Count": 61722
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12040,8 +12046,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-10-02T08:59:57.1034453+00:00",
+  "LastChanged": "2023-10-02T11:00:07.3255812+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:23.7326075+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:00:09.9358165+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:05:41.5489023+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:00:07.3255821+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:05:59.0027556+00:00"
 }

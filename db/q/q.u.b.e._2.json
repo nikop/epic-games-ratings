@@ -5,10 +5,10 @@
   "Ranking_Rating": 698,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2158,6 +2158,11 @@
       "Time": "2023-10-02T09:03:17.3352064+00:00",
       "NumProgressed": 524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T11:03:45.4042841+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2184,9 +2189,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2314,7 +2319,7 @@
       "Name": "Mission Success",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_HUB2",
@@ -2330,15 +2335,15 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_PROPELL",
@@ -2346,7 +2351,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_REDEND",
@@ -2354,7 +2359,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_S1",
@@ -2368,9 +2373,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_S5",
@@ -2384,9 +2389,9 @@
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_STATUE",
@@ -2401,15 +2406,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:03:28.8383529+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:03:45.4042834+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:05.9988881+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:03:28.8383777+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:59:02.9278561+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:03:45.4043238+00:00"
 }

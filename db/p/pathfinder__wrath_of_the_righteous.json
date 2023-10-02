@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3854,9 +3854,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11456,
+  "EOS_Progressed": 11457,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13144,6 +13144,11 @@
       "Time": "2023-10-02T01:47:41.3378697+00:00",
       "NumProgressed": 11456,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T11:05:29.6462874+00:00",
+      "NumProgressed": 11457,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13179,7 +13184,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14082,21 +14087,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10238,
+      "Progressed": 10239,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11456,
+      "Progressed": 11457,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-02T04:59:12.8152595+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:05:12.6503134+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:05:29.6462869+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:22.2994634+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:05:12.6504959+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:59:20.2536023+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:05:29.6465285+00:00"
 }

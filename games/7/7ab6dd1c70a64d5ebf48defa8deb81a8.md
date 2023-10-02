@@ -13,11 +13,11 @@
 | Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
 | Geared Up | 10.00% | ~3 |
+| Fashion Victim | 10.00% | ~3 |
 | Break Out | 6.00% | ~2 |
 | Calm before the Storm | 6.00% | ~2 |
 | To Battle | 6.00% | ~2 |
 | Godslayer | 6.00% | ~2 |
-| Fashion Victim | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |

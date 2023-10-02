@@ -8,27 +8,27 @@ Rating: 4.54 (Ranked 510)
 | Break A Leg | 3.00% | ~20,689 |
 | Hotel California | 3.00% | ~20,689 |
 | Welcome To Hell-A | 3.00% | ~20,689 |
-| Dr. Reed, I Presume? | 2.00% | ~13,792 |
-| Git Gutte! | 2.00% | ~13,792 |
-| Anger Management | 2.00% | ~13,792 |
-| Bookworm | 2.00% | ~13,792 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,792 |
-| But Doctor, I am Butcho | 2.00% | ~13,792 |
-| Slayer Squad | 2.00% | ~13,792 |
-| Can't Handle the Truth | 2.00% | ~13,792 |
-| Coup de Grâce | 2.00% | ~13,792 |
-| Like Riding a Bike | 2.00% | ~13,792 |
-| Hazardous Materials | 2.00% | ~13,792 |
-| Friends Like These | 2.00% | ~13,792 |
-| Apex Predator | 2.00% | ~13,792 |
-| Zombologist | 2.00% | ~13,792 |
-| Ooh, Shiny! | 2.00% | ~13,792 |
-| A Patton Emerges | 2.00% | ~13,792 |
-| I Am the Resurrection | 2.00% | ~13,792 |
-| Stacking the Deck | 2.00% | ~13,792 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,792 |
-| Our True Nature | 2.00% | ~13,792 |
-| This is My Weapon | 2.00% | ~13,792 |
+| Dr. Reed, I Presume? | 2.00% | ~13,793 |
+| Git Gutte! | 2.00% | ~13,793 |
+| Anger Management | 2.00% | ~13,793 |
+| Bookworm | 2.00% | ~13,793 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,793 |
+| But Doctor, I am Butcho | 2.00% | ~13,793 |
+| Slayer Squad | 2.00% | ~13,793 |
+| Can't Handle the Truth | 2.00% | ~13,793 |
+| Coup de Grâce | 2.00% | ~13,793 |
+| Like Riding a Bike | 2.00% | ~13,793 |
+| Hazardous Materials | 2.00% | ~13,793 |
+| Friends Like These | 2.00% | ~13,793 |
+| Apex Predator | 2.00% | ~13,793 |
+| Zombologist | 2.00% | ~13,793 |
+| Ooh, Shiny! | 2.00% | ~13,793 |
+| A Patton Emerges | 2.00% | ~13,793 |
+| I Am the Resurrection | 2.00% | ~13,793 |
+| Stacking the Deck | 2.00% | ~13,793 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,793 |
+| Our True Nature | 2.00% | ~13,793 |
+| This is My Weapon | 2.00% | ~13,793 |
 | Making Your Mark | 1.00% | ~6,896 |
 | Perks of the Job | 1.00% | ~6,896 |
 | Humanity Distilled | 1.00% | ~6,896 |
@@ -37,21 +37,21 @@ Rating: 4.54 (Ranked 510)
 | Go, Bobcats! | 0.90% | ~6,207 |
 | Rising Star | 0.90% | ~6,207 |
 | Jumbo Keyring | 0.80% | ~5,517 |
-| Smorgasbord | 0.70% | ~4,827 |
+| Smorgasbord | 0.70% | ~4,828 |
 | On Safari | 0.60% | ~4,138 |
 | Not Even My Final Form | 0.60% | ~4,138 |
 | Internet Famous | 0.60% | ~4,138 |
 | Make it So | 0.50% | ~3,448 |
 | Variety is the Spice of Death | 0.50% | ~3,448 |
-| LA Influential | 0.40% | ~2,758 |
-| Gore Horse | 0.40% | ~2,758 |
-| Sharpest Tool in the Box | 0.40% | ~2,758 |
+| LA Influential | 0.40% | ~2,759 |
+| Gore Horse | 0.40% | ~2,759 |
+| Sharpest Tool in the Box | 0.40% | ~2,759 |
 | Sole Survivor | 0.30% | ~2,069 |
 | Survival Skills | 0.30% | ~2,069 |
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,620 (Ranked 22)  
+Progressed: 689,646 (Ranked 22)  
 Completed: 2,184 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 2,184 (0.32%) (Ranked 194)
 | 2023-09-29 | 688,115 | 2,177 |
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
-| 2023-10-02 | 689,620 | 2,184 |
+| 2023-10-02 | 689,646 | 2,184 |
 ## Awards
 Max (Great Boss Battles): 6,289  (Ranked 58)  
 Sum: 9,377 (Ranked 91)  

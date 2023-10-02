@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -941,17 +941,17 @@
       "ID": "HeroWorld6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser - Hero Edition",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroWorld7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman - Hero Edition",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroWorld8Boss",
@@ -1005,9 +1005,9 @@
       "ID": "OhNo",
       "SetID": "d9ekhim",
       "Name": "Oh, no",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Pacifist",
@@ -1125,9 +1125,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 392
     },
     {
       "ID": "World2Boss",
@@ -1165,9 +1165,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "World7Boss",
@@ -1181,9 +1181,9 @@
       "ID": "World8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "World9Boss",
@@ -1206,8 +1206,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:06:23.5980645+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:06:41.8112521+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:01.8295969+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:06:23.5980955+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:58:58.5146776+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:06:41.8112901+00:00"
 }

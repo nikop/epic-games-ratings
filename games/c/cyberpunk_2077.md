@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,507 |
-| Rough Landing | 4.00% | ~35,507 |
-| Gunslinger | 3.00% | ~26,630 |
-| The Jungle | 3.00% | ~26,630 |
+| Ten out of Ten | 4.00% | ~35,508 |
+| Rough Landing | 4.00% | ~35,508 |
+| Gunslinger | 3.00% | ~26,631 |
+| The Jungle | 3.00% | ~26,631 |
 | Full Body Conversion | 2.00% | ~17,754 |
 | Right Back At Ya | 2.00% | ~17,754 |
 | Master Crafter | 2.00% | ~17,754 |
@@ -39,8 +39,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.70% | ~6,214 |
 | Life of the Road | 0.60% | ~5,326 |
 | Spin Doctor | 0.60% | ~98 |
-| Bushido and Chill | 0.50% | ~4,438 |
-| I Am The Law | 0.50% | ~4,438 |
+| Bushido and Chill | 0.50% | ~4,439 |
+| I Am The Law | 0.50% | ~4,439 |
 | The Wandering Fool | 0.40% | ~3,551 |
 | Autojock | 0.40% | ~3,551 |
 | Must Be Rats | 0.40% | ~3,551 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,682 (Ranked 15)  
+Progressed: 887,711 (Ranked 15)  
 Completed: 2,542 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 2,542 (0.29%) (Ranked 201)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,682 | 2,542 |
+| 2023-10-02 | 887,711 | 2,542 |
 ## Awards
 Max (Character Customization): 88,536  (Ranked 9)  
 Sum: 252,718 (Ranked 12)  

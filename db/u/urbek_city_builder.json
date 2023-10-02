@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CULTURE_3",
@@ -1681,9 +1681,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "SPORTS_2",
@@ -1802,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:04:41.1827591+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:04:57.817134+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.0473325+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:56.9157132+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:04:41.1828368+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:59:55.2630431+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:04:57.8172269+00:00"
 }

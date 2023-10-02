@@ -2,7 +2,7 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 76,
@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109841,
+  "EOS_Progressed": 109844,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 2,
@@ -12946,6 +12946,11 @@
       "Time": "2023-10-02T10:04:18.5157347+00:00",
       "NumProgressed": 109841,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-02T11:04:35.0339828+00:00",
+      "NumProgressed": 109844,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -12965,7 +12970,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84578
+      "UsersEstimate": 84580
     },
     {
       "ID": "EAwards_10",
@@ -12989,7 +12994,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16476
+      "UsersEstimate": 16477
     },
     {
       "ID": "EAwards_13",
@@ -13029,7 +13034,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39543
+      "UsersEstimate": 39544
     },
     {
       "ID": "EAwards_18",
@@ -13045,7 +13050,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "EAwards_2",
@@ -13053,7 +13058,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52724
+      "UsersEstimate": 52725
     },
     {
       "ID": "EAwards_20",
@@ -13077,7 +13082,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "EAwards_23",
@@ -13085,7 +13090,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "EAwards_24",
@@ -13189,7 +13194,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "EAwards_36",
@@ -13317,7 +13322,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8787
+      "UsersEstimate": 8788
     },
     {
       "ID": "EAwards_7",
@@ -13348,7 +13353,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109841,
+      "Progressed": 109844,
       "Completed": 44
     }
   ],
@@ -13356,8 +13361,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:04:18.5157344+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:04:35.0339821+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.6231409+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:58:01.6169272+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:04:18.5158255+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:58:03.9637025+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:04:35.0341172+00:00"
 }

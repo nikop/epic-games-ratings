@@ -5,27 +5,27 @@ Rating: 3.81 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~401,321 |
-| Handy | 41.00% | ~216,502 |
-| Cold Caller | 39.00% | ~205,941 |
-| A Bit On The Side | 26.00% | ~137,294 |
-| Backdoor | 25.00% | ~132,014 |
-| Rank Amateur | 21.00% | ~110,891 |
-| Three Way | 18.00% | ~95,050 |
-| Deadly Assassin | 15.00% | ~79,208 |
+| Pro Creation | 76.00% | ~401,325 |
+| Handy | 41.00% | ~216,504 |
+| Cold Caller | 39.00% | ~205,943 |
+| A Bit On The Side | 26.00% | ~137,295 |
+| Backdoor | 25.00% | ~132,015 |
+| Rank Amateur | 21.00% | ~110,892 |
+| Three Way | 18.00% | ~95,051 |
+| Deadly Assassin | 15.00% | ~79,209 |
 | Gutshot | 14.00% | ~73,928 |
-| Risk It For A Biscuit | 13.00% | ~68,647 |
-| Showoff | 13.00% | ~68,647 |
+| Risk It For A Biscuit | 13.00% | ~68,648 |
+| Showoff | 13.00% | ~68,648 |
 | W.H.I.P. | 11.00% | ~58,086 |
 | Bet Bet Bet | 9.00% | ~47,525 |
 | Blindman's Bluff | 9.00% | ~47,525 |
 | Poker Joker | 9.00% | ~47,525 |
-| Never Give Up | 8.00% | ~42,244 |
-| Total Knock Out | 8.00% | ~42,244 |
+| Never Give Up | 8.00% | ~42,245 |
+| Total Knock Out | 8.00% | ~42,245 |
 | Dog Eat Dog | 7.00% | ~36,964 |
 | Quack Quack | 7.00% | ~36,964 |
 | The Bigger They Are | 7.00% | ~36,964 |
-| Give Your Regards To Broadway | 6.00% | ~31,683 |
+| Give Your Regards To Broadway | 6.00% | ~31,684 |
 | Check Yourself | 4.00% | ~21,122 |
 | Moneymaker | 4.00% | ~21,122 |
 | In The Gang | 3.00% | ~15,842 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 995)
 | Rounder | 0.10% | ~528 |
 | Top Dog | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,054 (Ranked 34)  
+Progressed: 528,059 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2 (0.00%) (Ranked 304)
 | 2023-09-29 | 527,415 | 2 |
 | 2023-09-30 | 527,720 | 2 |
 | 2023-10-01 | 527,978 | 2 |
-| 2023-10-02 | 528,054 | 2 |
+| 2023-10-02 | 528,059 | 2 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 427)  
 Sum: 120 (Ranked 414)  

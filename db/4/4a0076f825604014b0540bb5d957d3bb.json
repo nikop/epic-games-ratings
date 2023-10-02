@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:06:05.5101522+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:06:23.5256848+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:09.6273769+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:58:37.492747+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:06:05.5101664+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:58:39.967269+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:06:23.5257045+00:00"
 }

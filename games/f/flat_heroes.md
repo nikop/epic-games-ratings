@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 71.00% | ~386 |
+| Dash Crash | 72.00% | ~392 |
 | Snake Eyes | 57.00% | ~310 |
 | Be water, my friend | 56.00% | ~305 |
 | Fireball | 44.00% | ~239 |
@@ -12,10 +12,10 @@
 | Air Slash | 31.00% | ~169 |
 | Hit That Ball | 31.00% | ~169 |
 | Eat That Apple | 22.00% | ~120 |
-| Tornado Chaser | 12.00% | ~65 |
+| Tornado Chaser | 13.00% | ~71 |
 | Bomberman | 9.00% | ~49 |
 | Bubble Party | 7.00% | ~38 |
-| The Colossus | 6.00% | ~33 |
+| The Colossus | 7.00% | ~38 |
 | Floor is Lava | 5.00% | ~27 |
 | Pim Pam Pum | 5.00% | ~27 |
 | Ambush | 4.00% | ~22 |
@@ -31,9 +31,9 @@
 | Vertigo | 1.00% | ~5 |
 | Rogue | 1.00% | ~5 |
 | Hit That Ball - Hero Edition | 0.90% | ~5 |
-| Tornado Chaser - Hero Edition | 0.70% | ~4 |
-| Bomberman - Hero Edition | 0.70% | ~4 |
-| Oh, no | 0.70% | ~4 |
+| Tornado Chaser - Hero Edition | 0.90% | ~5 |
+| Bomberman - Hero Edition | 0.90% | ~5 |
+| Oh, no | 0.90% | ~5 |
 | The Colossus - Hero Edition | 0.60% | ~3 |
 | Killing Spree | 0.60% | ~3 |
 | Rogue - Hero Edition | 0.40% | ~2 |

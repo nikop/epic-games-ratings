@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14282,
+  "EOS_Progressed": 14283,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12775,6 +12775,11 @@
       "Time": "2023-10-02T10:06:19.6766204+00:00",
       "NumProgressed": 14282,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T11:06:38.1082406+00:00",
+      "NumProgressed": 14283,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13408,9 +13413,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -14536,9 +14541,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -15521,21 +15526,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14282,
+      "Progressed": 14283,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14282,
+      "Progressed": 14283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:06:19.67662+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:06:38.1082399+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:58:31.8226132+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:06:19.6775969+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:58:35.5475126+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:06:38.1095234+00:00"
 }

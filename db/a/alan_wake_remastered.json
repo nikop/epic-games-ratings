@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,10 +524,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66761,
-  "EOS_Completed": 66,
-  "EOS_NewPlayers": 592,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 66762,
+  "EOS_Completed": 67,
+  "EOS_NewPlayers": 589,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -16614,6 +16614,11 @@
       "Time": "2023-10-02T10:04:10.6948208+00:00",
       "NumProgressed": 66761,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-10-02T11:04:27.2893288+00:00",
+      "NumProgressed": 66762,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16633,7 +16638,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18025
+      "UsersEstimate": 18026
     },
     {
       "ID": "03",
@@ -16817,7 +16822,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "26",
@@ -17160,21 +17165,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66761,
-      "Completed": 66
+      "Progressed": 66762,
+      "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30229,
+      "Progressed": 30230,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:04:10.6948204+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:04:27.2893285+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:59:22.7085972+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:04:10.6949662+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:59:20.6256735+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:04:27.2894908+00:00"
 }

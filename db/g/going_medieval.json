@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1286,9 +1286,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6058,
+  "EOS_Progressed": 6059,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10266,6 +10266,11 @@
       "Time": "2023-10-02T10:06:13.0422517+00:00",
       "NumProgressed": 6058,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-02T11:06:31.1996829+00:00",
+      "NumProgressed": 6059,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10309,7 +10314,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -10437,7 +10442,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -10453,7 +10458,7 @@
       "Name": "Heating Up",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -10477,7 +10482,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10485,7 +10490,7 @@
       "Name": "Novice Researcher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10493,7 +10498,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -10509,7 +10514,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -10524,15 +10529,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6058,
+      "Progressed": 6059,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-30T01:39:28.6530868+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:06:13.0422513+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:06:31.1996822+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:07.6193189+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:00:53.9476644+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:06:13.0423115+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:03:11.2510067+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:06:31.1997594+00:00"
 }

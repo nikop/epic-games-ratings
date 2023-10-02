@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 41258,
+  "EOS_Progressed": 41259,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19229,6 +19229,11 @@
       "Time": "2023-10-02T10:03:47.6307723+00:00",
       "NumProgressed": 41258,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T11:04:04.3663653+00:00",
+      "NumProgressed": 41259,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -19320,7 +19325,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "journeyer",
@@ -19551,15 +19556,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 41258,
+      "Progressed": 41259,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:03:47.630772+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:04:04.3663646+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:40.5769869+00:00",
-  "LastUpdate_Ratings": "2023-10-02T10:00:23.9660136+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:03:47.6308812+00:00"
+  "LastUpdate_Ratings": "2023-10-02T11:00:23.1124935+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:04:04.3665298+00:00"
 }

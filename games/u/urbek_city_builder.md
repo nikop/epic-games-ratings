@@ -7,16 +7,16 @@
 | I like parks | 6.00% | ~22 |
 | Small town | 6.00% | ~22 |
 | The spiritual world... | 4.00% | ~14 |
+| Sport is good for you | 4.00% | ~14 |
 | The woodcutter | 3.00% | ~11 |
 | It is nice to share with friends in the city | 3.00% | ~11 |
-| Sport is good for you | 3.00% | ~11 |
 | Soviet town | 3.00% | ~11 |
 | I like books | 2.00% | ~7 |
 | I like my life | 2.00% | ~7 |
 | Clean energy | 2.00% | ~7 |
 | Bucolic city | 2.00% | ~7 |
+| I love books! | 0.80% | ~3 |
 | I love parks | 0.80% | ~3 |
-| I love books! | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food producer | 0.30% | ~1 |

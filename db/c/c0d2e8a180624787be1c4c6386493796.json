@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -556,9 +556,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-02T10:06:39.5965734+00:00",
+  "LastChanged_Achievements": "2023-10-02T11:06:58.2434957+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-02T09:57:32.1822082+00:00",
-  "LastUpdate_Achievements": "2023-10-02T10:06:39.5966373+00:00"
+  "LastUpdate_Ratings": "2023-10-02T10:57:34.330747+00:00",
+  "LastUpdate_Achievements": "2023-10-02T11:06:58.2435773+00:00"
 }

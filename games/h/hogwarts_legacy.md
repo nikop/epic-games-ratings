@@ -5,22 +5,22 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,655 |
-| First Class Student | 13.00% | ~38,701 |
-| Troll with the Punches | 13.00% | ~38,701 |
-| A Keen Sense of Spell | 12.00% | ~35,724 |
-| That's a Keeper | 12.00% | ~35,724 |
-| The Defender of Dragons | 11.00% | ~32,747 |
-| Loom for Improvement | 11.00% | ~32,747 |
-| A Talent for Spending | 11.00% | ~32,747 |
-| Grappling with a Graphorn | 10.00% | ~29,770 |
-| The One Who Mastered Memories | 10.00% | ~29,770 |
-| The Hallowed Hero | 10.00% | ~29,770 |
-| The Hero of Hogwarts | 10.00% | ~29,770 |
-| Challenge Accepted | 10.00% | ~29,770 |
-| Coasting Along | 10.00% | ~29,770 |
-| Followed the Butterflies | 9.00% | ~26,793 |
-| Rising From the Ashes | 9.00% | ~26,793 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,656 |
+| First Class Student | 13.00% | ~38,702 |
+| Troll with the Punches | 13.00% | ~38,702 |
+| A Keen Sense of Spell | 12.00% | ~35,725 |
+| That's a Keeper | 12.00% | ~35,725 |
+| The Defender of Dragons | 11.00% | ~32,748 |
+| Loom for Improvement | 11.00% | ~32,748 |
+| A Talent for Spending | 11.00% | ~32,748 |
+| Grappling with a Graphorn | 10.00% | ~29,771 |
+| The One Who Mastered Memories | 10.00% | ~29,771 |
+| The Hallowed Hero | 10.00% | ~29,771 |
+| The Hero of Hogwarts | 10.00% | ~29,771 |
+| Challenge Accepted | 10.00% | ~29,771 |
+| Coasting Along | 10.00% | ~29,771 |
+| Followed the Butterflies | 9.00% | ~26,794 |
+| Rising From the Ashes | 9.00% | ~26,794 |
 | The Avenging Gazelle | 8.00% | ~23,816 |
 | A Sallow Grave | 8.00% | ~23,816 |
 | Flight the Good Flight | 8.00% | ~23,816 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,703 (Ranked 46)  
+Progressed: 297,706 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
-| 2023-10-02 | 297,703 | 479 |
+| 2023-10-02 | 297,706 | 479 |
 ## Awards
 Max (Character Customization): 23,193  (Ranked 17)  
 Sum: 44,803 (Ranked 31)  
