@@ -27,7 +27,7 @@ Rating: 3.99 (Ranked 963)
 | Plumber | 3.00% | ~49 |
 | To infinity and beyond! | 3.00% | ~49 |
 | Driver's License | 2.00% | ~33 |
-| Explosive Miner | 1.00% | ~16 |
+| Explosive Miner | 2.00% | ~33 |
 | Caveman | 1.00% | ~16 |
 | Planetary Defence | 1.00% | ~16 |
 | Rocket Jump | 1.00% | ~16 |

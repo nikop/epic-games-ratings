@@ -496,9 +496,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8213,
+  "EOS_Progressed": 8214,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9661,6 +9661,11 @@
       "Time": "2023-10-02T17:09:16.8964036+00:00",
       "NumProgressed": 8213,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-02T19:06:42.1785476+00:00",
+      "NumProgressed": 8214,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9672,7 +9677,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6817
+      "UsersEstimate": 6818
     },
     {
       "ID": "ACH02",
@@ -9680,7 +9685,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH03",
@@ -9712,7 +9717,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ACH07",
@@ -9792,7 +9797,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "ACH17",
@@ -9903,7 +9908,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8213,
+      "Progressed": 8214,
       "Completed": 53
     }
   ],
@@ -9911,8 +9916,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-01T15:59:04.0978049+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:08:36.604946+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:06:42.178547+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:00:16.5401649+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:08:36.6050244+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:59:08.9811487+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:06:42.1786217+00:00"
 }

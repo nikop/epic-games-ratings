@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2176,10 +2176,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2352,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2023-10-02T18:57:01.2909661+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2354,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2352,
+  "NumberOfAwards": 2354,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2199,7 +2205,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 218
+      "Count": 220
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2256,9 +2262,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26162,
+  "EOS_Progressed": 26163,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14036,6 +14042,11 @@
       "Time": "2023-10-02T18:05:56.6319666+00:00",
       "NumProgressed": 26162,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-02T19:04:49.9506096+00:00",
+      "NumProgressed": 26163,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14405,9 +14416,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Tobins_Prodigy",
@@ -14454,16 +14465,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26162,
+      "Progressed": 26163,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-01T22:01:08.073081+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:05:56.631966+00:00",
+  "LastChanged": "2023-10-02T18:57:01.290966+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:04:49.9506091+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:57:06.3794505+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:05:56.63208+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:01.2909666+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:49.9507256+00:00"
 }

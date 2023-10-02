@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18250,
+  "EOS_Progressed": 18251,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11076,6 +11076,11 @@
       "Time": "2023-10-02T18:08:55.4876771+00:00",
       "NumProgressed": 18250,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-02T19:08:14.2744733+00:00",
+      "NumProgressed": 18251,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11087,7 +11092,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5292
+      "UsersEstimate": 5293
     },
     {
       "ID": "0002",
@@ -11095,7 +11100,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "0003",
@@ -11103,7 +11108,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "0004",
@@ -11167,7 +11172,7 @@
       "Name": "Extraction Confusion",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "0012",
@@ -11199,7 +11204,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "0016",
@@ -11223,7 +11228,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "0019",
@@ -11231,7 +11236,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "0020",
@@ -11279,7 +11284,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "0026",
@@ -11311,7 +11316,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "0030",
@@ -11374,7 +11379,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18250,
+      "Progressed": 18251,
       "Completed": 4
     }
   ],
@@ -11382,8 +11387,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:08:55.4876766+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:08:14.2744727+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:57:33.7545476+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:08:55.4877535+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:21.2902296+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:08:14.2745538+00:00"
 }

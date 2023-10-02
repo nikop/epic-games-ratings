@@ -8,22 +8,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 4.00% | ~35,517 |
 | Rough Landing | 4.00% | ~35,517 |
-| Gunslinger | 3.00% | ~26,637 |
-| The Jungle | 3.00% | ~26,637 |
-| Full Body Conversion | 2.00% | ~17,758 |
-| Right Back At Ya | 2.00% | ~17,758 |
-| Master Crafter | 2.00% | ~17,758 |
-| Mean Streets | 2.00% | ~17,758 |
-| Breathtaking | 2.00% | ~17,758 |
-| Stanislavski's Method | 2.00% | ~17,758 |
-| The Hermit | 2.00% | ~17,758 |
-| The High Priestess | 2.00% | ~17,758 |
-| The Wheel of Fortune | 2.00% | ~17,758 |
-| True Soldier | 2.00% | ~17,758 |
-| True Warrior | 2.00% | ~17,758 |
-| Two Heads, One Bullet | 2.00% | ~17,758 |
-| V for Vendetta | 2.00% | ~17,758 |
-| Legend of The Afterlife | 2.00% | ~17,758 |
+| Gunslinger | 3.00% | ~26,638 |
+| Master Crafter | 3.00% | ~26,638 |
+| The Jungle | 3.00% | ~26,638 |
+| Full Body Conversion | 2.00% | ~17,759 |
+| Right Back At Ya | 2.00% | ~17,759 |
+| Mean Streets | 2.00% | ~17,759 |
+| Breathtaking | 2.00% | ~17,759 |
+| Stanislavski's Method | 2.00% | ~17,759 |
+| The Hermit | 2.00% | ~17,759 |
+| The High Priestess | 2.00% | ~17,759 |
+| The Wheel of Fortune | 2.00% | ~17,759 |
+| True Soldier | 2.00% | ~17,759 |
+| True Warrior | 2.00% | ~17,759 |
+| Two Heads, One Bullet | 2.00% | ~17,759 |
+| V for Vendetta | 2.00% | ~17,759 |
+| Legend of The Afterlife | 2.00% | ~17,759 |
 | To Bad Decisions! | 1.00% | ~8,879 |
 | Gun Fu | 1.00% | ~8,879 |
 | Christmas Tree Attack | 1.00% | ~8,879 |
@@ -36,16 +36,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 1.00% | ~8,879 |
 | It's Elementary | 1.00% | ~8,879 |
 | Greetings from Pacifica! | 0.80% | ~7,103 |
-| City Lights | 0.70% | ~6,215 |
-| Life of the Road | 0.70% | ~6,215 |
+| City Lights | 0.70% | ~6,216 |
+| Life of the Road | 0.70% | ~6,216 |
 | Spin Doctor | 0.70% | ~116 |
 | Bushido and Chill | 0.50% | ~4,440 |
 | I Am The Law | 0.50% | ~4,440 |
 | Must Be Rats | 0.50% | ~4,440 |
+| To Protect and Serve | 0.40% | ~3,552 |
 | The Wandering Fool | 0.40% | ~3,552 |
 | Autojock | 0.40% | ~3,552 |
 | The Sun | 0.40% | ~3,552 |
-| To Protect and Serve | 0.30% | ~2,664 |
 | Frequent Flyer | 0.30% | ~2,664 |
 | The Star | 0.30% | ~2,664 |
 | Relic Ruler | 0.30% | ~50 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 887,913 (Ranked 15)  
-Completed: 2,547 (0.29%) (Ranked 202)  
+Progressed: 887,936 (Ranked 15)  
+Completed: 2,549 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,10 +229,10 @@ Completed: 2,547 (0.29%) (Ranked 202)
 | 2023-09-29 | 885,339 | 2,480 |
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
-| 2023-10-02 | 887,913 | 2,547 |
+| 2023-10-02 | 887,936 | 2,549 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 254,315 (Ranked 12)  
+Sum: 254,630 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -240,8 +240,8 @@ Diff (max vs sum): -3
 | This game has Great Boss Battles | 60,143 |
 | This game has Diverse Characters | 12,694 |
 | This game is Great for Beginners | 12,605 |
+| This game has Amazing Storytelling | 12,425 |
 | This game is Extremely Fun | 12,184 |
-| This game has Amazing Storytelling | 12,110 |
 | This game is Highly Recommended | 12,090 |
 | This game is Relaxing | 11,769 |
 | This game has Amazing Characters | 11,759 |
@@ -506,4 +506,4 @@ Diff (max vs sum): -3
 | 2023-09-29 | 4.63 | - | 86,225 | 239,962 |
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
-| 2023-10-02 | 4.63 | - | 89,540 | 254,315 |
+| 2023-10-02 | 4.63 | - | 89,540 | 254,630 |

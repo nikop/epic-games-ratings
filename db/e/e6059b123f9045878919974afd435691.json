@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2021,6 +2021,11 @@
       "Time": "2023-10-02T18:06:15.6140784+00:00",
       "NumProgressed": 846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T19:05:03.2373213+00:00",
+      "NumProgressed": 847,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2032,7 +2037,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2040,7 +2045,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2104,7 +2109,7 @@
       "Name": "Capraphobia",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2158,9 +2163,9 @@
       "ID": "BURN_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 110
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2312,7 +2317,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2328,7 +2333,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2352,7 +2357,7 @@
       "Name": "And There We Go",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2392,7 +2397,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2456,7 +2461,7 @@
       "Name": "Buy A Book",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2559,14 +2564,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 847,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:06:15.6140779+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:05:03.2373208+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:59:36.8702652+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:06:15.6141527+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:58:43.4498563+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:05:03.2374021+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 799,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 4.02,
+  "EOS_Completed_Percentage": 4.01,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -1716,6 +1716,11 @@
       "Time": "2023-10-02T18:04:54.9295355+00:00",
       "NumProgressed": 797,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-10-02T19:04:06.2489162+00:00",
+      "NumProgressed": 799,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -1728,7 +1733,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Mission2",
@@ -1736,15 +1741,15 @@
       "Name": "Mission 1 clear",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 223
+      "UsersEstimate": 232
     },
     {
       "ID": "Mission4",
@@ -1767,14 +1772,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 799,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:04:54.9295351+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:04:06.2489158+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.4741371+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:58:53.5761361+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:04:54.9295534+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:58:13.2113166+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:06.2489307+00:00"
 }

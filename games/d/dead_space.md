@@ -20,20 +20,20 @@ Rating: 4.61 (Ranked 370)
 | Greenhouse Effect | 48.00% | ~343 |
 | Freeze | 47.00% | ~336 |
 | Full Arsenal | 42.00% | ~300 |
+| Live with the Hot Ones | 40.00% | ~286 |
 | S.O.S. | 40.00% | ~286 |
-| Live with the Hot Ones | 39.00% | ~278 |
 | Get Off My Ship! | 38.00% | ~271 |
 | Strange Transmissions | 38.00% | ~271 |
 | Wreckage | 36.00% | ~257 |
 | Keeper of the Faith | 34.00% | ~243 |
+| Betrayed | 33.00% | ~236 |
 | A Cut Above | 33.00% | ~236 |
-| Betrayed | 32.00% | ~228 |
 | There's Always Peng! | 32.00% | ~228 |
 | Legend Teller | 31.00% | ~221 |
 | Exodus | 30.00% | ~214 |
 | Mindless Prey | 30.00% | ~214 |
 | Front Toward Enemy | 29.00% | ~207 |
-| Whole Again | 24.00% | ~171 |
+| Whole Again | 25.00% | ~178 |
 | Set A Benchmark | 24.00% | ~171 |
 | Final Regeneration | 21.00% | ~150 |
 | Full Contact | 21.00% | ~150 |

@@ -11,7 +11,7 @@
 | Space Engineer | 64.00% | ~486 |
 | Tinkerer | 63.00% | ~478 |
 | Dust to Dust | 57.00% | ~433 |
-| Across The Stars | 47.00% | ~357 |
+| Across The Stars | 48.00% | ~364 |
 | Crafty | 47.00% | ~357 |
 | All Seats Taken | 38.00% | ~288 |
 | For Science! | 35.00% | ~266 |

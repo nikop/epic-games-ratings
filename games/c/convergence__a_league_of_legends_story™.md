@@ -11,20 +11,20 @@ Rating: 4.60 (Ranked 399)
 | Immaculate Aim | 22.00% | ~198 |
 | Make Up For Lost Time | 21.00% | ~189 |
 | Time Flies | 21.00% | ~189 |
+| The Harder They Fall | 21.00% | ~189 |
 | The Prince in Heels | 21.00% | ~189 |
 | The Brass Boss | 21.00% | ~189 |
 | The Steel Shadow | 20.00% | ~180 |
-| The Harder They Fall | 20.00% | ~180 |
 | No, Thanks! | 20.00% | ~180 |
 | Breaking Down Barriers | 20.00% | ~180 |
 | The Wicked Twins | 20.00% | ~180 |
 | Honest Mistake | 20.00% | ~180 |
 | Fast Learner | 20.00% | ~180 |
 | Immaculate Aim | 20.00% | ~180 |
+| Golem Chaser | 19.00% | ~171 |
 | Right On Time | 18.00% | ~162 |
 | Like Clockwork | 18.00% | ~162 |
 | The Betrayer | 18.00% | ~162 |
-| Golem Chaser | 18.00% | ~162 |
 | Check Your Pulse | 18.00% | ~162 |
 | The Man Who Shattered Time | 17.00% | ~153 |
 | The Loose Cannon | 17.00% | ~153 |
@@ -33,9 +33,9 @@ Rating: 4.60 (Ranked 399)
 | Cartographer | 15.00% | ~135 |
 | Treasure Trove | 14.00% | ~126 |
 | Whiz Kid | 14.00% | ~126 |
+| Good Neighbor | 13.00% | ~117 |
 | Chaincrawler Explorer | 12.00% | ~108 |
 | Family Memories | 12.00% | ~108 |
-| Good Neighbor | 12.00% | ~108 |
 | Syron for Hope | 11.00% | ~99 |
 | Ask Questions Later | 11.00% | ~99 |
 | Fairgrounds Explorer | 10.00% | ~90 |

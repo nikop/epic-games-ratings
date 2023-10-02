@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~766 |
-| That'll Leave a Mark | 21.00% | ~766 |
-| Debuff Dogpile | 20.00% | ~730 |
-| Hit 'Em Where It Hurts | 20.00% | ~730 |
-| Perk Shard Punch Card | 20.00% | ~730 |
-| Mushroom Madness! | 19.00% | ~693 |
-| First Strike | 16.00% | ~584 |
-| Spending Spree | 16.00% | ~584 |
-| Horder Better Faster Stronger | 15.00% | ~547 |
-| Everything Must Go! | 13.00% | ~474 |
-| Ten Steps from the Grave | 13.00% | ~474 |
-| Next Time on MythForce... | 11.00% | ~401 |
-| Cold-Blooded Critters | 9.00% | ~328 |
+| Faceroll the Bones | 21.00% | ~767 |
+| Debuff Dogpile | 20.00% | ~731 |
+| Hit 'Em Where It Hurts | 20.00% | ~731 |
+| Perk Shard Punch Card | 20.00% | ~731 |
+| That'll Leave a Mark | 20.00% | ~731 |
+| Mushroom Madness! | 19.00% | ~694 |
+| First Strike | 16.00% | ~585 |
+| Spending Spree | 16.00% | ~585 |
+| Horder Better Faster Stronger | 15.00% | ~548 |
+| Everything Must Go! | 13.00% | ~475 |
+| Ten Steps from the Grave | 13.00% | ~475 |
+| Next Time on MythForce... | 11.00% | ~402 |
+| Cold-Blooded Critters | 9.00% | ~329 |
 | Death Becomes You | 8.00% | ~292 |
 | Flawless Victory | 6.00% | ~219 |
-| The Harder They Fall | 5.00% | ~182 |
+| The Harder They Fall | 5.00% | ~183 |
 | On this Episode! | 4.00% | ~146 |
-| Deadication | 3.00% | ~109 |
-| Season Finale | 3.00% | ~109 |
+| Deadication | 3.00% | ~110 |
+| Season Finale | 3.00% | ~110 |
 | We've Got a Kaiju on the Field | 2.00% | ~73 |
-| The Fourth Gate | 1.00% | ~36 |
+| The Fourth Gate | 1.00% | ~37 |
 | Vexed Her | 0.40% | ~15 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,648 (Ranked 179)  
+Progressed: 3,654 (Ranked 179)  
 Completed: 2 (0.05%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,11 +109,11 @@ Completed: 2 (0.05%) (Ranked 263)
 | 2023-09-29 | 3,432 | 1 |
 | 2023-09-30 | 3,525 | 2 |
 | 2023-10-01 | 3,606 | 2 |
-| 2023-10-02 | 3,648 | 2 |
+| 2023-10-02 | 3,654 | 2 |
 ## Awards
-Max (Great for Beginners): 34  (Ranked 457)  
+Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 280 (Ranked 354)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

@@ -17,11 +17,11 @@ Rating: 4.50 (Ranked 574)
 | Cultured | 0.70% | ~183 |
 | Swift Rift Removers | 0.70% | ~183 |
 | Teamwork | 0.70% | ~183 |
+| There you are! | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Back Off | 0.60% | ~157 |
 | Icing on the Cake | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
-| There you are! | 0.60% | ~157 |
 | Animated | 0.50% | ~131 |
 | Daily Dose | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,162 (Ranked 114)  
+Progressed: 26,163 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,10 +222,10 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-09-29 | 26,093 | 58 |
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
-| 2023-10-02 | 26,162 | 58 |
+| 2023-10-02 | 26,163 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
-Sum: 2,352 (Ranked 188)  
+Sum: 2,354 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -237,8 +237,8 @@ Diff (max vs sum): 68
 | This game has Diverse Characters | 233 |
 | This game is Highly Recommended | 228 |
 | This game is Relaxing | 228 |
+| This game has Amazing Characters | 220 |
 | This game has Quickly Understood Controls | 220 |
-| This game has Amazing Characters | 218 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -413,3 +413,4 @@ Diff (max vs sum): 68
 | 2023-09-24 | 4.50 | 256 | 2,330 |
 | 2023-09-25 | 4.50 | 256 | 2,331 |
 | 2023-10-01 | 4.50 | 258 | 2,352 |
+| 2023-10-02 | 4.50 | 258 | 2,354 |

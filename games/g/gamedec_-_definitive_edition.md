@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,387 |
-| Powergamer | 27.00% | ~66,909 |
-| Barely scratched the surface | 25.00% | ~61,952 |
-| Write that down | 24.00% | ~59,474 |
-| Guns, lots of guns | 13.00% | ~32,215 |
-| Collector | 12.00% | ~29,737 |
+| I will finish what you started | 28.00% | ~69,388 |
+| Powergamer | 27.00% | ~66,910 |
+| Barely scratched the surface | 25.00% | ~61,954 |
+| Write that down | 24.00% | ~59,476 |
+| Guns, lots of guns | 13.00% | ~32,216 |
+| Collector | 12.00% | ~29,738 |
 | Elementary! | 9.00% | ~22,303 |
 | Pumpkin Jack | 8.00% | ~19,825 |
 | Wake up! | 8.00% | ~19,825 |
@@ -19,11 +19,11 @@ Number of Ratings: 33  (23.09.2022)
 | Griever | 7.00% | ~17,347 |
 | Me smart | 6.00% | ~14,869 |
 | Trash compactor | 6.00% | ~14,869 |
-| Good listener | 5.00% | ~12,390 |
-| Valedictorian | 5.00% | ~12,390 |
-| BOY! | 4.00% | ~9,912 |
-| Ka-ching! | 4.00% | ~9,912 |
-| So you like to read? | 4.00% | ~9,912 |
+| Good listener | 5.00% | ~12,391 |
+| Valedictorian | 5.00% | ~12,391 |
+| BOY! | 4.00% | ~9,913 |
+| Ka-ching! | 4.00% | ~9,913 |
+| So you like to read? | 4.00% | ~9,913 |
 | Hoarder | 3.00% | ~7,434 |
 | I like to sniff around | 3.00% | ~7,434 |
 | Mind reader | 3.00% | ~7,434 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,478 |
 | Take the blue pill | 1.00% | ~2,478 |
 | The power of three | 1.00% | ~2,478 |
-| It's blue, always blue | 0.80% | ~1,982 |
-| Let's try another | 0.80% | ~1,982 |
-| Home run | 0.80% | ~1,982 |
+| It's blue, always blue | 0.80% | ~1,983 |
+| Let's try another | 0.80% | ~1,983 |
+| Home run | 0.80% | ~1,983 |
 | I have the high ground | 0.70% | ~1,735 |
 | Enjoy these little moments | 0.50% | ~1,239 |
 | Who wouldn't love a troll? | 0.50% | ~1,239 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~496 |
 | Memory 5 | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,810 (Ranked 51)  
+Progressed: 247,815 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 7 (0.00%) (Ranked 304)
 | 2023-09-29 | 247,489 | 7 |
 | 2023-09-30 | 247,614 | 7 |
 | 2023-10-01 | 247,743 | 7 |
-| 2023-10-02 | 247,810 | 7 |
+| 2023-10-02 | 247,815 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 367)  
 Sum: 82 (Ranked 435)  

@@ -1,11 +1,11 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.42 (Ranked 690)  
+Rating: 4.40 (Ranked 715)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,626 |
+| Survivor | 31.00% | ~79,627 |
 | Predator I | 22.00% | ~56,509 |
 | Fixer I | 10.00% | ~25,686 |
 | A week in Century City | 10.00% | ~25,686 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 690)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,859 (Ranked 49)  
+Progressed: 256,860 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,22 +227,23 @@ Completed: 3 (0.00%) (Ranked 304)
 | 2023-09-29 | 256,751 | 3 |
 | 2023-09-30 | 256,798 | 3 |
 | 2023-10-01 | 256,837 | 3 |
-| 2023-10-02 | 256,859 | 3 |
+| 2023-10-02 | 256,860 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 40  (Ranked 434)  
-Sum: 262 (Ranked 360)  
+Max (Great for Quick Sessions): 43  (Ranked 429)  
+Sum: 278 (Ranked 355)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 40 |
+| This game is Great for Quick Sessions | 43 |
 | This game has Unique Visuals | 34 |
+| This game has Challenging Combat | 32 |
+| This game is Highly Recommended | 32 |
+| This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Challenging Combat | 31 |
-| This game is Highly Recommended | 30 |
-| This game has a Competitive Community | 26 |
+| This game has a Competitive Community | 27 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Competitive Players | 25 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -383,3 +384,4 @@ Diff (max vs sum): 74
 | 2023-09-23 | 4.42 | 39 | 259 |
 | 2023-09-24 | 4.42 | 40 | 260 |
 | 2023-09-25 | 4.42 | 40 | 262 |
+| 2023-10-02 | 4.40 | 43 | 278 |

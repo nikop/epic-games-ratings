@@ -2,13 +2,13 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 716,
+  "Ranking_Rating": 715,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301089,
+  "EOS_Progressed": 301133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5256,
+  "EOS_NewPlayers": 5261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4959,6 +4959,11 @@
       "Time": "2023-10-02T18:03:41.1299946+00:00",
       "NumProgressed": 301089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T19:03:21.8705616+00:00",
+      "NumProgressed": 301133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -4987,7 +4992,7 @@
       "Name": "Expedition complete - Medium",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACHV_M01_COMPLETE",
@@ -4995,7 +5000,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 132479
+      "UsersEstimate": 132499
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -5003,7 +5008,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 96348
+      "UsersEstimate": 96363
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -5011,7 +5016,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 63229
+      "UsersEstimate": 63238
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -5019,7 +5024,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 45163
+      "UsersEstimate": 45170
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -5027,7 +5032,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 36131
+      "UsersEstimate": 36136
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -5035,7 +5040,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30109
+      "UsersEstimate": 30113
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -5043,7 +5048,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 27098
+      "UsersEstimate": 27102
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -5051,7 +5056,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24087
+      "UsersEstimate": 24091
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -5059,7 +5064,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24087
+      "UsersEstimate": 24091
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -5067,7 +5072,7 @@
       "Name": "Khashar Approach",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21079
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -5075,7 +5080,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21079
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -5083,7 +5088,7 @@
       "Name": "Torin Crater",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18065
+      "UsersEstimate": 18068
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -5091,7 +5096,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18065
+      "UsersEstimate": 18068
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -5347,20 +5352,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 153555
+      "UsersEstimate": 153578
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 301089,
+      "Progressed": 301133,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 301078,
+      "Progressed": 301122,
       "Completed": 0
     }
   ],
@@ -5368,8 +5373,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-09-15T22:00:32.7764142+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:03:41.1299942+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:03:21.8705607+00:00",
   "LastUpdate_AppInfo": "2023-09-28T17:57:14.120022+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:58:51.083325+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:03:41.1300609+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:58:11.6197068+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:03:21.870642+00:00"
 }

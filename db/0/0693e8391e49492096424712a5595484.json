@@ -1879,17 +1879,17 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1935,9 +1935,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 342
     },
     {
       "ID": "BroomAmanita",
@@ -2007,17 +2007,17 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 323
     },
     {
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "HastrmanAmanita",
@@ -2222,8 +2222,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:05:21.7002321+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:04:25.2782785+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:07.9448716+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:59:07.5896613+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:05:21.7002751+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:58:23.4873128+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:25.2783273+00:00"
 }

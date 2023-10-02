@@ -16,7 +16,7 @@ Rating: 4.37 (Ranked 749)
 | Turn Up The HEAT | 40.00% | ~902 |
 | Stop Hitting Yourself! | 34.00% | ~767 |
 | Nothing to Wear | 30.00% | ~676 |
-| The First Law of Thermodynamics | 27.00% | ~609 |
+| The First Law of Thermodynamics | 28.00% | ~631 |
 | Do you trust me? | 15.00% | ~338 |
 | The Second Law of Thermodynamics | 14.00% | ~316 |
 | The Third Law of Thermodynamics | 9.00% | ~203 |

@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 690,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 360,
+  "Ranking_Rating": 715,
+  "Ranking_Popularity": 429,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -944,18 +944,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-10-02T19:02:21.2236783+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 278,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 278,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 43
     },
     {
       "Text": "This game has Unique Visuals",
@@ -979,19 +985,19 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Competitive Players",
@@ -1003,12 +1009,18 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 32
     }
   ],
-  "EOS_Progressed": 256859,
+  "EOS_Progressed": 256860,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17446,6 +17458,11 @@
       "Time": "2023-10-02T18:05:43.6054926+00:00",
       "NumProgressed": 256859,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T19:04:40.8008655+00:00",
+      "NumProgressed": 256860,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17505,7 +17522,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79626
+      "UsersEstimate": 79627
     },
     {
       "ID": "BackHomeNTimes",
@@ -17904,16 +17921,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256859,
+      "Progressed": 256860,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-25T11:59:20.3104585+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:05:43.6054917+00:00",
+  "LastChanged": "2023-10-02T19:02:21.2236781+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:04:40.800865+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.0363814+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:02:36.3285463+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:05:43.6056554+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:02:21.2236786+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:40.8010158+00:00"
 }

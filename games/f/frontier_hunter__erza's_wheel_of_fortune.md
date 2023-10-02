@@ -28,7 +28,7 @@
 | Squeaky Clean | 34.00% | ~33 |
 | Furious Scorpion Killer | 33.00% | ~32 |
 | Master Artificer | 32.00% | ~31 |
-| Kind Adventurer | 29.00% | ~28 |
+| Kind Adventurer | 30.00% | ~29 |
 | Mermaid Killer | 27.00% | ~26 |
 | Cave Master | 26.00% | ~25 |
 | Face Slapper | 26.00% | ~25 |

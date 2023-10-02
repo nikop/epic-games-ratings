@@ -13,12 +13,12 @@ Rating: 4.76 (Ranked 118)
 | The Defender of Dragons | 11.00% | ~32,750 |
 | Loom for Improvement | 11.00% | ~32,750 |
 | A Talent for Spending | 11.00% | ~32,750 |
-| Grappling with a Graphorn | 10.00% | ~29,772 |
-| The One Who Mastered Memories | 10.00% | ~29,772 |
-| The Hallowed Hero | 10.00% | ~29,772 |
-| The Hero of Hogwarts | 10.00% | ~29,772 |
-| Challenge Accepted | 10.00% | ~29,772 |
-| Coasting Along | 10.00% | ~29,772 |
+| Grappling with a Graphorn | 10.00% | ~29,773 |
+| The One Who Mastered Memories | 10.00% | ~29,773 |
+| The Hallowed Hero | 10.00% | ~29,773 |
+| The Hero of Hogwarts | 10.00% | ~29,773 |
+| Challenge Accepted | 10.00% | ~29,773 |
+| Coasting Along | 10.00% | ~29,773 |
 | Followed the Butterflies | 9.00% | ~26,795 |
 | Rising From the Ashes | 9.00% | ~26,795 |
 | The Avenging Gazelle | 8.00% | ~23,818 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 118)
 | Flight the Good Flight | 8.00% | ~23,818 |
 | The Spell Master | 8.00% | ~23,818 |
 | Beast Friends | 7.00% | ~20,841 |
-| The Seeker of Knowledge | 6.00% | ~17,863 |
-| The Root of the Problem | 6.00% | ~17,863 |
-| Third Time's a Charm | 6.00% | ~17,863 |
-| Raising Expectations | 6.00% | ~17,863 |
+| The Seeker of Knowledge | 6.00% | ~17,864 |
+| The Root of the Problem | 6.00% | ~17,864 |
+| Third Time's a Charm | 6.00% | ~17,864 |
+| Raising Expectations | 6.00% | ~17,864 |
 | The Ends Petrify the Means | 5.00% | ~14,886 |
 | The Toast of the Town | 4.00% | ~11,909 |
 | Going Through the Potions | 4.00% | ~11,909 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 118)
 | Put Down Roots | 3.00% | ~8,932 |
 | The Auror's Apprentice | 3.00% | ~8,932 |
 | Floo Around the World | 3.00% | ~8,932 |
-| The Good Samaritan | 2.00% | ~5,954 |
-| Rise to the Challenges | 2.00% | ~5,954 |
-| Finishing Touches | 2.00% | ~5,954 |
+| The Good Samaritan | 2.00% | ~5,955 |
+| Rise to the Challenges | 2.00% | ~5,955 |
+| Finishing Touches | 2.00% | ~5,955 |
 | Savvy Spender | 1.00% | ~2,977 |
 | Merlin's Beard! | 1.00% | ~2,977 |
 | Demiguise Dread | 1.00% | ~2,977 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,724 (Ranked 46)  
+Progressed: 297,726 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,16 +216,16 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-29 | 297,529 | 479 |
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
-| 2023-10-02 | 297,724 | 479 |
+| 2023-10-02 | 297,726 | 479 |
 ## Awards
 Max (Character Customization): 23,221  (Ranked 17)  
-Sum: 44,862 (Ranked 31)  
+Sum: 44,867 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,221 |
 | This game has Great Boss Battles | 11,519 |
-| This game is Great for Beginners | 1,124 |
+| This game is Great for Beginners | 1,129 |
 | This game has Amazing Storytelling | 1,100 |
 | This game has Diverse Characters | 1,086 |
 | This game is Relaxing | 1,081 |
@@ -430,4 +430,4 @@ Diff (max vs sum): -14
 | 2023-09-29 | 4.76 | 23,132 | 44,612 |
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
-| 2023-10-02 | 4.76 | 23,221 | 44,862 |
+| 2023-10-02 | 4.76 | 23,221 | 44,867 |

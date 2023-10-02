@@ -6,26 +6,26 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 37.00% | ~2,263 |
-| It's a good start | 10.00% | ~612 |
-| Bonjour! | 7.00% | ~428 |
-| The Assistant | 6.00% | ~367 |
-| Quack | 6.00% | ~367 |
+| Bye Bye | 37.00% | ~2,267 |
+| It's a good start | 10.00% | ~613 |
+| Bonjour! | 7.00% | ~429 |
+| The Assistant | 6.00% | ~368 |
+| Quack | 6.00% | ~368 |
 | Ostinata | 5.00% | ~306 |
 | The Blue Marl | 5.00% | ~306 |
 | A long journey | 4.00% | ~245 |
 | Better than nothing? | 4.00% | ~245 |
-| Big Money | 3.00% | ~183 |
-| Keep the doctor away | 3.00% | ~183 |
-| Surprise of Langhe | 3.00% | ~183 |
-| Famous | 3.00% | ~183 |
-| What is that? A castle? | 2.00% | ~122 |
-| A lot of space | 2.00% | ~122 |
-| A big garage | 2.00% | ~122 |
-| Millionaire | 2.00% | ~122 |
-| Exotic | 2.00% | ~122 |
-| Welcome to the club | 2.00% | ~122 |
-| Very Important Winemaker | 2.00% | ~122 |
+| Big Money | 3.00% | ~184 |
+| Keep the doctor away | 3.00% | ~184 |
+| Surprise of Langhe | 3.00% | ~184 |
+| Famous | 3.00% | ~184 |
+| What is that? A castle? | 2.00% | ~123 |
+| A lot of space | 2.00% | ~123 |
+| A big garage | 2.00% | ~123 |
+| Millionaire | 2.00% | ~123 |
+| Exotic | 2.00% | ~123 |
+| Welcome to the club | 2.00% | ~123 |
+| Very Important Winemaker | 2.00% | ~123 |
 | Pastry Chef | 1.00% | ~61 |
 | King of Langhe | 1.00% | ~61 |
 | Gem of Monferrato | 1.00% | ~61 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~12 |
 | Master Winemaker | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,115 (Ranked 160)  
+Progressed: 6,128 (Ranked 160)  
 Completed: 7 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 7 (0.11%) (Ranked 239)
 | 2023-09-29 | 5,597 | 7 |
 | 2023-09-30 | 5,795 | 7 |
 | 2023-10-01 | 5,991 | 7 |
-| 2023-10-02 | 6,115 | 7 |
+| 2023-10-02 | 6,128 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 275)  
 Sum: 1,590 (Ranked 219)  

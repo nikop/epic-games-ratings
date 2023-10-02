@@ -1693,9 +1693,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 205615,
+  "EOS_Progressed": 205620,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20383,6 +20383,11 @@
       "Time": "2023-10-02T18:05:25.4556198+00:00",
       "NumProgressed": 205615,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-02T19:04:27.8043164+00:00",
+      "NumProgressed": 205620,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 44,
@@ -20434,7 +20439,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16450
     },
     {
       "ID": "FiveShadows",
@@ -20562,7 +20567,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "Okkoto",
@@ -20610,7 +20615,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16450
     },
     {
       "ID": "Rollin",
@@ -20618,7 +20623,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16450
     },
     {
       "ID": "StillRollin",
@@ -20634,7 +20639,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "StonedOx",
@@ -20650,7 +20655,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16449
+      "UsersEstimate": 16450
     },
     {
       "ID": "TheCave",
@@ -20674,7 +20679,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "Thorough",
@@ -20745,15 +20750,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 205615,
+      "Progressed": 205620,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-01T19:00:51.6484681+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:05:25.4556193+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:04:27.8043159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:00:47.0760259+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:05:25.4557859+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:59:28.1439805+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:27.8044681+00:00"
 }

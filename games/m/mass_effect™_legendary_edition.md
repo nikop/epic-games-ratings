@@ -20,9 +20,9 @@
 | Charismatic | 55.00% | ~292 |
 | Soldier | 54.00% | ~287 |
 | Asari Ally | 52.00% | ~276 |
+| Soldier Ally | 51.00% | ~271 |
 | Principled | 51.00% | ~271 |
 | Medal of Exploration III | 50.00% | ~266 |
-| Soldier Ally | 50.00% | ~266 |
 | Colonial Savior | 49.00% | ~260 |
 | Paramour I | 45.00% | ~239 |
 | Sentinel Ally | 45.00% | ~239 |
@@ -95,8 +95,8 @@
 | Fact Finder | 18.00% | ~96 |
 | Problem Solver | 18.00% | ~96 |
 | Under Pressure | 17.00% | ~90 |
+| Hard Target | 17.00% | ~90 |
 | Last Resort | 16.00% | ~85 |
-| Hard Target | 16.00% | ~85 |
 | Saboteur | 16.00% | ~85 |
 | Throw Mastery | 15.00% | ~80 |
 | Last Witness | 15.00% | ~80 |

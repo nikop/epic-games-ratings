@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,542 |
 | The Italian Job | 21.00% | ~1,472 |
 | Insubordination | 20.00% | ~1,402 |
-| Ragazzi del '99 | 18.00% | ~1,261 |
+| Ragazzi del '99 | 19.00% | ~1,332 |
 | The Lion of the Isonzo | 18.00% | ~1,261 |
 | Luigi Cadorna | 15.00% | ~1,051 |
 | Dirty Dozen | 14.00% | ~981 |
@@ -214,8 +214,8 @@ Completed: 8 (0.11%) (Ranked 239)
 | 2023-10-02 | 7,008 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 448)  
-Sum: 274 (Ranked 356)  
-Diff (max vs sum): 92  
+Sum: 274 (Ranked 357)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

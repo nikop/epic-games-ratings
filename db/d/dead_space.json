@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 714,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2093,9 +2093,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_12",
@@ -2117,9 +2117,9 @@
       "ID": "achievement_14",
       "SetID": "222fo9l",
       "Name": "Whole Again",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_15",
@@ -2181,9 +2181,9 @@
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_22",
@@ -2462,8 +2462,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:07:31.6695751+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:05:56.4977932+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:58:22.6060326+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:07:31.6696481+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:54.1236416+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:05:56.4978449+00:00"
 }

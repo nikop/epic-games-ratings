@@ -2,13 +2,13 @@
   "ID": "17a1f8585f9246808597b30780aaf4fb",
   "Name": "Crysis Remastered",
   "ProductSlug": "crysis-remastered",
-  "Ranking_Rating": 699,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-18T07:00:00+00:00",
     "PcReleaseDate": "2020-09-18T07:00:00+00:00",
@@ -780,6 +780,6 @@
   "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
   "LastChanged": "2023-09-21T23:57:32.3915568+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:43.8318616+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:58:12.4760319+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:05:49.8100485+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:47.9655792+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:04:45.0934532+00:00"
 }

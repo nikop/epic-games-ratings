@@ -2649,9 +2649,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 534512,
+  "EOS_Progressed": 534515,
   "EOS_Completed": 1560,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -20709,6 +20709,11 @@
       "Time": "2023-10-02T18:08:02.237809+00:00",
       "NumProgressed": 534512,
       "NumCompleted": 1560
+    },
+    {
+      "Time": "2023-10-02T19:06:18.144256+00:00",
+      "NumProgressed": 534515,
+      "NumCompleted": 1560
     }
   ],
   "TotalAchievements": 37,
@@ -20736,7 +20741,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165699
+      "UsersEstimate": 165700
     },
     {
       "ID": "DEVOTED",
@@ -20776,7 +20781,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 443645
+      "UsersEstimate": 443647
     },
     {
       "ID": "HONED",
@@ -20784,7 +20789,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21380
+      "UsersEstimate": 21381
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -20792,7 +20797,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21380
+      "UsersEstimate": 21381
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -20832,7 +20837,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213805
+      "UsersEstimate": 213806
     },
     {
       "ID": "THE_CASTLE",
@@ -20840,7 +20845,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58796
+      "UsersEstimate": 58797
     },
     {
       "ID": "THE_CAVE",
@@ -20864,7 +20869,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21380
+      "UsersEstimate": 21381
     },
     {
       "ID": "THE_DOME",
@@ -20896,7 +20901,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96212
+      "UsersEstimate": 96213
     },
     {
       "ID": "THE_KEEP",
@@ -20928,7 +20933,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21380
+      "UsersEstimate": 21381
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -20976,7 +20981,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342088
+      "UsersEstimate": 342090
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -21015,15 +21020,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 534512,
+      "Progressed": 534515,
       "Completed": 1560
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-30T17:59:46.6304287+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:08:02.2378087+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:06:18.1442555+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:36.5247912+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:01:41.168678+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:08:02.2379646+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:00:04.437034+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:06:18.1443761+00:00"
 }

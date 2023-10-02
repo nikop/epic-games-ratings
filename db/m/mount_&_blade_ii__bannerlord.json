@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7555,10 +7555,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14685,
       "NumberOfAwardsMax": 7170
+    },
+    {
+      "Time": "2023-10-02T18:59:17.1569658+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14687,
+      "NumberOfAwardsMax": 7170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14685,
+  "NumberOfAwards": 14687,
   "NumberOfAwardsMax": 7170,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7614,7 +7620,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 938
+      "Count": 940
     },
     {
       "Text": "This game is Relaxing",
@@ -7635,9 +7641,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62571,
+  "EOS_Progressed": 62573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25205,6 +25211,11 @@
       "Time": "2023-10-02T18:08:04.0834839+00:00",
       "NumProgressed": 62571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T19:06:19.5468787+00:00",
+      "NumProgressed": 62573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25232,7 +25243,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "Best served cold",
@@ -25376,7 +25387,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "I can do it",
@@ -25384,7 +25395,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10011
+      "UsersEstimate": 10012
     },
     {
       "ID": "I spit on your grave",
@@ -25392,7 +25403,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "Jack of All Trades",
@@ -25440,7 +25451,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20648
+      "UsersEstimate": 20649
     },
     {
       "ID": "Lawbringer",
@@ -25456,7 +25467,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "Long live the Empire",
@@ -25592,7 +25603,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "Undercover",
@@ -25623,15 +25634,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62571,
+      "Progressed": 62573,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-02T17:00:56.7710871+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:08:04.0834833+00:00",
+  "LastChanged": "2023-10-02T18:59:17.1569655+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:06:19.5468781+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:00:31.6550549+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:08:04.0836752+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:59:17.1569665+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:06:19.5470547+00:00"
 }

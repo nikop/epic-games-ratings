@@ -6,13 +6,14 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 63.00% | ~5 |
 | Sea Legs | 50.00% | ~4 |
+| Hoist the Sails | 25.00% | ~2 |
 | Frogs Legs | 13.00% | ~1 |
 | Socialite | 13.00% | ~1 |
 | Who Even Needs Keys | 13.00% | ~1 |
 | Mad Scientist | 13.00% | ~1 |
 | Safe Investment | 13.00% | ~1 |
 | Bank of Me | 13.00% | ~1 |
-| Hoist the Sails | 13.00% | ~1 |
+| What?! | 13.00% | ~1 |
 | Secure the Sheets | 13.00% | ~1 |
 | Replace the Rudder | 13.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
@@ -29,7 +30,6 @@
 | No Evil | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
-| What?! | 0.00% | ~0 |
 | Return to sender | 0.00% | ~0 |
 | Fantastic Fungi | 0.00% | ~0 |
 | Vandal | 0.00% | ~0 |

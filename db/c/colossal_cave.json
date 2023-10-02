@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "03-BirdmanOfTheCaves",
@@ -333,8 +333,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:03:16.6610506+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:03:04.8447306+00:00",
   "LastUpdate_AppInfo": "2023-09-30T08:57:00.62641+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:58:17.5041128+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:03:16.6610687+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:50.8968465+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:03:04.8447496+00:00"
 }

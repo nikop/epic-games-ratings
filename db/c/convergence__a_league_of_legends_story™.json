@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2577,9 +2577,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 189
     },
     {
       "ID": "ParryRepeated1",
@@ -2641,9 +2641,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 171
     },
     {
       "ID": "SkillCompletion1",
@@ -2729,9 +2729,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 117
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2762,8 +2762,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-10-02T18:08:44.6683774+00:00",
+  "LastChanged_Achievements": "2023-10-02T19:08:07.1029319+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:11.1988188+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:57:24.1898701+00:00",
-  "LastUpdate_Achievements": "2023-10-02T18:08:44.6684326+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:57:14.760737+00:00",
+  "LastUpdate_Achievements": "2023-10-02T19:08:07.1030214+00:00"
 }
