@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8418,9 +8418,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297721,
+  "EOS_Progressed": 297724,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26248,6 +26248,11 @@
       "Time": "2023-10-02T17:05:55.9127079+00:00",
       "NumProgressed": 297721,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-02T18:05:18.3715654+00:00",
+      "NumProgressed": 297724,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26259,7 +26264,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44658
+      "UsersEstimate": 44659
     },
     {
       "ID": "PFA_10",
@@ -26315,7 +26320,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32749
+      "UsersEstimate": 32750
     },
     {
       "ID": "PFA_17",
@@ -26323,7 +26328,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20840
+      "UsersEstimate": 20841
     },
     {
       "ID": "PFA_18",
@@ -26387,7 +26392,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32749
+      "UsersEstimate": 32750
     },
     {
       "ID": "PFA_25",
@@ -26443,7 +26448,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32749
+      "UsersEstimate": 32750
     },
     {
       "ID": "PFA_31",
@@ -26618,7 +26623,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297721,
+      "Progressed": 297724,
       "Completed": 479
     }
   ],
@@ -26626,8 +26631,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-02T17:00:17.7008809+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:05:55.9127074+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:05:18.3715649+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:00:17.7008821+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:05:55.9128971+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:59:52.1653741+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:05:18.3717584+00:00"
 }

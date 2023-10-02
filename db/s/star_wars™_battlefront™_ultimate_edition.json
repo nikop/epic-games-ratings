@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -931,6 +931,11 @@
       "Time": "2023-10-02T17:05:02.6907151+00:00",
       "NumProgressed": 388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-02T18:04:25.6389258+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1085,9 +1090,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_27",
@@ -1133,17 +1138,17 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_33",
@@ -1167,7 +1172,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_36",
@@ -1183,7 +1188,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_38",
@@ -1191,7 +1196,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_39",
@@ -1213,9 +1218,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_41",
@@ -1446,13 +1451,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 1
     }
   ],
@@ -1460,8 +1465,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:05:02.6907144+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:04:25.6389252+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:01:12.8849644+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:05:02.6909294+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:00:48.7178866+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:04:25.638998+00:00"
 }

@@ -80,10 +80,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68196,
-  "EOS_Completed": 2500,
-  "EOS_NewPlayers": 21285,
-  "EOS_NewCompleters": 768,
+  "EOS_Progressed": 68355,
+  "EOS_Completed": 2507,
+  "EOS_NewPlayers": 21291,
+  "EOS_NewCompleters": 771,
   "EOS_Completed_Percentage": 3.67,
   "EosHistory": [
     {
@@ -2245,6 +2245,11 @@
       "Time": "2023-10-02T17:05:26.4371079+00:00",
       "NumProgressed": 68196,
       "NumCompleted": 2500
+    },
+    {
+      "Time": "2023-10-02T18:04:49.0390576+00:00",
+      "NumProgressed": 68355,
+      "NumCompleted": 2507
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -2257,7 +2262,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 40918
+      "UsersEstimate": 41013
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -2265,7 +2270,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8886
     },
     {
       "ID": "GoldPact",
@@ -2273,7 +2278,7 @@
       "Name": "Gold Pact",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 10229
+      "UsersEstimate": 10253
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -2281,7 +2286,7 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3418
     },
     {
       "ID": "PelagicPerils",
@@ -2289,15 +2294,15 @@
       "Name": "Pelagic Perils",
       "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 34098
+      "UsersEstimate": 34178
     },
     {
       "ID": "ShipDip",
       "SetID": "bcl47p5",
       "Name": "Ship Dip!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 31370
+      "UsersEstimate": 30760
     },
     {
       "ID": "TheArtOfParley",
@@ -2305,7 +2310,7 @@
       "Name": "The Art of Parley",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 48419
+      "UsersEstimate": 48532
     },
     {
       "ID": "TheGoldenRatio",
@@ -2313,7 +2318,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6836
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -2321,15 +2326,15 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 37508
+      "UsersEstimate": 37595
     },
     {
       "ID": "WeCanDoBetter",
       "SetID": "bcl47p5",
       "Name": "We Can Do Better!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 49783
+      "UsersEstimate": 50583
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -2337,7 +2342,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 51147
+      "UsersEstimate": 51266
     },
     {
       "ID": "WelcomeAboard",
@@ -2345,23 +2350,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 51147
+      "UsersEstimate": 51266
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 68196,
-      "Completed": 2500
+      "Progressed": 68355,
+      "Completed": 2507
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-09-30T19:58:13.8238823+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:05:26.4371074+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:04:49.0390571+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:19.4924032+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:00:43.4634806+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:05:26.4371377+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:00:16.1756493+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:04:49.039082+00:00"
 }

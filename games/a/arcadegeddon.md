@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 90.00% | ~8,243 |
-| Photogenic | 86.00% | ~7,877 |
-| Surge Gauntlet Jockey | 83.00% | ~7,602 |
-| Plug It In | 82.00% | ~7,510 |
-| Adventure Time | 78.00% | ~7,144 |
-| Playing With Power | 76.00% | ~6,961 |
-| Coup d'Etat | 58.00% | ~5,312 |
-| You're Fired | 56.00% | ~5,129 |
-| Get Furious | 55.00% | ~5,037 |
-| Hacks In Stacks | 55.00% | ~5,037 |
+| Let's Get This Party Started | 90.00% | ~8,244 |
+| Photogenic | 86.00% | ~7,878 |
+| Surge Gauntlet Jockey | 83.00% | ~7,603 |
+| Plug It In | 82.00% | ~7,511 |
+| Adventure Time | 78.00% | ~7,145 |
+| Playing With Power | 76.00% | ~6,962 |
+| Coup d'Etat | 58.00% | ~5,313 |
+| You're Fired | 56.00% | ~5,130 |
+| Get Furious | 55.00% | ~5,038 |
+| Hacks In Stacks | 55.00% | ~5,038 |
 | Gunplay And Cosplay | 54.00% | ~4,946 |
-| Meching Enemies | 48.00% | ~4,396 |
+| Meching Enemies | 48.00% | ~4,397 |
 | Ticket Toddler | 44.00% | ~4,030 |
 | Booty Bashing | 39.00% | ~3,572 |
 | Field Medic | 37.00% | ~3,389 |
 | Here Comes a New Challenger | 37.00% | ~3,389 |
-| Rapid Response | 33.00% | ~3,022 |
+| Rapid Response | 33.00% | ~3,023 |
 | Surge Ahead | 30.00% | ~2,748 |
 | The Full Monty | 30.00% | ~2,748 |
 | Guardian Angel | 28.00% | ~2,565 |
@@ -33,7 +33,7 @@ Number of Ratings: 801  (23.09.2022)
 | The Final Blow | 14.00% | ~1,282 |
 | To Be Continued | 13.00% | ~1,191 |
 | Light My Fire | 12.00% | ~1,099 |
-| Seasoned Adventurer | 11.00% | ~1,007 |
+| Seasoned Adventurer | 11.00% | ~1,008 |
 | 1.21 Gigawatts | 10.00% | ~916 |
 | Get In The Ring! | 9.00% | ~824 |
 | This Is My Boomstick! | 9.00% | ~824 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,159 (Ranked 146)  
+Progressed: 9,160 (Ranked 146)  
 Completed: 1 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 1 (0.01%) (Ranked 287)
 | 2023-09-29 | 9,130 | 1 |
 | 2023-09-30 | 9,138 | 1 |
 | 2023-10-01 | 9,150 | 1 |
-| 2023-10-02 | 9,159 | 1 |
+| 2023-10-02 | 9,160 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 393)  
 Sum: 462 (Ranked 315)  

@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,135 |
-| Jeef Skeejj | 44.00% | ~206,090 |
-| Careful planning | 39.00% | ~182,671 |
-| Second Coming | 34.00% | ~159,252 |
-| Jeef Skagg | 30.00% | ~140,516 |
-| Mother | 25.00% | ~117,097 |
-| In space, no one can hear you scream | 24.00% | ~112,413 |
-| Chapter I: Echoes | 22.00% | ~103,045 |
-| Excelsior Rule | 22.00% | ~103,045 |
-| Things persisted in not being what they seemed | 20.00% | ~93,677 |
+| The Shutdown | 66.00% | ~309,137 |
+| Jeef Skeejj | 44.00% | ~206,092 |
+| Careful planning | 39.00% | ~182,672 |
+| Second Coming | 34.00% | ~159,253 |
+| Jeef Skagg | 30.00% | ~140,517 |
+| Mother | 25.00% | ~117,098 |
+| In space, no one can hear you scream | 24.00% | ~112,414 |
+| Chapter I: Echoes | 22.00% | ~103,046 |
+| Excelsior Rule | 22.00% | ~103,046 |
+| Things persisted in not being what they seemed | 20.00% | ~93,678 |
 | Knightmare Frames | 15.00% | ~70,258 |
 | May His passing cleanse the world | 15.00% | ~70,258 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,258 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,103 |
 | The Crazy Repairman | 6.00% | ~28,103 |
 | The Weasel | 6.00% | ~28,103 |
-| Kill the Doctor | 5.00% | ~23,419 |
-| Forsaken | 5.00% | ~23,419 |
-| Mercy | 5.00% | ~23,419 |
-| Jericho Rule | 5.00% | ~23,419 |
+| Kill the Doctor | 5.00% | ~23,420 |
+| Forsaken | 5.00% | ~23,420 |
+| Mercy | 5.00% | ~23,420 |
+| Jericho Rule | 5.00% | ~23,420 |
 | Geno Rule | 3.00% | ~14,052 |
 | Hammer Rule | 3.00% | ~14,052 |
 | Survivor | 2.00% | ~9,368 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,684 |
 | A Frozen Lady | 1.00% | ~4,684 |
 | Void Rule | 1.00% | ~4,684 |
-| Excelsior Mastery | 0.90% | ~4,215 |
+| Excelsior Mastery | 0.90% | ~4,216 |
 | The greatest admiral of all time | 0.50% | ~2,342 |
 | Hand of the Emperor | 0.40% | ~49 |
 | Soldiers of Fortune | 0.30% | ~37 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~12 |
 | Kronos Rule | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,387 (Ranked 37)  
+Progressed: 468,390 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 18 (0.00%) (Ranked 304)
 | 2023-09-29 | 468,205 | 18 |
 | 2023-09-30 | 468,277 | 18 |
 | 2023-10-01 | 468,348 | 18 |
-| 2023-10-02 | 468,387 | 18 |
+| 2023-10-02 | 468,390 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 267)  
 Sum: 240 (Ranked 364)  

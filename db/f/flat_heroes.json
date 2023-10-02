@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -856,6 +856,11 @@
       "Time": "2023-10-02T16:06:15.5290987+00:00",
       "NumProgressed": 556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T18:07:47.0170959+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -883,15 +888,15 @@
       "Name": "Fireball",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "DashDashDash",
       "SetID": "d9ekhim",
       "Name": "Be water, my friend",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 307
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1019,7 +1024,7 @@
       "Name": "Air Slash",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "OhNo",
@@ -1147,7 +1152,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 402
     },
     {
       "ID": "World2Boss",
@@ -1155,7 +1160,7 @@
       "Name": "Snake Eyes",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "World3Boss",
@@ -1163,7 +1168,7 @@
       "Name": "The King of Flat",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "World4Boss",
@@ -1171,7 +1176,7 @@
       "Name": "Hit That Ball",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "World5Boss",
@@ -1179,7 +1184,7 @@
       "Name": "Eat That Apple",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "World6Boss",
@@ -1218,7 +1223,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 558,
       "Completed": 0
     }
   ],
@@ -1226,8 +1231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:08:26.0949096+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:07:47.0170952+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:00:13.6545739+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:08:26.0949593+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:59:48.7727558+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:07:47.0171317+00:00"
 }

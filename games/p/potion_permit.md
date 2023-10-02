@@ -5,14 +5,14 @@ Rating: 3.83 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,584 |
-| The First Step | 89.00% | ~1,438 |
-| Moonbury Traveller | 65.00% | ~1,050 |
-| Rookie Chemist | 63.00% | ~1,018 |
-| Great Doctor | 52.00% | ~840 |
+| Welcome to Moonbury | 98.00% | ~1,585 |
+| The First Step | 89.00% | ~1,439 |
+| Moonbury Traveller | 65.00% | ~1,051 |
+| Rookie Chemist | 63.00% | ~1,019 |
+| Great Doctor | 52.00% | ~841 |
 | Dog Whisperer | 50.00% | ~808 |
 | Friendly | 48.00% | ~776 |
-| The Capitalist | 45.00% | ~727 |
+| The Capitalist | 45.00% | ~728 |
 | K.O.! | 44.00% | ~711 |
 | Intermediate Chemist | 41.00% | ~663 |
 | Decorative Mind | 32.00% | ~517 |
@@ -20,7 +20,7 @@ Rating: 3.83 (Ranked 990)
 | Catch of the Day | 26.00% | ~420 |
 | Kind-hearted | 25.00% | ~404 |
 | Amateur Chef | 22.00% | ~356 |
-| Fishing Guru | 21.00% | ~339 |
+| Fishing Guru | 21.00% | ~340 |
 | Spark of Love | 18.00% | ~291 |
 | Community Helper | 17.00% | ~275 |
 | Expert Chemist | 14.00% | ~226 |
@@ -30,8 +30,8 @@ Rating: 3.83 (Ranked 990)
 | Line Cook | 12.00% | ~194 |
 | Production Sorter | 12.00% | ~194 |
 | Good Samaritan | 10.00% | ~162 |
-| Acrobatic Adventurer | 9.00% | ~145 |
-| Animal Exterminator | 9.00% | ~145 |
+| Acrobatic Adventurer | 9.00% | ~146 |
+| Animal Exterminator | 9.00% | ~146 |
 | Adolescent Love | 6.00% | ~97 |
 | Mail Carrier | 6.00% | ~97 |
 | Plantation Exterminator | 5.00% | ~81 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 990)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,616 (Ranked 211)  
+Progressed: 1,617 (Ranked 211)  
 Completed: 9 (0.56%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 9 (0.56%) (Ranked 162)
 | 2023-09-28 | 1,611 | 9 |
 | 2023-09-30 | 1,613 | 9 |
 | 2023-10-01 | 1,615 | 9 |
-| 2023-10-02 | 1,616 | 9 |
+| 2023-10-02 | 1,617 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 385)  
 Sum: 69 (Ranked 446)  

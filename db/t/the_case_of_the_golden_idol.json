@@ -872,9 +872,9 @@
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "11",
@@ -943,8 +943,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:07:29.5419147+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:06:51.2509074+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.2658962+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:01:52.5334682+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:07:29.5419322+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:01:29.1870794+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:06:51.2509277+00:00"
 }

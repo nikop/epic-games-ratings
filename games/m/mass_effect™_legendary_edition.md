@@ -18,7 +18,7 @@
 | Medal of Honor | 56.00% | ~297 |
 | Meritorious Service Medal | 56.00% | ~297 |
 | Charismatic | 55.00% | ~292 |
-| Soldier | 53.00% | ~281 |
+| Soldier | 54.00% | ~287 |
 | Asari Ally | 52.00% | ~276 |
 | Principled | 51.00% | ~271 |
 | Medal of Exploration III | 50.00% | ~266 |
@@ -31,10 +31,10 @@
 | Merciless | 43.00% | ~228 |
 | Head Hunter | 41.00% | ~218 |
 | Operative | 40.00% | ~212 |
+| Scholar | 40.00% | ~212 |
 | Veteran | 39.00% | ~207 |
 | Missing in Action | 39.00% | ~207 |
 | Very Elusive | 39.00% | ~207 |
-| Scholar | 39.00% | ~207 |
 | Power Full | 38.00% | ~202 |
 | Completionist | 36.00% | ~191 |
 | The Professor | 36.00% | ~191 |
@@ -44,8 +44,8 @@
 | Colony Defense | 34.00% | ~181 |
 | The Krogan | 34.00% | ~181 |
 | Galactic Explorer | 34.00% | ~181 |
+| Ghost Ship | 32.00% | ~170 |
 | Broke, Blind, and Bedlam | 32.00% | ~170 |
-| Ghost Ship | 31.00% | ~165 |
 | The Justicar | 31.00% | ~165 |
 | The Quarian | 31.00% | ~165 |
 | The Assassin | 30.00% | ~159 |
@@ -53,13 +53,13 @@
 | The Cure | 30.00% | ~159 |
 | The Prodigal | 30.00% | ~159 |
 | A Personal Touch | 29.00% | ~154 |
+| Catharsis | 29.00% | ~154 |
 | Ghost of the Father | 29.00% | ~154 |
 | Big Game Hunter | 29.00% | ~154 |
 | Agent | 29.00% | ~154 |
 | Revenge! | 29.00% | ~154 |
 | Heart of Darkness | 29.00% | ~154 |
 | Shopaholic | 29.00% | ~154 |
-| Catharsis | 28.00% | ~149 |
 | Fade Away | 28.00% | ~149 |
 | Driven | 28.00% | ~149 |
 | Focused | 27.00% | ~143 |
@@ -86,7 +86,7 @@
 | Paramour II | 20.00% | ~106 |
 | Tunnel Rat | 20.00% | ~106 |
 | Arbiter | 20.00% | ~106 |
-| Lost and Found | 19.00% | ~101 |
+| Lost and Found | 20.00% | ~106 |
 | Pyromaniac | 18.00% | ~96 |
 | Electronics Specialist | 18.00% | ~96 |
 | Sabotage Specialist | 18.00% | ~96 |

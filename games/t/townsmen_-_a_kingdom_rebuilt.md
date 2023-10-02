@@ -82,6 +82,7 @@ Number of Ratings: 37  (23.09.2022)
 | The wood shortage | 0.70% | ~30 |
 | Made my choice | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
+| I've been everywhere IV | 0.50% | ~22 |
 | I've been everywhere III | 0.50% | ~22 |
 | Governor-elect | 0.50% | ~22 |
 | Little place in the country | 0.50% | ~22 |
@@ -92,7 +93,6 @@ Number of Ratings: 37  (23.09.2022)
 | Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
-| I've been everywhere IV | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |

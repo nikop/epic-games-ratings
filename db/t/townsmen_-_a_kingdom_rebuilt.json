@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1795,9 +1795,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere IV",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ECONOMYCRISIS",
@@ -2155,8 +2155,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:06:27.3605979+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:05:49.2368745+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.839145+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:00:22.9403118+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:06:27.3607439+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:59:57.6370163+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:05:49.2370223+00:00"
 }

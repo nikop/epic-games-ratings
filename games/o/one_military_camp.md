@@ -29,13 +29,13 @@
 | Supersoldier | 4.00% | ~7 |
 | Tear Down the Wall! | 3.00% | ~5 |
 | Outdoor Decorator | 3.00% | ~5 |
+| Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
 | Economist | 2.00% | ~3 |
 | Crisis Committee | 2.00% | ~3 |
 | Vive le Résistance | 2.00% | ~3 |
 | No News is Good News | 2.00% | ~3 |
 | Snowman | 2.00% | ~3 |
-| Human Resources | 2.00% | ~3 |
 | Reconquest | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |

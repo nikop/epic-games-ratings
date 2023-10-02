@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1297,9 +1297,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_126",
@@ -1545,9 +1545,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_4",
@@ -1681,9 +1681,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_55",
@@ -1849,9 +1849,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_74",
@@ -2073,9 +2073,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
@@ -2093,8 +2093,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:04:27.926182+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:03:41.599214+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-02T16:59:19.5161605+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:04:27.9265999+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:58:54.7036186+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:03:41.5994063+00:00"
 }

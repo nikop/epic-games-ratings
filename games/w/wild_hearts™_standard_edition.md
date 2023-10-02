@@ -8,8 +8,8 @@
 | Hidden History | 83.00% | ~76 |
 | Budding Conjuror | 77.00% | ~71 |
 | Commencing of Quests | 74.00% | ~68 |
-| Charmed by the Hunt | 67.00% | ~62 |
-| Man-Machine Master | 66.00% | ~61 |
+| Charmed by the Hunt | 68.00% | ~63 |
+| Man-Machine Master | 67.00% | ~62 |
 | Mountain Splitter | 65.00% | ~60 |
 | Fusion Conjuror | 64.00% | ~59 |
 | Memory Rouser | 63.00% | ~58 |
@@ -35,9 +35,9 @@
 | Artful Assister | 30.00% | ~28 |
 | Left Arm Leverager | 28.00% | ~26 |
 | Unrivaled in Arms | 27.00% | ~25 |
+| Human Believer | 26.00% | ~24 |
 | Threaded Harmony | 26.00% | ~24 |
 | Volatile Vocation | 25.00% | ~23 |
-| Human Believer | 25.00% | ~23 |
 | Karakuri Minato | 25.00% | ~23 |
 | Style Seeker | 24.00% | ~22 |
 | Jack of All Trades | 24.00% | ~22 |

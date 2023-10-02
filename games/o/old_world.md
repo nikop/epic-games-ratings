@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,291 (Ranked 133)  
+Progressed: 14,295 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,291 | 5 |
+| 2023-10-02 | 14,295 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 265)  
 Sum: 1,826 (Ranked 207)  

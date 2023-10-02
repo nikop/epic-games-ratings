@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-09-27T09:09:29.3207539+00:00",
       "NumProgressed": 804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T18:08:18.5476649+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -605,7 +610,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 0
     }
   ],
@@ -613,8 +618,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:08:59.0956076+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:08:18.5476644+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:28.5976906+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:02:31.5986538+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:08:59.0956453+00:00"
+  "LastUpdate_Ratings": "2023-10-02T18:02:07.2729734+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:08:18.5476868+00:00"
 }

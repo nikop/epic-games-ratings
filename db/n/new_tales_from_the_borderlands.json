@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3657,
+  "EOS_Progressed": 3658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1589,6 +1589,11 @@
       "Time": "2023-10-01T08:06:39.6124807+00:00",
       "NumProgressed": 3657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T18:07:13.8771062+00:00",
+      "NumProgressed": 3658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1654,9 +1659,9 @@
       "ID": "FINISH_EPISODE_2",
       "SetID": "kakdpn",
       "Name": "Shard Snatchers",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 914
+      "UsersEstimate": 878
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1720,7 +1725,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1728,7 +1733,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1736,7 +1741,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1784,7 +1789,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1807,7 +1812,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3657,
+      "Progressed": 3658,
       "Completed": 0
     }
   ],
@@ -1815,8 +1820,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-02T17:07:52.5195705+00:00",
+  "LastChanged_Achievements": "2023-10-02T18:07:13.8771056+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.506669+00:00",
-  "LastUpdate_Ratings": "2023-10-02T17:00:20.773163+00:00",
-  "LastUpdate_Achievements": "2023-10-02T17:07:52.5195981+00:00"
+  "LastUpdate_Ratings": "2023-10-02T17:59:55.9853839+00:00",
+  "LastUpdate_Achievements": "2023-10-02T18:07:13.8771382+00:00"
 }
