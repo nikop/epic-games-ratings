@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 325,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -727,9 +727,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_eou1",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:05:21.4298692+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:06:12.9492029+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:43.7727483+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:05:21.4298856+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:05.5396514+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:06:12.9492143+00:00"
 }

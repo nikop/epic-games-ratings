@@ -6,14 +6,14 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,346 |
+| Goofy's Investor | 70.00% | ~7,347 |
 | Photographer | 69.00% | ~7,242 |
-| Valley's Helper | 62.00% | ~6,507 |
-| Constructor | 51.00% | ~5,352 |
-| Renovator | 51.00% | ~5,352 |
+| Valley's Helper | 62.00% | ~6,508 |
+| Constructor | 51.00% | ~5,353 |
+| Renovator | 51.00% | ~5,353 |
 | Bestest Friend | 47.00% | ~4,933 |
 | Banker | 39.00% | ~4,093 |
-| Gardener | 31.00% | ~3,253 |
+| Gardener | 31.00% | ~3,254 |
 | Generous | 24.00% | ~2,519 |
 | Chef Cook | 17.00% | ~1,784 |
 | Miner | 9.00% | ~945 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~525 |
 | Chit Chatter | 3.00% | ~315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,495 (Ranked 141)  
+Progressed: 10,496 (Ranked 141)  
 Completed: 246 (2.34%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 246 (2.34%) (Ranked 98)
 | 2023-09-29 | 10,410 | 242 |
 | 2023-09-30 | 10,441 | 243 |
 | 2023-10-01 | 10,472 | 245 |
-| 2023-10-02 | 10,495 | 246 |
+| 2023-10-02 | 10,496 | 246 |
 ## Awards
 Max (Great for Beginners): 983  (Ranked 148)  
-Sum: 7,638 (Ranked 106)  
+Sum: 7,639 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): 42
 | This game has Amazing Characters | 803 |
 | This game has Amazing Storytelling | 767 |
 | This game is Extremely Fun | 753 |
-| This game has Quickly Understood Controls | 745 |
+| This game has Quickly Understood Controls | 746 |
 | This game has a Creative Community | 635 |
 | This game has Easy Combat | 507 |
 | This game has Obsessive Gameplay | 415 |
@@ -362,4 +362,4 @@ Diff (max vs sum): 42
 | 2023-09-29 | 4.76 | - | 977 | 7,624 |
 | 2023-09-30 | 4.76 | - | 977 | 7,631 |
 | 2023-10-01 | 4.76 | - | 981 | 7,636 |
-| 2023-10-02 | 4.76 | - | 983 | 7,638 |
+| 2023-10-02 | 4.76 | - | 983 | 7,639 |

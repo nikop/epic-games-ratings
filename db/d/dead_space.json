@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 714,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2077,9 +2077,9 @@
       "ID": "achievement_1",
       "SetID": "222fo9l",
       "Name": "Welcome Aboard",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_10",
@@ -2109,9 +2109,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_14",
@@ -2245,17 +2245,17 @@
       "ID": "achievement_29",
       "SetID": "222fo9l",
       "Name": "Legend Teller",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_30",
@@ -2293,9 +2293,9 @@
       "ID": "achievement_34",
       "SetID": "222fo9l",
       "Name": "Raise the Stakes",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 400
     },
     {
       "ID": "achievement_35",
@@ -2309,9 +2309,9 @@
       "ID": "achievement_36",
       "SetID": "222fo9l",
       "Name": "Backbreaker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_37",
@@ -2341,9 +2341,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_40",
@@ -2462,8 +2462,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:05:56.4977932+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:06:55.9197194+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:54.1236416+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:05:56.4978449+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:19.7848911+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:06:55.919759+00:00"
 }

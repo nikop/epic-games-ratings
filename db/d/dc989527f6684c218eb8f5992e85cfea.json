@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12123,
+  "EOS_Progressed": 12126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11081,6 +11081,11 @@
       "Time": "2023-10-02T18:03:43.0518503+00:00",
       "NumProgressed": 12123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T20:03:39.5506472+00:00",
+      "NumProgressed": 12126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11164,7 +11169,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5334
+      "UsersEstimate": 5335
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11180,7 +11185,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -11276,7 +11281,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -11284,21 +11289,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12123,
+      "Progressed": 12126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:03:23.11449+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:03:39.5506469+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.5456589+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:58:15.1517594+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:03:23.1145741+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:46.2905048+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:03:39.5507149+00:00"
 }

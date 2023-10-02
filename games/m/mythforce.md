@@ -6,12 +6,12 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 21.00% | ~767 |
+| Faceroll the Bones | 21.00% | ~768 |
 | Debuff Dogpile | 20.00% | ~731 |
 | Hit 'Em Where It Hurts | 20.00% | ~731 |
 | Perk Shard Punch Card | 20.00% | ~731 |
 | That'll Leave a Mark | 20.00% | ~731 |
-| Mushroom Madness! | 19.00% | ~694 |
+| Mushroom Madness! | 19.00% | ~695 |
 | First Strike | 16.00% | ~585 |
 | Spending Spree | 16.00% | ~585 |
 | Horder Better Faster Stronger | 15.00% | ~548 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~15 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,654 (Ranked 179)  
+Progressed: 3,656 (Ranked 179)  
 Completed: 2 (0.05%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.05%) (Ranked 263)
 | 2023-09-29 | 3,432 | 1 |
 | 2023-09-30 | 3,525 | 2 |
 | 2023-10-01 | 3,606 | 2 |
-| 2023-10-02 | 3,654 | 2 |
+| 2023-10-02 | 3,656 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 280 (Ranked 354)  

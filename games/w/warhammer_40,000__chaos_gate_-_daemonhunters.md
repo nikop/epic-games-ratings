@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 436)  
+Rating: 4.58 (Ranked 435)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,11 +29,11 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Exterminator | 0.90% | ~29 |
+| Only in Death | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
 | Long Distance Call | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |
 | Mind Like a Fortress | 0.80% | ~26 |
-| Only in Death | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
@@ -230,9 +230,9 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-10-01 | 3,249 | 0 |
 | 2023-10-02 | 3,250 | 0 |
 ## Awards
-Max (Character Customization): 220  (Ranked 267)  
+Max (Character Customization): 220  (Ranked 268)  
 Sum: 474 (Ranked 312)  
-Diff (max vs sum): -45  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 220 |

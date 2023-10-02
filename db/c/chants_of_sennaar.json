@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,10 +20,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 241,
-  "EOS_Completed": 16,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.64,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 7.05,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1134,6 +1134,11 @@
       "Time": "2023-10-02T18:03:40.0907529+00:00",
       "NumProgressed": 241,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-02T20:03:37.209565+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1199,9 +1204,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1215,17 +1220,17 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1247,9 +1252,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1271,9 +1276,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1295,9 +1300,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "PROGRESS_N1",
@@ -1345,13 +1350,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 241,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:03:21.0620882+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:03:37.2095645+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:00:03.6525906+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:03:21.0621134+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:00:55.4118792+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:03:37.2095854+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,690 |
-| Ready for Winter | 65.00% | ~2,301 |
-| Ready for Summer | 52.00% | ~1,841 |
+| Venture Outward | 76.00% | ~2,692 |
+| Ready for Winter | 65.00% | ~2,302 |
+| Ready for Summer | 52.00% | ~1,842 |
 | Cordon Bleu | 44.00% | ~1,558 |
-| Tapped! | 37.00% | ~1,310 |
+| Tapped! | 37.00% | ~1,311 |
 | Eureka | 32.00% | ~1,133 |
-| Scourge Slayer | 26.00% | ~920 |
+| Scourge Slayer | 26.00% | ~921 |
 | Science, Troglodyte! | 24.00% | ~850 |
-| Exceptional Skill | 23.00% | ~814 |
+| Exceptional Skill | 23.00% | ~815 |
 | Home Sweet Home | 22.00% | ~779 |
 | Encyclopedic! | 20.00% | ~708 |
 | The Power of Family | 17.00% | ~602 |
-| A Fortress Toppled! | 16.00% | ~566 |
-| Apex Predator | 16.00% | ~566 |
+| A Fortress Toppled! | 16.00% | ~567 |
+| Apex Predator | 16.00% | ~567 |
 | Strange amalgams | 12.00% | ~425 |
 | The Power of Faith | 12.00% | ~425 |
 | The Power of Freedom | 9.00% | ~319 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~248 |
 | Let ‘em eat magma! | 7.00% | ~248 |
 | The power of ambition | 7.00% | ~248 |
-| Blood and justice | 6.00% | ~212 |
-| Hold my Mead and Watch This | 6.00% | ~212 |
-| The stuff of legends. | 6.00% | ~212 |
+| Blood and justice | 6.00% | ~213 |
+| Hold my Mead and Watch This | 6.00% | ~213 |
+| The stuff of legends. | 6.00% | ~213 |
 | Ancestor's Pride | 4.00% | ~142 |
 | For All Aurai | 4.00% | ~142 |
 | Memory of a legend | 4.00% | ~142 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,540 (Ranked 181)  
+Progressed: 3,542 (Ranked 181)  
 Completed: 4 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 4 (0.11%) (Ranked 239)
 | 2023-09-29 | 3,530 | 4 |
 | 2023-09-30 | 3,535 | 4 |
 | 2023-10-01 | 3,538 | 4 |
-| 2023-10-02 | 3,540 | 4 |
+| 2023-10-02 | 3,542 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 450)  
 Sum: 244 (Ranked 363)  

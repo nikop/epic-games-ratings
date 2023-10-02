@@ -4,8 +4,8 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -196,9 +196,9 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "10-BridgeBuilder",
@@ -333,8 +333,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:03:04.8447306+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:03:17.5317217+00:00",
   "LastUpdate_AppInfo": "2023-09-30T08:57:00.62641+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:50.8968465+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:03:04.8447496+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:15.6329607+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:03:17.5317369+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2026,6 +2026,11 @@
       "Time": "2023-10-02T19:05:03.2373213+00:00",
       "NumProgressed": 847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T20:05:50.8400085+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2077,7 +2082,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2283,17 +2288,17 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 136
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 85
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2413,7 +2418,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2475,9 +2480,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 102
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2485,7 +2490,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2564,14 +2569,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 848,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:05:03.2373208+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:05:50.8400081+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:58:43.4498563+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:05:03.2374021+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:59:17.7863285+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:05:50.8400745+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37698,
+  "EOS_Progressed": 37701,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18364,6 +18364,11 @@
       "Time": "2023-10-02T19:04:50.7021546+00:00",
       "NumProgressed": 37698,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-02T20:05:35.8758416+00:00",
+      "NumProgressed": 37701,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18471,7 +18476,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -18606,7 +18611,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37698,
+      "Progressed": 37701,
       "Completed": 25
     }
   ],
@@ -18614,8 +18619,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:04:50.7021539+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:05:35.8758411+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:09.1587365+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:04:50.7022691+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:57:22.5864566+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:05:35.8759473+00:00"
 }

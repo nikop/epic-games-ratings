@@ -6,10 +6,10 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,205 |
+| Tattletale | 40.00% | ~6,206 |
 | Man of politics | 35.00% | ~5,430 |
-| Friends of sorts | 33.00% | ~5,119 |
-| Yet another secret | 33.00% | ~5,119 |
+| Friends of sorts | 33.00% | ~5,120 |
+| Yet another secret | 33.00% | ~5,120 |
 | Let there be darkness | 32.00% | ~4,964 |
 | End of Book One | 30.00% | ~4,654 |
 | Garden of Eden | 24.00% | ~3,723 |
@@ -17,17 +17,17 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 23.00% | ~3,568 |
 | Help an old friend | 22.00% | ~3,413 |
 | Two of us | 20.00% | ~3,103 |
-| Negotiation skills | 18.00% | ~2,792 |
-| Workers' union | 18.00% | ~2,792 |
-| End of Book Two | 18.00% | ~2,792 |
+| Negotiation skills | 18.00% | ~2,793 |
+| Workers' union | 18.00% | ~2,793 |
+| End of Book Two | 18.00% | ~2,793 |
 | Everything's in order | 17.00% | ~2,637 |
 | Twist of Fate | 14.00% | ~2,172 |
 | Jack was here! | 14.00% | ~2,172 |
 | Exterminator | 13.00% | ~2,017 |
 | Whodunnit | 12.00% | ~1,862 |
-| Good midwife | 11.00% | ~1,706 |
-| Friar Tuck | 11.00% | ~1,706 |
-| First profit | 11.00% | ~1,706 |
+| Good midwife | 11.00% | ~1,707 |
+| Friar Tuck | 11.00% | ~1,707 |
+| First profit | 11.00% | ~1,707 |
 | Team player | 10.00% | ~1,551 |
 | Skilled merchant | 9.00% | ~1,396 |
 | Nothing but make-believe | 9.00% | ~1,396 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~465 |
 | Boy of mystery | 2.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,513 (Ranked 132)  
+Progressed: 15,514 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 112 (0.72%) (Ranked 150)
 | 2023-09-29 | 15,466 | 112 |
 | 2023-09-30 | 15,483 | 112 |
 | 2023-10-01 | 15,500 | 112 |
-| 2023-10-02 | 15,513 | 112 |
+| 2023-10-02 | 15,514 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 303)  
 Sum: 193 (Ranked 383)  

@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 902,
+  "EOS_Progressed": 903,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2320,6 +2320,11 @@
       "Time": "2023-10-01T14:06:54.8281881+00:00",
       "NumProgressed": 902,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-02T20:08:15.7769949+00:00",
+      "NumProgressed": 903,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2339,7 +2344,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2363,7 +2368,7 @@
       "Name": "Right On Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2379,7 +2384,7 @@
       "Name": "Like Clockwork",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ClovemaryGift",
@@ -2451,7 +2456,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2459,7 +2464,7 @@
       "Name": "The Betrayer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2467,7 +2472,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "GadgetCompletion1",
@@ -2515,7 +2520,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LacunaCompleted",
@@ -2523,7 +2528,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MapCompletion1",
@@ -2571,15 +2576,15 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 181
     },
     {
       "ID": "ParryRepeated1",
@@ -2587,7 +2592,7 @@
       "Name": "No, Thanks!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2595,7 +2600,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2603,7 +2608,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PidgeDefeated",
@@ -2611,7 +2616,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "RewindDamage1",
@@ -2627,7 +2632,7 @@
       "Name": "Honest Mistake",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2641,9 +2646,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 163
     },
     {
       "ID": "SkillCompletion1",
@@ -2659,7 +2664,7 @@
       "Name": "Fast Learner",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "SpeedRun",
@@ -2691,7 +2696,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "TheaterChests1",
@@ -2707,7 +2712,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "WarwickDefeated",
@@ -2715,7 +2720,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "WatcherFought",
@@ -2739,7 +2744,7 @@
       "Name": "The Brass Boss",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2747,14 +2752,14 @@
       "Name": "The Family Fortune",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 902,
+      "Progressed": 903,
       "Completed": 5
     }
   ],
@@ -2762,8 +2767,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:08:07.1029319+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:08:15.7769945+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:11.1988188+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:14.760737+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:08:07.1030214+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:57:29.8888012+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:08:15.777045+00:00"
 }

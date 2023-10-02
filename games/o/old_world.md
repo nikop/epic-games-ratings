@@ -94,6 +94,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
 | Queen of Lies | 0.10% | ~14 |
+| Mighty Bucephalus | 0.10% | ~14 |
+| Knot So Hard | 0.10% | ~14 |
+| Pharaoh | 0.10% | ~14 |
+| A Tyresome Siege | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
 | Apadana | 0.10% | ~14 |
@@ -299,11 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Silver Crown | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
-| Mighty Bucephalus | 0.00% | ~0 |
-| Knot So Hard | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
-| Pharaoh | 0.00% | ~0 |
-| A Tyresome Siege | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,295 (Ranked 133)  
+Progressed: 14,298 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,11 +514,11 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-29 | 14,207 | 5 |
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
-| 2023-10-02 | 14,295 | 5 |
+| 2023-10-02 | 14,298 | 5 |
 ## Awards
-Max (Relaxing): 223  (Ranked 265)  
+Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 223 |

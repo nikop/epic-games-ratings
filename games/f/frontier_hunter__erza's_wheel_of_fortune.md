@@ -29,8 +29,8 @@
 | Furious Scorpion Killer | 33.00% | ~32 |
 | Master Artificer | 32.00% | ~31 |
 | Kind Adventurer | 30.00% | ~29 |
-| Mermaid Killer | 27.00% | ~26 |
-| Cave Master | 26.00% | ~25 |
+| Mermaid Killer | 28.00% | ~27 |
+| Cave Master | 27.00% | ~26 |
 | Face Slapper | 26.00% | ~25 |
 | Master Cook | 19.00% | ~19 |
 | Berserker Slayer | 14.00% | ~14 |

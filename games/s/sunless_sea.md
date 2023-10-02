@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 436)  
+Rating: 4.58 (Ranked 435)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,8 +28,8 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 4.00% | ~1,528 |
 | Storm's Curse | 3.00% | ~1,146 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,146 |
-| Roaring Rise | 3.00% | ~1,146 |
 | Come Closer | 3.00% | ~1,146 |
+| Roaring Rise | 2.00% | ~764 |
 | I am the Captain of my Soul | 2.00% | ~764 |
 | A buoyant escape | 1.00% | ~382 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~382 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,199 (Ranked 106)  
+Progressed: 38,201 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 3 (0.01%) (Ranked 287)
 | 2023-09-29 | 38,030 | 3 |
 | 2023-09-30 | 38,098 | 3 |
 | 2023-10-01 | 38,156 | 3 |
-| 2023-10-02 | 38,199 | 3 |
+| 2023-10-02 | 38,201 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 273)  
 Sum: 285 (Ranked 351)  

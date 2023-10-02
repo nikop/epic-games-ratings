@@ -1,34 +1,34 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 399)  
+Rating: 4.60 (Ranked 398)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 30.00% | ~271 |
 | Rail Rat | 25.00% | ~226 |
-| The Mysterious Stranger | 24.00% | ~216 |
-| Immaculate Aim | 22.00% | ~198 |
-| Make Up For Lost Time | 21.00% | ~189 |
-| Time Flies | 21.00% | ~189 |
-| The Harder They Fall | 21.00% | ~189 |
-| The Prince in Heels | 21.00% | ~189 |
-| The Brass Boss | 21.00% | ~189 |
-| The Steel Shadow | 20.00% | ~180 |
-| No, Thanks! | 20.00% | ~180 |
-| Breaking Down Barriers | 20.00% | ~180 |
-| The Wicked Twins | 20.00% | ~180 |
-| Honest Mistake | 20.00% | ~180 |
-| Fast Learner | 20.00% | ~180 |
-| Immaculate Aim | 20.00% | ~180 |
-| Golem Chaser | 19.00% | ~171 |
-| Right On Time | 18.00% | ~162 |
-| Like Clockwork | 18.00% | ~162 |
-| The Betrayer | 18.00% | ~162 |
-| Check Your Pulse | 18.00% | ~162 |
-| The Man Who Shattered Time | 17.00% | ~153 |
-| The Loose Cannon | 17.00% | ~153 |
-| The Family Fortune | 17.00% | ~153 |
+| The Mysterious Stranger | 24.00% | ~217 |
+| Immaculate Aim | 22.00% | ~199 |
+| Make Up For Lost Time | 21.00% | ~190 |
+| Time Flies | 21.00% | ~190 |
+| The Prince in Heels | 21.00% | ~190 |
+| The Brass Boss | 21.00% | ~190 |
+| The Steel Shadow | 20.00% | ~181 |
+| The Harder They Fall | 20.00% | ~181 |
+| No, Thanks! | 20.00% | ~181 |
+| Breaking Down Barriers | 20.00% | ~181 |
+| The Wicked Twins | 20.00% | ~181 |
+| Honest Mistake | 20.00% | ~181 |
+| Fast Learner | 20.00% | ~181 |
+| Immaculate Aim | 20.00% | ~181 |
+| Right On Time | 18.00% | ~163 |
+| Like Clockwork | 18.00% | ~163 |
+| The Betrayer | 18.00% | ~163 |
+| Golem Chaser | 18.00% | ~163 |
+| Check Your Pulse | 18.00% | ~163 |
+| The Man Who Shattered Time | 17.00% | ~154 |
+| The Loose Cannon | 17.00% | ~154 |
+| The Family Fortune | 17.00% | ~154 |
 | Street Style | 16.00% | ~144 |
 | Cartographer | 15.00% | ~135 |
 | Treasure Trove | 14.00% | ~126 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 399)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 902 (Ranked 235)  
+Progressed: 903 (Ranked 235)  
 Completed: 5 (0.55%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 5 (0.55%) (Ranked 163)
 | 2023-09-28 | 899 | 5 |
 | 2023-09-29 | 901 | 5 |
 | 2023-10-01 | 902 | 5 |
+| 2023-10-02 | 903 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

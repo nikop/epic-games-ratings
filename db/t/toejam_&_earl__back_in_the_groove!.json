@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57166,
+  "EOS_Progressed": 57167,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10228,6 +10228,11 @@
       "Time": "2023-10-02T19:04:36.3362423+00:00",
       "NumProgressed": 57166,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-02T20:05:18.9024238+00:00",
+      "NumProgressed": 57167,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10295,7 +10300,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FallFest",
@@ -10463,7 +10468,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "OldSchool",
@@ -10543,7 +10548,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Sunflower",
@@ -10567,7 +10572,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ThrillSeeker",
@@ -10630,7 +10635,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57166,
+      "Progressed": 57167,
       "Completed": 6
     }
   ],
@@ -10638,8 +10643,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:04:36.3362417+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:05:18.9024233+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.6276448+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:58:32.9764308+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:04:36.3363453+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:59:05.0455164+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:05:18.9025049+00:00"
 }

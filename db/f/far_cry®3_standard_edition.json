@@ -2,13 +2,13 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 504,
   "RatingHistory": [
     {
@@ -1197,10 +1197,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 429
+    },
+    {
+      "Time": "2023-10-02T19:57:42.4691386+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 545,
+      "NumberOfAwardsMax": 429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 544,
+  "NumberOfAwards": 545,
   "NumberOfAwardsMax": 429,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1226,7 +1232,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1252,8 +1258,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-10-01T10:03:10.1870864+00:00",
+  "LastChanged": "2023-10-02T19:57:42.4691385+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:36.7696331+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:25.2837014+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:06:17.6085244+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:57:42.4691389+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:07:21.0475282+00:00"
 }

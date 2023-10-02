@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -957,9 +957,9 @@
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_15",
@@ -1067,8 +1067,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:03:20.3515681+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:03:36.2962162+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:26.0520591+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:03:20.3515971+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:57:45.2714605+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:03:36.2962314+00:00"
 }

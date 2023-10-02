@@ -2,13 +2,13 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,7 +697,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38199,
+  "EOS_Progressed": 38201,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
@@ -17512,6 +17512,11 @@
       "Time": "2023-10-02T19:06:15.6969992+00:00",
       "NumProgressed": 38199,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-02T20:07:18.7087981+00:00",
+      "NumProgressed": 38201,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17681,9 +17686,9 @@
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1146
+      "UsersEstimate": 764
     },
     {
       "ID": "ach_hunterskeep",
@@ -17954,15 +17959,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38199,
+      "Progressed": 38201,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:06:15.6969986+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:07:18.7087977+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:57:04.4963734+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:06:15.6971562+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:57:18.8064841+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:07:18.7089179+00:00"
 }

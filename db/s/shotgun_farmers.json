@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1308,6 +1308,11 @@
       "Time": "2023-09-30T18:04:35.1877206+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T20:05:37.397471+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1317,9 +1322,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -1365,9 +1370,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_first_harvest",
@@ -1375,7 +1380,7 @@
       "Name": "Seeds of War",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1399,7 +1404,7 @@
       "Name": "Getting Started",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_honk_horn",
@@ -1463,7 +1468,7 @@
       "Name": "Skin Of Your Teeth",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -1597,9 +1602,9 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -1709,9 +1714,9 @@
       "ID": "ach_kill_self_with_pumpkin",
       "SetID": "bf10c8p",
       "Name": "Oh My Gourd",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_perfect",
@@ -1783,7 +1788,7 @@
       "Name": "Early Survivor",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_waves_20",
@@ -1910,13 +1915,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 2
     }
   ],
@@ -1924,8 +1929,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:04:51.8981413+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:05:37.3974708+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.2826731+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:59:53.0315606+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:04:51.8982273+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:00:43.3090601+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:05:37.3975376+00:00"
 }

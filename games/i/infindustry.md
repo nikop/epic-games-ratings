@@ -8,8 +8,8 @@
 | Workforce | 15.00% | ~14 |
 | Builder | 11.00% | ~10 |
 | Cook | 7.00% | ~6 |
+| Crafter | 3.00% | ~3 |
 | Healer | 3.00% | ~3 |
-| Crafter | 2.00% | ~2 |
 | Rep1 | 2.00% | ~2 |
 | Rep2 | 2.00% | ~2 |
 | Defender | 1.00% | ~1 |

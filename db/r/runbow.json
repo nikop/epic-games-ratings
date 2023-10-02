@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249935,
+  "EOS_Progressed": 249936,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 1,
@@ -15574,6 +15574,11 @@
       "Time": "2023-10-02T19:06:28.7585978+00:00",
       "NumProgressed": 249935,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-02T20:07:34.3784321+00:00",
+      "NumProgressed": 249936,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15585,7 +15590,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17495
+      "UsersEstimate": 17496
     },
     {
       "ID": "aWinnerIsYou",
@@ -15609,7 +15614,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52486
+      "UsersEstimate": 52487
     },
     {
       "ID": "blotbuster",
@@ -15777,7 +15782,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17495
+      "UsersEstimate": 17496
     },
     {
       "ID": "itsTheFall",
@@ -15857,7 +15862,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17495
+      "UsersEstimate": 17496
     },
     {
       "ID": "rideTheWave",
@@ -15952,7 +15957,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249935,
+      "Progressed": 249936,
       "Completed": 6
     }
   ],
@@ -15960,8 +15965,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:06:28.7585973+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:07:34.3784317+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:00:23.1865883+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:06:28.7587293+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:02:10.7452462+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:07:34.3785371+00:00"
 }

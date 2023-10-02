@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Kvitky",
@@ -563,9 +563,9 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Netopyrek",
@@ -627,17 +627,17 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Strom",
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:05:22.3099954+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:06:13.9429073+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:58:11.7622554+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:05:22.3100201+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:41.8400877+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:06:13.9429276+00:00"
 }

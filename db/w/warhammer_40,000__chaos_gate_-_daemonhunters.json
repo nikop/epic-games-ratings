@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 436,
-  "Ranking_Popularity": 267,
+  "Ranking_Rating": 435,
+  "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3975,9 +3975,9 @@
       "ID": "OnlyInDeath",
       "SetID": "2im8phi",
       "Name": "Only in Death",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "Preservationist",
@@ -4149,8 +4149,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:06:24.1521863+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:07:29.0160752+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:59:50.4470367+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:06:24.1522749+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:00:40.0889042+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:07:29.0161531+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "88feec140a2f41c3954365c24393be14",
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
-  "Ranking_Rating": 370,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 90,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-09-22T19:59:25.5945537+00:00",
@@ -74,17 +74,23 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-02T19:59:48.6012435+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68552,
-  "EOS_Completed": 2518,
-  "EOS_NewPlayers": 21338,
+  "EOS_Progressed": 68758,
+  "EOS_Completed": 2527,
+  "EOS_NewPlayers": 21405,
   "EOS_NewCompleters": 769,
-  "EOS_Completed_Percentage": 3.67,
+  "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:33.5899615+00:00",
@@ -2255,6 +2261,11 @@
       "Time": "2023-10-02T19:04:02.1842888+00:00",
       "NumProgressed": 68552,
       "NumCompleted": 2518
+    },
+    {
+      "Time": "2023-10-02T20:04:36.8577587+00:00",
+      "NumProgressed": 68758,
+      "NumCompleted": 2527
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -2267,7 +2278,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 41131
+      "UsersEstimate": 41255
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -2275,7 +2286,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8939
     },
     {
       "ID": "GoldPact",
@@ -2283,7 +2294,7 @@
       "Name": "Gold Pact",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10314
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -2291,15 +2302,15 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3438
     },
     {
       "ID": "PelagicPerils",
       "SetID": "bcl47p5",
       "Name": "Pelagic Perils",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 34276
+      "UsersEstimate": 33691
     },
     {
       "ID": "ShipDip",
@@ -2307,7 +2318,7 @@
       "Name": "Ship Dip!",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 30848
+      "UsersEstimate": 30941
     },
     {
       "ID": "TheArtOfParley",
@@ -2315,7 +2326,7 @@
       "Name": "The Art of Parley",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 48672
+      "UsersEstimate": 48818
     },
     {
       "ID": "TheGoldenRatio",
@@ -2323,7 +2334,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6876
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -2331,15 +2342,15 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 37018
+      "UsersEstimate": 37129
     },
     {
       "ID": "WeCanDoBetter",
       "SetID": "bcl47p5",
       "Name": "We Can Do Better!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 50043
+      "UsersEstimate": 50881
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -2347,7 +2358,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 51414
+      "UsersEstimate": 51568
     },
     {
       "ID": "WelcomeAboard",
@@ -2355,23 +2366,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 51414
+      "UsersEstimate": 51568
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 68552,
-      "Completed": 2518
+      "Progressed": 68758,
+      "Completed": 2527
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
-  "LastChanged": "2023-09-30T19:58:13.8238823+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:04:02.1842879+00:00",
+  "LastChanged": "2023-10-02T19:59:48.6012434+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:04:36.8577583+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:19.4924032+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:59:08.7404432+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:04:02.1843127+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:59:48.6012439+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:04:36.8577782+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 80.00% | ~242 |
-| First Blood | 61.00% | ~185 |
+| Seeds of War | 80.00% | ~243 |
+| First Blood | 62.00% | ~188 |
 | Triple Kill | 60.00% | ~182 |
 | Aspairagus | 60.00% | ~152 |
 | No Asperascope | 57.00% | ~173 |
@@ -13,7 +13,7 @@
 | Cornivore | 53.00% | ~161 |
 | I Believe I Can Fly | 50.00% | ~152 |
 | No Diggity | 43.00% | ~109 |
-| Early Survivor | 40.00% | ~101 |
+| Early Survivor | 40.00% | ~102 |
 | Bouncemato | 32.00% | ~81 |
 | 10K | 30.00% | ~91 |
 | Amateur Survivor | 30.00% | ~76 |
@@ -25,17 +25,17 @@
 | Pork Chop Express | 18.00% | ~55 |
 | Carrocketeer | 17.00% | ~52 |
 | This Is My Boomstick | 17.00% | ~43 |
-| Getting Started | 16.00% | ~48 |
-| Skin Of Your Teeth | 16.00% | ~48 |
-| Oh My Gourd | 16.00% | ~40 |
-| Eggtraordinary | 15.00% | ~45 |
+| Getting Started | 16.00% | ~49 |
+| Skin Of Your Teeth | 16.00% | ~49 |
+| Oh My Gourd | 15.00% | ~38 |
+| Eggtraordinary | 14.00% | ~43 |
 | Quit Horsin' Around | 12.00% | ~36 |
 | Perfect | 11.00% | ~28 |
 | Summers Here | 11.00% | ~28 |
 | Fresh Pancake | 10.00% | ~30 |
 | Quadsparagus | 10.00% | ~25 |
+| Bring Home The Bacon | 9.00% | ~27 |
 | Expert Survivor | 9.00% | ~23 |
-| Bring Home The Bacon | 8.00% | ~24 |
 | Early Bird | 6.00% | ~18 |
 | Pyromaniac | 6.00% | ~15 |
 | Chick Magnet | 5.00% | ~15 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 305)  
+Progressed: 304 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-27 | 300 | 0 |
 | 2023-09-28 | 301 | 0 |
 | 2023-09-30 | 303 | 0 |
+| 2023-10-02 | 304 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

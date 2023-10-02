@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3264,10 +3264,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4647,
       "NumberOfAwardsMax": 2778
+    },
+    {
+      "Time": "2023-10-02T20:01:06.6111818+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4648,
+      "NumberOfAwardsMax": 2778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4647,
+  "NumberOfAwards": 4648,
   "NumberOfAwardsMax": 2778,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3317,7 +3323,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3332,7 +3338,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73051,
+  "EOS_Progressed": 73053,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 4,
@@ -17392,6 +17398,11 @@
       "Time": "2023-10-02T18:05:00.2165312+00:00",
       "NumProgressed": 73051,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-02T20:04:46.4419797+00:00",
+      "NumProgressed": 73053,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -17515,7 +17526,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13149
+      "UsersEstimate": 13150
     },
     {
       "ID": "CLAYFACE_3",
@@ -17707,7 +17718,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25568
+      "UsersEstimate": 25569
     },
     {
       "ID": "HARLEY_2",
@@ -17723,7 +17734,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "HARLEY_4",
@@ -17747,7 +17758,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37987
+      "UsersEstimate": 37988
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17771,7 +17782,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17779,7 +17790,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20454
+      "UsersEstimate": 20455
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17795,7 +17806,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24837
+      "UsersEstimate": 24838
     },
     {
       "ID": "MYSTERY_02",
@@ -17819,7 +17830,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14610
+      "UsersEstimate": 14611
     },
     {
       "ID": "MYSTERY_05",
@@ -17827,7 +17838,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13149
+      "UsersEstimate": 13150
     },
     {
       "ID": "MYSTERY_06",
@@ -17890,22 +17901,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73051,
+      "Progressed": 73053,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43331,
+      "Progressed": 43333,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-02T19:00:12.2041503+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:04:09.7680317+00:00",
+  "LastChanged": "2023-10-02T20:01:06.6111817+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:04:46.4419792+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-02T19:00:12.2041509+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:04:09.7681901+00:00"
+  "LastUpdate_Ratings": "2023-10-02T20:01:06.6111822+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:04:46.442099+00:00"
 }

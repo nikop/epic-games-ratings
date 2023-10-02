@@ -6,15 +6,15 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,388 |
-| Powergamer | 27.00% | ~66,910 |
-| Barely scratched the surface | 25.00% | ~61,954 |
-| Write that down | 24.00% | ~59,476 |
-| Guns, lots of guns | 13.00% | ~32,216 |
+| I will finish what you started | 28.00% | ~69,390 |
+| Powergamer | 27.00% | ~66,911 |
+| Barely scratched the surface | 25.00% | ~61,955 |
+| Write that down | 24.00% | ~59,477 |
+| Guns, lots of guns | 13.00% | ~32,217 |
 | Collector | 12.00% | ~29,738 |
-| Elementary! | 9.00% | ~22,303 |
-| Pumpkin Jack | 8.00% | ~19,825 |
-| Wake up! | 8.00% | ~19,825 |
+| Elementary! | 9.00% | ~22,304 |
+| Pumpkin Jack | 8.00% | ~19,826 |
+| Wake up! | 8.00% | ~19,826 |
 | It's honest work | 7.00% | ~17,347 |
 | Griever | 7.00% | ~17,347 |
 | Me smart | 6.00% | ~14,869 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,913 |
 | Ka-ching! | 4.00% | ~9,913 |
 | So you like to read? | 4.00% | ~9,913 |
-| Hoarder | 3.00% | ~7,434 |
-| I like to sniff around | 3.00% | ~7,434 |
-| Mind reader | 3.00% | ~7,434 |
+| Hoarder | 3.00% | ~7,435 |
+| I like to sniff around | 3.00% | ~7,435 |
+| Mind reader | 3.00% | ~7,435 |
 | Catnip | 2.00% | ~4,956 |
 | Gentleman's classic | 2.00% | ~4,956 |
 | Is that a rift? | 2.00% | ~4,956 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~496 |
 | Memory 5 | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,815 (Ranked 51)  
+Progressed: 247,820 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 7 (0.00%) (Ranked 304)
 | 2023-09-29 | 247,489 | 7 |
 | 2023-09-30 | 247,614 | 7 |
 | 2023-10-01 | 247,743 | 7 |
-| 2023-10-02 | 247,815 | 7 |
+| 2023-10-02 | 247,820 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 367)  
 Sum: 82 (Ranked 435)  

@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-10-01T17:05:39.8099387+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-02T20:06:13.8990882+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1652,9 +1657,9 @@
       "ID": "ACHIEVEMENT_SERIOUS_BAM",
       "SetID": "2ff85j2",
       "Name": "Serious Bam",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -1733,7 +1738,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
@@ -1741,8 +1746,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-10-02T19:05:22.2097405+00:00",
+  "LastChanged_Achievements": "2023-10-02T20:06:13.8990877+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:59.416338+00:00",
-  "LastUpdate_Ratings": "2023-10-02T18:58:09.8491333+00:00",
-  "LastUpdate_Achievements": "2023-10-02T19:05:22.2097707+00:00"
+  "LastUpdate_Ratings": "2023-10-02T19:58:39.3488526+00:00",
+  "LastUpdate_Achievements": "2023-10-02T20:06:13.8991127+00:00"
 }
