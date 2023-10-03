@@ -49,7 +49,7 @@
 | 47 | [Supraland](games/s/supraland.md) | 7,693 | 4.61 | 370 |
 | 48 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,494 | 4.71 | 189 |
 | 49 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,434 | 4.68 | 243 |
-| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,409 | 4.70 | 204 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,418 | 4.70 | 204 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 7,305 | 4.77 | 114 |
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,170 | 4.74 | 149 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 690 |

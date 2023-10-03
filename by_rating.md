@@ -206,7 +206,7 @@
 | 204 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,580 | 76 |
 | 204 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 409 | 219 |
 | 204 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 429 | 213 |
-| 204 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,409 | 50 |
+| 204 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,418 | 50 |
 | 204 | [For The King](games/f/for_the_king.md) | 4.70 | 396 | 221 |
 | 204 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 525 |
 | 204 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 405 |
