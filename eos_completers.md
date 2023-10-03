@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.21% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.18% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -62,14 +62,14 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.33% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.31% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.00% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.65% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -214,9 +214,9 @@
 | 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 214 | [Blanc](games/b/blanc.md) | 0.22% |
-| 214 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.22% |
 | 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
-| 217 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 216 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 216 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.21% |
 | 218 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 219 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 219 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.19% |

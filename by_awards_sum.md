@@ -6,12 +6,12 @@
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 1,402,284 | 4.68 | 243 |
 | 5 | [Fall Guys](games/f/fall_guys.md) | 1,371,300 | 4.51 | 551 |
 | 6 | [VALORANT](games/v/valorant.md) | 535,014 | 4.53 | 524 |
-| 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 463,416 | 4.88 | 18 |
+| 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 463,483 | 4.88 | 18 |
 | 8 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 436,751 | 4.19 | 889 |
-| 9 | [Borderlands 3](games/b/borderlands_3.md) | 372,059 | 4.69 | 221 |
+| 9 | [Borderlands 3](games/b/borderlands_3.md) | 372,077 | 4.69 | 221 |
 | 10 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 315,316 | 4.74 | 149 |
 | 11 | [Dead by Daylight](games/d/dead_by_daylight.md) | 258,881 | 4.52 | 537 |
-| 12 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 256,453 | 4.63 | 336 |
+| 12 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 256,727 | 4.63 | 336 |
 | 13 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 250,255 | 4.58 | 435 |
 | 14 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 101,579 | 4.26 | 841 |
 | 15 | [Satisfactory](games/s/satisfactory.md) | 97,225 | 4.88 | 18 |
@@ -35,7 +35,7 @@
 | 33 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 40,798 | 4.69 | 221 |
 | 34 | [Borderlands 2](games/b/borderlands_2.md) | 38,778 | 4.76 | 118 |
 | 35 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 38,102 | 4.64 | 315 |
-| 36 | [League of Legends](games/l/league_of_legends.md) | 35,081 | 4.21 | 871 |
+| 36 | [League of Legends](games/l/league_of_legends.md) | 35,093 | 4.21 | 871 |
 | 37 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 34,807 | 4.57 | 453 |
 | 38 | [Rogue Company](games/r/rogue_company.md) | 33,671 | 4.32 | 792 |
 | 39 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 33,377 | 4.60 | 397 |
@@ -80,7 +80,7 @@
 | 78 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 12,282 | 4.85 | 42 |
 | 79 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 12,058 | 4.50 | 574 |
 | 80 | [Ring of Pain](games/r/ring_of_pain.md) | 11,583 | 4.58 | 435 |
-| 81 | [World of Warships](games/w/world_of_warships.md) | 11,538 | 4.41 | 698 |
+| 81 | [World of Warships](games/w/world_of_warships.md) | 11,542 | 4.41 | 698 |
 | 82 | [Sifu](games/s/sifu.md) | 11,474 | 4.82 | 65 |
 | 83 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 11,388 | 4.55 | 491 |
 | 84 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 11,143 | 4.79 | 93 |
@@ -125,7 +125,7 @@
 | 123 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 6,182 | 4.74 | 149 |
 | 124 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 6,151 | 4.68 | 243 |
 | 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 5,938 | 4.76 | 118 |
-| 126 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 5,709 | 4.79 | 93 |
+| 126 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 5,711 | 4.79 | 93 |
 | 127 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 5,631 | 4.70 | 204 |
 | 128 | [Subnautica](games/s/subnautica.md) | 5,620 | 4.85 | 42 |
 | 129 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 5,560 | 4.82 | 65 |
@@ -136,7 +136,7 @@
 | 134 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,941 | 4.33 | 782 |
 | 135 | [The Long Dark](games/t/the_long_dark.md) | 4,913 | 4.74 | 149 |
 | 136 | [My Time At Portia](games/m/my_time_at_portia.md) | 4,838 | 4.67 | 261 |
-| 137 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4,808 | 4.24 | 852 |
+| 137 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4,809 | 4.24 | 852 |
 | 138 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4,779 | 4.67 | 261 |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4,719 | 4.66 | 282 |
 | 140 | [Gotham Knights](games/g/gotham_knights.md) | 4,650 | 4.18 | 896 |

@@ -98,7 +98,7 @@
 | 93 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 525 |
 | 93 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 525 |
 | 93 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 525 |
-| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 979 | 149 |
+| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 981 | 149 |
 | 93 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 771 | 164 |
 | 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,027 | 60 |
 | 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 390 | 222 |
@@ -713,7 +713,7 @@
 | 698 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,213 | 107 |
 | 698 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 251 |
 | 698 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 525 |
-| 698 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,382 | 131 |
+| 698 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,386 | 131 |
 | 715 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 525 |
 | 715 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 525 |
 | 715 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,036 | 143 |

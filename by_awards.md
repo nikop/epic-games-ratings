@@ -130,7 +130,7 @@
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,468 | 4.86 | 30 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,458 | 4.53 | 524 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,456 | 4.87 | 25 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,382 | 4.41 | 698 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,386 | 4.41 | 698 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,322 | 4.70 | 204 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,294 | 4.66 | 282 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,294 | 4.55 | 491 |
@@ -148,7 +148,7 @@
 | 146 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 863 |
 | 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 985 | 4.69 | 221 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 983 | 4.76 | 118 |
-| 149 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 979 | 4.79 | 93 |
+| 149 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 981 | 4.79 | 93 |
 | 150 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 970 | 4.31 | 804 |
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 950 | 4.54 | 510 |
 | 152 | [Sonic Mania](games/s/sonic_mania.md) | 947 | 4.78 | 104 |
