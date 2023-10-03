@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 329,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
@@ -1054,9 +1054,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_7",
@@ -1092,8 +1092,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:04:05.4858682+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:05:19.3913578+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:58:04.235118+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:04:05.4858806+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:59:21.0406977+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:05:19.3913789+00:00"
 }

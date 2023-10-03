@@ -2,7 +2,7 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 201,
@@ -5386,9 +5386,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 830
     },
     {
       "ID": "A43",
@@ -5499,8 +5499,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:05:25.6911134+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:07:07.4821036+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:00:27.4627988+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:05:25.6911873+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:02:45.6070709+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:07:07.4821825+00:00"
 }

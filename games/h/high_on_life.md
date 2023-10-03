@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 315)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,109 (Ranked 117)  
+Progressed: 24,110 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-09-30 | 24,098 | 12 |
 | 2023-10-01 | 24,102 | 12 |
 | 2023-10-02 | 24,108 | 12 |
-| 2023-10-03 | 24,109 | 12 |
+| 2023-10-03 | 24,110 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

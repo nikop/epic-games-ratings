@@ -1,9 +1,9 @@
 {
   "ID": "4d1607defb8840cdb849d47d012b249b",
   "Name": "Lego Batman Trilogy",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:53.9447969+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:00:57.6507454+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:08:08.2737251+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:03:26.1968715+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:09:13.2929909+00:00"
 }

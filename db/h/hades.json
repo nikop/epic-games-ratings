@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4559,10 +4559,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7978,
       "NumberOfAwardsMax": 3290
+    },
+    {
+      "Time": "2023-10-03T16:59:46.6975324+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7979,
+      "NumberOfAwardsMax": 3290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7978,
+  "NumberOfAwards": 7979,
   "NumberOfAwardsMax": 3290,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4576,7 +4582,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2312
+      "Count": 2313
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4657,10 +4663,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704618,
+  "EOS_Progressed": 704619,
   "EOS_Completed": 6392,
-  "EOS_NewPlayers": 408,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 405,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -22387,6 +22393,11 @@
       "Time": "2023-10-03T16:08:37.7522452+00:00",
       "NumProgressed": 704618,
       "NumCompleted": 6392
+    },
+    {
+      "Time": "2023-10-03T17:09:53.2277067+00:00",
+      "NumProgressed": 704619,
+      "NumCompleted": 6392
     }
   ],
   "TotalAchievements": 49,
@@ -22454,7 +22465,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 366401
+      "UsersEstimate": 366402
     },
     {
       "ID": "AchClearAsphodel",
@@ -22462,7 +22473,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563694
+      "UsersEstimate": 563695
     },
     {
       "ID": "AchClearElysium",
@@ -22470,7 +22481,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465048
+      "UsersEstimate": 465049
     },
     {
       "ID": "AchClearElysiumEM",
@@ -22502,7 +22513,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627110
+      "UsersEstimate": 627111
     },
     {
       "ID": "AchCrushedThanatos",
@@ -22510,7 +22521,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 317078
+      "UsersEstimate": 317079
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -22550,7 +22561,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 133877
+      "UsersEstimate": 133878
     },
     {
       "ID": "AchFoundSummon",
@@ -22566,7 +22577,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 479140
+      "UsersEstimate": 479141
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -22606,7 +22617,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 176154
+      "UsersEstimate": 176155
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -22614,7 +22625,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 246616
+      "UsersEstimate": 246617
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -22622,7 +22633,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443909
+      "UsersEstimate": 443910
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -22646,7 +22657,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56369
+      "UsersEstimate": 56370
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -22670,7 +22681,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253662
+      "UsersEstimate": 253663
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -22774,7 +22785,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281847
+      "UsersEstimate": 281848
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -22789,15 +22800,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704618,
+      "Progressed": 704619,
       "Completed": 6392
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-10-03T13:58:05.6688475+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:08:37.752245+00:00",
+  "LastChanged": "2023-10-03T16:59:46.697532+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:09:53.2277064+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:47.4113746+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:58:23.2296882+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:08:37.7523563+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:59:46.6975331+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:09:53.2278933+00:00"
 }

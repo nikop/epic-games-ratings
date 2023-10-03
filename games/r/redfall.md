@@ -5,10 +5,10 @@ Rating: 3.54 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood Will Have Blood | 1.00% | ~17 |
-| Ne Plus Ultra | 1.00% | ~17 |
-| I Like My Stakes Rare! | 1.00% | ~17 |
-| Grounded | 1.00% | ~17 |
+| Blood Will Have Blood | 1.00% | ~18 |
+| Ne Plus Ultra | 1.00% | ~18 |
+| I Like My Stakes Rare! | 1.00% | ~18 |
+| Grounded | 1.00% | ~18 |
 | Fly Fisher | 0.90% | ~16 |
 | Throw The First Stone | 0.90% | ~16 |
 | Catch and Release | 0.90% | ~16 |
@@ -34,19 +34,19 @@ Rating: 3.54 (Ranked 1,008)
 | Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
-| Contingency Plans | 0.20% | ~3 |
-| Block Party | 0.20% | ~3 |
-| Sisterhood | 0.20% | ~3 |
-| What Lies Below | 0.20% | ~3 |
-| Check, Please! | 0.20% | ~3 |
-| Starve the Beast | 0.20% | ~3 |
-| So Anyway I Started Blasting | 0.20% | ~3 |
-| Nice Try | 0.20% | ~3 |
-| Blacklight Down | 0.20% | ~3 |
-| Enemy of My Enemy | 0.20% | ~3 |
-| Dexterity Save | 0.20% | ~3 |
-| Bob’s Final Hour | 0.20% | ~3 |
-| Curious Finch | 0.20% | ~3 |
+| Contingency Plans | 0.20% | ~4 |
+| Block Party | 0.20% | ~4 |
+| Sisterhood | 0.20% | ~4 |
+| What Lies Below | 0.20% | ~4 |
+| Check, Please! | 0.20% | ~4 |
+| Starve the Beast | 0.20% | ~4 |
+| So Anyway I Started Blasting | 0.20% | ~4 |
+| Nice Try | 0.20% | ~4 |
+| Blacklight Down | 0.20% | ~4 |
+| Enemy of My Enemy | 0.20% | ~4 |
+| Dexterity Save | 0.20% | ~4 |
+| Bob’s Final Hour | 0.20% | ~4 |
+| Curious Finch | 0.20% | ~4 |
 | Revelations | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.54 (Ranked 1,008)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,749 (Ranked 207)  
+Progressed: 1,750 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-22 | 1,747 | 0 |
 | 2023-09-25 | 1,748 | 0 |
 | 2023-10-02 | 1,749 | 0 |
+| 2023-10-03 | 1,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 115,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25302,
+  "EOS_Progressed": 25303,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19120,6 +19120,11 @@
       "Time": "2023-10-03T16:03:50.6501646+00:00",
       "NumProgressed": 25302,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-03T17:04:59.9343836+00:00",
+      "NumProgressed": 25303,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 22,
@@ -19235,7 +19240,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "1029",
@@ -19251,7 +19256,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "1031",
@@ -19306,15 +19311,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25302,
+      "Progressed": 25303,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:03:50.650164+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:04:59.9343831+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.1234295+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:58:46.5139018+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:03:50.6502566+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:00:21.7885017+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:04:59.9345989+00:00"
 }

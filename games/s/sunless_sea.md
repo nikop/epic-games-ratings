@@ -1,47 +1,47 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 435)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,769 |
-| Sweet Sorrow | 18.00% | ~6,884 |
-| Rules the Waves | 17.00% | ~6,502 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,737 |
+| Sink Beneath the Waves | 36.00% | ~13,770 |
+| Sweet Sorrow | 18.00% | ~6,885 |
+| Rules the Waves | 17.00% | ~6,503 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,738 |
 | Rival | 14.00% | ~5,355 |
 | Correspondent | 12.00% | ~4,590 |
 | Lose Your Mind | 12.00% | ~4,590 |
 | Sound Mind? | 12.00% | ~4,590 |
-| Salt's Curse | 11.00% | ~4,207 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,207 |
-| The Fall of the House | 11.00% | ~4,207 |
-| Shipmate | 11.00% | ~4,207 |
+| Salt's Curse | 11.00% | ~4,208 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,208 |
+| The Fall of the House | 11.00% | ~4,208 |
+| Shipmate | 11.00% | ~4,208 |
 | One Year at Zee | 8.00% | ~3,060 |
-| Pupil | 7.00% | ~2,677 |
-| Salvager | 7.00% | ~2,677 |
-| Open Your Ears | 7.00% | ~2,677 |
-| The Ascent of Man | 7.00% | ~2,677 |
-| Zee Fever | 5.00% | ~1,912 |
+| Pupil | 7.00% | ~2,678 |
+| Salvager | 7.00% | ~2,678 |
+| Open Your Ears | 7.00% | ~2,678 |
+| The Ascent of Man | 7.00% | ~2,678 |
+| Zee Fever | 5.00% | ~1,913 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,530 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,530 |
-| Storm's Curse | 3.00% | ~1,147 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,147 |
-| Come Closer | 3.00% | ~1,147 |
+| Storm's Curse | 3.00% | ~1,148 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,148 |
+| Come Closer | 3.00% | ~1,148 |
 | Roaring Rise | 2.00% | ~765 |
 | I am the Captain of my Soul | 2.00% | ~765 |
-| A buoyant escape | 1.00% | ~382 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~382 |
-| The Bell Tolls | 1.00% | ~382 |
-| His bones in whispers | 1.00% | ~382 |
-| The dragon in the zee | 1.00% | ~382 |
-| Thanks for all the fish | 1.00% | ~382 |
-| Knife, Cup and Bone | 1.00% | ~382 |
-| Those are pearls that were his eyes | 1.00% | ~382 |
-| Rosewater sailor | 1.00% | ~382 |
-| Under the zee | 1.00% | ~382 |
-| A current under zee | 1.00% | ~382 |
+| A buoyant escape | 1.00% | ~383 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~383 |
+| The Bell Tolls | 1.00% | ~383 |
+| His bones in whispers | 1.00% | ~383 |
+| The dragon in the zee | 1.00% | ~383 |
+| Thanks for all the fish | 1.00% | ~383 |
+| Knife, Cup and Bone | 1.00% | ~383 |
+| Those are pearls that were his eyes | 1.00% | ~383 |
+| Rosewater sailor | 1.00% | ~383 |
+| Under the zee | 1.00% | ~383 |
+| A current under zee | 1.00% | ~383 |
 | Never Stop Sinking... | 0.90% | ~344 |
 | The beauty of the deep | 0.90% | ~344 |
 | Leviathan | 0.90% | ~344 |
@@ -51,9 +51,9 @@ Number of Ratings: 401  (23.09.2022)
 | What lies beneath | 0.70% | ~268 |
 | Stone's Curse | 0.70% | ~268 |
 | Five Years at Zee | 0.50% | ~191 |
-| The Lady's Parlour | 0.20% | ~76 |
-| A Past Wreathed in Shadows | 0.20% | ~76 |
-| Under pressure | 0.20% | ~76 |
+| The Lady's Parlour | 0.20% | ~77 |
+| A Past Wreathed in Shadows | 0.20% | ~77 |
+| Under pressure | 0.20% | ~77 |
 | A Drownie devotee | 0.10% | ~38 |
 | Romans 6:9 | 0.10% | ~38 |
 | Ofermod | 0.10% | ~38 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,247 (Ranked 106)  
+Progressed: 38,251 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 3 (0.01%) (Ranked 288)
 | 2023-09-30 | 38,098 | 3 |
 | 2023-10-01 | 38,156 | 3 |
 | 2023-10-02 | 38,207 | 3 |
-| 2023-10-03 | 38,247 | 3 |
+| 2023-10-03 | 38,251 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 273)  
 Sum: 285 (Ranked 351)  
@@ -333,3 +333,4 @@ Diff (max vs sum): -78
 | 2023-07-28 | 4.58 | - | 213 | 283 |
 | 2023-09-07 | 4.58 | - | 214 | 284 |
 | 2023-09-09 | 4.58 | - | 214 | 285 |
+| 2023-10-03 | 4.59 | - | 214 | 285 |

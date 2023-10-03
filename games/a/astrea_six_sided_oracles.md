@@ -13,10 +13,10 @@
 | Endless Tricks | 76.00% | ~28 |
 | Mind Illuminator | 65.00% | ~24 |
 | Stellar Dismantler | 51.00% | ~19 |
+| Astral Adventurer | 43.00% | ~16 |
 | Anomaly Destroyer | 41.00% | ~15 |
-| Astral Adventurer | 41.00% | ~15 |
 | Star Killer | 38.00% | ~14 |
-| Unbeatable | 32.00% | ~12 |
+| Unbeatable | 35.00% | ~13 |
 | Loyal Partner | 30.00% | ~11 |
 | Sadistic Plan | 24.00% | ~9 |
 | Stellar Haste | 22.00% | ~8 |

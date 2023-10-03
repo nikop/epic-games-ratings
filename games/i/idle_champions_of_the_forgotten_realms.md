@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~591 |
 | Beast Intentions | 0.20% | ~462 |
 | The Cursed Farmer | 0.20% | ~462 |
+| The Ring of Regeneration | 0.20% | ~462 |
 | The Mad Wizard | 0.20% | ~462 |
 | Slow Down Showdown | 0.20% | ~394 |
 | Entrance of the Gladiators | 0.20% | ~394 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~231 |
 | Our Time To Shine | 0.10% | ~231 |
 | Review by the Blackstaff | 0.10% | ~197 |
-| The Ring of Regeneration | 0.10% | ~231 |
 | The Crumbling Temple | 0.10% | ~231 |
 | The Death Curse | 0.10% | ~231 |
 | Treasure Hunters | 0.10% | ~231 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,818 (Ranked 56)  
+Progressed: 230,822 (Ranked 56)  
 Completed: 2,325 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -697,7 +697,7 @@ Completed: 2,325 (1.01%) (Ranked 136)
 | 2023-09-30 | 230,569 | 2,317 |
 | 2023-10-01 | 230,655 | 2,320 |
 | 2023-10-02 | 230,760 | 2,325 |
-| 2023-10-03 | 230,818 | 2,325 |
+| 2023-10-03 | 230,822 | 2,325 |
 ## Awards
 Max (Diverse Characters): 5,354  (Ranked 69)  
 Sum: 31,882 (Ranked 40)  

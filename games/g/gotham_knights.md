@@ -10,15 +10,15 @@ Rating: 4.18 (Ranked 897)
 | Loose Ends | 34.00% | ~24,848 |
 | To the Victor Go the Spoils | 29.00% | ~21,194 |
 | Knighthood | 28.00% | ~20,463 |
-| Get ReQ'd | 25.00% | ~18,270 |
-| Whispered Words | 25.00% | ~18,270 |
+| Get ReQ'd | 25.00% | ~18,271 |
+| Whispered Words | 25.00% | ~18,271 |
 | The Batman Family | 23.00% | ~16,809 |
 | Lock and Key | 23.00% | ~16,809 |
 | Something in the Clay | 21.00% | ~15,347 |
 | Quartzer Life Crisis | 21.00% | ~15,347 |
-| Working Hard or Harley Working? | 20.00% | ~14,616 |
-| Unstoppable Force | 20.00% | ~14,616 |
-| Bad Apples in Every Orchard | 20.00% | ~14,616 |
+| Working Hard or Harley Working? | 20.00% | ~14,617 |
+| Unstoppable Force | 20.00% | ~14,617 |
+| Bad Apples in Every Orchard | 20.00% | ~14,617 |
 | Snow Problem | 19.00% | ~13,886 |
 | The Show Mud Go On | 18.00% | ~13,155 |
 | From Inside Gotham's Walls | 18.00% | ~13,155 |
@@ -26,9 +26,9 @@ Rating: 4.18 (Ranked 897)
 | Universal Health Scare | 16.00% | ~11,693 |
 | In Your Element | 15.00% | ~10,962 |
 | Voiceless | 15.00% | ~10,962 |
-| Rock and a Hard Place | 14.00% | ~10,231 |
-| Cooldown | 14.00% | ~10,231 |
-| Seeking Asylum | 14.00% | ~10,231 |
+| Rock and a Hard Place | 14.00% | ~10,232 |
+| Cooldown | 14.00% | ~10,232 |
+| Seeking Asylum | 14.00% | ~10,232 |
 | Not On My Watch | 13.00% | ~9,501 |
 | Shock Til They Drop | 13.00% | ~9,501 |
 | End of an Era | 12.00% | ~8,770 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,082 (Ranked 87)  
+Progressed: 73,083 (Ranked 87)  
 Completed: 122 (0.17%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 122 (0.17%) (Ranked 225)
 | 2023-09-30 | 72,990 | 120 |
 | 2023-10-01 | 73,024 | 121 |
 | 2023-10-02 | 73,059 | 121 |
-| 2023-10-03 | 73,082 | 122 |
+| 2023-10-03 | 73,083 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,778  (Ranked 97)  
 Sum: 4,651 (Ranked 140)  

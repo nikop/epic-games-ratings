@@ -11,6 +11,7 @@
 | End in Sight | 9.00% | ~1 |
 | Fun and Games Ahead | 9.00% | ~1 |
 | Six's Song | 9.00% | ~1 |
+| Highly Sprung | 9.00% | ~1 |
 | I'm Losing You | 9.00% | ~1 |
 | Is Anybody Out There? | 9.00% | ~1 |
 | Kitchen Hand | 9.00% | ~1 |
@@ -20,7 +21,6 @@
 | The Lair | 9.00% | ~1 |
 | We'll Meet Again | 9.00% | ~1 |
 | Hard to the Core | 0.00% | ~0 |
-| Highly Sprung | 0.00% | ~0 |
 | Little Lost Things | 0.00% | ~0 |
 | Rascal | 0.00% | ~0 |
 | The Guest Area | 0.00% | ~0 |

@@ -25,7 +25,7 @@ Rating: 4.61 (Ranked 370)
 | Get Off My Ship! | 40.00% | ~297 |
 | Strange Transmissions | 40.00% | ~297 |
 | Wreckage | 38.00% | ~282 |
-| Keeper of the Faith | 35.00% | ~260 |
+| Keeper of the Faith | 36.00% | ~267 |
 | Betrayed | 34.00% | ~252 |
 | There's Always Peng! | 34.00% | ~252 |
 | A Cut Above | 33.00% | ~245 |

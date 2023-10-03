@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,533 |
-| Rough Landing | 4.00% | ~35,533 |
+| Ten out of Ten | 4.00% | ~35,534 |
+| Rough Landing | 4.00% | ~35,534 |
 | Gunslinger | 3.00% | ~26,650 |
 | Master Crafter | 3.00% | ~26,650 |
 | The Jungle | 3.00% | ~26,650 |
-| Full Body Conversion | 2.00% | ~17,766 |
-| Right Back At Ya | 2.00% | ~17,766 |
-| Mean Streets | 2.00% | ~17,766 |
-| Breathtaking | 2.00% | ~17,766 |
-| Stanislavski's Method | 2.00% | ~17,766 |
-| Temperance | 2.00% | ~17,766 |
-| The Hermit | 2.00% | ~17,766 |
-| The High Priestess | 2.00% | ~17,766 |
-| The Lovers | 2.00% | ~17,766 |
-| The Wheel of Fortune | 2.00% | ~17,766 |
-| True Soldier | 2.00% | ~17,766 |
-| True Warrior | 2.00% | ~17,766 |
-| Two Heads, One Bullet | 2.00% | ~17,766 |
-| V for Vendetta | 2.00% | ~17,766 |
-| Legend of The Afterlife | 2.00% | ~17,766 |
+| Full Body Conversion | 2.00% | ~17,767 |
+| Right Back At Ya | 2.00% | ~17,767 |
+| Mean Streets | 2.00% | ~17,767 |
+| Breathtaking | 2.00% | ~17,767 |
+| Stanislavski's Method | 2.00% | ~17,767 |
+| Temperance | 2.00% | ~17,767 |
+| The Hermit | 2.00% | ~17,767 |
+| The High Priestess | 2.00% | ~17,767 |
+| The Lovers | 2.00% | ~17,767 |
+| The Wheel of Fortune | 2.00% | ~17,767 |
+| True Soldier | 2.00% | ~17,767 |
+| True Warrior | 2.00% | ~17,767 |
+| Two Heads, One Bullet | 2.00% | ~17,767 |
+| V for Vendetta | 2.00% | ~17,767 |
+| Legend of The Afterlife | 2.00% | ~17,767 |
 | To Bad Decisions! | 1.00% | ~8,883 |
 | Gun Fu | 1.00% | ~8,883 |
 | Christmas Tree Attack | 1.00% | ~8,883 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,320 (Ranked 15)  
+Progressed: 888,342 (Ranked 15)  
 Completed: 2,563 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,11 +230,11 @@ Completed: 2,563 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,320 | 2,563 |
+| 2023-10-03 | 888,342 | 2,563 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
-Sum: 258,842 (Ranked 12)  
-Diff (max vs sum): -3  
+Sum: 259,077 (Ranked 11)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 90,464 |
@@ -247,7 +247,7 @@ Diff (max vs sum): -3
 | This game is Relaxing | 12,188 |
 | This game has Amazing Characters | 12,086 |
 | This game has Quickly Understood Controls | 11,870 |
-| This game has a Creative Community | 7,847 |
+| This game has a Creative Community | 8,082 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -508,4 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
-| 2023-10-03 | 4.63 | - | 90,464 | 258,842 |
+| 2023-10-03 | 4.63 | - | 90,464 | 259,077 |

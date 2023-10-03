@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,361 |
-| Photographer | 69.00% | ~7,256 |
-| Valley's Helper | 62.00% | ~6,520 |
-| Constructor | 51.00% | ~5,363 |
-| Renovator | 51.00% | ~5,363 |
+| Goofy's Investor | 70.00% | ~7,362 |
+| Photographer | 69.00% | ~7,257 |
+| Valley's Helper | 62.00% | ~6,521 |
+| Constructor | 51.00% | ~5,364 |
+| Renovator | 51.00% | ~5,364 |
 | Bestest Friend | 47.00% | ~4,943 |
-| Banker | 39.00% | ~4,101 |
+| Banker | 39.00% | ~4,102 |
 | Gardener | 31.00% | ~3,260 |
 | Generous | 24.00% | ~2,524 |
 | Chef Cook | 17.00% | ~1,788 |
-| Miner | 9.00% | ~946 |
+| Miner | 9.00% | ~947 |
 | Duty Bound | 7.00% | ~736 |
 | Angler | 5.00% | ~526 |
 | Thorn Cleaner | 5.00% | ~526 |
-| Chit Chatter | 3.00% | ~315 |
+| Chit Chatter | 3.00% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,516 (Ranked 140)  
+Progressed: 10,517 (Ranked 140)  
 Completed: 248 (2.36%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,22 +139,22 @@ Completed: 248 (2.36%) (Ranked 98)
 | 2023-09-30 | 10,441 | 243 |
 | 2023-10-01 | 10,472 | 245 |
 | 2023-10-02 | 10,498 | 246 |
-| 2023-10-03 | 10,516 | 248 |
+| 2023-10-03 | 10,517 | 248 |
 ## Awards
 Max (Great for Beginners): 986  (Ranked 147)  
-Sum: 7,647 (Ranked 106)  
+Sum: 7,649 (Ranked 106)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 986 |
-| This game has Diverse Characters | 838 |
+| This game has Diverse Characters | 839 |
 | This game has Amazing Characters | 804 |
 | This game is Relaxing | 804 |
 | This game is Highly Recommended | 803 |
 | This game has Amazing Storytelling | 767 |
 | This game is Extremely Fun | 753 |
 | This game has Quickly Understood Controls | 746 |
-| This game has a Creative Community | 635 |
+| This game has a Creative Community | 636 |
 | This game has Easy Combat | 511 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -364,4 +364,4 @@ Diff (max vs sum): 41
 | 2023-09-30 | 4.76 | - | 977 | 7,631 |
 | 2023-10-01 | 4.76 | - | 981 | 7,636 |
 | 2023-10-02 | 4.76 | - | 983 | 7,639 |
-| 2023-10-03 | 4.76 | - | 986 | 7,647 |
+| 2023-10-03 | 4.76 | - | 986 | 7,649 |

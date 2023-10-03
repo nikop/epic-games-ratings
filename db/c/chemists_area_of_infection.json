@@ -2,9 +2,9 @@
   "ID": "fea1ed5bd4504901b84032501c843137",
   "Name": "Chemists Area of infection",
   "ProductSlug": "chemists-area-of-infection-49ce28",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.9584208+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:00:14.137253+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:03:33.648354+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:02:25.0384494+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:04:36.6167453+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2476,
+  "EOS_Progressed": 2478,
   "EOS_Completed": 227,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.17,
+  "EOS_Completed_Percentage": 9.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6408,6 +6408,11 @@
       "Time": "2023-10-03T16:05:43.8426951+00:00",
       "NumProgressed": 2476,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-03T17:07:31.7381522+00:00",
+      "NumProgressed": 2478,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 12,
@@ -6419,7 +6424,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Bernard",
@@ -6443,7 +6448,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Jacques a Dit",
@@ -6451,7 +6456,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "Jakob",
@@ -6483,7 +6488,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6514,7 +6519,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2476,
+      "Progressed": 2478,
       "Completed": 227
     }
   ],
@@ -6522,8 +6527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:05:43.8426947+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:07:31.7381517+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.0820452+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:00:09.4690957+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:05:43.8427326+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:02:17.5114075+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:07:31.7382002+00:00"
 }

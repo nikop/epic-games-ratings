@@ -2,9 +2,9 @@
   "ID": "c6422f963ff84bcbb3b77539e77b6ef7",
   "Name": "Ultros",
   "ProductSlug": "ultros",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T10:57:04.361852+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:59:20.0546777+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:03:44.574561+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:01:13.4954143+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:04:51.4856711+00:00"
 }

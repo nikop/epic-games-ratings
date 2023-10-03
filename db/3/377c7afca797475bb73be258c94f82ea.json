@@ -2,9 +2,9 @@
   "ID": "377c7afca797475bb73be258c94f82ea",
   "Name": "Ragnarok Survivors Valhalla",
   "ProductSlug": "ragnarok-survivors-valhalla-217b97",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-03T16:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-03T17:07:38.5331416+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-09-26T17:02:42.8387655+00:00",
   "TotalAchievements": 34,
   "TotalAchievementsXP": 1000,
@@ -33,9 +39,9 @@
       "ID": "ACH_1",
       "SetID": "bf122dm",
       "Name": "First Blood",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10",
@@ -306,13 +312,13 @@
     {
       "ID": "bf122dm",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-26T17:02:42.8387651+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:05:48.7827248+00:00",
-  "LastUpdate_AppInfo": "2023-09-26T16:57:05.410112+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:00:09.3534949+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:05:48.7827447+00:00"
+  "LastChanged_Achievements": "2023-10-03T17:07:38.533141+00:00",
+  "LastUpdate_AppInfo": "2023-10-03T16:58:05.0542839+00:00",
+  "LastUpdate_Ratings": "2023-10-03T17:02:17.3176559+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:07:38.5331646+00:00"
 }

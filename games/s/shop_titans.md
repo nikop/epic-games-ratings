@@ -27,10 +27,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,371 |
 | Through Repetition, Perfection | 1.00% | ~1,371 |
 | Own the Means of Production | 1.00% | ~1,371 |
-| Gild-Gotten Goods | 0.90% | ~1,233 |
-| Accomplished Merchant | 0.90% | ~1,233 |
-| Did we pack lunch? | 0.90% | ~1,233 |
-| Arcane Industries | 0.90% | ~1,233 |
+| Gild-Gotten Goods | 0.90% | ~1,234 |
+| Accomplished Merchant | 0.90% | ~1,234 |
+| Did we pack lunch? | 0.90% | ~1,234 |
+| Arcane Industries | 0.90% | ~1,234 |
 | On the Path to Greatness | 0.80% | ~1,096 |
 | Ascended | 0.80% | ~1,096 |
 | Vanity, Verily | 0.80% | ~1,096 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,053 (Ranked 70)  
+Progressed: 137,059 (Ranked 71)  
 Completed: 160 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 160 (0.12%) (Ranked 234)
 | 2023-09-30 | 136,919 | 158 |
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
-| 2023-10-03 | 137,053 | 160 |
+| 2023-10-03 | 137,059 | 160 |
 ## Awards
 Max (Great for Beginners): 4,765  (Ranked 71)  
 Sum: 27,321 (Ranked 49)  

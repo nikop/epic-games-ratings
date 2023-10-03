@@ -3350,9 +3350,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73082,
+  "EOS_Progressed": 73083,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17480,6 +17480,11 @@
       "Time": "2023-10-03T16:04:59.6724271+00:00",
       "NumProgressed": 73082,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-03T17:06:32.4611005+00:00",
+      "NumProgressed": 73083,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17611,7 +17616,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10231
+      "UsersEstimate": 10232
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -17739,7 +17744,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10231
+      "UsersEstimate": 10232
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -17803,7 +17808,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18271
     },
     {
       "ID": "HARLEY_3",
@@ -17811,7 +17816,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "HARLEY_4",
@@ -17859,7 +17864,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17891,7 +17896,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18271
     },
     {
       "ID": "MYSTERY_03",
@@ -17907,7 +17912,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "MYSTERY_05",
@@ -17931,7 +17936,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10231
+      "UsersEstimate": 10232
     },
     {
       "ID": "MYSTERY_08",
@@ -17978,13 +17983,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73082,
+      "Progressed": 73083,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43362,
+      "Progressed": 43363,
       "Completed": 2668
     }
   ],
@@ -17992,8 +17997,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-03T13:03:58.1505338+00:00",
-  "LastChanged_Achievements": "2023-10-03T16:04:59.6724263+00:00",
+  "LastChanged_Achievements": "2023-10-03T17:06:32.4610996+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:57:15.8500881+00:00",
-  "LastUpdate_Achievements": "2023-10-03T16:04:59.6725399+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:58:15.5704489+00:00",
+  "LastUpdate_Achievements": "2023-10-03T17:06:32.4612591+00:00"
 }
