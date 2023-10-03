@@ -168,7 +168,6 @@
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-12-31 | 18 (1,000 XP) | 1 | - | 0 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-12-31 | - |  | - | - |
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | 2023-12-31 | - |  | - | - |
-| [VED](games/v/ved.md) | 2023-12-31 | - |  | - | - |
 | [Venatur](games/a/ac4ba4393ede46f1960596d753b6222c.md) | 2023-12-31 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2023-12-31 | - |  | - | - |
@@ -192,7 +191,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,414 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,417 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -230,6 +229,7 @@
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | 2024-12-31 | - |  | - | - |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-12-31 | - |  | - | - |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
+| [VED](games/v/ved.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
