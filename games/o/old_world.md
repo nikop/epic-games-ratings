@@ -1,19 +1,20 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 302)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.30% | ~43 |
 | Settler | 0.30% | ~43 |
 | Play a Single Player Game | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
-| Explorer | 0.20% | ~29 |
 | Good | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
+| Noble | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
 | Oracle | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.10% | ~14 |
 | Magnificent | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
-| Noble | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
 | Pioneer | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,308 (Ranked 133)  
+Progressed: 14,309 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,308 | 5 |
+| 2023-10-03 | 14,309 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

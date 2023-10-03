@@ -87,7 +87,7 @@
 | Paramour II | 20.00% | ~107 |
 | Tunnel Rat | 20.00% | ~107 |
 | Lost and Found | 20.00% | ~107 |
-| Electronics Specialist | 18.00% | ~96 |
+| Electronics Specialist | 19.00% | ~102 |
 | Sabotage Specialist | 18.00% | ~96 |
 | No One Left Behind | 18.00% | ~96 |
 | Party Crasher | 18.00% | ~96 |
@@ -95,9 +95,9 @@
 | Pyromaniac | 17.00% | ~91 |
 | Under Pressure | 17.00% | ~91 |
 | Hard Target | 17.00% | ~91 |
+| Saboteur | 17.00% | ~91 |
 | Fact Finder | 17.00% | ~91 |
 | Last Resort | 16.00% | ~86 |
-| Saboteur | 16.00% | ~86 |
 | Last Witness | 16.00% | ~86 |
 | Throw Mastery | 15.00% | ~80 |
 | Well Connected | 15.00% | ~80 |
@@ -122,9 +122,9 @@
 | Singularity Mastery | 6.00% | ~32 |
 | Insanity I | 5.00% | ~27 |
 | Shield Breaker | 4.00% | ~21 |
+| Warp Specialist | 4.00% | ~21 |
 | Insanity II | 3.00% | ~16 |
 | Tactician | 3.00% | ~16 |
-| Warp Specialist | 3.00% | ~16 |
 | Stasis Mastery | 2.00% | ~11 |
 | Gunsmith | 2.00% | ~11 |
 | AI Hacking Specialist | 2.00% | ~11 |

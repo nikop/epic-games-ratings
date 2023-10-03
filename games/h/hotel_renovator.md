@@ -26,7 +26,7 @@ Rating: 4.36 (Ranked 758)
 | Kaboom | 27.00% | ~287 |
 | Nearly there | 25.00% | ~266 |
 | Broken heart | 23.00% | ~244 |
-| Island boy | 21.00% | ~223 |
+| Island boy | 22.00% | ~234 |
 | You're a star | 20.00% | ~213 |
 | Unstoppable | 18.00% | ~191 |
 | Reunited | 18.00% | ~191 |

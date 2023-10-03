@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 66844,
+  "EOS_Progressed": 66845,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 1,
@@ -16724,6 +16724,11 @@
       "Time": "2023-10-03T11:04:36.256657+00:00",
       "NumProgressed": 66844,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-03T12:05:14.3262222+00:00",
+      "NumProgressed": 66845,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16735,7 +16740,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 28074
+      "UsersEstimate": 28075
     },
     {
       "ID": "02",
@@ -16751,7 +16756,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17379
+      "UsersEstimate": 17380
     },
     {
       "ID": "04",
@@ -16775,7 +16780,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12700
+      "UsersEstimate": 12701
     },
     {
       "ID": "07",
@@ -17071,7 +17076,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12700
+      "UsersEstimate": 12701
     },
     {
       "ID": "44",
@@ -17207,7 +17212,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "61",
@@ -17263,28 +17268,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 66844,
+      "Progressed": 66845,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30312,
+      "Progressed": 30313,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:04:36.2566566+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:05:14.3262218+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:59:44.1484381+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:04:36.2568154+00:00"
+  "LastUpdate_Ratings": "2023-10-03T12:00:47.1698818+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:05:14.3263534+00:00"
 }

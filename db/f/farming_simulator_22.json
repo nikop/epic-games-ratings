@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9607,10 +9607,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 40804,
       "NumberOfAwardsMax": 5089
+    },
+    {
+      "Time": "2023-10-03T11:57:37.2494844+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 40808,
+      "NumberOfAwardsMax": 5089
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40804,
+  "NumberOfAwards": 40808,
   "NumberOfAwardsMax": 5089,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9642,7 +9648,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4049
+      "Count": 4053
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9687,7 +9693,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49360,
+  "EOS_Progressed": 49361,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
@@ -24492,6 +24498,11 @@
       "Time": "2023-10-03T11:09:04.6546755+00:00",
       "NumProgressed": 49360,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-03T12:09:17.4449815+00:00",
+      "NumProgressed": 49361,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -24583,7 +24594,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31590
+      "UsersEstimate": 31591
     },
     {
       "ID": "CutTree",
@@ -24639,7 +24650,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29616
+      "UsersEstimate": 29617
     },
     {
       "ID": "Harvested",
@@ -24655,7 +24666,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37020
+      "UsersEstimate": 37021
     },
     {
       "ID": "HorseJumps",
@@ -24735,7 +24746,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21718
+      "UsersEstimate": 21719
     },
     {
       "ID": "NumProductionPoints",
@@ -24775,7 +24786,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29122
+      "UsersEstimate": 29123
     },
     {
       "ID": "Sow",
@@ -24846,15 +24857,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49360,
+      "Progressed": 49361,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-10-03T09:57:22.7684427+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:09:04.654675+00:00",
+  "LastChanged": "2023-10-03T11:57:37.2494843+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:09:17.4449811+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:57:31.0605153+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:09:04.6548006+00:00"
+  "LastUpdate_Ratings": "2023-10-03T11:57:37.2494848+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:09:17.4450814+00:00"
 }

@@ -5,61 +5,61 @@ Rating: 4.49 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~3,908 |
-| For Saw Gerrera | 98.00% | ~3,868 |
-| Grab Some Seat | 90.00% | ~3,552 |
-| Can You Pet the Bogling? | 85.00% | ~3,355 |
-| The Past Made Present | 79.00% | ~3,118 |
-| Survivors, We Adapt | 74.00% | ~2,921 |
-| Among the Masters | 73.00% | ~2,881 |
-| They Never Saw It Coming | 72.00% | ~2,842 |
-| Who Gives a Puck | 67.00% | ~2,644 |
-| Mirror Match | 62.00% | ~2,447 |
-| Now, This Isn't Podracing | 58.00% | ~2,289 |
-| For the Path | 58.00% | ~2,289 |
-| Skywalker | 54.00% | ~2,131 |
-| Out of Bedlam | 52.00% | ~2,052 |
-| Cleaning Up | 51.00% | ~2,013 |
-| Hey, Luke At Us | 46.00% | ~1,816 |
-| Kitted Out | 45.00% | ~1,776 |
-| Riposte | 42.00% | ~1,658 |
-| Tanalorr Bound | 42.00% | ~1,658 |
-| Tragedy | 39.00% | ~1,539 |
-| Greezy Money | 38.00% | ~1,500 |
-| At the Precipice | 37.00% | ~1,460 |
-| Catch! | 36.00% | ~1,421 |
-| Into the Abyss | 35.00% | ~1,381 |
-| They're Probably Fine | 35.00% | ~1,381 |
-| A Place You Could Call Home | 34.00% | ~1,342 |
-| Han Slowlo | 31.00% | ~1,224 |
-| There Is No Try | 31.00% | ~1,224 |
-| The Jedi Path | 26.00% | ~1,026 |
-| This Is Canon | 24.00% | ~947 |
-| It's a Trap | 21.00% | ~829 |
-| You've Got A Friend | 19.00% | ~750 |
+| Rooftop Duel | 99.00% | ~3,913 |
+| For Saw Gerrera | 98.00% | ~3,874 |
+| Grab Some Seat | 90.00% | ~3,558 |
+| Can You Pet the Bogling? | 85.00% | ~3,360 |
+| The Past Made Present | 79.00% | ~3,123 |
+| Survivors, We Adapt | 74.00% | ~2,925 |
+| Among the Masters | 73.00% | ~2,886 |
+| They Never Saw It Coming | 72.00% | ~2,846 |
+| Who Gives a Puck | 67.00% | ~2,649 |
+| Mirror Match | 62.00% | ~2,451 |
+| Now, This Isn't Podracing | 58.00% | ~2,293 |
+| For the Path | 58.00% | ~2,293 |
+| Skywalker | 54.00% | ~2,135 |
+| Out of Bedlam | 52.00% | ~2,056 |
+| Cleaning Up | 51.00% | ~2,016 |
+| Hey, Luke At Us | 46.00% | ~1,818 |
+| Kitted Out | 45.00% | ~1,779 |
+| Riposte | 42.00% | ~1,660 |
+| Tanalorr Bound | 42.00% | ~1,660 |
+| Tragedy | 39.00% | ~1,542 |
+| Greezy Money | 38.00% | ~1,502 |
+| At the Precipice | 37.00% | ~1,463 |
+| Catch! | 36.00% | ~1,423 |
+| Into the Abyss | 35.00% | ~1,384 |
+| They're Probably Fine | 35.00% | ~1,384 |
+| A Place You Could Call Home | 34.00% | ~1,344 |
+| Han Slowlo | 31.00% | ~1,225 |
+| There Is No Try | 31.00% | ~1,225 |
+| The Jedi Path | 26.00% | ~1,028 |
+| This Is Canon | 24.00% | ~949 |
+| It's a Trap | 21.00% | ~830 |
+| You've Got A Friend | 19.00% | ~751 |
 | Reconnaissance | 14.00% | ~553 |
-| King of the World | 13.00% | ~513 |
+| King of the World | 13.00% | ~514 |
 | A Presence I've Not Felt Since... | 12.00% | ~474 |
-| Max Capacity | 11.00% | ~434 |
-| Slam Dunk | 9.00% | ~355 |
+| Max Capacity | 11.00% | ~435 |
+| Slam Dunk | 9.00% | ~356 |
 | Star Tours | 8.00% | ~316 |
 | Gambler | 8.00% | ~316 |
-| Caij Match | 7.00% | ~276 |
-| Growth Spurt | 7.00% | ~276 |
-| Perk of the Job | 5.00% | ~197 |
+| Caij Match | 7.00% | ~277 |
+| Growth Spurt | 7.00% | ~277 |
+| Perk of the Job | 5.00% | ~198 |
 | I'm a Living Legend | 4.00% | ~158 |
 | Get Down From There | 4.00% | ~158 |
 | Road House | 4.00% | ~158 |
 | Skoova Diving | 4.00% | ~158 |
 | Intergalactic Geographic | 4.00% | ~158 |
-| One With the Force | 3.00% | ~118 |
-| Cobra Cal | 3.00% | ~118 |
+| One With the Force | 3.00% | ~119 |
+| Cobra Cal | 3.00% | ~119 |
 | So Uncivilized | 2.00% | ~79 |
 | Pinpoint | 2.00% | ~79 |
 | Splurgle | 2.00% | ~79 |
 | Blood, Sweat, and Tears | 2.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,947 (Ranked 175)  
+Progressed: 3,953 (Ranked 175)  
 Completed: 15 (0.38%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 15 (0.38%) (Ranked 181)
 | 2023-09-30 | 3,533 | 12 |
 | 2023-10-01 | 3,762 | 14 |
 | 2023-10-02 | 3,900 | 14 |
-| 2023-10-03 | 3,947 | 15 |
+| 2023-10-03 | 3,953 | 15 |
 ## Awards
 Max (Great Boss Battles): 2,824  (Ranked 96)  
 Sum: 4,132 (Ranked 146)  

@@ -1,29 +1,29 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.65 (Ranked 301)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,700 |
-| On the Top Step | 87.00% | ~2,499 |
-| Setting up for Success | 76.00% | ~2,183 |
-| Team Orders | 74.00% | ~2,125 |
-| Engineer | 55.00% | ~1,580 |
-| Familiar Faces | 48.00% | ~1,379 |
-| Going the Extra Mile | 42.00% | ~1,206 |
-| Sharing the Love | 40.00% | ~1,149 |
-| Hitting a Season | 34.00% | ~976 |
+| Getting on the Step | 94.00% | ~2,702 |
+| On the Top Step | 87.00% | ~2,500 |
+| Setting up for Success | 76.00% | ~2,184 |
+| Team Orders | 74.00% | ~2,127 |
+| Engineer | 55.00% | ~1,581 |
+| Familiar Faces | 48.00% | ~1,380 |
+| Going the Extra Mile | 42.00% | ~1,207 |
+| Sharing the Love | 40.00% | ~1,150 |
+| Hitting a Season | 34.00% | ~977 |
 | Challenge Yourself | 33.00% | ~948 |
-| Making History | 31.00% | ~890 |
-| A Dozen Pieces | 29.00% | ~833 |
-| Spring Cleaning | 24.00% | ~689 |
-| Network Success | 24.00% | ~689 |
-| Writing a new Chapter | 24.00% | ~689 |
+| Making History | 31.00% | ~891 |
+| A Dozen Pieces | 30.00% | ~862 |
+| Spring Cleaning | 24.00% | ~690 |
+| Network Success | 24.00% | ~690 |
+| Writing a new Chapter | 24.00% | ~690 |
 | Reduce | 19.00% | ~546 |
 | Ups and Downs | 19.00% | ~546 |
-| Crucial Combo | 17.00% | ~488 |
-| One for the Book | 17.00% | ~488 |
+| Crucial Combo | 17.00% | ~489 |
+| One for the Book | 17.00% | ~489 |
 | Reuse | 16.00% | ~460 |
 | Gathering Dust | 15.00% | ~431 |
 | Oil and Water | 15.00% | ~431 |
@@ -40,8 +40,8 @@ Rating: 4.66 (Ranked 282)
 | Undisputed Winner | 8.00% | ~230 |
 | For all Those Back at the Factory | 6.00% | ~172 |
 | Living up to Expectations | 6.00% | ~172 |
-| Smooth Operator | 6.00% | ~172 |
 | Loyal Bond | 5.00% | ~144 |
+| Smooth Operator | 5.00% | ~144 |
 | Peak Performance | 5.00% | ~144 |
 | Seasoned Rookie | 3.00% | ~86 |
 | Hitting a Century | 3.00% | ~86 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 282)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,872 (Ranked 190)  
+Progressed: 2,874 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,872 | 0 |
+| 2023-10-03 | 2,874 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,3 +128,4 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-27 | 4.66 | 0 | 0 |
 | 2023-09-30 | 4.66 | 0 | 0 |
 | 2023-10-01 | 4.67 | 0 | 0 |
+| 2023-10-03 | 4.65 | 0 | 0 |

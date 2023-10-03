@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662869,
+  "EOS_Progressed": 662871,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
@@ -16643,6 +16643,11 @@
       "Time": "2023-10-03T11:03:44.2242872+00:00",
       "NumProgressed": 662869,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-03T12:04:03.9513292+00:00",
+      "NumProgressed": 662871,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16654,7 +16659,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477266
+      "UsersEstimate": 477267
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16662,7 +16667,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384464
+      "UsersEstimate": 384465
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16742,7 +16747,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33143
+      "UsersEstimate": 33144
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -16830,7 +16835,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33143
+      "UsersEstimate": 33144
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -16894,7 +16899,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79544
+      "UsersEstimate": 79545
     },
     {
       "ID": "Achievement_32_Karma",
@@ -16918,7 +16923,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165717
+      "UsersEstimate": 165718
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17037,15 +17042,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662869,
+      "Progressed": 662871,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:03:44.2242868+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:04:03.9513285+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:00:05.7408683+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:03:44.224422+00:00"
+  "LastUpdate_Ratings": "2023-10-03T12:01:16.9125836+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:04:03.9514379+00:00"
 }

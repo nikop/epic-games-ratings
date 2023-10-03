@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,020 |
-| I read Shakespeare and stuff | 64.00% | ~31,590 |
+| Own use | 75.00% | ~37,021 |
+| I read Shakespeare and stuff | 64.00% | ~31,591 |
 | Just a sprinkle | 63.00% | ~31,097 |
 | I'm stumped | 61.00% | ~30,110 |
-| Plant get enough | 60.00% | ~29,616 |
-| It's just the beginning | 59.00% | ~29,122 |
+| Plant get enough | 60.00% | ~29,617 |
+| It's just the beginning | 59.00% | ~29,123 |
 | This is just my weekend vehicle | 58.00% | ~28,629 |
 | Hard work pays off | 53.00% | ~26,161 |
 | It's never too late to farm | 50.00% | ~24,680 |
-| All out of Land | 44.00% | ~21,718 |
+| All out of Land | 44.00% | ~21,719 |
 | Field Trip | 43.00% | ~21,225 |
 | I like to switch it up | 40.00% | ~19,744 |
 | Help me to help you | 38.00% | ~18,757 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~197 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,360 (Ranked 100)  
+Progressed: 49,361 (Ranked 100)  
 Completed: 6 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 6 (0.01%) (Ranked 288)
 | 2023-09-30 | 49,254 | 6 |
 | 2023-10-01 | 49,299 | 6 |
 | 2023-10-02 | 49,346 | 6 |
-| 2023-10-03 | 49,360 | 6 |
+| 2023-10-03 | 49,361 | 6 |
 ## Awards
 Max (Great for Beginners): 5,089  (Ranked 70)  
-Sum: 40,804 (Ranked 33)  
+Sum: 40,808 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 37
 | This game is Educational | 4,207 |
 | This game is Relaxing | 4,170 |
 | This game has Quickly Understood Controls | 4,129 |
-| This game is Highly Recommended | 4,049 |
+| This game is Highly Recommended | 4,053 |
 | This game is Extremely Fun | 4,022 |
 | This game has Amazing Storytelling | 3,929 |
 | This game has Amazing Characters | 3,554 |
@@ -497,4 +497,4 @@ Diff (max vs sum): 37
 | 2023-09-30 | 4.69 | - | 5,071 | 40,734 |
 | 2023-10-01 | 4.69 | - | 5,081 | 40,769 |
 | 2023-10-02 | 4.69 | - | 5,089 | 40,798 |
-| 2023-10-03 | 4.69 | - | 5,089 | 40,804 |
+| 2023-10-03 | 4.69 | - | 5,089 | 40,808 |

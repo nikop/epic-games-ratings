@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1513,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5497,6 +5497,11 @@
       "Time": "2023-10-03T01:48:00.9701264+00:00",
       "NumProgressed": 1513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T12:05:59.325701+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5636,7 +5641,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5764,7 +5769,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5811,7 +5816,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1513,
+      "Progressed": 1514,
       "Completed": 1
     }
   ],
@@ -5819,8 +5824,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-02T15:57:56.3745226+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:05:09.0086193+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:05:59.3257006+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:58:27.5401014+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:05:09.0086801+00:00"
+  "LastUpdate_Ratings": "2023-10-03T11:58:54.8554113+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:05:59.3257484+00:00"
 }

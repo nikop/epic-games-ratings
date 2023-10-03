@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21345,
+  "EOS_Progressed": 21348,
   "EOS_Completed": 425,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 4,
@@ -18210,6 +18210,11 @@
       "Time": "2023-10-03T11:08:15.5819675+00:00",
       "NumProgressed": 21345,
       "NumCompleted": 425
+    },
+    {
+      "Time": "2023-10-03T12:08:42.3198799+00:00",
+      "NumProgressed": 21348,
+      "NumCompleted": 425
     }
   ],
   "TotalAchievements": 20,
@@ -18237,7 +18242,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -18261,7 +18266,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -18277,7 +18282,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -18333,7 +18338,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "INTRO_FINISHED",
@@ -18341,7 +18346,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16436
+      "UsersEstimate": 16438
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18373,22 +18378,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21345,
+      "Progressed": 21348,
       "Completed": 425
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:08:15.5819671+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:08:42.3198794+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:00:34.3311285+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:08:15.5820885+00:00"
+  "LastUpdate_Ratings": "2023-10-03T12:02:04.6820239+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:08:42.3199731+00:00"
 }

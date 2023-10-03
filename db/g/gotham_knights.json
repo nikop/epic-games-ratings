@@ -3344,9 +3344,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73068,
+  "EOS_Progressed": 73070,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17449,6 +17449,11 @@
       "Time": "2023-10-03T11:04:49.5803993+00:00",
       "NumProgressed": 73068,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-03T12:05:32.6006721+00:00",
+      "NumProgressed": 73070,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17564,7 +17569,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15344
+      "UsersEstimate": 15345
     },
     {
       "ID": "CLAYFACE_2",
@@ -17572,7 +17577,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13152
+      "UsersEstimate": 13153
     },
     {
       "ID": "CLAYFACE_3",
@@ -17612,7 +17617,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -17692,7 +17697,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15344
+      "UsersEstimate": 15345
     },
     {
       "ID": "FREEZE_2",
@@ -17772,7 +17777,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18267
+      "UsersEstimate": 18268
     },
     {
       "ID": "HARLEY_3",
@@ -17804,7 +17809,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37995
+      "UsersEstimate": 37996
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17836,7 +17841,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20459
+      "UsersEstimate": 20460
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17852,7 +17857,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24843
+      "UsersEstimate": 24844
     },
     {
       "ID": "MYSTERY_02",
@@ -17860,7 +17865,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18267
+      "UsersEstimate": 18268
     },
     {
       "ID": "MYSTERY_03",
@@ -17884,7 +17889,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13152
+      "UsersEstimate": 13153
     },
     {
       "ID": "MYSTERY_06",
@@ -17916,7 +17921,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -17947,13 +17952,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73068,
+      "Progressed": 73070,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43348,
+      "Progressed": 43350,
       "Completed": 2668
     }
   ],
@@ -17961,8 +17966,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-02T23:02:02.8557951+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:04:49.580399+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:05:32.6006717+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:02:09.7693821+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:04:49.5805296+00:00"
+  "LastUpdate_Ratings": "2023-10-03T11:57:11.0061219+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:05:32.6007859+00:00"
 }

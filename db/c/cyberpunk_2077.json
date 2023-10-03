@@ -12893,10 +12893,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888187,
-  "EOS_Completed": 2558,
-  "EOS_NewPlayers": 6298,
-  "EOS_NewCompleters": 163,
+  "EOS_Progressed": 888209,
+  "EOS_Completed": 2560,
+  "EOS_NewPlayers": 6278,
+  "EOS_NewCompleters": 162,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31573,6 +31573,11 @@
       "Time": "2023-10-03T11:08:23.4904335+00:00",
       "NumProgressed": 888187,
       "NumCompleted": 2558
+    },
+    {
+      "Time": "2023-10-03T12:08:53.2843761+00:00",
+      "NumProgressed": 888209,
+      "NumCompleted": 2560
     }
   ],
   "TotalAchievements": 57,
@@ -31584,7 +31589,7 @@
       "Name": "City Lights",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "BornToBeWild",
@@ -31768,7 +31773,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35527
+      "UsersEstimate": 35528
     },
     {
       "ID": "Temperance",
@@ -31784,7 +31789,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35527
+      "UsersEstimate": 35528
     },
     {
       "ID": "TheDevil",
@@ -31864,7 +31869,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "TradeUnion",
@@ -31984,7 +31989,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Kingofcups",
@@ -32039,21 +32044,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888187,
-      "Completed": 2558
+      "Progressed": 888209,
+      "Completed": 2560
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16810,
+      "Progressed": 16832,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T09:00:46.854259+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:08:23.4904331+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:08:53.2843756+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:00:03.9790662+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:08:23.4906008+00:00"
+  "LastUpdate_Ratings": "2023-10-03T12:01:14.5990821+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:08:53.2845065+00:00"
 }

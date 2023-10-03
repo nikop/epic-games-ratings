@@ -1096,9 +1096,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13092,
+  "EOS_Progressed": 13093,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12226,6 +12226,11 @@
       "Time": "2023-10-03T06:06:07.1332174+00:00",
       "NumProgressed": 13092,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-03T12:06:39.9891204+00:00",
+      "NumProgressed": 13093,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12245,7 +12250,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH03",
@@ -12285,7 +12290,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "ACH08",
@@ -12333,7 +12338,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH14",
@@ -12516,7 +12521,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13092,
+      "Progressed": 13093,
       "Completed": 49
     }
   ],
@@ -12524,8 +12529,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-03T05:57:14.6737303+00:00",
-  "LastChanged_Achievements": "2023-10-03T11:05:39.7448016+00:00",
+  "LastChanged_Achievements": "2023-10-03T12:06:39.9891196+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:57:22.4313119+00:00",
-  "LastUpdate_Achievements": "2023-10-03T11:05:39.7448953+00:00"
+  "LastUpdate_Ratings": "2023-10-03T11:57:26.4725424+00:00",
+  "LastUpdate_Achievements": "2023-10-03T12:06:39.9891953+00:00"
 }
