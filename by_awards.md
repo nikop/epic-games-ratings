@@ -95,7 +95,7 @@
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,298 | 4.57 | 453 |
 | 94 | [Hades](games/h/hades.md) | 3,290 | 4.92 | 4 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,830 | 4.50 | 574 |
-| 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,810 | 4.49 | 590 |
+| 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,824 | 4.49 | 590 |
 | 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,778 | 4.18 | 896 |
 | 98 | [Among Us](games/a/among_us.md) | 2,700 | 4.57 | 453 |
 | 99 | [Path of Exile](games/p/path_of_exile.md) | 2,642 | 4.62 | 356 |
@@ -120,10 +120,10 @@
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,756 | 4.50 | 574 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,720 | 4.76 | 118 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,669 | 4.82 | 65 |
-| 121 | [Celeste](games/c/celeste.md) | 1,635 | 4.92 | 4 |
+| 121 | [Celeste](games/c/celeste.md) | 1,636 | 4.92 | 4 |
 | 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,530 | 4.78 | 104 |
 | 123 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,522 | 4.79 | 93 |
-| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,512 | 4.62 | 356 |
+| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,516 | 4.62 | 356 |
 | 125 | [Ring of Pain](games/r/ring_of_pain.md) | 1,496 | 4.58 | 435 |
 | 126 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,480 | 4.55 | 492 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,471 | 4.54 | 511 |
@@ -172,9 +172,9 @@
 | 170 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 729 | 4.82 | 65 |
 | 171 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 728 | 4.87 | 25 |
 | 172 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 715 | 4.59 | 416 |
-| 173 | [Subnautica](games/s/subnautica.md) | 709 | 4.85 | 42 |
-| 174 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 705 | 4.74 | 149 |
-| 175 | [Train Valley 2](games/t/train_valley_2.md) | 704 | 4.44 | 660 |
+| 173 | [Train Valley 2](games/t/train_valley_2.md) | 712 | 4.44 | 660 |
+| 174 | [Subnautica](games/s/subnautica.md) | 709 | 4.85 | 42 |
+| 175 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 705 | 4.74 | 149 |
 | 176 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 699 | 4.61 | 370 |
 | 177 | [Neon Abyss](games/n/neon_abyss.md) | 691 | 4.68 | 243 |
 | 178 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 676 | 4.67 | 261 |
@@ -292,7 +292,7 @@
 | 290 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 907 |
 | 291 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 758 |
 | 291 | [Mothergunship](games/m/mothergunship.md) | 173 | 4.38 | 738 |
-| 291 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 825 |
+| 291 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 824 |
 | 294 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 170 | 4.66 | 282 |
 | 295 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 168 | 4.59 | 416 |
 | 295 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 168 | 4.51 | 551 |
@@ -435,11 +435,11 @@
 | 433 | [GRIME](games/g/grime.md) | 41 | 4.59 | 416 |
 | 433 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 118 |
 | 435 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 40 | 4.78 | 104 |
-| 436 | [Bugsnax](games/b/bugsnax.md) | 39 | 4.86 | 30 |
-| 436 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.58 | 435 |
-| 436 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 179 |
-| 436 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 39 | 4.59 | 416 |
-| 436 | [Voidtrain](games/v/voidtrain.md) | 39 | 4.51 | 551 |
+| 435 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 40 | 4.59 | 416 |
+| 437 | [Bugsnax](games/b/bugsnax.md) | 39 | 4.86 | 30 |
+| 437 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.58 | 435 |
+| 437 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 179 |
+| 437 | [Voidtrain](games/v/voidtrain.md) | 39 | 4.51 | 551 |
 | 441 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 38 | 4.62 | 356 |
 | 441 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 610 |
 | 441 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.42 | 690 |
