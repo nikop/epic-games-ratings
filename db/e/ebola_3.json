@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1138,6 +1138,11 @@
       "Time": "2023-10-01T08:04:50.1212084+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T05:04:48.4703964+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1149,7 +1154,7 @@
       "Name": "Boss 1 \u2714",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achAliceTwo",
@@ -1211,9 +1216,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 151
     },
     {
       "ID": "achCity",
@@ -1405,7 +1410,7 @@
       "Name": "Infected \u2714",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achPlotTwo",
@@ -1517,7 +1522,7 @@
       "Name": "Broadcasting \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achWater",
@@ -1548,7 +1553,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
@@ -1556,8 +1561,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:06:10.5325444+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:04:48.4703959+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.4683251+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:03:22.8130813+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:06:10.5326336+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:03:06.8336423+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:04:48.4704474+00:00"
 }

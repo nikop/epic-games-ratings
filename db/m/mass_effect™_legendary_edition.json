@@ -1184,9 +1184,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_111",
@@ -1512,9 +1512,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_34",
@@ -1544,9 +1544,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_38",
@@ -2108,8 +2108,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:04:38.9383687+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:03:46.1110771+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:59:26.8744178+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:04:38.9386309+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:58:44.4615284+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:03:46.1112842+00:00"
 }

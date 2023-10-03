@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7273,
+  "EOS_Progressed": 7274,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4684,6 +4684,11 @@
       "Time": "2023-10-03T04:06:55.197259+00:00",
       "NumProgressed": 7273,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-03T05:05:21.2025569+00:00",
+      "NumProgressed": 7274,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4783,7 +4788,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "AK_ON_TOWN",
@@ -4791,7 +4796,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4807,7 +4812,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -4895,7 +4900,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4910,15 +4915,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7273,
+      "Progressed": 7274,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:06:55.1972584+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:05:21.2025565+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:02.0685585+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:59:45.1737208+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:06:55.19734+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:58:55.7931192+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:05:21.2026054+00:00"
 }

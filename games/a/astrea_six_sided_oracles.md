@@ -14,8 +14,8 @@
 | Mind Illuminator | 67.00% | ~24 |
 | Stellar Dismantler | 53.00% | ~19 |
 | Astral Adventurer | 42.00% | ~15 |
+| Anomaly Destroyer | 39.00% | ~14 |
 | Star Killer | 39.00% | ~14 |
-| Anomaly Destroyer | 36.00% | ~13 |
 | Unbeatable | 31.00% | ~11 |
 | Loyal Partner | 28.00% | ~10 |
 | Sadistic Plan | 25.00% | ~9 |

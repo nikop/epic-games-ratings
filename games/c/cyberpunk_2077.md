@@ -35,10 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,881 |
 | Judy vs Night City | 1.00% | ~8,881 |
 | It's Elementary | 1.00% | ~8,881 |
+| City Lights | 0.80% | ~7,105 |
 | Greetings from Pacifica! | 0.80% | ~7,105 |
-| City Lights | 0.70% | ~6,217 |
+| Spin Doctor | 0.80% | ~134 |
 | Life of the Road | 0.70% | ~6,217 |
-| Spin Doctor | 0.70% | ~117 |
 | Bushido and Chill | 0.60% | ~5,329 |
 | I Am The Law | 0.50% | ~4,441 |
 | Must Be Rats | 0.50% | ~4,441 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,101 (Ranked 15)  
-Completed: 2,555 (0.29%) (Ranked 202)  
+Progressed: 888,110 (Ranked 15)  
+Completed: 2,556 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 2,555 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,101 | 2,555 |
+| 2023-10-03 | 888,110 | 2,556 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 257,112 (Ranked 12)  

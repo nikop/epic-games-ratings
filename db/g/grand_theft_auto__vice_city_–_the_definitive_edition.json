@@ -724,7 +724,7 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 10510,
+  "EOS_Progressed": 10511,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -10969,6 +10969,11 @@
       "Time": "2023-10-03T02:25:13.1172567+00:00",
       "NumProgressed": 10510,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-03T05:08:08.4694843+00:00",
+      "NumProgressed": 10511,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -11084,7 +11089,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "ACH15",
@@ -11164,7 +11169,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH25",
@@ -11172,7 +11177,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH26",
@@ -11180,7 +11185,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH27",
@@ -11251,7 +11256,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10510,
+      "Progressed": 10511,
       "Completed": 58
     }
   ],
@@ -11259,8 +11264,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-02T01:42:31.0278145+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:09:13.9570857+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:08:08.4694838+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:01:48.2303309+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:09:13.9572425+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:00:14.7328726+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:08:08.4695834+00:00"
 }

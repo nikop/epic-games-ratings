@@ -3344,9 +3344,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73064,
+  "EOS_Progressed": 73065,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17434,6 +17434,11 @@
       "Time": "2023-10-03T01:47:40.2275769+00:00",
       "NumProgressed": 73064,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-03T05:04:32.6001163+00:00",
+      "NumProgressed": 73065,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17549,7 +17554,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15343
+      "UsersEstimate": 15344
     },
     {
       "ID": "CLAYFACE_2",
@@ -17589,7 +17594,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -17677,7 +17682,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15343
+      "UsersEstimate": 15344
     },
     {
       "ID": "FREEZE_2",
@@ -17749,7 +17754,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25572
+      "UsersEstimate": 25573
     },
     {
       "ID": "HARLEY_2",
@@ -17789,7 +17794,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37993
+      "UsersEstimate": 37994
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17932,13 +17937,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73064,
+      "Progressed": 73065,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43344,
+      "Progressed": 43345,
       "Completed": 2668
     }
   ],
@@ -17946,8 +17951,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-02T23:02:02.8557951+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:05:46.3098618+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:04:32.6001153+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:02:22.7159283+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:05:46.3101369+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:00:38.7431917+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:04:32.6002632+00:00"
 }

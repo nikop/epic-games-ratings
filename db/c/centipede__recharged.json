@@ -2,12 +2,12 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 804,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17545,
+  "EOS_Progressed": 17546,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
@@ -12942,6 +12942,11 @@
       "Time": "2023-10-03T04:03:41.8484318+00:00",
       "NumProgressed": 17545,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-10-03T05:03:20.3080303+00:00",
+      "NumProgressed": 17546,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 16,
@@ -12977,7 +12982,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "Eyes_On_Fire",
@@ -13049,7 +13054,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 8772
+      "UsersEstimate": 8773
     },
     {
       "ID": "Sole_Survivor",
@@ -13080,15 +13085,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17545,
+      "Progressed": 17546,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:03:41.8484314+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:03:20.3080298+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:56.6071917+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:57:23.4755423+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:03:41.8485811+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:57:18.0165375+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:03:20.3081208+00:00"
 }

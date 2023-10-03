@@ -12,10 +12,10 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 69.00% | ~4,186 |
 | Green Thumb | 66.00% | ~4,004 |
 | Novice Researcher | 66.00% | ~4,004 |
-| Home Cooked Meal | 58.00% | ~3,518 |
-| Onward | 56.00% | ~3,397 |
-| The First Week | 55.00% | ~3,336 |
-| Putting Food on the Table | 53.00% | ~3,215 |
+| Home Cooked Meal | 58.00% | ~3,519 |
+| Onward | 56.00% | ~3,398 |
+| The First Week | 54.00% | ~3,276 |
+| Putting Food on the Table | 53.00% | ~3,216 |
 | Beam Me Up | 51.00% | ~3,094 |
 | Studious Researcher | 51.00% | ~3,094 |
 | Adept Researcher | 45.00% | ~2,730 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~121 |
 | Wabbit Season | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,066 (Ranked 162)  
+Progressed: 6,067 (Ranked 162)  
 Completed: 14 (0.23%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 14 (0.23%) (Ranked 212)
 | 2023-09-30 | 6,035 | 14 |
 | 2023-10-01 | 6,052 | 14 |
 | 2023-10-02 | 6,066 | 14 |
+| 2023-10-03 | 6,067 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 324)  
 Sum: 988 (Ranked 247)  

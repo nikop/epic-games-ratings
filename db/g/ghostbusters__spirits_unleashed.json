@@ -2182,10 +2182,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2354,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2023-10-03T04:57:27.1741702+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2356,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2354,
+  "NumberOfAwards": 2356,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2217,7 +2223,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 233
+      "Count": 235
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2262,9 +2268,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26176,
+  "EOS_Progressed": 26177,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14072,6 +14078,11 @@
       "Time": "2023-10-03T02:21:56.9135879+00:00",
       "NumProgressed": 26176,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-03T05:05:12.8110044+00:00",
+      "NumProgressed": 26177,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14097,9 +14108,9 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Best_Insurance",
@@ -14353,9 +14364,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Skilled",
@@ -14490,16 +14501,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26176,
+      "Progressed": 26177,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-02T18:57:01.290966+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:06:43.1769165+00:00",
+  "LastChanged": "2023-10-03T04:57:27.1741699+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:05:12.8110038+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:57:36.6236294+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:06:43.177122+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:57:27.1741706+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:05:12.8111202+00:00"
 }

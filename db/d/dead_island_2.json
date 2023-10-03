@@ -5016,9 +5016,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 690031,
+  "EOS_Progressed": 690039,
   "EOS_Completed": 2187,
-  "EOS_NewPlayers": 3621,
+  "EOS_NewPlayers": 3613,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23721,6 +23721,11 @@
       "Time": "2023-10-03T04:06:25.2011144+00:00",
       "NumProgressed": 690031,
       "NumCompleted": 2187
+    },
+    {
+      "Time": "2023-10-03T05:05:00.0615919+00:00",
+      "NumProgressed": 690039,
+      "NumCompleted": 2187
     }
   ],
   "TotalAchievements": 45,
@@ -24010,9 +24015,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13801
+      "UsersEstimate": 20701
     },
     {
       "ID": "ach_survival_expert",
@@ -24091,22 +24096,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 690031,
+      "Progressed": 690039,
       "Completed": 2187
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 15573,
-      "Completed": 15573
+      "Progressed": 15581,
+      "Completed": 15581
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-03T03:01:39.6707108+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:06:25.2011138+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:05:00.0615914+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:01:54.864741+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:06:25.2012663+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:00:19.288543+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:05:00.0617406+00:00"
 }

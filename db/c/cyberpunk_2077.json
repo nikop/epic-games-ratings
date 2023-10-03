@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 19,
+  "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -12887,10 +12887,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888101,
-  "EOS_Completed": 2555,
-  "EOS_NewPlayers": 6421,
-  "EOS_NewCompleters": 167,
+  "EOS_Progressed": 888110,
+  "EOS_Completed": 2556,
+  "EOS_NewPlayers": 6395,
+  "EOS_NewCompleters": 168,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31532,6 +31532,11 @@
       "Time": "2023-10-03T04:09:20.5315469+00:00",
       "NumProgressed": 888101,
       "NumCompleted": 2555
+    },
+    {
+      "Time": "2023-10-03T05:08:13.1362497+00:00",
+      "NumProgressed": 888110,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 57,
@@ -31541,9 +31546,9 @@
       "ID": "Bladerunner",
       "SetID": "47clieb",
       "Name": "City Lights",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6217
+      "UsersEstimate": 7105
     },
     {
       "ID": "BornToBeWild",
@@ -31941,9 +31946,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "Kingofcups",
@@ -31998,21 +32003,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888101,
-      "Completed": 2555
+      "Progressed": 888110,
+      "Completed": 2556
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16724,
+      "Progressed": 16733,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T04:01:21.9099872+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:09:20.531545+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:08:13.1362493+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:01:21.9099884+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:09:20.5317221+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:59:56.0123703+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:08:13.1363993+00:00"
 }

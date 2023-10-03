@@ -6,16 +6,16 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,747,070 |
-| Easy to forget | 46.00% | ~1,640,107 |
-| Back in the black | 39.00% | ~1,390,526 |
-| That's what I'm talking about | 29.00% | ~1,033,980 |
-| The Best of Both Worlds | 25.00% | ~891,362 |
-| Get your wings | 20.00% | ~713,090 |
-| Double trouble | 16.00% | ~570,472 |
-| Smashing it | 11.00% | ~392,200 |
-| But can it run Crysis? | 9.00% | ~320,890 |
-| My favourite feature... | 9.00% | ~320,890 |
+| You need to plug it in... | 49.00% | ~1,747,076 |
+| Easy to forget | 46.00% | ~1,640,112 |
+| Back in the black | 39.00% | ~1,390,530 |
+| That's what I'm talking about | 29.00% | ~1,033,984 |
+| The Best of Both Worlds | 25.00% | ~891,365 |
+| Get your wings | 20.00% | ~713,092 |
+| Double trouble | 16.00% | ~570,474 |
+| Smashing it | 11.00% | ~392,201 |
+| But can it run Crysis? | 9.00% | ~320,891 |
+| My favourite feature... | 9.00% | ~320,891 |
 | From humble beginnings... | 7.00% | ~249,582 |
 | Customer satisfaction | 7.00% | ~249,582 |
 | Keeping things neat | 4.00% | ~142,618 |
@@ -29,14 +29,14 @@ Number of Ratings: 12,155  (23.09.2022)
 | Taking care of business | 2.00% | ~71,309 |
 | Perfection | 2.00% | ~71,309 |
 | Calling in Sick | 2.00% | ~71,309 |
-| Overvolted | 1.00% | ~35,654 |
-| If you fail the first time... | 1.00% | ~35,654 |
-| Amazonian | 1.00% | ~35,654 |
-| Things are under control | 1.00% | ~35,654 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,654 |
-| Building isn't cheap! | 1.00% | ~35,654 |
-| Majority Shareholder | 1.00% | ~35,654 |
-| Owner | 1.00% | ~35,654 |
+| Overvolted | 1.00% | ~35,655 |
+| If you fail the first time... | 1.00% | ~35,655 |
+| Amazonian | 1.00% | ~35,655 |
+| Things are under control | 1.00% | ~35,655 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,655 |
+| Building isn't cheap! | 1.00% | ~35,655 |
+| Majority Shareholder | 1.00% | ~35,655 |
+| Owner | 1.00% | ~35,655 |
 | Show off | 0.90% | ~32,089 |
 | Work ethic 101 | 0.70% | ~24,958 |
 | Building momentum | 0.60% | ~21,393 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,565 |
 | Treat yourself - GPU | 0.10% | ~3,565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,565,450 (Ranked 5)  
+Progressed: 3,565,461 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 36 (0.00%) (Ranked 304)
 | 2023-09-30 | 3,564,639 | 35 |
 | 2023-10-01 | 3,565,085 | 36 |
 | 2023-10-02 | 3,565,406 | 36 |
-| 2023-10-03 | 3,565,450 | 36 |
+| 2023-10-03 | 3,565,461 | 36 |
 ## Awards
 Max (Great for Beginners): 1,075  (Ranked 141)  
 Sum: 8,042 (Ranked 100)  

@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420,988 (Ranked 41)  
+Progressed: 421,005 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,14 +527,14 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-09-30 | 418,938 | 1 |
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
-| 2023-10-03 | 420,988 | 1 |
+| 2023-10-03 | 421,005 | 1 |
 ## Awards
-Max (Educational): 6,368  (Ranked 57)  
-Sum: 52,328 (Ranked 24)  
+Max (Educational): 6,381  (Ranked 57)  
+Sum: 52,341 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,368 |
+| This game is Educational | 6,381 |
 | This game is Highly Recommended | 6,073 |
 | This game has Challenging Combat | 6,023 |
 | This game has Diverse Characters | 6,020 |
@@ -806,4 +806,4 @@ Diff (max vs sum): 33
 | 2023-09-30 | 4.69 | - | 6,335 | 52,039 |
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
 | 2023-10-02 | 4.69 | - | 6,368 | 52,314 |
-| 2023-10-03 | 4.69 | - | 6,368 | 52,328 |
+| 2023-10-03 | 4.69 | - | 6,381 | 52,341 |

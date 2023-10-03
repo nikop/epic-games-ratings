@@ -8,7 +8,7 @@
 | Spectre Inductee | 84.00% | ~449 |
 | Medal of Exploration I | 76.00% | ~407 |
 | Recruit | 72.00% | ~385 |
-| Search and Rescue | 71.00% | ~380 |
+| Search and Rescue | 72.00% | ~385 |
 | Quarian Ally | 70.00% | ~374 |
 | Honorarium of Corporate Service | 66.00% | ~353 |
 | Medal of Heroism | 65.00% | ~348 |
@@ -31,10 +31,10 @@
 | Scientist | 44.00% | ~235 |
 | Head Hunter | 41.00% | ~219 |
 | Missing in Action | 40.00% | ~214 |
+| Very Elusive | 40.00% | ~214 |
 | Operative | 40.00% | ~214 |
 | Scholar | 40.00% | ~214 |
 | Veteran | 39.00% | ~209 |
-| Very Elusive | 39.00% | ~209 |
 | Power Full | 39.00% | ~209 |
 | The Professor | 36.00% | ~193 |
 | Archivist | 35.00% | ~187 |
@@ -72,11 +72,11 @@
 | Friend or Foe | 25.00% | ~134 |
 | Mobilizer | 25.00% | ~134 |
 | Untouchable | 24.00% | ~128 |
+| Giant Killer | 24.00% | ~128 |
 | Mission Accomplished | 24.00% | ~128 |
 | Suicide Mission | 24.00% | ~128 |
 | Against All Odds | 24.00% | ~128 |
 | Eye of the Hurricane | 23.00% | ~123 |
-| Giant Killer | 23.00% | ~123 |
 | Weapon Specialist | 23.00% | ~123 |
 | World Shaker | 23.00% | ~123 |
 | Liberator | 23.00% | ~123 |

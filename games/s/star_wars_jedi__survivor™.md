@@ -5,37 +5,37 @@ Rating: 4.49 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~3,891 |
-| For Saw Gerrera | 98.00% | ~3,851 |
-| Grab Some Seat | 90.00% | ~3,537 |
-| Can You Pet the Bogling? | 85.00% | ~3,340 |
+| Rooftop Duel | 99.00% | ~3,892 |
+| For Saw Gerrera | 98.00% | ~3,852 |
+| Grab Some Seat | 90.00% | ~3,538 |
+| Can You Pet the Bogling? | 85.00% | ~3,341 |
 | The Past Made Present | 79.00% | ~3,105 |
-| Survivors, We Adapt | 74.00% | ~2,908 |
+| Survivors, We Adapt | 74.00% | ~2,909 |
 | They Never Saw It Coming | 72.00% | ~2,830 |
 | Among the Masters | 72.00% | ~2,830 |
-| Who Gives a Puck | 67.00% | ~2,633 |
+| Who Gives a Puck | 67.00% | ~2,634 |
 | Mirror Match | 62.00% | ~2,437 |
-| Now, This Isn't Podracing | 58.00% | ~2,279 |
-| For the Path | 58.00% | ~2,279 |
-| Skywalker | 54.00% | ~2,122 |
+| Now, This Isn't Podracing | 58.00% | ~2,280 |
+| For the Path | 58.00% | ~2,280 |
+| Skywalker | 54.00% | ~2,123 |
 | Out of Bedlam | 52.00% | ~2,044 |
-| Cleaning Up | 51.00% | ~2,004 |
+| Cleaning Up | 51.00% | ~2,005 |
 | Hey, Luke At Us | 46.00% | ~1,808 |
-| Kitted Out | 45.00% | ~1,768 |
+| Kitted Out | 45.00% | ~1,769 |
 | Riposte | 43.00% | ~1,690 |
-| Tanalorr Bound | 41.00% | ~1,611 |
+| Tanalorr Bound | 41.00% | ~1,612 |
 | Tragedy | 39.00% | ~1,533 |
-| Greezy Money | 38.00% | ~1,493 |
+| Greezy Money | 38.00% | ~1,494 |
 | At the Precipice | 37.00% | ~1,454 |
 | Catch! | 36.00% | ~1,415 |
 | Into the Abyss | 35.00% | ~1,376 |
 | They're Probably Fine | 35.00% | ~1,376 |
 | A Place You Could Call Home | 33.00% | ~1,297 |
-| Han Slowlo | 31.00% | ~1,218 |
+| Han Slowlo | 31.00% | ~1,219 |
 | There Is No Try | 30.00% | ~1,179 |
 | The Jedi Path | 26.00% | ~1,022 |
 | This Is Canon | 24.00% | ~943 |
-| It's a Trap | 21.00% | ~825 |
+| It's a Trap | 21.00% | ~826 |
 | You've Got A Friend | 19.00% | ~747 |
 | Reconnaissance | 14.00% | ~550 |
 | King of the World | 13.00% | ~511 |
@@ -46,20 +46,20 @@ Rating: 4.49 (Ranked 590)
 | Gambler | 8.00% | ~314 |
 | Caij Match | 7.00% | ~275 |
 | Growth Spurt | 7.00% | ~275 |
-| Perk of the Job | 5.00% | ~196 |
+| Perk of the Job | 5.00% | ~197 |
 | I'm a Living Legend | 4.00% | ~157 |
 | Get Down From There | 4.00% | ~157 |
 | Road House | 4.00% | ~157 |
 | Skoova Diving | 4.00% | ~157 |
 | Intergalactic Geographic | 4.00% | ~157 |
 | One With the Force | 3.00% | ~118 |
+| Cobra Cal | 3.00% | ~118 |
 | So Uncivilized | 2.00% | ~79 |
 | Pinpoint | 2.00% | ~79 |
-| Cobra Cal | 2.00% | ~79 |
 | Splurgle | 2.00% | ~79 |
 | Blood, Sweat, and Tears | 2.00% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,930 (Ranked 175)  
+Progressed: 3,931 (Ranked 175)  
 Completed: 14 (0.36%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 14 (0.36%) (Ranked 185)
 | 2023-09-30 | 3,533 | 12 |
 | 2023-10-01 | 3,762 | 14 |
 | 2023-10-02 | 3,900 | 14 |
-| 2023-10-03 | 3,930 | 14 |
+| 2023-10-03 | 3,931 | 14 |
 ## Awards
 Max (Great Boss Battles): 2,810  (Ranked 96)  
 Sum: 4,113 (Ranked 146)  

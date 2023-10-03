@@ -5,21 +5,21 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,696 |
-| On the Top Step | 87.00% | ~2,495 |
+| Getting on the Step | 94.00% | ~2,697 |
+| On the Top Step | 87.00% | ~2,496 |
 | Setting up for Success | 76.00% | ~2,180 |
-| Team Orders | 74.00% | ~2,122 |
-| Engineer | 55.00% | ~1,577 |
+| Team Orders | 74.00% | ~2,123 |
+| Engineer | 55.00% | ~1,578 |
 | Familiar Faces | 48.00% | ~1,377 |
 | Going the Extra Mile | 42.00% | ~1,205 |
-| Sharing the Love | 40.00% | ~1,147 |
+| Sharing the Love | 40.00% | ~1,148 |
 | Hitting a Season | 34.00% | ~975 |
-| Challenge Yourself | 33.00% | ~946 |
+| Challenge Yourself | 33.00% | ~947 |
 | Making History | 31.00% | ~889 |
 | A Dozen Pieces | 29.00% | ~832 |
-| Spring Cleaning | 24.00% | ~688 |
-| Network Success | 24.00% | ~688 |
-| Writing a new Chapter | 24.00% | ~688 |
+| Network Success | 24.00% | ~689 |
+| Writing a new Chapter | 24.00% | ~689 |
+| Spring Cleaning | 23.00% | ~660 |
 | Reduce | 19.00% | ~545 |
 | Ups and Downs | 19.00% | ~545 |
 | Crucial Combo | 17.00% | ~488 |
@@ -32,12 +32,12 @@ Rating: 4.66 (Ranked 282)
 | Lightning Round the World | 12.00% | ~344 |
 | Hitting a Bullseye | 12.00% | ~344 |
 | Recycle | 12.00% | ~344 |
-| All in a Weekend's Work | 11.00% | ~315 |
-| Spinning Around | 11.00% | ~315 |
-| Tinkerer | 11.00% | ~315 |
+| All in a Weekend's Work | 11.00% | ~316 |
+| Spinning Around | 11.00% | ~316 |
+| Tinkerer | 11.00% | ~316 |
 | Friendly Competition | 10.00% | ~287 |
 | Switcheroo | 10.00% | ~287 |
-| Undisputed Winner | 8.00% | ~229 |
+| Undisputed Winner | 8.00% | ~230 |
 | For all Those Back at the Factory | 6.00% | ~172 |
 | Living up to Expectations | 6.00% | ~172 |
 | Loyal Bond | 5.00% | ~143 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 282)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,868 (Ranked 190)  
+Progressed: 2,869 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,868 | 0 |
+| 2023-10-03 | 2,869 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

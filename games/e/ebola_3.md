@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 59.00% | ~159 |
-| Chest ✔ | 57.00% | ~153 |
+| Chest ✔ | 56.00% | ~151 |
 | Inventory ✔ | 55.00% | ~148 |
 | Police officers ✔ | 29.00% | ~78 |
 | Mutation ✔ | 26.00% | ~70 |
@@ -27,9 +27,9 @@
 | Food ✔ | 6.00% | ~16 |
 | King of survival ✔ | 6.00% | ~16 |
 | All secrets revealed ✔ | 6.00% | ~16 |
-| Boss 1 ✔ | 5.00% | ~13 |
-| Infected ✔ | 5.00% | ~13 |
-| Broadcasting ✔ | 5.00% | ~13 |
+| Boss 1 ✔ | 5.00% | ~14 |
+| Infected ✔ | 5.00% | ~14 |
+| Broadcasting ✔ | 5.00% | ~14 |
 | Secret ✔ | 4.00% | ~11 |
 | Group Alpha ✔ | 4.00% | ~11 |
 | Mutant fight ✔ | 4.00% | ~11 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 317)  
+Progressed: 270 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-23 | 267 | 0 |
 | 2023-09-27 | 268 | 0 |
 | 2023-10-01 | 269 | 0 |
+| 2023-10-03 | 270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

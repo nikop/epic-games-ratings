@@ -1337,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129255,
+  "EOS_Progressed": 129256,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17987,6 +17987,11 @@
       "Time": "2023-10-03T04:08:34.9576167+00:00",
       "NumProgressed": 129255,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-03T05:06:31.2958705+00:00",
+      "NumProgressed": 129256,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18078,7 +18083,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36191
+      "UsersEstimate": 36192
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -18317,15 +18322,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129255,
+      "Progressed": 129256,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-03T04:08:34.9576161+00:00",
+  "LastChanged_Achievements": "2023-10-03T05:06:31.2958701+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:03:03.8322092+00:00",
-  "LastUpdate_Achievements": "2023-10-03T04:08:34.957854+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:00:45.5563945+00:00",
+  "LastUpdate_Achievements": "2023-10-03T05:06:31.2960104+00:00"
 }

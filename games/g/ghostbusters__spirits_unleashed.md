@@ -13,6 +13,7 @@ Rating: 4.50 (Ranked 574)
 | Fully Upgraded | 0.80% | ~209 |
 | Solo Capture | 0.80% | ~209 |
 | Vaporous Expansion | 0.80% | ~209 |
+| Back Off | 0.70% | ~183 |
 | Clutch Capture | 0.70% | ~183 |
 | Cultured | 0.70% | ~183 |
 | Swift Rift Removers | 0.70% | ~183 |
@@ -20,18 +21,17 @@ Rating: 4.50 (Ranked 574)
 | There you are! | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Animated | 0.60% | ~157 |
-| Back Off | 0.60% | ~157 |
 | Icing on the Cake | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
 | Daily Dose | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |
 | Ghostbuster In Training | 0.50% | ~131 |
 | Right back at ya | 0.50% | ~131 |
+| Side Hustle | 0.50% | ~131 |
 | Summoner | 0.50% | ~131 |
 | Welcome to the Crew | 0.50% | ~131 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
-| Side Hustle | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |
 | Stunner | 0.40% | ~105 |
 | We have the best insurance | 0.30% | ~79 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,176 (Ranked 114)  
+Progressed: 26,177 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
 | 2023-10-02 | 26,168 | 58 |
-| 2023-10-03 | 26,176 | 58 |
+| 2023-10-03 | 26,177 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
-Sum: 2,354 (Ranked 188)  
+Sum: 2,356 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 68
 | This game is Great for Quick Sessions | 258 |
 | This game has Amazing Storytelling | 238 |
 | This game has Competitive Players | 238 |
-| This game is Extremely Fun | 233 |
+| This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 233 |
 | This game is Highly Recommended | 228 |
 | This game is Relaxing | 228 |
@@ -415,3 +415,4 @@ Diff (max vs sum): 68
 | 2023-09-25 | 4.50 | 256 | 2,331 |
 | 2023-10-01 | 4.50 | 258 | 2,352 |
 | 2023-10-02 | 4.50 | 258 | 2,354 |
+| 2023-10-03 | 4.50 | 258 | 2,356 |
