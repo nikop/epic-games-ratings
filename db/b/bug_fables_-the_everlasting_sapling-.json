@@ -3,9 +3,9 @@
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:08:11.8781914+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:09:21.8116509+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.459139+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:57:30.6637171+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:08:11.878211+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:58:02.2900844+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:09:21.811682+00:00"
 }

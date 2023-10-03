@@ -3,9 +3,9 @@
   "Name": "RESISTOR",
   "ProductSlug": "resistor-5b8fdd",
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-01T01:47:23.870021+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:03:08.7823131+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:03:42.2737572+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:03:32.1680798+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:04:29.7340707+00:00"
 }

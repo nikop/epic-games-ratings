@@ -3,9 +3,9 @@
   "Name": "Cats Yakuza - Online card game",
   "ProductSlug": "cats-yakuza-online-card-game-38acea",
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-15T01:00:00+00:00",
     "PcReleaseDate": "2022-07-29T15:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-28T23:57:16.1629797+00:00",
   "LastChanged": "2023-04-28T23:57:16.1629797+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.5063942+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:58:47.4703309+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:03:13.1441467+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:59:24.0238148+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:03:38.3083569+00:00"
 }

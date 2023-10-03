@@ -6,26 +6,26 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~563,276 |
-| Error: Stack Overflow | 66.00% | ~399,744 |
-| We need more gold | 61.00% | ~369,461 |
-| The dawn of civilization | 53.00% | ~321,007 |
-| More FPS for the FPS god! | 50.00% | ~302,836 |
-| Beauty and harmony | 48.00% | ~290,723 |
-| One more! | 44.00% | ~266,496 |
+| First.. Bit? | 93.00% | ~563,278 |
+| Error: Stack Overflow | 66.00% | ~399,746 |
+| We need more gold | 61.00% | ~369,462 |
+| The dawn of civilization | 53.00% | ~321,008 |
+| More FPS for the FPS god! | 50.00% | ~302,838 |
+| Beauty and harmony | 48.00% | ~290,724 |
+| One more! | 44.00% | ~266,497 |
 | Overmind | 24.00% | ~145,362 |
-| RNG is my best friend now | 18.00% | ~109,021 |
-| Cosplay | 13.00% | ~78,737 |
-| Evolution in progress... | 13.00% | ~78,737 |
+| RNG is my best friend now | 18.00% | ~109,022 |
+| Cosplay | 13.00% | ~78,738 |
+| Evolution in progress... | 13.00% | ~78,738 |
 | Step by step | 8.00% | ~48,454 |
 | README reader | 3.00% | ~18,170 |
 | Data scientist | 3.00% | ~18,170 |
 | One small step for a man... | 3.00% | ~18,170 |
-| To see it all, to learn it all | 2.00% | ~12,113 |
-| Evolution complete | 2.00% | ~12,113 |
-| Best deal on the market | 2.00% | ~12,113 |
-| Is this Skynet? | 2.00% | ~12,113 |
-| Cybergeek 2047 | 2.00% | ~12,113 |
+| To see it all, to learn it all | 2.00% | ~12,114 |
+| Evolution complete | 2.00% | ~12,114 |
+| Best deal on the market | 2.00% | ~12,114 |
+| Is this Skynet? | 2.00% | ~12,114 |
+| Cybergeek 2047 | 2.00% | ~12,114 |
 | The hoarder | 1.00% | ~6,057 |
 | Ping | 1.00% | ~6,057 |
 | Magna cum laude | 1.00% | ~6,057 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,817 |
 | The Scrooge | 0.10% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605,673 (Ranked 29)  
+Progressed: 605,675 (Ranked 29)  
 Completed: 529 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 529 (0.09%) (Ranked 247)
 | 2023-09-30 | 605,415 | 529 |
 | 2023-10-01 | 605,544 | 529 |
 | 2023-10-02 | 605,646 | 529 |
-| 2023-10-03 | 605,673 | 529 |
+| 2023-10-03 | 605,675 | 529 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 313)  
 Sum: 134 (Ranked 410)  

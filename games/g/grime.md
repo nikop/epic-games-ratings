@@ -54,7 +54,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,650 (Ranked 68)  
-Completed: 1 (0.00%) (Ranked 304)  
+Completed: 1 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,13 +198,13 @@ Completed: 1 (0.00%) (Ranked 304)
 | 2023-10-02 | 149,650 | 1 |
 ## Awards
 Max (Highly Recommended): 41  (Ranked 433)  
-Sum: 260 (Ranked 361)  
+Sum: 261 (Ranked 361)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 41 |
 | This game has Unique Visuals | 37 |
-| This game has Quickly Understood Controls | 35 |
+| This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 33 |
 | This game is Extremely Fun | 31 |
 | This game has a Creative Community | 30 |
@@ -316,3 +316,4 @@ Diff (max vs sum): 72
 | 2023-09-30 | 4.59 | - | 40 | 254 |
 | 2023-10-01 | 4.59 | - | 41 | 255 |
 | 2023-10-02 | 4.59 | - | 41 | 260 |
+| 2023-10-03 | 4.59 | - | 41 | 261 |

@@ -46,7 +46,7 @@
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90 (Ranked 394)  
-Completed: 0 (0.00%) (Ranked 304)  
+Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

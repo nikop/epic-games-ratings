@@ -3,9 +3,9 @@
   "Name": "Murder Is Game Over",
   "ProductSlug": "murder-is-game-over-255da8",
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-25T04:00:00+00:00",
     "PcReleaseDate": "2022-10-25T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.6272223+00:00",
   "LastChanged": "2023-03-31T05:58:16.6272224+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:01.3863751+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:59:20.9394568+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:03:48.6586093+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:59:59.8206755+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:04:36.6682175+00:00"
 }

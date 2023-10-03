@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2023-10-03T07:07:57.0913027+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T08:09:05.5514704+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -397,9 +402,9 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -407,7 +412,7 @@
       "Name": "Level 1",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -415,7 +420,7 @@
       "Name": "Dreamer!",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -494,14 +499,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:07:57.0913023+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:09:05.5514699+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:58:20.9893354+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:07:57.0913184+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:58:55.670429+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:09:05.5514875+00:00"
 }

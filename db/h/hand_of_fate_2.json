@@ -6,9 +6,9 @@
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 25,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662861,
+  "EOS_Progressed": 662862,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
@@ -16623,6 +16623,11 @@
       "Time": "2023-10-03T07:03:41.0291404+00:00",
       "NumProgressed": 662861,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-03T08:04:28.5068869+00:00",
+      "NumProgressed": 662862,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16634,7 +16639,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477260
+      "UsersEstimate": 477261
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16642,7 +16647,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384459
+      "UsersEstimate": 384460
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16786,7 +16791,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112686
+      "UsersEstimate": 112687
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -16898,7 +16903,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165715
+      "UsersEstimate": 165716
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -16914,7 +16919,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59657
+      "UsersEstimate": 59658
     },
     {
       "ID": "Achievement_37_Champion",
@@ -17017,15 +17022,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662861,
+      "Progressed": 662862,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:03:41.0291397+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:04:28.5068864+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:00:51.7458676+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:03:41.0294511+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:01:37.7445377+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:04:28.5070522+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 356,
   "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -3214,18 +3214,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 2312,
       "NumberOfAwardsMax": 1512
+    },
+    {
+      "Time": "2023-10-03T08:03:27.0601073+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2317,
+      "NumberOfAwardsMax": 1516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2312,
-  "NumberOfAwardsMax": 1512,
+  "NumberOfAwards": 2317,
+  "NumberOfAwardsMax": 1516,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1512
+      "Count": 1516
     },
     {
       "Text": "This game is Relaxing",
@@ -3261,7 +3267,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3305,8 +3311,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-10-02T18:02:25.0655042+00:00",
+  "LastChanged": "2023-10-03T08:03:27.060107+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:21.5867518+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:02:13.1784679+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:08:08.1180086+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:03:27.060108+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:09:17.6949825+00:00"
 }

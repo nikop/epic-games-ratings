@@ -3,9 +3,9 @@
   "Name": "Broken Roads",
   "ProductSlug": "broken-roads",
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-14T15:00:00+00:00",
     "PcReleaseDate": "2023-11-14T15:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.5659706+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:00:52.1036792+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:07:23.0743214+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:01:38.1558733+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:08:29.1941545+00:00"
 }

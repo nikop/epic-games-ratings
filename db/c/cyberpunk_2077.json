@@ -12887,10 +12887,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888132,
-  "EOS_Completed": 2556,
-  "EOS_NewPlayers": 6371,
-  "EOS_NewCompleters": 164,
+  "EOS_Progressed": 888147,
+  "EOS_Completed": 2557,
+  "EOS_NewPlayers": 6352,
+  "EOS_NewCompleters": 165,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31547,6 +31547,11 @@
       "Time": "2023-10-03T07:08:23.8905506+00:00",
       "NumProgressed": 888132,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-10-03T08:09:34.9136467+00:00",
+      "NumProgressed": 888147,
+      "NumCompleted": 2557
     }
   ],
   "TotalAchievements": 57,
@@ -31652,9 +31657,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4441
+      "UsersEstimate": 5329
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31668,9 +31673,9 @@
       "ID": "LittleTokyo",
       "SetID": "47clieb",
       "Name": "Little Tokyo",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1776
+      "UsersEstimate": 2664
     },
     {
       "ID": "MasterRunner",
@@ -31742,7 +31747,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35525
+      "UsersEstimate": 35526
     },
     {
       "ID": "Temperance",
@@ -31758,7 +31763,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35525
+      "UsersEstimate": 35526
     },
     {
       "ID": "TheDevil",
@@ -31932,9 +31937,9 @@
       "ID": "DogtownLaw",
       "SetID": "23nboa5",
       "Name": "The APB is Not Enough",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 50
     },
     {
       "ID": "Easycomeeasygo",
@@ -32013,21 +32018,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888132,
-      "Completed": 2556
+      "Progressed": 888147,
+      "Completed": 2557
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16755,
+      "Progressed": 16770,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T04:01:21.9099872+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:08:23.8905501+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:09:34.9136462+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:00:49.4947696+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:08:23.8907082+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:01:35.2924106+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:09:34.9143221+00:00"
 }

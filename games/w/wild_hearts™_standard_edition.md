@@ -20,8 +20,8 @@
 | Expert Conjuror | 54.00% | ~50 |
 | Helpful Heart | 53.00% | ~49 |
 | Flawless Crystal | 49.00% | ~46 |
+| Counter Specialist | 46.00% | ~43 |
 | Bonds of Enmity | 46.00% | ~43 |
-| Counter Specialist | 45.00% | ~42 |
 | Axer of Auspice | 42.00% | ~39 |
 | Karakuri Trail | 39.00% | ~36 |
 | Fair Means or Foul | 38.00% | ~35 |

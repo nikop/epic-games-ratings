@@ -6,9 +6,9 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 416,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -584,9 +584,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_50",
@@ -688,9 +688,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_8",
@@ -721,8 +721,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-24T15:01:08.8110463+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:08:19.1532121+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:09:29.6402337+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.6113778+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:00:39.2903947+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:08:19.1532526+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:01:22.8075939+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:09:29.6402838+00:00"
 }

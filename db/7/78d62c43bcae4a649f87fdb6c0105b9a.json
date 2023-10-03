@@ -3,9 +3,9 @@
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 511,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -107,9 +107,9 @@
       "ID": "forest",
       "SetID": "40o2ndb",
       "Name": "Welcome to the whoOoOoOoOotel",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hotel",
@@ -155,9 +155,9 @@
       "ID": "matrix",
       "SetID": "40o2ndb",
       "Name": "The virus database has been updated.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "temple",
@@ -171,9 +171,9 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world1",
@@ -274,8 +274,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-03T07:06:20.0729876+00:00",
+  "LastChanged_Achievements": "2023-10-03T08:07:20.9559696+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:59:52.3001868+00:00",
-  "LastUpdate_Achievements": "2023-10-03T07:06:20.073002+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:00:34.1603771+00:00",
+  "LastUpdate_Achievements": "2023-10-03T08:07:20.9559873+00:00"
 }

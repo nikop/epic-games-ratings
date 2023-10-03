@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,525 |
-| Rough Landing | 4.00% | ~35,525 |
+| Ten out of Ten | 4.00% | ~35,526 |
+| Rough Landing | 4.00% | ~35,526 |
 | Gunslinger | 3.00% | ~26,644 |
 | Master Crafter | 3.00% | ~26,644 |
 | The Jungle | 3.00% | ~26,644 |
@@ -40,18 +40,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.80% | ~134 |
 | Life of the Road | 0.70% | ~6,217 |
 | Bushido and Chill | 0.60% | ~5,329 |
+| I Am The Law | 0.60% | ~5,329 |
 | The Wandering Fool | 0.50% | ~4,441 |
-| I Am The Law | 0.50% | ~4,441 |
 | Must Be Rats | 0.50% | ~4,441 |
 | To Protect and Serve | 0.40% | ~3,553 |
 | Autojock | 0.40% | ~3,553 |
 | The Sun | 0.40% | ~3,553 |
 | Frequent Flyer | 0.30% | ~2,664 |
+| Little Tokyo | 0.30% | ~2,664 |
 | The Star | 0.30% | ~2,664 |
+| The APB is Not Enough | 0.30% | ~50 |
 | Relic Ruler | 0.30% | ~50 |
-| Little Tokyo | 0.20% | ~1,776 |
 | The Wasteland | 0.20% | ~1,776 |
-| The APB is Not Enough | 0.20% | ~34 |
 | Daemon In The Shell | 0.10% | ~888 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,132 (Ranked 15)  
-Completed: 2,556 (0.29%) (Ranked 202)  
+Progressed: 888,147 (Ranked 15)  
+Completed: 2,557 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 2,556 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,132 | 2,556 |
+| 2023-10-03 | 888,147 | 2,557 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 257,112 (Ranked 12)  

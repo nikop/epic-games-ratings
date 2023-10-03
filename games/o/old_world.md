@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,306 (Ranked 133)  
-Completed: 5 (0.03%) (Ranked 275)  
+Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
