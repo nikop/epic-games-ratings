@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.01% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.93% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -24,7 +24,7 @@
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 23 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
 | 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.24% |
-| 24 | [Remains](games/r/remains.md) | 12.24% |
+| 25 | [Remains](games/r/remains.md) | 12.00% |
 | 26 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 28 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
@@ -60,16 +60,16 @@
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.74% |
+| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.67% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.44% |
-| 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
-| 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
-| 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.99% |
+| 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
+| 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
+| 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -151,9 +151,9 @@
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
-| 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
+| 152 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.65% |
+| 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
+| 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 156 | [Haven](games/h/haven.md) | 0.61% |
 | 156 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
@@ -177,10 +177,10 @@
 | 175 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
-| 178 | [Dead Space](games/d/dead_space.md) | 0.40% |
-| 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 178 | [Train Valley](games/t/train_valley.md) | 0.40% |
+| 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.42% |
+| 179 | [Dead Space](games/d/dead_space.md) | 0.40% |
+| 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 182 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
@@ -209,8 +209,8 @@
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
-| 207 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.25% |
-| 211 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 210 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 210 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.24% |
 | 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 214 | [Blanc](games/b/blanc.md) | 0.22% |
