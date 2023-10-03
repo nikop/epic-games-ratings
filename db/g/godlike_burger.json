@@ -3,12 +3,12 @@
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
   "Ranking_Rating": 830,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_Popularity": 526,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -1203,9 +1203,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "GB_KEVIN",
@@ -1235,9 +1235,9 @@
       "ID": "GB_MASTER_CHEF",
       "SetID": "8ga3kd9",
       "Name": "MASTER CHEF",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 378
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:13:28.233027+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:06:32.24659+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.6426232+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:06:28.7987338+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:13:28.2330527+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:59:45.1023434+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:06:32.2466108+00:00"
 }

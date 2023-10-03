@@ -17,12 +17,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 6.00% | ~688 |
 | Path of the Angel | 6.00% | ~688 |
 | Demonic and Divine | 6.00% | ~688 |
+| Path of the Azata | 5.00% | ~573 |
 | Transformation | 5.00% | ~573 |
 | Great Upstart | 5.00% | ~573 |
 | Voice from Your Dreams | 5.00% | ~573 |
 | All Paths Open | 5.00% | ~573 |
 | Next-Door Play | 5.00% | ~573 |
-| Path of the Azata | 4.00% | ~459 |
 | The Legacy | 4.00% | ~459 |
 | Divide and Rule | 4.00% | ~459 |
 | Mythic Reinforcements | 4.00% | ~459 |

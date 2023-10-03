@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2744,6 +2744,11 @@
       "Time": "2023-10-02T09:05:43.8414638+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T14:05:57.9273384+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2811,7 +2816,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Clothes10",
@@ -2931,7 +2936,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Packing20",
@@ -3074,7 +3079,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 0
     }
   ],
@@ -3082,8 +3087,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:12:54.5390138+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:05:57.927338+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:54.2119271+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:04:40.7485049+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:12:54.5390605+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:57:47.2477821+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:05:57.9273773+00:00"
 }

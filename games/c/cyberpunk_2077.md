@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,529 |
-| Rough Landing | 4.00% | ~35,529 |
-| Gunslinger | 3.00% | ~26,647 |
-| Master Crafter | 3.00% | ~26,647 |
-| The Jungle | 3.00% | ~26,647 |
+| Ten out of Ten | 4.00% | ~35,530 |
+| Rough Landing | 4.00% | ~35,530 |
+| Gunslinger | 3.00% | ~26,648 |
+| Master Crafter | 3.00% | ~26,648 |
+| The Jungle | 3.00% | ~26,648 |
 | Full Body Conversion | 2.00% | ~17,765 |
 | Right Back At Ya | 2.00% | ~17,765 |
 | Mean Streets | 2.00% | ~17,765 |
@@ -36,15 +36,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 1.00% | ~8,882 |
 | It's Elementary | 1.00% | ~8,882 |
 | City Lights | 0.80% | ~7,106 |
+| Life of the Road | 0.80% | ~7,106 |
 | Greetings from Pacifica! | 0.80% | ~7,106 |
 | Spin Doctor | 0.80% | ~135 |
-| Life of the Road | 0.70% | ~6,218 |
-| Bushido and Chill | 0.60% | ~5,329 |
-| I Am The Law | 0.60% | ~5,329 |
+| Bushido and Chill | 0.60% | ~5,330 |
+| I Am The Law | 0.60% | ~5,330 |
 | The Wandering Fool | 0.50% | ~4,441 |
+| Autojock | 0.50% | ~4,441 |
 | Must Be Rats | 0.50% | ~4,441 |
 | To Protect and Serve | 0.40% | ~3,553 |
-| Autojock | 0.40% | ~3,553 |
 | The Sun | 0.40% | ~3,553 |
 | Frequent Flyer | 0.30% | ~2,665 |
 | Little Tokyo | 0.30% | ~2,665 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,229 (Ranked 15)  
-Completed: 2,561 (0.29%) (Ranked 203)  
+Progressed: 888,250 (Ranked 15)  
+Completed: 2,562 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,17 +230,17 @@ Completed: 2,561 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,229 | 2,561 |
+| 2023-10-03 | 888,250 | 2,562 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 257,590 (Ranked 12)  
+Sum: 257,918 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 89,540 |
 | This game has Great Boss Battles | 61,016 |
+| This game has Diverse Characters | 13,022 |
 | This game is Great for Beginners | 12,990 |
-| This game has Diverse Characters | 12,694 |
 | This game is Extremely Fun | 12,517 |
 | This game has Amazing Storytelling | 12,425 |
 | This game is Highly Recommended | 12,417 |
@@ -508,4 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
-| 2023-10-03 | 4.63 | - | 89,540 | 257,590 |
+| 2023-10-03 | 4.63 | - | 89,540 | 257,918 |

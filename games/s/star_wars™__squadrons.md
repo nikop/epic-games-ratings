@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~5,888 |
-| Safety in the Storm | 25.00% | ~1,550 |
-| A Better Idea | 25.00% | ~1,550 |
-| Begin the Ceremony | 21.00% | ~1,302 |
-| Mission Accomplished | 20.00% | ~1,240 |
-| The Galaxy's Finest (Story Mode) | 16.00% | ~992 |
-| Asset Secured | 14.00% | ~868 |
-| A Starfighter of Your Own | 14.00% | ~868 |
-| Unkillable | 8.00% | ~496 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~434 |
-| Sound Strategy | 7.00% | ~434 |
-| Together, Vanguard | 7.00% | ~434 |
-| Stomped | 6.00% | ~372 |
-| Great Shot, Kid | 5.00% | ~310 |
-| Fearless | 5.00% | ~310 |
-| Back From the Brink | 5.00% | ~310 |
-| Flames Over Mon Cala | 5.00% | ~310 |
-| A Promising Career | 5.00% | ~310 |
+| Fracture at Fostar Haven | 95.00% | ~5,901 |
+| Safety in the Storm | 25.00% | ~1,553 |
+| A Better Idea | 25.00% | ~1,553 |
+| Begin the Ceremony | 21.00% | ~1,305 |
+| Mission Accomplished | 20.00% | ~1,242 |
+| The Galaxy's Finest (Story Mode) | 16.00% | ~994 |
+| Asset Secured | 14.00% | ~870 |
+| A Starfighter of Your Own | 14.00% | ~870 |
+| Unkillable | 8.00% | ~497 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~435 |
+| Sound Strategy | 7.00% | ~435 |
+| Together, Vanguard | 7.00% | ~435 |
+| Stomped | 6.00% | ~373 |
+| Great Shot, Kid | 5.00% | ~311 |
+| Fearless | 5.00% | ~311 |
+| Back From the Brink | 5.00% | ~311 |
+| Flames Over Mon Cala | 5.00% | ~311 |
+| A Promising Career | 5.00% | ~311 |
 | Temporary Guardian | 4.00% | ~248 |
 | Baited | 4.00% | ~248 |
 | Stronger Together | 3.00% | ~186 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~6 |
 | The Galaxy's Finest (Ace) | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,198 (Ranked 161)  
+Progressed: 6,212 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 5,135 | 0 |
 | 2023-10-01 | 5,679 | 0 |
 | 2023-10-02 | 6,051 | 0 |
-| 2023-10-03 | 6,198 | 0 |
+| 2023-10-03 | 6,212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

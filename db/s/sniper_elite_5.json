@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_Popularity": 526,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,7 +530,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3692,
+  "EOS_Progressed": 3693,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -7030,6 +7030,11 @@
       "Time": "2023-10-03T12:07:54.3445868+00:00",
       "NumProgressed": 3692,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-03T14:06:12.1021222+00:00",
+      "NumProgressed": 3693,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7121,7 +7126,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7151,9 +7156,9 @@
       "ID": "REWARD_23_MASTER_AT_ARMS",
       "SetID": "bm6el81",
       "Name": "Master-at-arms",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_24_GUNSLINGER",
@@ -7177,7 +7182,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7241,7 +7246,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7353,7 +7358,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7608,13 +7613,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3643,
+      "Progressed": 3644,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3692,
+      "Progressed": 3693,
       "Completed": 11
     }
   ],
@@ -7622,8 +7627,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:13:08.7782306+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:06:12.1021219+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:05:20.4312542+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:13:08.7783474+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:58:31.9909008+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:06:12.1022103+00:00"
 }

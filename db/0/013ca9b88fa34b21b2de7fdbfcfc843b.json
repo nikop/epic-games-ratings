@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_Popularity": 526,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5904,
+  "EOS_Progressed": 5907,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3132,6 +3132,11 @@
       "Time": "2023-10-03T13:10:13.1688938+00:00",
       "NumProgressed": 5904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T14:03:12.0031985+00:00",
+      "NumProgressed": 5907,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3144,7 +3149,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4312
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3152,7 +3157,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4135
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3160,7 +3165,7 @@
       "Name": "Calm Sailing",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3168,7 +3173,7 @@
       "Name": "Open the Gate!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3184,7 +3189,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -3232,7 +3237,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3240,7 +3245,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3248,7 +3253,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3280,7 +3285,7 @@
       "Name": "Humble Collector",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3296,7 +3301,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3544
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3304,7 +3309,7 @@
       "Name": "Mist Walker",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -3320,7 +3325,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3328,7 +3333,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -3360,7 +3365,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -3398,9 +3403,9 @@
       "ID": "UPGRADE_COZYMAX",
       "SetID": "9eia0f5",
       "Name": "Captain of Cozy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -3423,7 +3428,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5904,
+      "Progressed": 5907,
       "Completed": 0
     }
   ],
@@ -3431,8 +3436,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-01T19:03:20.1766393+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:10:13.1688934+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:03:12.0031981+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:04:22.7268712+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:10:13.1689387+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:57:27.0781904+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:03:12.0032346+00:00"
 }

@@ -5,38 +5,38 @@ Rating: 4.54 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,705 |
-| Hotel California | 3.00% | ~20,705 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,705 |
-| Welcome To Hell-A | 3.00% | ~20,705 |
-| Dr. Reed, I Presume? | 2.00% | ~13,803 |
-| Git Gutte! | 2.00% | ~13,803 |
-| Anger Management | 2.00% | ~13,803 |
-| Perks of the Job | 2.00% | ~13,803 |
-| Bookworm | 2.00% | ~13,803 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,803 |
-| But Doctor, I am Butcho | 2.00% | ~13,803 |
-| Slayer Squad | 2.00% | ~13,803 |
-| Can't Handle the Truth | 2.00% | ~13,803 |
-| Coup de Grâce | 2.00% | ~13,803 |
-| Like Riding a Bike | 2.00% | ~13,803 |
-| Hazardous Materials | 2.00% | ~13,803 |
-| Friends Like These | 2.00% | ~13,803 |
-| Apex Predator | 2.00% | ~13,803 |
-| Zombologist | 2.00% | ~13,803 |
-| Ooh, Shiny! | 2.00% | ~13,803 |
-| A Patton Emerges | 2.00% | ~13,803 |
-| I Am the Resurrection | 2.00% | ~13,803 |
-| Stacking the Deck | 2.00% | ~13,803 |
-| Our True Nature | 2.00% | ~13,803 |
-| This is My Weapon | 2.00% | ~13,803 |
+| Break A Leg | 3.00% | ~20,706 |
+| Hotel California | 3.00% | ~20,706 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,706 |
+| Welcome To Hell-A | 3.00% | ~20,706 |
+| Dr. Reed, I Presume? | 2.00% | ~13,804 |
+| Git Gutte! | 2.00% | ~13,804 |
+| Anger Management | 2.00% | ~13,804 |
+| Perks of the Job | 2.00% | ~13,804 |
+| Bookworm | 2.00% | ~13,804 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,804 |
+| But Doctor, I am Butcho | 2.00% | ~13,804 |
+| Slayer Squad | 2.00% | ~13,804 |
+| Can't Handle the Truth | 2.00% | ~13,804 |
+| Coup de Grâce | 2.00% | ~13,804 |
+| Like Riding a Bike | 2.00% | ~13,804 |
+| Hazardous Materials | 2.00% | ~13,804 |
+| Friends Like These | 2.00% | ~13,804 |
+| Apex Predator | 2.00% | ~13,804 |
+| Zombologist | 2.00% | ~13,804 |
+| Ooh, Shiny! | 2.00% | ~13,804 |
+| A Patton Emerges | 2.00% | ~13,804 |
+| I Am the Resurrection | 2.00% | ~13,804 |
+| Stacking the Deck | 2.00% | ~13,804 |
+| Our True Nature | 2.00% | ~13,804 |
+| This is My Weapon | 2.00% | ~13,804 |
 | Making Your Mark | 1.00% | ~6,902 |
 | Humanity Distilled | 1.00% | ~6,902 |
 | Down with the Sickness | 1.00% | ~6,902 |
 | Max Headroom | 1.00% | ~6,902 |
-| Go, Bobcats! | 0.90% | ~6,211 |
-| Rising Star | 0.90% | ~6,211 |
-| Jumbo Keyring | 0.80% | ~5,521 |
+| Go, Bobcats! | 0.90% | ~6,212 |
+| Rising Star | 0.90% | ~6,212 |
+| Jumbo Keyring | 0.80% | ~5,522 |
 | Smorgasbord | 0.70% | ~4,831 |
 | On Safari | 0.60% | ~4,141 |
 | Not Even My Final Form | 0.60% | ~4,141 |
@@ -46,13 +46,13 @@ Rating: 4.54 (Ranked 512)
 | LA Influential | 0.40% | ~2,761 |
 | Gore Horse | 0.40% | ~2,761 |
 | Sharpest Tool in the Box | 0.40% | ~2,761 |
-| Sole Survivor | 0.30% | ~2,070 |
-| Survival Skills | 0.30% | ~2,070 |
+| Sole Survivor | 0.30% | ~2,071 |
+| Survival Skills | 0.30% | ~2,071 |
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,166 (Ranked 22)  
-Completed: 2,188 (0.32%) (Ranked 194)  
+Progressed: 690,197 (Ranked 22)  
+Completed: 2,188 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,10 +217,10 @@ Completed: 2,188 (0.32%) (Ranked 194)
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
-| 2023-10-03 | 690,166 | 2,188 |
+| 2023-10-03 | 690,197 | 2,188 |
 ## Awards
 Max (Great Boss Battles): 6,301  (Ranked 58)  
-Sum: 9,394 (Ranked 91)  
+Sum: 9,396 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 442 |
 | This game has Diverse Characters | 435 |
 | This game has Quickly Understood Controls | 413 |
-| This game is Relaxing | 392 |
+| This game is Relaxing | 394 |
 | This game has Amazing Storytelling | 363 |
 | This game is Extremely Fun | 353 |
 | This game is Highly Recommended | 351 |
@@ -401,4 +401,4 @@ Diff (max vs sum): -33
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
 | 2023-10-01 | 4.54 | 6,270 | 9,358 |
 | 2023-10-02 | 4.54 | 6,289 | 9,380 |
-| 2023-10-03 | 4.54 | 6,301 | 9,394 |
+| 2023-10-03 | 4.54 | 6,301 | 9,396 |

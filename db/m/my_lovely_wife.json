@@ -3,12 +3,12 @@
   "Name": "My Lovely Wife",
   "ProductSlug": "my-lovely-wife-bef07f",
   "Ranking_Rating": 758,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 525,
+  "Ranking_Popularity": 526,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -680,8 +680,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:10:11.2292743+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:03:10.0288319+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:00.7540048+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:06:54.7011851+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:10:11.2292974+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:00:09.1080519+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:03:10.0288527+00:00"
 }

@@ -5,39 +5,39 @@ Rating: 4.11 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| When ACE met AYLA | 0.00% | ~0 |
-| Simulacrum | 0.00% | ~0 |
-| Kats always land on their feet | 0.00% | ~0 |
-| Quick like a Kat | 0.00% | ~0 |
-| Kat-like reflexes | 0.00% | ~0 |
-| Stellar extra-vehicular activities score | 0.00% | ~0 |
-| Getting the hang of it | 0.00% | ~0 |
-| Reading is fundamental | 0.00% | ~0 |
-| Peruser | 0.00% | ~0 |
-| The beginning of a beautiful collection | 0.00% | ~0 |
-| Pannapictagraphist | 0.00% | ~0 |
-| Take a look | 0.00% | ~0 |
-| Cinephile | 0.00% | ~0 |
-| Piecing the story together | 0.00% | ~0 |
-| Curiosity didn't kill the Kat | 0.00% | ~0 |
-| As the story unfolds... | 0.00% | ~0 |
-| Their batteries were low and it got dark | 0.00% | ~0 |
-| Better jot that down | 0.00% | ~0 |
-| Chronicler | 0.00% | ~0 |
-| On the Precipice | 0.00% | ~0 |
-| Moonbear | 0.00% | ~0 |
-| Delivered Us Mars | 0.00% | ~0 |
-| The Dream for These Folks | 0.00% | ~0 |
-| Like Animals | 0.00% | ~0 |
-| A Nice Place to Live | 0.00% | ~0 |
-| Not the Rabbits, Not the Bees | 0.00% | ~0 |
-| Home Is... | 0.00% | ~0 |
-| Wants and Needs | 0.00% | ~0 |
-| Desperate Times | 0.00% | ~0 |
-| Want to Go to Space? | 0.00% | ~0 |
-| Shai-Hulud? | 0.00% | ~0 |
-| The Gang | 0.00% | ~0 |
-| Who waits five minutes, seriously? | 0.00% | ~0 |
+| Better jot that down | 71.00% | ~5 |
+| Quick like a Kat | 57.00% | ~4 |
+| The beginning of a beautiful collection | 57.00% | ~4 |
+| Cinephile | 57.00% | ~4 |
+| Piecing the story together | 57.00% | ~4 |
+| Kats always land on their feet | 43.00% | ~3 |
+| Kat-like reflexes | 43.00% | ~3 |
+| Stellar extra-vehicular activities score | 43.00% | ~3 |
+| Peruser | 43.00% | ~3 |
+| Pannapictagraphist | 43.00% | ~3 |
+| Curiosity didn't kill the Kat | 43.00% | ~3 |
+| As the story unfolds... | 43.00% | ~3 |
+| Chronicler | 43.00% | ~3 |
+| Delivered Us Mars | 43.00% | ~3 |
+| Desperate Times | 43.00% | ~3 |
+| When ACE met AYLA | 29.00% | ~2 |
+| Simulacrum | 29.00% | ~2 |
+| Reading is fundamental | 29.00% | ~2 |
+| Take a look | 29.00% | ~2 |
+| Their batteries were low and it got dark | 29.00% | ~2 |
+| On the Precipice | 29.00% | ~2 |
+| Moonbear | 29.00% | ~2 |
+| The Dream for These Folks | 29.00% | ~2 |
+| Like Animals | 29.00% | ~2 |
+| A Nice Place to Live | 29.00% | ~2 |
+| Not the Rabbits, Not the Bees | 29.00% | ~2 |
+| Home Is... | 29.00% | ~2 |
+| Wants and Needs | 29.00% | ~2 |
+| Shai-Hulud? | 29.00% | ~2 |
+| The Gang | 29.00% | ~2 |
+| Getting the hang of it | 14.00% | ~1 |
+| Want to Go to Space? | 14.00% | ~1 |
+| Who waits five minutes, seriously? | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7 (Ranked 530)  
 Completed: 0 (0.00%) (Ranked 305)  

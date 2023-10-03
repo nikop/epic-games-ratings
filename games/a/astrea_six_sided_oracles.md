@@ -26,10 +26,10 @@
 | Skeptical | 14.00% | ~5 |
 | Dice Specialist | 11.00% | ~4 |
 | Heart Gate | 11.00% | ~4 |
+| Heavy Purger | 11.00% | ~4 |
 | Wave Bender | 11.00% | ~4 |
 | Astral Seeker | 8.00% | ~3 |
 | Denying Destiny | 8.00% | ~3 |
-| Heavy Purger | 8.00% | ~3 |
 | The Goddes Avatar | 8.00% | ~3 |
 | The world goes round... | 8.00% | ~3 |
 | Unepic Hero | 8.00% | ~3 |

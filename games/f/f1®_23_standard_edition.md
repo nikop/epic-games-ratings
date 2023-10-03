@@ -6,15 +6,15 @@ Rating: 4.65 (Ranked 301)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 94.00% | ~2,702 |
-| On the Top Step | 87.00% | ~2,500 |
-| Setting up for Success | 76.00% | ~2,184 |
-| Team Orders | 74.00% | ~2,127 |
+| On the Top Step | 87.00% | ~2,501 |
+| Setting up for Success | 76.00% | ~2,185 |
+| Team Orders | 74.00% | ~2,128 |
 | Engineer | 55.00% | ~1,581 |
 | Familiar Faces | 48.00% | ~1,380 |
-| Going the Extra Mile | 42.00% | ~1,207 |
+| Going the Extra Mile | 42.00% | ~1,208 |
 | Sharing the Love | 40.00% | ~1,150 |
-| Hitting a Season | 34.00% | ~977 |
-| Challenge Yourself | 33.00% | ~948 |
+| Hitting a Season | 34.00% | ~978 |
+| Challenge Yourself | 33.00% | ~949 |
 | Making History | 31.00% | ~891 |
 | A Dozen Pieces | 30.00% | ~862 |
 | Spring Cleaning | 24.00% | ~690 |
@@ -25,9 +25,9 @@ Rating: 4.65 (Ranked 301)
 | Crucial Combo | 17.00% | ~489 |
 | One for the Book | 17.00% | ~489 |
 | Reuse | 16.00% | ~460 |
+| Proving Them Wrong | 16.00% | ~460 |
 | Gathering Dust | 15.00% | ~431 |
 | Oil and Water | 15.00% | ~431 |
-| Proving Them Wrong | 15.00% | ~431 |
 | Eagle Eye | 12.00% | ~345 |
 | Lightning Round the World | 12.00% | ~345 |
 | Hitting a Bullseye | 12.00% | ~345 |
@@ -35,18 +35,18 @@ Rating: 4.65 (Ranked 301)
 | All in a Weekend's Work | 11.00% | ~316 |
 | Spinning Around | 11.00% | ~316 |
 | Tinkerer | 11.00% | ~316 |
-| Friendly Competition | 10.00% | ~287 |
-| Switcheroo | 10.00% | ~287 |
+| Friendly Competition | 10.00% | ~288 |
+| Switcheroo | 10.00% | ~288 |
 | Undisputed Winner | 8.00% | ~230 |
 | For all Those Back at the Factory | 6.00% | ~172 |
 | Living up to Expectations | 6.00% | ~172 |
+| Smooth Operator | 6.00% | ~172 |
 | Loyal Bond | 5.00% | ~144 |
-| Smooth Operator | 5.00% | ~144 |
 | Peak Performance | 5.00% | ~144 |
 | Seasoned Rookie | 3.00% | ~86 |
 | Hitting a Century | 3.00% | ~86 |
 | Wait, I know you? | 3.00% | ~86 |
-| Filling in the Gaps | 2.00% | ~57 |
+| Filling in the Gaps | 2.00% | ~58 |
 | Under the Microscope | 1.00% | ~29 |
 | Saturday Night Drama | 1.00% | ~29 |
 | Media Darling | 1.00% | ~29 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 301)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,874 (Ranked 190)  
+Progressed: 2,875 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,874 | 0 |
+| 2023-10-03 | 2,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

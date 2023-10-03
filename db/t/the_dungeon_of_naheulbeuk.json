@@ -1062,9 +1062,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228411,
+  "EOS_Progressed": 228425,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1569,
+  "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13252,6 +13252,11 @@
       "Time": "2023-10-03T13:13:24.6384763+00:00",
       "NumProgressed": 228411,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-03T14:06:28.5035984+00:00",
+      "NumProgressed": 228425,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13311,7 +13316,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9137
     },
     {
       "ID": "Chapter2",
@@ -13319,7 +13324,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "Chapter3",
@@ -13695,7 +13700,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9137
     },
     {
       "ID": "ElfEpic",
@@ -13711,7 +13716,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73092
+      "UsersEstimate": 73096
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13727,7 +13732,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "EndCombatOneHp",
@@ -13735,7 +13740,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "EndGameCursed",
@@ -13759,7 +13764,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13705
+      "UsersEstimate": 13706
     },
     {
       "ID": "FollowBraztok",
@@ -13773,9 +13778,9 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 1142
     },
     {
       "ID": "InsultLoose",
@@ -13847,7 +13852,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "QuestEmile",
@@ -13871,7 +13876,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "QuestPriestess",
@@ -13911,7 +13916,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "SupportCount4",
@@ -13959,28 +13964,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228411,
+      "Progressed": 228425,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228411,
+      "Progressed": 228425,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T10:01:05.1606933+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:13:24.6384759+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:06:28.5035981+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:06:55.5272816+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:13:24.6386271+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:00:09.9215642+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:06:28.5037422+00:00"
 }

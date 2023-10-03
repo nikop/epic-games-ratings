@@ -12819,10 +12819,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 257590,
       "NumberOfAwardsMax": 89540
+    },
+    {
+      "Time": "2023-10-03T14:00:02.3690072+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 257918,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257590,
+  "NumberOfAwards": 257918,
   "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12842,7 +12848,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 12694
+      "Count": 13022
     },
     {
       "Text": "This game is Relaxing",
@@ -12899,10 +12905,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888229,
-  "EOS_Completed": 2561,
-  "EOS_NewPlayers": 6235,
-  "EOS_NewCompleters": 159,
+  "EOS_Progressed": 888250,
+  "EOS_Completed": 2562,
+  "EOS_NewPlayers": 6209,
+  "EOS_NewCompleters": 160,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31589,6 +31595,11 @@
       "Time": "2023-10-03T13:13:52.1852153+00:00",
       "NumProgressed": 888229,
       "NumCompleted": 2561
+    },
+    {
+      "Time": "2023-10-03T14:07:06.824754+00:00",
+      "NumProgressed": 888250,
+      "NumCompleted": 2562
     }
   ],
   "TotalAchievements": 57,
@@ -31616,7 +31627,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "Cyberjunkie",
@@ -31654,9 +31665,9 @@
       "ID": "Gearhead",
       "SetID": "47clieb",
       "Name": "Autojock",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3553
+      "UsersEstimate": 4441
     },
     {
       "ID": "GetMeThereScottie",
@@ -31680,7 +31691,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26647
+      "UsersEstimate": 26648
     },
     {
       "ID": "HandyMan",
@@ -31688,7 +31699,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26647
+      "UsersEstimate": 26648
     },
     {
       "ID": "IAmMaxTac",
@@ -31696,7 +31707,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31766,9 +31777,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6218
+      "UsersEstimate": 7106
     },
     {
       "ID": "Roleplayer",
@@ -31784,7 +31795,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35529
+      "UsersEstimate": 35530
     },
     {
       "ID": "Temperance",
@@ -31800,7 +31811,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35529
+      "UsersEstimate": 35530
     },
     {
       "ID": "TheDevil",
@@ -31888,7 +31899,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26647
+      "UsersEstimate": 26648
     },
     {
       "ID": "TrueSoldier",
@@ -32055,21 +32066,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888229,
-      "Completed": 2561
+      "Progressed": 888250,
+      "Completed": 2562
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16852,
+      "Progressed": 16873,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-03T13:06:47.1221514+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:13:52.1852147+00:00",
+  "LastChanged": "2023-10-03T14:00:02.369007+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:07:06.8247536+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:06:47.122152+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:13:52.1853565+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:00:02.3690076+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:07:06.8248952+00:00"
 }

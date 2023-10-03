@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -394,9 +394,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41562,
+  "EOS_Progressed": 41571,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1496,
+  "EOS_NewPlayers": 1505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9604,6 +9604,11 @@
       "Time": "2023-10-03T13:12:12.7996171+00:00",
       "NumProgressed": 41562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T14:05:15.0006064+00:00",
+      "NumProgressed": 41571,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9647,7 +9652,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -9663,7 +9668,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9671,7 +9676,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -9767,7 +9772,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9775,7 +9780,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -9831,7 +9836,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -9855,7 +9860,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9871,7 +9876,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "MAGIC_IVY",
@@ -10038,22 +10043,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41562,
+      "Progressed": 41571,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6399,
-      "Completed": 6399
+      "Progressed": 6408,
+      "Completed": 6408
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-02T17:01:25.0087272+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:12:12.7996166+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:05:15.000606+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:06:55.4225521+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:12:12.7997062+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:00:09.8823752+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:05:15.0006902+00:00"
 }

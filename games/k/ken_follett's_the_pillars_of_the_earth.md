@@ -12,9 +12,9 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 33.00% | ~5,122 |
 | Let there be darkness | 32.00% | ~4,967 |
 | End of Book One | 30.00% | ~4,656 |
+| Wannabe knight | 24.00% | ~3,725 |
 | Garden of Eden | 24.00% | ~3,725 |
 | Full house | 24.00% | ~3,725 |
-| Wannabe knight | 23.00% | ~3,570 |
 | Help an old friend | 22.00% | ~3,415 |
 | Two of us | 20.00% | ~3,104 |
 | Negotiation skills | 18.00% | ~2,794 |
@@ -217,8 +217,8 @@ Completed: 112 (0.72%) (Ranked 150)
 | 2023-10-03 | 15,521 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 304)  
-Sum: 193 (Ranked 383)  
-Diff (max vs sum): -79  
+Sum: 193 (Ranked 384)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 151 |

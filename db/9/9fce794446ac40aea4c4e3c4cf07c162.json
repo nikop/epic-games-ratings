@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -77,9 +77,9 @@
       "ID": "BOSS_03",
       "SetID": "35d3i7a",
       "Name": "Painful image.",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_04",
@@ -277,9 +277,9 @@
       "ID": "MEM_VIII",
       "SetID": "35d3i7a",
       "Name": "Bad dog.",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_X",
@@ -491,8 +491,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:11:22.0785201+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:04:23.4214841+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.2620834+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:04:41.0478231+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:11:22.0785674+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:57:47.6019413+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:04:23.4215242+00:00"
 }

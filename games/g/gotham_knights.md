@@ -9,28 +9,28 @@ Rating: 4.18 (Ranked 897)
 | Har, Har, Har, Very Funny | 35.00% | ~25,576 |
 | Loose Ends | 34.00% | ~24,845 |
 | To the Victor Go the Spoils | 29.00% | ~21,191 |
-| Knighthood | 28.00% | ~20,460 |
+| Knighthood | 28.00% | ~20,461 |
 | Get ReQ'd | 25.00% | ~18,268 |
 | Whispered Words | 25.00% | ~18,268 |
 | The Batman Family | 23.00% | ~16,807 |
 | Lock and Key | 23.00% | ~16,807 |
-| Something in the Clay | 21.00% | ~15,345 |
-| Quartzer Life Crisis | 21.00% | ~15,345 |
+| Something in the Clay | 21.00% | ~15,346 |
+| Quartzer Life Crisis | 21.00% | ~15,346 |
 | Working Hard or Harley Working? | 20.00% | ~14,615 |
 | Unstoppable Force | 20.00% | ~14,615 |
 | Bad Apples in Every Orchard | 20.00% | ~14,615 |
 | Snow Problem | 19.00% | ~13,884 |
 | The Show Mud Go On | 18.00% | ~13,153 |
 | From Inside Gotham's Walls | 18.00% | ~13,153 |
-| Protector of Gotham | 17.00% | ~12,422 |
+| Protector of Gotham | 17.00% | ~12,423 |
 | Universal Health Scare | 16.00% | ~11,692 |
 | In Your Element | 15.00% | ~10,961 |
 | Voiceless | 15.00% | ~10,961 |
 | Rock and a Hard Place | 14.00% | ~10,230 |
 | Cooldown | 14.00% | ~10,230 |
 | Seeking Asylum | 14.00% | ~10,230 |
-| Not On My Watch | 13.00% | ~9,499 |
-| Shock Til They Drop | 13.00% | ~9,499 |
+| Not On My Watch | 13.00% | ~9,500 |
+| Shock Til They Drop | 13.00% | ~9,500 |
 | End of an Era | 12.00% | ~8,769 |
 | Bulldozed | 12.00% | ~8,769 |
 | Gotham Knight | 12.00% | ~8,769 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,073 (Ranked 87)  
+Progressed: 73,074 (Ranked 87)  
 Completed: 122 (0.17%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 122 (0.17%) (Ranked 225)
 | 2023-09-30 | 72,990 | 120 |
 | 2023-10-01 | 73,024 | 121 |
 | 2023-10-02 | 73,059 | 121 |
-| 2023-10-03 | 73,073 | 122 |
+| 2023-10-03 | 73,074 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,778  (Ranked 97)  
 Sum: 4,651 (Ranked 140)  

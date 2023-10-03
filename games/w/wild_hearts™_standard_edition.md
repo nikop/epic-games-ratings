@@ -24,11 +24,11 @@
 | Bonds of Enmity | 46.00% | ~43 |
 | Axer of Auspice | 42.00% | ~39 |
 | Karakuri Trail | 39.00% | ~36 |
+| Mighty Marmelizer | 38.00% | ~35 |
 | Fair Means or Foul | 38.00% | ~35 |
 | Snare Specialist | 38.00% | ~35 |
-| Mighty Marmelizer | 37.00% | ~34 |
+| Single Minded | 37.00% | ~34 |
 | Kemono at Heart | 37.00% | ~34 |
-| Single Minded | 35.00% | ~33 |
 | Reincarnation Cycle Stopper | 33.00% | ~31 |
 | Team Hunter | 32.00% | ~30 |
 | Karakuri Isle | 31.00% | ~29 |
@@ -42,7 +42,7 @@
 | Karakuri Minato | 25.00% | ~23 |
 | Jack of All Trades | 24.00% | ~22 |
 | Canyon of Karakuri | 23.00% | ~21 |
-| Karakuri Fortress | 22.00% | ~20 |
+| Karakuri Fortress | 23.00% | ~21 |
 | Superlative View | 22.00% | ~20 |
 | Tender Touch | 19.00% | ~18 |
 | Quintessence of Form | 19.00% | ~18 |

@@ -3350,9 +3350,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73073,
+  "EOS_Progressed": 73074,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17465,6 +17465,11 @@
       "Time": "2023-10-03T13:11:22.4933608+00:00",
       "NumProgressed": 73073,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-03T14:04:23.8634901+00:00",
+      "NumProgressed": 73074,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17572,7 +17577,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12422
+      "UsersEstimate": 12423
     },
     {
       "ID": "CLAYFACE_1",
@@ -17580,7 +17585,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15345
+      "UsersEstimate": 15346
     },
     {
       "ID": "CLAYFACE_2",
@@ -17636,7 +17641,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9499
+      "UsersEstimate": 9500
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17684,7 +17689,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9499
+      "UsersEstimate": 9500
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -17708,7 +17713,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15345
+      "UsersEstimate": 15346
     },
     {
       "ID": "FREEZE_2",
@@ -17852,7 +17857,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20460
+      "UsersEstimate": 20461
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17963,13 +17968,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73073,
+      "Progressed": 73074,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43353,
+      "Progressed": 43354,
       "Completed": 2668
     }
   ],
@@ -17977,8 +17982,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-03T13:03:58.1505338+00:00",
-  "LastChanged_Achievements": "2023-10-03T13:11:22.4933603+00:00",
+  "LastChanged_Achievements": "2023-10-03T14:04:23.8634897+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:03:58.1505348+00:00",
-  "LastUpdate_Achievements": "2023-10-03T13:11:22.4935001+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:57:00.2381473+00:00",
+  "LastUpdate_Achievements": "2023-10-03T14:04:23.8636101+00:00"
 }

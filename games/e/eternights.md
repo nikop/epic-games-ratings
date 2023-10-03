@@ -15,8 +15,8 @@
 | Expert Scavenger | 34.00% | ~87 |
 | Their Rock | 29.00% | ~74 |
 | Yuna's Promise | 28.00% | ~71 |
+| Stone Retriever | 26.00% | ~66 |
 | Find myself | 25.00% | ~64 |
-| Stone Retriever | 25.00% | ~64 |
 | Truebro | 21.00% | ~54 |
 | Min's Promise | 19.00% | ~48 |
 | Sia's Promise | 17.00% | ~43 |
@@ -24,8 +24,8 @@
 | TentacleMAN | 11.00% | ~28 |
 | Yohan's Promise | 5.00% | ~13 |
 | Plushyboy | 5.00% | ~13 |
+| Flawless | 5.00% | ~13 |
 | LOVEassistant | 4.00% | ~10 |
-| Flawless | 4.00% | ~10 |
 | Dreamboat | 2.00% | ~5 |
 | True Player | 1.00% | ~3 |
 | Bond Lord | 0.40% | ~1 |

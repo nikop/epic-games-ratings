@@ -47,9 +47,9 @@ Rating: 4.24 (Ranked 854)
 | Turbo Booster | 6.00% | ~125 |
 | Juiced Up | 6.00% | ~125 |
 | Squid Pro Quo | 6.00% | ~125 |
+| Hello Darkness My Old Friend | 5.00% | ~104 |
 | Counter-Sniper | 5.00% | ~104 |
 | Shrimp Cocktail | 5.00% | ~104 |
-| Hello Darkness My Old Friend | 4.00% | ~83 |
 | Geronimo! | 4.00% | ~83 |
 | Homewrecker | 4.00% | ~83 |
 | Plank of Wood | 4.00% | ~83 |
