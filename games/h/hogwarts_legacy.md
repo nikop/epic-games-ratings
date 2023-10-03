@@ -8,17 +8,17 @@ Rating: 4.76 (Ranked 118)
 | The Sort Who Makes an Entrance | 15.00% | ~44,662 |
 | First Class Student | 13.00% | ~38,707 |
 | Troll with the Punches | 13.00% | ~38,707 |
-| A Keen Sense of Spell | 12.00% | ~35,729 |
-| That's a Keeper | 12.00% | ~35,729 |
+| A Keen Sense of Spell | 12.00% | ~35,730 |
+| That's a Keeper | 12.00% | ~35,730 |
 | The Defender of Dragons | 11.00% | ~32,752 |
 | Loom for Improvement | 11.00% | ~32,752 |
 | A Talent for Spending | 11.00% | ~32,752 |
-| Grappling with a Graphorn | 10.00% | ~29,774 |
-| The One Who Mastered Memories | 10.00% | ~29,774 |
-| The Hallowed Hero | 10.00% | ~29,774 |
-| The Hero of Hogwarts | 10.00% | ~29,774 |
-| Challenge Accepted | 10.00% | ~29,774 |
-| Coasting Along | 10.00% | ~29,774 |
+| Grappling with a Graphorn | 10.00% | ~29,775 |
+| The One Who Mastered Memories | 10.00% | ~29,775 |
+| The Hallowed Hero | 10.00% | ~29,775 |
+| The Hero of Hogwarts | 10.00% | ~29,775 |
+| Challenge Accepted | 10.00% | ~29,775 |
+| Coasting Along | 10.00% | ~29,775 |
 | Followed the Butterflies | 9.00% | ~26,797 |
 | Rising From the Ashes | 9.00% | ~26,797 |
 | The Avenging Gazelle | 8.00% | ~23,820 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,786 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,745 (Ranked 46)  
+Progressed: 297,748 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
-| 2023-10-03 | 297,745 | 479 |
+| 2023-10-03 | 297,748 | 479 |
 ## Awards
 Max (Character Customization): 23,221  (Ranked 17)  
-Sum: 44,874 (Ranked 31)  
+Sum: 44,876 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 1,044 |
 | This game has Quickly Understood Controls | 976 |
 | This game has Beautiful Visuals | 905 |
-| This game has a Creative Community | 681 |
+| This game has a Creative Community | 683 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -432,3 +432,4 @@ Diff (max vs sum): -14
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
 | 2023-10-02 | 4.76 | 23,221 | 44,874 |
+| 2023-10-03 | 4.76 | 23,221 | 44,876 |

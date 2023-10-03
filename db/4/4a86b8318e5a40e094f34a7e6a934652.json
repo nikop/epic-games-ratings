@@ -828,9 +828,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:08:24.1876761+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:08:41.3612429+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:59:41.3362836+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:08:24.1877+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:59:57.1578063+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:08:41.3612701+00:00"
 }

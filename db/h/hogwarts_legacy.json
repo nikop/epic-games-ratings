@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8350,10 +8350,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44874,
       "NumberOfAwardsMax": 23221
+    },
+    {
+      "Time": "2023-10-03T04:00:23.4154242+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44876,
+      "NumberOfAwardsMax": 23221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44874,
+  "NumberOfAwards": 44876,
   "NumberOfAwardsMax": 23221,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8427,12 +8433,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 681
+      "Count": 683
     }
   ],
-  "EOS_Progressed": 297745,
+  "EOS_Progressed": 297748,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26310,6 +26316,11 @@
       "Time": "2023-10-03T03:05:41.9180372+00:00",
       "NumProgressed": 297745,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-03T04:06:03.0486336+00:00",
+      "NumProgressed": 297748,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26329,7 +26340,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_11",
@@ -26337,7 +26348,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_12",
@@ -26345,7 +26356,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_13",
@@ -26353,7 +26364,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_14",
@@ -26425,7 +26436,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_22",
@@ -26441,7 +26452,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35729
+      "UsersEstimate": 35730
     },
     {
       "ID": "PFA_24",
@@ -26577,7 +26588,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29774
+      "UsersEstimate": 29775
     },
     {
       "ID": "PFA_4",
@@ -26665,7 +26676,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35729
+      "UsersEstimate": 35730
     },
     {
       "ID": "PFA_9",
@@ -26680,16 +26691,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297745,
+      "Progressed": 297748,
       "Completed": 479
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-02T23:00:03.5143938+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:05:41.9180366+00:00",
+  "LastChanged": "2023-10-03T04:00:23.415424+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:06:03.0486329+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:00:08.2225928+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:05:41.9182609+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:00:23.4154249+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:06:03.0488883+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -632,9 +632,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2097,6 +2097,11 @@
       "Time": "2023-10-03T03:07:59.1414071+00:00",
       "NumProgressed": 723,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T04:08:17.2221254+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2109,7 +2114,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_10",
@@ -2197,7 +2202,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_20",
@@ -2205,7 +2210,7 @@
       "Name": "Autofire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_21",
@@ -2213,7 +2218,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_22",
@@ -2243,9 +2248,9 @@
       "ID": "achievement_25",
       "SetID": "222fo9l",
       "Name": "Full Contact",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_26",
@@ -2269,7 +2274,7 @@
       "Name": "Story Teller",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_29",
@@ -2277,15 +2282,15 @@
       "Name": "Legend Teller",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_30",
@@ -2301,7 +2306,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_32",
@@ -2331,9 +2336,9 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_36",
@@ -2365,7 +2370,7 @@
       "Name": "Z-Baller",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_4",
@@ -2381,7 +2386,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_41",
@@ -2395,9 +2400,9 @@
       "ID": "achievement_42",
       "SetID": "222fo9l",
       "Name": "Brute Force",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_43",
@@ -2405,7 +2410,7 @@
       "Name": "Exterminator",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_44",
@@ -2453,7 +2458,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_7",
@@ -2461,7 +2466,7 @@
       "Name": "S.O.S.",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_8",
@@ -2484,7 +2489,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 3
     }
   ],
@@ -2492,8 +2497,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:07:59.1414065+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:08:17.2221249+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:58:37.8063728+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:07:59.1414793+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:58:54.59549+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:08:17.2221769+00:00"
 }

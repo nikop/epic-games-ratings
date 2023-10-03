@@ -14,6 +14,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 36,
   "EOS_Completed": 0,
@@ -168,9 +170,9 @@
       "ID": "achMaxCage",
       "SetID": "7ji07dj",
       "Name": "Fortress on Wheels",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achMaxCageAll",
@@ -184,9 +186,9 @@
       "ID": "achMaxEngine",
       "SetID": "7ji07dj",
       "Name": "Firing on All Cylinders",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achMaxEngineAll",
@@ -389,9 +391,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:05:50.6448297+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:06:11.990649+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:00:13.8866519+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:05:50.6448512+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:00:29.2485804+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:06:11.9906855+00:00"
 }

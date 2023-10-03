@@ -4,7 +4,7 @@
   "ProductSlug": "the-dead-await-13afd0",
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T14:57:03.885264+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:58:44.4670541+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:09:32.1422478+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:59:02.1148675+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:09:47.9032562+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.00 (Ranked 960)
 | Unforeseen | 86.00% | ~51 |
 | Battlefields Have Memories | 86.00% | ~51 |
 | Enlisted | 86.00% | ~51 |
-| Maybe Engage a Little | 81.00% | ~48 |
+| Maybe Engage a Little | 83.00% | ~49 |
 | No More Names | 68.00% | ~40 |
 | Initiate | 61.00% | ~36 |
 | Thrada-Kul | 59.00% | ~35 |

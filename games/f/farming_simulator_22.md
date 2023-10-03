@@ -6,17 +6,17 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,012 |
-| I read Shakespeare and stuff | 64.00% | ~31,584 |
-| Just a sprinkle | 63.00% | ~31,090 |
+| Own use | 75.00% | ~37,013 |
+| I read Shakespeare and stuff | 64.00% | ~31,585 |
+| Just a sprinkle | 63.00% | ~31,091 |
 | I'm stumped | 61.00% | ~30,104 |
-| Plant get enough | 60.00% | ~29,610 |
-| It's just the beginning | 59.00% | ~29,116 |
-| This is just my weekend vehicle | 58.00% | ~28,623 |
+| Plant get enough | 60.00% | ~29,611 |
+| It's just the beginning | 59.00% | ~29,117 |
+| This is just my weekend vehicle | 58.00% | ~28,624 |
 | Hard work pays off | 53.00% | ~26,156 |
-| It's never too late to farm | 50.00% | ~24,675 |
+| It's never too late to farm | 50.00% | ~24,676 |
 | All out of Land | 44.00% | ~21,714 |
-| Field Trip | 43.00% | ~21,220 |
+| Field Trip | 43.00% | ~21,221 |
 | I like to switch it up | 40.00% | ~19,740 |
 | Help me to help you | 38.00% | ~18,753 |
 | Ultimutt Pawesomeness | 28.00% | ~13,818 |
@@ -27,12 +27,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 16.00% | ~7,896 |
 | Well-Oiled Machine | 16.00% | ~7,896 |
 | Long haul | 16.00% | ~7,896 |
-| Clucky Streak | 15.00% | ~7,402 |
-| That's a wrap | 15.00% | ~7,402 |
+| Clucky Streak | 15.00% | ~7,403 |
+| That's a wrap | 15.00% | ~7,403 |
 | Fix me up | 13.00% | ~6,416 |
 | Rock on | 12.00% | ~5,922 |
-| Highly cultivated | 11.00% | ~5,428 |
-| It's sow easy | 11.00% | ~5,428 |
+| Highly cultivated | 11.00% | ~5,429 |
+| It's sow easy | 11.00% | ~5,429 |
 | Giddy-up! | 10.00% | ~4,935 |
 | Cowherd | 7.00% | ~3,455 |
 | Fluffyness | 6.00% | ~2,961 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~197 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,350 (Ranked 100)  
+Progressed: 49,351 (Ranked 100)  
 Completed: 6 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 6 (0.01%) (Ranked 287)
 | 2023-09-30 | 49,254 | 6 |
 | 2023-10-01 | 49,299 | 6 |
 | 2023-10-02 | 49,346 | 6 |
-| 2023-10-03 | 49,350 | 6 |
+| 2023-10-03 | 49,351 | 6 |
 ## Awards
 Max (Great for Beginners): 5,089  (Ranked 70)  
-Sum: 40,798 (Ranked 33)  
+Sum: 40,799 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 37
 | This game has Diverse Characters | 4,222 |
 | This game is Educational | 4,207 |
 | This game is Relaxing | 4,170 |
-| This game has Quickly Understood Controls | 4,128 |
+| This game has Quickly Understood Controls | 4,129 |
 | This game is Highly Recommended | 4,049 |
 | This game is Extremely Fun | 4,022 |
 | This game has Amazing Storytelling | 3,924 |
@@ -497,3 +497,4 @@ Diff (max vs sum): 37
 | 2023-09-30 | 4.69 | - | 5,071 | 40,734 |
 | 2023-10-01 | 4.69 | - | 5,081 | 40,769 |
 | 2023-10-02 | 4.69 | - | 5,089 | 40,798 |
+| 2023-10-03 | 4.69 | - | 5,089 | 40,799 |

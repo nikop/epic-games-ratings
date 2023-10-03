@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -263,7 +263,7 @@
   "Tags": [],
   "EOS_Progressed": 2076,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2990,9 +2990,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 810
     },
     {
       "ID": "ACHV_42",
@@ -3135,8 +3135,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:05:53.1230239+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:06:14.5279378+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.8847367+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:58:24.3886017+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:05:53.1231484+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:58:40.2200209+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:06:14.5280278+00:00"
 }

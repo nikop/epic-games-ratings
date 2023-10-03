@@ -5,10 +5,10 @@ Rating: 4.16 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,150 |
-| Unlocked Potential | 9.00% | ~3,735 |
-| Tinkerer | 7.00% | ~2,905 |
-| Knock 'Em Dead | 7.00% | ~2,905 |
+| Attachments | 10.00% | ~4,151 |
+| Unlocked Potential | 9.00% | ~3,736 |
+| Tinkerer | 7.00% | ~2,906 |
+| Knock 'Em Dead | 7.00% | ~2,906 |
 | Leapfrogger | 6.00% | ~2,490 |
 | Pilgrimage: Initiate | 6.00% | ~2,490 |
 | Hell of a Run | 6.00% | ~2,490 |
@@ -34,32 +34,32 @@ Rating: 4.16 (Ranked 907)
 | None the Wiser | 1.00% | ~415 |
 | Forspoken | 1.00% | ~415 |
 | Pilgrimage: Novice | 1.00% | ~415 |
-| Wildfire | 0.70% | ~290 |
-| Realized Potential | 0.70% | ~290 |
+| Wildfire | 0.70% | ~291 |
+| Realized Potential | 0.70% | ~291 |
 | Awakening | 0.60% | ~249 |
 | Explorer: Trailblazer | 0.60% | ~249 |
-| Through the Eyes of Another: Seer | 0.50% | ~207 |
-| Archivist | 0.30% | ~124 |
-| Craftsperson | 0.30% | ~124 |
-| Tit for Tat | 0.30% | ~124 |
-| Promises | 0.30% | ~124 |
-| Rebirth | 0.30% | ~124 |
+| Through the Eyes of Another: Seer | 0.50% | ~208 |
+| Archivist | 0.30% | ~125 |
+| Craftsperson | 0.30% | ~125 |
+| Tit for Tat | 0.30% | ~125 |
+| Promises | 0.30% | ~125 |
+| Rebirth | 0.30% | ~125 |
 | Paragon | 0.20% | ~83 |
 | Pilgrimage: Adept | 0.20% | ~83 |
 | Call of the Fount: Beatified | 0.20% | ~83 |
 | I Can Fly! | 0.20% | ~83 |
 | A Roaring Trade | 0.20% | ~83 |
-| Abominizer | 0.10% | ~41 |
-| Through the Eyes of Another: Visionary | 0.10% | ~41 |
-| Kit and Caboodle | 0.10% | ~41 |
-| Above and Beyond | 0.10% | ~41 |
-| Happy Snapper | 0.10% | ~41 |
-| Barely There | 0.10% | ~41 |
-| Moves | 0.10% | ~41 |
-| Remembrance | 0.10% | ~41 |
-| Cat Person | 0.10% | ~41 |
+| Abominizer | 0.10% | ~42 |
+| Through the Eyes of Another: Visionary | 0.10% | ~42 |
+| Kit and Caboodle | 0.10% | ~42 |
+| Above and Beyond | 0.10% | ~42 |
+| Happy Snapper | 0.10% | ~42 |
+| Barely There | 0.10% | ~42 |
+| Moves | 0.10% | ~42 |
+| Remembrance | 0.10% | ~42 |
+| Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,499 (Ranked 103)  
+Progressed: 41,508 (Ranked 103)  
 Completed: 3 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 3 (0.01%) (Ranked 287)
 | 2023-09-30 | 40,800 | 3 |
 | 2023-10-01 | 41,144 | 3 |
 | 2023-10-02 | 41,468 | 3 |
-| 2023-10-03 | 41,499 | 3 |
+| 2023-10-03 | 41,508 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 482)  
 Sum: 27 (Ranked 494)  

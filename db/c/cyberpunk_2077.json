@@ -12801,10 +12801,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 256727,
       "NumberOfAwardsMax": 89540
+    },
+    {
+      "Time": "2023-10-03T04:01:21.9099874+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 257112,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 256727,
+  "NumberOfAwards": 257112,
   "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12854,7 +12860,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12605
+      "Count": 12990
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12881,9 +12887,9 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888081,
+  "EOS_Progressed": 888101,
   "EOS_Completed": 2555,
-  "EOS_NewPlayers": 6438,
+  "EOS_NewPlayers": 6421,
   "EOS_NewCompleters": 167,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31521,6 +31527,11 @@
       "Time": "2023-10-03T03:09:04.2242939+00:00",
       "NumProgressed": 888081,
       "NumCompleted": 2555
+    },
+    {
+      "Time": "2023-10-03T04:09:20.5315469+00:00",
+      "NumProgressed": 888101,
+      "NumCompleted": 2555
     }
   ],
   "TotalAchievements": 57,
@@ -31546,9 +31557,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4440
+      "UsersEstimate": 5329
     },
     {
       "ID": "Cyberjunkie",
@@ -31612,7 +31623,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26642
+      "UsersEstimate": 26643
     },
     {
       "ID": "HandyMan",
@@ -31620,7 +31631,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26642
+      "UsersEstimate": 26643
     },
     {
       "ID": "IAmMaxTac",
@@ -31628,7 +31639,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31668,7 +31679,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "NeverFadeAway",
@@ -31716,7 +31727,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35523
+      "UsersEstimate": 35524
     },
     {
       "ID": "Temperance",
@@ -31732,7 +31743,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35523
+      "UsersEstimate": 35524
     },
     {
       "ID": "TheDevil",
@@ -31820,7 +31831,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26642
+      "UsersEstimate": 26643
     },
     {
       "ID": "TrueSoldier",
@@ -31987,21 +31998,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888081,
+      "Progressed": 888101,
       "Completed": 2555
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16704,
+      "Progressed": 16724,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-03T02:16:30.2554777+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:09:04.2242933+00:00",
+  "LastChanged": "2023-10-03T04:01:21.9099872+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:09:20.531545+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:01:03.761711+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:09:04.2244918+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:01:21.9099884+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:09:20.5317221+00:00"
 }

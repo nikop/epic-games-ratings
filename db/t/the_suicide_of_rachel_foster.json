@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -254,11 +254,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516,
+  "EOS_Progressed": 1517,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.82,
+  "EOS_Completed_Percentage": 4.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2814,6 +2814,11 @@
       "Time": "2023-10-02T14:03:51.4620505+00:00",
       "NumProgressed": 1516,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-03T04:04:55.9463512+00:00",
+      "NumProgressed": 1517,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -2833,7 +2838,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2841,7 +2846,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -2865,7 +2870,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_FineGioco",
@@ -2873,7 +2878,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2881,7 +2886,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2889,7 +2894,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2912,15 +2917,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1516,
+      "Progressed": 1517,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:04:33.7905336+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:04:55.9463507+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:21.3012621+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:57:21.4010323+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:04:33.7905674+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:57:39.4496299+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:04:55.9463777+00:00"
 }

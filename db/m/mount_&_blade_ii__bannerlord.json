@@ -7647,9 +7647,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62593,
+  "EOS_Progressed": 62596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25252,6 +25252,11 @@
       "Time": "2023-10-03T02:19:24.3525181+00:00",
       "NumProgressed": 62593,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T04:03:29.6357552+00:00",
+      "NumProgressed": 62596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25263,7 +25268,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "Apple of my eye",
@@ -25279,7 +25284,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "Best served cold",
@@ -25303,7 +25308,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "Catch",
@@ -25343,7 +25348,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     },
     {
       "ID": "Dynasty",
@@ -25351,7 +25356,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     },
     {
       "ID": "Entrepreneur",
@@ -25423,7 +25428,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "I can do it",
@@ -25439,7 +25444,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "Jack of All Trades",
@@ -25487,7 +25492,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20656
+      "UsersEstimate": 20657
     },
     {
       "ID": "Lawbringer",
@@ -25495,7 +25500,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24411
+      "UsersEstimate": 24412
     },
     {
       "ID": "Lawmaker",
@@ -25503,7 +25508,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "Long live the Empire",
@@ -25607,7 +25612,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     },
     {
       "ID": "The king is pleased",
@@ -25623,7 +25628,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7511
+      "UsersEstimate": 7512
     },
     {
       "ID": "This is Sparta",
@@ -25639,7 +25644,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "Undercover",
@@ -25663,22 +25668,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62593,
+      "Progressed": 62596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-03T00:00:59.9683947+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:03:25.886339+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:03:29.6357545+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-03T03:00:45.4134871+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:03:25.8865319+00:00"
+  "LastUpdate_Ratings": "2023-10-03T04:01:02.9275068+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:03:29.6360283+00:00"
 }

@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.20% | ~29 |
 | Explorer | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
+| Learned | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.10% | ~14 |
 | Just | 0.10% | ~14 |
 | Keystone | 0.10% | ~14 |
-| Learned | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Magnificent | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,303 (Ranked 133)  
+Progressed: 14,304 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,303 | 5 |
+| 2023-10-03 | 14,304 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

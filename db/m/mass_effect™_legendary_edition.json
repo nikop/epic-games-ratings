@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1528,17 +1528,17 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 125,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_37",
@@ -1584,9 +1584,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_42",
@@ -2108,8 +2108,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:04:16.2890823+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:04:38.9383687+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:59:10.1489243+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:04:16.2894025+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:59:26.8744178+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:04:38.9386309+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 66,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 10.61,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -331,6 +331,11 @@
       "Time": "2023-10-03T03:08:33.8629685+00:00",
       "NumProgressed": 66,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-03T04:08:50.9191392+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -405,9 +410,9 @@
       "ID": "_cannon_sentinel",
       "SetID": "2d5739o",
       "Name": "Cannon sentinel",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_destroyer",
@@ -429,9 +434,9 @@
       "ID": "_elite_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Elite battlecruiser",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_elite_destroyer",
@@ -461,9 +466,9 @@
       "ID": "_heavy_laser",
       "SetID": "2d5739o",
       "Name": "Heavy laser",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_heavy_shotgun",
@@ -501,9 +506,9 @@
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "_lightsaber_mine",
@@ -549,9 +554,9 @@
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "_orbpack",
@@ -687,13 +692,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 66,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-03T03:08:33.8629679+00:00",
+  "LastChanged_Achievements": "2023-10-03T04:08:50.9191384+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:58:11.7853659+00:00",
-  "LastUpdate_Achievements": "2023-10-03T03:08:33.8630035+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:58:27.0614854+00:00",
+  "LastUpdate_Achievements": "2023-10-03T04:08:50.9192017+00:00"
 }

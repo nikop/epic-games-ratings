@@ -1,35 +1,35 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 510)  
+Rating: 4.54 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break A Leg | 3.00% | ~20,701 |
 | Hotel California | 3.00% | ~20,701 |
 | Welcome To Hell-A | 3.00% | ~20,701 |
-| Dr. Reed, I Presume? | 2.00% | ~13,800 |
-| Git Gutte! | 2.00% | ~13,800 |
-| Anger Management | 2.00% | ~13,800 |
-| Perks of the Job | 2.00% | ~13,800 |
-| Bookworm | 2.00% | ~13,800 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,800 |
-| But Doctor, I am Butcho | 2.00% | ~13,800 |
-| Slayer Squad | 2.00% | ~13,800 |
-| Can't Handle the Truth | 2.00% | ~13,800 |
-| Coup de Grâce | 2.00% | ~13,800 |
-| Like Riding a Bike | 2.00% | ~13,800 |
-| Hazardous Materials | 2.00% | ~13,800 |
-| Friends Like These | 2.00% | ~13,800 |
-| Apex Predator | 2.00% | ~13,800 |
-| Zombologist | 2.00% | ~13,800 |
-| Ooh, Shiny! | 2.00% | ~13,800 |
-| A Patton Emerges | 2.00% | ~13,800 |
-| I Am the Resurrection | 2.00% | ~13,800 |
-| Stacking the Deck | 2.00% | ~13,800 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,800 |
-| Our True Nature | 2.00% | ~13,800 |
-| This is My Weapon | 2.00% | ~13,800 |
+| Dr. Reed, I Presume? | 2.00% | ~13,801 |
+| Git Gutte! | 2.00% | ~13,801 |
+| Anger Management | 2.00% | ~13,801 |
+| Perks of the Job | 2.00% | ~13,801 |
+| Bookworm | 2.00% | ~13,801 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,801 |
+| But Doctor, I am Butcho | 2.00% | ~13,801 |
+| Slayer Squad | 2.00% | ~13,801 |
+| Can't Handle the Truth | 2.00% | ~13,801 |
+| Coup de Grâce | 2.00% | ~13,801 |
+| Like Riding a Bike | 2.00% | ~13,801 |
+| Hazardous Materials | 2.00% | ~13,801 |
+| Friends Like These | 2.00% | ~13,801 |
+| Apex Predator | 2.00% | ~13,801 |
+| Zombologist | 2.00% | ~13,801 |
+| Ooh, Shiny! | 2.00% | ~13,801 |
+| A Patton Emerges | 2.00% | ~13,801 |
+| I Am the Resurrection | 2.00% | ~13,801 |
+| Stacking the Deck | 2.00% | ~13,801 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,801 |
+| Our True Nature | 2.00% | ~13,801 |
+| This is My Weapon | 2.00% | ~13,801 |
 | Making Your Mark | 1.00% | ~6,900 |
 | Humanity Distilled | 1.00% | ~6,900 |
 | Down with the Sickness | 1.00% | ~6,900 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,023 (Ranked 22)  
+Progressed: 690,031 (Ranked 22)  
 Completed: 2,187 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 2,187 (0.32%) (Ranked 194)
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
-| 2023-10-03 | 690,023 | 2,187 |
+| 2023-10-03 | 690,031 | 2,187 |
 ## Awards
 Max (Great Boss Battles): 6,301  (Ranked 58)  
 Sum: 9,392 (Ranked 91)  
