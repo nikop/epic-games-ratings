@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,207 |
-| Man of politics | 35.00% | ~5,431 |
-| Friends of sorts | 33.00% | ~5,121 |
-| Yet another secret | 33.00% | ~5,121 |
+| Tattletale | 40.00% | ~6,208 |
+| Man of politics | 35.00% | ~5,432 |
+| Friends of sorts | 33.00% | ~5,122 |
+| Yet another secret | 33.00% | ~5,122 |
 | Let there be darkness | 32.00% | ~4,966 |
-| End of Book One | 30.00% | ~4,655 |
-| Wannabe knight | 24.00% | ~3,724 |
-| Garden of Eden | 24.00% | ~3,724 |
-| Full house | 24.00% | ~3,724 |
+| End of Book One | 30.00% | ~4,656 |
+| Wannabe knight | 24.00% | ~3,725 |
+| Garden of Eden | 24.00% | ~3,725 |
+| Full house | 24.00% | ~3,725 |
 | Help an old friend | 22.00% | ~3,414 |
 | Two of us | 20.00% | ~3,104 |
-| Negotiation skills | 18.00% | ~2,793 |
-| Workers' union | 18.00% | ~2,793 |
-| End of Book Two | 18.00% | ~2,793 |
+| Negotiation skills | 18.00% | ~2,794 |
+| Workers' union | 18.00% | ~2,794 |
+| End of Book Two | 18.00% | ~2,794 |
 | Everything's in order | 17.00% | ~2,638 |
 | Twist of Fate | 14.00% | ~2,173 |
 | Jack was here! | 14.00% | ~2,173 |
-| Exterminator | 13.00% | ~2,017 |
+| Exterminator | 13.00% | ~2,018 |
 | Whodunnit | 12.00% | ~1,862 |
 | Good midwife | 11.00% | ~1,707 |
 | Friar Tuck | 11.00% | ~1,707 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,397 |
 | The truth revealed | 9.00% | ~1,397 |
 | The End. | 9.00% | ~1,397 |
-| A cry for help | 8.00% | ~1,241 |
+| A cry for help | 8.00% | ~1,242 |
 | Silentium est aureum | 7.00% | ~1,086 |
 | Rebel without a cause | 6.00% | ~931 |
 | Staring contest champion | 5.00% | ~776 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~466 |
 | Boy of mystery | 2.00% | ~310 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,518 (Ranked 132)  
+Progressed: 15,520 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 112 (0.72%) (Ranked 150)
 | 2023-09-30 | 15,483 | 112 |
 | 2023-10-01 | 15,500 | 112 |
 | 2023-10-02 | 15,517 | 112 |
-| 2023-10-03 | 15,518 | 112 |
+| 2023-10-03 | 15,520 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 304)  
 Sum: 193 (Ranked 383)  

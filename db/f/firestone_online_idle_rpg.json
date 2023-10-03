@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -334,9 +334,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1987,
+  "EOS_Progressed": 1988,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5859,6 +5859,11 @@
       "Time": "2023-10-02T22:04:28.611918+00:00",
       "NumProgressed": 1987,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-03T10:04:56.105375+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6262,7 +6267,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "prestigiousx10",
@@ -6366,7 +6371,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "theunstoppable",
@@ -6430,7 +6435,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "warmachinesarmy",
@@ -6454,7 +6459,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "worldmap",
@@ -6462,14 +6467,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1987,
+      "Progressed": 1988,
       "Completed": 2
     }
   ],
@@ -6477,8 +6482,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-01T05:58:54.2611764+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:05:08.1417225+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:04:56.1053746+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:00:08.0073448+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:05:08.1418377+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:00:08.7582995+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:04:56.1054648+00:00"
 }

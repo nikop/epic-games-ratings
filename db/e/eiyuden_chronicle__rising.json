@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "ACHIEVEMENT034",
       "SetID": "dejhjd5",
       "Name": "Money, Money, Money",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -746,8 +746,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:03:41.5410244+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:03:23.9189457+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:47.5720419+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:58:28.7103768+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:03:41.5410733+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:58:20.403184+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:03:23.9189865+00:00"
 }

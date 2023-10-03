@@ -49,7 +49,7 @@ Rating: 4.85 (Ranked 42)
 | First we parry, then we counter | 1.00% | ~41 |
 | You ever parry a volcano? | 0.90% | ~37 |
 | New bad guys? No problem! | 0.80% | ~21 |
-| OK, well THEY came after ME! | 0.60% | ~25 |
+| OK, well THEY came after ME! | 0.70% | ~29 |
 | Easy Listening | 0.50% | ~21 |
 | Choose your own adventure | 0.50% | ~13 |
 | Problem solved... wait, what? | 0.40% | ~16 |

@@ -13,11 +13,11 @@ Rating: 3.94 (Ranked 976)
 | Roid Ranger | 0.60% | ~532 |
 | Fancy Pants | 0.60% | ~532 |
 | Off the Rocks | 0.60% | ~532 |
-| Case Closed | 0.50% | ~443 |
-| King of the Hill | 0.50% | ~443 |
-| Raider’s Ruin | 0.50% | ~443 |
-| Dragonslayer | 0.50% | ~443 |
-| Rockay Rex | 0.50% | ~443 |
+| Case Closed | 0.50% | ~444 |
+| King of the Hill | 0.50% | ~444 |
+| Raider’s Ruin | 0.50% | ~444 |
+| Dragonslayer | 0.50% | ~444 |
+| Rockay Rex | 0.50% | ~444 |
 | Hidden Sonata | 0.40% | ~355 |
 | Track Star | 0.40% | ~355 |
 | True Player | 0.40% | ~355 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 976)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,696 (Ranked 80)  
+Progressed: 88,701 (Ranked 80)  
 Completed: 46 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,16 +213,16 @@ Completed: 46 (0.05%) (Ranked 264)
 | 2023-09-30 | 88,572 | 46 |
 | 2023-10-01 | 88,624 | 46 |
 | 2023-10-02 | 88,680 | 46 |
-| 2023-10-03 | 88,696 | 46 |
+| 2023-10-03 | 88,701 | 46 |
 ## Awards
 Max (Diverse Characters): 472  (Ranked 205)  
-Sum: 2,245 (Ranked 193)  
+Sum: 2,248 (Ranked 193)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 472 |
 | This game has Quickly Understood Controls | 460 |
-| This game is Highly Recommended | 443 |
+| This game is Highly Recommended | 446 |
 | This game has Challenging Combat | 439 |
 | This game has Amazing Characters | 431 |
 | This game is Great for Quick Sessions | 70 |
@@ -416,3 +416,4 @@ Diff (max vs sum): 12
 | 2023-09-30 | 3.94 | 469 | 2,235 |
 | 2023-10-01 | 3.94 | 469 | 2,239 |
 | 2023-10-02 | 3.94 | 472 | 2,245 |
+| 2023-10-03 | 3.94 | 472 | 2,248 |

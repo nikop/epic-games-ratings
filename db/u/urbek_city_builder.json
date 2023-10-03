@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1465,9 +1465,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GRANJA_1",
@@ -1802,8 +1802,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:05:43.7143703+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:05:33.8954971+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.0473325+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:01:03.9037992+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:05:43.7144697+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:01:11.5195446+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:05:33.8955731+00:00"
 }

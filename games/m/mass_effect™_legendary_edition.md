@@ -24,8 +24,8 @@
 | Principled | 51.00% | ~273 |
 | Medal of Exploration III | 50.00% | ~268 |
 | Colonial Savior | 49.00% | ~263 |
+| Sentinel Ally | 46.00% | ~247 |
 | Paramour I | 45.00% | ~241 |
-| Sentinel Ally | 45.00% | ~241 |
 | Krogan Ally | 45.00% | ~241 |
 | Merciless | 44.00% | ~236 |
 | Scientist | 44.00% | ~236 |
@@ -72,11 +72,11 @@
 | Friend or Foe | 25.00% | ~134 |
 | Mobilizer | 25.00% | ~134 |
 | Untouchable | 24.00% | ~129 |
+| Eye of the Hurricane | 24.00% | ~129 |
 | Giant Killer | 24.00% | ~129 |
 | Mission Accomplished | 24.00% | ~129 |
 | Suicide Mission | 24.00% | ~129 |
 | Against All Odds | 24.00% | ~129 |
-| Eye of the Hurricane | 23.00% | ~123 |
 | A House Divided | 23.00% | ~123 |
 | Weapon Specialist | 23.00% | ~123 |
 | World Shaker | 23.00% | ~123 |

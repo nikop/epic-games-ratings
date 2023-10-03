@@ -13,8 +13,8 @@
 | Sanctuary Guardian | 78.00% | ~28 |
 | Mind Illuminator | 67.00% | ~24 |
 | Stellar Dismantler | 53.00% | ~19 |
+| Anomaly Destroyer | 42.00% | ~15 |
 | Astral Adventurer | 42.00% | ~15 |
-| Anomaly Destroyer | 39.00% | ~14 |
 | Star Killer | 39.00% | ~14 |
 | Unbeatable | 31.00% | ~11 |
 | Loyal Partner | 28.00% | ~10 |

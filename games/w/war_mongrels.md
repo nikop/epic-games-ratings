@@ -29,7 +29,7 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 23.00% | ~121 |
 | It's Just an Accident | 23.00% | ~121 |
 | Bullseye! | 23.00% | ~121 |
-| Sorrow | 20.00% | ~105 |
+| Sorrow | 21.00% | ~110 |
 | Food Massacre | 19.00% | ~100 |
 | Atonement | 18.00% | ~94 |
 | Helping Hand | 16.00% | ~84 |
@@ -44,9 +44,9 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VII | 6.00% | ~32 |
 | Not Spill a Drop | 6.00% | ~32 |
 | Collectibles of Chapter VIII | 5.00% | ~26 |
+| Collectibles of Chapter XI | 5.00% | ~26 |
 | The Good Samaritan | 5.00% | ~26 |
 | It Will Rain | 5.00% | ~26 |
-| Collectibles of Chapter XI | 4.00% | ~21 |
 | Collectibles of Chapter VI | 3.00% | ~16 |
 | Collectibles of Chapter X | 3.00% | ~16 |
 | Collectibles of Chapter IX | 2.00% | ~10 |

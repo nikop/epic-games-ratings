@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,077 |
-| Alt+F4 | 6.00% | ~13,702 |
-| Where's that freaking Dwarf? | 5.00% | ~11,418 |
+| Sowwy! | 32.00% | ~73,082 |
+| Alt+F4 | 6.00% | ~13,703 |
+| Where's that freaking Dwarf? | 5.00% | ~11,419 |
 | Déjà vu | 4.00% | ~9,135 |
 | Sock! SOCK! | 4.00% | ~9,135 |
 | A beer, two curses, three companions | 3.00% | ~6,851 |
@@ -16,17 +16,17 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 3.00% | ~6,851 |
 | Speedrun | 3.00% | ~6,851 |
 | Fireproof Wizardess | 3.00% | ~6,851 |
-| Livin' in a dwarven paradise | 2.00% | ~4,567 |
-| Way of the Wimp | 2.00% | ~4,567 |
-| The plot thickens... At the tavern | 2.00% | ~4,567 |
-| The demons' feast | 2.00% | ~4,567 |
-| The Great Library | 2.00% | ~4,567 |
-| Torture and Sensibility | 2.00% | ~4,567 |
-| Urik's Depths | 2.00% | ~4,567 |
-| The Dungeon Master | 2.00% | ~4,567 |
-| The Woman in the High Castle | 2.00% | ~4,567 |
-| Team Building Exercise | 2.00% | ~4,567 |
-| Oh, when I'll be level 10... | 2.00% | ~4,567 |
+| Livin' in a dwarven paradise | 2.00% | ~4,568 |
+| Way of the Wimp | 2.00% | ~4,568 |
+| The plot thickens... At the tavern | 2.00% | ~4,568 |
+| The demons' feast | 2.00% | ~4,568 |
+| The Great Library | 2.00% | ~4,568 |
+| Torture and Sensibility | 2.00% | ~4,568 |
+| Urik's Depths | 2.00% | ~4,568 |
+| The Dungeon Master | 2.00% | ~4,568 |
+| The Woman in the High Castle | 2.00% | ~4,568 |
+| Team Building Exercise | 2.00% | ~4,568 |
+| Oh, when I'll be level 10... | 2.00% | ~4,568 |
 | Shiny and Crôm | 1.00% | ~2,284 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,284 |
 | Res Judicata | 1.00% | ~2,284 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.60% | ~1,370 |
 | Lëgal Legend | 0.60% | ~1,370 |
 | We come in peace | 0.50% | ~1,142 |
-| Holistic Adventuring Party | 0.40% | ~913 |
-| An old poacher makes the best gamekeeper | 0.40% | ~913 |
-| Law and Order | 0.40% | ~913 |
+| Holistic Adventuring Party | 0.40% | ~914 |
+| An old poacher makes the best gamekeeper | 0.40% | ~914 |
+| Law and Order | 0.40% | ~914 |
 | Scholar of the Lands of Fangh | 0.30% | ~685 |
 | I'd rather... Just... Sing! | 0.30% | ~685 |
 | It's been a hard day's night | 0.30% | ~685 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,367 (Ranked 58)  
+Progressed: 228,382 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,10 +220,10 @@ Completed: 5 (0.00%) (Ranked 305)
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
-| 2023-10-03 | 228,367 | 5 |
+| 2023-10-03 | 228,382 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
-Sum: 398 (Ranked 326)  
+Sum: 399 (Ranked 326)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -231,7 +231,7 @@ Diff (max vs sum): -51
 | This game is Relaxing | 31 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 24 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Storytelling | 22 |
 | This game is Extremely Fun | 22 |
@@ -386,3 +386,4 @@ Diff (max vs sum): -51
 | 2023-09-30 | 4.59 | - | 202 | 394 |
 | 2023-10-01 | 4.59 | - | 205 | 397 |
 | 2023-10-02 | 4.59 | - | 205 | 398 |
+| 2023-10-03 | 4.59 | - | 205 | 399 |

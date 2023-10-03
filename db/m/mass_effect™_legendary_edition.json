@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1157,9 +1157,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_108",
@@ -1445,9 +1445,9 @@
       "ID": "achievement_25",
       "SetID": "b9pe172",
       "Name": "Sentinel Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_26",
@@ -2113,8 +2113,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:04:25.7024837+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:04:10.897472+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:59:09.9296271+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:04:25.7027078+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:59:03.4027521+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:04:10.8979099+00:00"
 }

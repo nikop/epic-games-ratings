@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.55,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -301,6 +301,11 @@
       "Time": "2023-10-02T15:07:24.5760292+00:00",
       "NumProgressed": 52,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T10:08:04.3071448+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -334,7 +339,7 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -519,14 +524,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:08:24.7412926+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:08:04.307144+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:10.7492176+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:59:40.1517096+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:08:24.7413157+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:59:36.1846311+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:08:04.3071615+00:00"
 }

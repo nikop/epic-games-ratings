@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1246,6 +1246,11 @@
       "Time": "2023-09-29T08:04:22.8398221+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T10:06:37.2609167+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1481,7 +1486,7 @@
       "Name": "First medium level",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -1489,21 +1494,21 @@
       "Name": "Starting to take notes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:06:42.3512803+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:06:37.2609163+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.1831357+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:00:07.6731389+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:06:42.3513102+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:00:08.3981357+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:06:37.2609383+00:00"
 }

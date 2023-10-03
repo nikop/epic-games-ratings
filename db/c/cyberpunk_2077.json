@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -12893,10 +12893,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888158,
-  "EOS_Completed": 2557,
-  "EOS_NewPlayers": 6340,
-  "EOS_NewCompleters": 163,
+  "EOS_Progressed": 888171,
+  "EOS_Completed": 2558,
+  "EOS_NewPlayers": 6322,
+  "EOS_NewCompleters": 164,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31563,6 +31563,11 @@
       "Time": "2023-10-03T09:09:11.6122146+00:00",
       "NumProgressed": 888158,
       "NumCompleted": 2557
+    },
+    {
+      "Time": "2023-10-03T10:08:32.4304623+00:00",
+      "NumProgressed": 888171,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 57,
@@ -31638,7 +31643,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "GunKata",
@@ -31686,7 +31691,7 @@
       "Name": "Little Tokyo",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "MasterRunner",
@@ -31758,7 +31763,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35526
+      "UsersEstimate": 35527
     },
     {
       "ID": "Temperance",
@@ -31774,7 +31779,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35526
+      "UsersEstimate": 35527
     },
     {
       "ID": "TheDevil",
@@ -31822,7 +31827,7 @@
       "Name": "The Star",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "TheSun",
@@ -32029,21 +32034,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888158,
-      "Completed": 2557
+      "Progressed": 888171,
+      "Completed": 2558
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16781,
+      "Progressed": 16794,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T09:00:46.854259+00:00",
-  "LastChanged_Achievements": "2023-10-03T09:09:11.6122142+00:00",
+  "LastChanged_Achievements": "2023-10-03T10:08:32.4304619+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:00:46.8542598+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:09:11.6123879+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:00:54.1453155+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:08:32.4306207+00:00"
 }

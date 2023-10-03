@@ -5,24 +5,24 @@ Rating: 3.76 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,880 |
-| No Half Measures | 87.00% | ~14,543 |
-| Personal Matter | 86.00% | ~14,376 |
-| But You Have Heard of Me | 72.00% | ~12,036 |
-| Double the Barrels, double the Fun | 54.00% | ~9,027 |
-| Pimp My Glide | 48.00% | ~8,024 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,686 |
-| House Party! | 34.00% | ~5,683 |
-| Make It Rain | 23.00% | ~3,845 |
+| Eeligally Ambitious | 95.00% | ~15,884 |
+| No Half Measures | 87.00% | ~14,546 |
+| Personal Matter | 86.00% | ~14,379 |
+| But You Have Heard of Me | 72.00% | ~12,038 |
+| Double the Barrels, double the Fun | 54.00% | ~9,029 |
+| Pimp My Glide | 48.00% | ~8,026 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,688 |
+| House Party! | 34.00% | ~5,685 |
+| Make It Rain | 23.00% | ~3,846 |
 | Curse of the Seven Seas | 22.00% | ~3,678 |
 | Head First | 16.00% | ~2,675 |
 | To the World's End | 12.00% | ~2,006 |
 | Table for Six | 11.00% | ~1,839 |
 | Sharing Is Caring | 10.00% | ~1,672 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,337 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,338 |
 | Morally Flexible | 6.00% | ~1,003 |
 | Fishing for Compliments | 5.00% | ~836 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~501 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~502 |
 | A True Dandy | 2.00% | ~334 |
 | A New Legend Awaits | 1.00% | ~167 |
 | Pirate King | 0.80% | ~134 |
@@ -32,7 +32,7 @@ Rating: 3.76 (Ranked 1,002)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,716 (Ranked 130)  
+Progressed: 16,720 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 16,562 | 0 |
 | 2023-10-01 | 16,647 | 0 |
 | 2023-10-02 | 16,697 | 0 |
-| 2023-10-03 | 16,716 | 0 |
+| 2023-10-03 | 16,720 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

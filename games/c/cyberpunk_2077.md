@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,526 |
-| Rough Landing | 4.00% | ~35,526 |
+| Ten out of Ten | 4.00% | ~35,527 |
+| Rough Landing | 4.00% | ~35,527 |
 | Gunslinger | 3.00% | ~26,645 |
 | Master Crafter | 3.00% | ~26,645 |
 | The Jungle | 3.00% | ~26,645 |
@@ -46,9 +46,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.40% | ~3,553 |
 | Autojock | 0.40% | ~3,553 |
 | The Sun | 0.40% | ~3,553 |
-| Frequent Flyer | 0.30% | ~2,664 |
-| Little Tokyo | 0.30% | ~2,664 |
-| The Star | 0.30% | ~2,664 |
+| Frequent Flyer | 0.30% | ~2,665 |
+| Little Tokyo | 0.30% | ~2,665 |
+| The Star | 0.30% | ~2,665 |
 | The APB is Not Enough | 0.30% | ~50 |
 | Relic Ruler | 0.30% | ~50 |
 | The Wasteland | 0.20% | ~1,776 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,158 (Ranked 15)  
-Completed: 2,557 (0.29%) (Ranked 202)  
+Progressed: 888,171 (Ranked 15)  
+Completed: 2,558 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 2,557 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,158 | 2,557 |
+| 2023-10-03 | 888,171 | 2,558 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 257,445 (Ranked 12)  

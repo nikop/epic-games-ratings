@@ -4,7 +4,7 @@
   "ProductSlug": "dynopunk-2035f5",
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-14T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-15T13:57:23.2694426+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:09.3469642+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:59:17.3654638+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:09:31.3624816+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:59:11.0185372+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:09:12.430215+00:00"
 }

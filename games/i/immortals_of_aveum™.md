@@ -13,8 +13,8 @@ Rating: 4.00 (Ranked 960)
 | Initiate | 63.00% | ~37 |
 | Thrada-Kul | 59.00% | ~35 |
 | Gravity-Challenged Rocks | 49.00% | ~29 |
-| Soldier | 39.00% | ~23 |
-| All the Major Food Groups | 39.00% | ~23 |
+| Soldier | 41.00% | ~24 |
+| All the Major Food Groups | 41.00% | ~24 |
 | Beggars Would Ride | 34.00% | ~20 |
 | Control is an Illusion | 32.00% | ~19 |
 | Socialite | 31.00% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 960)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 416)  
+Progressed: 59 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -194,6 +194,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
+| Pilgrimage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
 | Patriarch St Paul | 0.10% | ~14 |
 | Hypatia the Teacher | 0.10% | ~14 |
@@ -345,7 +346,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Pilgrimage | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

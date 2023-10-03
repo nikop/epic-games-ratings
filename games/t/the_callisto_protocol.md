@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 889)  
+Rating: 4.19 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.19 (Ranked 889)
 | Paper Jams | 6.00% | ~959 |
 | Flesh Wound | 5.00% | ~799 |
 | Float Like A Butterfly | 5.00% | ~799 |
+| Keep Fighting | 5.00% | ~195 |
 | You Need a Gun | 4.00% | ~639 |
 | I Do Belong Here | 4.00% | ~639 |
 | Two Heads Are Better Than One | 4.00% | ~639 |
@@ -22,12 +23,11 @@ Rating: 4.19 (Ranked 889)
 | Crash Site | 4.00% | ~639 |
 | Full Circle | 4.00% | ~639 |
 | Power Up | 4.00% | ~639 |
-| Keep Fighting | 4.00% | ~156 |
+| It's Time | 4.00% | ~156 |
 | Giving Back | 3.00% | ~479 |
 | Terminated | 3.00% | ~479 |
 | If the SHU Fits... | 3.00% | ~479 |
 | Desperate Times | 3.00% | ~479 |
-| It's Time | 3.00% | ~117 |
 | In Striking Distance | 2.00% | ~320 |
 | The Commonality | 2.00% | ~320 |
 | One Last Job | 2.00% | ~78 |

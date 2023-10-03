@@ -2,12 +2,12 @@
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
   "ProductSlug": "kings-bounty-ii",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-24T17:00:00+00:00",
@@ -352,6 +352,6 @@
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
   "LastChanged": "2023-09-26T21:00:46.5208762+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:35.85737+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:58:04.1705031+00:00",
-  "LastUpdate_Achievements": "2023-10-03T09:05:01.6730003+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:57:53.2142584+00:00",
+  "LastUpdate_Achievements": "2023-10-03T10:04:48.8847637+00:00"
 }

@@ -19,12 +19,12 @@
 | I love books! | 0.80% | ~3 |
 | Food producer | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
+| King of fish | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | City crisis | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
-| King of fish | 0.30% | ~1 |
 | Farming Frenzy | 0.30% | ~1 |
 | Farming Frenzy Plus | 0.30% | ~1 |
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
