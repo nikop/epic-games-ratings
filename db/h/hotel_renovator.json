@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1063,
+  "EOS_Progressed": 1064,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
@@ -1883,6 +1883,11 @@
       "Time": "2023-10-02T14:07:10.5403303+00:00",
       "NumProgressed": 1063,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-03T15:03:06.4482635+00:00",
+      "NumProgressed": 1064,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1910,7 +1915,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1934,7 +1939,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1950,7 +1955,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1958,7 +1963,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1982,7 +1987,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1990,7 +1995,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1998,7 +2003,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2038,7 +2043,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_STAR_1",
@@ -2046,7 +2051,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACH_STAR_2",
@@ -2054,7 +2059,7 @@
       "Name": "Moving up",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_STAR_3",
@@ -2086,7 +2091,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -2109,7 +2114,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1063,
+      "Progressed": 1064,
       "Completed": 15
     }
   ],
@@ -2117,8 +2122,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-30T17:58:02.6555182+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:02:16.2429174+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:06.4482631+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.5624233+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:03.3926658+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:02:16.242947+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:13.1428072+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:06.4482911+00:00"
 }

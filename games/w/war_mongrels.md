@@ -30,8 +30,8 @@ Number of Ratings: 34  (23.09.2022)
 | It's Just an Accident | 23.00% | ~121 |
 | Bullseye! | 23.00% | ~121 |
 | Sorrow | 21.00% | ~110 |
+| Atonement | 19.00% | ~100 |
 | Food Massacre | 19.00% | ~100 |
-| Atonement | 18.00% | ~94 |
 | Helping Hand | 16.00% | ~84 |
 | Without a Second Thought | 16.00% | ~84 |
 | Collectibles of Chapter III | 15.00% | ~79 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 525 (Ranked 267)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

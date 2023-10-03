@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 29.00% | ~4 |
-| Recycling newbie | 21.00% | ~3 |
+| Welcome to Maupiroa | 36.00% | ~5 |
+| Recycling newbie | 29.00% | ~4 |
 | New recruit | 14.00% | ~2 |
 | Amateur photographer | 7.00% | ~1 |
 | Interesting | 7.00% | ~1 |
@@ -38,7 +38,7 @@
 | The fifth one! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 496)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -16,7 +16,7 @@ Rating: 3.99 (Ranked 964)
 | Miner | 25.00% | ~411 |
 | Houston we have a problem | 22.00% | ~362 |
 | Detective | 19.00% | ~312 |
-| The Collector | 17.00% | ~279 |
+| The Collector | 18.00% | ~296 |
 | Get your hands dirty | 10.00% | ~164 |
 | Space Forest | 9.00% | ~148 |
 | All Wheel Trouble | 7.00% | ~115 |
@@ -55,7 +55,7 @@ Rating: 3.99 (Ranked 964)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,644 (Ranked 209)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

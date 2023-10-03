@@ -27,22 +27,22 @@
 | Paramour I | 45.00% | ~242 |
 | Sentinel Ally | 45.00% | ~242 |
 | Krogan Ally | 45.00% | ~242 |
+| Scientist | 45.00% | ~242 |
 | Merciless | 44.00% | ~236 |
-| Scientist | 44.00% | ~236 |
 | Head Hunter | 42.00% | ~226 |
+| Scholar | 41.00% | ~220 |
 | Missing in Action | 40.00% | ~215 |
 | Very Elusive | 40.00% | ~215 |
 | Operative | 40.00% | ~215 |
-| Scholar | 40.00% | ~215 |
 | Veteran | 39.00% | ~209 |
 | Power Full | 39.00% | ~209 |
 | The Professor | 37.00% | ~199 |
 | The Archangel | 36.00% | ~193 |
 | Archivist | 35.00% | ~188 |
 | Completionist | 35.00% | ~188 |
+| Colony Defense | 35.00% | ~188 |
 | The Convict | 35.00% | ~188 |
-| Colony Defense | 34.00% | ~183 |
-| The Krogan | 34.00% | ~183 |
+| The Krogan | 35.00% | ~188 |
 | Galactic Explorer | 34.00% | ~183 |
 | Broke, Blind, and Bedlam | 33.00% | ~177 |
 | Ghost Ship | 32.00% | ~172 |
@@ -61,13 +61,13 @@
 | Agent | 29.00% | ~156 |
 | Revenge! | 29.00% | ~156 |
 | Shopaholic | 29.00% | ~156 |
+| Digital Exorcist | 28.00% | ~150 |
 | Driven | 28.00% | ~150 |
+| Bringer of War | 28.00% | ~150 |
 | Focused | 27.00% | ~145 |
 | Cat's in the Cradle | 27.00% | ~145 |
 | Doppelganger | 27.00% | ~145 |
 | Treason | 27.00% | ~145 |
-| Digital Exorcist | 27.00% | ~145 |
-| Bringer of War | 27.00% | ~145 |
 | First Aid Specialist | 26.00% | ~140 |
 | Friend or Foe | 25.00% | ~134 |
 | Mobilizer | 25.00% | ~134 |
@@ -92,9 +92,9 @@
 | Sabotage Specialist | 18.00% | ~97 |
 | No One Left Behind | 18.00% | ~97 |
 | Party Crasher | 18.00% | ~97 |
+| Hard Target | 18.00% | ~97 |
 | Problem Solver | 18.00% | ~97 |
 | Under Pressure | 17.00% | ~91 |
-| Hard Target | 17.00% | ~91 |
 | Saboteur | 17.00% | ~91 |
 | Fact Finder | 17.00% | ~91 |
 | Last Resort | 16.00% | ~86 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 263)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

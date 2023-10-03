@@ -5,10 +5,10 @@
   "Ranking_Rating": 960,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 417,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -331,6 +331,11 @@
       "Time": "2023-10-03T12:08:47.9339701+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:08:13.9274097+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -343,7 +348,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_10",
@@ -431,7 +436,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_20",
@@ -485,9 +490,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_36",
@@ -519,7 +524,7 @@
       "Name": "No More Names",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_41",
@@ -533,7 +538,7 @@
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -549,7 +554,7 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -575,23 +580,23 @@
       "Name": "Enlisted",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_50",
@@ -629,7 +634,7 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -637,9 +642,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_60",
@@ -685,7 +690,7 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -693,32 +698,32 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
@@ -726,8 +731,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-09-24T15:01:08.8110463+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:06:52.8898229+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:08:13.9274093+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.6113778+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:54.9229916+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:06:52.8898588+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:59.4605944+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:08:13.9274479+00:00"
 }

@@ -11,23 +11,23 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 6.00% | ~195 |
 | Watch Where You Step... | 6.00% | ~195 |
 | An Ill Omen | 6.00% | ~195 |
-| Purging Spree | 5.00% | ~162 |
+| Purging Spree | 5.00% | ~163 |
 | Blood for the Blood God! | 4.00% | ~130 |
 | Bloodless | 4.00% | ~130 |
 | Honoured Battle-Brother | 3.00% | ~98 |
 | Surgical Excision | 3.00% | ~98 |
 | Friendly Fire | 3.00% | ~98 |
+| The Emperor Protects | 3.00% | ~98 |
 | A Foul Creche | 3.00% | ~98 |
 | Hold Your Ground | 2.00% | ~65 |
 | Corruption Cleanser | 2.00% | ~65 |
-| The Emperor Protects | 2.00% | ~65 |
 | Nemesis Master | 2.00% | ~65 |
 | Gunmaster | 2.00% | ~65 |
 | Just a Scratch | 2.00% | ~65 |
 | Hive Exterminator | 2.00% | ~65 |
-| Daemonkeeper | 1.00% | ~32 |
-| Efficient Killer | 1.00% | ~32 |
-| Execution Force | 1.00% | ~32 |
+| Daemonkeeper | 1.00% | ~33 |
+| Efficient Killer | 1.00% | ~33 |
+| Execution Force | 1.00% | ~33 |
 | Exterminator | 0.90% | ~29 |
 | Only in Death | 0.90% | ~29 |
 | A Gift Spurned | 0.90% | ~29 |
@@ -49,12 +49,12 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
 | Suffer Not the Mutant | 0.30% | ~10 |
-| The Flesh is Weak | 0.20% | ~6 |
-| Blood and Iron | 0.20% | ~6 |
-| Clean Slate | 0.20% | ~6 |
-| Warp Flickers | 0.20% | ~6 |
-| Abomination | 0.20% | ~6 |
-| Killing Rampage | 0.20% | ~6 |
+| The Flesh is Weak | 0.20% | ~7 |
+| Blood and Iron | 0.20% | ~7 |
+| Clean Slate | 0.20% | ~7 |
+| Warp Flickers | 0.20% | ~7 |
+| Abomination | 0.20% | ~7 |
+| Killing Rampage | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,250 (Ranked 186)  
-Completed: 0 (0.00%) (Ranked 305)  
+Progressed: 3,251 (Ranked 186)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,6 +229,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 3,248 | 0 |
 | 2023-10-01 | 3,249 | 0 |
 | 2023-10-02 | 3,250 | 0 |
+| 2023-10-03 | 3,251 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 268)  
 Sum: 474 (Ranked 313)  

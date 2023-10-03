@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 676)  
+Rating: 4.43 (Ranked 677)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Number of Ratings: 62  (23.09.2022)
 | OPERATOR | 36.00% | ~1,696 |
 | It's Blue Light | 33.00% | ~1,555 |
 | Most Wanted | 27.00% | ~1,272 |
-| Infidel | 23.00% | ~1,084 |
+| Infidel | 24.00% | ~1,131 |
 | Firebug | 21.00% | ~989 |
 | GOLIATH | 21.00% | ~989 |
 | I Choose You | 18.00% | ~848 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3207,
+  "EOS_Progressed": 3208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5189,6 +5189,11 @@
       "Time": "2023-10-03T01:52:11.138388+00:00",
       "NumProgressed": 3207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:08:27.009878+00:00",
+      "NumProgressed": 3208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5328,7 +5333,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_BASE_27",
@@ -5528,7 +5533,7 @@
       "Name": "Convenient Transport",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_BASE_52",
@@ -5552,7 +5557,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_BASE_57",
@@ -5655,13 +5660,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1389,
+      "Progressed": 1390,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3207,
+      "Progressed": 3208,
       "Completed": 0
     }
   ],
@@ -5669,8 +5674,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:08:06.5254234+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:08:27.0098777+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.8238221+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:22.1406509+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:08:06.5254931+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:32.9628054+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:08:27.0099441+00:00"
 }

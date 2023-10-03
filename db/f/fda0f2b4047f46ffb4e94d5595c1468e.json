@@ -2,20 +2,20 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-09-20T09:57:46.6053491+00:00",
@@ -610,10 +610,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1814,
       "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2023-10-03T14:59:09.9197046+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1825,
+      "NumberOfAwardsMax": 814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1814,
+  "NumberOfAwards": 1825,
   "NumberOfAwardsMax": 814,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -675,7 +681,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 94
+      "Count": 105
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -690,9 +696,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6717,
+  "EOS_Progressed": 6718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2505,6 +2511,11 @@
       "Time": "2023-10-03T14:07:04.2611298+00:00",
       "NumProgressed": 6717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:08:15.1507575+00:00",
+      "NumProgressed": 6718,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -2557,7 +2568,7 @@
       "Name": "Titan",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "ach07",
@@ -2565,7 +2576,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ach08",
@@ -2645,7 +2656,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "ach18",
@@ -2701,7 +2712,7 @@
       "Name": "Ultimate Power",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "ach25",
@@ -2741,7 +2752,7 @@
       "Name": "Unstoppable",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ach30",
@@ -2805,7 +2816,7 @@
       "Name": "ABACABB",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach38",
@@ -2916,16 +2927,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 6717,
+      "Progressed": 6718,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-03T04:59:03.5226711+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:07:04.2611295+00:00",
+  "LastChanged": "2023-10-03T14:59:09.9197045+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:08:15.1507571+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:00.1927909+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:07:04.2611739+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:09.919705+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:08:15.1508019+00:00"
 }

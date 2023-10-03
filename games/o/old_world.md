@@ -10,13 +10,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.30% | ~43 |
 | Play a Single Player Game | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
+| Architect | 0.20% | ~29 |
 | Good | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
+| Just | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
 | Noble | 0.20% | ~29 |
+| Pioneer | 0.20% | ~29 |
+| Strong | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
+| Hanging Gardens | 0.20% | ~29 |
 | Oracle | 0.20% | ~29 |
+| Judaism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
@@ -24,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
+| Blade of the Monkey | 0.10% | ~14 |
 | Carthage - Ox Hide | 0.10% | ~14 |
 | Bronze Victory (Carthage 1) | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
@@ -34,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
-| Architect | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
 | Brilliant | 0.10% | ~14 |
@@ -48,16 +54,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
-| Just | 0.10% | ~14 |
 | Keystone | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Magnificent | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
-| Pioneer | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
-| Strong | 0.10% | ~14 |
 | Subjugator | 0.10% | ~14 |
 | Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
@@ -108,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.10% | ~14 |
 | Great Ziggurat | 0.10% | ~14 |
 | Hagia Sophia | 0.10% | ~14 |
-| Hanging Gardens | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
@@ -142,10 +144,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.10% | ~14 |
 | Apadana in Parsa | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
+| Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Power to the People | 0.10% | ~14 |
 | Christianity | 0.10% | ~14 |
-| Judaism | 0.10% | ~14 |
 | Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Babylonian Paganism | 0.10% | ~14 |
@@ -255,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
-| Blade of the Monkey | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Carthage - Riches and Influence | 0.00% | ~0 |
 | Bronze Victory (Carthage 2) | 0.00% | ~0 |
@@ -326,7 +327,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
-| Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,311 (Ranked 133)  
+Progressed: 14,313 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,311 | 5 |
+| 2023-10-03 | 14,313 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

@@ -17,7 +17,7 @@
 | Proper Walls | 33.00% | ~113 |
 | Destination Destiny | 32.00% | ~109 |
 | Happy Tenants | 27.00% | ~92 |
-| Potent Potables | 26.00% | ~89 |
+| Potent Potables | 27.00% | ~92 |
 | Smooth Service | 26.00% | ~89 |
 | Your Prestige is Rising | 25.00% | ~85 |
 | Retail Revenue | 25.00% | ~85 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 341 (Ranked 296)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1562,9 +1562,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_39",
@@ -1650,9 +1650,9 @@
       "ID": "achievement_48",
       "SetID": "d252ncf",
       "Name": "The Krogan",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_49",
@@ -1858,9 +1858,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_72",
@@ -1874,9 +1874,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_74",
@@ -1906,9 +1906,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_78",
@@ -1938,9 +1938,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_81",
@@ -1986,9 +1986,9 @@
       "ID": "achievement_86",
       "SetID": "d252ncf",
       "Name": "Hard Target",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_87",
@@ -2118,8 +2118,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:03:35.6604564+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:45.3605141+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:58:38.380243+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:03:35.6606409+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:58:46.9311802+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:45.360706+00:00"
 }

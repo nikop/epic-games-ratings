@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -394,9 +394,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41571,
+  "EOS_Progressed": 41584,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1505,
+  "EOS_NewPlayers": 1518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9609,6 +9609,11 @@
       "Time": "2023-10-03T14:05:15.0006064+00:00",
       "NumProgressed": 41571,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T15:05:25.6097026+00:00",
+      "NumProgressed": 41584,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9636,7 +9641,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -9668,7 +9673,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -9684,7 +9689,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -9692,7 +9697,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -9700,7 +9705,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -9708,7 +9713,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -9756,7 +9761,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "CRAFT_ALL",
@@ -9772,7 +9777,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "CUFF_ATTACK",
@@ -9796,7 +9801,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "JUSTCOUNTER",
@@ -9812,7 +9817,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -9820,7 +9825,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -9828,7 +9833,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "LOCATION_TEN",
@@ -9860,7 +9865,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -9868,7 +9873,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -9892,7 +9897,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "MONUMENT_ALL",
@@ -9908,7 +9913,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -9924,7 +9929,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "PARKOUR_TIME",
@@ -9932,7 +9937,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -9946,9 +9951,9 @@
       "ID": "SKILLTREE_ALL",
       "SetID": "6d0g7k8",
       "Name": "Realized Potential",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 291
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -9956,7 +9961,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3743
     },
     {
       "ID": "SPRING_ALL",
@@ -9972,7 +9977,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "STAYING_AIR",
@@ -10043,22 +10048,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41571,
+      "Progressed": 41584,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6408,
-      "Completed": 6408
+      "Progressed": 6421,
+      "Completed": 6421
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-02T17:01:25.0087272+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:05:15.000606+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:05:25.6097021+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:00:09.8823752+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:05:15.0006902+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:00:14.9043925+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:05:25.6097795+00:00"
 }

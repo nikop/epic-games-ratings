@@ -4,11 +4,11 @@
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 492,
   "Ranking_Popularity": 77,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -9315,8 +9315,8 @@
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
   "LastChanged": "2023-10-03T13:06:07.8521796+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:08:11.1622783+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:08:31.5046868+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.46981+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:19.2186912+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:08:11.1622811+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:30.0435255+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:08:31.5046896+00:00"
 }

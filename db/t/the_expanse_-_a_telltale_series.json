@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,11 +142,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13483,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 618,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 13490,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 615,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -7532,6 +7532,11 @@
       "Time": "2023-10-03T14:04:43.6574221+00:00",
       "NumProgressed": 13483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:04:53.7492009+00:00",
+      "NumProgressed": 13490,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7574,9 +7579,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "14",
@@ -7678,9 +7683,9 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "26",
@@ -7774,25 +7779,25 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13483,
-      "Completed": 0
+      "Progressed": 13490,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:04:43.6574216+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:04:53.7492005+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:24.1565659+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:04:43.6574753+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:34.1451595+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:04:53.7492556+00:00"
 }

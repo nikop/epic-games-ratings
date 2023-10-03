@@ -38,6 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Carried Stan's Load To Completion | 0.10% | ~24 |
 | Series Wrap on Suit-O | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
+| Mux Ado About Shipping | 0.10% | ~1 |
 | Porch Pirate | 0.10% | ~1 |
 | Harper? I Barely Know Her! | 0.10% | ~1 |
 | We Came, We Chainsaw, We Conquered | 0.10% | ~1 |
@@ -46,7 +47,6 @@ Rating: 4.64 (Ranked 315)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
-| Mux Ado About Shipping | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |
 | Fall In Love With A Parasite | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

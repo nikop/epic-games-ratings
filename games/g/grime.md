@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Intensify | 0.10% | ~149 |
 | The Nightmare | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,725 (Ranked 68)  
-Completed: 1 (0.00%) (Ranked 305)  
+Progressed: 149,756 (Ranked 68)  
+Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,15 +196,15 @@ Completed: 1 (0.00%) (Ranked 305)
 | 2023-09-28 | 149,648 | 1 |
 | 2023-09-30 | 149,649 | 1 |
 | 2023-10-02 | 149,650 | 1 |
-| 2023-10-03 | 149,725 | 1 |
+| 2023-10-03 | 149,756 | 1 |
 ## Awards
 Max (Highly Recommended): 41  (Ranked 433)  
-Sum: 261 (Ranked 361)  
-Diff (max vs sum): 72  
+Sum: 263 (Ranked 360)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 41 |
-| This game has Unique Visuals | 37 |
+| This game has Unique Visuals | 39 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 33 |
 | This game is Extremely Fun | 31 |
@@ -317,4 +317,4 @@ Diff (max vs sum): 72
 | 2023-09-30 | 4.59 | - | 40 | 254 |
 | 2023-10-01 | 4.59 | - | 41 | 255 |
 | 2023-10-02 | 4.59 | - | 41 | 260 |
-| 2023-10-03 | 4.59 | - | 41 | 261 |
+| 2023-10-03 | 4.59 | - | 41 | 263 |

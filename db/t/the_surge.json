@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -2952,9 +2952,9 @@
       "ID": "ID_ACHIEV_36",
       "SetID": "98bke8c",
       "Name": "Infidel",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1131
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -3224,8 +3224,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:06:41.8363487+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:06:53.0345786+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.432911+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:51.1182372+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:06:41.83642+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:55.3445298+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:06:53.034642+00:00"
 }

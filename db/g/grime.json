@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 417,
   "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -914,10 +914,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-10-03T14:58:56.1724247+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 263,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 263,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -961,7 +967,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -976,9 +982,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 149725,
+  "EOS_Progressed": 149756,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10306,6 +10312,11 @@
       "Time": "2023-10-03T14:03:12.0748018+00:00",
       "NumProgressed": 149725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T15:03:22.0664133+00:00",
+      "NumProgressed": 149756,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10684,21 +10695,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149308,
+      "Progressed": 149339,
       "Completed": 1137
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 149725,
+      "Progressed": 149756,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-03T07:59:55.9836339+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:03:12.0748014+00:00",
+  "LastChanged": "2023-10-03T14:58:56.1724246+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:22.0664129+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:58:47.4475218+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:03:12.0748783+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:58:56.172425+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:22.0664842+00:00"
 }

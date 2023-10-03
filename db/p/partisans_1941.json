@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1469,
+  "EOS_Progressed": 1470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2950,6 +2950,11 @@
       "Time": "2023-10-01T17:07:33.1458527+00:00",
       "NumProgressed": 1469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T15:08:15.0331864+00:00",
+      "NumProgressed": 1470,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2993,7 +2998,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Commandos",
@@ -3009,7 +3014,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Defense_Common",
@@ -3041,7 +3046,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "Everyone_is_here",
@@ -3113,7 +3118,7 @@
       "Name": "Spice It Up",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "KillAllM2",
@@ -3121,7 +3126,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Kultprosvet",
@@ -3151,9 +3156,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 514
     },
     {
       "ID": "Scout",
@@ -3200,15 +3205,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1469,
+      "Progressed": 1470,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:07:04.1254715+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:08:15.0331861+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:04.8175411+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:57:07.8138572+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:07:04.1255022+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:57:15.2444172+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:08:15.033216+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~535,944 |
-| Every story has a beginning | 36.00% | ~241,175 |
-| The first of many | 31.00% | ~207,678 |
-| Positive word of mouth | 18.00% | ~120,587 |
-| Lawn in the U.S.A. | 15.00% | ~100,490 |
-| Blade Runner | 9.00% | ~60,294 |
-| Credible | 7.00% | ~46,895 |
-| Teamwork makes the dream work | 6.00% | ~40,196 |
-| Where there's muck there's brass | 4.00% | ~26,797 |
-| Bigger and better | 4.00% | ~26,797 |
-| Aggressive expansion | 4.00% | ~26,797 |
+| The dream begins | 80.00% | ~535,954 |
+| Every story has a beginning | 36.00% | ~241,179 |
+| The first of many | 31.00% | ~207,682 |
+| Positive word of mouth | 18.00% | ~120,590 |
+| Lawn in the U.S.A. | 15.00% | ~100,491 |
+| Blade Runner | 9.00% | ~60,295 |
+| Credible | 7.00% | ~46,896 |
+| Teamwork makes the dream work | 6.00% | ~40,197 |
+| Where there's muck there's brass | 4.00% | ~26,798 |
+| Bigger and better | 4.00% | ~26,798 |
+| Aggressive expansion | 4.00% | ~26,798 |
 | Size isn't everything | 3.00% | ~20,098 |
 | Close shave | 3.00% | ~20,098 |
 | Established | 3.00% | ~20,098 |
@@ -32,8 +32,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Jack of all trades | 0.90% | ~6,029 |
 | All hands on deck | 0.90% | ~6,029 |
 | Professional | 0.90% | ~6,029 |
-| The grass is always greener | 0.80% | ~5,359 |
-| Worked your grass off | 0.80% | ~5,359 |
+| The grass is always greener | 0.80% | ~5,360 |
+| Worked your grass off | 0.80% | ~5,360 |
 | Phoenix rises | 0.40% | ~2,680 |
 | Cut Loose | 0.40% | ~2,680 |
 | Esteemed | 0.40% | ~2,680 |
@@ -61,8 +61,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~670 |
 | Mo mowers, mo problems | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,930 (Ranked 23)  
-Completed: 17 (0.00%) (Ranked 305)  
+Progressed: 669,943 (Ranked 23)  
+Completed: 17 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 17 (0.00%) (Ranked 305)
 | 2023-09-30 | 669,199 | 16 |
 | 2023-10-01 | 669,542 | 16 |
 | 2023-10-02 | 669,798 | 17 |
-| 2023-10-03 | 669,930 | 17 |
+| 2023-10-03 | 669,943 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 284)  
 Sum: 982 (Ranked 249)  

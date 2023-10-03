@@ -13,16 +13,16 @@
 | Hope | 20.00% | ~9 |
 | Rage | 14.00% | ~6 |
 | Path of Pain | 9.00% | ~4 |
+| Reflections | 9.00% | ~4 |
+| The shining | 9.00% | ~4 |
 | An act of courage | 7.00% | ~3 |
 | Health | 7.00% | ~3 |
 | Lost | 7.00% | ~3 |
 | Mayhem | 7.00% | ~3 |
-| Reflections | 7.00% | ~3 |
-| The shining | 7.00% | ~3 |
+| An act of mercy | 5.00% | ~2 |
+| Ad Infinitum | 5.00% | ~2 |
 | Art critic | 5.00% | ~2 |
 | An act of compassion | 2.00% | ~1 |
-| An act of mercy | 2.00% | ~1 |
-| Ad Infinitum | 2.00% | ~1 |
 | Clarity | 2.00% | ~1 |
 | Corruption | 2.00% | ~1 |
 | Despair | 2.00% | ~1 |
@@ -35,7 +35,7 @@
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 439)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -21,7 +21,7 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 9.00% | ~331 |
 | Death Becomes You | 8.00% | ~295 |
 | Flawless Victory | 6.00% | ~221 |
-| The Harder They Fall | 5.00% | ~184 |
+| The Harder They Fall | 6.00% | ~221 |
 | On this Episode! | 4.00% | ~147 |
 | Deadication | 3.00% | ~110 |
 | Season Finale | 3.00% | ~110 |

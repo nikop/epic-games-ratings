@@ -3,9 +3,9 @@
   "Name": "Dolphin Spirit - Ocean Mission",
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 496,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -125,9 +125,9 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ID_04",
@@ -341,9 +341,9 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ID_31",
@@ -364,8 +364,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:03:42.6352586+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:52.5885637+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:53.7395326+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:57:27.3313069+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:03:42.6352785+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:57:35.3504877+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:52.5885826+00:00"
 }

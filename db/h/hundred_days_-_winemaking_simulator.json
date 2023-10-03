@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1012,7 +1012,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6238,
+  "EOS_Progressed": 6247,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1174,
   "EOS_NewCompleters": 1,
@@ -5062,6 +5062,11 @@
       "Time": "2023-10-03T14:04:55.2343055+00:00",
       "NumProgressed": 6238,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-03T15:05:05.2887557+00:00",
+      "NumProgressed": 6247,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5074,7 +5079,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "a_10",
@@ -5122,7 +5127,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2311
     },
     {
       "ID": "a_19",
@@ -5146,7 +5151,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "a_21",
@@ -5321,7 +5326,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6238,
+      "Progressed": 6247,
       "Completed": 7
     }
   ],
@@ -5329,8 +5334,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:04:55.2343052+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:05:05.2887552+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:16.9784005+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:04:55.2343486+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:28.2641218+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:05:05.2887921+00:00"
 }

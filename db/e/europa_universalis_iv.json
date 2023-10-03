@@ -6,9 +6,9 @@
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10174,10 +10174,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 52359,
       "NumberOfAwardsMax": 6381
+    },
+    {
+      "Time": "2023-10-03T14:59:39.7579061+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 52396,
+      "NumberOfAwardsMax": 6381
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52359,
+  "NumberOfAwards": 52396,
   "NumberOfAwardsMax": 6381,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -10221,13 +10227,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5683
+      "Count": 5697
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5892
+      "Count": 5904
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10239,7 +10245,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4934
+      "Count": 4945
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10248,9 +10254,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 421321,
+  "EOS_Progressed": 421374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6444,
+  "EOS_NewPlayers": 6437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29043,6 +29049,11 @@
       "Time": "2023-10-03T14:04:50.4649433+00:00",
       "NumProgressed": 421321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T15:05:00.2442922+00:00",
+      "NumProgressed": 421374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -29494,7 +29505,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -29574,7 +29585,7 @@
       "Name": "Cold War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "achievement_colonial_management",
@@ -29670,7 +29681,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -29886,7 +29897,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "achievement_forever_golden",
@@ -30054,7 +30065,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16853
+      "UsersEstimate": 16855
     },
     {
       "ID": "achievement_grand_coalition",
@@ -30078,7 +30089,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -30270,7 +30281,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -31006,7 +31017,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -31054,7 +31065,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8426
+      "UsersEstimate": 8427
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -31334,7 +31345,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -31396,9 +31407,9 @@
       "ID": "achievement_the_five_colonies",
       "SetID": "8p2n7he",
       "Name": "The Five Colonies",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1685
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -31478,7 +31489,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -31646,7 +31657,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -31718,7 +31729,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16853
+      "UsersEstimate": 16855
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -31750,7 +31761,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -31885,21 +31896,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 421321,
+      "Progressed": 421374,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 421321,
+      "Progressed": 421374,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-03T12:00:36.7447572+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:04:50.4649428+00:00",
+  "LastChanged": "2023-10-03T14:59:39.757906+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:05:00.2442919+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:29.9223446+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:04:50.4660734+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:39.7579065+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:05:00.2454067+00:00"
 }

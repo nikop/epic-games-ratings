@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1973,
+  "EOS_Progressed": 1974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5031,6 +5031,11 @@
       "Time": "2023-10-03T12:06:06.8687131+00:00",
       "NumProgressed": 1973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:04:58.7083041+00:00",
+      "NumProgressed": 1974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5058,7 +5063,7 @@
       "Name": "Trailblazer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "A03",
@@ -5066,7 +5071,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "A04",
@@ -5138,7 +5143,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "A13",
@@ -5154,7 +5159,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "A15",
@@ -5162,7 +5167,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "A16",
@@ -5210,7 +5215,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "A22",
@@ -5218,7 +5223,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "A23",
@@ -5266,7 +5271,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "A29",
@@ -5314,7 +5319,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "A35",
@@ -5322,7 +5327,7 @@
       "Name": "Traffic Junction",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "A36",
@@ -5330,7 +5335,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "A37",
@@ -5338,7 +5343,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "A38",
@@ -5346,7 +5351,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "A39",
@@ -5360,9 +5365,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1263
     },
     {
       "ID": "A41",
@@ -5376,9 +5381,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 809
     },
     {
       "ID": "A43",
@@ -5418,7 +5423,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "A48",
@@ -5466,7 +5471,7 @@
       "Name": "Networker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "A54",
@@ -5481,7 +5486,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1973,
+      "Progressed": 1974,
       "Completed": 0
     }
   ],
@@ -5489,8 +5494,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:04:48.4500535+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:04:58.7083039+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:00:08.9102538+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:04:48.4501173+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:00:13.755522+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:04:58.7083667+00:00"
 }

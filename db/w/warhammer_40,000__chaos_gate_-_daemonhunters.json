@@ -6,9 +6,9 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -732,9 +732,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3250,
+  "EOS_Progressed": 3251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3582,6 +3582,11 @@
       "Time": "2023-10-02T03:06:15.9280364+00:00",
       "NumProgressed": 3250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T15:06:50.9052442+00:00",
+      "NumProgressed": 3251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3601,7 +3606,7 @@
       "Name": "The Flesh is Weak",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AutoDisrupted",
@@ -3617,7 +3622,7 @@
       "Name": "Blood and Iron",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CampaignVictory_Day500",
@@ -3649,7 +3654,7 @@
       "Name": "Clean Slate",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompletedAllShipUpgrades",
@@ -3745,7 +3750,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -3825,7 +3830,7 @@
       "Name": "Purging Spree",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Kills_Vakir",
@@ -3855,9 +3860,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 98
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -3905,7 +3910,7 @@
       "Name": "Warp Flickers",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MissionVictory_Justicars",
@@ -3921,7 +3926,7 @@
       "Name": "Efficient Killer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -4065,7 +4070,7 @@
       "Name": "Execution Force",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ExperiencedCallidus",
@@ -4081,7 +4086,7 @@
       "Name": "Abomination",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ExperiencedEversor",
@@ -4089,7 +4094,7 @@
       "Name": "Killing Rampage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ExperiencedVindicare",
@@ -4136,21 +4141,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:06:39.5256062+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:06:50.9052437+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:00:24.9655751+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:06:39.5256769+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:00:31.0390525+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:06:50.9053102+00:00"
 }

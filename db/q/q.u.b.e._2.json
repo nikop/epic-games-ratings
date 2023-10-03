@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 94,
   "RatingHistory": [
     {
@@ -332,6 +332,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-03T14:59:31.6429717+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -340,7 +346,7 @@
   "Tags": [],
   "EOS_Progressed": 545,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2377,9 +2383,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_HUB2",
@@ -2472,9 +2478,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
-  "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:03:28.7233089+00:00",
+  "LastChanged": "2023-10-03T14:59:31.6429715+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:38.4798669+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:59:20.7278513+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:03:28.7233356+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:59:31.642972+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:38.4799005+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -263,17 +263,17 @@
       "ID": "ACH_ACTOFMERCY",
       "SetID": "88d7anj",
       "Name": "An act of mercy",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ADINFINITUM",
       "SetID": "88d7anj",
       "Name": "Ad Infinitum",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ALLKNOWING",
@@ -455,9 +455,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -471,9 +471,9 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -486,8 +486,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:03:34.5768561+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:03:44.3868604+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:59.4094397+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:00:49.8621754+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:03:34.576873+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:02:09.6608799+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:03:44.3868824+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -742,6 +742,11 @@
       "Time": "2023-10-03T14:05:36.64071+00:00",
       "NumProgressed": 330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T15:05:47.4504039+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -762,7 +767,7 @@
       "Name": "Establish Communications",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_eou2",
@@ -792,9 +797,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_eou6",
@@ -810,7 +815,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_eou8",
@@ -826,7 +831,7 @@
       "Name": "Disc Collector",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_n64",
@@ -834,7 +839,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_rogue",
@@ -850,21 +855,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:05:36.6407096+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:05:47.4504034+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-03T13:58:04.5343295+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:05:36.6407217+00:00"
+  "LastUpdate_Ratings": "2023-10-03T14:58:11.5654845+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:05:47.4504161+00:00"
 }

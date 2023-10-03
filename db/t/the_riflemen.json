@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18486,
+  "EOS_Progressed": 18530,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 5244,
+  "EOS_NewPlayers": 5279,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 63.61,
+  "EOS_Completed_Percentage": 63.46,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -4136,6 +4136,11 @@
       "Time": "2023-10-03T14:06:30.9047864+00:00",
       "NumProgressed": 18486,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-03T15:06:41.904405+00:00",
+      "NumProgressed": 18530,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -4156,7 +4161,7 @@
       "Name": "First blood",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 9058
+      "UsersEstimate": 9080
     },
     {
       "ID": "grenadeKills",
@@ -4172,7 +4177,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "headshots1000",
@@ -4180,7 +4185,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "headshots500",
@@ -4196,7 +4201,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "matchesLost",
@@ -4204,7 +4209,7 @@
       "Name": "Hang in there",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "matchesWon",
@@ -4212,7 +4217,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "revengeMedal",
@@ -4220,7 +4225,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "rifleKills",
@@ -4228,7 +4233,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "shotgunKills",
@@ -4259,14 +4264,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 18486,
+      "Progressed": 18530,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-03T14:06:30.904786+00:00",
+  "LastChanged_Achievements": "2023-10-03T15:06:41.9044046+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.6352608+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:02:06.3751327+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:06:30.9048151+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:02:14.1746771+00:00",
+  "LastUpdate_Achievements": "2023-10-03T15:06:41.9044317+00:00"
 }

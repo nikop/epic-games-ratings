@@ -6,35 +6,35 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,530 |
-| Rough Landing | 4.00% | ~35,530 |
-| Gunslinger | 3.00% | ~26,648 |
-| Master Crafter | 3.00% | ~26,648 |
-| The Jungle | 3.00% | ~26,648 |
-| Full Body Conversion | 2.00% | ~17,765 |
-| Right Back At Ya | 2.00% | ~17,765 |
-| Mean Streets | 2.00% | ~17,765 |
-| Breathtaking | 2.00% | ~17,765 |
-| Stanislavski's Method | 2.00% | ~17,765 |
-| Temperance | 2.00% | ~17,765 |
-| The Hermit | 2.00% | ~17,765 |
-| The High Priestess | 2.00% | ~17,765 |
-| The Lovers | 2.00% | ~17,765 |
-| The Wheel of Fortune | 2.00% | ~17,765 |
-| True Soldier | 2.00% | ~17,765 |
-| True Warrior | 2.00% | ~17,765 |
-| Two Heads, One Bullet | 2.00% | ~17,765 |
-| V for Vendetta | 2.00% | ~17,765 |
-| Legend of The Afterlife | 2.00% | ~17,765 |
-| To Bad Decisions! | 1.00% | ~8,882 |
-| Gun Fu | 1.00% | ~8,882 |
-| Christmas Tree Attack | 1.00% | ~8,882 |
-| The Quick and the Dead | 1.00% | ~8,882 |
-| The Devil | 1.00% | ~8,882 |
-| The Fool | 1.00% | ~8,882 |
-| The World | 1.00% | ~8,882 |
-| Judy vs Night City | 1.00% | ~8,882 |
-| It's Elementary | 1.00% | ~8,882 |
+| Ten out of Ten | 4.00% | ~35,531 |
+| Rough Landing | 4.00% | ~35,531 |
+| Gunslinger | 3.00% | ~26,649 |
+| Master Crafter | 3.00% | ~26,649 |
+| The Jungle | 3.00% | ~26,649 |
+| Full Body Conversion | 2.00% | ~17,766 |
+| Right Back At Ya | 2.00% | ~17,766 |
+| Mean Streets | 2.00% | ~17,766 |
+| Breathtaking | 2.00% | ~17,766 |
+| Stanislavski's Method | 2.00% | ~17,766 |
+| Temperance | 2.00% | ~17,766 |
+| The Hermit | 2.00% | ~17,766 |
+| The High Priestess | 2.00% | ~17,766 |
+| The Lovers | 2.00% | ~17,766 |
+| The Wheel of Fortune | 2.00% | ~17,766 |
+| True Soldier | 2.00% | ~17,766 |
+| True Warrior | 2.00% | ~17,766 |
+| Two Heads, One Bullet | 2.00% | ~17,766 |
+| V for Vendetta | 2.00% | ~17,766 |
+| Legend of The Afterlife | 2.00% | ~17,766 |
+| To Bad Decisions! | 1.00% | ~8,883 |
+| Gun Fu | 1.00% | ~8,883 |
+| Christmas Tree Attack | 1.00% | ~8,883 |
+| The Quick and the Dead | 1.00% | ~8,883 |
+| The Devil | 1.00% | ~8,883 |
+| The Fool | 1.00% | ~8,883 |
+| The World | 1.00% | ~8,883 |
+| Judy vs Night City | 1.00% | ~8,883 |
+| It's Elementary | 1.00% | ~8,883 |
 | City Lights | 0.80% | ~7,106 |
 | Life of the Road | 0.80% | ~7,106 |
 | Greetings from Pacifica! | 0.80% | ~7,106 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.30% | ~2,665 |
 | The APB is Not Enough | 0.30% | ~51 |
 | Relic Ruler | 0.30% | ~51 |
-| The Wasteland | 0.20% | ~1,776 |
+| The Wasteland | 0.20% | ~1,777 |
 | Daemon In The Shell | 0.10% | ~888 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,250 (Ranked 15)  
+Progressed: 888,284 (Ranked 15)  
 Completed: 2,562 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,14 +230,14 @@ Completed: 2,562 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,250 | 2,562 |
+| 2023-10-03 | 888,284 | 2,562 |
 ## Awards
-Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 257,918 (Ranked 12)  
+Max (Character Customization): 90,464  (Ranked 9)  
+Sum: 258,842 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 89,540 |
+| This game has Inclusive Character Customization | 90,464 |
 | This game has Great Boss Battles | 61,016 |
 | This game has Diverse Characters | 13,022 |
 | This game is Great for Beginners | 12,990 |
@@ -508,4 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
-| 2023-10-03 | 4.63 | - | 89,540 | 257,918 |
+| 2023-10-03 | 4.63 | - | 90,464 | 258,842 |
