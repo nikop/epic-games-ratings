@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.80% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.75% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -61,7 +61,7 @@
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.58% |
+| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.51% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -154,9 +154,9 @@
 | 152 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.65% |
 | 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 156 | [Haven](games/h/haven.md) | 0.61% |
-| 156 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
+| 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 155 | [Haven](games/h/haven.md) | 0.61% |
+| 155 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
 | 158 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 159 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 159 | [Grindstone](games/g/grindstone.md) | 0.58% |
@@ -220,11 +220,11 @@
 | 218 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 218 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
 | 218 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 221 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.18% |
 | 221 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.18% |
 | 221 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 221 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 225 | [Gotham Knights](games/g/gotham_knights.md) | 0.17% |
+| 224 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.17% |
+| 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.17% |
 | 226 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 226 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 226 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
