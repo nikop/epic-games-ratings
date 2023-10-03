@@ -316,9 +316,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EpicACHV_15",
@@ -419,8 +419,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:06:04.2953546+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:11:45.9884349+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:00:55.4868912+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:06:04.2953655+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:33.5169817+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:11:45.9884491+00:00"
 }

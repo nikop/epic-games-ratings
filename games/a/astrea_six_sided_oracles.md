@@ -16,27 +16,28 @@
 | Anomaly Destroyer | 42.00% | ~15 |
 | Astral Adventurer | 42.00% | ~15 |
 | Star Killer | 39.00% | ~14 |
-| Unbeatable | 31.00% | ~11 |
+| Unbeatable | 33.00% | ~12 |
 | Loyal Partner | 28.00% | ~10 |
 | Sadistic Plan | 25.00% | ~9 |
-| Stellar Haste | 19.00% | ~7 |
-| The Corruption Goddess | 19.00% | ~7 |
+| Stellar Haste | 22.00% | ~8 |
+| The Corruption Goddess | 22.00% | ~8 |
 | Sentinelphobic | 17.00% | ~6 |
 | Shard Spender | 17.00% | ~6 |
 | Skeptical | 14.00% | ~5 |
 | Dice Specialist | 11.00% | ~4 |
+| Heart Gate | 11.00% | ~4 |
 | Wave Bender | 11.00% | ~4 |
+| Astral Seeker | 8.00% | ~3 |
 | Denying Destiny | 8.00% | ~3 |
-| Heart Gate | 8.00% | ~3 |
 | Heavy Purger | 8.00% | ~3 |
+| The Goddes Avatar | 8.00% | ~3 |
+| The world goes round... | 8.00% | ~3 |
 | Unepic Hero | 8.00% | ~3 |
-| Astral Seeker | 6.00% | ~2 |
 | Can't touch this | 6.00% | ~2 |
 | Plague Doctor | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |
-| The Goddes Avatar | 6.00% | ~2 |
-| The world goes round... | 6.00% | ~2 |
+| The Abyssal Terror | 6.00% | ~2 |
 | Anomaly Control | 3.00% | ~1 |
 | Arch-Oracle | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |
@@ -46,7 +47,6 @@
 | Favored by the Cosmos | 3.00% | ~1 |
 | Purification Avatar | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
-| The Abyssal Terror | 3.00% | ~1 |
 | The Ardent Prince | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Distorted Sage | 3.00% | ~1 |

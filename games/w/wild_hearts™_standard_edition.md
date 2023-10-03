@@ -12,7 +12,7 @@
 | Man-Machine Master | 67.00% | ~62 |
 | Mountain Splitter | 66.00% | ~61 |
 | Fusion Conjuror | 63.00% | ~59 |
-| Memory Rouser | 62.00% | ~58 |
+| Memory Rouser | 63.00% | ~59 |
 | Subsistence Skills | 60.00% | ~56 |
 | Master of the Skies | 59.00% | ~55 |
 | Kemono Hunter | 58.00% | ~54 |

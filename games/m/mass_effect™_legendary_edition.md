@@ -20,9 +20,9 @@
 | Charismatic | 55.00% | ~295 |
 | Soldier | 54.00% | ~289 |
 | Asari Ally | 52.00% | ~279 |
+| Medal of Exploration III | 51.00% | ~273 |
 | Soldier Ally | 51.00% | ~273 |
 | Principled | 51.00% | ~273 |
-| Medal of Exploration III | 50.00% | ~268 |
 | Colonial Savior | 49.00% | ~263 |
 | Sentinel Ally | 46.00% | ~247 |
 | Paramour I | 45.00% | ~241 |
@@ -40,9 +40,9 @@
 | The Professor | 36.00% | ~193 |
 | Archivist | 35.00% | ~188 |
 | Completionist | 35.00% | ~188 |
+| Colony Defense | 35.00% | ~188 |
 | The Convict | 35.00% | ~188 |
 | The Krogan | 35.00% | ~188 |
-| Colony Defense | 34.00% | ~182 |
 | Galactic Explorer | 34.00% | ~182 |
 | Broke, Blind, and Bedlam | 33.00% | ~177 |
 | Ghost Ship | 32.00% | ~172 |
@@ -101,7 +101,7 @@
 | Last Witness | 16.00% | ~86 |
 | Throw Mastery | 15.00% | ~80 |
 | Well Connected | 15.00% | ~80 |
-| Master and Commander | 14.00% | ~75 |
+| Master and Commander | 15.00% | ~80 |
 | Executioner | 13.00% | ~70 |
 | Mail Slot | 12.00% | ~64 |
 | Warp Mastery | 12.00% | ~64 |

@@ -16,10 +16,10 @@
 | An act of courage | 7.00% | ~3 |
 | Health | 7.00% | ~3 |
 | Lost | 7.00% | ~3 |
+| Mayhem | 7.00% | ~3 |
 | Reflections | 7.00% | ~3 |
 | The shining | 7.00% | ~3 |
 | Art critic | 5.00% | ~2 |
-| Mayhem | 5.00% | ~2 |
 | An act of compassion | 2.00% | ~1 |
 | An act of mercy | 2.00% | ~1 |
 | Ad Infinitum | 2.00% | ~1 |

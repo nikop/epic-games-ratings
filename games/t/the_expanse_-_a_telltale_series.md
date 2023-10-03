@@ -6,10 +6,10 @@ Rating: 4.53 (Ranked 524)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 0.60% | ~81 |
+| Drug Gifter | 0.30% | ~40 |
+| Bosmang | 0.30% | ~40 |
 | The Pit and the Pirates | 0.20% | ~27 |
 | Data Archivist | 0.20% | ~27 |
-| Drug Gifter | 0.20% | ~27 |
-| Bosmang | 0.20% | ~27 |
 | Captain Drummer | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~13 |
 | Data Miner | 0.10% | ~13 |
@@ -31,12 +31,12 @@ Rating: 4.53 (Ranked 524)
 | Debris Spree | 0.10% | ~13 |
 | Data Master | 0.10% | ~13 |
 | Celebrations are in Order | 0.10% | ~13 |
+| Grave Robber | 0.10% | ~13 |
 | Data Recoverer | 0.10% | ~13 |
 | Impossible Objects | 0.10% | ~13 |
 | Data Collector | 0.00% | ~0 |
-| Grave Robber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,477 (Ranked 134)  
+Progressed: 13,481 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,477 | 0 |
+| 2023-10-03 | 13,481 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13477,
+  "EOS_Progressed": 13481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7522,6 +7522,11 @@
       "Time": "2023-10-03T12:05:58.8260693+00:00",
       "NumProgressed": 13477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T13:11:42.0788578+00:00",
+      "NumProgressed": 13481,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7588,9 +7593,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "17",
@@ -7684,9 +7689,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "28",
@@ -7748,9 +7753,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "8",
@@ -7773,7 +7778,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13477,
+      "Progressed": 13481,
       "Completed": 0
     }
   ],
@@ -7781,8 +7786,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:05:58.8260688+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:11:42.0788573+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:00:27.9371488+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:05:58.8261232+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:12.9666418+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:11:42.0789238+00:00"
 }

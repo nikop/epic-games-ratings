@@ -7,35 +7,35 @@
 | First Blood | 7.00% | ~23 |
 | Half a Life | 5.00% | ~17 |
 | Shock to the System | 4.00% | ~13 |
-| Bad Blood | 2.00% | ~7 |
-| Serious Bam | 1.00% | ~3 |
+| Bad Blood | 3.00% | ~10 |
+| Serious Bam | 2.00% | ~7 |
 | Bloodstorm | 0.90% | ~3 |
-| Doomed | 0.60% | ~2 |
-| Postal Service | 0.60% | ~2 |
-| Unreal | 0.60% | ~2 |
-| ...And I'm All Out Of Gun | 0.30% | ~1 |
-| Pacifantastic | 0.30% | ~1 |
-| SCATHE Too | 0.30% | ~1 |
-| Shocking Bio | 0.30% | ~1 |
+| Doomed | 0.90% | ~3 |
+| Postal Service | 0.90% | ~3 |
+| Unreal | 0.90% | ~3 |
+| ...And I'm All Out Of Gun | 0.60% | ~2 |
+| Pacifantastic | 0.60% | ~2 |
+| SCATHE Too | 0.60% | ~2 |
+| Shocking Bio | 0.60% | ~2 |
+| Amaging Work | 0.30% | ~1 |
+| Castle Of The Wolf | 0.30% | ~1 |
+| Gears of Door | 0.30% | ~1 |
+| Nuke Them All | 0.30% | ~1 |
+| Purely Not | 0.30% | ~1 |
+| Quakin' | 0.30% | ~1 |
+| Rune Escape | 0.30% | ~1 |
+| Slaving Grace | 0.30% | ~1 |
 | Such Sin | 0.30% | ~1 |
-| Amaging Work | 0.00% | ~0 |
-| Castle Of The Wolf | 0.00% | ~0 |
+| Takin' Names | 0.30% | ~1 |
+| The Kingpin | 0.30% | ~1 |
 | Fear Nothing | 0.00% | ~0 |
-| Gears of Door | 0.00% | ~0 |
 | Ice Work | 0.00% | ~0 |
 | Max Pain | 0.00% | ~0 |
-| Nuke Them All | 0.00% | ~0 |
-| Purely Not | 0.00% | ~0 |
-| Quakin' | 0.00% | ~0 |
 | Rage Quit | 0.00% | ~0 |
-| Rune Escape | 0.00% | ~0 |
-| Slaving Grace | 0.00% | ~0 |
-| Takin' Names | 0.00% | ~0 |
-| The Kingpin | 0.00% | ~0 |
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 297)  
+Progressed: 335 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 329 | 0 |
 | 2023-10-01 | 333 | 0 |
 | 2023-10-02 | 334 | 0 |
+| 2023-10-03 | 335 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

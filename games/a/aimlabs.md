@@ -4,12 +4,12 @@
 Rating: 4.60 (Ranked 397)  
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 475)  
-Sum: 50 (Ranked 461)  
-Diff (max vs sum): 14  
+Sum: 51 (Ranked 459)  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 28 |
-| This game is Extremely Fun | 22 |
+| This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -93,3 +93,4 @@ Diff (max vs sum): 14
 | 2023-09-28 | 4.60 | 27 | 47 |
 | 2023-09-29 | 4.60 | 28 | 48 |
 | 2023-09-30 | 4.60 | 28 | 50 |
+| 2023-10-03 | 4.60 | 28 | 51 |

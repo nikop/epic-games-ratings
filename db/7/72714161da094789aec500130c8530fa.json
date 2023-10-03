@@ -346,9 +346,9 @@
       "ID": "_armor_v2",
       "SetID": "2d5739o",
       "Name": "Armor v2",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_armor_v3",
@@ -402,9 +402,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "_cannon_sentinel",
@@ -530,9 +530,9 @@
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_minigun",
@@ -546,9 +546,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "_mothership",
@@ -618,9 +618,9 @@
       "ID": "_shotgun",
       "SetID": "2d5739o",
       "Name": "Shotgun",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "_slow_bullets",
@@ -697,8 +697,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:03:31.5381024+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:09:13.0029683+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:58:29.2030513+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:03:31.5381892+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:04:49.2522248+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:09:13.0030109+00:00"
 }

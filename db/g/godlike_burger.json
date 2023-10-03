@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,11 +79,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:15.8385226+00:00",
@@ -1069,6 +1069,11 @@
       "Time": "2023-10-03T09:08:20.1332164+00:00",
       "NumProgressed": 470,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-03T13:13:28.2330275+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1088,7 +1093,7 @@
       "Name": "CELEBRITY",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -1104,7 +1109,7 @@
       "Name": "CRIMINAL",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "GB_DEBTOR",
@@ -1128,7 +1133,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "GB_GOURMET",
@@ -1142,9 +1147,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "GB_GRATITUDE",
@@ -1152,7 +1157,7 @@
       "Name": "GRATITUDE",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -1184,7 +1189,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -1198,9 +1203,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 269
     },
     {
       "ID": "GB_KEVIN",
@@ -1208,7 +1213,7 @@
       "Name": "KEVIN!",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -1230,9 +1235,9 @@
       "ID": "GB_MASTER_CHEF",
       "SetID": "8ga3kd9",
       "Name": "MASTER CHEF",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 373
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1286,7 +1291,7 @@
       "ID": "GB_TRAVELER",
       "SetID": "8ga3kd9",
       "Name": "TRAVELER",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -1303,7 +1308,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 472,
       "Completed": 2
     }
   ],
@@ -1311,8 +1316,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:08:20.9631765+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:13:28.233027+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.6426232+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:00:49.6828573+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:08:20.9631958+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:28.7987338+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:13:28.2330527+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1429,9 +1429,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_24",
@@ -1557,9 +1557,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_39",
@@ -2085,9 +2085,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_99",
@@ -2113,8 +2113,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:04:28.9885322+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:10:35.7575446+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:59:23.6915401+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:04:28.988713+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:05:28.2952202+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:10:35.7577657+00:00"
 }

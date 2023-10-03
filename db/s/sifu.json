@@ -6720,9 +6720,9 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 715468,
+  "EOS_Progressed": 715473,
   "EOS_Completed": 12907,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21800,6 +21800,11 @@
       "Time": "2023-10-03T12:08:18.0059545+00:00",
       "NumProgressed": 715468,
       "NumCompleted": 12907
+    },
+    {
+      "Time": "2023-10-03T13:13:26.1937136+00:00",
+      "NumProgressed": 715473,
+      "NumCompleted": 12907
     }
   ],
   "TotalAchievements": 60,
@@ -22097,9 +22102,9 @@
       "ID": "37_CustomTrophy_H1",
       "SetID": "adcm20g",
       "Name": "Rumble in the Hangar",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2146
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -22290,21 +22295,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24769,
+      "Progressed": 24774,
       "Completed": 10681
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715468,
+      "Progressed": 715473,
       "Completed": 12907
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-03T03:00:47.9386746+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:08:18.005954+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:13:26.1937131+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:01:00.0913137+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:08:18.0060849+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:37.4214997+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:13:26.1938568+00:00"
 }

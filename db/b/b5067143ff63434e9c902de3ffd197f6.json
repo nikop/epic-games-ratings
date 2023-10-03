@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -316,6 +316,11 @@
       "Time": "2023-10-03T12:08:26.6587454+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T13:13:32.464967+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -358,9 +363,9 @@
       "ID": "ACH_LEVEL974",
       "SetID": "1lo1k0a",
       "Name": "KITTY",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MEGLAB",
@@ -374,9 +379,9 @@
       "ID": "ACH_RUNFORYOURLIFE",
       "SetID": "1lo1k0a",
       "Name": "RUN",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -422,15 +427,15 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 34,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_WINLEVEL1",
       "SetID": "1lo1k0a",
       "Name": "Level 1",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -438,7 +443,7 @@
       "ID": "ACH_WINLEVEL2",
       "SetID": "1lo1k0a",
       "Name": "Dreamer!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -446,9 +451,9 @@
       "ID": "ACH_WINLEVEL3",
       "SetID": "1lo1k0a",
       "Name": "Poolrooms",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -464,7 +469,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -480,7 +485,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -488,7 +493,7 @@
       "Name": "Motion",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -496,15 +501,15 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVELFUN",
       "SetID": "1lo1k0a",
       "Name": "FUN",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -512,21 +517,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:08:26.658745+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:13:32.4649666+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:58:38.8856445+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:08:26.6587607+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:04:55.496811+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:13:32.4649864+00:00"
 }

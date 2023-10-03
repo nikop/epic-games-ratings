@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "AstralSeeker",
       "SetID": "1jeo1g7",
       "Name": "Astral Seeker",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AstralTinkerer",
@@ -481,9 +481,9 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HeavyPurger",
@@ -713,17 +713,17 @@
       "ID": "StellarHaste",
       "SetID": "1jeo1g7",
       "Name": "Stellar Haste",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheAbyssalTerror",
       "SetID": "1jeo1g7",
       "Name": "The Abyssal Terror",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheArdentPrince",
@@ -745,9 +745,9 @@
       "ID": "TheCorruptionGoddess",
       "SetID": "1jeo1g7",
       "Name": "The Corruption Goddess",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TheDarkMoon",
@@ -769,9 +769,9 @@
       "ID": "TheGoddesAvatar",
       "SetID": "1jeo1g7",
       "Name": "The Goddes Avatar",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TheRagingSkies",
@@ -785,9 +785,9 @@
       "ID": "Theworldgoesround",
       "SetID": "1jeo1g7",
       "Name": "The world goes round...",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ThisisFine",
@@ -801,9 +801,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UnepicHero",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:08:51.813054+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:13:51.2185346+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:00:57.8542636+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:08:51.813126+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:35.8774078+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:13:51.218622+00:00"
 }

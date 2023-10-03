@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5216,9 +5216,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1302
     },
     {
       "ID": "A23",
@@ -5489,8 +5489,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:06:06.8687127+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:11:47.0822986+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T12:01:23.5734394+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:06:06.8687772+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:06:54.5530418+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:11:47.0823678+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -421,9 +421,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:07:47.1013472+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:13:02.8573913+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:09.6273769+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:59:50.0184924+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:07:47.1013627+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:05:46.0765998+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:13:02.8574082+00:00"
 }

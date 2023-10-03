@@ -2,13 +2,13 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2812,9 +2812,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 77822,
+  "EOS_Progressed": 77826,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -21132,6 +21132,11 @@
       "Time": "2023-10-03T12:04:36.2832712+00:00",
       "NumProgressed": 77822,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-10-03T13:10:41.0284981+00:00",
+      "NumProgressed": 77826,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 30,
@@ -21167,7 +21172,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17899
+      "UsersEstimate": 17900
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -21175,7 +21180,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -21183,7 +21188,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8560
+      "UsersEstimate": 8561
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -21191,7 +21196,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10895
+      "UsersEstimate": 10896
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -21199,7 +21204,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8560
+      "UsersEstimate": 8561
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -21215,7 +21220,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21223,7 +21228,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 28794
+      "UsersEstimate": 28796
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -21231,7 +21236,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21790
+      "UsersEstimate": 21791
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -21239,7 +21244,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 24903
+      "UsersEstimate": 24904
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -21247,7 +21252,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -21263,7 +21268,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -21271,7 +21276,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18678
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -21279,7 +21284,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20234
+      "UsersEstimate": 20235
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -21287,7 +21292,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -21311,7 +21316,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 11673
+      "UsersEstimate": 11674
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -21319,7 +21324,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 28016
+      "UsersEstimate": 28017
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -21327,7 +21332,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14008
+      "UsersEstimate": 14009
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -21351,7 +21356,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -21367,7 +21372,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14786
+      "UsersEstimate": 14787
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -21382,15 +21387,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 77822,
+      "Progressed": 77826,
       "Completed": 141
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-25T07:59:53.3149974+00:00",
-  "LastChanged_Achievements": "2023-10-03T12:04:36.2832705+00:00",
+  "LastChanged_Achievements": "2023-10-03T13:10:41.0284976+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.4334179+00:00",
-  "LastUpdate_Ratings": "2023-10-03T11:59:46.5542828+00:00",
-  "LastUpdate_Achievements": "2023-10-03T12:04:36.2833765+00:00"
+  "LastUpdate_Ratings": "2023-10-03T13:05:43.7656396+00:00",
+  "LastUpdate_Achievements": "2023-10-03T13:10:41.0286286+00:00"
 }
