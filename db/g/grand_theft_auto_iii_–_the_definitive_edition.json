@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 890,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -502,9 +502,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8218,
+  "EOS_Progressed": 8219,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -9692,6 +9692,11 @@
       "Time": "2023-10-03T12:08:48.1827743+00:00",
       "NumProgressed": 8218,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-03T19:08:25.7200436+00:00",
+      "NumProgressed": 8219,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9703,7 +9708,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "ACH02",
@@ -9823,7 +9828,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH17",
@@ -9934,7 +9939,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8218,
+      "Progressed": 8219,
       "Completed": 53
     }
   ],
@@ -9942,8 +9947,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-03T15:59:55.7429587+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:08:12.6715954+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:08:25.7200419+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:59:38.1942428+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:08:12.6716676+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:00:15.533308+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:08:25.7201324+00:00"
 }

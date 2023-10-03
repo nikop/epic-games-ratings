@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1995,
+  "EOS_Progressed": 1996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1519,6 +1519,11 @@
       "Time": "2023-10-03T18:04:07.4097092+00:00",
       "NumProgressed": 1995,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T19:04:26.8394127+00:00",
+      "NumProgressed": 1996,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1539,7 +1544,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_11",
@@ -1569,9 +1574,9 @@
       "ID": "achievement_14",
       "SetID": "aiin7da",
       "Name": "ROTY",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 719
     },
     {
       "ID": "achievement_15",
@@ -1627,7 +1632,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "achievement_21",
@@ -1698,7 +1703,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1995,
+      "Progressed": 1996,
       "Completed": 0
     }
   ],
@@ -1706,8 +1711,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-03T14:59:38.7883609+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:04:07.4097088+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:04:26.8394116+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:59:31.7601817+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:04:07.409733+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:00:07.43966+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:04:26.8394366+00:00"
 }

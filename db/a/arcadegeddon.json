@@ -6,7 +6,7 @@
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -10024,9 +10024,9 @@
       "ID": "ACH_LETS_GET_THIS_PARTY_STARTED",
       "SetID": "97mcd7i",
       "Name": "Let\u0027s Get This Party Started",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8164
+      "UsersEstimate": 8256
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10288,8 +10288,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:06:03.5688867+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:06:45.6619554+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.2117105+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:00:20.103854+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:06:03.5689896+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:01:10.6354225+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:06:45.6620628+00:00"
 }

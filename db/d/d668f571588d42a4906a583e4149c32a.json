@@ -4,10 +4,10 @@
   "ProductSlug": "mistborn-tower-defense-2816ff",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
-    "ReleaseDate": "2023-10-01T00:00:00+00:00",
+    "ReleaseDate": "2023-10-03T18:30:00+00:00",
     "PcReleaseDate": "2023-09-28T05:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-01T22:57:05.3287471+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:57:44.0139277+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:03:41.8014795+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:57:54.2754697+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:03:56.4162812+00:00"
 }

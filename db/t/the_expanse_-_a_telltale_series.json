@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -143,10 +143,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 13499,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 597,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 588,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -7552,6 +7552,11 @@
       "Time": "2023-10-03T18:04:57.4990567+00:00",
       "NumProgressed": 13499,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-03T19:05:26.4748642+00:00",
+      "NumProgressed": 13499,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7586,9 +7591,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "13",
@@ -7682,9 +7687,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "24",
@@ -7804,15 +7809,15 @@
       "ID": "458bbdk",
       "IsBase": true,
       "Progressed": 13499,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:04:57.4990559+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:05:26.4748633+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:59:27.1919939+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:04:57.4991282+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:00:01.523504+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:05:26.4749416+00:00"
 }

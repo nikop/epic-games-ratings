@@ -4,7 +4,7 @@
   "ProductSlug": "nephise-ascension-f0ba3d",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-15T12:00:00+00:00",
@@ -119,8 +119,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-06T10:02:05.1959472+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:05:32.6451853+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:06:08.4249862+00:00",
   "LastUpdate_AppInfo": "2023-10-01T14:57:21.6650489+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:58:23.3521198+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:05:32.6451929+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:58:45.5443635+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:06:08.4249966+00:00"
 }

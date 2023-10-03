@@ -7,7 +7,7 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,078 |
-| Un-Lonely Island | 47.00% | ~2,555 |
+| Un-Lonely Island | 47.00% | ~2,556 |
 | The Beginning of a Servantship | 45.00% | ~2,447 |
 | Trade Is My Trait | 37.00% | ~2,012 |
 | Number 18 | 24.00% | ~1,305 |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~272 |
 | Watch The World Burn | 5.00% | ~272 |
 | Fairy Tale Come True | 5.00% | ~272 |
+| Apocalypso | 4.00% | ~218 |
 | Been there, Done That | 3.00% | ~163 |
-| Apocalypso | 3.00% | ~163 |
 | Narcissist | 3.00% | ~163 |
 | Promising Endeavors | 3.00% | ~163 |
 | The Time For Wonders | 3.00% | ~163 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,437 (Ranked 167)  
+Progressed: 5,438 (Ranked 167)  
 Completed: 2 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 2 (0.04%) (Ranked 270)
 | 2023-09-30 | 5,410 | 2 |
 | 2023-10-01 | 5,421 | 2 |
 | 2023-10-02 | 5,430 | 2 |
-| 2023-10-03 | 5,437 | 2 |
+| 2023-10-03 | 5,438 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 345)  
 Sum: 697 (Ranked 283)  

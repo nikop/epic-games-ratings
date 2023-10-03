@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,108 |
+| Sowwy! | 32.00% | ~73,112 |
 | Alt+F4 | 6.00% | ~13,708 |
-| Where's that freaking Dwarf? | 5.00% | ~11,423 |
+| Where's that freaking Dwarf? | 5.00% | ~11,424 |
 | Déjà vu | 4.00% | ~9,139 |
 | Sock! SOCK! | 4.00% | ~9,139 |
 | A beer, two curses, three companions | 3.00% | ~6,854 |
@@ -16,17 +16,17 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 3.00% | ~6,854 |
 | Speedrun | 3.00% | ~6,854 |
 | Fireproof Wizardess | 3.00% | ~6,854 |
-| Livin' in a dwarven paradise | 2.00% | ~4,569 |
-| Way of the Wimp | 2.00% | ~4,569 |
-| The plot thickens... At the tavern | 2.00% | ~4,569 |
-| The demons' feast | 2.00% | ~4,569 |
-| The Great Library | 2.00% | ~4,569 |
-| Torture and Sensibility | 2.00% | ~4,569 |
-| Urik's Depths | 2.00% | ~4,569 |
-| The Dungeon Master | 2.00% | ~4,569 |
-| The Woman in the High Castle | 2.00% | ~4,569 |
-| Team Building Exercise | 2.00% | ~4,569 |
-| Oh, when I'll be level 10... | 2.00% | ~4,569 |
+| Livin' in a dwarven paradise | 2.00% | ~4,570 |
+| Way of the Wimp | 2.00% | ~4,570 |
+| The plot thickens... At the tavern | 2.00% | ~4,570 |
+| The demons' feast | 2.00% | ~4,570 |
+| The Great Library | 2.00% | ~4,570 |
+| Torture and Sensibility | 2.00% | ~4,570 |
+| Urik's Depths | 2.00% | ~4,570 |
+| The Dungeon Master | 2.00% | ~4,570 |
+| The Woman in the High Castle | 2.00% | ~4,570 |
+| Team Building Exercise | 2.00% | ~4,570 |
+| Oh, when I'll be level 10... | 2.00% | ~4,570 |
 | Shiny and Crôm | 1.00% | ~2,285 |
 | The Statuette of Gladeulfeurah | 1.00% | ~2,285 |
 | Res Judicata | 1.00% | ~2,285 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.40% | ~914 |
 | Law and Order | 0.40% | ~914 |
 | Scholar of the Lands of Fangh | 0.30% | ~685 |
+| Friendly fire | 0.30% | ~685 |
 | I'd rather... Just... Sing! | 0.30% | ~685 |
 | It's been a hard day's night | 0.30% | ~685 |
-| Friendly fire | 0.20% | ~457 |
 | The number of the counting shalt be 7 | 0.20% | ~457 |
 | 100% satisfaction guarantee | 0.20% | ~457 |
 | Inception | 0.20% | ~457 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,463 (Ranked 58)  
+Progressed: 228,475 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
-| 2023-10-03 | 228,463 | 5 |
+| 2023-10-03 | 228,475 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

@@ -9,15 +9,15 @@ Rating: 4.53 (Ranked 524)
 | Drug Gifter | 0.50% | ~67 |
 | Bosmang | 0.40% | ~54 |
 | The Pit and the Pirates | 0.30% | ~40 |
+| Data Archivist | 0.30% | ~40 |
 | Drone Dodger | 0.30% | ~40 |
+| Heal Thy Medic | 0.30% | ~40 |
 | Call it Even | 0.30% | ~40 |
 | Captain Drummer | 0.30% | ~40 |
 | Impossible Objects | 0.30% | ~40 |
-| Data Archivist | 0.20% | ~27 |
 | Stogie for Fogey | 0.20% | ~27 |
 | Spore Taste | 0.20% | ~27 |
 | Martian Music | 0.20% | ~27 |
-| Heal Thy Medic | 0.20% | ~27 |
 | Khan's Revenge | 0.20% | ~27 |
 | Celebrations are in Order | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~13 |
@@ -37,7 +37,7 @@ Rating: 4.53 (Ranked 524)
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,499 (Ranked 134)  
-Completed: 2 (0.01%) (Ranked 288)  
+Completed: 3 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 2 (0.01%) (Ranked 288)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,499 | 2 |
+| 2023-10-03 | 13,499 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

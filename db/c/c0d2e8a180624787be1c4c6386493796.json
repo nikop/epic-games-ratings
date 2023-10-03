@@ -404,9 +404,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:06:50.179808+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:08:11.7891421+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:57:52.4943781+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:06:50.1798941+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:58:06.3572455+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:08:11.7892286+00:00"
 }

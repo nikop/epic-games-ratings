@@ -3356,9 +3356,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51784,
+  "EOS_Progressed": 51785,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12631,6 +12631,11 @@
       "Time": "2023-10-03T18:06:18.3001666+00:00",
       "NumProgressed": 51784,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-10-03T19:07:03.5425464+00:00",
+      "NumProgressed": 51785,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12666,7 +12671,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40909
+      "UsersEstimate": 40910
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12762,7 +12767,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24338
+      "UsersEstimate": 24339
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12778,7 +12783,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24856
+      "UsersEstimate": 24857
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12810,7 +12815,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11910
+      "UsersEstimate": 11911
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -12906,7 +12911,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50230
+      "UsersEstimate": 50231
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12994,22 +12999,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37284
+      "UsersEstimate": 37285
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51784,
+      "Progressed": 51785,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-03T17:58:25.8694197+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:06:18.3001662+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:07:03.5425453+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:58:25.8694203+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:06:18.3002674+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:58:48.4415417+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:07:03.5426415+00:00"
 }

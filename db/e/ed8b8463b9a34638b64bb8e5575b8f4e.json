@@ -139,9 +139,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "cold_feet",
@@ -171,9 +171,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "if_the_suit_fits",
@@ -227,9 +227,9 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "skipper",
@@ -307,9 +307,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "the_swell_celebration",
@@ -346,8 +346,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:08:26.0786323+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:08:41.7606856+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:06.9383944+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:58:07.4518275+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:08:26.0786519+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:58:23.0241088+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:08:41.7607039+00:00"
 }

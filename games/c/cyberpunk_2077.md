@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,534 |
-| Rough Landing | 4.00% | ~35,534 |
-| Gunslinger | 3.00% | ~26,651 |
-| Master Crafter | 3.00% | ~26,651 |
-| The High Priestess | 3.00% | ~26,651 |
-| The Jungle | 3.00% | ~26,651 |
-| Full Body Conversion | 2.00% | ~17,767 |
-| Right Back At Ya | 2.00% | ~17,767 |
-| Mean Streets | 2.00% | ~17,767 |
-| Breathtaking | 2.00% | ~17,767 |
-| Stanislavski's Method | 2.00% | ~17,767 |
-| Temperance | 2.00% | ~17,767 |
-| The Hermit | 2.00% | ~17,767 |
-| The Lovers | 2.00% | ~17,767 |
-| The Wheel of Fortune | 2.00% | ~17,767 |
-| True Soldier | 2.00% | ~17,767 |
-| True Warrior | 2.00% | ~17,767 |
-| Two Heads, One Bullet | 2.00% | ~17,767 |
-| V for Vendetta | 2.00% | ~17,767 |
-| Legend of The Afterlife | 2.00% | ~17,767 |
+| Ten out of Ten | 4.00% | ~35,535 |
+| Rough Landing | 4.00% | ~35,535 |
+| Gunslinger | 3.00% | ~26,652 |
+| Master Crafter | 3.00% | ~26,652 |
+| The High Priestess | 3.00% | ~26,652 |
+| The Jungle | 3.00% | ~26,652 |
+| Full Body Conversion | 2.00% | ~17,768 |
+| Right Back At Ya | 2.00% | ~17,768 |
+| Mean Streets | 2.00% | ~17,768 |
+| Breathtaking | 2.00% | ~17,768 |
+| Stanislavski's Method | 2.00% | ~17,768 |
+| Temperance | 2.00% | ~17,768 |
+| The Hermit | 2.00% | ~17,768 |
+| The Lovers | 2.00% | ~17,768 |
+| The Wheel of Fortune | 2.00% | ~17,768 |
+| True Soldier | 2.00% | ~17,768 |
+| True Warrior | 2.00% | ~17,768 |
+| Two Heads, One Bullet | 2.00% | ~17,768 |
+| V for Vendetta | 2.00% | ~17,768 |
+| Legend of The Afterlife | 2.00% | ~17,768 |
 | To Bad Decisions! | 1.00% | ~8,884 |
 | Gun Fu | 1.00% | ~8,884 |
 | Christmas Tree Attack | 1.00% | ~8,884 |
@@ -44,8 +44,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.50% | ~4,442 |
 | Autojock | 0.50% | ~4,442 |
 | Must Be Rats | 0.50% | ~4,442 |
-| To Protect and Serve | 0.40% | ~3,553 |
-| The Sun | 0.40% | ~3,553 |
+| To Protect and Serve | 0.40% | ~3,554 |
+| The Sun | 0.40% | ~3,554 |
 | Frequent Flyer | 0.30% | ~2,665 |
 | Little Tokyo | 0.30% | ~2,665 |
 | The Star | 0.30% | ~2,665 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,360 (Ranked 15)  
-Completed: 2,565 (0.29%) (Ranked 203)  
+Progressed: 888,385 (Ranked 15)  
+Completed: 2,567 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,10 +230,10 @@ Completed: 2,565 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,360 | 2,565 |
+| 2023-10-03 | 888,385 | 2,567 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
-Sum: 259,077 (Ranked 12)  
+Sum: 259,371 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -241,8 +241,8 @@ Diff (max vs sum): -3
 | This game has Great Boss Battles | 61,016 |
 | This game has Diverse Characters | 13,022 |
 | This game is Great for Beginners | 12,990 |
+| This game has Amazing Storytelling | 12,719 |
 | This game is Extremely Fun | 12,517 |
-| This game has Amazing Storytelling | 12,425 |
 | This game is Highly Recommended | 12,417 |
 | This game is Relaxing | 12,188 |
 | This game has Amazing Characters | 12,086 |
@@ -508,4 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
-| 2023-10-03 | 4.63 | - | 90,464 | 259,077 |
+| 2023-10-03 | 4.63 | - | 90,464 | 259,371 |

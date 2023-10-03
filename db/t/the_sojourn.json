@@ -4,7 +4,7 @@
   "ProductSlug": "the-sojourn",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2019-09-20T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.4322403+00:00",
   "LastChanged": "2023-03-31T05:57:30.4322405+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.0243014+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:57:33.3217273+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:05:20.2444497+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:57:41.333638+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:05:53.4199648+00:00"
 }

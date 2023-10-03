@@ -7671,9 +7671,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62639,
+  "EOS_Progressed": 62640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25341,6 +25341,11 @@
       "Time": "2023-10-03T18:03:15.1159453+00:00",
       "NumProgressed": 62639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T19:03:24.2452372+00:00",
+      "NumProgressed": 62640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25584,7 +25589,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24429
+      "UsersEstimate": 24430
     },
     {
       "ID": "Lawmaker",
@@ -25759,15 +25764,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62639,
+      "Progressed": 62640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-03T13:59:51.1124527+00:00",
-  "LastChanged_Achievements": "2023-10-03T18:03:15.1159448+00:00",
+  "LastChanged_Achievements": "2023-10-03T19:03:24.2452359+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:59:47.6847337+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:03:15.1161054+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:00:26.7080785+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:03:24.2454067+00:00"
 }

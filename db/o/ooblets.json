@@ -4,10 +4,10 @@
   "ProductSlug": "ooblets",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-01T13:00:00+00:00",
@@ -1527,10 +1527,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 1842,
       "NumberOfAwardsMax": 1026
+    },
+    {
+      "Time": "2023-10-03T19:00:40.2345903+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1843,
+      "NumberOfAwardsMax": 1026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1842,
+  "NumberOfAwards": 1843,
   "NumberOfAwardsMax": 1026,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1586,7 +1592,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1624,8 +1630,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2023-10-03T17:02:30.8010454+00:00",
+  "LastChanged": "2023-10-03T19:00:40.2345901+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.5625197+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:59:57.0602238+00:00",
-  "LastUpdate_Achievements": "2023-10-03T18:04:47.5548975+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:00:40.2345906+00:00",
+  "LastUpdate_Achievements": "2023-10-03T19:05:14.9175584+00:00"
 }

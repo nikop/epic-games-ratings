@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 648)  
+Rating: 4.45 (Ranked 647)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.45 (Ranked 648)
 | Die Nussknacker Sweet! | 14.00% | ~517 |
 | Opposing Force | 13.00% | ~480 |
 | Set Europe Ablaze | 13.00% | ~480 |
-| Precision Is Key | 9.00% | ~332 |
+| Precision Is Key | 10.00% | ~369 |
 | My Little Friend | 9.00% | ~332 |
 | Rigged to Blow | 8.00% | ~296 |
 | Herr Today, Gone Tomorrow | 6.00% | ~219 |
