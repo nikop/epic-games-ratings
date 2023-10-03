@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.07% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.05% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.00% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.64% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.65% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -253,15 +253,15 @@
 | 247 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 247 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 253 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 254 | [Black Book](games/b/black_book.md) | 0.07% |
 | 254 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 254 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 254 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 254 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 254 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 259 | [Black Book](games/b/black_book.md) | 0.06% |
+| 259 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 259 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 259 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 263 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 263 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 263 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
