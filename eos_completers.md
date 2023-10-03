@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.68% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.61% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -61,12 +61,12 @@
 | 59 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
+| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.56% |
+| 63 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.00% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.99% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.65% |
@@ -83,7 +83,7 @@
 | 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
-| 84 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 3.03% |
+| 84 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.94% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 87 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -185,19 +185,19 @@
 | 181 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
 | 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 185 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 186 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 186 | [It Takes Two](games/i/it_takes_two.md) | 0.36% |
-| 186 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 186 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
+| 187 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
+| 187 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
+| 187 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 190 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.35% |
 | 191 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 191 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 193 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 194 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 195 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 195 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.31% |
-| 195 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 193 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.33% |
+| 195 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 196 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 196 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 199 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 199 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.30% |
 | 199 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
@@ -216,11 +216,11 @@
 | 214 | [Blanc](games/b/blanc.md) | 0.22% |
 | 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 216 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 217 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.20% |
 | 217 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
-| 219 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 219 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
-| 219 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 218 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.19% |
+| 218 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 218 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
+| 218 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.18% |
 | 222 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 222 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
@@ -230,9 +230,9 @@
 | 226 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 229 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 231 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.13% |
+| 230 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.14% |
+| 232 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 232 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 234 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 234 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
