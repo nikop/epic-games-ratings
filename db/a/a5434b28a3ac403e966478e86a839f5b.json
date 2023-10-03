@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -774,17 +774,17 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_eou6",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:07:15.8660642+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:48:56.0500932+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:58:33.8380202+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:07:15.8660804+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:40:55.6505021+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:48:56.0501093+00:00"
 }

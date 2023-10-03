@@ -4,10 +4,10 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 221,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -988,7 +988,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
@@ -5153,6 +5153,11 @@
       "Time": "2023-10-02T22:06:47.0081049+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T01:49:23.6791697+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5468,7 +5473,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5547,15 +5552,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-01T13:59:58.2581546+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:07:55.7827904+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:49:23.679169+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:57:27.393481+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:07:55.7828642+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:40:12.4262982+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:23.6792781+00:00"
 }

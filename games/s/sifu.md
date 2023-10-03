@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
 | State of constant learning | 0.30% | ~2,146 |
+| Qi Gong: Breath | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
 | Project Arena | 0.30% | ~74 |
 | Martial Hub | 0.30% | ~74 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.20% | ~1,431 |
 | Street Fighting | 0.20% | ~1,431 |
 | Qi Gong: Mind | 0.20% | ~1,431 |
-| Qi Gong: Breath | 0.20% | ~1,431 |
 | Qi Gong: Essence | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
 | Old Child | 0.20% | ~1,431 |
@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 715,453 (Ranked 20)  
-Completed: 12,906 (1.80%) (Ranked 112)  
+Completed: 12,907 (1.80%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,7 +233,7 @@ Completed: 12,906 (1.80%) (Ranked 112)
 | 2023-09-30 | 715,409 | 12,904 |
 | 2023-10-01 | 715,440 | 12,905 |
 | 2023-10-02 | 715,452 | 12,906 |
-| 2023-10-03 | 715,453 | 12,906 |
+| 2023-10-03 | 715,453 | 12,907 |
 ## Awards
 Max (Great Boss Battles): 6,629  (Ranked 54)  
 Sum: 11,474 (Ranked 82)  

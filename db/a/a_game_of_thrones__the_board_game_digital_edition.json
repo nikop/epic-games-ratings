@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 871,
-  "Ranking_Popularity": 321,
+  "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 207,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25267,
+  "EOS_Progressed": 25268,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19045,6 +19045,11 @@
       "Time": "2023-10-03T00:04:05.1509785+00:00",
       "NumProgressed": 25267,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-03T01:46:36.9507426+00:00",
+      "NumProgressed": 25268,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 22,
@@ -19176,7 +19181,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "1031",
@@ -19184,7 +19189,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "1032",
@@ -19231,15 +19236,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25267,
+      "Progressed": 25268,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:04:05.1509781+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:46:36.9507419+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.1234295+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:59:07.4888411+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:04:05.1511063+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:18.0058214+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:46:36.9509005+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,061 |
-| Let There Be Light | 34.00% | ~22,716 |
-| Float Like a Butterfly | 33.00% | ~22,048 |
-| Nordic Walking | 27.00% | ~18,039 |
-| Bright Falls' Finest | 26.00% | ~17,371 |
-| Under a Thin Layer of Skin | 23.00% | ~15,367 |
-| Park Ranger | 19.00% | ~12,694 |
-| Paging Mr. Wake | 19.00% | ~12,694 |
-| Back! Back, I Say! | 18.00% | ~12,026 |
-| Finders Keepers | 18.00% | ~12,026 |
-| They're Heeeeeere! | 16.00% | ~10,690 |
-| Sound and Fury | 16.00% | ~10,690 |
-| Missed by a Mile | 16.00% | ~10,690 |
-| Damn Good Cup of Coffee | 16.00% | ~10,690 |
-| Wheels Within Wheels | 15.00% | ~10,022 |
-| The Six-Gun Scribe | 15.00% | ~10,022 |
-| Heavy Metal | 14.00% | ~9,354 |
-| Iron Horse | 14.00% | ~9,354 |
-| Collateral Carnage | 14.00% | ~9,354 |
-| Come One, Come All | 14.00% | ~9,354 |
-| Perchance to Dream | 13.00% | ~8,685 |
-| It's Not Just a Typewriter Brand | 13.00% | ~8,685 |
-| Gatekeeper | 12.00% | ~8,017 |
-| Thunder and Lightning | 12.00% | ~8,017 |
-| Two For the Price of One | 12.00% | ~8,017 |
-| The Lady of the Light | 11.00% | ~7,349 |
-| Energized! | 11.00% | ~7,349 |
-| Right of Way | 10.00% | ~6,681 |
-| Tornado Wrangler | 9.00% | ~6,013 |
-| What Light Through Yonder Window | 9.00% | ~6,013 |
-| Departure | 8.00% | ~5,345 |
-| A Friend in Need | 8.00% | ~2,422 |
-| Hardboiled Writer | 7.00% | ~4,677 |
+| Follow the Light | 42.00% | ~28,065 |
+| Let There Be Light | 34.00% | ~22,719 |
+| Float Like a Butterfly | 33.00% | ~22,051 |
+| Nordic Walking | 27.00% | ~18,042 |
+| Bright Falls' Finest | 26.00% | ~17,374 |
+| Under a Thin Layer of Skin | 23.00% | ~15,369 |
+| Park Ranger | 19.00% | ~12,696 |
+| Paging Mr. Wake | 19.00% | ~12,696 |
+| Back! Back, I Say! | 18.00% | ~12,028 |
+| Finders Keepers | 18.00% | ~12,028 |
+| They're Heeeeeere! | 16.00% | ~10,692 |
+| Sound and Fury | 16.00% | ~10,692 |
+| Missed by a Mile | 16.00% | ~10,692 |
+| Damn Good Cup of Coffee | 16.00% | ~10,692 |
+| Wheels Within Wheels | 15.00% | ~10,023 |
+| The Six-Gun Scribe | 15.00% | ~10,023 |
+| Heavy Metal | 14.00% | ~9,355 |
+| Iron Horse | 14.00% | ~9,355 |
+| Collateral Carnage | 14.00% | ~9,355 |
+| Come One, Come All | 14.00% | ~9,355 |
+| Perchance to Dream | 13.00% | ~8,687 |
+| It's Not Just a Typewriter Brand | 13.00% | ~8,687 |
+| Gatekeeper | 12.00% | ~8,019 |
+| Thunder and Lightning | 12.00% | ~8,019 |
+| Two For the Price of One | 12.00% | ~8,019 |
+| The Lady of the Light | 11.00% | ~7,350 |
+| Energized! | 11.00% | ~7,350 |
+| Right of Way | 10.00% | ~6,682 |
+| Tornado Wrangler | 9.00% | ~6,014 |
+| What Light Through Yonder Window | 9.00% | ~6,014 |
+| Departure | 8.00% | ~5,346 |
+| A Friend in Need | 8.00% | ~2,423 |
+| Hardboiled Writer | 7.00% | ~4,678 |
 | Children of the Elder God | 6.00% | ~4,009 |
 | Drink 'Em Both Up | 6.00% | ~4,009 |
 | A Friend Indeed | 6.00% | ~1,817 |
@@ -46,9 +46,9 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 5.00% | ~3,341 |
 | If It Flies, It Burns | 5.00% | ~3,341 |
 | KBF-FM | 5.00% | ~3,341 |
-| Kill Your Darlings | 4.00% | ~1,211 |
-| Heartbreaker | 4.00% | ~1,211 |
-| Carny | 3.00% | ~2,004 |
+| Kill Your Darlings | 4.00% | ~1,212 |
+| Heartbreaker | 4.00% | ~1,212 |
+| Carny | 3.00% | ~2,005 |
 | Medical Opinions | 2.00% | ~1,336 |
 | Taken Season | 2.00% | ~1,336 |
 | An Idyllic Small Town | 2.00% | ~1,336 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,811 (Ranked 92)  
+Progressed: 66,822 (Ranked 92)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
 | 2023-10-02 | 66,805 | 67 |
-| 2023-10-03 | 66,811 | 67 |
+| 2023-10-03 | 66,822 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

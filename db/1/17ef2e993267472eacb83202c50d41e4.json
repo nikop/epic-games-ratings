@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6817,
+  "EOS_Progressed": 6819,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
@@ -3258,6 +3258,11 @@
       "Time": "2023-10-03T00:08:04.9783447+00:00",
       "NumProgressed": 6817,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T01:49:30.4226253+00:00",
+      "NumProgressed": 6819,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3326,7 +3331,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "DHUpgraded1",
@@ -3390,7 +3395,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "GamesPlayed10",
@@ -3414,7 +3419,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "GamesWon10",
@@ -3478,7 +3483,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "HSPurchased1",
@@ -3582,7 +3587,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "MaxDamageDone30000",
@@ -3638,7 +3643,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "MaxTowersKilled6",
@@ -3678,7 +3683,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "NeutralKills200",
@@ -3782,7 +3787,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "SOVUpgraded1",
@@ -3830,7 +3835,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "TSUPurchased1",
@@ -3861,7 +3866,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6817,
+      "Progressed": 6819,
       "Completed": 1
     }
   ],
@@ -3869,8 +3874,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:08:04.9783441+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:49:30.4226246+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:59:28.3426332+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:08:04.9784538+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:31.8957302+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:30.4227404+00:00"
 }

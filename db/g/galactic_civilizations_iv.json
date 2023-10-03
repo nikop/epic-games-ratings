@@ -3,7 +3,7 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 903,
-  "Ranking_Popularity": 354,
+  "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 304,
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6748,
+  "EOS_Progressed": 6749,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -6622,6 +6622,11 @@
       "Time": "2023-10-02T23:04:18.6137188+00:00",
       "NumProgressed": 6748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T01:46:57.5926366+00:00",
+      "NumProgressed": 6749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6697,7 +6702,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6713,7 +6718,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "First_Major_Ally",
@@ -6737,7 +6742,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "First_Race_Met",
@@ -6745,7 +6750,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4926
+      "UsersEstimate": 4927
     },
     {
       "ID": "First_Ship_Designed",
@@ -6753,7 +6758,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "First_Stream_Travel",
@@ -6769,7 +6774,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6849,7 +6854,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "Play_1000_Hours",
@@ -7208,15 +7213,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6748,
+      "Progressed": 6749,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:04:34.2453249+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:46:57.5926359+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:00:39.3008639+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:04:34.2454457+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:42:15.6110515+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:46:57.5927575+00:00"
 }

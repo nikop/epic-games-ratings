@@ -2,9 +2,9 @@
   "ID": "cc920a7236ce4cd9ba347651be651e5e",
   "Name": "Planet Cube - Edge",
   "ProductSlug": "planet-cube-edge-aac6d5",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-14T09:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
       "Time": "2023-09-29T04:05:01.8629222+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T01:51:06.3098704+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -55,9 +60,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "d67c14a",
       "Name": "Collectables? Shocking.",
-      "Percentage": 125,
+      "Percentage": 120,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -79,15 +84,15 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "d67c14a",
       "Name": "Lucky Checkpoint",
-      "Percentage": 150,
+      "Percentage": 140,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_05",
       "SetID": "d67c14a",
       "Name": "Out of the Dorms",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "d67c14a",
       "Name": "Explored The Labs",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "d67c14a",
       "Name": "Got Our Water Back!",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 110,
       "UsersEstimate": 2
     },
@@ -159,15 +164,15 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "d67c14a",
       "Name": "I Need Healing!",
-      "Percentage": 150,
+      "Percentage": 140,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "d67c14a",
       "Name": "You\u0027ll Be Fine!",
-      "Percentage": 125,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -199,7 +204,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "d67c14a",
       "Name": "Bullet Conscious",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "d67c14a",
       "Name": "You Just Don\u0027t Learn",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -223,7 +228,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "d67c14a",
       "Name": "Green, Mean and Edgy",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -231,7 +236,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "d67c14a",
       "Name": "Show Off",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -239,7 +244,7 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "d67c14a",
       "Name": "Nothing\u0027s Impossible",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -247,7 +252,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "d67c14a",
       "Name": "Except Maybe This",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -279,7 +284,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "d67c14a",
       "Name": "Defence Broken",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -295,7 +300,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "d67c14a",
       "Name": "C-C-Combo!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -311,7 +316,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "d67c14a",
       "Name": "Ready For The Olympics",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -319,7 +324,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "d67c14a",
       "Name": "Cubes Can Fly",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -359,7 +364,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "d67c14a",
       "Name": "Dinosaur\u0027s Isle",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -367,7 +372,7 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "d67c14a",
       "Name": "I Refuse To Be A Hero",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -376,14 +381,14 @@
     {
       "ID": "d67c14a",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T05:58:29.5381219+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:08:42.5068366+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:51:06.3098697+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.4575582+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:02:20.1285069+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:08:42.5068734+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:43:22.0511729+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:51:06.309903+00:00"
 }

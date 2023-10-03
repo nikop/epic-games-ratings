@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1513,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5492,6 +5492,11 @@
       "Time": "2023-10-02T22:05:10.653931+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T01:48:00.9701264+00:00",
+      "NumProgressed": 1513,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5527,7 +5532,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -5623,7 +5628,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5647,7 +5652,7 @@
       "Name": "Major",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -5679,7 +5684,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5806,7 +5811,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1513,
       "Completed": 1
     }
   ],
@@ -5814,8 +5819,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-02T15:57:56.3745226+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:06:04.2092137+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:48:00.9701088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:58:51.0281834+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:06:04.2092911+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:07.4408716+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:48:00.9702731+00:00"
 }

@@ -19,10 +19,10 @@ Rating: 4.50 (Ranked 574)
 | Teamwork | 0.70% | ~183 |
 | There you are! | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
+| Animated | 0.60% | ~157 |
 | Back Off | 0.60% | ~157 |
 | Icing on the Cake | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
-| Animated | 0.50% | ~131 |
 | Daily Dose | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |
 | Ghostbuster In Training | 0.50% | ~131 |
@@ -35,13 +35,13 @@ Rating: 4.50 (Ranked 574)
 | Stunner | 0.40% | ~105 |
 | We have the best insurance | 0.30% | ~79 |
 | Diabolical | 0.30% | ~79 |
+| Escape Artist | 0.30% | ~79 |
 | Pesky Jerks | 0.30% | ~79 |
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |
 | Seasoned | 0.30% | ~79 |
 | Tobin's Prodigy | 0.30% | ~79 |
 | Collector | 0.20% | ~52 |
-| Escape Artist | 0.20% | ~52 |
 | Fragile Panes | 0.20% | ~52 |
 | Liability | 0.20% | ~52 |
 | Rivalry | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,169 (Ranked 114)  
+Progressed: 26,175 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
 | 2023-10-02 | 26,168 | 58 |
-| 2023-10-03 | 26,169 | 58 |
+| 2023-10-03 | 26,175 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,354 (Ranked 188)  

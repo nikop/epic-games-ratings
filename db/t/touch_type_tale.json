@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3673,
+  "EOS_Progressed": 3674,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4044,6 +4044,11 @@
       "Time": "2023-10-02T22:06:53.3101016+00:00",
       "NumProgressed": 3673,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-03T01:49:28.9933418+00:00",
+      "NumProgressed": 3674,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4055,7 +4060,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "bonus2",
@@ -4103,7 +4108,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "campaign10",
@@ -4191,7 +4196,7 @@
       "Name": "Flanked!",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "campaign20",
@@ -4215,7 +4220,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "campaign5",
@@ -4255,7 +4260,7 @@
       "Name": "Boulder Clash",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "scenario1",
@@ -4318,7 +4323,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3673,
+      "Progressed": 3674,
       "Completed": 11
     }
   ],
@@ -4326,8 +4331,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:08:03.2298402+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:49:28.993341+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.3600543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:03:17.3491281+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:08:03.2299002+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:46:17.5052085+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:28.9934016+00:00"
 }

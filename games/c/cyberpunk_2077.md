@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,521 |
-| Rough Landing | 4.00% | ~35,521 |
-| Gunslinger | 3.00% | ~26,641 |
-| Master Crafter | 3.00% | ~26,641 |
-| The Jungle | 3.00% | ~26,641 |
+| Ten out of Ten | 4.00% | ~35,522 |
+| Rough Landing | 4.00% | ~35,522 |
+| Gunslinger | 3.00% | ~26,642 |
+| Master Crafter | 3.00% | ~26,642 |
+| The Jungle | 3.00% | ~26,642 |
 | Full Body Conversion | 2.00% | ~17,761 |
 | Right Back At Ya | 2.00% | ~17,761 |
 | Mean Streets | 2.00% | ~17,761 |
@@ -25,16 +25,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 2.00% | ~17,761 |
 | V for Vendetta | 2.00% | ~17,761 |
 | Legend of The Afterlife | 2.00% | ~17,761 |
-| To Bad Decisions! | 1.00% | ~8,880 |
-| Gun Fu | 1.00% | ~8,880 |
-| Christmas Tree Attack | 1.00% | ~8,880 |
-| The Quick and the Dead | 1.00% | ~8,880 |
-| Temperance | 1.00% | ~8,880 |
-| The Devil | 1.00% | ~8,880 |
-| The Fool | 1.00% | ~8,880 |
-| The World | 1.00% | ~8,880 |
-| Judy vs Night City | 1.00% | ~8,880 |
-| It's Elementary | 1.00% | ~8,880 |
+| To Bad Decisions! | 1.00% | ~8,881 |
+| Gun Fu | 1.00% | ~8,881 |
+| Christmas Tree Attack | 1.00% | ~8,881 |
+| The Quick and the Dead | 1.00% | ~8,881 |
+| Temperance | 1.00% | ~8,881 |
+| The Devil | 1.00% | ~8,881 |
+| The Fool | 1.00% | ~8,881 |
+| The World | 1.00% | ~8,881 |
+| Judy vs Night City | 1.00% | ~8,881 |
+| It's Elementary | 1.00% | ~8,881 |
 | Greetings from Pacifica! | 0.80% | ~7,104 |
 | City Lights | 0.70% | ~6,216 |
 | Life of the Road | 0.70% | ~6,216 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,036 (Ranked 15)  
+Progressed: 888,062 (Ranked 15)  
 Completed: 2,550 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,15 +230,15 @@ Completed: 2,550 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,036 | 2,550 |
+| 2023-10-03 | 888,062 | 2,550 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 255,580 (Ranked 12)  
+Sum: 256,453 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 89,540 |
-| This game has Great Boss Battles | 60,143 |
+| This game has Great Boss Battles | 61,016 |
 | This game has Diverse Characters | 12,694 |
 | This game is Great for Beginners | 12,605 |
 | This game has Amazing Storytelling | 12,425 |
@@ -508,3 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
+| 2023-10-03 | 4.63 | - | 89,540 | 256,453 |

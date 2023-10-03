@@ -9,8 +9,8 @@
 | Purification Pioneer | 94.00% | ~34 |
 | Dicesmithing Time! | 89.00% | ~32 |
 | Wild's Keeper | 81.00% | ~29 |
+| Endless Tricks | 78.00% | ~28 |
 | Sanctuary Guardian | 78.00% | ~28 |
-| Endless Tricks | 75.00% | ~27 |
 | Mind Illuminator | 67.00% | ~24 |
 | Stellar Dismantler | 53.00% | ~19 |
 | Astral Adventurer | 39.00% | ~14 |

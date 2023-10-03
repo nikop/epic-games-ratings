@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,660 |
-| Don't I Know You...? | 77.00% | ~1,598 |
+| Rigged And Ready | 80.00% | ~1,661 |
+| Don't I Know You...? | 76.00% | ~1,578 |
 | Jailbreak | 66.00% | ~1,370 |
-| Suited and Booted | 39.00% | ~809 |
-| HEADSHOT! | 38.00% | ~788 |
+| HEADSHOT! | 38.00% | ~789 |
+| Suited and Booted | 38.00% | ~789 |
 | Sleeping With The Fishes | 36.00% | ~747 |
-| Overheated | 30.00% | ~622 |
-| High Performance | 30.00% | ~622 |
+| Overheated | 30.00% | ~623 |
+| High Performance | 30.00% | ~623 |
 | Powered Up | 28.00% | ~581 |
 | Studied The Blade | 25.00% | ~519 |
 | Home Invasion | 23.00% | ~477 |
-| Luminary | 22.00% | ~456 |
-| It's a Trap | 22.00% | ~456 |
+| Luminary | 22.00% | ~457 |
+| It's a Trap | 22.00% | ~457 |
 | True Survivor | 21.00% | ~436 |
 | Offensive Defense | 20.00% | ~415 |
 | Shocking | 20.00% | ~415 |
@@ -27,7 +27,7 @@ Rating: 4.24 (Ranked 852)
 | Dead Again | 18.00% | ~374 |
 | Full Arsenal | 17.00% | ~353 |
 | Can't Trust Banks | 15.00% | ~311 |
-| Mommy Dearest | 14.00% | ~290 |
+| Mommy Dearest | 14.00% | ~291 |
 | Bad Dog | 13.00% | ~270 |
 | Where It All Began | 13.00% | ~270 |
 | Risk Tolerant | 13.00% | ~270 |
@@ -42,11 +42,11 @@ Rating: 4.24 (Ranked 852)
 | Following In Their Footsteps | 8.00% | ~166 |
 | Defense in Depth | 8.00% | ~166 |
 | Reverse Engineering | 7.00% | ~145 |
-| Reborn | 6.00% | ~124 |
-| Remote Surgery | 6.00% | ~124 |
-| Turbo Booster | 6.00% | ~124 |
-| Juiced Up | 6.00% | ~124 |
-| Squid Pro Quo | 6.00% | ~124 |
+| Reborn | 6.00% | ~125 |
+| Remote Surgery | 6.00% | ~125 |
+| Turbo Booster | 6.00% | ~125 |
+| Juiced Up | 6.00% | ~125 |
+| Squid Pro Quo | 6.00% | ~125 |
 | Counter-Sniper | 5.00% | ~104 |
 | Shrimp Cocktail | 5.00% | ~104 |
 | Hello Darkness My Old Friend | 4.00% | ~83 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 852)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,075 (Ranked 198)  
+Progressed: 2,076 (Ranked 198)  
 Completed: 12 (0.58%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 12 (0.58%) (Ranked 159)
 | 2023-09-29 | 2,068 | 12 |
 | 2023-10-01 | 2,073 | 12 |
 | 2023-10-02 | 2,075 | 12 |
+| 2023-10-03 | 2,076 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

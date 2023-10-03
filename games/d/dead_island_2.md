@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,699 |
-| Hotel California | 3.00% | ~20,699 |
-| Welcome To Hell-A | 3.00% | ~20,699 |
-| Dr. Reed, I Presume? | 2.00% | ~13,799 |
-| Git Gutte! | 2.00% | ~13,799 |
-| Anger Management | 2.00% | ~13,799 |
-| Perks of the Job | 2.00% | ~13,799 |
-| Bookworm | 2.00% | ~13,799 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,799 |
-| But Doctor, I am Butcho | 2.00% | ~13,799 |
-| Slayer Squad | 2.00% | ~13,799 |
-| Can't Handle the Truth | 2.00% | ~13,799 |
-| Coup de Grâce | 2.00% | ~13,799 |
-| Like Riding a Bike | 2.00% | ~13,799 |
-| Hazardous Materials | 2.00% | ~13,799 |
-| Friends Like These | 2.00% | ~13,799 |
-| Apex Predator | 2.00% | ~13,799 |
-| Zombologist | 2.00% | ~13,799 |
-| Ooh, Shiny! | 2.00% | ~13,799 |
-| A Patton Emerges | 2.00% | ~13,799 |
-| I Am the Resurrection | 2.00% | ~13,799 |
-| Stacking the Deck | 2.00% | ~13,799 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,799 |
-| Our True Nature | 2.00% | ~13,799 |
-| This is My Weapon | 2.00% | ~13,799 |
+| Break A Leg | 3.00% | ~20,700 |
+| Hotel California | 3.00% | ~20,700 |
+| Welcome To Hell-A | 3.00% | ~20,700 |
+| Dr. Reed, I Presume? | 2.00% | ~13,800 |
+| Git Gutte! | 2.00% | ~13,800 |
+| Anger Management | 2.00% | ~13,800 |
+| Perks of the Job | 2.00% | ~13,800 |
+| Bookworm | 2.00% | ~13,800 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,800 |
+| But Doctor, I am Butcho | 2.00% | ~13,800 |
+| Slayer Squad | 2.00% | ~13,800 |
+| Can't Handle the Truth | 2.00% | ~13,800 |
+| Coup de Grâce | 2.00% | ~13,800 |
+| Like Riding a Bike | 2.00% | ~13,800 |
+| Hazardous Materials | 2.00% | ~13,800 |
+| Friends Like These | 2.00% | ~13,800 |
+| Apex Predator | 2.00% | ~13,800 |
+| Zombologist | 2.00% | ~13,800 |
+| Ooh, Shiny! | 2.00% | ~13,800 |
+| A Patton Emerges | 2.00% | ~13,800 |
+| I Am the Resurrection | 2.00% | ~13,800 |
+| Stacking the Deck | 2.00% | ~13,800 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,800 |
+| Our True Nature | 2.00% | ~13,800 |
+| This is My Weapon | 2.00% | ~13,800 |
 | Making Your Mark | 1.00% | ~6,900 |
 | Humanity Distilled | 1.00% | ~6,900 |
 | Down with the Sickness | 1.00% | ~6,900 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689,970 (Ranked 22)  
+Progressed: 690,004 (Ranked 22)  
 Completed: 2,187 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 2,187 (0.32%) (Ranked 194)
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
-| 2023-10-03 | 689,970 | 2,187 |
+| 2023-10-03 | 690,004 | 2,187 |
 ## Awards
 Max (Great Boss Battles): 6,289  (Ranked 58)  
 Sum: 9,380 (Ranked 91)  

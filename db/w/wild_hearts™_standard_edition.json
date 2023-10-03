@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -630,9 +630,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_33",
@@ -694,9 +694,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_40",
@@ -820,8 +820,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:08:02.7454474+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:49:28.6405986+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:00:09.256366+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:08:02.7454953+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:56.8276875+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:28.6406416+00:00"
 }

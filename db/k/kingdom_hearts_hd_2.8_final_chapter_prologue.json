@@ -3,11 +3,11 @@
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
   "Ranking_Rating": 204,
-  "Ranking_Popularity": 313,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -847,6 +847,6 @@
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
   "LastChanged": "2023-10-02T18:01:14.9572404+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.8571081+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:01:41.8300302+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:07:45.947625+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:42:58.6814253+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:16.9909557+00:00"
 }

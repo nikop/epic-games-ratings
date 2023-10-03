@@ -207,9 +207,9 @@ Completed: 35 (0.18%) (Ranked 223)
 | 2023-10-01 | 19,217 | 35 |
 | 2023-10-02 | 19,206 | 35 |
 ## Awards
-Max (Great for Beginners): 89  (Ranked 361)  
+Max (Great for Beginners): 89  (Ranked 362)  
 Sum: 670 (Ranked 288)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 89 |

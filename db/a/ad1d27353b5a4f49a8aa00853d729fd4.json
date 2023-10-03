@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -454,9 +454,9 @@
       "ID": "space_car",
       "SetID": "94981fl",
       "Name": "space car!",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "super_combo_10x",
@@ -533,8 +533,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:04:39.7912656+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:47:01.5336475+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.9854731+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:58:57.9022441+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:04:39.7912931+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:12.0819187+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:47:01.5336716+00:00"
 }

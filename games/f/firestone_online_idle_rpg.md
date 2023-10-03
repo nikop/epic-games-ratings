@@ -76,7 +76,7 @@ Rating: 4.05 (Ranked 951)
 | Beast War Machines | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
 | Conqueror | 0.80% | ~16 |
-| Silverwood liberator | 0.50% | ~10 |
+| Silverwood liberator | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -433,9 +433,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:09:12.0600905+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:51:27.3652773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:01:00.0984992+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:09:12.0601814+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:42:29.2523962+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:51:27.3653678+00:00"
 }

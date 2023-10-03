@@ -352,9 +352,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2867,
+  "EOS_Progressed": 2868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1957,6 +1957,11 @@
       "Time": "2023-10-03T00:08:24.2597265+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T01:49:43.9011184+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -1967,9 +1972,9 @@
       "ID": "achievement_0001",
       "SetID": "9123ogc",
       "Name": "Spring Cleaning",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_0002",
@@ -2001,7 +2006,7 @@
       "Name": "Crucial Combo",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_0006",
@@ -2009,7 +2014,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "achievement_0007",
@@ -2017,7 +2022,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "achievement_0008",
@@ -2025,7 +2030,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "achievement_0009",
@@ -2137,7 +2142,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_0023",
@@ -2167,9 +2172,9 @@
       "ID": "achievement_0026",
       "SetID": "9123ogc",
       "Name": "Friendly Competition",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_0027",
@@ -2223,9 +2228,9 @@
       "ID": "achievement_0033",
       "SetID": "9123ogc",
       "Name": "Engineer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1549
     },
     {
       "ID": "achievement_0034",
@@ -2281,7 +2286,7 @@
       "Name": "One for the Book",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_0041",
@@ -2305,7 +2310,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_0044",
@@ -2313,7 +2318,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "achievement_0045",
@@ -2360,7 +2365,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2867,
+      "Progressed": 2868,
       "Completed": 0
     }
   ],
@@ -2368,8 +2373,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-01T18:59:32.9006432+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:08:24.259726+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:49:43.9011175+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:59:57.4541579+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:08:24.2597838+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:50.6485085+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:43.9011666+00:00"
 }

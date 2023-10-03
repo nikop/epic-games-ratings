@@ -3,11 +3,11 @@
   "Name": "Tetris\u00AE Effect: Connected",
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 307,
+  "Ranking_Popularity": 301,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
@@ -790,6 +790,6 @@
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
   "LastChanged": "2023-09-23T20:59:33.7146099+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.0388679+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:00:13.1470541+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:07:49.3902816+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:41:59.1971742+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:49:19.3430448+00:00"
 }

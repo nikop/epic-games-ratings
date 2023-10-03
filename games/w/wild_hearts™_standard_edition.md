@@ -22,7 +22,7 @@
 | Flawless Crystal | 49.00% | ~46 |
 | Bonds of Enmity | 46.00% | ~43 |
 | Counter Specialist | 44.00% | ~41 |
-| Axer of Auspice | 41.00% | ~38 |
+| Axer of Auspice | 42.00% | ~39 |
 | Karakuri Trail | 39.00% | ~36 |
 | Mighty Marmelizer | 37.00% | ~34 |
 | Fair Means or Foul | 37.00% | ~34 |
@@ -38,8 +38,8 @@
 | Human Believer | 26.00% | ~24 |
 | Threaded Harmony | 26.00% | ~24 |
 | Volatile Vocation | 25.00% | ~23 |
+| Style Seeker | 25.00% | ~23 |
 | Karakuri Minato | 25.00% | ~23 |
-| Style Seeker | 24.00% | ~22 |
 | Jack of All Trades | 24.00% | ~22 |
 | Canyon of Karakuri | 23.00% | ~21 |
 | Karakuri Fortress | 22.00% | ~20 |

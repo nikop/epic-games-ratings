@@ -7,10 +7,15 @@ Rating: 4.53 (Ranked 524)
 | ---- | ---------- | ----- |
 | Urshanabi Hoarder | 0.10% | ~13 |
 | The Pit and the Pirates | 0.10% | ~13 |
+| Data Archivist | 0.10% | ~13 |
 | Oyedang, Kopengs | 0.10% | ~13 |
 | Doctor Approved | 0.10% | ~13 |
+| Stogie for Fogey | 0.10% | ~13 |
 | Drug Gifter | 0.10% | ~13 |
+| Spore Taste | 0.10% | ~13 |
+| Martian Music | 0.10% | ~13 |
 | Data Logger | 0.10% | ~13 |
+| Thorston Mayer | 0.10% | ~13 |
 | Drone Dodger | 0.10% | ~13 |
 | Brother's Reaper | 0.10% | ~13 |
 | Heal Thy Medic | 0.10% | ~13 |
@@ -19,24 +24,19 @@ Rating: 4.53 (Ranked 524)
 | Call it Even | 0.10% | ~13 |
 | Bosmang | 0.10% | ~13 |
 | Captain Drummer | 0.10% | ~13 |
+| Celebrations are in Order | 0.10% | ~13 |
+| Data Recoverer | 0.10% | ~13 |
 | Impossible Objects | 0.10% | ~13 |
 | Data Miner | 0.00% | ~0 |
-| Data Archivist | 0.00% | ~0 |
-| Stogie for Fogey | 0.00% | ~0 |
-| Spore Taste | 0.00% | ~0 |
 | Bottoms up! | 0.00% | ~0 |
-| Martian Music | 0.00% | ~0 |
-| Thorston Mayer | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | No Belter Left Behind | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
 | Data Master | 0.00% | ~0 |
-| Celebrations are in Order | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
-| Data Recoverer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,457 (Ranked 134)  
+Progressed: 13,461 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,457 | 0 |
+| 2023-10-03 | 13,461 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

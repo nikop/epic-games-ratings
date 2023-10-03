@@ -8430,9 +8430,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297739,
+  "EOS_Progressed": 297743,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26295,6 +26295,11 @@
       "Time": "2023-10-03T00:05:51.3221483+00:00",
       "NumProgressed": 297739,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-03T01:47:51.8658244+00:00",
+      "NumProgressed": 297743,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26346,7 +26351,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17864
+      "UsersEstimate": 17865
     },
     {
       "ID": "PFA_15",
@@ -26362,7 +26367,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32751
+      "UsersEstimate": 32752
     },
     {
       "ID": "PFA_17",
@@ -26434,7 +26439,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32751
+      "UsersEstimate": 32752
     },
     {
       "ID": "PFA_25",
@@ -26442,7 +26447,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17864
+      "UsersEstimate": 17865
     },
     {
       "ID": "PFA_26",
@@ -26474,7 +26479,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17864
+      "UsersEstimate": 17865
     },
     {
       "ID": "PFA_3",
@@ -26490,7 +26495,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32751
+      "UsersEstimate": 32752
     },
     {
       "ID": "PFA_31",
@@ -26594,7 +26599,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17864
+      "UsersEstimate": 17865
     },
     {
       "ID": "PFA_43",
@@ -26634,7 +26639,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38706
+      "UsersEstimate": 38707
     },
     {
       "ID": "PFA_7",
@@ -26642,7 +26647,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38706
+      "UsersEstimate": 38707
     },
     {
       "ID": "PFA_8",
@@ -26665,7 +26670,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297739,
+      "Progressed": 297743,
       "Completed": 479
     }
   ],
@@ -26673,8 +26678,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-02T23:00:03.5143938+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:05:51.3221478+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:47:51.8658236+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:00:21.6297748+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:05:51.3222986+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:42:04.499908+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:47:51.8659907+00:00"
 }

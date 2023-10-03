@@ -292,9 +292,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "EpicACHV_12",
@@ -324,17 +324,17 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EpicACHV_17",
@@ -396,9 +396,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "EpicACHV_9",
@@ -419,8 +419,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:06:09.9221277+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:48:06.8689537+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:00:57.4070644+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:06:09.9221405+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:42:27.6898243+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:48:06.8690205+00:00"
 }

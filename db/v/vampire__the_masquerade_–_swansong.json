@@ -3,11 +3,11 @@
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "ProductSlug": "vampire-the-masquerade-swansong",
   "Ranking_Rating": 871,
-  "Ranking_Popularity": 373,
+  "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-19T08:00:00+00:00",
@@ -537,8 +537,8 @@
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:14.6927205+00:00",
   "LastChanged": "2023-09-07T20:04:47.1430315+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:05:58.8962848+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:47:57.0515999+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:43.8429161+00:00",
-  "LastUpdate_Ratings": "2023-10-03T00:02:19.0056706+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:05:58.8962892+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:43:21.3242144+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:47:57.0516247+00:00"
 }

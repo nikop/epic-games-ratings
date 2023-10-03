@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2262,9 +2262,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26169,
+  "EOS_Progressed": 26175,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14062,6 +14062,11 @@
       "Time": "2023-10-03T00:06:30.8476073+00:00",
       "NumProgressed": 26169,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-03T01:48:24.9730077+00:00",
+      "NumProgressed": 26175,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14079,9 +14084,9 @@
       "ID": "Animated",
       "SetID": "819popo",
       "Name": "Animated",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Back_Off",
@@ -14191,9 +14196,9 @@
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 79
     },
     {
       "ID": "Fragile_Panes",
@@ -14480,7 +14485,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26169,
+      "Progressed": 26175,
       "Completed": 58
     }
   ],
@@ -14488,8 +14493,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-02T18:57:01.290966+00:00",
-  "LastChanged_Achievements": "2023-10-03T00:06:30.8476069+00:00",
+  "LastChanged_Achievements": "2023-10-03T01:48:24.973007+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:57:34.2943601+00:00",
-  "LastUpdate_Achievements": "2023-10-03T00:06:30.8477291+00:00"
+  "LastUpdate_Ratings": "2023-10-03T01:40:17.2465505+00:00",
+  "LastUpdate_Achievements": "2023-10-03T01:48:24.9735785+00:00"
 }

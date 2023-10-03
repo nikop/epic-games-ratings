@@ -13,7 +13,7 @@
 | Trap Master | 20.00% | ~88 |
 | Ghost Buster | 16.00% | ~70 |
 | Iconoclasm | 16.00% | ~70 |
-| Reincarnation | 15.00% | ~66 |
+| Reincarnation | 16.00% | ~70 |
 | Librarian | 14.00% | ~61 |
 | Lumberjack | 13.00% | ~57 |
 | Orcs Must Die! | 13.00% | ~57 |
