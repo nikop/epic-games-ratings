@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.91% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.87% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -40,8 +40,8 @@
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 40 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 40 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.69% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
+| 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
+| 42 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.55% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.32% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.26% |
@@ -62,7 +62,7 @@
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.22% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
@@ -97,8 +97,8 @@
 | 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.45% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
-| 98 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
+| 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 101 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.32% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
@@ -196,15 +196,15 @@
 | 194 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 195 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 195 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.31% |
 | 195 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 198 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 198 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.30% |
-| 198 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 198 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
-| 202 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.29% |
-| 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 202 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
+| 199 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 199 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.30% |
+| 199 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 199 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 203 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
+| 203 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 203 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
 | 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
