@@ -32,7 +32,7 @@
 | Fight Fire With Fire | 50.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 572)  
-Completed: 1 (50.00%) (Ranked 3)  
+Completed: 1 (50.00%) (Ranked 2)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

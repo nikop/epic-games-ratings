@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -140,9 +140,9 @@
       "ID": "HighlySprung",
       "SetID": "c36hpcf",
       "Name": "Highly Sprung",
-      "Percentage": 9,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ImLosingYou",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:07:25.1251496+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:07:36.4371271+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:58:31.3134358+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:07:25.1251674+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:58:38.0282309+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:07:36.4371442+00:00"
 }

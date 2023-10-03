@@ -77,10 +77,10 @@
 | Suicide Mission | 24.00% | ~129 |
 | Against All Odds | 24.00% | ~129 |
 | Eye of the Hurricane | 23.00% | ~123 |
+| A House Divided | 23.00% | ~123 |
 | Weapon Specialist | 23.00% | ~123 |
 | World Shaker | 23.00% | ~123 |
 | Liberator | 23.00% | ~123 |
-| A House Divided | 22.00% | ~118 |
 | Pathfinder | 22.00% | ~118 |
 | Arbiter | 21.00% | ~113 |
 | Savior | 20.00% | ~107 |

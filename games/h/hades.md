@@ -6,13 +6,13 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,093 |
-| Escaped Asphodel | 80.00% | ~563,679 |
-| Arms Collector | 71.00% | ~500,265 |
-| Friends in High Places | 68.00% | ~479,127 |
-| Escaped Elysium | 66.00% | ~465,035 |
-| Chthonic Colleagues | 63.00% | ~443,897 |
-| Is There No Escape? | 52.00% | ~366,391 |
+| Escaped Tartarus | 89.00% | ~627,094 |
+| Escaped Asphodel | 80.00% | ~563,680 |
+| Arms Collector | 71.00% | ~500,266 |
+| Friends in High Places | 68.00% | ~479,128 |
+| Escaped Elysium | 66.00% | ~465,036 |
+| Chthonic Colleagues | 63.00% | ~443,898 |
+| Is There No Escape? | 52.00% | ~366,392 |
 | Death Dealer | 45.00% | ~317,070 |
 | Skelly Slayer | 42.00% | ~295,932 |
 | Well Stocked | 40.00% | ~281,840 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,184 |
 | Friends Forever | 4.00% | ~28,184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,599 (Ranked 21)  
+Progressed: 704,600 (Ranked 21)  
 Completed: 6,392 (0.91%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,10 +222,10 @@ Completed: 6,392 (0.91%) (Ranked 143)
 | 2023-09-30 | 704,463 | 6,390 |
 | 2023-10-01 | 704,539 | 6,392 |
 | 2023-10-02 | 704,585 | 6,392 |
-| 2023-10-03 | 704,599 | 6,392 |
+| 2023-10-03 | 704,600 | 6,392 |
 ## Awards
 Max (Character Customization): 3,290  (Ranked 94)  
-Sum: 7,975 (Ranked 102)  
+Sum: 7,977 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -239,9 +239,9 @@ Diff (max vs sum): -8
 | This game is Relaxing | 239 |
 | This game has Diverse Characters | 239 |
 | This game has Quickly Understood Controls | 239 |
-| This game has Unique Visuals | 230 |
+| This game has Unique Visuals | 231 |
 | This game has Challenging Combat | 170 |
-| This game has a Creative Community | 166 |
+| This game has a Creative Community | 167 |
 | This game has Obsessive Gameplay | 144 |
 | This game is Educational | 51 |
 ## Ratings History
@@ -482,3 +482,4 @@ Diff (max vs sum): -8
 | 2023-09-30 | 4.92 | - | 3,287 | 7,964 |
 | 2023-10-01 | 4.92 | - | 3,287 | 7,969 |
 | 2023-10-02 | 4.92 | - | 3,290 | 7,975 |
+| 2023-10-03 | 4.92 | - | 3,290 | 7,977 |

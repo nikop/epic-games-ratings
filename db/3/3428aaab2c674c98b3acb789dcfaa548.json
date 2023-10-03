@@ -5636,9 +5636,9 @@
       "Count": 881
     }
   ],
-  "EOS_Progressed": 807695,
+  "EOS_Progressed": 807707,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 5755,
+  "EOS_NewPlayers": 5752,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20901,6 +20901,11 @@
       "Time": "2023-10-03T06:09:11.3302023+00:00",
       "NumProgressed": 807695,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-10-03T07:09:06.4913984+00:00",
+      "NumProgressed": 807707,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 75,
@@ -20912,7 +20917,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185770
+      "UsersEstimate": 185773
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -21144,7 +21149,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -21408,7 +21413,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -21416,7 +21421,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -21511,13 +21516,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 807695,
+      "Progressed": 807707,
       "Completed": 208
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 807695,
+      "Progressed": 807707,
       "Completed": 174
     }
   ],
@@ -21525,8 +21530,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-03T05:59:27.0860128+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:09:11.3302017+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:09:06.491398+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:58.0679026+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:59:27.0860137+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:09:11.330411+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:59:36.9837422+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:09:06.4915341+00:00"
 }

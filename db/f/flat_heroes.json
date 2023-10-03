@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -896,6 +896,11 @@
       "Time": "2023-10-03T05:06:29.4398134+00:00",
       "NumProgressed": 570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T07:07:40.5532893+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -931,7 +936,7 @@
       "Name": "Be water, my friend",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -947,7 +952,7 @@
       "Name": "Floor is Lava",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "HeroWorld10Boss",
@@ -1187,7 +1192,7 @@
       "Name": "Dash Crash",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "World2Boss",
@@ -1219,7 +1224,7 @@
       "Name": "Eat That Apple",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "World6Boss",
@@ -1227,7 +1232,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "World7Boss",
@@ -1251,14 +1256,14 @@
       "Name": "Pim Pam Pum",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 0
     }
   ],
@@ -1266,8 +1271,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:07:28.9053385+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:07:40.5532888+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:59:43.1883197+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:07:28.9053857+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:59:55.2235818+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:07:40.5533209+00:00"
 }

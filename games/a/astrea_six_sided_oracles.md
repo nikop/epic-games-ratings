@@ -28,9 +28,9 @@
 | Wave Bender | 11.00% | ~4 |
 | Denying Destiny | 8.00% | ~3 |
 | Heart Gate | 8.00% | ~3 |
+| Heavy Purger | 8.00% | ~3 |
 | Astral Seeker | 6.00% | ~2 |
 | Can't touch this | 6.00% | ~2 |
-| Heavy Purger | 6.00% | ~2 |
 | Plague Doctor | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |
@@ -47,6 +47,7 @@
 | Purification Avatar | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
 | The Abyssal Terror | 3.00% | ~1 |
+| The Ardent Prince | 3.00% | ~1 |
 | The Dark Moon | 3.00% | ~1 |
 | The Distorted Sage | 3.00% | ~1 |
 | The Raging Skies | 3.00% | ~1 |
@@ -80,7 +81,6 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
-| The Ardent Prince | 0.00% | ~0 |
 | The Chaos Artisan | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |

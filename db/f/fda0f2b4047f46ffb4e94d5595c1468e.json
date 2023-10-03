@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -690,9 +690,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6694,
+  "EOS_Progressed": 6696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2465,6 +2465,11 @@
       "Time": "2023-10-03T06:08:06.141936+00:00",
       "NumProgressed": 6694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T07:08:20.8156331+00:00",
+      "NumProgressed": 6696,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -2477,7 +2482,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ach02",
@@ -2517,7 +2522,7 @@
       "Name": "Titan",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "ach07",
@@ -2525,7 +2530,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3280
+      "UsersEstimate": 3281
     },
     {
       "ID": "ach08",
@@ -2533,7 +2538,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ach09",
@@ -2541,7 +2546,7 @@
       "Name": "Kontender",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ach10",
@@ -2573,7 +2578,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ach14",
@@ -2605,7 +2610,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "ach18",
@@ -2613,7 +2618,7 @@
       "Name": "Adventure Time",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "ach19",
@@ -2661,7 +2666,7 @@
       "Name": "Ultimate Power",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "ach25",
@@ -2685,7 +2690,7 @@
       "Name": "So Krafty",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ach28",
@@ -2693,7 +2698,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ach29",
@@ -2709,7 +2714,7 @@
       "Name": "Juggernaut",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ach31",
@@ -2717,7 +2722,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ach32",
@@ -2741,7 +2746,7 @@
       "Name": "Always Accessorize",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ach35",
@@ -2765,7 +2770,7 @@
       "Name": "ABACABB",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "ach38",
@@ -2781,7 +2786,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "ach40",
@@ -2789,7 +2794,7 @@
       "Name": "Found You",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ach41",
@@ -2797,7 +2802,7 @@
       "Name": "Stop Hiding",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ach42",
@@ -2843,9 +2848,9 @@
       "ID": "ach47",
       "SetID": "47in8n6",
       "Name": "Big Spender",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1071
     },
     {
       "ID": "ach48",
@@ -2869,14 +2874,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 6694,
+      "Progressed": 6696,
       "Completed": 0
     }
   ],
@@ -2884,8 +2889,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-03T04:59:03.5226711+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:08:06.1419355+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:08:20.8156326+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:59:23.9842511+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:08:06.1420012+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:59:33.5382823+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:08:20.815674+00:00"
 }

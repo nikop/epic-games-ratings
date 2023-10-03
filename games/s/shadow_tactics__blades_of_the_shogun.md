@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,626 |
+| Genin | 11.00% | ~22,627 |
 | A thief's beginning | 10.00% | ~20,570 |
 | Thorough | 10.00% | ~20,570 |
 | Disguised | 8.00% | ~16,456 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,851 |
 | High Five the Moon | 0.80% | ~1,646 |
 | The Cave | 0.80% | ~1,646 |
-| Merciful | 0.50% | ~1,028 |
-| Time Paradox | 0.50% | ~1,028 |
+| Merciful | 0.50% | ~1,029 |
+| Time Paradox | 0.50% | ~1,029 |
 | Five Shadows | 0.30% | ~617 |
 | Chicken Dinner | 0.10% | ~206 |
 | Complete Mastery | 0.10% | ~206 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,695 (Ranked 62)  
+Progressed: 205,702 (Ranked 62)  
 Completed: 88 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 88 (0.04%) (Ranked 269)
 | 2023-09-30 | 205,281 | 88 |
 | 2023-10-01 | 205,486 | 88 |
 | 2023-10-02 | 205,655 | 88 |
-| 2023-10-03 | 205,695 | 88 |
+| 2023-10-03 | 205,702 | 88 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
 Sum: 4,779 (Ranked 138)  

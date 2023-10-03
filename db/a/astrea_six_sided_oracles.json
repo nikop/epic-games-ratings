@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -489,9 +489,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "IfIHadFailed",
@@ -729,9 +729,9 @@
       "ID": "TheArdentPrince",
       "SetID": "1jeo1g7",
       "Name": "The Ardent Prince",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheChaosArtisan",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:08:08.0389275+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:08:22.8286116+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:00:16.3795416+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:08:08.0390318+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:00:33.9517606+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:08:22.8286824+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1952,9 +1952,9 @@
       "ID": "Arrested",
       "SetID": "5lok9mm",
       "Name": "Arrested",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1940
     },
     {
       "ID": "Beam",
@@ -2072,9 +2072,9 @@
       "ID": "GoldenBeam",
       "SetID": "5lok9mm",
       "Name": "Got your own one now",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1940
     },
     {
       "ID": "GoodMorning",
@@ -2240,9 +2240,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2098
+      "UsersEstimate": 2121
     },
     {
       "ID": "RocketLaunched",
@@ -2344,8 +2344,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-09-27T18:59:08.2428831+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:07:20.50393+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:07:31.4244375+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.2884695+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:57:59.975705+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:07:20.5039971+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:58:02.2201005+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:07:31.4244826+00:00"
 }

@@ -20,7 +20,7 @@ Rating: 4.00 (Ranked 960)
 | Socialite | 31.00% | ~18 |
 | The Means to Save It | 27.00% | ~16 |
 | Resilience to Sin | 22.00% | ~13 |
-| Armsman | 20.00% | ~12 |
+| Armsman | 22.00% | ~13 |
 | A Familiar Nest | 19.00% | ~11 |
 | Geas Aristeya | 19.00% | ~11 |
 | Periapt Alizarin | 19.00% | ~11 |

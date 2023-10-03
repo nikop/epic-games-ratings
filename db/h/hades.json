@@ -4547,10 +4547,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7975,
       "NumberOfAwardsMax": 3290
+    },
+    {
+      "Time": "2023-10-03T06:58:21.8843082+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7977,
+      "NumberOfAwardsMax": 3290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7975,
+  "NumberOfAwards": 7977,
   "NumberOfAwardsMax": 3290,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4588,7 +4594,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4624,7 +4630,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 166
+      "Count": 167
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4645,7 +4651,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704599,
+  "EOS_Progressed": 704600,
   "EOS_Completed": 6392,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 16,
@@ -22330,6 +22336,11 @@
       "Time": "2023-10-03T05:08:04.6152206+00:00",
       "NumProgressed": 704599,
       "NumCompleted": 6392
+    },
+    {
+      "Time": "2023-10-03T07:08:12.5153565+00:00",
+      "NumProgressed": 704600,
+      "NumCompleted": 6392
     }
   ],
   "TotalAchievements": 49,
@@ -22397,7 +22408,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 366391
+      "UsersEstimate": 366392
     },
     {
       "ID": "AchClearAsphodel",
@@ -22405,7 +22416,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563679
+      "UsersEstimate": 563680
     },
     {
       "ID": "AchClearElysium",
@@ -22413,7 +22424,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465035
+      "UsersEstimate": 465036
     },
     {
       "ID": "AchClearElysiumEM",
@@ -22445,7 +22456,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627093
+      "UsersEstimate": 627094
     },
     {
       "ID": "AchCrushedThanatos",
@@ -22509,7 +22520,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 479127
+      "UsersEstimate": 479128
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -22565,7 +22576,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443897
+      "UsersEstimate": 443898
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -22701,7 +22712,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500265
+      "UsersEstimate": 500266
     },
     {
       "ID": "AchWeaponClears",
@@ -22732,15 +22743,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704599,
+      "Progressed": 704600,
       "Completed": 6392
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-10-02T21:58:00.1753381+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:07:58.5251737+00:00",
+  "LastChanged": "2023-10-03T06:58:21.8843081+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:08:12.5153557+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:47.4113746+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:58:17.4206486+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:07:58.5253695+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:58:21.8843089+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:08:12.5154592+00:00"
 }

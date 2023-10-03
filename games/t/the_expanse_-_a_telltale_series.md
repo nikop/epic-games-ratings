@@ -5,9 +5,10 @@ Rating: 4.53 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.30% | ~40 |
+| Oyedang, Kopengs | 0.40% | ~54 |
 | Bosmang | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~13 |
+| Data Miner | 0.10% | ~13 |
 | The Pit and the Pirates | 0.10% | ~13 |
 | Data Archivist | 0.10% | ~13 |
 | Doctor Approved | 0.10% | ~13 |
@@ -31,12 +32,11 @@ Rating: 4.53 (Ranked 524)
 | Celebrations are in Order | 0.10% | ~13 |
 | Data Recoverer | 0.10% | ~13 |
 | Impossible Objects | 0.10% | ~13 |
-| Data Miner | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,471 (Ranked 134)  
+Progressed: 13,472 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,471 | 0 |
+| 2023-10-03 | 13,472 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,701 |
-| Hotel California | 3.00% | ~20,701 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,701 |
-| Welcome To Hell-A | 3.00% | ~20,701 |
+| Break A Leg | 3.00% | ~20,702 |
+| Hotel California | 3.00% | ~20,702 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,702 |
+| Welcome To Hell-A | 3.00% | ~20,702 |
 | Dr. Reed, I Presume? | 2.00% | ~13,801 |
 | Git Gutte! | 2.00% | ~13,801 |
 | Anger Management | 2.00% | ~13,801 |
@@ -30,12 +30,12 @@ Rating: 4.54 (Ranked 511)
 | Stacking the Deck | 2.00% | ~13,801 |
 | Our True Nature | 2.00% | ~13,801 |
 | This is My Weapon | 2.00% | ~13,801 |
-| Making Your Mark | 1.00% | ~6,900 |
-| Humanity Distilled | 1.00% | ~6,900 |
-| Down with the Sickness | 1.00% | ~6,900 |
-| Max Headroom | 1.00% | ~6,900 |
-| Go, Bobcats! | 0.90% | ~6,210 |
-| Rising Star | 0.90% | ~6,210 |
+| Making Your Mark | 1.00% | ~6,901 |
+| Humanity Distilled | 1.00% | ~6,901 |
+| Down with the Sickness | 1.00% | ~6,901 |
+| Max Headroom | 1.00% | ~6,901 |
+| Go, Bobcats! | 0.90% | ~6,211 |
+| Rising Star | 0.90% | ~6,211 |
 | Jumbo Keyring | 0.80% | ~5,520 |
 | Smorgasbord | 0.70% | ~4,830 |
 | On Safari | 0.60% | ~4,140 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 511)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,045 (Ranked 22)  
+Progressed: 690,060 (Ranked 22)  
 Completed: 2,187 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,15 +217,15 @@ Completed: 2,187 (0.32%) (Ranked 194)
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
-| 2023-10-03 | 690,045 | 2,187 |
+| 2023-10-03 | 690,060 | 2,187 |
 ## Awards
 Max (Great Boss Battles): 6,301  (Ranked 58)  
-Sum: 9,392 (Ranked 91)  
+Sum: 9,393 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,301 |
-| This game is Great for Beginners | 441 |
+| This game is Great for Beginners | 442 |
 | This game has Diverse Characters | 435 |
 | This game has Quickly Understood Controls | 413 |
 | This game is Relaxing | 392 |
@@ -401,4 +401,4 @@ Diff (max vs sum): -33
 | 2023-09-30 | 4.54 | 6,253 | 9,326 |
 | 2023-10-01 | 4.54 | 6,270 | 9,358 |
 | 2023-10-02 | 4.54 | 6,289 | 9,380 |
-| 2023-10-03 | 4.54 | 6,301 | 9,392 |
+| 2023-10-03 | 4.54 | 6,301 | 9,393 |

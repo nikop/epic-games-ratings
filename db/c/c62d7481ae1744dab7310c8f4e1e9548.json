@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.82,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -441,6 +441,11 @@
       "Time": "2023-10-02T19:05:22.3099958+00:00",
       "NumProgressed": 83,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T07:06:40.9547506+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -507,9 +512,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Kour",
@@ -531,7 +536,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
       "UsersEstimate": 49
     },
@@ -541,7 +546,7 @@
       "Name": "Blossoms",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MluviciPapouch",
@@ -651,7 +656,7 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -675,7 +680,7 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -683,7 +688,7 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 22
     }
@@ -692,14 +697,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:06:33.4689892+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:06:40.9547504+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-03T05:58:54.8634882+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:06:33.469019+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:59:02.3488754+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:06:40.9547689+00:00"
 }

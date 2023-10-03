@@ -3,9 +3,9 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.15 (Ranked 913)  
 ## Awards
-Max (Diverse Characters): 22  (Ranked 508)  
+Max (Diverse Characters): 22  (Ranked 509)  
 Sum: 65 (Ranked 453)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 22 |

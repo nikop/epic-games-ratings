@@ -4954,10 +4954,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9392,
       "NumberOfAwardsMax": 6301
+    },
+    {
+      "Time": "2023-10-03T07:01:19.9433706+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9393,
+      "NumberOfAwardsMax": 6301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9392,
+  "NumberOfAwards": 9393,
   "NumberOfAwardsMax": 6301,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4983,7 +4989,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 441
+      "Count": 442
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5016,9 +5022,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 690045,
+  "EOS_Progressed": 690060,
   "EOS_Completed": 2187,
-  "EOS_NewPlayers": 3606,
+  "EOS_NewPlayers": 3610,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23731,6 +23737,11 @@
       "Time": "2023-10-03T06:05:39.3176142+00:00",
       "NumProgressed": 690045,
       "NumCompleted": 2187
+    },
+    {
+      "Time": "2023-10-03T07:05:42.772545+00:00",
+      "NumProgressed": 690060,
+      "NumCompleted": 2187
     }
   ],
   "TotalAchievements": 45,
@@ -23750,7 +23761,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6900
+      "UsersEstimate": 6901
     },
     {
       "ID": "ach_ammo_ran",
@@ -23806,7 +23817,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20701
+      "UsersEstimate": 20702
     },
     {
       "ID": "ach_contender",
@@ -23902,7 +23913,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20701
+      "UsersEstimate": 20702
     },
     {
       "ID": "ach_impressive_aim",
@@ -23982,7 +23993,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6900
+      "UsersEstimate": 6901
     },
     {
       "ID": "ach_revival_tour",
@@ -23998,7 +24009,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6900
+      "UsersEstimate": 6901
     },
     {
       "ID": "ach_secrets_of_la",
@@ -24022,7 +24033,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20701
+      "UsersEstimate": 20702
     },
     {
       "ID": "ach_survival_expert",
@@ -24038,7 +24049,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6900
+      "UsersEstimate": 6901
     },
     {
       "ID": "ach_the_vcla",
@@ -24046,7 +24057,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6210
+      "UsersEstimate": 6211
     },
     {
       "ID": "ach_thesacrifice",
@@ -24078,7 +24089,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20701
+      "UsersEstimate": 20702
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24086,7 +24097,7 @@
       "Name": "Rising Star",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 6210
+      "UsersEstimate": 6211
     },
     {
       "ID": "ach_well_trained",
@@ -24101,22 +24112,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 690045,
+      "Progressed": 690060,
       "Completed": 2187
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 15587,
-      "Completed": 15587
+      "Progressed": 15602,
+      "Completed": 15602
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-03T03:01:39.6707108+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:05:39.3176137+00:00",
+  "LastChanged": "2023-10-03T07:01:19.9433702+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:05:42.7725446+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:01:01.2228568+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:05:39.3178025+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:01:19.9433711+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:05:42.7726635+00:00"
 }

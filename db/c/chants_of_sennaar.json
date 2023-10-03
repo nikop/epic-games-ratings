@@ -1308,9 +1308,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "PROGRESS_N2",
@@ -1355,8 +1355,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-03T06:04:06.4815581+00:00",
+  "LastChanged_Achievements": "2023-10-03T07:04:02.8696562+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-03T06:01:15.6043521+00:00",
-  "LastUpdate_Achievements": "2023-10-03T06:04:06.4815926+00:00"
+  "LastUpdate_Ratings": "2023-10-03T07:01:34.3227011+00:00",
+  "LastUpdate_Achievements": "2023-10-03T07:04:02.8696777+00:00"
 }

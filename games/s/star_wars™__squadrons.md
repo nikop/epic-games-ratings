@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~5,804 |
-| Safety in the Storm | 25.00% | ~1,528 |
-| A Better Idea | 25.00% | ~1,528 |
-| Begin the Ceremony | 21.00% | ~1,283 |
-| Mission Accomplished | 20.00% | ~1,222 |
-| The Galaxy's Finest (Story Mode) | 16.00% | ~978 |
-| Asset Secured | 14.00% | ~855 |
-| A Starfighter of Your Own | 14.00% | ~855 |
-| Unkillable | 8.00% | ~489 |
+| Fracture at Fostar Haven | 95.00% | ~5,814 |
+| Safety in the Storm | 25.00% | ~1,530 |
+| A Better Idea | 25.00% | ~1,530 |
+| Begin the Ceremony | 21.00% | ~1,285 |
+| Mission Accomplished | 20.00% | ~1,224 |
+| The Galaxy's Finest (Story Mode) | 16.00% | ~979 |
+| Asset Secured | 14.00% | ~857 |
+| A Starfighter of Your Own | 14.00% | ~857 |
+| Unkillable | 8.00% | ~490 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~428 |
 | Sound Strategy | 7.00% | ~428 |
 | Together, Vanguard | 7.00% | ~428 |
@@ -22,13 +22,13 @@
 | Back From the Brink | 5.00% | ~306 |
 | Flames Over Mon Cala | 5.00% | ~306 |
 | A Promising Career | 5.00% | ~306 |
-| Temporary Guardian | 4.00% | ~244 |
-| Baited | 4.00% | ~244 |
-| Stronger Together | 3.00% | ~183 |
-| Stun 'Em | 3.00% | ~183 |
-| Squadron Hunter | 3.00% | ~183 |
-| Punch It | 3.00% | ~183 |
-| Combat Pilot | 3.00% | ~183 |
+| Temporary Guardian | 4.00% | ~245 |
+| Baited | 4.00% | ~245 |
+| Stronger Together | 3.00% | ~184 |
+| Stun 'Em | 3.00% | ~184 |
+| Squadron Hunter | 3.00% | ~184 |
+| Punch It | 3.00% | ~184 |
+| Combat Pilot | 3.00% | ~184 |
 | Dressed for the Job You Want | 2.00% | ~122 |
 | Found Your Place | 1.00% | ~61 |
 | I Have You Now | 1.00% | ~61 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~6 |
 | The Galaxy's Finest (Ace) | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,110 (Ranked 161)  
+Progressed: 6,120 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 5,135 | 0 |
 | 2023-10-01 | 5,679 | 0 |
 | 2023-10-02 | 6,051 | 0 |
-| 2023-10-03 | 6,110 | 0 |
+| 2023-10-03 | 6,120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
