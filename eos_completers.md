@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.74% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.68% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -62,7 +62,7 @@
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
@@ -79,7 +79,7 @@
 | 77 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 78 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.23% |
 | 79 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
-| 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.19% |
+| 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.18% |
 | 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
@@ -176,7 +176,7 @@
 | 170 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 175 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
-| 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.43% |
+| 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
 | 178 | [Dead Space](games/d/dead_space.md) | 0.41% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
