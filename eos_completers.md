@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.80% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.74% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -62,7 +62,7 @@
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
@@ -94,7 +94,7 @@
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.45% |
+| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.44% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
@@ -131,8 +131,8 @@
 | 129 | [Chorus](games/c/chorus.md) | 1.30% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 131 | [Infindustry](games/i/infindustry.md) | 1.09% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
+| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 134 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 135 | [Adios](games/a/adios.md) | 1.04% |
 | 136 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -151,9 +151,9 @@
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
-| 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 153 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.64% |
-| 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
+| 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 156 | [Haven](games/h/haven.md) | 0.61% |
 | 156 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
@@ -219,11 +219,11 @@
 | 217 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.20% |
 | 217 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 219 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 219 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.19% |
 | 219 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
 | 219 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 223 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 223 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.18% |
+| 222 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 222 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 225 | [Gotham Knights](games/g/gotham_knights.md) | 0.17% |
 | 226 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 226 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
