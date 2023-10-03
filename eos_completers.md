@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.12% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.01% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -22,9 +22,9 @@
 | 20 | [Island Cities](games/i/island_cities.md) | 16.32% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 23 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
-| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
-| 25 | [Remains](games/r/remains.md) | 12.24% |
+| 23 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
+| 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.24% |
+| 24 | [Remains](games/r/remains.md) | 12.24% |
 | 26 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 28 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
@@ -59,10 +59,10 @@
 | 57 | [JARS](games/j/jars.md) | 5.06% |
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 60 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.80% |
-| 61 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.74% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 63 | [ZZT!](games/z/zzt!.md) | 4.41% |
+| 63 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
@@ -132,7 +132,7 @@
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 131 | [Infindustry](games/i/infindustry.md) | 1.09% |
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
-| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 134 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 135 | [Adios](games/a/adios.md) | 1.04% |
 | 136 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -287,24 +287,24 @@
 | 280 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 280 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 280 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 288 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.01% |
-| 288 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.01% |
-| 288 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 288 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 288 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 288 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
-| 288 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 288 | [Gloomhaven](games/g/gloomhaven.md) | 0.01% |
-| 288 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 288 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
-| 288 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 288 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 288 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 288 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 288 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 288 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.01% |
-| 288 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 288 | [Verdun](games/v/verdun.md) | 0.01% |
+| 280 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.02% |
+| 289 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.01% |
+| 289 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.01% |
+| 289 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 289 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 289 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 289 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
+| 289 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 289 | [Gloomhaven](games/g/gloomhaven.md) | 0.01% |
+| 289 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 289 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
+| 289 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 289 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 289 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 289 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 289 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 289 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 289 | [Verdun](games/v/verdun.md) | 0.01% |
 | 306 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 306 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 306 | [12 orbits](games/1/12_orbits.md) | 0.00% |
@@ -647,4 +647,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,336 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,337 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
