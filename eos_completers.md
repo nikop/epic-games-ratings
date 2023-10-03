@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.32% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 64.27% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -62,11 +62,11 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.41% |
-| 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
-| 63 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
-| 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
-| 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.01% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.35% |
+| 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.10% |
+| 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
+| 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.01% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
@@ -104,9 +104,9 @@
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.27% |
 | 103 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 103 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.15% |
-| 105 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.00% |
 | 105 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
-| 107 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.98% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.83% |
@@ -130,9 +130,9 @@
 | 126 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
 | 129 | [Chorus](games/c/chorus.md) | 1.30% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
-| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.10% |
-| 132 | [Infindustry](games/i/infindustry.md) | 1.09% |
-| 132 | [Trifox](games/t/trifox.md) | 1.09% |
+| 131 | [Infindustry](games/i/infindustry.md) | 1.09% |
+| 131 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
+| 131 | [Trifox](games/t/trifox.md) | 1.09% |
 | 134 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 135 | [Adios](games/a/adios.md) | 1.04% |
 | 136 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -146,7 +146,7 @@
 | 144 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 147 | [Eternights](games/e/eternights.md) | 0.80% |
+| 147 | [Eternights](games/e/eternights.md) | 0.79% |
 | 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.78% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -196,11 +196,11 @@
 | 194 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 195 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 195 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.31% |
 | 195 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 199 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 199 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 199 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 198 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 198 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.30% |
+| 198 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 198 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 202 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.29% |
 | 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
@@ -212,10 +212,10 @@
 | 207 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.25% |
 | 211 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 212 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.23% |
 | 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 215 | [Blanc](games/b/blanc.md) | 0.22% |
-| 215 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 214 | [Blanc](games/b/blanc.md) | 0.22% |
+| 214 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.22% |
+| 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 217 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 218 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 219 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |

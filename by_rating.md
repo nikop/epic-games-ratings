@@ -22,7 +22,7 @@
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,025 | 145 |
 | 18 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 525 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 182,775 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,757 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,775 | 33 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 508 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 287 | 244 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,456 | 130 |
@@ -151,7 +151,7 @@
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 525 |
 | 149 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 820 | 159 |
 | 149 | [Haven](games/h/haven.md) | 4.74 | 0 | 525 |
-| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 13,963 | 27 |
+| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 14,064 | 27 |
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 705 | 174 |
 | 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 525 |
 | 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,170 | 52 |
@@ -398,7 +398,7 @@
 | 370 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 525 |
 | 397 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 493 |
 | 397 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 28 | 475 |
-| 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,053 | 26 |
+| 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,071 | 26 |
 | 397 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 525 |
 | 397 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,698 | 73 |
 | 397 | [Control](games/c/control.md) | 4.60 | 8,561 | 41 |
@@ -610,28 +610,28 @@
 | 590 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.49 | 0 | 525 |
 | 590 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 441 |
 | 610 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 29 | 470 |
+| 610 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.48 | 0 | 525 |
 | 610 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 525 |
 | 610 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 441 |
 | 610 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 525 |
-| 610 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 561,171 | 2 |
+| 610 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 562,071 | 2 |
 | 610 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 525 |
 | 610 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 338 |
 | 610 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,129 | 44 |
 | 610 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 525 |
-| 619 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 0 | 525 |
-| 619 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 525 |
-| 619 | [Chorus](games/c/chorus.md) | 4.47 | 33 | 462 |
-| 619 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 525 |
-| 619 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.47 | 0 | 525 |
-| 619 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 525 |
-| 619 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,543 | 89 |
-| 619 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.47 | 0 | 525 |
-| 619 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 521 |
-| 619 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 525 |
-| 619 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 525 |
-| 619 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 525 |
-| 619 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 525 |
-| 619 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.47 | 0 | 525 |
+| 620 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 0 | 525 |
+| 620 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 525 |
+| 620 | [Chorus](games/c/chorus.md) | 4.47 | 33 | 462 |
+| 620 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 525 |
+| 620 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 525 |
+| 620 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,543 | 89 |
+| 620 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.47 | 0 | 525 |
+| 620 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 521 |
+| 620 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 525 |
+| 620 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 525 |
+| 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 525 |
+| 620 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 525 |
+| 620 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.47 | 0 | 525 |
 | 633 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 525 |
 | 633 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,607 | 87 |
 | 633 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 525 |
@@ -731,7 +731,7 @@
 | 729 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 525 |
 | 729 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 525 |
 | 729 | [MORDHAU](games/m/mordhau.md) | 4.39 | 738 | 167 |
-| 729 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,766 | 33 |
+| 729 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,766 | 34 |
 | 729 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 525 |
 | 729 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 525 |
 | 729 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 333 | 234 |
