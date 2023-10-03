@@ -2,7 +2,7 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 121,
@@ -947,9 +947,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Full",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:06:27.6009539+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:06:23.7623017+00:00",
   "LastUpdate_AppInfo": "2023-10-02T21:57:00.0077411+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:58:41.2198604+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:06:27.6009872+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:58:47.7776673+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:06:23.7623188+00:00"
 }

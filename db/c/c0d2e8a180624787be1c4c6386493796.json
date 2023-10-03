@@ -428,9 +428,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:08:25.9409715+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:08:20.0424292+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:58:22.7372258+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:08:25.9410723+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:58:26.8926385+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:08:20.042529+00:00"
 }

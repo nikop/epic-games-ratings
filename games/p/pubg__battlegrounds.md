@@ -5,45 +5,45 @@ Rating: 3.98 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~458,907 |
-| Health Junkie | 41.00% | ~257,742 |
-| You Complete Me | 39.00% | ~245,170 |
-| Guardian Angel | 35.00% | ~220,024 |
-| Devil Inside Me | 27.00% | ~169,733 |
-| Fantastic Four | 20.00% | ~125,728 |
-| Killing Spree | 19.00% | ~119,442 |
-| Marksman Novice | 17.00% | ~106,869 |
-| First Blood | 12.00% | ~75,437 |
-| Top 10 | 12.00% | ~75,437 |
-| Now You See Me, Now You Don't | 10.00% | ~62,864 |
-| Marksman Expert | 8.00% | ~50,291 |
-| CQB Novice | 8.00% | ~50,291 |
-| Collateral Damage | 6.00% | ~37,718 |
-| Airborne | 6.00% | ~37,718 |
-| Pacifist | 5.00% | ~31,432 |
-| Last Survivor | 4.00% | ~25,146 |
-| Trigonometry Novice | 4.00% | ~25,146 |
-| First Come, First Served | 4.00% | ~25,146 |
-| Marksman Master | 3.00% | ~18,859 |
-| Dynamic Duo | 3.00% | ~18,859 |
-| Winner Winner Chicken Dinner! | 2.00% | ~12,573 |
-| Okay, Now I'm Ready | 2.00% | ~12,573 |
-| Agent 48 | 2.00% | ~12,573 |
-| Don't Pan Me Bro! | 2.00% | ~12,573 |
-| Fast and Furious | 2.00% | ~12,573 |
-| CQB Expert | 2.00% | ~12,573 |
-| Fury Road | 1.00% | ~6,286 |
-| Ghost | 1.00% | ~6,286 |
-| Cruising with the Enemy | 1.00% | ~6,286 |
-| Nade King Novice | 0.80% | ~5,029 |
-| Master Assassin | 0.70% | ~4,400 |
+| Blood on My Hands | 73.00% | ~458,947 |
+| Health Junkie | 41.00% | ~257,765 |
+| You Complete Me | 39.00% | ~245,191 |
+| Guardian Angel | 35.00% | ~220,043 |
+| Devil Inside Me | 27.00% | ~169,747 |
+| Fantastic Four | 20.00% | ~125,739 |
+| Killing Spree | 19.00% | ~119,452 |
+| Marksman Novice | 17.00% | ~106,878 |
+| First Blood | 12.00% | ~75,443 |
+| Top 10 | 12.00% | ~75,443 |
+| Now You See Me, Now You Don't | 10.00% | ~62,869 |
+| Marksman Expert | 8.00% | ~50,296 |
+| CQB Novice | 8.00% | ~50,296 |
+| Collateral Damage | 6.00% | ~37,722 |
+| Airborne | 6.00% | ~37,722 |
+| Pacifist | 5.00% | ~31,435 |
+| Last Survivor | 4.00% | ~25,148 |
+| Trigonometry Novice | 4.00% | ~25,148 |
+| First Come, First Served | 4.00% | ~25,148 |
+| Marksman Master | 3.00% | ~18,861 |
+| Dynamic Duo | 3.00% | ~18,861 |
+| Winner Winner Chicken Dinner! | 2.00% | ~12,574 |
+| Okay, Now I'm Ready | 2.00% | ~12,574 |
+| Agent 48 | 2.00% | ~12,574 |
+| Don't Pan Me Bro! | 2.00% | ~12,574 |
+| Fast and Furious | 2.00% | ~12,574 |
+| CQB Expert | 2.00% | ~12,574 |
+| Fury Road | 1.00% | ~6,287 |
+| Ghost | 1.00% | ~6,287 |
+| Cruising with the Enemy | 1.00% | ~6,287 |
+| Nade King Novice | 0.80% | ~5,030 |
+| Master Assassin | 0.70% | ~4,401 |
 | CQB Master | 0.40% | ~2,515 |
 | Nade King Expert | 0.20% | ~1,257 |
 | The First Rule Is… | 0.20% | ~1,257 |
 | Nade King Master | 0.10% | ~629 |
 | Shoot the Knee | 0.10% | ~629 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628,640 (Ranked 28)  
+Progressed: 628,694 (Ranked 28)  
 Completed: 10 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,18 +209,18 @@ Completed: 10 (0.00%) (Ranked 306)
 | 2023-09-30 | 623,170 | 10 |
 | 2023-10-01 | 625,437 | 10 |
 | 2023-10-02 | 627,237 | 10 |
-| 2023-10-03 | 628,640 | 10 |
+| 2023-10-03 | 628,694 | 10 |
 ## Awards
 Max (Competitive Players): 3,886  (Ranked 84)  
-Sum: 12,702 (Ranked 77)  
+Sum: 12,723 (Ranked 77)  
 Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 3,886 |
 | This game has Challenging Combat | 3,430 |
 | This game has Quickly Understood Controls | 3,335 |
-| This game is Highly Recommended | 3,173 |
-| This game has a Competitive Community | 2,213 |
+| This game is Highly Recommended | 3,184 |
+| This game has a Competitive Community | 2,223 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -445,4 +445,4 @@ Diff (max vs sum): 7
 | 2023-09-30 | 3.98 | 3,837 | 12,550 |
 | 2023-10-01 | 3.98 | 3,855 | 12,620 |
 | 2023-10-02 | 3.98 | 3,869 | 12,673 |
-| 2023-10-03 | 3.98 | 3,886 | 12,702 |
+| 2023-10-03 | 3.98 | 3,886 | 12,723 |

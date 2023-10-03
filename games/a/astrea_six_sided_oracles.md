@@ -12,13 +12,13 @@
 | Sanctuary Guardian | 81.00% | ~30 |
 | Endless Tricks | 78.00% | ~29 |
 | Mind Illuminator | 68.00% | ~25 |
-| Stellar Dismantler | 51.00% | ~19 |
-| Astral Adventurer | 43.00% | ~16 |
+| Stellar Dismantler | 54.00% | ~20 |
+| Astral Adventurer | 46.00% | ~17 |
 | Anomaly Destroyer | 41.00% | ~15 |
-| Star Killer | 38.00% | ~14 |
+| Star Killer | 41.00% | ~15 |
 | Unbeatable | 38.00% | ~14 |
 | Loyal Partner | 32.00% | ~12 |
-| Sadistic Plan | 24.00% | ~9 |
+| Sadistic Plan | 27.00% | ~10 |
 | Stellar Haste | 22.00% | ~8 |
 | The Corruption Goddess | 22.00% | ~8 |
 | Sentinelphobic | 16.00% | ~6 |

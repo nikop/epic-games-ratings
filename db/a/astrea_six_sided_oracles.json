@@ -294,9 +294,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AstralSeeker",
@@ -654,9 +654,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SanctuaryGuardian",
@@ -702,17 +702,17 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "StellarHaste",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:08:42.1578231+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:09:05.6121683+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:00:42.0200033+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:08:42.1579284+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:00:44.8902494+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:09:05.6122621+00:00"
 }

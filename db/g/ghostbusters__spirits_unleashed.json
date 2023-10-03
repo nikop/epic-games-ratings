@@ -2286,7 +2286,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26184,
+  "EOS_Progressed": 26186,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -14131,6 +14131,11 @@
       "Time": "2023-10-03T18:05:19.0398334+00:00",
       "NumProgressed": 26184,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-03T21:06:13.085059+00:00",
+      "NumProgressed": 26186,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14396,9 +14401,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 79
     },
     {
       "ID": "Seasoned",
@@ -14549,7 +14554,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26184,
+      "Progressed": 26186,
       "Completed": 58
     }
   ],
@@ -14557,8 +14562,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-03T16:58:45.729332+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:06:16.4839726+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:06:13.0850585+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:57:49.0410958+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:06:16.4841167+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:57:54.1124417+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:06:13.0851937+00:00"
 }

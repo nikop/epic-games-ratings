@@ -1068,9 +1068,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228492,
+  "EOS_Progressed": 228500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1571,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13293,6 +13293,11 @@
       "Time": "2023-10-03T20:08:14.3903635+00:00",
       "NumProgressed": 228492,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-03T21:08:08.3780304+00:00",
+      "NumProgressed": 228500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13344,7 +13349,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "Chapter1",
@@ -13424,7 +13429,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "CompanionMinstrel",
@@ -13432,7 +13437,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "CompanionNone",
@@ -13752,7 +13757,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73117
+      "UsersEstimate": 73120
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13896,7 +13901,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "QuestMinstrel",
@@ -13920,7 +13925,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "RangerEpic",
@@ -14007,21 +14012,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228492,
+      "Progressed": 228500,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228492,
+      "Progressed": 228500,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T18:00:06.5665916+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:08:14.3903628+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:08:08.3780297+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:01:07.2006686+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:08:14.3906182+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:01:09.1195923+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:08:08.3782014+00:00"
 }

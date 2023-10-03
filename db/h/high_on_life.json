@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24110,
+  "EOS_Progressed": 24111,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5119,6 +5119,11 @@
       "Time": "2023-10-03T17:07:03.1835406+00:00",
       "NumProgressed": 24110,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-03T21:05:50.8535821+00:00",
+      "NumProgressed": 24111,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 44,
@@ -5192,9 +5197,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -5481,13 +5486,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24110,
+      "Progressed": 24111,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1403,
+      "Progressed": 1404,
       "Completed": 1373
     }
   ],
@@ -5495,8 +5500,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:05:53.4203476+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:05:50.8535813+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:59:57.9748309+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:05:53.4204282+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:00:00.2505985+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:05:50.853654+00:00"
 }

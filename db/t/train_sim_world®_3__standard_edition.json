@@ -2,7 +2,7 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 649,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -2893,10 +2893,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2549,
       "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-10-03T20:58:08.3972736+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2550,
+      "NumberOfAwardsMax": 359
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2549,
+  "NumberOfAwards": 2550,
   "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2952,7 +2958,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2985,8 +2991,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-10-02T17:57:23.6984565+00:00",
+  "LastChanged": "2023-10-03T20:58:08.3972734+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:11.8084707+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:58:03.1869175+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:04:29.8159153+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:58:08.397274+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:04:28.5893527+00:00"
 }

@@ -40,11 +40,11 @@ Rating: 4.50 (Ranked 574)
 | Escape Artist | 0.30% | ~79 |
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |
+| Rivalry | 0.30% | ~79 |
 | Seasoned | 0.30% | ~79 |
 | Tobin's Prodigy | 0.30% | ~79 |
 | Fragile Panes | 0.20% | ~52 |
 | Liability | 0.20% | ~52 |
-| Rivalry | 0.20% | ~52 |
 | Surprise! | 0.20% | ~52 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,184 (Ranked 114)  
+Progressed: 26,186 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
 | 2023-10-02 | 26,168 | 58 |
-| 2023-10-03 | 26,184 | 58 |
+| 2023-10-03 | 26,186 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 259  (Ranked 256)  
 Sum: 2,360 (Ranked 188)  

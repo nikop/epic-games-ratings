@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabbage in the Baggage | 29.00% | ~11 |
-| Greengrocer | 26.00% | ~10 |
+| Greengrocer | 29.00% | ~11 |
 | Seven Days of Endless Adventure | 21.00% | ~8 |
 | Masu-ter Angler | 18.00% | ~7 |
 | Go-Getter | 16.00% | ~6 |

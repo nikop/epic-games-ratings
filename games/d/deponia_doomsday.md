@@ -30,8 +30,8 @@ Rating: 4.55 (Ranked 491)
 | Heading the inverter | 14.00% | ~60 |
 | Blast from the Past | 13.00% | ~55 |
 | Play it again, Ronny | 12.00% | ~51 |
+| Paradox! | 11.00% | ~47 |
 | Goat Team | 10.00% | ~42 |
-| Paradox! | 10.00% | ~42 |
 | Weapons 101 | 8.00% | ~34 |
 | Sadist | 8.00% | ~34 |
 | The customer is always right | 7.00% | ~30 |

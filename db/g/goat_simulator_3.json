@@ -4162,9 +4162,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 246137,
+  "EOS_Progressed": 246138,
   "EOS_Completed": 844,
-  "EOS_NewPlayers": 926,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -22267,6 +22267,11 @@
       "Time": "2023-10-03T20:06:05.8440504+00:00",
       "NumProgressed": 246137,
       "NumCompleted": 844
+    },
+    {
+      "Time": "2023-10-03T21:06:02.6244921+00:00",
+      "NumProgressed": 246138,
+      "NumCompleted": 844
     }
   ],
   "TotalAchievements": 39,
@@ -22294,7 +22299,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 29536
+      "UsersEstimate": 29537
     },
     {
       "ID": "AchievementBaywatchID",
@@ -22302,7 +22307,7 @@
       "Name": "Who Baywatches the Baywatch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9845
+      "UsersEstimate": 9846
     },
     {
       "ID": "AchievementBecomeHumanID",
@@ -22342,7 +22347,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 223985
+      "UsersEstimate": 223986
     },
     {
       "ID": "AchievementClownID",
@@ -22366,7 +22371,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68918
+      "UsersEstimate": 68919
     },
     {
       "ID": "AchievementEggID",
@@ -22390,7 +22395,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81225
+      "UsersEstimate": 81226
     },
     {
       "ID": "AchievementGoatID",
@@ -22446,7 +22451,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140298
+      "UsersEstimate": 140299
     },
     {
       "ID": "AchievementLootBoxID",
@@ -22494,7 +22499,7 @@
       "Name": "[REDACTED]",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9845
+      "UsersEstimate": 9846
     },
     {
       "ID": "AchievementRedecorationID",
@@ -22510,7 +22515,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182141
+      "UsersEstimate": 182142
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -22526,7 +22531,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123068
+      "UsersEstimate": 123069
     },
     {
       "ID": "AchievementStreakingID",
@@ -22550,7 +22555,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135375
+      "UsersEstimate": 135376
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -22558,7 +22563,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115684
+      "UsersEstimate": 115685
     },
     {
       "ID": "AchievementTrinketID",
@@ -22574,7 +22579,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159989
+      "UsersEstimate": 159990
     },
     {
       "ID": "AchievementWhaleID",
@@ -22589,7 +22594,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246137,
+      "Progressed": 246138,
       "Completed": 844
     }
   ],
@@ -22597,8 +22602,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-02T18:58:07.1433872+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:06:05.8440495+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:06:02.6244915+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:59:10.2093905+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:06:05.8442427+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:59:17.1743894+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:06:02.6246913+00:00"
 }

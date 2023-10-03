@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~535 |
-| Clean Race | 39.00% | ~497 |
-| Eat My Dust | 39.00% | ~497 |
-| Hear That Roar! | 38.00% | ~484 |
-| Rivals to the End | 29.00% | ~369 |
-| We're Going to Need a Bigger Garage | 25.00% | ~318 |
+| First Love | 42.00% | ~536 |
+| Clean Race | 39.00% | ~498 |
+| Eat My Dust | 39.00% | ~498 |
+| Hear That Roar! | 38.00% | ~485 |
+| Rivals to the End | 29.00% | ~370 |
+| We're Going to Need a Bigger Garage | 25.00% | ~319 |
 | Bitter Rivalry | 24.00% | ~306 |
 | Champagne Spray | 21.00% | ~268 |
 | I'm Here Too! | 20.00% | ~255 |
-| Restored and Ready | 18.00% | ~229 |
-| I Want One Too! | 18.00% | ~229 |
-| Legendary!!! | 18.00% | ~229 |
-| Quick Pit Stop | 18.00% | ~229 |
+| Restored and Ready | 18.00% | ~230 |
+| I Want One Too! | 18.00% | ~230 |
+| Legendary!!! | 18.00% | ~230 |
+| Quick Pit Stop | 18.00% | ~230 |
 | Go-Faster Stripes | 16.00% | ~204 |
 | We've Just Begun | 9.00% | ~115 |
 | Stamina Star | 8.00% | ~102 |
@@ -29,12 +29,12 @@
 | The Road to Liberty | 3.00% | ~38 |
 | Romantic Races | 3.00% | ~38 |
 | Still Here | 3.00% | ~38 |
-| Iconic! | 2.00% | ~25 |
-| Spoilt for Choice | 2.00% | ~25 |
-| Back in Blighty | 2.00% | ~25 |
-| Rounding Off | 2.00% | ~25 |
-| My Work Here Is Done | 2.00% | ~25 |
-| Overtaking the Master | 2.00% | ~25 |
+| Iconic! | 2.00% | ~26 |
+| Spoilt for Choice | 2.00% | ~26 |
+| Back in Blighty | 2.00% | ~26 |
+| Rounding Off | 2.00% | ~26 |
+| My Work Here Is Done | 2.00% | ~26 |
+| Overtaking the Master | 2.00% | ~26 |
 | I'll Be the Best! | 1.00% | ~13 |
 | Next Level | 1.00% | ~13 |
 | I Don't Stop | 1.00% | ~13 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,274 (Ranked 219)  
+Progressed: 1,276 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 1,231 | 0 |
 | 2023-10-01 | 1,253 | 0 |
 | 2023-10-02 | 1,264 | 0 |
-| 2023-10-03 | 1,274 | 0 |
+| 2023-10-03 | 1,276 | 0 |

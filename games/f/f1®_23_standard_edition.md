@@ -5,29 +5,29 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,715 |
-| On the Top Step | 88.00% | ~2,541 |
-| Setting up for Success | 77.00% | ~2,224 |
-| Team Orders | 74.00% | ~2,137 |
-| Engineer | 55.00% | ~1,588 |
-| Familiar Faces | 48.00% | ~1,386 |
-| Going the Extra Mile | 43.00% | ~1,242 |
-| Sharing the Love | 40.00% | ~1,155 |
-| Hitting a Season | 34.00% | ~982 |
-| Challenge Yourself | 33.00% | ~953 |
-| Making History | 31.00% | ~895 |
-| A Dozen Pieces | 30.00% | ~866 |
-| Spring Cleaning | 24.00% | ~693 |
-| Network Success | 24.00% | ~693 |
-| Writing a new Chapter | 24.00% | ~693 |
+| Getting on the Step | 94.00% | ~2,717 |
+| On the Top Step | 88.00% | ~2,543 |
+| Setting up for Success | 77.00% | ~2,225 |
+| Team Orders | 74.00% | ~2,139 |
+| Engineer | 55.00% | ~1,590 |
+| Familiar Faces | 48.00% | ~1,387 |
+| Going the Extra Mile | 43.00% | ~1,243 |
+| Sharing the Love | 40.00% | ~1,156 |
+| Hitting a Season | 35.00% | ~1,011 |
+| Challenge Yourself | 33.00% | ~954 |
+| Making History | 31.00% | ~896 |
+| A Dozen Pieces | 30.00% | ~867 |
+| Spring Cleaning | 24.00% | ~694 |
+| Network Success | 24.00% | ~694 |
+| Writing a new Chapter | 24.00% | ~694 |
 | Reduce | 19.00% | ~549 |
 | Ups and Downs | 19.00% | ~549 |
 | Crucial Combo | 17.00% | ~491 |
 | One for the Book | 17.00% | ~491 |
 | Reuse | 16.00% | ~462 |
 | Proving Them Wrong | 16.00% | ~462 |
-| Gathering Dust | 15.00% | ~433 |
-| Oil and Water | 14.00% | ~404 |
+| Gathering Dust | 15.00% | ~434 |
+| Oil and Water | 15.00% | ~434 |
 | Eagle Eye | 12.00% | ~347 |
 | Lightning Round the World | 12.00% | ~347 |
 | Hitting a Bullseye | 12.00% | ~347 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 301)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,888 (Ranked 190)  
+Progressed: 2,890 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,888 | 0 |
+| 2023-10-03 | 2,890 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

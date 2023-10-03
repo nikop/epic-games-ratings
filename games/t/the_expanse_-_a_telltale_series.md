@@ -9,25 +9,25 @@ Rating: 4.53 (Ranked 523)
 | Drug Gifter | 0.60% | ~81 |
 | Bosmang | 0.50% | ~68 |
 | The Pit and the Pirates | 0.40% | ~54 |
+| Drone Dodger | 0.40% | ~54 |
+| Impossible Objects | 0.40% | ~54 |
 | Data Archivist | 0.30% | ~41 |
-| Drone Dodger | 0.30% | ~41 |
 | Heal Thy Medic | 0.30% | ~41 |
+| Khan's Revenge | 0.30% | ~41 |
 | Call it Even | 0.30% | ~41 |
 | Captain Drummer | 0.30% | ~41 |
 | Celebrations are in Order | 0.30% | ~41 |
-| Impossible Objects | 0.30% | ~41 |
+| Doctor Approved | 0.20% | ~27 |
 | Stogie for Fogey | 0.20% | ~27 |
 | Spore Taste | 0.20% | ~27 |
 | Martian Music | 0.20% | ~27 |
-| Khan's Revenge | 0.20% | ~27 |
+| Miraculous Maya | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
-| Doctor Approved | 0.10% | ~14 |
 | Bottoms up! | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Thorston Mayer | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |
-| Miraculous Maya | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | No Belter Left Behind | 0.10% | ~14 |
 | Debris Spree | 0.10% | ~14 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 523)
 | Data Recoverer | 0.10% | ~14 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,502 (Ranked 134)  
+Progressed: 13,504 (Ranked 134)  
 Completed: 3 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 3 (0.02%) (Ranked 280)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,502 | 3 |
+| 2023-10-03 | 13,504 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

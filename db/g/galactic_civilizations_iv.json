@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6753,
+  "EOS_Progressed": 6754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6642,6 +6642,11 @@
       "Time": "2023-10-03T20:04:35.5874821+00:00",
       "NumProgressed": 6753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T21:04:34.2583026+00:00",
+      "NumProgressed": 6754,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6685,7 +6690,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6757,7 +6762,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "First_Race_Met",
@@ -6789,7 +6794,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7141,7 +7146,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4457
+      "UsersEstimate": 4458
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7205,7 +7210,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Win_Quickly",
@@ -7228,15 +7233,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6753,
+      "Progressed": 6754,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:04:35.5874809+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:04:34.2583022+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:00:26.3929641+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:04:35.5875972+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:00:28.17591+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:04:34.2584621+00:00"
 }

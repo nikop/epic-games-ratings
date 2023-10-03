@@ -8,7 +8,7 @@ Rating: 4.55 (Ranked 491)
 | Legal Counsel | 46.00% | ~4,836 |
 | Greasy Palms | 42.00% | ~4,415 |
 | South American Connection | 26.00% | ~2,733 |
-| Life of the Party | 20.00% | ~2,102 |
+| Life of the Party | 20.00% | ~2,103 |
 | Big Heat from Little Havana | 15.00% | ~1,577 |
 | Chauffeur | 15.00% | ~1,577 |
 | Tommy Two-Wheels | 15.00% | ~1,577 |
@@ -21,8 +21,8 @@ Rating: 4.55 (Ranked 491)
 | Catch Me if You Can | 6.00% | ~631 |
 | Not my First Time | 5.00% | ~526 |
 | Grand Theft Auto | 5.00% | ~526 |
-| High Quality H2O | 4.00% | ~420 |
-| Pie Guy | 4.00% | ~420 |
+| High Quality H2O | 4.00% | ~421 |
+| Pie Guy | 4.00% | ~421 |
 | Running Rampant | 3.00% | ~315 |
 | Point A to Point B | 3.00% | ~315 |
 | Bull in a China Shop | 3.00% | ~315 |
@@ -40,7 +40,7 @@ Rating: 4.55 (Ranked 491)
 | Done it All | 0.90% | ~95 |
 | Kingpin | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,512 (Ranked 141)  
+Progressed: 10,513 (Ranked 141)  
 Completed: 58 (0.55%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 58 (0.55%) (Ranked 163)
 | 2023-09-30 | 10,491 | 58 |
 | 2023-10-01 | 10,505 | 58 |
 | 2023-10-02 | 10,508 | 58 |
-| 2023-10-03 | 10,512 | 58 |
+| 2023-10-03 | 10,513 | 58 |
 ## Awards
 Max (Great Boss Battles): 90  (Ranked 359)  
 Sum: 90 (Ranked 430)  

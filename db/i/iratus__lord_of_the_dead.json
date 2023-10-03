@@ -2170,9 +2170,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41145,
+  "EOS_Progressed": 41146,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20105,6 +20105,11 @@
       "Time": "2023-10-03T20:05:07.8527337+00:00",
       "NumProgressed": 41145,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-03T21:05:06.3632538+00:00",
+      "NumProgressed": 41146,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20164,7 +20169,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19338
+      "UsersEstimate": 19339
     },
     {
       "ID": "achievements_17",
@@ -20196,7 +20201,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "achievements_21",
@@ -20220,7 +20225,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24687
+      "UsersEstimate": 24688
     },
     {
       "ID": "achievements_24",
@@ -20292,7 +20297,7 @@
       "Name": "Bane of Mercenaries - III",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "achievements_32",
@@ -20300,7 +20305,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13989
+      "UsersEstimate": 13990
     },
     {
       "ID": "achievements_33",
@@ -20340,7 +20345,7 @@
       "Name": "Monument to Greatness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "achievements_38",
@@ -20348,7 +20353,7 @@
       "Name": "Ancient Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "achievements_39",
@@ -20396,7 +20401,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9463
+      "UsersEstimate": 9464
     },
     {
       "ID": "achievements_44",
@@ -20412,7 +20417,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "achievements_46",
@@ -20420,7 +20425,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34973
+      "UsersEstimate": 34974
     },
     {
       "ID": "achievements_47",
@@ -20492,7 +20497,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "achievements_55",
@@ -20540,7 +20545,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13989
+      "UsersEstimate": 13990
     },
     {
       "ID": "achievements_61",
@@ -20692,7 +20697,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30036
+      "UsersEstimate": 30037
     },
     {
       "ID": "achievements_8",
@@ -20715,15 +20720,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41145,
+      "Progressed": 41146,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-02T15:00:18.2821908+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:05:07.8527326+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:05:06.3632527+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.3710119+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:01:13.0398638+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:05:07.852978+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:01:15.7601659+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:05:06.3634961+00:00"
 }

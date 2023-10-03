@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3282,18 +3282,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4651,
       "NumberOfAwardsMax": 2778
+    },
+    {
+      "Time": "2023-10-03T20:57:30.4468995+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4655,
+      "NumberOfAwardsMax": 2782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4651,
-  "NumberOfAwardsMax": 2778,
+  "NumberOfAwards": 4655,
+  "NumberOfAwardsMax": 2782,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2778
+      "Count": 2782
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3350,7 +3356,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73092,
+  "EOS_Progressed": 73095,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 4,
@@ -17500,6 +17506,11 @@
       "Time": "2023-10-03T20:05:27.7409229+00:00",
       "NumProgressed": 73092,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-03T21:05:25.8249878+00:00",
+      "NumProgressed": 73095,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17511,7 +17522,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -17535,7 +17546,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -17559,7 +17570,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16811
+      "UsersEstimate": 16812
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17575,7 +17586,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -17615,7 +17626,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15349
+      "UsersEstimate": 15350
     },
     {
       "ID": "CLAYFACE_2",
@@ -17655,7 +17666,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -17695,7 +17706,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -17727,7 +17738,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7309
+      "UsersEstimate": 7310
     },
     {
       "ID": "FREEZE_1",
@@ -17735,7 +17746,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21197
+      "UsersEstimate": 21198
     },
     {
       "ID": "FREEZE_1_5",
@@ -17743,7 +17754,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15349
+      "UsersEstimate": 15350
     },
     {
       "ID": "FREEZE_2",
@@ -17751,7 +17762,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "FREEZE_3",
@@ -17815,7 +17826,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25582
+      "UsersEstimate": 25583
     },
     {
       "ID": "HARLEY_2",
@@ -17823,7 +17834,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18273
+      "UsersEstimate": 18274
     },
     {
       "ID": "HARLEY_3",
@@ -17831,7 +17842,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "HARLEY_4",
@@ -17855,7 +17866,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38008
+      "UsersEstimate": 38009
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -17879,7 +17890,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -17887,7 +17898,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -17903,7 +17914,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24851
+      "UsersEstimate": 24852
     },
     {
       "ID": "MYSTERY_02",
@@ -17911,7 +17922,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18273
+      "UsersEstimate": 18274
     },
     {
       "ID": "MYSTERY_03",
@@ -17919,7 +17930,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16811
+      "UsersEstimate": 16812
     },
     {
       "ID": "MYSTERY_04",
@@ -17927,7 +17938,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "MYSTERY_05",
@@ -17975,7 +17986,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -17998,22 +18009,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73092,
+      "Progressed": 73095,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43372,
+      "Progressed": 43375,
       "Completed": 2668
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-03T13:03:58.1505338+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:05:27.7409223+00:00",
+  "LastChanged": "2023-10-03T20:57:30.4468993+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:05:25.8249873+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:57:26.1764454+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:05:27.7410969+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:57:30.4469001+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:05:25.8251794+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,117 |
+| Sowwy! | 32.00% | ~73,120 |
 | Alt+F4 | 6.00% | ~13,710 |
 | Where's that freaking Dwarf? | 5.00% | ~11,425 |
 | Déjà vu | 4.00% | ~9,140 |
@@ -40,7 +40,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,285 |
 | I am the night | 1.00% | ~2,285 |
 | Thieves' Guild Accreditation | 1.00% | ~2,285 |
-| Lust and Debauchery | 0.90% | ~2,056 |
+| Lust and Debauchery | 0.90% | ~2,057 |
 | Dead for good | 0.80% | ~1,828 |
 | Material Girl | 0.80% | ~1,828 |
 | Gargantua | 0.70% | ~1,599 |
@@ -50,10 +50,10 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.50% | ~1,142 |
 | Holistic Adventuring Party | 0.40% | ~914 |
 | Law and Order | 0.40% | ~914 |
-| Scholar of the Lands of Fangh | 0.30% | ~685 |
-| Friendly fire | 0.30% | ~685 |
-| I'd rather... Just... Sing! | 0.30% | ~685 |
-| It's been a hard day's night | 0.30% | ~685 |
+| Scholar of the Lands of Fangh | 0.30% | ~686 |
+| Friendly fire | 0.30% | ~686 |
+| I'd rather... Just... Sing! | 0.30% | ~686 |
+| It's been a hard day's night | 0.30% | ~686 |
 | The number of the counting shalt be 7 | 0.20% | ~457 |
 | 100% satisfaction guarantee | 0.20% | ~457 |
 | Inception | 0.20% | ~457 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,492 (Ranked 58)  
+Progressed: 228,500 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
-| 2023-10-03 | 228,492 | 5 |
+| 2023-10-03 | 228,500 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

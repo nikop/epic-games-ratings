@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.20% | ~29 |
 | Keystone | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
+| Magnificent | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
 | Noble | 0.20% | ~29 |
 | Pioneer | 0.20% | ~29 |
@@ -29,7 +30,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
 | Oracle | 0.20% | ~29 |
+| Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
+| Christianity | 0.20% | ~29 |
 | Judaism | 0.20% | ~29 |
 | Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
@@ -57,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
+| Ancient | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
 | Brilliant | 0.10% | ~14 |
@@ -70,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
-| Magnificent | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
@@ -131,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.10% | ~14 |
 | Musaeum | 0.10% | ~14 |
 | Pantheon | 0.10% | ~14 |
-| Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn to Play 2 | 0.10% | ~14 |
@@ -156,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Power to the People | 0.10% | ~14 |
-| Christianity | 0.10% | ~14 |
 | Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Egyptian Paganism | 0.10% | ~14 |
@@ -272,7 +273,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,325 (Ranked 133)  
+Progressed: 14,326 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,325 | 5 |
+| 2023-10-03 | 14,326 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

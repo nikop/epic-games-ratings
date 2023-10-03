@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13502,
+  "EOS_Progressed": 13504,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7562,6 +7562,11 @@
       "Time": "2023-10-03T20:05:50.9137659+00:00",
       "NumProgressed": 13502,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T21:05:48.5114351+00:00",
+      "NumProgressed": 13504,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7612,9 +7617,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "15",
@@ -7676,9 +7681,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "22",
@@ -7700,17 +7705,17 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "26",
@@ -7804,16 +7809,16 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13502,
+      "Progressed": 13504,
       "Completed": 3
     }
   ],
@@ -7821,8 +7826,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:05:50.913765+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:05:48.5114345+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:00:16.5752402+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:05:50.9138597+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:00:18.9321145+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:05:48.5115258+00:00"
 }

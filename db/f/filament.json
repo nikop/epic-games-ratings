@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202742,
+  "EOS_Progressed": 202747,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18205,6 +18205,11 @@
       "Time": "2023-10-03T20:06:20.2496578+00:00",
       "NumProgressed": 202742,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-10-03T21:06:16.5414696+00:00",
+      "NumProgressed": 202747,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 29,
@@ -18240,7 +18245,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190577
+      "UsersEstimate": 190582
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -18400,7 +18405,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20274
+      "UsersEstimate": 20275
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -18416,7 +18421,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16219
+      "UsersEstimate": 16220
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -18447,7 +18452,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202742,
+      "Progressed": 202747,
       "Completed": 512
     }
   ],
@@ -18455,8 +18460,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-10-03T20:06:20.249657+00:00",
+  "LastChanged_Achievements": "2023-10-03T21:06:16.5414689+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.6444699+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:57:41.9865626+00:00",
-  "LastUpdate_Achievements": "2023-10-03T20:06:20.2498238+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:57:47.0678171+00:00",
+  "LastUpdate_Achievements": "2023-10-03T21:06:16.5416402+00:00"
 }
