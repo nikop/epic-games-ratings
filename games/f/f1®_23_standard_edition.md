@@ -5,16 +5,16 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,710 |
-| On the Top Step | 88.00% | ~2,537 |
-| Setting up for Success | 76.00% | ~2,191 |
-| Team Orders | 74.00% | ~2,133 |
+| Getting on the Step | 94.00% | ~2,711 |
+| On the Top Step | 88.00% | ~2,538 |
+| Setting up for Success | 76.00% | ~2,192 |
+| Team Orders | 74.00% | ~2,134 |
 | Engineer | 55.00% | ~1,586 |
 | Familiar Faces | 48.00% | ~1,384 |
-| Going the Extra Mile | 42.00% | ~1,211 |
-| Sharing the Love | 40.00% | ~1,153 |
-| Hitting a Season | 34.00% | ~980 |
-| Challenge Yourself | 33.00% | ~951 |
+| Going the Extra Mile | 43.00% | ~1,240 |
+| Sharing the Love | 40.00% | ~1,154 |
+| Hitting a Season | 34.00% | ~981 |
+| Challenge Yourself | 33.00% | ~952 |
 | Making History | 31.00% | ~894 |
 | A Dozen Pieces | 30.00% | ~865 |
 | Spring Cleaning | 24.00% | ~692 |
@@ -26,7 +26,7 @@ Rating: 4.65 (Ranked 301)
 | One for the Book | 17.00% | ~490 |
 | Reuse | 16.00% | ~461 |
 | Proving Them Wrong | 16.00% | ~461 |
-| Gathering Dust | 15.00% | ~432 |
+| Gathering Dust | 15.00% | ~433 |
 | Oil and Water | 14.00% | ~404 |
 | Eagle Eye | 12.00% | ~346 |
 | Lightning Round the World | 12.00% | ~346 |
@@ -43,9 +43,9 @@ Rating: 4.65 (Ranked 301)
 | Smooth Operator | 6.00% | ~173 |
 | Loyal Bond | 5.00% | ~144 |
 | Peak Performance | 5.00% | ~144 |
-| Seasoned Rookie | 3.00% | ~86 |
-| Hitting a Century | 3.00% | ~86 |
-| Wait, I know you? | 3.00% | ~86 |
+| Seasoned Rookie | 3.00% | ~87 |
+| Hitting a Century | 3.00% | ~87 |
+| Wait, I know you? | 3.00% | ~87 |
 | Filling in the Gaps | 2.00% | ~58 |
 | Under the Microscope | 1.00% | ~29 |
 | Saturday Night Drama | 1.00% | ~29 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 301)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,883 (Ranked 190)  
+Progressed: 2,884 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,883 | 0 |
+| 2023-10-03 | 2,884 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

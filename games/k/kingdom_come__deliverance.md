@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,132 |
-| Cavalier | 25.00% | ~200,884 |
-| Fatso | 23.00% | ~184,813 |
-| Awakening | 21.00% | ~168,743 |
-| Ranger | 20.00% | ~160,707 |
-| Scrooge | 20.00% | ~160,707 |
-| Anorectic | 16.00% | ~128,566 |
-| Bookworm | 15.00% | ~120,530 |
-| Firestarter | 15.00% | ~120,530 |
-| Insomniac | 13.00% | ~104,460 |
-| Buddy | 12.00% | ~96,424 |
-| Thief | 12.00% | ~96,424 |
-| Sinner | 11.00% | ~88,389 |
-| Traveller | 11.00% | ~88,389 |
+| Blacksmith's Son | 32.00% | ~257,134 |
+| Cavalier | 25.00% | ~200,886 |
+| Fatso | 23.00% | ~184,815 |
+| Awakening | 21.00% | ~168,744 |
+| Ranger | 20.00% | ~160,709 |
+| Scrooge | 20.00% | ~160,709 |
+| Anorectic | 16.00% | ~128,567 |
+| Bookworm | 15.00% | ~120,531 |
+| Firestarter | 15.00% | ~120,531 |
+| Insomniac | 13.00% | ~104,461 |
+| Buddy | 12.00% | ~96,425 |
+| Thief | 12.00% | ~96,425 |
+| Sinner | 11.00% | ~88,390 |
+| Traveller | 11.00% | ~88,390 |
 | Convict | 10.00% | ~80,354 |
-| Haggler | 9.00% | ~72,318 |
+| Haggler | 9.00% | ~72,319 |
 | McLovin | 7.00% | ~56,248 |
 | Runt | 7.00% | ~56,248 |
-| Casanova | 6.00% | ~48,212 |
+| Casanova | 6.00% | ~48,213 |
 | Bad Trip | 5.00% | ~40,177 |
 | Monk | 5.00% | ~40,177 |
 | Serial Killer | 5.00% | ~40,177 |
-| Bastard | 4.00% | ~32,141 |
-| Hunter | 4.00% | ~32,141 |
-| Plague Doctor | 4.00% | ~32,141 |
+| Bastard | 4.00% | ~32,142 |
+| Hunter | 4.00% | ~32,142 |
+| Plague Doctor | 4.00% | ~32,142 |
 | Bard | 3.00% | ~24,106 |
 | Conqueror | 3.00% | ~24,106 |
 | Ginger in a Pickle | 3.00% | ~24,106 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,536 (Ranked 17)  
+Progressed: 803,543 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-09-30 | 803,184 | 49 |
 | 2023-10-01 | 803,334 | 49 |
 | 2023-10-02 | 803,459 | 49 |
-| 2023-10-03 | 803,536 | 49 |
+| 2023-10-03 | 803,543 | 49 |
 ## Awards
 Max (Character Customization): 7,494  (Ranked 48)  
 Sum: 27,915 (Ranked 48)  

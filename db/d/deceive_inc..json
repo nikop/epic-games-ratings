@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18261,
+  "EOS_Progressed": 18263,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11116,6 +11116,11 @@
       "Time": "2023-10-03T14:07:11.9050239+00:00",
       "NumProgressed": 18261,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T18:08:20.5990818+00:00",
+      "NumProgressed": 18263,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11143,7 +11148,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "0004",
@@ -11191,7 +11196,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "0010",
@@ -11263,7 +11268,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "0019",
@@ -11311,7 +11316,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "0025",
@@ -11319,7 +11324,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "0026",
@@ -11367,7 +11372,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "0032",
@@ -11391,7 +11396,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "0035",
@@ -11414,7 +11419,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18261,
+      "Progressed": 18263,
       "Completed": 4
     }
   ],
@@ -11422,8 +11427,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:10:11.3487582+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:08:20.5990809+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:13.6317485+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:10:11.3488848+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:57:45.2351238+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:08:20.5991855+00:00"
 }

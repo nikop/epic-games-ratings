@@ -4,11 +4,11 @@
   "ProductSlug": "dead-by-daylight",
   "Ranking_Rating": 537,
   "Ranking_Popularity": 15,
-  "Ranking_PopularitySum": 12,
+  "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10889,9 +10889,9 @@
       "Count": 25044
     }
   ],
-  "EOS_Progressed": 916966,
+  "EOS_Progressed": 917087,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13339,
+  "EOS_NewPlayers": 13331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29714,6 +29714,11 @@
       "Time": "2023-10-03T17:06:01.7208848+00:00",
       "NumProgressed": 916966,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-03T18:04:16.484964+00:00",
+      "NumProgressed": 917087,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -29891,9 +29896,9 @@
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH_023",
@@ -30027,9 +30032,9 @@
       "ID": "ACH_039",
       "SetID": "bdmlp8o",
       "Name": "Skillful",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACH_040",
@@ -31556,21 +31561,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 916966,
+      "Progressed": 917087,
       "Completed": 49
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 916966,
+      "Progressed": 917087,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-03T14:57:49.1398002+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:06:01.720884+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:04:16.4849633+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:15.9538899+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:06:01.7218246+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:57:46.7513259+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:16.4856927+00:00"
 }

@@ -26,7 +26,7 @@
 | Flower of hope | 14.00% | ~28 |
 | Back Home | 13.00% | ~26 |
 | Friend | 13.00% | ~26 |
-| Old kettle | 11.00% | ~22 |
+| Old kettle | 12.00% | ~24 |
 | Forest Howl | 9.00% | ~18 |
 | Hope | 6.00% | ~12 |
 | Hairball | 0.00% | ~0 |

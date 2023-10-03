@@ -4,8 +4,8 @@
   "ProductSlug": "alchemist-adventure-fa9fca",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-18T04:00:00+00:00",
     "PcReleaseDate": "2021-06-10T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2383502+00:00",
   "LastChanged": "2023-03-31T05:58:16.2383502+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:07.8419282+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:00:11.4186026+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:06:39.1727084+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:58:24.1415154+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:42.5070003+00:00"
 }

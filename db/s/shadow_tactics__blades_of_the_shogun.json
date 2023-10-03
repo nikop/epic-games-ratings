@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 62,
@@ -1693,9 +1693,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 205798,
+  "EOS_Progressed": 205805,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20498,6 +20498,11 @@
       "Time": "2023-10-03T17:06:56.1818134+00:00",
       "NumProgressed": 205798,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-03T18:04:54.564073+00:00",
+      "NumProgressed": 205805,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 44,
@@ -20581,7 +20586,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22638
+      "UsersEstimate": 22639
     },
     {
       "ID": "HappyLittleAccidents",
@@ -20860,15 +20865,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 205798,
+      "Progressed": 205805,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-01T19:00:51.6484681+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:06:56.1818125+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:04:54.564072+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:02:31.3734071+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:06:56.1819421+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:57.3551335+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:54.5644466+00:00"
 }

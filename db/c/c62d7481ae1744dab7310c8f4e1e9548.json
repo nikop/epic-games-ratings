@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 84,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -446,6 +446,11 @@
       "Time": "2023-10-03T07:06:40.9547506+00:00",
       "NumProgressed": 84,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T18:05:51.1046233+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -496,9 +501,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Jing",
@@ -584,17 +589,17 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Poustevnik",
       "SetID": "ag48e8e",
       "Name": "Hermit Crabs",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Prstenec",
@@ -608,9 +613,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Sova",
@@ -698,13 +703,13 @@
       "ID": "ag48e8e",
       "IsBase": true,
       "Progressed": 84,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:08:16.7432613+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:05:51.104621+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:00:32.2970121+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:08:16.7433189+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:58:38.1677495+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:05:51.1046556+00:00"
 }

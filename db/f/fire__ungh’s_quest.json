@@ -3,8 +3,8 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 258,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
@@ -827,8 +827,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:09:48.2632594+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:08:04.5084441+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:50.6642455+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:56.2398123+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:09:48.2632918+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:58:14.8810083+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:08:04.5084681+00:00"
 }

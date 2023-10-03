@@ -8,7 +8,7 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Lost in Space | 64.00% | ~351 |
 | Quick Understanding of Block Extrusion | 62.00% | ~340 |
-| Nature or Nurture | 53.00% | ~290 |
+| Nature or Nurture | 54.00% | ~296 |
 | Power Glove | 52.00% | ~285 |
 | Forgotten Memories | 50.00% | ~274 |
 | Cogs in the Machine | 44.00% | ~241 |
@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 548 (Ranked 262)  
-Completed: 1 (0.18%) (Ranked 222)  
+Completed: 1 (0.18%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

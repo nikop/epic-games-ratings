@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -955,9 +955,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "Island",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:07:43.2174611+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:05:27.960404+00:00",
   "LastUpdate_AppInfo": "2023-10-02T21:57:00.0077411+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:46.8823299+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:07:43.2174815+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:58:08.9123186+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:05:27.9604238+00:00"
 }

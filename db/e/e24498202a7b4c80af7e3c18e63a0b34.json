@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5518,
+  "EOS_Progressed": 5519,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2261,6 +2261,11 @@
       "Time": "2023-10-03T17:06:41.2950794+00:00",
       "NumProgressed": 5518,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-03T18:04:43.9942659+00:00",
+      "NumProgressed": 5519,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2273,7 +2278,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "achievement_01_02",
@@ -2345,15 +2350,15 @@
       "Name": "Beat the Clock",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "achievement_02_01",
       "SetID": "4f1m94d",
       "Name": "Roll the Credits!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 607
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_02_02",
@@ -2401,7 +2406,7 @@
       "Name": "Whale of a Time",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "achievement_02_08",
@@ -2513,7 +2518,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "achievement_04_03",
@@ -2521,7 +2526,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "achievement_04_04",
@@ -2553,7 +2558,7 @@
       "Name": "Nitro Saver",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "achievement_04_08",
@@ -2561,7 +2566,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4580
+      "UsersEstimate": 4581
     },
     {
       "ID": "achievement_04_09",
@@ -2576,7 +2581,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5518,
+      "Progressed": 5519,
       "Completed": 18
     }
   ],
@@ -2584,8 +2589,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-03T03:00:04.7310035+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:06:41.295079+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:04:43.9942655+00:00",
   "LastUpdate_AppInfo": "2023-09-28T16:57:18.0697002+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:01:33.8193806+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:06:41.2951206+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:19.7292812+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:43.9943095+00:00"
 }

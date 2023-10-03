@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,7 +912,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6750,
+  "EOS_Progressed": 6752,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -6632,6 +6632,11 @@
       "Time": "2023-10-03T05:03:50.356971+00:00",
       "NumProgressed": 6750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T18:03:53.658797+00:00",
+      "NumProgressed": 6752,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6675,7 +6680,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6683,7 +6688,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Control_All_Relics",
@@ -6699,7 +6704,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -6707,7 +6712,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6723,7 +6728,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "First_Major_Ally",
@@ -6747,7 +6752,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5334
     },
     {
       "ID": "First_Race_Met",
@@ -6755,7 +6760,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "First_Ship_Designed",
@@ -6763,7 +6768,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "First_Stream_Travel",
@@ -6779,7 +6784,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5267
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6859,7 +6864,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "Play_1000_Hours",
@@ -6963,7 +6968,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6979,7 +6984,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "War_Without_Translator",
@@ -7051,7 +7056,7 @@
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Win_As_Krynn",
@@ -7091,7 +7096,7 @@
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Win_As_Terran",
@@ -7131,7 +7136,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7163,7 +7168,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Win_ImmenseMap",
@@ -7171,7 +7176,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Win_Influence",
@@ -7218,15 +7223,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6750,
+      "Progressed": 6752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:05:30.0045971+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:03:53.6587965+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:01:56.1285054+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:05:30.0047159+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:35.0169112+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:03:53.6589091+00:00"
 }

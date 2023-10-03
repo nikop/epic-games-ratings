@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -811,9 +811,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -892,8 +892,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:10:31.5612806+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:08:35.0841728+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.2011916+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:13.825871+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:10:31.561322+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:57:45.3497821+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:08:35.0842148+00:00"
 }

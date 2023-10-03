@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.43,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -932,6 +932,11 @@
       "Time": "2023-10-03T16:04:05.4858684+00:00",
       "NumProgressed": 329,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-03T18:03:46.005021+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -950,17 +955,17 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_12",
@@ -974,9 +979,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_14",
@@ -1040,7 +1045,7 @@
       "Name": "From Many, One",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_5",
@@ -1054,9 +1059,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 118
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_7",
@@ -1072,7 +1077,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_9",
@@ -1087,13 +1092,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:05:19.3913578+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:03:46.0050205+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T16:59:21.0406977+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:05:19.3913789+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:57:49.7452039+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:03:46.0050413+00:00"
 }

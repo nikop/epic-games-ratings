@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -562,17 +562,17 @@
       "ID": "dep4_achievement_25",
       "SetID": "5d32b60",
       "Name": "Monstrous Harassment",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 162
     },
     {
       "ID": "dep4_achievement_27",
@@ -682,9 +682,9 @@
       "ID": "dep4_achievement_6",
       "SetID": "5d32b60",
       "Name": "School\u0027s out",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_7",
@@ -723,8 +723,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:09:09.5892196+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:06:28.0724862+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.8030438+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:00:02.3900115+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:09:09.5892482+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:58:18.8121544+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:06:28.0725179+00:00"
 }

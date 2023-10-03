@@ -26,9 +26,9 @@ Rating: 4.56 (Ranked 473)
 | Sightseeing | 7.00% | ~225 |
 | Convenient Transport | 7.00% | ~225 |
 | Please Make it Stop! | 7.00% | ~225 |
-| Access Granted | 6.00% | ~192 |
-| Necessary Enhancement | 6.00% | ~192 |
-| From the Past | 6.00% | ~192 |
+| Access Granted | 6.00% | ~193 |
+| Necessary Enhancement | 6.00% | ~193 |
+| From the Past | 6.00% | ~193 |
 | Oats | 5.00% | ~160 |
 | BRAWL! | 5.00% | ~160 |
 | All in Good Health | 5.00% | ~160 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,208 (Ranked 187)  
+Progressed: 3,209 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 3,200 | 0 |
 | 2023-10-01 | 3,204 | 0 |
 | 2023-10-02 | 3,206 | 0 |
-| 2023-10-03 | 3,208 | 0 |
+| 2023-10-03 | 3,209 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

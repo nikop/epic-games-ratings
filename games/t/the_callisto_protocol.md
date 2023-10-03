@@ -9,7 +9,7 @@ Rating: 4.19 (Ranked 889)
 | Paper Jams | 6.00% | ~959 |
 | Flesh Wound | 5.00% | ~799 |
 | Float Like A Butterfly | 5.00% | ~799 |
-| Keep Fighting | 5.00% | ~195 |
+| Keep Fighting | 5.00% | ~196 |
 | You Need a Gun | 4.00% | ~639 |
 | I Do Belong Here | 4.00% | ~639 |
 | Two Heads Are Better Than One | 4.00% | ~639 |
@@ -24,10 +24,10 @@ Rating: 4.19 (Ranked 889)
 | Full Circle | 4.00% | ~639 |
 | Power Up | 4.00% | ~639 |
 | It's Time | 4.00% | ~156 |
-| Giving Back | 3.00% | ~479 |
-| Terminated | 3.00% | ~479 |
-| If the SHU Fits... | 3.00% | ~479 |
-| Desperate Times | 3.00% | ~479 |
+| Giving Back | 3.00% | ~480 |
+| Terminated | 3.00% | ~480 |
+| If the SHU Fits... | 3.00% | ~480 |
+| Desperate Times | 3.00% | ~480 |
 | In Striking Distance | 2.00% | ~320 |
 | The Commonality | 2.00% | ~320 |
 | One Last Job | 2.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 889)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,983 (Ranked 131)  
+Progressed: 15,984 (Ranked 131)  
 Completed: 74 (0.46%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 74 (0.46%) (Ranked 170)
 | 2023-09-30 | 15,977 | 73 |
 | 2023-10-01 | 15,980 | 73 |
 | 2023-10-02 | 15,981 | 73 |
-| 2023-10-03 | 15,983 | 74 |
+| 2023-10-03 | 15,984 | 74 |
 ## Awards
 Max (Amazing Storytelling): 74  (Ranked 379)  
 Sum: 433 (Ranked 321)  

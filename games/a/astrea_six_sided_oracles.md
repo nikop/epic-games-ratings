@@ -9,9 +9,9 @@
 | Purification Pioneer | 95.00% | ~35 |
 | Dicesmithing Time! | 89.00% | ~33 |
 | Wild's Keeper | 84.00% | ~31 |
+| Endless Tricks | 78.00% | ~29 |
 | Sanctuary Guardian | 78.00% | ~29 |
-| Endless Tricks | 76.00% | ~28 |
-| Mind Illuminator | 65.00% | ~24 |
+| Mind Illuminator | 68.00% | ~25 |
 | Stellar Dismantler | 51.00% | ~19 |
 | Astral Adventurer | 43.00% | ~16 |
 | Anomaly Destroyer | 41.00% | ~15 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 453)  
+Progressed: 37 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |

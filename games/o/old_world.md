@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.20% | ~29 |
 | Pioneer | 0.20% | ~29 |
 | Strong | 0.20% | ~29 |
+| Wise | 0.20% | ~29 |
 | Hanging Gardens | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
 | Oracle | 0.20% | ~29 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
 | Warrior | 0.10% | ~14 |
-| Wise | 0.10% | ~14 |
 | Developing Cities | 0.10% | ~14 |
 | Legendary Cities | 0.10% | ~14 |
 | Strong Cities | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,317 (Ranked 133)  
+Progressed: 14,319 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,11 +515,11 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,317 | 5 |
+| 2023-10-03 | 14,319 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
-Sum: 1,826 (Ranked 207)  
-Diff (max vs sum): 59  
+Sum: 1,826 (Ranked 208)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 223 |

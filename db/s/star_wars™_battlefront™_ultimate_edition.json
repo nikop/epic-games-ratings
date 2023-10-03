@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -996,6 +996,11 @@
       "Time": "2023-10-03T17:05:57.0402019+00:00",
       "NumProgressed": 406,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T18:04:12.9959875+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1102,9 +1107,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_21",
@@ -1120,7 +1125,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_23",
@@ -1144,7 +1149,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_26",
@@ -1200,7 +1205,7 @@
       "Name": "Scrap collector",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_32",
@@ -1232,7 +1237,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_36",
@@ -1248,7 +1253,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_38",
@@ -1280,7 +1285,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_41",
@@ -1416,7 +1421,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_57",
@@ -1511,13 +1516,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 1
     }
   ],
@@ -1525,8 +1530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:05:57.0402015+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:04:12.9959866+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:02:34.7162311+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:05:57.0402963+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:59.296186+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:12.9960644+00:00"
 }

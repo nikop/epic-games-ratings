@@ -1,10 +1,10 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,11 +14,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -139,6 +139,11 @@
       "Time": "2023-09-27T08:09:36.8468649+00:00",
       "NumProgressed": 31,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T18:06:48.8525906+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -148,7 +153,7 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -180,7 +185,7 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": -3.2,
+      "Percentage": -3.1,
       "XP": 30,
       "UsersEstimate": -1
     },
@@ -300,7 +305,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": -6.5,
+      "Percentage": -6.3,
       "XP": 40,
       "UsersEstimate": -2
     },
@@ -308,7 +313,7 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": -3.2,
+      "Percentage": -3.1,
       "XP": 20,
       "UsersEstimate": -1
     },
@@ -324,7 +329,7 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -340,7 +345,7 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -437,12 +442,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:09:39.733111+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:04:10.203845+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:09:39.7331569+00:00"
+  "LastChanged_Achievements": "2023-10-03T18:06:48.8525898+00:00",
+  "LastUpdate_Ratings": "2023-10-03T18:02:18.0883908+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:06:48.8526195+00:00"
 }

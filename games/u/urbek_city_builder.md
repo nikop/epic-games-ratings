@@ -23,6 +23,7 @@
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | City crisis | 0.30% | ~1 |
+| Oh, I am sad | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | Farming Frenzy | 0.30% | ~1 |
@@ -53,7 +54,6 @@
 | What is there after death? | 0.00% | ~0 |
 | Fear God, you sinners! | 0.00% | ~0 |
 | Perfect city | 0.00% | ~0 |
-| Oh, I am sad | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |

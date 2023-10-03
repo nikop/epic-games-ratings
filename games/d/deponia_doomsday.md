@@ -14,8 +14,8 @@ Rating: 4.55 (Ranked 492)
 | Chunky | 50.00% | ~212 |
 | Shall we play a game? | 49.00% | ~208 |
 | Boat of love, boat of love | 49.00% | ~208 |
-| School's out | 43.00% | ~183 |
-| Scaffolding Expert | 37.00% | ~157 |
+| School's out | 44.00% | ~187 |
+| Scaffolding Expert | 38.00% | ~162 |
 | Elysian Minigame-Master | 37.00% | ~157 |
 | Sole Music | 36.00% | ~153 |
 | No man left behind! | 30.00% | ~128 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 492)
 | And everything comes full circle. | 20.00% | ~85 |
 | Quickdraw | 16.00% | ~68 |
 | Thuna...? | 15.00% | ~64 |
-| Monstrous Harassment | 14.00% | ~60 |
+| Monstrous Harassment | 15.00% | ~64 |
 | Heading the inverter | 14.00% | ~60 |
 | Blast from the Past | 13.00% | ~55 |
 | Play it again, Ronny | 12.00% | ~51 |

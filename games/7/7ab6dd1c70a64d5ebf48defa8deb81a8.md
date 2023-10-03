@@ -12,11 +12,11 @@
 | Shatter Them All | 13.00% | ~4 |
 | Scholar | 13.00% | ~4 |
 | The Collector | 13.00% | ~4 |
-| Break Out | 10.00% | ~3 |
-| To Battle | 10.00% | ~3 |
-| Godslayer | 10.00% | ~3 |
-| Geared Up | 10.00% | ~3 |
-| Fashion Victim | 10.00% | ~3 |
+| Break Out | 9.00% | ~3 |
+| To Battle | 9.00% | ~3 |
+| Godslayer | 9.00% | ~3 |
+| Geared Up | 9.00% | ~3 |
+| Fashion Victim | 9.00% | ~3 |
 | Calm before the Storm | 6.00% | ~2 |
 | The Mentor | 6.00% | ~2 |
 | Miner | 6.00% | ~2 |
@@ -36,12 +36,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -3.20% | ~-1 |
-| Big Bazar | -3.20% | ~-1 |
-| Flawless Victory | -6.50% | ~-2 |
+| Shatterer | -3.10% | ~-1 |
+| Big Bazar | -3.10% | ~-1 |
+| Flawless Victory | -6.30% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 463)  
-Completed: 1 (3.23%) (Ranked 78)  
+Progressed: 32 (Ranked 462)  
+Completed: 1 (3.12%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,3 +60,4 @@ Completed: 1 (3.23%) (Ranked 78)
 | 2023-09-19 | 25 | 1 |
 | 2023-09-26 | 30 | 1 |
 | 2023-09-27 | 31 | 1 |
+| 2023-10-03 | 32 | 1 |

@@ -38,7 +38,7 @@
 | Escaped from a big trouble | 53.00% | ~175 |
 | Now you are worthy | 50.00% | ~166 |
 | Fight is life | 48.00% | ~159 |
-| Mysterious voice | 47.00% | ~156 |
+| Mysterious voice | 48.00% | ~159 |
 | Guiding on the right path | 47.00% | ~156 |
 | No blades in the gym | 46.00% | ~152 |
 | Champion – no way back | 44.00% | ~146 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~99 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331 (Ranked 298)  
-Completed: 8 (2.42%) (Ranked 96)  
+Completed: 8 (2.42%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

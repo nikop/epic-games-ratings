@@ -11,30 +11,30 @@ Number of Ratings: 19,160  (23.09.2022)
 | First Victory | 50.00% | ~237,032 |
 | He's Sold! | 48.00% | ~227,551 |
 | I'm The Boss! | 42.00% | ~199,107 |
-| Hat-trick | 41.00% | ~194,366 |
-| Scoring Streak | 38.00% | ~180,144 |
+| Hat-trick | 41.00% | ~194,367 |
+| Scoring Streak | 38.00% | ~180,145 |
 | Unbeatable! | 37.00% | ~175,404 |
 | Thumping | 37.00% | ~175,404 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,922 |
-| Total Support | 32.00% | ~151,700 |
-| Record Signing | 32.00% | ~151,700 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,923 |
+| Total Support | 32.00% | ~151,701 |
+| Record Signing | 32.00% | ~151,701 |
 | He's a Natural | 31.00% | ~146,960 |
 | Millionaire's Club | 31.00% | ~146,960 |
-| Team Performance | 30.00% | ~142,219 |
+| Team Performance | 30.00% | ~142,220 |
 | Parked The Bus | 29.00% | ~137,479 |
 | Shrewd Spender | 29.00% | ~137,479 |
 | Star Man | 29.00% | ~137,479 |
 | Attack! | 28.00% | ~132,738 |
-| Tremendous Trio | 27.00% | ~127,997 |
-| Record Sale | 27.00% | ~127,997 |
+| Tremendous Trio | 27.00% | ~127,998 |
+| Record Sale | 27.00% | ~127,998 |
 | You're On Fire | 26.00% | ~123,257 |
 | On A Roll | 26.00% | ~123,257 |
 | Unstoppable Force | 26.00% | ~123,257 |
 | Armchair Expert | 25.00% | ~118,516 |
-| Fantastic Five | 24.00% | ~113,775 |
-| Full Faith | 24.00% | ~113,775 |
-| Iron Curtain | 24.00% | ~113,775 |
-| The Boss | 24.00% | ~113,775 |
+| Fantastic Five | 24.00% | ~113,776 |
+| Full Faith | 24.00% | ~113,776 |
+| Iron Curtain | 24.00% | ~113,776 |
+| The Boss | 24.00% | ~113,776 |
 | Top Of The Class | 23.00% | ~109,035 |
 | Goal Machine | 23.00% | ~109,035 |
 | Splashing The Cash | 22.00% | ~104,294 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,064 (Ranked 36)  
+Progressed: 474,065 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 22 (0.00%) (Ranked 306)
 | 2023-09-30 | 473,932 | 21 |
 | 2023-10-01 | 473,996 | 22 |
 | 2023-10-02 | 474,037 | 22 |
-| 2023-10-03 | 474,064 | 22 |
+| 2023-10-03 | 474,065 | 22 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
 Sum: 50,823 (Ranked 26)  

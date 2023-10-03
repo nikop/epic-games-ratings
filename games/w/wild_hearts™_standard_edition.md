@@ -40,9 +40,9 @@
 | Volatile Vocation | 24.00% | ~23 |
 | Style Seeker | 24.00% | ~23 |
 | Karakuri Minato | 24.00% | ~23 |
+| Canyon of Karakuri | 23.00% | ~22 |
+| Karakuri Fortress | 23.00% | ~22 |
 | Jack of All Trades | 23.00% | ~22 |
-| Canyon of Karakuri | 22.00% | ~21 |
-| Karakuri Fortress | 22.00% | ~21 |
 | Superlative View | 21.00% | ~20 |
 | Tender Touch | 19.00% | ~18 |
 | Quintessence of Form | 19.00% | ~18 |

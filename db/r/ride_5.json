@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1270,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2179,6 +2179,11 @@
       "Time": "2023-10-03T17:04:57.0124154+00:00",
       "NumProgressed": 1270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T18:03:30.5261998+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2191,7 +2196,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2399,7 +2404,7 @@
       "Name": "Clean Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2487,7 +2492,7 @@
       "Name": "Eat My Dust",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2543,7 +2548,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2582,14 +2587,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1270,
+      "Progressed": 1271,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:04:57.0124152+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:03:30.526199+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:03:07.0029226+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:04:57.0124656+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:00:19.3024673+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:03:30.526271+00:00"
 }

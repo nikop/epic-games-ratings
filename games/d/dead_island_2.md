@@ -5,44 +5,44 @@ Rating: 4.54 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,709 |
-| Hotel California | 3.00% | ~20,709 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,709 |
-| Welcome To Hell-A | 3.00% | ~20,709 |
-| Dr. Reed, I Presume? | 2.00% | ~13,806 |
-| Git Gutte! | 2.00% | ~13,806 |
-| Anger Management | 2.00% | ~13,806 |
-| Perks of the Job | 2.00% | ~13,806 |
-| Bookworm | 2.00% | ~13,806 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,806 |
-| But Doctor, I am Butcho | 2.00% | ~13,806 |
-| Slayer Squad | 2.00% | ~13,806 |
-| Can't Handle the Truth | 2.00% | ~13,806 |
-| Coup de Grâce | 2.00% | ~13,806 |
-| Like Riding a Bike | 2.00% | ~13,806 |
-| Hazardous Materials | 2.00% | ~13,806 |
-| Friends Like These | 2.00% | ~13,806 |
-| Apex Predator | 2.00% | ~13,806 |
-| Zombologist | 2.00% | ~13,806 |
-| Ooh, Shiny! | 2.00% | ~13,806 |
-| A Patton Emerges | 2.00% | ~13,806 |
-| I Am the Resurrection | 2.00% | ~13,806 |
-| Stacking the Deck | 2.00% | ~13,806 |
-| Our True Nature | 2.00% | ~13,806 |
-| This is My Weapon | 2.00% | ~13,806 |
+| Break A Leg | 3.00% | ~20,710 |
+| Hotel California | 3.00% | ~20,710 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,710 |
+| Welcome To Hell-A | 3.00% | ~20,710 |
+| Dr. Reed, I Presume? | 2.00% | ~13,807 |
+| Git Gutte! | 2.00% | ~13,807 |
+| Anger Management | 2.00% | ~13,807 |
+| Perks of the Job | 2.00% | ~13,807 |
+| Bookworm | 2.00% | ~13,807 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,807 |
+| But Doctor, I am Butcho | 2.00% | ~13,807 |
+| Slayer Squad | 2.00% | ~13,807 |
+| Can't Handle the Truth | 2.00% | ~13,807 |
+| Coup de Grâce | 2.00% | ~13,807 |
+| Like Riding a Bike | 2.00% | ~13,807 |
+| Hazardous Materials | 2.00% | ~13,807 |
+| Friends Like These | 2.00% | ~13,807 |
+| Apex Predator | 2.00% | ~13,807 |
+| Zombologist | 2.00% | ~13,807 |
+| Ooh, Shiny! | 2.00% | ~13,807 |
+| A Patton Emerges | 2.00% | ~13,807 |
+| I Am the Resurrection | 2.00% | ~13,807 |
+| Stacking the Deck | 2.00% | ~13,807 |
+| Our True Nature | 2.00% | ~13,807 |
+| This is My Weapon | 2.00% | ~13,807 |
 | Making Your Mark | 1.00% | ~6,903 |
 | Humanity Distilled | 1.00% | ~6,903 |
 | Down with the Sickness | 1.00% | ~6,903 |
 | Max Headroom | 1.00% | ~6,903 |
 | Go, Bobcats! | 0.90% | ~6,213 |
 | Rising Star | 0.90% | ~6,213 |
-| Smorgasbord | 0.80% | ~5,522 |
-| Jumbo Keyring | 0.80% | ~5,522 |
+| Smorgasbord | 0.80% | ~5,523 |
+| Jumbo Keyring | 0.80% | ~5,523 |
 | On Safari | 0.60% | ~4,142 |
 | Not Even My Final Form | 0.60% | ~4,142 |
 | Internet Famous | 0.60% | ~4,142 |
-| Make it So | 0.50% | ~3,451 |
-| Variety is the Spice of Death | 0.50% | ~3,451 |
+| Variety is the Spice of Death | 0.60% | ~4,142 |
+| Make it So | 0.50% | ~3,452 |
 | LA Influential | 0.40% | ~2,761 |
 | Gore Horse | 0.40% | ~2,761 |
 | Sharpest Tool in the Box | 0.40% | ~2,761 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 512)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,289 (Ranked 22)  
+Progressed: 690,327 (Ranked 22)  
 Completed: 2,189 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 2,189 (0.32%) (Ranked 195)
 | 2023-09-30 | 688,801 | 2,180 |
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
-| 2023-10-03 | 690,289 | 2,189 |
+| 2023-10-03 | 690,327 | 2,189 |
 ## Awards
 Max (Great Boss Battles): 6,301  (Ranked 58)  
 Sum: 9,396 (Ranked 91)  

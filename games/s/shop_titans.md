@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.70% | ~959 |
 | A Notch Above the Rest | 0.60% | ~822 |
 | Tax not Included | 0.60% | ~822 |
+| The King's Caprice | 0.60% | ~822 |
 | Big Game Hunting | 0.60% | ~822 |
 | For the Hoard! | 0.60% | ~822 |
 | Scrapbooker | 0.60% | ~822 |
@@ -68,7 +69,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.50% | ~685 |
 | Above the Norm | 0.50% | ~685 |
 | A Ronin Reborn | 0.50% | ~685 |
-| The King's Caprice | 0.50% | ~685 |
 | Thirst for Knowledge | 0.50% | ~685 |
 | Booty by the Boatload | 0.50% | ~685 |
 | Archivist | 0.50% | ~685 |
@@ -288,16 +288,16 @@ Completed: 160 (0.12%) (Ranked 234)
 | 2023-10-03 | 137,059 | 160 |
 ## Awards
 Max (Great for Beginners): 4,765  (Ranked 71)  
-Sum: 27,321 (Ranked 49)  
+Sum: 27,325 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,765 |
 | This game is Relaxing | 4,018 |
 | This game has Quickly Understood Controls | 4,008 |
-| This game has Diverse Characters | 3,899 |
+| This game has Diverse Characters | 3,902 |
 | This game is Highly Recommended | 3,755 |
-| This game has Easy Combat | 3,695 |
+| This game has Easy Combat | 3,696 |
 | This game has Playful Visuals | 3,181 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -551,4 +551,4 @@ Diff (max vs sum): 22
 | 2023-09-30 | 3.99 | - | 4,763 | 27,314 |
 | 2023-10-01 | 3.99 | - | 4,763 | 27,316 |
 | 2023-10-02 | 3.99 | - | 4,765 | 27,320 |
-| 2023-10-03 | 3.99 | - | 4,765 | 27,321 |
+| 2023-10-03 | 3.99 | - | 4,765 | 27,325 |

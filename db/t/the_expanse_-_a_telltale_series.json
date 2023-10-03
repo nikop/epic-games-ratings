@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,10 +142,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13496,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 601,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 13499,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 597,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -7547,6 +7547,11 @@
       "Time": "2023-10-03T17:07:00.4041308+00:00",
       "NumProgressed": 13496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T18:04:57.4990567+00:00",
+      "NumProgressed": 13499,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7589,9 +7594,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 135
     },
     {
       "ID": "14",
@@ -7613,17 +7618,17 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "18",
@@ -7637,9 +7642,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "2",
@@ -7701,17 +7706,17 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "28",
@@ -7733,9 +7738,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "30",
@@ -7789,25 +7794,25 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13496,
-      "Completed": 1
+      "Progressed": 13499,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:07:00.4041303+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:04:57.4990559+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:01:44.064716+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:07:00.4042042+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:27.1919939+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:04:57.4991282+00:00"
 }

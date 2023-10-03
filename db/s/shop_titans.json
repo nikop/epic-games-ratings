@@ -6284,10 +6284,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27321,
       "NumberOfAwardsMax": 4765
+    },
+    {
+      "Time": "2023-10-03T18:00:04.0873389+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27325,
+      "NumberOfAwardsMax": 4765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27321,
+  "NumberOfAwards": 27325,
   "NumberOfAwardsMax": 4765,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6301,7 +6307,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3899
+      "Count": 3902
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6313,7 +6319,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3695
+      "Count": 3696
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6342,7 +6348,7 @@
   ],
   "EOS_Progressed": 137059,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23480,9 +23486,9 @@
       "ID": "bigsale03",
       "SetID": "anfd17p",
       "Name": "The King\u0027s Caprice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 822
     },
     {
       "ID": "blueprint01",
@@ -24287,9 +24293,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-03T15:00:12.2888748+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:04:46.1380337+00:00",
+  "LastChanged": "2023-10-03T18:00:04.0873388+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:03:23.0543875+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:02:43.1913558+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:04:46.1383408+00:00"
+  "LastUpdate_Ratings": "2023-10-03T18:00:04.0873394+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:03:23.0546526+00:00"
 }

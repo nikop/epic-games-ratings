@@ -6,6 +6,7 @@ Rating: 4.64 (Ranked 315)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.20% | ~48 |
+| Don't Knife The Hand That Feeds | 0.20% | ~48 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -29,7 +30,6 @@ Rating: 4.64 (Ranked 315)
 | Self-Actualization | 0.10% | ~24 |
 | Who's The Boss? | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
-| Don't Knife The Hand That Feeds | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |

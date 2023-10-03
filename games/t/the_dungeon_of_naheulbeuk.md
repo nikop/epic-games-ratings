@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,103 |
-| Alt+F4 | 6.00% | ~13,707 |
-| Where's that freaking Dwarf? | 5.00% | ~11,422 |
-| Déjà vu | 4.00% | ~9,138 |
-| Sock! SOCK! | 4.00% | ~9,138 |
-| A beer, two curses, three companions | 3.00% | ~6,853 |
-| GG EZ | 3.00% | ~6,853 |
-| DM intervention | 3.00% | ~6,853 |
-| Speedrun | 3.00% | ~6,853 |
-| Fireproof Wizardess | 3.00% | ~6,853 |
+| Sowwy! | 32.00% | ~73,108 |
+| Alt+F4 | 6.00% | ~13,708 |
+| Where's that freaking Dwarf? | 5.00% | ~11,423 |
+| Déjà vu | 4.00% | ~9,139 |
+| Sock! SOCK! | 4.00% | ~9,139 |
+| A beer, two curses, three companions | 3.00% | ~6,854 |
+| GG EZ | 3.00% | ~6,854 |
+| DM intervention | 3.00% | ~6,854 |
+| Speedrun | 3.00% | ~6,854 |
+| Fireproof Wizardess | 3.00% | ~6,854 |
 | Livin' in a dwarven paradise | 2.00% | ~4,569 |
 | Way of the Wimp | 2.00% | ~4,569 |
 | The plot thickens... At the tavern | 2.00% | ~4,569 |
@@ -27,19 +27,19 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 2.00% | ~4,569 |
 | Team Building Exercise | 2.00% | ~4,569 |
 | Oh, when I'll be level 10... | 2.00% | ~4,569 |
-| Shiny and Crôm | 1.00% | ~2,284 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,284 |
-| Res Judicata | 1.00% | ~2,284 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,284 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,284 |
-| Dwarf Fortress | 1.00% | ~2,284 |
-| %#*!$*! | 1.00% | ~2,284 |
-| Look but don't touch | 1.00% | ~2,284 |
-| The beards of change | 1.00% | ~2,284 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,284 |
-| The Ranger of Chaos | 1.00% | ~2,284 |
-| I am the night | 1.00% | ~2,284 |
-| Thieves' Guild Accreditation | 1.00% | ~2,284 |
+| Shiny and Crôm | 1.00% | ~2,285 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,285 |
+| Res Judicata | 1.00% | ~2,285 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,285 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,285 |
+| Dwarf Fortress | 1.00% | ~2,285 |
+| %#*!$*! | 1.00% | ~2,285 |
+| Look but don't touch | 1.00% | ~2,285 |
+| The beards of change | 1.00% | ~2,285 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,285 |
+| The Ranger of Chaos | 1.00% | ~2,285 |
+| I am the night | 1.00% | ~2,285 |
+| Thieves' Guild Accreditation | 1.00% | ~2,285 |
 | Lust and Debauchery | 0.90% | ~2,056 |
 | Dead for good | 0.80% | ~1,828 |
 | Material Girl | 0.80% | ~1,828 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~228 |
 | Dwarf Candy | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,447 (Ranked 58)  
+Progressed: 228,463 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,15 +220,15 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
-| 2023-10-03 | 228,447 | 5 |
+| 2023-10-03 | 228,463 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
-Sum: 399 (Ranked 326)  
+Sum: 400 (Ranked 326)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 205 |
-| This game is Relaxing | 31 |
+| This game is Relaxing | 32 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 24 |
@@ -386,4 +386,4 @@ Diff (max vs sum): -51
 | 2023-09-30 | 4.59 | - | 202 | 394 |
 | 2023-10-01 | 4.59 | - | 205 | 397 |
 | 2023-10-02 | 4.59 | - | 205 | 398 |
-| 2023-10-03 | 4.59 | - | 205 | 399 |
+| 2023-10-03 | 4.59 | - | 205 | 400 |

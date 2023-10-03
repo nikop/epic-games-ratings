@@ -4,7 +4,7 @@
   "ProductSlug": "cyberpunk-2077",
   "Ranking_Rating": 336,
   "Ranking_Popularity": 9,
-  "Ranking_PopularitySum": 11,
+  "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 20,
@@ -12917,10 +12917,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888342,
-  "EOS_Completed": 2563,
-  "EOS_NewPlayers": 6098,
-  "EOS_NewCompleters": 152,
+  "EOS_Progressed": 888360,
+  "EOS_Completed": 2565,
+  "EOS_NewPlayers": 6067,
+  "EOS_NewCompleters": 153,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31627,6 +31627,11 @@
       "Time": "2023-10-03T17:10:04.6676799+00:00",
       "NumProgressed": 888342,
       "NumCompleted": 2563
+    },
+    {
+      "Time": "2023-10-03T18:08:16.02199+00:00",
+      "NumProgressed": 888360,
+      "NumCompleted": 2565
     }
   ],
   "TotalAchievements": 57,
@@ -31646,7 +31651,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "BushidoAndChill",
@@ -31710,7 +31715,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "Gunslinger",
@@ -31718,7 +31723,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26650
+      "UsersEstimate": 26651
     },
     {
       "ID": "HandyMan",
@@ -31726,7 +31731,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26650
+      "UsersEstimate": 26651
     },
     {
       "ID": "IAmMaxTac",
@@ -31758,7 +31763,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "MaxPain",
@@ -31766,7 +31771,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "MustBeTheRats",
@@ -31846,7 +31851,7 @@
       "Name": "The Devil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "TheFool",
@@ -31854,7 +31859,7 @@
       "Name": "The Fool",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "TheHermit",
@@ -31868,9 +31873,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17767
+      "UsersEstimate": 26651
     },
     {
       "ID": "TheLovers",
@@ -31910,7 +31915,7 @@
       "Name": "The World",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "ThisIsPacifica",
@@ -31926,7 +31931,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26650
+      "UsersEstimate": 26651
     },
     {
       "ID": "TrueSoldier",
@@ -31958,7 +31963,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "VForVendetta",
@@ -31974,7 +31979,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -32093,21 +32098,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888342,
-      "Completed": 2563
+      "Progressed": 888360,
+      "Completed": 2565
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16965,
+      "Progressed": 16983,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T17:02:34.3254899+00:00",
-  "LastChanged_Achievements": "2023-10-03T17:10:04.6676792+00:00",
+  "LastChanged_Achievements": "2023-10-03T18:08:16.0219895+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T17:02:34.3254907+00:00",
-  "LastUpdate_Achievements": "2023-10-03T17:10:04.6678556+00:00"
+  "LastUpdate_Ratings": "2023-10-03T17:59:59.1287943+00:00",
+  "LastUpdate_Achievements": "2023-10-03T18:08:16.0221633+00:00"
 }

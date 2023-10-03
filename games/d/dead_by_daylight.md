@@ -6,7 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Zealous | 0.20% | ~1,834 |
 | It wakes | 0.20% | ~1,834 |
+| Skillful | 0.20% | ~1,834 |
 | The Grand Sacrifice | 0.10% | ~917 |
 | A bite for the Entity | 0.10% | ~917 |
 | A feast for the Entity | 0.10% | ~917 |
@@ -28,7 +30,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.10% | ~917 |
 | Perfect Escape | 0.10% | ~917 |
 | Perfect Killing | 0.10% | ~917 |
-| Zealous | 0.10% | ~917 |
 | Not half bad | 0.10% | ~917 |
 | Bloody Millionaire | 0.10% | ~917 |
 | Gifts for the Fog | 0.10% | ~917 |
@@ -44,7 +45,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~917 |
 | Adept Wraith | 0.10% | ~917 |
 | Adept Hillbilly | 0.10% | ~917 |
-| Skillful | 0.10% | ~917 |
 | I | 0.10% | ~917 |
 | II | 0.10% | ~917 |
 | III | 0.10% | ~917 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~917 |
 | Adept Ripley | 0.10% | ~917 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 916,966 (Ranked 14)  
+Progressed: 917,087 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,11 +402,11 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-09-30 | 911,680 | 49 |
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
-| 2023-10-03 | 916,966 | 49 |
+| 2023-10-03 | 917,087 | 49 |
 ## Awards
 Max (Diverse Characters): 33,374  (Ranked 15)  
-Sum: 259,054 (Ranked 12)  
-Diff (max vs sum): 3  
+Sum: 259,054 (Ranked 13)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,374 |
