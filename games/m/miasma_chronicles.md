@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.42 (Ranked 690)  
+Rating: 4.42 (Ranked 689)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +22,7 @@ Rating: 4.42 (Ranked 690)
 | The meaning of Kain | 42.00% | ~617 |
 | Technophobe | 41.00% | ~602 |
 | Recycler | 40.00% | ~588 |
-| Are you not entertained? | 35.00% | ~514 |
+| Are you not entertained? | 36.00% | ~529 |
 | Ganglord | 35.00% | ~514 |
 | Jarhead | 35.00% | ~514 |
 | Infiltrator | 35.00% | ~514 |

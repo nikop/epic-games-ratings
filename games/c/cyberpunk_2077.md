@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,535 |
-| Rough Landing | 4.00% | ~35,535 |
+| Ten out of Ten | 4.00% | ~35,536 |
+| Rough Landing | 4.00% | ~35,536 |
 | Gunslinger | 3.00% | ~26,652 |
 | Master Crafter | 3.00% | ~26,652 |
 | The High Priestess | 3.00% | ~26,652 |
@@ -35,10 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,884 |
 | Judy vs Night City | 1.00% | ~8,884 |
 | It's Elementary | 1.00% | ~8,884 |
+| Spin Doctor | 0.90% | ~153 |
 | City Lights | 0.80% | ~7,107 |
 | Life of the Road | 0.80% | ~7,107 |
 | Greetings from Pacifica! | 0.80% | ~7,107 |
-| Spin Doctor | 0.80% | ~136 |
 | Bushido and Chill | 0.60% | ~5,330 |
 | I Am The Law | 0.60% | ~5,330 |
 | The Wandering Fool | 0.50% | ~4,442 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,385 (Ranked 15)  
-Completed: 2,567 (0.29%) (Ranked 203)  
+Progressed: 888,399 (Ranked 15)  
+Completed: 2,568 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 2,567 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,385 | 2,567 |
+| 2023-10-03 | 888,399 | 2,568 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 259,371 (Ranked 12)  

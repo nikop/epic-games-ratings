@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2428,9 +2428,9 @@
       "ID": "Achievement_020",
       "SetID": "6b34g18",
       "Name": "Sic Transit Umbra",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_021",
@@ -2532,9 +2532,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_034",
@@ -2821,8 +2821,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:06:51.503103+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:07:16.9086308+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.8794547+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:21.677885+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:06:51.5031919+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:36.5680659+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:07:16.9087254+00:00"
 }

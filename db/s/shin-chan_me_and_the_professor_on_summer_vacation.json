@@ -4,8 +4,8 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -271,9 +271,9 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Trophy_20",
@@ -303,9 +303,9 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Trophy_24",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:06:23.1126832+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:06:48.0685917+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:43.6438398+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:57:52.1814965+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:06:23.1127216+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:58:09.0707465+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:06:48.0686332+00:00"
 }

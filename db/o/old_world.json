@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14321,
+  "EOS_Progressed": 14325,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12880,6 +12880,11 @@
       "Time": "2023-10-03T19:07:26.4683633+00:00",
       "NumProgressed": 14321,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-03T20:08:11.4293729+00:00",
+      "NumProgressed": 14325,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13081,41 +13086,41 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3",
@@ -13401,9 +13406,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -13513,9 +13518,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -13553,9 +13558,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -13649,9 +13654,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -14297,9 +14302,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -14329,9 +14334,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -14409,9 +14414,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -14721,9 +14726,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -15626,21 +15631,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14321,
+      "Progressed": 14325,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14321,
+      "Progressed": 14325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:07:26.4683627+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:08:11.4293716+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:59:23.7759035+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:07:26.46971+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:59:37.8342864+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:08:11.4306877+00:00"
 }

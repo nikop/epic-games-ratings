@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -344,9 +344,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 552,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2244,6 +2244,11 @@
       "Time": "2023-10-03T19:03:57.367774+00:00",
       "NumProgressed": 551,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T20:04:22.2166554+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2270,9 +2275,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2400,15 +2405,15 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_OASIS",
@@ -2424,7 +2429,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_PROPELL",
@@ -2464,7 +2469,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2487,15 +2492,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 552,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-03T14:59:31.6429715+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:03:57.3677727+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:04:22.2166541+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:59:58.1195221+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:03:57.3678108+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:13.5064534+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:04:22.2166953+00:00"
 }

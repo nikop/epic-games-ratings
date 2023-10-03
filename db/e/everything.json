@@ -2,13 +2,13 @@
   "ID": "854ca270c7f04fe483212a35811e9189",
   "Name": "Everything",
   "ProductSlug": "everything",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2017-04-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -100,6 +100,6 @@
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
   "LastChanged": "2023-07-13T02:24:11.9157674+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:21.5637201+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:31.6254805+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:05:56.2981677+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:46.0000426+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:06:20.9791059+00:00"
 }

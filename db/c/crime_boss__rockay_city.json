@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3852,9 +3852,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88719,
+  "EOS_Progressed": 88721,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21092,6 +21092,11 @@
       "Time": "2023-10-03T19:08:06.6641724+00:00",
       "NumProgressed": 88719,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-03T20:08:20.9036768+00:00",
+      "NumProgressed": 88721,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -21389,9 +21394,9 @@
       "ID": "ACH_0600",
       "SetID": "3kam13l",
       "Name": "Rockay Rex",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_1010",
@@ -21430,22 +21435,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88719,
+      "Progressed": 88721,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17066,
-      "Completed": 15540
+      "Progressed": 17068,
+      "Completed": 15541
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-03T17:57:52.8784582+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:08:06.6641717+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:08:20.903676+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:58:06.828457+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:08:06.6643312+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:58:23.2203113+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:08:20.9038478+00:00"
 }

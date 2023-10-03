@@ -6,28 +6,34 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.40% | ~57 |
 | Play a Single Player Game | 0.40% | ~57 |
 | Explorer | 0.30% | ~43 |
 | Intrepid | 0.30% | ~43 |
-| Settler | 0.30% | ~43 |
 | Friendly Family | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
 | Architect | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
 | Good | 0.20% | ~29 |
 | Just | 0.20% | ~29 |
+| Keystone | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
 | Noble | 0.20% | ~29 |
 | Pioneer | 0.20% | ~29 |
 | Strong | 0.20% | ~29 |
+| Warrior | 0.20% | ~29 |
 | Wise | 0.20% | ~29 |
 | Hanging Gardens | 0.20% | ~29 |
+| Ishtar Gate | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
+| Necropolis | 0.20% | ~29 |
 | Oracle | 0.20% | ~29 |
+| Learn to Play 1 | 0.20% | ~29 |
 | Judaism | 0.20% | ~29 |
 | Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
+| Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Naming Landmarks | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
@@ -41,6 +47,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
 | Gold Victory (Carthage 1) | 0.10% | ~14 |
 | Silver Victory (Carthage 1) | 0.10% | ~14 |
+| Carthage - Riches and Influence | 0.10% | ~14 |
+| Bronze Victory (Carthage 2) | 0.10% | ~14 |
+| Epic Victory (Carthage 2) | 0.10% | ~14 |
+| Gold Victory (Carthage 2) | 0.10% | ~14 |
+| Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Seizing Destiny | 0.10% | ~14 |
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
@@ -58,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
-| Keystone | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Magnificent | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
@@ -68,13 +78,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~14 |
 | Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
-| Warrior | 0.10% | ~14 |
 | Developing Cities | 0.10% | ~14 |
 | Legendary Cities | 0.10% | ~14 |
 | Strong Cities | 0.10% | ~14 |
 | Able Difficulty | 0.10% | ~14 |
 | Glorious Difficulty | 0.10% | ~14 |
 | Good Difficulty | 0.10% | ~14 |
+| Great Difficulty | 0.10% | ~14 |
 | Just Difficulty | 0.10% | ~14 |
 | Magnificent Difficulty | 0.10% | ~14 |
 | Noble Difficulty | 0.10% | ~14 |
@@ -118,15 +128,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
-| Ishtar Gate | 0.10% | ~14 |
 | Mausoleum | 0.10% | ~14 |
 | Musaeum | 0.10% | ~14 |
-| Necropolis | 0.10% | ~14 |
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
-| Learn to Play 1 | 0.10% | ~14 |
 | Learn to Play 2 | 0.10% | ~14 |
 | Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
@@ -153,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Egyptian Paganism | 0.10% | ~14 |
-| Greek Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
 | Zoroastrianism | 0.10% | ~14 |
@@ -258,11 +264,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Riches and Influence | 0.00% | ~0 |
-| Bronze Victory (Carthage 2) | 0.00% | ~0 |
-| Epic Victory (Carthage 2) | 0.00% | ~0 |
-| Gold Victory (Carthage 2) | 0.00% | ~0 |
-| Silver Victory (Carthage 2) | 0.00% | ~0 |
 | Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -281,7 +282,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
-| Great Difficulty | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,321 (Ranked 133)  
+Progressed: 14,325 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,321 | 5 |
+| 2023-10-03 | 14,325 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

@@ -2,10 +2,10 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-09-30T11:05:46.9523061+00:00",
       "NumProgressed": 386,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-03T20:08:15.7792017+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -500,9 +505,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -558,7 +563,7 @@
       "Name": "High Roller",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -652,9 +657,9 @@
       "ID": "FULLY_LEVEL_CAR",
       "SetID": "20koof9",
       "Name": "Amateur Mechanic",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -668,9 +673,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -694,7 +699,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -814,7 +819,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "STUNT_EVENT",
@@ -852,9 +857,9 @@
       "ID": "USE_ROCKET",
       "SetID": "20koof9",
       "Name": "Rocketman",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "USE_TUNNEL",
@@ -878,7 +883,7 @@
       "Name": "Event Amateur",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -941,7 +946,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 2
     }
   ],
@@ -949,8 +954,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:07:31.0671636+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:08:15.7792004+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:28.3341467+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:02:08.1617054+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:07:31.0672193+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:01:31.678674+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:08:15.7792657+00:00"
 }

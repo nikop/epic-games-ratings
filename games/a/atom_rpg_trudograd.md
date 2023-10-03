@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.53 (Ranked 524)  
+Rating: 4.53 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 524)
 | Power of Simplicity | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,242 (Ranked 222)  
+Progressed: 1,243 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 1,239 | 0 |
 | 2023-10-01 | 1,240 | 0 |
 | 2023-10-02 | 1,242 | 0 |
+| 2023-10-03 | 1,243 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 494)  
 Sum: 25 (Ranked 502)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1996,
+  "EOS_Progressed": 1997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-10-03T19:04:26.8394127+00:00",
       "NumProgressed": 1996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T20:04:51.716188+00:00",
+      "NumProgressed": 1997,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1694,16 +1699,16 @@
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 280
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1996,
+      "Progressed": 1997,
       "Completed": 0
     }
   ],
@@ -1711,8 +1716,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-03T14:59:38.7883609+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:04:26.8394116+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:04:51.7161872+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:07.43966+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:04:26.8394366+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:22.291413+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:04:51.7162371+00:00"
 }

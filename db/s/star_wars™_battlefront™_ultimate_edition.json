@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -1001,6 +1001,11 @@
       "Time": "2023-10-03T18:04:12.9959875+00:00",
       "NumProgressed": 407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T20:04:58.3666428+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1085,7 +1090,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_19",
@@ -1109,15 +1114,15 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_22",
@@ -1157,7 +1162,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_27",
@@ -1203,17 +1208,17 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_33",
@@ -1237,23 +1242,23 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_38",
@@ -1277,7 +1282,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_40",
@@ -1285,7 +1290,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_41",
@@ -1301,7 +1306,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_43",
@@ -1317,7 +1322,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_45",
@@ -1333,7 +1338,7 @@
       "Name": "Patience you must have",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_47",
@@ -1365,7 +1370,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_50",
@@ -1453,7 +1458,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_60",
@@ -1501,7 +1506,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_9",
@@ -1516,13 +1521,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 410,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 407,
+      "Progressed": 410,
       "Completed": 1
     }
   ],
@@ -1530,8 +1535,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:04:33.7145891+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:04:58.3666414+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:42.9944268+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:04:33.7146666+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:57.0135321+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:04:58.3667163+00:00"
 }

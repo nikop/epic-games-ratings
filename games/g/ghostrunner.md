@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~14,712 |
-| Sword Runner | 61.00% | ~11,808 |
-| Running out of breath | 54.00% | ~10,453 |
-| Wallrunner | 54.00% | ~10,453 |
-| Homerunner | 45.00% | ~8,711 |
+| Longrunner | 76.00% | ~14,713 |
+| Sword Runner | 61.00% | ~11,809 |
+| Running out of breath | 54.00% | ~10,454 |
+| Wallrunner | 54.00% | ~10,454 |
+| Homerunner | 45.00% | ~8,712 |
 | I call it luck | 44.00% | ~8,518 |
 | Out of order | 44.00% | ~8,518 |
-| Where are my Keys? | 40.00% | ~7,743 |
+| Where are my Keys? | 40.00% | ~7,744 |
 | Back to hell | 36.00% | ~6,969 |
 | Perfection | 32.00% | ~6,195 |
-| Why not both | 30.00% | ~5,807 |
+| Why not both | 30.00% | ~5,808 |
 | Sword to a gunfight | 29.00% | ~5,614 |
 | Upgrades not mandatory | 29.00% | ~5,614 |
-| Artificial selection | 28.00% | ~5,420 |
+| Artificial selection | 28.00% | ~5,421 |
 | Control freak | 27.00% | ~5,227 |
 | Running Wild | 27.00% | ~5,227 |
 | Finish line | 26.00% | ~5,033 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 12.00% | ~2,323 |
 | Triple A | 9.00% | ~1,742 |
 | One Of Those Days | 7.00% | ~1,355 |
-| Fine addition | 6.00% | ~1,161 |
+| Fine addition | 6.00% | ~1,162 |
 | Where He Stood | 5.00% | ~968 |
 | About Adam | 4.00% | ~774 |
 | Push it to the limit | 4.00% | ~774 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~77 |
 | Up Close And Personal | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,358 (Ranked 122)  
+Progressed: 19,359 (Ranked 122)  
 Completed: 73 (0.38%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 73 (0.38%) (Ranked 182)
 | 2023-09-30 | 19,165 | 72 |
 | 2023-10-01 | 19,242 | 72 |
 | 2023-10-02 | 19,311 | 73 |
-| 2023-10-03 | 19,358 | 73 |
+| 2023-10-03 | 19,359 | 73 |
 ## Awards
 Max (Great Boss Battles): 500  (Ranked 203)  
 Sum: 715 (Ranked 281)  

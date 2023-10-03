@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 3.00% | ~4,112 |
+| Basic in Bulk | 3.00% | ~4,112 |
 | Titan's First Steps | 3.00% | ~4,112 |
-| Basic in Bulk | 2.00% | ~2,741 |
 | Disintermediation | 2.00% | ~2,741 |
 | It's Free Real Estate | 2.00% | ~2,741 |
 | Tinkle of Coins | 2.00% | ~2,741 |
@@ -31,13 +31,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.90% | ~1,234 |
 | Did we pack lunch? | 0.90% | ~1,234 |
 | Arcane Industries | 0.90% | ~1,234 |
-| On the Path to Greatness | 0.80% | ~1,096 |
-| Ascended | 0.80% | ~1,096 |
-| Vanity, Verily | 0.80% | ~1,096 |
-| Blank Page Syndrome | 0.80% | ~1,096 |
-| Efficient Floor Space | 0.80% | ~1,096 |
-| Gem Expert | 0.80% | ~1,096 |
-| Helping Hand | 0.80% | ~1,096 |
+| On the Path to Greatness | 0.80% | ~1,097 |
+| Ascended | 0.80% | ~1,097 |
+| Vanity, Verily | 0.80% | ~1,097 |
+| Blank Page Syndrome | 0.80% | ~1,097 |
+| Efficient Floor Space | 0.80% | ~1,097 |
+| Gem Expert | 0.80% | ~1,097 |
+| Helping Hand | 0.80% | ~1,097 |
 | Research & Development | 0.70% | ~959 |
 | Fated Encounters | 0.70% | ~959 |
 | Power of Love | 0.70% | ~959 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,060 (Ranked 71)  
+Progressed: 137,064 (Ranked 71)  
 Completed: 160 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 160 (0.12%) (Ranked 234)
 | 2023-09-30 | 136,919 | 158 |
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
-| 2023-10-03 | 137,060 | 160 |
+| 2023-10-03 | 137,064 | 160 |
 ## Awards
 Max (Great for Beginners): 4,765  (Ranked 71)  
 Sum: 27,325 (Ranked 49)  

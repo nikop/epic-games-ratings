@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3335,9 +3335,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 529
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3744,8 +3744,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-23T02:13:50.9579032+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:04:06.9130592+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:04:31.8457566+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.7050691+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:59.1740085+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:04:06.9131226+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:01:12.601888+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:04:31.8458259+00:00"
 }

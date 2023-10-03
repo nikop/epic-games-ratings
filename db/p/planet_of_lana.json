@@ -4,8 +4,8 @@
   "ProductSlug": "planet-of-lana-a9febe",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -34,5 +34,5 @@
   "FirstSeen": "2023-05-24T16:58:16.2301109+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:32.2212346+00:00",
   "LastUpdate_Ratings": "2023-10-03T19:02:11.0214545+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:09:10.7777577+00:00"
+  "LastUpdate_Achievements": "2023-10-03T20:09:24.3614679+00:00"
 }

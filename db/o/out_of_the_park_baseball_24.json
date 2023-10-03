@@ -4,8 +4,8 @@
   "ProductSlug": "out-of-the-park-baseball-24-eb4cf8",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-25T16:00:00+00:00",
     "PcReleaseDate": "2023-03-25T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.995639+00:00",
   "LastChanged": "2023-03-31T05:58:37.9956391+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.5096902+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:57:55.9755972+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:04:53.2177964+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:58:13.3373088+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:05:17.8601924+00:00"
 }

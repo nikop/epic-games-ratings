@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 31.00% | ~120 |
+| Brace for impact! | 32.00% | ~124 |
 | Baby's First Car | 29.00% | ~112 |
+| Amateur Mechanic | 29.00% | ~112 |
 | Pushover | 29.00% | ~112 |
 | A Forest Walk | 29.00% | ~112 |
-| Amateur Mechanic | 28.00% | ~108 |
+| C-C-C-Combo! | 27.00% | ~104 |
 | Multiply that! | 27.00% | ~104 |
-| C-C-C-Combo! | 26.00% | ~100 |
 | Fore! | 24.00% | ~93 |
 | Insurance fraud | 24.00% | ~93 |
 | Snow Fun! | 24.00% | ~93 |
@@ -29,8 +29,8 @@
 | Car-Tapult | 20.00% | ~77 |
 | Anger Issues | 20.00% | ~77 |
 | Your Highness | 20.00% | ~77 |
-| Event Amateur | 19.00% | ~73 |
-| Feeling Dizzy? | 18.00% | ~69 |
+| Event Amateur | 19.00% | ~74 |
+| Feeling Dizzy? | 18.00% | ~70 |
 | Drift King! | 17.00% | ~66 |
 | Feeling Hot Hot Hot! | 17.00% | ~66 |
 | Ferry Good! | 17.00% | ~66 |
@@ -39,10 +39,10 @@
 | Out of this League | 14.00% | ~54 |
 | Special Forces | 13.00% | ~50 |
 | Toot Toot! | 12.00% | ~46 |
+| Rocketman | 12.00% | ~46 |
 | Blasting away! | 12.00% | ~46 |
-| High Roller | 11.00% | ~42 |
-| Earth Defense Force | 11.00% | ~42 |
-| Rocketman | 11.00% | ~42 |
+| High Roller | 11.00% | ~43 |
+| Earth Defense Force | 11.00% | ~43 |
 | Event Pro | 10.00% | ~39 |
 | Space Crash | 7.00% | ~27 |
 | To war! | 6.00% | ~23 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 290)  
+Progressed: 387 (Ranked 289)  
 Completed: 2 (0.52%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 2 (0.52%) (Ranked 168)
 | 2023-09-25 | 384 | 2 |
 | 2023-09-26 | 385 | 2 |
 | 2023-09-30 | 386 | 2 |
+| 2023-10-03 | 387 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

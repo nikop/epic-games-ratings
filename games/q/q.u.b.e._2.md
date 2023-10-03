@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 690)  
+Rating: 4.42 (Ranked 689)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,12 +11,12 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 54.00% | ~298 |
 | Power Glove | 52.00% | ~287 |
 | Forgotten Memories | 50.00% | ~276 |
-| Cogs in the Machine | 44.00% | ~242 |
-| Mission Success | 28.00% | ~154 |
-| There's No Place Like Home | 26.00% | ~143 |
-| Green Cube Killer | 23.00% | ~127 |
+| Cogs in the Machine | 44.00% | ~243 |
+| Mission Success | 28.00% | ~155 |
+| There's No Place Like Home | 26.00% | ~144 |
+| Green Cube Killer | 24.00% | ~132 |
+| Path to Salvation | 20.00% | ~110 |
 | Infinity Loop | 19.00% | ~105 |
-| Path to Salvation | 19.00% | ~105 |
 | Descendants | 18.00% | ~99 |
 | The Flawed Teacher | 16.00% | ~88 |
 | The Truthful Enemy | 7.00% | ~39 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551 (Ranked 260)  
+Progressed: 552 (Ranked 260)  
 Completed: 1 (0.18%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.18%) (Ranked 221)
 | 2023-09-30 | 503 | 1 |
 | 2023-10-01 | 516 | 1 |
 | 2023-10-02 | 536 | 1 |
-| 2023-10-03 | 551 | 1 |
+| 2023-10-03 | 552 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,14 +1,14 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 537)  
+Rating: 4.52 (Ranked 536)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.20% | ~1,834 |
-| It wakes | 0.20% | ~1,834 |
-| Skillful | 0.20% | ~1,834 |
+| Zealous | 0.20% | ~1,835 |
+| It wakes | 0.20% | ~1,835 |
+| Skillful | 0.20% | ~1,835 |
 | The Grand Sacrifice | 0.10% | ~917 |
 | A bite for the Entity | 0.10% | ~917 |
 | A feast for the Entity | 0.10% | ~917 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~917 |
 | Adept Ripley | 0.10% | ~917 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917,204 (Ranked 14)  
+Progressed: 917,310 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-09-30 | 911,680 | 49 |
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
-| 2023-10-03 | 917,204 | 49 |
+| 2023-10-03 | 917,310 | 49 |
 ## Awards
 Max (Diverse Characters): 33,374  (Ranked 15)  
 Sum: 259,054 (Ranked 13)  

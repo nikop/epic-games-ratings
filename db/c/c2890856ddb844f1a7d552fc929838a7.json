@@ -2,20 +2,20 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -104,6 +104,12 @@
     {
       "Time": "2023-09-27T19:59:42.8018395+00:00",
       "Rating": 4.83,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-03T19:59:23.0661096+00:00",
+      "Rating": 4.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1931,9 +1937,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 615
     },
     {
       "ID": "AC04",
@@ -2283,9 +2289,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:05:55.1581644+00:00",
+  "LastChanged": "2023-10-03T19:59:23.0661093+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:06:19.750772+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:59:09.3249488+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:05:55.1582106+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:59:23.0661102+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:06:19.7508229+00:00"
 }

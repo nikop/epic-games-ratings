@@ -2,9 +2,9 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -321,9 +321,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EpicACHV_15",
@@ -393,9 +393,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "EpicACHV_8",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:05:31.1505369+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:05:55.582097+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:24.8951942+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:05:31.1505541+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:39.666053+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:05:55.5821174+00:00"
 }

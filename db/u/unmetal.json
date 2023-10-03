@@ -2,13 +2,13 @@
   "ID": "dfc4917a747748a0a25835f7152a30b4",
   "Name": "UnMetal",
   "ProductSlug": "unmetal",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-28T17:00:00+00:00",
     "PcReleaseDate": "2021-09-28T17:00:00+00:00",
@@ -181,6 +181,6 @@
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
   "LastChanged": "2023-07-19T09:00:35.4636591+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:09.7110073+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:58:45.739326+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:06:27.3661804+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:58:59.6577983+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:06:52.2502762+00:00"
 }

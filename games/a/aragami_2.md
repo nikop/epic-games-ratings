@@ -1,18 +1,18 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 492)  
+Rating: 4.55 (Ranked 491)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,349 |
-| First Steps | 80.00% | ~34,709 |
+| Awakening | 93.00% | ~40,350 |
+| First Steps | 80.00% | ~34,710 |
 | Control the Shadows | 67.00% | ~29,069 |
-| Tools of the Trade | 63.00% | ~27,333 |
+| Tools of the Trade | 63.00% | ~27,334 |
 | Apprentice | 60.00% | ~26,032 |
-| Secret Seeker | 57.00% | ~24,730 |
-| Forge of Assassins | 55.00% | ~23,862 |
+| Secret Seeker | 57.00% | ~24,731 |
+| Forge of Assassins | 55.00% | ~23,863 |
 | Revenant | 52.00% | ~22,561 |
 | I don’t Care! | 45.00% | ~19,524 |
 | Bird of Prey | 37.00% | ~16,053 |
@@ -23,15 +23,15 @@ Number of Ratings: 88  (23.09.2022)
 | Soul Reaver | 22.00% | ~9,545 |
 | Embers | 21.00% | ~9,111 |
 | Wall Lizard | 20.00% | ~8,677 |
-| Clinging to Life | 18.00% | ~7,809 |
+| Clinging to Life | 18.00% | ~7,810 |
 | Burning | 17.00% | ~7,376 |
 | Look Behind You | 16.00% | ~6,942 |
 | Sleeping on the Job | 16.00% | ~6,942 |
 | Family | 14.00% | ~6,074 |
 | War Engines | 14.00% | ~6,074 |
 | Signature Move | 14.00% | ~6,074 |
-| Ruse | 11.00% | ~4,772 |
-| Master Ninja | 11.00% | ~4,772 |
+| Ruse | 11.00% | ~4,773 |
+| Master Ninja | 11.00% | ~4,773 |
 | Hatching | 10.00% | ~4,339 |
 | Bonds | 9.00% | ~3,905 |
 | Get Over Here | 9.00% | ~3,905 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~868 |
 | Anger Management | 1.00% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,386 (Ranked 102)  
+Progressed: 43,387 (Ranked 102)  
 Completed: 238 (0.55%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 238 (0.55%) (Ranked 163)
 | 2023-09-30 | 43,365 | 238 |
 | 2023-10-01 | 43,369 | 238 |
 | 2023-10-02 | 43,384 | 238 |
-| 2023-10-03 | 43,386 | 238 |
+| 2023-10-03 | 43,387 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

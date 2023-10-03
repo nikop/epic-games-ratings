@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 330,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -955,9 +955,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_11",
@@ -979,9 +979,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_14",
@@ -1097,8 +1097,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:04:01.6860924+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:04:26.6185287+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T18:58:01.5653416+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:04:01.6861228+00:00"
+  "LastUpdate_Ratings": "2023-10-03T19:58:19.239831+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:04:26.618552+00:00"
 }

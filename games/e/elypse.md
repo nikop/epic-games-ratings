@@ -24,7 +24,7 @@
 | Big badaboom! | 27.00% | ~26 |
 | Magnitude 5 | 25.00% | ~24 |
 | Bookworm | 25.00% | ~24 |
-| Payback | 23.00% | ~22 |
+| Payback | 24.00% | ~23 |
 | Nokron tower | 22.00% | ~21 |
 | Full power | 21.00% | ~20 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~20 |

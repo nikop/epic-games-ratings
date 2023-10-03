@@ -12923,10 +12923,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888385,
-  "EOS_Completed": 2567,
-  "EOS_NewPlayers": 6043,
-  "EOS_NewCompleters": 153,
+  "EOS_Progressed": 888399,
+  "EOS_Completed": 2568,
+  "EOS_NewPlayers": 6001,
+  "EOS_NewCompleters": 150,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31643,6 +31643,11 @@
       "Time": "2023-10-03T19:08:29.6351311+00:00",
       "NumProgressed": 888385,
       "NumCompleted": 2567
+    },
+    {
+      "Time": "2023-10-03T20:09:03.7685095+00:00",
+      "NumProgressed": 888399,
+      "NumCompleted": 2568
     }
   ],
   "TotalAchievements": 57,
@@ -31838,7 +31843,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35535
+      "UsersEstimate": 35536
     },
     {
       "ID": "Temperance",
@@ -31854,7 +31859,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35535
+      "UsersEstimate": 35536
     },
     {
       "ID": "TheDevil",
@@ -32052,9 +32057,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "Kingofcups",
@@ -32109,21 +32114,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888385,
-      "Completed": 2567
+      "Progressed": 888399,
+      "Completed": 2568
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17008,
+      "Progressed": 17022,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T19:00:42.8452019+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:08:29.6351306+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:09:03.7685087+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:42.8452026+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:08:29.6353188+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:56.867385+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:09:03.7687122+00:00"
 }

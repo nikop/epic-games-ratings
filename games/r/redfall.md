@@ -14,10 +14,10 @@ Rating: 3.54 (Ranked 1,008)
 | Catch and Release | 0.90% | ~16 |
 | Enter of Your Own Free Will | 0.80% | ~14 |
 | Sucks To Be You | 0.80% | ~14 |
+| Wounded Whispers | 0.80% | ~14 |
 | Welcome to the Neighborhood | 0.70% | ~12 |
 | Peek-a-boo | 0.70% | ~12 |
 | ICU | 0.70% | ~12 |
-| Wounded Whispers | 0.70% | ~12 |
 | Heart Attack | 0.70% | ~12 |
 | Skin of Their Teeth | 0.70% | ~12 |
 | Neighborhood Revitalization | 0.60% | ~10 |
@@ -25,7 +25,7 @@ Rating: 3.54 (Ranked 1,008)
 | Radio Silence | 0.60% | ~10 |
 | From the Shadows | 0.60% | ~10 |
 | Bad Wiring | 0.50% | ~9 |
-| Sic Transit Umbra | 0.40% | ~7 |
+| Sic Transit Umbra | 0.50% | ~9 |
 | Bell-ringer | 0.40% | ~7 |
 | Good Morning | 0.40% | ~7 |
 | Right This Way | 0.40% | ~7 |

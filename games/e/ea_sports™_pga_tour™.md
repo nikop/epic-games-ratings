@@ -9,10 +9,10 @@
 | From Way Downtown | 68.00% | ~224 |
 | Clean Sheet | 68.00% | ~224 |
 | Winner's Circle | 60.00% | ~198 |
-| Holey Moley | 55.00% | ~182 |
+| Holey Moley | 56.00% | ~185 |
 | Bomb's Away | 52.00% | ~172 |
 | Perfect Round | 51.00% | ~168 |
-| Competitor's Spirit | 42.00% | ~139 |
+| Competitor's Spirit | 43.00% | ~142 |
 | The Strongest Field in Golf | 35.00% | ~115 |
 | Ace in the Hole | 31.00% | ~102 |
 | From Many, One | 29.00% | ~96 |

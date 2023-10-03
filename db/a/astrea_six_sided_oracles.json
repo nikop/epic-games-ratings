@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MechanicIntegration",
@@ -806,9 +806,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "UnepicHero",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T19:08:28.0693873+00:00",
+  "LastChanged_Achievements": "2023-10-03T20:08:42.1578231+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T19:00:27.1840947+00:00",
-  "LastUpdate_Achievements": "2023-10-03T19:08:28.0694789+00:00"
+  "LastUpdate_Ratings": "2023-10-03T20:00:42.0200033+00:00",
+  "LastUpdate_Achievements": "2023-10-03T20:08:42.1579284+00:00"
 }

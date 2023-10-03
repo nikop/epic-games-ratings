@@ -25,15 +25,15 @@
 | Soldier Ally | 50.00% | ~270 |
 | Colonial Savior | 49.00% | ~265 |
 | Paramour I | 46.00% | ~249 |
-| Sentinel Ally | 45.00% | ~243 |
+| Sentinel Ally | 46.00% | ~249 |
 | Krogan Ally | 45.00% | ~243 |
 | Scientist | 45.00% | ~243 |
 | Merciless | 44.00% | ~238 |
 | Head Hunter | 42.00% | ~227 |
+| Operative | 41.00% | ~222 |
+| Scholar | 41.00% | ~222 |
 | Missing in Action | 40.00% | ~216 |
 | Very Elusive | 40.00% | ~216 |
-| Operative | 40.00% | ~216 |
-| Scholar | 40.00% | ~216 |
 | Veteran | 39.00% | ~211 |
 | Power Full | 38.00% | ~206 |
 | The Professor | 37.00% | ~200 |
