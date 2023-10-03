@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.46% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.35% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -14,8 +14,8 @@
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.45% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.00% |
-| 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
+| 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 17 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 18 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
@@ -61,7 +61,7 @@
 | 59 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.55% |
+| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.53% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
@@ -87,14 +87,14 @@
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 87 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 88 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
+| 88 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 89 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 90 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.44% |
+| 95 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.43% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
@@ -121,8 +121,8 @@
 | 119 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.41% |
 | 119 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.41% |
 | 119 | [Late Shift](games/l/late_shift.md) | 1.41% |
-| 122 | [Ten Dates](games/t/ten_dates.md) | 1.40% |
-| 123 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
+| 122 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
+| 122 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
 | 124 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 125 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 126 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.32% |
@@ -177,9 +177,9 @@
 | 175 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
-| 178 | [Dead Space](games/d/dead_space.md) | 0.41% |
-| 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
+| 178 | [Dead Space](games/d/dead_space.md) | 0.40% |
+| 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 178 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 181 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 181 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
