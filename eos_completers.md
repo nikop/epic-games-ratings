@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.93% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.86% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -40,11 +40,11 @@
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 40 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
+| 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 42 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.55% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.32% |
-| 45 | [Time Loader](games/t/time_loader.md) | 7.26% |
+| 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.05% |
 | 48 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
@@ -60,14 +60,14 @@
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.67% |
+| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.63% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
-| 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
+| 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -134,7 +134,7 @@
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
 | 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 134 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
-| 135 | [Adios](games/a/adios.md) | 1.04% |
+| 135 | [Adios](games/a/adios.md) | 1.05% |
 | 136 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 136 | [Sable](games/s/sable.md) | 1.01% |
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
@@ -147,7 +147,7 @@
 | 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 147 | [Eternights](games/e/eternights.md) | 0.78% |
-| 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.77% |
+| 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.76% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
@@ -647,4 +647,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,337 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,338 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
