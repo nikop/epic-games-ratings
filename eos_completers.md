@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.35% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 63.21% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -34,7 +34,7 @@
 | 32 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 32 | [Smelter](games/s/smelter.md) | 10.00% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.17% |
+| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.16% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
@@ -56,12 +56,12 @@
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 55 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 56 | [JARS](games/j/jars.md) | 5.06% |
-| 57 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
-| 58 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 59 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
-| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.53% |
+| 57 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.84% |
+| 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
+| 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
+| 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.76% |
+| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.41% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.10% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
@@ -82,7 +82,7 @@
 | 80 | [Monster Harvest](games/m/monster_harvest.md) | 3.18% |
 | 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.04% |
+| 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.03% |
 | 84 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.94% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
@@ -179,13 +179,13 @@
 | 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
 | 178 | [Dead Space](games/d/dead_space.md) | 0.40% |
 | 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
 | 178 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 181 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 181 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 181 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
-| 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 186 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 182 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 185 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
 | 187 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 187 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 187 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
@@ -531,6 +531,7 @@
 | 306 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
 | 306 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 0.00% |
 | 306 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
+| 306 | [Ragnarok Survivors Valhalla](games/3/377c7afca797475bb73be258c94f82ea.md) | 0.00% |
 | 306 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
 | 306 | [Redfall](games/r/redfall.md) | 0.00% |
 | 306 | [Redout 2](games/r/redout_2.md) | 0.00% |
@@ -646,4 +647,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,334 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,335 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

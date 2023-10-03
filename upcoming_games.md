@@ -1,8 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [chaosMetaverse](games/9/9926944b03b14dc98d84869233860862.md) | 2023-10-03 | - |  | - | - |
-| [Ragnarok Survivors Valhalla](games/3/377c7afca797475bb73be258c94f82ea.md) | 2023-10-03 | 34 (1,000 XP) | 0 | - | - |
-| [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [100 Halloweens](games/d/dda3ccf6a2454ea5bd2266051d785ccf.md) | 2023-10-03 | - |  | - | - |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-10-03 | - |  | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2023-10-03 | 25 (1,000 XP) | 0 | - | - |
@@ -24,6 +21,7 @@
 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 2023-10-11 | 12 (1,000 XP) | 0 | - | - |
 | [The Front](games/t/the_front.md) | 2023-10-11 | - |  | - | - |
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | - |  | - | - |
+| [Moons of Ardan](games/8/820b1fcc8d6c46e59d7ae15218b06834.md) | 2023-10-12 | - |  | - | 0 |
 | [Dwerve](games/5/5c5879f971c54d49a584be96ac0f4b49.md) | 2023-10-12 | - |  | - | - |
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 1 | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
@@ -88,6 +86,7 @@
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Alder Choke](games/a/alder_choke.md) | 2023-12-31 | - |  | - | - |
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | 2023-12-31 | - |  | - | - |
+| [Arms Race 2](games/d/d3b4722b35674be186318c5f5e14b13e.md) | 2023-12-31 | - |  | - | - |
 | [Asterix and Obelix Slap Them All 2](games/3/3afeb43f23944b2da7aba1f04ad5756c.md) | 2023-12-31 | - |  | - | - |
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2023-12-31 | - |  | - | - |
 | [Below the Stone](games/5/5bf936d4fd4843b38fc2e8b7ea682c08.md) | 2023-12-31 | - |  | - | - |
@@ -191,7 +190,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,445 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 17,452 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -346,7 +345,7 @@
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
 | [Lost And Found Beta](games/5/52584c975e1d43d5b8c521f9a3eb64a1.md) | 2099-01-01 | - |  | - | - |
 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2099-01-01 | 42 (1,000 XP) | 5 | - | - |
-| [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 2099-01-01 | 29 (1,000 XP) | 22 | - | - |
+| [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 2099-01-01 | 29 (1,000 XP) | 23 | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |
