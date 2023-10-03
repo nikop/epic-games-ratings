@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2121,9 +2121,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43559,
+  "EOS_Progressed": 43560,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7296,6 +7296,11 @@
       "Time": "2023-10-02T13:10:11.7555001+00:00",
       "NumProgressed": 43559,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-03T03:05:39.2252752+00:00",
+      "NumProgressed": 43560,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7307,7 +7312,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7379,7 +7384,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17859
+      "UsersEstimate": 17860
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -7563,7 +7568,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15681
+      "UsersEstimate": 15682
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -7571,7 +7576,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13503
+      "UsersEstimate": 13504
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -7619,7 +7624,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16552
+      "UsersEstimate": 16553
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -7627,7 +7632,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15681
+      "UsersEstimate": 15682
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -7683,7 +7688,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15681
+      "UsersEstimate": 15682
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -7707,7 +7712,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28749
+      "UsersEstimate": 28750
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -7763,7 +7768,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28313
+      "UsersEstimate": 28314
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7827,22 +7832,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15681
+      "UsersEstimate": 15682
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43559,
+      "Progressed": 43560,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-01T18:58:21.250076+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:21:26.7728835+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:05:39.2252744+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:14:53.0512209+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:21:26.7729656+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:58:34.3800578+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:05:39.2253991+00:00"
 }

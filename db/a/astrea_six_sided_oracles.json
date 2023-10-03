@@ -289,9 +289,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AstralSeeker",
@@ -697,9 +697,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "StellarDismantler",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:25:16.7062036+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:09:02.7482726+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:16:18.6914532+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:25:16.7062837+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:00:45.5924934+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:09:02.748398+00:00"
 }

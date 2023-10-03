@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 77.00% | ~104,705 |
-| Dead-ball specialist | 65.00% | ~88,387 |
-| European Legend | 53.00% | ~72,069 |
-| Multitasking | 52.00% | ~70,710 |
-| Let the Games Begin | 51.00% | ~69,350 |
-| High Grades | 51.00% | ~69,350 |
-| Balanced Path | 50.00% | ~67,990 |
-| A Moment of Your Time | 49.00% | ~66,630 |
-| Aiming High | 47.00% | ~63,911 |
-| Tactical Tinkerer | 44.00% | ~59,831 |
-| Squad Building Connoisseur | 42.00% | ~57,112 |
-| Intuition and Execution | 41.00% | ~55,752 |
-| The Winning Formula | 40.00% | ~54,392 |
-| Parking the Bus | 31.00% | ~42,154 |
-| Safe House | 29.00% | ~39,434 |
-| Best of Five | 25.00% | ~33,995 |
-| The Chosen One | 24.00% | ~32,635 |
-| Football is Everything | 24.00% | ~32,635 |
-| Fresh Fit | 22.00% | ~29,916 |
-| Bring it on | 18.00% | ~24,476 |
-| Life-Like | 15.00% | ~20,397 |
-| Make the Grade | 13.00% | ~17,677 |
-| I Played Them All | 11.00% | ~14,958 |
-| Specialist | 11.00% | ~14,958 |
-| First of Many | 10.00% | ~13,598 |
-| Teamwork works | 9.00% | ~12,238 |
-| Momentous Achievement | 7.00% | ~9,519 |
-| Becoming Unplayable | 6.00% | ~8,159 |
-| Shop till you drop | 6.00% | ~8,159 |
-| On the way up | 6.00% | ~8,159 |
-| Volta's best | 5.00% | ~6,799 |
-| In Cahoots | 5.00% | ~6,799 |
-| Tune Your Club | 5.00% | ~6,799 |
-| Full-House | 4.00% | ~5,439 |
-| Sharing is Caring | 4.00% | ~5,439 |
+| Power Shot | 77.00% | ~104,733 |
+| Dead-ball specialist | 65.00% | ~88,411 |
+| European Legend | 53.00% | ~72,089 |
+| Multitasking | 52.00% | ~70,729 |
+| Let the Games Begin | 51.00% | ~69,369 |
+| High Grades | 51.00% | ~69,369 |
+| Balanced Path | 50.00% | ~68,008 |
+| A Moment of Your Time | 49.00% | ~66,648 |
+| Aiming High | 47.00% | ~63,928 |
+| Tactical Tinkerer | 44.00% | ~59,847 |
+| Squad Building Connoisseur | 42.00% | ~57,127 |
+| Intuition and Execution | 41.00% | ~55,767 |
+| The Winning Formula | 40.00% | ~54,407 |
+| Parking the Bus | 31.00% | ~42,165 |
+| Safe House | 29.00% | ~39,445 |
+| Best of Five | 25.00% | ~34,004 |
+| The Chosen One | 24.00% | ~32,644 |
+| Football is Everything | 24.00% | ~32,644 |
+| Fresh Fit | 22.00% | ~29,924 |
+| Bring it on | 18.00% | ~24,483 |
+| Life-Like | 15.00% | ~20,403 |
+| Make the Grade | 13.00% | ~17,682 |
+| I Played Them All | 11.00% | ~14,962 |
+| Specialist | 11.00% | ~14,962 |
+| First of Many | 10.00% | ~13,602 |
+| Teamwork works | 9.00% | ~12,242 |
+| Momentous Achievement | 7.00% | ~9,521 |
+| Becoming Unplayable | 6.00% | ~8,161 |
+| Shop till you drop | 6.00% | ~8,161 |
+| On the way up | 6.00% | ~8,161 |
+| Volta's best | 5.00% | ~6,801 |
+| In Cahoots | 5.00% | ~6,801 |
+| Tune Your Club | 5.00% | ~6,801 |
+| Full-House | 4.00% | ~5,441 |
+| Sharing is Caring | 4.00% | ~5,441 |
 | Full wardrobe | 0.70% | ~952 |
 | Girl Power | 0.40% | ~544 |
 | Training Addict | 0.10% | ~136 |
 | Dazzling Personality | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,980 (Ranked 71)  
+Progressed: 136,017 (Ranked 71)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,15 +64,15 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 129,529 | 0 |
 | 2023-10-01 | 133,505 | 0 |
 | 2023-10-02 | 135,754 | 0 |
-| 2023-10-03 | 135,980 | 0 |
+| 2023-10-03 | 136,017 | 0 |
 ## Awards
 Max (Diverse Characters): 19,988  (Ranked 19)  
-Sum: 101,579 (Ranked 14)  
+Sum: 101,586 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 19,988 |
-| This game is Highly Recommended | 14,008 |
+| This game is Highly Recommended | 14,015 |
 | This game has a Competitive Community | 13,159 |
 | This game has Amazing Characters | 11,493 |
 | This game is Extremely Fun | 11,071 |
@@ -354,3 +354,4 @@ Diff (max vs sum): 5
 | 2023-09-30 | 4.26 | 19,936 | 101,340 |
 | 2023-10-01 | 4.26 | 19,969 | 101,486 |
 | 2023-10-02 | 4.26 | 19,988 | 101,579 |
+| 2023-10-03 | 4.26 | 19,988 | 101,586 |

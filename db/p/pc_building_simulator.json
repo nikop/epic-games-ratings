@@ -4804,9 +4804,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 3565439,
+  "EOS_Progressed": 3565442,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 2627,
+  "EOS_NewPlayers": 2623,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23564,6 +23564,11 @@
       "Time": "2023-10-03T02:23:08.7391752+00:00",
       "NumProgressed": 3565439,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-10-03T03:08:08.6484611+00:00",
+      "NumProgressed": 3565442,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 52,
@@ -23615,7 +23620,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 570470
+      "UsersEstimate": 570471
     },
     {
       "ID": "BUILD_2",
@@ -23639,7 +23644,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1390521
+      "UsersEstimate": 1390522
     },
     {
       "ID": "CASH_2",
@@ -23735,7 +23740,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1033977
+      "UsersEstimate": 1033978
     },
     {
       "ID": "JOBS_2",
@@ -23743,7 +23748,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 392198
+      "UsersEstimate": 392199
     },
     {
       "ID": "JOBS_3",
@@ -23815,7 +23820,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1747065
+      "UsersEstimate": 1747067
     },
     {
       "ID": "NO_PASTE",
@@ -23823,7 +23828,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1640102
+      "UsersEstimate": 1640103
     },
     {
       "ID": "OPC_BM_1",
@@ -23990,15 +23995,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3565439,
+      "Progressed": 3565442,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-10-02T16:00:33.3533108+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:23:08.7391747+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:08:08.6484604+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.6256586+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:13:56.1123184+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:08.7393369+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:57:03.4217821+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:08.6486571+00:00"
 }

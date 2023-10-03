@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13462,
+  "EOS_Progressed": 13463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7482,6 +7482,11 @@
       "Time": "2023-10-03T02:21:37.6948268+00:00",
       "NumProgressed": 13462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T03:05:54.6017043+00:00",
+      "NumProgressed": 13463,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7524,9 +7529,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "14",
@@ -7676,17 +7681,17 @@
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "5",
@@ -7733,7 +7738,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13462,
+      "Progressed": 13463,
       "Completed": 0
     }
   ],
@@ -7741,8 +7746,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:21:37.6948261+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:05:54.6017033+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:15:58.6037511+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:21:37.6948917+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:00:13.4925337+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:05:54.6017856+00:00"
 }

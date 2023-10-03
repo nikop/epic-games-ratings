@@ -2688,9 +2688,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 189430,
+  "EOS_Progressed": 189432,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 2947,
+  "EOS_NewPlayers": 2943,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11423,6 +11423,11 @@
       "Time": "2023-10-03T02:25:35.0783768+00:00",
       "NumProgressed": 189430,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-10-03T03:09:29.9840208+00:00",
+      "NumProgressed": 189432,
+      "NumCompleted": 354
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11515,7 +11520,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -11834,7 +11839,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 189430,
+      "Progressed": 189432,
       "Completed": 354
     }
   ],
@@ -11842,8 +11847,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-02T23:59:07.3269655+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:25:35.0783764+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:09:29.9840202+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:11.7554102+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:15:07.3427444+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:25:35.0784583+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:58:55.3131007+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:09:29.9841344+00:00"
 }

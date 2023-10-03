@@ -408,9 +408,9 @@
       "ID": "27",
       "SetID": "5e3maia",
       "Name": "Madly in love",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "28",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:22:27.9526723+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:07:08.3243517+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.546408+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:15:16.6280981+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:22:27.9527457+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:59:09.3540201+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:07:08.3244566+00:00"
 }

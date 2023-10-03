@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~751,415 |
-| The ABCs | 43.00% | ~659,405 |
-| Home Run | 41.00% | ~628,735 |
-| Keeps Coming Off | 41.00% | ~628,735 |
-| Guts | 20.00% | ~306,700 |
-| Meat Grinder | 19.00% | ~291,365 |
-| Burning Man | 16.00% | ~245,360 |
-| Lived to Tell the Tale | 12.00% | ~184,020 |
-| Highlander | 10.00% | ~153,350 |
-| Unstoppable | 10.00% | ~153,350 |
-| Just a Scratch | 9.00% | ~138,015 |
+| Justice from the Grave | 49.00% | ~751,419 |
+| The ABCs | 43.00% | ~659,408 |
+| Home Run | 41.00% | ~628,738 |
+| Keeps Coming Off | 41.00% | ~628,738 |
+| Guts | 20.00% | ~306,702 |
+| Meat Grinder | 19.00% | ~291,367 |
+| Burning Man | 16.00% | ~245,361 |
+| Lived to Tell the Tale | 12.00% | ~184,021 |
+| Highlander | 10.00% | ~153,351 |
+| Unstoppable | 10.00% | ~153,351 |
+| Just a Scratch | 9.00% | ~138,016 |
 | Tough Nut to Crack | 6.00% | ~92,010 |
 | Yoink | 6.00% | ~92,010 |
 | Long List of Names | 4.00% | ~61,340 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 729)
 | That’s No Ordinary Cold | 0.10% | ~1,534 |
 | Stairway to Hell | 0.10% | ~1,534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533,501 (Ranked 8)  
+Progressed: 1,533,508 (Ranked 8)  
 Completed: 59 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 59 (0.00%) (Ranked 304)
 | 2023-09-30 | 1,532,140 | 59 |
 | 2023-10-01 | 1,532,935 | 59 |
 | 2023-10-02 | 1,533,445 | 59 |
-| 2023-10-03 | 1,533,501 | 59 |
+| 2023-10-03 | 1,533,508 | 59 |
 ## Awards
 Max (Diverse Characters): 738  (Ranked 167)  
 Sum: 3,904 (Ranked 150)  

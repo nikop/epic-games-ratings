@@ -2,12 +2,12 @@
   "ID": "72688fa8862442c8867c8b22bd8957b6",
   "Name": "Child of Light: Ultimate Edition",
   "ProductSlug": "child-of-light",
-  "Ranking_Rating": 56,
+  "Ranking_Rating": 57,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2014-04-30T15:00:00+00:00",
@@ -80,6 +80,6 @@
   "FirstSeenRating": "2022-11-17T15:58:01.6088436+00:00",
   "LastChanged": "2023-03-31T05:58:09.1674755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:09.6718763+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:16:43.0065584+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:20:39.3787417+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:01:24.1901356+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:04:29.4074069+00:00"
 }

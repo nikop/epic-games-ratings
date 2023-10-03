@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70437,
+  "EOS_Progressed": 70438,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -18439,6 +18439,11 @@
       "Time": "2023-10-03T02:23:16.3080518+00:00",
       "NumProgressed": 70437,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-10-03T03:08:19.1623439+00:00",
+      "NumProgressed": 70438,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 24,
@@ -18466,7 +18471,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47897
+      "UsersEstimate": 47898
     },
     {
       "ID": "BEST_FRIENDS",
@@ -18514,7 +18519,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -18626,7 +18631,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8452
+      "UsersEstimate": 8453
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -18641,7 +18646,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70437,
+      "Progressed": 70438,
       "Completed": 373
     }
   ],
@@ -18649,8 +18654,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:23:16.3080513+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:08:19.1623432+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.2012891+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:17:02.5250182+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:16.308184+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:01:54.7764236+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:19.1625345+00:00"
 }

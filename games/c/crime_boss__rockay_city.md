@@ -8,8 +8,8 @@ Rating: 3.94 (Ranked 976)
 | First One’s Free | 1.00% | ~887 |
 | Downed but Not Outed | 1.00% | ~887 |
 | Neophyte Ninja | 0.90% | ~798 |
+| Too Old for This | 0.80% | ~709 |
 | Underworld Initiate | 0.70% | ~621 |
-| Too Old for This | 0.70% | ~621 |
 | Roid Ranger | 0.60% | ~532 |
 | Fancy Pants | 0.60% | ~532 |
 | Off the Rocks | 0.60% | ~532 |

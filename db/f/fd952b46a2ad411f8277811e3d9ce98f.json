@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17398,
+  "EOS_Progressed": 17399,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3414,6 +3414,11 @@
       "Time": "2023-10-03T02:21:14.0507803+00:00",
       "NumProgressed": 17398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T03:05:20.3635136+00:00",
+      "NumProgressed": 17399,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -3522,7 +3527,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7655
+      "UsersEstimate": 7656
     },
     {
       "ID": "kills_100",
@@ -3673,13 +3678,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 17398,
+      "Progressed": 17399,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:21:14.0507798+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:05:20.3635129+00:00",
   "LastUpdate_AppInfo": "2023-09-27T11:57:09.2891413+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:19:10.4739529+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:21:14.0508281+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:02:21.3287481+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:05:20.3635818+00:00"
 }

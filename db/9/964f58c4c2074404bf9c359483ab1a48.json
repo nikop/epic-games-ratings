@@ -1488,9 +1488,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 1273860,
+  "EOS_Progressed": 1273863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2450,
+  "EOS_NewPlayers": 2441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15798,6 +15798,11 @@
       "Time": "2023-10-03T02:21:00.9711632+00:00",
       "NumProgressed": 1273860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T03:05:00.948592+00:00",
+      "NumProgressed": 1273863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -16073,7 +16078,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50954
+      "UsersEstimate": 50955
     },
     {
       "ID": "50_riot_shield_kills",
@@ -16105,7 +16110,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 764316
+      "UsersEstimate": 764318
     },
     {
       "ID": "hunter_win",
@@ -16113,7 +16118,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 687884
+      "UsersEstimate": 687886
     },
     {
       "ID": "master_of_loadouts",
@@ -16144,7 +16149,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1273860,
+      "Progressed": 1273863,
       "Completed": 0
     }
   ],
@@ -16152,8 +16157,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-10-02T15:58:12.4024632+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:21:00.9711626+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:05:00.9485913+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:59.2722126+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:15:11.9633113+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:21:00.9712819+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:59:02.8568825+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:05:00.9487407+00:00"
 }

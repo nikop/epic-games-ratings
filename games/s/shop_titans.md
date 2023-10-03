@@ -56,6 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.60% | ~822 |
 | Expansion in Session | 0.60% | ~822 |
 | Trash to Treasure | 0.60% | ~822 |
+| Mammonite | 0.60% | ~822 |
 | Miracle Alchemist | 0.60% | ~822 |
 | Seasoned Journeyman | 0.60% | ~822 |
 | Scourge of the Seas | 0.60% | ~822 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.50% | ~685 |
 | Fit for a King | 0.50% | ~685 |
 | By Your Powers Combined... | 0.50% | ~685 |
-| Mammonite | 0.50% | ~685 |
 | Wealth Beyond Measure | 0.50% | ~685 |
 | Fat Cat Tag Team | 0.50% | ~685 |
 | Necromancer Queen | 0.50% | ~685 |

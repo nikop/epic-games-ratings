@@ -2,9 +2,9 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -271,6 +271,11 @@
       "Time": "2023-09-29T01:46:46.9952382+00:00",
       "NumProgressed": 240,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-03T03:08:07.9745713+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -282,7 +287,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "605742",
@@ -290,7 +295,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "605752",
@@ -298,7 +303,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "605762",
@@ -312,33 +317,33 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "605782",
       "SetID": "4lpaifm",
       "Name": "Creator of Technology",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "605802",
       "SetID": "4lpaifm",
       "Name": "Creator of Magic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "605812",
@@ -352,17 +357,17 @@
       "ID": "605822",
       "SetID": "4lpaifm",
       "Name": "Brilliant Inventor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "605832",
       "SetID": "4lpaifm",
       "Name": "Deity of Darkness",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "605842",
@@ -376,9 +381,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "605862",
@@ -386,7 +391,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "605872",
@@ -424,9 +429,9 @@
       "ID": "610000",
       "SetID": "4lpaifm",
       "Name": "Greatest inventor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "610001",
@@ -448,16 +453,16 @@
       "ID": "844452",
       "SetID": "4lpaifm",
       "Name": "Heavenly Virtues",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 8
     }
   ],
@@ -465,8 +470,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:23:08.2573567+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:08:07.9745703+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:03.6265003+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:16:38.0955705+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:08.2573731+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:01:16.3955645+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:07.9745909+00:00"
 }

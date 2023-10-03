@@ -4,7 +4,7 @@
   "ProductSlug": "helheim-hassle-ea806f",
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-12-13T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.9366107+00:00",
   "LastChanged": "2023-03-31T05:57:40.9366107+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:22.2503884+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:14:23.3736251+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:24.3592233+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:57:48.5129767+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:31.2884172+00:00"
 }

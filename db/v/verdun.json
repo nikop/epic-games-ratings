@@ -1748,7 +1748,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59836,
+  "EOS_Progressed": 59837,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
@@ -19888,6 +19888,11 @@
       "Time": "2023-10-03T02:23:17.8726504+00:00",
       "NumProgressed": 59836,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T03:08:21.6260204+00:00",
+      "NumProgressed": 59837,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20131,7 +20136,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15557
+      "UsersEstimate": 15558
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -20163,7 +20168,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23934
+      "UsersEstimate": 23935
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -20267,7 +20272,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46672
+      "UsersEstimate": 46673
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -20363,22 +20368,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22140
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59836,
+      "Progressed": 59837,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:23:17.8726499+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:08:21.6260198+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:16:56.307224+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:17.8728132+00:00"
+  "LastUpdate_Ratings": "2023-10-03T03:01:45.9493975+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:21.6262238+00:00"
 }

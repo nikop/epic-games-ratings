@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38213,
+  "EOS_Progressed": 38215,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17547,6 +17547,11 @@
       "Time": "2023-10-03T02:23:21.1972211+00:00",
       "NumProgressed": 38213,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T03:08:26.5853127+00:00",
+      "NumProgressed": 38215,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17574,7 +17579,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "ach_antiquarian10",
@@ -17598,7 +17603,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_contdrownie",
@@ -17622,7 +17627,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "ach_cursestone",
@@ -17630,7 +17635,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_cursestorm",
@@ -17646,7 +17651,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "ach_deathofermod",
@@ -17726,7 +17731,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "ach_invictus",
@@ -17782,7 +17787,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "ach_newstories",
@@ -17910,7 +17915,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ach_terror100",
@@ -17989,15 +17994,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38213,
+      "Progressed": 38215,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-10-03T02:23:21.1972206+00:00",
+  "LastChanged_Achievements": "2023-10-03T03:08:26.5853122+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-03T02:14:07.7725842+00:00",
-  "LastUpdate_Achievements": "2023-10-03T02:23:21.1973518+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:57:23.5744404+00:00",
+  "LastUpdate_Achievements": "2023-10-03T03:08:26.5855205+00:00"
 }
