@@ -36,10 +36,10 @@
 | Scholar | 40.00% | ~214 |
 | Veteran | 39.00% | ~209 |
 | Power Full | 38.00% | ~204 |
+| The Archangel | 36.00% | ~193 |
 | The Professor | 36.00% | ~193 |
 | Archivist | 35.00% | ~188 |
 | Completionist | 35.00% | ~188 |
-| The Archangel | 35.00% | ~188 |
 | The Convict | 35.00% | ~188 |
 | The Krogan | 35.00% | ~188 |
 | Colony Defense | 34.00% | ~182 |
@@ -47,10 +47,10 @@
 | Broke, Blind, and Bedlam | 33.00% | ~177 |
 | Ghost Ship | 32.00% | ~172 |
 | The Assassin | 31.00% | ~166 |
+| The Justicar | 31.00% | ~166 |
 | The Quarian | 31.00% | ~166 |
 | The Prodigal | 31.00% | ~166 |
 | A Personal Touch | 30.00% | ~161 |
-| The Justicar | 30.00% | ~161 |
 | Battlemaster | 30.00% | ~161 |
 | The Cure | 30.00% | ~161 |
 | Catharsis | 29.00% | ~155 |
@@ -113,8 +113,8 @@
 | Bruiser | 10.00% | ~54 |
 | Lift Mastery | 10.00% | ~54 |
 | Overload Specialist | 10.00% | ~54 |
+| Always Prepared | 9.00% | ~48 |
 | Hijacker | 8.00% | ~43 |
-| Always Prepared | 8.00% | ~43 |
 | Paramour III | 8.00% | ~43 |
 | Sky High | 7.00% | ~38 |
 | Damping Specialist | 7.00% | ~38 |

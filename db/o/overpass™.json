@@ -2,7 +2,7 @@
   "ID": "90c3f58497da48d789cc39bff57dc2f4",
   "Name": "OVERPASS\u2122",
   "ProductSlug": "overpass",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 648,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2022-09-27T09:01:01.2666869+00:00",
@@ -50,6 +50,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-03T10:58:20.5928516+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -68,8 +74,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:25.1920106+00:00",
   "FirstSeenRating": "2022-09-27T09:01:01.2666865+00:00",
-  "LastChanged": "2023-06-30T02:18:38.6861704+00:00",
+  "LastChanged": "2023-10-03T10:58:20.5928515+00:00",
   "LastUpdate_AppInfo": "2023-09-30T08:57:00.1176277+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:58:25.1573139+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:05:18.4405005+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:58:20.592852+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:04:53.1298395+00:00"
 }

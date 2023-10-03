@@ -2410,9 +2410,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_S4",
@@ -2458,8 +2458,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-10-03T10:04:01.9755738+00:00",
+  "LastChanged_Achievements": "2023-10-03T11:03:56.4495845+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:00:02.9072641+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:04:01.9756002+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:59:29.3441961+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:03:56.4496165+00:00"
 }

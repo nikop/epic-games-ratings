@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.40% | ~54 |
+| Oyedang, Kopengs | 0.50% | ~67 |
 | The Pit and the Pirates | 0.20% | ~27 |
 | Drug Gifter | 0.20% | ~27 |
 | Bosmang | 0.20% | ~27 |
@@ -26,13 +26,13 @@ Rating: 4.53 (Ranked 524)
 | Miraculous Maya | 0.10% | ~13 |
 | Khan's Revenge | 0.10% | ~13 |
 | Call it Even | 0.10% | ~13 |
+| Scavenger Star | 0.10% | ~13 |
 | No Belter Left Behind | 0.10% | ~13 |
 | Debris Spree | 0.10% | ~13 |
 | Data Master | 0.10% | ~13 |
 | Celebrations are in Order | 0.10% | ~13 |
 | Data Recoverer | 0.10% | ~13 |
 | Impossible Objects | 0.10% | ~13 |
-| Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

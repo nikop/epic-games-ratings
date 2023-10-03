@@ -532,7 +532,7 @@
   "Tags": [],
   "EOS_Progressed": 3691,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7290,9 +7290,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 591
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7617,8 +7617,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-03T10:07:32.9296497+00:00",
+  "LastChanged_Achievements": "2023-10-03T11:06:34.2396081+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:58:54.4879027+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:07:32.9297371+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:58:42.9971468+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:06:34.2397193+00:00"
 }

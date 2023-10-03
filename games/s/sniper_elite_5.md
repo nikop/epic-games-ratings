@@ -24,7 +24,7 @@ Rating: 4.45 (Ranked 648)
 | Just a Flesh Wound | 17.00% | ~627 |
 | Climbing the Ladder | 16.00% | ~591 |
 | Der Geist | 16.00% | ~591 |
-| Close Quarters | 15.00% | ~554 |
+| Close Quarters | 16.00% | ~591 |
 | Snake in the Grass | 15.00% | ~554 |
 | Brains of the Operation | 15.00% | ~554 |
 | No Stone Unturned | 14.00% | ~517 |

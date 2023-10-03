@@ -5,9 +5,9 @@
   "Ranking_Rating": 511,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 430,
-  "Ranking_EOS_Progress": 140,
+  "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -726,7 +726,7 @@
   ],
   "EOS_Progressed": 10511,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -11199,9 +11199,9 @@
       "ID": "ACH28",
       "SetID": "9llo822",
       "Name": "Bloodstained Hands",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH29",
@@ -11264,8 +11264,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-02T01:42:31.0278145+00:00",
-  "LastChanged_Achievements": "2023-10-03T10:08:26.1694845+00:00",
+  "LastChanged_Achievements": "2023-10-03T11:08:18.7080846+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:01:18.6348433+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:08:26.1695787+00:00"
+  "LastUpdate_Ratings": "2023-10-03T11:00:23.3414573+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:08:18.7081734+00:00"
 }

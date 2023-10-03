@@ -10,10 +10,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
 | Explorer | 0.20% | ~29 |
+| Good | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
+| Oracle | 0.20% | ~29 |
+| Carthaginian Paganism | 0.20% | ~29 |
+| Roman Paganism | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
@@ -39,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.10% | ~14 |
 | Fountainhead | 0.10% | ~14 |
 | Glorious | 0.10% | ~14 |
-| Good | 0.10% | ~14 |
 | Great | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
@@ -115,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.10% | ~14 |
 | Musaeum | 0.10% | ~14 |
 | Necropolis | 0.10% | ~14 |
-| Oracle | 0.10% | ~14 |
 | Pantheon | 0.10% | ~14 |
 | Pyramids | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
@@ -147,12 +149,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Babylonian Paganism | 0.10% | ~14 |
-| Carthaginian Paganism | 0.10% | ~14 |
 | Egyptian Paganism | 0.10% | ~14 |
 | Greek Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
-| Roman Paganism | 0.10% | ~14 |
 | Zoroastrianism | 0.10% | ~14 |
 | Pantheon in Roma | 0.10% | ~14 |
 | Building Wonders | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,306 (Ranked 133)  
+Progressed: 14,308 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
-| 2023-10-03 | 14,306 | 5 |
+| 2023-10-03 | 14,308 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

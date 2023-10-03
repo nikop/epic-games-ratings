@@ -2,7 +2,7 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 20,
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 4.22,
+  "EOS_Completed_Percentage": 4.2,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -479,6 +479,11 @@
       "Time": "2023-10-03T10:08:20.3304944+00:00",
       "NumProgressed": 237,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-03T11:08:14.2381231+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -499,7 +504,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_DONUTS",
@@ -507,7 +512,7 @@
       "Name": "Sweet tooth",
       "Percentage": 76,
       "XP": 45,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -531,7 +536,7 @@
       "Name": "Evil plan",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -539,7 +544,7 @@
       "Name": "Good listener",
       "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -547,7 +552,7 @@
       "Name": "Food lover",
       "Percentage": 66,
       "XP": 55,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -561,22 +566,22 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-03T10:08:20.3304941+00:00",
+  "LastChanged_Achievements": "2023-10-03T11:08:14.2381227+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-03T09:58:53.613296+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:08:20.3305049+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:58:42.3969488+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:08:14.2381333+00:00"
 }

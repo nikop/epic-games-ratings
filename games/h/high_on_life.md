@@ -5,6 +5,7 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Bounty Down | 0.20% | ~48 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -21,7 +22,6 @@ Rating: 4.64 (Ranked 315)
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
 | We're All Very Impressed, Trust Me | 0.10% | ~24 |
-| First Bounty Down | 0.10% | ~24 |
 | G3 Graduation | 0.10% | ~24 |
 | Legendary Bounty Hunter | 0.10% | ~24 |
 | Hardest Battle In The Game | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 315)
 | Fall In Love With A Parasite | 0.00% | ~0 |
 | Meet Frasier from Frasier | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,108 (Ranked 117)  
+Progressed: 24,109 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-09-30 | 24,098 | 12 |
 | 2023-10-01 | 24,102 | 12 |
 | 2023-10-02 | 24,108 | 12 |
+| 2023-10-03 | 24,109 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

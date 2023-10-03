@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -419,8 +419,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-03T10:05:45.8385459+00:00",
+  "LastChanged_Achievements": "2023-10-03T11:05:13.9625728+00:00",
   "LastUpdate_AppInfo": "2023-09-27T06:57:38.4292457+00:00",
-  "LastUpdate_Ratings": "2023-10-03T10:00:35.3414256+00:00",
-  "LastUpdate_Achievements": "2023-10-03T10:05:45.8385571+00:00"
+  "LastUpdate_Ratings": "2023-10-03T10:59:49.9788185+00:00",
+  "LastUpdate_Achievements": "2023-10-03T11:05:13.9625881+00:00"
 }

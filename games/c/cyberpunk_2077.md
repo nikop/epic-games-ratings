@@ -8,23 +8,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 4.00% | ~35,527 |
 | Rough Landing | 4.00% | ~35,527 |
-| Gunslinger | 3.00% | ~26,645 |
-| Master Crafter | 3.00% | ~26,645 |
-| The Jungle | 3.00% | ~26,645 |
-| Full Body Conversion | 2.00% | ~17,763 |
-| Right Back At Ya | 2.00% | ~17,763 |
-| Mean Streets | 2.00% | ~17,763 |
-| Breathtaking | 2.00% | ~17,763 |
-| Stanislavski's Method | 2.00% | ~17,763 |
-| The Hermit | 2.00% | ~17,763 |
-| The High Priestess | 2.00% | ~17,763 |
-| The Lovers | 2.00% | ~17,763 |
-| The Wheel of Fortune | 2.00% | ~17,763 |
-| True Soldier | 2.00% | ~17,763 |
-| True Warrior | 2.00% | ~17,763 |
-| Two Heads, One Bullet | 2.00% | ~17,763 |
-| V for Vendetta | 2.00% | ~17,763 |
-| Legend of The Afterlife | 2.00% | ~17,763 |
+| Gunslinger | 3.00% | ~26,646 |
+| Master Crafter | 3.00% | ~26,646 |
+| The Jungle | 3.00% | ~26,646 |
+| Full Body Conversion | 2.00% | ~17,764 |
+| Right Back At Ya | 2.00% | ~17,764 |
+| Mean Streets | 2.00% | ~17,764 |
+| Breathtaking | 2.00% | ~17,764 |
+| Stanislavski's Method | 2.00% | ~17,764 |
+| The Hermit | 2.00% | ~17,764 |
+| The High Priestess | 2.00% | ~17,764 |
+| The Lovers | 2.00% | ~17,764 |
+| The Wheel of Fortune | 2.00% | ~17,764 |
+| True Soldier | 2.00% | ~17,764 |
+| True Warrior | 2.00% | ~17,764 |
+| Two Heads, One Bullet | 2.00% | ~17,764 |
+| V for Vendetta | 2.00% | ~17,764 |
+| Legend of The Afterlife | 2.00% | ~17,764 |
 | To Bad Decisions! | 1.00% | ~8,882 |
 | Gun Fu | 1.00% | ~8,882 |
 | Christmas Tree Attack | 1.00% | ~8,882 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,171 (Ranked 15)  
+Progressed: 888,187 (Ranked 15)  
 Completed: 2,558 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 2,558 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,171 | 2,558 |
+| 2023-10-03 | 888,187 | 2,558 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 257,445 (Ranked 12)  

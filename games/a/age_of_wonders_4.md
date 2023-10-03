@@ -47,7 +47,7 @@ Rating: 4.60 (Ranked 397)
 | One for All, All for One | 2.00% | ~104 |
 | Duality | 2.00% | ~104 |
 | Manufactured War | 1.00% | ~52 |
-| Snap Out of It! | 0.80% | ~42 |
+| Snap Out of It! | 0.90% | ~47 |
 | Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~16 |
 | Returning Circle | 0.20% | ~10 |

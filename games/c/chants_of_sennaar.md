@@ -20,7 +20,7 @@
 | In this together | 32.00% | ~77 |
 | Peace walker | 32.00% | ~77 |
 | Open door | 27.00% | ~65 |
-| Feels like springtime | 26.00% | ~63 |
+| Feels like springtime | 27.00% | ~65 |
 | Rascal | 25.00% | ~60 |
 | Free at last | 24.00% | ~58 |
 | Alchemists Express | 24.00% | ~58 |
