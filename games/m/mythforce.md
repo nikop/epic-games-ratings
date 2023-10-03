@@ -8,9 +8,9 @@ Number of Ratings: 285  (23.09.2022)
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 21.00% | ~769 |
 | That'll Leave a Mark | 21.00% | ~769 |
-| Debuff Dogpile | 20.00% | ~732 |
-| Hit 'Em Where It Hurts | 20.00% | ~732 |
-| Perk Shard Punch Card | 20.00% | ~732 |
+| Debuff Dogpile | 20.00% | ~733 |
+| Hit 'Em Where It Hurts | 20.00% | ~733 |
+| Perk Shard Punch Card | 20.00% | ~733 |
 | Mushroom Madness! | 19.00% | ~696 |
 | First Strike | 16.00% | ~586 |
 | Spending Spree | 16.00% | ~586 |
@@ -22,7 +22,7 @@ Number of Ratings: 285  (23.09.2022)
 | Death Becomes You | 8.00% | ~293 |
 | Flawless Victory | 6.00% | ~220 |
 | The Harder They Fall | 5.00% | ~183 |
-| On this Episode! | 4.00% | ~146 |
+| On this Episode! | 4.00% | ~147 |
 | Deadication | 3.00% | ~110 |
 | Season Finale | 3.00% | ~110 |
 | We've Got a Kaiju on the Field | 2.00% | ~73 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~15 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,662 (Ranked 178)  
+Progressed: 3,663 (Ranked 178)  
 Completed: 2 (0.05%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 2 (0.05%) (Ranked 263)
 | 2023-09-30 | 3,525 | 2 |
 | 2023-10-01 | 3,606 | 2 |
 | 2023-10-02 | 3,662 | 2 |
+| 2023-10-03 | 3,663 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 280 (Ranked 354)  

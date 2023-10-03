@@ -555,9 +555,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:09:01.9004653+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:09:13.0466515+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.157773+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:01:22.9009738+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:09:01.9005136+00:00"
+  "LastUpdate_Ratings": "2023-10-03T00:01:40.335605+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:09:13.0466976+00:00"
 }

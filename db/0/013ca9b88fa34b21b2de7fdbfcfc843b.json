@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5872,
+  "EOS_Progressed": 5873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-10-02T23:03:28.5402968+00:00",
       "NumProgressed": 5872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T00:03:36.0286649+00:00",
+      "NumProgressed": 5873,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3092,7 +3097,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3100,7 +3105,7 @@
       "Name": "Calm Sailing",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3108,7 +3113,7 @@
       "Name": "Open the Gate!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3236,7 +3241,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3363,7 +3368,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5872,
+      "Progressed": 5873,
       "Completed": 0
     }
   ],
@@ -3371,8 +3376,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-01T19:03:20.1766393+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:03:28.5402959+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:03:36.0286645+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:57:26.3258215+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:03:28.5403323+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:57:45.5353871+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:03:36.0287217+00:00"
 }

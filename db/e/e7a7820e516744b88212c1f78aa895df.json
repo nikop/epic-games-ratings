@@ -248,17 +248,17 @@
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achSponsor20",
       "SetID": "7ji07dj",
       "Name": "Corporate Cooperator",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achSponsor5",
@@ -390,8 +390,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:05:45.5101388+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:05:59.9302215+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.1543939+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:00:09.0470367+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:05:45.510161+00:00"
+  "LastUpdate_Ratings": "2023-10-03T00:00:27.4717028+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:05:59.9302462+00:00"
 }

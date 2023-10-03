@@ -5323,9 +5323,9 @@
       "ID": "ACH_SECURE_MARINE",
       "SetID": "816efe",
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5364,8 +5364,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-01T17:02:15.244996+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:08:12.3815969+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:08:24.9347554+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:28.6223813+00:00",
-  "LastUpdate_Ratings": "2023-10-02T23:02:29.8748903+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:08:12.3816621+00:00"
+  "LastUpdate_Ratings": "2023-10-03T00:03:08.1412253+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:08:24.9348254+00:00"
 }

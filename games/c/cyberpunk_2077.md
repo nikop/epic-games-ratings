@@ -11,20 +11,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 3.00% | ~26,641 |
 | Master Crafter | 3.00% | ~26,641 |
 | The Jungle | 3.00% | ~26,641 |
-| Full Body Conversion | 2.00% | ~17,760 |
-| Right Back At Ya | 2.00% | ~17,760 |
-| Mean Streets | 2.00% | ~17,760 |
-| Breathtaking | 2.00% | ~17,760 |
-| Stanislavski's Method | 2.00% | ~17,760 |
-| The Hermit | 2.00% | ~17,760 |
-| The High Priestess | 2.00% | ~17,760 |
-| The Lovers | 2.00% | ~17,760 |
-| The Wheel of Fortune | 2.00% | ~17,760 |
-| True Soldier | 2.00% | ~17,760 |
-| True Warrior | 2.00% | ~17,760 |
-| Two Heads, One Bullet | 2.00% | ~17,760 |
-| V for Vendetta | 2.00% | ~17,760 |
-| Legend of The Afterlife | 2.00% | ~17,760 |
+| Full Body Conversion | 2.00% | ~17,761 |
+| Right Back At Ya | 2.00% | ~17,761 |
+| Mean Streets | 2.00% | ~17,761 |
+| Breathtaking | 2.00% | ~17,761 |
+| Stanislavski's Method | 2.00% | ~17,761 |
+| The Hermit | 2.00% | ~17,761 |
+| The High Priestess | 2.00% | ~17,761 |
+| The Lovers | 2.00% | ~17,761 |
+| The Wheel of Fortune | 2.00% | ~17,761 |
+| True Soldier | 2.00% | ~17,761 |
+| True Warrior | 2.00% | ~17,761 |
+| Two Heads, One Bullet | 2.00% | ~17,761 |
+| V for Vendetta | 2.00% | ~17,761 |
+| Legend of The Afterlife | 2.00% | ~17,761 |
 | To Bad Decisions! | 1.00% | ~8,880 |
 | Gun Fu | 1.00% | ~8,880 |
 | Christmas Tree Attack | 1.00% | ~8,880 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,024 (Ranked 15)  
+Progressed: 888,036 (Ranked 15)  
 Completed: 2,550 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 2,550 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
+| 2023-10-03 | 888,036 | 2,550 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
 Sum: 255,580 (Ranked 12)  

@@ -632,7 +632,7 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
@@ -2077,6 +2077,11 @@
       "Time": "2023-10-02T23:07:53.358192+00:00",
       "NumProgressed": 718,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T00:08:06.1313441+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2089,7 +2094,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "achievement_10",
@@ -2137,7 +2142,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_16",
@@ -2177,7 +2182,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "achievement_20",
@@ -2185,7 +2190,7 @@
       "Name": "Autofire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "achievement_21",
@@ -2193,7 +2198,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_22",
@@ -2281,7 +2286,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_32",
@@ -2289,7 +2294,7 @@
       "Name": "Surgeon",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_33",
@@ -2305,7 +2310,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_35",
@@ -2337,7 +2342,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_39",
@@ -2345,7 +2350,7 @@
       "Name": "Z-Baller",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_4",
@@ -2353,7 +2358,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_40",
@@ -2439,9 +2444,9 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_8",
@@ -2455,16 +2460,16 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 266
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 3
     }
   ],
@@ -2472,8 +2477,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:07:53.3581912+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:08:06.1313437+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:58:29.9235801+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:07:53.358246+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:58:50.0816212+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:08:06.1313962+00:00"
 }

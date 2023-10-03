@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1919,9 +1919,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 611
     },
     {
       "ID": "AC05",
@@ -2264,8 +2264,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:06:20.8171192+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:06:34.7050269+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:59:08.0642624+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:06:20.8171607+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:59:24.578684+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:06:34.7050783+00:00"
 }

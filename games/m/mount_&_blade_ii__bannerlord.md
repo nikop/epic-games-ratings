@@ -7,11 +7,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,410 |
-| Landlord | 33.00% | ~20,654 |
-| Bannerlord | 23.00% | ~14,395 |
-| Horde breaker | 23.00% | ~14,395 |
-| Lawmaker | 23.00% | ~14,395 |
-| Trained | 23.00% | ~14,395 |
+| Landlord | 33.00% | ~20,655 |
+| Bannerlord | 23.00% | ~14,396 |
+| Horde breaker | 23.00% | ~14,396 |
+| Lawmaker | 23.00% | ~14,396 |
+| Trained | 23.00% | ~14,396 |
 | The king is pleased | 18.00% | ~11,266 |
 | King Solomon | 17.00% | ~10,640 |
 | I can do it | 16.00% | ~10,014 |
@@ -27,8 +27,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~5,007 |
 | Know your enemy | 7.00% | ~4,381 |
 | Mastery | 7.00% | ~4,381 |
-| Crush your enemies | 5.00% | ~3,129 |
-| My way | 5.00% | ~3,129 |
+| Crush your enemies | 5.00% | ~3,130 |
+| My way | 5.00% | ~3,130 |
 | Crowdfunded | 4.00% | ~2,504 |
 | Veni vidi vici | 4.00% | ~2,504 |
 | Freedom! | 3.00% | ~1,878 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,589 (Ranked 94)  
+Progressed: 62,590 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,9 +224,10 @@ Completed: 0 (0.00%) (Ranked 304)
 | 2023-09-30 | 62,446 | 0 |
 | 2023-10-01 | 62,521 | 0 |
 | 2023-10-02 | 62,589 | 0 |
+| 2023-10-03 | 62,590 | 0 |
 ## Awards
 Max (Character Customization): 7,170  (Ranked 52)  
-Sum: 14,687 (Ranked 67)  
+Sum: 14,689 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +238,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 842 |
 | This game has Amazing Storytelling | 828 |
 | This game has Amazing Characters | 818 |
-| This game is Relaxing | 816 |
+| This game is Relaxing | 818 |
 | This game has Quickly Understood Controls | 804 |
 | This game has a Creative Community | 599 |
 | This game has Obsessive Gameplay | 376 |
@@ -506,3 +507,4 @@ Diff (max vs sum): -15
 | 2023-09-30 | 4.74 | - | 7,159 | 14,658 |
 | 2023-10-01 | 4.74 | - | 7,168 | 14,678 |
 | 2023-10-02 | 4.74 | - | 7,170 | 14,687 |
+| 2023-10-03 | 4.74 | - | 7,170 | 14,689 |

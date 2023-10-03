@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1641,
+  "EOS_Progressed": 1642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3831,6 +3831,11 @@
       "Time": "2023-10-02T16:04:25.9025942+00:00",
       "NumProgressed": 1641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T00:05:47.7377123+00:00",
+      "NumProgressed": 1642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3922,7 +3927,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4074,7 +4079,7 @@
       "Name": "ITS crash site",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4202,7 +4207,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4225,7 +4230,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1641,
+      "Progressed": 1642,
       "Completed": 0
     }
   ],
@@ -4233,8 +4238,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-22T00:03:09.8944256+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:05:33.2460438+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:05:47.7377013+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:57:11.506738+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:05:33.2461107+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:57:30.8957082+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:05:47.7377857+00:00"
 }

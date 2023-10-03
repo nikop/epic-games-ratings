@@ -7,8 +7,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 0.30% | ~43 |
+| Able | 0.20% | ~29 |
 | Explorer | 0.20% | ~29 |
 | Intrepid | 0.20% | ~29 |
+| Mason | 0.20% | ~29 |
 | Settler | 0.20% | ~29 |
 | Friendly Family | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
@@ -25,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
-| Able | 0.10% | ~14 |
 | Ambitious | 0.10% | ~14 |
 | Architect | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Magnificent | 0.10% | ~14 |
-| Mason | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
 | Noble | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
@@ -196,6 +196,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
 | Patriarch St Paul | 0.10% | ~14 |
+| Hypatia the Teacher | 0.10% | ~14 |
 | Rmt n Kmt Buhen | 0.10% | ~14 |
 | Only Kem | 0.10% | ~14 |
 | Sepat Wase Forever | 0.10% | ~14 |
@@ -345,11 +346,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | Pilgrimage | 0.00% | ~0 |
-| Hypatia the Teacher | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,300 (Ranked 133)  
+Progressed: 14,302 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,6 +515,7 @@ Completed: 5 (0.03%) (Ranked 275)
 | 2023-09-30 | 14,243 | 5 |
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
+| 2023-10-03 | 14,302 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 207)  

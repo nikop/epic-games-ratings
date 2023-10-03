@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5158,
+  "EOS_Progressed": 5159,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-09-29T07:06:55.5577289+00:00",
       "NumProgressed": 5158,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-03T00:09:26.1580833+00:00",
+      "NumProgressed": 5159,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -801,7 +806,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -817,7 +822,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -825,7 +830,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -833,7 +838,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -841,7 +846,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -873,7 +878,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -929,7 +934,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -953,7 +958,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -977,7 +982,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1009,7 +1014,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1025,7 +1030,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1041,7 +1046,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1057,7 +1062,7 @@
       "Name": "You\u0027re In a Cult, Call Your Dad",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHIEVE_LVL_150_COMPLETE",
@@ -1073,7 +1078,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1089,7 +1094,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1185,22 +1190,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5158,
+      "Progressed": 5159,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:09:15.2599929+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:09:26.1580828+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:33.1386809+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:57:56.6593638+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:09:15.2600407+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:58:16.8922302+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:09:26.1581294+00:00"
 }

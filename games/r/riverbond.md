@@ -1,23 +1,23 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.47 (Ranked 620)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,945 |
+| First Step | 70.00% | ~369,946 |
 | Now You're Talking | 62.00% | ~327,666 |
 | Steel Yourself | 62.00% | ~327,666 |
-| Window Dressing | 50.00% | ~264,246 |
+| Window Dressing | 50.00% | ~264,247 |
 | Trigger Happy | 46.00% | ~243,107 |
 | Riverborn | 45.00% | ~237,822 |
 | Starry Eyed | 34.00% | ~179,688 |
 | Poking Around | 34.00% | ~179,688 |
-| Talk of the Town | 24.00% | ~126,838 |
-| AAARR! | 23.00% | ~121,553 |
-| Hello Darkness | 23.00% | ~121,553 |
-| Wind At Our Backs | 22.00% | ~116,268 |
+| Talk of the Town | 24.00% | ~126,839 |
+| AAARR! | 23.00% | ~121,554 |
+| Hello Darkness | 23.00% | ~121,554 |
+| Wind At Our Backs | 22.00% | ~116,269 |
 | To the Beat | 20.00% | ~105,699 |
 | Sunny Shores | 17.00% | ~89,844 |
 | Sunday Best | 16.00% | ~84,559 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~52,849 |
 | Road Less Travelled | 9.00% | ~47,564 |
 | Lost and Found | 9.00% | ~47,564 |
-| Under the Radar | 8.00% | ~42,279 |
+| Under the Radar | 8.00% | ~42,280 |
 | Partner in Crime | 7.00% | ~36,995 |
 | Hard to Hear | 7.00% | ~36,995 |
 | Moving On Up | 6.00% | ~31,710 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,585 |
 | Point Taken | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,493 (Ranked 33)  
+Progressed: 528,494 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 479 (0.09%) (Ranked 247)
 | 2023-09-30 | 528,345 | 479 |
 | 2023-10-01 | 528,418 | 479 |
 | 2023-10-02 | 528,493 | 479 |
+| 2023-10-03 | 528,494 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 521)  
 Sum: 20 (Ranked 521)  

@@ -312,7 +312,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197770,
+  "EOS_Progressed": 197771,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -18107,6 +18107,11 @@
       "Time": "2023-10-02T22:07:00.9531031+00:00",
       "NumProgressed": 197770,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T00:08:10.6837618+00:00",
+      "NumProgressed": 197771,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18134,7 +18139,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -18198,7 +18203,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -18238,14 +18243,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197770,
+      "Progressed": 197771,
       "Completed": 4
     }
   ],
@@ -18253,8 +18258,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-02T23:07:57.9307574+00:00",
+  "LastChanged_Achievements": "2023-10-03T00:08:10.6837614+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.8385746+00:00",
-  "LastUpdate_Ratings": "2023-10-02T22:57:53.755455+00:00",
-  "LastUpdate_Achievements": "2023-10-02T23:07:57.9308784+00:00"
+  "LastUpdate_Ratings": "2023-10-02T23:58:13.2681835+00:00",
+  "LastUpdate_Achievements": "2023-10-03T00:08:10.6839045+00:00"
 }

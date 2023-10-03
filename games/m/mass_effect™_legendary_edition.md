@@ -18,7 +18,7 @@
 | Medal of Honor | 55.00% | ~294 |
 | Meritorious Service Medal | 55.00% | ~294 |
 | Charismatic | 55.00% | ~294 |
-| Soldier | 53.00% | ~283 |
+| Soldier | 54.00% | ~288 |
 | Asari Ally | 52.00% | ~278 |
 | Soldier Ally | 51.00% | ~272 |
 | Medal of Exploration III | 50.00% | ~267 |
@@ -35,7 +35,7 @@
 | Operative | 40.00% | ~214 |
 | Scholar | 40.00% | ~214 |
 | Veteran | 39.00% | ~208 |
-| Power Full | 38.00% | ~203 |
+| Power Full | 39.00% | ~208 |
 | The Professor | 36.00% | ~192 |
 | Archivist | 35.00% | ~187 |
 | Completionist | 35.00% | ~187 |
@@ -49,10 +49,10 @@
 | The Justicar | 31.00% | ~166 |
 | The Quarian | 31.00% | ~166 |
 | The Prodigal | 31.00% | ~166 |
+| A Personal Touch | 30.00% | ~160 |
 | The Assassin | 30.00% | ~160 |
 | Battlemaster | 30.00% | ~160 |
 | The Cure | 30.00% | ~160 |
-| A Personal Touch | 29.00% | ~155 |
 | Catharsis | 29.00% | ~155 |
 | Fade Away | 29.00% | ~155 |
 | Ghost of the Father | 29.00% | ~155 |
@@ -81,13 +81,13 @@
 | World Shaker | 23.00% | ~123 |
 | Liberator | 23.00% | ~123 |
 | A House Divided | 22.00% | ~117 |
-| Pathfinder | 21.00% | ~112 |
+| Pathfinder | 22.00% | ~117 |
 | Savior | 20.00% | ~107 |
 | Paramour II | 20.00% | ~107 |
 | Tunnel Rat | 20.00% | ~107 |
 | Arbiter | 20.00% | ~107 |
+| Lost and Found | 20.00% | ~107 |
 | Electronics Specialist | 19.00% | ~101 |
-| Lost and Found | 19.00% | ~101 |
 | Sabotage Specialist | 18.00% | ~96 |
 | No One Left Behind | 18.00% | ~96 |
 | Party Crasher | 18.00% | ~96 |
@@ -102,9 +102,9 @@
 | Throw Mastery | 15.00% | ~80 |
 | Well Connected | 15.00% | ~80 |
 | Master and Commander | 14.00% | ~75 |
+| Executioner | 13.00% | ~69 |
 | Mail Slot | 12.00% | ~64 |
 | Warp Mastery | 12.00% | ~64 |
-| Executioner | 12.00% | ~64 |
 | Patriot | 12.00% | ~64 |
 | Barrier Mastery | 11.00% | ~59 |
 | Combined Arms | 11.00% | ~59 |
