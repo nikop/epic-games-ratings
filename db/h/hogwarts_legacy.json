@@ -8454,7 +8454,7 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297758,
+  "EOS_Progressed": 297760,
   "EOS_Completed": 479,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 2,
@@ -26374,6 +26374,11 @@
       "Time": "2023-10-03T15:04:45.7244722+00:00",
       "NumProgressed": 297758,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-03T16:05:12.084342+00:00",
+      "NumProgressed": 297760,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26425,7 +26430,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "PFA_15",
@@ -26441,7 +26446,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32753
+      "UsersEstimate": 32754
     },
     {
       "ID": "PFA_17",
@@ -26513,7 +26518,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32753
+      "UsersEstimate": 32754
     },
     {
       "ID": "PFA_25",
@@ -26521,7 +26526,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "PFA_26",
@@ -26553,7 +26558,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "PFA_3",
@@ -26569,7 +26574,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32753
+      "UsersEstimate": 32754
     },
     {
       "ID": "PFA_31",
@@ -26673,7 +26678,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "PFA_43",
@@ -26744,7 +26749,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297758,
+      "Progressed": 297760,
       "Completed": 479
     }
   ],
@@ -26752,8 +26757,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-03T14:59:30.1149507+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:04:45.7244719+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:05:12.0843411+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:59:30.1149512+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:04:45.7245827+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:59:38.8267258+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:05:12.0844526+00:00"
 }

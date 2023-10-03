@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 648,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10204,10 +10204,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 33387,
       "NumberOfAwardsMax": 14071
+    },
+    {
+      "Time": "2023-10-03T15:59:17.8189814+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 33393,
+      "NumberOfAwardsMax": 14071
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33387,
+  "NumberOfAwards": 33393,
   "NumberOfAwardsMax": 14071,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10233,7 +10239,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1191
+      "Count": 1197
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10295,8 +10301,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-10-03T13:05:49.2948194+00:00",
+  "LastChanged": "2023-10-03T15:59:17.8189812+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.9493642+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:59:10.29678+00:00",
-  "LastUpdate_Achievements": "2023-10-03T14:06:42.6473486+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:59:17.8189818+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:03:18.9011473+00:00"
 }

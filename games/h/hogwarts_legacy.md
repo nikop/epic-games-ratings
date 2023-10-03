@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 118)
 | Troll with the Punches | 13.00% | ~38,709 |
 | A Keen Sense of Spell | 12.00% | ~35,731 |
 | That's a Keeper | 12.00% | ~35,731 |
-| The Defender of Dragons | 11.00% | ~32,753 |
-| Loom for Improvement | 11.00% | ~32,753 |
-| A Talent for Spending | 11.00% | ~32,753 |
+| The Defender of Dragons | 11.00% | ~32,754 |
+| Loom for Improvement | 11.00% | ~32,754 |
+| A Talent for Spending | 11.00% | ~32,754 |
 | Grappling with a Graphorn | 10.00% | ~29,776 |
 | The One Who Mastered Memories | 10.00% | ~29,776 |
 | The Hallowed Hero | 10.00% | ~29,776 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 118)
 | Flight the Good Flight | 8.00% | ~23,821 |
 | The Spell Master | 8.00% | ~23,821 |
 | Beast Friends | 7.00% | ~20,843 |
-| The Seeker of Knowledge | 6.00% | ~17,865 |
-| The Root of the Problem | 6.00% | ~17,865 |
-| Third Time's a Charm | 6.00% | ~17,865 |
-| Raising Expectations | 6.00% | ~17,865 |
+| The Seeker of Knowledge | 6.00% | ~17,866 |
+| The Root of the Problem | 6.00% | ~17,866 |
+| Third Time's a Charm | 6.00% | ~17,866 |
+| Raising Expectations | 6.00% | ~17,866 |
 | The Ends Petrify the Means | 5.00% | ~14,888 |
 | The Toast of the Town | 4.00% | ~11,910 |
 | Going Through the Potions | 4.00% | ~11,910 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,758 (Ranked 46)  
+Progressed: 297,760 (Ranked 46)  
 Completed: 479 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 479 (0.16%) (Ranked 226)
 | 2023-09-30 | 297,622 | 479 |
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
-| 2023-10-03 | 297,758 | 479 |
+| 2023-10-03 | 297,760 | 479 |
 ## Awards
 Max (Character Customization): 23,249  (Ranked 17)  
 Sum: 44,911 (Ranked 31)  

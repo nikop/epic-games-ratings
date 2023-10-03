@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -982,9 +982,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 149756,
+  "EOS_Progressed": 149774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10317,6 +10317,11 @@
       "Time": "2023-10-03T15:03:22.0664133+00:00",
       "NumProgressed": 149756,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T16:03:43.9822396+00:00",
+      "NumProgressed": 149774,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10662,9 +10667,9 @@
       "ID": "DEFEAT_DREAMBORN",
       "SetID": "72k7oh",
       "Name": "The Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 149
     },
     {
       "ID": "MISC_FINISHNG",
@@ -10695,21 +10700,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149339,
+      "Progressed": 149357,
       "Completed": 1137
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 149756,
+      "Progressed": 149774,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-03T14:58:56.1724246+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:03:22.0664129+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:03:43.9822391+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:58:56.172425+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:03:22.0664842+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:59:05.6757022+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:03:43.9823128+00:00"
 }

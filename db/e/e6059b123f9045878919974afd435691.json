@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2031,6 +2031,11 @@
       "Time": "2023-10-02T20:05:50.8400085+00:00",
       "NumProgressed": 848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T16:05:56.8643551+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2042,7 +2047,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 536
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2050,7 +2055,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2058,7 +2063,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2066,7 +2071,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2082,7 +2087,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2114,7 +2119,7 @@
       "Name": "Capraphobia",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2186,7 +2191,7 @@
       "Name": "Completing The Duty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -2240,9 +2245,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 280
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2258,7 +2263,7 @@
       "Name": "Fire Alarm",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2274,7 +2279,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2282,7 +2287,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2322,7 +2327,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 434
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2330,7 +2335,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2338,7 +2343,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2354,7 +2359,7 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2362,7 +2367,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2378,7 +2383,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -2386,7 +2391,7 @@
       "Name": "Bad Leecher, Bad Leecher!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -2402,7 +2407,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2450,7 +2455,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -2472,9 +2477,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 221
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2569,14 +2574,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:05:29.8566194+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:05:56.8643546+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:59:18.139866+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:05:29.8566859+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:59:27.4208078+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:05:56.8644144+00:00"
 }

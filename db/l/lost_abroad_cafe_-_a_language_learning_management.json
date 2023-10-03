@@ -4,8 +4,8 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -2200,9 +2200,9 @@
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "tea_100",
@@ -2231,8 +2231,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:04:22.1357564+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:04:47.8865063+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:11.9921148+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:00:25.76741+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:04:22.1357733+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:00:38.9573766+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:04:47.8865225+00:00"
 }

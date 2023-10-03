@@ -12,7 +12,7 @@
 | Quarian Ally | 70.00% | ~376 |
 | Medal of Heroism | 66.00% | ~354 |
 | Honorarium of Corporate Service | 66.00% | ~354 |
-| Medal of Exploration II | 59.00% | ~317 |
+| Medal of Exploration II | 60.00% | ~322 |
 | Council Legion of Merit | 58.00% | ~311 |
 | Turian Ally | 57.00% | ~306 |
 | Medal of Honor | 56.00% | ~301 |
@@ -24,16 +24,16 @@
 | Soldier Ally | 51.00% | ~274 |
 | Principled | 51.00% | ~274 |
 | Colonial Savior | 49.00% | ~263 |
-| Paramour I | 45.00% | ~242 |
-| Sentinel Ally | 45.00% | ~242 |
+| Paramour I | 46.00% | ~247 |
+| Sentinel Ally | 46.00% | ~247 |
 | Krogan Ally | 45.00% | ~242 |
 | Scientist | 45.00% | ~242 |
 | Merciless | 44.00% | ~236 |
 | Head Hunter | 42.00% | ~226 |
+| Operative | 41.00% | ~220 |
 | Scholar | 41.00% | ~220 |
 | Missing in Action | 40.00% | ~215 |
 | Very Elusive | 40.00% | ~215 |
-| Operative | 40.00% | ~215 |
 | Veteran | 39.00% | ~209 |
 | Power Full | 39.00% | ~209 |
 | The Professor | 37.00% | ~199 |
@@ -53,13 +53,13 @@
 | A Personal Touch | 30.00% | ~161 |
 | Battlemaster | 30.00% | ~161 |
 | The Cure | 30.00% | ~161 |
+| Revenge! | 30.00% | ~161 |
 | Heart of Darkness | 30.00% | ~161 |
 | Catharsis | 29.00% | ~156 |
 | Fade Away | 29.00% | ~156 |
 | Ghost of the Father | 29.00% | ~156 |
 | Big Game Hunter | 29.00% | ~156 |
 | Agent | 29.00% | ~156 |
-| Revenge! | 29.00% | ~156 |
 | Shopaholic | 29.00% | ~156 |
 | Digital Exorcist | 28.00% | ~150 |
 | Driven | 28.00% | ~150 |
@@ -113,8 +113,8 @@
 | Bruiser | 10.00% | ~54 |
 | Lift Mastery | 10.00% | ~54 |
 | Overload Specialist | 10.00% | ~54 |
+| Hijacker | 9.00% | ~48 |
 | Always Prepared | 9.00% | ~48 |
-| Hijacker | 8.00% | ~43 |
 | Paramour III | 8.00% | ~43 |
 | Sky High | 7.00% | ~38 |
 | Damping Specialist | 7.00% | ~38 |

@@ -5,35 +5,35 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,001 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,578 |
-| Loose Ends | 34.00% | ~24,847 |
-| To the Victor Go the Spoils | 29.00% | ~21,193 |
-| Knighthood | 28.00% | ~20,462 |
+| First Step Into the Knight | 52.00% | ~38,003 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,579 |
+| Loose Ends | 34.00% | ~24,848 |
+| To the Victor Go the Spoils | 29.00% | ~21,194 |
+| Knighthood | 28.00% | ~20,463 |
 | Get ReQ'd | 25.00% | ~18,270 |
 | Whispered Words | 25.00% | ~18,270 |
-| The Batman Family | 23.00% | ~16,808 |
-| Lock and Key | 23.00% | ~16,808 |
+| The Batman Family | 23.00% | ~16,809 |
+| Lock and Key | 23.00% | ~16,809 |
 | Something in the Clay | 21.00% | ~15,347 |
 | Quartzer Life Crisis | 21.00% | ~15,347 |
 | Working Hard or Harley Working? | 20.00% | ~14,616 |
 | Unstoppable Force | 20.00% | ~14,616 |
 | Bad Apples in Every Orchard | 20.00% | ~14,616 |
-| Snow Problem | 19.00% | ~13,885 |
-| The Show Mud Go On | 18.00% | ~13,154 |
-| From Inside Gotham's Walls | 18.00% | ~13,154 |
-| Protector of Gotham | 17.00% | ~12,423 |
+| Snow Problem | 19.00% | ~13,886 |
+| The Show Mud Go On | 18.00% | ~13,155 |
+| From Inside Gotham's Walls | 18.00% | ~13,155 |
+| Protector of Gotham | 17.00% | ~12,424 |
 | Universal Health Scare | 16.00% | ~11,693 |
 | In Your Element | 15.00% | ~10,962 |
 | Voiceless | 15.00% | ~10,962 |
 | Rock and a Hard Place | 14.00% | ~10,231 |
 | Cooldown | 14.00% | ~10,231 |
 | Seeking Asylum | 14.00% | ~10,231 |
-| Not On My Watch | 13.00% | ~9,500 |
-| Shock Til They Drop | 13.00% | ~9,500 |
-| End of an Era | 12.00% | ~8,769 |
-| Bulldozed | 12.00% | ~8,769 |
-| Gotham Knight | 12.00% | ~8,769 |
+| Not On My Watch | 13.00% | ~9,501 |
+| Shock Til They Drop | 13.00% | ~9,501 |
+| End of an Era | 12.00% | ~8,770 |
+| Bulldozed | 12.00% | ~8,770 |
+| Gotham Knight | 12.00% | ~8,770 |
 | Gotham City Confidential | 11.00% | ~8,039 |
 | Drone You Out | 10.00% | ~7,308 |
 | Out of Their League | 9.00% | ~6,577 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,079 (Ranked 87)  
+Progressed: 73,082 (Ranked 87)  
 Completed: 122 (0.17%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 122 (0.17%) (Ranked 225)
 | 2023-09-30 | 72,990 | 120 |
 | 2023-10-01 | 73,024 | 121 |
 | 2023-10-02 | 73,059 | 121 |
-| 2023-10-03 | 73,079 | 122 |
+| 2023-10-03 | 73,082 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,778  (Ranked 97)  
 Sum: 4,651 (Ranked 140)  

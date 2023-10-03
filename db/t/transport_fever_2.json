@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3956,9 +3956,9 @@
       "ID": "achAircraftEarnings",
       "SetID": "dgl390n",
       "Name": "Aircraft entrepreneur",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 581
     },
     {
       "ID": "achAllClimates",
@@ -4404,8 +4404,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-03T14:57:57.800964+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:03:59.5350291+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:04:23.8944473+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:26.3484503+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:57:57.8009644+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:03:59.5350898+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:58:08.6298783+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:04:23.8945082+00:00"
 }

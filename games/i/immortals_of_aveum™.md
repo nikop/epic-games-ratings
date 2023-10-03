@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 960)  
+Rating: 4.03 (Ranked 957)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.00 (Ranked 960)
 | Soldier | 43.00% | ~26 |
 | All the Major Food Groups | 43.00% | ~26 |
 | Beggars Would Ride | 36.00% | ~22 |
-| Control is an Illusion | 33.00% | ~20 |
+| Control is an Illusion | 34.00% | ~21 |
 | Socialite | 30.00% | ~18 |
 | The Means to Save It | 28.00% | ~17 |
 | Resilience to Sin | 23.00% | ~14 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 960)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 415)  
+Progressed: 61 (Ranked 416)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-11 | 3.94 | 0 | 0 |
 | 2023-09-12 | 3.97 | 0 | 0 |
 | 2023-09-24 | 4.00 | 0 | 0 |
+| 2023-10-03 | 4.03 | 0 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228434,
+  "EOS_Progressed": 228442,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1567,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13262,6 +13262,11 @@
       "Time": "2023-10-03T15:06:39.5825471+00:00",
       "NumProgressed": 228434,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-03T16:08:18.2690258+00:00",
+      "NumProgressed": 228442,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13321,7 +13326,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9137
+      "UsersEstimate": 9138
     },
     {
       "ID": "Chapter2",
@@ -13705,7 +13710,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9137
+      "UsersEstimate": 9138
     },
     {
       "ID": "ElfEpic",
@@ -13721,7 +13726,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73099
+      "UsersEstimate": 73101
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13769,7 +13774,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "FollowBraztok",
@@ -13801,7 +13806,7 @@
       "Name": "Dead for good",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "KillGolbargh",
@@ -13961,7 +13966,7 @@
       "Name": "Material Girl",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "WizardResistBurn",
@@ -13976,21 +13981,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228434,
+      "Progressed": 228442,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228434,
+      "Progressed": 228442,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T10:01:05.1606933+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:06:39.5825467+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:08:18.2690254+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:00:14.928814+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:06:39.5826817+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:00:29.3996812+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:08:18.269165+00:00"
 }

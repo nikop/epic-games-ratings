@@ -20,8 +20,8 @@ Rating: 4.05 (Ranked 950)
 | Miner Clicker | 17.00% | ~338 |
 | Dragon Master | 16.00% | ~318 |
 | Enlightenment | 16.00% | ~318 |
+| Lieutenant | 16.00% | ~318 |
 | Hero inspection | 15.00% | ~298 |
-| Lieutenant | 15.00% | ~298 |
 | Milestone collector | 14.00% | ~278 |
 | Mysterious Rock | 14.00% | ~278 |
 | Natural Talent | 14.00% | ~278 |

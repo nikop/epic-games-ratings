@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -504,6 +504,11 @@
       "Time": "2023-10-03T15:08:08.1722799+00:00",
       "NumProgressed": 242,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-03T16:08:36.3239364+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -514,9 +519,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 140,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_CUBES",
@@ -524,7 +529,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_DONUTS",
@@ -564,7 +569,7 @@
       "Name": "Good listener",
       "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -588,20 +593,20 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 11
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:08:08.1722795+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:08:36.323936+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:58:39.9470538+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:08:08.1722892+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:58:48.7592955+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:08:36.323947+00:00"
 }

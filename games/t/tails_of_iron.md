@@ -10,7 +10,7 @@ Rating: 4.54 (Ranked 512)
 | Ranged Weapon | 63.00% | ~1,225 |
 | Defeat 25 Frogs | 63.00% | ~1,225 |
 | Collect Monster Parts | 59.00% | ~1,147 |
-| Two Handed Weapon | 57.00% | ~1,108 |
+| Two Handed Weapon | 58.00% | ~1,128 |
 | Defeat 25 Grubs | 54.00% | ~1,050 |
 | Rescue Redgi's Brothers | 53.00% | ~1,030 |
 | Collect Iron Ore | 49.00% | ~953 |
@@ -30,7 +30,7 @@ Rating: 4.54 (Ranked 512)
 | Complete the Chefs Book | 25.00% | ~486 |
 | Complete Ranger Faction | 22.00% | ~428 |
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~408 |
-| Discover the mystery of the Kings Chambers | 19.00% | ~369 |
+| Discover the mystery of the Kings Chambers | 20.00% | ~389 |
 | Complete Arena Faction | 16.00% | ~311 |
 | Complete Redgi's Armory | 8.00% | ~156 |
 | King of Kings | 8.00% | ~156 |

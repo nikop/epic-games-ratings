@@ -4,8 +4,8 @@
   "ProductSlug": "super-hydorah-56d575",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-25T17:00:00+00:00",
     "PcReleaseDate": "2017-09-19T22:00:00+00:00",
@@ -218,8 +218,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-25T18:03:19.8372728+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:05:39.8394023+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:06:07.5066693+00:00",
   "LastUpdate_AppInfo": "2023-10-02T17:57:01.9817875+00:00",
-  "LastUpdate_Ratings": "2023-10-03T15:00:08.8204043+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:05:39.8394152+00:00"
+  "LastUpdate_Ratings": "2023-10-03T16:00:22.2260848+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:06:07.5066837+00:00"
 }

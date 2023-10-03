@@ -1,7 +1,7 @@
 # Aground
 [Store](https://store.epicgames.com/en-US/p/aground)  
 [View Rawdata](../../db/a/aground.json)  
-Rating: 4.80 (Ranked 85)  
+Rating: 4.80 (Ranked 84)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

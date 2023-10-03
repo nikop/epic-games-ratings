@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -927,6 +927,11 @@
       "Time": "2023-10-03T12:04:24.7576771+00:00",
       "NumProgressed": 328,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-03T16:04:05.4858684+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -945,17 +950,17 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_12",
@@ -963,15 +968,15 @@
       "Name": "From Way Downtown",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_14",
@@ -995,7 +1000,7 @@
       "Name": "Star Power",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_17",
@@ -1003,15 +1008,15 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_2",
@@ -1019,7 +1024,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_3",
@@ -1043,7 +1048,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_6",
@@ -1057,9 +1062,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_8",
@@ -1082,13 +1087,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-03T15:03:42.0257983+00:00",
+  "LastChanged_Achievements": "2023-10-03T16:04:05.4858682+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T14:57:52.4502459+00:00",
-  "LastUpdate_Achievements": "2023-10-03T15:03:42.0258173+00:00"
+  "LastUpdate_Ratings": "2023-10-03T15:58:04.235118+00:00",
+  "LastUpdate_Achievements": "2023-10-03T16:04:05.4858806+00:00"
 }
