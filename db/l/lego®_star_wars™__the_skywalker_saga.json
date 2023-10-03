@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3350,9 +3350,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51780,
+  "EOS_Progressed": 51781,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -12610,6 +12610,11 @@
       "Time": "2023-10-02T05:06:08.229343+00:00",
       "NumProgressed": 51780,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-10-03T09:07:26.9441323+00:00",
+      "NumProgressed": 51781,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 45,
@@ -12645,7 +12650,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40906
+      "UsersEstimate": 40907
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12733,7 +12738,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30550
+      "UsersEstimate": 30551
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12757,7 +12762,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24854
+      "UsersEstimate": 24855
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12789,7 +12794,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11909
+      "UsersEstimate": 11910
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -12861,7 +12866,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30032
+      "UsersEstimate": 30033
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12885,7 +12890,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50227
+      "UsersEstimate": 50228
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12925,7 +12930,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36764
+      "UsersEstimate": 36765
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12957,7 +12962,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27443
+      "UsersEstimate": 27444
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12980,15 +12985,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51780,
+      "Progressed": 51781,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-01T22:57:56.5979734+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:08:21.9334722+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:07:26.9441318+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:59:22.6756561+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:08:21.9335802+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:58:51.2344264+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:07:26.9442289+00:00"
 }

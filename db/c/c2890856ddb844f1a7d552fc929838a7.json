@@ -2087,9 +2087,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 436
     },
     {
       "ID": "AC26",
@@ -2264,8 +2264,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-27T19:59:42.8018392+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:07:01.9113841+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:06:16.9332352+00:00",
   "LastUpdate_AppInfo": "2023-09-26T20:57:08.0580678+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:59:47.0639235+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:07:01.9114373+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:59:13.0374991+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:06:16.9332857+00:00"
 }

@@ -298,7 +298,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
@@ -1488,6 +1488,11 @@
       "Time": "2023-10-03T08:05:20.1661509+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T09:04:47.5168871+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1516,7 +1521,7 @@
       "Name": "Big Spender",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_12",
@@ -1667,7 +1672,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 0
     }
   ],
@@ -1675,8 +1680,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:05:20.1661504+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:04:47.5168866+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:00:54.6377875+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:05:20.1661776+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:00:12.1083567+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:04:47.5169143+00:00"
 }

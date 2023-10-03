@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-10-03T06:04:36.3557217+00:00",
       "NumProgressed": 398,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T09:04:53.8916609+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1207,7 +1212,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_36",
@@ -1221,9 +1226,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_38",
@@ -1287,7 +1292,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_45",
@@ -1486,13 +1491,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 1
     }
   ],
@@ -1500,8 +1505,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:05:27.3247828+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:04:53.8916604+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:01:34.2773581+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:05:27.324891+00:00"
+  "LastUpdate_Ratings": "2023-10-03T09:00:46.0526458+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:04:53.8917266+00:00"
 }

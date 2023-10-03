@@ -352,9 +352,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2869,
+  "EOS_Progressed": 2870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1967,6 +1967,11 @@
       "Time": "2023-10-03T05:06:31.3586031+00:00",
       "NumProgressed": 2869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T09:07:52.5701564+00:00",
+      "NumProgressed": 2870,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2019,7 +2024,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "achievement_0007",
@@ -2027,7 +2032,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "achievement_0008",
@@ -2035,7 +2040,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "achievement_0009",
@@ -2099,7 +2104,7 @@
       "Name": "Hitting a Season",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_0017",
@@ -2139,7 +2144,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "achievement_0022",
@@ -2163,7 +2168,7 @@
       "Name": "Loyal Bond",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_0025",
@@ -2235,7 +2240,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "achievement_0034",
@@ -2283,7 +2288,7 @@
       "Name": "Smooth Operator",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_0040",
@@ -2315,7 +2320,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_0044",
@@ -2331,7 +2336,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_0046",
@@ -2347,7 +2352,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_0048",
@@ -2370,7 +2375,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2869,
+      "Progressed": 2870,
       "Completed": 0
     }
   ],
@@ -2378,8 +2383,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-01T18:59:32.9006432+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:08:50.7237338+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:07:52.5701559+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-03T08:00:19.8869585+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:08:50.7237877+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:59:42.1065206+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:07:52.5702185+00:00"
 }

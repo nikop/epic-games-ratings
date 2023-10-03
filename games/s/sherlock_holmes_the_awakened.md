@@ -22,14 +22,14 @@ Rating: 4.63 (Ranked 336)
 | No Man Is An Island | 48.00% | ~323 |
 | Lock, Stock, And Barrel | 47.00% | ~316 |
 | At Wits' End | 47.00% | ~316 |
+| Bookworm | 45.00% | ~302 |
 | Up In Flames | 45.00% | ~302 |
 | Fhtagn! | 45.00% | ~302 |
-| Bookworm | 44.00% | ~296 |
 | Going Once... | 40.00% | ~269 |
 | Let Me Be Frank | 39.00% | ~262 |
 | Brain Food | 38.00% | ~255 |
 | No Stone Unturned | 38.00% | ~255 |
-| Read It And Weep | 23.00% | ~155 |
+| Read It And Weep | 24.00% | ~161 |
 | Curiosity Killed The Cat | 20.00% | ~134 |
 | Big Breakthrough | 14.00% | ~94 |
 | Reawakened | 5.00% | ~34 |

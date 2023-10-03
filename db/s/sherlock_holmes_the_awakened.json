@@ -2642,9 +2642,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "MQ06_3",
@@ -2666,9 +2666,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "MQ07_2",
@@ -2723,8 +2723,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:07:46.2429631+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:06:55.5539514+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:59.6031612+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:59:37.6804857+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:07:46.2430254+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:59:04.553219+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:06:55.5539854+00:00"
 }

@@ -13,8 +13,8 @@ Rating: 4.61 (Ranked 370)
 | Cannon Fodder | 61.00% | ~447 |
 | Autofire | 58.00% | ~425 |
 | Raise the Stakes | 56.00% | ~410 |
+| True Believer | 55.00% | ~403 |
 | Story Teller | 54.00% | ~395 |
-| True Believer | 54.00% | ~395 |
 | Surgeon | 51.00% | ~373 |
 | Freeze | 48.00% | ~351 |
 | Exterminator | 48.00% | ~351 |
@@ -23,7 +23,7 @@ Rating: 4.61 (Ranked 370)
 | S.O.S. | 41.00% | ~300 |
 | Live with the Hot Ones | 40.00% | ~293 |
 | Get Off My Ship! | 39.00% | ~285 |
-| Strange Transmissions | 38.00% | ~278 |
+| Strange Transmissions | 39.00% | ~285 |
 | Wreckage | 37.00% | ~271 |
 | Keeper of the Faith | 34.00% | ~249 |
 | Betrayed | 33.00% | ~242 |

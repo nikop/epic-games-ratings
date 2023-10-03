@@ -4162,7 +4162,7 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 246078,
+  "EOS_Progressed": 246079,
   "EOS_Completed": 843,
   "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 6,
@@ -22207,6 +22207,11 @@
       "Time": "2023-10-03T08:06:48.30454+00:00",
       "NumProgressed": 246078,
       "NumCompleted": 843
+    },
+    {
+      "Time": "2023-10-03T09:06:04.6922478+00:00",
+      "NumProgressed": 246079,
+      "NumCompleted": 843
     }
   ],
   "TotalAchievements": 39,
@@ -22266,7 +22271,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73823
+      "UsersEstimate": 73824
     },
     {
       "ID": "AchievementBoulderID",
@@ -22274,7 +22279,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63980
+      "UsersEstimate": 63981
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -22282,7 +22287,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 223931
+      "UsersEstimate": 223932
     },
     {
       "ID": "AchievementClownID",
@@ -22322,7 +22327,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17225
+      "UsersEstimate": 17226
     },
     {
       "ID": "AchievementGatorID",
@@ -22346,7 +22351,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 130421
+      "UsersEstimate": 130422
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -22378,7 +22383,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 110735
+      "UsersEstimate": 110736
     },
     {
       "ID": "AchievementIntroID",
@@ -22386,7 +22391,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140264
+      "UsersEstimate": 140265
     },
     {
       "ID": "AchievementLootBoxID",
@@ -22466,7 +22471,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123039
+      "UsersEstimate": 123040
     },
     {
       "ID": "AchievementStreakingID",
@@ -22529,7 +22534,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246078,
+      "Progressed": 246079,
       "Completed": 843
     }
   ],
@@ -22537,8 +22542,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-02T18:58:07.1433872+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:06:48.3045395+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:06:04.6922473+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:59:32.0265461+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:06:48.3046945+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:58:59.8036417+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:06:04.6923755+00:00"
 }

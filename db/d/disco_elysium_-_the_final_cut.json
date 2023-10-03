@@ -1339,7 +1339,7 @@
   ],
   "EOS_Progressed": 129257,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18334,8 +18334,8 @@
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:08:50.5122021+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:07:52.3183267+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:57:33.9977821+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:08:50.5123915+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:57:16.2230322+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:07:52.3184475+00:00"
 }

@@ -31,7 +31,7 @@
 | Rehab Expert | 20.00% | ~68 |
 | We Don't Need No Education | 20.00% | ~68 |
 | Tasty Profits | 19.00% | ~65 |
-| Established Fame | 17.00% | ~58 |
+| Established Fame | 18.00% | ~61 |
 | Cashflow Chief | 17.00% | ~58 |
 | Under One Roof | 16.00% | ~55 |
 | Starred Dining | 16.00% | ~55 |
@@ -49,10 +49,10 @@
 | Phoning It In | 9.00% | ~31 |
 | Water Features | 8.00% | ~27 |
 | Meet Me at HQ | 8.00% | ~27 |
+| Golden Opportunity | 8.00% | ~27 |
 | Careful Constructor | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
 | Revenue Royalty | 7.00% | ~24 |
-| Golden Opportunity | 7.00% | ~24 |
 | Pipe Up | 7.00% | ~24 |
 | I'm Busy Ruling | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |

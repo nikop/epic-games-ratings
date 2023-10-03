@@ -77,6 +77,7 @@
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden BBQ | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
+| Silver Tovarish | 3.00% | ~2 |
 | Silver Alchemist | 3.00% | ~2 |
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
@@ -88,7 +89,6 @@
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
-| Silver Tovarish | 2.00% | ~1 |
 | Archer's Silver Fate | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |

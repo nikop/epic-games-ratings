@@ -12,33 +12,33 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 69.00% | ~4,188 |
 | Green Thumb | 66.00% | ~4,006 |
 | Novice Researcher | 66.00% | ~4,006 |
-| Home Cooked Meal | 58.00% | ~3,520 |
+| Home Cooked Meal | 58.00% | ~3,521 |
 | Onward | 56.00% | ~3,399 |
-| The First Week | 54.00% | ~3,277 |
+| The First Week | 54.00% | ~3,278 |
 | Putting Food on the Table | 53.00% | ~3,217 |
-| Beam Me Up | 51.00% | ~3,095 |
-| Studious Researcher | 51.00% | ~3,095 |
-| Adept Researcher | 45.00% | ~2,731 |
-| Feast or Famine | 44.00% | ~2,670 |
-| Retribution | 41.00% | ~2,488 |
-| ...And Don’t Come Back! | 41.00% | ~2,488 |
+| Beam Me Up | 51.00% | ~3,096 |
+| Studious Researcher | 51.00% | ~3,096 |
+| Adept Researcher | 45.00% | ~2,732 |
+| Feast or Famine | 44.00% | ~2,671 |
+| Retribution | 41.00% | ~2,489 |
+| ...And Don’t Come Back! | 41.00% | ~2,489 |
 | Fit For A King | 33.00% | ~2,003 |
 | Luminary Researcher | 32.00% | ~1,942 |
 | Heating Up | 30.00% | ~1,821 |
 | Winter Is Coming | 27.00% | ~1,639 |
 | Winter Is Here | 24.00% | ~1,457 |
-| Disassembled | 21.00% | ~1,274 |
-| A Party Now | 21.00% | ~1,274 |
-| Oh Deer! | 21.00% | ~1,274 |
+| Disassembled | 21.00% | ~1,275 |
+| A Party Now | 21.00% | ~1,275 |
+| Oh Deer! | 21.00% | ~1,275 |
 | All Year Round | 20.00% | ~1,214 |
 | Nothing Wasted | 13.00% | ~789 |
 | Don't Cry Wolf | 13.00% | ~789 |
 | Deerly Departed | 8.00% | ~486 |
-| Where Wolf? | 5.00% | ~303 |
+| Where Wolf? | 5.00% | ~304 |
 | Food Chain | 2.00% | ~121 |
 | Wabbit Season | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,069 (Ranked 162)  
+Progressed: 6,070 (Ranked 162)  
 Completed: 14 (0.23%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 14 (0.23%) (Ranked 212)
 | 2023-09-30 | 6,035 | 14 |
 | 2023-10-01 | 6,052 | 14 |
 | 2023-10-02 | 6,066 | 14 |
-| 2023-10-03 | 6,069 | 14 |
+| 2023-10-03 | 6,070 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 324)  
 Sum: 988 (Ranked 247)  

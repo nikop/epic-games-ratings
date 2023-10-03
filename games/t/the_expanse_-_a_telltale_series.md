@@ -9,6 +9,7 @@ Rating: 4.53 (Ranked 524)
 | The Pit and the Pirates | 0.20% | ~27 |
 | Drug Gifter | 0.20% | ~27 |
 | Bosmang | 0.20% | ~27 |
+| Captain Drummer | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~13 |
 | Data Miner | 0.10% | ~13 |
 | Data Archivist | 0.10% | ~13 |
@@ -25,7 +26,6 @@ Rating: 4.53 (Ranked 524)
 | Miraculous Maya | 0.10% | ~13 |
 | Khan's Revenge | 0.10% | ~13 |
 | Call it Even | 0.10% | ~13 |
-| Captain Drummer | 0.10% | ~13 |
 | No Belter Left Behind | 0.10% | ~13 |
 | Debris Spree | 0.10% | ~13 |
 | Data Master | 0.10% | ~13 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 524)
 | Data Collector | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,474 (Ranked 134)  
+Progressed: 13,476 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 13,295 | 0 |
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
-| 2023-10-03 | 13,474 | 0 |
+| 2023-10-03 | 13,476 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

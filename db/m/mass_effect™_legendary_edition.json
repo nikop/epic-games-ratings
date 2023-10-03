@@ -1501,9 +1501,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_32",
@@ -2113,8 +2113,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-03T08:04:55.2021653+00:00",
+  "LastChanged_Achievements": "2023-10-03T09:04:25.7024837+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-03T07:59:43.5586278+00:00",
-  "LastUpdate_Achievements": "2023-10-03T08:04:55.2024318+00:00"
+  "LastUpdate_Ratings": "2023-10-03T08:59:09.9296271+00:00",
+  "LastUpdate_Achievements": "2023-10-03T09:04:25.7027078+00:00"
 }

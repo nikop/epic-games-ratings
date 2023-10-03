@@ -5,27 +5,27 @@ Rating: 4.03 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~64,985 |
-| May the Torchbearer light our way | 34.00% | ~59,716 |
-| A powerful aura was here | 21.00% | ~36,884 |
-| Let's raise the stakes!! | 9.00% | ~15,807 |
-| Rumors are true | 4.00% | ~7,025 |
-| Your wounds… They are healing so fast! | 4.00% | ~7,025 |
-| Bring it on! | 4.00% | ~7,025 |
-| We'll be careful | 3.00% | ~5,269 |
-| Pride is a sin, young Knight | 3.00% | ~5,269 |
-| Back to your senses | 1.00% | ~1,756 |
-| They won't last long | 1.00% | ~1,756 |
-| They tricked me | 0.90% | ~1,581 |
-| We need to talk | 0.80% | ~1,405 |
-| I took a risk | 0.70% | ~1,229 |
-| I feel drawn to it | 0.40% | ~703 |
-| Their fate is sealed | 0.40% | ~703 |
-| You want more? I've got more! | 0.40% | ~703 |
-| Here to stay | 0.30% | ~527 |
-| Counting on you | 0.20% | ~351 |
-| This is the end | 0.20% | ~351 |
-| We can choose to fight | 0.20% | ~351 |
+| The touch of Chaos | 37.00% | ~65,225 |
+| May the Torchbearer light our way | 34.00% | ~59,937 |
+| A powerful aura was here | 21.00% | ~37,020 |
+| Let's raise the stakes!! | 9.00% | ~15,866 |
+| Rumors are true | 4.00% | ~7,051 |
+| Your wounds… They are healing so fast! | 4.00% | ~7,051 |
+| Bring it on! | 4.00% | ~7,051 |
+| We'll be careful | 3.00% | ~5,289 |
+| Pride is a sin, young Knight | 3.00% | ~5,289 |
+| Back to your senses | 1.00% | ~1,763 |
+| They won't last long | 1.00% | ~1,763 |
+| They tricked me | 0.90% | ~1,587 |
+| We need to talk | 0.80% | ~1,410 |
+| I took a risk | 0.70% | ~1,234 |
+| I feel drawn to it | 0.40% | ~705 |
+| Their fate is sealed | 0.40% | ~705 |
+| You want more? I've got more! | 0.40% | ~705 |
+| Here to stay | 0.30% | ~529 |
+| Counting on you | 0.20% | ~353 |
+| This is the end | 0.20% | ~353 |
+| We can choose to fight | 0.20% | ~353 |
 | No damsels in distress | 0.10% | ~176 |
 | The immortal is bound to reborn | 0.10% | ~176 |
 | It's only pain | 0.10% | ~176 |
@@ -46,7 +46,7 @@ Rating: 4.03 (Ranked 957)
 | Something... unnatural | 0.00% | ~0 |
 | Chaos be damned! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,636 (Ranked 67)  
+Progressed: 176,284 (Ranked 67)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 110,916 | 0 |
 | 2023-10-01 | 146,028 | 0 |
 | 2023-10-02 | 169,170 | 0 |
-| 2023-10-03 | 175,636 | 0 |
+| 2023-10-03 | 176,284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -29,6 +29,7 @@
 | Denying Destiny | 8.00% | ~3 |
 | Heart Gate | 8.00% | ~3 |
 | Heavy Purger | 8.00% | ~3 |
+| Unepic Hero | 8.00% | ~3 |
 | Astral Seeker | 6.00% | ~2 |
 | Can't touch this | 6.00% | ~2 |
 | Plague Doctor | 6.00% | ~2 |
@@ -36,7 +37,6 @@
 | Prestidigitation | 6.00% | ~2 |
 | The Goddes Avatar | 6.00% | ~2 |
 | The world goes round... | 6.00% | ~2 |
-| Unepic Hero | 6.00% | ~2 |
 | Anomaly Control | 3.00% | ~1 |
 | Arch-Oracle | 3.00% | ~1 |
 | Astral Tinkerer | 3.00% | ~1 |

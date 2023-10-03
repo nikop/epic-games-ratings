@@ -5,17 +5,17 @@ Rating: 4.66 (Ranked 282)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,697 |
-| On the Top Step | 87.00% | ~2,496 |
-| Setting up for Success | 76.00% | ~2,180 |
-| Team Orders | 74.00% | ~2,123 |
-| Engineer | 55.00% | ~1,578 |
-| Familiar Faces | 48.00% | ~1,377 |
+| Getting on the Step | 94.00% | ~2,698 |
+| On the Top Step | 87.00% | ~2,497 |
+| Setting up for Success | 76.00% | ~2,181 |
+| Team Orders | 74.00% | ~2,124 |
+| Engineer | 55.00% | ~1,579 |
+| Familiar Faces | 48.00% | ~1,378 |
 | Going the Extra Mile | 42.00% | ~1,205 |
 | Sharing the Love | 40.00% | ~1,148 |
-| Hitting a Season | 34.00% | ~975 |
+| Hitting a Season | 34.00% | ~976 |
 | Challenge Yourself | 33.00% | ~947 |
-| Making History | 31.00% | ~889 |
+| Making History | 31.00% | ~890 |
 | A Dozen Pieces | 29.00% | ~832 |
 | Spring Cleaning | 24.00% | ~689 |
 | Network Success | 24.00% | ~689 |
@@ -40,9 +40,9 @@ Rating: 4.66 (Ranked 282)
 | Undisputed Winner | 8.00% | ~230 |
 | For all Those Back at the Factory | 6.00% | ~172 |
 | Living up to Expectations | 6.00% | ~172 |
-| Loyal Bond | 5.00% | ~143 |
-| Smooth Operator | 5.00% | ~143 |
-| Peak Performance | 5.00% | ~143 |
+| Loyal Bond | 5.00% | ~144 |
+| Smooth Operator | 5.00% | ~144 |
+| Peak Performance | 5.00% | ~144 |
 | Seasoned Rookie | 3.00% | ~86 |
 | Hitting a Century | 3.00% | ~86 |
 | Wait, I know you? | 3.00% | ~86 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 282)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,869 (Ranked 190)  
+Progressed: 2,870 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-09-30 | 2,769 | 0 |
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
-| 2023-10-03 | 2,869 | 0 |
+| 2023-10-03 | 2,870 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
