@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122789,
+  "EOS_Progressed": 122790,
   "EOS_Completed": 1018,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -18999,6 +18999,11 @@
       "Time": "2023-10-03T22:07:32.3624459+00:00",
       "NumProgressed": 122789,
       "NumCompleted": 1018
+    },
+    {
+      "Time": "2023-10-03T23:07:28.8514139+00:00",
+      "NumProgressed": 122790,
+      "NumCompleted": 1018
     }
   ],
   "TotalAchievements": 34,
@@ -19026,7 +19031,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51571
+      "UsersEstimate": 51572
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -19066,7 +19071,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 97003
+      "UsersEstimate": 97004
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -19114,7 +19119,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6139
+      "UsersEstimate": 6140
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -19144,9 +19149,9 @@
       "ID": "ACH_L03_PIANO",
       "SetID": "agbm7mn",
       "Name": "You looked that up in a guide!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2456
+      "UsersEstimate": 3684
     },
     {
       "ID": "ACH_L03_RECORD",
@@ -19218,7 +19223,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 29469
+      "UsersEstimate": 29470
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -19226,7 +19231,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 29469
+      "UsersEstimate": 29470
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -19258,7 +19263,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 29469
+      "UsersEstimate": 29470
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -19281,7 +19286,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 122789,
+      "Progressed": 122790,
       "Completed": 1018
     }
   ],
@@ -19289,8 +19294,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:07:32.3624453+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:07:28.8514133+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:49.9411208+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:57:44.532522+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:07:32.3626606+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:57:32.5929492+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:07:28.8515858+00:00"
 }

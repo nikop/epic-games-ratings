@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -9736,9 +9736,9 @@
       "ID": "ACH_17",
       "SetID": "9d4cf4c",
       "Name": "Knights!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2827
     },
     {
       "ID": "ACH_18",
@@ -9897,8 +9897,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-02T05:00:35.8126919+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:03:39.2148887+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:03:47.0172309+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:58:13.1273297+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:03:39.2149929+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:58:00.7451146+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:03:47.0173208+00:00"
 }

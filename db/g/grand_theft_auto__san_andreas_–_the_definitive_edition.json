@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1108,9 +1108,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13096,
+  "EOS_Progressed": 13097,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12258,6 +12258,11 @@
       "Time": "2023-10-03T21:06:25.0111885+00:00",
       "NumProgressed": 13096,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-03T23:06:48.7829756+00:00",
+      "NumProgressed": 13097,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12269,7 +12274,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10608
+      "UsersEstimate": 10609
     },
     {
       "ID": "ACH02",
@@ -12437,7 +12442,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACH23",
@@ -12493,7 +12498,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACH30",
@@ -12548,7 +12553,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13096,
+      "Progressed": 13097,
       "Completed": 49
     }
   ],
@@ -12556,8 +12561,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-03T15:57:28.5021335+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:06:51.6040439+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:06:48.7829751+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:57:47.0985363+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:06:51.6041495+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:57:35.0893806+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:06:48.783077+00:00"
 }

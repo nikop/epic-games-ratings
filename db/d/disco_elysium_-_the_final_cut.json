@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 241,
-  "Ranking_EOS_Progress": 73,
+  "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1337,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129277,
+  "EOS_Progressed": 129278,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18047,6 +18047,11 @@
       "Time": "2023-10-03T21:08:04.9895877+00:00",
       "NumProgressed": 129277,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-03T23:08:23.7706007+00:00",
+      "NumProgressed": 129278,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18074,7 +18079,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_COP_APO",
@@ -18114,7 +18119,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31026
+      "UsersEstimate": 31027
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18202,7 +18207,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14220
+      "UsersEstimate": 14221
     },
     {
       "ID": "ACH_CUNO",
@@ -18242,7 +18247,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_HARDIE",
@@ -18362,7 +18367,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_WHATBODY",
@@ -18377,15 +18382,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129277,
+      "Progressed": 129278,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:08:27.2600871+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:08:23.7706001+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:57:39.9130248+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:08:27.2602028+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:57:27.0224607+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:08:23.7707418+00:00"
 }

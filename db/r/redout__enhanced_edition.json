@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233036,
+  "EOS_Progressed": 233038,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17883,6 +17883,11 @@
       "Time": "2023-10-03T22:09:25.7358298+00:00",
       "NumProgressed": 233036,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-03T23:09:21.8011091+00:00",
+      "NumProgressed": 233038,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -17910,7 +17915,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65250
+      "UsersEstimate": 65251
     },
     {
       "ID": "CENTAUR",
@@ -17982,7 +17987,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46607
+      "UsersEstimate": 46608
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -18030,7 +18035,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76902
+      "UsersEstimate": 76903
     },
     {
       "ID": "NOBUNAGA",
@@ -18110,7 +18115,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -18134,7 +18139,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -18158,22 +18163,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95545
+      "UsersEstimate": 95546
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233036,
+      "Progressed": 233038,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:09:25.7358295+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:09:21.8011086+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:09.0813317+00:00",
-  "LastUpdate_Ratings": "2023-10-03T22:02:07.8182514+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:09:25.7360454+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:01:48.1202209+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:09:21.8012477+00:00"
 }

@@ -27,8 +27,8 @@ Rating: 4.73 (Ranked 163)
 | Mercy | 24.00% | ~3,231 |
 | Effective instruments | 22.00% | ~2,962 |
 | Perfect shot | 22.00% | ~2,962 |
+| Knights! | 21.00% | ~2,827 |
 | Perfect throw | 21.00% | ~2,827 |
-| Knights! | 20.00% | ~2,693 |
 | Handful of pockets | 13.00% | ~1,750 |
 | Not a toy anymore | 11.00% | ~1,481 |
 | Pocket laboratory | 11.00% | ~1,481 |

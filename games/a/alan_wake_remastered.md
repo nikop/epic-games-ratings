@@ -6,28 +6,28 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,096 |
-| Let There Be Light | 34.00% | ~22,745 |
-| Float Like a Butterfly | 33.00% | ~22,076 |
-| Nordic Walking | 27.00% | ~18,062 |
-| Bright Falls' Finest | 26.00% | ~17,393 |
-| Under a Thin Layer of Skin | 23.00% | ~15,386 |
-| Park Ranger | 19.00% | ~12,710 |
-| Paging Mr. Wake | 19.00% | ~12,710 |
-| Back! Back, I Say! | 18.00% | ~12,041 |
-| Finders Keepers | 18.00% | ~12,041 |
-| They're Heeeeeere! | 16.00% | ~10,703 |
-| Sound and Fury | 16.00% | ~10,703 |
-| Missed by a Mile | 16.00% | ~10,703 |
-| Damn Good Cup of Coffee | 16.00% | ~10,703 |
-| Wheels Within Wheels | 15.00% | ~10,034 |
-| The Six-Gun Scribe | 15.00% | ~10,034 |
-| Heavy Metal | 14.00% | ~9,365 |
-| Iron Horse | 14.00% | ~9,365 |
-| Collateral Carnage | 14.00% | ~9,365 |
-| Come One, Come All | 14.00% | ~9,365 |
-| Perchance to Dream | 13.00% | ~8,696 |
-| It's Not Just a Typewriter Brand | 13.00% | ~8,696 |
+| Follow the Light | 42.00% | ~28,098 |
+| Let There Be Light | 34.00% | ~22,746 |
+| Float Like a Butterfly | 33.00% | ~22,077 |
+| Nordic Walking | 27.00% | ~18,063 |
+| Bright Falls' Finest | 26.00% | ~17,394 |
+| Under a Thin Layer of Skin | 23.00% | ~15,387 |
+| Park Ranger | 19.00% | ~12,711 |
+| Paging Mr. Wake | 19.00% | ~12,711 |
+| Back! Back, I Say! | 18.00% | ~12,042 |
+| Finders Keepers | 18.00% | ~12,042 |
+| They're Heeeeeere! | 16.00% | ~10,704 |
+| Sound and Fury | 16.00% | ~10,704 |
+| Missed by a Mile | 16.00% | ~10,704 |
+| Damn Good Cup of Coffee | 16.00% | ~10,704 |
+| Wheels Within Wheels | 15.00% | ~10,035 |
+| The Six-Gun Scribe | 15.00% | ~10,035 |
+| Heavy Metal | 14.00% | ~9,366 |
+| Iron Horse | 14.00% | ~9,366 |
+| Collateral Carnage | 14.00% | ~9,366 |
+| Come One, Come All | 14.00% | ~9,366 |
+| Perchance to Dream | 13.00% | ~8,697 |
+| It's Not Just a Typewriter Brand | 13.00% | ~8,697 |
 | Gatekeeper | 12.00% | ~8,028 |
 | Thunder and Lightning | 12.00% | ~8,028 |
 | Two For the Price of One | 12.00% | ~8,028 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,896 (Ranked 91)  
+Progressed: 66,899 (Ranked 91)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
 | 2023-10-02 | 66,805 | 67 |
-| 2023-10-03 | 66,896 | 67 |
+| 2023-10-03 | 66,899 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

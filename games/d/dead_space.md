@@ -19,10 +19,10 @@ Rating: 4.61 (Ranked 371)
 | Freeze | 49.00% | ~367 |
 | Exterminator | 49.00% | ~367 |
 | Greenhouse Effect | 49.00% | ~367 |
-| Full Arsenal | 43.00% | ~322 |
+| Full Arsenal | 44.00% | ~329 |
 | S.O.S. | 42.00% | ~314 |
-| Live with the Hot Ones | 40.00% | ~299 |
-| Get Off My Ship! | 40.00% | ~299 |
+| Live with the Hot Ones | 41.00% | ~307 |
+| Get Off My Ship! | 41.00% | ~307 |
 | Strange Transmissions | 40.00% | ~299 |
 | Wreckage | 39.00% | ~292 |
 | Keeper of the Faith | 36.00% | ~269 |
@@ -46,7 +46,7 @@ Rating: 4.61 (Ranked 371)
 | Backbreaker | 13.00% | ~97 |
 | Wishbone | 7.00% | ~52 |
 | Trusted Contractor | 5.00% | ~37 |
-| Built To Order | 4.00% | ~30 |
+| Built To Order | 5.00% | ~37 |
 | Merchant | 4.00% | ~30 |
 | One Gun | 2.00% | ~15 |
 | Maxed Out | 2.00% | ~15 |

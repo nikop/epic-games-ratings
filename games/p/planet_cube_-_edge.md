@@ -9,6 +9,7 @@
 | Collectables? Shocking. | 120.00% | ~6 |
 | You'll Be Fine! | 120.00% | ~6 |
 | Dinosaur's Isle | 80.00% | ~4 |
+| Out of the Dorms | 40.00% | ~2 |
 | Got Our Water Back! | 40.00% | ~2 |
 | You Just Don't Learn | 40.00% | ~2 |
 | Green, Mean and Edgy | 40.00% | ~2 |
@@ -16,7 +17,6 @@
 | Nothing's Impossible | 40.00% | ~2 |
 | Except Maybe This | 40.00% | ~2 |
 | Ready For The Olympics | 40.00% | ~2 |
-| Out of the Dorms | 20.00% | ~1 |
 | Explored The Labs | 20.00% | ~1 |
 | Bullet Conscious | 20.00% | ~1 |
 | Defence Broken | 20.00% | ~1 |

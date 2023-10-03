@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.30% | ~43 |
 | Friendly Family | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
+| Ambitious | 0.20% | ~29 |
 | Architect | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
 | Good | 0.20% | ~29 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
-| Ambitious | 0.10% | ~14 |
 | Ancient | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |

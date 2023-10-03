@@ -7,24 +7,24 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 67.00% | ~352 |
-| Cowardice | 60.00% | ~315 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~262 |
+| Cowardice | 60.00% | ~316 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~263 |
 | Eat Lead! | 48.00% | ~252 |
 | The Breaking Point | 46.00% | ~242 |
 | Prospector | 44.00% | ~231 |
 | Here Comes the Boom | 44.00% | ~231 |
-| Treasure Hunter | 41.00% | ~215 |
+| Treasure Hunter | 40.00% | ~210 |
 | The Motivation | 40.00% | ~210 |
 | Sniper Wolf | 40.00% | ~210 |
 | Heroism | 38.00% | ~200 |
 | Missing in Action | 36.00% | ~189 |
-| Collectibles of Chapter I | 34.00% | ~178 |
-| Consequences | 34.00% | ~178 |
-| Opportunities | 33.00% | ~173 |
-| King of Knives | 33.00% | ~173 |
+| Collectibles of Chapter I | 35.00% | ~184 |
+| Consequences | 34.00% | ~179 |
+| Opportunities | 33.00% | ~174 |
+| King of Knives | 33.00% | ~174 |
 | The Horror | 30.00% | ~158 |
 | The Difference | 28.00% | ~147 |
-| Vengeance | 26.00% | ~136 |
+| Vengeance | 26.00% | ~137 |
 | Collectibles of Chapter II | 23.00% | ~121 |
 | Broken Hopes | 23.00% | ~121 |
 | It's Just an Accident | 23.00% | ~121 |
@@ -49,9 +49,9 @@ Number of Ratings: 34  (23.09.2022)
 | It Will Rain | 5.00% | ~26 |
 | Collectibles of Chapter VI | 3.00% | ~16 |
 | Collectibles of Chapter X | 3.00% | ~16 |
-| Collectibles of Chapter IX | 2.00% | ~10 |
-| Hold a Door | 2.00% | ~10 |
-| Daddy Would Be Proud | 2.00% | ~10 |
+| Collectibles of Chapter IX | 2.00% | ~11 |
+| Hold a Door | 2.00% | ~11 |
+| Daddy Would Be Proud | 2.00% | ~11 |
 | Warm Up | 0.40% | ~2 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 267)  
+Progressed: 526 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-29 | 519 | 0 |
 | 2023-09-30 | 521 | 0 |
 | 2023-10-01 | 525 | 0 |
+| 2023-10-03 | 526 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5972,
+  "EOS_Progressed": 5974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8149,6 +8149,11 @@
       "Time": "2023-10-03T21:07:08.3578747+00:00",
       "NumProgressed": 5972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T23:07:40.8249499+00:00",
+      "NumProgressed": 5974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8160,7 +8165,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4718
+      "UsersEstimate": 4719
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8168,7 +8173,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8176,7 +8181,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8184,7 +8189,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8192,7 +8197,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8200,7 +8205,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3583
+      "UsersEstimate": 3584
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8208,7 +8213,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -8216,7 +8221,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8224,7 +8229,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -8320,7 +8325,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -8328,7 +8333,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -8439,13 +8444,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5972,
+      "Progressed": 5974,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5344,
+      "Progressed": 5346,
       "Completed": 112
     }
   ],
@@ -8453,8 +8458,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-02T23:58:34.0309179+00:00",
-  "LastChanged_Achievements": "2023-10-03T22:07:44.167235+00:00",
+  "LastChanged_Achievements": "2023-10-03T23:07:40.8249495+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.5103284+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:59:01.3984658+00:00",
-  "LastUpdate_Achievements": "2023-10-03T22:07:44.1673329+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:58:47.5855129+00:00",
+  "LastUpdate_Achievements": "2023-10-03T23:07:40.8250201+00:00"
 }

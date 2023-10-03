@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~375 |
-| Off to a good start | 66.00% | ~272 |
-| Do... or do not. There is no try | 52.00% | ~214 |
+| New Recruit | 91.00% | ~376 |
+| Off to a good start | 66.00% | ~273 |
+| Do... or do not. There is no try | 52.00% | ~215 |
 | A good blaster at your side | 34.00% | ~140 |
 | Scrap collector | 21.00% | ~87 |
-| All right, I'll give it a try | 20.00% | ~82 |
+| All right, I'll give it a try | 20.00% | ~83 |
 | Great shot, kid! | 19.00% | ~78 |
 | I suggest a new strategy | 18.00% | ~74 |
 | The power of the Force | 17.00% | ~70 |
@@ -18,7 +18,7 @@
 | Collector | 15.00% | ~62 |
 | Best star-pilot in the galaxy | 13.00% | ~54 |
 | Survivor | 13.00% | ~54 |
-| Tell Jabba that I've got his money | 11.00% | ~45 |
+| Tell Jabba that I've got his money | 12.00% | ~50 |
 | What's the cargo? | 10.00% | ~41 |
 | Never tell me the odds! | 10.00% | ~41 |
 | Impressive. Most impressive. | 10.00% | ~41 |
@@ -37,14 +37,14 @@
 | Your journey has only started | 5.00% | ~21 |
 | On the ball | 5.00% | ~21 |
 | That's no moon | 5.00% | ~21 |
-| The Force is strong with this one | 4.00% | ~16 |
-| Precision shot | 4.00% | ~16 |
-| Safety ain't the point of a joyride | 4.00% | ~16 |
-| This is a new day, a new beginning | 4.00% | ~16 |
-| City in the Clouds | 4.00% | ~16 |
-| Alternative solution | 4.00% | ~16 |
-| What will you become? | 4.00% | ~16 |
-| Disturbed tranquility | 4.00% | ~16 |
+| The Force is strong with this one | 4.00% | ~17 |
+| Precision shot | 4.00% | ~17 |
+| Safety ain't the point of a joyride | 4.00% | ~17 |
+| This is a new day, a new beginning | 4.00% | ~17 |
+| City in the Clouds | 4.00% | ~17 |
+| Alternative solution | 4.00% | ~17 |
+| What will you become? | 4.00% | ~17 |
+| Disturbed tranquility | 4.00% | ~17 |
 | Playing the objective | 3.00% | ~12 |
 | The circle is now complete | 3.00% | ~12 |
 | Hold the line! | 2.00% | ~8 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 284)  
+Progressed: 413 (Ranked 284)  
 Completed: 1 (0.24%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.24%) (Ranked 210)
 | 2023-09-30 | 345 | 1 |
 | 2023-10-01 | 379 | 1 |
 | 2023-10-02 | 393 | 1 |
-| 2023-10-03 | 412 | 1 |
+| 2023-10-03 | 413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,198 |
-| Biggest Communism Builder | 24.00% | ~31,026 |
+| Biggest Communism Builder | 24.00% | ~31,027 |
 | The World's Most Laughable Centrist | 21.00% | ~27,148 |
 | Il Coppo Del'Arte! | 18.00% | ~23,270 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,684 |
@@ -15,7 +15,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,099 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,099 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,806 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,220 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,221 |
 | Unbelievably Boring **** | 9.00% | ~11,635 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,635 |
 | Enemy Of The Physical Realm | 8.00% | ~10,342 |
@@ -30,9 +30,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,586 |
 | Massive Torque Dork | 1.00% | ~1,293 |
 | Avowed Inframaterialist | 1.00% | ~1,293 |
-| Committee of la Responsabilité | 0.90% | ~1,163 |
-| Venture into the HARDCORE | 0.90% | ~1,163 |
-| Real Musor | 0.90% | ~1,163 |
+| Committee of la Responsabilité | 0.90% | ~1,164 |
+| Venture into the HARDCORE | 0.90% | ~1,164 |
+| Real Musor | 0.90% | ~1,164 |
 | Baddest Brow in Town | 0.80% | ~1,034 |
 | Networthy Individual | 0.70% | ~905 |
 | Leopard Mindset | 0.60% | ~776 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,277 (Ranked 73)  
+Progressed: 129,278 (Ranked 74)  
 Completed: 28 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 28 (0.02%) (Ranked 280)
 | 2023-09-30 | 129,168 | 28 |
 | 2023-10-01 | 129,212 | 28 |
 | 2023-10-02 | 129,247 | 28 |
-| 2023-10-03 | 129,277 | 28 |
+| 2023-10-03 | 129,278 | 28 |
 ## Awards
 Max (Character Customization): 728  (Ranked 171)  
 Sum: 1,095 (Ranked 241)  
