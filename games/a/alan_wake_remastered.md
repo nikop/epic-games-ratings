@@ -1,17 +1,17 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.55 (Ranked 492)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,069 |
-| Let There Be Light | 34.00% | ~22,723 |
+| Follow the Light | 42.00% | ~28,070 |
+| Let There Be Light | 34.00% | ~22,724 |
 | Float Like a Butterfly | 33.00% | ~22,055 |
 | Nordic Walking | 27.00% | ~18,045 |
-| Bright Falls' Finest | 26.00% | ~17,376 |
-| Under a Thin Layer of Skin | 23.00% | ~15,371 |
+| Bright Falls' Finest | 26.00% | ~17,377 |
+| Under a Thin Layer of Skin | 23.00% | ~15,372 |
 | Park Ranger | 19.00% | ~12,698 |
 | Paging Mr. Wake | 19.00% | ~12,698 |
 | Back! Back, I Say! | 18.00% | ~12,030 |
@@ -22,10 +22,10 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 16.00% | ~10,693 |
 | Wheels Within Wheels | 15.00% | ~10,025 |
 | The Six-Gun Scribe | 15.00% | ~10,025 |
-| Heavy Metal | 14.00% | ~9,356 |
-| Iron Horse | 14.00% | ~9,356 |
-| Collateral Carnage | 14.00% | ~9,356 |
-| Come One, Come All | 14.00% | ~9,356 |
+| Heavy Metal | 14.00% | ~9,357 |
+| Iron Horse | 14.00% | ~9,357 |
+| Collateral Carnage | 14.00% | ~9,357 |
+| Come One, Come All | 14.00% | ~9,357 |
 | Perchance to Dream | 13.00% | ~8,688 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,688 |
 | Gatekeeper | 12.00% | ~8,020 |
@@ -65,7 +65,7 @@ Number of Ratings: 524  (23.09.2022)
 | Run-On Sentence | 0.40% | ~121 |
 | License Revoked | 0.40% | ~121 |
 | Whirlwind | 0.40% | ~121 |
-| Bright Falls Aficionado | 0.30% | ~200 |
+| Bright Falls Aficionado | 0.30% | ~201 |
 | Tick Tock | 0.30% | ~91 |
 | Gunless Wonder | 0.20% | ~134 |
 | Every Nook and Cranny | 0.20% | ~134 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,832 (Ranked 92)  
+Progressed: 66,834 (Ranked 92)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
 | 2023-10-02 | 66,805 | 67 |
-| 2023-10-03 | 66,832 | 67 |
+| 2023-10-03 | 66,834 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

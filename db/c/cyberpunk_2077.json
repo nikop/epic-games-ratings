@@ -12887,10 +12887,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888110,
+  "EOS_Progressed": 888118,
   "EOS_Completed": 2556,
-  "EOS_NewPlayers": 6395,
-  "EOS_NewCompleters": 168,
+  "EOS_NewPlayers": 6380,
+  "EOS_NewCompleters": 165,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31537,6 +31537,11 @@
       "Time": "2023-10-03T05:08:13.1362497+00:00",
       "NumProgressed": 888110,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-10-03T06:08:09.0418973+00:00",
+      "NumProgressed": 888118,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 57,
@@ -31628,7 +31633,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26643
+      "UsersEstimate": 26644
     },
     {
       "ID": "HandyMan",
@@ -31636,7 +31641,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26643
+      "UsersEstimate": 26644
     },
     {
       "ID": "IAmMaxTac",
@@ -31732,7 +31737,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35524
+      "UsersEstimate": 35525
     },
     {
       "ID": "Temperance",
@@ -31748,7 +31753,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35524
+      "UsersEstimate": 35525
     },
     {
       "ID": "TheDevil",
@@ -31836,7 +31841,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26643
+      "UsersEstimate": 26644
     },
     {
       "ID": "TrueSoldier",
@@ -32003,21 +32008,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888110,
+      "Progressed": 888118,
       "Completed": 2556
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16733,
+      "Progressed": 16741,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-03T04:01:21.9099872+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:08:13.1362493+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:08:09.0418965+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:59:56.0123703+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:08:13.1363993+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:00:32.7070415+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:08:09.0421066+00:00"
 }

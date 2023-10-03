@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19325,
+  "EOS_Progressed": 19326,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19189,6 +19189,11 @@
       "Time": "2023-10-03T04:06:46.438224+00:00",
       "NumProgressed": 19325,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-03T06:05:57.6428681+00:00",
+      "NumProgressed": 19326,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19264,7 +19269,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "GRProjectComplete",
@@ -19288,7 +19293,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8696
+      "UsersEstimate": 8697
     },
     {
       "ID": "ICallItLuck",
@@ -19312,7 +19317,7 @@
       "Name": "Junkrunner",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "JustAMan",
@@ -19336,7 +19341,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14687
+      "UsersEstimate": 14688
     },
     {
       "ID": "MoreThanHuman",
@@ -19368,7 +19373,7 @@
       "Name": "One man\u0027s trash",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "OneOfThoseDays",
@@ -19472,7 +19477,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11789
     },
     {
       "ID": "SwordToAGunfight",
@@ -19480,7 +19485,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5604
+      "UsersEstimate": 5605
     },
     {
       "ID": "TripleA",
@@ -19512,7 +19517,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5604
+      "UsersEstimate": 5605
     },
     {
       "ID": "Wallrunner",
@@ -19520,7 +19525,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "WaveOfMutilation",
@@ -19559,21 +19564,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19325,
+      "Progressed": 19326,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19325,
+      "Progressed": 19326,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-01T18:00:37.2020378+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:05:15.1446314+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:05:57.6428677+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:59:57.945507+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:05:15.1447826+00:00"
+  "LastUpdate_Ratings": "2023-10-03T06:00:34.9058304+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:05:57.6430613+00:00"
 }

@@ -7,24 +7,24 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,626 |
-| A thief's beginning | 10.00% | ~20,569 |
-| Thorough | 10.00% | ~20,569 |
-| Disguised | 8.00% | ~16,455 |
-| Rescue Takuma | 8.00% | ~16,455 |
-| Rollin' | 8.00% | ~16,455 |
-| Tanuki Time | 8.00% | ~16,455 |
-| Ice Ice Yuki | 7.00% | ~14,398 |
-| Jonin | 7.00% | ~14,398 |
-| Stoned Ox | 7.00% | ~14,398 |
-| Yabu | 7.00% | ~14,398 |
-| Chunin | 6.00% | ~12,341 |
-| Flying Rocks | 6.00% | ~12,341 |
-| Happy Planning | 6.00% | ~12,341 |
-| Mugen Unchained | 6.00% | ~12,341 |
-| Warzone | 6.00% | ~12,341 |
-| Okkoto | 5.00% | ~10,284 |
-| Prisoners | 5.00% | ~10,284 |
-| Too Early | 5.00% | ~10,284 |
+| A thief's beginning | 10.00% | ~20,570 |
+| Thorough | 10.00% | ~20,570 |
+| Disguised | 8.00% | ~16,456 |
+| Rescue Takuma | 8.00% | ~16,456 |
+| Rollin' | 8.00% | ~16,456 |
+| Tanuki Time | 8.00% | ~16,456 |
+| Ice Ice Yuki | 7.00% | ~14,399 |
+| Jonin | 7.00% | ~14,399 |
+| Stoned Ox | 7.00% | ~14,399 |
+| Yabu | 7.00% | ~14,399 |
+| Chunin | 6.00% | ~12,342 |
+| Flying Rocks | 6.00% | ~12,342 |
+| Happy Planning | 6.00% | ~12,342 |
+| Mugen Unchained | 6.00% | ~12,342 |
+| Warzone | 6.00% | ~12,342 |
+| Okkoto | 5.00% | ~10,285 |
+| Prisoners | 5.00% | ~10,285 |
+| Too Early | 5.00% | ~10,285 |
 | Gear up | 4.00% | ~8,228 |
 | Happy little accidents | 4.00% | ~8,228 |
 | Still Rollin' | 4.00% | ~8,228 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,688 (Ranked 62)  
+Progressed: 205,695 (Ranked 62)  
 Completed: 88 (0.04%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 88 (0.04%) (Ranked 269)
 | 2023-09-30 | 205,281 | 88 |
 | 2023-10-01 | 205,486 | 88 |
 | 2023-10-02 | 205,655 | 88 |
-| 2023-10-03 | 205,688 | 88 |
+| 2023-10-03 | 205,695 | 88 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 193)  
 Sum: 4,779 (Ranked 138)  

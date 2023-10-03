@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 492,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 60,
@@ -308,7 +308,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223356,
+  "EOS_Progressed": 223362,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1908,
   "EOS_NewCompleters": 0,
@@ -8378,6 +8378,11 @@
       "Time": "2023-10-03T05:04:34.8063177+00:00",
       "NumProgressed": 223356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T06:05:08.6756841+00:00",
+      "NumProgressed": 223362,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8446,7 +8451,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46905
+      "UsersEstimate": 46906
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8454,7 +8459,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20102
+      "UsersEstimate": 20103
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8574,7 +8579,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29036
+      "UsersEstimate": 29037
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8646,7 +8651,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55839
+      "UsersEstimate": 55840
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8661,7 +8666,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 223356,
+      "Progressed": 223362,
       "Completed": 0
     }
   ],
@@ -8669,8 +8674,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-01T11:57:44.325578+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:04:34.8063172+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:05:08.6756836+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:58:30.1326872+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:04:34.8063939+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:58:40.7468698+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:05:08.6757811+00:00"
 }

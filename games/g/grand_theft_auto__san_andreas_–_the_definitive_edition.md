@@ -1,16 +1,16 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 491)  
+Rating: 4.56 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,604 |
-| Pay 'n' Spray | 51.00% | ~6,676 |
+| Getting Started | 81.00% | ~10,605 |
+| Pay 'n' Spray | 51.00% | ~6,677 |
 | All Dressed Up for San Fierro | 26.00% | ~3,404 |
 | The American Dream | 20.00% | ~2,618 |
 | School's Out | 19.00% | ~2,487 |
-| Smooth Moves | 17.00% | ~2,225 |
+| Smooth Moves | 17.00% | ~2,226 |
 | What happens in Las Venturas... | 15.00% | ~1,964 |
 | Today Was a Good Day | 15.00% | ~1,964 |
 | Horror of the Santa Maria | 11.00% | ~1,440 |
@@ -18,7 +18,7 @@ Rating: 4.55 (Ranked 491)
 | The End of the Line | 8.00% | ~1,047 |
 | Original Gangster | 8.00% | ~1,047 |
 | With Extra Dip | 7.00% | ~916 |
-| Saviour | 6.00% | ~785 |
+| Saviour | 6.00% | ~786 |
 | They Can’t Stop All of Us | 5.00% | ~655 |
 | Rescue a Kitten Too? | 5.00% | ~655 |
 | What are the Odds | 4.00% | ~524 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 491)
 | ...Here we go again | 0.50% | ~65 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,091 (Ranked 136)  
+Progressed: 13,092 (Ranked 136)  
 Completed: 49 (0.37%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 49 (0.37%) (Ranked 184)
 | 2023-09-30 | 13,055 | 48 |
 | 2023-10-01 | 13,077 | 48 |
 | 2023-10-02 | 13,090 | 49 |
-| 2023-10-03 | 13,091 | 49 |
+| 2023-10-03 | 13,092 | 49 |
 ## Awards
-Max (Great Boss Battles): 325  (Ranked 236)  
-Sum: 455 (Ranked 318)  
-Diff (max vs sum): -82  
+Max (Great Boss Battles): 329  (Ranked 236)  
+Sum: 459 (Ranked 317)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 325 |
+| This game has Great Boss Battles | 329 |
 | This game is Relaxing | 29 |
 | This game has Amazing Storytelling | 28 |
 | This game has Amazing Characters | 26 |
@@ -359,3 +359,4 @@ Diff (max vs sum): -82
 | 2023-09-29 | 4.56 | 320 | 449 |
 | 2023-09-30 | 4.56 | 322 | 451 |
 | 2023-10-02 | 4.55 | 325 | 455 |
+| 2023-10-03 | 4.56 | 329 | 459 |

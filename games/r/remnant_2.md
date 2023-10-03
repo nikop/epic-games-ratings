@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,050 |
+| First of Many | 9.00% | ~17,051 |
 | The Killing Jar | 8.00% | ~15,156 |
 | Expanding Horizons | 7.00% | ~13,262 |
 | Quest for Survival | 7.00% | ~13,262 |
@@ -16,14 +16,14 @@ Rating: 4.76 (Ranked 118)
 | Duality | 6.00% | ~11,367 |
 | Boss'n Up | 6.00% | ~11,367 |
 | Trait Chaser | 6.00% | ~11,367 |
-| Not So Special Now | 5.00% | ~9,472 |
-| Equal Measures | 5.00% | ~9,472 |
-| Blue Goddess | 5.00% | ~9,472 |
-| Top Performer | 5.00% | ~9,472 |
-| Shhh...It's a Secret | 5.00% | ~9,472 |
-| Almost There | 5.00% | ~9,472 |
-| Make Some Room | 5.00% | ~9,472 |
-| Good, But Could Be Better! | 5.00% | ~9,472 |
+| Not So Special Now | 5.00% | ~9,473 |
+| Equal Measures | 5.00% | ~9,473 |
+| Blue Goddess | 5.00% | ~9,473 |
+| Top Performer | 5.00% | ~9,473 |
+| Shhh...It's a Secret | 5.00% | ~9,473 |
+| Almost There | 5.00% | ~9,473 |
+| Make Some Room | 5.00% | ~9,473 |
+| Good, But Could Be Better! | 5.00% | ~9,473 |
 | Chaos | 4.00% | ~7,578 |
 | Traitor | 4.00% | ~7,578 |
 | Forever is a Long Time Coming | 4.00% | ~7,578 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 118)
 | Carnage in C-Minor | 2.00% | ~3,789 |
 | Maxed Out! | 2.00% | ~3,789 |
 | Transmutate | 2.00% | ~3,789 |
-| The Trigger | 1.00% | ~1,894 |
-| Cutting Edge | 1.00% | ~1,894 |
-| Proving Grounds | 1.00% | ~1,894 |
+| The Trigger | 1.00% | ~1,895 |
+| Cutting Edge | 1.00% | ~1,895 |
+| Proving Grounds | 1.00% | ~1,895 |
 | Ghost in the Machine | 0.90% | ~1,705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,450 (Ranked 65)  
+Progressed: 189,455 (Ranked 65)  
 Completed: 355 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 355 (0.19%) (Ranked 219)
 | 2023-09-30 | 188,435 | 348 |
 | 2023-10-01 | 188,949 | 350 |
 | 2023-10-02 | 189,383 | 353 |
-| 2023-10-03 | 189,450 | 355 |
+| 2023-10-03 | 189,455 | 355 |
 ## Awards
 Max (Great Boss Battles): 1,760  (Ranked 117)  
 Sum: 3,712 (Ranked 154)  

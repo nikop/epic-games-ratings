@@ -1265,9 +1265,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
@@ -1280,8 +1280,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:03:35.6420997+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:03:55.8253086+00:00",
   "LastUpdate_AppInfo": "2023-09-30T20:57:35.8786935+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:58:29.8936045+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:03:35.6421191+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:58:40.435554+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:03:55.8253345+00:00"
 }

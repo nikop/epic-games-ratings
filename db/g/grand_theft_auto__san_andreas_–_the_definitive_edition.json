@@ -2,20 +2,20 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 318,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -1046,18 +1046,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 455,
       "NumberOfAwardsMax": 325
+    },
+    {
+      "Time": "2023-10-03T05:57:14.6737305+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 455,
-  "NumberOfAwardsMax": 325,
+  "NumberOfAwards": 459,
+  "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 325
+      "Count": 329
     },
     {
       "Text": "This game is Relaxing",
@@ -1090,9 +1096,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13091,
+  "EOS_Progressed": 13092,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12215,6 +12221,11 @@
       "Time": "2023-10-03T01:48:35.0736543+00:00",
       "NumProgressed": 13091,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-03T06:06:07.1332174+00:00",
+      "NumProgressed": 13092,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12226,7 +12237,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10604
+      "UsersEstimate": 10605
     },
     {
       "ID": "ACH02",
@@ -12282,7 +12293,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6676
+      "UsersEstimate": 6677
     },
     {
       "ID": "ACH09",
@@ -12346,7 +12357,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "ACH17",
@@ -12362,7 +12373,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH19",
@@ -12505,16 +12516,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13091,
+      "Progressed": 13092,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-02T14:02:09.5824686+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:05:22.7390936+00:00",
+  "LastChanged": "2023-10-03T05:57:14.6737303+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:06:07.1332169+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:57:18.142151+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:05:22.7391942+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:57:14.6737311+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:06:07.1333431+00:00"
 }

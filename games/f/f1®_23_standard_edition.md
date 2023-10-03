@@ -17,9 +17,9 @@ Rating: 4.66 (Ranked 282)
 | Challenge Yourself | 33.00% | ~947 |
 | Making History | 31.00% | ~889 |
 | A Dozen Pieces | 29.00% | ~832 |
+| Spring Cleaning | 24.00% | ~689 |
 | Network Success | 24.00% | ~689 |
 | Writing a new Chapter | 24.00% | ~689 |
-| Spring Cleaning | 23.00% | ~660 |
 | Reduce | 19.00% | ~545 |
 | Ups and Downs | 19.00% | ~545 |
 | Crucial Combo | 17.00% | ~488 |

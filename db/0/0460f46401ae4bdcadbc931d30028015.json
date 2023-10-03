@@ -298,7 +298,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1982,
+  "EOS_Progressed": 1983,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
@@ -1473,6 +1473,11 @@
       "Time": "2023-10-03T05:04:03.8556857+00:00",
       "NumProgressed": 1982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T06:04:30.34894+00:00",
+      "NumProgressed": 1983,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1509,7 +1514,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_13",
@@ -1581,7 +1586,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "achievement_21",
@@ -1637,7 +1642,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_9",
@@ -1652,7 +1657,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1982,
+      "Progressed": 1983,
       "Completed": 0
     }
   ],
@@ -1660,8 +1665,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-09-30T01:37:55.9131562+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:04:03.8556853+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:04:30.3489393+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:59:28.9672709+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:04:03.8557084+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:59:57.1918805+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:04:30.3489698+00:00"
 }

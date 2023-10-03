@@ -24,7 +24,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Haggler | 9.00% | ~72,313 |
 | McLovin | 7.00% | ~56,243 |
 | Runt | 7.00% | ~56,243 |
-| Casanova | 6.00% | ~48,208 |
+| Casanova | 6.00% | ~48,209 |
 | Bad Trip | 5.00% | ~40,174 |
 | Monk | 5.00% | ~40,174 |
 | Serial Killer | 5.00% | ~40,174 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~803 |
 | Wingman | 0.10% | ~803 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,475 (Ranked 17)  
+Progressed: 803,476 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 49 (0.01%) (Ranked 287)
 | 2023-09-30 | 803,184 | 49 |
 | 2023-10-01 | 803,334 | 49 |
 | 2023-10-02 | 803,459 | 49 |
-| 2023-10-03 | 803,475 | 49 |
+| 2023-10-03 | 803,476 | 49 |
 ## Awards
 Max (Character Customization): 7,494  (Ranked 48)  
 Sum: 27,910 (Ranked 48)  

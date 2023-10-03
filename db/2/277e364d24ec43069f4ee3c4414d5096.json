@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109914,
+  "EOS_Progressed": 109915,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13036,6 +13036,11 @@
       "Time": "2023-10-03T05:04:27.2470341+00:00",
       "NumProgressed": 109914,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-03T06:04:59.232475+00:00",
+      "NumProgressed": 109915,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -13055,7 +13060,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84634
+      "UsersEstimate": 84635
     },
     {
       "ID": "EAwards_10",
@@ -13103,7 +13108,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10992
     },
     {
       "ID": "EAwards_16",
@@ -13151,7 +13156,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10992
     },
     {
       "ID": "EAwards_21",
@@ -13247,7 +13252,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10992
     },
     {
       "ID": "EAwards_32",
@@ -13431,14 +13436,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10992
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 109914,
+      "Progressed": 109915,
       "Completed": 44
     }
   ],
@@ -13446,8 +13451,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:04:27.2470336+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:04:59.2324745+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.6231409+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:58:24.9594036+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:04:27.2471609+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:58:34.7395287+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:04:59.2326352+00:00"
 }

@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739474,
+  "EOS_Progressed": 739479,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1990,
+  "EOS_NewPlayers": 1993,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19014,6 +19014,11 @@
       "Time": "2023-10-03T05:05:37.4241283+00:00",
       "NumProgressed": 739474,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T06:06:24.975551+00:00",
+      "NumProgressed": 739479,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -19049,7 +19054,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44368
+      "UsersEstimate": 44369
     },
     {
       "ID": "ach_build_bridge",
@@ -19057,7 +19062,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14789
+      "UsersEstimate": 14790
     },
     {
       "ID": "ach_build_tunnel",
@@ -19089,7 +19094,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 273605
+      "UsersEstimate": 273607
     },
     {
       "ID": "ach_demolish_trees",
@@ -19121,7 +19126,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 44368
+      "UsersEstimate": 44369
     },
     {
       "ID": "ach_max_truck_distance",
@@ -19153,7 +19158,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 354948
+      "UsersEstimate": 354950
     },
     {
       "ID": "ach_produced",
@@ -19169,7 +19174,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 118316
+      "UsersEstimate": 118317
     },
     {
       "ID": "ach_raise_money",
@@ -19217,7 +19222,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 14789
+      "UsersEstimate": 14790
     },
     {
       "ID": "ach_use_terraforming",
@@ -19233,14 +19238,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 140500
+      "UsersEstimate": 140501
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 739474,
+      "Progressed": 739479,
       "Completed": 4
     }
   ],
@@ -19248,8 +19253,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:05:37.4241275+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:06:24.9755503+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:48.7889039+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:57:16.017483+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:05:37.4242707+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:57:11.9374755+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:06:24.9757145+00:00"
 }

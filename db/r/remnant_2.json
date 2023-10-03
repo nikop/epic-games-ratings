@@ -2700,9 +2700,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 189450,
+  "EOS_Progressed": 189455,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 2948,
+  "EOS_NewPlayers": 2944,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11450,6 +11450,11 @@
       "Time": "2023-10-03T05:08:30.7561948+00:00",
       "NumProgressed": 189450,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-10-03T06:09:20.3340718+00:00",
+      "NumProgressed": 189455,
+      "NumCompleted": 355
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11566,7 +11571,7 @@
       "Name": "Not So Special Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -11622,7 +11627,7 @@
       "Name": "Equal Measures",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Meet_Mudtooth",
@@ -11638,7 +11643,7 @@
       "Name": "Blue Goddess",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Obtain_Archetype",
@@ -11646,7 +11651,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17050
+      "UsersEstimate": 17051
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -11662,7 +11667,7 @@
       "Name": "Top Performer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -11670,7 +11675,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -11710,7 +11715,7 @@
       "Name": "The Trigger",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "Obtain_Melee_Weapons_A",
@@ -11726,7 +11731,7 @@
       "Name": "Cutting Edge",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -11782,7 +11787,7 @@
       "Name": "Proving Grounds",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -11806,7 +11811,7 @@
       "Name": "Almost There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Upgrade_Relic",
@@ -11814,7 +11819,7 @@
       "Name": "Make Some Room",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -11822,7 +11827,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9472
+      "UsersEstimate": 9473
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -11861,7 +11866,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 189450,
+      "Progressed": 189455,
       "Completed": 355
     }
   ],
@@ -11869,8 +11874,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-03T04:58:33.1529027+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:08:30.7561943+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:09:20.3340709+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:11.7554102+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:58:33.1529033+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:08:30.7562907+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:58:44.2684645+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:09:20.3341954+00:00"
 }

@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6182,
+  "EOS_Progressed": 6185,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5017,6 +5017,11 @@
       "Time": "2023-10-03T05:05:03.3510156+00:00",
       "NumProgressed": 6182,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-03T06:05:43.3465135+00:00",
+      "NumProgressed": 6185,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5061,7 +5066,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "a_16",
@@ -5077,7 +5082,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "a_19",
@@ -5149,7 +5154,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "a_28",
@@ -5165,7 +5170,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "a_30",
@@ -5261,7 +5266,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "a_9",
@@ -5276,7 +5281,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6182,
+      "Progressed": 6185,
       "Completed": 7
     }
   ],
@@ -5284,8 +5289,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-03T05:05:03.3510152+00:00",
+  "LastChanged_Achievements": "2023-10-03T06:05:43.3465128+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-03T04:59:19.0288251+00:00",
-  "LastUpdate_Achievements": "2023-10-03T05:05:03.3510636+00:00"
+  "LastUpdate_Ratings": "2023-10-03T05:59:44.1465067+00:00",
+  "LastUpdate_Achievements": "2023-10-03T06:05:43.3465784+00:00"
 }
