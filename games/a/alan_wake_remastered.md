@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,065 |
-| Let There Be Light | 34.00% | ~22,719 |
-| Float Like a Butterfly | 33.00% | ~22,051 |
+| Follow the Light | 42.00% | ~28,066 |
+| Let There Be Light | 34.00% | ~22,720 |
+| Float Like a Butterfly | 33.00% | ~22,052 |
 | Nordic Walking | 27.00% | ~18,042 |
 | Bright Falls' Finest | 26.00% | ~17,374 |
-| Under a Thin Layer of Skin | 23.00% | ~15,369 |
-| Park Ranger | 19.00% | ~12,696 |
-| Paging Mr. Wake | 19.00% | ~12,696 |
+| Under a Thin Layer of Skin | 23.00% | ~15,370 |
+| Park Ranger | 19.00% | ~12,697 |
+| Paging Mr. Wake | 19.00% | ~12,697 |
 | Back! Back, I Say! | 18.00% | ~12,028 |
 | Finders Keepers | 18.00% | ~12,028 |
 | They're Heeeeeere! | 16.00% | ~10,692 |
 | Sound and Fury | 16.00% | ~10,692 |
 | Missed by a Mile | 16.00% | ~10,692 |
 | Damn Good Cup of Coffee | 16.00% | ~10,692 |
-| Wheels Within Wheels | 15.00% | ~10,023 |
-| The Six-Gun Scribe | 15.00% | ~10,023 |
+| Wheels Within Wheels | 15.00% | ~10,024 |
+| The Six-Gun Scribe | 15.00% | ~10,024 |
 | Heavy Metal | 14.00% | ~9,355 |
 | Iron Horse | 14.00% | ~9,355 |
 | Collateral Carnage | 14.00% | ~9,355 |
@@ -31,8 +31,8 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 12.00% | ~8,019 |
 | Thunder and Lightning | 12.00% | ~8,019 |
 | Two For the Price of One | 12.00% | ~8,019 |
-| The Lady of the Light | 11.00% | ~7,350 |
-| Energized! | 11.00% | ~7,350 |
+| The Lady of the Light | 11.00% | ~7,351 |
+| Energized! | 11.00% | ~7,351 |
 | Right of Way | 10.00% | ~6,682 |
 | Tornado Wrangler | 9.00% | ~6,014 |
 | What Light Through Yonder Window | 9.00% | ~6,014 |
@@ -41,8 +41,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 7.00% | ~4,678 |
 | Children of the Elder God | 6.00% | ~4,009 |
 | Drink 'Em Both Up | 6.00% | ~4,009 |
-| A Friend Indeed | 6.00% | ~1,817 |
-| Ding! | 6.00% | ~1,817 |
+| A Friend Indeed | 6.00% | ~1,818 |
+| Ding! | 6.00% | ~1,818 |
 | Boob Tube | 5.00% | ~3,341 |
 | If It Flies, It Burns | 5.00% | ~3,341 |
 | KBF-FM | 5.00% | ~3,341 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,822 (Ranked 92)  
+Progressed: 66,824 (Ranked 92)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-09-30 | 66,580 | 66 |
 | 2023-10-01 | 66,719 | 66 |
 | 2023-10-02 | 66,805 | 67 |
-| 2023-10-03 | 66,822 | 67 |
+| 2023-10-03 | 66,824 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

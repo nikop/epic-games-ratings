@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79628,
+  "EOS_Progressed": 79629,
   "EOS_Completed": 219,
-  "EOS_NewPlayers": 1646,
+  "EOS_NewPlayers": 1644,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5841,6 +5841,11 @@
       "Time": "2023-10-03T01:48:34.109934+00:00",
       "NumProgressed": 79628,
       "NumCompleted": 219
+    },
+    {
+      "Time": "2023-10-03T02:22:05.937585+00:00",
+      "NumProgressed": 79629,
+      "NumCompleted": 219
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -5853,7 +5858,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 63702
+      "UsersEstimate": 63703
     },
     {
       "ID": "grp_beet",
@@ -5957,7 +5962,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 37425
+      "UsersEstimate": 37426
     },
     {
       "ID": "grp_stone",
@@ -5988,7 +5993,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 79628,
+      "Progressed": 79629,
       "Completed": 219
     }
   ],
@@ -5996,8 +6001,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-10-02T16:59:16.5316123+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:48:34.1099334+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:22:05.9375845+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:12.8183356+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:41:25.7710538+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:48:34.1099991+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:15:14.9314718+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:22:05.9376287+00:00"
 }

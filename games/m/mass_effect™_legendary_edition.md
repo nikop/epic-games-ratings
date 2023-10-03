@@ -18,7 +18,7 @@
 | Medal of Honor | 56.00% | ~300 |
 | Meritorious Service Medal | 55.00% | ~294 |
 | Charismatic | 55.00% | ~294 |
-| Soldier | 53.00% | ~284 |
+| Soldier | 54.00% | ~289 |
 | Asari Ally | 52.00% | ~278 |
 | Medal of Exploration III | 50.00% | ~268 |
 | Soldier Ally | 50.00% | ~268 |

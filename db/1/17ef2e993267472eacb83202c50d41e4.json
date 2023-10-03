@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6819,
+  "EOS_Progressed": 6820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3263,6 +3263,11 @@
       "Time": "2023-10-03T01:49:30.4226253+00:00",
       "NumProgressed": 6819,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T02:23:01.8765834+00:00",
+      "NumProgressed": 6820,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3859,14 +3864,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6819,
+      "Progressed": 6820,
       "Completed": 1
     }
   ],
@@ -3874,8 +3879,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:49:30.4226246+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:23:01.8765829+00:00",
   "LastUpdate_AppInfo": "2023-09-26T09:57:05.4320955+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:41:31.8957302+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:49:30.4227404+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:15:21.2062201+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:23:01.8766788+00:00"
 }

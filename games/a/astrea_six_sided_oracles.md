@@ -8,7 +8,7 @@
 | Meissa's Savior | 94.00% | ~34 |
 | Purification Pioneer | 94.00% | ~34 |
 | Dicesmithing Time! | 89.00% | ~32 |
-| Wild's Keeper | 81.00% | ~29 |
+| Wild's Keeper | 83.00% | ~30 |
 | Endless Tricks | 78.00% | ~28 |
 | Sanctuary Guardian | 78.00% | ~28 |
 | Mind Illuminator | 67.00% | ~24 |
@@ -31,6 +31,7 @@
 | Astral Seeker | 6.00% | ~2 |
 | Can't touch this | 6.00% | ~2 |
 | Heavy Purger | 6.00% | ~2 |
+| Plague Doctor | 6.00% | ~2 |
 | Pocket Astrarium | 6.00% | ~2 |
 | Prestidigitation | 6.00% | ~2 |
 | The Goddes Avatar | 6.00% | ~2 |
@@ -43,7 +44,6 @@
 | Blazing Prince | 3.00% | ~1 |
 | Critical Twist | 3.00% | ~1 |
 | Favored by the Cosmos | 3.00% | ~1 |
-| Plague Doctor | 3.00% | ~1 |
 | Purification Avatar | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
 | The Abyssal Terror | 3.00% | ~1 |

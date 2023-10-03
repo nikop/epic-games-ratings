@@ -23,9 +23,9 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 19.00% | ~1,332 |
 | The Lion of the Isonzo | 18.00% | ~1,261 |
 | Luigi Cadorna | 15.00% | ~1,051 |
+| Uomo Universale | 15.00% | ~1,051 |
 | Dirty Dozen | 14.00% | ~981 |
 | Shaken, Not Stirred | 14.00% | ~981 |
-| Uomo Universale | 14.00% | ~981 |
 | Die Bosniaken Kommen! | 13.00% | ~911 |
 | Machiavelli | 13.00% | ~911 |
 | Thus With A Kiss | 13.00% | ~911 |

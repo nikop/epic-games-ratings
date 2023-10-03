@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528496,
+  "EOS_Progressed": 528497,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18184,6 +18184,11 @@
       "Time": "2023-10-03T01:46:31.2075318+00:00",
       "NumProgressed": 528496,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-03T02:20:07.7826979+00:00",
+      "NumProgressed": 528497,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 57,
@@ -18203,7 +18208,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237823
+      "UsersEstimate": 237824
     },
     {
       "ID": "11",
@@ -18211,7 +18216,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369947
+      "UsersEstimate": 369948
     },
     {
       "ID": "12",
@@ -18227,7 +18232,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68704
+      "UsersEstimate": 68705
     },
     {
       "ID": "14",
@@ -18267,7 +18272,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79274
+      "UsersEstimate": 79275
     },
     {
       "ID": "19",
@@ -18427,7 +18432,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84559
+      "UsersEstimate": 84560
     },
     {
       "ID": "37",
@@ -18555,7 +18560,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73989
+      "UsersEstimate": 73990
     },
     {
       "ID": "51",
@@ -18571,7 +18576,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243108
+      "UsersEstimate": 243109
     },
     {
       "ID": "53",
@@ -18650,15 +18655,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528496,
+      "Progressed": 528497,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:46:31.2075309+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:20:07.7826973+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:41:57.8277969+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:46:31.2077075+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:15:48.7694295+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:20:07.7828351+00:00"
 }

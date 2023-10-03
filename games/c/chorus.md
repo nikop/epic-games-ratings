@@ -43,8 +43,8 @@ Number of Ratings: 58  (23.09.2022)
 | Retaliate | 21.00% | ~259 |
 | Power Chord | 21.00% | ~259 |
 | Crash Test | 21.00% | ~259 |
+| Rise as One | 19.00% | ~234 |
 | Ascension | 19.00% | ~234 |
-| Rise as One | 18.00% | ~222 |
 | Showoff | 15.00% | ~185 |
 | Overcharged | 10.00% | ~123 |
 | Radiation Area | 10.00% | ~123 |

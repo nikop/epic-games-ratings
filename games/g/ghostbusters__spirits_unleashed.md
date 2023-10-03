@@ -30,13 +30,13 @@ Rating: 4.50 (Ranked 574)
 | Summoner | 0.50% | ~131 |
 | Welcome to the Crew | 0.50% | ~131 |
 | Legions | 0.40% | ~105 |
+| Pesky Jerks | 0.40% | ~105 |
 | Side Hustle | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |
 | Stunner | 0.40% | ~105 |
 | We have the best insurance | 0.30% | ~79 |
 | Diabolical | 0.30% | ~79 |
 | Escape Artist | 0.30% | ~79 |
-| Pesky Jerks | 0.30% | ~79 |
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |
 | Seasoned | 0.30% | ~79 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,175 (Ranked 114)  
+Progressed: 26,176 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-09-30 | 26,122 | 58 |
 | 2023-10-01 | 26,144 | 58 |
 | 2023-10-02 | 26,168 | 58 |
-| 2023-10-03 | 26,175 | 58 |
+| 2023-10-03 | 26,176 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 258  (Ranked 256)  
 Sum: 2,354 (Ranked 188)  

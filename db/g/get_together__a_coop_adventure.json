@@ -2,7 +2,7 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 120,
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:51:04.0990155+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:23:24.5379296+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:46.8174676+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:43:23.5152835+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:51:04.099029+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:17:11.5503128+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:23:24.5379393+00:00"
 }

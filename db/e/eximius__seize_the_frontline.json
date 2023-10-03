@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -312,7 +312,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197774,
+  "EOS_Progressed": 197775,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -18117,6 +18117,11 @@
       "Time": "2023-10-03T01:49:34.2599812+00:00",
       "NumProgressed": 197774,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-03T02:23:05.4511524+00:00",
+      "NumProgressed": 197775,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18160,7 +18165,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35599
+      "UsersEstimate": 35600
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -18232,7 +18237,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -18255,7 +18260,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197774,
+      "Progressed": 197775,
       "Completed": 4
     }
   ],
@@ -18263,8 +18268,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:49:34.2599802+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:23:05.4511519+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.8385746+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:40:41.8330674+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:49:34.2601227+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:14:30.6158919+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:23:05.4512566+00:00"
 }

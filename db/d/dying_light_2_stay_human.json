@@ -10201,9 +10201,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 631299,
+  "EOS_Progressed": 631302,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 2631,
+  "EOS_NewPlayers": 2630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28901,6 +28901,11 @@
       "Time": "2023-10-03T01:47:37.4115038+00:00",
       "NumProgressed": 631299,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-03T02:21:14.6011199+00:00",
+      "NumProgressed": 631302,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 65,
@@ -28912,7 +28917,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 220955
+      "UsersEstimate": 220956
     },
     {
       "ID": "achievement_02",
@@ -28920,7 +28925,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 220955
+      "UsersEstimate": 220956
     },
     {
       "ID": "achievement_03",
@@ -28928,7 +28933,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 208329
+      "UsersEstimate": 208330
     },
     {
       "ID": "achievement_04",
@@ -29048,7 +29053,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 195703
+      "UsersEstimate": 195704
     },
     {
       "ID": "achievement_19",
@@ -29104,7 +29109,7 @@
       "Name": "Flag Burning",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 170451
+      "UsersEstimate": 170452
     },
     {
       "ID": "achievement_26",
@@ -29120,7 +29125,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 239894
+      "UsersEstimate": 239895
     },
     {
       "ID": "achievement_28",
@@ -29128,7 +29133,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 183077
+      "UsersEstimate": 183078
     },
     {
       "ID": "achievement_29",
@@ -29200,7 +29205,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 202016
+      "UsersEstimate": 202017
     },
     {
       "ID": "achievement_38",
@@ -29431,21 +29436,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 631299,
+      "Progressed": 631302,
       "Completed": 63
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 276743,
+      "Progressed": 276746,
       "Completed": 1431
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-10-03T01:40:37.722875+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:47:37.4115031+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:21:14.6011194+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:36.6601551+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:40:37.7228758+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:47:37.4117493+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:14:26.8080111+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:21:14.6013127+00:00"
 }

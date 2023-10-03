@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~751,411 |
-| The ABCs | 43.00% | ~659,402 |
-| Home Run | 41.00% | ~628,732 |
-| Keeps Coming Off | 41.00% | ~628,732 |
-| Guts | 20.00% | ~306,698 |
-| Meat Grinder | 19.00% | ~291,363 |
-| Burning Man | 16.00% | ~245,359 |
-| Lived to Tell the Tale | 12.00% | ~184,019 |
-| Highlander | 10.00% | ~153,349 |
-| Unstoppable | 10.00% | ~153,349 |
-| Just a Scratch | 9.00% | ~138,014 |
+| Justice from the Grave | 49.00% | ~751,415 |
+| The ABCs | 43.00% | ~659,405 |
+| Home Run | 41.00% | ~628,735 |
+| Keeps Coming Off | 41.00% | ~628,735 |
+| Guts | 20.00% | ~306,700 |
+| Meat Grinder | 19.00% | ~291,365 |
+| Burning Man | 16.00% | ~245,360 |
+| Lived to Tell the Tale | 12.00% | ~184,020 |
+| Highlander | 10.00% | ~153,350 |
+| Unstoppable | 10.00% | ~153,350 |
+| Just a Scratch | 9.00% | ~138,015 |
 | Tough Nut to Crack | 6.00% | ~92,010 |
 | Yoink | 6.00% | ~92,010 |
 | Long List of Names | 4.00% | ~61,340 |
@@ -33,18 +33,18 @@ Rating: 4.39 (Ranked 729)
 | Boxer | 0.80% | ~12,268 |
 | Flyswatter | 0.80% | ~12,268 |
 | Training Accident | 0.80% | ~12,268 |
-| Rock’n’Roll | 0.70% | ~10,734 |
-| Virtuoso | 0.70% | ~10,734 |
+| Rock’n’Roll | 0.70% | ~10,735 |
+| Virtuoso | 0.70% | ~10,735 |
 | Friend Indeed | 0.60% | ~9,201 |
 | Vlad the Impaler | 0.40% | ~6,134 |
 | Whack-A-Mole | 0.40% | ~6,134 |
 | Clobbered | 0.20% | ~3,067 |
-| Ended Rightly | 0.10% | ~1,533 |
-| Living Sculpture | 0.10% | ~1,533 |
-| That’s No Ordinary Cold | 0.10% | ~1,533 |
-| Stairway to Hell | 0.10% | ~1,533 |
+| Ended Rightly | 0.10% | ~1,534 |
+| Living Sculpture | 0.10% | ~1,534 |
+| That’s No Ordinary Cold | 0.10% | ~1,534 |
+| Stairway to Hell | 0.10% | ~1,534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533,492 (Ranked 8)  
+Progressed: 1,533,501 (Ranked 8)  
 Completed: 59 (0.00%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 59 (0.00%) (Ranked 304)
 | 2023-09-30 | 1,532,140 | 59 |
 | 2023-10-01 | 1,532,935 | 59 |
 | 2023-10-02 | 1,533,445 | 59 |
-| 2023-10-03 | 1,533,492 | 59 |
+| 2023-10-03 | 1,533,501 | 59 |
 ## Awards
 Max (Diverse Characters): 738  (Ranked 167)  
 Sum: 3,904 (Ranked 150)  

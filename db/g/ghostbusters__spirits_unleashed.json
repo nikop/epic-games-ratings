@@ -2262,9 +2262,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26175,
+  "EOS_Progressed": 26176,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14067,6 +14067,11 @@
       "Time": "2023-10-03T01:48:24.9730077+00:00",
       "NumProgressed": 26175,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-03T02:21:56.9135879+00:00",
+      "NumProgressed": 26176,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14292,9 +14297,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 105
     },
     {
       "ID": "Reckless",
@@ -14485,7 +14490,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26175,
+      "Progressed": 26176,
       "Completed": 58
     }
   ],
@@ -14493,8 +14498,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-02T18:57:01.290966+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:48:24.973007+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:21:56.9135871+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:40:17.2465505+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:48:24.9735785+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:14:05.3207698+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:21:56.9137051+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,522 |
-| Rough Landing | 4.00% | ~35,522 |
+| Ten out of Ten | 4.00% | ~35,523 |
+| Rough Landing | 4.00% | ~35,523 |
 | Gunslinger | 3.00% | ~26,642 |
 | Master Crafter | 3.00% | ~26,642 |
 | The Jungle | 3.00% | ~26,642 |
@@ -35,7 +35,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,881 |
 | Judy vs Night City | 1.00% | ~8,881 |
 | It's Elementary | 1.00% | ~8,881 |
-| Greetings from Pacifica! | 0.80% | ~7,104 |
+| Greetings from Pacifica! | 0.80% | ~7,105 |
 | City Lights | 0.70% | ~6,216 |
 | Life of the Road | 0.70% | ~6,216 |
 | Spin Doctor | 0.70% | ~117 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,062 (Ranked 15)  
-Completed: 2,550 (0.29%) (Ranked 202)  
+Progressed: 888,070 (Ranked 15)  
+Completed: 2,553 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,10 +230,10 @@ Completed: 2,550 (0.29%) (Ranked 202)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,062 | 2,550 |
+| 2023-10-03 | 888,070 | 2,553 |
 ## Awards
 Max (Character Customization): 89,540  (Ranked 9)  
-Sum: 256,453 (Ranked 12)  
+Sum: 256,727 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -245,8 +245,8 @@ Diff (max vs sum): -3
 | This game is Highly Recommended | 12,417 |
 | This game is Extremely Fun | 12,184 |
 | This game has Amazing Characters | 12,086 |
+| This game is Relaxing | 12,043 |
 | This game has Quickly Understood Controls | 11,870 |
-| This game is Relaxing | 11,769 |
 | This game has a Creative Community | 7,847 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -508,4 +508,4 @@ Diff (max vs sum): -3
 | 2023-09-30 | 4.63 | - | 87,369 | 245,194 |
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
-| 2023-10-03 | 4.63 | - | 89,540 | 256,453 |
+| 2023-10-03 | 4.63 | - | 89,540 | 256,727 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8430,9 +8430,9 @@
       "Count": 681
     }
   ],
-  "EOS_Progressed": 297743,
+  "EOS_Progressed": 297744,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26300,6 +26300,11 @@
       "Time": "2023-10-03T01:47:51.8658244+00:00",
       "NumProgressed": 297743,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-03T02:21:28.5212187+00:00",
+      "NumProgressed": 297744,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 45,
@@ -26311,7 +26316,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44661
+      "UsersEstimate": 44662
     },
     {
       "ID": "PFA_10",
@@ -26359,7 +26364,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "PFA_16",
@@ -26383,7 +26388,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "PFA_19",
@@ -26391,7 +26396,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "PFA_2",
@@ -26615,7 +26620,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "PFA_45",
@@ -26670,7 +26675,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297743,
+      "Progressed": 297744,
       "Completed": 479
     }
   ],
@@ -26678,8 +26683,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-02T23:00:03.5143938+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:47:51.8658236+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:21:28.5212181+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:42:04.499908+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:47:51.8659907+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:15:54.9486144+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:21:28.521363+00:00"
 }

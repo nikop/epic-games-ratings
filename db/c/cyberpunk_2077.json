@@ -12795,10 +12795,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 256453,
       "NumberOfAwardsMax": 89540
+    },
+    {
+      "Time": "2023-10-03T02:16:30.255478+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 256727,
+      "NumberOfAwardsMax": 89540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 256453,
+  "NumberOfAwards": 256727,
   "NumberOfAwardsMax": 89540,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12824,7 +12830,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 11769
+      "Count": 12043
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12875,10 +12881,10 @@
       "Count": 7847
     }
   ],
-  "EOS_Progressed": 888062,
-  "EOS_Completed": 2550,
-  "EOS_NewPlayers": 6456,
-  "EOS_NewCompleters": 163,
+  "EOS_Progressed": 888070,
+  "EOS_Completed": 2553,
+  "EOS_NewPlayers": 6443,
+  "EOS_NewCompleters": 165,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31505,6 +31511,11 @@
       "Time": "2023-10-03T01:51:28.5706243+00:00",
       "NumProgressed": 888062,
       "NumCompleted": 2550
+    },
+    {
+      "Time": "2023-10-03T02:25:17.7695431+00:00",
+      "NumProgressed": 888070,
+      "NumCompleted": 2553
     }
   ],
   "TotalAchievements": 57,
@@ -31700,7 +31711,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35522
+      "UsersEstimate": 35523
     },
     {
       "ID": "Temperance",
@@ -31716,7 +31727,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35522
+      "UsersEstimate": 35523
     },
     {
       "ID": "TheDevil",
@@ -31796,7 +31807,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "TradeUnion",
@@ -31971,21 +31982,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888062,
-      "Completed": 2550
+      "Progressed": 888070,
+      "Completed": 2553
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 16685,
+      "Progressed": 16693,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-03T01:42:41.7615443+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:51:28.5706237+00:00",
+  "LastChanged": "2023-10-03T02:16:30.2554777+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:25:17.7695427+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:42:41.7615453+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:51:28.5708125+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:16:30.2554787+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:25:17.7697119+00:00"
 }

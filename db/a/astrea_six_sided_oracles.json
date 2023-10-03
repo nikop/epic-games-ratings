@@ -593,9 +593,9 @@
       "ID": "PlagueDoctor",
       "SetID": "1jeo1g7",
       "Name": "Plague Doctor",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PocketAstrarium",
@@ -833,9 +833,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:51:27.3652773+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:25:16.7062036+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:42:29.2523962+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:51:27.3653678+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:16:18.6914532+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:25:16.7062837+00:00"
 }

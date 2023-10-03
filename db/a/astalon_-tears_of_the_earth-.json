@@ -123,9 +123,9 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Beat_Game_100",
@@ -275,9 +275,9 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Defeat_Solaria",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-10-03T01:48:31.6936061+00:00",
+  "LastChanged_Achievements": "2023-10-03T02:22:03.645125+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.3375267+00:00",
-  "LastUpdate_Ratings": "2023-10-03T01:43:11.4085269+00:00",
-  "LastUpdate_Achievements": "2023-10-03T01:48:31.693644+00:00"
+  "LastUpdate_Ratings": "2023-10-03T02:16:59.1275347+00:00",
+  "LastUpdate_Achievements": "2023-10-03T02:22:03.645147+00:00"
 }
