@@ -5,21 +5,21 @@ Rating: 4.27 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,236 |
-| Copacetic Coordination | 16.00% | ~55,386 |
+| Corner Clout | 46.00% | ~159,238 |
+| Copacetic Coordination | 16.00% | ~55,387 |
 | Fronting the Money | 15.00% | ~51,925 |
-| The Dawn of Automation | 14.00% | ~48,463 |
-| Extraordinary Logistics | 14.00% | ~48,463 |
-| Dirty Money | 13.00% | ~45,001 |
-| Family First | 13.00% | ~45,001 |
+| The Dawn of Automation | 14.00% | ~48,464 |
+| Extraordinary Logistics | 14.00% | ~48,464 |
+| Dirty Money | 13.00% | ~45,002 |
+| Family First | 13.00% | ~45,002 |
 | Cleaning House | 12.00% | ~41,540 |
 | Room in the Back | 12.00% | ~41,540 |
-| Beating the Heat | 11.00% | ~38,078 |
-| Booze Baron | 11.00% | ~38,078 |
-| Friends on the Force | 10.00% | ~34,616 |
-| Neighborhood Watch | 10.00% | ~34,616 |
-| Core Corps | 8.00% | ~27,693 |
-| Sizeable Stash | 8.00% | ~27,693 |
+| Beating the Heat | 11.00% | ~38,079 |
+| Booze Baron | 11.00% | ~38,079 |
+| Friends on the Force | 10.00% | ~34,617 |
+| Neighborhood Watch | 10.00% | ~34,617 |
+| Core Corps | 8.00% | ~27,694 |
+| Sizeable Stash | 8.00% | ~27,694 |
 | Street Fighter | 7.00% | ~24,232 |
 | Friendly Gestures | 7.00% | ~24,232 |
 | People Person | 7.00% | ~24,232 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 830)
 | Full House | 1.00% | ~3,462 |
 | The Rubber Meets the Road | 1.00% | ~3,462 |
 | Cat’s Meow Clubs | 1.00% | ~3,462 |
-| Determined Deliveries | 0.90% | ~3,115 |
-| Stepping It Up | 0.90% | ~3,115 |
+| Determined Deliveries | 0.90% | ~3,116 |
+| Stepping It Up | 0.90% | ~3,116 |
 | Boots in the Ground | 0.80% | ~2,769 |
 | Getting Fancy | 0.80% | ~2,769 |
 | Crossing Over | 0.80% | ~2,769 |
@@ -70,8 +70,8 @@ Rating: 4.27 (Ranked 830)
 | High End Booze | 0.40% | ~1,385 |
 | Working on the Railroad | 0.40% | ~1,385 |
 | In-House Maintenance | 0.40% | ~1,385 |
-| Bottled Up | 0.30% | ~1,038 |
-| Streetwise | 0.30% | ~1,038 |
+| Bottled Up | 0.30% | ~1,039 |
+| Streetwise | 0.30% | ~1,039 |
 | Dirty Work | 0.20% | ~692 |
 | Balkan Firewater | 0.20% | ~692 |
 | Windy City Win | 0.10% | ~346 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 830)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,165 (Ranked 43)  
+Progressed: 346,169 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-09-30 | 345,684 | 7 |
 | 2023-10-01 | 345,880 | 7 |
 | 2023-10-02 | 346,026 | 7 |
-| 2023-10-03 | 346,165 | 7 |
+| 2023-10-03 | 346,169 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
 Sum: 199 (Ranked 380)  

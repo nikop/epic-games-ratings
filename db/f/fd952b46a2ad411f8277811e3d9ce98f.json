@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17473,
+  "EOS_Progressed": 17482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3504,6 +3504,11 @@
       "Time": "2023-10-03T21:05:21.612866+00:00",
       "NumProgressed": 17473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:05:35.0663474+00:00",
+      "NumProgressed": 17482,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -3612,7 +3617,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7517
     },
     {
       "ID": "kills_100",
@@ -3668,7 +3673,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "revives_25",
@@ -3763,13 +3768,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 17473,
+      "Progressed": 17482,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:05:21.6128653+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:05:35.0663467+00:00",
   "LastUpdate_AppInfo": "2023-09-27T11:57:09.2891413+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:03:17.2167898+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:05:21.6129226+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:02:45.3598778+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:05:35.0663908+00:00"
 }

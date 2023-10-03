@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -731,9 +731,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3703,
+  "EOS_Progressed": 3704,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6476,6 +6476,11 @@
       "Time": "2023-10-03T21:03:38.2321517+00:00",
       "NumProgressed": 3703,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-03T22:03:21.0532777+00:00",
+      "NumProgressed": 3704,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6528,7 +6533,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -6544,7 +6549,7 @@
       "Name": "First Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -6584,7 +6589,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -6614,9 +6619,9 @@
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 185
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -6640,7 +6645,7 @@
       "Name": "Spending Spree",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -6648,7 +6653,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -6671,15 +6676,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3703,
+      "Progressed": 3704,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-02T02:59:37.4864813+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:03:38.2321509+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:03:21.053277+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:04.2024158+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:01:10.9381711+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:03:38.232266+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:02:00.7678964+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:03:21.0533709+00:00"
 }

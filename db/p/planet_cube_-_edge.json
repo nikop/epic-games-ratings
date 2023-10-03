@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-14T09:00:00+00:00",
     "PcReleaseDate": "2023-03-14T09:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "d67c14a",
       "Name": "You\u0027ll Be Fine!",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -356,9 +356,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "d67c14a",
       "Name": "Never Forget your First",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-09-29T05:58:29.5381219+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:27.5483439+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:08:17.1892778+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:08:41.834063+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.4575582+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:57:29.4135192+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:08:17.1893239+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:57:31.7901668+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:08:41.8340957+00:00"
 }

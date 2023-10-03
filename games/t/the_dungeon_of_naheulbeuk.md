@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,120 |
+| Sowwy! | 32.00% | ~73,121 |
 | Alt+F4 | 6.00% | ~13,710 |
 | Where's that freaking Dwarf? | 5.00% | ~11,425 |
 | Déjà vu | 4.00% | ~9,140 |
@@ -43,11 +43,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.90% | ~2,057 |
 | Dead for good | 0.80% | ~1,828 |
 | Material Girl | 0.80% | ~1,828 |
-| Gargantua | 0.70% | ~1,599 |
+| Gargantua | 0.70% | ~1,600 |
 | In Navalu's footsteps | 0.60% | ~1,371 |
 | Lëgal Legend | 0.60% | ~1,371 |
-| An old poacher makes the best gamekeeper | 0.50% | ~1,142 |
-| We come in peace | 0.50% | ~1,142 |
+| An old poacher makes the best gamekeeper | 0.50% | ~1,143 |
+| We come in peace | 0.50% | ~1,143 |
 | Holistic Adventuring Party | 0.40% | ~914 |
 | Law and Order | 0.40% | ~914 |
 | Scholar of the Lands of Fangh | 0.30% | ~686 |
@@ -57,45 +57,45 @@ Number of Ratings: 118  (23.09.2022)
 | The number of the counting shalt be 7 | 0.20% | ~457 |
 | 100% satisfaction guarantee | 0.20% | ~457 |
 | Inception | 0.20% | ~457 |
-| Cursed die | 0.10% | ~228 |
-| Necrophilia | 0.10% | ~228 |
-| The Blood Countess | 0.10% | ~228 |
-| He’s alive! Aliiiive! | 0.10% | ~228 |
-| Restless night | 0.10% | ~228 |
-| King of the Arena | 0.10% | ~228 |
-| Finally free | 0.10% | ~228 |
-| Hoarding | 0.10% | ~228 |
-| Staff cut | 0.10% | ~228 |
-| Legendary brew | 0.10% | ~228 |
-| Elite Adventurers | 0.10% | ~228 |
-| Take your time back in time | 0.10% | ~228 |
-| Egghead | 0.10% | ~228 |
-| Free customer service | 0.10% | ~228 |
-| Imposture and Trowels | 0.10% | ~228 |
-| Deep changes | 0.10% | ~228 |
-| A broken clock… | 0.10% | ~228 |
-| Sleep schedule mastery | 0.10% | ~228 |
-| Cute Dungeon | 0.10% | ~228 |
-| Mystical Dungeon | 0.10% | ~228 |
-| Gloomy Dungeon | 0.10% | ~228 |
-| Power struggle | 0.10% | ~228 |
-| Hit snooze | 0.10% | ~228 |
-| Living legends of the Lands of Fangh | 0.10% | ~228 |
-| Kudos from your DM | 0.10% | ~228 |
-| Minmaxer | 0.10% | ~228 |
-| Iron Golems Tamer | 0.10% | ~228 |
-| And they lived happily ever after... | 0.10% | ~228 |
-| Insult to injury | 0.10% | ~228 |
-| Star-crossed lovers | 0.10% | ~228 |
-| Pyrrhic victory | 0.10% | ~228 |
-| Death is for wimps | 0.10% | ~228 |
-| Super-Ultra-Lydian | 0.10% | ~228 |
-| Lord of the Drunks | 0.10% | ~228 |
-| Demisemiquaver | 0.10% | ~228 |
-| Dumb and dumber | 0.10% | ~228 |
-| Dwarf Candy | 0.10% | ~228 |
+| Cursed die | 0.10% | ~229 |
+| Necrophilia | 0.10% | ~229 |
+| The Blood Countess | 0.10% | ~229 |
+| He’s alive! Aliiiive! | 0.10% | ~229 |
+| Restless night | 0.10% | ~229 |
+| King of the Arena | 0.10% | ~229 |
+| Finally free | 0.10% | ~229 |
+| Hoarding | 0.10% | ~229 |
+| Staff cut | 0.10% | ~229 |
+| Legendary brew | 0.10% | ~229 |
+| Elite Adventurers | 0.10% | ~229 |
+| Take your time back in time | 0.10% | ~229 |
+| Egghead | 0.10% | ~229 |
+| Free customer service | 0.10% | ~229 |
+| Imposture and Trowels | 0.10% | ~229 |
+| Deep changes | 0.10% | ~229 |
+| A broken clock… | 0.10% | ~229 |
+| Sleep schedule mastery | 0.10% | ~229 |
+| Cute Dungeon | 0.10% | ~229 |
+| Mystical Dungeon | 0.10% | ~229 |
+| Gloomy Dungeon | 0.10% | ~229 |
+| Power struggle | 0.10% | ~229 |
+| Hit snooze | 0.10% | ~229 |
+| Living legends of the Lands of Fangh | 0.10% | ~229 |
+| Kudos from your DM | 0.10% | ~229 |
+| Minmaxer | 0.10% | ~229 |
+| Iron Golems Tamer | 0.10% | ~229 |
+| And they lived happily ever after... | 0.10% | ~229 |
+| Insult to injury | 0.10% | ~229 |
+| Star-crossed lovers | 0.10% | ~229 |
+| Pyrrhic victory | 0.10% | ~229 |
+| Death is for wimps | 0.10% | ~229 |
+| Super-Ultra-Lydian | 0.10% | ~229 |
+| Lord of the Drunks | 0.10% | ~229 |
+| Demisemiquaver | 0.10% | ~229 |
+| Dumb and dumber | 0.10% | ~229 |
+| Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,500 (Ranked 58)  
+Progressed: 228,503 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-09-30 | 227,796 | 5 |
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
-| 2023-10-03 | 228,500 | 5 |
+| 2023-10-03 | 228,503 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

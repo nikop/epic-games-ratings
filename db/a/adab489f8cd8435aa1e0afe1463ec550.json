@@ -2,10 +2,10 @@
   "ID": "adab489f8cd8435aa1e0afe1463ec550",
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
       "Time": "2023-09-29T22:04:25.0384204+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:07:18.3666969+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T17:06:43.329078+00:00",
@@ -79,15 +84,15 @@
       "ID": "1",
       "SetID": "6hl9l7f",
       "Name": "Activator",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "10",
       "SetID": "6hl9l7f",
       "Name": "The End?",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "ID": "11",
       "SetID": "6hl9l7f",
       "Name": "Weapon Master",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "12",
       "SetID": "6hl9l7f",
       "Name": "Weapon Unlocked",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -111,7 +116,7 @@
       "ID": "13",
       "SetID": "6hl9l7f",
       "Name": "Ability Unlocked",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -119,7 +124,7 @@
       "ID": "14",
       "SetID": "6hl9l7f",
       "Name": "Ability Master",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "15",
       "SetID": "6hl9l7f",
       "Name": "Infected Triforce",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "16",
       "SetID": "6hl9l7f",
       "Name": "Brute",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -143,7 +148,7 @@
       "ID": "17",
       "SetID": "6hl9l7f",
       "Name": "Launcher",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -151,7 +156,7 @@
       "ID": "18",
       "SetID": "6hl9l7f",
       "Name": "Monolith",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "19",
       "SetID": "6hl9l7f",
       "Name": "Spine Dragon",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -169,13 +174,13 @@
       "Name": "Level-Up",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "20",
       "SetID": "6hl9l7f",
       "Name": "Jammer",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "21",
       "SetID": "6hl9l7f",
       "Name": "Laser Fiend",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -191,7 +196,7 @@
       "ID": "22",
       "SetID": "6hl9l7f",
       "Name": "Trashmaster",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "23",
       "SetID": "6hl9l7f",
       "Name": "Megashield",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -207,7 +212,7 @@
       "ID": "24",
       "SetID": "6hl9l7f",
       "Name": "Modulator",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "25",
       "SetID": "6hl9l7f",
       "Name": "Milestone Reached",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "26",
       "SetID": "6hl9l7f",
       "Name": "Virus Zone",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "27",
       "SetID": "6hl9l7f",
       "Name": "Full Power",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "28",
       "SetID": "6hl9l7f",
       "Name": "Mutated",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "3",
       "SetID": "6hl9l7f",
       "Name": "Challenger",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "30",
       "SetID": "6hl9l7f",
       "Name": "Laser Fireworks",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -319,7 +324,7 @@
       "ID": "37",
       "SetID": "6hl9l7f",
       "Name": "Smoking Can Kill",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -343,9 +348,9 @@
       "ID": "4",
       "SetID": "6hl9l7f",
       "Name": "Weapons Armed",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "40",
@@ -367,15 +372,15 @@
       "ID": "5",
       "SetID": "6hl9l7f",
       "Name": "Heart of the Cards",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "6",
       "SetID": "6hl9l7f",
       "Name": "Loadout Accepted",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -383,7 +388,7 @@
       "ID": "7",
       "SetID": "6hl9l7f",
       "Name": "ViKing 2000",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -408,14 +413,14 @@
     {
       "ID": "6hl9l7f",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:06:47.0281066+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:07:18.3666961+00:00",
   "LastUpdate_AppInfo": "2023-10-01T11:57:11.0083131+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:58:49.2655194+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:06:47.0281428+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:59:04.3922861+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:07:18.3667299+00:00"
 }

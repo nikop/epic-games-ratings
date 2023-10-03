@@ -1,16 +1,16 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.47 (Ranked 620)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,978 |
+| First Step | 70.00% | ~369,979 |
 | Now You're Talking | 62.00% | ~327,695 |
 | Steel Yourself | 62.00% | ~327,695 |
 | Window Dressing | 50.00% | ~264,270 |
-| Trigger Happy | 46.00% | ~243,128 |
+| Trigger Happy | 46.00% | ~243,129 |
 | Riverborn | 45.00% | ~237,843 |
 | Starry Eyed | 34.00% | ~179,704 |
 | Poking Around | 34.00% | ~179,704 |
@@ -20,12 +20,12 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~116,279 |
 | To the Beat | 20.00% | ~105,708 |
 | Sunny Shores | 17.00% | ~89,852 |
-| Sunday Best | 16.00% | ~84,566 |
+| Sunday Best | 16.00% | ~84,567 |
 | To Victory! | 15.00% | ~79,281 |
 | Two of a Kind | 14.00% | ~73,996 |
 | Keep On Trucking | 13.00% | ~68,710 |
-| Going on an Adventure | 11.00% | ~58,139 |
-| Make Peace, Not War | 11.00% | ~58,139 |
+| Going on an Adventure | 11.00% | ~58,140 |
+| Make Peace, Not War | 11.00% | ~58,140 |
 | Walking The Line | 10.00% | ~52,854 |
 | Not So Cute Anymore | 10.00% | ~52,854 |
 | Road Less Travelled | 9.00% | ~47,569 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,586 |
 | Point Taken | 0.10% | ~529 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,540 (Ranked 33)  
+Progressed: 528,541 (Ranked 33)  
 Completed: 479 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 479 (0.09%) (Ranked 247)
 | 2023-09-30 | 528,345 | 479 |
 | 2023-10-01 | 528,418 | 479 |
 | 2023-10-02 | 528,493 | 479 |
-| 2023-10-03 | 528,540 | 479 |
+| 2023-10-03 | 528,541 | 479 |
 ## Awards
 Max (Relaxing): 20  (Ranked 522)  
 Sum: 20 (Ranked 522)  

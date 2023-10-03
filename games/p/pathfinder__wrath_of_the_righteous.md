@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,866 |
+| Devoured by Darkness | 25.00% | ~2,867 |
 | A Spark | 18.00% | ~2,064 |
 | Burning City | 17.00% | ~1,949 |
 | Mythic Choices | 14.00% | ~1,605 |
@@ -17,12 +17,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 6.00% | ~688 |
 | Path of the Angel | 6.00% | ~688 |
 | Demonic and Divine | 6.00% | ~688 |
-| Path of the Azata | 5.00% | ~573 |
 | Transformation | 5.00% | ~573 |
 | Great Upstart | 5.00% | ~573 |
 | Voice from Your Dreams | 5.00% | ~573 |
 | All Paths Open | 5.00% | ~573 |
 | Next-Door Play | 5.00% | ~573 |
+| Path of the Azata | 4.00% | ~459 |
 | The Legacy | 4.00% | ~459 |
 | Divide and Rule | 4.00% | ~459 |
 | Mythic Reinforcements | 4.00% | ~459 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,466 (Ranked 138)  
+Progressed: 11,467 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 11,444 | 0 |
 | 2023-10-01 | 11,455 | 0 |
 | 2023-10-02 | 11,459 | 0 |
-| 2023-10-03 | 11,466 | 0 |
+| 2023-10-03 | 11,467 | 0 |
 ## Awards
 Max (Character Customization): 1,720  (Ranked 119)  
-Sum: 6,972 (Ranked 114)  
+Sum: 6,973 (Ranked 114)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 5
 | This game has Diverse Characters | 623 |
 | This game has Amazing Storytelling | 614 |
 | This game has Challenging Combat | 581 |
-| This game has Quickly Understood Controls | 571 |
+| This game has Quickly Understood Controls | 572 |
 | This game is Relaxing | 550 |
 | This game has a Creative Community | 387 |
 | This game has Obsessive Gameplay | 364 |
@@ -538,3 +538,4 @@ Diff (max vs sum): 5
 | 2023-09-30 | 4.76 | - | 1,718 | 6,969 |
 | 2023-10-01 | 4.76 | - | 1,720 | 6,971 |
 | 2023-10-02 | 4.76 | - | 1,720 | 6,972 |
+| 2023-10-03 | 4.76 | - | 1,720 | 6,973 |

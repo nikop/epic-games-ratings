@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.50% | ~1,154 |
+| A Brief Tour of the Realms | 0.60% | ~1,385 |
 | The Jungles of Doomspace | 0.40% | ~788 |
 | The Arena of Blood | 0.30% | ~591 |
 | Beast Intentions | 0.20% | ~462 |
@@ -531,7 +531,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~197 |
 | All's Well That Ends Well | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,829 (Ranked 56)  
+Progressed: 230,832 (Ranked 56)  
 Completed: 2,326 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -697,7 +697,7 @@ Completed: 2,326 (1.01%) (Ranked 136)
 | 2023-09-30 | 230,569 | 2,317 |
 | 2023-10-01 | 230,655 | 2,320 |
 | 2023-10-02 | 230,760 | 2,325 |
-| 2023-10-03 | 230,829 | 2,326 |
+| 2023-10-03 | 230,832 | 2,326 |
 ## Awards
 Max (Diverse Characters): 5,354  (Ranked 69)  
 Sum: 31,886 (Ranked 40)  

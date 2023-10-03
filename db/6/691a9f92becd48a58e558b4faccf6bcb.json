@@ -3,9 +3,9 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 457,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -184,6 +184,11 @@
       "Time": "2023-10-03T18:03:28.6714069+00:00",
       "NumProgressed": 35,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-03T22:03:53.3866433+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -194,7 +199,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_INSIDE",
       "SetID": "5lffoo5",
       "Name": "Minimalist lifestyle",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -202,7 +207,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
       "SetID": "5lffoo5",
       "Name": "I deliver the presents!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -339,13 +344,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:04:05.1324804+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:03:53.3866427+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.4826125+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:00:06.0599011+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:04:05.1324969+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:00:41.5609232+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:03:53.3866621+00:00"
 }

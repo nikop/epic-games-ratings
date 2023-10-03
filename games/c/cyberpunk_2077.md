@@ -8,24 +8,24 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 4.00% | ~35,537 |
 | Rough Landing | 4.00% | ~35,537 |
-| Gunslinger | 3.00% | ~26,652 |
-| Master Crafter | 3.00% | ~26,652 |
-| The High Priestess | 3.00% | ~26,652 |
-| The Jungle | 3.00% | ~26,652 |
-| Full Body Conversion | 2.00% | ~17,768 |
-| Right Back At Ya | 2.00% | ~17,768 |
-| Mean Streets | 2.00% | ~17,768 |
-| Breathtaking | 2.00% | ~17,768 |
-| Stanislavski's Method | 2.00% | ~17,768 |
-| Temperance | 2.00% | ~17,768 |
-| The Hermit | 2.00% | ~17,768 |
-| The Lovers | 2.00% | ~17,768 |
-| The Wheel of Fortune | 2.00% | ~17,768 |
-| True Soldier | 2.00% | ~17,768 |
-| True Warrior | 2.00% | ~17,768 |
-| Two Heads, One Bullet | 2.00% | ~17,768 |
-| V for Vendetta | 2.00% | ~17,768 |
-| Legend of The Afterlife | 2.00% | ~17,768 |
+| Gunslinger | 3.00% | ~26,653 |
+| Master Crafter | 3.00% | ~26,653 |
+| The High Priestess | 3.00% | ~26,653 |
+| The Jungle | 3.00% | ~26,653 |
+| Full Body Conversion | 2.00% | ~17,769 |
+| Right Back At Ya | 2.00% | ~17,769 |
+| Mean Streets | 2.00% | ~17,769 |
+| Breathtaking | 2.00% | ~17,769 |
+| Stanislavski's Method | 2.00% | ~17,769 |
+| Temperance | 2.00% | ~17,769 |
+| The Hermit | 2.00% | ~17,769 |
+| The Lovers | 2.00% | ~17,769 |
+| The Wheel of Fortune | 2.00% | ~17,769 |
+| True Soldier | 2.00% | ~17,769 |
+| True Warrior | 2.00% | ~17,769 |
+| Two Heads, One Bullet | 2.00% | ~17,769 |
+| V for Vendetta | 2.00% | ~17,769 |
+| Legend of The Afterlife | 2.00% | ~17,769 |
 | To Bad Decisions! | 1.00% | ~8,884 |
 | Gun Fu | 1.00% | ~8,884 |
 | Christmas Tree Attack | 1.00% | ~8,884 |
@@ -39,8 +39,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | City Lights | 0.80% | ~7,107 |
 | Life of the Road | 0.80% | ~7,107 |
 | Greetings from Pacifica! | 0.80% | ~7,107 |
-| Bushido and Chill | 0.60% | ~5,330 |
-| I Am The Law | 0.60% | ~5,330 |
+| Bushido and Chill | 0.60% | ~5,331 |
+| I Am The Law | 0.60% | ~5,331 |
 | The Wandering Fool | 0.50% | ~4,442 |
 | Autojock | 0.50% | ~4,442 |
 | Must Be Rats | 0.50% | ~4,442 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,414 (Ranked 15)  
+Progressed: 888,427 (Ranked 15)  
 Completed: 2,568 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 2,568 (0.29%) (Ranked 203)
 | 2023-09-30 | 886,435 | 2,507 |
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
-| 2023-10-03 | 888,414 | 2,568 |
+| 2023-10-03 | 888,427 | 2,568 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 259,652 (Ranked 12)  

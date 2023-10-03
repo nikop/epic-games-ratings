@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -34,7 +34,7 @@
   "Tags": [],
   "EOS_Progressed": 1519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5771,9 +5771,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 152
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5844,8 +5844,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-02T15:57:56.3745226+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:05:48.7487926+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:06:07.945963+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:59:00.7472124+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:05:48.7488504+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:59:18.458295+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:06:07.9460326+00:00"
 }

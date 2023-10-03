@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 304,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 132,
@@ -527,7 +527,7 @@
   ],
   "EOS_Progressed": 15525,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11310,9 +11310,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3726
     },
     {
       "ID": "tpote_achievement_12",
@@ -11630,8 +11630,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:06:16.1304456+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:06:40.6850277+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:58:47.5303462+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:06:16.1307545+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:59:02.3140485+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:06:40.6852084+00:00"
 }

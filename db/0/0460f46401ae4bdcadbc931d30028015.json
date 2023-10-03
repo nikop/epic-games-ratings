@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-10-03T21:04:50.4038674+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:04:57.2334059+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1554,7 +1559,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_11",
@@ -1570,7 +1575,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_13",
@@ -1578,7 +1583,7 @@
       "Name": "MVP",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_14",
@@ -1586,7 +1591,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_15",
@@ -1608,33 +1613,33 @@
       "ID": "achievement_17",
       "SetID": "aiin7da",
       "Name": "Ol\u0027 Reliable",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_18",
       "SetID": "aiin7da",
       "Name": "Lockdown Leader",
-      "Percentage": 0.3,
-      "XP": 40,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "achievement_19",
-      "SetID": "aiin7da",
-      "Name": "The Fortress",
       "Percentage": 0.2,
       "XP": 40,
       "UsersEstimate": 4
     },
     {
+      "ID": "achievement_19",
+      "SetID": "aiin7da",
+      "Name": "The Fortress",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "achievement_2",
       "SetID": "aiin7da",
       "Name": "Unblockable",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_20",
@@ -1642,7 +1647,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1101
     },
     {
       "ID": "achievement_21",
@@ -1698,7 +1703,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_9",
@@ -1713,7 +1718,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 2001,
       "Completed": 0
     }
   ],
@@ -1721,8 +1726,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-03T14:59:38.7883609+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:04:50.4038666+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:04:57.2334052+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:00:24.8100538+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:04:50.4038998+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:01:04.8135271+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:04:57.2334323+00:00"
 }

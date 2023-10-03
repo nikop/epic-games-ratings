@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7677,9 +7677,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62643,
+  "EOS_Progressed": 62645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25357,6 +25357,11 @@
       "Time": "2023-10-03T21:03:49.3213204+00:00",
       "NumProgressed": 62643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:03:34.2577026+00:00",
+      "NumProgressed": 62645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25376,7 +25381,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9396
+      "UsersEstimate": 9397
     },
     {
       "ID": "Bannerlord",
@@ -25408,7 +25413,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "Catch",
@@ -25560,7 +25565,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "Kingslayer",
@@ -25592,7 +25597,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20672
+      "UsersEstimate": 20673
     },
     {
       "ID": "Lawbringer",
@@ -25600,7 +25605,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24431
+      "UsersEstimate": 24432
     },
     {
       "ID": "Lawmaker",
@@ -25775,15 +25780,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62643,
+      "Progressed": 62645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-03T20:00:41.5615829+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:03:49.3213199+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:03:34.2577021+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:00:44.4471057+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:03:49.3214483+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:01:28.6892129+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:03:34.2578907+00:00"
 }

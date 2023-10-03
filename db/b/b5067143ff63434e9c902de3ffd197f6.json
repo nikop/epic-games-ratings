@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -361,6 +361,11 @@
       "Time": "2023-10-03T21:08:16.9357797+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:08:41.5280857+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -395,7 +400,7 @@
       "ID": "ACH_LEVEL188",
       "SetID": "1lo1k0a",
       "Name": "Liminal Hotel",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -467,9 +472,9 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -477,7 +482,7 @@
       "Name": "Level 1",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -485,7 +490,7 @@
       "Name": "Dreamer!",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -493,7 +498,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -564,14 +569,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:08:16.9357791+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:08:41.5280854+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:58:47.0054369+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:08:16.9358027+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:59:01.6751695+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:08:41.5281046+00:00"
 }

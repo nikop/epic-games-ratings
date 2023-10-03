@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "21",
       "SetID": "5e3maia",
       "Name": "Survivor",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "22",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:06:49.9053616+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:07:21.7205746+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.546408+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:59:26.8507149+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:06:49.9054382+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:59:50.2455515+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:07:21.7207316+00:00"
 }

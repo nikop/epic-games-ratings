@@ -4,8 +4,8 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Trophy_03",
@@ -383,9 +383,9 @@
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_34",
@@ -399,9 +399,9 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Trophy_36",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:06:43.3971746+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:07:13.9742944+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:43.6438398+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:58:14.5025558+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:06:43.3972135+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:58:23.7968912+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:07:13.9743753+00:00"
 }

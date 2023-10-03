@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -703,7 +703,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38265,
+  "EOS_Progressed": 38267,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -17648,6 +17648,11 @@
       "Time": "2023-10-03T21:08:12.3229496+00:00",
       "NumProgressed": 38265,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-03T22:08:36.0129012+00:00",
+      "NumProgressed": 38267,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17779,7 +17784,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13775
+      "UsersEstimate": 13776
     },
     {
       "ID": "ach_die10",
@@ -18090,15 +18095,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38265,
+      "Progressed": 38267,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-03T16:58:49.5919283+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:08:12.322949+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:08:36.0129005+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:57:57.566044+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:08:12.3231436+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:58:04.9937197+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:08:36.0130989+00:00"
 }

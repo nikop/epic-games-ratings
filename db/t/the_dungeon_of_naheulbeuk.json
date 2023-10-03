@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228500,
+  "EOS_Progressed": 228503,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13298,6 +13298,11 @@
       "Time": "2023-10-03T21:08:08.3780304+00:00",
       "NumProgressed": 228500,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-03T22:08:31.3892481+00:00",
+      "NumProgressed": 228503,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13317,7 +13322,7 @@
       "Name": "Cursed die",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "AllSideQuest",
@@ -13469,7 +13474,7 @@
       "Name": "Necrophilia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC1ChooseVampire",
@@ -13477,7 +13482,7 @@
       "Name": "The Blood Countess",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC1SummonTroll",
@@ -13485,7 +13490,7 @@
       "Name": "He\u2019s alive! Aliiiive!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC2EndGame",
@@ -13493,7 +13498,7 @@
       "Name": "Restless night",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC2LegendaryIronman",
@@ -13501,7 +13506,7 @@
       "Name": "King of the Arena",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC2NoDwarfElf",
@@ -13509,7 +13514,7 @@
       "Name": "Finally free",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC2NoShopping",
@@ -13517,7 +13522,7 @@
       "Name": "Hoarding",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC2SmallParty",
@@ -13525,7 +13530,7 @@
       "Name": "Staff cut",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3AllLegendaryDrink",
@@ -13533,7 +13538,7 @@
       "Name": "Legendary brew",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3AllLegendaryWeapons",
@@ -13541,7 +13546,7 @@
       "Name": "Elite Adventurers",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3AllSideQuests",
@@ -13549,7 +13554,7 @@
       "Name": "Take your time back in time",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3BigBrain",
@@ -13557,7 +13562,7 @@
       "Name": "Egghead",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3Chapter11",
@@ -13565,7 +13570,7 @@
       "Name": "Free customer service",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3Chapter12",
@@ -13573,7 +13578,7 @@
       "Name": "Imposture and Trowels",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3Chapter13",
@@ -13581,7 +13586,7 @@
       "Name": "Deep changes",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3Chapter14",
@@ -13589,7 +13594,7 @@
       "Name": "A broken clock\u2026",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3DifficultyLegendaryIronman",
@@ -13597,7 +13602,7 @@
       "Name": "Sleep schedule mastery",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3DungeonThemeElf",
@@ -13605,7 +13610,7 @@
       "Name": "Cute Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3DungeonThemeMagic",
@@ -13613,7 +13618,7 @@
       "Name": "Mystical Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3DungeonThemeNecro",
@@ -13621,7 +13626,7 @@
       "Name": "Gloomy Dungeon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3RangerAgentX15Support",
@@ -13629,7 +13634,7 @@
       "Name": "Power struggle",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3Sleep10Enemies",
@@ -13637,7 +13642,7 @@
       "Name": "Hit snooze",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC3TeamLevel16",
@@ -13645,7 +13650,7 @@
       "Name": "Living legends of the Lands of Fangh",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DifficultyHardcore",
@@ -13653,7 +13658,7 @@
       "Name": "Kudos from your DM",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DifficultyHero",
@@ -13669,7 +13674,7 @@
       "Name": "Minmaxer",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DifficultyIronman",
@@ -13677,7 +13682,7 @@
       "Name": "Iron Golems Tamer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DifficultyLegendary",
@@ -13685,7 +13690,7 @@
       "Name": "And they lived happily ever after...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DifficultyStory",
@@ -13701,7 +13706,7 @@
       "Name": "Insult to injury",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DwarfCover",
@@ -13717,7 +13722,7 @@
       "Name": "Star-crossed lovers",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DwarfEpic",
@@ -13757,7 +13762,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73120
+      "UsersEstimate": 73121
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13765,7 +13770,7 @@
       "Name": "Pyrrhic victory",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "EndCombatNoDamage",
@@ -13797,7 +13802,7 @@
       "Name": "Death is for wimps",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "FastKill",
@@ -13821,7 +13826,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "InsultLoose",
@@ -13845,7 +13850,7 @@
       "Name": "We come in peace",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "MinistrelEpic",
@@ -13853,7 +13858,7 @@
       "Name": "Super-Ultra-Lydian",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "OgreEpic",
@@ -13861,7 +13866,7 @@
       "Name": "Gargantua",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "Orktobearfest",
@@ -13869,7 +13874,7 @@
       "Name": "Lord of the Drunks",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PaladineEpic",
@@ -13909,7 +13914,7 @@
       "Name": "Demisemiquaver",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "QuestPaladine",
@@ -13973,7 +13978,7 @@
       "Name": "Dumb and dumber",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Team10Chiantos",
@@ -13981,7 +13986,7 @@
       "Name": "Dwarf Candy",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "TeamLevel10",
@@ -14012,21 +14017,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228500,
+      "Progressed": 228503,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228500,
+      "Progressed": 228503,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T18:00:06.5665916+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:08:08.3780297+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:08:31.3892477+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:01:09.1195923+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:08:08.3782014+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:01:59.0501217+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:08:31.389464+00:00"
 }

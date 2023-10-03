@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5934,
+  "EOS_Progressed": 5935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3178,6 +3178,11 @@
       "Time": "2023-10-03T21:04:02.6577829+00:00",
       "NumProgressed": 5934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:03:50.1200837+00:00",
+      "NumProgressed": 5935,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3190,7 +3195,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4332
+      "UsersEstimate": 4333
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3222,7 +3227,7 @@
       "Name": "Clear the Air",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -3286,7 +3291,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3302,7 +3307,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -3342,7 +3347,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3364,9 +3369,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2671
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3406,7 +3411,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -3469,7 +3474,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5934,
+      "Progressed": 5935,
       "Completed": 0
     }
   ],
@@ -3477,8 +3482,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-03T18:57:41.9487056+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:04:02.6577821+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:03:50.1200832+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-03T20:58:03.535723+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:04:02.6578417+00:00"
+  "LastUpdate_Ratings": "2023-10-03T21:58:11.6063152+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:03:50.1201297+00:00"
 }

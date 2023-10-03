@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3780,10 +3780,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6972,
       "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-10-03T22:01:16.4260163+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6973,
+      "NumberOfAwardsMax": 1720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6972,
+  "NumberOfAwards": 6973,
   "NumberOfAwardsMax": 1720,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3839,7 +3845,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 571
+      "Count": 572
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3854,7 +3860,7 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11466,
+  "EOS_Progressed": 11467,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -13189,6 +13195,11 @@
       "Time": "2023-10-03T17:07:42.195835+00:00",
       "NumProgressed": 11466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-03T22:06:48.8503054+00:00",
+      "NumProgressed": 11467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13200,7 +13211,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "02_BurningCity",
@@ -13270,9 +13281,9 @@
       "ID": "10_PathOfAzata",
       "SetID": "989of5o",
       "Name": "Path of the Azata",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 459
     },
     {
       "ID": "11_PathOfAeon",
@@ -14127,21 +14138,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10248,
+      "Progressed": 10249,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11466,
+      "Progressed": 11467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-02T04:59:12.8152595+00:00",
-  "LastChanged_Achievements": "2023-10-03T21:06:22.8780019+00:00",
+  "LastChanged": "2023-10-03T22:01:16.4260162+00:00",
+  "LastChanged_Achievements": "2023-10-03T22:06:48.8503051+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-03T21:00:34.9180876+00:00",
-  "LastUpdate_Achievements": "2023-10-03T21:06:22.8782408+00:00"
+  "LastUpdate_Ratings": "2023-10-03T22:01:16.426017+00:00",
+  "LastUpdate_Achievements": "2023-10-03T22:06:48.8505923+00:00"
 }

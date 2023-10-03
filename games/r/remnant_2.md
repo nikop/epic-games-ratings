@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,076 |
-| The Killing Jar | 8.00% | ~15,179 |
-| Expanding Horizons | 7.00% | ~13,282 |
-| Quest for Survival | 7.00% | ~13,282 |
-| Not Your Average Trait | 7.00% | ~13,282 |
-| Gleaming the Cube | 6.00% | ~11,384 |
-| Not a Janitor | 6.00% | ~11,384 |
-| Familiar Face | 6.00% | ~11,384 |
-| Duality | 6.00% | ~11,384 |
-| Boss'n Up | 6.00% | ~11,384 |
-| Trait Chaser | 6.00% | ~11,384 |
-| Not So Special Now | 5.00% | ~9,487 |
-| Equal Measures | 5.00% | ~9,487 |
-| Blue Goddess | 5.00% | ~9,487 |
-| Top Performer | 5.00% | ~9,487 |
-| Shhh...It's a Secret | 5.00% | ~9,487 |
-| Almost There | 5.00% | ~9,487 |
-| Make Some Room | 5.00% | ~9,487 |
-| Good, But Could Be Better! | 5.00% | ~9,487 |
+| First of Many | 9.00% | ~17,078 |
+| The Killing Jar | 8.00% | ~15,180 |
+| Expanding Horizons | 7.00% | ~13,283 |
+| Quest for Survival | 7.00% | ~13,283 |
+| Not Your Average Trait | 7.00% | ~13,283 |
+| Gleaming the Cube | 6.00% | ~11,385 |
+| Not a Janitor | 6.00% | ~11,385 |
+| Familiar Face | 6.00% | ~11,385 |
+| Duality | 6.00% | ~11,385 |
+| Boss'n Up | 6.00% | ~11,385 |
+| Trait Chaser | 6.00% | ~11,385 |
+| Not So Special Now | 5.00% | ~9,488 |
+| Equal Measures | 5.00% | ~9,488 |
+| Blue Goddess | 5.00% | ~9,488 |
+| Top Performer | 5.00% | ~9,488 |
+| Shhh...It's a Secret | 5.00% | ~9,488 |
+| Almost There | 5.00% | ~9,488 |
+| Make Some Room | 5.00% | ~9,488 |
+| Good, But Could Be Better! | 5.00% | ~9,488 |
 | Chaos | 4.00% | ~7,590 |
 | Traitor | 4.00% | ~7,590 |
 | Forever is a Long Time Coming | 4.00% | ~7,590 |
@@ -35,14 +35,14 @@ Rating: 4.76 (Ranked 118)
 | The Web | 4.00% | ~7,590 |
 | Scrap Collector | 4.00% | ~7,590 |
 | All These Traits� | 4.00% | ~7,590 |
-| Am I Seeing This? | 3.00% | ~5,692 |
-| The Agenda | 3.00% | ~5,692 |
-| Tall Tales | 3.00% | ~5,692 |
-| Bad Moon Rising | 3.00% | ~5,692 |
-| Strapped | 3.00% | ~5,692 |
-| Edgelord | 3.00% | ~5,692 |
-| The Ultimate Weapon | 3.00% | ~5,692 |
-| No One Should Have All That Power | 3.00% | ~5,692 |
+| Am I Seeing This? | 3.00% | ~5,693 |
+| The Agenda | 3.00% | ~5,693 |
+| Tall Tales | 3.00% | ~5,693 |
+| Bad Moon Rising | 3.00% | ~5,693 |
+| Strapped | 3.00% | ~5,693 |
+| Edgelord | 3.00% | ~5,693 |
+| The Ultimate Weapon | 3.00% | ~5,693 |
+| No One Should Have All That Power | 3.00% | ~5,693 |
 | Crafty | 2.00% | ~3,795 |
 | Only Human | 2.00% | ~3,795 |
 | Red Room | 2.00% | ~3,795 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 118)
 | Carnage in C-Minor | 2.00% | ~3,795 |
 | Maxed Out! | 2.00% | ~3,795 |
 | Transmutate | 2.00% | ~3,795 |
-| The Trigger | 1.00% | ~1,897 |
-| Cutting Edge | 1.00% | ~1,897 |
-| Proving Grounds | 1.00% | ~1,897 |
+| The Trigger | 1.00% | ~1,898 |
+| Cutting Edge | 1.00% | ~1,898 |
+| Proving Grounds | 1.00% | ~1,898 |
 | Ghost in the Machine | 0.90% | ~1,708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,738 (Ranked 65)  
+Progressed: 189,751 (Ranked 65)  
 Completed: 357 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,16 +135,16 @@ Completed: 357 (0.19%) (Ranked 218)
 | 2023-09-30 | 188,435 | 348 |
 | 2023-10-01 | 188,949 | 350 |
 | 2023-10-02 | 189,383 | 353 |
-| 2023-10-03 | 189,738 | 357 |
+| 2023-10-03 | 189,751 | 357 |
 ## Awards
 Max (Great Boss Battles): 1,760  (Ranked 117)  
-Sum: 3,715 (Ranked 154)  
+Sum: 3,717 (Ranked 154)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,760 |
 | This game has Challenging Combat | 220 |
-| This game is Extremely Fun | 217 |
+| This game is Extremely Fun | 219 |
 | This game has Diverse Characters | 215 |
 | This game is Relaxing | 207 |
 | This game is Highly Recommended | 204 |
@@ -225,4 +225,4 @@ Diff (max vs sum): -37
 | 2023-09-30 | 4.76 | 1,747 | 3,656 |
 | 2023-10-01 | 4.76 | 1,756 | 3,685 |
 | 2023-10-02 | 4.76 | 1,760 | 3,707 |
-| 2023-10-03 | 4.76 | 1,760 | 3,715 |
+| 2023-10-03 | 4.76 | 1,760 | 3,717 |

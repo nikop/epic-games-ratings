@@ -7,7 +7,7 @@
 | Lucky Checkpoint | 140.00% | ~7 |
 | I Need Healing! | 140.00% | ~7 |
 | Collectables? Shocking. | 120.00% | ~6 |
-| You'll Be Fine! | 100.00% | ~5 |
+| You'll Be Fine! | 120.00% | ~6 |
 | Dinosaur's Isle | 80.00% | ~4 |
 | Got Our Water Back! | 40.00% | ~2 |
 | You Just Don't Learn | 40.00% | ~2 |
@@ -22,6 +22,7 @@
 | Defence Broken | 20.00% | ~1 |
 | C-C-Combo! | 20.00% | ~1 |
 | Cubes Can Fly | 20.00% | ~1 |
+| Never Forget your First | 20.00% | ~1 |
 | I Refuse To Be A Hero | 20.00% | ~1 |
 | In Too Deep | 0.00% | ~0 |
 | Now What? | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | Sorry, Not Sorry | 0.00% | ~0 |
 | I Just Like Holding It | 0.00% | ~0 |
 | Oooh, Shiny | 0.00% | ~0 |
-| Never Forget your First | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 306)  

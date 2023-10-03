@@ -18,8 +18,8 @@ Number of Ratings: 74  (23.09.2022)
 | Irons Scorched | 25.00% | ~1,819 |
 | Islands Connected | 25.00% | ~1,819 |
 | Harp Tuned | 24.00% | ~1,746 |
+| Travelers Returned | 24.00% | ~1,746 |
 | Pyre Ignited | 23.00% | ~1,674 |
-| Travelers Returned | 23.00% | ~1,674 |
 | Hopes Hoisted | 22.00% | ~1,601 |
 | Knowledge Shared | 20.00% | ~1,455 |
 | Relic Finder | 20.00% | ~1,455 |
