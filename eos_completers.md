@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.86% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.80% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -60,12 +60,12 @@
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 61 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.63% |
-| 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.58% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.44% |
-| 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.09% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
-| 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
+| 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
+| 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -86,8 +86,8 @@
 | 84 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 86 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 86 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.86% |
-| 88 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 87 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 88 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.78% |
 | 89 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 90 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
@@ -183,9 +183,9 @@
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 182 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
 | 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 185 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.37% |
+| 186 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 187 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 187 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 187 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
