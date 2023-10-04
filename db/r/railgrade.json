@@ -2,13 +2,13 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 3341,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -552,7 +552,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19170,
+  "EOS_Progressed": 19169,
   "EOS_Completed": 35,
   "EOS_NewPlayers": -91,
   "EOS_NewCompleters": 0,
@@ -7127,6 +7127,11 @@
       "Time": "2023-10-04T14:08:18.985026+00:00",
       "NumProgressed": 19170,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-10-04T16:08:25.2470901+00:00",
+      "NumProgressed": 19169,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -7170,7 +7175,7 @@
       "Name": "Builder",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 16103
+      "UsersEstimate": 16102
     },
     {
       "ID": "ach.060.goingdistance",
@@ -7178,7 +7183,7 @@
       "Name": "Going the Distance",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10544
+      "UsersEstimate": 10543
     },
     {
       "ID": "ach.070.8kenough",
@@ -7194,7 +7199,7 @@
       "Name": "Eraser",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 13611
+      "UsersEstimate": 13610
     },
     {
       "ID": "ach.090.perfectionist",
@@ -7226,7 +7231,7 @@
       "Name": "Simplification",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6709
     },
     {
       "ID": "ach.130.minimalist",
@@ -7234,7 +7239,7 @@
       "Name": "Minimalist",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17636
+      "UsersEstimate": 17635
     },
     {
       "ID": "ach.140.legacy",
@@ -7242,7 +7247,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 19170
+      "UsersEstimate": 19169
     },
     {
       "ID": "ach.150.pocket",
@@ -7250,7 +7255,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 12844
+      "UsersEstimate": 12843
     },
     {
       "ID": "ach.160.box",
@@ -7258,7 +7263,7 @@
       "Name": "Box of Trains",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6517
     },
     {
       "ID": "ach.170.room",
@@ -7274,7 +7279,7 @@
       "Name": "Inspector",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 11502
+      "UsersEstimate": 11501
     },
     {
       "ID": "ach.190.scenic",
@@ -7282,7 +7287,7 @@
       "Name": "The scenic route",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5367
     },
     {
       "ID": "ach.200.light",
@@ -7306,7 +7311,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5943
+      "UsersEstimate": 5942
     },
     {
       "ID": "ach.230.infinity",
@@ -7330,7 +7335,7 @@
       "Name": "Before the Downfall",
       "Percentage": 95,
       "XP": 60,
-      "UsersEstimate": 18212
+      "UsersEstimate": 18211
     },
     {
       "ID": "ach.260.investor",
@@ -7394,7 +7399,7 @@
       "Name": "Money like Water",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 17828
+      "UsersEstimate": 17827
     },
     {
       "ID": "ach.340.steel",
@@ -7433,7 +7438,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19170,
+      "Progressed": 19169,
       "Completed": 35
     }
   ],
@@ -7441,8 +7446,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-01T19:01:21.8061522+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:06:47.1339769+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:08:25.2470894+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.0626024+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:03:06.1646994+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:06:47.1340506+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:03:06.2940763+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:08:25.2472125+00:00"
 }

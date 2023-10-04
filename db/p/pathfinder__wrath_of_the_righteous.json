@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3860,9 +3860,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11469,
+  "EOS_Progressed": 11470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13210,6 +13210,11 @@
       "Time": "2023-10-04T13:16:27.8434805+00:00",
       "NumProgressed": 11469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T16:07:28.8134363+00:00",
+      "NumProgressed": 11470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13221,7 +13226,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "02_BurningCity",
@@ -13349,7 +13354,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "18_MythicChoices",
@@ -13429,7 +13434,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "29_StrategicVictory",
@@ -13565,7 +13570,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13573,7 +13578,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13589,7 +13594,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "49_Flame",
@@ -13645,7 +13650,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "56_GetToad",
@@ -14148,21 +14153,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10251,
+      "Progressed": 10252,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11469,
+      "Progressed": 11470,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-03T22:01:16.4260162+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:06:06.7306943+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:07:28.8134356+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:30.4462659+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:06:06.7309349+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:01:46.8403165+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:07:28.8137935+00:00"
 }

@@ -8,20 +8,20 @@ Rating: 4.50 (Ranked 574)
 | Advancement | 1.00% | ~262 |
 | Meticulously Efficient | 1.00% | ~262 |
 | Stylish | 1.00% | ~262 |
+| I collect Spores, Molds, and Fungi | 0.90% | ~236 |
 | Discovery | 0.90% | ~236 |
 | Fully Upgraded | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
-| I collect Spores, Molds, and Fungi | 0.80% | ~210 |
 | Teamwork | 0.80% | ~210 |
 | Vaporous Expansion | 0.80% | ~210 |
 | Back Off | 0.70% | ~183 |
 | Clutch Capture | 0.70% | ~183 |
 | Cultured | 0.70% | ~183 |
+| Icing on the Cake | 0.70% | ~183 |
 | Swift Rift Removers | 0.70% | ~183 |
 | There you are! | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Animated | 0.60% | ~157 |
-| Icing on the Cake | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
 | Daily Dose | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |

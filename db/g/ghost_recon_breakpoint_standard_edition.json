@@ -2,13 +2,13 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8707,10 +8707,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 11453,
       "NumberOfAwardsMax": 1487
+    },
+    {
+      "Time": "2023-10-04T16:01:27.2822235+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 11464,
+      "NumberOfAwardsMax": 1487
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11453,
+  "NumberOfAwards": 11464,
   "NumberOfAwardsMax": 1487,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8730,7 +8736,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1173
+      "Count": 1179
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8772,7 +8778,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1026
+      "Count": 1031
     }
   ],
   "EOS_Progressed": 0,
@@ -8786,8 +8792,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-10-04T12:01:03.7861284+00:00",
+  "LastChanged": "2023-10-04T16:01:27.2822232+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.8350367+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:17.0253467+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:06:48.9337911+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:01:27.2822241+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:08:27.678394+00:00"
 }

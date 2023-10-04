@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -14239,9 +14239,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 236
     },
     {
       "ID": "Collector",
@@ -14351,9 +14351,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 183
     },
     {
       "ID": "Legions",
@@ -14608,8 +14608,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-03T23:57:26.2909924+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:05:56.8383401+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:07:15.1791241+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:58:16.1634609+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:05:56.8384713+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:58:30.8701602+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:07:15.1793151+00:00"
 }

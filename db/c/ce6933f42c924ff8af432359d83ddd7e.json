@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -596,6 +596,11 @@
       "Time": "2023-10-04T15:08:14.7238177+00:00",
       "NumProgressed": 284,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-04T16:09:16.541136+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -614,9 +619,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_DONUTS",
@@ -624,7 +629,7 @@
       "Name": "Sweet tooth",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -632,7 +637,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -654,9 +659,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -687,14 +692,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:08:14.7238171+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:09:16.5411355+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:59:24.9649551+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:08:14.723831+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:00:12.9282999+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:09:16.5411534+00:00"
 }

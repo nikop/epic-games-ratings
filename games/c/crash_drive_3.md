@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~124 |
-| Baby's First Car | 29.00% | ~112 |
-| Amateur Mechanic | 29.00% | ~112 |
-| Pushover | 29.00% | ~112 |
-| A Forest Walk | 29.00% | ~112 |
-| C-C-C-Combo! | 27.00% | ~104 |
-| Multiply that! | 27.00% | ~104 |
+| Brace for impact! | 31.00% | ~120 |
+| Baby's First Car | 29.00% | ~113 |
+| Amateur Mechanic | 29.00% | ~113 |
+| Pushover | 29.00% | ~113 |
+| A Forest Walk | 29.00% | ~113 |
+| C-C-C-Combo! | 27.00% | ~105 |
+| Multiply that! | 27.00% | ~105 |
 | Fore! | 24.00% | ~93 |
 | Insurance fraud | 24.00% | ~93 |
 | Snow Fun! | 24.00% | ~93 |
@@ -26,9 +26,9 @@
 | Disoriented | 21.00% | ~81 |
 | Take that Frosty! | 21.00% | ~81 |
 | Beach Party! | 21.00% | ~81 |
-| Car-Tapult | 20.00% | ~77 |
-| Anger Issues | 20.00% | ~77 |
-| Your Highness | 20.00% | ~77 |
+| Car-Tapult | 20.00% | ~78 |
+| Anger Issues | 20.00% | ~78 |
+| Your Highness | 20.00% | ~78 |
 | Event Amateur | 19.00% | ~74 |
 | Feeling Dizzy? | 18.00% | ~70 |
 | Drift King! | 17.00% | ~66 |
@@ -38,9 +38,9 @@
 | Speed of light | 17.00% | ~66 |
 | Out of this League | 14.00% | ~54 |
 | Special Forces | 13.00% | ~50 |
-| Toot Toot! | 12.00% | ~46 |
-| Rocketman | 12.00% | ~46 |
-| Blasting away! | 12.00% | ~46 |
+| Toot Toot! | 12.00% | ~47 |
+| Rocketman | 12.00% | ~47 |
+| Blasting away! | 12.00% | ~47 |
 | High Roller | 11.00% | ~43 |
 | Earth Defense Force | 11.00% | ~43 |
 | Event Pro | 10.00% | ~39 |
@@ -48,9 +48,9 @@
 | To war! | 6.00% | ~23 |
 | Hoarder | 6.00% | ~23 |
 | Event Master | 5.00% | ~19 |
-| A Starting Collector | 4.00% | ~15 |
-| 433 Eros | 4.00% | ~15 |
-| Best Friends! | 4.00% | ~15 |
+| A Starting Collector | 4.00% | ~16 |
+| 433 Eros | 4.00% | ~16 |
+| Best Friends! | 4.00% | ~16 |
 | My Precious | 3.00% | ~12 |
 | Apprentice Mechanic | 3.00% | ~12 |
 | One Million Dollars! | 3.00% | ~12 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387 (Ranked 289)  
+Progressed: 388 (Ranked 289)  
 Completed: 2 (0.52%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 2 (0.52%) (Ranked 168)
 | 2023-09-26 | 385 | 2 |
 | 2023-09-30 | 386 | 2 |
 | 2023-10-03 | 387 | 2 |
+| 2023-10-04 | 388 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1977,
+  "EOS_Progressed": 1978,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5046,6 +5046,11 @@
       "Time": "2023-10-03T21:05:54.330484+00:00",
       "NumProgressed": 1977,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T16:06:56.4665202+00:00",
+      "NumProgressed": 1978,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5097,7 +5102,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "A06",
@@ -5137,7 +5142,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "A11",
@@ -5153,7 +5158,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "A13",
@@ -5161,7 +5166,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "A14",
@@ -5169,7 +5174,7 @@
       "Name": "A new Journey",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "A15",
@@ -5209,7 +5214,7 @@
       "Name": "Tycoon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "A20",
@@ -5217,7 +5222,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "A21",
@@ -5231,9 +5236,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1286
     },
     {
       "ID": "A23",
@@ -5329,7 +5334,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "A35",
@@ -5345,7 +5350,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "A37",
@@ -5377,7 +5382,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "A41",
@@ -5425,7 +5430,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "A47",
@@ -5433,7 +5438,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "A48",
@@ -5441,7 +5446,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "A49",
@@ -5496,7 +5501,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1977,
+      "Progressed": 1978,
       "Completed": 0
     }
   ],
@@ -5504,8 +5509,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:05:43.3623421+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:06:56.4665195+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:56.7440956+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:05:43.3624257+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:02:25.5348812+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:06:56.4666585+00:00"
 }

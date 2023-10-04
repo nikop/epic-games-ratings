@@ -9,8 +9,8 @@ Number of Ratings: 94  (23.09.2022)
 | Lost in Space | 64.00% | ~360 |
 | Quick Understanding of Block Extrusion | 62.00% | ~348 |
 | Nature or Nurture | 53.00% | ~298 |
-| Power Glove | 51.00% | ~287 |
-| Forgotten Memories | 49.00% | ~275 |
+| Power Glove | 52.00% | ~292 |
+| Forgotten Memories | 50.00% | ~281 |
 | Cogs in the Machine | 44.00% | ~247 |
 | Mission Success | 28.00% | ~157 |
 | There's No Place Like Home | 26.00% | ~146 |

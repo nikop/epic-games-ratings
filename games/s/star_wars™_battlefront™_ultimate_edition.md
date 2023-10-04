@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~379 |
-| Off to a good start | 66.00% | ~278 |
-| Do... or do not. There is no try | 51.00% | ~215 |
-| A good blaster at your side | 33.00% | ~139 |
-| Scrap collector | 21.00% | ~88 |
-| All right, I'll give it a try | 20.00% | ~84 |
-| Great shot, kid! | 19.00% | ~80 |
+| New Recruit | 91.00% | ~386 |
+| Off to a good start | 66.00% | ~280 |
+| Do... or do not. There is no try | 51.00% | ~216 |
+| A good blaster at your side | 34.00% | ~144 |
+| Scrap collector | 22.00% | ~93 |
+| All right, I'll give it a try | 20.00% | ~85 |
+| Great shot, kid! | 19.00% | ~81 |
 | I suggest a new strategy | 18.00% | ~76 |
 | The power of the Force | 17.00% | ~72 |
 | Together we can rule the galaxy | 17.00% | ~72 |
 | Shoot first | 17.00% | ~72 |
-| Collector | 15.00% | ~63 |
+| Collector | 15.00% | ~64 |
 | Survivor | 13.00% | ~55 |
 | Tell Jabba that I've got his money | 12.00% | ~51 |
 | Best star-pilot in the galaxy | 12.00% | ~51 |
 | What's the cargo? | 10.00% | ~42 |
 | Never tell me the odds! | 10.00% | ~42 |
 | Impressive. Most impressive. | 10.00% | ~42 |
-| Judge me by my size, do you? | 10.00% | ~42 |
 | A cunning warrior | 10.00% | ~42 |
 | "Gonk? Gonk!" | 9.00% | ~38 |
+| Judge me by my size, do you? | 9.00% | ~38 |
 | Distinguished | 8.00% | ~34 |
 | A tremor in the Force | 8.00% | ~34 |
 | Support the troops | 8.00% | ~34 |
@@ -36,10 +36,10 @@
 | When 900 years old you reach... | 5.00% | ~21 |
 | Determined | 5.00% | ~21 |
 | Your journey has only started | 5.00% | ~21 |
-| Safety ain't the point of a joyride | 5.00% | ~21 |
 | That's no moon | 5.00% | ~21 |
 | The Force is strong with this one | 4.00% | ~17 |
 | Precision shot | 4.00% | ~17 |
+| Safety ain't the point of a joyride | 4.00% | ~17 |
 | This is a new day, a new beginning | 4.00% | ~17 |
 | City in the Clouds | 4.00% | ~17 |
 | Alternative solution | 4.00% | ~17 |
@@ -56,8 +56,8 @@
 | Stop that Droid | 2.00% | ~8 |
 | Onwards! | 2.00% | ~8 |
 | A New Hope | 1.00% | ~4 |
-| in a galaxy far, far away.... | 1.00% | ~4 |
 | I’ll take that bet | 1.00% | ~4 |
+| in a galaxy far, far away.... | 0.90% | ~4 |
 | That got him! | 0.70% | ~3 |
 | Don't get cocky | 0.70% | ~3 |
 | Master | 0.70% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 283)  
+Progressed: 424 (Ranked 283)  
 Completed: 1 (0.24%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.24%) (Ranked 210)
 | 2023-10-01 | 379 | 1 |
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
-| 2023-10-04 | 421 | 1 |
+| 2023-10-04 | 424 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -57,9 +57,9 @@ Rating: 4.56 (Ranked 473)
 | Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.30% | ~10 |
 | A Junker's Dream | 0.20% | ~6 |
+| Scenic View | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
-| Scenic View | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

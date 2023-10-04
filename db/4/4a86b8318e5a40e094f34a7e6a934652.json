@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LUNCH_LEECH",
@@ -782,9 +782,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:03:29.640289+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:03:41.575951+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:59:54.2719716+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:03:29.6403105+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:00:55.3118666+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:03:41.5759831+00:00"
 }

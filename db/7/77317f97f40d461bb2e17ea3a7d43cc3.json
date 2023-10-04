@@ -4,8 +4,8 @@
   "ProductSlug": "castle-woodwarf-b2a88e",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-09T00:00:00+00:00",
     "PcReleaseDate": "2019-10-03T10:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-09T20:05:09.421122+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:08:08.757004+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:09:08.5981421+00:00",
   "LastUpdate_AppInfo": "2023-09-29T19:57:00.2880849+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:14.2512083+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:08:08.7570082+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:01:23.5650765+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:09:08.5981467+00:00"
 }

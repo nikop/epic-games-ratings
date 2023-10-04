@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,184 |
-| Get Busy Living | 16.00% | ~28,918 |
-| Samuel Norton | 9.00% | ~16,266 |
-| Spare The Rod | 5.00% | ~9,037 |
+| Stone Walls | 25.00% | ~45,188 |
+| Get Busy Living | 16.00% | ~28,920 |
+| Samuel Norton | 9.00% | ~16,268 |
+| Spare The Rod | 5.00% | ~9,038 |
 | Don't Put Me In The Dark | 3.00% | ~5,422 |
 | Wait and Hope | 3.00% | ~5,422 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,422 |
 | Throw The Book At Them | 2.00% | ~3,615 |
 | Iron Bars | 2.00% | ~3,615 |
-| D.B. Cooper | 1.00% | ~1,807 |
+| D.B. Cooper | 1.00% | ~1,808 |
 | Reformation | 0.60% | ~1,084 |
 | Crowd Control | 0.50% | ~904 |
 | Freedom | 0.40% | ~723 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~181 |
 | ... It's What You Can Prove | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,738 (Ranked 67)  
+Progressed: 180,750 (Ranked 67)  
 Completed: 8 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,14 +190,14 @@ Completed: 8 (0.00%) (Ranked 306)
 | 2023-10-01 | 180,093 | 8 |
 | 2023-10-02 | 180,357 | 8 |
 | 2023-10-03 | 180,588 | 8 |
-| 2023-10-04 | 180,738 | 8 |
+| 2023-10-04 | 180,750 | 8 |
 ## Awards
-Max (Extremely Fun): 519  (Ranked 200)  
-Sum: 4,478 (Ranked 141)  
+Max (Extremely Fun): 522  (Ranked 200)  
+Sum: 4,481 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 519 |
+| This game is Extremely Fun | 522 |
 | This game is Great for Beginners | 513 |
 | This game is Highly Recommended | 497 |
 | This game has Quickly Understood Controls | 485 |
@@ -465,4 +465,4 @@ Diff (max vs sum): 59
 | 2023-10-01 | 4.61 | - | 517 | 4,454 |
 | 2023-10-02 | 4.61 | - | 519 | 4,463 |
 | 2023-10-03 | 4.61 | - | 519 | 4,472 |
-| 2023-10-04 | 4.61 | - | 519 | 4,478 |
+| 2023-10-04 | 4.61 | - | 522 | 4,481 |

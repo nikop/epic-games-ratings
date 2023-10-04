@@ -16,6 +16,7 @@ Rating: 4.64 (Ranked 316)
 | Cold-Blooded Driller | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
 | Don't Knife The Hand That Feeds | 0.20% | ~48 |
+| Bathe With A Giant Nude Alien | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -47,7 +48,6 @@ Rating: 4.64 (Ranked 316)
 | Fall In Love With A Parasite | 0.10% | ~1 |
 | Meet Frasier from Frasier | 0.10% | ~1 |
 | It's Like The Santa Clause | 0.10% | ~1 |
-| Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,116 (Ranked 117)  

@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -98,6 +98,11 @@
       "Time": "2023-07-23T15:04:27.7783823+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T16:05:20.9988476+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -107,7 +112,7 @@
       "ID": "ADS",
       "SetID": "bb2dp",
       "Name": "Ads Fan",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -131,7 +136,7 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -139,7 +144,7 @@
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -147,7 +152,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -155,7 +160,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -163,7 +168,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -171,7 +176,7 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -179,7 +184,7 @@
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -187,7 +192,7 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -211,7 +216,7 @@
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -219,15 +224,15 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LOCKERENDING",
       "SetID": "bb2dp",
       "Name": "Secret Locker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -243,7 +248,7 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -291,7 +296,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -340,7 +345,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
@@ -348,8 +353,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:04:34.5507581+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:05:20.998847+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:34.6570132+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:03:08.4038247+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:04:34.5507785+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:03:09.915955+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:05:20.9988824+00:00"
 }

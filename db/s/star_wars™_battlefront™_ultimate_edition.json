@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 424,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -1041,6 +1041,11 @@
       "Time": "2023-10-04T14:05:40.5710898+00:00",
       "NumProgressed": 421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T16:05:47.7464216+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1139,7 +1144,7 @@
       "ID": "achievement_2",
       "SetID": "271ol84",
       "Name": "in a galaxy far, far away....",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -1149,7 +1154,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_21",
@@ -1243,9 +1248,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_32",
@@ -1253,15 +1258,15 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_34",
@@ -1275,9 +1280,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_36",
@@ -1293,7 +1298,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_38",
@@ -1325,15 +1330,15 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_42",
@@ -1355,9 +1360,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_45",
@@ -1493,7 +1498,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_60",
@@ -1556,13 +1561,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 424,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 421,
+      "Progressed": 424,
       "Completed": 1
     }
   ],
@@ -1570,8 +1575,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:04:53.5546029+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:05:47.746421+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:51.1200145+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:04:53.5546795+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:02:16.5075203+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:05:47.7465531+00:00"
 }

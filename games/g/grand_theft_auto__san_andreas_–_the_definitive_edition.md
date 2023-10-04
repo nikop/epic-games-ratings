@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 473)  
+Rating: 4.55 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -211,8 +211,8 @@ Completed: 49 (0.37%) (Ranked 186)
 | 2023-10-04 | 13,099 | 49 |
 ## Awards
 Max (Great Boss Battles): 329  (Ranked 236)  
-Sum: 461 (Ranked 318)  
-Diff (max vs sum): -82  
+Sum: 461 (Ranked 317)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 329 |
@@ -361,3 +361,4 @@ Diff (max vs sum): -82
 | 2023-09-30 | 4.56 | 322 | 451 |
 | 2023-10-02 | 4.55 | 325 | 455 |
 | 2023-10-03 | 4.56 | 329 | 461 |
+| 2023-10-04 | 4.55 | 329 | 461 |

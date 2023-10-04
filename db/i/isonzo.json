@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7020,
+  "EOS_Progressed": 7021,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5983,6 +5983,11 @@
       "Time": "2023-10-04T15:04:43.955508+00:00",
       "NumProgressed": 7020,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-04T16:05:34.2356237+00:00",
+      "NumProgressed": 7021,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6042,7 +6047,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6058,7 +6063,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -6082,7 +6087,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -6266,7 +6271,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -6322,7 +6327,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6338,7 +6343,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -6353,7 +6358,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7020,
+      "Progressed": 7021,
       "Completed": 8
     }
   ],
@@ -6361,8 +6366,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-04T15:04:43.9555076+00:00",
+  "LastChanged_Achievements": "2023-10-04T16:05:34.2356231+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.2710723+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:00:46.4155893+00:00",
-  "LastUpdate_Achievements": "2023-10-04T15:04:43.9555804+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:02:10.608963+00:00",
+  "LastUpdate_Achievements": "2023-10-04T16:05:34.2357179+00:00"
 }

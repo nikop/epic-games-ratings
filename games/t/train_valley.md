@@ -20,15 +20,15 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 29.00% | ~146 |
 | Let's roll! | 27.00% | ~136 |
 | Philatelist | 26.00% | ~131 |
-| Ouroboros | 24.00% | ~121 |
+| Ouroboros | 25.00% | ~126 |
 | Non Stop! | 24.00% | ~121 |
 | Foreman | 22.00% | ~111 |
 | Russia | 20.00% | ~101 |
 | Missed it! | 19.00% | ~96 |
 | America | 18.00% | ~91 |
 | Sabotage | 17.00% | ~86 |
+| Achtung! | 12.00% | ~61 |
 | Japan | 11.00% | ~56 |
-| Achtung! | 11.00% | ~56 |
 | Woodcutter | 10.00% | ~50 |
 | Engineer | 10.00% | ~50 |
 | Tycoon | 9.00% | ~45 |
