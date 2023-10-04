@@ -52,7 +52,7 @@
 | 50 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 0 | 526 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 418 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 271 |
-| 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 409 | 220 |
+| 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 412 | 219 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 526 |
 | 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 428 | 214 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 265 | 253 |
@@ -243,7 +243,7 @@
 | 221 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.69 | 22 | 509 |
 | 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 830 | 157 |
 | 243 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,355 | 91 |
-| 243 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,608 | 88 |
+| 243 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,612 | 87 |
 | 243 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 526 |
 | 243 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 70 | 385 |
 | 243 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 526 |
@@ -443,7 +443,7 @@
 | 436 | [GRIT](games/g/grit.md) | 4.58 | 0 | 526 |
 | 436 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 437 |
 | 436 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 519 |
-| 436 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,402 | 42 |
+| 436 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 8,434 | 42 |
 | 436 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,497 | 125 |
 | 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 317 |
 | 436 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 526 |
@@ -632,7 +632,7 @@
 | 619 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 526 |
 | 619 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 526 |
 | 632 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 526 |
-| 632 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,610 | 87 |
+| 632 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,610 | 88 |
 | 632 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 526 |
 | 632 | [ELEX](games/e/elex.md) | 4.46 | 24 | 496 |
 | 632 | [Faeria](games/f/faeria.md) | 4.46 | 112 | 332 |
@@ -724,7 +724,7 @@
 | 716 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 43 | 429 |
 | 716 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.40 | 0 | 526 |
 | 716 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 526 |
-| 716 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 465 | 208 |
+| 716 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 466 | 208 |
 | 716 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 526 |
 | 716 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 567 | 193 |
 | 716 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 113 | 331 |
@@ -760,6 +760,7 @@
 | 758 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 526 |
 | 758 | [Core](games/c/core.md) | 4.36 | 754 | 166 |
 | 758 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 291 |
+| 758 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.36 | 0 | 526 |
 | 758 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,695 | 31 |
 | 758 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.36 | 0 | 526 |
 | 758 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 526 |
@@ -768,16 +769,15 @@
 | 758 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 50 | 409 |
 | 758 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 121 | 325 |
 | 758 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 47 | 418 |
-| 769 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 526 |
-| 769 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 526 |
-| 769 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.35 | 0 | 526 |
-| 769 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 98 | 348 |
-| 769 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.35 | 0 | 526 |
-| 769 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 526 |
-| 769 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 205 | 275 |
-| 769 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 526 |
-| 769 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 526 |
-| 769 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 526 |
+| 770 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 526 |
+| 770 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 526 |
+| 770 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.35 | 0 | 526 |
+| 770 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 98 | 348 |
+| 770 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 526 |
+| 770 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 205 | 275 |
+| 770 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 526 |
+| 770 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 526 |
+| 770 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 526 |
 | 779 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 482 |
 | 779 | [Encased](games/e/encased.md) | 4.34 | 146 | 308 |
 | 779 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 257 | 257 |
