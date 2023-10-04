@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24114,
+  "EOS_Progressed": 24115,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5139,6 +5139,11 @@
       "Time": "2023-10-04T01:49:04.5773572+00:00",
       "NumProgressed": 24114,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-04T05:06:27.6778748+00:00",
+      "NumProgressed": 24115,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 44,
@@ -5268,9 +5273,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5501,13 +5506,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24114,
+      "Progressed": 24115,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 1373
     }
   ],
@@ -5515,8 +5520,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:05:26.8149735+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:06:27.677874+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:59:15.5989124+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:05:26.8150441+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:00:29.2258323+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:06:27.6779535+00:00"
 }

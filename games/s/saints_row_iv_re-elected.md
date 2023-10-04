@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 716)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~175,325 |
-| Destroyer-In-Chief | 57.00% | ~158,627 |
-| There Is No Pancakes | 54.00% | ~150,278 |
-| First of Many | 42.00% | ~116,883 |
-| Woah. | 37.00% | ~102,968 |
-| Don't Look Down | 29.00% | ~80,705 |
-| Don't Panic | 28.00% | ~77,922 |
-| Ooo A Piece of Candy! | 23.00% | ~64,007 |
-| Ghost in the Machine | 18.00% | ~50,093 |
-| All Too Easy | 15.00% | ~41,744 |
-| Didn't Need to See Him Naked | 14.00% | ~38,961 |
-| Indomitable | 10.00% | ~27,829 |
-| Blast from the Past | 9.00% | ~25,046 |
-| Bow to the Boss! | 9.00% | ~25,046 |
-| Friend of the Raptors | 9.00% | ~25,046 |
-| About Time! | 8.00% | ~22,263 |
+| Zero Saints Thirty | 63.00% | ~175,333 |
+| Destroyer-In-Chief | 57.00% | ~158,635 |
+| There Is No Pancakes | 54.00% | ~150,286 |
+| First of Many | 42.00% | ~116,889 |
+| Woah. | 37.00% | ~102,974 |
+| Don't Look Down | 29.00% | ~80,709 |
+| Don't Panic | 28.00% | ~77,926 |
+| Ooo A Piece of Candy! | 23.00% | ~64,011 |
+| Ghost in the Machine | 18.00% | ~50,095 |
+| All Too Easy | 15.00% | ~41,746 |
+| Didn't Need to See Him Naked | 14.00% | ~38,963 |
+| Indomitable | 10.00% | ~27,831 |
+| Blast from the Past | 9.00% | ~25,048 |
+| Bow to the Boss! | 9.00% | ~25,048 |
+| Friend of the Raptors | 9.00% | ~25,048 |
+| About Time! | 8.00% | ~22,265 |
 | Actor-Turned-Politician | 7.00% | ~19,481 |
 | Betrayed | 7.00% | ~19,481 |
 | Maximum Stopping Power | 7.00% | ~19,481 |
@@ -60,7 +60,7 @@ Rating: 4.40 (Ranked 716)
 | Back in the Day | 0.70% | ~1,948 |
 | Dear Santa | 0.70% | ~1,948 |
 | Rigging the Race | 0.70% | ~1,948 |
-| Health Inspector | 0.50% | ~1,391 |
+| Health Inspector | 0.50% | ~1,392 |
 | Bringin' the Heat | 0.40% | ~1,113 |
 | Walking the Dinosaur | 0.40% | ~1,113 |
 | Experimental Tech | 0.30% | ~835 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 716)
 | Super Power Team Up! | 0.10% | ~278 |
 | Ultimate Hot Potato | 0.10% | ~278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,293 (Ranked 47)  
+Progressed: 278,307 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,11 +245,11 @@ Completed: 15 (0.01%) (Ranked 289)
 | 2023-10-01 | 277,089 | 15 |
 | 2023-10-02 | 277,665 | 15 |
 | 2023-10-03 | 278,192 | 15 |
-| 2023-10-04 | 278,293 | 15 |
+| 2023-10-04 | 278,307 | 15 |
 ## Awards
 Max (Great Boss Battles): 465  (Ranked 208)  
-Sum: 465 (Ranked 315)  
-Diff (max vs sum): -107  
+Sum: 465 (Ranked 316)  
+Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 465 |

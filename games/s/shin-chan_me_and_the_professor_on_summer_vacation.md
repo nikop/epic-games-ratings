@@ -13,8 +13,8 @@
 | River Cleaner | 16.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~5 |
 | Just Hoverin' Along | 13.00% | ~5 |
+| What's That Smell? | 13.00% | ~5 |
 | It's Alive! | 13.00% | ~5 |
-| What's That Smell? | 11.00% | ~4 |
 | Farm Life! | 11.00% | ~4 |
 | Did Someone Order Ramen? | 11.00% | ~4 |
 | Ptera Pal | 11.00% | ~4 |

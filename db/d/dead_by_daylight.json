@@ -10901,9 +10901,9 @@
       "Count": 25044
     }
   ],
-  "EOS_Progressed": 917850,
+  "EOS_Progressed": 917886,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13392,
+  "EOS_NewPlayers": 13390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29781,6 +29781,11 @@
       "Time": "2023-10-04T04:04:46.5413136+00:00",
       "NumProgressed": 917850,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T05:05:31.3336847+00:00",
+      "NumProgressed": 917886,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -29926,9 +29931,9 @@
       "ID": "ACH_018",
       "SetID": "bdmlp8o",
       "Name": "Handyman",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH_019",
@@ -31623,21 +31628,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 917850,
+      "Progressed": 917886,
       "Completed": 49
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 917850,
+      "Progressed": 917886,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-04T01:41:55.0854553+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:04:46.5413132+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:05:31.3336841+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:57:53.6898648+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:04:46.5420899+00:00"
+  "LastUpdate_Ratings": "2023-10-04T04:58:27.7945773+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:05:31.3345086+00:00"
 }

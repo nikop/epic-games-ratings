@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2214,6 +2214,11 @@
       "Time": "2023-10-04T04:03:59.7710742+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T05:04:25.2400616+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2226,7 +2231,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2617,14 +2622,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:03:59.7710735+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:04:25.2400611+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:00:22.3157209+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:03:59.7711317+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:02:13.2664029+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:04:25.2401364+00:00"
 }

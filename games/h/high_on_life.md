@@ -7,6 +7,7 @@ Rating: 4.64 (Ranked 316)
 | ---- | ---------- | ----- |
 | Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
+| We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | First Bounty Down | 0.20% | ~48 |
 | Don't Knife The Hand That Feeds | 0.20% | ~48 |
 | Epic Legendary Prize | 0.10% | ~24 |
@@ -22,7 +23,6 @@ Rating: 4.64 (Ranked 316)
 | A Starfish Is Born | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
-| We're All Very Impressed, Trust Me | 0.10% | ~24 |
 | G3 Graduation | 0.10% | ~24 |
 | Legendary Bounty Hunter | 0.10% | ~24 |
 | Hardest Battle In The Game | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 316)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,114 (Ranked 117)  
+Progressed: 24,115 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-10-01 | 24,102 | 12 |
 | 2023-10-02 | 24,108 | 12 |
 | 2023-10-03 | 24,113 | 12 |
-| 2023-10-04 | 24,114 | 12 |
+| 2023-10-04 | 24,115 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

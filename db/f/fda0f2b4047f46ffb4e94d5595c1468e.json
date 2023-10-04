@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -740,7 +740,7 @@
   ],
   "EOS_Progressed": 6785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2668,9 +2668,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4885
     },
     {
       "ID": "ach07",
@@ -2756,9 +2756,9 @@
       "ID": "ach17",
       "SetID": "47in8n6",
       "Name": "So I Just Kill Stuff??",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3325
     },
     {
       "ID": "ach18",
@@ -2916,9 +2916,9 @@
       "ID": "ach37",
       "SetID": "47in8n6",
       "Name": "ABACABB",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3664
     },
     {
       "ID": "ach38",
@@ -3037,8 +3037,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-04T03:59:06.0058576+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:03:32.1909558+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:03:36.3207828+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:59:06.0058583+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:03:32.1910118+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:00:17.8390858+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:03:36.3208434+00:00"
 }

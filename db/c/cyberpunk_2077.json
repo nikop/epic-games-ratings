@@ -12953,10 +12953,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888487,
+  "EOS_Progressed": 888501,
   "EOS_Completed": 2570,
-  "EOS_NewPlayers": 5771,
-  "EOS_NewCompleters": 145,
+  "EOS_NewPlayers": 5757,
+  "EOS_NewCompleters": 143,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31718,6 +31718,11 @@
       "Time": "2023-10-04T04:09:22.3669441+00:00",
       "NumProgressed": 888487,
       "NumCompleted": 2570
+    },
+    {
+      "Time": "2023-10-04T05:09:20.0059037+00:00",
+      "NumProgressed": 888501,
+      "NumCompleted": 2570
     }
   ],
   "TotalAchievements": 57,
@@ -31777,7 +31782,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "Gearhead",
@@ -31785,7 +31790,7 @@
       "Name": "Autojock",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "GetMeThereScottie",
@@ -31793,7 +31798,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "GunKata",
@@ -31841,7 +31846,7 @@
       "Name": "Little Tokyo",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "MasterRunner",
@@ -31865,7 +31870,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "NeverFadeAway",
@@ -31889,7 +31894,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "QueenOfTheHighway",
@@ -31913,7 +31918,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35539
+      "UsersEstimate": 35540
     },
     {
       "ID": "Temperance",
@@ -31929,7 +31934,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35539
+      "UsersEstimate": 35540
     },
     {
       "ID": "TheDevil",
@@ -31977,7 +31982,7 @@
       "Name": "The Star",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "TheSun",
@@ -32184,21 +32189,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888487,
+      "Progressed": 888501,
       "Completed": 2570
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17110,
+      "Progressed": 17124,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-04T04:00:02.2722375+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:09:22.3669436+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:09:20.0059033+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:00:02.2722383+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:09:22.36711+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:01:43.8280463+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:09:20.0060738+00:00"
 }

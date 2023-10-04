@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 509,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5046,9 +5046,9 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 690494,
+  "EOS_Progressed": 690506,
   "EOS_Completed": 2189,
-  "EOS_NewPlayers": 3614,
+  "EOS_NewPlayers": 3619,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -23871,6 +23871,11 @@
       "Time": "2023-10-04T04:05:31.2145112+00:00",
       "NumProgressed": 690494,
       "NumCompleted": 2189
+    },
+    {
+      "Time": "2023-10-04T05:06:33.9200654+00:00",
+      "NumProgressed": 690506,
+      "NumCompleted": 2189
     }
   ],
   "TotalAchievements": 45,
@@ -23914,7 +23919,7 @@
       "Name": "Make it So",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ach_big_name_in_town",
@@ -24050,7 +24055,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ach_internet_famous",
@@ -24066,7 +24071,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -24170,7 +24175,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -24186,7 +24191,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6214
+      "UsersEstimate": 6215
     },
     {
       "ID": "ach_thesacrifice",
@@ -24226,7 +24231,7 @@
       "Name": "Rising Star",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 6214
+      "UsersEstimate": 6215
     },
     {
       "ID": "ach_well_trained",
@@ -24234,29 +24239,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 690494,
+      "Progressed": 690506,
       "Completed": 2189
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 16036,
-      "Completed": 16036
+      "Progressed": 16048,
+      "Completed": 16048
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-04T01:44:30.6203626+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:05:31.2145106+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:06:33.9200647+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:56:56.341654+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:05:31.2146601+00:00"
+  "LastUpdate_Ratings": "2023-10-04T04:57:06.0170247+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:06:33.9202156+00:00"
 }

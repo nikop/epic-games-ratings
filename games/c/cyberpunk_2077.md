@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,539 |
-| Rough Landing | 4.00% | ~35,539 |
+| Ten out of Ten | 4.00% | ~35,540 |
+| Rough Landing | 4.00% | ~35,540 |
 | Gunslinger | 3.00% | ~26,655 |
 | Master Crafter | 3.00% | ~26,655 |
 | The High Priestess | 3.00% | ~26,655 |
@@ -41,18 +41,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.80% | ~7,108 |
 | Bushido and Chill | 0.60% | ~5,331 |
 | I Am The Law | 0.60% | ~5,331 |
-| The Wandering Fool | 0.50% | ~4,442 |
-| Autojock | 0.50% | ~4,442 |
-| Must Be Rats | 0.50% | ~4,442 |
+| The Wandering Fool | 0.50% | ~4,443 |
+| Autojock | 0.50% | ~4,443 |
+| Must Be Rats | 0.50% | ~4,443 |
 | To Protect and Serve | 0.40% | ~3,554 |
 | The Sun | 0.40% | ~3,554 |
-| Frequent Flyer | 0.30% | ~2,665 |
-| Little Tokyo | 0.30% | ~2,665 |
-| The Star | 0.30% | ~2,665 |
+| Frequent Flyer | 0.30% | ~2,666 |
+| Little Tokyo | 0.30% | ~2,666 |
+| The Star | 0.30% | ~2,666 |
 | The APB is Not Enough | 0.30% | ~51 |
 | Relic Ruler | 0.30% | ~51 |
 | The Wasteland | 0.20% | ~1,777 |
-| Daemon In The Shell | 0.10% | ~888 |
+| Daemon In The Shell | 0.10% | ~889 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,487 (Ranked 15)  
+Progressed: 888,501 (Ranked 15)  
 Completed: 2,570 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,570 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,487 | 2,570 |
+| 2023-10-04 | 888,501 | 2,570 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 261,738 (Ranked 12)  

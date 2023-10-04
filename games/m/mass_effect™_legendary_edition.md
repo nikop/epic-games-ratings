@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 95.00% | ~519 |
 | Spectre Inductee | 85.00% | ~464 |
 | Medal of Exploration I | 77.00% | ~420 |
-| Recruit | 72.00% | ~393 |
+| Recruit | 73.00% | ~399 |
 | Search and Rescue | 72.00% | ~393 |
 | Quarian Ally | 71.00% | ~388 |
 | Medal of Heroism | 66.00% | ~360 |
@@ -30,11 +30,11 @@
 | Merciless | 45.00% | ~246 |
 | Scientist | 45.00% | ~246 |
 | Head Hunter | 42.00% | ~229 |
+| Missing in Action | 41.00% | ~224 |
 | Very Elusive | 41.00% | ~224 |
 | Operative | 41.00% | ~224 |
 | Scholar | 41.00% | ~224 |
 | Veteran | 40.00% | ~218 |
-| Missing in Action | 40.00% | ~218 |
 | Power Full | 38.00% | ~207 |
 | The Professor | 37.00% | ~202 |
 | Completionist | 36.00% | ~197 |

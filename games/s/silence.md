@@ -28,7 +28,7 @@
 | It's not easy being green! | 18.00% | ~23 |
 | Home is where the heart is | 18.00% | ~23 |
 | Master of Thermodynamics | 15.00% | ~19 |
-| Death is a part of life | 14.00% | ~18 |
+| Death is a part of life | 15.00% | ~19 |
 | Unfullfilled dreams | 13.00% | ~17 |
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |

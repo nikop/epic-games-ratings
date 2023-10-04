@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 13521,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7716,9 +7716,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "22",
@@ -7844,9 +7844,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
@@ -7861,8 +7861,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T04:05:24.6503579+00:00",
+  "LastChanged_Achievements": "2023-10-04T05:06:24.5481704+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:59:29.8135279+00:00",
-  "LastUpdate_Achievements": "2023-10-04T04:05:24.6504278+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:00:52.1432027+00:00",
+  "LastUpdate_Achievements": "2023-10-04T05:06:24.5483024+00:00"
 }

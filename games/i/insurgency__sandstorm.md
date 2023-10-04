@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,941 |
-| Wallbanger | 5.00% | ~22,941 |
+| Point Shooting | 5.00% | ~22,942 |
+| Wallbanger | 5.00% | ~22,942 |
 | Exploitative | 4.00% | ~18,353 |
 | High Speed Low Drag | 4.00% | ~18,353 |
 | Wet Feet | 4.00% | ~18,353 |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,765 |
 | Stylin' | 3.00% | ~13,765 |
 | Turf War | 3.00% | ~13,765 |
-| Banged | 2.00% | ~9,176 |
-| First Blood | 2.00% | ~9,176 |
-| Flaccid Paralysis | 2.00% | ~9,176 |
-| Push Victory | 2.00% | ~9,176 |
-| Self-destructive | 2.00% | ~9,176 |
+| Banged | 2.00% | ~9,177 |
+| First Blood | 2.00% | ~9,177 |
+| Flaccid Paralysis | 2.00% | ~9,177 |
+| Push Victory | 2.00% | ~9,177 |
+| Self-destructive | 2.00% | ~9,177 |
 | Blindfire | 1.00% | ~4,588 |
 | Ruthless | 1.00% | ~4,588 |
 | Semper Paratus | 1.00% | ~4,588 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~459 |
 | Road Hazard | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,818 (Ranked 38)  
+Progressed: 458,831 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,15 +209,15 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-01 | 458,203 | 2 |
 | 2023-10-02 | 458,498 | 2 |
 | 2023-10-03 | 458,760 | 2 |
-| 2023-10-04 | 458,818 | 2 |
+| 2023-10-04 | 458,831 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 385  (Ranked 224)  
-Sum: 3,035 (Ranked 169)  
+Sum: 3,036 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 385 |
-| This game has Challenging Combat | 370 |
+| This game has Challenging Combat | 371 |
 | This game is Extremely Fun | 354 |
 | This game has Competitive Players | 346 |
 | This game is Highly Recommended | 335 |
@@ -475,3 +475,4 @@ Diff (max vs sum): 55
 | 2023-09-24 | 4.62 | - | 383 | 3,008 |
 | 2023-09-25 | 4.62 | - | 383 | 3,010 |
 | 2023-10-02 | 4.62 | - | 385 | 3,035 |
+| 2023-10-04 | 4.62 | - | 385 | 3,036 |

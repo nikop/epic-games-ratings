@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~6,128 |
-| A Better Idea | 25.00% | ~1,612 |
-| Safety in the Storm | 24.00% | ~1,548 |
-| Begin the Ceremony | 21.00% | ~1,354 |
-| Mission Accomplished | 20.00% | ~1,290 |
+| Fracture at Fostar Haven | 95.00% | ~6,130 |
+| A Better Idea | 25.00% | ~1,613 |
+| Safety in the Storm | 24.00% | ~1,549 |
+| Begin the Ceremony | 21.00% | ~1,355 |
+| Mission Accomplished | 20.00% | ~1,291 |
 | The Galaxy's Finest (Story Mode) | 16.00% | ~1,032 |
 | Asset Secured | 14.00% | ~903 |
 | A Starfighter of Your Own | 14.00% | ~903 |
@@ -17,11 +17,11 @@
 | Sound Strategy | 7.00% | ~452 |
 | Together, Vanguard | 7.00% | ~452 |
 | Stomped | 6.00% | ~387 |
-| Great Shot, Kid | 5.00% | ~322 |
-| Fearless | 5.00% | ~322 |
-| Back From the Brink | 5.00% | ~322 |
-| Flames Over Mon Cala | 5.00% | ~322 |
-| A Promising Career | 5.00% | ~322 |
+| Great Shot, Kid | 5.00% | ~323 |
+| Fearless | 5.00% | ~323 |
+| Back From the Brink | 5.00% | ~323 |
+| Flames Over Mon Cala | 5.00% | ~323 |
+| A Promising Career | 5.00% | ~323 |
 | Temporary Guardian | 4.00% | ~258 |
 | Baited | 4.00% | ~258 |
 | Stronger Together | 3.00% | ~194 |
@@ -30,10 +30,10 @@
 | Punch It | 3.00% | ~194 |
 | Combat Pilot | 3.00% | ~194 |
 | Dressed for the Job You Want | 2.00% | ~129 |
-| Found Your Place | 1.00% | ~64 |
-| I Have You Now | 1.00% | ~64 |
-| Denied | 1.00% | ~64 |
-| Against the Current | 1.00% | ~64 |
+| Found Your Place | 1.00% | ~65 |
+| I Have You Now | 1.00% | ~65 |
+| Denied | 1.00% | ~65 |
+| Against the Current | 1.00% | ~65 |
 | Unstoppable Ace | 0.80% | ~52 |
 | Seasoned Star Pilot | 0.70% | ~45 |
 | Special Modifications | 0.70% | ~45 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~6 |
 | The Galaxy's Finest (Ace) | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,450 (Ranked 159)  
+Progressed: 6,453 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 5,679 | 0 |
 | 2023-10-02 | 6,051 | 0 |
 | 2023-10-03 | 6,410 | 0 |
-| 2023-10-04 | 6,450 | 0 |
+| 2023-10-04 | 6,453 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
