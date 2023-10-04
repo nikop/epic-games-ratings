@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 964)  
+Rating: 3.99 (Ranked 965)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,113 (Ranked 72)  
+Progressed: 137,115 (Ranked 72)  
 Completed: 161 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
-| 2023-10-04 | 137,113 | 161 |
+| 2023-10-04 | 137,115 | 161 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
-Sum: 27,328 (Ranked 49)  
+Sum: 27,329 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,019 |
 | This game has Quickly Understood Controls | 4,008 |
 | This game has Diverse Characters | 3,902 |
-| This game is Highly Recommended | 3,755 |
+| This game is Highly Recommended | 3,756 |
 | This game has Easy Combat | 3,696 |
 | This game has Playful Visuals | 3,181 |
 | This game has Inclusive Character Customization | 22 |
@@ -553,4 +553,4 @@ Diff (max vs sum): 22
 | 2023-10-01 | 3.99 | - | 4,763 | 27,316 |
 | 2023-10-02 | 3.99 | - | 4,765 | 27,320 |
 | 2023-10-03 | 3.99 | - | 4,765 | 27,325 |
-| 2023-10-04 | 3.99 | - | 4,767 | 27,328 |
+| 2023-10-04 | 3.99 | - | 4,767 | 27,329 |

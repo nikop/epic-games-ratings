@@ -14,7 +14,7 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 66.00% | ~4,018 |
 | Home Cooked Meal | 58.00% | ~3,531 |
 | Onward | 57.00% | ~3,470 |
-| The First Week | 54.00% | ~3,288 |
+| The First Week | 55.00% | ~3,348 |
 | Putting Food on the Table | 53.00% | ~3,227 |
 | Studious Researcher | 52.00% | ~3,166 |
 | Beam Me Up | 51.00% | ~3,105 |
@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 33.00% | ~2,009 |
 | Luminary Researcher | 32.00% | ~1,948 |
 | Heating Up | 30.00% | ~1,826 |
-| Winter Is Coming | 27.00% | ~1,644 |
+| Winter Is Coming | 28.00% | ~1,705 |
 | Winter Is Here | 24.00% | ~1,461 |
 | Disassembled | 21.00% | ~1,278 |
 | A Party Now | 21.00% | ~1,278 |

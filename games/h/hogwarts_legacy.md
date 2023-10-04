@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,671 |
-| First Class Student | 13.00% | ~38,715 |
-| Troll with the Punches | 13.00% | ~38,715 |
-| A Keen Sense of Spell | 12.00% | ~35,737 |
-| That's a Keeper | 12.00% | ~35,737 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,672 |
+| First Class Student | 13.00% | ~38,716 |
+| Troll with the Punches | 13.00% | ~38,716 |
+| A Keen Sense of Spell | 12.00% | ~35,738 |
+| That's a Keeper | 12.00% | ~35,738 |
 | The Defender of Dragons | 11.00% | ~32,759 |
 | Loom for Improvement | 11.00% | ~32,759 |
 | A Talent for Spending | 11.00% | ~32,759 |
@@ -30,13 +30,13 @@ Rating: 4.76 (Ranked 118)
 | The Root of the Problem | 6.00% | ~17,869 |
 | Third Time's a Charm | 6.00% | ~17,869 |
 | Raising Expectations | 6.00% | ~17,869 |
-| The Ends Petrify the Means | 5.00% | ~14,890 |
-| The Toast of the Town | 4.00% | ~11,912 |
-| Going Through the Potions | 4.00% | ~11,912 |
-| Room with a View | 4.00% | ~11,912 |
-| The Intrepid Explorer | 4.00% | ~11,912 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,912 |
-| The Wise Owl | 4.00% | ~11,912 |
+| The Ends Petrify the Means | 5.00% | ~14,891 |
+| The Toast of the Town | 4.00% | ~11,913 |
+| Going Through the Potions | 4.00% | ~11,913 |
+| Room with a View | 4.00% | ~11,913 |
+| The Intrepid Explorer | 4.00% | ~11,913 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,913 |
+| The Wise Owl | 4.00% | ~11,913 |
 | Put Down Roots | 3.00% | ~8,934 |
 | The Auror's Apprentice | 3.00% | ~8,934 |
 | Floo Around the World | 3.00% | ~8,934 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 118)
 | Merlin's Beard! | 1.00% | ~2,978 |
 | Demiguise Dread | 1.00% | ~2,978 |
 | A Forte for Achievement | 1.00% | ~2,978 |
-| Spilled Milk | 0.80% | ~2,382 |
+| Spilled Milk | 0.80% | ~2,383 |
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,809 (Ranked 46)  
+Progressed: 297,813 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 480 (0.16%) (Ranked 224)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
-| 2023-10-04 | 297,809 | 480 |
+| 2023-10-04 | 297,813 | 480 |
 ## Awards
 Max (Character Customization): 23,277  (Ranked 17)  
-Sum: 45,038 (Ranked 31)  
+Sum: 45,042 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): -14
 | This game is Relaxing | 1,092 |
 | This game is Extremely Fun | 1,081 |
 | This game has Amazing Characters | 1,057 |
-| This game is Highly Recommended | 1,047 |
+| This game is Highly Recommended | 1,051 |
 | This game has Quickly Understood Controls | 983 |
 | This game has Beautiful Visuals | 914 |
 | This game has a Creative Community | 683 |
@@ -434,4 +434,4 @@ Diff (max vs sum): -14
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
 | 2023-10-02 | 4.76 | 23,221 | 44,874 |
 | 2023-10-03 | 4.76 | 23,249 | 44,966 |
-| 2023-10-04 | 4.76 | 23,277 | 45,038 |
+| 2023-10-04 | 4.76 | 23,277 | 45,042 |

@@ -11,6 +11,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 0.30% | ~2,757 |
 | The Grand Sacrifice | 0.20% | ~1,838 |
 | Agonizing Escape | 0.20% | ~1,838 |
+| Backdoor Escape | 0.20% | ~1,838 |
 | No one left behind | 0.20% | ~1,838 |
 | Medic | 0.20% | ~1,838 |
 | Handyman | 0.20% | ~1,838 |
@@ -38,7 +39,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~919 |
 | Escape Artist | 0.10% | ~919 |
 | Made it out alive! | 0.10% | ~919 |
-| Backdoor Escape | 0.10% | ~919 |
 | The Key to Escape | 0.10% | ~919 |
 | I've got your back | 0.10% | ~919 |
 | Perfect Killing | 0.10% | ~919 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~919 |
 | Adept Ripley | 0.10% | ~919 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,878 (Ranked 14)  
+Progressed: 918,992 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,878 | 49 |
+| 2023-10-04 | 918,992 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
 Sum: 259,325 (Ranked 13)  

@@ -2,13 +2,13 @@
   "ID": "5a2108f4db804040aaf44d139bd21bd1",
   "Name": "Hood: Outlaws \u0026 Legends",
   "ProductSlug": "hood-outlaws-and-legends",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2591,6 +2591,6 @@
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
   "LastChanged": "2023-09-30T19:58:45.9456258+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:05.8113485+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:02:10.1589231+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:05:36.0387628+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:02:32.00761+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:06:30.5354538+00:00"
 }

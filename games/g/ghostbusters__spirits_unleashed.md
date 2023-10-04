@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,11 @@ Rating: 4.50 (Ranked 574)
 | Discovery | 0.90% | ~236 |
 | Fully Upgraded | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
+| Cultured | 0.80% | ~210 |
 | Teamwork | 0.80% | ~210 |
 | Vaporous Expansion | 0.80% | ~210 |
 | Back Off | 0.70% | ~183 |
 | Clutch Capture | 0.70% | ~183 |
-| Cultured | 0.70% | ~183 |
 | Icing on the Cake | 0.70% | ~183 |
 | Swift Rift Removers | 0.70% | ~183 |
 | There you are! | 0.70% | ~183 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,203 (Ranked 114)  
+Progressed: 26,204 (Ranked 114)  
 Completed: 58 (0.22%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-10-01 | 26,144 | 58 |
 | 2023-10-02 | 26,168 | 58 |
 | 2023-10-03 | 26,189 | 58 |
-| 2023-10-04 | 26,203 | 58 |
+| 2023-10-04 | 26,204 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 259  (Ranked 256)  
-Sum: 2,362 (Ranked 188)  
+Sum: 2,363 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +237,7 @@ Diff (max vs sum): 68
 | This game has Competitive Players | 238 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 233 |
-| This game is Highly Recommended | 230 |
+| This game is Highly Recommended | 231 |
 | This game is Relaxing | 230 |
 | This game has Quickly Understood Controls | 221 |
 | This game has Amazing Characters | 220 |
@@ -417,3 +417,4 @@ Diff (max vs sum): 68
 | 2023-10-01 | 4.50 | 258 | 2,352 |
 | 2023-10-02 | 4.50 | 258 | 2,354 |
 | 2023-10-03 | 4.50 | 259 | 2,362 |
+| 2023-10-04 | 4.50 | 259 | 2,363 |

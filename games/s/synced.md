@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 27.00% | ~16,402 |
-| As Far Away As Possible | 15.00% | ~9,112 |
-| A Most Unstable Organism | 12.00% | ~7,290 |
-| No Time to Follow Protocol | 9.00% | ~5,467 |
-| Float Like a Butterfly... | 7.00% | ~4,252 |
-| In Two Places At Once | 6.00% | ~3,645 |
-| Nano Connoisseur | 5.00% | ~3,037 |
+| Your Lucky Day | 27.00% | ~16,408 |
+| As Far Away As Possible | 15.00% | ~9,116 |
+| A Most Unstable Organism | 12.00% | ~7,293 |
+| No Time to Follow Protocol | 9.00% | ~5,469 |
+| Float Like a Butterfly... | 7.00% | ~4,254 |
+| In Two Places At Once | 6.00% | ~3,646 |
+| Nano Connoisseur | 5.00% | ~3,039 |
 | Pulling Your Weight | 2.00% | ~1,215 |
 | Reaping Rivals | 2.00% | ~1,215 |
 | fifteenth Time's the Charm | 0.80% | ~486 |
-| More Power to You | 0.60% | ~364 |
-| Memory Keeper | 0.20% | ~121 |
-| Gone Rogue | 0.20% | ~121 |
-| Completely Customizable | 0.20% | ~121 |
+| More Power to You | 0.60% | ~365 |
+| Memory Keeper | 0.20% | ~122 |
+| Gone Rogue | 0.20% | ~122 |
+| Completely Customizable | 0.20% | ~122 |
 | Runs for Your Money | 0.10% | ~61 |
 | Past Master | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,749 (Ranked 95)  
+Progressed: 60,772 (Ranked 96)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,15 +60,15 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-01 | 59,874 | 2 |
 | 2023-10-02 | 60,188 | 2 |
 | 2023-10-03 | 60,483 | 2 |
-| 2023-10-04 | 60,749 | 2 |
+| 2023-10-04 | 60,772 | 2 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 412)  
-Sum: 178 (Ranked 390)  
-Diff (max vs sum): 22  
+Sum: 179 (Ranked 389)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 49 |
-| This game has Diverse Characters | 32 |
+| This game has Diverse Characters | 33 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 26 |
 | This game has Quickly Understood Controls | 21 |
@@ -102,4 +102,4 @@ Diff (max vs sum): 22
 | 2023-10-01 | 4.18 | 46 | 138 |
 | 2023-10-02 | 4.18 | 48 | 165 |
 | 2023-10-03 | 4.18 | 49 | 153 |
-| 2023-10-04 | 4.18 | 49 | 178 |
+| 2023-10-04 | 4.18 | 49 | 179 |

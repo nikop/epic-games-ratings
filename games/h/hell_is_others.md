@@ -36,7 +36,7 @@ Rating: 4.40 (Ranked 715)
 | Bricklayer | 1.00% | ~2,569 |
 | Run the Economy | 1.00% | ~2,569 |
 | Committed Relationship | 0.80% | ~2,055 |
-| Number 1 | 0.70% | ~1,798 |
+| Number 1 | 0.70% | ~1,799 |
 | Interior designer | 0.60% | ~1,542 |
 | The Gamble | 0.50% | ~1,285 |
 | The Descent | 0.50% | ~1,285 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 715)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,928 (Ranked 49)  
+Progressed: 256,929 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 3 (0.00%) (Ranked 306)
 | 2023-10-01 | 256,837 | 3 |
 | 2023-10-02 | 256,864 | 3 |
 | 2023-10-03 | 256,896 | 3 |
-| 2023-10-04 | 256,928 | 3 |
+| 2023-10-04 | 256,929 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 43  (Ranked 429)  
 Sum: 279 (Ranked 355)  

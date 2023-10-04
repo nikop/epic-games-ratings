@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_14",
@@ -752,8 +752,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:03:34.286372+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:04:05.3537752+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.6113778+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:01:18.1451903+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:03:34.2864207+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:02:07.6705291+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:04:05.3538349+00:00"
 }

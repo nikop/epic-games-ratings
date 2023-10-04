@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2269,6 +2269,11 @@
       "Time": "2023-10-04T19:04:10.866771+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T20:04:48.9828524+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2281,7 +2286,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2471,9 +2476,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "c7hf6a4",
       "Name": "Exhausted but Happy",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -2537,7 +2542,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2633,7 +2638,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2672,14 +2677,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1295,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:04:10.86677+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:04:48.9828518+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:57:16.9143684+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:04:10.8668298+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:57:27.4671264+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:04:48.9829238+00:00"
 }

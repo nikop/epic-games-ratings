@@ -7,8 +7,8 @@ Rating: 4.54 (Ranked 509)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,576 |
 | Become King | 73.00% | ~1,421 |
+| Ranged Weapon | 63.00% | ~1,226 |
 | Defeat 25 Frogs | 63.00% | ~1,226 |
-| Ranged Weapon | 62.00% | ~1,207 |
 | Collect Monster Parts | 59.00% | ~1,148 |
 | Two Handed Weapon | 57.00% | ~1,109 |
 | Defeat 25 Grubs | 54.00% | ~1,051 |

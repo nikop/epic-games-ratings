@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.99 (Ranked 964)  
+Rating: 4.00 (Ranked 960)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,9 +28,9 @@ Rating: 3.99 (Ranked 964)
 | To infinity and beyond! | 3.00% | ~49 |
 | Driver's License | 2.00% | ~33 |
 | Explosive Miner | 2.00% | ~33 |
+| Rocket Jump | 2.00% | ~33 |
 | Caveman | 1.00% | ~16 |
 | Planetary Defence | 1.00% | ~16 |
-| Rocket Jump | 1.00% | ~16 |
 | Thunderstruck | 1.00% | ~16 |
 | 5G Network | 0.70% | ~12 |
 | One does not simply... | 0.60% | ~10 |
@@ -243,3 +243,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-10 | 3.99 | 0 | 0 |
 | 2023-09-16 | 4.00 | 0 | 0 |
 | 2023-09-22 | 3.99 | 0 | 0 |
+| 2023-10-04 | 4.00 | 0 | 0 |

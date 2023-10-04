@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14347,
+  "EOS_Progressed": 14349,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12950,6 +12950,11 @@
       "Time": "2023-10-04T19:08:07.7971475+00:00",
       "NumProgressed": 14347,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T20:09:06.786117+00:00",
+      "NumProgressed": 14349,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13407,9 +13412,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -15696,21 +15701,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14347,
+      "Progressed": 14349,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14347,
+      "Progressed": 14349,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:08:07.7971469+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:09:06.786116+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:00:04.1923646+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:08:07.7983035+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:00:45.0091666+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:09:06.787573+00:00"
 }

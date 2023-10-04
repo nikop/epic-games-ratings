@@ -4,11 +4,11 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 779,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -2798,18 +2798,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 2211,
       "NumberOfAwardsMax": 257
+    },
+    {
+      "Time": "2023-10-04T19:57:59.4606477+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2228,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2211,
-  "NumberOfAwardsMax": 257,
+  "NumberOfAwards": 2228,
+  "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2821,13 +2827,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 221
+      "Count": 223
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 249
+      "Count": 250
     },
     {
       "Text": "This game is Relaxing",
@@ -2839,37 +2845,37 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 230
+      "Count": 232
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 211
+      "Count": 213
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 189
+      "Count": 193
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 174
+      "Count": 175
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 228
+      "Count": 231
     }
   ],
   "EOS_Progressed": 0,
@@ -2883,8 +2889,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-09-25T05:57:42.355551+00:00",
+  "LastChanged": "2023-10-04T19:57:59.4606473+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:46.9528447+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:57:41.824006+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:05:29.4394843+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:57:59.4606481+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:06:22.602818+00:00"
 }

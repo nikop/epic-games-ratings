@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 316)  
+Rating: 4.63 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.64 (Ranked 316)
 | Satisfied Gus-tomer | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
+| RIP Davey Glutes | 0.20% | ~48 |
 | Sweezy Like Sunday Morning | 0.20% | ~48 |
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | First Bounty Down | 0.20% | ~48 |
@@ -24,7 +25,6 @@ Rating: 4.64 (Ranked 316)
 | Luglox Genocide | 0.10% | ~24 |
 | Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | Lezduit! | 0.10% | ~24 |
-| RIP Davey Glutes | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 316)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,116 (Ranked 117)  
+Progressed: 24,117 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-10-01 | 24,102 | 12 |
 | 2023-10-02 | 24,108 | 12 |
 | 2023-10-03 | 24,113 | 12 |
-| 2023-10-04 | 24,116 | 12 |
+| 2023-10-04 | 24,117 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -271,3 +271,4 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-09-02 | 4.64 | 0 | 0 |
 | 2023-09-22 | 4.63 | 0 | 0 |
 | 2023-09-29 | 4.64 | 0 | 0 |
+| 2023-10-04 | 4.63 | 0 | 0 |

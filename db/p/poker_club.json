@@ -5,10 +5,10 @@
   "Ranking_Rating": 992,
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 34,
+  "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 528584,
+  "EOS_Progressed": 528587,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1642,
+  "EOS_NewPlayers": 1635,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19463,6 +19463,11 @@
       "Time": "2023-10-04T19:05:46.2960957+00:00",
       "NumProgressed": 528584,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-04T20:06:42.8619478+00:00",
+      "NumProgressed": 528587,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -19474,7 +19479,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 137432
+      "UsersEstimate": 137433
     },
     {
       "ID": "Backdoor",
@@ -19482,7 +19487,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132146
+      "UsersEstimate": 132147
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -19570,7 +19575,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 206148
+      "UsersEstimate": 206149
     },
     {
       "ID": "DeadlyAssassin",
@@ -19626,7 +19631,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 216719
+      "UsersEstimate": 216721
     },
     {
       "ID": "HoldingYourOwn",
@@ -19722,7 +19727,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 401724
+      "UsersEstimate": 401726
     },
     {
       "ID": "ProPlayer",
@@ -19802,7 +19807,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95145
+      "UsersEstimate": 95146
     },
     {
       "ID": "TopDog",
@@ -19826,14 +19831,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58144
+      "UsersEstimate": 58145
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 528584,
+      "Progressed": 528587,
       "Completed": 2
     }
   ],
@@ -19841,8 +19846,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-02T13:08:12.8930224+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:05:46.2960952+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:06:42.8619473+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.6055511+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:57:53.2376477+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:05:46.2962444+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:58:12.1149124+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:06:42.8621079+00:00"
 }

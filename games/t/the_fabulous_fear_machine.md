@@ -4,22 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 80.00% | ~4 |
-| Master trainee | 40.00% | ~2 |
-| Jung's dream | 40.00% | ~2 |
-| The battle of Great Britain | 40.00% | ~2 |
-| You had one wish left | 20.00% | ~1 |
-| Giant | 20.00% | ~1 |
-| The artist | 20.00% | ~1 |
-| Pulp! Terror Tales in the Night | 20.00% | ~1 |
-| Pulp! Where Monsters Dwell | 20.00% | ~1 |
-| Pulp! Out of this World | 20.00% | ~1 |
-| A continent with chemistry | 20.00% | ~1 |
-| The barbarian invasions | 20.00% | ~1 |
-| The happy farmer girl | 20.00% | ~1 |
-| Diagnosis: fear | 20.00% | ~1 |
-| Ambition is... blind | 20.00% | ~1 |
-| You have two wishes left | 20.00% | ~1 |
+| You have three wishes left | 67.00% | ~4 |
+| Jung's dream | 50.00% | ~3 |
+| Giant | 50.00% | ~3 |
+| Master trainee | 33.00% | ~2 |
+| The battle of Great Britain | 33.00% | ~2 |
+| A continent with chemistry | 33.00% | ~2 |
+| The happy farmer girl | 33.00% | ~2 |
+| You had one wish left | 17.00% | ~1 |
+| A rival with no options | 17.00% | ~1 |
+| The artist | 17.00% | ~1 |
+| Pulp! Terror Tales in the Night | 17.00% | ~1 |
+| Pulp! Where Monsters Dwell | 17.00% | ~1 |
+| Pulp! Out of this World | 17.00% | ~1 |
+| Kirlian's best disciple | 17.00% | ~1 |
+| The barbarian invasions | 17.00% | ~1 |
+| Diagnosis: fear | 17.00% | ~1 |
+| Ambition is... blind | 17.00% | ~1 |
+| You have two wishes left | 17.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -27,7 +29,6 @@
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| Kirlian's best disciple | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |
 | ECO mode | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
@@ -52,11 +52,11 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 546)  
+Progressed: 6 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-27 | 3 | 0 |
-| 2023-10-04 | 5 | 0 |
+| 2023-10-04 | 6 | 0 |

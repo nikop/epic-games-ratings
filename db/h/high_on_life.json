@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-12-17T22:57:08.2654509+00:00",
@@ -268,15 +268,21 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-04T20:01:07.8999809+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24116,
+  "EOS_Progressed": 24117,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5149,6 +5155,11 @@
       "Time": "2023-10-04T10:05:29.4445935+00:00",
       "NumProgressed": 24116,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-04T20:06:52.5206261+00:00",
+      "NumProgressed": 24117,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 44,
@@ -5238,9 +5249,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -5511,22 +5522,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24116,
+      "Progressed": 24117,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1409,
+      "Progressed": 1410,
       "Completed": 1373
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
-  "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:05:54.5265168+00:00",
+  "LastChanged": "2023-10-04T20:01:07.8999808+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:06:52.5206254+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:00:27.0009378+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:05:54.5265879+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:01:07.8999814+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:06:52.5206996+00:00"
 }

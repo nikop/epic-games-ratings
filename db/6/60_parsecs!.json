@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1146,9 +1146,9 @@
       "ID": "Achievement_MeetThePetersons",
       "SetID": "c01p6e5",
       "Name": "Meet the Petersons",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 243
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1283,8 +1283,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:05:36.3130939+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:06:30.8906992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.722648+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:59:44.9431103+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:05:36.3131343+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:00:24.3104124+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:06:30.8907404+00:00"
 }

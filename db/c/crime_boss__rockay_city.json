@@ -3858,9 +3858,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88752,
+  "EOS_Progressed": 88754,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21178,6 +21178,11 @@
       "Time": "2023-10-04T19:08:08.7034471+00:00",
       "NumProgressed": 88752,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-04T20:09:07.6889436+00:00",
+      "NumProgressed": 88754,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 41,
@@ -21187,9 +21192,9 @@
       "ID": "ACH_0001",
       "SetID": "3kam13l",
       "Name": "Neophyte Ninja",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH_0011",
@@ -21516,13 +21521,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88752,
+      "Progressed": 88754,
       "Completed": 47
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17099,
+      "Progressed": 17101,
       "Completed": 15541
     }
   ],
@@ -21530,8 +21535,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-04T17:58:46.9029058+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:08:08.7034464+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:09:07.6889429+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:58:48.5157454+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:08:08.7035856+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:59:16.9851693+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:09:07.6890819+00:00"
 }

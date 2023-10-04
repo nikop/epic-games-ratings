@@ -2,9 +2,9 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Completed": 5,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 46.15,
+  "EOS_Completed_Percentage": 45.76,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -811,6 +811,11 @@
       "Time": "2023-10-04T12:03:24.0473713+00:00",
       "NumProgressed": 117,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-04T20:03:30.0499468+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -831,13 +836,13 @@
       "Name": "Intro",
       "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 75,
       "UsersEstimate": 97
     },
@@ -853,9 +858,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "Les",
@@ -869,9 +874,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "Nora",
@@ -895,15 +900,15 @@
       "Name": "Hatch",
       "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 80,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Sopouch",
@@ -926,14 +931,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:03:21.073167+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:03:30.0499462+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:07.1504923+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:59:24.3336489+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:03:21.0731847+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:00:00.0206024+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:03:30.0499663+00:00"
 }

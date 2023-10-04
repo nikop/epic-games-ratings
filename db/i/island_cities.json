@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 718,
-  "EOS_Completed": 118,
+  "EOS_Completed": 119,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 16.43,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 16.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3023,6 +3023,11 @@
       "Time": "2023-10-04T19:06:47.3124752+00:00",
       "NumProgressed": 718,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-10-04T20:07:54.892522+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 22,
@@ -3192,17 +3197,17 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
@@ -3210,15 +3215,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 718,
-      "Completed": 118
+      "Completed": 119
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-04T19:06:47.3124743+00:00",
+  "LastChanged_Achievements": "2023-10-04T20:07:54.8925214+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:48.0572436+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:59:05.0601488+00:00",
-  "LastUpdate_Achievements": "2023-10-04T19:06:47.3125457+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:59:36.5685358+00:00",
+  "LastUpdate_Achievements": "2023-10-04T20:07:54.8925588+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,167 |
-| Escaped Asphodel | 80.00% | ~563,746 |
-| Arms Collector | 71.00% | ~500,324 |
-| Friends in High Places | 68.00% | ~479,184 |
-| Escaped Elysium | 66.00% | ~465,090 |
-| Chthonic Colleagues | 63.00% | ~443,950 |
-| Is There No Escape? | 52.00% | ~366,435 |
-| Death Dealer | 45.00% | ~317,107 |
-| Skelly Slayer | 42.00% | ~295,966 |
-| Well Stocked | 40.00% | ~281,873 |
-| Back to Work | 38.00% | ~267,779 |
-| Day-or-Night Trader | 37.00% | ~260,732 |
-| Blessed by the Gods | 37.00% | ~260,732 |
+| Escaped Tartarus | 89.00% | ~627,169 |
+| Escaped Asphodel | 80.00% | ~563,747 |
+| Arms Collector | 71.00% | ~500,326 |
+| Friends in High Places | 68.00% | ~479,185 |
+| Escaped Elysium | 66.00% | ~465,091 |
+| Chthonic Colleagues | 63.00% | ~443,951 |
+| Is There No Escape? | 52.00% | ~366,436 |
+| Death Dealer | 45.00% | ~317,108 |
+| Skelly Slayer | 42.00% | ~295,967 |
+| Well Stocked | 40.00% | ~281,874 |
+| Back to Work | 38.00% | ~267,780 |
+| Day-or-Night Trader | 37.00% | ~260,733 |
+| Blessed by the Gods | 37.00% | ~260,733 |
 | Urge to Sing | 36.00% | ~253,686 |
 | Blood Bound | 35.00% | ~246,639 |
-| Three-Headed Boy | 32.00% | ~225,498 |
-| River Denizens | 28.00% | ~197,311 |
-| Grown Close | 28.00% | ~197,311 |
-| Home Makeover | 27.00% | ~190,264 |
-| The Family Secret | 26.00% | ~183,217 |
-| Had to Happen | 25.00% | ~176,170 |
+| Three-Headed Boy | 32.00% | ~225,499 |
+| River Denizens | 28.00% | ~197,312 |
+| Grown Close | 28.00% | ~197,312 |
+| Home Makeover | 27.00% | ~190,265 |
+| The Family Secret | 26.00% | ~183,218 |
+| Had to Happen | 25.00% | ~176,171 |
 | To Charon's Credit | 23.00% | ~162,077 |
 | Tools of the Architect | 23.00% | ~162,077 |
 | Master of Arms | 23.00% | ~162,077 |
 | Rare Collectible | 22.00% | ~155,030 |
-| Weapon of Fate | 21.00% | ~147,983 |
+| Weapon of Fate | 21.00% | ~147,984 |
 | Something From Everyone | 19.00% | ~133,890 |
 | Hold the Onions | 18.00% | ~126,843 |
 | Well Versed | 17.00% | ~119,796 |
-| War-God's Bloodlust | 15.00% | ~105,702 |
-| Musician and Muse | 14.00% | ~98,655 |
+| War-God's Bloodlust | 15.00% | ~105,703 |
+| Musician and Muse | 14.00% | ~98,656 |
 | The Useless Trinket | 13.00% | ~91,609 |
 | Champion of Elysium | 13.00% | ~91,609 |
 | Slashed Benefits | 12.00% | ~84,562 |
@@ -45,9 +45,9 @@ Number of Ratings: 6,336  (23.09.2022)
 | Nyx's Mirror | 10.00% | ~70,468 |
 | Night and Darkness | 10.00% | ~70,468 |
 | End to Torment | 10.00% | ~70,468 |
-| Dark Reflections | 9.00% | ~63,421 |
-| Thanks, But No Thanks | 9.00% | ~63,421 |
-| Infernal Arms | 9.00% | ~63,421 |
+| Dark Reflections | 9.00% | ~63,422 |
+| Thanks, But No Thanks | 9.00% | ~63,422 |
+| Infernal Arms | 9.00% | ~63,422 |
 | Divided by Death | 8.00% | ~56,375 |
 | Harsh Conditions | 7.00% | ~49,328 |
 | One for the Ages | 7.00% | ~49,328 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,187 |
 | Friends Forever | 4.00% | ~28,187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,682 (Ranked 21)  
+Progressed: 704,684 (Ranked 21)  
 Completed: 6,395 (0.91%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 6,395 (0.91%) (Ranked 143)
 | 2023-10-01 | 704,539 | 6,392 |
 | 2023-10-02 | 704,585 | 6,392 |
 | 2023-10-03 | 704,636 | 6,393 |
-| 2023-10-04 | 704,682 | 6,395 |
+| 2023-10-04 | 704,684 | 6,395 |
 ## Awards
 Max (Character Customization): 3,291  (Ranked 94)  
-Sum: 7,981 (Ranked 102)  
+Sum: 7,982 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): -8
 | This game is Relaxing | 239 |
 | This game has Diverse Characters | 239 |
 | This game has Quickly Understood Controls | 239 |
-| This game has Unique Visuals | 231 |
+| This game has Unique Visuals | 232 |
 | This game has Challenging Combat | 170 |
 | This game has a Creative Community | 167 |
 | This game has Obsessive Gameplay | 144 |
@@ -484,4 +484,4 @@ Diff (max vs sum): -8
 | 2023-10-01 | 4.92 | - | 3,287 | 7,969 |
 | 2023-10-02 | 4.92 | - | 3,290 | 7,975 |
 | 2023-10-03 | 4.92 | - | 3,290 | 7,979 |
-| 2023-10-04 | 4.92 | - | 3,291 | 7,981 |
+| 2023-10-04 | 4.92 | - | 3,291 | 7,982 |
