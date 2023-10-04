@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,867 |
-| Until death do us apart | 4.00% | ~16,867 |
-| That is mine! | 3.00% | ~12,650 |
-| Victorious! | 3.00% | ~12,650 |
+| That's a Grand Army | 4.00% | ~16,868 |
+| Until death do us apart | 4.00% | ~16,868 |
+| That is mine! | 3.00% | ~12,651 |
+| Victorious! | 3.00% | ~12,651 |
 | Brothers in Arms | 2.00% | ~8,434 |
 | For the Glory | 2.00% | ~8,434 |
 | That's a Grand Navy | 2.00% | ~8,434 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,795 |
 | Respected | 0.90% | ~3,795 |
 | Truly Divine Ruler | 0.90% | ~3,795 |
-| Blockader | 0.80% | ~3,373 |
-| Double the Love | 0.80% | ~3,373 |
-| Total Control | 0.80% | ~3,373 |
+| Blockader | 0.80% | ~3,374 |
+| Double the Love | 0.80% | ~3,374 |
+| Total Control | 0.80% | ~3,374 |
 | Royal Authority | 0.70% | ~2,952 |
 | My armies are invincible! | 0.60% | ~2,530 |
 | Agressive Expander | 0.50% | ~2,108 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,681 (Ranked 41)  
+Progressed: 421,692 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,17 +528,18 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
+| 2023-10-04 | 421,692 | 1 |
 ## Awards
 Max (Educational): 6,381  (Ranked 57)  
-Sum: 52,416 (Ranked 24)  
+Sum: 52,437 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,381 |
 | This game is Highly Recommended | 6,091 |
 | This game has Diverse Characters | 6,040 |
-| This game has Challenging Combat | 6,023 |
-| This game is Extremely Fun | 6,008 |
+| This game has Challenging Combat | 6,034 |
+| This game is Extremely Fun | 6,018 |
 | This game is Relaxing | 5,904 |
 | This game has Competitive Players | 5,697 |
 | This game has Amazing Storytelling | 5,327 |
@@ -806,4 +807,4 @@ Diff (max vs sum): 33
 | 2023-09-30 | 4.69 | - | 6,335 | 52,039 |
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
 | 2023-10-02 | 4.69 | - | 6,368 | 52,314 |
-| 2023-10-03 | 4.69 | - | 6,381 | 52,416 |
+| 2023-10-03 | 4.69 | - | 6,381 | 52,437 |

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9663,
+  "EOS_Progressed": 9664,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 4716,
+  "EOS_NewPlayers": 4708,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-10-03T23:07:40.1131481+00:00",
       "NumProgressed": 9663,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-10-04T00:05:59.5539887+00:00",
+      "NumProgressed": 9664,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -1602,7 +1607,7 @@
       "Name": "It Took Two",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "achievement_10",
@@ -1626,7 +1631,7 @@
       "Name": "On Rails Experience",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "achievement_13",
@@ -1682,7 +1687,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_2",
@@ -1706,7 +1711,7 @@
       "Name": "Fried Friendship",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 8503
+      "UsersEstimate": 8504
     },
     {
       "ID": "achievement_4",
@@ -1714,7 +1719,7 @@
       "Name": "Struck A Pose",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 8407
+      "UsersEstimate": 8408
     },
     {
       "ID": "achievement_5",
@@ -1738,7 +1743,7 @@
       "Name": "Look At Him Go",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7344
+      "UsersEstimate": 7345
     },
     {
       "ID": "achievement_8",
@@ -1761,13 +1766,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 9663,
+      "Progressed": 9664,
       "Completed": 37
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:07:40.1131476+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:05:59.5539881+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:08.0438679+00:00",
-  "LastUpdate_Ratings": "2023-10-03T22:59:06.2706216+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:07:40.1131735+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:58:20.3755496+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:05:59.5540081+00:00"
 }

@@ -496,7 +496,7 @@
   ],
   "EOS_Progressed": 13463,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9680,9 +9680,9 @@
       "ID": "ACH_10",
       "SetID": "9d4cf4c",
       "Name": "Bloodline",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7001
+      "UsersEstimate": 7135
     },
     {
       "ID": "ACH_11",
@@ -9897,8 +9897,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-02T05:00:35.8126919+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:03:47.0172309+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:02:33.1589894+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-10-03T22:58:00.7451146+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:03:47.0173208+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:57:34.3391073+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:02:33.1590525+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,792 |
-| Keeping it classy | 27.00% | ~806 |
+| You're free now! | 60.00% | ~1,793 |
+| Keeping it classy | 27.00% | ~807 |
 | Welcome to the family | 22.00% | ~657 |
 | The finer things in life | 19.00% | ~568 |
 | Backpacker | 14.00% | ~418 |
@@ -36,12 +36,12 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 5.00% | ~149 |
 | Renaissance man | 5.00% | ~149 |
 | Trick shot marksman | 5.00% | ~149 |
-| Cops called! | 4.00% | ~119 |
-| G.O.A.T. status | 4.00% | ~119 |
-| Manny Destroys All | 4.00% | ~119 |
-| Prince of Philly | 4.00% | ~119 |
-| Tank commander | 4.00% | ~119 |
-| We get it, you're good | 4.00% | ~119 |
+| Cops called! | 4.00% | ~120 |
+| G.O.A.T. status | 4.00% | ~120 |
+| Manny Destroys All | 4.00% | ~120 |
+| Prince of Philly | 4.00% | ~120 |
+| Tank commander | 4.00% | ~120 |
+| We get it, you're good | 4.00% | ~120 |
 | Hoarder | 3.00% | ~90 |
 | Pew-Pew | 3.00% | ~90 |
 | Cross lock country | 2.00% | ~60 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,987 (Ranked 188)  
+Progressed: 2,988 (Ranked 188)  
 Completed: 1 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 1 (0.03%) (Ranked 276)
 | 2023-10-01 | 2,984 | 1 |
 | 2023-10-02 | 2,986 | 1 |
 | 2023-10-03 | 2,987 | 1 |
+| 2023-10-04 | 2,988 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 400)  
 Sum: 510 (Ranked 306)  

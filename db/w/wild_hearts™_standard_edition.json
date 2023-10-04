@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_21",
@@ -825,8 +825,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:08:06.1640003+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:06:18.3147707+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:00:21.6355416+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:08:06.1640497+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:59:10.2907591+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:06:18.3148052+00:00"
 }

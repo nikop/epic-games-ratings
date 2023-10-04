@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,713 |
-| Hotel California | 3.00% | ~20,713 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,713 |
-| Welcome To Hell-A | 3.00% | ~20,713 |
+| Break A Leg | 3.00% | ~20,714 |
+| Hotel California | 3.00% | ~20,714 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,714 |
+| Welcome To Hell-A | 3.00% | ~20,714 |
 | Dr. Reed, I Presume? | 2.00% | ~13,809 |
 | Git Gutte! | 2.00% | ~13,809 |
 | Anger Management | 2.00% | ~13,809 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 510)
 | Stacking the Deck | 2.00% | ~13,809 |
 | Our True Nature | 2.00% | ~13,809 |
 | This is My Weapon | 2.00% | ~13,809 |
-| Making Your Mark | 1.00% | ~6,904 |
-| Humanity Distilled | 1.00% | ~6,904 |
-| Down with the Sickness | 1.00% | ~6,904 |
-| Max Headroom | 1.00% | ~6,904 |
+| Making Your Mark | 1.00% | ~6,905 |
+| Humanity Distilled | 1.00% | ~6,905 |
+| Down with the Sickness | 1.00% | ~6,905 |
+| Max Headroom | 1.00% | ~6,905 |
 | Go, Bobcats! | 0.90% | ~6,214 |
 | Rising Star | 0.90% | ~6,214 |
 | Smorgasbord | 0.80% | ~5,524 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 510)
 | Donk! | 0.10% | ~690 |
 | Bucket List | 0.10% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,441 (Ranked 22)  
+Progressed: 690,453 (Ranked 22)  
 Completed: 2,189 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 2,189 (0.32%) (Ranked 195)
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
+| 2023-10-04 | 690,453 | 2,189 |
 ## Awards
 Max (Great Boss Battles): 6,301  (Ranked 58)  
 Sum: 9,397 (Ranked 91)  

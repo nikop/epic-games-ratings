@@ -6346,9 +6346,9 @@
       "Count": 3755
     }
   ],
-  "EOS_Progressed": 137070,
+  "EOS_Progressed": 137072,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23406,6 +23406,11 @@
       "Time": "2023-10-03T23:03:53.4018481+00:00",
       "NumProgressed": 137070,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-10-04T00:03:07.6019759+00:00",
+      "NumProgressed": 137072,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 112,
@@ -23529,7 +23534,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "blueprint03",
@@ -23577,7 +23582,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "chest01",
@@ -23777,7 +23782,7 @@
       "Name": "Power of Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "energy03",
@@ -23857,7 +23862,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "fuselegendary",
@@ -23913,7 +23918,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "gold05",
@@ -24081,7 +24086,7 @@
       "Name": "Natural 20",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "master03",
@@ -24241,7 +24246,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "typeunlock01",
@@ -24312,15 +24317,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137070,
+      "Progressed": 137072,
       "Completed": 160
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-03T18:00:04.0873388+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:03:53.4018475+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:03:07.6019755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:01:37.0135422+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:03:53.4021121+00:00"
+  "LastUpdate_Ratings": "2023-10-04T00:00:02.75611+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:03:07.602175+00:00"
 }

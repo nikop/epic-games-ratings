@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Naming Landmarks | 0.20% | ~29 |
+| Trade Caravan | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
@@ -180,7 +181,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.10% | ~14 |
 | Veneration | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
-| Trade Caravan | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Cimmerian Archer | 0.10% | ~14 |
 | Three Man Chariot | 0.10% | ~14 |

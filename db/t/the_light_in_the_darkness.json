@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2479,
+  "EOS_Progressed": 2480,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.16,
+  "EOS_Completed_Percentage": 9.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6418,6 +6418,11 @@
       "Time": "2023-10-03T19:05:53.1284713+00:00",
       "NumProgressed": 2479,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-04T00:05:13.2831253+00:00",
+      "NumProgressed": 2480,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 12,
@@ -6437,7 +6442,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Building the Fox",
@@ -6445,7 +6450,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "Green Ticket Roundup",
@@ -6461,7 +6466,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "Jakob",
@@ -6517,14 +6522,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2479,
+      "Progressed": 2480,
       "Completed": 227
     }
   ],
@@ -6532,8 +6537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:06:35.8329378+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:05:13.2831248+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.0820452+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:01:11.2101205+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:06:35.83299+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:59:46.3483786+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:05:13.2831634+00:00"
 }

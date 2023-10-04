@@ -14,8 +14,8 @@
 | Honorarium of Corporate Service | 66.00% | ~358 |
 | Medal of Exploration II | 60.00% | ~326 |
 | Council Legion of Merit | 58.00% | ~315 |
+| Medal of Honor | 57.00% | ~310 |
 | Turian Ally | 57.00% | ~310 |
-| Medal of Honor | 56.00% | ~304 |
 | Meritorious Service Medal | 56.00% | ~304 |
 | Charismatic | 55.00% | ~299 |
 | Soldier | 54.00% | ~293 |
@@ -61,8 +61,8 @@
 | Agent | 29.00% | ~157 |
 | Revenge! | 29.00% | ~157 |
 | Heart of Darkness | 29.00% | ~157 |
+| Driven | 29.00% | ~157 |
 | Digital Exorcist | 28.00% | ~152 |
-| Driven | 28.00% | ~152 |
 | Focused | 27.00% | ~147 |
 | First Aid Specialist | 27.00% | ~147 |
 | Cat's in the Cradle | 27.00% | ~147 |

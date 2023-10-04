@@ -1298,9 +1298,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6077,
+  "EOS_Progressed": 6078,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10358,6 +10358,11 @@
       "Time": "2023-10-03T23:03:22.3756995+00:00",
       "NumProgressed": 6077,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-04T00:02:15.5795053+00:00",
+      "NumProgressed": 6078,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10377,7 +10382,7 @@
       "Name": "Beam Me Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -10417,7 +10422,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -10505,7 +10510,7 @@
       "Name": "Fit For A King",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -10529,7 +10534,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4194
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -10553,7 +10558,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -10601,7 +10606,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -10609,22 +10614,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6077,
+      "Progressed": 6078,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-02T20:02:16.6358545+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:03:22.3756989+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:02:15.5795048+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:07.6193189+00:00",
-  "LastUpdate_Ratings": "2023-10-03T22:57:21.2740895+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:03:22.3757831+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:57:07.0480089+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:02:15.5795724+00:00"
 }

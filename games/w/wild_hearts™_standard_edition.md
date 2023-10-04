@@ -13,7 +13,7 @@
 | Mountain Splitter | 65.00% | ~61 |
 | Fusion Conjuror | 63.00% | ~59 |
 | Memory Rouser | 63.00% | ~59 |
-| Subsistence Skills | 60.00% | ~56 |
+| Subsistence Skills | 61.00% | ~57 |
 | Master of the Skies | 59.00% | ~55 |
 | Kemono Hunter | 57.00% | ~54 |
 | Distance Devourer | 54.00% | ~51 |

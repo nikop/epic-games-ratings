@@ -3,7 +3,7 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 262,
-  "Ranking_Popularity": 193,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 270,
@@ -1693,9 +1693,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 205839,
+  "EOS_Progressed": 205842,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20528,6 +20528,11 @@
       "Time": "2023-10-03T23:06:00.2998622+00:00",
       "NumProgressed": 205839,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-04T00:04:47.7465722+00:00",
+      "NumProgressed": 205842,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 44,
@@ -20563,7 +20568,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "CompleteMastery",
@@ -20595,7 +20600,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "GearUp",
@@ -20611,7 +20616,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22642
+      "UsersEstimate": 22643
     },
     {
       "ID": "HappyLittleAccidents",
@@ -20627,7 +20632,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "HighFiveTheMoon",
@@ -20691,7 +20696,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "NoGimmicks",
@@ -20859,7 +20864,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -20890,15 +20895,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 205839,
+      "Progressed": 205842,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-01T19:00:51.6484681+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:06:00.2998617+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:04:47.7465717+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:01:25.9815007+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:06:00.3000215+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:59:55.7152306+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:04:47.7466908+00:00"
 }

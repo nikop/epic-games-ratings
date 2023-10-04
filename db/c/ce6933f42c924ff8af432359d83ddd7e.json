@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 4.51,
+  "EOS_Completed_Percentage": 4.49,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -544,6 +544,11 @@
       "Time": "2023-10-03T23:08:49.7286+00:00",
       "NumProgressed": 266,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-04T00:07:18.7107579+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -554,9 +559,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 140,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_CUBES",
@@ -572,7 +577,7 @@
       "Name": "Sweet tooth",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -580,7 +585,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -594,9 +599,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 85,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -604,7 +609,7 @@
       "Name": "Good listener",
       "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -628,20 +633,20 @@
       "Name": "Exit",
       "Percentage": 53,
       "XP": 65,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 12
     }
   ],
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-03T23:08:49.7285995+00:00",
+  "LastChanged_Achievements": "2023-10-04T00:07:18.7107574+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-03T22:59:25.0717608+00:00",
-  "LastUpdate_Achievements": "2023-10-03T23:08:49.7286128+00:00"
+  "LastUpdate_Ratings": "2023-10-03T23:58:32.4267417+00:00",
+  "LastUpdate_Achievements": "2023-10-04T00:07:18.710767+00:00"
 }

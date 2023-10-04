@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.30% | ~2,146 |
 | The Assault | 0.30% | ~2,146 |
 | The Hateful Pole Fighter | 0.30% | ~2,146 |
+| Street Fighting | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
 | State of constant learning | 0.30% | ~2,146 |
 | Qi Gong: Breath | 0.30% | ~2,146 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.20% | ~1,431 |
 | Kill Nil | 0.20% | ~1,431 |
 | Stuntmaster | 0.20% | ~1,431 |
-| Street Fighting | 0.20% | ~1,431 |
 | Qi Gong: Mind | 0.20% | ~1,431 |
 | Qi Gong: Essence | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
@@ -236,14 +236,14 @@ Completed: 12,908 (1.80%) (Ranked 112)
 | 2023-10-03 | 715,479 | 12,908 |
 ## Awards
 Max (Great Boss Battles): 6,629  (Ranked 54)  
-Sum: 11,482 (Ranked 82)  
+Sum: 11,483 (Ranked 82)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,629 |
 | This game has Diverse Characters | 616 |
 | This game has Challenging Combat | 573 |
-| This game has Amazing Storytelling | 559 |
+| This game has Amazing Storytelling | 560 |
 | This game has Quickly Understood Controls | 556 |
 | This game is Extremely Fun | 549 |
 | This game has Amazing Characters | 548 |
@@ -514,4 +514,4 @@ Diff (max vs sum): -28
 | 2023-09-30 | 4.82 | - | 6,615 | 11,448 |
 | 2023-10-01 | 4.82 | - | 6,623 | 11,460 |
 | 2023-10-02 | 4.82 | - | 6,629 | 11,474 |
-| 2023-10-03 | 4.82 | - | 6,629 | 11,482 |
+| 2023-10-03 | 4.82 | - | 6,629 | 11,483 |

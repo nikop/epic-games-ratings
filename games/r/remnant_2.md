@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,079 |
-| The Killing Jar | 8.00% | ~15,181 |
+| First of Many | 9.00% | ~17,080 |
+| The Killing Jar | 8.00% | ~15,182 |
 | Expanding Horizons | 7.00% | ~13,284 |
 | Quest for Survival | 7.00% | ~13,284 |
 | Not Your Average Trait | 7.00% | ~13,284 |
@@ -16,14 +16,14 @@ Rating: 4.76 (Ranked 118)
 | Duality | 6.00% | ~11,386 |
 | Boss'n Up | 6.00% | ~11,386 |
 | Trait Chaser | 6.00% | ~11,386 |
-| Not So Special Now | 5.00% | ~9,488 |
-| Equal Measures | 5.00% | ~9,488 |
-| Blue Goddess | 5.00% | ~9,488 |
-| Top Performer | 5.00% | ~9,488 |
-| Shhh...It's a Secret | 5.00% | ~9,488 |
-| Almost There | 5.00% | ~9,488 |
-| Make Some Room | 5.00% | ~9,488 |
-| Good, But Could Be Better! | 5.00% | ~9,488 |
+| Not So Special Now | 5.00% | ~9,489 |
+| Equal Measures | 5.00% | ~9,489 |
+| Blue Goddess | 5.00% | ~9,489 |
+| Top Performer | 5.00% | ~9,489 |
+| Shhh...It's a Secret | 5.00% | ~9,489 |
+| Almost There | 5.00% | ~9,489 |
+| Make Some Room | 5.00% | ~9,489 |
+| Good, But Could Be Better! | 5.00% | ~9,489 |
 | Chaos | 4.00% | ~7,591 |
 | Traitor | 4.00% | ~7,591 |
 | Forever is a Long Time Coming | 4.00% | ~7,591 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 118)
 | Edgelord | 3.00% | ~5,693 |
 | The Ultimate Weapon | 3.00% | ~5,693 |
 | No One Should Have All That Power | 3.00% | ~5,693 |
-| Crafty | 2.00% | ~3,795 |
-| Only Human | 2.00% | ~3,795 |
-| Red Room | 2.00% | ~3,795 |
-| The Collector | 2.00% | ~3,795 |
-| Scrap Hoarder | 2.00% | ~3,795 |
-| Carnage in C-Minor | 2.00% | ~3,795 |
-| Maxed Out! | 2.00% | ~3,795 |
-| Transmutate | 2.00% | ~3,795 |
+| Crafty | 2.00% | ~3,796 |
+| Only Human | 2.00% | ~3,796 |
+| Red Room | 2.00% | ~3,796 |
+| The Collector | 2.00% | ~3,796 |
+| Scrap Hoarder | 2.00% | ~3,796 |
+| Carnage in C-Minor | 2.00% | ~3,796 |
+| Maxed Out! | 2.00% | ~3,796 |
+| Transmutate | 2.00% | ~3,796 |
 | The Trigger | 1.00% | ~1,898 |
 | Cutting Edge | 1.00% | ~1,898 |
 | Proving Grounds | 1.00% | ~1,898 |
 | Ghost in the Machine | 0.90% | ~1,708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,767 (Ranked 65)  
+Progressed: 189,775 (Ranked 66)  
 Completed: 357 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 357 (0.19%) (Ranked 218)
 | 2023-10-01 | 188,949 | 350 |
 | 2023-10-02 | 189,383 | 353 |
 | 2023-10-03 | 189,767 | 357 |
+| 2023-10-04 | 189,775 | 357 |
 ## Awards
 Max (Great Boss Battles): 1,760  (Ranked 117)  
 Sum: 3,717 (Ranked 154)  

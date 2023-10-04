@@ -24,13 +24,13 @@
 | Evangelist | 5.00% | ~64 |
 | Make It Your Own! | 4.00% | ~51 |
 | I Make the Rules! | 4.00% | ~51 |
+| Spoilt for Choice | 3.00% | ~38 |
 | Cherry Blossom and Temples | 3.00% | ~38 |
 | La Dolce Vita | 3.00% | ~38 |
 | The Road to Liberty | 3.00% | ~38 |
 | Romantic Races | 3.00% | ~38 |
 | Still Here | 3.00% | ~38 |
 | Iconic! | 2.00% | ~26 |
-| Spoilt for Choice | 2.00% | ~26 |
 | Back in Blighty | 2.00% | ~26 |
 | Rounding Off | 2.00% | ~26 |
 | My Work Here Is Done | 2.00% | ~26 |

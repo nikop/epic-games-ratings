@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,098 |
-| Let There Be Light | 34.00% | ~22,746 |
-| Float Like a Butterfly | 33.00% | ~22,077 |
-| Nordic Walking | 27.00% | ~18,063 |
-| Bright Falls' Finest | 26.00% | ~17,394 |
-| Under a Thin Layer of Skin | 23.00% | ~15,387 |
-| Park Ranger | 19.00% | ~12,711 |
-| Paging Mr. Wake | 19.00% | ~12,711 |
-| Back! Back, I Say! | 18.00% | ~12,042 |
-| Finders Keepers | 18.00% | ~12,042 |
+| Follow the Light | 42.00% | ~28,099 |
+| Let There Be Light | 34.00% | ~22,747 |
+| Float Like a Butterfly | 33.00% | ~22,078 |
+| Nordic Walking | 27.00% | ~18,064 |
+| Bright Falls' Finest | 26.00% | ~17,395 |
+| Under a Thin Layer of Skin | 23.00% | ~15,388 |
+| Park Ranger | 19.00% | ~12,712 |
+| Paging Mr. Wake | 19.00% | ~12,712 |
+| Back! Back, I Say! | 18.00% | ~12,043 |
+| Finders Keepers | 18.00% | ~12,043 |
 | They're Heeeeeere! | 16.00% | ~10,704 |
 | Sound and Fury | 16.00% | ~10,704 |
 | Missed by a Mile | 16.00% | ~10,704 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 10.00% | ~6,690 |
 | Tornado Wrangler | 9.00% | ~6,021 |
 | Departure | 8.00% | ~5,352 |
-| A Friend in Need | 8.00% | ~2,429 |
+| A Friend in Need | 8.00% | ~2,430 |
 | Hardboiled Writer | 7.00% | ~4,683 |
 | Children of the Elder God | 6.00% | ~4,014 |
 | Drink 'Em Both Up | 6.00% | ~4,014 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,899 (Ranked 91)  
+Progressed: 66,903 (Ranked 91)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-10-01 | 66,719 | 66 |
 | 2023-10-02 | 66,805 | 67 |
 | 2023-10-03 | 66,899 | 67 |
+| 2023-10-04 | 66,903 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

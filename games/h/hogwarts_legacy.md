@@ -10,9 +10,9 @@ Rating: 4.76 (Ranked 118)
 | Troll with the Punches | 13.00% | ~38,711 |
 | A Keen Sense of Spell | 12.00% | ~35,733 |
 | That's a Keeper | 12.00% | ~35,733 |
-| The Defender of Dragons | 11.00% | ~32,755 |
-| Loom for Improvement | 11.00% | ~32,755 |
-| A Talent for Spending | 11.00% | ~32,755 |
+| The Defender of Dragons | 11.00% | ~32,756 |
+| Loom for Improvement | 11.00% | ~32,756 |
+| A Talent for Spending | 11.00% | ~32,756 |
 | Grappling with a Graphorn | 10.00% | ~29,778 |
 | The One Who Mastered Memories | 10.00% | ~29,778 |
 | The Hallowed Hero | 10.00% | ~29,778 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,777 (Ranked 46)  
+Progressed: 297,778 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,9 +218,10 @@ Completed: 480 (0.16%) (Ranked 226)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
+| 2023-10-04 | 297,778 | 480 |
 ## Awards
 Max (Character Customization): 23,249  (Ranked 17)  
-Sum: 44,963 (Ranked 31)  
+Sum: 44,966 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +231,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 1,104 |
 | This game has Diverse Characters | 1,089 |
 | This game is Relaxing | 1,086 |
-| This game is Extremely Fun | 1,078 |
+| This game is Extremely Fun | 1,081 |
 | This game has Amazing Characters | 1,052 |
 | This game is Highly Recommended | 1,047 |
 | This game has Quickly Understood Controls | 983 |
@@ -432,4 +433,4 @@ Diff (max vs sum): -14
 | 2023-09-30 | 4.76 | 23,160 | 44,692 |
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
 | 2023-10-02 | 4.76 | 23,221 | 44,874 |
-| 2023-10-03 | 4.76 | 23,249 | 44,963 |
+| 2023-10-03 | 4.76 | 23,249 | 44,966 |
