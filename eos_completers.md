@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.28% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.19% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.15% |
@@ -62,7 +62,7 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.26% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -89,15 +89,15 @@
 | 87 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
 | 88 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
-| 90 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.70% |
-| 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
-| 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
+| 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
+| 91 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
+| 92 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.56% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 95 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 96 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.39% |
-| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
+| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
 | 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
 | 101 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.31% |
@@ -105,7 +105,7 @@
 | 103 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 104 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.08% |
 | 105 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
-| 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.94% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
