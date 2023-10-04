@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,773,892 | 4.29 | 818 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 562,966 | 4.48 | 609 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 308,734 | 4.68 | 243 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 236,069 | 4.68 | 243 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 236,715 | 4.68 | 243 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 204,740 | 4.19 | 889 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 183,084 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 149,475 | 4.51 | 552 |
@@ -125,7 +125,7 @@
 | 123 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,522 | 4.79 | 93 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,516 | 4.62 | 356 |
 | 125 | [Ring of Pain](games/r/ring_of_pain.md) | 1,497 | 4.58 | 436 |
-| 126 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,480 | 4.55 | 491 |
+| 126 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,487 | 4.55 | 491 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,475 | 4.54 | 509 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,471 | 4.86 | 30 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,458 | 4.53 | 522 |
@@ -134,7 +134,7 @@
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,323 | 4.70 | 204 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,295 | 4.55 | 491 |
 | 134 | [DOOM 64](games/d/doom_64.md) | 1,294 | 4.66 | 282 |
-| 135 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,235 | 4.61 | 371 |
+| 135 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,241 | 4.61 | 371 |
 | 136 | [OUTRIDERS](games/o/outriders.md) | 1,218 | 4.42 | 688 |
 | 137 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,202 | 4.69 | 221 |
 | 138 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,186 | 4.63 | 336 |

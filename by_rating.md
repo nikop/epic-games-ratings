@@ -252,7 +252,7 @@
 | 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,964 | 83 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,566 | 78 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 308,734 | 3 |
-| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 236,069 | 4 |
+| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 236,715 | 4 |
 | 243 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 526 |
 | 243 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 526 |
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 568 | 192 |
@@ -382,7 +382,7 @@
 | 371 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 28 | 475 |
 | 371 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 526 |
 | 371 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 526 |
-| 371 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,235 | 135 |
+| 371 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,241 | 135 |
 | 371 | [MudRunner](games/m/mudrunner.md) | 4.61 | 267 | 252 |
 | 371 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 526 |
 | 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 526 |
@@ -493,7 +493,7 @@
 | 491 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 526 |
 | 491 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 526 |
 | 491 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 526 |
-| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,480 | 126 |
+| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,487 | 126 |
 | 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 90 | 359 |
 | 491 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 451 |
 | 491 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 282 | 247 |
