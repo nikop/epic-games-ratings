@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1236,18 +1236,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1674,
       "NumberOfAwardsMax": 1322
+    },
+    {
+      "Time": "2023-10-04T02:57:40.2654548+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1675,
+      "NumberOfAwardsMax": 1323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1674,
-  "NumberOfAwardsMax": 1322,
+  "NumberOfAwards": 1675,
+  "NumberOfAwardsMax": 1323,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1322
+      "Count": 1323
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1328,9 +1334,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428304,
+  "EOS_Progressed": 428305,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12528,6 +12534,11 @@
       "Time": "2023-10-04T01:50:26.4275519+00:00",
       "NumProgressed": 428304,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-10-04T03:07:31.276053+00:00",
+      "NumProgressed": 428305,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 41,
@@ -12555,7 +12566,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256982
+      "UsersEstimate": 256983
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12595,7 +12606,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128491
+      "UsersEstimate": 128492
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -12619,7 +12630,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256982
+      "UsersEstimate": 256983
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12651,7 +12662,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132774
+      "UsersEstimate": 132775
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12707,7 +12718,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406889
+      "UsersEstimate": 406890
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12723,7 +12734,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308379
+      "UsersEstimate": 308380
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -12731,7 +12742,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158472
+      "UsersEstimate": 158473
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -12755,7 +12766,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342643
+      "UsersEstimate": 342644
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -12795,7 +12806,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141340
+      "UsersEstimate": 141341
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -12819,7 +12830,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239850
+      "UsersEstimate": 239851
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -12835,7 +12846,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145623
+      "UsersEstimate": 145624
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -12851,7 +12862,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132774
+      "UsersEstimate": 132775
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -12866,15 +12877,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428304,
+      "Progressed": 428305,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-09-30T01:38:57.1543788+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:23:59.1918579+00:00",
+  "LastChanged": "2023-10-04T02:57:40.2654546+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:07:31.2760525+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:38.1163954+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:14:52.8040147+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:23:59.1919615+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:57:40.265455+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:07:31.2761536+00:00"
 }

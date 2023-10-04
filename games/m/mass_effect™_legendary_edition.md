@@ -30,11 +30,11 @@
 | Merciless | 45.00% | ~245 |
 | Scientist | 45.00% | ~245 |
 | Head Hunter | 42.00% | ~228 |
+| Missing in Action | 41.00% | ~223 |
 | Very Elusive | 41.00% | ~223 |
 | Operative | 41.00% | ~223 |
 | Scholar | 41.00% | ~223 |
 | Veteran | 40.00% | ~218 |
-| Missing in Action | 40.00% | ~218 |
 | Power Full | 38.00% | ~207 |
 | The Professor | 37.00% | ~201 |
 | Completionist | 36.00% | ~196 |
@@ -53,6 +53,7 @@
 | A Personal Touch | 30.00% | ~163 |
 | Battlemaster | 30.00% | ~163 |
 | The Cure | 30.00% | ~163 |
+| Heart of Darkness | 30.00% | ~163 |
 | Shopaholic | 30.00% | ~163 |
 | Catharsis | 29.00% | ~158 |
 | Fade Away | 29.00% | ~158 |
@@ -60,7 +61,6 @@
 | Big Game Hunter | 29.00% | ~158 |
 | Agent | 29.00% | ~158 |
 | Revenge! | 29.00% | ~158 |
-| Heart of Darkness | 29.00% | ~158 |
 | Driven | 29.00% | ~158 |
 | Digital Exorcist | 28.00% | ~152 |
 | Bringer of War | 28.00% | ~152 |

@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 165,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -40,16 +40,22 @@
       "Rating": 4.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-04T03:00:14.6252942+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5547,
+  "EOS_Progressed": 5548,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 710,
-  "EOS_NewCompleters": 10,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -2301,6 +2307,11 @@
       "Time": "2023-10-04T02:22:25.442811+00:00",
       "NumProgressed": 5547,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-04T03:05:37.7530087+00:00",
+      "NumProgressed": 5548,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2313,7 +2324,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "achievement_01_02",
@@ -2337,7 +2348,7 @@
       "Name": "Bzzzt",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "achievement_01_05",
@@ -2361,7 +2372,7 @@
       "Name": "Car Workshop",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "achievement_01_08",
@@ -2369,7 +2380,7 @@
       "Name": "Trophy Collector",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "achievement_01_09",
@@ -2561,7 +2572,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "achievement_04_04",
@@ -2601,7 +2612,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4604
+      "UsersEstimate": 4605
     },
     {
       "ID": "achievement_04_09",
@@ -2616,16 +2627,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5547,
+      "Progressed": 5548,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2023-10-03T03:00:04.7310035+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:22:25.4428105+00:00",
+  "LastChanged": "2023-10-04T03:00:14.6252939+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:05:37.7530082+00:00",
   "LastUpdate_AppInfo": "2023-09-28T16:57:18.0697002+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:16:57.5753881+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:22:25.4428574+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:00:14.6252954+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:05:37.7530517+00:00"
 }

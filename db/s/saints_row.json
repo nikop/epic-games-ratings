@@ -3732,7 +3732,7 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73677,
+  "EOS_Progressed": 73679,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 1,
@@ -22422,6 +22422,11 @@
       "Time": "2023-10-04T02:23:39.5300949+00:00",
       "NumProgressed": 73677,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-04T03:07:07.3910487+00:00",
+      "NumProgressed": 73679,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 53,
@@ -22465,7 +22470,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8104
+      "UsersEstimate": 8105
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -22481,7 +22486,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18419
+      "UsersEstimate": 18420
     },
     {
       "ID": "complet_epilogue_mission",
@@ -22489,7 +22494,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "complete_all_of_wanted",
@@ -22513,7 +22518,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "complete_final_mission",
@@ -22521,7 +22526,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11789
     },
     {
       "ID": "complete_first_side_hustle",
@@ -22545,7 +22550,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33891
+      "UsersEstimate": 33892
     },
     {
       "ID": "customize_a_vehicle",
@@ -22553,7 +22558,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24313
+      "UsersEstimate": 24314
     },
     {
       "ID": "customize_a_weapon",
@@ -22609,7 +22614,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18419
+      "UsersEstimate": 18420
     },
     {
       "ID": "empire_tier_3",
@@ -22633,7 +22638,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "first_building_placed",
@@ -22689,7 +22694,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11789
     },
     {
       "ID": "infinite_boost_refill",
@@ -22729,7 +22734,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25050
+      "UsersEstimate": 25051
     },
     {
       "ID": "one_third_purple",
@@ -22817,7 +22822,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30944
+      "UsersEstimate": 30945
     },
     {
       "ID": "whole_map_purple",
@@ -22856,13 +22861,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73677,
+      "Progressed": 73679,
       "Completed": 50
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 45314,
+      "Progressed": 45316,
       "Completed": 4012
     }
   ],
@@ -22870,8 +22875,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-01T18:03:15.1951631+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:23:39.5300943+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:07:07.3910478+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.2297525+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:14:56.0541387+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:23:39.5302513+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:57:43.7345888+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:07:07.3912138+00:00"
 }

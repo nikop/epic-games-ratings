@@ -314,9 +314,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 223616,
+  "EOS_Progressed": 223618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1973,
+  "EOS_NewPlayers": 1966,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8489,6 +8489,11 @@
       "Time": "2023-10-04T02:22:20.9334841+00:00",
       "NumProgressed": 223616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T03:05:32.2178312+00:00",
+      "NumProgressed": 223618,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8557,7 +8562,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46959
+      "UsersEstimate": 46960
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8565,7 +8570,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20125
+      "UsersEstimate": 20126
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8597,7 +8602,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6708
+      "UsersEstimate": 6709
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -8772,7 +8777,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 223616,
+      "Progressed": 223618,
       "Completed": 0
     }
   ],
@@ -8780,8 +8785,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-03T17:00:16.6237307+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:22:20.9334833+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:05:32.2178307+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:16:07.9202245+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:22:20.9335571+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:59:13.7155151+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:05:32.2179072+00:00"
 }

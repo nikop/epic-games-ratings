@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70512,
+  "EOS_Progressed": 70514,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -18559,6 +18559,11 @@
       "Time": "2023-10-04T02:24:14.3312838+00:00",
       "NumProgressed": 70512,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-10-04T03:08:09.4797067+00:00",
+      "NumProgressed": 70514,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 24,
@@ -18586,7 +18591,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 47948
+      "UsersEstimate": 47950
     },
     {
       "ID": "BEST_FRIENDS",
@@ -18602,7 +18607,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18333
+      "UsersEstimate": 18334
     },
     {
       "ID": "ERADICATE",
@@ -18618,7 +18623,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19038
+      "UsersEstimate": 19039
     },
     {
       "ID": "FOXIN_AROUND",
@@ -18626,7 +18631,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20448
+      "UsersEstimate": 20449
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -18634,7 +18639,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -18642,7 +18647,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12692
+      "UsersEstimate": 12693
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -18650,7 +18655,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37371
+      "UsersEstimate": 37372
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -18722,7 +18727,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7756
+      "UsersEstimate": 7757
     },
     {
       "ID": "SPIRIT_FORM",
@@ -18746,7 +18751,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -18761,7 +18766,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70512,
+      "Progressed": 70514,
       "Completed": 374
     }
   ],
@@ -18769,8 +18774,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:24:14.3312833+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:08:09.4797062+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.2012891+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:20:05.3503929+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:24:14.33141+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:03:10.5193059+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:08:09.4798279+00:00"
 }

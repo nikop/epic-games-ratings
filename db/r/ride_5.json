@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2204,6 +2204,11 @@
       "Time": "2023-10-04T01:47:36.4032097+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T03:04:12.3619387+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2216,7 +2221,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2224,7 +2229,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2288,7 +2293,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2392,7 +2397,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2408,7 +2413,7 @@
       "Name": "Exhausted but Happy",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -2504,7 +2509,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2568,7 +2573,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2607,14 +2612,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:21:14.4884249+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:04:12.3619382+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:17:57.1468628+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:21:14.4884855+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:01:31.2958002+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:04:12.3619918+00:00"
 }

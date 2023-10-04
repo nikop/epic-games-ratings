@@ -7656,9 +7656,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 803577,
+  "EOS_Progressed": 803578,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26236,6 +26236,11 @@
       "Time": "2023-10-04T02:20:41.4633158+00:00",
       "NumProgressed": 803577,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T03:03:56.5792176+00:00",
+      "NumProgressed": 803578,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26727,7 +26732,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160715
+      "UsersEstimate": 160716
     },
     {
       "ID": "RevenantOfLedechko",
@@ -26767,7 +26772,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160715
+      "UsersEstimate": 160716
     },
     {
       "ID": "SerialKiller",
@@ -26783,7 +26788,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88393
+      "UsersEstimate": 88394
     },
     {
       "ID": "Sniper",
@@ -26855,7 +26860,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88393
+      "UsersEstimate": 88394
     },
     {
       "ID": "TrialAndError",
@@ -26902,15 +26907,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 803577,
+      "Progressed": 803578,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-03T20:01:26.8040492+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:20:41.4633152+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:03:56.5792172+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:20.9607732+00:00",
   "LastUpdate_Ratings": "2023-10-04T02:17:59.2089608+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:20:41.4635103+00:00"
+  "LastUpdate_Achievements": "2023-10-04T03:03:56.5793919+00:00"
 }

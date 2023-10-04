@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,10 +494,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528548,
-  "EOS_Completed": 479,
+  "EOS_Progressed": 528549,
+  "EOS_Completed": 480,
   "EOS_NewPlayers": 422,
-  "EOS_NewCompleters": 0,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -18294,6 +18294,11 @@
       "Time": "2023-10-04T02:21:11.1494773+00:00",
       "NumProgressed": 528548,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-10-04T03:04:08.2747956+00:00",
+      "NumProgressed": 528549,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 57,
@@ -18561,7 +18566,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179706
+      "UsersEstimate": 179707
     },
     {
       "ID": "4",
@@ -18649,7 +18654,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179706
+      "UsersEstimate": 179707
     },
     {
       "ID": "5",
@@ -18681,7 +18686,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243132
+      "UsersEstimate": 243133
     },
     {
       "ID": "53",
@@ -18760,15 +18765,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528548,
-      "Completed": 479
+      "Progressed": 528549,
+      "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:21:11.1494766+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:04:08.274795+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:16:53.7749868+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:21:11.1496365+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:00:09.4933238+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:04:08.2749512+00:00"
 }

@@ -2170,9 +2170,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41160,
+  "EOS_Progressed": 41161,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20135,6 +20135,11 @@
       "Time": "2023-10-04T02:22:03.3575622+00:00",
       "NumProgressed": 41160,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-04T03:05:11.0307919+00:00",
+      "NumProgressed": 41161,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20154,7 +20159,7 @@
       "Name": "Unholy Bones",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "achievements_11",
@@ -20170,7 +20175,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9878
+      "UsersEstimate": 9879
     },
     {
       "ID": "achievements_13",
@@ -20178,7 +20183,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23461
+      "UsersEstimate": 23462
     },
     {
       "ID": "achievements_14",
@@ -20194,7 +20199,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19345
+      "UsersEstimate": 19346
     },
     {
       "ID": "achievements_17",
@@ -20250,7 +20255,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24696
+      "UsersEstimate": 24697
     },
     {
       "ID": "achievements_24",
@@ -20258,7 +20263,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 22638
+      "UsersEstimate": 22639
     },
     {
       "ID": "achievements_25",
@@ -20274,7 +20279,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17287
+      "UsersEstimate": 17288
     },
     {
       "ID": "achievements_27",
@@ -20282,7 +20287,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "achievements_28",
@@ -20330,7 +20335,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "achievements_33",
@@ -20338,7 +20343,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11936
+      "UsersEstimate": 11937
     },
     {
       "ID": "achievements_34",
@@ -20362,7 +20367,7 @@
       "Name": "Grand Arena",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "achievements_37",
@@ -20450,7 +20455,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 34986
+      "UsersEstimate": 34987
     },
     {
       "ID": "achievements_47",
@@ -20506,7 +20511,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17287
+      "UsersEstimate": 17288
     },
     {
       "ID": "achievements_53",
@@ -20514,7 +20519,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23461
+      "UsersEstimate": 23462
     },
     {
       "ID": "achievements_54",
@@ -20570,7 +20575,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "achievements_61",
@@ -20722,7 +20727,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30047
+      "UsersEstimate": 30048
     },
     {
       "ID": "achievements_8",
@@ -20745,15 +20750,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41160,
+      "Progressed": 41161,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-02T15:00:18.2821908+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:22:03.3575617+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:05:11.0307913+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.3710119+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:17:50.4606919+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:22:03.3577586+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:01:21.2813542+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:05:11.0309961+00:00"
 }

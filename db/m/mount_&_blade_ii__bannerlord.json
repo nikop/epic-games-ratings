@@ -7677,7 +7677,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62648,
+  "EOS_Progressed": 62649,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
@@ -25377,6 +25377,11 @@
       "Time": "2023-10-04T01:47:21.9471043+00:00",
       "NumProgressed": 62648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T03:03:55.376293+00:00",
+      "NumProgressed": 62649,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25795,15 +25800,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62648,
+      "Progressed": 62649,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-03T20:00:41.5615829+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:20:40.5694238+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:03:55.3762926+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:17:24.5293698+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:20:40.569556+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:00:50.0234517+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:03:55.3764213+00:00"
 }

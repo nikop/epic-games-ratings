@@ -13,16 +13,16 @@ Rating: 4.61 (Ranked 371)
 | Cannon Fodder | 61.00% | ~459 |
 | Autofire | 59.00% | ~444 |
 | Raise the Stakes | 56.00% | ~422 |
+| True Believer | 56.00% | ~422 |
 | Story Teller | 55.00% | ~414 |
-| True Believer | 55.00% | ~414 |
 | Surgeon | 52.00% | ~392 |
 | Exterminator | 50.00% | ~376 |
 | Greenhouse Effect | 50.00% | ~376 |
 | Freeze | 49.00% | ~369 |
 | Full Arsenal | 44.00% | ~331 |
 | S.O.S. | 42.00% | ~316 |
+| Live with the Hot Ones | 41.00% | ~309 |
 | Get Off My Ship! | 41.00% | ~309 |
-| Live with the Hot Ones | 40.00% | ~301 |
 | Strange Transmissions | 40.00% | ~301 |
 | Wreckage | 39.00% | ~294 |
 | Keeper of the Faith | 36.00% | ~271 |

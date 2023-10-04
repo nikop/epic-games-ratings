@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 753,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2296,9 +2296,9 @@
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_22",
@@ -2528,9 +2528,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_6",
@@ -2577,8 +2577,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:24:04.3589013+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:07:37.3922696+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:15:59.4085999+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:24:04.3589517+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:59:02.5442528+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:07:37.3923232+00:00"
 }

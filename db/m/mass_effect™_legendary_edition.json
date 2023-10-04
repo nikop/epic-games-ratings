@@ -1576,9 +1576,9 @@
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_37",
@@ -1944,9 +1944,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_79",
@@ -2148,8 +2148,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T02:21:33.3159066+00:00",
+  "LastChanged_Achievements": "2023-10-04T03:04:35.1931893+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:16:22.2226333+00:00",
-  "LastUpdate_Achievements": "2023-10-04T02:21:33.3161272+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:59:30.4019735+00:00",
+  "LastUpdate_Achievements": "2023-10-04T03:04:35.1934153+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,667 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,668 |
 | First Class Student | 13.00% | ~38,712 |
 | Troll with the Punches | 13.00% | ~38,712 |
 | A Keen Sense of Spell | 12.00% | ~35,734 |
@@ -19,12 +19,12 @@ Rating: 4.76 (Ranked 118)
 | The Hero of Hogwarts | 10.00% | ~29,778 |
 | Challenge Accepted | 10.00% | ~29,778 |
 | Coasting Along | 10.00% | ~29,778 |
-| Followed the Butterflies | 9.00% | ~26,800 |
-| Rising From the Ashes | 9.00% | ~26,800 |
-| The Avenging Gazelle | 8.00% | ~23,822 |
-| A Sallow Grave | 8.00% | ~23,822 |
-| Flight the Good Flight | 8.00% | ~23,822 |
-| The Spell Master | 8.00% | ~23,822 |
+| Followed the Butterflies | 9.00% | ~26,801 |
+| Rising From the Ashes | 9.00% | ~26,801 |
+| The Avenging Gazelle | 8.00% | ~23,823 |
+| A Sallow Grave | 8.00% | ~23,823 |
+| Flight the Good Flight | 8.00% | ~23,823 |
+| The Spell Master | 8.00% | ~23,823 |
 | Beast Friends | 7.00% | ~20,845 |
 | The Seeker of Knowledge | 6.00% | ~17,867 |
 | The Root of the Problem | 6.00% | ~17,867 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 118)
 | The Intrepid Explorer | 4.00% | ~11,911 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,911 |
 | The Wise Owl | 4.00% | ~11,911 |
-| Put Down Roots | 3.00% | ~8,933 |
-| The Auror's Apprentice | 3.00% | ~8,933 |
-| Floo Around the World | 3.00% | ~8,933 |
+| Put Down Roots | 3.00% | ~8,934 |
+| The Auror's Apprentice | 3.00% | ~8,934 |
+| Floo Around the World | 3.00% | ~8,934 |
 | The Good Samaritan | 2.00% | ~5,956 |
 | Rise to the Challenges | 2.00% | ~5,956 |
 | Finishing Touches | 2.00% | ~5,956 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,781 (Ranked 46)  
+Progressed: 297,784 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 480 (0.16%) (Ranked 226)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
-| 2023-10-04 | 297,781 | 480 |
+| 2023-10-04 | 297,784 | 480 |
 ## Awards
 Max (Character Customization): 23,249  (Ranked 17)  
 Sum: 44,972 (Ranked 31)  

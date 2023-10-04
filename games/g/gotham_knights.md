@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,018 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,589 |
+| First Step Into the Knight | 52.00% | ~38,019 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,590 |
 | Loose Ends | 34.00% | ~24,858 |
-| To the Victor Go the Spoils | 29.00% | ~21,202 |
-| Knighthood | 28.00% | ~20,471 |
+| To the Victor Go the Spoils | 29.00% | ~21,203 |
+| Knighthood | 28.00% | ~20,472 |
 | Get ReQ'd | 25.00% | ~18,278 |
 | Whispered Words | 25.00% | ~18,278 |
 | The Batman Family | 23.00% | ~16,816 |
 | Lock and Key | 23.00% | ~16,816 |
 | Something in the Clay | 21.00% | ~15,354 |
 | Quartzer Life Crisis | 21.00% | ~15,354 |
-| Working Hard or Harley Working? | 20.00% | ~14,622 |
-| Unstoppable Force | 20.00% | ~14,622 |
-| Bad Apples in Every Orchard | 20.00% | ~14,622 |
+| Working Hard or Harley Working? | 20.00% | ~14,623 |
+| Unstoppable Force | 20.00% | ~14,623 |
+| Bad Apples in Every Orchard | 20.00% | ~14,623 |
 | Snow Problem | 19.00% | ~13,891 |
 | The Show Mud Go On | 18.00% | ~13,160 |
 | From Inside Gotham's Walls | 18.00% | ~13,160 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 898)
 | Seeking Asylum | 14.00% | ~10,236 |
 | Not On My Watch | 13.00% | ~9,505 |
 | Shock Til They Drop | 13.00% | ~9,505 |
-| End of an Era | 12.00% | ~8,773 |
-| Bulldozed | 12.00% | ~8,773 |
-| Gotham Knight | 12.00% | ~8,773 |
+| End of an Era | 12.00% | ~8,774 |
+| Bulldozed | 12.00% | ~8,774 |
+| Gotham Knight | 12.00% | ~8,774 |
 | Gotham City Confidential | 11.00% | ~8,042 |
 | Drone You Out | 10.00% | ~7,311 |
 | Out of Their League | 9.00% | ~6,580 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 898)
 | Family Meeting | 6.00% | ~4,387 |
 | A Worthy Successor | 6.00% | ~4,387 |
 | Expert Crime Fighter | 5.00% | ~3,656 |
-| Dressed to Impress | 4.00% | ~2,924 |
+| Dressed to Impress | 4.00% | ~2,925 |
 | A Momentum Occasion | 3.00% | ~2,193 |
 | Bat Out of Hell | 3.00% | ~2,193 |
 | Practice Makes Perfect | 2.00% | ~1,462 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 898)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,112 (Ranked 87)  
+Progressed: 73,113 (Ranked 87)  
 Completed: 122 (0.17%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 122 (0.17%) (Ranked 224)
 | 2023-10-01 | 73,024 | 121 |
 | 2023-10-02 | 73,059 | 121 |
 | 2023-10-03 | 73,099 | 122 |
-| 2023-10-04 | 73,112 | 122 |
+| 2023-10-04 | 73,113 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,782  (Ranked 97)  
 Sum: 4,655 (Ranked 140)  
