@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 906,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -416,10 +416,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-10-04T23:00:17.4316564+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
+  "NumberOfAwards": 66,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -439,7 +445,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -454,8 +460,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-10-04T01:43:41.82947+00:00",
+  "LastChanged": "2023-10-04T23:00:17.4316563+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.1835182+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:01:32.1942048+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:08:00.7138636+00:00"
+  "LastUpdate_Ratings": "2023-10-04T23:00:17.4316568+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:06:29.6849986+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3860,9 +3860,9 @@
       "ID": "STB_DEFEAT_ARMADILLO",
       "SetID": "3pe2bac",
       "Name": "No more holding back",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 468
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -4237,8 +4237,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:08:55.4050581+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:07:08.1644535+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.0821049+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:01:41.1683571+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:08:55.4051375+00:00"
+  "LastUpdate_Ratings": "2023-10-04T23:00:22.7387596+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:07:08.1645433+00:00"
 }

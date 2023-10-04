@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 670252,
+  "EOS_Progressed": 670258,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1848,
+  "EOS_NewPlayers": 1845,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21039,6 +21039,11 @@
       "Time": "2023-10-04T22:06:32.0321086+00:00",
       "NumProgressed": 670252,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-04T23:05:28.0777339+00:00",
+      "NumProgressed": 670258,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21050,7 +21055,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 536202
+      "UsersEstimate": 536206
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21138,7 +21143,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241291
+      "UsersEstimate": 241293
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -21290,7 +21295,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 207778
+      "UsersEstimate": 207780
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -21354,7 +21359,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100538
+      "UsersEstimate": 100539
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -21450,7 +21455,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120645
+      "UsersEstimate": 120646
     },
     {
       "ID": "RP_TRUSTED",
@@ -21481,15 +21486,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 670252,
+      "Progressed": 670258,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:06:32.032108+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:05:28.0777335+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:00.9118199+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:02:20.0276934+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:06:32.0323056+00:00"
+  "LastUpdate_Ratings": "2023-10-04T23:00:49.760635+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:05:28.0779014+00:00"
 }

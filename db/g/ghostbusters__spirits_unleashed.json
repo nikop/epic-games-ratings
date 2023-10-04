@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2298,9 +2298,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26205,
+  "EOS_Progressed": 26208,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14213,6 +14213,11 @@
       "Time": "2023-10-04T22:07:04.8431364+00:00",
       "NumProgressed": 26205,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-04T23:05:51.1007161+00:00",
+      "NumProgressed": 26208,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14294,9 +14299,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Diabolical",
@@ -14470,9 +14475,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Rivalry",
@@ -14526,9 +14531,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 524
     },
     {
       "ID": "Summoner",
@@ -14631,7 +14636,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26205,
+      "Progressed": 26208,
       "Completed": 58
     }
   ],
@@ -14639,8 +14644,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-04T19:58:36.9198367+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:07:04.8431358+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:05:51.1007149+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:58:29.6408015+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:07:04.8432704+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:58:16.2117773+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:05:51.1008279+00:00"
 }

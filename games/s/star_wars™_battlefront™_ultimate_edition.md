@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~390 |
-| Off to a good start | 66.00% | ~283 |
+| New Recruit | 90.00% | ~387 |
+| Off to a good start | 66.00% | ~284 |
 | Do... or do not. There is no try | 51.00% | ~219 |
 | A good blaster at your side | 34.00% | ~146 |
-| Scrap collector | 22.00% | ~94 |
+| Scrap collector | 22.00% | ~95 |
 | All right, I'll give it a try | 20.00% | ~86 |
 | Great shot, kid! | 19.00% | ~82 |
 | I suggest a new strategy | 18.00% | ~77 |
@@ -17,7 +17,7 @@
 | Shoot first | 17.00% | ~73 |
 | Collector | 15.00% | ~64 |
 | Survivor | 13.00% | ~56 |
-| Best star-pilot in the galaxy | 12.00% | ~51 |
+| Best star-pilot in the galaxy | 12.00% | ~52 |
 | Tell Jabba that I've got his money | 11.00% | ~47 |
 | What's the cargo? | 10.00% | ~43 |
 | Never tell me the odds! | 10.00% | ~43 |
@@ -32,11 +32,11 @@
 | Not bad for a little furball | 6.00% | ~26 |
 | Patience you must have | 6.00% | ~26 |
 | Don't underestimate the Force | 6.00% | ~26 |
-| I've been waiting for you | 5.00% | ~21 |
-| When 900 years old you reach... | 5.00% | ~21 |
-| Determined | 5.00% | ~21 |
-| Your journey has only started | 5.00% | ~21 |
-| That's no moon | 5.00% | ~21 |
+| I've been waiting for you | 5.00% | ~22 |
+| When 900 years old you reach... | 5.00% | ~22 |
+| Determined | 5.00% | ~22 |
+| Your journey has only started | 5.00% | ~22 |
+| That's no moon | 5.00% | ~22 |
 | The Force is strong with this one | 4.00% | ~17 |
 | Precision shot | 4.00% | ~17 |
 | Safety ain't the point of a joyride | 4.00% | ~17 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 281)  
+Progressed: 430 (Ranked 280)  
 Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.23%) (Ranked 211)
 | 2023-10-01 | 379 | 1 |
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
-| 2023-10-04 | 429 | 1 |
+| 2023-10-04 | 430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

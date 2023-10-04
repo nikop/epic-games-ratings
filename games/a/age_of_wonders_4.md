@@ -21,6 +21,7 @@ Rating: 4.60 (Ranked 396)
 | Full Ascension | 5.00% | ~260 |
 | My Final Form | 5.00% | ~260 |
 | In a Liege of Your Own | 5.00% | ~260 |
+| Fiery Friend | 5.00% | ~260 |
 | Impenetrable Fortress | 5.00% | ~260 |
 | Here be Dragons | 5.00% | ~260 |
 | Blood of the Dragon | 5.00% | ~260 |
@@ -29,7 +30,6 @@ Rating: 4.60 (Ranked 396)
 | Enchanted Archipelago | 4.00% | ~208 |
 | Digging for Treasure | 4.00% | ~208 |
 | Preparation Is Everything | 4.00% | ~208 |
-| Fiery Friend | 4.00% | ~208 |
 | Against the Odds | 4.00% | ~208 |
 | God Emperor | 3.00% | ~156 |
 | Lord of Chaos | 3.00% | ~156 |

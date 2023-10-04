@@ -9,15 +9,15 @@ Rating: 4.50 (Ranked 573)
 | Vanquisher of Robots | 76.00% | ~326 |
 | Party | 49.00% | ~210 |
 | Impossible Cube | 47.00% | ~202 |
-| Knowledge is Power | 44.00% | ~189 |
+| Knowledge is Power | 45.00% | ~193 |
 | Through the Darkness | 43.00% | ~184 |
 | No Mercy | 42.00% | ~180 |
 | The Return of a Rat | 42.00% | ~180 |
 | Fat of the Earth | 36.00% | ~154 |
 | Last Man Standing | 32.00% | ~137 |
 | He's Seen It All | 28.00% | ~120 |
+| Great Hero | 28.00% | ~120 |
 | Catch Jonathan_tostar | 27.00% | ~116 |
-| Great Hero | 27.00% | ~116 |
 | Rookie | 27.00% | ~116 |
 | Campaigning | 26.00% | ~112 |
 | Assemble a Meganewbie | 25.00% | ~107 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 573)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 281)  
+Progressed: 429 (Ranked 282)  
 Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

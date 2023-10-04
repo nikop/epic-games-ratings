@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18573,
+  "EOS_Progressed": 18574,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -13757,6 +13757,11 @@
       "Time": "2023-10-04T22:06:18.7682656+00:00",
       "NumProgressed": 18573,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-04T23:05:18.7087832+00:00",
+      "NumProgressed": 18574,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -13768,7 +13773,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14487
+      "UsersEstimate": 14488
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -13840,7 +13845,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -13848,7 +13853,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "ACH_THE_FALL",
@@ -13879,15 +13884,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18573,
+      "Progressed": 18574,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:06:18.7682649+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:05:18.7087823+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.1558571+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:59:32.0773989+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:06:18.7684091+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:58:55.9926642+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:05:18.7089167+00:00"
 }

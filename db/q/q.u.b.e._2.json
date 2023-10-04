@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -350,9 +350,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2310,6 +2310,11 @@
       "Time": "2023-10-04T22:04:55.6855404+00:00",
       "NumProgressed": 568,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T23:04:19.7755626+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2338,7 +2343,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2490,7 +2495,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_PROPELL",
@@ -2514,7 +2519,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_S4",
@@ -2522,7 +2527,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_S5",
@@ -2553,15 +2558,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:04:55.6855398+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:04:19.7755622+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:01:18.2649698+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:04:55.6855791+00:00"
+  "LastUpdate_Ratings": "2023-10-04T23:00:08.4043447+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:04:19.7755964+00:00"
 }

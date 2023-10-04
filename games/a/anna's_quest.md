@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Escape artist | 84.00% | ~42 |
 | Book Worm | 66.00% | ~33 |
-| Ooh, it's shiny! | 62.00% | ~31 |
+| Ooh, it's shiny! | 64.00% | ~32 |
 | My lost nightingale | 56.00% | ~28 |
 | Through the woods | 52.00% | ~26 |
 | Back to the anvil | 46.00% | ~23 |
@@ -30,9 +30,9 @@
 | Memories | 32.00% | ~16 |
 | Beekeeper | 32.00% | ~16 |
 | Ring-a-ding-ding | 32.00% | ~16 |
+| Pain in the hands | 32.00% | ~16 |
 | Mischief maker | 32.00% | ~16 |
 | Close the deal | 30.00% | ~15 |
-| Pain in the hands | 30.00% | ~15 |
 | Turn the last page | 28.00% | ~14 |
 | Singstar | 28.00% | ~14 |
 | Makeover | 26.00% | ~13 |
@@ -42,7 +42,7 @@
 | Cameodalic | 20.00% | ~10 |
 | Clever reference #451 | 18.00% | ~9 |
 | What a mess | 16.00% | ~8 |
-| Posterboy! | 12.00% | ~6 |
+| Posterboy! | 14.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 431)  
 Completed: 5 (10.00%) (Ranked 32)  

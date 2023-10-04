@@ -33,8 +33,8 @@ Rating: 4.82 (Ranked 64)
 | Full equipped | 22.00% | ~572 |
 | Glyndemere | 21.00% | ~546 |
 | Whispers in the Woods II | 18.00% | ~468 |
+| No more holding back | 18.00% | ~468 |
 | Quickmoore Headquarters | 18.00% | ~468 |
-| No more holding back | 17.00% | ~442 |
 | Terbisia | 17.00% | ~442 |
 | Whispers in the Woods III | 16.00% | ~416 |
 | Friendly fire | 16.00% | ~416 |

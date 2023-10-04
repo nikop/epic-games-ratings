@@ -24,15 +24,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.10% | ~197 |
 | Thieves of the Coven | 0.10% | ~197 |
 | Sticky Fingers | 0.10% | ~197 |
+| Hither of the Feywild | 0.10% | ~197 |
 | Don't Breathe the Marsh Gas | 0.10% | ~197 |
 | Don't Blast the Brigands | 0.10% | ~197 |
 | Don't Squeeze the Spiders | 0.10% | ~197 |
 | The Spire of Iriolarthas | 0.10% | ~197 |
 | Always Watching | 0.10% | ~197 |
 | The Fall of Ythryn | 0.10% | ~197 |
+| A Lesson in Classes | 0.10% | ~197 |
+| The Prince of a Thousand Enemies | 0.10% | ~197 |
 | Uncommon Allies | 0.10% | ~197 |
 | The Birds | 0.10% | ~197 |
 | Where the Magic Happens | 0.10% | ~197 |
+| Downfall | 0.10% | ~197 |
 | First Third Out | 0.10% | ~197 |
 | Second Third Out | 0.10% | ~197 |
 | Third Third Out | 0.10% | ~197 |
@@ -45,11 +49,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.10% | ~197 |
 | Beast Intentions | 0.10% | ~231 |
 | Wet Feet | 0.10% | ~231 |
+| Underdark Chill | 0.10% | ~197 |
+| The Alien Underdark | 0.10% | ~197 |
 | Brains on Ice | 0.10% | ~197 |
 | Hatchlings Underfoot | 0.10% | ~231 |
 | The Oozing Hunger | 0.10% | ~197 |
 | The Madness of Zuggtmoy | 0.10% | ~197 |
 | Don't Look Up! | 0.10% | ~231 |
+| The Cult of Lolth | 0.10% | ~197 |
 | Head over Heals | 0.10% | ~197 |
 | The Demon Lords of the Abyss | 0.10% | ~197 |
 | Will of the Feywild | 0.10% | ~197 |
@@ -67,6 +74,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.10% | ~231 |
 | Seeds of Destruction | 0.10% | ~197 |
 | Owlbear Necessities | 0.10% | ~197 |
+| The Evacuation of Waterdeep | 0.10% | ~197 |
+| Flapjacks and Waffles | 0.10% | ~197 |
 | On the Hunt | 0.10% | ~231 |
 | Vecna Lives! | 0.10% | ~197 |
 | Overwhelmed with Knowledge | 0.10% | ~197 |
@@ -79,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.10% | ~197 |
 | Keep Your Distance | 0.10% | ~197 |
 | Heatwave | 0.10% | ~197 |
+| To Avernus in a Handbasket | 0.10% | ~197 |
 | Hands Off! | 0.10% | ~197 |
 | Weak Doesn't Mean Feeble | 0.10% | ~197 |
 | Frail Doesn't Mean Broken | 0.10% | ~197 |
@@ -112,9 +122,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.10% | ~197 |
 | Welcome to the Band | 0.10% | ~197 |
 | Beast Mode | 0.10% | ~231 |
+| The Forbidden City | 0.10% | ~231 |
 | Terror in the Dark | 0.10% | ~231 |
 | No Good at All | 0.10% | ~231 |
 | Fall From Grace | 0.10% | ~231 |
+| Double Vision | 0.10% | ~231 |
 | Underground Railroad | 0.10% | ~231 |
 | Low Initiative | 0.10% | ~231 |
 | A Mysterious Summons | 0.10% | ~231 |
@@ -126,6 +138,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.10% | ~231 |
 | Sleuth It Out | 0.10% | ~231 |
 | The Newcomers of Notoriety | 0.10% | ~197 |
+| A Grand Puzzle | 0.10% | ~231 |
 | Never Split the Party | 0.10% | ~231 |
 | Azaka's Procession - Part 1 | 0.10% | ~231 |
 | Snakes on our Plane | 0.10% | ~197 |
@@ -137,6 +150,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.10% | ~231 |
 | The Mists of Ravenloft | 0.10% | ~231 |
 | The Hunt for Owl-y | 0.10% | ~231 |
+| Invisible Shadows | 0.10% | ~231 |
 | Werewolves in the Mist | 0.10% | ~231 |
 | Family Entanglements | 0.10% | ~231 |
 | Haunted Fortunes | 0.10% | ~231 |
@@ -150,6 +164,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.10% | ~231 |
 | Domesticated Owlbears | 0.10% | ~231 |
 | This Quest Stinks! | 0.10% | ~197 |
+| The Immortal Warrior | 0.10% | ~231 |
 | Hold for the Red Wizards | 0.10% | ~231 |
 | Form Ranks | 0.10% | ~231 |
 | The Wyrmheart Mine | 0.10% | ~231 |
@@ -162,6 +177,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~231 |
 | The Strahd Squad | 0.10% | ~197 |
 | Trollskull Manor | 0.10% | ~231 |
+| The Gargoyle's Apprentice | 0.10% | ~231 |
 | House of Darkness | 0.10% | ~231 |
 | Home Not So Alone | 0.10% | ~197 |
 | Attack on the Manor | 0.10% | ~231 |
@@ -176,12 +192,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~231 |
 | The Lost Love | 0.10% | ~231 |
 | A Saurial's Lament | 0.10% | ~231 |
+| Spirit of the Trickster Gods | 0.10% | ~197 |
 | Flies on the Wall | 0.10% | ~231 |
 | The Killer Mists | 0.10% | ~231 |
 | Seeking Allies | 0.10% | ~231 |
 | Class Vacation | 0.10% | ~231 |
 | A Nod from Strahd | 0.10% | ~197 |
 | Backtracking Through Barovia | 0.10% | ~231 |
+| Diversity Day-Trip | 0.10% | ~231 |
 | Late Game | 0.10% | ~231 |
 | Shadowfell Stalwarts | 0.10% | ~197 |
 | Nimble Escape | 0.10% | ~231 |
@@ -192,15 +210,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.10% | ~231 |
 | Spined Nuisances | 0.10% | ~231 |
 | Twilight Twist | 0.10% | ~197 |
+| Excavating History | 0.10% | ~231 |
 | Screams of the Dead | 0.10% | ~231 |
 | Frantic Excavation | 0.10% | ~231 |
 | Birds of a Feather | 0.10% | ~197 |
+| Towering Expectations | 0.10% | ~231 |
 | Tanking Expectations | 0.10% | ~197 |
 | Hopelessly Lost | 0.10% | ~231 |
 | Bazaar Exploits | 0.10% | ~231 |
 | Cramped Quarters | 0.10% | ~231 |
 | Flame(skull) War | 0.10% | ~231 |
 | Enter the Sargauth | 0.10% | ~231 |
+| Elder Rune Madness | 0.10% | ~231 |
 | The Madness Grows | 0.10% | ~231 |
 | The Madness Peaks | 0.10% | ~197 |
 | Who Lurks in Lurkwood | 0.10% | ~231 |
@@ -208,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modrons in the Mud | 0.10% | ~231 |
 | And a Pixie in a Pear Treant | 0.10% | ~197 |
 | Orcs Are Wild | 0.10% | ~231 |
+| An Abyssal Situation | 0.10% | ~231 |
 | Dino Nightmare | 0.10% | ~231 |
 | A Familiar Friend | 0.10% | ~197 |
 | Mad Cow Disease | 0.10% | ~231 |
@@ -217,15 +239,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Champions | 0.10% | ~231 |
 | A Tale of Two Years | 0.10% | ~197 |
 | The Dead Three | 0.10% | ~231 |
+| Slow and Steady | 0.10% | ~231 |
 | A Hero's Entourage | 0.10% | ~231 |
 | Sneak Attack | 0.10% | ~197 |
 | Flying Monkey Skulls of Doom | 0.10% | ~231 |
 | Dreams of Beholders | 0.10% | ~231 |
 | Feigned Weakness | 0.10% | ~231 |
 | Waterdeep Under Siege | 0.10% | ~231 |
+| Bregan D'aerthe Comes to Call | 0.10% | ~231 |
 | Sober Up | 0.10% | ~231 |
 | The Sunless Citadel | 0.10% | ~231 |
 | She's Harmless! | 0.10% | ~231 |
+| Patience is Key | 0.10% | ~231 |
 | The Darkness Runs Deeper | 0.10% | ~231 |
 | Troublesome Prisoner | 0.10% | ~231 |
 | Dark Doppelgangers | 0.10% | ~231 |
@@ -289,6 +314,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bel's Forge | 0.10% | ~197 |
 | Extreme Heat | 0.10% | ~197 |
 | Fire and Brimstone | 0.10% | ~197 |
+| A Nightmare Occasion | 0.10% | ~197 |
 | The Prison of Velkynvelve | 0.10% | ~197 |
 | Prisoners of Lolth | 0.10% | ~197 |
 | Escort to Waterdeep | 0.10% | ~231 |
@@ -307,6 +333,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~231 |
 | Easily Distracted | 0.10% | ~231 |
 | Rude Welcome | 0.10% | ~231 |
+| Underdeep Cartography | 0.10% | ~231 |
 | Friendly Imps | 0.10% | ~231 |
 | Moose Tracks | 0.10% | ~197 |
 | An Awakened Axe | 0.10% | ~197 |
@@ -314,6 +341,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~197 |
 | Civilization | 0.10% | ~197 |
 | The Taunting Lord | 0.10% | ~197 |
+| Durable Deep | 0.10% | ~231 |
 | Lone Wolf Party | 0.10% | ~197 |
 | The Sibriex | 0.10% | ~197 |
 | The Archduke's Blessing | 0.10% | ~197 |
@@ -323,14 +351,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.10% | ~231 |
 | Dwarven Rumors | 0.10% | ~197 |
 | Mimic Perception | 0.10% | ~197 |
+| Frozen in Fear | 0.10% | ~197 |
 | It's Cold Out There Today | 0.10% | ~197 |
 | Sunblight | 0.10% | ~197 |
+| Fortress Assault | 0.10% | ~197 |
+| Hats off to you! | 0.10% | ~197 |
 | The Bleeding Citadel | 0.10% | ~197 |
 | Going To Eleven | 0.10% | ~197 |
 | Idyllglen | 0.10% | ~197 |
 | The Madness of Yeenoghu | 0.10% | ~197 |
 | Reya Reborn | 0.10% | ~197 |
 | The Radiant Nightmare | 0.10% | ~197 |
+| Quick Thinking | 0.10% | ~197 |
 | Tough Acting | 0.10% | ~197 |
 | Witty Riposting | 0.10% | ~197 |
 | Waiting on Sunrise | 0.10% | ~197 |
@@ -340,6 +372,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.10% | ~197 |
 | Frozen Vengeance | 0.10% | ~197 |
 | Mimic Vengeance | 0.10% | ~197 |
+| REALLY Frozen Vengeance | 0.10% | ~197 |
 | The Battle of High Hall Tower | 0.10% | ~197 |
 | Elturel's Last Stand | 0.10% | ~197 |
 | Gargauth's Betrayal | 0.10% | ~197 |
@@ -349,6 +382,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stragglers | 0.10% | ~197 |
 | Ending the Rime - Part 1 | 0.10% | ~197 |
 | Ambitious Speakers - Part 1 | 0.10% | ~197 |
+| Ending the Rime - Part 2 | 0.10% | ~197 |
 | Reghed Glacier Mysteries | 0.10% | ~197 |
 | Pure Energy | 0.10% | ~231 |
 | Cackling Horror | 0.10% | ~197 |
@@ -361,6 +395,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~197 |
 | The Templar's Camp | 0.10% | ~231 |
 | The Haunted Jungle | 0.10% | ~231 |
+| Poor Guidance | 0.10% | ~231 |
 | Rescue in the Jungle | 0.10% | ~231 |
 | The Court of Storms | 0.10% | ~197 |
 | Coasting to the Finish | 0.10% | ~197 |
@@ -377,6 +412,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rocky Reception | 0.10% | ~197 |
 | Luigi After Hours | 0.10% | ~197 |
 | Rock and Roll | 0.10% | ~197 |
+| Electric Mayhem | 0.10% | ~197 |
 | Flight of the Kindori Pod | 0.10% | ~197 |
 | 3,720 to 1 | 0.10% | ~197 |
 | Topolah's Tower | 0.10% | ~197 |
@@ -392,27 +428,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.00% | ~0 |
 | Patron Party | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
-| Hither of the Feywild | 0.00% | ~0 |
 | Icequake | 0.00% | ~0 |
-| A Lesson in Classes | 0.00% | ~0 |
-| The Prince of a Thousand Enemies | 0.00% | ~0 |
-| Downfall | 0.00% | ~0 |
 | Slack-jawed Lorna | 0.00% | ~0 |
 | The Dark Heart | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
-| Underdark Chill | 0.00% | ~0 |
-| The Alien Underdark | 0.00% | ~0 |
 | Thoughts on the Menu | 0.00% | ~0 |
 | Levelheaded | 0.00% | ~0 |
 | It's So Pretty… | 0.00% | ~0 |
-| The Cult of Lolth | 0.00% | ~0 |
 | Speed Demons | 0.00% | ~0 |
 | The Howling Peaks of Yon | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
-| The Evacuation of Waterdeep | 0.00% | ~0 |
-| Flapjacks and Waffles | 0.00% | ~0 |
 | Best Thay Ever | 0.00% | ~0 |
-| To Avernus in a Handbasket | 0.00% | ~0 |
 | The Dread Domain of Tovag | 0.00% | ~0 |
 | The Castle of a Thousand Vecnas | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
@@ -422,40 +448,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Love Unsoiled | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
-| The Forbidden City | 0.00% | ~0 |
 | Periodic Petrification | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
 | Home Field Advantage | 0.00% | ~0 |
-| Double Vision | 0.00% | ~0 |
-| A Grand Puzzle | 0.00% | ~0 |
-| Invisible Shadows | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
-| The Immortal Warrior | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
-| The Gargoyle's Apprentice | 0.00% | ~0 |
 | Treasure Hunters | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | A Saurial's Resolve | 0.00% | ~0 |
-| Spirit of the Trickster Gods | 0.00% | ~0 |
-| Diversity Day-Trip | 0.00% | ~0 |
 | Distracted Escape | 0.00% | ~0 |
 | From The Shadows | 0.00% | ~0 |
-| Excavating History | 0.00% | ~0 |
 | Premature Betrayal | 0.00% | ~0 |
-| Towering Expectations | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| Elder Rune Madness | 0.00% | ~0 |
-| An Abyssal Situation | 0.00% | ~0 |
-| Slow and Steady | 0.00% | ~0 |
 | Lair of the Xanathar | 0.00% | ~0 |
 | DPS in the Deeps | 0.00% | ~0 |
-| Bregan D'aerthe Comes to Call | 0.00% | ~0 |
 | In The Beginning | 0.00% | ~0 |
 | Crowded Streets | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
@@ -463,7 +475,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Evergreens with an Evergreen | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | The Tallest of Kobolds | 0.00% | ~0 |
-| Patience is Key | 0.00% | ~0 |
 | Faerûn's Most Neglected | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
 | Vault of Cuteness | 0.00% | ~0 |
@@ -486,29 +497,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.00% | ~0 |
 | Into the Unknown | 0.00% | ~0 |
 | A Tenday at Golgamann's | 0.00% | ~0 |
-| A Nightmare Occasion | 0.00% | ~0 |
 | Prisoners of Unknown Choices | 0.00% | ~0 |
 | Mirage Arcane | 0.00% | ~0 |
-| Underdeep Cartography | 0.00% | ~0 |
 | Overdue Rendezvous | 0.00% | ~0 |
 | Trench Coat Run | 0.00% | ~0 |
-| Durable Deep | 0.00% | ~0 |
 | Relentless Peril | 0.00% | ~0 |
-| Frozen in Fear | 0.00% | ~0 |
-| Fortress Assault | 0.00% | ~0 |
-| Hats off to you! | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
-| Quick Thinking | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Visions of Hornfirth | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Ending the Rime - Part 2 | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Mysteries Unlocked | 0.00% | ~0 |
@@ -520,11 +522,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
-| Poor Guidance | 0.00% | ~0 |
 | Overwhelming Force | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
-| Electric Mayhem | 0.00% | ~0 |
 | Krux's Speed Run | 0.00% | ~0 |
 | The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
 | To Infinity's and Beyond | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,898 (Ranked 56)  
+Progressed: 230,902 (Ranked 56)  
 Completed: 2,329 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -702,7 +702,7 @@ Completed: 2,329 (1.01%) (Ranked 136)
 | 2023-10-01 | 230,655 | 2,320 |
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
-| 2023-10-04 | 230,898 | 2,329 |
+| 2023-10-04 | 230,902 | 2,329 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

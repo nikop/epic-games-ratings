@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,673 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,674 |
 | First Class Student | 13.00% | ~38,717 |
 | Troll with the Punches | 13.00% | ~38,717 |
 | A Keen Sense of Spell | 12.00% | ~35,739 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 118)
 | Flight the Good Flight | 8.00% | ~23,826 |
 | The Spell Master | 8.00% | ~23,826 |
 | Beast Friends | 7.00% | ~20,848 |
-| The Seeker of Knowledge | 6.00% | ~17,869 |
-| The Root of the Problem | 6.00% | ~17,869 |
-| Third Time's a Charm | 6.00% | ~17,869 |
-| Raising Expectations | 6.00% | ~17,869 |
+| The Seeker of Knowledge | 6.00% | ~17,870 |
+| The Root of the Problem | 6.00% | ~17,870 |
+| Third Time's a Charm | 6.00% | ~17,870 |
+| Raising Expectations | 6.00% | ~17,870 |
 | The Ends Petrify the Means | 5.00% | ~14,891 |
 | The Toast of the Town | 4.00% | ~11,913 |
 | Going Through the Potions | 4.00% | ~11,913 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,823 (Ranked 46)  
+Progressed: 297,825 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,16 +218,16 @@ Completed: 480 (0.16%) (Ranked 224)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
-| 2023-10-04 | 297,823 | 480 |
+| 2023-10-04 | 297,825 | 480 |
 ## Awards
 Max (Character Customization): 23,277  (Ranked 17)  
-Sum: 45,042 (Ranked 31)  
+Sum: 45,048 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,277 |
 | This game has Great Boss Battles | 11,567 |
-| This game is Great for Beginners | 1,135 |
+| This game is Great for Beginners | 1,141 |
 | This game has Amazing Storytelling | 1,109 |
 | This game has Diverse Characters | 1,093 |
 | This game is Relaxing | 1,092 |
@@ -434,4 +434,4 @@ Diff (max vs sum): -14
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
 | 2023-10-02 | 4.76 | 23,221 | 44,874 |
 | 2023-10-03 | 4.76 | 23,249 | 44,966 |
-| 2023-10-04 | 4.76 | 23,277 | 45,042 |
+| 2023-10-04 | 4.76 | 23,277 | 45,048 |

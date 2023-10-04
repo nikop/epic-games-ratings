@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10931,9 +10931,9 @@
       "Count": 25070
     }
   ],
-  "EOS_Progressed": 919150,
+  "EOS_Progressed": 919208,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13443,
+  "EOS_NewPlayers": 13439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29901,6 +29901,11 @@
       "Time": "2023-10-04T22:05:48.5891399+00:00",
       "NumProgressed": 919150,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T23:04:57.6548676+00:00",
+      "NumProgressed": 919208,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30080,7 +30085,7 @@
       "Name": "Zealous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ACH_023",
@@ -30088,15 +30093,15 @@
       "Name": "It wakes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ACH_024",
       "SetID": "bdmlp8o",
       "Name": "Not half bad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 2758
     },
     {
       "ID": "ACH_025",
@@ -30216,7 +30221,7 @@
       "Name": "Skillful",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ACH_040",
@@ -31680,7 +31685,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "ACH_226",
@@ -31743,21 +31748,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 919150,
+      "Progressed": 919208,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 919150,
+      "Progressed": 919208,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-04T14:58:35.8729279+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:05:48.5891394+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:04:57.6548671+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:59:00.3840864+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:05:48.58977+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:58:35.3602121+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:04:57.6556248+00:00"
 }

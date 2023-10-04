@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.30% | ~43 |
 | Strong | 0.30% | ~43 |
 | Hanging Gardens | 0.30% | ~43 |
+| Ishtar Gate | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
-| Ishtar Gate | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
 | Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |

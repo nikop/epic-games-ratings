@@ -5,21 +5,21 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,751 |
-| On the Top Step | 88.00% | ~2,576 |
-| Setting up for Success | 77.00% | ~2,254 |
-| Team Orders | 74.00% | ~2,166 |
+| Getting on the Step | 94.00% | ~2,752 |
+| On the Top Step | 88.00% | ~2,577 |
+| Setting up for Success | 77.00% | ~2,255 |
+| Team Orders | 74.00% | ~2,167 |
 | Engineer | 55.00% | ~1,610 |
 | Familiar Faces | 48.00% | ~1,405 |
 | Going the Extra Mile | 43.00% | ~1,259 |
 | Sharing the Love | 40.00% | ~1,171 |
-| Hitting a Season | 35.00% | ~1,024 |
+| Hitting a Season | 35.00% | ~1,025 |
 | Challenge Yourself | 33.00% | ~966 |
-| Making History | 31.00% | ~907 |
+| Making History | 31.00% | ~908 |
 | A Dozen Pieces | 30.00% | ~878 |
 | Network Success | 25.00% | ~732 |
-| Spring Cleaning | 24.00% | ~702 |
-| Writing a new Chapter | 24.00% | ~702 |
+| Spring Cleaning | 24.00% | ~703 |
+| Writing a new Chapter | 24.00% | ~703 |
 | Reduce | 19.00% | ~556 |
 | Ups and Downs | 19.00% | ~556 |
 | Crucial Combo | 17.00% | ~498 |
@@ -36,7 +36,7 @@ Rating: 4.66 (Ranked 281)
 | Spinning Around | 11.00% | ~322 |
 | Tinkerer | 11.00% | ~322 |
 | Switcheroo | 10.00% | ~293 |
-| Friendly Competition | 9.00% | ~263 |
+| Friendly Competition | 9.00% | ~264 |
 | Undisputed Winner | 8.00% | ~234 |
 | For all Those Back at the Factory | 6.00% | ~176 |
 | Living up to Expectations | 6.00% | ~176 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,927 (Ranked 189)  
+Progressed: 2,928 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
 | 2023-10-03 | 2,894 | 0 |
-| 2023-10-04 | 2,927 | 0 |
+| 2023-10-04 | 2,928 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

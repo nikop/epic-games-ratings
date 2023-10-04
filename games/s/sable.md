@@ -6,12 +6,12 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,476 |
-| Just The Two of Us | 32.00% | ~29,624 |
+| Simoon | 34.00% | ~31,477 |
+| Just The Two of Us | 32.00% | ~29,625 |
 | Up On High | 25.00% | ~23,144 |
 | Under The Hood | 25.00% | ~23,144 |
-| Got Your Nose | 24.00% | ~22,218 |
-| The Gift of Gab | 24.00% | ~22,218 |
+| Got Your Nose | 24.00% | ~22,219 |
+| The Gift of Gab | 24.00% | ~22,219 |
 | Wrapping Up | 22.00% | ~20,367 |
 | More Than A Box Of Sand | 18.00% | ~16,664 |
 | The Dunboyne | 17.00% | ~15,738 |
@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~14,812 |
 | Sticky Paws | 16.00% | ~14,812 |
 | Bubble Up | 16.00% | ~14,812 |
-| Thread The Needle | 15.00% | ~13,886 |
+| Thread The Needle | 15.00% | ~13,887 |
 | Power to the People | 14.00% | ~12,961 |
 | Take That! | 13.00% | ~12,035 |
 | Nesting Giant | 13.00% | ~12,035 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~12,035 |
 | Badge Collector | 12.00% | ~11,109 |
 | Quite The Catch | 12.00% | ~11,109 |
-| Rowleys Way | 11.00% | ~10,183 |
+| Rowleys Way | 11.00% | ~10,184 |
 | The Machinist Mask | 10.00% | ~9,258 |
 | The Cartographer Mask | 10.00% | ~9,258 |
 | Balfron Connection | 10.00% | ~9,258 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,777 |
 | Vivacious Vivarium | 2.00% | ~1,852 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,576 (Ranked 79)  
+Progressed: 92,578 (Ranked 79)  
 Completed: 932 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 932 (1.01%) (Ranked 136)
 | 2023-10-01 | 92,199 | 929 |
 | 2023-10-02 | 92,315 | 931 |
 | 2023-10-03 | 92,454 | 931 |
-| 2023-10-04 | 92,576 | 932 |
+| 2023-10-04 | 92,578 | 932 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 497)  
 Sum: 88 (Ranked 431)  

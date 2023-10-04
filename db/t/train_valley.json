@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1308,9 +1308,9 @@
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "12_roll",
@@ -1548,8 +1548,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:03:29.0177759+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:03:25.8290518+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:01:28.1764764+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:03:29.0178171+00:00"
+  "LastUpdate_Ratings": "2023-10-04T23:00:15.3689508+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:03:25.8290924+00:00"
 }

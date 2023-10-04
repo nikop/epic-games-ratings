@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_3",
@@ -421,17 +421,17 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "aq_achievement_36",
       "SetID": "7jh86ne",
       "Name": "Posterboy!",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "aq_achievement_37",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:07:56.9448313+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:06:27.0543724+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:43.6753242+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:57:51.4109685+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:07:56.9448648+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:57:50.6592206+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:06:27.0544087+00:00"
 }

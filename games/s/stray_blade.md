@@ -17,16 +17,16 @@
 | Nothing but the Truth | 16.00% | ~14 |
 | The Golden Flash | 13.00% | ~12 |
 | The Power of the Mountains | 13.00% | ~12 |
+| Locked and Loaded | 11.00% | ~10 |
 | Changing the World | 11.00% | ~10 |
-| Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
 | The A-Team | 10.00% | ~9 |
 | Craftsmen | 8.00% | ~7 |
+| Defeat Tezuth | 8.00% | ~7 |
 | Defeat Uskol | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Finally! | 8.00% | ~7 |
 | Mirror, Mirror on the Wall | 7.00% | ~6 |
-| Defeat Tezuth | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Ancient Powers | 6.00% | ~5 |

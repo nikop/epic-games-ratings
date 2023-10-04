@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -314,7 +314,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 223804,
+  "EOS_Progressed": 223810,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1986,
   "EOS_NewCompleters": 0,
@@ -8589,6 +8589,11 @@
       "Time": "2023-10-04T22:06:13.2114241+00:00",
       "NumProgressed": 223804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T23:05:14.8575074+00:00",
+      "NumProgressed": 223810,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8657,7 +8662,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46999
+      "UsersEstimate": 47000
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8665,7 +8670,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20142
+      "UsersEstimate": 20143
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8793,7 +8798,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15666
+      "UsersEstimate": 15667
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -8857,7 +8862,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55951
+      "UsersEstimate": 55952
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8872,7 +8877,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 223804,
+      "Progressed": 223810,
       "Completed": 0
     }
   ],
@@ -8880,8 +8885,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-03T17:00:16.6237307+00:00",
-  "LastChanged_Achievements": "2023-10-04T22:06:13.2114236+00:00",
+  "LastChanged_Achievements": "2023-10-04T23:05:14.8575067+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:59:58.0488183+00:00",
-  "LastUpdate_Achievements": "2023-10-04T22:06:13.2115113+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:59:15.2696699+00:00",
+  "LastUpdate_Achievements": "2023-10-04T23:05:14.8575831+00:00"
 }

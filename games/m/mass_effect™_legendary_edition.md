@@ -19,8 +19,8 @@
 | Turian Ally | 56.00% | ~310 |
 | Charismatic | 55.00% | ~305 |
 | Soldier | 54.00% | ~299 |
+| Medal of Exploration III | 52.00% | ~288 |
 | Asari Ally | 52.00% | ~288 |
-| Medal of Exploration III | 51.00% | ~283 |
 | Principled | 51.00% | ~283 |
 | Soldier Ally | 50.00% | ~277 |
 | Colonial Savior | 48.00% | ~266 |
@@ -33,8 +33,8 @@
 | Very Elusive | 41.00% | ~227 |
 | Operative | 41.00% | ~227 |
 | Scholar | 41.00% | ~227 |
+| Veteran | 40.00% | ~222 |
 | Missing in Action | 40.00% | ~222 |
-| Veteran | 39.00% | ~216 |
 | Power Full | 39.00% | ~216 |
 | The Professor | 37.00% | ~205 |
 | Completionist | 36.00% | ~199 |
@@ -52,11 +52,11 @@
 | The Prodigal | 31.00% | ~172 |
 | A Personal Touch | 30.00% | ~166 |
 | Battlemaster | 30.00% | ~166 |
+| Ghost of the Father | 30.00% | ~166 |
 | The Cure | 30.00% | ~166 |
 | Shopaholic | 30.00% | ~166 |
 | Catharsis | 29.00% | ~161 |
 | Fade Away | 29.00% | ~161 |
-| Ghost of the Father | 29.00% | ~161 |
 | Big Game Hunter | 29.00% | ~161 |
 | Agent | 29.00% | ~161 |
 | Revenge! | 29.00% | ~161 |
