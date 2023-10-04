@@ -3,12 +3,12 @@
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 474,
+  "Ranking_Popularity": 431,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -504,18 +504,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-10-04T14:57:51.5114677+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 40
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -538,9 +544,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2023-10-03T08:03:23.2794697+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:08:35.5911889+00:00",
+  "LastChanged": "2023-10-04T14:57:51.5114675+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:06:58.8475533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:08.0744268+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:57:53.5730778+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:08:35.5911929+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:57:51.511468+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:06:58.8475574+00:00"
 }

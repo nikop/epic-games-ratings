@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74976,
+  "EOS_Progressed": 74978,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -18739,6 +18739,11 @@
       "Time": "2023-10-04T14:08:36.2780543+00:00",
       "NumProgressed": 74976,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2023-10-04T15:06:59.3398506+00:00",
+      "NumProgressed": 74978,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 25,
@@ -18822,7 +18827,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "Hearty",
@@ -18854,7 +18859,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "Meaty",
@@ -18870,7 +18875,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14245
+      "UsersEstimate": 14246
     },
     {
       "ID": "Nice Try",
@@ -18949,7 +18954,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74976,
+      "Progressed": 74978,
       "Completed": 784
     }
   ],
@@ -18957,8 +18962,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:08:36.2780538+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:06:59.3398499+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.9504793+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:59:47.1389106+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:08:36.2781901+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:59:10.7451549+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:06:59.3399769+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,000 |
-| Now You're Talking | 62.00% | ~327,715 |
-| Steel Yourself | 62.00% | ~327,715 |
-| Window Dressing | 50.00% | ~264,286 |
-| Trigger Happy | 46.00% | ~243,143 |
-| Riverborn | 45.00% | ~237,857 |
-| Starry Eyed | 34.00% | ~179,714 |
-| Poking Around | 34.00% | ~179,714 |
-| Talk of the Town | 24.00% | ~126,857 |
+| First Step | 70.00% | ~370,002 |
+| Now You're Talking | 62.00% | ~327,716 |
+| Steel Yourself | 62.00% | ~327,716 |
+| Window Dressing | 50.00% | ~264,287 |
+| Trigger Happy | 46.00% | ~243,144 |
+| Riverborn | 45.00% | ~237,858 |
+| Starry Eyed | 34.00% | ~179,715 |
+| Poking Around | 34.00% | ~179,715 |
+| Talk of the Town | 24.00% | ~126,858 |
 | AAARR! | 23.00% | ~121,572 |
 | Hello Darkness | 23.00% | ~121,572 |
 | Wind At Our Backs | 22.00% | ~116,286 |
-| To the Beat | 20.00% | ~105,714 |
-| Sunny Shores | 17.00% | ~89,857 |
+| To the Beat | 20.00% | ~105,715 |
+| Sunny Shores | 17.00% | ~89,858 |
 | Sunday Best | 16.00% | ~84,572 |
 | To Victory! | 15.00% | ~79,286 |
 | Two of a Kind | 14.00% | ~74,000 |
-| Keep On Trucking | 13.00% | ~68,714 |
+| Keep On Trucking | 13.00% | ~68,715 |
 | Going on an Adventure | 11.00% | ~58,143 |
 | Make Peace, Not War | 11.00% | ~58,143 |
 | Walking The Line | 10.00% | ~52,857 |
 | Not So Cute Anymore | 10.00% | ~52,857 |
-| Road Less Travelled | 9.00% | ~47,571 |
-| Lost and Found | 9.00% | ~47,571 |
+| Road Less Travelled | 9.00% | ~47,572 |
+| Lost and Found | 9.00% | ~47,572 |
 | Under the Radar | 8.00% | ~42,286 |
 | Partner in Crime | 7.00% | ~37,000 |
 | Hard to Hear | 7.00% | ~37,000 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,586 |
 | Point Taken | 0.10% | ~529 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,572 (Ranked 33)  
+Progressed: 528,574 (Ranked 33)  
 Completed: 480 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 480 (0.09%) (Ranked 247)
 | 2023-10-01 | 528,418 | 479 |
 | 2023-10-02 | 528,493 | 479 |
 | 2023-10-03 | 528,543 | 479 |
-| 2023-10-04 | 528,572 | 480 |
+| 2023-10-04 | 528,574 | 480 |
 ## Awards
 Max (Relaxing): 20  (Ranked 522)  
 Sum: 20 (Ranked 522)  

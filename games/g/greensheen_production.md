@@ -7,6 +7,7 @@
 | Paled | 50.00% | ~4 |
 | Schooled | 50.00% | ~4 |
 | Hunger | 50.00% | ~4 |
+| What's in the box?! | 50.00% | ~4 |
 | Signal interruption | 50.00% | ~4 |
 | ...And Stay Dead! | 50.00% | ~4 |
 | Mono Tones | 50.00% | ~4 |
@@ -19,7 +20,6 @@
 | Merciful feat | 38.00% | ~3 |
 | Far Ahead | 38.00% | ~3 |
 | Referee! | 38.00% | ~3 |
-| What's in the box?! | 38.00% | ~3 |
 | Unladylike | 38.00% | ~3 |
 | Half hat | 38.00% | ~3 |
 | Objection | 38.00% | ~3 |
@@ -36,7 +36,7 @@
 | X Best Friends | 38.00% | ~3 |
 | No More Remains | 25.00% | ~2 |
 | School Kids | 25.00% | ~2 |
-| Twenty-Six | 0.00% | ~0 |
+| Twenty-Six | 13.00% | ~1 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 525)  

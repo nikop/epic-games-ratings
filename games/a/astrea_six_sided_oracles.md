@@ -17,7 +17,7 @@
 | Star Killer | 44.00% | ~17 |
 | Anomaly Destroyer | 41.00% | ~16 |
 | Unbeatable | 38.00% | ~15 |
-| Loyal Partner | 33.00% | ~13 |
+| Loyal Partner | 36.00% | ~14 |
 | Sadistic Plan | 26.00% | ~10 |
 | Stellar Haste | 21.00% | ~8 |
 | The Corruption Goddess | 21.00% | ~8 |

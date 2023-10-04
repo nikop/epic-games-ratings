@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7019,
+  "EOS_Progressed": 7020,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5978,6 +5978,11 @@
       "Time": "2023-10-04T14:05:27.0970358+00:00",
       "NumProgressed": 7019,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-04T15:04:43.955508+00:00",
+      "NumProgressed": 7020,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6005,7 +6010,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6061,7 +6066,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -6101,7 +6106,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6141,7 +6146,7 @@
       "Name": "Machiavelli",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -6157,7 +6162,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6181,7 +6186,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6285,7 +6290,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -6301,7 +6306,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -6317,7 +6322,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3860
+      "UsersEstimate": 3861
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6341,14 +6346,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7019,
+      "Progressed": 7020,
       "Completed": 8
     }
   ],
@@ -6356,8 +6361,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:05:27.0970353+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:04:43.9555076+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.2710723+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:02:10.9736627+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:05:27.097105+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:00:46.4155893+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:04:43.9555804+00:00"
 }

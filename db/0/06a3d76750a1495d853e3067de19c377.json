@@ -4,8 +4,8 @@
   "ProductSlug": "mutus-meteora-2ecca5",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-07-17T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T13:57:19.7082409+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:58:34.874251+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:06:18.46187+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:58:21.3357756+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:05:21.0430985+00:00"
 }

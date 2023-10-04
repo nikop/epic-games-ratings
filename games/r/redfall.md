@@ -9,16 +9,16 @@ Rating: 3.54 (Ranked 1,008)
 | Ne Plus Ultra | 1.00% | ~18 |
 | I Like My Stakes Rare! | 1.00% | ~18 |
 | Grounded | 1.00% | ~18 |
-| Fly Fisher | 0.90% | ~16 |
+| Fly Fisher | 1.00% | ~18 |
 | Throw The First Stone | 0.90% | ~16 |
+| Sucks To Be You | 0.90% | ~16 |
 | Wounded Whispers | 0.90% | ~16 |
 | Catch and Release | 0.90% | ~16 |
 | Enter of Your Own Free Will | 0.80% | ~14 |
 | Peek-a-boo | 0.80% | ~14 |
-| Sucks To Be You | 0.80% | ~14 |
+| ICU | 0.80% | ~14 |
 | Home Is Where the Heart Is | 0.70% | ~12 |
 | Welcome to the Neighborhood | 0.70% | ~12 |
-| ICU | 0.70% | ~12 |
 | Heart Attack | 0.70% | ~12 |
 | Skin of Their Teeth | 0.70% | ~12 |
 | Neighborhood Revitalization | 0.60% | ~11 |

@@ -18,9 +18,9 @@
 | Far away from home | 42.00% | ~21 |
 | Sorry Grandpa | 42.00% | ~21 |
 | Roostwig has entered the building | 42.00% | ~21 |
+| Game Over! | 40.00% | ~20 |
+| A very special drink | 40.00% | ~20 |
 | NOW GO AWAY! | 40.00% | ~20 |
-| Game Over! | 38.00% | ~19 |
-| A very special drink | 38.00% | ~19 |
 | Little genius | 38.00% | ~19 |
 | Show me your true self | 36.00% | ~18 |
 | No posters allowed | 36.00% | ~18 |

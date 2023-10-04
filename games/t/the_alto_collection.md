@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,196 |
-| Finding Your Footing | 26.00% | ~10,781 |
-| Nomad | 17.00% | ~7,049 |
-| Picking Up Speed | 16.00% | ~6,635 |
-| Welcome Maya | 15.00% | ~6,220 |
-| Scout | 11.00% | ~4,561 |
-| Sightseer | 11.00% | ~4,561 |
-| Amateur | 9.00% | ~3,732 |
-| Unlock Maya | 8.00% | ~3,317 |
-| Enter Paz | 8.00% | ~3,317 |
-| Wanderer | 8.00% | ~3,317 |
+| Rookie | 27.00% | ~11,198 |
+| Finding Your Footing | 26.00% | ~10,784 |
+| Nomad | 17.00% | ~7,051 |
+| Picking Up Speed | 16.00% | ~6,636 |
+| Welcome Maya | 15.00% | ~6,221 |
+| Scout | 11.00% | ~4,562 |
+| Sightseer | 11.00% | ~4,562 |
+| Amateur | 9.00% | ~3,733 |
+| Unlock Maya | 8.00% | ~3,318 |
+| Enter Paz | 8.00% | ~3,318 |
+| Wanderer | 8.00% | ~3,318 |
 | Aviator | 6.00% | ~2,488 |
-| My Little Friend | 5.00% | ~2,073 |
-| One With The Board | 5.00% | ~2,073 |
-| Voyager | 5.00% | ~2,073 |
+| My Little Friend | 5.00% | ~2,074 |
+| One With The Board | 5.00% | ~2,074 |
+| Voyager | 5.00% | ~2,074 |
 | Izel Has Arrived | 4.00% | ~1,659 |
 | Junkie | 3.00% | ~1,244 |
 | Traveler | 3.00% | ~1,244 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,244 |
 | Human Flight | 3.00% | ~1,244 |
 | Sandboarder | 3.00% | ~1,244 |
-| Explorer | 2.00% | ~829 |
-| Pro | 2.00% | ~829 |
-| Unlock Izel | 2.00% | ~829 |
-| Here Comes Felipe | 2.00% | ~829 |
+| Explorer | 2.00% | ~830 |
+| Pro | 2.00% | ~830 |
+| Unlock Izel | 2.00% | ~830 |
+| Here Comes Felipe | 2.00% | ~830 |
 | Hoist the Mainsail | 1.00% | ~415 |
 | Daredevil | 1.00% | ~415 |
 | Introducing Sumara | 1.00% | ~415 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~41 |
 | Windswept | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,467 (Ranked 104)  
+Progressed: 41,475 (Ranked 104)  
 Completed: 5 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 5 (0.01%) (Ranked 289)
 | 2023-10-01 | 41,220 | 5 |
 | 2023-10-02 | 41,321 | 5 |
 | 2023-10-03 | 41,415 | 5 |
-| 2023-10-04 | 41,467 | 5 |
+| 2023-10-04 | 41,475 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 416)  
 Sum: 364 (Ranked 333)  

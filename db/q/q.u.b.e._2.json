@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 94,
   "RatingHistory": [
     {
@@ -338,6 +338,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-04T15:00:15.0627842+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -346,7 +352,7 @@
   "Tags": [],
   "EOS_Progressed": 562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2486,9 +2492,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_S4",
@@ -2533,9 +2539,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
-  "LastChanged": "2023-10-03T14:59:31.6429715+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:04:57.6923832+00:00",
+  "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:04:22.7069991+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:01:21.8463202+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:04:57.6924276+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:00:15.0627846+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:04:22.7070346+00:00"
 }

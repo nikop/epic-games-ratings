@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1591,9 +1591,9 @@
       "ID": "achievement_36",
       "SetID": "b9pe172",
       "Name": "Missing in Action",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_37",
@@ -1927,9 +1927,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_75",
@@ -1959,9 +1959,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_79",
@@ -2163,8 +2163,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:05:09.3559835+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:04:31.3775459+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:00:18.3291121+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:05:09.3563978+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:59:31.8875401+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:04:31.3778179+00:00"
 }

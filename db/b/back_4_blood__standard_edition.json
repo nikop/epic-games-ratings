@@ -2,13 +2,13 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
     "PcReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -5235,10 +5235,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8017,
       "NumberOfAwardsMax": 3610
+    },
+    {
+      "Time": "2023-10-04T15:00:30.3240444+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8020,
+      "NumberOfAwardsMax": 3610
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8017,
+  "NumberOfAwards": 8020,
   "NumberOfAwardsMax": 3610,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5258,7 +5264,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 600
+      "Count": 601
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5270,7 +5276,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 617
+      "Count": 619
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5302,8 +5308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-10-04T14:01:45.1806231+00:00",
+  "LastChanged": "2023-10-04T15:00:30.3240442+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.6643274+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:01:45.1806235+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:06:52.833255+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:00:30.3240449+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:05:45.5939239+00:00"
 }

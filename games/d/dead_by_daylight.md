@@ -8,10 +8,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~2,755 |
 | No one left behind | 0.20% | ~1,837 |
+| Medic | 0.20% | ~1,837 |
 | Handyman | 0.20% | ~1,837 |
 | Nerves of steel | 0.20% | ~1,837 |
 | Zealous | 0.20% | ~1,837 |
 | Not half bad | 0.20% | ~1,837 |
+| Bloody Millionaire | 0.20% | ~1,837 |
 | Apt Survivor | 0.20% | ~1,837 |
 | Survival Treasures | 0.20% | ~1,837 |
 | Skillful | 0.20% | ~1,837 |
@@ -33,10 +35,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Backdoor Escape | 0.10% | ~918 |
 | The Key to Escape | 0.10% | ~918 |
 | I've got your back | 0.10% | ~918 |
-| Medic | 0.10% | ~918 |
 | Perfect Escape | 0.10% | ~918 |
 | Perfect Killing | 0.10% | ~918 |
-| Bloody Millionaire | 0.10% | ~918 |
 | Gifts for the Fog | 0.10% | ~918 |
 | Apt Killer | 0.10% | ~918 |
 | Risk it all | 0.10% | ~918 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~918 |
 | Adept Ripley | 0.10% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,342 (Ranked 14)  
+Progressed: 918,437 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,10 +403,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,342 | 49 |
+| 2023-10-04 | 918,437 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
-Sum: 259,271 (Ranked 13)  
+Sum: 259,325 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -414,10 +414,10 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 29,629 |
 | This game has Competitive Players | 29,348 |
 | This game has Amazing Characters | 29,307 |
-| This game is Extremely Fun | 28,931 |
+| This game is Extremely Fun | 28,962 |
 | This game has Challenging Combat | 28,538 |
 | This game has Quickly Understood Controls | 28,473 |
-| This game has Amazing Storytelling | 26,561 |
+| This game has Amazing Storytelling | 26,584 |
 | This game has a Competitive Community | 25,070 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -677,4 +677,4 @@ Diff (max vs sum): 2
 | 2023-10-01 | 4.52 | - | 33,343 | 258,607 |
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
-| 2023-10-04 | 4.52 | - | 33,414 | 259,271 |
+| 2023-10-04 | 4.52 | - | 33,414 | 259,325 |

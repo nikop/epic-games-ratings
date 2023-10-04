@@ -4,8 +4,8 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-04T00:00:00+00:00",
     "PcReleaseDate": "2020-11-03T23:00:00+00:00",
@@ -25,9 +25,187 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10000_STEPS",
+      "SetID": "6akbe6n",
+      "Name": "500 calories burned",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30_BEERS",
+      "SetID": "6akbe6n",
+      "Name": "Isn\u0027t it enough?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3_SMOOTHIES",
+      "SetID": "6akbe6n",
+      "Name": "Good Samaritan",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5_DIFFERENT_BEERS",
+      "SetID": "6akbe6n",
+      "Name": "Beer Snob",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALARMCLOCK",
+      "SetID": "6akbe6n",
+      "Name": "True MacGyver",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_HINTS_USED",
+      "SetID": "6akbe6n",
+      "Name": "Cat person Found it hard, did ya?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_LOCATIONS",
+      "SetID": "6akbe6n",
+      "Name": "Inquisitive Is this the end of the road?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ASKED_DWIMB",
+      "SetID": "6akbe6n",
+      "Name": "Dude, Where Is My Beer?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHANGED_CHANNEL",
+      "SetID": "6akbe6n",
+      "Name": "Social disturber",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GIVE_MILK_TO_CAT",
+      "SetID": "6akbe6n",
+      "Name": "Vegan Whiskers",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GLOVE_ON_STREETLIGHT",
+      "SetID": "6akbe6n",
+      "Name": "Heavy Petting Zoo",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIGHTS_10_TIMES",
+      "SetID": "6akbe6n",
+      "Name": "Environmental offender",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOOKED_FOUNTAIN",
+      "SetID": "6akbe6n",
+      "Name": "Free Walking Tour",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MILO_GOES_DOWN",
+      "SetID": "6akbe6n",
+      "Name": "Domino effect",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MY_FIRST_BEER",
+      "SetID": "6akbe6n",
+      "Name": "My first beer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NO_HINTS_USED",
+      "SetID": "6akbe6n",
+      "Name": "True Gamer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPENED_LADY_DOOR_3_TIMES",
+      "SetID": "6akbe6n",
+      "Name": "Perv!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PICKEDUP_BURRITO",
+      "SetID": "6akbe6n",
+      "Name": "Trash hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PORN_ON",
+      "SetID": "6akbe6n",
+      "Name": "Hello!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "READ_ALL_BEER_QUOTES",
+      "SetID": "6akbe6n",
+      "Name": "Wall Reader",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOBER_10_TIMES",
+      "SetID": "6akbe6n",
+      "Name": "Hangover Hero",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCKED_IPHONE",
+      "SetID": "6akbe6n",
+      "Name": "History Buff",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6akbe6n",
@@ -37,8 +215,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:08:56.2589905+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:07:12.853289+00:00",
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.8872575+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:58:03.3922212+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:08:56.2589948+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:57:58.9092536+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:07:12.8943679+00:00"
 }

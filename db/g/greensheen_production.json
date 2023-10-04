@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -93,9 +93,9 @@
       "ID": "CallSix",
       "SetID": "aph8hbk",
       "Name": "Twenty-Six",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteHospital",
@@ -173,9 +173,9 @@
       "ID": "Fridge",
       "SetID": "aph8hbk",
       "Name": "What\u0027s in the box?!",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GameComplete",
@@ -355,8 +355,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:08:28.2699666+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:06:53.454717+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:00:28.9835719+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:08:28.270011+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:59:39.7795165+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:06:53.4547449+00:00"
 }

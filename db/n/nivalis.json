@@ -4,8 +4,8 @@
   "ProductSlug": "nivalis",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:59:54.2963008+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:59:04.6341265+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:03:49.7058597+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:58:40.3032479+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:03:40.9113012+00:00"
 }

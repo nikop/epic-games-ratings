@@ -65,36 +65,36 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.60% | ~823 |
 | Special Ingredient | 0.60% | ~823 |
 | Complete Monopoly | 0.60% | ~823 |
-| Cream of the Crop | 0.50% | ~685 |
-| Top of the World | 0.50% | ~685 |
-| Proud Paladin | 0.50% | ~685 |
-| Above the Norm | 0.50% | ~685 |
-| A Ronin Reborn | 0.50% | ~685 |
-| Thirst for Knowledge | 0.50% | ~685 |
-| Booty by the Boatload | 0.50% | ~685 |
-| Archivist | 0.50% | ~685 |
-| Omae wa Mou Shindeiru | 0.50% | ~685 |
-| Supercharged | 0.50% | ~685 |
-| Ritualist | 0.50% | ~685 |
-| Cranked up to 11 | 0.50% | ~685 |
-| Fit for a King | 0.50% | ~685 |
-| By Your Powers Combined... | 0.50% | ~685 |
-| Wealth Beyond Measure | 0.50% | ~685 |
-| Fat Cat Tag Team | 0.50% | ~685 |
-| Necromancer Queen | 0.50% | ~685 |
-| Item of Renown | 0.50% | ~685 |
-| Master Merchant | 0.50% | ~685 |
-| Laden with Loot | 0.50% | ~685 |
-| Bountiful Harvest | 0.50% | ~685 |
-| Precision Engineering | 0.50% | ~685 |
-| Attrition Mission | 0.50% | ~685 |
-| Glittering Collection | 0.50% | ~685 |
-| Treasure Trove | 0.50% | ~685 |
-| Moment of Respite | 0.50% | ~685 |
-| King's Shadow | 0.50% | ~685 |
-| Master Recycler | 0.50% | ~685 |
-| Exotic Commodities | 0.50% | ~685 |
-| King's Blade | 0.50% | ~685 |
+| Cream of the Crop | 0.50% | ~686 |
+| Top of the World | 0.50% | ~686 |
+| Proud Paladin | 0.50% | ~686 |
+| Above the Norm | 0.50% | ~686 |
+| A Ronin Reborn | 0.50% | ~686 |
+| Thirst for Knowledge | 0.50% | ~686 |
+| Booty by the Boatload | 0.50% | ~686 |
+| Archivist | 0.50% | ~686 |
+| Omae wa Mou Shindeiru | 0.50% | ~686 |
+| Supercharged | 0.50% | ~686 |
+| Ritualist | 0.50% | ~686 |
+| Cranked up to 11 | 0.50% | ~686 |
+| Fit for a King | 0.50% | ~686 |
+| By Your Powers Combined... | 0.50% | ~686 |
+| Wealth Beyond Measure | 0.50% | ~686 |
+| Fat Cat Tag Team | 0.50% | ~686 |
+| Necromancer Queen | 0.50% | ~686 |
+| Item of Renown | 0.50% | ~686 |
+| Master Merchant | 0.50% | ~686 |
+| Laden with Loot | 0.50% | ~686 |
+| Bountiful Harvest | 0.50% | ~686 |
+| Precision Engineering | 0.50% | ~686 |
+| Attrition Mission | 0.50% | ~686 |
+| Glittering Collection | 0.50% | ~686 |
+| Treasure Trove | 0.50% | ~686 |
+| Moment of Respite | 0.50% | ~686 |
+| King's Shadow | 0.50% | ~686 |
+| Master Recycler | 0.50% | ~686 |
+| Exotic Commodities | 0.50% | ~686 |
+| King's Blade | 0.50% | ~686 |
 | Constellated | 0.40% | ~548 |
 | Fillin' the Bin | 0.40% | ~548 |
 | Industrial Evolution | 0.40% | ~548 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,099 (Ranked 72)  
+Progressed: 137,101 (Ranked 72)  
 Completed: 161 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
-| 2023-10-04 | 137,099 | 161 |
+| 2023-10-04 | 137,101 | 161 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
 Sum: 27,328 (Ranked 49)  

@@ -12,6 +12,7 @@ Rating: 4.64 (Ranked 316)
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | First Bounty Down | 0.20% | ~48 |
 | G3 Graduation | 0.20% | ~48 |
+| Hardest Battle In The Game | 0.20% | ~48 |
 | Cold-Blooded Driller | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
 | Don't Knife The Hand That Feeds | 0.20% | ~48 |
@@ -27,7 +28,6 @@ Rating: 4.64 (Ranked 316)
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
 | Legendary Bounty Hunter | 0.10% | ~24 |
-| Hardest Battle In The Game | 0.10% | ~24 |
 | Self-Actualization | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |

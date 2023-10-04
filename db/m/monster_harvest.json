@@ -2,10 +2,10 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.18,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -347,6 +347,11 @@
       "Time": "2023-10-03T13:11:03.3963027+00:00",
       "NumProgressed": 283,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-04T15:04:57.5752283+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 10,
@@ -374,7 +379,7 @@
       "Name": "Green Sheen",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -382,7 +387,7 @@
       "Name": "Let\u0027s Get Fishy!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "MY_FIRST_PLANIMAL",
@@ -390,7 +395,7 @@
       "Name": "My first Planimal!",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -437,7 +442,7 @@
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 9
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:05:46.5402666+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:04:57.5752278+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:30.8035696+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:01:40.6633344+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:05:46.5402863+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:00:27.1300223+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:04:57.575247+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2481,9 +2481,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_027",
@@ -2513,17 +2513,17 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_032",
@@ -2826,8 +2826,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-10-04T14:08:22.5987949+00:00",
+  "LastChanged_Achievements": "2023-10-04T15:06:49.7320435+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.8794547+00:00",
-  "LastUpdate_Ratings": "2023-10-04T14:01:51.7733418+00:00",
-  "LastUpdate_Achievements": "2023-10-04T14:08:22.5988846+00:00"
+  "LastUpdate_Ratings": "2023-10-04T15:00:34.3175671+00:00",
+  "LastUpdate_Achievements": "2023-10-04T15:06:49.7321222+00:00"
 }

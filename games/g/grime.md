@@ -6,12 +6,13 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taste | 0.30% | ~450 |
 | The Hunt | 0.20% | ~300 |
-| Taste | 0.20% | ~300 |
 | Weeper | 0.20% | ~300 |
 | Silenced Whispers | 0.20% | ~300 |
 | Devourer | 0.20% | ~300 |
 | Imprint | 0.20% | ~300 |
+| Ravenous | 0.20% | ~300 |
 | Spiral Heart | 0.10% | ~150 |
 | Bloodhunter | 0.10% | ~150 |
 | Skinmaker | 0.10% | ~150 |
@@ -40,7 +41,6 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.10% | ~150 |
 | Yank | 0.10% | ~150 |
 | Sharpened Vessel | 0.10% | ~150 |
-| Ravenous | 0.10% | ~150 |
 | Unwrap the Gift | 0.10% | ~150 |
 | Passage | 0.10% | ~150 |
 | Dream | 0.10% | ~150 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,091 (Ranked 68)  
+Progressed: 150,113 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-09-30 | 149,649 | 1 |
 | 2023-10-02 | 149,650 | 1 |
 | 2023-10-03 | 149,903 | 1 |
-| 2023-10-04 | 150,091 | 1 |
+| 2023-10-04 | 150,113 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
 Sum: 264 (Ranked 360)  
