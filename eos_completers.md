@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.64% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.60% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
-| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.90% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.53% |
@@ -62,7 +62,7 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.41% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -181,10 +181,10 @@
 | 179 | [Dead Space](games/d/dead_space.md) | 0.40% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 182 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
+| 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 183 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 186 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 187 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 187 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
@@ -647,4 +647,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,338 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,339 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
