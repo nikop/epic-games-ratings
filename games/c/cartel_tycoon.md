@@ -17,8 +17,8 @@ Number of Ratings: 101  (23.09.2022)
 | Safe Pair of Hands | 37.00% | ~226 |
 | Don't Let Mom Know You're A Druglord | 31.00% | ~189 |
 | Architect of Fortunes | 27.00% | ~165 |
+| Pampered Life | 24.00% | ~147 |
 | Bite the Blow | 23.00% | ~141 |
-| Pampered Life | 23.00% | ~141 |
 | Spreading Fear | 9.00% | ~55 |
 | Follow the Money | 7.00% | ~43 |
 | I'm Going To Call You Kitty | 6.00% | ~37 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 611 (Ranked 256)  
-Completed: 2 (0.33%) (Ranked 193)  
+Completed: 2 (0.33%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

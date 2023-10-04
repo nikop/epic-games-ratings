@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,542 |
-| Rough Landing | 4.00% | ~35,542 |
-| Gunslinger | 3.00% | ~26,656 |
-| Master Crafter | 3.00% | ~26,656 |
-| The High Priestess | 3.00% | ~26,656 |
-| The Jungle | 3.00% | ~26,656 |
-| Two Heads, One Bullet | 3.00% | ~26,656 |
+| Ten out of Ten | 4.00% | ~35,543 |
+| Rough Landing | 4.00% | ~35,543 |
+| Gunslinger | 3.00% | ~26,657 |
+| Master Crafter | 3.00% | ~26,657 |
+| The High Priestess | 3.00% | ~26,657 |
+| The Jungle | 3.00% | ~26,657 |
+| Two Heads, One Bullet | 3.00% | ~26,657 |
 | Full Body Conversion | 2.00% | ~17,771 |
 | Right Back At Ya | 2.00% | ~17,771 |
 | Mean Streets | 2.00% | ~17,771 |
@@ -26,19 +26,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 2.00% | ~17,771 |
 | V for Vendetta | 2.00% | ~17,771 |
 | Legend of The Afterlife | 2.00% | ~17,771 |
-| To Bad Decisions! | 1.00% | ~8,885 |
-| Gun Fu | 1.00% | ~8,885 |
-| Christmas Tree Attack | 1.00% | ~8,885 |
-| The Quick and the Dead | 1.00% | ~8,885 |
-| The Devil | 1.00% | ~8,885 |
-| The Fool | 1.00% | ~8,885 |
-| The World | 1.00% | ~8,885 |
-| Judy vs Night City | 1.00% | ~8,885 |
-| It's Elementary | 1.00% | ~8,885 |
+| To Bad Decisions! | 1.00% | ~8,886 |
+| Gun Fu | 1.00% | ~8,886 |
+| Christmas Tree Attack | 1.00% | ~8,886 |
+| The Quick and the Dead | 1.00% | ~8,886 |
+| The Devil | 1.00% | ~8,886 |
+| The Fool | 1.00% | ~8,886 |
+| The World | 1.00% | ~8,886 |
+| Judy vs Night City | 1.00% | ~8,886 |
+| It's Elementary | 1.00% | ~8,886 |
 | Spin Doctor | 0.90% | ~155 |
-| City Lights | 0.80% | ~7,108 |
-| Life of the Road | 0.80% | ~7,108 |
-| Greetings from Pacifica! | 0.80% | ~7,108 |
+| City Lights | 0.80% | ~7,109 |
+| Life of the Road | 0.80% | ~7,109 |
+| Greetings from Pacifica! | 0.80% | ~7,109 |
 | Bushido and Chill | 0.60% | ~5,331 |
 | I Am The Law | 0.60% | ~5,331 |
 | The Wandering Fool | 0.50% | ~4,443 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,545 (Ranked 15)  
-Completed: 2,571 (0.29%) (Ranked 203)  
+Progressed: 888,568 (Ranked 15)  
+Completed: 2,572 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 2,571 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,545 | 2,571 |
+| 2023-10-04 | 888,568 | 2,572 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 262,051 (Ranked 12)  

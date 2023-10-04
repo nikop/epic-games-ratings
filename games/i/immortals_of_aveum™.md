@@ -5,27 +5,27 @@ Rating: 4.03 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~54 |
-| Battlefields Have Memories | 87.00% | ~54 |
-| Enlisted | 87.00% | ~54 |
-| Maybe Engage a Little | 84.00% | ~52 |
-| No More Names | 69.00% | ~43 |
-| Initiate | 63.00% | ~39 |
-| Thrada-Kul | 61.00% | ~38 |
-| Gravity-Challenged Rocks | 52.00% | ~32 |
-| All the Major Food Groups | 44.00% | ~27 |
-| Soldier | 42.00% | ~26 |
+| Unforeseen | 86.00% | ~54 |
+| Battlefields Have Memories | 86.00% | ~54 |
+| Enlisted | 86.00% | ~54 |
+| Maybe Engage a Little | 83.00% | ~52 |
+| No More Names | 68.00% | ~43 |
+| Initiate | 62.00% | ~39 |
+| Thrada-Kul | 60.00% | ~38 |
+| Gravity-Challenged Rocks | 51.00% | ~32 |
+| All the Major Food Groups | 43.00% | ~27 |
+| Soldier | 41.00% | ~26 |
 | Beggars Would Ride | 37.00% | ~23 |
-| Control is an Illusion | 34.00% | ~21 |
+| Control is an Illusion | 33.00% | ~21 |
 | Socialite | 29.00% | ~18 |
 | The Means to Save It | 27.00% | ~17 |
-| Resilience to Sin | 23.00% | ~14 |
-| Armsman | 23.00% | ~14 |
+| Resilience to Sin | 22.00% | ~14 |
+| Armsman | 22.00% | ~14 |
 | A Familiar Nest | 19.00% | ~12 |
 | Geas Aristeya | 19.00% | ~12 |
 | Periapt Alizarin | 19.00% | ~12 |
-| A Perfect Cycle | 18.00% | ~11 |
-| Recruit | 18.00% | ~11 |
+| A Perfect Cycle | 17.00% | ~11 |
+| Recruit | 17.00% | ~11 |
 | Lights Army | 13.00% | ~8 |
 | Armaments Gules | 11.00% | ~7 |
 | Periapt Cerulean | 11.00% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 958)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 416)  
+Progressed: 63 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 51 | 0 |
 | 2023-10-02 | 59 | 0 |
 | 2023-10-03 | 62 | 0 |
+| 2023-10-04 | 63 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

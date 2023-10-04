@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 758,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2359,9 +2359,9 @@
       "ID": "achievement_27",
       "SetID": "222fo9l",
       "Name": "Pack Rat",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_28",
@@ -2575,9 +2575,9 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
@@ -2592,8 +2592,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T09:06:52.2870258+00:00",
+  "LastChanged_Achievements": "2023-10-04T10:06:53.8304721+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:58:57.7279039+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:06:52.2870731+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:58:55.5032085+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:06:53.8305257+00:00"
 }

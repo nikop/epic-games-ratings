@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,087 |
-| The Killing Jar | 8.00% | ~15,189 |
-| Expanding Horizons | 7.00% | ~13,290 |
-| Quest for Survival | 7.00% | ~13,290 |
-| Not Your Average Trait | 7.00% | ~13,290 |
+| First of Many | 9.00% | ~17,088 |
+| The Killing Jar | 8.00% | ~15,190 |
+| Expanding Horizons | 7.00% | ~13,291 |
+| Quest for Survival | 7.00% | ~13,291 |
+| Not Your Average Trait | 7.00% | ~13,291 |
 | Gleaming the Cube | 6.00% | ~11,392 |
 | Not a Janitor | 6.00% | ~11,392 |
 | Familiar Face | 6.00% | ~11,392 |
@@ -24,17 +24,17 @@ Rating: 4.76 (Ranked 118)
 | Almost There | 5.00% | ~9,493 |
 | Make Some Room | 5.00% | ~9,493 |
 | Good, But Could Be Better! | 5.00% | ~9,493 |
-| Chaos | 4.00% | ~7,594 |
-| Traitor | 4.00% | ~7,594 |
-| Forever is a Long Time Coming | 4.00% | ~7,594 |
-| Power Surge | 4.00% | ~7,594 |
-| The God Gambit | 4.00% | ~7,594 |
-| Dark Designs | 4.00% | ~7,594 |
-| Madman's Paradise | 4.00% | ~7,594 |
-| Was This Supposed To Happen? | 4.00% | ~7,594 |
-| The Web | 4.00% | ~7,594 |
-| Scrap Collector | 4.00% | ~7,594 |
-| All These Traits� | 4.00% | ~7,594 |
+| Chaos | 4.00% | ~7,595 |
+| Traitor | 4.00% | ~7,595 |
+| Forever is a Long Time Coming | 4.00% | ~7,595 |
+| Power Surge | 4.00% | ~7,595 |
+| The God Gambit | 4.00% | ~7,595 |
+| Dark Designs | 4.00% | ~7,595 |
+| Madman's Paradise | 4.00% | ~7,595 |
+| Was This Supposed To Happen? | 4.00% | ~7,595 |
+| The Web | 4.00% | ~7,595 |
+| Scrap Collector | 4.00% | ~7,595 |
+| All These Traits� | 4.00% | ~7,595 |
 | Am I Seeing This? | 3.00% | ~5,696 |
 | The Agenda | 3.00% | ~5,696 |
 | Tall Tales | 3.00% | ~5,696 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,899 |
 | Ghost in the Machine | 0.90% | ~1,709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,859 (Ranked 66)  
+Progressed: 189,869 (Ranked 66)  
 Completed: 357 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 357 (0.19%) (Ranked 218)
 | 2023-10-01 | 188,949 | 350 |
 | 2023-10-02 | 189,383 | 353 |
 | 2023-10-03 | 189,767 | 357 |
-| 2023-10-04 | 189,859 | 357 |
+| 2023-10-04 | 189,869 | 357 |
 ## Awards
 Max (Great Boss Battles): 1,770  (Ranked 117)  
 Sum: 3,730 (Ranked 154)  

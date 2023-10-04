@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,875 |
-| Until death do us apart | 4.00% | ~16,875 |
-| That is mine! | 3.00% | ~12,656 |
-| Victorious! | 3.00% | ~12,656 |
+| That's a Grand Army | 4.00% | ~16,876 |
+| Until death do us apart | 4.00% | ~16,876 |
+| That is mine! | 3.00% | ~12,657 |
+| Victorious! | 3.00% | ~12,657 |
 | Brothers in Arms | 2.00% | ~8,438 |
 | For the Glory | 2.00% | ~8,438 |
 | That's a Grand Navy | 2.00% | ~8,438 |
@@ -27,10 +27,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.80% | ~3,375 |
 | Royal Authority | 0.70% | ~2,953 |
 | My armies are invincible! | 0.60% | ~2,531 |
-| Agressive Expander | 0.50% | ~2,109 |
-| City of Cities | 0.50% | ~2,109 |
-| Combined Arms | 0.50% | ~2,109 |
-| This navy can take it all | 0.50% | ~2,109 |
+| Agressive Expander | 0.50% | ~2,110 |
+| City of Cities | 0.50% | ~2,110 |
+| Combined Arms | 0.50% | ~2,110 |
+| This navy can take it all | 0.50% | ~2,110 |
 | Azur semé de lis or | 0.40% | ~1,688 |
 | Bright Spark | 0.40% | ~1,688 |
 | Factionalism | 0.40% | ~1,688 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,876 (Ranked 41)  
+Progressed: 421,901 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 421,876 | 1 |
+| 2023-10-04 | 421,901 | 1 |
 ## Awards
 Max (Educational): 6,390  (Ranked 57)  
 Sum: 52,455 (Ranked 24)  

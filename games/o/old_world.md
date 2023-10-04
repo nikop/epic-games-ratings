@@ -11,7 +11,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.40% | ~57 |
 | Good | 0.30% | ~43 |
 | Intrepid | 0.30% | ~43 |
+| Noble | 0.30% | ~43 |
 | Friendly Family | 0.30% | ~43 |
+| Judaism | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
 | Architect | 0.20% | ~29 |
@@ -23,11 +25,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.20% | ~29 |
 | Magnificent | 0.20% | ~29 |
 | Mason | 0.20% | ~29 |
-| Noble | 0.20% | ~29 |
 | Pioneer | 0.20% | ~29 |
 | Strong | 0.20% | ~29 |
 | Warrior | 0.20% | ~29 |
 | Wise | 0.20% | ~29 |
+| Developing Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
@@ -39,11 +41,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
-| Judaism | 0.20% | ~29 |
 | Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
 | Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
+| Zoroastrianism | 0.20% | ~29 |
 | Naming Landmarks | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
@@ -85,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~14 |
 | Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
-| Developing Cities | 0.10% | ~14 |
 | Legendary Cities | 0.10% | ~14 |
 | Able Difficulty | 0.10% | ~14 |
 | Glorious Difficulty | 0.10% | ~14 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
-| Zoroastrianism | 0.10% | ~14 |
 | Pantheon in Roma | 0.10% | ~14 |
 | Building Wonders | 0.10% | ~14 |
 | Capturing Cities | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,331 (Ranked 133)  
+Progressed: 14,332 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,331 | 5 |
+| 2023-10-04 | 14,332 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

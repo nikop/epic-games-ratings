@@ -15,7 +15,7 @@
 | Stellar Dismantler | 54.00% | ~21 |
 | Astral Adventurer | 46.00% | ~18 |
 | Anomaly Destroyer | 41.00% | ~16 |
-| Star Killer | 38.00% | ~15 |
+| Star Killer | 41.00% | ~16 |
 | Unbeatable | 36.00% | ~14 |
 | Loyal Partner | 33.00% | ~13 |
 | Sadistic Plan | 26.00% | ~10 |

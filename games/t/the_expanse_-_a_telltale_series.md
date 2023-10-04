@@ -12,13 +12,13 @@ Rating: 4.53 (Ranked 522)
 | Drone Dodger | 0.60% | ~81 |
 | Impossible Objects | 0.60% | ~81 |
 | Call it Even | 0.50% | ~68 |
+| Captain Drummer | 0.50% | ~68 |
 | Celebrations are in Order | 0.50% | ~68 |
 | Data Archivist | 0.40% | ~54 |
 | Spore Taste | 0.40% | ~54 |
 | Martian Music | 0.40% | ~54 |
 | Heal Thy Medic | 0.40% | ~54 |
 | Khan's Revenge | 0.40% | ~54 |
-| Captain Drummer | 0.40% | ~54 |
 | Stogie for Fogey | 0.30% | ~41 |
 | Doctor Approved | 0.20% | ~27 |
 | Bottoms up! | 0.20% | ~27 |

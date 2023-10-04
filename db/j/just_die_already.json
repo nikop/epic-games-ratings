@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1521,10 +1521,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 827,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-04T09:57:33.4434682+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 828,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 827,
+  "NumberOfAwards": 828,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1598,7 +1604,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 80
+      "Count": 81
     }
   ],
   "EOS_Progressed": 0,
@@ -1612,8 +1618,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-09-30T01:38:44.6162948+00:00",
+  "LastChanged": "2023-10-04T09:57:33.4434681+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.638314+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:57:37.2788521+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:05:10.2765068+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:57:33.4434686+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:05:10.906863+00:00"
 }

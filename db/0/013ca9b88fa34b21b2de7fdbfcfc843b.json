@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5964,
+  "EOS_Progressed": 5965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3233,6 +3233,11 @@
       "Time": "2023-10-04T08:04:08.3883771+00:00",
       "NumProgressed": 5964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T10:03:59.1560417+00:00",
+      "NumProgressed": 5965,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3253,7 +3258,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3341,7 +3346,7 @@
       "Name": "Miner 49er",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3381,7 +3386,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3397,7 +3402,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3517,14 +3522,14 @@
       "Name": "Skilled",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 5964,
+      "Progressed": 5965,
       "Completed": 0
     }
   ],
@@ -3532,8 +3537,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-03T18:57:41.9487056+00:00",
-  "LastChanged_Achievements": "2023-10-04T09:03:59.2540904+00:00",
+  "LastChanged_Achievements": "2023-10-04T10:03:59.1560411+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:58:14.3958811+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:03:59.2541567+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:58:09.9108874+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:03:59.1561047+00:00"
 }

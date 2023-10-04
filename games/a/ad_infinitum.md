@@ -11,7 +11,7 @@
 | Hunger | 48.00% | ~21 |
 | Path of Corruption | 25.00% | ~11 |
 | Hope | 20.00% | ~9 |
-| Rage | 14.00% | ~6 |
+| Rage | 16.00% | ~7 |
 | Path of Pain | 9.00% | ~4 |
 | Reflections | 9.00% | ~4 |
 | The shining | 9.00% | ~4 |

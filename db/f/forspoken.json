@@ -394,7 +394,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41685,
+  "EOS_Progressed": 41686,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1607,
   "EOS_NewCompleters": 0,
@@ -9704,6 +9704,11 @@
       "Time": "2023-10-04T09:05:57.2441098+00:00",
       "NumProgressed": 41685,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T10:05:57.7045582+00:00",
+      "NumProgressed": 41686,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9763,7 +9768,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10138,22 +10143,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41685,
+      "Progressed": 41686,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6522,
-      "Completed": 6522
+      "Progressed": 6523,
+      "Completed": 6523
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-02T17:01:25.0087272+00:00",
-  "LastChanged_Achievements": "2023-10-04T09:05:57.2441094+00:00",
+  "LastChanged_Achievements": "2023-10-04T10:05:57.7045576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:00:44.3115198+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:05:57.2442334+00:00"
+  "LastUpdate_Ratings": "2023-10-04T10:00:44.2239981+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:05:57.7046746+00:00"
 }

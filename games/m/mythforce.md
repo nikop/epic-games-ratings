@@ -11,10 +11,10 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 21.00% | ~782 |
 | Debuff Dogpile | 20.00% | ~745 |
 | Perk Shard Punch Card | 20.00% | ~745 |
-| Mushroom Madness! | 19.00% | ~707 |
+| Mushroom Madness! | 19.00% | ~708 |
 | First Strike | 16.00% | ~596 |
 | Spending Spree | 16.00% | ~596 |
-| Horder Better Faster Stronger | 15.00% | ~558 |
+| Horder Better Faster Stronger | 15.00% | ~559 |
 | Everything Must Go! | 13.00% | ~484 |
 | Ten Steps from the Grave | 13.00% | ~484 |
 | Next Time on MythForce... | 11.00% | ~410 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.30% | ~11 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,723 (Ranked 176)  
+Progressed: 3,724 (Ranked 176)  
 Completed: 2 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.05%) (Ranked 264)
 | 2023-10-01 | 3,606 | 2 |
 | 2023-10-02 | 3,662 | 2 |
 | 2023-10-03 | 3,709 | 2 |
-| 2023-10-04 | 3,723 | 2 |
+| 2023-10-04 | 3,724 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 280 (Ranked 354)  

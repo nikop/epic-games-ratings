@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2367,9 +2367,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "c7hf6a4",
       "Name": "Cherry Blossom and Temples",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2638,8 +2638,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-04T09:04:03.2239444+00:00",
+  "LastChanged_Achievements": "2023-10-04T10:04:03.0738699+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:03:11.644928+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:04:03.2240033+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:57:16.6795164+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:04:03.0739309+00:00"
 }

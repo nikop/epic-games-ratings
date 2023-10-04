@@ -24,7 +24,7 @@ Rating: 4.61 (Ranked 371)
 | Live with the Hot Ones | 41.00% | ~311 |
 | Get Off My Ship! | 41.00% | ~311 |
 | Strange Transmissions | 40.00% | ~303 |
-| Wreckage | 38.00% | ~288 |
+| Wreckage | 39.00% | ~296 |
 | Keeper of the Faith | 36.00% | ~273 |
 | Betrayed | 35.00% | ~265 |
 | There's Always Peng! | 34.00% | ~258 |
@@ -36,8 +36,8 @@ Rating: 4.61 (Ranked 371)
 | Whole Again | 26.00% | ~197 |
 | Set A Benchmark | 25.00% | ~190 |
 | Full Contact | 23.00% | ~174 |
+| Pack Rat | 23.00% | ~174 |
 | Final Regeneration | 22.00% | ~167 |
-| Pack Rat | 22.00% | ~167 |
 | Pusher | 21.00% | ~159 |
 | Full Clearance | 21.00% | ~159 |
 | Z-Baller | 20.00% | ~152 |

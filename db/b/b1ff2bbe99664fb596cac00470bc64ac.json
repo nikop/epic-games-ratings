@@ -4,7 +4,7 @@
   "ProductSlug": "emergency-crew-1-04340a",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-08T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-12T08:57:22.2149165+00:00",
   "LastUpdate_AppInfo": "2023-10-01T01:47:23.5691841+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:59:38.6016836+00:00",
-  "LastUpdate_Achievements": "2023-10-04T09:04:16.5493934+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:59:39.0776129+00:00",
+  "LastUpdate_Achievements": "2023-10-04T10:04:17.0693723+00:00"
 }
