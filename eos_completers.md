@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.65% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.64% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -21,9 +21,9 @@
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 20 | [Island Cities](games/i/island_cities.md) | 16.46% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 23 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
-| 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.24% |
+| 22 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.29% |
+| 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
+| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
 | 25 | [Remains](games/r/remains.md) | 12.00% |
 | 26 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
@@ -46,7 +46,7 @@
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.31% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
-| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.05% |
+| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.02% |
 | 48 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 49 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 49 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 6.25% |
@@ -103,7 +103,7 @@
 | 101 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.32% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.22% |
 | 103 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
-| 104 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.13% |
+| 104 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.11% |
 | 105 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
 | 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.94% |
@@ -147,7 +147,7 @@
 | 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 147 | [Eternights](games/e/eternights.md) | 0.78% |
-| 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.76% |
+| 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.75% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
@@ -156,7 +156,7 @@
 | 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 155 | [Haven](games/h/haven.md) | 0.61% |
-| 155 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.61% |
+| 157 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
 | 158 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 159 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 159 | [Grindstone](games/g/grindstone.md) | 0.58% |

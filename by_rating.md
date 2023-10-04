@@ -397,7 +397,7 @@
 | 371 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 526 |
 | 396 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 494 |
 | 396 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 28 | 475 |
-| 396 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,071 | 27 |
+| 396 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,094 | 27 |
 | 396 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 526 |
 | 396 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 357 | 229 |
 | 396 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,702 | 73 |
@@ -778,20 +778,20 @@
 | 769 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 526 |
 | 769 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 526 |
 | 778 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 482 |
-| 778 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.34 | 0 | 526 |
 | 778 | [Encased](games/e/encased.md) | 4.34 | 146 | 308 |
 | 778 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 257 | 257 |
 | 778 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 526 |
 | 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 2,542 | 101 |
-| 784 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 526 |
-| 784 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 121 | 325 |
-| 784 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 526 |
-| 784 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 526 |
-| 784 | [Paladins](games/p/paladins.md) | 4.33 | 3,696 | 86 |
-| 784 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 526 |
-| 784 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 526 |
-| 784 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 509 |
-| 784 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 526 |
+| 783 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 526 |
+| 783 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 121 | 325 |
+| 783 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.33 | 0 | 526 |
+| 783 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 526 |
+| 783 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 526 |
+| 783 | [Paladins](games/p/paladins.md) | 4.33 | 3,696 | 86 |
+| 783 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 526 |
+| 783 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 526 |
+| 783 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 509 |
+| 783 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 526 |
 | 793 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 362 | 227 |
 | 793 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 526 |
 | 793 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 396 |
@@ -866,15 +866,15 @@
 | 863 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
 | 863 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 526 |
 | 863 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 526 |
-| 863 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 215 | 272 |
-| 868 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 286 |
-| 868 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 526 |
-| 868 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 167 | 297 |
+| 867 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 286 |
+| 867 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 526 |
+| 867 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 215 | 272 |
+| 867 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 167 | 297 |
 | 871 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 322 |
 | 871 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 526 |
 | 871 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 464 |
 | 871 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 526 |
-| 871 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 16,433 | 23 |
+| 871 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 16,456 | 23 |
 | 871 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 526 |
 | 871 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 374 |
 | 871 | [Wreckfest](games/w/wreckfest.md) | 4.21 | 0 | 526 |
@@ -948,15 +948,15 @@
 | 945 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.06 | 0 | 526 |
 | 945 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 526 |
 | 945 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,354 | 69 |
+| 945 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 526 |
 | 945 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 526 |
-| 950 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 24 | 496 |
-| 950 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
-| 950 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 206 |
-| 950 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
-| 950 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
-| 955 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 526 |
-| 955 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.04 | 0 | 526 |
-| 955 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.04 | 0 | 526 |
+| 951 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 24 | 496 |
+| 951 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 951 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 206 |
+| 951 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
+| 951 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
+| 956 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 526 |
+| 956 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.04 | 0 | 526 |
 | 958 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.03 | 0 | 526 |
 | 958 | [Lake](games/l/lake.md) | 4.03 | 0 | 526 |
 | 958 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 526 |
