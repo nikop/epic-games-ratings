@@ -1,13 +1,13 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 897)  
+Rating: 4.18 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,026 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,594 |
-| Loose Ends | 34.00% | ~24,863 |
+| First Step Into the Knight | 52.00% | ~38,027 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,595 |
+| Loose Ends | 34.00% | ~24,864 |
 | To the Victor Go the Spoils | 29.00% | ~21,207 |
 | Knighthood | 28.00% | ~20,476 |
 | Get ReQ'd | 25.00% | ~18,282 |
@@ -16,9 +16,9 @@ Rating: 4.18 (Ranked 897)
 | Lock and Key | 23.00% | ~16,819 |
 | Something in the Clay | 21.00% | ~15,357 |
 | Quartzer Life Crisis | 21.00% | ~15,357 |
-| Working Hard or Harley Working? | 20.00% | ~14,625 |
-| Unstoppable Force | 20.00% | ~14,625 |
-| Bad Apples in Every Orchard | 20.00% | ~14,625 |
+| Working Hard or Harley Working? | 20.00% | ~14,626 |
+| Unstoppable Force | 20.00% | ~14,626 |
+| Bad Apples in Every Orchard | 20.00% | ~14,626 |
 | Snow Problem | 19.00% | ~13,894 |
 | The Show Mud Go On | 18.00% | ~13,163 |
 | From Inside Gotham's Walls | 18.00% | ~13,163 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 897)
 | Gotham Knight | 12.00% | ~8,775 |
 | Gotham City Confidential | 11.00% | ~8,044 |
 | Drone You Out | 10.00% | ~7,313 |
-| Out of Their League | 9.00% | ~6,581 |
-| Solid Alibi | 9.00% | ~6,581 |
+| Out of Their League | 9.00% | ~6,582 |
+| Solid Alibi | 9.00% | ~6,582 |
 | Fusion Expert | 7.00% | ~5,119 |
 | Family Meeting | 6.00% | ~4,388 |
 | A Worthy Successor | 6.00% | ~4,388 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,127 (Ranked 89)  
+Progressed: 73,128 (Ranked 89)  
 Completed: 120 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 120 (0.16%) (Ranked 224)
 | 2023-10-01 | 73,024 | 121 |
 | 2023-10-02 | 73,059 | 121 |
 | 2023-10-03 | 73,099 | 122 |
-| 2023-10-04 | 73,127 | 122 |
+| 2023-10-04 | 73,128 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,782  (Ranked 97)  
 Sum: 4,655 (Ranked 140)  

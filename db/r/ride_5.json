@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -2254,6 +2254,11 @@
       "Time": "2023-10-04T16:04:48.7971254+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T17:04:40.0864809+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2274,7 +2279,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2282,7 +2287,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2338,7 +2343,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2466,7 +2471,7 @@
       "Name": "Evangelist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2657,14 +2662,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:04:48.7971249+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:04:40.0864804+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:57:23.9074469+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:04:48.7972222+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:57:16.0042019+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:04:40.0865335+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5530,9 +5530,9 @@
       "ID": "ACH_BASE_5",
       "SetID": "92iocjf",
       "Name": "Tiqqun Unchained",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_BASE_50",
@@ -5689,8 +5689,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:09:34.5598078+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:09:28.8934992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.8238221+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:01:26.5210062+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:09:34.5599064+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:01:11.7815472+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:09:28.8935734+00:00"
 }

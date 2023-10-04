@@ -6,13 +6,14 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.50% | ~72 |
 | Play a Single Player Game | 0.50% | ~72 |
 | Explorer | 0.40% | ~57 |
-| Settler | 0.40% | ~57 |
+| Intrepid | 0.40% | ~57 |
 | Friendly Family | 0.40% | ~57 |
 | Able | 0.30% | ~43 |
+| Architect | 0.30% | ~43 |
 | Good | 0.30% | ~43 |
-| Intrepid | 0.30% | ~43 |
 | Learned | 0.30% | ~43 |
 | Mason | 0.30% | ~43 |
 | Noble | 0.30% | ~43 |
@@ -21,8 +22,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
+| Naming Landmarks | 0.30% | ~43 |
 | Ambitious | 0.20% | ~29 |
-| Architect | 0.20% | ~29 |
 | Enlightened | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
-| Naming Landmarks | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,338 (Ranked 133)  
+Progressed: 14,341 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,338 | 5 |
+| 2023-10-04 | 14,341 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

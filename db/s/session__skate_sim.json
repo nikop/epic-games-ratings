@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -994,9 +994,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2989,
+  "EOS_Progressed": 2990,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5174,6 +5174,11 @@
       "Time": "2023-10-04T16:08:42.0746559+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T17:08:19.4810059+00:00",
+      "NumProgressed": 2990,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5185,7 +5190,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5209,7 +5214,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5241,7 +5246,7 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -5281,7 +5286,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -5345,7 +5350,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -5353,7 +5358,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -5369,7 +5374,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -5425,7 +5430,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -5521,7 +5526,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -5561,22 +5566,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2989,
+      "Progressed": 2990,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-04T13:07:43.5320622+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:08:42.0746551+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:08:19.4810054+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:58:22.4893751+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:08:42.0747237+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:58:16.1967302+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:08:19.4810582+00:00"
 }

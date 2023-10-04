@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,793 |
+| You're free now! | 60.00% | ~1,794 |
 | Keeping it classy | 27.00% | ~807 |
 | Welcome to the family | 22.00% | ~658 |
 | The finer things in life | 19.00% | ~568 |
-| Backpacker | 14.00% | ~418 |
+| Backpacker | 14.00% | ~419 |
 | Go with the Flow | 13.00% | ~389 |
 | Plastic Surgeon | 10.00% | ~299 |
 | The flip trick crown jewel | 10.00% | ~299 |
@@ -29,14 +29,14 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~179 |
 | Squad goals | 6.00% | ~179 |
 | Sup widdit big dog! | 6.00% | ~179 |
-| Commence the Hijinx! | 5.00% | ~149 |
-| DIY Boss | 5.00% | ~149 |
-| Globetrotter | 5.00% | ~149 |
-| Laid back | 5.00% | ~149 |
-| Lines for days | 5.00% | ~149 |
-| Manny Destroys All | 5.00% | ~149 |
-| Renaissance man | 5.00% | ~149 |
-| Trick shot marksman | 5.00% | ~149 |
+| Commence the Hijinx! | 5.00% | ~150 |
+| DIY Boss | 5.00% | ~150 |
+| Globetrotter | 5.00% | ~150 |
+| Laid back | 5.00% | ~150 |
+| Lines for days | 5.00% | ~150 |
+| Manny Destroys All | 5.00% | ~150 |
+| Renaissance man | 5.00% | ~150 |
+| Trick shot marksman | 5.00% | ~150 |
 | Cops called! | 4.00% | ~120 |
 | G.O.A.T. status | 4.00% | ~120 |
 | Prince of Philly | 4.00% | ~120 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,989 (Ranked 188)  
+Progressed: 2,990 (Ranked 188)  
 Completed: 1 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 1 (0.03%) (Ranked 276)
 | 2023-10-01 | 2,984 | 1 |
 | 2023-10-02 | 2,986 | 1 |
 | 2023-10-03 | 2,987 | 1 |
-| 2023-10-04 | 2,989 | 1 |
+| 2023-10-04 | 2,990 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 400)  
 Sum: 511 (Ranked 306)  

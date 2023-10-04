@@ -12885,10 +12885,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 263242,
       "NumberOfAwardsMax": 91317
+    },
+    {
+      "Time": "2023-10-04T17:02:00.4375785+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 263447,
+      "NumberOfAwardsMax": 91317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 263242,
+  "NumberOfAwards": 263447,
   "NumberOfAwardsMax": 91317,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12962,13 +12968,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8082
+      "Count": 8287
     }
   ],
-  "EOS_Progressed": 888679,
-  "EOS_Completed": 2574,
-  "EOS_NewPlayers": 5488,
-  "EOS_NewCompleters": 138,
+  "EOS_Progressed": 888689,
+  "EOS_Completed": 2575,
+  "EOS_NewPlayers": 5439,
+  "EOS_NewCompleters": 139,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31790,6 +31796,11 @@
       "Time": "2023-10-04T16:09:23.210755+00:00",
       "NumProgressed": 888679,
       "NumCompleted": 2574
+    },
+    {
+      "Time": "2023-10-04T17:09:18.0993937+00:00",
+      "NumProgressed": 888689,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 57,
@@ -31801,7 +31812,7 @@
       "Name": "City Lights",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7110
     },
     {
       "ID": "BornToBeWild",
@@ -31881,7 +31892,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "HandyMan",
@@ -31889,7 +31900,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "IAmMaxTac",
@@ -32001,7 +32012,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35547
+      "UsersEstimate": 35548
     },
     {
       "ID": "TheDevil",
@@ -32033,7 +32044,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "TheLovers",
@@ -32089,7 +32100,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "TrueSoldier",
@@ -32113,7 +32124,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "UnderPressure",
@@ -32127,9 +32138,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17774
+      "UsersEstimate": 26661
     },
     {
       "ID": "YipMan",
@@ -32199,9 +32210,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 156
+      "UsersEstimate": 173
     },
     {
       "ID": "Kingofcups",
@@ -32256,21 +32267,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888679,
-      "Completed": 2574
+      "Progressed": 888689,
+      "Completed": 2575
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17302,
+      "Progressed": 17312,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-04T14:02:16.4927282+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:09:23.2107544+00:00",
+  "LastChanged": "2023-10-04T17:02:00.4375783+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:09:18.0993932+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:02:15.4070707+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:09:23.210936+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:02:00.4375789+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:09:18.0995234+00:00"
 }

@@ -45,13 +45,13 @@ Rating: 4.56 (Ranked 473)
 | Catastrophe Avoided | 2.00% | ~64 |
 | Praise the Hull! | 2.00% | ~64 |
 | Space Greenhouse | 2.00% | ~64 |
+| Tiqqun Unchained | 2.00% | ~64 |
 | Drill-dozer | 2.00% | ~64 |
 | Help of the Forgotten Member | 2.00% | ~64 |
 | Better Him Than Me | 1.00% | ~32 |
 | Remember the Dead | 1.00% | ~32 |
 | You Had One Job... | 1.00% | ~32 |
 | Gregor Spinoza | 1.00% | ~32 |
-| Tiqqun Unchained | 1.00% | ~32 |
 | Scientifically Accurate | 1.00% | ~32 |
 | Work Harder | 0.50% | ~16 |
 | Crunch Culture | 0.40% | ~13 |

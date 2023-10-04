@@ -3,12 +3,12 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 336,
-  "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 505,
+  "Ranking_Popularity": 494,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -236,23 +236,29 @@
       "Rating": 4.63,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-04T16:59:35.8231738+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 230574,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17861,9 +17867,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:04:51.4238346+00:00",
+  "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:04:42.4814856+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:59:47.1859607+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:04:51.4239662+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:59:35.8231742+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:04:42.4815801+00:00"
 }

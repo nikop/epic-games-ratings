@@ -7,12 +7,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 5.00% | ~44,434 |
-| Rough Landing | 4.00% | ~35,547 |
-| Gunslinger | 3.00% | ~26,660 |
-| Master Crafter | 3.00% | ~26,660 |
-| The High Priestess | 3.00% | ~26,660 |
-| The Jungle | 3.00% | ~26,660 |
-| Two Heads, One Bullet | 3.00% | ~26,660 |
+| Rough Landing | 4.00% | ~35,548 |
+| Gunslinger | 3.00% | ~26,661 |
+| Master Crafter | 3.00% | ~26,661 |
+| The High Priestess | 3.00% | ~26,661 |
+| The Jungle | 3.00% | ~26,661 |
+| Two Heads, One Bullet | 3.00% | ~26,661 |
+| V for Vendetta | 3.00% | ~26,661 |
 | To Bad Decisions! | 2.00% | ~17,774 |
 | Full Body Conversion | 2.00% | ~17,774 |
 | Right Back At Ya | 2.00% | ~17,774 |
@@ -25,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 2.00% | ~17,774 |
 | True Soldier | 2.00% | ~17,774 |
 | True Warrior | 2.00% | ~17,774 |
-| V for Vendetta | 2.00% | ~17,774 |
 | Legend of The Afterlife | 2.00% | ~17,774 |
 | Gun Fu | 1.00% | ~8,887 |
 | Christmas Tree Attack | 1.00% | ~8,887 |
@@ -35,10 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,887 |
 | Judy vs Night City | 1.00% | ~8,887 |
 | It's Elementary | 1.00% | ~8,887 |
+| Spin Doctor | 1.00% | ~173 |
 | Life of the Road | 0.90% | ~7,998 |
 | Greetings from Pacifica! | 0.90% | ~7,998 |
-| Spin Doctor | 0.90% | ~156 |
-| City Lights | 0.80% | ~7,109 |
+| City Lights | 0.80% | ~7,110 |
 | Bushido and Chill | 0.70% | ~6,221 |
 | I Am The Law | 0.70% | ~6,221 |
 | To Protect and Serve | 0.50% | ~4,443 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,679 (Ranked 15)  
-Completed: 2,574 (0.29%) (Ranked 203)  
+Progressed: 888,689 (Ranked 15)  
+Completed: 2,575 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,10 +231,10 @@ Completed: 2,574 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,679 | 2,574 |
+| 2023-10-04 | 888,689 | 2,575 |
 ## Awards
 Max (Character Customization): 91,317  (Ranked 9)  
-Sum: 263,242 (Ranked 12)  
+Sum: 263,447 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -3
 | This game has Amazing Characters | 12,441 |
 | This game is Relaxing | 12,346 |
 | This game has Quickly Understood Controls | 12,151 |
-| This game has a Creative Community | 8,082 |
+| This game has a Creative Community | 8,287 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -510,4 +510,4 @@ Diff (max vs sum): -3
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
 | 2023-10-03 | 4.63 | - | 90,464 | 260,310 |
-| 2023-10-04 | 4.63 | - | 91,317 | 263,242 |
+| 2023-10-04 | 4.63 | - | 91,317 | 263,447 |

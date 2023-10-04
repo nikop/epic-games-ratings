@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13533,
+  "EOS_Progressed": 13536,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7642,6 +7642,11 @@
       "Time": "2023-10-04T16:06:47.9598981+00:00",
       "NumProgressed": 13533,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T17:06:31.8865765+00:00",
+      "NumProgressed": 13536,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7756,9 +7761,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "22",
@@ -7820,9 +7825,9 @@
       "ID": "29",
       "SetID": "458bbdk",
       "Name": "Data Collector",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "3",
@@ -7860,9 +7865,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "7",
@@ -7884,16 +7889,16 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13533,
+      "Progressed": 13536,
       "Completed": 3
     }
   ],
@@ -7901,8 +7906,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:06:47.9598974+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:06:31.886576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:01:28.575528+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:06:47.9600204+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:01:13.8032352+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:06:31.8866335+00:00"
 }

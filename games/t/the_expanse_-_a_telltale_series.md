@@ -9,14 +9,14 @@ Rating: 4.53 (Ranked 522)
 | Drug Gifter | 1.00% | ~135 |
 | Bosmang | 0.80% | ~108 |
 | The Pit and the Pirates | 0.70% | ~95 |
-| Drone Dodger | 0.60% | ~81 |
-| Impossible Objects | 0.60% | ~81 |
+| Drone Dodger | 0.70% | ~95 |
+| Impossible Objects | 0.70% | ~95 |
+| Celebrations are in Order | 0.60% | ~81 |
 | Data Archivist | 0.50% | ~68 |
 | Martian Music | 0.50% | ~68 |
 | Heal Thy Medic | 0.50% | ~68 |
 | Call it Even | 0.50% | ~68 |
 | Captain Drummer | 0.50% | ~68 |
-| Celebrations are in Order | 0.50% | ~68 |
 | Stogie for Fogey | 0.40% | ~54 |
 | Spore Taste | 0.40% | ~54 |
 | Khan's Revenge | 0.40% | ~54 |
@@ -29,14 +29,14 @@ Rating: 4.53 (Ranked 522)
 | Data Miner | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
+| Data Collector | 0.10% | ~14 |
 | No Belter Left Behind | 0.10% | ~14 |
 | Debris Spree | 0.10% | ~14 |
 | Data Master | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
-| Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,533 (Ranked 134)  
+Progressed: 13,536 (Ranked 134)  
 Completed: 3 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.02%) (Ranked 280)
 | 2023-10-01 | 13,391 | 0 |
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
-| 2023-10-04 | 13,533 | 3 |
+| 2023-10-04 | 13,536 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

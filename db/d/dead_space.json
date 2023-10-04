@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 765,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2579,17 +2579,17 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_8",
       "SetID": "222fo9l",
       "Name": "Strange Transmissions",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_9",
@@ -2612,8 +2612,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:08:50.9759537+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:08:28.0604136+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T15:59:48.3333998+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:08:50.9760161+00:00"
+  "LastUpdate_Ratings": "2023-10-04T16:59:36.9231521+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:08:28.0604528+00:00"
 }

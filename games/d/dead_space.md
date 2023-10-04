@@ -20,10 +20,10 @@ Rating: 4.61 (Ranked 371)
 | Greenhouse Effect | 50.00% | ~382 |
 | Freeze | 48.00% | ~367 |
 | Full Arsenal | 44.00% | ~337 |
-| S.O.S. | 42.00% | ~321 |
+| S.O.S. | 43.00% | ~329 |
 | Live with the Hot Ones | 41.00% | ~314 |
 | Get Off My Ship! | 41.00% | ~314 |
-| Strange Transmissions | 40.00% | ~306 |
+| Strange Transmissions | 41.00% | ~314 |
 | Wreckage | 38.00% | ~291 |
 | Keeper of the Faith | 36.00% | ~275 |
 | Betrayed | 35.00% | ~268 |

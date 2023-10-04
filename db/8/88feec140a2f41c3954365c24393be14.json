@@ -92,10 +92,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73215,
-  "EOS_Completed": 2687,
-  "EOS_NewPlayers": 22871,
-  "EOS_NewCompleters": 798,
+  "EOS_Progressed": 73338,
+  "EOS_Completed": 2689,
+  "EOS_NewPlayers": 22891,
+  "EOS_NewCompleters": 795,
   "EOS_Completed_Percentage": 3.67,
   "EosHistory": [
     {
@@ -2492,6 +2492,11 @@
       "Time": "2023-10-04T16:06:09.2163065+00:00",
       "NumProgressed": 73215,
       "NumCompleted": 2687
+    },
+    {
+      "Time": "2023-10-04T17:05:55.3941373+00:00",
+      "NumProgressed": 73338,
+      "NumCompleted": 2689
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -2504,7 +2509,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 43929
+      "UsersEstimate": 44003
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -2512,7 +2517,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 9518
+      "UsersEstimate": 9534
     },
     {
       "ID": "GoldPact",
@@ -2520,7 +2525,7 @@
       "Name": "Gold Pact",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 10982
+      "UsersEstimate": 11001
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -2528,7 +2533,7 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3667
     },
     {
       "ID": "PelagicPerils",
@@ -2536,7 +2541,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 36608
+      "UsersEstimate": 36669
     },
     {
       "ID": "ShipDip",
@@ -2544,7 +2549,7 @@
       "Name": "Ship Dip!",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 33679
+      "UsersEstimate": 33735
     },
     {
       "ID": "TheArtOfParley",
@@ -2552,7 +2557,7 @@
       "Name": "The Art of Parley",
       "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 52715
+      "UsersEstimate": 52803
     },
     {
       "ID": "TheGoldenRatio",
@@ -2560,7 +2565,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7334
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -2568,7 +2573,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 40268
+      "UsersEstimate": 40336
     },
     {
       "ID": "WeCanDoBetter",
@@ -2576,15 +2581,15 @@
       "Name": "We Can Do Better!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 54179
+      "UsersEstimate": 54270
     },
     {
       "ID": "WeighAnchorSetSail",
       "SetID": "bcl47p5",
       "Name": "Weigh Anchor, Set Sail!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 55643
+      "UsersEstimate": 55004
     },
     {
       "ID": "WelcomeAboard",
@@ -2592,23 +2597,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 54911
+      "UsersEstimate": 55004
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 73215,
-      "Completed": 2687
+      "Progressed": 73338,
+      "Completed": 2689
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-03T20:00:30.2039229+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:06:09.2163042+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:05:55.3941365+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:19.4924032+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:01:44.6323064+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:06:09.2163318+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:01:29.6952499+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:05:55.3941576+00:00"
 }

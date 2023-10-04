@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 67.00% | ~2 |
-| Master trainee | 33.00% | ~1 |
-| Jung's dream | 33.00% | ~1 |
-| Giant | 33.00% | ~1 |
-| The artist | 33.00% | ~1 |
-| The battle of Great Britain | 33.00% | ~1 |
-| Pulp! Out of this World | 33.00% | ~1 |
-| A continent with chemistry | 33.00% | ~1 |
-| The barbarian invasions | 33.00% | ~1 |
-| The happy farmer girl | 33.00% | ~1 |
-| Diagnosis: fear | 33.00% | ~1 |
-| Ambition is... blind | 33.00% | ~1 |
-| You have two wishes left | 33.00% | ~1 |
+| You have three wishes left | 50.00% | ~2 |
+| Master trainee | 25.00% | ~1 |
+| Jung's dream | 25.00% | ~1 |
+| Giant | 25.00% | ~1 |
+| The artist | 25.00% | ~1 |
+| The battle of Great Britain | 25.00% | ~1 |
+| Pulp! Out of this World | 25.00% | ~1 |
+| A continent with chemistry | 25.00% | ~1 |
+| The barbarian invasions | 25.00% | ~1 |
+| The happy farmer girl | 25.00% | ~1 |
+| Diagnosis: fear | 25.00% | ~1 |
+| Ambition is... blind | 25.00% | ~1 |
+| You have two wishes left | 25.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | You had one wish left | 0.00% | ~0 |
@@ -52,10 +52,11 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 564)  
+Progressed: 4 (Ranked 553)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-21 | 1 | 0 |
 | 2023-09-27 | 3 | 0 |
+| 2023-10-04 | 4 | 0 |

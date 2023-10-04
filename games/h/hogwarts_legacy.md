@@ -5,22 +5,22 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,670 |
-| First Class Student | 13.00% | ~38,714 |
-| Troll with the Punches | 13.00% | ~38,714 |
-| A Keen Sense of Spell | 12.00% | ~35,736 |
-| That's a Keeper | 12.00% | ~35,736 |
-| The Defender of Dragons | 11.00% | ~32,758 |
-| Loom for Improvement | 11.00% | ~32,758 |
-| A Talent for Spending | 11.00% | ~32,758 |
-| Grappling with a Graphorn | 10.00% | ~29,780 |
-| The One Who Mastered Memories | 10.00% | ~29,780 |
-| The Hallowed Hero | 10.00% | ~29,780 |
-| The Hero of Hogwarts | 10.00% | ~29,780 |
-| Challenge Accepted | 10.00% | ~29,780 |
-| Coasting Along | 10.00% | ~29,780 |
-| Followed the Butterflies | 9.00% | ~26,802 |
-| Rising From the Ashes | 9.00% | ~26,802 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,671 |
+| First Class Student | 13.00% | ~38,715 |
+| Troll with the Punches | 13.00% | ~38,715 |
+| A Keen Sense of Spell | 12.00% | ~35,737 |
+| That's a Keeper | 12.00% | ~35,737 |
+| The Defender of Dragons | 11.00% | ~32,759 |
+| Loom for Improvement | 11.00% | ~32,759 |
+| A Talent for Spending | 11.00% | ~32,759 |
+| Grappling with a Graphorn | 10.00% | ~29,781 |
+| The One Who Mastered Memories | 10.00% | ~29,781 |
+| The Hallowed Hero | 10.00% | ~29,781 |
+| The Hero of Hogwarts | 10.00% | ~29,781 |
+| Challenge Accepted | 10.00% | ~29,781 |
+| Coasting Along | 10.00% | ~29,781 |
+| Followed the Butterflies | 9.00% | ~26,803 |
+| Rising From the Ashes | 9.00% | ~26,803 |
 | The Avenging Gazelle | 8.00% | ~23,824 |
 | A Sallow Grave | 8.00% | ~23,824 |
 | Flight the Good Flight | 8.00% | ~23,824 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,803 (Ranked 46)  
+Progressed: 297,806 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 480 (0.16%) (Ranked 224)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
-| 2023-10-04 | 297,803 | 480 |
+| 2023-10-04 | 297,806 | 480 |
 ## Awards
 Max (Character Customization): 23,277  (Ranked 17)  
-Sum: 45,004 (Ranked 31)  
+Sum: 45,009 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -232,7 +232,7 @@ Diff (max vs sum): -14
 | This game has Diverse Characters | 1,093 |
 | This game is Relaxing | 1,092 |
 | This game is Extremely Fun | 1,081 |
-| This game has Amazing Characters | 1,052 |
+| This game has Amazing Characters | 1,057 |
 | This game is Highly Recommended | 1,047 |
 | This game has Quickly Understood Controls | 983 |
 | This game has Beautiful Visuals | 909 |
@@ -434,4 +434,4 @@ Diff (max vs sum): -14
 | 2023-10-01 | 4.76 | 23,193 | 44,793 |
 | 2023-10-02 | 4.76 | 23,221 | 44,874 |
 | 2023-10-03 | 4.76 | 23,249 | 44,966 |
-| 2023-10-04 | 4.76 | 23,277 | 45,004 |
+| 2023-10-04 | 4.76 | 23,277 | 45,009 |

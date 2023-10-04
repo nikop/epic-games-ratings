@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3571,9 +3571,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 458918,
+  "EOS_Progressed": 458926,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2224,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22411,6 +22411,11 @@
       "Time": "2023-10-04T16:03:28.1958768+00:00",
       "NumProgressed": 458918,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-04T17:03:18.9359017+00:00",
+      "NumProgressed": 458926,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22422,7 +22427,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -22494,7 +22499,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -22502,7 +22507,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "ACH_GROUNDED",
@@ -22598,7 +22603,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "ACH_REFLEXES",
@@ -22630,7 +22635,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -22701,15 +22706,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 458918,
+      "Progressed": 458926,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-04T13:11:22.723228+00:00",
-  "LastChanged_Achievements": "2023-10-04T16:03:28.1958763+00:00",
+  "LastChanged_Achievements": "2023-10-04T17:03:18.9359011+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:02:23.2889604+00:00",
-  "LastUpdate_Achievements": "2023-10-04T16:03:28.1960469+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:02:07.9660312+00:00",
+  "LastUpdate_Achievements": "2023-10-04T17:03:18.9360121+00:00"
 }
