@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.54% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.53% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.09% |
@@ -34,7 +34,7 @@
 | 32 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 32 | [Smelter](games/s/smelter.md) | 10.00% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.15% |
+| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.14% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.95% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -170,11 +170,11 @@
 | 168 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
 | 169 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
 | 170 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 170 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 170 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 170 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 170 | [Them and Us](games/t/them_and_us.md) | 0.46% |
-| 175 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
 | 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.42% |

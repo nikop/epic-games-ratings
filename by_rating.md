@@ -19,7 +19,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,874 | 21 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 312 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 80 |
-| 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,026 | 145 |
+| 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,028 | 145 |
 | 18 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 526 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 183,084 | 6 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,788 | 33 |
@@ -106,7 +106,7 @@
 | 104 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 526 |
 | 104 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,227 | 38 |
 | 104 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 526 |
-| 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,419 | 104 |
+| 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,421 | 104 |
 | 104 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,535 | 122 |
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 526 |
 | 104 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 40 | 435 |
@@ -367,7 +367,7 @@
 | 356 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 526 |
 | 356 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 526 |
 | 356 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,643 | 99 |
-| 356 | [Prey](games/p/prey.md) | 4.62 | 5,717 | 64 |
+| 356 | [Prey](games/p/prey.md) | 4.62 | 5,718 | 64 |
 | 356 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 526 |
 | 356 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 526 |
 | 371 | [20XX](games/2/20xx.md) | 4.61 | 37 | 445 |
@@ -413,7 +413,7 @@
 | 396 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 526 |
 | 396 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 485 | 204 |
 | 396 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 257 | 257 |
-| 396 | [Warframe](games/w/warframe.md) | 4.60 | 17,461 | 22 |
+| 396 | [Warframe](games/w/warframe.md) | 4.60 | 17,480 | 22 |
 | 396 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 472 | 206 |
 | 396 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 86 | 363 |
 | 417 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.59 | 0 | 526 |
@@ -946,15 +946,15 @@
 | 943 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.07 | 0 | 526 |
 | 945 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 526 |
 | 945 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.06 | 0 | 526 |
+| 945 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 24 | 496 |
 | 945 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 526 |
 | 945 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,354 | 69 |
 | 945 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 526 |
 | 945 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 526 |
-| 951 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 24 | 496 |
-| 951 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
-| 951 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 207 |
-| 951 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
-| 951 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
+| 952 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 952 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 207 |
+| 952 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
+| 952 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
 | 956 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 526 |
 | 956 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.04 | 0 | 526 |
 | 958 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.03 | 0 | 526 |
@@ -979,11 +979,11 @@
 | 976 | [Patron](games/p/patron.md) | 3.94 | 0 | 526 |
 | 978 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 470 |
 | 978 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 526 |
-| 980 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.92 | 0 | 526 |
-| 980 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.92 | 0 | 526 |
-| 982 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 339 |
-| 982 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.91 | 0 | 526 |
-| 982 | [Warface](games/w/warface.md) | 3.91 | 417 | 217 |
+| 978 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.93 | 0 | 526 |
+| 981 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.92 | 0 | 526 |
+| 981 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.92 | 0 | 526 |
+| 983 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 339 |
+| 983 | [Warface](games/w/warface.md) | 3.91 | 417 | 217 |
 | 985 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 27 | 482 |
 | 986 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.87 | 0 | 526 |
 | 987 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.86 | 0 | 526 |
