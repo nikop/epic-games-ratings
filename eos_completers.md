@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.56% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.51% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.61% |
@@ -23,7 +23,7 @@
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
 | 22 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.00% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.31% |
+| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.30% |
 | 25 | [Remains](games/r/remains.md) | 12.00% |
 | 26 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
@@ -43,7 +43,7 @@
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 42 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.55% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.29% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.28% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.00% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.96% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.68% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -146,7 +146,7 @@
 | 144 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 147 | [Eternights](games/e/eternights.md) | 0.78% |
+| 147 | [Eternights](games/e/eternights.md) | 0.77% |
 | 148 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -178,10 +178,10 @@
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
 | 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.41% |
-| 179 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 182 | [Dead Space](games/d/dead_space.md) | 0.39% |
+| 181 | [Dead Space](games/d/dead_space.md) | 0.39% |
+| 181 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 183 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
