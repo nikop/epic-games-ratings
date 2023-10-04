@@ -5294,9 +5294,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5525,8 +5525,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:06:41.5802254+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:06:28.8971318+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:01:07.8740308+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:06:41.5803001+00:00"
+  "LastUpdate_Ratings": "2023-10-04T12:00:42.151956+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:06:28.8971845+00:00"
 }

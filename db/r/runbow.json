@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249969,
+  "EOS_Progressed": 249971,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15674,6 +15674,11 @@
       "Time": "2023-10-04T04:03:30.4885574+00:00",
       "NumProgressed": 249969,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-04T12:03:42.0848024+00:00",
+      "NumProgressed": 249971,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15709,7 +15714,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52493
+      "UsersEstimate": 52494
     },
     {
       "ID": "blotbuster",
@@ -15757,7 +15762,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37495
+      "UsersEstimate": 37496
     },
     {
       "ID": "clearCut",
@@ -15781,7 +15786,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44994
+      "UsersEstimate": 44995
     },
     {
       "ID": "curator",
@@ -15861,7 +15866,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132484
+      "UsersEstimate": 132485
     },
     {
       "ID": "indegestible",
@@ -15917,7 +15922,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37495
+      "UsersEstimate": 37496
     },
     {
       "ID": "myFirstRunbow",
@@ -15925,7 +15930,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124984
+      "UsersEstimate": 124986
     },
     {
       "ID": "notScared",
@@ -15989,7 +15994,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54993
+      "UsersEstimate": 54994
     },
     {
       "ID": "thunderstruck",
@@ -16052,7 +16057,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249969,
+      "Progressed": 249971,
       "Completed": 6
     }
   ],
@@ -16060,8 +16065,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:03:44.0096686+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:03:42.084802+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:58:16.3599003+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:03:44.0099146+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:58:04.3242056+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:03:42.0849028+00:00"
 }

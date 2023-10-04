@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_cannon_sentinel",
@@ -551,9 +551,9 @@
       "ID": "_missile",
       "SetID": "2d5739o",
       "Name": "Missile",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "_mothership",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:04:04.7077882+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:03:52.1135247+00:00",
   "LastUpdate_AppInfo": "2023-09-27T16:57:21.5497949+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:59:20.7367883+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:04:04.707852+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:59:04.5586101+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:03:52.1135527+00:00"
 }

@@ -16,7 +16,7 @@
 | Holy Nails | 3.00% | ~10 |
 | Flagellation | 3.00% | ~10 |
 | The choice | 2.00% | ~7 |
-| Hubris | 1.00% | ~3 |
+| Hubris | 2.00% | ~7 |
 | Humility | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 347 (Ranked 295)  

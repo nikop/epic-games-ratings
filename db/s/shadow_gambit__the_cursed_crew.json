@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -1978,6 +1978,11 @@
       "Time": "2023-10-03T17:04:14.768084+00:00",
       "NumProgressed": 692,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-04T12:03:44.8531832+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2022,7 +2027,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2038,7 +2043,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_08_Completion_10",
@@ -2084,9 +2089,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "_14_Completion_70",
@@ -2124,9 +2129,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2197,7 +2202,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 21
     }
   ],
@@ -2205,8 +2210,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:03:46.9517698+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:03:44.8531827+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:02:46.405042+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:03:46.9518121+00:00"
+  "LastUpdate_Ratings": "2023-10-04T12:02:15.5245833+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:03:44.8532076+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 3.00% | ~20,718 |
-| Hazardous Materials | 3.00% | ~20,718 |
-| Hotel California | 3.00% | ~20,718 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,718 |
-| Welcome To Hell-A | 3.00% | ~20,718 |
+| Break A Leg | 3.00% | ~20,719 |
+| Hazardous Materials | 3.00% | ~20,719 |
+| Hotel California | 3.00% | ~20,719 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,719 |
+| Welcome To Hell-A | 3.00% | ~20,719 |
 | Dr. Reed, I Presume? | 2.00% | ~13,812 |
 | Git Gutte! | 2.00% | ~13,812 |
 | Anger Management | 2.00% | ~13,812 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 509)
 | Humanity Distilled | 1.00% | ~6,906 |
 | Down with the Sickness | 1.00% | ~6,906 |
 | Max Headroom | 1.00% | ~6,906 |
-| Jumbo Keyring | 0.90% | ~6,215 |
-| Go, Bobcats! | 0.90% | ~6,215 |
-| Rising Star | 0.90% | ~6,215 |
+| Jumbo Keyring | 0.90% | ~6,216 |
+| Go, Bobcats! | 0.90% | ~6,216 |
+| Rising Star | 0.90% | ~6,216 |
 | Smorgasbord | 0.80% | ~5,525 |
 | Internet Famous | 0.70% | ~4,834 |
 | On Safari | 0.60% | ~4,144 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,592 (Ranked 22)  
+Progressed: 690,619 (Ranked 22)  
 Completed: 2,190 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,14 +218,14 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
-| 2023-10-04 | 690,592 | 2,190 |
+| 2023-10-04 | 690,619 | 2,190 |
 ## Awards
-Max (Great Boss Battles): 6,301  (Ranked 58)  
-Sum: 9,402 (Ranked 91)  
+Max (Great Boss Battles): 6,318  (Ranked 58)  
+Sum: 9,419 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,301 |
+| This game has Great Boss Battles | 6,318 |
 | This game is Great for Beginners | 443 |
 | This game has Diverse Characters | 436 |
 | This game has Quickly Understood Controls | 415 |
@@ -403,4 +403,4 @@ Diff (max vs sum): -33
 | 2023-10-01 | 4.54 | 6,270 | 9,358 |
 | 2023-10-02 | 4.54 | 6,289 | 9,380 |
 | 2023-10-03 | 4.54 | 6,301 | 9,397 |
-| 2023-10-04 | 4.54 | 6,301 | 9,402 |
+| 2023-10-04 | 4.54 | 6,318 | 9,419 |

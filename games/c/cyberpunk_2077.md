@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,543 |
-| Rough Landing | 4.00% | ~35,543 |
-| Gunslinger | 3.00% | ~26,657 |
-| Master Crafter | 3.00% | ~26,657 |
-| The High Priestess | 3.00% | ~26,657 |
-| The Jungle | 3.00% | ~26,657 |
-| Two Heads, One Bullet | 3.00% | ~26,657 |
+| Ten out of Ten | 5.00% | ~44,430 |
+| Rough Landing | 4.00% | ~35,544 |
+| Gunslinger | 3.00% | ~26,658 |
+| Master Crafter | 3.00% | ~26,658 |
+| The High Priestess | 3.00% | ~26,658 |
+| The Jungle | 3.00% | ~26,658 |
+| Two Heads, One Bullet | 3.00% | ~26,658 |
 | Full Body Conversion | 2.00% | ~17,772 |
 | Right Back At Ya | 2.00% | ~17,772 |
 | Mean Streets | 2.00% | ~17,772 |
@@ -39,8 +39,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.90% | ~155 |
 | City Lights | 0.80% | ~7,109 |
 | Life of the Road | 0.80% | ~7,109 |
-| Bushido and Chill | 0.60% | ~5,331 |
-| I Am The Law | 0.60% | ~5,331 |
+| Bushido and Chill | 0.70% | ~6,220 |
+| I Am The Law | 0.60% | ~5,332 |
 | The Wandering Fool | 0.50% | ~4,443 |
 | Autojock | 0.50% | ~4,443 |
 | Must Be Rats | 0.50% | ~4,443 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,577 (Ranked 15)  
+Progressed: 888,591 (Ranked 15)  
 Completed: 2,573 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,573 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,577 | 2,573 |
+| 2023-10-04 | 888,591 | 2,573 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 262,051 (Ranked 12)  

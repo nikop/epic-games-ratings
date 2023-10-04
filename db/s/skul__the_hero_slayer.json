@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1010,9 +1010,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8213,
+  "EOS_Progressed": 8214,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4840,6 +4840,11 @@
       "Time": "2023-10-01T15:06:37.8333158+00:00",
       "NumProgressed": 8213,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-04T12:04:07.5298946+00:00",
+      "NumProgressed": 8214,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4875,7 +4880,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4899,7 +4904,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4963,7 +4968,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "RookieWelcome",
@@ -4979,7 +4984,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5011,7 +5016,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5019,7 +5024,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5035,22 +5040,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6899
+      "UsersEstimate": 6900
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8213,
+      "Progressed": 8214,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-01T04:59:23.839773+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:04:10.5335987+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:04:07.5298941+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:23.1900424+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:57:33.7586128+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:04:10.5336748+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:57:22.1681574+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:04:07.5299246+00:00"
 }

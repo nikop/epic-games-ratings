@@ -358,9 +358,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2899,
+  "EOS_Progressed": 2900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2058,6 +2058,11 @@
       "Time": "2023-10-04T10:07:02.5511097+00:00",
       "NumProgressed": 2899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T12:08:34.6045511+00:00",
+      "NumProgressed": 2900,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2110,7 +2115,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "achievement_0007",
@@ -2118,7 +2123,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "achievement_0008",
@@ -2126,7 +2131,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "achievement_0009",
@@ -2230,7 +2235,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "achievement_0022",
@@ -2326,7 +2331,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "achievement_0034",
@@ -2461,7 +2466,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2899,
+      "Progressed": 2900,
       "Completed": 0
     }
   ],
@@ -2469,8 +2474,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-03T12:00:00.4377418+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:08:55.9017643+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:08:34.6045504+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:01:01.9456871+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:08:55.9018197+00:00"
+  "LastUpdate_Ratings": "2023-10-04T12:00:35.755427+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:08:34.6045912+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,151 |
+| Sowwy! | 32.00% | ~73,153 |
 | Alt+F4 | 6.00% | ~13,716 |
 | Where's that freaking Dwarf? | 5.00% | ~11,430 |
 | Déjà vu | 4.00% | ~9,144 |
@@ -56,6 +56,7 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.30% | ~686 |
 | The number of the counting shalt be 7 | 0.20% | ~457 |
 | 100% satisfaction guarantee | 0.20% | ~457 |
+| Death is for wimps | 0.20% | ~457 |
 | Inception | 0.20% | ~457 |
 | Cursed die | 0.10% | ~229 |
 | Necrophilia | 0.10% | ~229 |
@@ -88,14 +89,13 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.10% | ~229 |
 | Star-crossed lovers | 0.10% | ~229 |
 | Pyrrhic victory | 0.10% | ~229 |
-| Death is for wimps | 0.10% | ~229 |
 | Super-Ultra-Lydian | 0.10% | ~229 |
 | Lord of the Drunks | 0.10% | ~229 |
 | Demisemiquaver | 0.10% | ~229 |
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,597 (Ranked 58)  
+Progressed: 228,602 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
 | 2023-10-03 | 228,515 | 5 |
-| 2023-10-04 | 228,597 | 5 |
+| 2023-10-04 | 228,602 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

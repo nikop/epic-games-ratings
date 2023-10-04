@@ -23,17 +23,18 @@
 | The Corruption Goddess | 21.00% | ~8 |
 | Sentinelphobic | 15.00% | ~6 |
 | Shard Spender | 15.00% | ~6 |
+| Heavy Purger | 13.00% | ~5 |
 | Skeptical | 13.00% | ~5 |
 | Wave Bender | 13.00% | ~5 |
+| Can't touch this | 10.00% | ~4 |
 | Dice Specialist | 10.00% | ~4 |
 | Heart Gate | 10.00% | ~4 |
-| Heavy Purger | 10.00% | ~4 |
 | Astral Seeker | 8.00% | ~3 |
-| Can't touch this | 8.00% | ~3 |
 | Denying Destiny | 8.00% | ~3 |
 | The Goddes Avatar | 8.00% | ~3 |
 | The world goes round... | 8.00% | ~3 |
 | Unepic Hero | 8.00% | ~3 |
+| Favored by the Cosmos | 5.00% | ~2 |
 | Plague Doctor | 5.00% | ~2 |
 | Pocket Astrarium | 5.00% | ~2 |
 | Prestidigitation | 5.00% | ~2 |
@@ -45,7 +46,6 @@
 | Astrarium of Holding | 3.00% | ~1 |
 | Blazing Prince | 3.00% | ~1 |
 | Critical Twist | 3.00% | ~1 |
-| Favored by the Cosmos | 3.00% | ~1 |
 | Purification Avatar | 3.00% | ~1 |
 | Reflexive Mind | 3.00% | ~1 |
 | The Ardent Prince | 3.00% | ~1 |

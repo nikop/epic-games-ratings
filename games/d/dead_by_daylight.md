@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.30% | ~2,754 |
+| It wakes | 0.30% | ~2,755 |
 | Handyman | 0.20% | ~1,836 |
 | Zealous | 0.20% | ~1,836 |
 | Not half bad | 0.20% | ~1,836 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~918 |
 | Adept Ripley | 0.10% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,138 (Ranked 14)  
+Progressed: 918,190 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,22 +403,22 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,138 | 49 |
+| 2023-10-04 | 918,190 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
-Sum: 259,217 (Ranked 13)  
+Sum: 259,271 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,414 |
 | This game is Highly Recommended | 29,629 |
-| This game has Competitive Players | 29,320 |
+| This game has Competitive Players | 29,348 |
 | This game has Amazing Characters | 29,307 |
 | This game is Extremely Fun | 28,931 |
 | This game has Challenging Combat | 28,538 |
 | This game has Quickly Understood Controls | 28,473 |
 | This game has Amazing Storytelling | 26,561 |
-| This game has a Competitive Community | 25,044 |
+| This game has a Competitive Community | 25,070 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -677,4 +677,4 @@ Diff (max vs sum): 2
 | 2023-10-01 | 4.52 | - | 33,343 | 258,607 |
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
-| 2023-10-04 | 4.52 | - | 33,414 | 259,217 |
+| 2023-10-04 | 4.52 | - | 33,414 | 259,271 |

@@ -1215,9 +1215,9 @@
       "ID": "achievement_108",
       "SetID": "d252ncf",
       "Name": "Mail Slot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_109",
@@ -2163,8 +2163,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:05:04.4855375+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:04:57.9226755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:00:22.2862483+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:05:04.4857729+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:59:58.7186698+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:04:57.9228607+00:00"
 }

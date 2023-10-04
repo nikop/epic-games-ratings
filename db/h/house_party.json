@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -370,7 +370,7 @@
   "Tags": [],
   "EOS_Progressed": 6331,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6171,9 +6171,9 @@
       "ID": "tal",
       "SetID": "bmkn7o4",
       "Name": "Te Amo Lety",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -6193,8 +6193,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:07:43.2210015+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:07:26.4323238+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:57.7051399+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:59:57.9927225+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:07:43.2211894+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:59:38.1621657+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:07:26.4324013+00:00"
 }

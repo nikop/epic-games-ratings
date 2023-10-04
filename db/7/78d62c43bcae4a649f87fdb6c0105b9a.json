@@ -96,9 +96,9 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "cave",
@@ -152,9 +152,9 @@
       "ID": "mafia",
       "SetID": "40o2ndb",
       "Name": "Bye Gangrooster City",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "matrix",
@@ -248,9 +248,9 @@
       "ID": "world5",
       "SetID": "40o2ndb",
       "Name": "Rocky, the eye of the rooster",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 85,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "world5insane",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:07:30.7000526+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:07:14.8922339+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:01:17.3660734+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:07:30.7000815+00:00"
+  "LastUpdate_Ratings": "2023-10-04T12:00:51.2913593+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:07:14.8922476+00:00"
 }

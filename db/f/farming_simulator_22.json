@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9723,9 +9723,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49391,
+  "EOS_Progressed": 49393,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24613,6 +24613,11 @@
       "Time": "2023-10-04T10:09:16.551268+00:00",
       "NumProgressed": 49391,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-04T12:09:25.3266403+00:00",
+      "NumProgressed": 49393,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -24632,7 +24637,7 @@
       "Name": "Cowherd",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "BreedPigs",
@@ -24648,7 +24653,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "CarDriving",
@@ -24656,7 +24661,7 @@
       "Name": "Road Trip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "CollectiblesAlpine",
@@ -24704,7 +24709,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31610
+      "UsersEstimate": 31612
     },
     {
       "ID": "CutTree",
@@ -24720,7 +24725,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30129
+      "UsersEstimate": 30130
     },
     {
       "ID": "DeliveryGrapes",
@@ -24760,7 +24765,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29635
+      "UsersEstimate": 29636
     },
     {
       "ID": "Harvested",
@@ -24776,7 +24781,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37043
+      "UsersEstimate": 37045
     },
     {
       "ID": "HorseJumps",
@@ -24816,7 +24821,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "MissionFirst",
@@ -24832,7 +24837,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 26177
+      "UsersEstimate": 26178
     },
     {
       "ID": "NumBeehives",
@@ -24840,7 +24845,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "NumDrivables",
@@ -24848,7 +24853,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19756
+      "UsersEstimate": 19757
     },
     {
       "ID": "NumPlaceables",
@@ -24856,7 +24861,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21732
+      "UsersEstimate": 21733
     },
     {
       "ID": "NumProductionPoints",
@@ -24880,7 +24885,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28647
+      "UsersEstimate": 28648
     },
     {
       "ID": "PetDog",
@@ -24888,7 +24893,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 13829
+      "UsersEstimate": 13830
     },
     {
       "ID": "PlayTime",
@@ -24896,7 +24901,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29141
+      "UsersEstimate": 29142
     },
     {
       "ID": "Sow",
@@ -24912,7 +24917,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31116
+      "UsersEstimate": 31118
     },
     {
       "ID": "Stones",
@@ -24928,7 +24933,7 @@
       "Name": "Field Trip",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 21732
+      "UsersEstimate": 21733
     },
     {
       "ID": "TruckDriving",
@@ -24967,15 +24972,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49391,
+      "Progressed": 49393,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-03T22:57:47.7003867+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:09:28.6904177+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:09:25.3266399+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:58:30.5099833+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:09:28.6906975+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:58:16.483875+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:09:25.3267286+00:00"
 }

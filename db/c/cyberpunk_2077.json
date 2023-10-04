@@ -12959,10 +12959,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888577,
+  "EOS_Progressed": 888591,
   "EOS_Completed": 2573,
-  "EOS_NewPlayers": 5662,
-  "EOS_NewCompleters": 144,
+  "EOS_NewPlayers": 5630,
+  "EOS_NewCompleters": 143,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31759,6 +31759,11 @@
       "Time": "2023-10-04T11:09:17.3769179+00:00",
       "NumProgressed": 888577,
       "NumCompleted": 2573
+    },
+    {
+      "Time": "2023-10-04T12:09:14.880733+00:00",
+      "NumProgressed": 888591,
+      "NumCompleted": 2573
     }
   ],
   "TotalAchievements": 57,
@@ -31784,9 +31789,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5331
+      "UsersEstimate": 6220
     },
     {
       "ID": "Cyberjunkie",
@@ -31850,7 +31855,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "HandyMan",
@@ -31858,7 +31863,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "IAmMaxTac",
@@ -31866,7 +31871,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -31952,9 +31957,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35543
+      "UsersEstimate": 44430
     },
     {
       "ID": "Temperance",
@@ -31970,7 +31975,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35543
+      "UsersEstimate": 35544
     },
     {
       "ID": "TheDevil",
@@ -32002,7 +32007,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "TheLovers",
@@ -32058,7 +32063,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "TrueSoldier",
@@ -32082,7 +32087,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "UnderPressure",
@@ -32225,21 +32230,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888577,
+      "Progressed": 888591,
       "Completed": 2573
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17200,
+      "Progressed": 17214,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-04T09:00:35.9357517+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:09:17.3769173+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:09:14.8807325+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:02:20.7588213+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:09:17.3772326+00:00"
+  "LastUpdate_Ratings": "2023-10-04T12:01:52.4797083+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:09:14.8808607+00:00"
 }

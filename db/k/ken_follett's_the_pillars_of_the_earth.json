@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15534,
+  "EOS_Progressed": 15535,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
@@ -11325,6 +11325,11 @@
       "Time": "2023-10-04T11:07:09.387411+00:00",
       "NumProgressed": 15534,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-04T12:06:54.7971426+00:00",
+      "NumProgressed": 15535,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11376,7 +11381,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "tpote_achievement_15",
@@ -11424,7 +11429,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "tpote_achievement_20",
@@ -11480,7 +11485,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "tpote_achievement_27",
@@ -11520,7 +11525,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "tpote_achievement_31",
@@ -11648,7 +11653,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "tpote_achievement_9",
@@ -11663,15 +11668,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15534,
+      "Progressed": 15535,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-04T11:07:09.3874085+00:00",
+  "LastChanged_Achievements": "2023-10-04T12:06:54.7971421+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:59:32.475948+00:00",
-  "LastUpdate_Achievements": "2023-10-04T11:07:09.3875994+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:59:15.2334115+00:00",
+  "LastUpdate_Achievements": "2023-10-04T12:06:54.7972186+00:00"
 }
