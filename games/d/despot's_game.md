@@ -22,7 +22,7 @@ Rating: 4.50 (Ranked 573)
 | Campaigning | 26.00% | ~112 |
 | Assemble a Meganewbie | 25.00% | ~107 |
 | Frugal | 22.00% | ~94 |
-| Feed a God | 21.00% | ~90 |
+| Feed a God | 22.00% | ~94 |
 | To the Moon and Back | 20.00% | ~86 |
 | Great Flight | 18.00% | ~77 |
 | Holy Vengeance | 16.00% | ~69 |

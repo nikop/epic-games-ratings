@@ -12,7 +12,7 @@ Rating: 3.77 (Ranked 1,000)
 | Double the Barrels, double the Fun | 55.00% | ~9,217 |
 | Pimp My Glide | 48.00% | ~8,044 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,704 |
-| House Party! | 34.00% | ~5,698 |
+| House Party! | 35.00% | ~5,866 |
 | Make It Rain | 23.00% | ~3,855 |
 | Curse of the Seven Seas | 22.00% | ~3,687 |
 | Head First | 16.00% | ~2,681 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-10-04T21:04:54.9342866+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T22:05:46.4165632+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1550,9 +1555,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1560,7 +1565,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1614,9 +1619,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1632,7 +1637,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1663,14 +1668,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:04:54.9342859+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:05:46.4165627+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:58.5619697+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:59:04.145989+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:04:54.9343036+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:00:05.7702728+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:05:46.4165872+00:00"
 }

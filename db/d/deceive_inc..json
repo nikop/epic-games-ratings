@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18276,
+  "EOS_Progressed": 18277,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
@@ -11161,6 +11161,11 @@
       "Time": "2023-10-04T21:03:16.0972922+00:00",
       "NumProgressed": 18276,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T22:03:20.1432061+00:00",
+      "NumProgressed": 18277,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11300,7 +11305,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "0018",
@@ -11388,7 +11393,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "0029",
@@ -11459,7 +11464,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18276,
+      "Progressed": 18277,
       "Completed": 4
     }
   ],
@@ -11467,8 +11472,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:03:16.0972916+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:03:20.1432056+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:58:16.6077935+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:03:16.0973715+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:58:57.7482239+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:03:20.1433402+00:00"
 }

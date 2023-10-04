@@ -318,7 +318,7 @@
   "Tags": [],
   "EOS_Progressed": 2038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1786,9 +1786,9 @@
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 285
     }
   ],
   "AchievementSets": [
@@ -1803,8 +1803,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-04T21:00:00.246337+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:04:42.5130147+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:05:29.0643288+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:00:00.246338+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:04:42.5130485+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:01:31.2462849+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:05:29.0643571+00:00"
 }

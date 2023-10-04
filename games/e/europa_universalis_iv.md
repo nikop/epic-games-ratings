@@ -6,38 +6,38 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,894 |
-| Until death do us apart | 4.00% | ~16,894 |
-| That is mine! | 3.00% | ~12,670 |
-| Victorious! | 3.00% | ~12,670 |
-| Brothers in Arms | 2.00% | ~8,447 |
-| For the Glory | 2.00% | ~8,447 |
-| That's a Grand Navy | 2.00% | ~8,447 |
-| Seriously?! | 2.00% | ~8,447 |
-| Cold War | 1.00% | ~4,223 |
-| Defender of the Faith | 1.00% | ~4,223 |
-| It's all about the money | 1.00% | ~4,223 |
-| The Princess is in this Castle | 1.00% | ~4,223 |
-| True Catholic | 1.00% | ~4,223 |
+| That's a Grand Army | 4.00% | ~16,895 |
+| Until death do us apart | 4.00% | ~16,895 |
+| That is mine! | 3.00% | ~12,671 |
+| Victorious! | 3.00% | ~12,671 |
+| Brothers in Arms | 2.00% | ~8,448 |
+| For the Glory | 2.00% | ~8,448 |
+| That's a Grand Navy | 2.00% | ~8,448 |
+| Seriously?! | 2.00% | ~8,448 |
+| Cold War | 1.00% | ~4,224 |
+| Defender of the Faith | 1.00% | ~4,224 |
+| It's all about the money | 1.00% | ~4,224 |
+| The Princess is in this Castle | 1.00% | ~4,224 |
+| True Catholic | 1.00% | ~4,224 |
 | It's all about luck | 0.90% | ~3,801 |
 | Respected | 0.90% | ~3,801 |
 | Truly Divine Ruler | 0.90% | ~3,801 |
 | Blockader | 0.80% | ~3,379 |
 | Double the Love | 0.80% | ~3,379 |
 | Total Control | 0.80% | ~3,379 |
-| Royal Authority | 0.70% | ~2,956 |
+| Royal Authority | 0.70% | ~2,957 |
 | My armies are invincible! | 0.60% | ~2,534 |
 | Agressive Expander | 0.50% | ~2,112 |
 | Azur semé de lis or | 0.50% | ~2,112 |
 | City of Cities | 0.50% | ~2,112 |
 | Combined Arms | 0.50% | ~2,112 |
 | This navy can take it all | 0.50% | ~2,112 |
-| Bright Spark | 0.40% | ~1,689 |
-| Factionalism | 0.40% | ~1,689 |
-| Gentle Persuasion | 0.40% | ~1,689 |
-| Isn't this the way to India? | 0.40% | ~1,689 |
-| Queen of Conquest | 0.40% | ~1,689 |
-| The Five Colonies | 0.40% | ~1,689 |
+| Bright Spark | 0.40% | ~1,690 |
+| Factionalism | 0.40% | ~1,690 |
+| Gentle Persuasion | 0.40% | ~1,690 |
+| Isn't this the way to India? | 0.40% | ~1,690 |
+| Queen of Conquest | 0.40% | ~1,690 |
+| The Five Colonies | 0.40% | ~1,690 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,267 |
 | Down Under | 0.30% | ~1,267 |
 | The Emperors new clothes | 0.30% | ~1,267 |
@@ -347,6 +347,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Viva la Revolución! | 0.10% | ~422 |
 | Voltaire's Nightmare | 0.10% | ~422 |
 | We bled for this | 0.10% | ~422 |
+| Where Am I? | 0.10% | ~422 |
 | Where are the penguins? | 0.10% | ~422 |
 | Where the heart is | 0.10% | ~422 |
 | The White Elephant | 0.10% | ~422 |
@@ -358,10 +359,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~422 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~422 |
 | Pick Your Poison | 0.00% | ~0 |
-| Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422,349 (Ranked 41)  
+Progressed: 422,383 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 422,349 | 1 |
+| 2023-10-04 | 422,383 | 1 |
 ## Awards
 Max (Educational): 6,390  (Ranked 57)  
 Sum: 52,513 (Ranked 24)  

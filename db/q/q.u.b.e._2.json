@@ -350,7 +350,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -2305,6 +2305,11 @@
       "Time": "2023-10-04T20:05:04.8487464+00:00",
       "NumProgressed": 567,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T22:04:55.6855404+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2325,7 +2330,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -2453,7 +2458,7 @@
       "Name": "Infinity Loop",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_HUB1",
@@ -2461,7 +2466,7 @@
       "Name": "Mission Success",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_HUB2",
@@ -2477,15 +2482,15 @@
       "Name": "Nature or Nurture",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_PROPELL",
@@ -2525,7 +2530,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2533,7 +2538,7 @@
       "Name": "Lost in Space",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_STATUE",
@@ -2548,15 +2553,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:04:17.9235199+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:04:55.6855398+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:59:51.6088734+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:04:17.9235487+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:01:18.2649698+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:04:55.6855791+00:00"
 }

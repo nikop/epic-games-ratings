@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1479,9 +1479,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_57",
@@ -1590,8 +1590,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:04:48.997925+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:05:38.01701+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:00:28.8078248+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:04:48.9979963+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:02:11.8866392+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:05:38.0170782+00:00"
 }

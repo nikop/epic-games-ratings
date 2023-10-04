@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -994,9 +994,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2990,
+  "EOS_Progressed": 2991,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5179,6 +5179,11 @@
       "Time": "2023-10-04T17:08:19.4810059+00:00",
       "NumProgressed": 2990,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T22:08:31.3772266+00:00",
+      "NumProgressed": 2991,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5342,7 +5347,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5564,24 +5569,24 @@
       "ID": "ACH_YOURE-FREE-NOW",
       "SetID": "72olkc5",
       "Name": "You\u0027re free now!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1795
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2990,
+      "Progressed": 2991,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-04T13:07:43.5320622+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:06:56.5731329+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:08:31.3772257+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.4747001+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:57:51.8314005+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:06:56.5731851+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:58:21.5008126+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:08:31.377294+00:00"
 }

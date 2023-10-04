@@ -22,7 +22,7 @@ Rating: 3.83 (Ranked 990)
 | Amateur Chef | 23.00% | ~372 |
 | Fishing Guru | 21.00% | ~340 |
 | Spark of Love | 18.00% | ~291 |
-| Community Helper | 17.00% | ~275 |
+| Community Helper | 18.00% | ~291 |
 | Expert Chemist | 14.00% | ~226 |
 | Stone Specialist | 14.00% | ~226 |
 | Sociable | 13.00% | ~210 |
@@ -170,8 +170,8 @@ Completed: 9 (0.56%) (Ranked 162)
 | 2023-10-02 | 1,617 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 386)  
-Sum: 69 (Ranked 446)  
-Diff (max vs sum): -60  
+Sum: 69 (Ranked 447)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

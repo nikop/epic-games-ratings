@@ -38,11 +38,11 @@ Number of Ratings: 62  (23.09.2022)
 | Is This Real Life? | 9.00% | ~424 |
 | Pusher Man | 8.00% | ~377 |
 | Squad Chief Helvig | 8.00% | ~377 |
+| Sunglasses at Night | 7.00% | ~330 |
 | Duty-Bound | 7.00% | ~330 |
 | Follow the White Rabbit | 7.00% | ~330 |
 | Liberation | 7.00% | ~330 |
 | Risk Assessment | 7.00% | ~330 |
-| Sunglasses at Night | 6.00% | ~283 |
 | Carbon Cat | 6.00% | ~283 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~236 |
 | Man of Steel | 5.00% | ~236 |

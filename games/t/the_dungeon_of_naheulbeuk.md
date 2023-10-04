@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,178 |
+| Sowwy! | 32.00% | ~73,181 |
 | Alt+F4 | 6.00% | ~13,721 |
 | Where's that freaking Dwarf? | 5.00% | ~11,434 |
-| Déjà vu | 4.00% | ~9,147 |
-| Sock! SOCK! | 4.00% | ~9,147 |
-| A beer, two curses, three companions | 3.00% | ~6,860 |
-| GG EZ | 3.00% | ~6,860 |
-| DM intervention | 3.00% | ~6,860 |
-| Speedrun | 3.00% | ~6,860 |
-| Fireproof Wizardess | 3.00% | ~6,860 |
+| Déjà vu | 4.00% | ~9,148 |
+| Sock! SOCK! | 4.00% | ~9,148 |
+| A beer, two curses, three companions | 3.00% | ~6,861 |
+| GG EZ | 3.00% | ~6,861 |
+| DM intervention | 3.00% | ~6,861 |
+| Speedrun | 3.00% | ~6,861 |
+| Fireproof Wizardess | 3.00% | ~6,861 |
 | Livin' in a dwarven paradise | 2.00% | ~4,574 |
 | Way of the Wimp | 2.00% | ~4,574 |
 | The plot thickens... At the tavern | 2.00% | ~4,574 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,287 |
 | Thieves' Guild Accreditation | 1.00% | ~2,287 |
 | Lust and Debauchery | 0.90% | ~2,058 |
-| Dead for good | 0.80% | ~1,829 |
-| Material Girl | 0.80% | ~1,829 |
+| Dead for good | 0.80% | ~1,830 |
+| Material Girl | 0.80% | ~1,830 |
 | Gargantua | 0.70% | ~1,601 |
 | In Navalu's footsteps | 0.60% | ~1,372 |
 | Lëgal Legend | 0.60% | ~1,372 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,681 (Ranked 58)  
+Progressed: 228,690 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
 | 2023-10-03 | 228,515 | 5 |
-| 2023-10-04 | 228,681 | 5 |
+| 2023-10-04 | 228,690 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

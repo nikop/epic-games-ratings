@@ -2,7 +2,7 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 56,
@@ -1127,8 +1127,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:04:21.2747658+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:05:00.4710115+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:58:21.8202361+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:04:21.2747808+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:59:05.0645826+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:05:00.4710339+00:00"
 }

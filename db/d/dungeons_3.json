@@ -2758,9 +2758,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 32317,
+  "EOS_Progressed": 32318,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -21028,6 +21028,11 @@
       "Time": "2023-10-04T21:09:30.8011401+00:00",
       "NumProgressed": 32317,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-04T22:09:30.6457656+00:00",
+      "NumProgressed": 32318,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 60,
@@ -21103,7 +21108,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 8079
+      "UsersEstimate": 8080
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -21151,7 +21156,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 15835
+      "UsersEstimate": 15836
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -21175,7 +21180,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -21199,7 +21204,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -21231,7 +21236,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -21247,7 +21252,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 13896
+      "UsersEstimate": 13897
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -21319,7 +21324,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8402
+      "UsersEstimate": 8403
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -21365,9 +21370,9 @@
       "ID": "ACH_D3_Campaign_Renegade_Completed",
       "SetID": "cda475f",
       "Name": "For a handfull of Catapults",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9049
+      "UsersEstimate": 9372
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -21399,7 +21404,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -21463,7 +21468,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6463
+      "UsersEstimate": 6464
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -21511,22 +21516,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8402
+      "UsersEstimate": 8403
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 32317,
+      "Progressed": 32318,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-04T14:57:31.1192295+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:09:30.8011392+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:09:30.6457653+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:41.4813131+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:57:14.6221489+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:09:30.8012643+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:57:29.2511197+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:09:30.6460324+00:00"
 }

@@ -7102,10 +7102,10 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230896,
+  "EOS_Progressed": 230898,
   "EOS_Completed": 2329,
-  "EOS_NewPlayers": 673,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 672,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -25717,6 +25717,11 @@
       "Time": "2023-10-04T21:06:00.3264901+00:00",
       "NumProgressed": 230896,
       "NumCompleted": 2329
+    },
+    {
+      "Time": "2023-10-04T22:07:14.6278591+00:00",
+      "NumProgressed": 230898,
+      "NumCompleted": 2329
     }
   ],
   "TotalAchievements": 528,
@@ -25782,9 +25787,9 @@
       "ID": "objective_completed_1045",
       "SetID": "415jc5c",
       "Name": "Friends and Foes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1046",
@@ -25798,9 +25803,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1051",
@@ -25854,9 +25859,9 @@
       "ID": "objective_completed_1058",
       "SetID": "415jc5c",
       "Name": "A Familiar Behind Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1060",
@@ -25934,9 +25939,9 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1075",
@@ -26070,9 +26075,9 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1096",
@@ -26390,9 +26395,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_1160",
@@ -26406,9 +26411,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1164",
@@ -26422,9 +26427,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1168",
@@ -26462,9 +26467,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1174",
@@ -26694,9 +26699,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_13",
@@ -26718,9 +26723,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_132",
@@ -26958,9 +26963,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_170",
@@ -26998,9 +27003,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_181",
@@ -27030,9 +27035,9 @@
       "ID": "objective_completed_185",
       "SetID": "cc37lbc",
       "Name": "The Soulmonger Calls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_186",
@@ -27262,9 +27267,9 @@
       "ID": "objective_completed_254",
       "SetID": "415jc5c",
       "Name": "Mongrelfolk Incursion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_262",
@@ -27310,9 +27315,9 @@
       "ID": "objective_completed_268",
       "SetID": "cc37lbc",
       "Name": "Visions of Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_269",
@@ -27326,9 +27331,9 @@
       "ID": "objective_completed_270",
       "SetID": "415jc5c",
       "Name": "The Strahd Squad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_278",
@@ -27454,9 +27459,9 @@
       "ID": "objective_completed_380",
       "SetID": "cc37lbc",
       "Name": "Air\u0027s Getting Pretty Thin",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_381",
@@ -27566,9 +27571,9 @@
       "ID": "objective_completed_396",
       "SetID": "415jc5c",
       "Name": "Shadowfell Stalwarts",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_398",
@@ -27766,9 +27771,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_424",
@@ -27798,9 +27803,9 @@
       "ID": "objective_completed_428",
       "SetID": "cc37lbc",
       "Name": "Who Lurks in Lurkwood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_429",
@@ -27894,9 +27899,9 @@
       "ID": "objective_completed_542",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_543",
@@ -27998,9 +28003,9 @@
       "ID": "objective_completed_557",
       "SetID": "cc37lbc",
       "Name": "Sober Up",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_558",
@@ -28126,9 +28131,9 @@
       "ID": "objective_completed_576",
       "SetID": "cc37lbc",
       "Name": "Cold \u0026 Wet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_577",
@@ -28262,17 +28267,17 @@
       "ID": "objective_completed_597",
       "SetID": "415jc5c",
       "Name": "The Misty Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_60",
@@ -28302,9 +28307,9 @@
       "ID": "objective_completed_602",
       "SetID": "415jc5c",
       "Name": "Earthquake!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_603",
@@ -28598,9 +28603,9 @@
       "ID": "objective_completed_646",
       "SetID": "415jc5c",
       "Name": "Zapper Overload",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_647",
@@ -28918,9 +28923,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_77",
@@ -29022,9 +29027,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_812",
@@ -29046,9 +29051,9 @@
       "ID": "objective_completed_814",
       "SetID": "415jc5c",
       "Name": "A Neutral Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_817",
@@ -29078,9 +29083,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_827",
@@ -29214,9 +29219,9 @@
       "ID": "objective_completed_849",
       "SetID": "415jc5c",
       "Name": "Tough Acting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_850",
@@ -29270,9 +29275,9 @@
       "ID": "objective_completed_858",
       "SetID": "415jc5c",
       "Name": "Dive Bomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_859",
@@ -29742,9 +29747,9 @@
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1375",
@@ -29790,9 +29795,9 @@
       "ID": "objective_completed_1386",
       "SetID": "415jc5c",
       "Name": "3,720 to 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1390",
@@ -29951,21 +29956,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197170,
+      "Progressed": 197172,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230896,
+      "Progressed": 230898,
       "Completed": 2329
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:06:00.3264894+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:07:14.6278583+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-04T21:00:26.374021+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:06:00.3290965+00:00"
+  "LastUpdate_Ratings": "2023-10-04T22:02:07.8737639+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:07:14.630923+00:00"
 }

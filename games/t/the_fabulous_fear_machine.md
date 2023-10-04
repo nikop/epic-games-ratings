@@ -13,16 +13,17 @@
 | Pulp! Out of this World | 33.00% | ~2 |
 | A continent with chemistry | 33.00% | ~2 |
 | The happy farmer girl | 33.00% | ~2 |
+| Diagnosis: fear | 33.00% | ~2 |
+| Ambition is... blind | 33.00% | ~2 |
+| You have two wishes left | 33.00% | ~2 |
 | You had one wish left | 17.00% | ~1 |
 | A rival with no options | 17.00% | ~1 |
 | The seer | 17.00% | ~1 |
 | Pulp! Terror Tales in the Night | 17.00% | ~1 |
 | Pulp! Where Monsters Dwell | 17.00% | ~1 |
+| Pulp! Adventures into the Unknown | 17.00% | ~1 |
 | Kirlian's best disciple | 17.00% | ~1 |
 | The barbarian invasions | 17.00% | ~1 |
-| Diagnosis: fear | 17.00% | ~1 |
-| Ambition is... blind | 17.00% | ~1 |
-| You have two wishes left | 17.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |

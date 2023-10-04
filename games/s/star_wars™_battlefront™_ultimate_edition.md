@@ -27,7 +27,7 @@
 | Judge me by my size, do you? | 9.00% | ~39 |
 | Distinguished | 8.00% | ~34 |
 | A tremor in the Force | 8.00% | ~34 |
-| Support the troops | 7.00% | ~30 |
+| Support the troops | 8.00% | ~34 |
 | On the ball | 6.00% | ~26 |
 | Not bad for a little furball | 6.00% | ~26 |
 | Patience you must have | 6.00% | ~26 |

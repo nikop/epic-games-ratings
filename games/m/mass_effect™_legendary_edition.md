@@ -12,7 +12,7 @@
 | Quarian Ally | 70.00% | ~388 |
 | Medal of Heroism | 66.00% | ~366 |
 | Honorarium of Corporate Service | 66.00% | ~366 |
-| Medal of Exploration II | 59.00% | ~327 |
+| Medal of Exploration II | 60.00% | ~332 |
 | Council Legion of Merit | 58.00% | ~321 |
 | Medal of Honor | 56.00% | ~310 |
 | Meritorious Service Medal | 56.00% | ~310 |
@@ -27,8 +27,8 @@
 | Paramour I | 45.00% | ~249 |
 | Sentinel Ally | 45.00% | ~249 |
 | Krogan Ally | 45.00% | ~249 |
+| Merciless | 45.00% | ~249 |
 | Scientist | 45.00% | ~249 |
-| Merciless | 44.00% | ~244 |
 | Head Hunter | 42.00% | ~233 |
 | Very Elusive | 41.00% | ~227 |
 | Operative | 41.00% | ~227 |
@@ -37,9 +37,9 @@
 | Veteran | 39.00% | ~216 |
 | Power Full | 39.00% | ~216 |
 | The Professor | 37.00% | ~205 |
+| Completionist | 36.00% | ~199 |
 | The Archangel | 36.00% | ~199 |
 | The Convict | 36.00% | ~199 |
-| Completionist | 35.00% | ~194 |
 | Colony Defense | 35.00% | ~194 |
 | The Krogan | 35.00% | ~194 |
 | Archivist | 34.00% | ~188 |
@@ -95,10 +95,10 @@
 | Under Pressure | 17.00% | ~94 |
 | Sabotage Specialist | 17.00% | ~94 |
 | Hard Target | 17.00% | ~94 |
+| Last Witness | 17.00% | ~94 |
 | Fact Finder | 17.00% | ~94 |
 | Last Resort | 16.00% | ~89 |
 | Saboteur | 16.00% | ~89 |
-| Last Witness | 16.00% | ~89 |
 | Throw Mastery | 15.00% | ~83 |
 | Well Connected | 15.00% | ~83 |
 | Master and Commander | 15.00% | ~83 |

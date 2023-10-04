@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21432,
+  "EOS_Progressed": 21433,
   "EOS_Completed": 427,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -18370,6 +18370,11 @@
       "Time": "2023-10-04T21:03:19.8240312+00:00",
       "NumProgressed": 21432,
       "NumCompleted": 427
+    },
+    {
+      "Time": "2023-10-04T22:03:25.0705027+00:00",
+      "NumProgressed": 21433,
+      "NumCompleted": 427
     }
   ],
   "TotalAchievements": 20,
@@ -18381,7 +18386,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -18397,7 +18402,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3000
+      "UsersEstimate": 3001
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -18540,15 +18545,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21432,
+      "Progressed": 21433,
       "Completed": 427
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-04T21:03:19.8240307+00:00",
+  "LastChanged_Achievements": "2023-10-04T22:03:25.0705021+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:57:27.6569062+00:00",
-  "LastUpdate_Achievements": "2023-10-04T21:03:19.8241331+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:57:45.4627536+00:00",
+  "LastUpdate_Achievements": "2023-10-04T22:03:25.0707212+00:00"
 }
