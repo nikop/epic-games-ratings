@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 67.00% | ~6 |
 | Sea Legs | 56.00% | ~5 |
+| What?! | 22.00% | ~2 |
 | Hoist the Sails | 22.00% | ~2 |
 | Frogs Legs | 11.00% | ~1 |
 | Socialite | 11.00% | ~1 |
@@ -13,7 +14,6 @@
 | Mad Scientist | 11.00% | ~1 |
 | Safe Investment | 11.00% | ~1 |
 | Bank of Me | 11.00% | ~1 |
-| What?! | 11.00% | ~1 |
 | Secure the Sheets | 11.00% | ~1 |
 | Replace the Rudder | 11.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |

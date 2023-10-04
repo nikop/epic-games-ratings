@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7545,
+  "EOS_Progressed": 7546,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7219,6 +7219,11 @@
       "Time": "2023-10-03T01:51:16.6215281+00:00",
       "NumProgressed": 7545,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-04T02:26:07.6586689+00:00",
+      "NumProgressed": 7546,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7230,7 +7235,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ARRR",
@@ -7334,7 +7339,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "LIBERATOR",
@@ -7397,7 +7402,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7545,
+      "Progressed": 7546,
       "Completed": 33
     }
   ],
@@ -7405,8 +7410,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:52:17.618902+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:26:07.6586684+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.4912999+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:43:18.0803734+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:52:17.618964+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:16:47.4607156+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:26:07.6587265+00:00"
 }

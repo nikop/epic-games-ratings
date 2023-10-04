@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 72.00% | ~423 |
-| Snake Eyes | 57.00% | ~335 |
-| Be water, my friend | 55.00% | ~323 |
+| Dash Crash | 72.00% | ~424 |
+| Snake Eyes | 57.00% | ~336 |
+| Be water, my friend | 55.00% | ~324 |
 | Fireball | 44.00% | ~259 |
-| The King of Flat | 40.00% | ~235 |
-| Air Slash | 31.00% | ~182 |
-| Hit That Ball | 31.00% | ~182 |
-| Eat That Apple | 22.00% | ~129 |
+| The King of Flat | 40.00% | ~236 |
+| Air Slash | 31.00% | ~183 |
+| Hit That Ball | 31.00% | ~183 |
+| Eat That Apple | 22.00% | ~130 |
 | Tornado Chaser | 12.00% | ~71 |
 | Bomberman | 8.00% | ~47 |
 | Bubble Party | 7.00% | ~41 |
@@ -31,9 +31,9 @@
 | Apprentice | 1.00% | ~6 |
 | Vertigo | 1.00% | ~6 |
 | Rogue | 1.00% | ~6 |
-| Tornado Chaser - Hero Edition | 0.90% | ~5 |
-| Bomberman - Hero Edition | 0.90% | ~5 |
-| Oh, no | 0.90% | ~5 |
+| Tornado Chaser - Hero Edition | 0.80% | ~5 |
+| Bomberman - Hero Edition | 0.80% | ~5 |
+| Oh, no | 0.80% | ~5 |
 | The Colossus - Hero Edition | 0.70% | ~4 |
 | Pim Pam Pum - Hero Edition | 0.50% | ~3 |
 | Killing Spree | 0.50% | ~3 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 258)  
+Progressed: 589 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 534 | 0 |
 | 2023-10-02 | 563 | 0 |
 | 2023-10-03 | 588 | 0 |
+| 2023-10-04 | 589 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

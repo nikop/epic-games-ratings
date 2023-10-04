@@ -4,7 +4,7 @@
   "ProductSlug": "ikaruga-a200be",
   "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-30T07:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.162835+00:00",
   "LastChanged": "2023-03-31T05:57:47.1628351+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:43.0298649+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:41:49.5317591+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:52:15.4144387+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:15:23.5855679+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:26:05.6245496+00:00"
 }

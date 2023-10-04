@@ -10012,9 +10012,9 @@
       "ID": "ACH_HACKS_IN_STACKS",
       "SetID": "97mcd7i",
       "Name": "Hacks In Stacks",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4956
+      "UsersEstimate": 5048
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -10308,8 +10308,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:50:08.5921695+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:23:41.6956709+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.2117105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:44:30.0008838+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:50:08.5922696+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:17:58.605546+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:23:41.6957674+00:00"
 }

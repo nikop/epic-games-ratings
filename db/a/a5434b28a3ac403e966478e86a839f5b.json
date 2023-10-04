@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -772,6 +772,11 @@
       "Time": "2023-10-04T01:49:55.0222297+00:00",
       "NumProgressed": 336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T02:23:28.8062847+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -792,7 +797,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_eou2",
@@ -808,7 +813,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_eou4",
@@ -887,14 +892,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:49:55.0222292+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:23:28.8062842+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:42:15.9939939+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:49:55.0222425+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:15:47.5894642+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:23:28.8062985+00:00"
 }

@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14327,
+  "EOS_Progressed": 14328,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12895,6 +12895,11 @@
       "Time": "2023-10-04T01:50:43.0799082+00:00",
       "NumProgressed": 14327,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T02:24:15.2380519+00:00",
+      "NumProgressed": 14328,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13336,9 +13341,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -14024,9 +14029,9 @@
       "ID": "ACHIEVEMENT_GREECE3_THREE_WIVES",
       "SetID": "9201eeb",
       "Name": "Three\u0027s a Crowd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY",
@@ -15641,21 +15646,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14327,
+      "Progressed": 14328,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14327,
+      "Progressed": 14328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:50:43.0799068+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:24:15.2380513+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:43:04.6593561+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:50:43.0810522+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:16:35.0300955+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:24:15.2392093+00:00"
 }

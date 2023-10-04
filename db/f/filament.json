@@ -255,9 +255,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202758,
+  "EOS_Progressed": 202759,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18230,6 +18230,11 @@
       "Time": "2023-10-04T01:49:26.6614951+00:00",
       "NumProgressed": 202758,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-10-04T02:23:01.7034852+00:00",
+      "NumProgressed": 202759,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 29,
@@ -18377,7 +18382,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12165
+      "UsersEstimate": 12166
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -18472,7 +18477,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202758,
+      "Progressed": 202759,
       "Completed": 512
     }
   ],
@@ -18480,8 +18485,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-09-23T16:57:23.9604774+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:49:26.6614938+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:23:01.7034847+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.6444699+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:41:28.125585+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:49:26.6616325+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:15:04.2275852+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:23:01.7036139+00:00"
 }

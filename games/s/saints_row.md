@@ -8,20 +8,20 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~33,891 |
 | To The Nines | 42.00% | ~30,944 |
-| Optimized | 36.00% | ~26,523 |
-| Performance Review | 36.00% | ~26,523 |
+| Optimized | 36.00% | ~26,524 |
+| Performance Review | 36.00% | ~26,524 |
 | Making a Name | 34.00% | ~25,050 |
 | Tune Up | 33.00% | ~24,313 |
-| Wet Work | 32.00% | ~23,576 |
-| Landlord | 32.00% | ~23,576 |
+| Wet Work | 32.00% | ~23,577 |
+| Landlord | 32.00% | ~23,577 |
 | The Side Job | 31.00% | ~22,840 |
-| Wrecking Ball | 28.00% | ~20,629 |
+| Wrecking Ball | 28.00% | ~20,630 |
 | Food for Thought | 27.00% | ~19,893 |
 | Finders Keepers | 25.00% | ~18,419 |
 | A Young Empire | 25.00% | ~18,419 |
-| Work Ethic | 23.00% | ~16,945 |
-| Power Players | 19.00% | ~13,998 |
-| Picking Fights | 19.00% | ~13,998 |
+| Work Ethic | 23.00% | ~16,946 |
+| Power Players | 19.00% | ~13,999 |
+| Picking Fights | 19.00% | ~13,999 |
 | Quality Time | 18.00% | ~13,262 |
 | Et tu? | 17.00% | ~12,525 |
 | Showdown | 16.00% | ~11,788 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~147 |
 | Fiesta Time | 0.20% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,676 (Ranked 86)  
+Progressed: 73,677 (Ranked 86)  
 Completed: 50 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 50 (0.07%) (Ranked 254)
 | 2023-10-01 | 73,412 | 50 |
 | 2023-10-02 | 73,547 | 50 |
 | 2023-10-03 | 73,662 | 50 |
-| 2023-10-04 | 73,676 | 50 |
+| 2023-10-04 | 73,677 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,663 (Ranked 97)  

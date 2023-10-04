@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -851,9 +851,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1058,8 +1058,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:49:03.5321628+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:22:39.0985582+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:41:10.4414804+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:49:03.5321873+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:14:46.7779006+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:22:39.0985811+00:00"
 }

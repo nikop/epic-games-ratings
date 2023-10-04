@@ -12861,10 +12861,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 261184,
       "NumberOfAwardsMax": 90464
+    },
+    {
+      "Time": "2023-10-04T02:17:36.5570725+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 261342,
+      "NumberOfAwardsMax": 90464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261184,
+  "NumberOfAwards": 261342,
   "NumberOfAwardsMax": 90464,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12890,7 +12896,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12188
+      "Count": 12346
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12941,9 +12947,9 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888462,
+  "EOS_Progressed": 888470,
   "EOS_Completed": 2570,
-  "EOS_NewPlayers": 5824,
+  "EOS_NewPlayers": 5808,
   "EOS_NewCompleters": 146,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31691,6 +31697,11 @@
       "Time": "2023-10-04T01:52:27.232229+00:00",
       "NumProgressed": 888462,
       "NumCompleted": 2570
+    },
+    {
+      "Time": "2023-10-04T02:26:17.0898544+00:00",
+      "NumProgressed": 888470,
+      "NumCompleted": 2570
     }
   ],
   "TotalAchievements": 57,
@@ -31886,7 +31897,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35538
+      "UsersEstimate": 35539
     },
     {
       "ID": "Temperance",
@@ -31902,7 +31913,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35538
+      "UsersEstimate": 35539
     },
     {
       "ID": "TheDevil",
@@ -32157,21 +32168,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888462,
+      "Progressed": 888470,
       "Completed": 2570
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17085,
+      "Progressed": 17093,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-04T01:44:07.6322543+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:52:27.2322274+00:00",
+  "LastChanged": "2023-10-04T02:17:36.5570724+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:26:17.0898539+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:44:07.632255+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:52:27.2323976+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:17:36.557073+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:26:17.0900133+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 3.98 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~459,090 |
-| Health Junkie | 41.00% | ~257,845 |
-| You Complete Me | 39.00% | ~245,267 |
-| Guardian Angel | 35.00% | ~220,112 |
-| Devil Inside Me | 27.00% | ~169,801 |
-| Fantastic Four | 20.00% | ~125,778 |
-| Killing Spree | 19.00% | ~119,489 |
-| Marksman Novice | 17.00% | ~106,911 |
-| First Blood | 12.00% | ~75,467 |
-| Top 10 | 12.00% | ~75,467 |
-| Now You See Me, Now You Don't | 10.00% | ~62,889 |
-| Marksman Expert | 8.00% | ~50,311 |
-| CQB Novice | 8.00% | ~50,311 |
-| Collateral Damage | 6.00% | ~37,733 |
-| Airborne | 6.00% | ~37,733 |
+| Blood on My Hands | 73.00% | ~459,104 |
+| Health Junkie | 41.00% | ~257,853 |
+| You Complete Me | 39.00% | ~245,275 |
+| Guardian Angel | 35.00% | ~220,118 |
+| Devil Inside Me | 27.00% | ~169,805 |
+| Fantastic Four | 20.00% | ~125,782 |
+| Killing Spree | 19.00% | ~119,493 |
+| Marksman Novice | 17.00% | ~106,915 |
+| First Blood | 12.00% | ~75,469 |
+| Top 10 | 12.00% | ~75,469 |
+| Now You See Me, Now You Don't | 10.00% | ~62,891 |
+| Marksman Expert | 8.00% | ~50,313 |
+| CQB Novice | 8.00% | ~50,313 |
+| Collateral Damage | 6.00% | ~37,735 |
+| Airborne | 6.00% | ~37,735 |
 | Pacifist | 5.00% | ~31,445 |
 | Last Survivor | 4.00% | ~25,156 |
 | Trigonometry Novice | 4.00% | ~25,156 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 967)
 | Nade King Master | 0.10% | ~629 |
 | Shoot the Knee | 0.10% | ~629 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628,891 (Ranked 28)  
+Progressed: 628,909 (Ranked 28)  
 Completed: 10 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 10 (0.00%) (Ranked 306)
 | 2023-10-01 | 625,437 | 10 |
 | 2023-10-02 | 627,237 | 10 |
 | 2023-10-03 | 628,780 | 10 |
-| 2023-10-04 | 628,891 | 10 |
+| 2023-10-04 | 628,909 | 10 |
 ## Awards
 Max (Competitive Players): 3,886  (Ranked 84)  
 Sum: 12,723 (Ranked 77)  

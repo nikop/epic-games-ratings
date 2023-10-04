@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 753,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2224,9 +2224,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_14",
@@ -2577,8 +2577,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:50:31.9797788+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:24:04.3589013+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:42:28.5466619+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:50:31.9798327+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:15:59.4085999+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:24:04.3589517+00:00"
 }

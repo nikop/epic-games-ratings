@@ -6,12 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.20% | ~1,835 |
-| It wakes | 0.20% | ~1,835 |
-| Not half bad | 0.20% | ~1,835 |
-| Apt Survivor | 0.20% | ~1,835 |
-| Skillful | 0.20% | ~1,835 |
-| Make Some Noise | 0.20% | ~1,835 |
+| Zealous | 0.20% | ~1,836 |
+| It wakes | 0.20% | ~1,836 |
+| Not half bad | 0.20% | ~1,836 |
+| Apt Survivor | 0.20% | ~1,836 |
+| Survival Treasures | 0.20% | ~1,836 |
+| Skillful | 0.20% | ~1,836 |
+| Make Some Noise | 0.20% | ~1,836 |
 | The Grand Sacrifice | 0.10% | ~918 |
 | A bite for the Entity | 0.10% | ~918 |
 | A feast for the Entity | 0.10% | ~918 |
@@ -37,7 +38,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Gifts for the Fog | 0.10% | ~918 |
 | Apt Killer | 0.10% | ~918 |
 | Risk it all | 0.10% | ~918 |
-| Survival Treasures | 0.10% | ~918 |
 | Vulture | 0.10% | ~918 |
 | Adept Jake | 0.10% | ~918 |
 | Adept Dwight | 0.10% | ~918 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~918 |
 | Adept Ripley | 0.10% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917,712 (Ranked 14)  
+Progressed: 917,750 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 917,712 | 49 |
+| 2023-10-04 | 917,750 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
 Sum: 259,115 (Ranked 13)  

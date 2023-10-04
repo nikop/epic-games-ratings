@@ -6,32 +6,32 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 25.00% | ~9,341 |
-| Student | 20.00% | ~7,473 |
-| Listener | 14.00% | ~5,231 |
-| Knower | 14.00% | ~5,231 |
-| Aspen Tree | 13.00% | ~4,857 |
-| Healer | 13.00% | ~4,857 |
-| Scientist | 11.00% | ~4,110 |
-| Soldier | 11.00% | ~4,110 |
-| Cow Level | 10.00% | ~3,736 |
+| Initiation | 25.00% | ~9,342 |
+| Student | 20.00% | ~7,474 |
+| Listener | 14.00% | ~5,232 |
+| Knower | 14.00% | ~5,232 |
+| Aspen Tree | 13.00% | ~4,858 |
+| Healer | 13.00% | ~4,858 |
+| Scientist | 11.00% | ~4,111 |
+| Soldier | 11.00% | ~4,111 |
+| Cow Level | 10.00% | ~3,737 |
 | Old Friend | 9.00% | ~3,363 |
 | Herbalist | 9.00% | ~3,363 |
 | New Spirits | 9.00% | ~3,363 |
 | Water | 9.00% | ~3,363 |
-| Card Player | 8.00% | ~2,989 |
-| Pine Tree | 8.00% | ~2,989 |
-| Voipel | 8.00% | ~2,989 |
-| Collector | 8.00% | ~2,989 |
-| Wolf | 8.00% | ~2,989 |
-| Black Mage | 8.00% | ~2,989 |
-| Worthy | 7.00% | ~2,615 |
-| Black Book | 7.00% | ~2,615 |
-| Dead Man | 7.00% | ~2,615 |
-| Fern | 7.00% | ~2,615 |
-| 100 Friends | 7.00% | ~2,615 |
-| Dead Friend | 7.00% | ~2,615 |
-| Savvy | 7.00% | ~2,615 |
+| Card Player | 8.00% | ~2,990 |
+| Pine Tree | 8.00% | ~2,990 |
+| Voipel | 8.00% | ~2,990 |
+| Collector | 8.00% | ~2,990 |
+| Wolf | 8.00% | ~2,990 |
+| Black Mage | 8.00% | ~2,990 |
+| Worthy | 7.00% | ~2,616 |
+| Black Book | 7.00% | ~2,616 |
+| Dead Man | 7.00% | ~2,616 |
+| Fern | 7.00% | ~2,616 |
+| 100 Friends | 7.00% | ~2,616 |
+| Dead Friend | 7.00% | ~2,616 |
+| Savvy | 7.00% | ~2,616 |
 | Black Sorcerer | 6.00% | ~2,242 |
 | Encyclopedist | 6.00% | ~2,242 |
 | Witch | 6.00% | ~2,242 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~374 |
 | Word Master | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,363 (Ranked 108)  
+Progressed: 37,370 (Ranked 108)  
 Completed: 24 (0.06%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 24 (0.06%) (Ranked 259)
 | 2023-10-01 | 36,366 | 24 |
 | 2023-10-02 | 36,839 | 24 |
 | 2023-10-03 | 37,335 | 24 |
-| 2023-10-04 | 37,363 | 24 |
+| 2023-10-04 | 37,370 | 24 |
 ## Awards
 Max (Character Customization): 67  (Ranked 390)  
 Sum: 67 (Ranked 450)  

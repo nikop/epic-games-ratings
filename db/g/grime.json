@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -988,9 +988,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 149942,
+  "EOS_Progressed": 149950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10373,6 +10373,11 @@
       "Time": "2023-10-04T01:47:32.5457764+00:00",
       "NumProgressed": 149942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T02:21:10.6481367+00:00",
+      "NumProgressed": 149950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10454,9 +10459,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -10751,21 +10756,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149525,
+      "Progressed": 149533,
       "Completed": 1138
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 149942,
+      "Progressed": 149950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-03T19:59:30.9918065+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:47:32.5457758+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:21:10.6481362+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:43:00.1725273+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:47:32.5458723+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:16:31.4148788+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:21:10.6482308+00:00"
 }

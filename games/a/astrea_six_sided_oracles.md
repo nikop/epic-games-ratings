@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanical Buddy | 95.00% | ~35 |
-| Meissa's Savior | 95.00% | ~35 |
-| Purification Pioneer | 95.00% | ~35 |
-| Dicesmithing Time! | 89.00% | ~33 |
-| Wild's Keeper | 84.00% | ~31 |
-| Sanctuary Guardian | 81.00% | ~30 |
-| Endless Tricks | 78.00% | ~29 |
-| Mind Illuminator | 68.00% | ~25 |
-| Stellar Dismantler | 54.00% | ~20 |
-| Astral Adventurer | 46.00% | ~17 |
-| Anomaly Destroyer | 41.00% | ~15 |
-| Star Killer | 41.00% | ~15 |
-| Unbeatable | 38.00% | ~14 |
+| Meissa's Savior | 95.00% | ~36 |
+| Purification Pioneer | 95.00% | ~36 |
+| Mechanical Buddy | 92.00% | ~35 |
+| Dicesmithing Time! | 87.00% | ~33 |
+| Wild's Keeper | 82.00% | ~31 |
+| Sanctuary Guardian | 79.00% | ~30 |
+| Endless Tricks | 76.00% | ~29 |
+| Mind Illuminator | 66.00% | ~25 |
+| Stellar Dismantler | 53.00% | ~20 |
+| Astral Adventurer | 45.00% | ~17 |
+| Anomaly Destroyer | 39.00% | ~15 |
+| Star Killer | 39.00% | ~15 |
+| Unbeatable | 37.00% | ~14 |
 | Loyal Partner | 32.00% | ~12 |
-| Sadistic Plan | 27.00% | ~10 |
-| Stellar Haste | 22.00% | ~8 |
-| The Corruption Goddess | 22.00% | ~8 |
+| Sadistic Plan | 26.00% | ~10 |
+| Stellar Haste | 21.00% | ~8 |
+| The Corruption Goddess | 21.00% | ~8 |
 | Sentinelphobic | 16.00% | ~6 |
 | Shard Spender | 16.00% | ~6 |
-| Skeptical | 14.00% | ~5 |
+| Skeptical | 13.00% | ~5 |
 | Dice Specialist | 11.00% | ~4 |
 | Heart Gate | 11.00% | ~4 |
 | Heavy Purger | 11.00% | ~4 |
@@ -85,7 +85,7 @@
 | This is Fine | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 454)  
+Progressed: 38 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 34 | 0 |
 | 2023-10-02 | 36 | 0 |
 | 2023-10-03 | 37 | 0 |
+| 2023-10-04 | 38 | 0 |

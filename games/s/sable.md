@@ -6,21 +6,21 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,437 |
-| Just The Two of Us | 32.00% | ~29,588 |
+| Simoon | 34.00% | ~31,438 |
+| Just The Two of Us | 32.00% | ~29,589 |
 | Up On High | 25.00% | ~23,116 |
 | Under The Hood | 25.00% | ~23,116 |
-| Got Your Nose | 24.00% | ~22,191 |
-| The Gift of Gab | 24.00% | ~22,191 |
+| Got Your Nose | 24.00% | ~22,192 |
+| The Gift of Gab | 24.00% | ~22,192 |
 | Wrapping Up | 22.00% | ~20,342 |
-| More Than A Box Of Sand | 18.00% | ~16,643 |
+| More Than A Box Of Sand | 18.00% | ~16,644 |
 | The Dunboyne | 17.00% | ~15,719 |
 | Badge Hobbyist | 17.00% | ~15,719 |
 | Chum Novice | 16.00% | ~14,794 |
 | Silver-Tongued Sable | 16.00% | ~14,794 |
 | Sticky Paws | 16.00% | ~14,794 |
 | Bubble Up | 16.00% | ~14,794 |
-| Thread The Needle | 15.00% | ~13,869 |
+| Thread The Needle | 15.00% | ~13,870 |
 | Power to the People | 14.00% | ~12,945 |
 | Take That! | 13.00% | ~12,020 |
 | Nesting Giant | 13.00% | ~12,020 |
@@ -45,11 +45,11 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~7,397 |
 | Squeeze One Out | 8.00% | ~7,397 |
 | Dune Rider | 8.00% | ~7,397 |
-| Amateur Historian | 7.00% | ~6,472 |
-| The Beetle Mask | 7.00% | ~6,472 |
-| The Guard Mask | 7.00% | ~6,472 |
-| Smoked Out | 7.00% | ~6,472 |
-| A Hard Place | 7.00% | ~6,472 |
+| Amateur Historian | 7.00% | ~6,473 |
+| The Beetle Mask | 7.00% | ~6,473 |
+| The Guard Mask | 7.00% | ~6,473 |
+| Smoked Out | 7.00% | ~6,473 |
+| A Hard Place | 7.00% | ~6,473 |
 | The Climber Mask | 6.00% | ~5,548 |
 | The Merchant Mask | 6.00% | ~5,548 |
 | Honorary Chum | 6.00% | ~5,548 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,774 |
 | Vivacious Vivarium | 2.00% | ~1,849 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,463 (Ranked 79)  
+Progressed: 92,465 (Ranked 79)  
 Completed: 931 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 931 (1.01%) (Ranked 136)
 | 2023-10-01 | 92,199 | 929 |
 | 2023-10-02 | 92,315 | 931 |
 | 2023-10-03 | 92,454 | 931 |
-| 2023-10-04 | 92,463 | 931 |
+| 2023-10-04 | 92,465 | 931 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 88 (Ranked 431)  

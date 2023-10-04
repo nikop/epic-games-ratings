@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19366,
+  "EOS_Progressed": 19367,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19279,6 +19279,11 @@
       "Time": "2023-10-04T01:49:25.9600431+00:00",
       "NumProgressed": 19366,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-04T02:23:01.1144316+00:00",
+      "NumProgressed": 19367,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19306,7 +19311,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "BackToHell",
@@ -19426,7 +19431,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14718
+      "UsersEstimate": 14719
     },
     {
       "ID": "MoreThanHuman",
@@ -19562,7 +19567,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11813
+      "UsersEstimate": 11814
     },
     {
       "ID": "SwordToAGunfight",
@@ -19626,7 +19631,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "WhereHeStood",
@@ -19649,21 +19654,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19366,
+      "Progressed": 19367,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19366,
+      "Progressed": 19367,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-01T18:00:37.2020378+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:49:25.9600409+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:23:01.1144311+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:44:09.7114998+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:49:25.9601911+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:17:39.0367376+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:23:01.114574+00:00"
 }

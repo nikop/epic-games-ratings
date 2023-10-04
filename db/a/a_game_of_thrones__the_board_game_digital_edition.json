@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25330,
+  "EOS_Progressed": 25331,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19165,6 +19165,11 @@
       "Time": "2023-10-04T01:47:38.4192056+00:00",
       "NumProgressed": 25330,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-04T02:21:16.3898622+00:00",
+      "NumProgressed": 25331,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 22,
@@ -19200,7 +19205,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "1019",
@@ -19216,7 +19221,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "1021",
@@ -19280,7 +19285,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     },
     {
       "ID": "1029",
@@ -19351,15 +19356,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25330,
+      "Progressed": 25331,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:47:38.4192048+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:21:16.3898617+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.1234295+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:42:41.8161953+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:47:38.4193351+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:16:11.7478774+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:21:16.3899831+00:00"
 }

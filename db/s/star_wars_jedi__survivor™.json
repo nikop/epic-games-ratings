@@ -3942,9 +3942,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 4037,
+  "EOS_Progressed": 4038,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1418,
+  "EOS_NewPlayers": 1411,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2023-10-04T01:48:00.5997407+00:00",
       "NumProgressed": 4037,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-04T02:21:37.946193+00:00",
+      "NumProgressed": 4038,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -5434,7 +5439,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "achievement_a10",
@@ -5458,7 +5463,7 @@
       "Name": "Into the Abyss",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_a13",
@@ -5474,7 +5479,7 @@
       "Name": "Han Slowlo",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "achievement_a15",
@@ -5498,7 +5503,7 @@
       "Name": "Catch!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_a18",
@@ -5506,7 +5511,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "achievement_a19",
@@ -5522,7 +5527,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "achievement_a20",
@@ -5530,7 +5535,7 @@
       "Name": "I\u0027m a Living Legend",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_a21",
@@ -5538,7 +5543,7 @@
       "Name": "Get Down From There",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_a22",
@@ -5554,7 +5559,7 @@
       "Name": "Mirror Match",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "achievement_a24",
@@ -5602,7 +5607,7 @@
       "Name": "There Is No Try",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "achievement_a3",
@@ -5610,7 +5615,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 3633
+      "UsersEstimate": 3634
     },
     {
       "ID": "achievement_a30",
@@ -5626,7 +5631,7 @@
       "Name": "Cleaning Up",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "achievement_a32",
@@ -5642,7 +5647,7 @@
       "Name": "Skywalker",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "achievement_a34",
@@ -5666,7 +5671,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "achievement_a37",
@@ -5682,7 +5687,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "achievement_a39",
@@ -5706,7 +5711,7 @@
       "Name": "Greezy Money",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "achievement_a41",
@@ -5722,7 +5727,7 @@
       "Name": "A Presence I\u0027ve Not Felt Since...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_a43",
@@ -5730,7 +5735,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "achievement_a44",
@@ -5778,7 +5783,7 @@
       "Name": "Intergalactic Geographic",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_a5",
@@ -5826,7 +5831,7 @@
       "Name": "Among the Masters",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "achievement_a7",
@@ -5857,7 +5862,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 4037,
+      "Progressed": 4038,
       "Completed": 17
     }
   ],
@@ -5865,8 +5870,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-03T21:03:22.9291321+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:48:00.5997393+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:21:37.9461925+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.16408+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:46:17.9218819+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:48:00.5998038+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:20:15.7593429+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:21:37.9462562+00:00"
 }

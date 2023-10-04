@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.40% | ~57 |
 | Settler | 0.40% | ~57 |
 | Play a Single Player Game | 0.40% | ~57 |
-| Explorer | 0.30% | ~43 |
 | Intrepid | 0.30% | ~43 |
 | Friendly Family | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
 | The Olive Wreath | 0.10% | ~14 |
+| Three's a Crowd | 0.10% | ~14 |
 | Unfinished Business | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
@@ -303,7 +304,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Those Were Mine | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | What's 'hubris' in Greek? | 0.00% | ~0 |
-| Three's a Crowd | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,327 (Ranked 133)  
+Progressed: 14,328 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,327 | 5 |
+| 2023-10-04 | 14,328 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

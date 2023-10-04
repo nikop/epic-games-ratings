@@ -4,50 +4,50 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 76.00% | ~304 |
+| Newbie | 76.00% | ~305 |
 | Photo shoot | 15.00% | ~60 |
 | No brakes | 13.00% | ~52 |
-| Wannabe | 12.00% | ~48 |
+| Wannabe | 11.00% | ~44 |
 | Better than cake | 8.00% | ~32 |
 | First taste | 7.00% | ~28 |
-| Amateur hitchhiker | 7.00% | ~28 |
-| Hattrick | 3.00% | ~12 |
-| Amateur newbie | 2.00% | ~8 |
-| Loyalty | 2.00% | ~8 |
-| Hero | 2.00% | ~8 |
+| Amateur hitchhiker | 6.00% | ~24 |
 | Drama queen | 2.00% | ~8 |
 | Mr. Whiting | 2.00% | ~8 |
 | Reliability expert | 2.00% | ~8 |
+| Hattrick | 2.00% | ~8 |
 | On the top | 2.00% | ~8 |
+| Amateur newbie | 1.00% | ~4 |
+| Loyalty | 1.00% | ~4 |
+| Hero | 1.00% | ~4 |
 | Addict | 1.00% | ~4 |
 | Untouchable | 1.00% | ~4 |
 | Amateur photo shoot | 1.00% | ~4 |
-| Monster Amateur car | 0.80% | ~3 |
-| Pro hitchhiker | 0.80% | ~3 |
-| No brakes Amateur | 0.80% | ~3 |
-| First Amateur taste | 0.80% | ~3 |
-| Weatherman | 0.80% | ~3 |
+| Monster Amateur car | 0.70% | ~3 |
+| Pro hitchhiker | 0.70% | ~3 |
+| No brakes Amateur | 0.70% | ~3 |
+| First Amateur taste | 0.70% | ~3 |
+| Weatherman | 0.70% | ~3 |
 | Pro newbie | 0.50% | ~2 |
 | Amateur wannabe | 0.50% | ~2 |
 | Amateur hattrick | 0.50% | ~2 |
 | Tutorial master | 0.50% | ~2 |
-| Pro photo shoot | 0.30% | ~1 |
-| Monster Pro car | 0.30% | ~1 |
-| Amateur champion | 0.30% | ~1 |
-| Pro wannabe | 0.30% | ~1 |
-| Knockout Amateur | 0.30% | ~1 |
-| No brakes Pro | 0.30% | ~1 |
-| Grand Chelem | 0.30% | ~1 |
-| Amateur Grand Chelem | 0.30% | ~1 |
-| All over the place | 0.30% | ~1 |
-| Shepherd | 0.30% | ~1 |
-| Amateur top racer | 0.30% | ~1 |
-| Pro top pit crew | 0.30% | ~1 |
-| Amateur blue flag wonder | 0.30% | ~1 |
-| Endurance team mate | 0.30% | ~1 |
-| First Pro taste | 0.30% | ~1 |
-| Top Amateur | 0.30% | ~1 |
-| Standing tall | 0.30% | ~1 |
+| Pro photo shoot | 0.20% | ~1 |
+| Monster Pro car | 0.20% | ~1 |
+| Amateur champion | 0.20% | ~1 |
+| Pro wannabe | 0.20% | ~1 |
+| Knockout Amateur | 0.20% | ~1 |
+| No brakes Pro | 0.20% | ~1 |
+| Grand Chelem | 0.20% | ~1 |
+| Amateur Grand Chelem | 0.20% | ~1 |
+| All over the place | 0.20% | ~1 |
+| Shepherd | 0.20% | ~1 |
+| Amateur top racer | 0.20% | ~1 |
+| Pro top pit crew | 0.20% | ~1 |
+| Amateur blue flag wonder | 0.20% | ~1 |
+| Endurance team mate | 0.20% | ~1 |
+| First Pro taste | 0.20% | ~1 |
+| Top Amateur | 0.20% | ~1 |
+| Standing tall | 0.20% | ~1 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
 | Standing tall Elite | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 288)  
+Progressed: 401 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,4 +264,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-29 | 394 | 0 |
 | 2023-09-30 | 395 | 0 |
 | 2023-10-03 | 399 | 0 |
-| 2023-10-04 | 400 | 0 |
+| 2023-10-04 | 401 | 0 |

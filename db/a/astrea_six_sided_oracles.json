@@ -2,7 +2,7 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 119,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-10-03T15:08:16.6832795+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T02:26:15.8365091+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -214,7 +219,7 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -294,7 +299,7 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -430,7 +435,7 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -438,7 +443,7 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -550,7 +555,7 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 95,
+      "Percentage": 92,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -560,13 +565,13 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -632,7 +637,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ReflexiveMind",
@@ -654,7 +659,7 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -662,7 +667,7 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -694,7 +699,7 @@
       "ID": "Skeptical",
       "SetID": "1jeo1g7",
       "Name": "Skeptical",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -702,7 +707,7 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -710,7 +715,7 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -718,7 +723,7 @@
       "ID": "StellarHaste",
       "SetID": "1jeo1g7",
       "Name": "Stellar Haste",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -750,7 +755,7 @@
       "ID": "TheCorruptionGoddess",
       "SetID": "1jeo1g7",
       "Name": "The Corruption Goddess",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -806,7 +811,7 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -838,7 +843,7 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 31
     }
@@ -847,14 +852,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-04T01:52:25.8350122+00:00",
+  "LastChanged_Achievements": "2023-10-04T02:26:15.8365086+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-04T01:43:56.2046739+00:00",
-  "LastUpdate_Achievements": "2023-10-04T01:52:25.8351032+00:00"
+  "LastUpdate_Ratings": "2023-10-04T02:17:24.8901263+00:00",
+  "LastUpdate_Achievements": "2023-10-04T02:26:15.8366207+00:00"
 }
