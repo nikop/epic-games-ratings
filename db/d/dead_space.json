@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -2329,9 +2329,9 @@
       "ID": "achievement_22",
       "SetID": "222fo9l",
       "Name": "A Cut Above",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_23",
@@ -2377,9 +2377,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 426
     },
     {
       "ID": "achievement_29",
@@ -2521,9 +2521,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_45",
@@ -2602,8 +2602,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:17:40.6299415+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:08:45.4945771+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:09:03.6246217+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:17:40.6299986+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:59:45.7534382+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:08:45.4946345+00:00"
 }

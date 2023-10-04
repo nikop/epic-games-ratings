@@ -5,6 +5,7 @@ Rating: 4.64 (Ranked 316)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
 | Sweezy Like Sunday Morning | 0.20% | ~48 |
@@ -20,7 +21,6 @@ Rating: 4.64 (Ranked 316)
 | Luglox Genocide | 0.10% | ~24 |
 | Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | Creature Feature | 0.10% | ~24 |
-| Satisfied Gus-tomer | 0.10% | ~24 |
 | Lezduit! | 0.10% | ~24 |
 | RIP Davey Glutes | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |

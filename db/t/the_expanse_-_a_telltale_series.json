@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13529,
+  "EOS_Progressed": 13530,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7627,6 +7627,11 @@
       "Time": "2023-10-04T13:15:51.2135911+00:00",
       "NumProgressed": 13529,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T14:06:40.9425855+00:00",
+      "NumProgressed": 13530,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7789,9 +7794,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "28",
@@ -7878,7 +7883,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13529,
+      "Progressed": 13530,
       "Completed": 3
     }
   ],
@@ -7886,8 +7891,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:15:51.2135904+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:06:40.942585+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:10:30.8394764+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:15:51.2136875+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:01:27.2549016+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:06:40.9427046+00:00"
 }

@@ -7,6 +7,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.30% | ~2,755 |
+| No one left behind | 0.20% | ~1,837 |
 | Handyman | 0.20% | ~1,837 |
 | Nerves of steel | 0.20% | ~1,837 |
 | Zealous | 0.20% | ~1,837 |
@@ -15,6 +16,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 0.20% | ~1,837 |
 | Skillful | 0.20% | ~1,837 |
 | Sorted | 0.20% | ~1,837 |
+| Resurgence | 0.20% | ~1,837 |
 | Make Some Noise | 0.20% | ~1,837 |
 | The Grand Sacrifice | 0.10% | ~918 |
 | A bite for the Entity | 0.10% | ~918 |
@@ -31,7 +33,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Backdoor Escape | 0.10% | ~918 |
 | The Key to Escape | 0.10% | ~918 |
 | I've got your back | 0.10% | ~918 |
-| No one left behind | 0.10% | ~918 |
 | Medic | 0.10% | ~918 |
 | Perfect Escape | 0.10% | ~918 |
 | Perfect Killing | 0.10% | ~918 |
@@ -159,7 +160,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.10% | ~918 |
 | Adept Blight | 0.10% | ~918 |
 | Every Last Drop | 0.10% | ~918 |
-| Resurgence | 0.10% | ~918 |
 | Adept Felix | 0.10% | ~918 |
 | Tag Team | 0.10% | ~918 |
 | End of Days | 0.10% | ~918 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~918 |
 | Adept Ripley | 0.10% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,269 (Ranked 14)  
+Progressed: 918,342 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,269 | 49 |
+| 2023-10-04 | 918,342 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
 Sum: 259,271 (Ranked 13)  

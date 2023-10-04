@@ -609,9 +609,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_DONUTS",
@@ -688,8 +688,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:18:14.4855811+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:09:12.8443025+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:09:23.5250945+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:18:14.4856026+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:00:07.3867737+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:09:12.8443211+00:00"
 }

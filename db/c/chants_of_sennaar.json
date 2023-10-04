@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 242,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 7.02,
   "EosHistory": [
@@ -1193,9 +1193,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1360,8 +1360,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:14:24.4067869+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:05:03.970832+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:06:53.7616362+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:14:24.4068162+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:57:24.130022+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:05:03.9708587+00:00"
 }

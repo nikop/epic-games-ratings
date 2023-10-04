@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -1036,6 +1036,11 @@
       "Time": "2023-10-04T13:14:56.6558755+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T14:05:40.5710898+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1120,7 +1125,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_19",
@@ -1152,7 +1157,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_22",
@@ -1192,7 +1197,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_27",
@@ -1264,7 +1269,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_35",
@@ -1272,7 +1277,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_36",
@@ -1288,7 +1293,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_38",
@@ -1320,7 +1325,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_41",
@@ -1400,7 +1405,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_50",
@@ -1551,13 +1556,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 1
     }
   ],
@@ -1565,8 +1570,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:14:56.6558747+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:05:40.5710891+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:11:16.2936534+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:14:56.6559531+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:02:17.8446577+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:05:40.5711698+00:00"
 }

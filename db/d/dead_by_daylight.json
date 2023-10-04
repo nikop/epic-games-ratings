@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10925,9 +10925,9 @@
       "Count": 25070
     }
   ],
-  "EOS_Progressed": 918269,
+  "EOS_Progressed": 918342,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13404,
+  "EOS_NewPlayers": 13406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29850,6 +29850,11 @@
       "Time": "2023-10-04T13:15:04.8323205+00:00",
       "NumProgressed": 918269,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T14:05:49.8332325+00:00",
+      "NumProgressed": 918342,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -29979,9 +29984,9 @@
       "ID": "ACH_016",
       "SetID": "bdmlp8o",
       "Name": "No one left behind",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACH_017",
@@ -31075,9 +31080,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACH_157",
@@ -31692,21 +31697,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 918269,
+      "Progressed": 918342,
       "Completed": 49
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 918269,
+      "Progressed": 918342,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-04T11:58:45.7560029+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:15:04.8323198+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:05:49.833232+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:08:19.6196048+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:15:04.8337043+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:58:57.7711761+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:05:49.8339843+00:00"
 }

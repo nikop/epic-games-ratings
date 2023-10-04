@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -259,9 +259,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -276,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:14:48.0115931+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:05:30.8593521+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.8375458+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:08:58.7287401+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:14:48.0116088+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:59:40.2336598+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:05:30.8593674+00:00"
 }

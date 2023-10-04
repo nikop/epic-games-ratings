@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 230569,
+  "EOS_Progressed": 230570,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17605,6 +17605,11 @@
       "Time": "2023-10-04T13:14:07.3281458+00:00",
       "NumProgressed": 230569,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T14:04:44.2969076+00:00",
+      "NumProgressed": 230570,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17760,7 +17765,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78393
+      "UsersEstimate": 78394
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -17839,7 +17844,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230569,
+      "Progressed": 230570,
       "Completed": 5
     }
   ],
@@ -17847,8 +17852,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:14:07.3281452+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:04:44.2969068+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:09:02.5687972+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:14:07.3282796+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:59:44.4552625+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:04:44.2970794+00:00"
 }

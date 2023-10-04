@@ -23,11 +23,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 1.00% | ~1,371 |
 | Where it Hurts | 1.00% | ~1,371 |
 | Pretty Penny | 1.00% | ~1,371 |
+| Gild-Gotten Goods | 1.00% | ~1,371 |
 | One-Armed Bandit | 1.00% | ~1,371 |
 | Dungeon Imports | 1.00% | ~1,371 |
 | Through Repetition, Perfection | 1.00% | ~1,371 |
 | Own the Means of Production | 1.00% | ~1,371 |
-| Gild-Gotten Goods | 0.90% | ~1,234 |
 | Accomplished Merchant | 0.90% | ~1,234 |
 | Did we pack lunch? | 0.90% | ~1,234 |
 | Arcane Industries | 0.90% | ~1,234 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,094 (Ranked 72)  
+Progressed: 137,099 (Ranked 72)  
 Completed: 161 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,15 +286,15 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
-| 2023-10-04 | 137,094 | 161 |
+| 2023-10-04 | 137,099 | 161 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
-Sum: 27,327 (Ranked 49)  
+Sum: 27,328 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,767 |
-| This game is Relaxing | 4,018 |
+| This game is Relaxing | 4,019 |
 | This game has Quickly Understood Controls | 4,008 |
 | This game has Diverse Characters | 3,902 |
 | This game is Highly Recommended | 3,755 |
@@ -553,4 +553,4 @@ Diff (max vs sum): 22
 | 2023-10-01 | 3.99 | - | 4,763 | 27,316 |
 | 2023-10-02 | 3.99 | - | 4,765 | 27,320 |
 | 2023-10-03 | 3.99 | - | 4,765 | 27,325 |
-| 2023-10-04 | 3.99 | - | 4,767 | 27,327 |
+| 2023-10-04 | 3.99 | - | 4,767 | 27,328 |

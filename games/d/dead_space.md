@@ -12,9 +12,9 @@ Rating: 4.61 (Ranked 371)
 | Brute Force | 66.00% | ~502 |
 | Cannon Fodder | 61.00% | ~464 |
 | Autofire | 60.00% | ~457 |
+| Story Teller | 56.00% | ~426 |
 | Raise the Stakes | 56.00% | ~426 |
 | True Believer | 56.00% | ~426 |
-| Story Teller | 55.00% | ~419 |
 | Surgeon | 52.00% | ~396 |
 | Exterminator | 50.00% | ~380 |
 | Greenhouse Effect | 50.00% | ~380 |
@@ -22,14 +22,14 @@ Rating: 4.61 (Ranked 371)
 | Full Arsenal | 44.00% | ~335 |
 | S.O.S. | 43.00% | ~327 |
 | Live with the Hot Ones | 41.00% | ~312 |
-| Get Off My Ship! | 40.00% | ~304 |
+| Get Off My Ship! | 41.00% | ~312 |
 | Strange Transmissions | 40.00% | ~304 |
 | Wreckage | 39.00% | ~297 |
 | Keeper of the Faith | 36.00% | ~274 |
 | Betrayed | 35.00% | ~266 |
+| A Cut Above | 34.00% | ~259 |
 | There's Always Peng! | 34.00% | ~259 |
 | Exodus | 33.00% | ~251 |
-| A Cut Above | 33.00% | ~251 |
 | Legend Teller | 33.00% | ~251 |
 | Mindless Prey | 33.00% | ~251 |
 | Front Toward Enemy | 31.00% | ~236 |

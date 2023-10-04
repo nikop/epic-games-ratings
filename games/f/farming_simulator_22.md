@@ -7,20 +7,20 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,046 |
-| I read Shakespeare and stuff | 64.00% | ~31,612 |
-| Just a sprinkle | 63.00% | ~31,118 |
-| I'm stumped | 61.00% | ~30,130 |
-| Plant get enough | 60.00% | ~29,636 |
-| It's just the beginning | 59.00% | ~29,142 |
+| I read Shakespeare and stuff | 64.00% | ~31,613 |
+| Just a sprinkle | 63.00% | ~31,119 |
+| I'm stumped | 61.00% | ~30,131 |
+| Plant get enough | 60.00% | ~29,637 |
+| It's just the beginning | 59.00% | ~29,143 |
 | This is just my weekend vehicle | 58.00% | ~28,649 |
 | Hard work pays off | 53.00% | ~26,179 |
-| It's never too late to farm | 50.00% | ~24,697 |
-| All out of Land | 44.00% | ~21,733 |
-| Field Trip | 43.00% | ~21,239 |
+| It's never too late to farm | 50.00% | ~24,698 |
+| All out of Land | 44.00% | ~21,734 |
+| Field Trip | 44.00% | ~21,734 |
 | I like to switch it up | 40.00% | ~19,758 |
 | Help me to help you | 38.00% | ~18,770 |
-| Ultimutt Pawesomeness | 28.00% | ~13,830 |
-| Van Gogh | 26.00% | ~12,842 |
+| Ultimutt Pawesomeness | 28.00% | ~13,831 |
+| Van Gogh | 26.00% | ~12,843 |
 | You wood not believe it | 22.00% | ~10,867 |
 | Vehicle fleet | 22.00% | ~10,867 |
 | The plot thickens | 16.00% | ~7,903 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Rock on | 12.00% | ~5,927 |
 | Highly cultivated | 11.00% | ~5,433 |
 | It's sow easy | 11.00% | ~5,433 |
-| Giddy-up! | 10.00% | ~4,939 |
+| Giddy-up! | 10.00% | ~4,940 |
 | Cowherd | 7.00% | ~3,458 |
 | Fluffyness | 6.00% | ~2,964 |
 | Road Trip | 6.00% | ~2,964 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~198 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,394 (Ranked 100)  
+Progressed: 49,395 (Ranked 100)  
 Completed: 6 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 6 (0.01%) (Ranked 289)
 | 2023-10-01 | 49,299 | 6 |
 | 2023-10-02 | 49,346 | 6 |
 | 2023-10-03 | 49,381 | 6 |
-| 2023-10-04 | 49,394 | 6 |
+| 2023-10-04 | 49,395 | 6 |
 ## Awards
 Max (Great for Beginners): 5,095  (Ranked 70)  
-Sum: 40,831 (Ranked 33)  
+Sum: 40,842 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -228,9 +228,9 @@ Diff (max vs sum): 37
 | This game has Diverse Characters | 4,226 |
 | This game is Educational | 4,209 |
 | This game is Relaxing | 4,174 |
-| This game has Quickly Understood Controls | 4,129 |
-| This game is Highly Recommended | 4,053 |
-| This game is Extremely Fun | 4,022 |
+| This game has Quickly Understood Controls | 4,131 |
+| This game is Highly Recommended | 4,056 |
+| This game is Extremely Fun | 4,028 |
 | This game has Amazing Storytelling | 3,929 |
 | This game has Amazing Characters | 3,558 |
 | This game has a Creative Community | 3,436 |
@@ -499,3 +499,4 @@ Diff (max vs sum): 37
 | 2023-10-01 | 4.69 | - | 5,081 | 40,769 |
 | 2023-10-02 | 4.69 | - | 5,089 | 40,798 |
 | 2023-10-03 | 4.69 | - | 5,095 | 40,831 |
+| 2023-10-04 | 4.69 | - | 5,095 | 40,842 |

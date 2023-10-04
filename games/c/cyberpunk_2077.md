@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 5.00% | ~44,430 |
-| Rough Landing | 4.00% | ~35,544 |
-| Gunslinger | 3.00% | ~26,658 |
-| Master Crafter | 3.00% | ~26,658 |
-| The High Priestess | 3.00% | ~26,658 |
-| The Jungle | 3.00% | ~26,658 |
-| Two Heads, One Bullet | 3.00% | ~26,658 |
+| Ten out of Ten | 5.00% | ~44,431 |
+| Rough Landing | 4.00% | ~35,545 |
+| Gunslinger | 3.00% | ~26,659 |
+| Master Crafter | 3.00% | ~26,659 |
+| The High Priestess | 3.00% | ~26,659 |
+| The Jungle | 3.00% | ~26,659 |
+| Two Heads, One Bullet | 3.00% | ~26,659 |
 | To Bad Decisions! | 2.00% | ~17,772 |
 | Full Body Conversion | 2.00% | ~17,772 |
 | Right Back At Ya | 2.00% | ~17,772 |
@@ -35,16 +35,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,886 |
 | Judy vs Night City | 1.00% | ~8,886 |
 | It's Elementary | 1.00% | ~8,886 |
-| Greetings from Pacifica! | 0.90% | ~7,997 |
+| Greetings from Pacifica! | 0.90% | ~7,998 |
 | Spin Doctor | 0.90% | ~155 |
 | City Lights | 0.80% | ~7,109 |
 | Life of the Road | 0.80% | ~7,109 |
 | Bushido and Chill | 0.70% | ~6,220 |
 | I Am The Law | 0.60% | ~5,332 |
+| To Protect and Serve | 0.50% | ~4,443 |
 | The Wandering Fool | 0.50% | ~4,443 |
 | Autojock | 0.50% | ~4,443 |
 | Must Be Rats | 0.50% | ~4,443 |
-| To Protect and Serve | 0.40% | ~3,554 |
 | The Sun | 0.40% | ~3,554 |
 | Frequent Flyer | 0.30% | ~2,666 |
 | Little Tokyo | 0.30% | ~2,666 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,602 (Ranked 15)  
+Progressed: 888,617 (Ranked 15)  
 Completed: 2,573 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,17 +231,17 @@ Completed: 2,573 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,602 | 2,573 |
+| 2023-10-04 | 888,617 | 2,573 |
 ## Awards
-Max (Character Customization): 90,464  (Ranked 9)  
-Sum: 262,051 (Ranked 12)  
+Max (Character Customization): 91,317  (Ranked 9)  
+Sum: 263,242 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 90,464 |
+| This game has Inclusive Character Customization | 91,317 |
 | This game has Great Boss Battles | 61,890 |
 | This game is Great for Beginners | 13,386 |
-| This game has Diverse Characters | 13,022 |
+| This game has Diverse Characters | 13,360 |
 | This game is Extremely Fun | 12,830 |
 | This game is Highly Recommended | 12,720 |
 | This game has Amazing Storytelling | 12,719 |
@@ -510,4 +510,4 @@ Diff (max vs sum): -3
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
 | 2023-10-03 | 4.63 | - | 90,464 | 260,310 |
-| 2023-10-04 | 4.63 | - | 90,464 | 262,051 |
+| 2023-10-04 | 4.63 | - | 91,317 | 263,242 |

@@ -7,15 +7,15 @@
 | Black Hog Down | 35.00% | ~6 |
 | Ouch, that hurt! | 29.00% | ~5 |
 | Remembering of the past | 29.00% | ~5 |
+| A heavy thinker | 24.00% | ~4 |
 | Slam-KABAM | 18.00% | ~3 |
-| A heavy thinker | 18.00% | ~3 |
 | Fight like an idiot | 18.00% | ~3 |
 | Repair the Mind Validation Machine | 18.00% | ~3 |
 | Heavy Thoughts | 12.00% | ~2 |
 | Flee like an idiot | 12.00% | ~2 |
+| Elementary, My Dear Dusty | 12.00% | ~2 |
 | Dance like an idiot | 6.00% | ~1 |
 | I'm Back at the Surface now | 6.00% | ~1 |
-| Elementary, My Dear Dusty | 6.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
 | You're a-MAZE-ing! | 0.00% | ~0 |

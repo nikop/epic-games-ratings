@@ -17,9 +17,9 @@ Rating: 4.03 (Ranked 958)
 | Soldier | 41.00% | ~26 |
 | Beggars Would Ride | 37.00% | ~23 |
 | Control is an Illusion | 33.00% | ~21 |
+| The Means to Save It | 29.00% | ~18 |
 | Socialite | 29.00% | ~18 |
-| The Means to Save It | 27.00% | ~17 |
-| Resilience to Sin | 22.00% | ~14 |
+| Resilience to Sin | 24.00% | ~15 |
 | Armsman | 22.00% | ~14 |
 | A Familiar Nest | 19.00% | ~12 |
 | Geas Aristeya | 19.00% | ~12 |
@@ -35,8 +35,8 @@ Rating: 4.03 (Ranked 958)
 | Scholar | 8.00% | ~5 |
 | Armaments Azure | 8.00% | ~5 |
 | Veteran | 8.00% | ~5 |
+| Kitted Out | 6.00% | ~4 |
 | Armaments Vert | 6.00% | ~4 |
-| Kitted Out | 5.00% | ~3 |
 | Best Dressed | 5.00% | ~3 |
 | Master of Ultramarine | 5.00% | ~3 |
 | Shroudfane Surveyor | 5.00% | ~3 |

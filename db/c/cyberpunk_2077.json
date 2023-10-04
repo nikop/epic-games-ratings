@@ -12879,18 +12879,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 262051,
       "NumberOfAwardsMax": 90464
+    },
+    {
+      "Time": "2023-10-04T14:02:16.4927284+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 263242,
+      "NumberOfAwardsMax": 91317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262051,
-  "NumberOfAwardsMax": 90464,
+  "NumberOfAwards": 263242,
+  "NumberOfAwardsMax": 91317,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 90464
+      "Count": 91317
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12902,7 +12908,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 13022
+      "Count": 13360
     },
     {
       "Text": "This game is Relaxing",
@@ -12959,10 +12965,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888602,
+  "EOS_Progressed": 888617,
   "EOS_Completed": 2573,
-  "EOS_NewPlayers": 5591,
-  "EOS_NewCompleters": 143,
+  "EOS_NewPlayers": 5557,
+  "EOS_NewCompleters": 142,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31769,6 +31775,11 @@
       "Time": "2023-10-04T13:18:20.3732017+00:00",
       "NumProgressed": 888602,
       "NumCompleted": 2573
+    },
+    {
+      "Time": "2023-10-04T14:09:19.5595248+00:00",
+      "NumProgressed": 888617,
+      "NumCompleted": 2573
     }
   ],
   "TotalAchievements": 57,
@@ -31818,9 +31829,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3554
+      "UsersEstimate": 4443
     },
     {
       "ID": "Fortuneteller",
@@ -31860,7 +31871,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "HandyMan",
@@ -31868,7 +31879,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "IAmMaxTac",
@@ -31964,7 +31975,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44430
+      "UsersEstimate": 44431
     },
     {
       "ID": "Temperance",
@@ -31980,7 +31991,7 @@
       "Name": "Rough Landing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35544
+      "UsersEstimate": 35545
     },
     {
       "ID": "TheDevil",
@@ -32012,7 +32023,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "TheLovers",
@@ -32060,7 +32071,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7997
+      "UsersEstimate": 7998
     },
     {
       "ID": "TradeUnion",
@@ -32068,7 +32079,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "TrueSoldier",
@@ -32092,7 +32103,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "UnderPressure",
@@ -32235,21 +32246,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888602,
+      "Progressed": 888617,
       "Completed": 2573
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17225,
+      "Progressed": 17240,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-04T09:00:35.9357517+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:18:20.3732011+00:00",
+  "LastChanged": "2023-10-04T14:02:16.4927282+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:09:19.5595243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:11:16.123846+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:18:20.373379+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:02:16.4927289+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:09:19.5597024+00:00"
 }

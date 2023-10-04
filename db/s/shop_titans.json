@@ -6296,10 +6296,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27327,
       "NumberOfAwardsMax": 4767
+    },
+    {
+      "Time": "2023-10-04T14:02:24.9903756+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27328,
+      "NumberOfAwardsMax": 4767
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27327,
+  "NumberOfAwards": 27328,
   "NumberOfAwardsMax": 4767,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6337,7 +6343,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4018
+      "Count": 4019
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6352,9 +6358,9 @@
       "Count": 3755
     }
   ],
-  "EOS_Progressed": 137094,
+  "EOS_Progressed": 137099,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23472,6 +23478,11 @@
       "Time": "2023-10-04T13:13:56.8773657+00:00",
       "NumProgressed": 137094,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-10-04T14:04:32.3746015+00:00",
+      "NumProgressed": 137099,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 112,
@@ -23969,9 +23980,9 @@
       "ID": "gold03",
       "SetID": "anfd17p",
       "Name": "Gild-Gotten Goods",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1371
     },
     {
       "ID": "gold04",
@@ -24378,15 +24389,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137094,
+      "Progressed": 137099,
       "Completed": 161
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-04T04:00:07.4264291+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:13:56.8773651+00:00",
+  "LastChanged": "2023-10-04T14:02:24.9903754+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:04:32.3746006+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:11:22.7061459+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:13:56.8777908+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:02:24.9903762+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:04:32.3748722+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -816,9 +816,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "UnepicHero",
@@ -863,8 +863,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:18:18.4024797+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:09:17.2528447+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:11:00.8178194+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:18:18.4026051+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:01:58.4143745+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:09:17.2530046+00:00"
 }

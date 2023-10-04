@@ -6,13 +6,13 @@ Rating: 4.56 (Ranked 473)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 27.00% | ~867 |
-| Sputnik 2049 | 24.00% | ~770 |
-| Infinite Growth... | 23.00% | ~738 |
+| Sputnik 2049 | 24.00% | ~771 |
+| Infinite Growth... | 23.00% | ~739 |
 | Without Breaking Some Eggs... | 22.00% | ~706 |
 | Space Society | 16.00% | ~514 |
 | A Thousand Strong | 16.00% | ~514 |
 | Ready for a New World | 16.00% | ~514 |
-| Permanent Redesigns | 14.00% | ~449 |
+| Permanent Redesigns | 14.00% | ~450 |
 | Fully Recycled | 13.00% | ~417 |
 | The Ship of Theseus | 13.00% | ~417 |
 | Guy de Borderlands | 12.00% | ~385 |
@@ -29,9 +29,9 @@ Rating: 4.56 (Ranked 473)
 | Access Granted | 6.00% | ~193 |
 | Necessary Enhancement | 6.00% | ~193 |
 | From the Past | 6.00% | ~193 |
-| Oats | 5.00% | ~160 |
-| BRAWL! | 5.00% | ~160 |
-| All in Good Health | 5.00% | ~160 |
+| Oats | 5.00% | ~161 |
+| BRAWL! | 5.00% | ~161 |
+| All in Good Health | 5.00% | ~161 |
 | What They Hide From Us | 4.00% | ~128 |
 | ...  in a finite world | 4.00% | ~128 |
 | What the Ruins Teach Us | 4.00% | ~128 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,210 (Ranked 187)  
+Progressed: 3,211 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 3,204 | 0 |
 | 2023-10-02 | 3,206 | 0 |
 | 2023-10-03 | 3,209 | 0 |
-| 2023-10-04 | 3,210 | 0 |
+| 2023-10-04 | 3,211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

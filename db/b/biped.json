@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6458,
+  "EOS_Progressed": 6459,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11031,6 +11031,11 @@
       "Time": "2023-10-04T13:15:33.0923153+00:00",
       "NumProgressed": 6458,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T14:06:21.0115929+00:00",
+      "NumProgressed": 6459,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11042,7 +11047,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "10",
@@ -11138,7 +11143,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "8",
@@ -11154,14 +11159,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6458,
+      "Progressed": 6459,
       "Completed": 0
     }
   ],
@@ -11169,8 +11174,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-04T13:15:33.0923148+00:00",
+  "LastChanged_Achievements": "2023-10-04T14:06:21.0115923+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.5763334+00:00",
-  "LastUpdate_Ratings": "2023-10-04T13:11:14.8728269+00:00",
-  "LastUpdate_Achievements": "2023-10-04T13:15:33.0923979+00:00"
+  "LastUpdate_Ratings": "2023-10-04T14:02:14.6963327+00:00",
+  "LastUpdate_Achievements": "2023-10-04T14:06:21.011736+00:00"
 }
