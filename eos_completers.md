@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.84% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.76% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.15% |
@@ -61,8 +61,8 @@
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
+| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.45% |
+| 63 | [ZZT!](games/z/zzt!.md) | 4.43% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -97,7 +97,7 @@
 | 95 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.39% |
+| 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.38% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 100 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 101 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
@@ -199,20 +199,20 @@
 | 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 196 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 199 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 199 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.30% |
 | 199 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 199 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 203 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
-| 203 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 203 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
+| 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
+| 202 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.29% |
+| 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 202 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
 | 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
 | 210 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 210 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.24% |
-| 212 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 212 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 211 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 211 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 211 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.23% |
 | 214 | [Blanc](games/b/blanc.md) | 0.22% |
 | 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 216 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
@@ -648,4 +648,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,341 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,344 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

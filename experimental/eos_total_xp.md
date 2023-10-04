@@ -5,7 +5,7 @@
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 342 | 3,360 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 524 | 2,620 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 528 | 2,640 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 63 | 2,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
