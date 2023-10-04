@@ -9,7 +9,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Longrunner | 76.00% | ~14,747 |
 | Sword Runner | 61.00% | ~11,836 |
 | Running out of breath | 54.00% | ~10,478 |
-| Wallrunner | 53.00% | ~10,284 |
+| Wallrunner | 54.00% | ~10,478 |
 | Homerunner | 45.00% | ~8,732 |
 | I call it luck | 44.00% | ~8,538 |
 | Out of order | 44.00% | ~8,538 |

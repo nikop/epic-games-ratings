@@ -2259,9 +2259,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_14",
@@ -2387,9 +2387,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_29",
@@ -2507,9 +2507,9 @@
       "ID": "achievement_41",
       "SetID": "222fo9l",
       "Name": "Full Clearance",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_42",
@@ -2563,9 +2563,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_6",
@@ -2595,9 +2595,9 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
@@ -2612,8 +2612,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:08:28.0604136+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:08:15.9584947+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:59:36.9231521+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:08:28.0604528+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:59:16.7802487+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:08:15.9585409+00:00"
 }

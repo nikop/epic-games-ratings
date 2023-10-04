@@ -12,9 +12,9 @@ Rating: 4.61 (Ranked 371)
 | Brute Force | 66.00% | ~505 |
 | Cannon Fodder | 61.00% | ~467 |
 | Autofire | 59.00% | ~451 |
+| Story Teller | 56.00% | ~428 |
 | Raise the Stakes | 56.00% | ~428 |
-| Story Teller | 55.00% | ~421 |
-| True Believer | 55.00% | ~421 |
+| True Believer | 56.00% | ~428 |
 | Surgeon | 52.00% | ~398 |
 | Exterminator | 50.00% | ~382 |
 | Greenhouse Effect | 50.00% | ~382 |
@@ -24,7 +24,7 @@ Rating: 4.61 (Ranked 371)
 | Live with the Hot Ones | 41.00% | ~314 |
 | Get Off My Ship! | 41.00% | ~314 |
 | Strange Transmissions | 41.00% | ~314 |
-| Wreckage | 38.00% | ~291 |
+| Wreckage | 39.00% | ~298 |
 | Keeper of the Faith | 36.00% | ~275 |
 | Betrayed | 35.00% | ~268 |
 | There's Always Peng! | 34.00% | ~260 |
@@ -35,11 +35,11 @@ Rating: 4.61 (Ranked 371)
 | Front Toward Enemy | 31.00% | ~237 |
 | Whole Again | 26.00% | ~199 |
 | Set A Benchmark | 25.00% | ~191 |
+| Final Regeneration | 23.00% | ~176 |
 | Full Contact | 23.00% | ~176 |
 | Pack Rat | 23.00% | ~176 |
-| Final Regeneration | 22.00% | ~168 |
+| Full Clearance | 22.00% | ~168 |
 | Pusher | 21.00% | ~161 |
-| Full Clearance | 21.00% | ~161 |
 | Z-Baller | 20.00% | ~153 |
 | Eviscerator | 18.00% | ~138 |
 | Marked | 18.00% | ~138 |

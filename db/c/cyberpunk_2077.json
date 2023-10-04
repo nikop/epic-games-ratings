@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -12971,9 +12971,9 @@
       "Count": 8287
     }
   ],
-  "EOS_Progressed": 888689,
-  "EOS_Completed": 2575,
-  "EOS_NewPlayers": 5439,
+  "EOS_Progressed": 888709,
+  "EOS_Completed": 2577,
+  "EOS_NewPlayers": 5416,
   "EOS_NewCompleters": 139,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31801,6 +31801,11 @@
       "Time": "2023-10-04T17:09:18.0993937+00:00",
       "NumProgressed": 888689,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-10-04T18:09:03.7512522+00:00",
+      "NumProgressed": 888709,
+      "NumCompleted": 2577
     }
   ],
   "TotalAchievements": 57,
@@ -31852,7 +31857,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "Fortuneteller",
@@ -31860,7 +31865,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "Gearhead",
@@ -31868,7 +31873,7 @@
       "Name": "Autojock",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "GetMeThereScottie",
@@ -31948,7 +31953,7 @@
       "Name": "Must Be Rats",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "NeverFadeAway",
@@ -31996,7 +32001,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44434
+      "UsersEstimate": 44435
     },
     {
       "ID": "Temperance",
@@ -32058,9 +32063,9 @@
       "ID": "TheStar",
       "SetID": "47clieb",
       "Name": "The Star",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2666
+      "UsersEstimate": 3555
     },
     {
       "ID": "TheSun",
@@ -32267,21 +32272,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888689,
-      "Completed": 2575
+      "Progressed": 888709,
+      "Completed": 2577
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17312,
+      "Progressed": 17332,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-04T17:02:00.4375783+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:09:18.0993932+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:09:03.7512516+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:02:00.4375789+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:09:18.0995234+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:02:04.5514396+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:09:03.7514232+00:00"
 }

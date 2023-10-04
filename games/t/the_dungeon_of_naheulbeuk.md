@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,166 |
+| Sowwy! | 32.00% | ~73,169 |
 | Alt+F4 | 6.00% | ~13,719 |
-| Where's that freaking Dwarf? | 5.00% | ~11,432 |
+| Where's that freaking Dwarf? | 5.00% | ~11,433 |
 | Déjà vu | 4.00% | ~9,146 |
 | Sock! SOCK! | 4.00% | ~9,146 |
-| A beer, two curses, three companions | 3.00% | ~6,859 |
-| GG EZ | 3.00% | ~6,859 |
-| DM intervention | 3.00% | ~6,859 |
-| Speedrun | 3.00% | ~6,859 |
-| Fireproof Wizardess | 3.00% | ~6,859 |
+| A beer, two curses, three companions | 3.00% | ~6,860 |
+| GG EZ | 3.00% | ~6,860 |
+| DM intervention | 3.00% | ~6,860 |
+| Speedrun | 3.00% | ~6,860 |
+| Fireproof Wizardess | 3.00% | ~6,860 |
 | Livin' in a dwarven paradise | 2.00% | ~4,573 |
 | Way of the Wimp | 2.00% | ~4,573 |
 | The plot thickens... At the tavern | 2.00% | ~4,573 |
@@ -29,17 +29,17 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 2.00% | ~4,573 |
 | Team Building Exercise | 2.00% | ~4,573 |
 | Oh, when I'll be level 10... | 2.00% | ~4,573 |
-| Shiny and Crôm | 1.00% | ~2,286 |
-| Res Judicata | 1.00% | ~2,286 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,286 |
-| Dwarf Fortress | 1.00% | ~2,286 |
-| %#*!$*! | 1.00% | ~2,286 |
-| Look but don't touch | 1.00% | ~2,286 |
-| The beards of change | 1.00% | ~2,286 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,286 |
-| The Ranger of Chaos | 1.00% | ~2,286 |
-| I am the night | 1.00% | ~2,286 |
-| Thieves' Guild Accreditation | 1.00% | ~2,286 |
+| Shiny and Crôm | 1.00% | ~2,287 |
+| Res Judicata | 1.00% | ~2,287 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,287 |
+| Dwarf Fortress | 1.00% | ~2,287 |
+| %#*!$*! | 1.00% | ~2,287 |
+| Look but don't touch | 1.00% | ~2,287 |
+| The beards of change | 1.00% | ~2,287 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,287 |
+| The Ranger of Chaos | 1.00% | ~2,287 |
+| I am the night | 1.00% | ~2,287 |
+| Thieves' Guild Accreditation | 1.00% | ~2,287 |
 | Lust and Debauchery | 0.90% | ~2,058 |
 | Dead for good | 0.80% | ~1,829 |
 | Material Girl | 0.80% | ~1,829 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,645 (Ranked 58)  
+Progressed: 228,654 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-01 | 228,072 | 5 |
 | 2023-10-02 | 228,310 | 5 |
 | 2023-10-03 | 228,515 | 5 |
-| 2023-10-04 | 228,645 | 5 |
+| 2023-10-04 | 228,654 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

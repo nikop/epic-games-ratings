@@ -9,21 +9,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Zealous | 0.30% | ~2,756 |
 | It wakes | 0.30% | ~2,756 |
 | Skillful | 0.30% | ~2,756 |
-| The Grand Sacrifice | 0.20% | ~1,837 |
-| No one left behind | 0.20% | ~1,837 |
-| Medic | 0.20% | ~1,837 |
-| Handyman | 0.20% | ~1,837 |
-| Nerves of steel | 0.20% | ~1,837 |
-| Not half bad | 0.20% | ~1,837 |
-| Bloody Millionaire | 0.20% | ~1,837 |
-| Apt Survivor | 0.20% | ~1,837 |
-| Survival Treasures | 0.20% | ~1,837 |
-| I | 0.20% | ~1,837 |
-| Sorted | 0.20% | ~1,837 |
-| Healthy Obsession | 0.20% | ~1,837 |
-| Resurgence | 0.20% | ~1,837 |
-| Preemptive Strike | 0.20% | ~1,837 |
-| Make Some Noise | 0.20% | ~1,837 |
+| The Grand Sacrifice | 0.20% | ~1,838 |
+| No one left behind | 0.20% | ~1,838 |
+| Medic | 0.20% | ~1,838 |
+| Handyman | 0.20% | ~1,838 |
+| Nerves of steel | 0.20% | ~1,838 |
+| Not half bad | 0.20% | ~1,838 |
+| Bloody Millionaire | 0.20% | ~1,838 |
+| Apt Survivor | 0.20% | ~1,838 |
+| Survival Treasures | 0.20% | ~1,838 |
+| I | 0.20% | ~1,838 |
+| Sorted | 0.20% | ~1,838 |
+| Healthy Obsession | 0.20% | ~1,838 |
+| Resurgence | 0.20% | ~1,838 |
+| Preemptive Strike | 0.20% | ~1,838 |
+| Make Some Noise | 0.20% | ~1,838 |
 | A bite for the Entity | 0.10% | ~919 |
 | A feast for the Entity | 0.10% | ~919 |
 | Blood on your hands | 0.10% | ~919 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~919 |
 | Adept Ripley | 0.10% | ~919 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,663 (Ranked 14)  
+Progressed: 918,771 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,663 | 49 |
+| 2023-10-04 | 918,771 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
 Sum: 259,325 (Ranked 13)  

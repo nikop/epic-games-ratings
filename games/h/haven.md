@@ -16,12 +16,12 @@ Number of Ratings: 38  (23.09.2022)
 | Strike! | 19.00% | ~281 |
 | A love supreme | 18.00% | ~266 |
 | In my shoes | 17.00% | ~251 |
-| Like new! | 14.00% | ~207 |
+| Like new! | 15.00% | ~222 |
 | Heartstrings | 14.00% | ~207 |
+| Don't look back | 13.00% | ~192 |
 | Head in the clouds | 13.00% | ~192 |
 | Back to rust | 12.00% | ~177 |
 | Flower Powered | 12.00% | ~177 |
-| Don't look back | 12.00% | ~177 |
 | Unstoppable | 10.00% | ~148 |
 | Perfect timing | 9.00% | ~133 |
 | Self-sustainability | 8.00% | ~118 |

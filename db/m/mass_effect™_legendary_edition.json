@@ -1636,9 +1636,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_41",
@@ -1652,9 +1652,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_43",
@@ -1844,9 +1844,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_65",
@@ -2168,8 +2168,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:05:06.1977464+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:04:47.3025695+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:00:09.0049437+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:05:06.1979192+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:59:44.5506353+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:04:47.3027989+00:00"
 }

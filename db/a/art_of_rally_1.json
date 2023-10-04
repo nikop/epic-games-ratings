@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10266,
+  "EOS_Progressed": 10267,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1616,6 +1616,11 @@
       "Time": "2023-10-02T21:05:49.6929096+00:00",
       "NumProgressed": 10266,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-04T18:07:36.0848616+00:00",
+      "NumProgressed": 10267,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1731,7 +1736,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4106
+      "UsersEstimate": 4107
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1787,7 +1792,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1851,7 +1856,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9855
+      "UsersEstimate": 9856
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1915,7 +1920,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "ACH_SNOW",
@@ -1970,15 +1975,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10266,
+      "Progressed": 10267,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:08:06.4842905+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:07:36.0848611+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.2537883+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:01:51.3184392+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:08:06.4843255+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:01:16.1720546+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:07:36.0849166+00:00"
 }

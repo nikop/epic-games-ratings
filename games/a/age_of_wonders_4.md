@@ -21,7 +21,6 @@ Rating: 4.60 (Ranked 396)
 | Full Ascension | 5.00% | ~260 |
 | My Final Form | 5.00% | ~260 |
 | In a Liege of Your Own | 5.00% | ~260 |
-| Against the Odds | 5.00% | ~260 |
 | Impenetrable Fortress | 5.00% | ~260 |
 | Here be Dragons | 5.00% | ~260 |
 | Blood of the Dragon | 5.00% | ~260 |
@@ -31,6 +30,7 @@ Rating: 4.60 (Ranked 396)
 | Digging for Treasure | 4.00% | ~208 |
 | Preparation Is Everything | 4.00% | ~208 |
 | Fiery Friend | 4.00% | ~208 |
+| Against the Odds | 4.00% | ~208 |
 | God Emperor | 3.00% | ~156 |
 | Lord of Chaos | 3.00% | ~156 |
 | Arch Mage | 3.00% | ~156 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 396)
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,200 (Ranked 169)  
+Progressed: 5,201 (Ranked 169)  
 Completed: 6 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 6 (0.12%) (Ranked 234)
 | 2023-09-29 | 5,195 | 6 |
 | 2023-09-30 | 5,196 | 6 |
 | 2023-10-02 | 5,199 | 6 |
-| 2023-10-04 | 5,200 | 6 |
+| 2023-10-04 | 5,201 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 494)  
 Sum: 25 (Ranked 503)  

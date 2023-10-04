@@ -2299,9 +2299,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH001",
@@ -2707,8 +2707,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:05:46.9515576+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:05:25.7671132+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.0354085+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:02:02.6791669+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:05:46.9516006+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:02:06.5610773+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:05:25.7671705+00:00"
 }

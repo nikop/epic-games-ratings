@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3732,9 +3732,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73726,
+  "EOS_Progressed": 73727,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -22492,6 +22492,11 @@
       "Time": "2023-10-04T17:07:56.0514955+00:00",
       "NumProgressed": 73726,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-04T18:07:26.371067+00:00",
+      "NumProgressed": 73727,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 53,
@@ -22607,7 +22612,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23592
+      "UsersEstimate": 23593
     },
     {
       "ID": "complete_mission_1",
@@ -22631,7 +22636,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26541
+      "UsersEstimate": 26542
     },
     {
       "ID": "cutting_edge_materials",
@@ -22711,7 +22716,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23592
+      "UsersEstimate": 23593
     },
     {
       "ID": "fully_complete_a_building",
@@ -22743,7 +22748,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12533
+      "UsersEstimate": 12534
     },
     {
       "ID": "get_fired",
@@ -22751,7 +22756,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26541
+      "UsersEstimate": 26542
     },
     {
       "ID": "hit_max_level",
@@ -22783,7 +22788,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20643
+      "UsersEstimate": 20644
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -22926,13 +22931,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73726,
+      "Progressed": 73727,
       "Completed": 50
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 45363,
+      "Progressed": 45364,
       "Completed": 4013
     }
   ],
@@ -22940,8 +22945,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-01T18:03:15.1951631+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:07:56.0514948+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:07:26.3710666+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.2297525+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:58:04.2878758+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:07:56.0516269+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:57:49.6821095+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:07:26.371232+00:00"
 }

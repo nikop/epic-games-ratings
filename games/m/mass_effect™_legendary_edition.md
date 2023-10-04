@@ -27,8 +27,8 @@
 | Paramour I | 45.00% | ~248 |
 | Sentinel Ally | 45.00% | ~248 |
 | Krogan Ally | 45.00% | ~248 |
+| Merciless | 45.00% | ~248 |
 | Scientist | 45.00% | ~248 |
-| Merciless | 44.00% | ~242 |
 | Head Hunter | 42.00% | ~231 |
 | Very Elusive | 41.00% | ~226 |
 | Operative | 41.00% | ~226 |
@@ -70,12 +70,12 @@
 | Bringer of War | 27.00% | ~149 |
 | First Aid Specialist | 26.00% | ~143 |
 | Mobilizer | 26.00% | ~143 |
+| Suicide Mission | 25.00% | ~138 |
 | Friend or Foe | 25.00% | ~138 |
 | Untouchable | 24.00% | ~132 |
 | Eye of the Hurricane | 24.00% | ~132 |
 | Giant Killer | 24.00% | ~132 |
 | Mission Accomplished | 24.00% | ~132 |
-| Suicide Mission | 24.00% | ~132 |
 | Against All Odds | 24.00% | ~132 |
 | A House Divided | 23.00% | ~127 |
 | Weapon Specialist | 23.00% | ~127 |
@@ -86,9 +86,9 @@
 | Savior | 20.00% | ~110 |
 | Paramour II | 20.00% | ~110 |
 | Tunnel Rat | 20.00% | ~110 |
+| No One Left Behind | 19.00% | ~105 |
 | Lost and Found | 19.00% | ~105 |
 | Electronics Specialist | 18.00% | ~99 |
-| No One Left Behind | 18.00% | ~99 |
 | Party Crasher | 18.00% | ~99 |
 | Problem Solver | 18.00% | ~99 |
 | Pyromaniac | 17.00% | ~94 |

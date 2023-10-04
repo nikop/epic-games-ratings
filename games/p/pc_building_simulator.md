@@ -1,26 +1,26 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,747,316 |
-| Easy to forget | 46.00% | ~1,640,337 |
-| Back in the black | 39.00% | ~1,390,721 |
-| That's what I'm talking about | 29.00% | ~1,034,126 |
-| The Best of Both Worlds | 25.00% | ~891,488 |
-| Get your wings | 20.00% | ~713,190 |
-| Double trouble | 16.00% | ~570,552 |
-| Smashing it | 11.00% | ~392,255 |
-| But can it run Crysis? | 9.00% | ~320,936 |
-| My favourite feature... | 9.00% | ~320,936 |
+| You need to plug it in... | 49.00% | ~1,747,322 |
+| Easy to forget | 46.00% | ~1,640,343 |
+| Back in the black | 39.00% | ~1,390,726 |
+| That's what I'm talking about | 29.00% | ~1,034,130 |
+| The Best of Both Worlds | 25.00% | ~891,491 |
+| Get your wings | 20.00% | ~713,193 |
+| Double trouble | 16.00% | ~570,554 |
+| Smashing it | 11.00% | ~392,256 |
+| But can it run Crysis? | 9.00% | ~320,937 |
+| My favourite feature... | 9.00% | ~320,937 |
 | From humble beginnings... | 7.00% | ~249,617 |
 | Customer satisfaction | 7.00% | ~249,617 |
-| Keeping things neat | 4.00% | ~142,638 |
-| Seems you're pretty good at this | 4.00% | ~142,638 |
-| Bending over backwards | 4.00% | ~142,638 |
+| Keeping things neat | 4.00% | ~142,639 |
+| Seems you're pretty good at this | 4.00% | ~142,639 |
+| Bending over backwards | 4.00% | ~142,639 |
 | Triple threat | 3.00% | ~106,979 |
 | You rock at this! | 3.00% | ~106,979 |
 | Your music sucks | 3.00% | ~106,979 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,566 |
 | Treat yourself - GPU | 0.10% | ~3,566 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,565,951 (Ranked 5)  
+Progressed: 3,565,964 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 36 (0.00%) (Ranked 306)
 | 2023-10-01 | 3,565,085 | 36 |
 | 2023-10-02 | 3,565,406 | 36 |
 | 2023-10-03 | 3,565,724 | 36 |
-| 2023-10-04 | 3,565,951 | 36 |
+| 2023-10-04 | 3,565,964 | 36 |
 ## Awards
 Max (Great for Beginners): 1,076  (Ranked 141)  
 Sum: 8,043 (Ranked 100)  

@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 522)  
+Rating: 4.53 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,14 +11,14 @@ Rating: 4.53 (Ranked 522)
 | The Pit and the Pirates | 0.70% | ~95 |
 | Drone Dodger | 0.70% | ~95 |
 | Impossible Objects | 0.70% | ~95 |
+| Call it Even | 0.60% | ~81 |
 | Celebrations are in Order | 0.60% | ~81 |
 | Data Archivist | 0.50% | ~68 |
+| Spore Taste | 0.50% | ~68 |
 | Martian Music | 0.50% | ~68 |
 | Heal Thy Medic | 0.50% | ~68 |
-| Call it Even | 0.50% | ~68 |
 | Captain Drummer | 0.50% | ~68 |
 | Stogie for Fogey | 0.40% | ~54 |
-| Spore Taste | 0.40% | ~54 |
 | Khan's Revenge | 0.40% | ~54 |
 | Thorston Mayer | 0.30% | ~41 |
 | Miraculous Maya | 0.30% | ~41 |

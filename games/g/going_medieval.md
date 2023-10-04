@@ -13,7 +13,7 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 66.00% | ~4,018 |
 | Novice Researcher | 66.00% | ~4,018 |
 | Home Cooked Meal | 58.00% | ~3,531 |
-| Onward | 56.00% | ~3,409 |
+| Onward | 57.00% | ~3,470 |
 | The First Week | 54.00% | ~3,288 |
 | Putting Food on the Table | 53.00% | ~3,227 |
 | Studious Researcher | 52.00% | ~3,166 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,088 (Ranked 162)  
-Completed: 14 (0.23%) (Ranked 212)  
+Completed: 14 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

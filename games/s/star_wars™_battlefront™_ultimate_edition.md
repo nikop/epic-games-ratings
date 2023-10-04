@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~387 |
-| Off to a good start | 66.00% | ~280 |
-| Do... or do not. There is no try | 51.00% | ~217 |
-| A good blaster at your side | 34.00% | ~144 |
+| New Recruit | 91.00% | ~389 |
+| Off to a good start | 67.00% | ~287 |
+| Do... or do not. There is no try | 51.00% | ~218 |
+| A good blaster at your side | 34.00% | ~146 |
 | Scrap collector | 22.00% | ~94 |
-| All right, I'll give it a try | 20.00% | ~85 |
+| All right, I'll give it a try | 20.00% | ~86 |
 | Great shot, kid! | 19.00% | ~81 |
-| I suggest a new strategy | 18.00% | ~76 |
-| Together we can rule the galaxy | 17.00% | ~72 |
-| Shoot first | 17.00% | ~72 |
-| The power of the Force | 16.00% | ~68 |
+| I suggest a new strategy | 18.00% | ~77 |
+| The power of the Force | 17.00% | ~73 |
+| Together we can rule the galaxy | 17.00% | ~73 |
+| Shoot first | 17.00% | ~73 |
 | Collector | 15.00% | ~64 |
-| Survivor | 13.00% | ~55 |
-| Tell Jabba that I've got his money | 12.00% | ~51 |
+| Survivor | 13.00% | ~56 |
 | Best star-pilot in the galaxy | 12.00% | ~51 |
+| Tell Jabba that I've got his money | 11.00% | ~47 |
 | Impressive. Most impressive. | 11.00% | ~47 |
-| What's the cargo? | 10.00% | ~42 |
-| Never tell me the odds! | 10.00% | ~42 |
-| A cunning warrior | 10.00% | ~42 |
-| "Gonk? Gonk!" | 9.00% | ~38 |
-| Judge me by my size, do you? | 9.00% | ~38 |
+| What's the cargo? | 10.00% | ~43 |
+| Never tell me the odds! | 10.00% | ~43 |
+| A cunning warrior | 10.00% | ~43 |
+| "Gonk? Gonk!" | 9.00% | ~39 |
+| Judge me by my size, do you? | 9.00% | ~39 |
 | Distinguished | 8.00% | ~34 |
 | A tremor in the Force | 8.00% | ~34 |
-| Support the troops | 8.00% | ~34 |
+| Support the troops | 7.00% | ~30 |
 | On the ball | 6.00% | ~26 |
 | Not bad for a little furball | 6.00% | ~26 |
 | Patience you must have | 6.00% | ~26 |
@@ -47,14 +47,14 @@
 | Disturbed tranquility | 4.00% | ~17 |
 | Playing the objective | 3.00% | ~13 |
 | The circle is now complete | 3.00% | ~13 |
-| Hold the line! | 2.00% | ~8 |
-| Ackbar's Elite | 2.00% | ~8 |
-| No such thing as luck | 2.00% | ~8 |
-| Do we take prisoners? | 2.00% | ~8 |
-| You have your moments | 2.00% | ~8 |
-| When surrounded by war... | 2.00% | ~8 |
-| Stop that Droid | 2.00% | ~8 |
-| Onwards! | 2.00% | ~8 |
+| Hold the line! | 2.00% | ~9 |
+| Ackbar's Elite | 2.00% | ~9 |
+| No such thing as luck | 2.00% | ~9 |
+| Do we take prisoners? | 2.00% | ~9 |
+| You have your moments | 2.00% | ~9 |
+| When surrounded by war... | 2.00% | ~9 |
+| Stop that Droid | 2.00% | ~9 |
+| Onwards! | 2.00% | ~9 |
 | A New Hope | 1.00% | ~4 |
 | I’ll take that bet | 1.00% | ~4 |
 | in a galaxy far, far away.... | 0.90% | ~4 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 282)  
-Completed: 1 (0.24%) (Ranked 210)  
+Progressed: 428 (Ranked 281)  
+Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 1 (0.24%) (Ranked 210)
 | 2023-10-01 | 379 | 1 |
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
-| 2023-10-04 | 425 | 1 |
+| 2023-10-04 | 428 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~757 |
+| Cabin boy | 81.00% | ~766 |
 | My little farm | 64.00% | ~605 |
 | Every beginning is difficult | 62.00% | ~587 |
 | Gofer | 56.00% | ~530 |

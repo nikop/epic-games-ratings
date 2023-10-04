@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 5.00% | ~44,434 |
+| Ten out of Ten | 5.00% | ~44,435 |
 | Rough Landing | 4.00% | ~35,548 |
 | Gunslinger | 3.00% | ~26,661 |
 | Master Crafter | 3.00% | ~26,661 |
@@ -41,14 +41,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | City Lights | 0.80% | ~7,110 |
 | Bushido and Chill | 0.70% | ~6,221 |
 | I Am The Law | 0.70% | ~6,221 |
-| To Protect and Serve | 0.50% | ~4,443 |
-| The Wandering Fool | 0.50% | ~4,443 |
-| Autojock | 0.50% | ~4,443 |
-| Must Be Rats | 0.50% | ~4,443 |
+| To Protect and Serve | 0.50% | ~4,444 |
+| The Wandering Fool | 0.50% | ~4,444 |
+| Autojock | 0.50% | ~4,444 |
+| Must Be Rats | 0.50% | ~4,444 |
+| The Star | 0.40% | ~3,555 |
 | The Sun | 0.40% | ~3,555 |
 | Frequent Flyer | 0.30% | ~2,666 |
 | Little Tokyo | 0.30% | ~2,666 |
-| The Star | 0.30% | ~2,666 |
 | The APB is Not Enough | 0.30% | ~52 |
 | Relic Ruler | 0.30% | ~52 |
 | The Wasteland | 0.20% | ~1,777 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,689 (Ranked 15)  
-Completed: 2,575 (0.29%) (Ranked 203)  
+Progressed: 888,709 (Ranked 15)  
+Completed: 2,577 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 2,575 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,689 | 2,575 |
+| 2023-10-04 | 888,709 | 2,577 |
 ## Awards
 Max (Character Customization): 91,317  (Ranked 9)  
 Sum: 263,447 (Ranked 12)  

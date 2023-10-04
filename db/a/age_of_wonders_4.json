@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5200,
+  "EOS_Progressed": 5201,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6258,6 +6258,11 @@
       "Time": "2023-10-04T00:03:21.6120703+00:00",
       "NumProgressed": 5200,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-04T18:04:31.2965868+00:00",
+      "NumProgressed": 5201,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6507,9 +6512,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 208
     },
     {
       "ID": "38",
@@ -6668,13 +6673,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5200,
+      "Progressed": 5201,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5200,
+      "Progressed": 5201,
       "Completed": 6
     }
   ],
@@ -6682,8 +6687,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-30T08:59:29.1729181+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:04:49.1517054+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:04:31.2965859+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:58.3354834+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:58:11.7921519+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:04:49.151769+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:57:56.8360465+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:04:31.2966679+00:00"
 }

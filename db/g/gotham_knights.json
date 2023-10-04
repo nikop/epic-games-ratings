@@ -3356,9 +3356,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73128,
+  "EOS_Progressed": 73130,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17591,6 +17591,11 @@
       "Time": "2023-10-04T17:06:07.6922052+00:00",
       "NumProgressed": 73128,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-04T18:05:45.5418045+00:00",
+      "NumProgressed": 73130,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17650,7 +17655,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16819
+      "UsersEstimate": 16820
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17682,7 +17687,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "APPLY_STATUS",
@@ -17690,7 +17695,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10969
+      "UsersEstimate": 10970
     },
     {
       "ID": "CHALLENGES_1",
@@ -17778,7 +17783,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -17826,7 +17831,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21207
+      "UsersEstimate": 21208
     },
     {
       "ID": "FREEZE_1_5",
@@ -17842,7 +17847,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13894
+      "UsersEstimate": 13895
     },
     {
       "ID": "FREEZE_3",
@@ -17906,7 +17911,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25595
+      "UsersEstimate": 25596
     },
     {
       "ID": "HARLEY_2",
@@ -17930,7 +17935,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11700
+      "UsersEstimate": 11701
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -17946,7 +17951,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38027
+      "UsersEstimate": 38028
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18010,7 +18015,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16819
+      "UsersEstimate": 16820
     },
     {
       "ID": "MYSTERY_04",
@@ -18034,7 +18039,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10969
+      "UsersEstimate": 10970
     },
     {
       "ID": "MYSTERY_07",
@@ -18050,7 +18055,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "SECRET_CACHE",
@@ -18089,13 +18094,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73128,
+      "Progressed": 73130,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43408,
+      "Progressed": 43410,
       "Completed": 2666
     }
   ],
@@ -18103,8 +18108,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-03T20:57:30.4468993+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:06:07.6922047+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:05:45.541804+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:57:55.782156+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:06:07.692315+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:57:42.814012+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:05:45.5419537+00:00"
 }

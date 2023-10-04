@@ -4669,9 +4669,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704679,
+  "EOS_Progressed": 704680,
   "EOS_Completed": 6395,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -22509,6 +22509,11 @@
       "Time": "2023-10-04T17:03:23.7635403+00:00",
       "NumProgressed": 704679,
       "NumCompleted": 6395
+    },
+    {
+      "Time": "2023-10-04T18:03:15.482656+00:00",
+      "NumProgressed": 704680,
+      "NumCompleted": 6395
     }
   ],
   "TotalAchievements": 49,
@@ -22568,7 +22573,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225497
+      "UsersEstimate": 225498
     },
     {
       "ID": "AchClearAnyRun",
@@ -22576,7 +22581,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 366433
+      "UsersEstimate": 366434
     },
     {
       "ID": "AchClearAsphodel",
@@ -22584,7 +22589,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563743
+      "UsersEstimate": 563744
     },
     {
       "ID": "AchClearElysium",
@@ -22592,7 +22597,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465088
+      "UsersEstimate": 465089
     },
     {
       "ID": "AchClearElysiumEM",
@@ -22624,7 +22629,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627164
+      "UsersEstimate": 627165
     },
     {
       "ID": "AchCrushedThanatos",
@@ -22640,7 +22645,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84561
+      "UsersEstimate": 84562
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -22680,7 +22685,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 155029
+      "UsersEstimate": 155030
     },
     {
       "ID": "AchGreaterCall",
@@ -22712,7 +22717,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 260731
+      "UsersEstimate": 260732
     },
     {
       "ID": "AchManyCosmetics",
@@ -22720,7 +22725,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 190263
+      "UsersEstimate": 190264
     },
     {
       "ID": "AchManyQuests",
@@ -22784,7 +22789,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 119795
+      "UsersEstimate": 119796
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -22792,7 +22797,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253684
+      "UsersEstimate": 253685
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -22808,7 +22813,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 260731
+      "UsersEstimate": 260732
     },
     {
       "ID": "AchPickedManyHammers",
@@ -22872,7 +22877,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295965
+      "UsersEstimate": 295966
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -22880,7 +22885,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500322
+      "UsersEstimate": 500323
     },
     {
       "ID": "AchWeaponClears",
@@ -22911,15 +22916,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704679,
+      "Progressed": 704680,
       "Completed": 6395
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-10-04T02:58:50.3341222+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:03:23.7635398+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:03:15.4826553+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:47.4113746+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:59:21.656023+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:03:23.7636704+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:59:04.3637278+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:03:15.4828199+00:00"
 }

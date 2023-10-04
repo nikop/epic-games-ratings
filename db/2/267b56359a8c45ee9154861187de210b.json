@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -795,9 +795,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "trophies_117",
@@ -866,8 +866,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:08:24.8923285+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:08:13.1536068+00:00",
   "LastUpdate_AppInfo": "2023-09-27T20:57:08.0521147+00:00",
-  "LastUpdate_Ratings": "2023-10-04T16:58:19.1496408+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:08:24.892408+00:00"
+  "LastUpdate_Ratings": "2023-10-04T17:58:04.6996417+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:08:13.153711+00:00"
 }

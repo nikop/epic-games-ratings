@@ -1,14 +1,14 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.50% | ~72 |
 | Settler | 0.50% | ~72 |
 | Play a Single Player Game | 0.50% | ~72 |
-| Explorer | 0.40% | ~57 |
 | Intrepid | 0.40% | ~57 |
 | Friendly Family | 0.40% | ~57 |
 | Able | 0.30% | ~43 |
@@ -24,9 +24,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Ambitious | 0.20% | ~29 |
+| Brilliant | 0.20% | ~29 |
 | Enlightened | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
+| Great | 0.20% | ~29 |
 | Just | 0.20% | ~29 |
 | Keystone | 0.20% | ~29 |
 | Magnificent | 0.20% | ~29 |
@@ -44,15 +46,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.20% | ~29 |
 | Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
+| Egyptian Paganism | 0.20% | ~29 |
 | Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
 | Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
+| Future Regicide | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
+| United Against The Horde | 0.10% | ~14 |
 | Blade of the Monkey | 0.10% | ~14 |
 | Carthage - Ox Hide | 0.10% | ~14 |
 | Bronze Victory (Carthage 1) | 0.10% | ~14 |
@@ -64,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 2) | 0.10% | ~14 |
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
 | Silver Victory (Carthage 2) | 0.10% | ~14 |
+| Carthage - Rise of Rome | 0.10% | ~14 |
 | Carthage - Seizing Destiny | 0.10% | ~14 |
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
@@ -71,11 +77,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
-| Brilliant | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
 | Conqueror | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
-| Great | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
@@ -168,9 +172,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.10% | ~14 |
 | Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
-| Egyptian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
+| Roman Papacy | 0.10% | ~14 |
+| Circus Maximus in Roma | 0.10% | ~14 |
 | Pantheon in Roma | 0.10% | ~14 |
 | Building Wonders | 0.10% | ~14 |
 | Capturing Cities | 0.10% | ~14 |
@@ -199,6 +204,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.10% | ~14 |
 | Conquest Victory | 0.10% | ~14 |
 | Double Victory | 0.10% | ~14 |
+| No Characters | 0.10% | ~14 |
 | No Undo | 0.10% | ~14 |
 | Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
@@ -207,6 +213,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.10% | ~14 |
 | Win a Hotseat Game | 0.10% | ~14 |
 | Win a LAN Game | 0.10% | ~14 |
+| Win a MP Teams Game | 0.10% | ~14 |
+| Win a Network Game | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
 | The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
@@ -266,14 +274,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| United Against The Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Carthage - Rise of Rome | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
@@ -332,16 +337,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
-| Roman Papacy | 0.00% | ~0 |
-| Circus Maximus in Roma | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
-| No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
-| Win a MP Teams Game | 0.00% | ~0 |
-| Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,341 (Ranked 133)  
+Progressed: 14,344 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,341 | 5 |
+| 2023-10-04 | 14,344 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

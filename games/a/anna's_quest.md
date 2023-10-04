@@ -21,9 +21,9 @@
 | Game Over! | 40.00% | ~20 |
 | A very special drink | 40.00% | ~20 |
 | NOW GO AWAY! | 40.00% | ~20 |
+| Show me your true self | 38.00% | ~19 |
+| No posters allowed | 38.00% | ~19 |
 | Little genius | 38.00% | ~19 |
-| Show me your true self | 36.00% | ~18 |
-| No posters allowed | 36.00% | ~18 |
 | Shattered | 34.00% | ~17 |
 | GG | 34.00% | ~17 |
 | You've got mail! | 32.00% | ~16 |
@@ -40,7 +40,7 @@
 | Kill it! KILL IT! | 24.00% | ~12 |
 | Guilty conscience | 22.00% | ~11 |
 | Cameodalic | 20.00% | ~10 |
-| Clever reference #451 | 16.00% | ~8 |
+| Clever reference #451 | 18.00% | ~9 |
 | What a mess | 14.00% | ~7 |
 | Posterboy! | 12.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

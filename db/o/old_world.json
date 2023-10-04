@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 133,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14341,
+  "EOS_Progressed": 14344,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12940,6 +12940,11 @@
       "Time": "2023-10-04T17:08:42.5184946+00:00",
       "NumProgressed": 14341,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T18:08:30.0481944+00:00",
+      "NumProgressed": 14344,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13013,9 +13018,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
       "SetID": "9201eeb",
       "Name": "Future Regicide",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ATHENS_ACROPOLIS",
@@ -13061,9 +13066,9 @@
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER",
       "SetID": "9201eeb",
       "Name": "United Against The Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_BATTLE_OF_OPIS",
@@ -13181,9 +13186,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3",
       "SetID": "9201eeb",
       "Name": "Carthage - Rise of Rome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_BRONZE",
@@ -13333,9 +13338,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -13381,9 +13386,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -13413,9 +13418,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -14773,9 +14778,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -14829,17 +14834,17 @@
       "ID": "ACHIEVEMENT_ROMAN_PAPACY",
       "SetID": "9201eeb",
       "Name": "Roman Papacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus in Roma",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -15093,9 +15098,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
       "SetID": "7l38kb8",
       "Name": "No Characters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
@@ -15197,17 +15202,17 @@
       "ID": "ACHIEVEMENT_WIN_MPTEAMS",
       "SetID": "9201eeb",
       "Name": "Win a MP Teams Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_WIN_NETWORK",
       "SetID": "9201eeb",
       "Name": "Win a Network Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_WIN_PLAYBYCLOUD",
@@ -15686,21 +15691,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14341,
+      "Progressed": 14344,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14341,
+      "Progressed": 14344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-04T17:08:42.5184941+00:00",
+  "LastChanged_Achievements": "2023-10-04T18:08:30.048194+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:00:27.7751365+00:00",
-  "LastUpdate_Achievements": "2023-10-04T17:08:42.519482+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:00:00.769424+00:00",
+  "LastUpdate_Achievements": "2023-10-04T18:08:30.049333+00:00"
 }

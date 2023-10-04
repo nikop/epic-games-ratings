@@ -8,14 +8,14 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~33,914 |
 | To The Nines | 42.00% | ~30,965 |
-| Optimized | 36.00% | ~26,541 |
-| Performance Review | 36.00% | ~26,541 |
+| Optimized | 36.00% | ~26,542 |
+| Performance Review | 36.00% | ~26,542 |
 | Making a Name | 34.00% | ~25,067 |
 | Tune Up | 33.00% | ~24,330 |
-| Wet Work | 32.00% | ~23,592 |
-| Landlord | 32.00% | ~23,592 |
+| Wet Work | 32.00% | ~23,593 |
+| Landlord | 32.00% | ~23,593 |
 | The Side Job | 31.00% | ~22,855 |
-| Wrecking Ball | 28.00% | ~20,643 |
+| Wrecking Ball | 28.00% | ~20,644 |
 | Food for Thought | 27.00% | ~19,906 |
 | Finders Keepers | 25.00% | ~18,432 |
 | A Young Empire | 25.00% | ~18,432 |
@@ -23,7 +23,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Power Players | 19.00% | ~14,008 |
 | Picking Fights | 19.00% | ~14,008 |
 | Quality Time | 18.00% | ~13,271 |
-| Et tu? | 17.00% | ~12,533 |
+| Et tu? | 17.00% | ~12,534 |
 | Showdown | 16.00% | ~11,796 |
 | Took It to The Limit | 16.00% | ~11,796 |
 | Kitted Out | 14.00% | ~10,322 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~147 |
 | Fiesta Time | 0.20% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,726 (Ranked 86)  
+Progressed: 73,727 (Ranked 86)  
 Completed: 50 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 50 (0.07%) (Ranked 254)
 | 2023-10-01 | 73,412 | 50 |
 | 2023-10-02 | 73,547 | 50 |
 | 2023-10-03 | 73,662 | 50 |
-| 2023-10-04 | 73,726 | 50 |
+| 2023-10-04 | 73,727 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,663 (Ranked 97)  

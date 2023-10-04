@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish the Tutorial | 76.00% | ~16 |
-| A Map for Benedek | 52.00% | ~11 |
-| A Map for Nikolay | 52.00% | ~11 |
-| The Wall of Laments | 43.00% | ~9 |
-| Death Whistle | 43.00% | ~9 |
-| Burial Mound | 38.00% | ~8 |
-| Make the Prophet Your Ally | 33.00% | ~7 |
-| Become a Half-Child | 33.00% | ~7 |
-| Find the Road of Cadavers | 33.00% | ~7 |
-| A Catacomb | 33.00% | ~7 |
-| Put Kata out of Her Misery | 29.00% | ~6 |
-| The Dreaded Klek | 29.00% | ~6 |
-| Found Ulric's Portrait | 29.00% | ~6 |
-| Veil of Vera | 29.00% | ~6 |
-| The Crypt of Ivan Kotar | 29.00% | ~6 |
-| Lore and Background Story | 29.00% | ~6 |
-| Ulric's Painting Acquired | 24.00% | ~5 |
-| You Abandoned God | 24.00% | ~5 |
-| Save Arsen | 19.00% | ~4 |
-| Kabeer is Dead | 19.00% | ~4 |
-| Nikolay's Nonsense | 19.00% | ~4 |
+| Finish the Tutorial | 73.00% | ~16 |
+| A Map for Benedek | 50.00% | ~11 |
+| A Map for Nikolay | 50.00% | ~11 |
+| The Wall of Laments | 41.00% | ~9 |
+| Death Whistle | 41.00% | ~9 |
+| Burial Mound | 36.00% | ~8 |
+| Make the Prophet Your Ally | 32.00% | ~7 |
+| Become a Half-Child | 32.00% | ~7 |
+| Find the Road of Cadavers | 32.00% | ~7 |
+| A Catacomb | 32.00% | ~7 |
+| Put Kata out of Her Misery | 27.00% | ~6 |
+| The Dreaded Klek | 27.00% | ~6 |
+| Found Ulric's Portrait | 27.00% | ~6 |
+| Veil of Vera | 27.00% | ~6 |
+| The Crypt of Ivan Kotar | 27.00% | ~6 |
+| Lore and Background Story | 27.00% | ~6 |
+| Ulric's Painting Acquired | 23.00% | ~5 |
+| You Abandoned God | 23.00% | ~5 |
+| Save Arsen | 18.00% | ~4 |
+| Kabeer is Dead | 18.00% | ~4 |
+| Nikolay's Nonsense | 18.00% | ~4 |
 | Forgive Ida | 14.00% | ~3 |
 | Davor Was Deported | 14.00% | ~3 |
 | Gregor Was Punished | 14.00% | ~3 |
@@ -37,20 +37,20 @@
 | Goldin's Fate | 14.00% | ~3 |
 | Warden's Monstrosities | 14.00% | ~3 |
 | You Decided to Stay With God | 14.00% | ~3 |
-| Leave the Town | 10.00% | ~2 |
-| You Helped Fulfill the Prophecy | 10.00% | ~2 |
-| Silenced the Voices | 10.00% | ~2 |
-| The Chapel | 10.00% | ~2 |
-| The Sewers | 10.00% | ~2 |
-| Lodge's Secret Passage Shortcut | 10.00% | ~2 |
-| That's Viktoria | 10.00% | ~2 |
+| Leave the Town | 9.00% | ~2 |
+| You Helped Fulfill the Prophecy | 9.00% | ~2 |
+| Silenced the Voices | 9.00% | ~2 |
+| The Chapel | 9.00% | ~2 |
+| The Sewers | 9.00% | ~2 |
+| Lodge's Secret Passage Shortcut | 9.00% | ~2 |
+| That's Viktoria | 9.00% | ~2 |
 | Found Vilim's Body | 5.00% | ~1 |
 | Get Eaten by the Food Man | 5.00% | ~1 |
 | Death Whistle Opened the Door | 5.00% | ~1 |
 | The Meaning of Life | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 476)  
+Progressed: 22 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-06-22 | 19 | 0 |
 | 2023-07-07 | 20 | 0 |
 | 2023-08-19 | 21 | 0 |
+| 2023-10-04 | 22 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
