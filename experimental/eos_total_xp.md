@@ -205,6 +205,7 @@
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
 | [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
+| [Dude, Where Is My Beer?](../games/7/7c6b6697df584024be9c60a1da59096b.md) | 22 | 1,000 |
 | [Dungeon Drafters](../games/d/dungeon_drafters.md) | 40 | 1,000 |
 | [Dungeon Knight](../games/b/bb813cebe527480abb7d459661931369.md) | 12 | 1,000 |
 | [Dungeons 3](../games/d/dungeons_3.md) | 60 | 1,000 |

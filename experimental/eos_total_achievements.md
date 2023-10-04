@@ -486,6 +486,7 @@
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Death Crown](../games/3/36c80652a9de4ac28ab9f990034dc847.md) | 22 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
+| [Dude, Where Is My Beer?](../games/7/7c6b6697df584024be9c60a1da59096b.md) | 22 | 1,000 |
 | [Enchanted Portals](../games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 22 | 1,000 |
 | [Feud](../games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 22 | 1,000 |
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
