@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15531,
+  "EOS_Progressed": 15532,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11310,6 +11310,11 @@
       "Time": "2023-10-04T08:06:00.6492629+00:00",
       "NumProgressed": 15531,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-04T09:05:48.1955533+00:00",
+      "NumProgressed": 15532,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11321,7 +11326,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "tpote_achievement_10",
@@ -11335,9 +11340,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3572
     },
     {
       "ID": "tpote_achievement_12",
@@ -11361,7 +11366,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "tpote_achievement_15",
@@ -11393,7 +11398,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "tpote_achievement_19",
@@ -11409,7 +11414,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "tpote_achievement_20",
@@ -11425,7 +11430,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "tpote_achievement_22",
@@ -11449,7 +11454,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "tpote_achievement_25",
@@ -11537,7 +11542,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "tpote_achievement_35",
@@ -11585,7 +11590,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "tpote_achievement_40",
@@ -11609,7 +11614,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "tpote_achievement_6",
@@ -11617,7 +11622,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "tpote_achievement_7",
@@ -11648,15 +11653,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15531,
+      "Progressed": 15532,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:06:00.6492625+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:05:48.195553+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:58:33.6273726+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:06:00.6493396+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:58:48.0104438+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:05:48.1956704+00:00"
 }

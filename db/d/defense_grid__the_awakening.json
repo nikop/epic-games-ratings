@@ -2,7 +2,7 @@
   "ID": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": "defense-grid",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 35,
@@ -1849,9 +1849,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 487175,
+  "EOS_Progressed": 487176,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19384,6 +19384,11 @@
       "Time": "2023-10-04T07:04:48.8656452+00:00",
       "NumProgressed": 487175,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T09:04:55.174756+00:00",
+      "NumProgressed": 487176,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -19411,7 +19416,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 224100
+      "UsersEstimate": 224101
     },
     {
       "ID": "BASEDEFENDER",
@@ -19451,7 +19456,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 287433
+      "UsersEstimate": 287434
     },
     {
       "ID": "CHAS",
@@ -19539,7 +19544,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 326407
+      "UsersEstimate": 326408
     },
     {
       "ID": "EXTERMINATOR",
@@ -19587,7 +19592,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 394612
+      "UsersEstimate": 394613
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -19667,7 +19672,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379996
+      "UsersEstimate": 379997
     },
     {
       "ID": "HEADTRAUMA",
@@ -19683,7 +19688,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 379996
+      "UsersEstimate": 379997
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -19699,7 +19704,7 @@
       "Name": "Indecisive",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29230
+      "UsersEstimate": 29231
     },
     {
       "ID": "ISPY",
@@ -19707,7 +19712,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 311792
+      "UsersEstimate": 311793
     },
     {
       "ID": "KABOOM",
@@ -19715,7 +19720,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 146152
+      "UsersEstimate": 146153
     },
     {
       "ID": "KICKSTARTER",
@@ -19731,7 +19736,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 345894
+      "UsersEstimate": 345895
     },
     {
       "ID": "LIQUIDATOR",
@@ -19795,7 +19800,7 @@
       "Name": "No Sale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 151024
+      "UsersEstimate": 151025
     },
     {
       "ID": "NOTSOFAST",
@@ -20075,7 +20080,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 267946
+      "UsersEstimate": 267947
     },
     {
       "ID": "YOUMONSTER",
@@ -20090,15 +20095,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 487175,
+      "Progressed": 487176,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-10-02T20:59:41.4891163+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:05:06.3539132+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:04:55.1747555+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.3059441+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:00:39.5467915+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:05:06.3540748+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:00:43.8292881+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:04:55.1750414+00:00"
 }

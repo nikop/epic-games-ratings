@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,541 |
-| Rough Landing | 4.00% | ~35,541 |
+| Ten out of Ten | 4.00% | ~35,542 |
+| Rough Landing | 4.00% | ~35,542 |
 | Gunslinger | 3.00% | ~26,656 |
 | Master Crafter | 3.00% | ~26,656 |
 | The High Priestess | 3.00% | ~26,656 |
@@ -35,7 +35,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 1.00% | ~8,885 |
 | Judy vs Night City | 1.00% | ~8,885 |
 | It's Elementary | 1.00% | ~8,885 |
-| Spin Doctor | 0.90% | ~154 |
+| Spin Doctor | 0.90% | ~155 |
 | City Lights | 0.80% | ~7,108 |
 | Life of the Road | 0.80% | ~7,108 |
 | Greetings from Pacifica! | 0.80% | ~7,108 |
@@ -49,8 +49,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Frequent Flyer | 0.30% | ~2,666 |
 | Little Tokyo | 0.30% | ~2,666 |
 | The Star | 0.30% | ~2,666 |
-| The APB is Not Enough | 0.30% | ~51 |
-| Relic Ruler | 0.30% | ~51 |
+| The APB is Not Enough | 0.30% | ~52 |
+| Relic Ruler | 0.30% | ~52 |
 | The Wasteland | 0.20% | ~1,777 |
 | Daemon In The Shell | 0.10% | ~889 |
 | All the President's Men | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,527 (Ranked 15)  
+Progressed: 888,545 (Ranked 15)  
 Completed: 2,571 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 2,571 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,527 | 2,571 |
+| 2023-10-04 | 888,545 | 2,571 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
-Sum: 261,738 (Ranked 12)  
+Sum: 262,051 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -242,9 +242,9 @@ Diff (max vs sum): -3
 | This game has Great Boss Battles | 61,890 |
 | This game is Great for Beginners | 13,386 |
 | This game has Diverse Characters | 13,022 |
+| This game is Extremely Fun | 12,830 |
 | This game is Highly Recommended | 12,720 |
 | This game has Amazing Storytelling | 12,719 |
-| This game is Extremely Fun | 12,517 |
 | This game has Amazing Characters | 12,441 |
 | This game is Relaxing | 12,346 |
 | This game has Quickly Understood Controls | 12,151 |
@@ -510,4 +510,4 @@ Diff (max vs sum): -3
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
 | 2023-10-03 | 4.63 | - | 90,464 | 260,310 |
-| 2023-10-04 | 4.63 | - | 90,464 | 261,738 |
+| 2023-10-04 | 4.63 | - | 90,464 | 262,051 |

@@ -19,8 +19,8 @@
 | Meritorious Service Medal | 56.00% | ~306 |
 | Charismatic | 55.00% | ~301 |
 | Soldier | 54.00% | ~295 |
+| Medal of Exploration III | 52.00% | ~284 |
 | Asari Ally | 52.00% | ~284 |
-| Medal of Exploration III | 51.00% | ~279 |
 | Principled | 51.00% | ~279 |
 | Soldier Ally | 50.00% | ~274 |
 | Colonial Savior | 49.00% | ~268 |
@@ -44,9 +44,9 @@
 | The Convict | 35.00% | ~191 |
 | The Krogan | 35.00% | ~191 |
 | Galactic Explorer | 34.00% | ~186 |
+| Broke, Blind, and Bedlam | 33.00% | ~181 |
 | Ghost Ship | 32.00% | ~175 |
 | The Quarian | 32.00% | ~175 |
-| Broke, Blind, and Bedlam | 32.00% | ~175 |
 | The Assassin | 31.00% | ~170 |
 | The Justicar | 31.00% | ~170 |
 | The Prodigal | 31.00% | ~170 |

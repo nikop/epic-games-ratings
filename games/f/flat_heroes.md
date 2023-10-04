@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Dash Crash | 72.00% | ~424 |
 | Snake Eyes | 57.00% | ~336 |
-| Be water, my friend | 55.00% | ~324 |
+| Be water, my friend | 56.00% | ~330 |
 | Fireball | 44.00% | ~259 |
 | The King of Flat | 41.00% | ~241 |
 | Air Slash | 31.00% | ~183 |

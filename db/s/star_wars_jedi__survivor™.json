@@ -2,7 +2,7 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 175,
@@ -3942,9 +3942,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 4057,
+  "EOS_Progressed": 4058,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1392,
+  "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5457,6 +5457,11 @@
       "Time": "2023-10-04T08:04:36.4483708+00:00",
       "NumProgressed": 4057,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-04T09:04:26.4912551+00:00",
+      "NumProgressed": 4058,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -5469,7 +5474,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 4016
+      "UsersEstimate": 4017
     },
     {
       "ID": "achievement_a10",
@@ -5501,7 +5506,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 34,
       "XP": 70,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_a14",
@@ -5557,7 +5562,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "achievement_a20",
@@ -5589,7 +5594,7 @@
       "Name": "Mirror Match",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "achievement_a24",
@@ -5645,7 +5650,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "achievement_a30",
@@ -5677,7 +5682,7 @@
       "Name": "Skywalker",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "achievement_a34",
@@ -5701,7 +5706,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "achievement_a37",
@@ -5741,7 +5746,7 @@
       "Name": "Greezy Money",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "achievement_a41",
@@ -5821,7 +5826,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "achievement_a50",
@@ -5877,7 +5882,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "achievement_a9",
@@ -5892,7 +5897,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 4057,
+      "Progressed": 4058,
       "Completed": 17
     }
   ],
@@ -5900,8 +5905,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-03T21:03:22.9291321+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:04:36.4483704+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:04:26.4912547+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.16408+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:03:23.3700457+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:04:36.4484186+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:03:15.6659272+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:04:26.4913105+00:00"
 }

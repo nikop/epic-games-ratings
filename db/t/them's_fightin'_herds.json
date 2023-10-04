@@ -250,9 +250,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 230560,
+  "EOS_Progressed": 230562,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17585,6 +17585,11 @@
       "Time": "2023-10-04T08:04:14.5511161+00:00",
       "NumProgressed": 230560,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T09:04:05.4041895+00:00",
+      "NumProgressed": 230562,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17740,7 +17745,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78390
+      "UsersEstimate": 78391
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -17756,7 +17761,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50723
+      "UsersEstimate": 50724
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -17804,7 +17809,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39195
+      "UsersEstimate": 39196
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -17819,7 +17824,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230560,
+      "Progressed": 230562,
       "Completed": 5
     }
   ],
@@ -17827,8 +17832,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-24T16:59:25.0658821+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:04:14.5511157+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:04:05.4041891+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:58:44.3871039+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:04:14.5512107+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:58:56.886696+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:04:05.4043703+00:00"
 }

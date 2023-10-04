@@ -1,27 +1,27 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 647)  
+Rating: 4.45 (Ranked 646)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~394,612 |
-| Happy Returns | 78.00% | ~379,996 |
-| Hey! That's mine! | 78.00% | ~379,996 |
+| First Blood | 81.00% | ~394,613 |
+| Happy Returns | 78.00% | ~379,997 |
+| Hey! That's mine! | 78.00% | ~379,997 |
 | Field Promotion | 74.00% | ~360,510 |
-| Leadhead | 71.00% | ~345,894 |
-| Eradicator | 67.00% | ~326,407 |
+| Leadhead | 71.00% | ~345,895 |
+| Eradicator | 67.00% | ~326,408 |
 | Surplus | 65.00% | ~316,664 |
-| I Spy | 64.00% | ~311,792 |
-| Burn Baby Burn | 59.00% | ~287,433 |
-| Yellow Beats Green | 55.00% | ~267,946 |
+| I Spy | 64.00% | ~311,793 |
+| Burn Baby Burn | 59.00% | ~287,434 |
+| Yellow Beats Green | 55.00% | ~267,947 |
 | Salvage Rights | 53.00% | ~258,203 |
 | Close Call | 50.00% | ~243,588 |
 | Pew Pew | 50.00% | ~243,588 |
 | What IS that? | 50.00% | ~243,588 |
 | Penny Pincher | 49.00% | ~238,716 |
-| Arsenal | 46.00% | ~224,100 |
+| Arsenal | 46.00% | ~224,101 |
 | Boot Camp | 45.00% | ~219,229 |
 | Flawless Victory | 42.00% | ~204,614 |
 | Confident | 41.00% | ~199,742 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Sharpshooter | 34.00% | ~165,640 |
 | Not So Fast | 33.00% | ~160,768 |
 | Great Ball of Fire | 32.00% | ~155,896 |
-| No Sale | 31.00% | ~151,024 |
-| Kaboom! | 30.00% | ~146,152 |
+| No Sale | 31.00% | ~151,025 |
+| Kaboom! | 30.00% | ~146,153 |
 | Liquidator | 29.00% | ~141,281 |
 | High Voltage | 24.00% | ~116,922 |
 | Filthy Rich | 19.00% | ~92,563 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Overseer | 9.00% | ~43,846 |
 | Annihilator | 8.00% | ~38,974 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,974 |
-| Indecisive | 6.00% | ~29,230 |
+| Indecisive | 6.00% | ~29,231 |
 | Base Defender | 5.00% | ~24,359 |
 | Relay Race | 5.00% | ~24,359 |
 | Diversity | 3.00% | ~14,615 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,175 (Ranked 35)  
+Progressed: 487,176 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 4 (0.00%) (Ranked 306)
 | 2023-10-01 | 487,025 | 4 |
 | 2023-10-02 | 487,093 | 4 |
 | 2023-10-03 | 487,164 | 4 |
-| 2023-10-04 | 487,175 | 4 |
+| 2023-10-04 | 487,176 | 4 |
 ## Awards
 Max (Great for Beginners): 250  (Ranked 259)  
 Sum: 1,692 (Ranked 213)  

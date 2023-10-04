@@ -20,10 +20,10 @@ Rating: 3.54 (Ranked 1,008)
 | ICU | 0.70% | ~12 |
 | Heart Attack | 0.70% | ~12 |
 | Skin of Their Teeth | 0.70% | ~12 |
-| Neighborhood Revitalization | 0.60% | ~10 |
-| Home Is Where the Heart Is | 0.60% | ~10 |
-| Radio Silence | 0.60% | ~10 |
-| From the Shadows | 0.60% | ~10 |
+| Neighborhood Revitalization | 0.60% | ~11 |
+| Home Is Where the Heart Is | 0.60% | ~11 |
+| Radio Silence | 0.60% | ~11 |
+| From the Shadows | 0.60% | ~11 |
 | Bad Wiring | 0.50% | ~9 |
 | Sic Transit Umbra | 0.50% | ~9 |
 | Bell-ringer | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.54 (Ranked 1,008)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 207)  
+Progressed: 1,751 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-25 | 1,748 | 0 |
 | 2023-10-02 | 1,749 | 0 |
 | 2023-10-03 | 1,750 | 0 |
+| 2023-10-04 | 1,751 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

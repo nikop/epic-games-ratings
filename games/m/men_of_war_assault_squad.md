@@ -1,7 +1,7 @@
 # Men of War Assault Squad
 [Store](https://store.epicgames.com/en-US/p/men-of-war-assault-squad-1294b4)  
 [View Rawdata](../../db/m/men_of_war_assault_squad.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.39 (Ranked 728)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.50 (Ranked 574)
 | 2023-09-19 | 4.47 | 0 | 0 |
 | 2023-09-30 | 4.48 | 0 | 0 |
 | 2023-10-02 | 4.50 | 0 | 0 |
+| 2023-10-04 | 4.39 | 0 | 0 |

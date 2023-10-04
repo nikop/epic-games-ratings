@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6343,
+  "EOS_Progressed": 6348,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5147,6 +5147,11 @@
       "Time": "2023-10-04T08:05:47.7416336+00:00",
       "NumProgressed": 6343,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-04T09:05:35.6547757+00:00",
+      "NumProgressed": 6348,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5159,7 +5164,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "a_10",
@@ -5207,7 +5212,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2349
     },
     {
       "ID": "a_19",
@@ -5237,9 +5242,9 @@
       "ID": "a_21",
       "SetID": "daiie3o",
       "Name": "The Blue Marl",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 381
+      "UsersEstimate": 317
     },
     {
       "ID": "a_22",
@@ -5406,7 +5411,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6343,
+      "Progressed": 6348,
       "Completed": 7
     }
   ],
@@ -5414,8 +5419,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:05:47.7416331+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:05:35.6547752+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:59:52.6403271+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:05:47.7416716+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:59:58.0263124+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:05:35.6548427+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,437 |
-| Landlord | 33.00% | ~20,678 |
+| Lawbringer | 39.00% | ~24,439 |
+| Landlord | 33.00% | ~20,679 |
 | Bannerlord | 23.00% | ~14,412 |
 | Horde breaker | 23.00% | ~14,412 |
 | Lawmaker | 23.00% | ~14,412 |
 | Trained | 23.00% | ~14,412 |
 | The king is pleased | 18.00% | ~11,279 |
-| King Solomon | 17.00% | ~10,652 |
+| King Solomon | 17.00% | ~10,653 |
 | I can do it | 16.00% | ~10,026 |
 | Apple of my eye | 15.00% | ~9,399 |
 | God of the Arena | 13.00% | ~8,146 |
-| Against all odds | 12.00% | ~7,519 |
-| This Is Our Land | 12.00% | ~7,519 |
+| Against all odds | 12.00% | ~7,520 |
+| This Is Our Land | 12.00% | ~7,520 |
 | Duelist | 10.00% | ~6,266 |
 | Dynasty | 10.00% | ~6,266 |
 | Swordbearer | 10.00% | ~6,266 |
 | What have the Romans ever done for us? | 10.00% | ~6,266 |
-| I spit on your grave | 9.00% | ~5,639 |
+| I spit on your grave | 9.00% | ~5,640 |
 | Butterlord | 8.00% | ~5,013 |
 | Know your enemy | 7.00% | ~4,386 |
 | Mastery | 7.00% | ~4,386 |
 | Crowdfunded | 5.00% | ~3,133 |
 | Crush your enemies | 5.00% | ~3,133 |
 | My way | 5.00% | ~3,133 |
-| Veni vidi vici | 4.00% | ~2,506 |
+| Veni vidi vici | 4.00% | ~2,507 |
 | Freedom! | 3.00% | ~1,880 |
 | Long live the Empire! | 3.00% | ~1,880 |
 | Real Estate | 3.00% | ~1,880 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,660 (Ranked 94)  
+Progressed: 62,663 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 62,521 | 0 |
 | 2023-10-02 | 62,589 | 0 |
 | 2023-10-03 | 62,646 | 0 |
-| 2023-10-04 | 62,660 | 0 |
+| 2023-10-04 | 62,663 | 0 |
 ## Awards
 Max (Character Customization): 7,173  (Ranked 52)  
 Sum: 14,699 (Ranked 67)  

@@ -5,48 +5,48 @@ Rating: 4.04 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~72,246 |
-| May the Torchbearer light our way | 34.00% | ~66,388 |
-| A powerful aura was here | 21.00% | ~41,004 |
-| Let's raise the stakes!! | 9.00% | ~17,573 |
-| Rumors are true | 4.00% | ~7,810 |
-| Pride is a sin, young Knight | 4.00% | ~7,810 |
-| Your wounds… They are healing so fast! | 4.00% | ~7,810 |
-| Bring it on! | 4.00% | ~7,810 |
-| We'll be careful | 3.00% | ~5,858 |
-| Back to your senses | 2.00% | ~3,905 |
-| They tricked me | 1.00% | ~1,953 |
-| We need to talk | 1.00% | ~1,953 |
-| They won't last long | 1.00% | ~1,953 |
-| I took a risk | 0.80% | ~1,562 |
-| I feel drawn to it | 0.50% | ~976 |
-| Their fate is sealed | 0.50% | ~976 |
-| Here to stay | 0.40% | ~781 |
-| You want more? I've got more! | 0.40% | ~781 |
-| Counting on you | 0.30% | ~586 |
-| This is the end | 0.30% | ~586 |
-| We can choose to fight | 0.30% | ~586 |
-| Not even from this world | 0.20% | ~391 |
-| No damsels in distress | 0.10% | ~195 |
-| The immortal is bound to reborn | 0.10% | ~195 |
-| A legend among Chimeras | 0.10% | ~195 |
-| It's only pain | 0.10% | ~195 |
-| I know how to handle it | 0.10% | ~195 |
-| Settle this once and for all | 0.10% | ~195 |
-| The Ashen Knight | 0.10% | ~195 |
-| The Shade | 0.10% | ~195 |
-| Through the Veil | 0.10% | ~195 |
-| Call this the Judge's mercy | 0.10% | ~195 |
-| There's too many of them! | 0.10% | ~195 |
-| I've been waiting for this! | 0.10% | ~195 |
-| We learned it the hard way | 0.10% | ~195 |
-| They wanted yet another monster… | 0.10% | ~195 |
-| Something... unnatural | 0.10% | ~195 |
-| We strike as one | 0.10% | ~195 |
+| The touch of Chaos | 37.00% | ~72,452 |
+| May the Torchbearer light our way | 34.00% | ~66,577 |
+| A powerful aura was here | 21.00% | ~41,121 |
+| Let's raise the stakes!! | 9.00% | ~17,623 |
+| Rumors are true | 4.00% | ~7,833 |
+| Pride is a sin, young Knight | 4.00% | ~7,833 |
+| Your wounds… They are healing so fast! | 4.00% | ~7,833 |
+| Bring it on! | 4.00% | ~7,833 |
+| We'll be careful | 3.00% | ~5,874 |
+| Back to your senses | 2.00% | ~3,916 |
+| They tricked me | 1.00% | ~1,958 |
+| We need to talk | 1.00% | ~1,958 |
+| They won't last long | 1.00% | ~1,958 |
+| I took a risk | 0.80% | ~1,567 |
+| I feel drawn to it | 0.50% | ~979 |
+| Their fate is sealed | 0.50% | ~979 |
+| Here to stay | 0.40% | ~783 |
+| You want more? I've got more! | 0.40% | ~783 |
+| Counting on you | 0.30% | ~587 |
+| This is the end | 0.30% | ~587 |
+| We can choose to fight | 0.30% | ~587 |
+| Not even from this world | 0.20% | ~392 |
+| No damsels in distress | 0.10% | ~196 |
+| The immortal is bound to reborn | 0.10% | ~196 |
+| A legend among Chimeras | 0.10% | ~196 |
+| It's only pain | 0.10% | ~196 |
+| I know how to handle it | 0.10% | ~196 |
+| Settle this once and for all | 0.10% | ~196 |
+| The Ashen Knight | 0.10% | ~196 |
+| The Shade | 0.10% | ~196 |
+| Through the Veil | 0.10% | ~196 |
+| Call this the Judge's mercy | 0.10% | ~196 |
+| There's too many of them! | 0.10% | ~196 |
+| I've been waiting for this! | 0.10% | ~196 |
+| We learned it the hard way | 0.10% | ~196 |
+| They wanted yet another monster… | 0.10% | ~196 |
+| Something... unnatural | 0.10% | ~196 |
+| We strike as one | 0.10% | ~196 |
 | I'm just warming up | 0.00% | ~0 |
 | Chaos be damned! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,259 (Ranked 65)  
+Progressed: 195,815 (Ranked 65)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 146,028 | 0 |
 | 2023-10-02 | 169,170 | 0 |
 | 2023-10-03 | 189,727 | 0 |
-| 2023-10-04 | 195,259 | 0 |
+| 2023-10-04 | 195,815 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

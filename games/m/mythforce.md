@@ -1,15 +1,15 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 590)  
+Rating: 4.49 (Ranked 589)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 22.00% | ~819 |
+| Hit 'Em Where It Hurts | 21.00% | ~782 |
 | That'll Leave a Mark | 21.00% | ~782 |
 | Debuff Dogpile | 20.00% | ~745 |
-| Hit 'Em Where It Hurts | 20.00% | ~745 |
 | Perk Shard Punch Card | 20.00% | ~745 |
 | Mushroom Madness! | 19.00% | ~707 |
 | First Strike | 16.00% | ~596 |

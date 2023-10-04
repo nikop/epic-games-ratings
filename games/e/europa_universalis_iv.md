@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,874 |
-| Until death do us apart | 4.00% | ~16,874 |
-| That is mine! | 3.00% | ~12,655 |
-| Victorious! | 3.00% | ~12,655 |
-| Brothers in Arms | 2.00% | ~8,437 |
-| For the Glory | 2.00% | ~8,437 |
-| That's a Grand Navy | 2.00% | ~8,437 |
-| Seriously?! | 2.00% | ~8,437 |
-| Cold War | 1.00% | ~4,218 |
-| Defender of the Faith | 1.00% | ~4,218 |
-| It's all about the money | 1.00% | ~4,218 |
-| The Princess is in this Castle | 1.00% | ~4,218 |
-| True Catholic | 1.00% | ~4,218 |
+| That's a Grand Army | 4.00% | ~16,875 |
+| Until death do us apart | 4.00% | ~16,875 |
+| That is mine! | 3.00% | ~12,656 |
+| Victorious! | 3.00% | ~12,656 |
+| Brothers in Arms | 2.00% | ~8,438 |
+| For the Glory | 2.00% | ~8,438 |
+| That's a Grand Navy | 2.00% | ~8,438 |
+| Seriously?! | 2.00% | ~8,438 |
+| Cold War | 1.00% | ~4,219 |
+| Defender of the Faith | 1.00% | ~4,219 |
+| It's all about the money | 1.00% | ~4,219 |
+| The Princess is in this Castle | 1.00% | ~4,219 |
+| True Catholic | 1.00% | ~4,219 |
 | It's all about luck | 0.90% | ~3,797 |
 | Respected | 0.90% | ~3,797 |
 | Truly Divine Ruler | 0.90% | ~3,797 |
@@ -31,13 +31,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,109 |
 | Combined Arms | 0.50% | ~2,109 |
 | This navy can take it all | 0.50% | ~2,109 |
-| Azur semé de lis or | 0.40% | ~1,687 |
-| Bright Spark | 0.40% | ~1,687 |
-| Factionalism | 0.40% | ~1,687 |
-| Gentle Persuasion | 0.40% | ~1,687 |
-| Isn't this the way to India? | 0.40% | ~1,687 |
-| Queen of Conquest | 0.40% | ~1,687 |
-| The Five Colonies | 0.40% | ~1,687 |
+| Azur semé de lis or | 0.40% | ~1,688 |
+| Bright Spark | 0.40% | ~1,688 |
+| Factionalism | 0.40% | ~1,688 |
+| Gentle Persuasion | 0.40% | ~1,688 |
+| Isn't this the way to India? | 0.40% | ~1,688 |
+| Queen of Conquest | 0.40% | ~1,688 |
+| The Five Colonies | 0.40% | ~1,688 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,266 |
 | Down Under | 0.30% | ~1,266 |
 | The Emperors new clothes | 0.30% | ~1,266 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,848 (Ranked 41)  
+Progressed: 421,876 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 421,848 | 1 |
+| 2023-10-04 | 421,876 | 1 |
 ## Awards
 Max (Educational): 6,390  (Ranked 57)  
 Sum: 52,455 (Ranked 24)  

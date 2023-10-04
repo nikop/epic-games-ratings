@@ -1,29 +1,29 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 699)  
+Rating: 4.41 (Ranked 698)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 83.00% | ~27,837 |
-| Initial Capital | 72.00% | ~24,147 |
-| Moneybags | 51.00% | ~17,104 |
-| Junior Supply Officer | 51.00% | ~17,104 |
-| Naval Warfare. Arson | 38.00% | ~12,744 |
-| Naval Warfare. Ramming | 37.00% | ~12,409 |
-| Amateur | 36.00% | ~12,074 |
-| Naval Constructor | 36.00% | ~12,074 |
-| Naval Warfare. Tactics | 35.00% | ~11,738 |
-| Naval Warfare. Weaponry Basics | 27.00% | ~9,055 |
-| Naval Warfare. Flooding | 23.00% | ~7,714 |
-| Naval Warfare. Lucky Shot | 23.00% | ~7,714 |
-| Business Magnate | 21.00% | ~7,043 |
-| Battle Hero | 19.00% | ~6,372 |
-| Supply Officer | 17.00% | ~5,701 |
-| Smooth Supply | 17.00% | ~5,701 |
-| Warrior | 16.00% | ~5,366 |
-| Veteran | 10.00% | ~3,354 |
+| Junior Naval Designer | 83.00% | ~27,843 |
+| Initial Capital | 72.00% | ~24,153 |
+| Moneybags | 51.00% | ~17,108 |
+| Junior Supply Officer | 51.00% | ~17,108 |
+| Naval Warfare. Arson | 38.00% | ~12,747 |
+| Naval Warfare. Ramming | 37.00% | ~12,412 |
+| Amateur | 36.00% | ~12,077 |
+| Naval Constructor | 36.00% | ~12,077 |
+| Naval Warfare. Tactics | 35.00% | ~11,741 |
+| Naval Warfare. Weaponry Basics | 27.00% | ~9,057 |
+| Naval Warfare. Flooding | 23.00% | ~7,716 |
+| Naval Warfare. Lucky Shot | 23.00% | ~7,716 |
+| Business Magnate | 21.00% | ~7,045 |
+| Battle Hero | 19.00% | ~6,374 |
+| Supply Officer | 17.00% | ~5,703 |
+| Smooth Supply | 17.00% | ~5,703 |
+| Warrior | 16.00% | ~5,367 |
+| Veteran | 10.00% | ~3,355 |
 | Legend of the Seas | 5.00% | ~1,677 |
 | Chief Naval Architect | 5.00% | ~1,677 |
 | Shield | 5.00% | ~1,677 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~34 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,538 (Ranked 111)  
+Progressed: 33,546 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 32,492 | 0 |
 | 2023-10-02 | 32,977 | 0 |
 | 2023-10-03 | 33,411 | 0 |
-| 2023-10-04 | 33,538 | 0 |
+| 2023-10-04 | 33,546 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,386  (Ranked 131)  
 Sum: 11,556 (Ranked 81)  

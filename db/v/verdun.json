@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59920,
+  "EOS_Progressed": 59921,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20023,6 +20023,11 @@
       "Time": "2023-10-04T08:09:06.5751628+00:00",
       "NumProgressed": 59920,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T09:07:01.4465652+00:00",
+      "NumProgressed": 59921,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20034,7 +20039,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32956
+      "UsersEstimate": 32957
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -20290,7 +20295,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19174
+      "UsersEstimate": 19175
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -20330,7 +20335,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -20498,22 +20503,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22170
+      "UsersEstimate": 22171
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59920,
+      "Progressed": 59921,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:09:06.575162+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:07:01.4465648+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:57:22.332506+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:09:06.5752862+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:57:35.1906679+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:07:01.4468+00:00"
 }

@@ -7677,9 +7677,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62660,
+  "EOS_Progressed": 62663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25402,6 +25402,11 @@
       "Time": "2023-10-04T08:03:57.7796547+00:00",
       "NumProgressed": 62660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T09:03:48.7626499+00:00",
+      "NumProgressed": 62663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25413,7 +25418,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7519
+      "UsersEstimate": 7520
     },
     {
       "ID": "Apple of my eye",
@@ -25589,7 +25594,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "Jack of All Trades",
@@ -25605,7 +25610,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10652
+      "UsersEstimate": 10653
     },
     {
       "ID": "Kingslayer",
@@ -25637,7 +25642,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20678
+      "UsersEstimate": 20679
     },
     {
       "ID": "Lawbringer",
@@ -25645,7 +25650,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24437
+      "UsersEstimate": 24439
     },
     {
       "ID": "Lawmaker",
@@ -25773,7 +25778,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7519
+      "UsersEstimate": 7520
     },
     {
       "ID": "This is Sparta",
@@ -25805,7 +25810,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -25820,15 +25825,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62660,
+      "Progressed": 62663,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-03T20:00:41.5615829+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:03:57.7796541+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:03:48.7626494+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:00:20.5453235+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:03:57.7797706+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:00:23.4945521+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:03:48.7627887+00:00"
 }

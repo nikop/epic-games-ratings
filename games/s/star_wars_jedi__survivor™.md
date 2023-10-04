@@ -1,36 +1,36 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.49 (Ranked 590)  
+Rating: 4.49 (Ranked 589)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~4,016 |
-| For Saw Gerrera | 98.00% | ~3,976 |
-| Grab Some Seat | 90.00% | ~3,651 |
-| Can You Pet the Bogling? | 85.00% | ~3,448 |
+| Rooftop Duel | 99.00% | ~4,017 |
+| For Saw Gerrera | 98.00% | ~3,977 |
+| Grab Some Seat | 90.00% | ~3,652 |
+| Can You Pet the Bogling? | 85.00% | ~3,449 |
 | The Past Made Present | 80.00% | ~3,246 |
-| Survivors, We Adapt | 75.00% | ~3,043 |
+| Survivors, We Adapt | 75.00% | ~3,044 |
 | They Never Saw It Coming | 73.00% | ~2,962 |
 | Among the Masters | 73.00% | ~2,962 |
 | Who Gives a Puck | 68.00% | ~2,759 |
-| Mirror Match | 63.00% | ~2,556 |
+| Mirror Match | 63.00% | ~2,557 |
 | Now, This Isn't Podracing | 59.00% | ~2,394 |
 | For the Path | 59.00% | ~2,394 |
-| Skywalker | 55.00% | ~2,231 |
-| Out of Bedlam | 53.00% | ~2,150 |
+| Skywalker | 55.00% | ~2,232 |
+| Out of Bedlam | 53.00% | ~2,151 |
 | Cleaning Up | 52.00% | ~2,110 |
 | Hey, Luke At Us | 47.00% | ~1,907 |
 | Kitted Out | 45.00% | ~1,826 |
 | Riposte | 43.00% | ~1,745 |
 | Tanalorr Bound | 42.00% | ~1,704 |
 | Tragedy | 40.00% | ~1,623 |
-| Greezy Money | 39.00% | ~1,582 |
+| Greezy Money | 39.00% | ~1,583 |
 | At the Precipice | 38.00% | ~1,542 |
 | Into the Abyss | 36.00% | ~1,461 |
 | Catch! | 36.00% | ~1,461 |
 | They're Probably Fine | 35.00% | ~1,420 |
-| A Place You Could Call Home | 34.00% | ~1,379 |
+| A Place You Could Call Home | 34.00% | ~1,380 |
 | Han Slowlo | 31.00% | ~1,258 |
 | There Is No Try | 31.00% | ~1,258 |
 | The Jedi Path | 26.00% | ~1,055 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 590)
 | Splurgle | 2.00% | ~81 |
 | Blood, Sweat, and Tears | 2.00% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,057 (Ranked 175)  
+Progressed: 4,058 (Ranked 175)  
 Completed: 17 (0.42%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 17 (0.42%) (Ranked 177)
 | 2023-10-01 | 3,762 | 14 |
 | 2023-10-02 | 3,900 | 14 |
 | 2023-10-03 | 4,024 | 17 |
-| 2023-10-04 | 4,057 | 17 |
+| 2023-10-04 | 4,058 | 17 |
 ## Awards
 Max (Great Boss Battles): 2,824  (Ranked 96)  
 Sum: 4,134 (Ranked 146)  

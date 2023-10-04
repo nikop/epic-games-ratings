@@ -904,9 +904,9 @@
       "ID": "GSS_ACH_68_POPULARITY_08",
       "SetID": "5fn8ia4",
       "Name": "In the Brochures",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GSS_ACH_69_POPULARITY_09",
@@ -1031,8 +1031,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:03:58.9549587+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:03:49.9744542+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:59:41.9059284+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:03:58.9550422+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:59:48.8838172+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:03:49.9745858+00:00"
 }

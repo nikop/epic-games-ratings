@@ -310,7 +310,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2025,
+  "EOS_Progressed": 2026,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
@@ -1575,6 +1575,11 @@
       "Time": "2023-10-04T07:04:31.7272958+00:00",
       "NumProgressed": 2025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T09:04:37.8263439+00:00",
+      "NumProgressed": 2026,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1595,7 +1600,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_11",
@@ -1611,7 +1616,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "achievement_13",
@@ -1707,7 +1712,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_5",
@@ -1739,7 +1744,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "achievement_9",
@@ -1754,7 +1759,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2025,
+      "Progressed": 2026,
       "Completed": 0
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-04T02:17:09.9614509+00:00",
-  "LastChanged_Achievements": "2023-10-04T08:04:48.1132982+00:00",
+  "LastChanged_Achievements": "2023-10-04T09:04:37.8263434+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-04T08:00:05.0588924+00:00",
-  "LastUpdate_Achievements": "2023-10-04T08:04:48.1133171+00:00"
+  "LastUpdate_Ratings": "2023-10-04T09:00:08.2955976+00:00",
+  "LastUpdate_Achievements": "2023-10-04T09:04:37.8263706+00:00"
 }
