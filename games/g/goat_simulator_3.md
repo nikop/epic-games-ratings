@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~223,997 |
+| Forgotten Sorority | 91.00% | ~223,998 |
 | Private Club | 74.00% | ~182,152 |
-| Rogue Guild | 65.00% | ~159,998 |
-| I Watched the Intro | 57.00% | ~140,306 |
-| Covert Consortium | 55.00% | ~135,383 |
-| Goat Queen | 53.00% | ~130,460 |
+| Rogue Guild | 65.00% | ~159,999 |
+| I Watched the Intro | 57.00% | ~140,307 |
+| Covert Consortium | 55.00% | ~135,384 |
+| Goat Queen | 53.00% | ~130,461 |
 | Reach the Stratosphere | 50.00% | ~123,076 |
 | Synchronization Complete | 47.00% | ~115,691 |
 | Secret Society | 45.00% | ~110,768 |
-| Shadow Syndicate | 38.00% | ~93,537 |
+| Shadow Syndicate | 38.00% | ~93,538 |
 | What a Waste of Money | 33.00% | ~81,230 |
-| New Goat Order | 30.00% | ~73,845 |
-| Don't touch the servers | 28.00% | ~68,922 |
+| New Goat Order | 30.00% | ~73,846 |
+| Don't touch the servers | 28.00% | ~68,923 |
 | San Angora: Become Human | 27.00% | ~66,461 |
 | Real Buoy | 27.00% | ~66,461 |
-| Raider of the Lost Parking Garage | 26.00% | ~63,999 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,000 |
 | Welcome to Earth | 25.00% | ~61,538 |
 | Into the Matrix | 19.00% | ~46,769 |
 | Egg Simulator | 18.00% | ~44,307 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,477 |
 | G.O.A.T | 0.30% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,151 (Ranked 52)  
+Progressed: 246,152 (Ranked 52)  
 Completed: 845 (0.34%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,20 +212,20 @@ Completed: 845 (0.34%) (Ranked 191)
 | 2023-10-01 | 245,964 | 843 |
 | 2023-10-02 | 246,057 | 843 |
 | 2023-10-03 | 246,140 | 844 |
-| 2023-10-04 | 246,151 | 845 |
+| 2023-10-04 | 246,152 | 845 |
 ## Awards
-Max (Great for Beginners): 409  (Ranked 220)  
-Sum: 3,501 (Ranked 157)  
-Diff (max vs sum): 63  
+Max (Great for Beginners): 412  (Ranked 219)  
+Sum: 3,505 (Ranked 157)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 409 |
+| This game is Great for Beginners | 412 |
 | This game has Diverse Characters | 405 |
 | This game is Highly Recommended | 368 |
 | This game has Amazing Characters | 351 |
 | This game is Extremely Fun | 346 |
+| This game has Amazing Storytelling | 335 |
 | This game is Relaxing | 334 |
-| This game has Amazing Storytelling | 334 |
 | This game has Quickly Understood Controls | 330 |
 | This game has a Silly Community | 327 |
 | This game has Easy Combat | 297 |
@@ -425,4 +425,4 @@ Diff (max vs sum): 63
 | 2023-09-30 | 4.84 | 407 | 3,481 |
 | 2023-10-01 | 4.84 | 407 | 3,493 |
 | 2023-10-02 | 4.84 | 409 | 3,500 |
-| 2023-10-04 | 4.84 | 409 | 3,501 |
+| 2023-10-04 | 4.84 | 412 | 3,505 |

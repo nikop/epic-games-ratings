@@ -2,7 +2,7 @@
   "ID": "45fff92d81c44f3794d959387670ab1c",
   "Name": "Wolfstride",
   "ProductSlug": "wolfstride",
-  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 121,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8600312+00:00",
   "LastChanged": "2023-03-31T05:57:29.8600313+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:32.3811008+00:00",
-  "LastUpdate_Ratings": "2023-10-04T07:00:31.5478148+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:06:42.2595656+00:00"
+  "LastUpdate_Ratings": "2023-10-04T08:03:13.8888669+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:07:01.3911036+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~33,895 |
-| To The Nines | 42.00% | ~30,947 |
-| Optimized | 36.00% | ~26,526 |
-| Performance Review | 36.00% | ~26,526 |
+| To The Nines | 42.00% | ~30,948 |
+| Optimized | 36.00% | ~26,527 |
+| Performance Review | 36.00% | ~26,527 |
 | Making a Name | 34.00% | ~25,053 |
 | Tune Up | 33.00% | ~24,316 |
 | Wet Work | 32.00% | ~23,579 |
@@ -19,13 +19,13 @@ Number of Ratings: 22,103  (23.09.2022)
 | Food for Thought | 27.00% | ~19,895 |
 | Finders Keepers | 25.00% | ~18,421 |
 | A Young Empire | 25.00% | ~18,421 |
-| Work Ethic | 23.00% | ~16,947 |
+| Work Ethic | 23.00% | ~16,948 |
 | Power Players | 19.00% | ~14,000 |
 | Picking Fights | 19.00% | ~14,000 |
 | Quality Time | 18.00% | ~13,263 |
 | Et tu? | 17.00% | ~12,526 |
-| Showdown | 16.00% | ~11,789 |
-| Took It to The Limit | 16.00% | ~11,789 |
+| Showdown | 16.00% | ~11,790 |
+| Took It to The Limit | 16.00% | ~11,790 |
 | Kitted Out | 14.00% | ~10,316 |
 | Masters of Santo Ileso | 12.00% | ~8,842 |
 | Hijacked | 11.00% | ~8,105 |
@@ -35,7 +35,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | We could go home, or… | 7.00% | ~5,158 |
 | Challenge Accepted | 7.00% | ~5,158 |
 | A Golden Age | 7.00% | ~5,158 |
-| Producer Credit | 7.00% | ~3,172 |
+| Producer Credit | 7.00% | ~3,173 |
 | Chaos Tamer | 6.00% | ~4,421 |
 | Face Off | 6.00% | ~2,719 |
 | The Professional | 5.00% | ~3,684 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~147 |
 | Fiesta Time | 0.20% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,684 (Ranked 86)  
+Progressed: 73,685 (Ranked 86)  
 Completed: 50 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 50 (0.07%) (Ranked 254)
 | 2023-10-01 | 73,412 | 50 |
 | 2023-10-02 | 73,547 | 50 |
 | 2023-10-03 | 73,662 | 50 |
-| 2023-10-04 | 73,684 | 50 |
+| 2023-10-04 | 73,685 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,663 (Ranked 97)  

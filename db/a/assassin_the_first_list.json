@@ -2,7 +2,7 @@
   "ID": "6d1821f7e9244dcd9c1077e5f4bd8c5d",
   "Name": "Assassin: The First List",
   "ProductSlug": "assassin-the-first-list-f217dc",
-  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 121,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-05T07:03:47.7579095+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:05:05.3258872+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:05:22.8466827+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:59.7780325+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:38.2278627+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:05:05.3258909+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:50.8260817+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:05:22.8466858+00:00"
 }

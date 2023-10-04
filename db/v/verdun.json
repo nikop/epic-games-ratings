@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59918,
+  "EOS_Progressed": 59920,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20018,6 +20018,11 @@
       "Time": "2023-10-04T06:08:37.3503018+00:00",
       "NumProgressed": 59918,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T08:09:06.5751628+00:00",
+      "NumProgressed": 59920,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20029,7 +20034,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32955
+      "UsersEstimate": 32956
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -20149,7 +20154,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14380
+      "UsersEstimate": 14381
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -20293,7 +20298,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23967
+      "UsersEstimate": 23968
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -20317,7 +20322,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37748
+      "UsersEstimate": 37750
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -20341,7 +20346,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14380
+      "UsersEstimate": 14381
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -20349,7 +20354,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4794
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -20397,7 +20402,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46736
+      "UsersEstimate": 46738
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -20445,7 +20450,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7789
+      "UsersEstimate": 7790
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -20500,15 +20505,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59918,
+      "Progressed": 59920,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:08:18.7187891+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:09:06.575162+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:10.7719516+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:08:18.7189445+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:22.332506+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:09:06.5752862+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,873 |
-| Until death do us apart | 4.00% | ~16,873 |
+| That's a Grand Army | 4.00% | ~16,874 |
+| Until death do us apart | 4.00% | ~16,874 |
 | That is mine! | 3.00% | ~12,655 |
 | Victorious! | 3.00% | ~12,655 |
-| Brothers in Arms | 2.00% | ~8,436 |
-| For the Glory | 2.00% | ~8,436 |
-| That's a Grand Navy | 2.00% | ~8,436 |
-| Seriously?! | 2.00% | ~8,436 |
+| Brothers in Arms | 2.00% | ~8,437 |
+| For the Glory | 2.00% | ~8,437 |
+| That's a Grand Navy | 2.00% | ~8,437 |
+| Seriously?! | 2.00% | ~8,437 |
 | Cold War | 1.00% | ~4,218 |
 | Defender of the Faith | 1.00% | ~4,218 |
 | It's all about the money | 1.00% | ~4,218 |
 | The Princess is in this Castle | 1.00% | ~4,218 |
 | True Catholic | 1.00% | ~4,218 |
-| It's all about luck | 0.90% | ~3,796 |
-| Respected | 0.90% | ~3,796 |
-| Truly Divine Ruler | 0.90% | ~3,796 |
+| It's all about luck | 0.90% | ~3,797 |
+| Respected | 0.90% | ~3,797 |
+| Truly Divine Ruler | 0.90% | ~3,797 |
 | Blockader | 0.80% | ~3,375 |
 | Double the Love | 0.80% | ~3,375 |
 | Total Control | 0.80% | ~3,375 |
@@ -38,13 +38,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,687 |
 | Queen of Conquest | 0.40% | ~1,687 |
 | The Five Colonies | 0.40% | ~1,687 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,265 |
-| Down Under | 0.30% | ~1,265 |
-| The Emperors new clothes | 0.30% | ~1,265 |
-| A Golden Empire | 0.30% | ~1,265 |
-| Market Control | 0.30% | ~1,265 |
-| Populists in Government | 0.30% | ~1,265 |
-| Trustworthy | 0.30% | ~1,265 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,266 |
+| Down Under | 0.30% | ~1,266 |
+| The Emperors new clothes | 0.30% | ~1,266 |
+| A Golden Empire | 0.30% | ~1,266 |
+| Market Control | 0.30% | ~1,266 |
+| Populists in Government | 0.30% | ~1,266 |
+| Trustworthy | 0.30% | ~1,266 |
 | All belongs to Mother Russia | 0.20% | ~844 |
 | At every continent | 0.20% | ~844 |
 | Early-Modern Warfare | 0.20% | ~844 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,820 (Ranked 41)  
+Progressed: 421,848 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 421,820 | 1 |
+| 2023-10-04 | 421,848 | 1 |
 ## Awards
 Max (Educational): 6,390  (Ranked 57)  
 Sum: 52,455 (Ranked 24)  

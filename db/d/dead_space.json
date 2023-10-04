@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 757,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2538,9 +2538,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_6",
@@ -2587,8 +2587,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:08:07.6757491+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:07:05.9795538+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:58:29.6252475+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:08:07.6758187+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:58:45.2672999+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:07:05.9795963+00:00"
 }

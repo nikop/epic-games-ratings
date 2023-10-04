@@ -40,9 +40,9 @@
 | Completionist | 36.00% | ~197 |
 | The Archangel | 36.00% | ~197 |
 | Archivist | 35.00% | ~191 |
+| Colony Defense | 35.00% | ~191 |
 | The Convict | 35.00% | ~191 |
 | The Krogan | 35.00% | ~191 |
-| Colony Defense | 34.00% | ~186 |
 | Galactic Explorer | 34.00% | ~186 |
 | Ghost Ship | 32.00% | ~175 |
 | The Quarian | 32.00% | ~175 |

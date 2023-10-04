@@ -2,7 +2,7 @@
   "ID": "0d85667260744011a6042263c3f59522",
   "Name": "CabbageBall",
   "ProductSlug": "cabbageball-e4dc40",
-  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 121,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T08:57:45.8638478+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:20.2598341+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:03:43.0786301+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:32.4385539+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:03:58.5414946+00:00"
 }

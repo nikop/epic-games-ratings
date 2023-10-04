@@ -9,6 +9,7 @@ Rating: 4.64 (Ranked 316)
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | First Bounty Down | 0.20% | ~48 |
+| Who's The Boss? | 0.20% | ~48 |
 | Don't Knife The Hand That Feeds | 0.20% | ~48 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
@@ -28,7 +29,6 @@ Rating: 4.64 (Ranked 316)
 | Hardest Battle In The Game | 0.10% | ~24 |
 | Cold-Blooded Driller | 0.10% | ~24 |
 | Self-Actualization | 0.10% | ~24 |
-| Who's The Boss? | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
@@ -39,6 +39,7 @@ Rating: 4.64 (Ranked 316)
 | Series Wrap on Suit-O | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
 | Mux Ado About Shipping | 0.10% | ~1 |
+| See Salt | 0.10% | ~1 |
 | Porch Pirate | 0.10% | ~1 |
 | Harper? I Barely Know Her! | 0.10% | ~1 |
 | We Came, We Chainsaw, We Conquered | 0.10% | ~1 |
@@ -48,7 +49,6 @@ Rating: 4.64 (Ranked 316)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | Bathe With A Giant Nude Alien | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
-| See Salt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,115 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  

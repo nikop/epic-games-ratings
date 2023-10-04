@@ -13,7 +13,7 @@
 | Endless Tricks | 79.00% | ~30 |
 | Mind Illuminator | 68.00% | ~26 |
 | Stellar Dismantler | 55.00% | ~21 |
-| Astral Adventurer | 45.00% | ~17 |
+| Astral Adventurer | 47.00% | ~18 |
 | Anomaly Destroyer | 42.00% | ~16 |
 | Star Killer | 39.00% | ~15 |
 | Unbeatable | 37.00% | ~14 |

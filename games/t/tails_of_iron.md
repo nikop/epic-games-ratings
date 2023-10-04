@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 81.00% | ~1,575 |
-| Become King | 73.00% | ~1,420 |
-| Ranged Weapon | 63.00% | ~1,225 |
-| Defeat 25 Frogs | 63.00% | ~1,225 |
+| Complete Guard Faction | 81.00% | ~1,576 |
+| Become King | 73.00% | ~1,421 |
+| Defeat 25 Frogs | 63.00% | ~1,226 |
+| Ranged Weapon | 62.00% | ~1,207 |
 | Collect Monster Parts | 59.00% | ~1,148 |
 | Two Handed Weapon | 57.00% | ~1,109 |
-| Defeat 25 Grubs | 54.00% | ~1,050 |
+| Defeat 25 Grubs | 54.00% | ~1,051 |
 | Rescue Redgi's Brothers | 53.00% | ~1,031 |
-| Collect Iron Ore | 49.00% | ~953 |
+| Collect Iron Ore | 49.00% | ~954 |
 | Defeat 25 Mozis | 48.00% | ~934 |
 | Kitchen Ready To Cook | 48.00% | ~934 |
-| Collect Gold | 47.00% | ~914 |
+| Collect Gold | 47.00% | ~915 |
 | Smithy Ready to Craft | 46.00% | ~895 |
-| Fix the Travellers Wagon | 45.00% | ~875 |
+| Fix the Travellers Wagon | 45.00% | ~876 |
 | Complete Elder Faction | 42.00% | ~817 |
 | End of the Mozis | 39.00% | ~759 |
 | Throne Room Fit For A King | 39.00% | ~759 |
@@ -29,14 +29,14 @@ Rating: 4.54 (Ranked 509)
 | Defeat Rattus Augustail | 27.00% | ~525 |
 | Complete the Chefs Book | 25.00% | ~486 |
 | Complete Ranger Faction | 22.00% | ~428 |
-| Defeat Avor Warden of the Northern Wastes | 21.00% | ~408 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~409 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~389 |
 | Complete Arena Faction | 16.00% | ~311 |
 | Complete Redgi's Armory | 8.00% | ~156 |
 | King of Kings | 8.00% | ~156 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,945 (Ranked 203)  
+Progressed: 1,946 (Ranked 203)  
 Completed: 9 (0.46%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 9 (0.46%) (Ranked 170)
 | 2023-09-28 | 1,940 | 9 |
 | 2023-10-02 | 1,942 | 9 |
 | 2023-10-03 | 1,945 | 9 |
+| 2023-10-04 | 1,946 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

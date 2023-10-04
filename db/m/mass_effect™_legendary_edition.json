@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1602,9 +1602,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_39",
@@ -2158,8 +2158,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:04:15.6580449+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:04:31.7412608+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:58:51.5462806+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:04:15.65828+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:59:12.3956246+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:04:31.7414384+00:00"
 }

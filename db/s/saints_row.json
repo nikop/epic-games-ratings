@@ -3732,9 +3732,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73684,
+  "EOS_Progressed": 73685,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -22442,6 +22442,11 @@
       "Time": "2023-10-04T07:06:22.6362989+00:00",
       "NumProgressed": 73684,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-04T08:06:41.8436026+00:00",
+      "NumProgressed": 73685,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 53,
@@ -22541,7 +22546,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "complete_first_side_hustle",
@@ -22581,7 +22586,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26526
+      "UsersEstimate": 26527
     },
     {
       "ID": "cutting_edge_materials",
@@ -22669,7 +22674,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16947
+      "UsersEstimate": 16948
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -22701,7 +22706,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26526
+      "UsersEstimate": 26527
     },
     {
       "ID": "hit_max_level",
@@ -22709,7 +22714,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "infinite_boost_refill",
@@ -22837,7 +22842,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30947
+      "UsersEstimate": 30948
     },
     {
       "ID": "whole_map_purple",
@@ -22853,7 +22858,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -22876,13 +22881,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73684,
+      "Progressed": 73685,
       "Completed": 50
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 45321,
+      "Progressed": 45322,
       "Completed": 4012
     }
   ],
@@ -22890,8 +22895,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-01T18:03:15.1951631+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:06:22.6362984+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:06:41.8436021+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.2297525+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:26.4985633+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:06:22.6364577+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:39.3234755+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:06:41.8437523+00:00"
 }

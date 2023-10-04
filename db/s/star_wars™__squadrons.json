@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6472,
+  "EOS_Progressed": 6477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2990,
+  "EOS_NewPlayers": 2985,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1621,6 +1621,11 @@
       "Time": "2023-10-04T07:04:35.0680874+00:00",
       "NumProgressed": 6472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T08:04:51.4848583+00:00",
+      "NumProgressed": 6477,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -1681,7 +1686,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "achievement_16",
@@ -1815,9 +1820,9 @@
       "ID": "achievement_30",
       "SetID": "8ghcoph",
       "Name": "Across the Stars",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_31",
@@ -1841,7 +1846,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "achievement_34",
@@ -1857,7 +1862,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6153
     },
     {
       "ID": "achievement_36",
@@ -1873,7 +1878,7 @@
       "Name": "Asset Secured",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "achievement_38",
@@ -1887,9 +1892,9 @@
       "ID": "achievement_39",
       "SetID": "8ghcoph",
       "Name": "Safety in the Storm",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1619
     },
     {
       "ID": "achievement_4",
@@ -1961,7 +1966,7 @@
       "Name": "Stomped",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_5",
@@ -1969,7 +1974,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_6",
@@ -1977,7 +1982,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "achievement_7",
@@ -1993,7 +1998,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "achievement_9",
@@ -2008,7 +2013,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 6472,
+      "Progressed": 6477,
       "Completed": 0
     }
   ],
@@ -2016,8 +2021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:04:35.0680868+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:04:51.4848579+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:23.4480073+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:27.2799632+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:04:35.068142+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:40.0818247+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:04:51.4849+00:00"
 }

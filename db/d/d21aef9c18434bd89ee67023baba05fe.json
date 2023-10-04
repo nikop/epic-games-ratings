@@ -2,7 +2,7 @@
   "ID": "d21aef9c18434bd89ee67023baba05fe",
   "Name": "MENACE",
   "ProductSlug": "menace-005d41",
-  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 121,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T17:57:02.1737259+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:57:34.3454663+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:04:59.0336003+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:57:46.86117+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:05:16.5981304+00:00"
 }

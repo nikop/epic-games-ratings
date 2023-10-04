@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,648 |
-| A thief's beginning | 10.00% | ~20,589 |
-| Thorough | 10.00% | ~20,589 |
-| Disguised | 8.00% | ~16,471 |
-| Rescue Takuma | 8.00% | ~16,471 |
-| Rollin' | 8.00% | ~16,471 |
-| Tanuki Time | 8.00% | ~16,471 |
-| Ice Ice Yuki | 7.00% | ~14,412 |
-| Jonin | 7.00% | ~14,412 |
-| Stoned Ox | 7.00% | ~14,412 |
-| Yabu | 7.00% | ~14,412 |
+| Genin | 11.00% | ~22,649 |
+| A thief's beginning | 10.00% | ~20,590 |
+| Thorough | 10.00% | ~20,590 |
+| Disguised | 8.00% | ~16,472 |
+| Rescue Takuma | 8.00% | ~16,472 |
+| Rollin' | 8.00% | ~16,472 |
+| Tanuki Time | 8.00% | ~16,472 |
+| Ice Ice Yuki | 7.00% | ~14,413 |
+| Jonin | 7.00% | ~14,413 |
+| Stoned Ox | 7.00% | ~14,413 |
+| Yabu | 7.00% | ~14,413 |
 | Chunin | 6.00% | ~12,354 |
 | Flying Rocks | 6.00% | ~12,354 |
 | Happy Planning | 6.00% | ~12,354 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,853 |
 | High Five the Moon | 0.80% | ~1,647 |
 | The Cave | 0.80% | ~1,647 |
-| Merciful | 0.50% | ~1,029 |
-| Time Paradox | 0.50% | ~1,029 |
+| Merciful | 0.50% | ~1,030 |
+| Time Paradox | 0.50% | ~1,030 |
 | Five Shadows | 0.30% | ~618 |
 | Praise the Shogun | 0.20% | ~412 |
 | Chicken Dinner | 0.10% | ~206 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,892 (Ranked 62)  
-Completed: 88 (0.04%) (Ranked 270)  
+Progressed: 205,901 (Ranked 62)  
+Completed: 89 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,7 +218,7 @@ Completed: 88 (0.04%) (Ranked 270)
 | 2023-10-01 | 205,486 | 88 |
 | 2023-10-02 | 205,655 | 88 |
 | 2023-10-03 | 205,839 | 88 |
-| 2023-10-04 | 205,892 | 88 |
+| 2023-10-04 | 205,901 | 89 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
 Sum: 4,779 (Ranked 138)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5329,9 +5329,9 @@
       "ID": "ACH_KILL_SKRENDELS",
       "SetID": "cdkbb11",
       "Name": "Who\u0027s The Boss?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -5433,9 +5433,9 @@
       "ID": "ACH_FIND_ALL_LANDMARKS",
       "SetID": "7fgbhpb",
       "Name": "See Salt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_PACKAGES",
@@ -5520,8 +5520,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:05:22.3786783+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:05:40.5754936+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:59:20.6666745+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:05:22.378747+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:59:42.6704721+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:05:40.5755514+00:00"
 }

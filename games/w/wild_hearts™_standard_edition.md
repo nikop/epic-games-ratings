@@ -33,7 +33,7 @@
 | Team Hunter | 33.00% | ~31 |
 | Karakuri Isle | 31.00% | ~29 |
 | Artful Assister | 31.00% | ~29 |
-| Left Arm Leverager | 27.00% | ~26 |
+| Left Arm Leverager | 28.00% | ~27 |
 | Unrivaled in Arms | 26.00% | ~25 |
 | Human Believer | 25.00% | ~24 |
 | Threaded Harmony | 25.00% | ~24 |

@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 842)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 77.00% | ~106,384 |
-| Dead-ball specialist | 65.00% | ~89,805 |
-| European Legend | 53.00% | ~73,225 |
-| Multitasking | 52.00% | ~71,844 |
-| Let the Games Begin | 51.00% | ~70,462 |
-| High Grades | 51.00% | ~70,462 |
-| Balanced Path | 50.00% | ~69,080 |
-| A Moment of Your Time | 49.00% | ~67,699 |
-| Aiming High | 47.00% | ~64,936 |
-| Tactical Tinkerer | 44.00% | ~60,791 |
-| Squad Building Connoisseur | 42.00% | ~58,028 |
-| Intuition and Execution | 41.00% | ~56,646 |
-| The Winning Formula | 40.00% | ~55,264 |
-| Parking the Bus | 31.00% | ~42,830 |
-| Safe House | 29.00% | ~40,067 |
-| Best of Five | 25.00% | ~34,540 |
-| The Chosen One | 24.00% | ~33,159 |
-| Football is Everything | 24.00% | ~33,159 |
-| Fresh Fit | 22.00% | ~30,395 |
-| Bring it on | 18.00% | ~24,869 |
-| Life-Like | 15.00% | ~20,724 |
-| Make the Grade | 13.00% | ~17,961 |
-| I Played Them All | 11.00% | ~15,198 |
-| Specialist | 11.00% | ~15,198 |
-| First of Many | 10.00% | ~13,816 |
-| Teamwork works | 9.00% | ~12,434 |
-| Momentous Achievement | 7.00% | ~9,671 |
-| Becoming Unplayable | 6.00% | ~8,290 |
-| Shop till you drop | 6.00% | ~8,290 |
-| On the way up | 6.00% | ~8,290 |
-| Volta's best | 5.00% | ~6,908 |
-| In Cahoots | 5.00% | ~6,908 |
-| Tune Your Club | 5.00% | ~6,908 |
-| Full-House | 4.00% | ~5,526 |
-| Sharing is Caring | 4.00% | ~5,526 |
+| Power Shot | 77.00% | ~106,419 |
+| Dead-ball specialist | 65.00% | ~89,835 |
+| European Legend | 53.00% | ~73,250 |
+| Multitasking | 52.00% | ~71,868 |
+| Let the Games Begin | 51.00% | ~70,486 |
+| High Grades | 51.00% | ~70,486 |
+| Balanced Path | 50.00% | ~69,104 |
+| A Moment of Your Time | 49.00% | ~67,721 |
+| Aiming High | 47.00% | ~64,957 |
+| Tactical Tinkerer | 44.00% | ~60,811 |
+| Squad Building Connoisseur | 42.00% | ~58,047 |
+| Intuition and Execution | 41.00% | ~56,665 |
+| The Winning Formula | 40.00% | ~55,283 |
+| Parking the Bus | 31.00% | ~42,844 |
+| Safe House | 29.00% | ~40,080 |
+| Best of Five | 25.00% | ~34,552 |
+| The Chosen One | 24.00% | ~33,170 |
+| Football is Everything | 24.00% | ~33,170 |
+| Fresh Fit | 22.00% | ~30,406 |
+| Bring it on | 18.00% | ~24,877 |
+| Life-Like | 15.00% | ~20,731 |
+| Make the Grade | 13.00% | ~17,967 |
+| I Played Them All | 11.00% | ~15,203 |
+| Specialist | 11.00% | ~15,203 |
+| First of Many | 10.00% | ~13,821 |
+| Teamwork works | 9.00% | ~12,439 |
+| Momentous Achievement | 7.00% | ~9,674 |
+| Becoming Unplayable | 6.00% | ~8,292 |
+| Shop till you drop | 6.00% | ~8,292 |
+| On the way up | 6.00% | ~8,292 |
+| Volta's best | 5.00% | ~6,910 |
+| In Cahoots | 5.00% | ~6,910 |
+| Tune Your Club | 5.00% | ~6,910 |
+| Full-House | 4.00% | ~5,528 |
+| Sharing is Caring | 4.00% | ~5,528 |
 | Full wardrobe | 0.70% | ~967 |
 | Girl Power | 0.40% | ~553 |
 | Training Addict | 0.10% | ~138 |
 | Dazzling Personality | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,161 (Ranked 70)  
+Progressed: 138,207 (Ranked 70)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,15 +65,15 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 133,505 | 0 |
 | 2023-10-02 | 135,754 | 0 |
 | 2023-10-03 | 137,750 | 0 |
-| 2023-10-04 | 138,161 | 0 |
+| 2023-10-04 | 138,207 | 0 |
 ## Awards
 Max (Diverse Characters): 20,004  (Ranked 19)  
-Sum: 101,648 (Ranked 14)  
+Sum: 101,660 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 20,004 |
-| This game is Highly Recommended | 14,015 |
+| This game is Highly Recommended | 14,027 |
 | This game has a Competitive Community | 13,169 |
 | This game has Amazing Characters | 11,498 |
 | This game is Extremely Fun | 11,077 |
@@ -356,3 +356,4 @@ Diff (max vs sum): 5
 | 2023-10-01 | 4.26 | 19,969 | 101,486 |
 | 2023-10-02 | 4.26 | 19,988 | 101,579 |
 | 2023-10-03 | 4.26 | 20,004 | 101,648 |
+| 2023-10-04 | 4.26 | 20,004 | 101,660 |

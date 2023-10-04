@@ -3852,9 +3852,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88728,
+  "EOS_Progressed": 88731,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21122,6 +21122,11 @@
       "Time": "2023-10-04T07:08:22.1275632+00:00",
       "NumProgressed": 88728,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-04T08:09:10.0138454+00:00",
+      "NumProgressed": 88731,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -21155,9 +21160,9 @@
       "ID": "ACH_0013",
       "SetID": "3kam13l",
       "Name": "Hidden Sonata",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_0014",
@@ -21460,13 +21465,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88728,
+      "Progressed": 88731,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17075,
+      "Progressed": 17078,
       "Completed": 15541
     }
   ],
@@ -21474,8 +21479,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-03T17:57:52.8784582+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:08:22.1275627+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:09:10.0138449+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:58:06.3675499+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:08:22.1277076+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:58:18.2842759+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:09:10.0139516+00:00"
 }

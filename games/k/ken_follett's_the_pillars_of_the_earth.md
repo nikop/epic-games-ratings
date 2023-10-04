@@ -17,9 +17,9 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,727 |
 | Help an old friend | 22.00% | ~3,417 |
 | Two of us | 20.00% | ~3,106 |
-| Negotiation skills | 18.00% | ~2,795 |
-| Workers' union | 18.00% | ~2,795 |
-| End of Book Two | 18.00% | ~2,795 |
+| Negotiation skills | 18.00% | ~2,796 |
+| Workers' union | 18.00% | ~2,796 |
+| End of Book Two | 18.00% | ~2,796 |
 | Everything's in order | 17.00% | ~2,640 |
 | Twist of Fate | 14.00% | ~2,174 |
 | Jack was here! | 14.00% | ~2,174 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,242 |
 | Silentium est aureum | 7.00% | ~1,087 |
 | Rebel without a cause | 6.00% | ~932 |
-| Staring contest champion | 5.00% | ~776 |
-| Lone wolf | 5.00% | ~776 |
-| Vox Populi | 5.00% | ~776 |
+| Staring contest champion | 5.00% | ~777 |
+| Lone wolf | 5.00% | ~777 |
+| Vox Populi | 5.00% | ~777 |
 | Revenge | 4.00% | ~621 |
 | Self-defense | 4.00% | ~621 |
 | Countess Aliena | 4.00% | ~621 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~466 |
 | Boy of mystery | 2.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,530 (Ranked 132)  
+Progressed: 15,531 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 112 (0.72%) (Ranked 150)
 | 2023-10-01 | 15,500 | 112 |
 | 2023-10-02 | 15,517 | 112 |
 | 2023-10-03 | 15,525 | 112 |
-| 2023-10-04 | 15,530 | 112 |
+| 2023-10-04 | 15,531 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 304)  
 Sum: 193 (Ranked 384)  

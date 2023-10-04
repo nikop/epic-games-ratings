@@ -2,7 +2,7 @@
   "ID": "a475e165d6c6476d9417458bc53cd71b",
   "Name": "Arena Renovation",
   "ProductSlug": "arena-renovation-409f55",
-  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 121,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-09T20:57:38.0137996+00:00",
   "LastUpdate_AppInfo": "2023-10-03T21:57:14.8728815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:58:31.3547018+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:06:21.4528329+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:58:47.6072471+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:06:40.6484441+00:00"
 }

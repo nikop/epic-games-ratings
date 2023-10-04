@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 769,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 160,
@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6339,
+  "EOS_Progressed": 6343,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5142,6 +5142,11 @@
       "Time": "2023-10-04T07:05:29.4867455+00:00",
       "NumProgressed": 6339,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-04T08:05:47.7416336+00:00",
+      "NumProgressed": 6343,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5202,7 +5207,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2347
     },
     {
       "ID": "a_19",
@@ -5226,7 +5231,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "a_21",
@@ -5234,7 +5239,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "a_22",
@@ -5401,7 +5406,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6339,
+      "Progressed": 6343,
       "Completed": 7
     }
   ],
@@ -5409,8 +5414,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:05:29.4867447+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:05:47.7416331+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:59:30.6813654+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:05:29.4867945+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:59:52.6403271+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:05:47.7416716+00:00"
 }

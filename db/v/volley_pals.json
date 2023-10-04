@@ -2,7 +2,7 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 39,
@@ -670,25 +670,25 @@
       "ID": "LEVEL_0",
       "SetID": "1fnbp5h",
       "Name": "Beach",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_3",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-10-04T07:04:27.792089+00:00",
+  "LastChanged_Achievements": "2023-10-04T08:04:44.1568301+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.7644505+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:59:26.8620688+00:00",
-  "LastUpdate_Achievements": "2023-10-04T07:04:27.7921032+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:59:48.4175285+00:00",
+  "LastUpdate_Achievements": "2023-10-04T08:04:44.1568405+00:00"
 }
