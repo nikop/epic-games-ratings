@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 117,992 | 4.69 | 221 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 90,464 | 4.63 | 336 |
 | 10 | [VALORANT](games/v/valorant.md) | 73,483 | 4.53 | 522 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,762 | 4.58 | 436 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,805 | 4.58 | 436 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 45,946 | 4.61 | 371 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 39,104 | 4.74 | 149 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,068 | 4.49 | 589 |
@@ -68,7 +68,7 @@
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,641 | 4.66 | 282 |
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,582 | 4.85 | 42 |
 | 68 | [Rogue Company](games/r/rogue_company.md) | 5,484 | 4.32 | 793 |
-| 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,354 | 4.06 | 945 |
+| 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,354 | 4.06 | 946 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,095 | 4.69 | 221 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,767 | 3.99 | 964 |
 | 72 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 473 |
@@ -206,7 +206,7 @@
 | 204 | [Surviving Mars](games/s/surviving_mars.md) | 485 | 4.60 | 396 |
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 474 | 3.94 | 976 |
 | 206 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 472 | 4.60 | 396 |
-| 207 | [Second Extinction™](games/s/second_extinction™.md) | 470 | 4.05 | 952 |
+| 207 | [Second Extinction™](games/s/second_extinction™.md) | 470 | 4.05 | 953 |
 | 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 466 | 4.40 | 715 |
 | 209 | [Loop Hero](games/l/loop_hero.md) | 462 | 4.67 | 262 |
 | 210 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 282 |
@@ -280,7 +280,7 @@
 | 278 | [Unrailed!](games/u/unrailed!.md) | 197 | 4.64 | 316 |
 | 279 | [Crashlands](games/c/crashlands.md) | 194 | 4.66 | 282 |
 | 279 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 194 | 4.52 | 536 |
-| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 952 |
+| 281 | [Pinball FX](games/p/pinball_fx.md) | 191 | 4.05 | 953 |
 | 282 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 185 | 4.63 | 336 |
 | 282 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 185 | 4.63 | 336 |
 | 284 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.08 | 936 |
@@ -496,7 +496,7 @@
 | 494 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 25 | 4.60 | 396 |
 | 494 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 522 |
 | 496 | [ELEX](games/e/elex.md) | 24 | 4.46 | 631 |
-| 496 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 24 | 4.06 | 945 |
+| 496 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 24 | 4.06 | 946 |
 | 496 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 24 | 4.50 | 574 |
 | 496 | [RUINER](games/r/ruiner.md) | 24 | 4.53 | 522 |
 | 496 | [Sable](games/s/sable.md) | 24 | 4.52 | 536 |

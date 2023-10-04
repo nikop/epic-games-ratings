@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.39% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.34% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.98% |
@@ -62,14 +62,14 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.32% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.98% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.66% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.67% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -87,9 +87,9 @@
 | 85 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 86 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 87 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
-| 88 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.78% |
-| 89 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 90 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
+| 88 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
+| 90 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.70% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -181,10 +181,10 @@
 | 179 | [Dead Space](games/d/dead_space.md) | 0.40% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 182 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
+| 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 183 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 186 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 187 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 187 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
@@ -223,11 +223,11 @@
 | 221 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.18% |
 | 221 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 221 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 224 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.17% |
-| 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.17% |
-| 226 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 226 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 226 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 224 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.16% |
+| 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 224 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 224 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 224 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 229 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 230 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.14% |

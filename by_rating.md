@@ -435,7 +435,7 @@
 | 417 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 715 | 172 |
 | 417 | [Void Bastards](games/v/void_bastards.md) | 4.59 | 22 | 509 |
 | 417 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 20 | 522 |
-| 436 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,762 | 11 |
+| 436 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,805 | 11 |
 | 436 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 526 |
 | 436 | [DOOM 3](games/d/doom_3.md) | 4.58 | 68 | 388 |
 | 436 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 254 |
@@ -944,19 +944,19 @@
 | 936 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 526 |
 | 943 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 545 | 197 |
 | 943 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.07 | 0 | 526 |
-| 945 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 526 |
-| 945 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.06 | 0 | 526 |
-| 945 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 24 | 496 |
-| 945 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 526 |
-| 945 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,354 | 69 |
-| 945 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 526 |
-| 945 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 526 |
-| 952 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
-| 952 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 207 |
-| 952 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
-| 952 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
-| 956 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 526 |
-| 956 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.04 | 0 | 526 |
+| 943 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.07 | 0 | 526 |
+| 946 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 526 |
+| 946 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.06 | 0 | 526 |
+| 946 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 24 | 496 |
+| 946 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 526 |
+| 946 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,354 | 69 |
+| 946 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.06 | 0 | 526 |
+| 946 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 526 |
+| 953 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 191 | 281 |
+| 953 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 470 | 207 |
+| 953 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 526 |
+| 953 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 526 |
+| 957 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 526 |
 | 958 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.03 | 0 | 526 |
 | 958 | [Lake](games/l/lake.md) | 4.03 | 0 | 526 |
 | 958 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 526 |
