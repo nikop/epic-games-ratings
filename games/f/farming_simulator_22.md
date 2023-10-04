@@ -16,7 +16,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Hard work pays off | 53.00% | ~26,192 |
 | It's never too late to farm | 50.00% | ~24,710 |
 | All out of Land | 44.00% | ~21,744 |
-| Field Trip | 43.00% | ~21,250 |
+| Field Trip | 44.00% | ~21,744 |
 | I like to switch it up | 40.00% | ~19,768 |
 | Help me to help you | 38.00% | ~18,779 |
 | Ultimutt Pawesomeness | 28.00% | ~13,837 |

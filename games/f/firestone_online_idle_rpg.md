@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 946)  
+Rating: 4.06 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,12 +50,12 @@ Rating: 4.06 (Ranked 946)
 | Engineer Mastery | 8.00% | ~159 |
 | The Expeditioner | 8.00% | ~159 |
 | Weekly Quest Completionist | 8.00% | ~159 |
+| How Do You Turn This On? | 7.00% | ~139 |
 | Lock And Load | 7.00% | ~139 |
 | Missions Dedication | 7.00% | ~139 |
 | Sailor | 7.00% | ~139 |
 | Active Member | 6.00% | ~119 |
 | Ancient Knowledge | 6.00% | ~119 |
-| How Do You Turn This On? | 6.00% | ~119 |
 | Legendary | 6.00% | ~119 |
 | The Alchemist | 6.00% | ~119 |
 | Arena Challenger | 5.00% | ~99 |

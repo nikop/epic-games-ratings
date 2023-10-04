@@ -5,9 +5,9 @@
   "Ranking_Rating": 573,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-09-25T17:03:42.7716588+00:00",
       "NumProgressed": 428,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T21:06:54.917481+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -516,7 +521,7 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "finished-quest-flight",
@@ -532,7 +537,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "finished-quest-nurgle",
@@ -572,7 +577,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "finished-quest-secret",
@@ -588,7 +593,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "get-all",
@@ -652,7 +657,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "win-first-level",
@@ -660,7 +665,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "win-koth-fights1",
@@ -715,7 +720,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 1
     }
   ],
@@ -723,8 +728,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:08:40.3801849+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:06:54.9174805+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:56.2365059+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:02:23.2364283+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:08:40.3802657+00:00"
+  "LastUpdate_Ratings": "2023-10-04T21:00:31.5492189+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:06:54.9175032+00:00"
 }

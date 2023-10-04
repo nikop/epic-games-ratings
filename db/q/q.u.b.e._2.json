@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -2475,9 +2475,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_PEAK",
@@ -2515,9 +2515,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_S5",
@@ -2539,9 +2539,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
@@ -2555,8 +2555,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:05:04.8487457+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:04:17.9235199+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:01:26.1230575+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:05:04.848782+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:59:51.6088734+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:04:17.9235487+00:00"
 }

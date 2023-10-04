@@ -105,9 +105,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -201,9 +201,9 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
@@ -255,8 +255,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:04:15.60723+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:03:42.7981154+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:01:32.1692976+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:04:15.6072512+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:59:56.7817393+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:03:42.7981354+00:00"
 }

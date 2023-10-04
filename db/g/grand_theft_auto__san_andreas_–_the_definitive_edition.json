@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 143,
@@ -1070,18 +1070,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 461,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2023-10-04T20:57:47.8691552+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 461,
-  "NumberOfAwardsMax": 329,
+  "NumberOfAwards": 462,
+  "NumberOfAwardsMax": 330,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 329
+      "Count": 330
     },
     {
       "Text": "This game is Relaxing",
@@ -1114,9 +1120,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13101,
+  "EOS_Progressed": 13102,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12284,6 +12290,11 @@
       "Time": "2023-10-04T20:07:30.7220713+00:00",
       "NumProgressed": 13101,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T21:06:04.6344101+00:00",
+      "NumProgressed": 13102,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12295,7 +12306,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10612
+      "UsersEstimate": 10613
     },
     {
       "ID": "ACH02",
@@ -12471,7 +12482,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "ACH24",
@@ -12574,16 +12585,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13101,
+      "Progressed": 13102,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-04T15:58:15.4897549+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:07:30.7220708+00:00",
+  "LastChanged": "2023-10-04T20:57:47.869155+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:06:04.6344097+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:58:22.6546215+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:07:30.7221584+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:57:47.8691556+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:06:04.6344808+00:00"
 }

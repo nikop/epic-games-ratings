@@ -9,7 +9,7 @@ Rating: 3.77 (Ranked 1,000)
 | No Half Measures | 87.00% | ~14,580 |
 | Personal Matter | 86.00% | ~14,413 |
 | But You Have Heard of Me | 72.00% | ~12,066 |
-| Double the Barrels, double the Fun | 54.00% | ~9,050 |
+| Double the Barrels, double the Fun | 55.00% | ~9,217 |
 | Pimp My Glide | 48.00% | ~8,044 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,704 |
 | House Party! | 34.00% | ~5,698 |

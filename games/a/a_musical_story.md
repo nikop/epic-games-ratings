@@ -23,14 +23,14 @@
 | Fuel | 30.00% | ~31 |
 | Alone Together | 29.00% | ~30 |
 | Threatening Nature | 27.00% | ~28 |
-| Flat Tire | 24.00% | ~25 |
+| Flat Tire | 25.00% | ~26 |
+| The Clash | 22.00% | ~23 |
 | TV Dreams | 22.00% | ~23 |
-| The Clash | 21.00% | ~22 |
 | Dreamers | 18.00% | ~19 |
 | Time | 17.00% | ~18 |
 | The Fix | 16.00% | ~16 |
+| Bad Trip | 14.00% | ~14 |
 | The Mountains, The Valleys | 14.00% | ~14 |
-| Bad Trip | 13.00% | ~13 |
 | Regrets | 13.00% | ~13 |
 | Love | 12.00% | ~12 |
 | Chase the Crow | 11.00% | ~11 |

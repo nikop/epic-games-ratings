@@ -8,15 +8,16 @@
 | Jung's dream | 50.00% | ~3 |
 | Giant | 50.00% | ~3 |
 | Master trainee | 33.00% | ~2 |
+| The artist | 33.00% | ~2 |
 | The battle of Great Britain | 33.00% | ~2 |
+| Pulp! Out of this World | 33.00% | ~2 |
 | A continent with chemistry | 33.00% | ~2 |
 | The happy farmer girl | 33.00% | ~2 |
 | You had one wish left | 17.00% | ~1 |
 | A rival with no options | 17.00% | ~1 |
-| The artist | 17.00% | ~1 |
+| The seer | 17.00% | ~1 |
 | Pulp! Terror Tales in the Night | 17.00% | ~1 |
 | Pulp! Where Monsters Dwell | 17.00% | ~1 |
-| Pulp! Out of this World | 17.00% | ~1 |
 | Kirlian's best disciple | 17.00% | ~1 |
 | The barbarian invasions | 17.00% | ~1 |
 | Diagnosis: fear | 17.00% | ~1 |
@@ -30,7 +31,6 @@
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
-| The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
 | The adventurer | 0.00% | ~0 |

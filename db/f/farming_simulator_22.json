@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9737,7 +9737,7 @@
   ],
   "EOS_Progressed": 49419,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24978,9 +24978,9 @@
       "ID": "TractorDriving",
       "SetID": "636ci4d",
       "Name": "Field Trip",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 21250
+      "UsersEstimate": 21744
     },
     {
       "ID": "TruckDriving",
@@ -25026,8 +25026,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-04T14:58:15.5715932+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:09:32.1418214+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:09:21.2489741+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:58:35.9677245+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:09:32.1419465+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:57:56.0462845+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:09:21.2490723+00:00"
 }

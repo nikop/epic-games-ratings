@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,612 |
+| Getting Started | 81.00% | ~10,613 |
 | Pay 'n' Spray | 51.00% | ~6,682 |
-| All Dressed Up for San Fierro | 26.00% | ~3,406 |
+| All Dressed Up for San Fierro | 26.00% | ~3,407 |
 | The American Dream | 20.00% | ~2,620 |
 | School's Out | 19.00% | ~2,489 |
 | Smooth Moves | 17.00% | ~2,227 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 490)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,101 (Ranked 136)  
+Progressed: 13,102 (Ranked 136)  
 Completed: 49 (0.37%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,14 +208,14 @@ Completed: 49 (0.37%) (Ranked 186)
 | 2023-10-01 | 13,077 | 48 |
 | 2023-10-02 | 13,090 | 49 |
 | 2023-10-03 | 13,097 | 49 |
-| 2023-10-04 | 13,101 | 49 |
+| 2023-10-04 | 13,102 | 49 |
 ## Awards
-Max (Great Boss Battles): 329  (Ranked 236)  
-Sum: 461 (Ranked 317)  
-Diff (max vs sum): -81  
+Max (Great Boss Battles): 330  (Ranked 236)  
+Sum: 462 (Ranked 316)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 329 |
+| This game has Great Boss Battles | 330 |
 | This game is Relaxing | 30 |
 | This game has Amazing Storytelling | 28 |
 | This game is Highly Recommended | 27 |
@@ -361,4 +361,4 @@ Diff (max vs sum): -81
 | 2023-09-30 | 4.56 | 322 | 451 |
 | 2023-10-02 | 4.55 | 325 | 455 |
 | 2023-10-03 | 4.56 | 329 | 461 |
-| 2023-10-04 | 4.55 | 329 | 461 |
+| 2023-10-04 | 4.55 | 330 | 462 |

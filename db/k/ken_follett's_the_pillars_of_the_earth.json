@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15540,
+  "EOS_Progressed": 15541,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11350,6 +11350,11 @@
       "Time": "2023-10-04T20:07:19.6089509+00:00",
       "NumProgressed": 15540,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-04T21:05:57.3469466+00:00",
+      "NumProgressed": 15541,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11361,7 +11366,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "tpote_achievement_10",
@@ -11375,9 +11380,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3574
     },
     {
       "ID": "tpote_achievement_12",
@@ -11401,7 +11406,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "tpote_achievement_15",
@@ -11433,7 +11438,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "tpote_achievement_19",
@@ -11449,7 +11454,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "tpote_achievement_20",
@@ -11489,7 +11494,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "tpote_achievement_25",
@@ -11688,15 +11693,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15540,
+      "Progressed": 15541,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:07:19.60895+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:05:57.3469461+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:59:38.2432613+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:07:19.6090851+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:58:41.2696595+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:05:57.3470335+00:00"
 }

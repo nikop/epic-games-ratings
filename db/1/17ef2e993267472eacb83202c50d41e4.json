@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6870,
+  "EOS_Progressed": 6871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3403,6 +3403,11 @@
       "Time": "2023-10-04T20:08:52.9595016+00:00",
       "NumProgressed": 6870,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T21:07:03.7373321+00:00",
+      "NumProgressed": 6871,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3535,7 +3540,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "GamesPlayed10",
@@ -3607,7 +3612,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "HAUpgraded1",
@@ -3911,7 +3916,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "SEUpgraded1",
@@ -4006,7 +4011,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6870,
+      "Progressed": 6871,
       "Completed": 1
     }
   ],
@@ -4014,8 +4019,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:08:52.9595004+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:07:03.7373316+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:00:33.700446+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:08:52.9596041+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:59:16.2515852+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:07:03.7374096+00:00"
 }

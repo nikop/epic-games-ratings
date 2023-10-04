@@ -398,9 +398,9 @@
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "L13_PERFECT",
@@ -414,9 +414,9 @@
       "ID": "L14_FINISH",
       "SetID": "6finf64",
       "Name": "The Clash",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "L14_PERFECT",
@@ -430,9 +430,9 @@
       "ID": "L15_FINISH",
       "SetID": "6finf64",
       "Name": "Bad Trip",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L15_PERFECT",
@@ -751,8 +751,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:09:38.6344433+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:09:25.6803705+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:24.1251098+00:00",
-  "LastUpdate_Ratings": "2023-10-04T20:01:23.0017983+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:09:38.6345353+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:59:49.3227509+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:09:25.6804109+00:00"
 }

@@ -1,11 +1,11 @@
 # Trackmania
 [Store](https://store.epicgames.com/en-US/p/trackmania)  
 [View Rawdata](../../db/t/trackmania.json)  
-Rating: 4.67 (Ranked 262)  
+Rating: 4.67 (Ranked 261)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 3,502  (Ranked 90)  
-Sum: 29,110 (Ranked 45)  
+Sum: 29,117 (Ranked 45)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 2,691 |
 | This game has a Competitive Community | 2,385 |
 | This game has Amazing Storytelling | 1,807 |
-| This game has Challenging Combat | 1,792 |
+| This game has Challenging Combat | 1,799 |
 | This game has Amazing Characters | 1,496 |
 | This game has Obsessive Gameplay | 1,144 |
 ## Ratings History
@@ -278,4 +278,4 @@ Diff (max vs sum): 45
 | 2023-10-01 | 4.67 | - | 3,459 | 28,754 |
 | 2023-10-02 | 4.67 | - | 3,466 | 28,858 |
 | 2023-10-03 | 4.67 | - | 3,484 | 28,972 |
-| 2023-10-04 | 4.67 | - | 3,502 | 29,110 |
+| 2023-10-04 | 4.67 | - | 3,502 | 29,117 |

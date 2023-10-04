@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
 | Good | 0.30% | ~43 |
+| Just | 0.30% | ~43 |
 | Learned | 0.30% | ~43 |
 | Mason | 0.30% | ~43 |
 | Noble | 0.30% | ~43 |
@@ -23,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
+| Babylonian Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
@@ -30,29 +32,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Great | 0.20% | ~29 |
-| Just | 0.20% | ~29 |
 | Keystone | 0.20% | ~29 |
 | Magnificent | 0.20% | ~29 |
 | Warrior | 0.20% | ~29 |
 | Wise | 0.20% | ~29 |
 | Developing Cities | 0.20% | ~29 |
+| Legendary Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
+| Able Difficulty | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
 | Ishtar Gate | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
+| Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
 | Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
-| Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Greek Paganism | 0.20% | ~29 |
 | Roman Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
+| Kushite Paganism | 0.20% | ~29 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
@@ -92,8 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~14 |
 | Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
-| Legendary Cities | 0.10% | ~14 |
-| Able Difficulty | 0.10% | ~14 |
 | Glorious Difficulty | 0.10% | ~14 |
 | Good Difficulty | 0.10% | ~14 |
 | Great Difficulty | 0.10% | ~14 |
@@ -118,6 +120,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.10% | ~14 |
 | Run, Pheidippides, Run! | 0.10% | ~14 |
 | Nenikekamen | 0.10% | ~14 |
+| Get the Hellas Out | 0.10% | ~14 |
+| The Turning Point | 0.10% | ~14 |
 | A Good Start | 0.10% | ~14 |
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
@@ -144,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
 | Mausoleum | 0.10% | ~14 |
-| Musaeum | 0.10% | ~14 |
 | Pantheon | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
@@ -168,6 +171,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.10% | ~14 |
 | Apadana in Parsa | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
+| Play a LAN Game | 0.10% | ~14 |
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Power to the People | 0.10% | ~14 |
@@ -266,7 +270,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~14 |
 | Kushite Pyramids | 0.10% | ~14 |
 | Kush | 0.10% | ~14 |
-| Kushite Paganism | 0.10% | ~14 |
 | Beja Archer | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
@@ -301,9 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Get the Hellas Out | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| The Turning Point | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Shape of Things to Come | 0.00% | ~0 |
@@ -333,7 +334,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
-| Play a LAN Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,349 (Ranked 133)  
+Progressed: 14,351 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,349 | 5 |
+| 2023-10-04 | 14,351 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

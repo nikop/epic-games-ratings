@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 509)
 | Humanity Distilled | 1.00% | ~6,908 |
 | Down with the Sickness | 1.00% | ~6,908 |
 | Max Headroom | 1.00% | ~6,908 |
-| Jumbo Keyring | 0.90% | ~6,217 |
-| Go, Bobcats! | 0.90% | ~6,217 |
-| Rising Star | 0.90% | ~6,217 |
+| Jumbo Keyring | 0.90% | ~6,218 |
+| Go, Bobcats! | 0.90% | ~6,218 |
+| Rising Star | 0.90% | ~6,218 |
 | Smorgasbord | 0.80% | ~5,527 |
 | Internet Famous | 0.70% | ~4,836 |
 | On Safari | 0.60% | ~4,145 |
@@ -46,12 +46,12 @@ Rating: 4.54 (Ranked 509)
 | LA Influential | 0.40% | ~2,763 |
 | Gore Horse | 0.40% | ~2,763 |
 | Sharpest Tool in the Box | 0.40% | ~2,763 |
-| Sole Survivor | 0.30% | ~2,072 |
-| Survival Skills | 0.30% | ~2,072 |
+| Sole Survivor | 0.30% | ~2,073 |
+| Survival Skills | 0.30% | ~2,073 |
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,827 (Ranked 22)  
+Progressed: 690,838 (Ranked 22)  
 Completed: 2,190 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-01 | 689,460 | 2,183 |
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
-| 2023-10-04 | 690,827 | 2,190 |
+| 2023-10-04 | 690,838 | 2,190 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 58)  
 Sum: 9,420 (Ranked 91)  

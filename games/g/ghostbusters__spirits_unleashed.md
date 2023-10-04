@@ -14,22 +14,22 @@ Rating: 4.50 (Ranked 573)
 | Solo Capture | 0.90% | ~236 |
 | Cultured | 0.80% | ~210 |
 | Teamwork | 0.80% | ~210 |
+| There you are! | 0.80% | ~210 |
 | Vaporous Expansion | 0.80% | ~210 |
 | Back Off | 0.70% | ~183 |
 | Clutch Capture | 0.70% | ~183 |
 | Icing on the Cake | 0.70% | ~183 |
 | Swift Rift Removers | 0.70% | ~183 |
-| There you are! | 0.70% | ~183 |
 | Whoopsie | 0.70% | ~183 |
 | Animated | 0.60% | ~157 |
+| Ghostbuster In Training | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
+| Welcome to the Crew | 0.60% | ~157 |
 | Daily Dose | 0.50% | ~131 |
 | Ectoplasmic Entity | 0.50% | ~131 |
-| Ghostbuster In Training | 0.50% | ~131 |
 | Right back at ya | 0.50% | ~131 |
 | Side Hustle | 0.50% | ~131 |
 | Summoner | 0.50% | ~131 |
-| Welcome to the Crew | 0.50% | ~131 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
 | Skilled | 0.40% | ~105 |

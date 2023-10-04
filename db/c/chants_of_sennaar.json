@@ -1166,9 +1166,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 200,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "META_ALL_LINK",
@@ -1365,8 +1365,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:05:11.273941+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:04:22.248107+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:57:32.5222608+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:05:11.2739698+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:57:13.5906981+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:04:22.2481339+00:00"
 }

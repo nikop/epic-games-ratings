@@ -14361,9 +14361,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Ghost_Expert",
@@ -14577,9 +14577,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 210
     },
     {
       "ID": "Tobins_Prodigy",
@@ -14609,9 +14609,9 @@
       "ID": "Welcome_Crew",
       "SetID": "819popo",
       "Name": "Welcome to the Crew",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "Whoopsie",
@@ -14634,8 +14634,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-04T19:58:36.9198367+00:00",
-  "LastChanged_Achievements": "2023-10-04T20:07:16.4220851+00:00",
+  "LastChanged_Achievements": "2023-10-04T21:05:51.7724411+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-04T19:58:36.9198373+00:00",
-  "LastUpdate_Achievements": "2023-10-04T20:07:16.422244+00:00"
+  "LastUpdate_Ratings": "2023-10-04T20:57:56.6896061+00:00",
+  "LastUpdate_Achievements": "2023-10-04T21:05:51.7725338+00:00"
 }

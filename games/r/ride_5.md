@@ -9,7 +9,7 @@
 | Eat My Dust | 39.00% | ~505 |
 | Hear That Roar! | 38.00% | ~492 |
 | Rivals to the End | 29.00% | ~376 |
-| We're Going to Need a Bigger Garage | 24.00% | ~311 |
+| We're Going to Need a Bigger Garage | 25.00% | ~324 |
 | Bitter Rivalry | 24.00% | ~311 |
 | Champagne Spray | 21.00% | ~272 |
 | I'm Here Too! | 20.00% | ~259 |
@@ -18,7 +18,7 @@
 | Legendary!!! | 18.00% | ~233 |
 | Quick Pit Stop | 18.00% | ~233 |
 | Go-Faster Stripes | 16.00% | ~207 |
-| We've Just Begun | 9.00% | ~117 |
+| We've Just Begun | 10.00% | ~130 |
 | Stamina Star | 8.00% | ~104 |
 | Is It the Right Size? | 7.00% | ~91 |
 | Evangelist | 5.00% | ~65 |
