@@ -4,8 +4,8 @@
   "ProductSlug": "mile-high-taxi-fef5aa",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-03-13T21:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.3866457+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:58:37.6748053+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:08:26.9264876+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:08:11.710546+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:17:44.7056023+00:00"
 }

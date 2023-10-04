@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2181,6 +2181,11 @@
       "Time": "2023-10-04T08:04:53.2345815+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T13:14:55.3913152+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2272,7 +2277,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2287,7 +2292,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
@@ -2295,8 +2300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-09-29T20:58:05.8073185+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:05:26.153901+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:14:55.3913144+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:37.0074651+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:26.8540414+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:05:26.1539189+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:52.6649787+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:14:55.3913545+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,944 |
-| Wallbanger | 5.00% | ~22,944 |
+| Point Shooting | 5.00% | ~22,945 |
+| Wallbanger | 5.00% | ~22,945 |
 | Exploitative | 4.00% | ~18,356 |
 | High Speed Low Drag | 4.00% | ~18,356 |
 | Wet Feet | 4.00% | ~18,356 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~3,212 |
 | Special Delivery | 0.70% | ~3,212 |
 | Firefight Victory | 0.60% | ~2,753 |
-| Cinematic | 0.50% | ~2,294 |
+| Cinematic | 0.50% | ~2,295 |
 | Thanks Station! | 0.40% | ~1,836 |
 | Knock Knock | 0.30% | ~1,377 |
 | There For You | 0.30% | ~1,377 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~459 |
 | Road Hazard | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,888 (Ranked 38)  
+Progressed: 458,903 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-01 | 458,203 | 2 |
 | 2023-10-02 | 458,498 | 2 |
 | 2023-10-03 | 458,760 | 2 |
-| 2023-10-04 | 458,888 | 2 |
+| 2023-10-04 | 458,903 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 385  (Ranked 224)  
-Sum: 3,037 (Ranked 169)  
+Sum: 3,038 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): 55
 | This game has Realistic Visuals | 324 |
 | This game has Amazing Characters | 318 |
 | This game has Amazing Storytelling | 318 |
-| This game has a Competitive Community | 285 |
+| This game has a Competitive Community | 286 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -475,4 +475,4 @@ Diff (max vs sum): 55
 | 2023-09-24 | 4.62 | - | 383 | 3,008 |
 | 2023-09-25 | 4.62 | - | 383 | 3,010 |
 | 2023-10-02 | 4.62 | - | 385 | 3,035 |
-| 2023-10-04 | 4.62 | - | 385 | 3,037 |
+| 2023-10-04 | 4.62 | - | 385 | 3,038 |

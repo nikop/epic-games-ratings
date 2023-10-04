@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2023-10-03T22:03:10.3615339+00:00",
       "NumProgressed": 473,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-04T13:13:26.339353+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1138,7 +1143,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "GB_GOURMET",
@@ -1210,7 +1215,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "GB_KEVIN",
@@ -1242,7 +1247,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1274,7 +1279,7 @@
       "Name": "RAMBO",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -1313,7 +1318,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 2
     }
   ],
@@ -1321,8 +1326,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:03:39.8385453+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:13:26.3393524+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.6426232+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:26.4189905+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:03:39.8385675+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:52.3424003+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:13:26.3393866+00:00"
 }

@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13526,
+  "EOS_Progressed": 13529,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7622,6 +7622,11 @@
       "Time": "2023-10-04T12:06:25.3845505+00:00",
       "NumProgressed": 13526,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T13:15:51.2135911+00:00",
+      "NumProgressed": 13529,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7752,9 +7757,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "24",
@@ -7873,7 +7878,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13526,
+      "Progressed": 13529,
       "Completed": 3
     }
   ],
@@ -7881,8 +7886,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:06:25.3845498+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:15:51.2135904+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:04.8283902+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:25.3846013+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:30.8394764+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:51.2136875+00:00"
 }

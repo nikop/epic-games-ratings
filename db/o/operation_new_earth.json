@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -32,7 +32,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5527,6 +5527,11 @@
       "Time": "2023-10-04T11:06:38.9776334+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T13:15:52.5459146+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5658,7 +5663,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5832,16 +5837,16 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 1
     }
   ],
@@ -5849,8 +5854,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-02T15:57:56.3745226+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:06:26.4520313+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:15:52.5459141+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:59:29.7926645+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:26.4520802+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:09:04.5707295+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:52.54598+00:00"
 }

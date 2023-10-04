@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 615
     },
     {
       "ID": "AC05",
@@ -2262,9 +2262,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 466
     },
     {
       "ID": "AC44",
@@ -2295,8 +2295,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-03T19:59:23.0661093+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:06:55.7274655+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:16:19.5008766+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:00:02.0244971+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:55.7275043+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:09:35.517825+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:16:19.500934+00:00"
 }

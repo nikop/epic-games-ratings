@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -502,9 +502,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8221,
+  "EOS_Progressed": 8222,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -9707,6 +9707,11 @@
       "Time": "2023-10-04T07:03:24.5543548+00:00",
       "NumProgressed": 8221,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-04T13:13:24.2761498+00:00",
+      "NumProgressed": 8222,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9718,7 +9723,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6823
+      "UsersEstimate": 6824
     },
     {
       "ID": "ACH02",
@@ -9838,7 +9843,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "ACH17",
@@ -9862,7 +9867,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH20",
@@ -9949,7 +9954,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8221,
+      "Progressed": 8222,
       "Completed": 53
     }
   ],
@@ -9957,8 +9962,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-03T15:59:55.7429587+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:03:37.5531952+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:13:24.2761492+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:21.8364985+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:03:37.5532561+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:47.8688182+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:13:24.2762989+00:00"
 }

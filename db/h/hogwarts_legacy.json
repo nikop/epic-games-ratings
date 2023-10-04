@@ -8496,9 +8496,9 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297795,
+  "EOS_Progressed": 297798,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26501,6 +26501,11 @@
       "Time": "2023-10-04T12:06:15.7249691+00:00",
       "NumProgressed": 297795,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-04T13:15:42.2230586+00:00",
+      "NumProgressed": 297798,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26512,7 +26517,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44669
+      "UsersEstimate": 44670
     },
     {
       "ID": "PFA_10",
@@ -26568,7 +26573,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32757
+      "UsersEstimate": 32758
     },
     {
       "ID": "PFA_17",
@@ -26632,7 +26637,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35735
+      "UsersEstimate": 35736
     },
     {
       "ID": "PFA_24",
@@ -26640,7 +26645,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32757
+      "UsersEstimate": 32758
     },
     {
       "ID": "PFA_25",
@@ -26696,7 +26701,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32757
+      "UsersEstimate": 32758
     },
     {
       "ID": "PFA_31",
@@ -26840,7 +26845,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38713
+      "UsersEstimate": 38714
     },
     {
       "ID": "PFA_7",
@@ -26848,7 +26853,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38713
+      "UsersEstimate": 38714
     },
     {
       "ID": "PFA_8",
@@ -26856,7 +26861,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35735
+      "UsersEstimate": 35736
     },
     {
       "ID": "PFA_9",
@@ -26871,7 +26876,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297795,
+      "Progressed": 297798,
       "Completed": 480
     }
   ],
@@ -26879,8 +26884,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-04T02:17:01.4874189+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:06:15.7249687+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:15:42.223058+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:00:58.0275594+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:15.7250845+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:26.0927312+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:42.2233349+00:00"
 }

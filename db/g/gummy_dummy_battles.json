@@ -4,8 +4,8 @@
   "ProductSlug": "gummy-dummy-battles-7b9876",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-31T13:00:00+00:00",
     "PcReleaseDate": "2023-01-24T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-02T14:57:24.7585904+00:00",
   "LastChanged": "2023-04-02T14:57:24.7585904+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.8917797+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:00:57.465422+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:05:32.0544158+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:25.5884936+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:00.6283301+00:00"
 }

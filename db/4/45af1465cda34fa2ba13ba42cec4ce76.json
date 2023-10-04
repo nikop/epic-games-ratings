@@ -4,8 +4,8 @@
   "ProductSlug": "wizordum-55a7c8",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T14:57:00.5171118+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:58:15.1106715+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:04:16.6541181+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:07:47.8638902+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:13:51.0915426+00:00"
 }

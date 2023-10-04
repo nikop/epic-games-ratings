@@ -61,13 +61,13 @@
 | Big Game Hunter | 29.00% | ~159 |
 | Revenge! | 29.00% | ~159 |
 | Heart of Darkness | 29.00% | ~159 |
+| Treason | 28.00% | ~154 |
 | Digital Exorcist | 28.00% | ~154 |
 | Driven | 28.00% | ~154 |
 | Focused | 27.00% | ~148 |
 | First Aid Specialist | 27.00% | ~148 |
 | Cat's in the Cradle | 27.00% | ~148 |
 | Doppelganger | 27.00% | ~148 |
-| Treason | 27.00% | ~148 |
 | Bringer of War | 27.00% | ~148 |
 | Mobilizer | 26.00% | ~143 |
 | Friend or Foe | 25.00% | ~137 |
@@ -122,9 +122,9 @@
 | Singularity Mastery | 6.00% | ~33 |
 | Insanity I | 5.00% | ~27 |
 | Shield Breaker | 4.00% | ~22 |
+| Warp Specialist | 4.00% | ~22 |
 | Insanity II | 3.00% | ~16 |
 | Tactician | 3.00% | ~16 |
-| Warp Specialist | 3.00% | ~16 |
 | Stasis Mastery | 2.00% | ~11 |
 | Gunsmith | 2.00% | ~11 |
 | AI Hacking Specialist | 2.00% | ~11 |

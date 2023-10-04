@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5565,9 +5565,9 @@
       "ID": "ACH_BASE_56",
       "SetID": "92iocjf",
       "Name": "Please Make it Stop!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_BASE_57",
@@ -5684,8 +5684,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:09:26.3071845+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:18:31.2913962+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.8238221+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:03.1294099+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:09:26.307279+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:29.2701419+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:18:31.2915963+00:00"
 }

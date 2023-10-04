@@ -4,8 +4,8 @@
   "ProductSlug": "projectadam-eec00e",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-25T12:00:00+00:00",
     "PcReleaseDate": "2023-09-25T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-04T02:57:17.1568437+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:59:25.7431793+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:03:38.9992439+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:09:00.7391552+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:13:25.4632704+00:00"
 }

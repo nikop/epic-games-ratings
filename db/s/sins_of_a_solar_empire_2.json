@@ -4,11 +4,11 @@
   "ProductSlug": "sins-of-a-solar-empire-ii",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 510,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-27T17:00:00+00:00",
     "PcReleaseDate": "2022-10-27T17:00:00+00:00",
@@ -272,6 +272,6 @@
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
   "LastChanged": "2023-09-28T21:57:46.490086+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:37.2580924+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:27.9116598+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:08:36.4771973+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:53.4023199+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:18:03.571319+00:00"
 }

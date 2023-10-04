@@ -4,8 +4,8 @@
   "ProductSlug": "dwerve-29930b",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-12T16:00:00+00:00",
     "PcReleaseDate": "2022-05-31T13:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-28T16:57:18.2265292+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:00:50.1544474+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:10.6795368+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:17.9102942+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:36.9065006+00:00"
 }

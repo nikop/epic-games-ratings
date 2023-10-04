@@ -12959,9 +12959,9 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888591,
+  "EOS_Progressed": 888602,
   "EOS_Completed": 2573,
-  "EOS_NewPlayers": 5630,
+  "EOS_NewPlayers": 5591,
   "EOS_NewCompleters": 143,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -31764,6 +31764,11 @@
       "Time": "2023-10-04T12:09:14.880733+00:00",
       "NumProgressed": 888591,
       "NumCompleted": 2573
+    },
+    {
+      "Time": "2023-10-04T13:18:20.3732017+00:00",
+      "NumProgressed": 888602,
+      "NumCompleted": 2573
     }
   ],
   "TotalAchievements": 57,
@@ -31781,9 +31786,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8886
+      "UsersEstimate": 17772
     },
     {
       "ID": "BushidoAndChill",
@@ -32230,21 +32235,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888591,
+      "Progressed": 888602,
       "Completed": 2573
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17214,
+      "Progressed": 17225,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-04T09:00:35.9357517+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:09:14.8807325+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:18:20.3732011+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:52.4797083+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:09:14.8808607+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:11:16.123846+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:18:20.373379+00:00"
 }

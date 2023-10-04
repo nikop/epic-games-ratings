@@ -5,29 +5,29 @@ Rating: 4.61 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~722 |
+| Marksman | 95.00% | ~723 |
 | Welcome Aboard | 86.00% | ~654 |
-| Lab Rat | 75.00% | ~570 |
+| Lab Rat | 75.00% | ~571 |
 | All Systems Go | 66.00% | ~502 |
 | Brute Force | 66.00% | ~502 |
 | Cannon Fodder | 61.00% | ~464 |
-| Autofire | 59.00% | ~448 |
+| Autofire | 60.00% | ~457 |
 | Raise the Stakes | 56.00% | ~426 |
 | True Believer | 56.00% | ~426 |
-| Story Teller | 55.00% | ~418 |
-| Surgeon | 52.00% | ~395 |
+| Story Teller | 55.00% | ~419 |
+| Surgeon | 52.00% | ~396 |
 | Exterminator | 50.00% | ~380 |
 | Greenhouse Effect | 50.00% | ~380 |
 | Freeze | 48.00% | ~365 |
-| Full Arsenal | 44.00% | ~334 |
+| Full Arsenal | 44.00% | ~335 |
 | S.O.S. | 43.00% | ~327 |
 | Live with the Hot Ones | 41.00% | ~312 |
-| Get Off My Ship! | 41.00% | ~312 |
+| Get Off My Ship! | 40.00% | ~304 |
 | Strange Transmissions | 40.00% | ~304 |
-| Wreckage | 39.00% | ~296 |
+| Wreckage | 39.00% | ~297 |
 | Keeper of the Faith | 36.00% | ~274 |
 | Betrayed | 35.00% | ~266 |
-| There's Always Peng! | 34.00% | ~258 |
+| There's Always Peng! | 34.00% | ~259 |
 | Exodus | 33.00% | ~251 |
 | A Cut Above | 33.00% | ~251 |
 | Legend Teller | 33.00% | ~251 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | Reunion | 2.00% | ~15 |
 | Untouchable | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 243)  
+Progressed: 761 (Ranked 242)  
 Completed: 3 (0.39%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 3 (0.39%) (Ranked 181)
 | 2023-10-01 | 686 | 3 |
 | 2023-10-02 | 718 | 3 |
 | 2023-10-03 | 748 | 3 |
-| 2023-10-04 | 760 | 3 |
+| 2023-10-04 | 761 | 3 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 345)  
 Sum: 99 (Ranked 425)  

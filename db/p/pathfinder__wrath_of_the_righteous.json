@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3860,7 +3860,7 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11468,
+  "EOS_Progressed": 11469,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -13205,6 +13205,11 @@
       "Time": "2023-10-04T01:49:32.2525536+00:00",
       "NumProgressed": 11468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T13:16:27.8434805+00:00",
+      "NumProgressed": 11469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13240,7 +13245,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14112,7 +14117,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -14120,7 +14125,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -14143,21 +14148,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10250,
+      "Progressed": 10251,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11468,
+      "Progressed": 11469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-03T22:01:16.4260162+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:07:04.5351384+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:16:27.8434799+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:01:23.7398336+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:07:04.5353293+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:10:49.6395146+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:16:27.8437925+00:00"
 }

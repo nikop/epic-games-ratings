@@ -34,11 +34,11 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~149 |
 | Laid back | 5.00% | ~149 |
 | Lines for days | 5.00% | ~149 |
+| Manny Destroys All | 5.00% | ~149 |
 | Renaissance man | 5.00% | ~149 |
 | Trick shot marksman | 5.00% | ~149 |
 | Cops called! | 4.00% | ~120 |
 | G.O.A.T. status | 4.00% | ~120 |
-| Manny Destroys All | 4.00% | ~120 |
 | Prince of Philly | 4.00% | ~120 |
 | Tank commander | 4.00% | ~120 |
 | We get it, you're good | 4.00% | ~120 |
@@ -215,14 +215,14 @@ Completed: 1 (0.03%) (Ranked 276)
 | 2023-10-04 | 2,988 | 1 |
 ## Awards
 Max (Highly Recommended): 54  (Ranked 400)  
-Sum: 510 (Ranked 306)  
+Sum: 511 (Ranked 306)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 54 |
 | This game is Great for Quick Sessions | 50 |
 | This game has Realistic Visuals | 48 |
-| This game has Amazing Characters | 45 |
+| This game has Amazing Characters | 46 |
 | This game has a Creative Community | 44 |
 | This game has Amazing Storytelling | 43 |
 | This game is Relaxing | 42 |
@@ -379,3 +379,4 @@ Diff (max vs sum): 94
 | 2023-09-27 | 4.69 | - | 54 | 473 |
 | 2023-09-28 | 4.69 | - | 54 | 474 |
 | 2023-10-01 | 4.69 | - | 54 | 510 |
+| 2023-10-04 | 4.69 | - | 54 | 511 |

@@ -13,6 +13,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~26,658 |
 | The Jungle | 3.00% | ~26,658 |
 | Two Heads, One Bullet | 3.00% | ~26,658 |
+| To Bad Decisions! | 2.00% | ~17,772 |
 | Full Body Conversion | 2.00% | ~17,772 |
 | Right Back At Ya | 2.00% | ~17,772 |
 | Mean Streets | 2.00% | ~17,772 |
@@ -26,7 +27,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 2.00% | ~17,772 |
 | V for Vendetta | 2.00% | ~17,772 |
 | Legend of The Afterlife | 2.00% | ~17,772 |
-| To Bad Decisions! | 1.00% | ~8,886 |
 | Gun Fu | 1.00% | ~8,886 |
 | Christmas Tree Attack | 1.00% | ~8,886 |
 | The Quick and the Dead | 1.00% | ~8,886 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,591 (Ranked 15)  
+Progressed: 888,602 (Ranked 15)  
 Completed: 2,573 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,573 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,591 | 2,573 |
+| 2023-10-04 | 888,602 | 2,573 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 262,051 (Ranked 12)  

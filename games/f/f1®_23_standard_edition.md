@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,726 |
-| On the Top Step | 88.00% | ~2,552 |
-| Setting up for Success | 77.00% | ~2,233 |
-| Team Orders | 74.00% | ~2,146 |
-| Engineer | 55.00% | ~1,595 |
-| Familiar Faces | 48.00% | ~1,392 |
-| Going the Extra Mile | 43.00% | ~1,247 |
-| Sharing the Love | 40.00% | ~1,160 |
-| Hitting a Season | 35.00% | ~1,015 |
-| Challenge Yourself | 33.00% | ~957 |
-| Making History | 31.00% | ~899 |
-| A Dozen Pieces | 30.00% | ~870 |
+| Getting on the Step | 94.00% | ~2,728 |
+| On the Top Step | 88.00% | ~2,554 |
+| Setting up for Success | 77.00% | ~2,235 |
+| Team Orders | 74.00% | ~2,147 |
+| Engineer | 55.00% | ~1,596 |
+| Familiar Faces | 48.00% | ~1,393 |
+| Going the Extra Mile | 43.00% | ~1,248 |
+| Sharing the Love | 40.00% | ~1,161 |
+| Hitting a Season | 35.00% | ~1,016 |
+| Challenge Yourself | 33.00% | ~958 |
+| Making History | 31.00% | ~900 |
+| A Dozen Pieces | 30.00% | ~871 |
 | Spring Cleaning | 24.00% | ~696 |
 | Network Success | 24.00% | ~696 |
 | Writing a new Chapter | 24.00% | ~696 |
@@ -50,12 +50,12 @@ Rating: 4.65 (Ranked 301)
 | Under the Microscope | 1.00% | ~29 |
 | Saturday Night Drama | 1.00% | ~29 |
 | Media Darling | 1.00% | ~29 |
-| Ultimate Collector | 0.50% | ~14 |
+| Ultimate Collector | 0.50% | ~15 |
 | Golden Touch | 0.30% | ~9 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,900 (Ranked 190)  
+Progressed: 2,902 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 2,842 | 0 |
 | 2023-10-02 | 2,866 | 0 |
 | 2023-10-03 | 2,894 | 0 |
-| 2023-10-04 | 2,900 | 0 |
+| 2023-10-04 | 2,902 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

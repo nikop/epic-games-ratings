@@ -31,7 +31,7 @@
 | Kemono at Heart | 36.00% | ~35 |
 | Reincarnation Cycle Stopper | 34.00% | ~33 |
 | Team Hunter | 32.00% | ~31 |
-| Karakuri Isle | 30.00% | ~29 |
+| Karakuri Isle | 31.00% | ~30 |
 | Artful Assister | 30.00% | ~29 |
 | Left Arm Leverager | 29.00% | ~28 |
 | Unrivaled in Arms | 27.00% | ~26 |

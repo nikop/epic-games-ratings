@@ -28,7 +28,7 @@ Number of Ratings: 36  (23.09.2022)
 | The best thing money can buy | 9.00% | ~83 |
 | Act III Complete | 6.00% | ~55 |
 | Fire and Brimstone | 6.00% | ~55 |
-| See you Space Cowboy | 5.00% | ~46 |
+| See you Space Cowboy | 6.00% | ~55 |
 | Ghost in the Ship | 2.00% | ~18 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |

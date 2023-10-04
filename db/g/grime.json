@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -988,9 +988,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 150061,
+  "EOS_Progressed": 150079,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10428,6 +10428,11 @@
       "Time": "2023-10-04T12:04:25.5518001+00:00",
       "NumProgressed": 150061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T13:13:59.2069697+00:00",
+      "NumProgressed": 150079,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10637,9 +10642,9 @@
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -10806,21 +10811,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149644,
+      "Progressed": 149662,
       "Completed": 1138
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150061,
+      "Progressed": 150079,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-03T19:59:30.9918065+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:04:25.5517996+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:13:59.2069692+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T12:00:10.8390265+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:04:25.5518726+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:09:44.36146+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:13:59.2070723+00:00"
 }

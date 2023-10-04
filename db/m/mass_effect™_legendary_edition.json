@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1807,9 +1807,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_61",
@@ -1863,9 +1863,9 @@
       "ID": "achievement_67",
       "SetID": "d252ncf",
       "Name": "Warp Specialist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_68",
@@ -2163,8 +2163,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:04:57.9226755+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:14:29.0132769+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:59:58.7186698+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:04:57.9228607+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:09:32.7457799+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:14:29.0135174+00:00"
 }

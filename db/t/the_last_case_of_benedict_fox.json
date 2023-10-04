@@ -4,8 +4,8 @@
   "ProductSlug": "the-last-case-of-benedict-fox-4abc3a",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-04-27T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:59:32.2005413+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:58:39.9813767+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:15.8812728+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:08:14.6786825+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:42.1164842+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "chorus",
   "Ranking_Rating": 618,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 484,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2564,8 +2564,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-09-24T16:58:56.9875546+00:00",
-  "LastChanged_Achievements": "2023-10-04T12:06:10.4951102+00:00",
+  "LastChanged_Achievements": "2023-10-04T13:15:36.9503897+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:38.2609537+00:00",
-  "LastUpdate_Ratings": "2023-10-04T11:59:07.5331366+00:00",
-  "LastUpdate_Achievements": "2023-10-04T12:06:10.4951467+00:00"
+  "LastUpdate_Ratings": "2023-10-04T13:08:40.0359529+00:00",
+  "LastUpdate_Achievements": "2023-10-04T13:15:36.9504373+00:00"
 }

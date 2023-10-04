@@ -6,11 +6,11 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 63.00% | ~353 |
-| Quick Understanding of Block Extrusion | 61.00% | ~342 |
-| Nature or Nurture | 53.00% | ~297 |
-| Power Glove | 52.00% | ~292 |
-| Forgotten Memories | 50.00% | ~280 |
+| Lost in Space | 64.00% | ~360 |
+| Quick Understanding of Block Extrusion | 61.00% | ~343 |
+| Nature or Nurture | 53.00% | ~298 |
+| Power Glove | 51.00% | ~287 |
+| Forgotten Memories | 49.00% | ~275 |
 | Cogs in the Machine | 44.00% | ~247 |
 | Mission Success | 28.00% | ~157 |
 | There's No Place Like Home | 26.00% | ~146 |
@@ -18,7 +18,7 @@ Number of Ratings: 94  (23.09.2022)
 | Infinity Loop | 20.00% | ~112 |
 | Path to Salvation | 20.00% | ~112 |
 | Descendants | 19.00% | ~107 |
-| The Flawed Teacher | 17.00% | ~95 |
+| The Flawed Teacher | 17.00% | ~96 |
 | The Truthful Enemy | 7.00% | ~39 |
 | To Infinity and Beyond | 6.00% | ~34 |
 | True collector | 0.50% | ~3 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.20% | ~1 |
 | Laser Sharp | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561 (Ranked 260)  
+Progressed: 562 (Ranked 259)  
 Completed: 1 (0.18%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.18%) (Ranked 221)
 | 2023-10-01 | 516 | 1 |
 | 2023-10-02 | 536 | 1 |
 | 2023-10-03 | 556 | 1 |
-| 2023-10-04 | 561 | 1 |
+| 2023-10-04 | 562 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
