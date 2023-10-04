@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13520,
+  "EOS_Progressed": 13521,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7597,6 +7597,11 @@
       "Time": "2023-10-04T03:05:53.0202721+00:00",
       "NumProgressed": 13520,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T04:05:24.6503585+00:00",
+      "NumProgressed": 13521,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7743,25 +7748,25 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.3,
-      "XP": 30,
-      "UsersEstimate": 41
-    },
-    {
-      "ID": "26",
-      "SetID": "458bbdk",
-      "Name": "Call it Even",
       "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 54
     },
     {
+      "ID": "26",
+      "SetID": "458bbdk",
+      "Name": "Call it Even",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 68
+    },
+    {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "28",
@@ -7815,9 +7820,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "7",
@@ -7848,7 +7853,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13520,
+      "Progressed": 13521,
       "Completed": 3
     }
   ],
@@ -7856,8 +7861,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:05:53.0202716+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:05:24.6503579+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:00:22.3090321+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:05:53.0203374+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:59:29.8135279+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:05:24.6504278+00:00"
 }

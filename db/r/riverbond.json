@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528549,
+  "EOS_Progressed": 528550,
   "EOS_Completed": 480,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 1,
@@ -18299,6 +18299,11 @@
       "Time": "2023-10-04T03:04:08.2747956+00:00",
       "NumProgressed": 528549,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-04T04:03:56.4829794+00:00",
+      "NumProgressed": 528550,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 57,
@@ -18318,7 +18323,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237847
+      "UsersEstimate": 237848
     },
     {
       "ID": "11",
@@ -18326,7 +18331,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369984
+      "UsersEstimate": 369985
     },
     {
       "ID": "12",
@@ -18342,7 +18347,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68711
+      "UsersEstimate": 68712
     },
     {
       "ID": "14",
@@ -18366,7 +18371,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47569
+      "UsersEstimate": 47570
     },
     {
       "ID": "17",
@@ -18390,7 +18395,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327700
+      "UsersEstimate": 327701
     },
     {
       "ID": "2",
@@ -18422,7 +18427,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47569
+      "UsersEstimate": 47570
     },
     {
       "ID": "23",
@@ -18518,7 +18523,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26427
+      "UsersEstimate": 26428
     },
     {
       "ID": "34",
@@ -18534,7 +18539,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264274
+      "UsersEstimate": 264275
     },
     {
       "ID": "36",
@@ -18582,7 +18587,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26427
+      "UsersEstimate": 26428
     },
     {
       "ID": "41",
@@ -18598,7 +18603,7 @@
       "Name": "Written in the Stars",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "43",
@@ -18606,7 +18611,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89853
+      "UsersEstimate": 89854
     },
     {
       "ID": "44",
@@ -18638,7 +18643,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327700
+      "UsersEstimate": 327701
     },
     {
       "ID": "48",
@@ -18702,7 +18707,7 @@
       "Name": "Don\u0027t Care",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "55",
@@ -18710,7 +18715,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26427
+      "UsersEstimate": 26428
     },
     {
       "ID": "56",
@@ -18742,7 +18747,7 @@
       "Name": "Don\u2019t Get Crabby",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "8",
@@ -18765,15 +18770,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528549,
+      "Progressed": 528550,
       "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:04:08.274795+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:03:56.4829787+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:00:09.4933238+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:04:08.2749512+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:59:19.6102867+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:03:56.4831359+00:00"
 }

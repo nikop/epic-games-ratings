@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,439 |
-| Just The Two of Us | 32.00% | ~29,590 |
-| Up On High | 25.00% | ~23,117 |
-| Under The Hood | 25.00% | ~23,117 |
-| Got Your Nose | 24.00% | ~22,192 |
-| The Gift of Gab | 24.00% | ~22,192 |
-| Wrapping Up | 22.00% | ~20,343 |
-| More Than A Box Of Sand | 18.00% | ~16,644 |
-| The Dunboyne | 17.00% | ~15,720 |
-| Badge Hobbyist | 17.00% | ~15,720 |
-| Chum Novice | 16.00% | ~14,795 |
-| Silver-Tongued Sable | 16.00% | ~14,795 |
-| Sticky Paws | 16.00% | ~14,795 |
-| Bubble Up | 16.00% | ~14,795 |
-| Thread The Needle | 15.00% | ~13,870 |
-| Power to the People | 14.00% | ~12,946 |
-| Take That! | 13.00% | ~12,021 |
-| Nesting Giant | 13.00% | ~12,021 |
-| Treasure Tracker | 13.00% | ~12,021 |
-| Big Spender | 13.00% | ~12,021 |
-| Badge Collector | 12.00% | ~11,096 |
-| Quite The Catch | 12.00% | ~11,096 |
-| Rowleys Way | 11.00% | ~10,171 |
-| The Machinist Mask | 10.00% | ~9,247 |
-| The Cartographer Mask | 10.00% | ~9,247 |
-| Balfron Connection | 10.00% | ~9,247 |
-| Ceiling Of Stars | 10.00% | ~9,247 |
-| Playing Dress Up | 10.00% | ~9,247 |
-| Many Different Faces | 9.00% | ~8,322 |
-| Trellick's Pillar | 9.00% | ~8,322 |
-| Centre Of Brunswick | 9.00% | ~8,322 |
-| Bike Collector | 9.00% | ~8,322 |
-| Not That Kind Of Gliding | 9.00% | ~8,322 |
-| The Scrapper Mask | 8.00% | ~7,397 |
-| Shadow Of Neave | 8.00% | ~7,397 |
-| Fragile Goods | 8.00% | ~7,397 |
-| Glider on the Storm | 8.00% | ~7,397 |
-| Squeeze One Out | 8.00% | ~7,397 |
-| Dune Rider | 8.00% | ~7,397 |
+| Simoon | 34.00% | ~31,442 |
+| Just The Two of Us | 32.00% | ~29,592 |
+| Up On High | 25.00% | ~23,119 |
+| Under The Hood | 25.00% | ~23,119 |
+| Got Your Nose | 24.00% | ~22,194 |
+| The Gift of Gab | 24.00% | ~22,194 |
+| Wrapping Up | 22.00% | ~20,344 |
+| More Than A Box Of Sand | 18.00% | ~16,646 |
+| The Dunboyne | 17.00% | ~15,721 |
+| Badge Hobbyist | 17.00% | ~15,721 |
+| Chum Novice | 16.00% | ~14,796 |
+| Silver-Tongued Sable | 16.00% | ~14,796 |
+| Sticky Paws | 16.00% | ~14,796 |
+| Bubble Up | 16.00% | ~14,796 |
+| Thread The Needle | 15.00% | ~13,871 |
+| Power to the People | 14.00% | ~12,947 |
+| Take That! | 13.00% | ~12,022 |
+| Nesting Giant | 13.00% | ~12,022 |
+| Treasure Tracker | 13.00% | ~12,022 |
+| Big Spender | 13.00% | ~12,022 |
+| Badge Collector | 12.00% | ~11,097 |
+| Quite The Catch | 12.00% | ~11,097 |
+| Rowleys Way | 11.00% | ~10,172 |
+| The Machinist Mask | 10.00% | ~9,248 |
+| The Cartographer Mask | 10.00% | ~9,248 |
+| Balfron Connection | 10.00% | ~9,248 |
+| Ceiling Of Stars | 10.00% | ~9,248 |
+| Playing Dress Up | 10.00% | ~9,248 |
+| Many Different Faces | 9.00% | ~8,323 |
+| Trellick's Pillar | 9.00% | ~8,323 |
+| Centre Of Brunswick | 9.00% | ~8,323 |
+| Bike Collector | 9.00% | ~8,323 |
+| Not That Kind Of Gliding | 9.00% | ~8,323 |
+| The Scrapper Mask | 8.00% | ~7,398 |
+| Shadow Of Neave | 8.00% | ~7,398 |
+| Fragile Goods | 8.00% | ~7,398 |
+| Glider on the Storm | 8.00% | ~7,398 |
+| Squeeze One Out | 8.00% | ~7,398 |
+| Dune Rider | 8.00% | ~7,398 |
 | Amateur Historian | 7.00% | ~6,473 |
 | The Beetle Mask | 7.00% | ~6,473 |
 | The Guard Mask | 7.00% | ~6,473 |
@@ -54,16 +54,16 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,548 |
 | Honorary Chum | 6.00% | ~5,548 |
 | Bikes Don't Fly | 6.00% | ~5,548 |
-| The Gliding | 5.00% | ~4,623 |
-| The Entertainer Mask | 5.00% | ~4,623 |
+| The Gliding | 5.00% | ~4,624 |
+| The Entertainer Mask | 5.00% | ~4,624 |
 | The Quick and the Curious | 4.00% | ~3,699 |
 | Bike Aficionado | 4.00% | ~3,699 |
 | Chum Expert | 3.00% | ~2,774 |
 | Gastric Bypass | 3.00% | ~2,774 |
 | The Angler Mask | 3.00% | ~2,774 |
-| Vivacious Vivarium | 2.00% | ~1,849 |
+| Vivacious Vivarium | 2.00% | ~1,850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,468 (Ranked 79)  
+Progressed: 92,475 (Ranked 79)  
 Completed: 931 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 931 (1.01%) (Ranked 136)
 | 2023-10-01 | 92,199 | 929 |
 | 2023-10-02 | 92,315 | 931 |
 | 2023-10-03 | 92,454 | 931 |
-| 2023-10-04 | 92,468 | 931 |
+| 2023-10-04 | 92,475 | 931 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 496)  
 Sum: 88 (Ranked 431)  

@@ -13,12 +13,12 @@ Rating: 4.76 (Ranked 118)
 | The Defender of Dragons | 11.00% | ~32,756 |
 | Loom for Improvement | 11.00% | ~32,756 |
 | A Talent for Spending | 11.00% | ~32,756 |
-| Grappling with a Graphorn | 10.00% | ~29,778 |
-| The One Who Mastered Memories | 10.00% | ~29,778 |
-| The Hallowed Hero | 10.00% | ~29,778 |
-| The Hero of Hogwarts | 10.00% | ~29,778 |
-| Challenge Accepted | 10.00% | ~29,778 |
-| Coasting Along | 10.00% | ~29,778 |
+| Grappling with a Graphorn | 10.00% | ~29,779 |
+| The One Who Mastered Memories | 10.00% | ~29,779 |
+| The Hallowed Hero | 10.00% | ~29,779 |
+| The Hero of Hogwarts | 10.00% | ~29,779 |
+| Challenge Accepted | 10.00% | ~29,779 |
+| Coasting Along | 10.00% | ~29,779 |
 | Followed the Butterflies | 9.00% | ~26,801 |
 | Rising From the Ashes | 9.00% | ~26,801 |
 | The Avenging Gazelle | 8.00% | ~23,823 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,784 (Ranked 46)  
+Progressed: 297,786 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 480 (0.16%) (Ranked 226)
 | 2023-10-01 | 297,684 | 479 |
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
-| 2023-10-04 | 297,784 | 480 |
+| 2023-10-04 | 297,786 | 480 |
 ## Awards
 Max (Character Customization): 23,249  (Ranked 17)  
 Sum: 44,972 (Ranked 31)  

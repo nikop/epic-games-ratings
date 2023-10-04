@@ -28,6 +28,7 @@
 | Distinguished | 8.00% | ~33 |
 | A tremor in the Force | 8.00% | ~33 |
 | Support the troops | 7.00% | ~29 |
+| On the ball | 6.00% | ~25 |
 | Not bad for a little furball | 6.00% | ~25 |
 | Patience you must have | 6.00% | ~25 |
 | Don't underestimate the Force | 6.00% | ~25 |
@@ -35,7 +36,6 @@
 | When 900 years old you reach... | 5.00% | ~21 |
 | Determined | 5.00% | ~21 |
 | Your journey has only started | 5.00% | ~21 |
-| On the ball | 5.00% | ~21 |
 | That's no moon | 5.00% | ~21 |
 | The Force is strong with this one | 4.00% | ~17 |
 | Precision shot | 4.00% | ~17 |

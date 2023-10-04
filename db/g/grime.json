@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -988,9 +988,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 149958,
+  "EOS_Progressed": 149968,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10383,6 +10383,11 @@
       "Time": "2023-10-04T03:04:07.6107721+00:00",
       "NumProgressed": 149958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T04:03:55.7434798+00:00",
+      "NumProgressed": 149968,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10608,9 +10613,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -10761,21 +10766,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149541,
+      "Progressed": 149551,
       "Completed": 1138
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 149958,
+      "Progressed": 149968,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-03T19:59:30.9918065+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:04:07.6107712+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:03:55.7434793+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:59:40.4651331+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:04:07.6108645+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:58:53.8342237+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:03:55.7435789+00:00"
 }

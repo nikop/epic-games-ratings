@@ -55,8 +55,8 @@
 | Duck Knight | 4.00% | ~7 |
 | Octopy Mayhem | 4.00% | ~7 |
 | Got'em Totem | 4.00% | ~7 |
+| Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
-| Destroy Everything | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 342)  
 Completed: 1 (0.53%) (Ranked 166)  

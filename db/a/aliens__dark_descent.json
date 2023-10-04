@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5228,9 +5228,9 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5389,8 +5389,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-01T17:02:15.244996+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:03:40.8404747+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:03:33.3019606+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:28.6223813+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:03:21.0475279+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:03:40.8405394+00:00"
+  "LastUpdate_Ratings": "2023-10-04T04:03:15.6136324+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:03:33.3020275+00:00"
 }

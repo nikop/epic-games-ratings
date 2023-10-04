@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
 | The Olive Wreath | 0.10% | ~14 |
+| What's 'hubris' in Greek? | 0.10% | ~14 |
 | Three's a Crowd | 0.10% | ~14 |
 | Unfinished Business | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
@@ -303,7 +304,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Scratch | 0.00% | ~0 |
 | Those Were Mine | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
-| What's 'hubris' in Greek? | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |

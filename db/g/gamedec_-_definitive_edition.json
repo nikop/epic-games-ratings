@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -420,9 +420,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 247928,
+  "EOS_Progressed": 247930,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18980,6 +18980,11 @@
       "Time": "2023-10-04T03:08:22.464284+00:00",
       "NumProgressed": 247928,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-04T04:09:11.8537002+00:00",
+      "NumProgressed": 247930,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19031,7 +19036,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29751
+      "UsersEstimate": 29752
     },
     {
       "ID": "ACH_ENJOY",
@@ -19087,7 +19092,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -19406,7 +19411,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247928,
+      "Progressed": 247930,
       "Completed": 7
     }
   ],
@@ -19414,8 +19419,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-29T20:57:59.9030549+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:08:22.4642832+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:09:11.8536998+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:31.2204076+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:57:32.4850145+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:08:22.464438+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:57:08.4552111+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:09:11.8538663+00:00"
 }

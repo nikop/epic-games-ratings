@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -136,9 +136,9 @@
       "ID": "jungle",
       "SetID": "40o2ndb",
       "Name": "Jungle Fever",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "laboratory",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:06:36.2354406+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:06:00.9327689+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:00:11.5738014+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:06:36.2354568+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:59:21.36644+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:06:00.9327873+00:00"
 }

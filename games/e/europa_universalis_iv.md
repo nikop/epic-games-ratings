@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,870 |
-| Until death do us apart | 4.00% | ~16,870 |
-| That is mine! | 3.00% | ~12,652 |
-| Victorious! | 3.00% | ~12,652 |
+| That's a Grand Army | 4.00% | ~16,871 |
+| Until death do us apart | 4.00% | ~16,871 |
+| That is mine! | 3.00% | ~12,653 |
+| Victorious! | 3.00% | ~12,653 |
 | Brothers in Arms | 2.00% | ~8,435 |
 | For the Glory | 2.00% | ~8,435 |
 | That's a Grand Navy | 2.00% | ~8,435 |
 | Seriously?! | 2.00% | ~8,435 |
-| Cold War | 1.00% | ~4,217 |
-| Defender of the Faith | 1.00% | ~4,217 |
-| It's all about the money | 1.00% | ~4,217 |
-| The Princess is in this Castle | 1.00% | ~4,217 |
-| True Catholic | 1.00% | ~4,217 |
+| Cold War | 1.00% | ~4,218 |
+| Defender of the Faith | 1.00% | ~4,218 |
+| It's all about the money | 1.00% | ~4,218 |
+| The Princess is in this Castle | 1.00% | ~4,218 |
+| True Catholic | 1.00% | ~4,218 |
 | It's all about luck | 0.90% | ~3,796 |
 | Respected | 0.90% | ~3,796 |
 | Truly Divine Ruler | 0.90% | ~3,796 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,374 |
 | Total Control | 0.80% | ~3,374 |
 | Royal Authority | 0.70% | ~2,952 |
-| My armies are invincible! | 0.60% | ~2,530 |
+| My armies are invincible! | 0.60% | ~2,531 |
 | Agressive Expander | 0.50% | ~2,109 |
 | City of Cities | 0.50% | ~2,109 |
 | Combined Arms | 0.50% | ~2,109 |
@@ -45,21 +45,21 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,265 |
 | Populists in Government | 0.30% | ~1,265 |
 | Trustworthy | 0.30% | ~1,265 |
-| All belongs to Mother Russia | 0.20% | ~843 |
-| At every continent | 0.20% | ~843 |
-| Early-Modern Warfare | 0.20% | ~843 |
-| Electable! | 0.20% | ~843 |
-| Grand Coalition | 0.20% | ~843 |
-| In the Name of the Father | 0.20% | ~843 |
-| Just a Little Patience | 0.20% | ~843 |
-| One Family to Rule them All | 0.20% | ~843 |
-| Ruina Imperii | 0.20% | ~843 |
-| The pen is mightier than the sword | 0.20% | ~843 |
-| This is My Faith | 0.20% | ~843 |
-| Time Bandit | 0.20% | ~843 |
-| Traditional Player | 0.20% | ~843 |
-| Trophy Hunter | 0.20% | ~843 |
-| Voting Streak | 0.20% | ~843 |
+| All belongs to Mother Russia | 0.20% | ~844 |
+| At every continent | 0.20% | ~844 |
+| Early-Modern Warfare | 0.20% | ~844 |
+| Electable! | 0.20% | ~844 |
+| Grand Coalition | 0.20% | ~844 |
+| In the Name of the Father | 0.20% | ~844 |
+| Just a Little Patience | 0.20% | ~844 |
+| One Family to Rule them All | 0.20% | ~844 |
+| Ruina Imperii | 0.20% | ~844 |
+| The pen is mightier than the sword | 0.20% | ~844 |
+| This is My Faith | 0.20% | ~844 |
+| Time Bandit | 0.20% | ~844 |
+| Traditional Player | 0.20% | ~844 |
+| Trophy Hunter | 0.20% | ~844 |
+| Voting Streak | 0.20% | ~844 |
 | The 52 Garhs | 0.10% | ~422 |
 | I don't like sand | 0.10% | ~422 |
 | A Blessed Nation | 0.10% | ~422 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,747 (Ranked 41)  
+Progressed: 421,765 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,10 +528,10 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 421,747 | 1 |
+| 2023-10-04 | 421,765 | 1 |
 ## Awards
 Max (Educational): 6,381  (Ranked 57)  
-Sum: 52,437 (Ranked 24)  
+Sum: 52,446 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -542,7 +542,7 @@ Diff (max vs sum): 33
 | This game is Extremely Fun | 6,018 |
 | This game is Relaxing | 5,904 |
 | This game has Competitive Players | 5,697 |
-| This game has Amazing Storytelling | 5,327 |
+| This game has Amazing Storytelling | 5,336 |
 | This game has Amazing Characters | 4,945 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -808,3 +808,4 @@ Diff (max vs sum): 33
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
 | 2023-10-02 | 4.69 | - | 6,368 | 52,314 |
 | 2023-10-03 | 4.69 | - | 6,381 | 52,437 |
+| 2023-10-04 | 4.69 | - | 6,381 | 52,446 |

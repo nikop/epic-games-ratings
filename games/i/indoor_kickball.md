@@ -9,8 +9,8 @@
 | Character Unlocked | 76.00% | ~72 |
 | Homer | 75.00% | ~71 |
 | Butter Fingers | 75.00% | ~71 |
+| Have a good trip! | 72.00% | ~68 |
 | Settle Down | 71.00% | ~67 |
-| Have a good trip! | 71.00% | ~67 |
 | Kickball Unlocked | 69.00% | ~66 |
 | Stay Hydrated | 64.00% | ~61 |
 | First Win | 63.00% | ~60 |

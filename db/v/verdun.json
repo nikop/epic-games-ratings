@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59910,
+  "EOS_Progressed": 59911,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20003,6 +20003,11 @@
       "Time": "2023-10-04T03:08:10.7147792+00:00",
       "NumProgressed": 59910,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T04:07:02.4897532+00:00",
+      "NumProgressed": 59911,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20014,7 +20019,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 32950
+      "UsersEstimate": 32951
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -20134,7 +20139,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14378
+      "UsersEstimate": 14379
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -20270,7 +20275,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -20302,7 +20307,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37743
+      "UsersEstimate": 37744
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -20326,7 +20331,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14378
+      "UsersEstimate": 14379
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -20382,7 +20387,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46730
+      "UsersEstimate": 46731
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -20485,15 +20490,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59910,
+      "Progressed": 59911,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:08:10.7147787+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:07:02.4897527+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-04T02:57:23.5237099+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:08:10.7151004+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:57:01.2080558+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:07:02.4899226+00:00"
 }

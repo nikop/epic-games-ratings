@@ -9,7 +9,7 @@
 | Budding Conjuror | 76.00% | ~72 |
 | Commencing of Quests | 74.00% | ~70 |
 | Charmed by the Hunt | 68.00% | ~65 |
-| Man-Machine Master | 66.00% | ~63 |
+| Man-Machine Master | 67.00% | ~64 |
 | Mountain Splitter | 66.00% | ~63 |
 | Memory Rouser | 64.00% | ~61 |
 | Fusion Conjuror | 63.00% | ~60 |

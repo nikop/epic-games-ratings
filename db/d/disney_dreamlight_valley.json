@@ -3960,9 +3960,9 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 10525,
+  "EOS_Progressed": 10526,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -14850,6 +14850,11 @@
       "Time": "2023-10-03T23:06:14.963538+00:00",
       "NumProgressed": 10525,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2023-10-04T04:05:31.9511609+00:00",
+      "NumProgressed": 10526,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 15,
@@ -14933,7 +14938,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7367
+      "UsersEstimate": 7368
     },
     {
       "ID": "Miner",
@@ -14949,7 +14954,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7262
+      "UsersEstimate": 7263
     },
     {
       "ID": "Renovator",
@@ -14980,7 +14985,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10525,
+      "Progressed": 10526,
       "Completed": 248
     }
   ],
@@ -14988,8 +14993,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-03T17:02:27.4783706+00:00",
-  "LastChanged_Achievements": "2023-10-04T03:06:01.6654998+00:00",
+  "LastChanged_Achievements": "2023-10-04T04:05:31.9511605+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-04T03:00:58.2182719+00:00",
-  "LastUpdate_Achievements": "2023-10-04T03:06:01.665575+00:00"
+  "LastUpdate_Ratings": "2023-10-04T03:59:57.1008368+00:00",
+  "LastUpdate_Achievements": "2023-10-04T04:05:31.9512383+00:00"
 }

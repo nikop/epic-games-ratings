@@ -7,12 +7,12 @@
 | Mechanical Buddy | 95.00% | ~36 |
 | Meissa's Savior | 95.00% | ~36 |
 | Purification Pioneer | 95.00% | ~36 |
-| Dicesmithing Time! | 87.00% | ~33 |
+| Dicesmithing Time! | 89.00% | ~34 |
 | Sanctuary Guardian | 82.00% | ~31 |
 | Wild's Keeper | 82.00% | ~31 |
-| Endless Tricks | 76.00% | ~29 |
+| Endless Tricks | 79.00% | ~30 |
 | Mind Illuminator | 66.00% | ~25 |
-| Stellar Dismantler | 53.00% | ~20 |
+| Stellar Dismantler | 55.00% | ~21 |
 | Astral Adventurer | 45.00% | ~17 |
 | Anomaly Destroyer | 39.00% | ~15 |
 | Star Killer | 39.00% | ~15 |
