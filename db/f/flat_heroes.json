@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,9 +1030,9 @@
       "ID": "HeroWorld4Boss",
       "SetID": "d9ekhim",
       "Name": "Hit That Ball - Hero Edition",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HeroWorld5Boss",
@@ -1311,8 +1311,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:02:10.4736121+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:46:22.8844187+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:15.7388506+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:02:10.4736962+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:43:28.1990578+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:46:22.8844641+00:00"
 }

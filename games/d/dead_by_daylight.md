@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~918 |
 | Adept Ripley | 0.10% | ~918 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917,616 (Ranked 14)  
+Progressed: 917,712 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,10 +403,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 917,616 | 49 |
+| 2023-10-04 | 917,712 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
-Sum: 259,094 (Ranked 13)  
+Sum: 259,115 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -416,7 +416,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,267 |
 | This game is Extremely Fun | 28,931 |
 | This game has Challenging Combat | 28,504 |
-| This game has Quickly Understood Controls | 28,452 |
+| This game has Quickly Understood Controls | 28,473 |
 | This game has Amazing Storytelling | 26,561 |
 | This game has a Competitive Community | 25,044 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -677,3 +677,4 @@ Diff (max vs sum): 2
 | 2023-10-01 | 4.52 | - | 33,343 | 258,607 |
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
+| 2023-10-04 | 4.52 | - | 33,414 | 259,115 |

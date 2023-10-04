@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-10-01T13:11:25.7948103+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T01:47:53.3188701+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -480,7 +485,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -488,7 +493,7 @@
       "ID": "ACH_DEFEAT_BOSS_INGLA",
       "SetID": "7i20me3",
       "Name": "Defeat Ingla",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -520,7 +525,7 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 79
     },
@@ -688,7 +693,7 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -712,7 +717,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -736,7 +741,7 @@
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
       "SetID": "7i20me3",
       "Name": "But what of the Acreans?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -752,7 +757,7 @@
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
       "SetID": "7i20me3",
       "Name": "Unveiling the Truth",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -760,7 +765,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 34
     },
@@ -784,7 +789,7 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -792,7 +797,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -809,22 +814,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 86,
-      "Completed": 86
+      "Progressed": 87,
+      "Completed": 87
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:03:31.2069761+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:47:53.3188687+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:13.2497483+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:58:34.9272734+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:03:31.2070085+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:42:47.1776217+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:47:53.3189101+00:00"
 }

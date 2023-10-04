@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 316,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24113,
+  "EOS_Progressed": 24114,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5134,6 +5134,11 @@
       "Time": "2023-10-03T23:06:07.2482341+00:00",
       "NumProgressed": 24113,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-04T01:49:04.5773572+00:00",
+      "NumProgressed": 24114,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 44,
@@ -5199,9 +5204,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -5496,13 +5501,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24113,
+      "Progressed": 24114,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1406,
+      "Progressed": 1407,
       "Completed": 1373
     }
   ],
@@ -5510,8 +5515,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:04:52.7106559+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:49:04.5773565+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:07.5644851+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:04:52.7107063+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:43:20.4570207+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:49:04.5774297+00:00"
 }

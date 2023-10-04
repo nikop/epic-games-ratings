@@ -2,12 +2,12 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.76,
+  "Rating": 3.77,
   "RatingHistory": [
     {
       "Time": "2023-01-26T03:57:13.5091099+00:00",
@@ -236,13 +236,19 @@
       "Rating": 3.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-04T01:42:23.3161506+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16743,
+  "EOS_Progressed": 16744,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
@@ -5357,6 +5363,11 @@
       "Time": "2023-10-03T22:05:38.5515232+00:00",
       "NumProgressed": 16743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T01:48:41.743182+00:00",
+      "NumProgressed": 16744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5368,7 +5379,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15906
+      "UsersEstimate": 15907
     },
     {
       "ID": "ACH001",
@@ -5376,7 +5387,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14399
+      "UsersEstimate": 14400
     },
     {
       "ID": "ACH0010",
@@ -5448,7 +5459,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "ACH0019",
@@ -5464,7 +5475,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12055
+      "UsersEstimate": 12056
     },
     {
       "ID": "ACH0020",
@@ -5496,7 +5507,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACH0024",
@@ -5528,7 +5539,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14567
     },
     {
       "ID": "ACH005",
@@ -5544,7 +5555,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "ACH007",
@@ -5575,16 +5586,16 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16743,
+      "Progressed": 16744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
-  "LastChanged": "2023-10-02T01:40:27.0512474+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:04:30.4192554+00:00",
+  "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:48:41.7431814+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:58:12.8210867+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:04:30.4192943+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:42:23.3161512+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:48:41.7432339+00:00"
 }

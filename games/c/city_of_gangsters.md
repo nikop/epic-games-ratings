@@ -5,42 +5,42 @@ Rating: 4.27 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,245 |
-| Copacetic Coordination | 16.00% | ~55,389 |
-| Fronting the Money | 15.00% | ~51,928 |
-| The Dawn of Automation | 14.00% | ~48,466 |
-| Extraordinary Logistics | 14.00% | ~48,466 |
-| Dirty Money | 13.00% | ~45,004 |
-| Family First | 13.00% | ~45,004 |
-| Cleaning House | 12.00% | ~41,542 |
-| Room in the Back | 12.00% | ~41,542 |
-| Beating the Heat | 11.00% | ~38,080 |
-| Booze Baron | 11.00% | ~38,080 |
-| Friends on the Force | 10.00% | ~34,618 |
-| Neighborhood Watch | 10.00% | ~34,618 |
+| Corner Clout | 46.00% | ~159,249 |
+| Copacetic Coordination | 16.00% | ~55,391 |
+| Fronting the Money | 15.00% | ~51,929 |
+| The Dawn of Automation | 14.00% | ~48,467 |
+| Extraordinary Logistics | 14.00% | ~48,467 |
+| Dirty Money | 13.00% | ~45,005 |
+| Family First | 13.00% | ~45,005 |
+| Cleaning House | 12.00% | ~41,543 |
+| Room in the Back | 12.00% | ~41,543 |
+| Beating the Heat | 11.00% | ~38,081 |
+| Booze Baron | 11.00% | ~38,081 |
+| Friends on the Force | 10.00% | ~34,619 |
+| Neighborhood Watch | 10.00% | ~34,619 |
 | Core Corps | 8.00% | ~27,695 |
 | Sizeable Stash | 8.00% | ~27,695 |
-| Street Fighter | 7.00% | ~24,233 |
-| Friendly Gestures | 7.00% | ~24,233 |
-| People Person | 7.00% | ~24,233 |
-| Liquor Lord | 6.00% | ~20,771 |
-| Safety in Numbers | 6.00% | ~20,771 |
-| Moving Experiences | 6.00% | ~20,771 |
-| Wise Head | 6.00% | ~20,771 |
-| Show ‘em the Sugar | 6.00% | ~20,771 |
-| Killing Them Softly | 6.00% | ~20,771 |
-| Street Knowledge | 5.00% | ~17,309 |
-| Oh Captain | 5.00% | ~17,309 |
-| Branching Out | 5.00% | ~17,309 |
-| Improvement Missions | 5.00% | ~17,309 |
-| Opportunity Knocked | 5.00% | ~17,309 |
-| City of Big Shoulders | 5.00% | ~17,309 |
-| Mission Mastery | 5.00% | ~17,309 |
-| Considerable Clams | 4.00% | ~13,847 |
-| Gin Joint | 4.00% | ~13,847 |
-| An Affront to the Enemy | 4.00% | ~13,847 |
-| Friends from Back Home | 4.00% | ~13,847 |
-| Half Century Mark | 4.00% | ~13,847 |
+| Street Fighter | 7.00% | ~24,234 |
+| Friendly Gestures | 7.00% | ~24,234 |
+| People Person | 7.00% | ~24,234 |
+| Liquor Lord | 6.00% | ~20,772 |
+| Safety in Numbers | 6.00% | ~20,772 |
+| Moving Experiences | 6.00% | ~20,772 |
+| Wise Head | 6.00% | ~20,772 |
+| Show ‘em the Sugar | 6.00% | ~20,772 |
+| Killing Them Softly | 6.00% | ~20,772 |
+| Street Knowledge | 5.00% | ~17,310 |
+| Oh Captain | 5.00% | ~17,310 |
+| Branching Out | 5.00% | ~17,310 |
+| Improvement Missions | 5.00% | ~17,310 |
+| Opportunity Knocked | 5.00% | ~17,310 |
+| City of Big Shoulders | 5.00% | ~17,310 |
+| Mission Mastery | 5.00% | ~17,310 |
+| Considerable Clams | 4.00% | ~13,848 |
+| Gin Joint | 4.00% | ~13,848 |
+| An Affront to the Enemy | 4.00% | ~13,848 |
+| Friends from Back Home | 4.00% | ~13,848 |
+| Half Century Mark | 4.00% | ~13,848 |
 | Corner Opportunities | 3.00% | ~10,386 |
 | 2122 North Clark Street | 3.00% | ~10,386 |
 | Copious Cabbage | 3.00% | ~10,386 |
@@ -61,9 +61,9 @@ Rating: 4.27 (Ranked 830)
 | Cat’s Meow Clubs | 1.00% | ~3,462 |
 | Determined Deliveries | 0.90% | ~3,116 |
 | Stepping It Up | 0.90% | ~3,116 |
-| Boots in the Ground | 0.80% | ~2,769 |
-| Getting Fancy | 0.80% | ~2,769 |
-| Crossing Over | 0.80% | ~2,769 |
+| Boots in the Ground | 0.80% | ~2,770 |
+| Getting Fancy | 0.80% | ~2,770 |
+| Crossing Over | 0.80% | ~2,770 |
 | Social Butterfly | 0.50% | ~1,731 |
 | Homemade Hooch | 0.40% | ~1,385 |
 | Still Dreaming | 0.40% | ~1,385 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 830)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,184 (Ranked 43)  
+Progressed: 346,193 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-01 | 345,880 | 7 |
 | 2023-10-02 | 346,026 | 7 |
 | 2023-10-03 | 346,178 | 7 |
-| 2023-10-04 | 346,184 | 7 |
+| 2023-10-04 | 346,193 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
 Sum: 199 (Ranked 380)  

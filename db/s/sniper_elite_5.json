@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3694,
+  "EOS_Progressed": 3695,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7040,6 +7040,11 @@
       "Time": "2023-10-03T16:06:51.7077771+00:00",
       "NumProgressed": 3694,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-04T01:50:30.1322453+00:00",
+      "NumProgressed": 3695,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7131,7 +7136,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7209,9 +7214,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 333
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7243,7 +7248,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7275,7 +7280,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7419,7 +7424,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7443,7 +7448,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7618,13 +7623,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3694,
+      "Progressed": 3695,
       "Completed": 11
     }
   ],
@@ -7632,8 +7637,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:06:19.4351664+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:50:30.1322446+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:58:32.9330488+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:06:19.4352538+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:42:44.8939249+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:50:30.132358+00:00"
 }

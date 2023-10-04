@@ -10,7 +10,7 @@
 | Recruit | 73.00% | ~396 |
 | Search and Rescue | 72.00% | ~391 |
 | Quarian Ally | 70.00% | ~380 |
-| Medal of Heroism | 66.00% | ~358 |
+| Medal of Heroism | 67.00% | ~364 |
 | Honorarium of Corporate Service | 66.00% | ~358 |
 | Medal of Exploration II | 60.00% | ~326 |
 | Council Legion of Merit | 58.00% | ~315 |
@@ -30,11 +30,11 @@
 | Merciless | 45.00% | ~244 |
 | Scientist | 45.00% | ~244 |
 | Head Hunter | 42.00% | ~228 |
+| Missing in Action | 41.00% | ~223 |
 | Very Elusive | 41.00% | ~223 |
 | Operative | 41.00% | ~223 |
 | Scholar | 41.00% | ~223 |
 | Veteran | 40.00% | ~217 |
-| Missing in Action | 40.00% | ~217 |
 | Power Full | 38.00% | ~206 |
 | The Professor | 37.00% | ~201 |
 | Completionist | 36.00% | ~195 |

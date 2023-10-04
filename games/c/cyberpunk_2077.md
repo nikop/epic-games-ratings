@@ -8,10 +8,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 4.00% | ~35,538 |
 | Rough Landing | 4.00% | ~35,538 |
-| Gunslinger | 3.00% | ~26,653 |
-| Master Crafter | 3.00% | ~26,653 |
-| The High Priestess | 3.00% | ~26,653 |
-| The Jungle | 3.00% | ~26,653 |
+| Gunslinger | 3.00% | ~26,654 |
+| Master Crafter | 3.00% | ~26,654 |
+| The High Priestess | 3.00% | ~26,654 |
+| The Jungle | 3.00% | ~26,654 |
+| Two Heads, One Bullet | 3.00% | ~26,654 |
 | Full Body Conversion | 2.00% | ~17,769 |
 | Right Back At Ya | 2.00% | ~17,769 |
 | Mean Streets | 2.00% | ~17,769 |
@@ -23,18 +24,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 2.00% | ~17,769 |
 | True Soldier | 2.00% | ~17,769 |
 | True Warrior | 2.00% | ~17,769 |
-| Two Heads, One Bullet | 2.00% | ~17,769 |
 | V for Vendetta | 2.00% | ~17,769 |
 | Legend of The Afterlife | 2.00% | ~17,769 |
-| To Bad Decisions! | 1.00% | ~8,884 |
-| Gun Fu | 1.00% | ~8,884 |
-| Christmas Tree Attack | 1.00% | ~8,884 |
-| The Quick and the Dead | 1.00% | ~8,884 |
-| The Devil | 1.00% | ~8,884 |
-| The Fool | 1.00% | ~8,884 |
-| The World | 1.00% | ~8,884 |
-| Judy vs Night City | 1.00% | ~8,884 |
-| It's Elementary | 1.00% | ~8,884 |
+| To Bad Decisions! | 1.00% | ~8,885 |
+| Gun Fu | 1.00% | ~8,885 |
+| Christmas Tree Attack | 1.00% | ~8,885 |
+| The Quick and the Dead | 1.00% | ~8,885 |
+| The Devil | 1.00% | ~8,885 |
+| The Fool | 1.00% | ~8,885 |
+| The World | 1.00% | ~8,885 |
+| Judy vs Night City | 1.00% | ~8,885 |
+| It's Elementary | 1.00% | ~8,885 |
 | Spin Doctor | 0.90% | ~154 |
 | City Lights | 0.80% | ~7,108 |
 | Life of the Road | 0.80% | ~7,108 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,438 (Ranked 15)  
-Completed: 2,569 (0.29%) (Ranked 203)  
+Progressed: 888,462 (Ranked 15)  
+Completed: 2,570 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,15 +231,15 @@ Completed: 2,569 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,438 | 2,569 |
+| 2023-10-04 | 888,462 | 2,570 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
-Sum: 260,310 (Ranked 12)  
+Sum: 261,184 (Ranked 12)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 90,464 |
-| This game has Great Boss Battles | 61,016 |
+| This game has Great Boss Battles | 61,890 |
 | This game has Diverse Characters | 13,022 |
 | This game is Great for Beginners | 12,990 |
 | This game is Highly Recommended | 12,720 |
@@ -510,3 +510,4 @@ Diff (max vs sum): -3
 | 2023-10-01 | 4.63 | - | 88,536 | 250,509 |
 | 2023-10-02 | 4.63 | - | 89,540 | 255,580 |
 | 2023-10-03 | 4.63 | - | 90,464 | 260,310 |
+| 2023-10-04 | 4.63 | - | 90,464 | 261,184 |

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2955,6 +2955,11 @@
       "Time": "2023-10-03T15:08:15.0331864+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T01:47:08.1336067+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2990,7 +2995,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Boy",
@@ -3054,7 +3059,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Experienced_strategist",
@@ -3158,7 +3163,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "Scout",
@@ -3205,15 +3210,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:02:15.928473+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:47:08.1336061+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:04.8175411+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:57:12.9970324+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:02:15.9285087+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:41:21.7948738+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:47:08.133664+00:00"
 }

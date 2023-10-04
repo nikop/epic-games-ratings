@@ -25,12 +25,12 @@
 | Path of the Hero | 1.00% | ~6 |
 | Snake Eyes - Hero Edition | 1.00% | ~6 |
 | The King of Flat - Hero Edition | 1.00% | ~6 |
+| Hit That Ball - Hero Edition | 1.00% | ~6 |
 | Eat That Apple - Hero Edition | 1.00% | ~6 |
 | Snakecharmer | 1.00% | ~6 |
 | Apprentice | 1.00% | ~6 |
 | Vertigo | 1.00% | ~6 |
 | Rogue | 1.00% | ~6 |
-| Hit That Ball - Hero Edition | 0.90% | ~5 |
 | Tornado Chaser - Hero Edition | 0.90% | ~5 |
 | Bomberman - Hero Edition | 0.90% | ~5 |
 | Oh, no | 0.90% | ~5 |

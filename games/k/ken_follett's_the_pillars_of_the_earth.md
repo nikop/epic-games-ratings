@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,210 |
 | Man of politics | 35.00% | ~5,434 |
-| Friends of sorts | 33.00% | ~5,123 |
-| Yet another secret | 33.00% | ~5,123 |
+| Friends of sorts | 33.00% | ~5,124 |
+| Yet another secret | 33.00% | ~5,124 |
 | Let there be darkness | 32.00% | ~4,968 |
 | End of Book One | 30.00% | ~4,658 |
 | Wannabe knight | 24.00% | ~3,726 |
@@ -17,9 +17,9 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,726 |
 | Help an old friend | 22.00% | ~3,416 |
 | Two of us | 20.00% | ~3,105 |
-| Negotiation skills | 18.00% | ~2,794 |
-| Workers' union | 18.00% | ~2,794 |
-| End of Book Two | 18.00% | ~2,794 |
+| Negotiation skills | 18.00% | ~2,795 |
+| Workers' union | 18.00% | ~2,795 |
+| End of Book Two | 18.00% | ~2,795 |
 | Everything's in order | 17.00% | ~2,639 |
 | Twist of Fate | 14.00% | ~2,174 |
 | Jack was here! | 14.00% | ~2,174 |
@@ -28,7 +28,7 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,708 |
 | Friar Tuck | 11.00% | ~1,708 |
 | First profit | 11.00% | ~1,708 |
-| Team player | 10.00% | ~1,552 |
+| Team player | 10.00% | ~1,553 |
 | Skilled merchant | 9.00% | ~1,397 |
 | Nothing but make-believe | 9.00% | ~1,397 |
 | Brother Marcus | 9.00% | ~1,397 |
@@ -46,9 +46,9 @@ Number of Ratings: 368  (23.09.2022)
 | Countess Aliena | 4.00% | ~621 |
 | Care, like a brother cares | 3.00% | ~466 |
 | A brush with death | 3.00% | ~466 |
-| Boy of mystery | 2.00% | ~310 |
+| Boy of mystery | 2.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,525 (Ranked 132)  
+Progressed: 15,526 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 112 (0.72%) (Ranked 150)
 | 2023-10-01 | 15,500 | 112 |
 | 2023-10-02 | 15,517 | 112 |
 | 2023-10-03 | 15,525 | 112 |
+| 2023-10-04 | 15,526 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 304)  
 Sum: 193 (Ranked 384)  

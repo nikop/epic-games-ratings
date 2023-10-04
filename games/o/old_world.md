@@ -14,6 +14,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
 | Architect | 0.20% | ~29 |
+| Enlightened | 0.20% | ~29 |
+| Fountainhead | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
 | Good | 0.20% | ~29 |
 | Just | 0.20% | ~29 |
@@ -26,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.20% | ~29 |
 | Warrior | 0.20% | ~29 |
 | Wise | 0.20% | ~29 |
+| Great Ziggurat | 0.20% | ~29 |
 | Hanging Gardens | 0.20% | ~29 |
 | Ishtar Gate | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
@@ -68,8 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.10% | ~14 |
 | Conqueror | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
-| Enlightened | 0.10% | ~14 |
-| Fountainhead | 0.10% | ~14 |
 | Great | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
@@ -114,6 +115,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
+| The Olive Wreath | 0.10% | ~14 |
+| Unfinished Business | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
 | Queen of Lies | 0.10% | ~14 |
@@ -126,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.10% | ~14 |
 | Circus Maximus | 0.10% | ~14 |
 | Colossus | 0.10% | ~14 |
-| Great Ziggurat | 0.10% | ~14 |
 | Hagia Sophia | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
@@ -137,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
+| Learn By Playing 2 - Just | 0.10% | ~14 |
 | Learn to Play 2 | 0.10% | ~14 |
 | Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
@@ -196,6 +199,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.10% | ~14 |
 | Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
+| Randomized Leaders | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Necropolis in Waset | 0.10% | ~14 |
 | Win a Hotseat Game | 0.10% | ~14 |
@@ -296,12 +300,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Shape of Things to Come | 0.00% | ~0 |
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| The Olive Wreath | 0.00% | ~0 |
 | Those Were Mine | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | What's 'hubris' in Greek? | 0.00% | ~0 |
 | Three's a Crowd | 0.00% | ~0 |
-| Unfinished Business | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Philip's Silver Crown | 0.00% | ~0 |
@@ -318,7 +320,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Macedonian Wars | 0.00% | ~0 |
@@ -335,7 +336,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | No Characters | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Randomized Leaders | 0.00% | ~0 |
 | Role-Playing | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,326 (Ranked 133)  
+Progressed: 14,327 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,6 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
+| 2023-10-04 | 14,327 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 717,
-  "EOS_Completed": 117,
+  "EOS_Completed": 118,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.32,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 16.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3013,6 +3013,11 @@
       "Time": "2023-10-03T09:06:46.3199374+00:00",
       "NumProgressed": 717,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-10-04T01:49:50.2115222+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 22,
@@ -3142,9 +3147,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_017",
@@ -3174,9 +3179,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_021",
@@ -3200,15 +3205,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 717,
-      "Completed": 117
+      "Completed": 118
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:05:38.9520735+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:49:50.2115209+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:48.0572436+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:58:06.3018524+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:05:38.9520995+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:42:16.234164+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:49:50.2115592+00:00"
 }

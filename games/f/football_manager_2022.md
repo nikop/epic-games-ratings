@@ -6,21 +6,21 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,039 |
-| He's Signed! | 50.00% | ~237,039 |
-| First Victory | 50.00% | ~237,039 |
-| He's Sold! | 48.00% | ~227,557 |
+| Clean Sheet | 50.00% | ~237,040 |
+| He's Signed! | 50.00% | ~237,040 |
+| First Victory | 50.00% | ~237,040 |
+| He's Sold! | 48.00% | ~227,558 |
 | I'm The Boss! | 42.00% | ~199,113 |
 | Hat-trick | 41.00% | ~194,372 |
 | Scoring Streak | 38.00% | ~180,150 |
 | Unbeatable! | 37.00% | ~175,409 |
 | Thumping | 37.00% | ~175,409 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,927 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,928 |
 | Total Support | 32.00% | ~151,705 |
 | Record Signing | 32.00% | ~151,705 |
 | He's a Natural | 31.00% | ~146,964 |
 | Millionaire's Club | 31.00% | ~146,964 |
-| Team Performance | 30.00% | ~142,223 |
+| Team Performance | 30.00% | ~142,224 |
 | Parked The Bus | 29.00% | ~137,483 |
 | Shrewd Spender | 29.00% | ~137,483 |
 | Star Man | 29.00% | ~137,483 |
@@ -28,8 +28,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're On Fire | 27.00% | ~128,001 |
 | Tremendous Trio | 27.00% | ~128,001 |
 | Record Sale | 27.00% | ~128,001 |
-| On A Roll | 26.00% | ~123,260 |
-| Unstoppable Force | 26.00% | ~123,260 |
+| On A Roll | 26.00% | ~123,261 |
+| Unstoppable Force | 26.00% | ~123,261 |
 | Armchair Expert | 25.00% | ~118,520 |
 | Fantastic Five | 24.00% | ~113,779 |
 | Full Faith | 24.00% | ~113,779 |
@@ -46,7 +46,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~90,075 |
 | Top Form | 17.00% | ~80,593 |
 | Cash To Burn | 17.00% | ~80,593 |
-| Overachiever! | 16.00% | ~75,852 |
+| Overachiever! | 16.00% | ~75,853 |
 | Beating Expectations | 15.00% | ~71,112 |
 | Rushed signing | 15.00% | ~71,112 |
 | Window Shopping | 15.00% | ~71,112 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,078 (Ranked 36)  
+Progressed: 474,079 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 22 (0.00%) (Ranked 306)
 | 2023-10-01 | 473,996 | 22 |
 | 2023-10-02 | 474,037 | 22 |
 | 2023-10-03 | 474,076 | 22 |
-| 2023-10-04 | 474,078 | 22 |
+| 2023-10-04 | 474,079 | 22 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
 Sum: 50,824 (Ranked 26)  

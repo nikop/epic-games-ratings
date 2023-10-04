@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13514,
+  "EOS_Progressed": 13518,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7582,6 +7582,11 @@
       "Time": "2023-10-04T00:04:50.7499571+00:00",
       "NumProgressed": 13514,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T01:49:02.603748+00:00",
+      "NumProgressed": 13518,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7648,9 +7653,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "17",
@@ -7672,9 +7677,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "2",
@@ -7696,9 +7701,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "22",
@@ -7833,7 +7838,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13514,
+      "Progressed": 13518,
       "Completed": 3
     }
   ],
@@ -7841,8 +7846,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:04:50.7499566+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:49:02.6037474+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:22.73439+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:04:50.7500101+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:43:34.7003187+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:49:02.6038165+00:00"
 }

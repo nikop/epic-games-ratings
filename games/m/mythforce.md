@@ -6,23 +6,23 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 22.00% | ~816 |
-| That'll Leave a Mark | 21.00% | ~779 |
-| Debuff Dogpile | 20.00% | ~742 |
-| Hit 'Em Where It Hurts | 20.00% | ~742 |
-| Perk Shard Punch Card | 20.00% | ~742 |
-| Mushroom Madness! | 19.00% | ~705 |
-| First Strike | 16.00% | ~593 |
-| Spending Spree | 16.00% | ~593 |
-| Horder Better Faster Stronger | 15.00% | ~556 |
-| Everything Must Go! | 13.00% | ~482 |
-| Ten Steps from the Grave | 13.00% | ~482 |
-| Next Time on MythForce... | 11.00% | ~408 |
+| Faceroll the Bones | 22.00% | ~817 |
+| That'll Leave a Mark | 21.00% | ~780 |
+| Debuff Dogpile | 20.00% | ~743 |
+| Hit 'Em Where It Hurts | 20.00% | ~743 |
+| Perk Shard Punch Card | 20.00% | ~743 |
+| Mushroom Madness! | 19.00% | ~706 |
+| First Strike | 16.00% | ~594 |
+| Spending Spree | 16.00% | ~594 |
+| Horder Better Faster Stronger | 15.00% | ~557 |
+| Everything Must Go! | 13.00% | ~483 |
+| Ten Steps from the Grave | 13.00% | ~483 |
+| Next Time on MythForce... | 11.00% | ~409 |
 | Cold-Blooded Critters | 9.00% | ~334 |
 | Death Becomes You | 8.00% | ~297 |
 | Flawless Victory | 6.00% | ~223 |
-| The Harder They Fall | 6.00% | ~223 |
-| On this Episode! | 5.00% | ~185 |
+| The Harder They Fall | 5.00% | ~186 |
+| On this Episode! | 5.00% | ~186 |
 | Deadication | 3.00% | ~111 |
 | Season Finale | 3.00% | ~111 |
 | We've Got a Kaiju on the Field | 2.00% | ~74 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~15 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,709 (Ranked 176)  
+Progressed: 3,714 (Ranked 176)  
 Completed: 2 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 2 (0.05%) (Ranked 264)
 | 2023-10-01 | 3,606 | 2 |
 | 2023-10-02 | 3,662 | 2 |
 | 2023-10-03 | 3,709 | 2 |
+| 2023-10-04 | 3,714 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 280 (Ranked 354)  

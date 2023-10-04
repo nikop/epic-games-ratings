@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 239,
@@ -516,7 +516,7 @@
   ],
   "EOS_Progressed": 3545,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5362,8 +5362,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:04:08.3018557+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:48:19.6999378+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:56.8301557+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:04:08.3019037+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:44:06.8857417+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:48:19.7000054+00:00"
 }

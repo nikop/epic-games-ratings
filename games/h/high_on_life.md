@@ -1,10 +1,11 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 315)  
+Rating: 4.64 (Ranked 316)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
 | First Bounty Down | 0.20% | ~48 |
 | Don't Knife The Hand That Feeds | 0.20% | ~48 |
@@ -15,7 +16,6 @@ Rating: 4.64 (Ranked 315)
 | Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | Creature Feature | 0.10% | ~24 |
 | Satisfied Gus-tomer | 0.10% | ~24 |
-| Are You Packin'? | 0.10% | ~24 |
 | Lezduit! | 0.10% | ~24 |
 | RIP Davey Glutes | 0.10% | ~24 |
 | Sweezy Like Sunday Morning | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 315)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 | See Salt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,113 (Ranked 117)  
+Progressed: 24,114 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-10-01 | 24,102 | 12 |
 | 2023-10-02 | 24,108 | 12 |
 | 2023-10-03 | 24,113 | 12 |
+| 2023-10-04 | 24,114 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

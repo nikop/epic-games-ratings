@@ -7,7 +7,7 @@ Rating: 3.94 (Ranked 976)
 | ---- | ---------- | ----- |
 | First One’s Free | 1.00% | ~887 |
 | Downed but Not Outed | 1.00% | ~887 |
-| Neophyte Ninja | 0.90% | ~798 |
+| Neophyte Ninja | 0.90% | ~799 |
 | Underworld Initiate | 0.80% | ~710 |
 | Too Old for This | 0.80% | ~710 |
 | Roid Ranger | 0.60% | ~532 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 976)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,722 (Ranked 80)  
+Progressed: 88,724 (Ranked 80)  
 Completed: 46 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 46 (0.05%) (Ranked 264)
 | 2023-10-01 | 88,624 | 46 |
 | 2023-10-02 | 88,680 | 46 |
 | 2023-10-03 | 88,722 | 46 |
+| 2023-10-04 | 88,724 | 46 |
 ## Awards
 Max (Diverse Characters): 474  (Ranked 205)  
 Sum: 2,260 (Ranked 193)  

@@ -6,22 +6,22 @@ Rating: 4.48 (Ranked 610)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,794 |
-| Snatched Out | 74.00% | ~2,552 |
+| Snatched Out | 74.00% | ~2,553 |
 | Keep 'Em Coming | 73.00% | ~2,518 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,311 |
-| Call Me Snake | 63.00% | ~2,173 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,312 |
+| Call Me Snake | 63.00% | ~2,174 |
 | Something Lurks Under The Hills | 61.00% | ~2,104 |
-| This Was No Papercut | 60.00% | ~2,069 |
+| This Was No Papercut | 60.00% | ~2,070 |
 | The Shrink Hates Me | 57.00% | ~1,966 |
-| People Person | 56.00% | ~1,931 |
+| People Person | 56.00% | ~1,932 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,828 |
 | First Steps Into Madness | 53.00% | ~1,828 |
-| Colonial Barrels | 51.00% | ~1,759 |
+| Colonial Barrels | 51.00% | ~1,760 |
 | Harper's Hell | 45.00% | ~1,552 |
 | Making a Stand | 44.00% | ~1,518 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,449 |
 | Where It All Begun | 40.00% | ~1,380 |
-| Recouped Investment | 39.00% | ~1,345 |
+| Recouped Investment | 39.00% | ~1,346 |
 | The More The Merrier | 34.00% | ~1,173 |
 | Omelette Du Fromage | 33.00% | ~1,138 |
 | Living Nightmare | 33.00% | ~1,138 |
@@ -31,19 +31,19 @@ Rating: 4.48 (Ranked 610)
 | Come on, You Wanna Live Forever? | 26.00% | ~897 |
 | The Spire | 25.00% | ~862 |
 | El Riesgo Siempre Vive | 24.00% | ~828 |
-| Stuff Of Nightmares | 23.00% | ~793 |
+| Stuff Of Nightmares | 23.00% | ~794 |
 | Excavating The Truth | 21.00% | ~724 |
 | Abysmal Horrors | 21.00% | ~724 |
 | One For Every Occasion | 20.00% | ~690 |
 | Frontliner | 20.00% | ~690 |
 | The Cable Guy | 20.00% | ~690 |
 | Bandage Lover | 18.00% | ~621 |
-| Regicide | 15.00% | ~517 |
+| Regicide | 15.00% | ~518 |
 | This Went Smoothly | 13.00% | ~448 |
 | Flawless Victory | 12.00% | ~414 |
 | Heavy Steps | 12.00% | ~414 |
 | Perfect Enhancements | 9.00% | ~310 |
-| Hardened In The Heat Of Battle | 7.00% | ~241 |
+| Hardened In The Heat Of Battle | 7.00% | ~242 |
 | The True Experience | 6.00% | ~207 |
 | Archivist | 2.00% | ~69 |
 | Fair And Square | 2.00% | ~69 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 610)
 | Chalk It Up To Experience | 0.80% | ~28 |
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,449 (Ranked 183)  
+Progressed: 3,450 (Ranked 183)  
 Completed: 3 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 3 (0.09%) (Ranked 247)
 | 2023-10-01 | 3,440 | 3 |
 | 2023-10-02 | 3,444 | 3 |
 | 2023-10-03 | 3,449 | 3 |
+| 2023-10-04 | 3,450 | 3 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 470)  
 Sum: 29 (Ranked 487)  

@@ -2,9 +2,9 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-10-03T23:04:01.9305787+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T01:47:35.6135143+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -57,9 +62,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_02",
@@ -73,9 +78,9 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_04",
@@ -89,17 +94,17 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_07",
@@ -138,13 +143,13 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:03:13.5176479+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:47:35.6135138+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:16.5401504+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:39.1894783+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:03:13.5176554+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:43:49.6694367+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:47:35.6135262+00:00"
 }

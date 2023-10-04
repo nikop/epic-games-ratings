@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,778 |
-| Sweet Sorrow | 18.00% | ~6,889 |
-| Rules the Waves | 17.00% | ~6,506 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,741 |
-| Rival | 14.00% | ~5,358 |
+| Sink Beneath the Waves | 36.00% | ~13,780 |
+| Sweet Sorrow | 18.00% | ~6,890 |
+| Rules the Waves | 17.00% | ~6,507 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,742 |
+| Rival | 14.00% | ~5,359 |
 | Correspondent | 12.00% | ~4,593 |
 | Lose Your Mind | 12.00% | ~4,593 |
 | Sound Mind? | 12.00% | ~4,593 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~1,148 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,148 |
 | Come Closer | 3.00% | ~1,148 |
-| Roaring Rise | 2.00% | ~765 |
-| I am the Captain of my Soul | 2.00% | ~765 |
+| Roaring Rise | 2.00% | ~766 |
+| I am the Captain of my Soul | 2.00% | ~766 |
 | A buoyant escape | 1.00% | ~383 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~383 |
 | The Bell Tolls | 1.00% | ~383 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,272 (Ranked 106)  
+Progressed: 38,277 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,14 +228,14 @@ Completed: 3 (0.01%) (Ranked 289)
 | 2023-10-01 | 38,156 | 3 |
 | 2023-10-02 | 38,207 | 3 |
 | 2023-10-03 | 38,270 | 3 |
-| 2023-10-04 | 38,272 | 3 |
+| 2023-10-04 | 38,277 | 3 |
 ## Awards
-Max (Character Customization): 214  (Ranked 273)  
-Sum: 285 (Ranked 351)  
-Diff (max vs sum): -78  
+Max (Character Customization): 215  (Ranked 272)  
+Sum: 286 (Ranked 351)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 214 |
+| This game has Inclusive Character Customization | 215 |
 | This game has Amazing Storytelling | 25 |
 | This game has Unique Visuals | 24 |
 | This game has Quickly Understood Controls | 22 |
@@ -335,3 +335,4 @@ Diff (max vs sum): -78
 | 2023-09-07 | 4.58 | - | 214 | 284 |
 | 2023-09-09 | 4.58 | - | 214 | 285 |
 | 2023-10-03 | 4.59 | - | 214 | 285 |
+| 2023-10-04 | 4.59 | - | 215 | 286 |

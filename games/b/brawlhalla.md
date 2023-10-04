@@ -4,15 +4,15 @@
 Rating: 4.60 (Ranked 396)  
 ## Awards
 Max (Great for Quick Sessions): 357  (Ranked 229)  
-Sum: 3,235 (Ranked 163)  
-Diff (max vs sum): 66  
+Sum: 3,241 (Ranked 162)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 357 |
 | This game is Great for Beginners | 331 |
 | This game has Diverse Characters | 330 |
 | This game is Relaxing | 321 |
-| This game has Competitive Players | 311 |
+| This game has Competitive Players | 317 |
 | This game has Quickly Understood Controls | 305 |
 | This game is Extremely Fun | 304 |
 | This game has Challenging Combat | 282 |
@@ -276,3 +276,4 @@ Diff (max vs sum): 66
 | 2023-10-01 | 4.60 | 349 | 3,188 |
 | 2023-10-02 | 4.59 | 354 | 3,214 |
 | 2023-10-03 | 4.60 | 357 | 3,235 |
+| 2023-10-04 | 4.60 | 357 | 3,241 |

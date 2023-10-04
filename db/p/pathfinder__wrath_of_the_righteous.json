@@ -3860,9 +3860,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11467,
+  "EOS_Progressed": 11468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13200,6 +13200,11 @@
       "Time": "2023-10-03T22:06:48.8503054+00:00",
       "NumProgressed": 11467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T01:49:32.2525536+00:00",
+      "NumProgressed": 11468,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13219,7 +13224,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -13347,7 +13352,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "19_EqualToAroden",
@@ -13459,7 +13464,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14091,7 +14096,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -14123,7 +14128,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -14131,28 +14136,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10249,
+      "Progressed": 10250,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11467,
+      "Progressed": 11468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-03T22:01:16.4260162+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:05:20.7512623+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:49:32.252553+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:59:37.6082245+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:05:20.7514353+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:43:48.1866931+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:49:32.2527866+00:00"
 }

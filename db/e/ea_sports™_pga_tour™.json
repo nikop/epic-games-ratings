@@ -3,9 +3,9 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -942,6 +942,11 @@
       "Time": "2023-10-04T00:03:29.8975927+00:00",
       "NumProgressed": 332,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-04T01:47:52.1195703+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -954,7 +959,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_10",
@@ -976,9 +981,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_13",
@@ -986,7 +991,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_14",
@@ -1010,7 +1015,7 @@
       "Name": "Star Power",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_17",
@@ -1026,7 +1031,7 @@
       "Name": "Perfect Round",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_2",
@@ -1034,7 +1039,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_3",
@@ -1050,7 +1055,7 @@
       "Name": "From Many, One",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_5",
@@ -1058,7 +1063,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_6",
@@ -1066,7 +1071,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_7",
@@ -1082,7 +1087,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_9",
@@ -1097,13 +1102,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-04T00:03:29.8975922+00:00",
+  "LastChanged_Achievements": "2023-10-04T01:47:52.1195688+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-03T23:57:50.0828182+00:00",
-  "LastUpdate_Achievements": "2023-10-04T00:03:29.8976072+00:00"
+  "LastUpdate_Ratings": "2023-10-04T01:41:58.8030973+00:00",
+  "LastUpdate_Achievements": "2023-10-04T01:47:52.119588+00:00"
 }

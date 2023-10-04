@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 90.00% | ~79 |
-| Tinkerer | 72.00% | ~63 |
-| Welcome to the Club | 39.00% | ~34 |
-| Apprentice | 39.00% | ~34 |
-| A new World ahead | 32.00% | ~28 |
+| Self-Defence | 89.00% | ~79 |
+| Tinkerer | 71.00% | ~63 |
+| Welcome to the Club | 38.00% | ~34 |
+| Apprentice | 38.00% | ~34 |
+| A new World ahead | 31.00% | ~28 |
 | Can't touch this | 28.00% | ~25 |
 | Don't Cry Wolf | 26.00% | ~23 |
 | Freezing Cold | 19.00% | ~17 |
 | Expert | 18.00% | ~16 |
 | Searing Heat | 16.00% | ~14 |
 | Nothing but the Truth | 16.00% | ~14 |
-| The Golden Flash | 14.00% | ~12 |
-| The Power of the Mountains | 14.00% | ~12 |
+| The Golden Flash | 13.00% | ~12 |
+| The Power of the Mountains | 13.00% | ~12 |
 | Changing the World | 11.00% | ~10 |
 | Locked and Loaded | 10.00% | ~9 |
 | Witch | 10.00% | ~9 |
@@ -30,9 +30,9 @@
 | A Deceiving Gift | 7.00% | ~6 |
 | Bringing guns to a sword fight | 6.00% | ~5 |
 | Ancient Powers | 6.00% | ~5 |
-| Defeat Ingla | 5.00% | ~4 |
-| But what of the Acreans? | 5.00% | ~4 |
-| Unveiling the Truth | 5.00% | ~4 |
+| Defeat Ingla | 4.00% | ~4 |
+| But what of the Acreans? | 4.00% | ~4 |
+| Unveiling the Truth | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 396)  
+Progressed: 89 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-23 | 86 | 0 |
 | 2023-09-24 | 87 | 0 |
 | 2023-10-01 | 88 | 0 |
+| 2023-10-04 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
