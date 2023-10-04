@@ -3960,7 +3960,7 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 10529,
+  "EOS_Progressed": 10530,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 12,
@@ -14870,6 +14870,11 @@
       "Time": "2023-10-04T08:05:45.7177649+00:00",
       "NumProgressed": 10529,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2023-10-04T11:06:48.691152+00:00",
+      "NumProgressed": 10530,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 15,
@@ -14889,7 +14894,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4106
+      "UsersEstimate": 4107
     },
     {
       "ID": "Bestest_Friend",
@@ -14953,7 +14958,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7370
+      "UsersEstimate": 7371
     },
     {
       "ID": "Miner",
@@ -14969,7 +14974,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7265
+      "UsersEstimate": 7266
     },
     {
       "ID": "Renovator",
@@ -14993,14 +14998,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10529,
+      "Progressed": 10530,
       "Completed": 248
     }
   ],
@@ -15008,8 +15013,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-03T17:02:27.4783706+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:05:34.4528734+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:06:48.6911515+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:31.1611378+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:05:34.4529547+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:02:13.8152803+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:06:48.6912472+00:00"
 }

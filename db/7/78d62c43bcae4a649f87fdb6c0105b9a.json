@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "world4insane",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:06:03.9182356+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:07:30.7000526+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:59:54.7243903+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:06:03.9182643+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:01:17.3660734+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:07:30.7000815+00:00"
 }

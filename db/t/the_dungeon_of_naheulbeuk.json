@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228585,
+  "EOS_Progressed": 228597,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1590,
+  "EOS_NewPlayers": 1593,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13358,6 +13358,11 @@
       "Time": "2023-10-04T10:03:30.0356885+00:00",
       "NumProgressed": 228585,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T11:03:38.3584506+00:00",
+      "NumProgressed": 228597,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13407,9 +13412,9 @@
       "ID": "BookCollection",
       "SetID": "50chcgj",
       "Name": "Scholar of the Lands of Fangh",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 914
     },
     {
       "ID": "Chapter1",
@@ -13417,7 +13422,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9143
+      "UsersEstimate": 9144
     },
     {
       "ID": "Chapter2",
@@ -13769,7 +13774,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11429
+      "UsersEstimate": 11430
     },
     {
       "ID": "DwarfElf15Support",
@@ -13801,7 +13806,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9143
+      "UsersEstimate": 9144
     },
     {
       "ID": "ElfEpic",
@@ -13817,7 +13822,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73147
+      "UsersEstimate": 73151
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13865,7 +13870,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13715
+      "UsersEstimate": 13716
     },
     {
       "ID": "FollowBraztok",
@@ -14072,21 +14077,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228585,
+      "Progressed": 228597,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228585,
+      "Progressed": 228597,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T18:00:06.5665916+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:03:30.0356877+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:03:38.3584499+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:44.3436043+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:03:30.0358739+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:02:34.2068023+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:03:38.3588178+00:00"
 }

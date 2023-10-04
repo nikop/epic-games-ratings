@@ -12959,10 +12959,10 @@
       "Count": 8082
     }
   ],
-  "EOS_Progressed": 888568,
-  "EOS_Completed": 2572,
-  "EOS_NewPlayers": 5687,
-  "EOS_NewCompleters": 143,
+  "EOS_Progressed": 888577,
+  "EOS_Completed": 2573,
+  "EOS_NewPlayers": 5662,
+  "EOS_NewCompleters": 144,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -31754,6 +31754,11 @@
       "Time": "2023-10-04T10:09:08.9137781+00:00",
       "NumProgressed": 888568,
       "NumCompleted": 2572
+    },
+    {
+      "Time": "2023-10-04T11:09:17.3769179+00:00",
+      "NumProgressed": 888577,
+      "NumCompleted": 2573
     }
   ],
   "TotalAchievements": 57,
@@ -31789,7 +31794,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "Denied",
@@ -31797,7 +31802,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "FollowingTheRiver",
@@ -31869,7 +31874,7 @@
       "Name": "Mean Streets",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "LittleTokyo",
@@ -31909,7 +31914,7 @@
       "Name": "Breathtaking",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "NoMansLand",
@@ -31941,7 +31946,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "Specialist",
@@ -31957,7 +31962,7 @@
       "Name": "Temperance",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -31989,7 +31994,7 @@
       "Name": "The Hermit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TheHightPriestess",
@@ -32005,7 +32010,7 @@
       "Name": "The Lovers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TheStar",
@@ -32029,7 +32034,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TheWorld",
@@ -32043,9 +32048,9 @@
       "ID": "ThisIsPacifica",
       "SetID": "47clieb",
       "Name": "Greetings from Pacifica!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7997
     },
     {
       "ID": "TradeUnion",
@@ -32061,7 +32066,7 @@
       "Name": "True Soldier",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TrueWarrior",
@@ -32069,7 +32074,7 @@
       "Name": "True Warrior",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -32093,7 +32098,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "YipMan",
@@ -32109,7 +32114,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "All the President\u0027s Men",
@@ -32220,21 +32225,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 888568,
-      "Completed": 2572
+      "Progressed": 888577,
+      "Completed": 2573
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 17191,
+      "Progressed": 17200,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-04T09:00:35.9357517+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:09:08.9137775+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:09:17.3769173+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.2476166+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:35.5344911+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:09:08.9139474+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:02:20.7588213+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:09:17.3772326+00:00"
 }

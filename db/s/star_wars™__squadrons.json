@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6492,
+  "EOS_Progressed": 6504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2986,
+  "EOS_NewPlayers": 2981,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1636,6 +1636,11 @@
       "Time": "2023-10-04T10:04:41.8817554+00:00",
       "NumProgressed": 6492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T11:05:31.7564953+00:00",
+      "NumProgressed": 6504,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -1648,7 +1653,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1041
     },
     {
       "ID": "achievement_10",
@@ -1656,7 +1661,7 @@
       "Name": "Seasoned Star Pilot",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_11",
@@ -1672,7 +1677,7 @@
       "Name": "Victory for the New Republic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_13",
@@ -1688,7 +1693,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_15",
@@ -1696,7 +1701,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1366
     },
     {
       "ID": "achievement_16",
@@ -1736,7 +1741,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_20",
@@ -1752,7 +1757,7 @@
       "Name": "Sound Strategy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_22",
@@ -1776,7 +1781,7 @@
       "Name": "I Know a Few Maneuvers",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_25",
@@ -1784,7 +1789,7 @@
       "Name": "Trigger Happy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_26",
@@ -1800,7 +1805,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_28",
@@ -1816,7 +1821,7 @@
       "Name": "Shallow Grave",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_3",
@@ -1824,7 +1829,7 @@
       "Name": "The Galaxy\u0027s Finest (Veteran)",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_30",
@@ -1856,7 +1861,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1301
     },
     {
       "ID": "achievement_34",
@@ -1864,7 +1869,7 @@
       "Name": "Fully Decorated",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_35",
@@ -1872,7 +1877,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6179
     },
     {
       "ID": "achievement_36",
@@ -1880,7 +1885,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_37",
@@ -1888,7 +1893,7 @@
       "Name": "Asset Secured",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 911
     },
     {
       "ID": "achievement_38",
@@ -1904,7 +1909,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1626
     },
     {
       "ID": "achievement_4",
@@ -1912,7 +1917,7 @@
       "Name": "The Galaxy\u0027s Finest (Ace)",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_40",
@@ -1968,7 +1973,7 @@
       "Name": "Ultimate Weapon",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_47",
@@ -1992,7 +1997,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 911
     },
     {
       "ID": "achievement_7",
@@ -2000,7 +2005,7 @@
       "Name": "Special Modifications",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_8",
@@ -2008,7 +2013,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1626
     },
     {
       "ID": "achievement_9",
@@ -2023,7 +2028,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 6492,
+      "Progressed": 6504,
       "Completed": 0
     }
   ],
@@ -2031,8 +2036,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:04:41.8817549+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:05:31.7564945+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:23.4480073+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:57:49.536998+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:04:41.8818199+00:00"
+  "LastUpdate_Ratings": "2023-10-04T10:58:11.0761061+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:05:31.7565898+00:00"
 }

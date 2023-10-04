@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 13525,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7643,17 +7643,17 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "13",
@@ -7707,9 +7707,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "2",
@@ -7755,9 +7755,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "25",
@@ -7876,8 +7876,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:05:26.8578604+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:06:37.7974596+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:04.0220099+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:05:26.8579816+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:01:31.6649982+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:06:37.7975436+00:00"
 }

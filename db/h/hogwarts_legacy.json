@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
@@ -8496,9 +8496,9 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297791,
+  "EOS_Progressed": 297793,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26491,6 +26491,11 @@
       "Time": "2023-10-04T08:05:30.5890291+00:00",
       "NumProgressed": 297791,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-04T11:06:27.5770783+00:00",
+      "NumProgressed": 297793,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26542,7 +26547,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "PFA_15",
@@ -26566,7 +26571,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20845
+      "UsersEstimate": 20846
     },
     {
       "ID": "PFA_18",
@@ -26638,7 +26643,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "PFA_26",
@@ -26670,7 +26675,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "PFA_3",
@@ -26790,7 +26795,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "PFA_43",
@@ -26861,7 +26866,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297791,
+      "Progressed": 297793,
       "Completed": 480
     }
   ],
@@ -26869,8 +26874,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-04T02:17:01.4874189+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:05:19.747061+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:06:27.5770777+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:00.2496487+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:05:19.7472384+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:01:24.8696031+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:06:27.577248+00:00"
 }

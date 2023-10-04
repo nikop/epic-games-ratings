@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468459,
+  "EOS_Progressed": 468460,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18065,6 +18065,11 @@
       "Time": "2023-10-04T09:04:30.5503848+00:00",
       "NumProgressed": 468459,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-04T11:05:16.569644+00:00",
+      "NumProgressed": 468460,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18164,7 +18169,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309183
+      "UsersEstimate": 309184
     },
     {
       "ID": "achievement_story_landa",
@@ -18228,7 +18233,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51530
+      "UsersEstimate": 51531
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -18524,7 +18529,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51530
+      "UsersEstimate": 51531
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -18707,21 +18712,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12393,
+      "Progressed": 12394,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468459,
+      "Progressed": 468460,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:04:31.2734193+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:05:16.5696431+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:25.4640051+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:57:24.9082122+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:04:31.2736514+00:00"
+  "LastUpdate_Ratings": "2023-10-04T10:57:35.0009624+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:05:16.5698941+00:00"
 }

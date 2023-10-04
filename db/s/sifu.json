@@ -6746,7 +6746,7 @@
   ],
   "EOS_Progressed": 715485,
   "EOS_Completed": 12908,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21902,9 +21902,9 @@
       "ID": "04_Vengeance_H3",
       "SetID": "adcm20g",
       "Name": "A Lady\u0027s Blood in the Snow",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2146
     },
     {
       "ID": "05_Vengeance_H4",
@@ -22372,8 +22372,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-04T03:59:52.269528+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:03:22.8324411+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:03:27.8768396+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-04T10:00:26.0588577+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:03:22.8326083+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:02:06.1583851+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:03:27.8770677+00:00"
 }

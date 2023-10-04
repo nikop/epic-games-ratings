@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.30% | ~2,146 |
 | The Assault | 0.30% | ~2,146 |
 | The Hateful Pole Fighter | 0.30% | ~2,146 |
+| A Lady's Blood in the Snow | 0.30% | ~2,146 |
 | Street Fighting | 0.30% | ~2,146 |
 | Life is your teacher | 0.30% | ~2,146 |
 | State of constant learning | 0.30% | ~2,146 |
@@ -19,7 +20,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 0.30% | ~74 |
 | Martial Hub | 0.30% | ~74 |
 | Fight the way you practice | 0.30% | ~74 |
-| A Lady's Blood in the Snow | 0.20% | ~1,431 |
 | Lady Wing Chun | 0.20% | ~1,431 |
 | Furious Fists | 0.20% | ~1,431 |
 | Scareless | 0.20% | ~1,431 |

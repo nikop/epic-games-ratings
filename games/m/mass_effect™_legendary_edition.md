@@ -53,12 +53,12 @@
 | A Personal Touch | 30.00% | ~165 |
 | Battlemaster | 30.00% | ~165 |
 | The Cure | 30.00% | ~165 |
+| Agent | 30.00% | ~165 |
 | Shopaholic | 30.00% | ~165 |
 | Catharsis | 29.00% | ~159 |
 | Fade Away | 29.00% | ~159 |
 | Ghost of the Father | 29.00% | ~159 |
 | Big Game Hunter | 29.00% | ~159 |
-| Agent | 29.00% | ~159 |
 | Revenge! | 29.00% | ~159 |
 | Heart of Darkness | 29.00% | ~159 |
 | Digital Exorcist | 28.00% | ~154 |
@@ -77,10 +77,10 @@
 | Suicide Mission | 24.00% | ~132 |
 | Against All Odds | 24.00% | ~132 |
 | Giant Killer | 23.00% | ~126 |
+| A House Divided | 23.00% | ~126 |
 | Weapon Specialist | 23.00% | ~126 |
 | World Shaker | 23.00% | ~126 |
 | Liberator | 23.00% | ~126 |
-| A House Divided | 22.00% | ~121 |
 | Pathfinder | 21.00% | ~115 |
 | Arbiter | 21.00% | ~115 |
 | Savior | 20.00% | ~110 |

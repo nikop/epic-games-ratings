@@ -6,37 +6,37 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~240,054 |
-| Into the Unknown | 35.00% | ~221,102 |
-| First Shot | 35.00% | ~221,102 |
-| Herzlich Wilkommen! | 33.00% | ~208,468 |
-| Good Night & Good Luck | 32.00% | ~202,150 |
-| Sancho Panza | 31.00% | ~195,833 |
-| Oh, So This Is How It Works! | 29.00% | ~183,199 |
-| Flag Burning | 27.00% | ~170,564 |
-| Under Pressure | 24.00% | ~151,613 |
-| On the Trail of the Enemy | 24.00% | ~151,613 |
-| Light in the Darkness | 24.00% | ~151,613 |
-| It Wasn't That Hard, Was It? | 24.00% | ~151,613 |
-| Can't Touch This! | 24.00% | ~151,613 |
-| Get Outta My House! | 23.00% | ~145,296 |
-| Night Hunter | 22.00% | ~138,978 |
-| Being All Social | 22.00% | ~138,978 |
-| After the Fall | 19.00% | ~120,027 |
-| We Will Be Heard! | 18.00% | ~113,710 |
-| Known Associate | 17.00% | ~107,392 |
-| Tunnel Entrance | 17.00% | ~107,392 |
-| Brush with Death | 16.00% | ~101,075 |
-| Debris and Ashes | 15.00% | ~94,758 |
-| Going Down | 15.00% | ~94,758 |
-| Family First | 15.00% | ~94,758 |
-| Your World, Your Rules | 14.00% | ~88,441 |
-| Death From Afar | 14.00% | ~88,441 |
-| Terminal Headache | 14.00% | ~88,441 |
-| Slowpoke! | 12.00% | ~75,806 |
-| Tickets, Please! | 7.00% | ~44,220 |
-| Parkour Master | 6.00% | ~37,903 |
-| Combat Master | 6.00% | ~37,903 |
+| You Never Forget Your First... | 38.00% | ~240,057 |
+| Into the Unknown | 35.00% | ~221,106 |
+| First Shot | 35.00% | ~221,106 |
+| Herzlich Wilkommen! | 33.00% | ~208,471 |
+| Good Night & Good Luck | 32.00% | ~202,154 |
+| Sancho Panza | 31.00% | ~195,836 |
+| Oh, So This Is How It Works! | 29.00% | ~183,202 |
+| Flag Burning | 27.00% | ~170,567 |
+| Under Pressure | 24.00% | ~151,615 |
+| On the Trail of the Enemy | 24.00% | ~151,615 |
+| Light in the Darkness | 24.00% | ~151,615 |
+| It Wasn't That Hard, Was It? | 24.00% | ~151,615 |
+| Can't Touch This! | 24.00% | ~151,615 |
+| Get Outta My House! | 23.00% | ~145,298 |
+| Night Hunter | 22.00% | ~138,981 |
+| Being All Social | 22.00% | ~138,981 |
+| After the Fall | 19.00% | ~120,029 |
+| We Will Be Heard! | 18.00% | ~113,711 |
+| Known Associate | 17.00% | ~107,394 |
+| Tunnel Entrance | 17.00% | ~107,394 |
+| Brush with Death | 16.00% | ~101,077 |
+| Debris and Ashes | 15.00% | ~94,760 |
+| Going Down | 15.00% | ~94,760 |
+| Family First | 15.00% | ~94,760 |
+| Your World, Your Rules | 14.00% | ~88,442 |
+| Death From Afar | 14.00% | ~88,442 |
+| Terminal Headache | 14.00% | ~88,442 |
+| Slowpoke! | 12.00% | ~75,808 |
+| Tickets, Please! | 7.00% | ~44,221 |
+| Parkour Master | 6.00% | ~37,904 |
+| Combat Master | 6.00% | ~37,904 |
 | Municipal Services | 5.00% | ~31,586 |
 | Ban Hammer | 5.00% | ~31,586 |
 | Modder | 5.00% | ~31,586 |
@@ -48,15 +48,15 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 3.00% | ~18,952 |
 | Ironheart | 3.00% | ~18,952 |
 | You're Going Down! | 3.00% | ~18,952 |
-| Find Anything Interesting? | 2.00% | ~12,634 |
-| Revenants | 2.00% | ~12,634 |
-| Who Wants To Be a... | 2.00% | ~12,634 |
-| Lightning Reflexes | 2.00% | ~12,634 |
-| Fit as a Fiddle | 2.00% | ~12,634 |
+| Find Anything Interesting? | 2.00% | ~12,635 |
+| Revenants | 2.00% | ~12,635 |
+| Who Wants To Be a... | 2.00% | ~12,635 |
+| Lightning Reflexes | 2.00% | ~12,635 |
+| Fit as a Fiddle | 2.00% | ~12,635 |
 | Nemesis | 1.00% | ~2,772 |
 | Enter the Hall | 1.00% | ~2,772 |
-| A Friend in Need... | 0.90% | ~5,685 |
-| Night of Terrors | 0.90% | ~2,494 |
+| A Friend in Need... | 0.90% | ~5,686 |
+| Night of Terrors | 0.90% | ~2,495 |
 | Man On a Mission | 0.80% | ~5,054 |
 | Get the Point? | 0.80% | ~5,054 |
 | My Friend, Ciro | 0.80% | ~2,217 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~277 |
 | Connoisseur | 0.10% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631,720 (Ranked 27)  
+Progressed: 631,730 (Ranked 27)  
 Completed: 63 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 63 (0.01%) (Ranked 289)
 | 2023-10-01 | 630,938 | 63 |
 | 2023-10-02 | 631,271 | 63 |
 | 2023-10-03 | 631,628 | 63 |
-| 2023-10-04 | 631,720 | 63 |
+| 2023-10-04 | 631,730 | 63 |
 ## Awards
 Max (Character Customization): 9,386  (Ranked 40)  
 Sum: 23,001 (Ranked 54)  

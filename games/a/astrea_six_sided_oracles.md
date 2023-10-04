@@ -14,8 +14,8 @@
 | Mind Illuminator | 67.00% | ~26 |
 | Stellar Dismantler | 54.00% | ~21 |
 | Astral Adventurer | 46.00% | ~18 |
+| Star Killer | 44.00% | ~17 |
 | Anomaly Destroyer | 41.00% | ~16 |
-| Star Killer | 41.00% | ~16 |
 | Unbeatable | 36.00% | ~14 |
 | Loyal Partner | 33.00% | ~13 |
 | Sadistic Plan | 26.00% | ~10 |
@@ -29,11 +29,11 @@
 | Heart Gate | 10.00% | ~4 |
 | Heavy Purger | 10.00% | ~4 |
 | Astral Seeker | 8.00% | ~3 |
+| Can't touch this | 8.00% | ~3 |
 | Denying Destiny | 8.00% | ~3 |
 | The Goddes Avatar | 8.00% | ~3 |
 | The world goes round... | 8.00% | ~3 |
 | Unepic Hero | 8.00% | ~3 |
-| Can't touch this | 5.00% | ~2 |
 | Plague Doctor | 5.00% | ~2 |
 | Pocket Astrarium | 5.00% | ~2 |
 | Prestidigitation | 5.00% | ~2 |

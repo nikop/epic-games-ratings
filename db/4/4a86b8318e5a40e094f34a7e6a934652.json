@@ -710,9 +710,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -822,9 +822,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "TAKE_LEECH",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:03:22.8560353+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:03:27.8486735+00:00",
   "LastUpdate_AppInfo": "2023-09-27T13:57:16.2828625+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:59:40.3460711+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:03:22.8560605+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:00:56.3480406+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:03:27.8486976+00:00"
 }

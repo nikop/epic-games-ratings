@@ -265,9 +265,9 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_100_MINIONS_PLACED",
@@ -361,9 +361,9 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:04:19.7958067+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:04:59.9254936+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.405433+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:59:11.980959+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:04:19.7958245+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:00:13.3393152+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:04:59.9255136+00:00"
 }

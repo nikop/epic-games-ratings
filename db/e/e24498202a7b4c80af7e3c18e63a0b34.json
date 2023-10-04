@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5564,
+  "EOS_Progressed": 5565,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2347,6 +2347,11 @@
       "Time": "2023-10-04T10:05:14.3106822+00:00",
       "NumProgressed": 5564,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-04T11:06:19.7239201+00:00",
+      "NumProgressed": 5565,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2359,7 +2364,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "achievement_01_02",
@@ -2391,7 +2396,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "achievement_01_06",
@@ -2399,7 +2404,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "achievement_01_07",
@@ -2415,7 +2420,7 @@
       "Name": "Trophy Collector",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "achievement_01_09",
@@ -2447,7 +2452,7 @@
       "Name": "Amateur Champion",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_02_03",
@@ -2471,7 +2476,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achievement_02_06",
@@ -2487,7 +2492,7 @@
       "Name": "Whale of a Time",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "achievement_02_08",
@@ -2551,7 +2556,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_03_08",
@@ -2607,7 +2612,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "achievement_04_04",
@@ -2639,7 +2644,7 @@
       "Name": "Nitro Saver",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "achievement_04_08",
@@ -2647,7 +2652,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "achievement_04_09",
@@ -2662,7 +2667,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5564,
+      "Progressed": 5565,
       "Completed": 19
     }
   ],
@@ -2670,8 +2675,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-04T03:00:14.6252939+00:00",
-  "LastChanged_Achievements": "2023-10-04T10:05:14.3106816+00:00",
+  "LastChanged_Achievements": "2023-10-04T11:06:19.7239194+00:00",
   "LastUpdate_AppInfo": "2023-09-28T16:57:18.0697002+00:00",
-  "LastUpdate_Ratings": "2023-10-04T09:59:57.3726065+00:00",
-  "LastUpdate_Achievements": "2023-10-04T10:05:14.3107359+00:00"
+  "LastUpdate_Ratings": "2023-10-04T11:01:21.0541325+00:00",
+  "LastUpdate_Achievements": "2023-10-04T11:06:19.7239985+00:00"
 }
