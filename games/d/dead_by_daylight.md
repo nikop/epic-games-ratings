@@ -6,23 +6,27 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.30% | ~2,756 |
-| It wakes | 0.30% | ~2,756 |
-| Skillful | 0.30% | ~2,756 |
+| Zealous | 0.30% | ~2,757 |
+| It wakes | 0.30% | ~2,757 |
+| Skillful | 0.30% | ~2,757 |
 | The Grand Sacrifice | 0.20% | ~1,838 |
+| Agonizing Escape | 0.20% | ~1,838 |
 | No one left behind | 0.20% | ~1,838 |
 | Medic | 0.20% | ~1,838 |
 | Handyman | 0.20% | ~1,838 |
 | Nerves of steel | 0.20% | ~1,838 |
+| Perfect Escape | 0.20% | ~1,838 |
 | Not half bad | 0.20% | ~1,838 |
 | Bloody Millionaire | 0.20% | ~1,838 |
 | Apt Survivor | 0.20% | ~1,838 |
 | Survival Treasures | 0.20% | ~1,838 |
 | I | 0.20% | ~1,838 |
+| Engineer | 0.20% | ~1,838 |
 | Sorted | 0.20% | ~1,838 |
 | Healthy Obsession | 0.20% | ~1,838 |
 | Resurgence | 0.20% | ~1,838 |
 | Preemptive Strike | 0.20% | ~1,838 |
+| Humanitarian | 0.20% | ~1,838 |
 | Make Some Noise | 0.20% | ~1,838 |
 | A bite for the Entity | 0.10% | ~919 |
 | A feast for the Entity | 0.10% | ~919 |
@@ -34,11 +38,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Grind | 0.10% | ~919 |
 | Escape Artist | 0.10% | ~919 |
 | Made it out alive! | 0.10% | ~919 |
-| Agonizing Escape | 0.10% | ~919 |
 | Backdoor Escape | 0.10% | ~919 |
 | The Key to Escape | 0.10% | ~919 |
 | I've got your back | 0.10% | ~919 |
-| Perfect Escape | 0.10% | ~919 |
 | Perfect Killing | 0.10% | ~919 |
 | Gifts for the Fog | 0.10% | ~919 |
 | Apt Killer | 0.10% | ~919 |
@@ -69,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shocking Treatment | 0.10% | ~919 |
 | Mad House | 0.10% | ~919 |
 | Adept Doctor | 0.10% | ~919 |
-| Engineer | 0.10% | ~919 |
 | Leapfrog | 0.10% | ~919 |
 | Adept Min | 0.10% | ~919 |
 | The man behind the bush | 0.10% | ~919 |
@@ -183,7 +184,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Punch Drunk | 0.10% | ~919 |
 | Adept Cenobite | 0.10% | ~919 |
 | Bless You | 0.10% | ~919 |
-| Humanitarian | 0.10% | ~919 |
 | Adept Mikaela | 0.10% | ~919 |
 | Caws of Death | 0.10% | ~919 |
 | Prowler | 0.10% | ~919 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~919 |
 | Adept Ripley | 0.10% | ~919 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918,771 (Ranked 14)  
+Progressed: 918,878 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-01 | 914,087 | 49 |
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
-| 2023-10-04 | 918,771 | 49 |
+| 2023-10-04 | 918,878 | 49 |
 ## Awards
 Max (Diverse Characters): 33,414  (Ranked 15)  
 Sum: 259,325 (Ranked 13)  

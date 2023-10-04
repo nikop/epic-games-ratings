@@ -6,7 +6,7 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74995,
+  "EOS_Progressed": 74997,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -18759,6 +18759,11 @@
       "Time": "2023-10-04T18:08:08.1320243+00:00",
       "NumProgressed": 74995,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2023-10-04T19:07:27.1176677+00:00",
+      "NumProgressed": 74997,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 25,
@@ -18898,7 +18903,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11999
+      "UsersEstimate": 12000
     },
     {
       "ID": "Nothing Left to Say",
@@ -18922,7 +18927,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9749
+      "UsersEstimate": 9750
     },
     {
       "ID": "Sniper",
@@ -18969,7 +18974,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 74995,
+      "Progressed": 74997,
       "Completed": 784
     }
   ],
@@ -18977,8 +18982,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:08:08.1320236+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:07:27.1176671+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.9504793+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:59:18.215351+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:08:08.1321689+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:59:19.8918606+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:07:27.1178007+00:00"
 }

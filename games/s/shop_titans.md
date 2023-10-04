@@ -57,9 +57,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.60% | ~823 |
 | Hidden Potential | 0.60% | ~823 |
 | Expansion in Session | 0.60% | ~823 |
+| Cranked up to 11 | 0.60% | ~823 |
 | Trash to Treasure | 0.60% | ~823 |
 | Mammonite | 0.60% | ~823 |
 | Miracle Alchemist | 0.60% | ~823 |
+| Laden with Loot | 0.60% | ~823 |
 | Seasoned Journeyman | 0.60% | ~823 |
 | Scourge of the Seas | 0.60% | ~823 |
 | Black Friday Special | 0.60% | ~823 |
@@ -76,7 +78,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.50% | ~686 |
 | Supercharged | 0.50% | ~686 |
 | Ritualist | 0.50% | ~686 |
-| Cranked up to 11 | 0.50% | ~686 |
 | Fit for a King | 0.50% | ~686 |
 | By Your Powers Combined... | 0.50% | ~686 |
 | Wealth Beyond Measure | 0.50% | ~686 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.50% | ~686 |
 | Item of Renown | 0.50% | ~686 |
 | Master Merchant | 0.50% | ~686 |
-| Laden with Loot | 0.50% | ~686 |
 | Bountiful Harvest | 0.50% | ~686 |
 | Precision Engineering | 0.50% | ~686 |
 | Attrition Mission | 0.50% | ~686 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,108 (Ranked 72)  
+Progressed: 137,113 (Ranked 72)  
 Completed: 161 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-01 | 136,972 | 160 |
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
-| 2023-10-04 | 137,108 | 161 |
+| 2023-10-04 | 137,113 | 161 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
 Sum: 27,328 (Ranked 49)  

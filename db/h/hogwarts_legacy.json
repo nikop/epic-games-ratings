@@ -8434,10 +8434,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45033,
       "NumberOfAwardsMax": 23277
+    },
+    {
+      "Time": "2023-10-04T19:00:41.3519+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45038,
+      "NumberOfAwardsMax": 23277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45033,
+  "NumberOfAwards": 45038,
   "NumberOfAwardsMax": 23277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8499,7 +8505,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1104
+      "Count": 1109
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8514,7 +8520,7 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297807,
+  "EOS_Progressed": 297809,
   "EOS_Completed": 480,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 2,
@@ -26549,6 +26555,11 @@
       "Time": "2023-10-04T18:05:59.1067051+00:00",
       "NumProgressed": 297807,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-04T19:05:42.8483569+00:00",
+      "NumProgressed": 297809,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26600,7 +26611,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17868
+      "UsersEstimate": 17869
     },
     {
       "ID": "PFA_15",
@@ -26624,7 +26635,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20846
+      "UsersEstimate": 20847
     },
     {
       "ID": "PFA_18",
@@ -26696,7 +26707,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17868
+      "UsersEstimate": 17869
     },
     {
       "ID": "PFA_26",
@@ -26728,7 +26739,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17868
+      "UsersEstimate": 17869
     },
     {
       "ID": "PFA_3",
@@ -26848,7 +26859,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17868
+      "UsersEstimate": 17869
     },
     {
       "ID": "PFA_43",
@@ -26919,16 +26930,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297807,
+      "Progressed": 297809,
       "Completed": 480
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-04T18:00:37.431175+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:05:59.1067047+00:00",
+  "LastChanged": "2023-10-04T19:00:41.3518999+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:05:42.8483564+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:37.4311761+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:05:59.1068542+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:41.3519004+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:05:42.8485276+00:00"
 }

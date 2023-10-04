@@ -6,9 +6,9 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,11 +142,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13536,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 507,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.02,
+  "EOS_Progressed": 13537,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 502,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -7647,6 +7647,11 @@
       "Time": "2023-10-04T17:06:31.8865765+00:00",
       "NumProgressed": 13536,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-04T19:05:51.3858158+00:00",
+      "NumProgressed": 13537,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7681,9 +7686,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "13",
@@ -7697,9 +7702,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "15",
@@ -7729,9 +7734,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "19",
@@ -7769,9 +7774,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "23",
@@ -7833,17 +7838,17 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "4",
@@ -7898,16 +7903,16 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13536,
-      "Completed": 3
+      "Progressed": 13537,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:06:07.8989552+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:05:51.385815+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:42.800847+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:06:07.8990312+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:46.2258174+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:05:51.3858835+00:00"
 }

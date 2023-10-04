@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7609,10 +7609,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14704,
       "NumberOfAwardsMax": 7176
+    },
+    {
+      "Time": "2023-10-04T19:01:12.9742682+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14708,
+      "NumberOfAwardsMax": 7176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14704,
+  "NumberOfAwards": 14708,
   "NumberOfAwardsMax": 7176,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7644,7 +7650,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 988
+      "Count": 992
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7689,7 +7695,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62694,
+  "EOS_Progressed": 62696,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
@@ -25459,6 +25465,11 @@
       "Time": "2023-10-04T18:04:04.6828847+00:00",
       "NumProgressed": 62694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T19:03:53.3142749+00:00",
+      "NumProgressed": 62696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25470,7 +25481,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "Apple of my eye",
@@ -25550,7 +25561,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6270
     },
     {
       "ID": "Dynasty",
@@ -25558,7 +25569,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6270
     },
     {
       "ID": "Entrepreneur",
@@ -25646,7 +25657,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5642
+      "UsersEstimate": 5643
     },
     {
       "ID": "Jack of All Trades",
@@ -25694,7 +25705,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20689
+      "UsersEstimate": 20690
     },
     {
       "ID": "Lawbringer",
@@ -25814,7 +25825,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6270
     },
     {
       "ID": "The king is pleased",
@@ -25830,7 +25841,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "This is Sparta",
@@ -25870,22 +25881,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6270
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62694,
+      "Progressed": 62696,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-04T16:01:58.8735825+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:04:04.682884+00:00",
+  "LastChanged": "2023-10-04T19:01:12.9742681+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:03:53.3142742+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:01:08.9363862+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:04:04.6830413+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:01:12.9742691+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:03:53.3144263+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~374 |
-| And again, and again, and... | 64.00% | ~272 |
+| Huzza, he's back. | 88.00% | ~375 |
+| And again, and again, and... | 64.00% | ~273 |
 | Burn, Elysium, burn! | 63.00% | ~268 |
 | Kuvaq Minigame-Master | 62.00% | ~264 |
 | FunScore | 55.00% | ~234 |
-| Funtime's over | 53.00% | ~225 |
-| Chunky | 50.00% | ~212 |
-| Shall we play a game? | 49.00% | ~208 |
-| Boat of love, boat of love | 49.00% | ~208 |
-| School's out | 44.00% | ~187 |
+| Funtime's over | 53.00% | ~226 |
+| Chunky | 50.00% | ~213 |
+| Shall we play a game? | 49.00% | ~209 |
+| Boat of love, boat of love | 49.00% | ~209 |
+| School's out | 43.00% | ~183 |
 | Scaffolding Expert | 38.00% | ~162 |
-| Elysian Minigame-Master | 37.00% | ~157 |
+| Elysian Minigame-Master | 37.00% | ~158 |
 | Sole Music | 36.00% | ~153 |
 | No man left behind! | 30.00% | ~128 |
 | Portals come in packs | 30.00% | ~128 |
-| Photo Friend | 26.00% | ~110 |
+| Photo Friend | 26.00% | ~111 |
 | Brainfreeze | 21.00% | ~89 |
 | Masseltov | 20.00% | ~85 |
 | And everything comes full circle. | 20.00% | ~85 |
@@ -31,7 +31,7 @@ Rating: 4.55 (Ranked 490)
 | Blast from the Past | 13.00% | ~55 |
 | Play it again, Ronny | 12.00% | ~51 |
 | Paradox! | 11.00% | ~47 |
-| Goat Team | 10.00% | ~42 |
+| Goat Team | 10.00% | ~43 |
 | Weapons 101 | 8.00% | ~34 |
 | Sadist | 8.00% | ~34 |
 | The customer is always right | 7.00% | ~30 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 490)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 283)  
+Progressed: 426 (Ranked 283)  
 Completed: 6 (1.41%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 6 (1.41%) (Ranked 119)
 | 2023-09-28 | 421 | 6 |
 | 2023-09-30 | 424 | 6 |
 | 2023-10-01 | 425 | 6 |
+| 2023-10-04 | 426 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

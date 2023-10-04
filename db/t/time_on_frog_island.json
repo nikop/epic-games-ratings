@@ -92,9 +92,9 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a10",
@@ -381,8 +381,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:09:07.683212+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:08:27.3735755+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.5753092+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:59:38.5845209+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:09:07.6832386+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:59:40.7691489+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:08:27.3736041+00:00"
 }

@@ -10931,9 +10931,9 @@
       "Count": 25070
     }
   ],
-  "EOS_Progressed": 918771,
+  "EOS_Progressed": 918878,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13455,
+  "EOS_NewPlayers": 13446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29881,6 +29881,11 @@
       "Time": "2023-10-04T18:05:23.5163535+00:00",
       "NumProgressed": 918771,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-04T19:05:09.0558757+00:00",
+      "NumProgressed": 918878,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -29978,9 +29983,9 @@
       "ID": "ACH_012",
       "SetID": "bdmlp8o",
       "Name": "Agonizing Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_013",
@@ -30042,9 +30047,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_021",
@@ -30060,7 +30065,7 @@
       "Name": "Zealous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_023",
@@ -30068,7 +30073,7 @@
       "Name": "It wakes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_024",
@@ -30196,7 +30201,7 @@
       "Name": "Skillful",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_040",
@@ -30354,9 +30359,9 @@
       "ID": "ACH_059",
       "SetID": "16jml5b",
       "Name": "Engineer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_060",
@@ -31298,9 +31303,9 @@
       "ID": "ACH_180",
       "SetID": "16jml5b",
       "Name": "Humanitarian",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH_181",
@@ -31723,21 +31728,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 918771,
+      "Progressed": 918878,
       "Completed": 49
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 918771,
+      "Progressed": 918878,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-04T14:58:35.8729279+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:05:23.516353+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:05:09.0558753+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:58:38.8352494+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:05:23.516991+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:58:39.83828+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:05:09.0565753+00:00"
 }

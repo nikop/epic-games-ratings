@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
+| Regicide | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
 | Brilliant | 0.20% | ~29 |
 | Enlightened | 0.20% | ~29 |
@@ -44,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
+| Manichaeism | 0.20% | ~29 |
 | Babylonian Paganism | 0.20% | ~29 |
 | Carthaginian Paganism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
@@ -51,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
-| Regicide | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Power to the People | 0.10% | ~14 |
-| Manichaeism | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,344 (Ranked 133)  
+Progressed: 14,347 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,344 | 5 |
+| 2023-10-04 | 14,347 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

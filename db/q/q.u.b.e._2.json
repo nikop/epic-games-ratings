@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -2502,9 +2502,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_S4",
@@ -2550,8 +2550,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:04:36.6508645+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:04:24.1879752+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:38.6942596+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:04:36.6508985+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:42.6458317+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:04:24.1880088+00:00"
 }

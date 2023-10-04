@@ -514,9 +514,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 92,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -538,17 +538,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -570,9 +570,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 95,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -586,25 +586,25 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 92,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -618,9 +618,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -650,17 +650,17 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
       "SetID": "5fn8ia4",
       "Name": "Further Cleaning!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_37_BROOM_03",
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:04:05.722429+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:03:54.4789407+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:21.5541083+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:04:05.7225425+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:25.1626179+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:03:54.4790544+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "drawful-2",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2016-06-21T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:33.9840313+00:00",
   "LastChanged": "2023-03-31T05:57:33.9840314+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:43.1349448+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:02:25.4664433+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:03:38.8772468+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:02:17.4850121+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:03:38.4880492+00:00"
 }

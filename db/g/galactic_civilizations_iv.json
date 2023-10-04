@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6757,
+  "EOS_Progressed": 6758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6662,6 +6662,11 @@
       "Time": "2023-10-04T08:04:35.3057406+00:00",
       "NumProgressed": 6757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T19:04:38.0588079+00:00",
+      "NumProgressed": 6758,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6713,7 +6718,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "Control_All_Relics",
@@ -6737,7 +6742,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6753,7 +6758,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "First_Major_Ally",
@@ -6777,7 +6782,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5338
+      "UsersEstimate": 5339
     },
     {
       "ID": "First_Race_Met",
@@ -6809,7 +6814,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6889,7 +6894,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "Play_1000_Hours",
@@ -6977,7 +6982,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6993,7 +6998,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7248,15 +7253,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6757,
+      "Progressed": 6758,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:04:50.9220448+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:04:38.058807+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:53.4153135+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:04:50.9221658+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:56.938801+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:04:38.0589224+00:00"
 }

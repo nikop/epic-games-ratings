@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.03 (Ranked 958)  
+Rating: 4.03 (Ranked 957)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.03 (Ranked 958)
 | Battlefields Have Memories | 86.00% | ~56 |
 | Enlisted | 86.00% | ~56 |
 | Maybe Engage a Little | 83.00% | ~54 |
-| No More Names | 68.00% | ~44 |
+| No More Names | 69.00% | ~45 |
 | Initiate | 62.00% | ~40 |
 | Thrada-Kul | 60.00% | ~39 |
 | Gravity-Challenged Rocks | 51.00% | ~33 |
@@ -17,8 +17,8 @@ Rating: 4.03 (Ranked 958)
 | All the Major Food Groups | 42.00% | ~27 |
 | Beggars Would Ride | 35.00% | ~23 |
 | Control is an Illusion | 32.00% | ~21 |
+| Socialite | 29.00% | ~19 |
 | The Means to Save It | 28.00% | ~18 |
-| Socialite | 28.00% | ~18 |
 | Resilience to Sin | 23.00% | ~15 |
 | Armsman | 22.00% | ~14 |
 | A Familiar Nest | 18.00% | ~12 |

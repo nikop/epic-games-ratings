@@ -24,9 +24,9 @@
 | Show me your true self | 38.00% | ~19 |
 | No posters allowed | 38.00% | ~19 |
 | Little genius | 38.00% | ~19 |
+| GG | 36.00% | ~18 |
 | Shattered | 34.00% | ~17 |
-| GG | 34.00% | ~17 |
-| You've got mail! | 32.00% | ~16 |
+| You've got mail! | 34.00% | ~17 |
 | Ring-a-ding-ding | 32.00% | ~16 |
 | Mischief maker | 32.00% | ~16 |
 | Close the deal | 30.00% | ~15 |
@@ -41,7 +41,7 @@
 | Guilty conscience | 22.00% | ~11 |
 | Cameodalic | 20.00% | ~10 |
 | Clever reference #451 | 18.00% | ~9 |
-| What a mess | 14.00% | ~7 |
+| What a mess | 16.00% | ~8 |
 | Posterboy! | 12.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 431)  

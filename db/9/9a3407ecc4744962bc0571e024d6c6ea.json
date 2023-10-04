@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
     {
       "Time": "2023-08-22T19:03:09.0790912+00:00",
@@ -1486,6 +1486,11 @@
       "Time": "2023-10-04T18:04:09.6637692+00:00",
       "NumProgressed": 680,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T19:03:58.2682462+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1496,9 +1501,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 320
     },
     {
       "ID": "BostonHayDay",
@@ -1514,7 +1519,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "Cartographer",
@@ -1536,17 +1541,17 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 279
     },
     {
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 286
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -1578,7 +1583,7 @@
       "Name": "Lights Out",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1610,7 +1615,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "SkeletonCrew",
@@ -1650,21 +1655,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:04:09.6637683+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:03:58.2682458+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:58:24.4912338+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:04:09.6637943+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:58:27.8646469+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:03:58.2682684+00:00"
 }

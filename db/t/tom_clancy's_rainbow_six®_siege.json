@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
@@ -5370,11 +5370,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 14603,
       "NumberOfAwardsMax": 1778
+    },
+    {
+      "Time": "2023-10-04T18:59:46.0221818+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14617,
+      "NumberOfAwardsMax": 1780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14603,
-  "NumberOfAwardsMax": 1778,
+  "NumberOfAwards": 14617,
+  "NumberOfAwardsMax": 1780,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5387,25 +5393,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1652
+      "Count": 1655
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1653
+      "Count": 1654
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1778
+      "Count": 1780
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1722
+      "Count": 1724
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5417,25 +5423,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1656
+      "Count": 1657
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1627
+      "Count": 1630
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1393
+      "Count": 1394
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1499
+      "Count": 1500
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5455,8 +5461,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-09-24T20:59:09.1560262+00:00",
+  "LastChanged": "2023-10-04T18:59:46.0221817+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.5891097+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:59:43.8819455+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:06:52.5488763+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:59:46.0221824+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:06:34.3204461+00:00"
 }

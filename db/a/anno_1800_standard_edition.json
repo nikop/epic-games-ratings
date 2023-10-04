@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
@@ -8940,11 +8940,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 12921,
       "NumberOfAwardsMax": 1670
+    },
+    {
+      "Time": "2023-10-04T19:01:02.3869457+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12929,
+      "NumberOfAwardsMax": 1676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12921,
-  "NumberOfAwardsMax": 1670,
+  "NumberOfAwards": 12929,
+  "NumberOfAwardsMax": 1676,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -8987,7 +8993,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1670
+      "Count": 1676
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8999,7 +9005,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1448
+      "Count": 1450
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9025,8 +9031,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-10-04T17:01:31.2571519+00:00",
+  "LastChanged": "2023-10-04T19:01:02.3869455+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.5713046+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:58.6327874+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:03:33.3851431+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:01:02.3869463+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:03:33.3519115+00:00"
 }

@@ -5198,9 +5198,9 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5525,8 +5525,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-29T14:57:38.8213386+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:06:11.0726111+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:05:54.5265168+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-04T18:00:22.9212309+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:06:11.0726802+00:00"
+  "LastUpdate_Ratings": "2023-10-04T19:00:27.0009378+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:05:54.5265879+00:00"
 }

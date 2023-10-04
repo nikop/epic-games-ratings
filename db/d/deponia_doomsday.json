@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
@@ -417,6 +417,11 @@
       "Time": "2023-10-01T15:05:58.3207206+00:00",
       "NumProgressed": 425,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-04T19:07:36.9887725+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -428,7 +433,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "dep4_achievement_10",
@@ -468,7 +473,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "dep4_achievement_15",
@@ -500,7 +505,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "dep4_achievement_19",
@@ -516,7 +521,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "dep4_achievement_20",
@@ -532,7 +537,7 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "dep4_achievement_22",
@@ -612,7 +617,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "dep4_achievement_31",
@@ -620,7 +625,7 @@
       "Name": "Goat Team",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "dep4_achievement_32",
@@ -668,7 +673,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "dep4_achievement_5",
@@ -676,15 +681,15 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "dep4_achievement_6",
       "SetID": "5d32b60",
       "Name": "School\u0027s out",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 183
     },
     {
       "ID": "dep4_achievement_7",
@@ -715,7 +720,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 6
     }
   ],
@@ -723,8 +728,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-04T18:08:18.335178+00:00",
+  "LastChanged_Achievements": "2023-10-04T19:07:36.9887721+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.8030438+00:00",
-  "LastUpdate_Ratings": "2023-10-04T17:59:18.064452+00:00",
-  "LastUpdate_Achievements": "2023-10-04T18:08:18.3352084+00:00"
+  "LastUpdate_Ratings": "2023-10-04T18:59:19.7256828+00:00",
+  "LastUpdate_Achievements": "2023-10-04T19:07:36.9888071+00:00"
 }

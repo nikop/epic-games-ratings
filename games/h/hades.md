@@ -6,39 +6,39 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,165 |
-| Escaped Asphodel | 80.00% | ~563,744 |
-| Arms Collector | 71.00% | ~500,323 |
-| Friends in High Places | 68.00% | ~479,182 |
-| Escaped Elysium | 66.00% | ~465,089 |
-| Chthonic Colleagues | 63.00% | ~443,948 |
-| Is There No Escape? | 52.00% | ~366,434 |
-| Death Dealer | 45.00% | ~317,106 |
+| Escaped Tartarus | 89.00% | ~627,167 |
+| Escaped Asphodel | 80.00% | ~563,746 |
+| Arms Collector | 71.00% | ~500,324 |
+| Friends in High Places | 68.00% | ~479,184 |
+| Escaped Elysium | 66.00% | ~465,090 |
+| Chthonic Colleagues | 63.00% | ~443,950 |
+| Is There No Escape? | 52.00% | ~366,435 |
+| Death Dealer | 45.00% | ~317,107 |
 | Skelly Slayer | 42.00% | ~295,966 |
-| Well Stocked | 40.00% | ~281,872 |
-| Back to Work | 38.00% | ~267,778 |
+| Well Stocked | 40.00% | ~281,873 |
+| Back to Work | 38.00% | ~267,779 |
 | Day-or-Night Trader | 37.00% | ~260,732 |
 | Blessed by the Gods | 37.00% | ~260,732 |
-| Urge to Sing | 36.00% | ~253,685 |
-| Blood Bound | 35.00% | ~246,638 |
+| Urge to Sing | 36.00% | ~253,686 |
+| Blood Bound | 35.00% | ~246,639 |
 | Three-Headed Boy | 32.00% | ~225,498 |
-| River Denizens | 28.00% | ~197,310 |
-| Grown Close | 28.00% | ~197,310 |
+| River Denizens | 28.00% | ~197,311 |
+| Grown Close | 28.00% | ~197,311 |
 | Home Makeover | 27.00% | ~190,264 |
 | The Family Secret | 26.00% | ~183,217 |
 | Had to Happen | 25.00% | ~176,170 |
-| To Charon's Credit | 23.00% | ~162,076 |
-| Tools of the Architect | 23.00% | ~162,076 |
-| Master of Arms | 23.00% | ~162,076 |
+| To Charon's Credit | 23.00% | ~162,077 |
+| Tools of the Architect | 23.00% | ~162,077 |
+| Master of Arms | 23.00% | ~162,077 |
 | Rare Collectible | 22.00% | ~155,030 |
 | Weapon of Fate | 21.00% | ~147,983 |
-| Something From Everyone | 19.00% | ~133,889 |
-| Hold the Onions | 18.00% | ~126,842 |
+| Something From Everyone | 19.00% | ~133,890 |
+| Hold the Onions | 18.00% | ~126,843 |
 | Well Versed | 17.00% | ~119,796 |
 | War-God's Bloodlust | 15.00% | ~105,702 |
 | Musician and Muse | 14.00% | ~98,655 |
-| The Useless Trinket | 13.00% | ~91,608 |
-| Champion of Elysium | 13.00% | ~91,608 |
+| The Useless Trinket | 13.00% | ~91,609 |
+| Champion of Elysium | 13.00% | ~91,609 |
 | Slashed Benefits | 12.00% | ~84,562 |
 | Haste of Hermes | 11.00% | ~77,515 |
 | Bad Call | 10.00% | ~70,468 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,421 |
 | Thanks, But No Thanks | 9.00% | ~63,421 |
 | Infernal Arms | 9.00% | ~63,421 |
-| Divided by Death | 8.00% | ~56,374 |
+| Divided by Death | 8.00% | ~56,375 |
 | Harsh Conditions | 7.00% | ~49,328 |
 | One for the Ages | 7.00% | ~49,328 |
 | Complete Set | 6.00% | ~42,281 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,187 |
 | Friends Forever | 4.00% | ~28,187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,680 (Ranked 21)  
+Progressed: 704,682 (Ranked 21)  
 Completed: 6,395 (0.91%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,15 +223,15 @@ Completed: 6,395 (0.91%) (Ranked 143)
 | 2023-10-01 | 704,539 | 6,392 |
 | 2023-10-02 | 704,585 | 6,392 |
 | 2023-10-03 | 704,636 | 6,393 |
-| 2023-10-04 | 704,680 | 6,395 |
+| 2023-10-04 | 704,682 | 6,395 |
 ## Awards
 Max (Character Customization): 3,291  (Ranked 94)  
-Sum: 7,980 (Ranked 102)  
+Sum: 7,981 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,291 |
-| This game has Great Boss Battles | 2,313 |
+| This game has Great Boss Battles | 2,314 |
 | This game is Highly Recommended | 269 |
 | This game is Great for Beginners | 260 |
 | This game has Amazing Storytelling | 247 |
@@ -484,4 +484,4 @@ Diff (max vs sum): -8
 | 2023-10-01 | 4.92 | - | 3,287 | 7,969 |
 | 2023-10-02 | 4.92 | - | 3,290 | 7,975 |
 | 2023-10-03 | 4.92 | - | 3,290 | 7,979 |
-| 2023-10-04 | 4.92 | - | 3,291 | 7,980 |
+| 2023-10-04 | 4.92 | - | 3,291 | 7,981 |

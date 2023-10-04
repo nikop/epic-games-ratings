@@ -1,26 +1,26 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 631)  
+Rating: 4.46 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,488 |
-| My First Runbow | 50.00% | ~124,989 |
-| It's The Fall | 26.00% | ~64,994 |
+| In The Zone | 53.00% | ~132,489 |
+| My First Runbow | 50.00% | ~124,990 |
+| It's The Fall | 26.00% | ~64,995 |
 | The Stunner | 22.00% | ~54,995 |
-| Be Aggressive | 21.00% | ~52,495 |
+| Be Aggressive | 21.00% | ~52,496 |
 | Curator | 20.00% | ~49,996 |
 | Crowning Around | 18.00% | ~44,996 |
 | Can You Dig It? | 17.00% | ~42,496 |
-| You Juan-A-Go? | 16.00% | ~39,996 |
+| You Juan-A-Go? | 16.00% | ~39,997 |
 | Chan-tastic | 15.00% | ~37,497 |
 | Muddy Waters | 15.00% | ~37,497 |
 | Toasty! | 13.00% | ~32,497 |
 | Lazy Laser | 8.00% | ~19,998 |
-| Just A Phaze | 7.00% | ~17,498 |
-| Into The Drift | 7.00% | ~17,498 |
-| Ready? Fight! | 7.00% | ~17,498 |
+| Just A Phaze | 7.00% | ~17,499 |
+| Into The Drift | 7.00% | ~17,499 |
+| Ready? Fight! | 7.00% | ~17,499 |
 | Butt Butt | 6.00% | ~14,999 |
 | He Who Laughs Last | 3.00% | ~7,499 |
 | Shoo, Cat! | 3.00% | ~7,499 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 631)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,978 (Ranked 50)  
+Progressed: 249,979 (Ranked 50)  
 Completed: 6 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.00%) (Ranked 306)
 | 2023-10-01 | 249,905 | 6 |
 | 2023-10-02 | 249,938 | 6 |
 | 2023-10-03 | 249,963 | 6 |
-| 2023-10-04 | 249,978 | 6 |
+| 2023-10-04 | 249,979 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

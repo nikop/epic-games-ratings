@@ -6,13 +6,13 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 0.30% | ~450 |
+| Taste | 0.30% | ~451 |
+| Imprint | 0.30% | ~451 |
 | The Hunt | 0.20% | ~300 |
 | Weeper | 0.20% | ~300 |
 | Harmless | 0.20% | ~300 |
 | Silenced Whispers | 0.20% | ~300 |
 | Devourer | 0.20% | ~300 |
-| Imprint | 0.20% | ~300 |
 | Ravenous | 0.20% | ~300 |
 | Spiral Heart | 0.10% | ~150 |
 | Bloodhunter | 0.10% | ~150 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,152 (Ranked 68)  
+Progressed: 150,167 (Ranked 68)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-09-30 | 149,649 | 1 |
 | 2023-10-02 | 149,650 | 1 |
 | 2023-10-03 | 149,903 | 1 |
-| 2023-10-04 | 150,152 | 1 |
+| 2023-10-04 | 150,167 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
-Sum: 264 (Ranked 360)  
+Sum: 265 (Ranked 360)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 31 |
 | This game has a Creative Community | 30 |
 | This game has Amazing Storytelling | 30 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -319,3 +319,4 @@ Diff (max vs sum): 71
 | 2023-10-01 | 4.59 | - | 41 | 255 |
 | 2023-10-02 | 4.59 | - | 41 | 260 |
 | 2023-10-03 | 4.59 | - | 42 | 264 |
+| 2023-10-04 | 4.59 | - | 42 | 265 |

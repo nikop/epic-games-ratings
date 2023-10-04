@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 70.00% | ~7 |
 | Sea Legs | 60.00% | ~6 |
+| Frogs Legs | 20.00% | ~2 |
 | What?! | 20.00% | ~2 |
 | Hoist the Sails | 20.00% | ~2 |
-| Frogs Legs | 10.00% | ~1 |
 | Socialite | 10.00% | ~1 |
 | Who Even Needs Keys | 10.00% | ~1 |
 | Mad Scientist | 10.00% | ~1 |

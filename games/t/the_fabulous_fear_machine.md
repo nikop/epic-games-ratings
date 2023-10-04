@@ -6,11 +6,13 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 80.00% | ~4 |
 | Master trainee | 40.00% | ~2 |
+| Jung's dream | 40.00% | ~2 |
+| The battle of Great Britain | 40.00% | ~2 |
 | You had one wish left | 20.00% | ~1 |
-| Jung's dream | 20.00% | ~1 |
 | Giant | 20.00% | ~1 |
 | The artist | 20.00% | ~1 |
-| The battle of Great Britain | 20.00% | ~1 |
+| Pulp! Terror Tales in the Night | 20.00% | ~1 |
+| Pulp! Where Monsters Dwell | 20.00% | ~1 |
 | Pulp! Out of this World | 20.00% | ~1 |
 | A continent with chemistry | 20.00% | ~1 |
 | The barbarian invasions | 20.00% | ~1 |
@@ -38,8 +40,6 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! Terror Tales in the Night | 0.00% | ~0 |
-| Pulp! Where Monsters Dwell | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
