@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8496,9 +8496,9 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297788,
+  "EOS_Progressed": 297789,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26481,6 +26481,11 @@
       "Time": "2023-10-04T05:06:13.9625849+00:00",
       "NumProgressed": 297788,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-04T06:06:08.3422558+00:00",
+      "NumProgressed": 297789,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26820,7 +26825,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38712
+      "UsersEstimate": 38713
     },
     {
       "ID": "PFA_7",
@@ -26828,7 +26833,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38712
+      "UsersEstimate": 38713
     },
     {
       "ID": "PFA_8",
@@ -26851,7 +26856,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297788,
+      "Progressed": 297789,
       "Completed": 480
     }
   ],
@@ -26859,8 +26864,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-04T02:17:01.4874189+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:06:13.9625842+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:06:08.342255+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:00:44.4618411+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:06:13.9628386+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:00:56.230624+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:06:08.3425137+00:00"
 }

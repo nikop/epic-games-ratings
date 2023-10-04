@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1506,9 +1506,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 1274209,
+  "EOS_Progressed": 1274213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2451,
+  "EOS_NewPlayers": 2443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15951,6 +15951,11 @@
       "Time": "2023-10-04T05:05:34.1821388+00:00",
       "NumProgressed": 1274209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T06:05:28.0516958+00:00",
+      "NumProgressed": 1274213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -16098,7 +16103,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 203873
+      "UsersEstimate": 203874
     },
     {
       "ID": "10_hunter_wins",
@@ -16226,7 +16231,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50968
+      "UsersEstimate": 50969
     },
     {
       "ID": "50_riot_shield_kills",
@@ -16258,7 +16263,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 764525
+      "UsersEstimate": 764528
     },
     {
       "ID": "hunter_win",
@@ -16266,7 +16271,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 688073
+      "UsersEstimate": 688075
     },
     {
       "ID": "master_of_loadouts",
@@ -16290,14 +16295,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 293068
+      "UsersEstimate": 293069
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1274209,
+      "Progressed": 1274213,
       "Completed": 0
     }
   ],
@@ -16305,8 +16310,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-10-04T01:42:46.421228+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:05:34.182138+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:05:28.0516951+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:59.2722126+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:59:40.3021688+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:05:34.1822594+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:59:46.6081149+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:05:28.051908+00:00"
 }

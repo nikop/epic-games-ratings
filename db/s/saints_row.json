@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3732,9 +3732,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73682,
+  "EOS_Progressed": 73683,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -22432,6 +22432,11 @@
       "Time": "2023-10-04T05:07:52.7041536+00:00",
       "NumProgressed": 73682,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-04T06:07:47.0102956+00:00",
+      "NumProgressed": 73683,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 53,
@@ -22491,7 +22496,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18420
+      "UsersEstimate": 18421
     },
     {
       "ID": "complet_epilogue_mission",
@@ -22539,7 +22544,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 22841
+      "UsersEstimate": 22842
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -22547,7 +22552,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23578
+      "UsersEstimate": 23579
     },
     {
       "ID": "complete_mission_1",
@@ -22619,7 +22624,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18420
+      "UsersEstimate": 18421
     },
     {
       "ID": "empire_tier_3",
@@ -22651,7 +22656,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23578
+      "UsersEstimate": 23579
     },
     {
       "ID": "fully_complete_a_building",
@@ -22675,7 +22680,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10315
+      "UsersEstimate": 10316
     },
     {
       "ID": "get_betrayed",
@@ -22827,7 +22832,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 30946
+      "UsersEstimate": 30947
     },
     {
       "ID": "whole_map_purple",
@@ -22866,13 +22871,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73682,
+      "Progressed": 73683,
       "Completed": 50
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 45319,
+      "Progressed": 45320,
       "Completed": 4012
     }
   ],
@@ -22880,8 +22885,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-01T18:03:15.1951631+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:07:52.704153+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:07:47.0102947+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.2297525+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:57:37.1417202+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:07:52.7043512+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:57:44.7433121+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:07:47.0104575+00:00"
 }

@@ -8,26 +8,26 @@
 | Meissa's Savior | 95.00% | ~36 |
 | Purification Pioneer | 95.00% | ~36 |
 | Dicesmithing Time! | 89.00% | ~34 |
+| Wild's Keeper | 84.00% | ~32 |
 | Sanctuary Guardian | 82.00% | ~31 |
-| Wild's Keeper | 82.00% | ~31 |
 | Endless Tricks | 79.00% | ~30 |
 | Mind Illuminator | 68.00% | ~26 |
 | Stellar Dismantler | 55.00% | ~21 |
 | Astral Adventurer | 45.00% | ~17 |
-| Anomaly Destroyer | 39.00% | ~15 |
+| Anomaly Destroyer | 42.00% | ~16 |
 | Star Killer | 39.00% | ~15 |
 | Unbeatable | 37.00% | ~14 |
-| Loyal Partner | 32.00% | ~12 |
+| Loyal Partner | 34.00% | ~13 |
 | Sadistic Plan | 26.00% | ~10 |
 | Stellar Haste | 21.00% | ~8 |
 | The Corruption Goddess | 21.00% | ~8 |
 | Sentinelphobic | 16.00% | ~6 |
 | Shard Spender | 16.00% | ~6 |
 | Skeptical | 13.00% | ~5 |
+| Wave Bender | 13.00% | ~5 |
 | Dice Specialist | 11.00% | ~4 |
 | Heart Gate | 11.00% | ~4 |
 | Heavy Purger | 11.00% | ~4 |
-| Wave Bender | 11.00% | ~4 |
 | Astral Seeker | 8.00% | ~3 |
 | Denying Destiny | 8.00% | ~3 |
 | The Goddes Avatar | 8.00% | ~3 |

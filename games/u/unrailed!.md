@@ -6,8 +6,8 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~110,602 |
-| Incurious | 17.00% | ~110,602 |
+| Advanced Stroller | 17.00% | ~110,603 |
+| Incurious | 17.00% | ~110,603 |
 | Stroller | 15.00% | ~97,590 |
 | Climate Change | 15.00% | ~97,590 |
 | Toy Train | 13.00% | ~84,578 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~651 |
 | 20 Miles under the Sea | 0.10% | ~651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650,598 (Ranked 26)  
+Progressed: 650,603 (Ranked 26)  
 Completed: 11 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,15 +226,15 @@ Completed: 11 (0.00%) (Ranked 306)
 | 2023-10-01 | 649,732 | 11 |
 | 2023-10-02 | 650,208 | 11 |
 | 2023-10-03 | 650,543 | 11 |
-| 2023-10-04 | 650,598 | 11 |
+| 2023-10-04 | 650,603 | 11 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 278)  
-Sum: 1,578 (Ranked 221)  
+Sum: 1,579 (Ranked 221)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 197 |
-| This game has Diverse Characters | 194 |
+| This game has Diverse Characters | 195 |
 | This game has Quickly Understood Controls | 191 |
 | This game is Extremely Fun | 185 |
 | This game is Relaxing | 179 |
@@ -372,3 +372,4 @@ Diff (max vs sum): 57
 | 2023-09-26 | 4.64 | - | 197 | 1,574 |
 | 2023-09-27 | 4.64 | - | 197 | 1,575 |
 | 2023-09-30 | 4.64 | - | 197 | 1,578 |
+| 2023-10-04 | 4.64 | - | 197 | 1,579 |

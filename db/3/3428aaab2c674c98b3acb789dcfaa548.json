@@ -5598,10 +5598,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 12893,
       "NumberOfAwardsMax": 4566
+    },
+    {
+      "Time": "2023-10-04T06:00:31.8375958+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 12898,
+      "NumberOfAwardsMax": 4566
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12893,
+  "NumberOfAwards": 12898,
   "NumberOfAwardsMax": 4566,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5621,7 +5627,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 784
+      "Count": 789
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5678,9 +5684,9 @@
       "Count": 888
     }
   ],
-  "EOS_Progressed": 808395,
+  "EOS_Progressed": 808404,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 5719,
+  "EOS_NewPlayers": 5707,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21058,6 +21064,11 @@
       "Time": "2023-10-04T05:09:29.5864682+00:00",
       "NumProgressed": 808395,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-10-04T06:09:12.9208427+00:00",
+      "NumProgressed": 808404,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 75,
@@ -21069,7 +21080,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185931
+      "UsersEstimate": 185933
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -21668,22 +21679,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 808395,
+      "Progressed": 808404,
       "Completed": 208
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 808395,
+      "Progressed": 808404,
       "Completed": 174
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-10-04T02:59:58.5947425+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:09:29.5864677+00:00",
+  "LastChanged": "2023-10-04T06:00:31.8375956+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:09:12.9208419+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:58.0679026+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:00:22.1161865+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:09:29.5866433+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:00:31.8375966+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:09:12.9211511+00:00"
 }

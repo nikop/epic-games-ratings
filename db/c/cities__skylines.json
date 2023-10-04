@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10672,9 +10672,9 @@
       "Count": 3368
     }
   ],
-  "EOS_Progressed": 1085814,
+  "EOS_Progressed": 1085852,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12203,
+  "EOS_NewPlayers": 12191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29537,6 +29537,11 @@
       "Time": "2023-10-04T05:03:35.4283904+00:00",
       "NumProgressed": 1085814,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-04T06:03:30.0383918+00:00",
+      "NumProgressed": 1085852,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 119,
@@ -29556,7 +29561,7 @@
       "Name": "A Huge Hadron",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "AcademicScholar",
@@ -29596,7 +29601,7 @@
       "Name": "Airport Architect",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "Ambulare",
@@ -29620,7 +29625,7 @@
       "Name": "Are They Naked In There?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "BeamMeUp",
@@ -29668,7 +29673,7 @@
       "Name": "City in Motion",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 10858
+      "UsersEstimate": 10859
     },
     {
       "ID": "CityInMotion2",
@@ -29684,7 +29689,7 @@
       "Name": "City Planner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 249737
+      "UsersEstimate": 249746
     },
     {
       "ID": "ClarkCable",
@@ -29700,7 +29705,7 @@
       "Name": "Climbing the Social Ladder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 173730
+      "UsersEstimate": 173736
     },
     {
       "ID": "CoasterTycoon",
@@ -29764,7 +29769,7 @@
       "Name": "Does My Bum Look Big In This?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 184588
+      "UsersEstimate": 184595
     },
     {
       "ID": "DropTheBase",
@@ -29780,7 +29785,7 @@
       "Name": "Earthloving City",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10858
+      "UsersEstimate": 10859
     },
     {
       "ID": "EternalCity",
@@ -29804,7 +29809,7 @@
       "Name": "Fire Watch",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 54291
+      "UsersEstimate": 54293
     },
     {
       "ID": "FisherKing",
@@ -29820,7 +29825,7 @@
       "Name": "Foggy Weather",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 640630
+      "UsersEstimate": 640653
     },
     {
       "ID": "ForForProfitEducation",
@@ -29844,7 +29849,7 @@
       "Name": "Friendly Teaching",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "FullCapacity",
@@ -29884,7 +29889,7 @@
       "Name": "Green Energy",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 651488
+      "UsersEstimate": 651511
     },
     {
       "ID": "GreenestCity",
@@ -29892,7 +29897,7 @@
       "Name": "Greenest City",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 43433
+      "UsersEstimate": 43434
     },
     {
       "ID": "HappyTown",
@@ -29908,7 +29913,7 @@
       "Name": "Heavenly City",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 32574
+      "UsersEstimate": 32576
     },
     {
       "ID": "HeresATram",
@@ -29916,7 +29921,7 @@
       "Name": "Here\u0027s A Tram",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "HighCostCarrier",
@@ -30012,7 +30017,7 @@
       "Name": "Lawmaker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 108581
+      "UsersEstimate": 108585
     },
     {
       "ID": "LeisureSuites",
@@ -30052,7 +30057,7 @@
       "Name": "Metropolis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 10858
+      "UsersEstimate": 10859
     },
     {
       "ID": "MultidisciplinaryTransportTycoon",
@@ -30084,7 +30089,7 @@
       "Name": "Nomen Est Omen",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 76007
+      "UsersEstimate": 76010
     },
     {
       "ID": "NotSoMono",
@@ -30124,7 +30129,7 @@
       "Name": "Pioneer",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 770928
+      "UsersEstimate": 770955
     },
     {
       "ID": "PlayingWithTheBoys",
@@ -30148,7 +30153,7 @@
       "Name": "Power at Your Fingertips",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 358319
+      "UsersEstimate": 358331
     },
     {
       "ID": "PowerToThePeople",
@@ -30172,7 +30177,7 @@
       "Name": "Professional Dumper",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21716
+      "UsersEstimate": 21717
     },
     {
       "ID": "PutSomeBlimpInYourBlimp",
@@ -30188,7 +30193,7 @@
       "Name": "Quay-King",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 119440
+      "UsersEstimate": 119444
     },
     {
       "ID": "RejoiceAndBeFerry",
@@ -30204,7 +30209,7 @@
       "Name": "Reporting!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32574
+      "UsersEstimate": 32576
     },
     {
       "ID": "RollingInDough",
@@ -30212,7 +30217,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 217163
+      "UsersEstimate": 217170
     },
     {
       "ID": "RunBambi",
@@ -30220,7 +30225,7 @@
       "Name": "Run, Bambi!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "SIMulatedCity",
@@ -30228,7 +30233,7 @@
       "Name": "SIMulated City",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 32574
+      "UsersEstimate": 32576
     },
     {
       "ID": "SafeCity",
@@ -30236,7 +30241,7 @@
       "Name": "Safe City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 152014
+      "UsersEstimate": 152019
     },
     {
       "ID": "ScalingUp",
@@ -30268,7 +30273,7 @@
       "Name": "Short Fuse",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "SightsToBeSeen",
@@ -30284,7 +30289,7 @@
       "Name": "Singing In The-",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 640630
+      "UsersEstimate": 640653
     },
     {
       "ID": "Speedup",
@@ -30340,7 +30345,7 @@
       "Name": "The Safest Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32574
+      "UsersEstimate": 32576
     },
     {
       "ID": "TheSweetestCity",
@@ -30420,7 +30425,7 @@
       "Name": "Unpopular Mayor",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 434326
+      "UsersEstimate": 434341
     },
     {
       "ID": "VarsitySportsPatron",
@@ -30452,7 +30457,7 @@
       "Name": "We need snorkels!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "WellInformed",
@@ -30460,7 +30465,7 @@
       "Name": "Well Informed",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 65149
+      "UsersEstimate": 65151
     },
     {
       "ID": "WhatThe",
@@ -30476,7 +30481,7 @@
       "Name": "With Canals You Can!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 108581
+      "UsersEstimate": 108585
     },
     {
       "ID": "WorldOfRotorcraft",
@@ -30499,21 +30504,21 @@
     {
       "ID": "36jm6o0",
       "IsBase": false,
-      "Progressed": 1085814,
+      "Progressed": 1085852,
       "Completed": 2
     },
     {
       "ID": "6bebhm4",
       "IsBase": true,
-      "Progressed": 1085814,
+      "Progressed": 1085852,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
   "LastChanged": "2023-10-04T03:57:52.8352818+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:03:35.4283895+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:03:30.0383912+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:17.8596022+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:58:26.4658601+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:03:35.4286977+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:58:33.4381776+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:03:30.0387013+00:00"
 }

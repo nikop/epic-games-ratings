@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2622,10 +2622,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1578,
       "NumberOfAwardsMax": 197
+    },
+    {
+      "Time": "2023-10-04T05:59:05.8238014+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1579,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1578,
+  "NumberOfAwards": 1579,
   "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2651,7 +2657,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2696,9 +2702,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 650598,
+  "EOS_Progressed": 650603,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 3276,
+  "EOS_NewPlayers": 3277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21466,6 +21472,11 @@
       "Time": "2023-10-04T05:08:29.435781+00:00",
       "NumProgressed": 650598,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-04T06:08:23.4253208+00:00",
+      "NumProgressed": 650603,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 52,
@@ -21517,7 +21528,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110602
+      "UsersEstimate": 110603
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -21725,7 +21736,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110602
+      "UsersEstimate": 110603
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -21892,15 +21903,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 650598,
+      "Progressed": 650603,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2023-09-30T06:00:10.576291+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:08:29.4357804+00:00",
+  "LastChanged": "2023-10-04T05:59:05.8238012+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:08:23.4253204+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:23.0853733+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:59:00.924479+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:08:29.4359494+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:59:05.8238019+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:08:23.4254796+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -344,9 +344,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2259,6 +2259,11 @@
       "Time": "2023-10-03T22:04:22.6138154+00:00",
       "NumProgressed": 556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-04T06:04:36.1655781+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2287,7 +2292,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2471,7 +2476,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_S5",
@@ -2502,15 +2507,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-03T14:59:31.6429715+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:04:41.9973891+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:04:36.1655773+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:00:46.5073308+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:04:41.9974267+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:00:57.9219684+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:04:36.1656347+00:00"
 }

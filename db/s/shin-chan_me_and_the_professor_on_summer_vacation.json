@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -423,9 +423,9 @@
       "ID": "Trophy_38",
       "SetID": "cf5h6dl",
       "Name": "Stego Stooge",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Trophy_39",
@@ -463,9 +463,9 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Trophy_44",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:07:30.0808419+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:07:24.6691154+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:43.6438398+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:58:20.9625643+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:07:30.0809+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:58:28.4872257+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:07:24.6691863+00:00"
 }

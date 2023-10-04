@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.05 (Ranked 951)  
+Rating: 4.06 (Ranked 945)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -298,3 +298,4 @@ Diff (max vs sum): 44
 | 2023-09-29 | 4.03 | 23 | 65 |
 | 2023-09-30 | 4.05 | 23 | 65 |
 | 2023-10-01 | 4.05 | 24 | 66 |
+| 2023-10-04 | 4.06 | 24 | 66 |

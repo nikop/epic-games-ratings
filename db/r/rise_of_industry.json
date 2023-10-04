@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739766,
+  "EOS_Progressed": 739768,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2042,
+  "EOS_NewPlayers": 2039,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19134,6 +19134,11 @@
       "Time": "2023-10-04T05:07:27.3727968+00:00",
       "NumProgressed": 739766,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-04T06:07:21.918909+00:00",
+      "NumProgressed": 739768,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -19209,7 +19214,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 273713
+      "UsersEstimate": 273714
     },
     {
       "ID": "ach_demolish_trees",
@@ -19217,7 +19222,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 125760
+      "UsersEstimate": 125761
     },
     {
       "ID": "ach_free_cam_mode",
@@ -19273,7 +19278,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 355088
+      "UsersEstimate": 355089
     },
     {
       "ID": "ach_produced",
@@ -19360,7 +19365,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 739766,
+      "Progressed": 739768,
       "Completed": 4
     }
   ],
@@ -19368,8 +19373,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:07:27.3727962+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:07:21.9189081+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:48.7889039+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:57:40.9203391+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:07:27.3730243+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:57:48.6750765+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:07:21.9191434+00:00"
 }

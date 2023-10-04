@@ -9,8 +9,8 @@
 | Seven Days of Endless Adventure | 24.00% | ~9 |
 | Masu-ter Angler | 18.00% | ~7 |
 | Go-Getter | 18.00% | ~7 |
+| River Cleaner | 18.00% | ~7 |
 | Handyman Extraordinaire | 16.00% | ~6 |
-| River Cleaner | 16.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~5 |
 | Just Hoverin' Along | 13.00% | ~5 |
 | What's That Smell? | 13.00% | ~5 |
@@ -23,6 +23,7 @@
 | The Holly Grail | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
 | Top-Notch Journalist | 8.00% | ~3 |
+| Stego Stooge | 8.00% | ~3 |
 | Asso Bridge Enthusiast | 8.00% | ~3 |
 | A New Time | 5.00% | ~2 |
 | Beetle Savant | 5.00% | ~2 |
@@ -31,7 +32,6 @@
 | Love Is in the Air! | 5.00% | ~2 |
 | Biwa Be Mine | 5.00% | ~2 |
 | Ice Fishing | 5.00% | ~2 |
-| Stego Stooge | 5.00% | ~2 |
 | T-Rex Wrangler | 5.00% | ~2 |
 | Gumdum Robot, I Choose You! | 5.00% | ~2 |
 | Bee Professor | 3.00% | ~1 |

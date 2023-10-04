@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1822,9 +1822,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 268260,
+  "EOS_Progressed": 268268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1776,
+  "EOS_NewPlayers": 1779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20687,6 +20687,11 @@
       "Time": "2023-10-04T05:08:22.2009341+00:00",
       "NumProgressed": 268260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T06:08:16.1298023+00:00",
+      "NumProgressed": 268268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -20746,7 +20751,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26826
+      "UsersEstimate": 26827
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -20786,7 +20791,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10730
+      "UsersEstimate": 10731
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20858,7 +20863,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26826
+      "UsersEstimate": 26827
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -20922,7 +20927,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 219973
+      "UsersEstimate": 219980
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -20930,22 +20935,22 @@
       "Name": "I know the Rules",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 96574
+      "UsersEstimate": 96576
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 268260,
+      "Progressed": 268268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-24T01:47:23.5017691+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:08:22.2009333+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:08:16.1298017+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:37.6159456+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:01:18.4841302+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:08:22.2010692+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:01:26.6542973+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:08:16.1299445+00:00"
 }

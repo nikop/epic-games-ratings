@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1337,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129286,
+  "EOS_Progressed": 129287,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18077,6 +18077,11 @@
       "Time": "2023-10-04T05:08:41.0829039+00:00",
       "NumProgressed": 129286,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-04T06:08:35.044915+00:00",
+      "NumProgressed": 129287,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18120,7 +18125,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23271
+      "UsersEstimate": 23272
     },
     {
       "ID": "ACH_COP_BAD",
@@ -18232,7 +18237,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14221
+      "UsersEstimate": 14222
     },
     {
       "ID": "ACH_CUNO",
@@ -18407,15 +18412,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129286,
+      "Progressed": 129287,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:08:41.082903+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:08:35.0449143+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-04T04:57:36.8576891+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:08:41.0830677+00:00"
+  "LastUpdate_Ratings": "2023-10-04T05:57:44.5366251+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:08:35.0451512+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233050,
+  "EOS_Progressed": 233051,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -17913,6 +17913,11 @@
       "Time": "2023-10-04T04:09:36.0265216+00:00",
       "NumProgressed": 233050,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-04T06:09:22.753393+00:00",
+      "NumProgressed": 233051,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18028,7 +18033,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "HIDDENPOWER",
@@ -18060,7 +18065,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76906
+      "UsersEstimate": 76907
     },
     {
       "ID": "NOBUNAGA",
@@ -18084,7 +18089,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20974
+      "UsersEstimate": 20975
     },
     {
       "ID": "PHOTOFINISH",
@@ -18116,7 +18121,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11652
+      "UsersEstimate": 11653
     },
     {
       "ID": "RESPWND",
@@ -18188,22 +18193,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95550
+      "UsersEstimate": 95551
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233050,
+      "Progressed": 233051,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:09:39.9060066+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:09:22.7533922+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:09.0813317+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:02:02.8315593+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:09:39.9061383+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:02:06.1594136+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:09:22.7536221+00:00"
 }

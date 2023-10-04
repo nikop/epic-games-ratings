@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2812,9 +2812,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 77903,
+  "EOS_Progressed": 77904,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -21207,6 +21207,11 @@
       "Time": "2023-10-04T05:04:58.6999123+00:00",
       "NumProgressed": 77903,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2023-10-04T06:04:52.8188609+00:00",
+      "NumProgressed": 77904,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 30,
@@ -21266,7 +21271,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10906
+      "UsersEstimate": 10907
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -21378,7 +21383,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -21386,7 +21391,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 11685
+      "UsersEstimate": 11686
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -21457,15 +21462,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 77903,
+      "Progressed": 77904,
       "Completed": 141
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-25T07:59:53.3149974+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:04:58.6999117+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:04:52.8188603+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:19.4334179+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:00:10.4784337+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:04:58.7000457+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:00:20.3136413+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:04:52.8189965+00:00"
 }

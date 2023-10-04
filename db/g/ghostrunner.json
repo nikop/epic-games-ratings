@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1224,9 +1224,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19377,
+  "EOS_Progressed": 19378,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19299,6 +19299,11 @@
       "Time": "2023-10-04T05:06:55.8874157+00:00",
       "NumProgressed": 19377,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-04T06:06:49.1358818+00:00",
+      "NumProgressed": 19378,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19582,7 +19587,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11820
+      "UsersEstimate": 11821
     },
     {
       "ID": "SwordToAGunfight",
@@ -19590,7 +19595,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "TripleA",
@@ -19622,7 +19627,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5619
+      "UsersEstimate": 5620
     },
     {
       "ID": "Wallrunner",
@@ -19669,21 +19674,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19377,
+      "Progressed": 19378,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19377,
+      "Progressed": 19378,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-01T18:00:37.2020378+00:00",
-  "LastChanged_Achievements": "2023-10-04T05:06:55.8874149+00:00",
+  "LastChanged_Achievements": "2023-10-04T06:06:49.1358811+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:01:47.0169267+00:00",
-  "LastUpdate_Achievements": "2023-10-04T05:06:55.8875712+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:01:50.8822995+00:00",
+  "LastUpdate_Achievements": "2023-10-04T06:06:49.1360746+00:00"
 }
