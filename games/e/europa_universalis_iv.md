@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,872 |
-| Until death do us apart | 4.00% | ~16,872 |
-| That is mine! | 3.00% | ~12,654 |
-| Victorious! | 3.00% | ~12,654 |
+| That's a Grand Army | 4.00% | ~16,873 |
+| Until death do us apart | 4.00% | ~16,873 |
+| That is mine! | 3.00% | ~12,655 |
+| Victorious! | 3.00% | ~12,655 |
 | Brothers in Arms | 2.00% | ~8,436 |
 | For the Glory | 2.00% | ~8,436 |
 | That's a Grand Navy | 2.00% | ~8,436 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about luck | 0.90% | ~3,796 |
 | Respected | 0.90% | ~3,796 |
 | Truly Divine Ruler | 0.90% | ~3,796 |
-| Blockader | 0.80% | ~3,374 |
-| Double the Love | 0.80% | ~3,374 |
-| Total Control | 0.80% | ~3,374 |
+| Blockader | 0.80% | ~3,375 |
+| Double the Love | 0.80% | ~3,375 |
+| Total Control | 0.80% | ~3,375 |
 | Royal Authority | 0.70% | ~2,953 |
 | My armies are invincible! | 0.60% | ~2,531 |
 | Agressive Expander | 0.50% | ~2,109 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,795 (Ranked 41)  
+Progressed: 421,820 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,14 +528,14 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-01 | 420,043 | 1 |
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
-| 2023-10-04 | 421,795 | 1 |
+| 2023-10-04 | 421,820 | 1 |
 ## Awards
-Max (Educational): 6,381  (Ranked 57)  
-Sum: 52,446 (Ranked 24)  
+Max (Educational): 6,390  (Ranked 57)  
+Sum: 52,455 (Ranked 24)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,381 |
+| This game is Educational | 6,390 |
 | This game is Highly Recommended | 6,091 |
 | This game has Diverse Characters | 6,040 |
 | This game has Challenging Combat | 6,034 |
@@ -808,4 +808,4 @@ Diff (max vs sum): 33
 | 2023-10-01 | 4.69 | - | 6,349 | 52,207 |
 | 2023-10-02 | 4.69 | - | 6,368 | 52,314 |
 | 2023-10-03 | 4.69 | - | 6,381 | 52,437 |
-| 2023-10-04 | 4.69 | - | 6,381 | 52,446 |
+| 2023-10-04 | 4.69 | - | 6,390 | 52,455 |

@@ -1,16 +1,16 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 620)  
+Rating: 4.47 (Ranked 619)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,988 |
-| Now You're Talking | 62.00% | ~327,704 |
-| Steel Yourself | 62.00% | ~327,704 |
+| First Step | 70.00% | ~369,989 |
+| Now You're Talking | 62.00% | ~327,705 |
+| Steel Yourself | 62.00% | ~327,705 |
 | Window Dressing | 50.00% | ~264,278 |
-| Trigger Happy | 46.00% | ~243,135 |
+| Trigger Happy | 46.00% | ~243,136 |
 | Riverborn | 45.00% | ~237,850 |
 | Starry Eyed | 34.00% | ~179,709 |
 | Poking Around | 34.00% | ~179,709 |
@@ -19,7 +19,7 @@ Number of Ratings: 617  (23.09.2022)
 | Hello Darkness | 23.00% | ~121,568 |
 | Wind At Our Backs | 22.00% | ~116,282 |
 | To the Beat | 20.00% | ~105,711 |
-| Sunny Shores | 17.00% | ~89,854 |
+| Sunny Shores | 17.00% | ~89,855 |
 | Sunday Best | 16.00% | ~84,569 |
 | To Victory! | 15.00% | ~79,283 |
 | Two of a Kind | 14.00% | ~73,998 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,586 |
 | Point Taken | 0.10% | ~529 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,555 (Ranked 33)  
+Progressed: 528,556 (Ranked 33)  
 Completed: 480 (0.09%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 480 (0.09%) (Ranked 247)
 | 2023-10-01 | 528,418 | 479 |
 | 2023-10-02 | 528,493 | 479 |
 | 2023-10-03 | 528,543 | 479 |
-| 2023-10-04 | 528,555 | 480 |
+| 2023-10-04 | 528,556 | 480 |
 ## Awards
 Max (Relaxing): 20  (Ranked 522)  
 Sum: 20 (Ranked 522)  

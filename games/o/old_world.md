@@ -9,6 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.40% | ~57 |
 | Settler | 0.40% | ~57 |
 | Play a Single Player Game | 0.40% | ~57 |
+| Good | 0.30% | ~43 |
 | Intrepid | 0.30% | ~43 |
 | Friendly Family | 0.30% | ~43 |
 | Able | 0.20% | ~29 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Glorious | 0.20% | ~29 |
-| Good | 0.20% | ~29 |
 | Just | 0.20% | ~29 |
 | Keystone | 0.20% | ~29 |
 | Learned | 0.20% | ~29 |
@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.20% | ~29 |
 | Wise | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
+| Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
 | Hanging Gardens | 0.20% | ~29 |
 | Ishtar Gate | 0.20% | ~29 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Tyresome Siege | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
 | Acropolis | 0.10% | ~14 |
-| Apadana | 0.10% | ~14 |
 | Circus Maximus | 0.10% | ~14 |
 | Colossus | 0.10% | ~14 |
 | Hagia Sophia | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,330 (Ranked 133)  
+Progressed: 14,331 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-01 | 14,274 | 5 |
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
-| 2023-10-04 | 14,330 | 5 |
+| 2023-10-04 | 14,331 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

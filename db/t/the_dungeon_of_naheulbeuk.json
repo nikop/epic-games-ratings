@@ -1068,9 +1068,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 228559,
+  "EOS_Progressed": 228564,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1584,
+  "EOS_NewPlayers": 1583,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13338,6 +13338,11 @@
       "Time": "2023-10-04T06:03:22.7352625+00:00",
       "NumProgressed": 228559,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-04T07:03:23.5480717+00:00",
+      "NumProgressed": 228564,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13397,7 +13402,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9142
+      "UsersEstimate": 9143
     },
     {
       "ID": "Chapter2",
@@ -13781,7 +13786,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9142
+      "UsersEstimate": 9143
     },
     {
       "ID": "ElfEpic",
@@ -13797,7 +13802,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73139
+      "UsersEstimate": 73140
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -13877,7 +13882,7 @@
       "Name": "Dead for good",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "KillGolbargh",
@@ -14037,7 +14042,7 @@
       "Name": "Material Girl",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "WizardResistBurn",
@@ -14052,21 +14057,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 228559,
+      "Progressed": 228564,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 228559,
+      "Progressed": 228564,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-03T18:00:06.5665916+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:03:22.7352617+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:03:23.548071+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:01:58.9683244+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:03:22.7356555+00:00"
+  "LastUpdate_Ratings": "2023-10-04T07:00:16.614495+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:03:23.5482687+00:00"
 }

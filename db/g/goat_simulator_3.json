@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4168,9 +4168,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 246149,
+  "EOS_Progressed": 246151,
   "EOS_Completed": 845,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -22308,6 +22308,11 @@
       "Time": "2023-10-04T05:06:42.3279548+00:00",
       "NumProgressed": 246149,
       "NumCompleted": 845
+    },
+    {
+      "Time": "2023-10-04T07:05:32.1983348+00:00",
+      "NumProgressed": 246151,
+      "NumCompleted": 845
     }
   ],
   "TotalAchievements": 39,
@@ -22319,7 +22324,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61537
+      "UsersEstimate": 61538
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -22351,7 +22356,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 66460
+      "UsersEstimate": 66461
     },
     {
       "ID": "AchievementBigFootID",
@@ -22359,7 +22364,7 @@
       "Name": "Crocsquatch",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "AchievementBossID",
@@ -22383,7 +22388,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 223996
+      "UsersEstimate": 223997
     },
     {
       "ID": "AchievementClownID",
@@ -22391,7 +22396,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 41845
+      "UsersEstimate": 41846
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -22423,7 +22428,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17230
+      "UsersEstimate": 17231
     },
     {
       "ID": "AchievementGatorID",
@@ -22431,7 +22436,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81229
+      "UsersEstimate": 81230
     },
     {
       "ID": "AchievementGoatID",
@@ -22447,7 +22452,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 130459
+      "UsersEstimate": 130460
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -22455,7 +22460,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46768
+      "UsersEstimate": 46769
     },
     {
       "ID": "AchievementINirvanaID",
@@ -22463,7 +22468,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 36922
+      "UsersEstimate": 36923
     },
     {
       "ID": "AchievementInstinctID",
@@ -22471,7 +22476,7 @@
       "Name": "You Trusted Your Instincts",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "AchievementInteriorDesignID",
@@ -22479,7 +22484,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 110767
+      "UsersEstimate": 110768
     },
     {
       "ID": "AchievementIntroID",
@@ -22487,7 +22492,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140305
+      "UsersEstimate": 140306
     },
     {
       "ID": "AchievementLootBoxID",
@@ -22503,7 +22508,7 @@
       "Name": "Nasty!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12307
+      "UsersEstimate": 12308
     },
     {
       "ID": "AchievementMovieID",
@@ -22511,7 +22516,7 @@
       "Name": "Certified Fresh",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "AchievementPortalsID",
@@ -22551,7 +22556,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182150
+      "UsersEstimate": 182152
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -22567,7 +22572,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123074
+      "UsersEstimate": 123076
     },
     {
       "ID": "AchievementStreakingID",
@@ -22575,7 +22580,7 @@
       "Name": "Streaking",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "AchievementTantID",
@@ -22591,7 +22596,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135382
+      "UsersEstimate": 135383
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -22599,7 +22604,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115690
+      "UsersEstimate": 115691
     },
     {
       "ID": "AchievementTrinketID",
@@ -22607,7 +22612,7 @@
       "Name": "Try Hard 2",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "AchievementWarRoomID",
@@ -22615,7 +22620,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 159997
+      "UsersEstimate": 159998
     },
     {
       "ID": "AchievementWhaleID",
@@ -22623,14 +22628,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 66460
+      "UsersEstimate": 66461
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246149,
+      "Progressed": 246151,
       "Completed": 845
     }
   ],
@@ -22638,8 +22643,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-04T03:58:37.944917+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:06:35.8217077+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:05:32.1983344+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:59:42.1089714+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:06:35.8220348+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:58:43.9181533+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:05:32.1984707+00:00"
 }

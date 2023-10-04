@@ -9,7 +9,7 @@
 | Medal of Exploration I | 77.00% | ~421 |
 | Recruit | 72.00% | ~394 |
 | Search and Rescue | 72.00% | ~394 |
-| Quarian Ally | 70.00% | ~383 |
+| Quarian Ally | 71.00% | ~388 |
 | Medal of Heroism | 66.00% | ~361 |
 | Honorarium of Corporate Service | 66.00% | ~361 |
 | Medal of Exploration II | 60.00% | ~328 |
@@ -45,10 +45,10 @@
 | Colony Defense | 34.00% | ~186 |
 | Galactic Explorer | 34.00% | ~186 |
 | Ghost Ship | 32.00% | ~175 |
+| The Quarian | 32.00% | ~175 |
 | Broke, Blind, and Bedlam | 32.00% | ~175 |
 | The Assassin | 31.00% | ~170 |
 | The Justicar | 31.00% | ~170 |
-| The Quarian | 31.00% | ~170 |
 | The Prodigal | 31.00% | ~170 |
 | A Personal Touch | 30.00% | ~164 |
 | Battlemaster | 30.00% | ~164 |

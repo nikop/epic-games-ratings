@@ -1281,9 +1281,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9371,
+  "EOS_Progressed": 9372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14056,6 +14056,11 @@
       "Time": "2023-10-04T06:05:30.5605365+00:00",
       "NumProgressed": 9371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T07:04:46.4075137+00:00",
+      "NumProgressed": 9372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14123,7 +14128,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "17",
@@ -14179,7 +14184,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6747
+      "UsersEstimate": 6748
     },
     {
       "ID": "23",
@@ -14219,7 +14224,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "28",
@@ -14243,7 +14248,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "30",
@@ -14291,7 +14296,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "36",
@@ -14315,7 +14320,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "39",
@@ -14387,7 +14392,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "47",
@@ -14395,7 +14400,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "48",
@@ -14411,7 +14416,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "5",
@@ -14538,15 +14543,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9371,
+      "Progressed": 9372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-01T03:59:52.0526939+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:05:30.5605358+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:04:46.4075132+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:01.0481083+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:58:07.3239885+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:05:30.5607752+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:57:41.2530947+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:04:46.4076334+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -420,9 +420,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 247939,
+  "EOS_Progressed": 247942,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18995,6 +18995,11 @@
       "Time": "2023-10-04T06:08:48.6143951+00:00",
       "NumProgressed": 247939,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-04T07:08:26.7884212+00:00",
+      "NumProgressed": 247942,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19150,7 +19155,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69423
+      "UsersEstimate": 69424
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -19222,7 +19227,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59505
+      "UsersEstimate": 59506
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -19286,7 +19291,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14876
+      "UsersEstimate": 14877
     },
     {
       "ID": "ACH_MEMORY5",
@@ -19326,7 +19331,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61985
+      "UsersEstimate": 61986
     },
     {
       "ID": "ACH_SOREAD",
@@ -19374,7 +19379,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14876
+      "UsersEstimate": 14877
     },
     {
       "ID": "ACH_TROLLKING",
@@ -19421,7 +19426,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 247939,
+      "Progressed": 247942,
       "Completed": 7
     }
   ],
@@ -19429,8 +19434,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-29T20:57:59.9030549+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:08:48.6143944+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:08:26.7884205+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:31.2204076+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:57:31.1417072+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:08:48.6146714+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:57:17.4231655+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:08:26.7885872+00:00"
 }

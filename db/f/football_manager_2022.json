@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7685,9 +7685,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474084,
+  "EOS_Progressed": 474085,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25130,6 +25130,11 @@
       "Time": "2023-10-04T06:05:10.3649201+00:00",
       "NumProgressed": 474084,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-04T07:04:32.3471132+00:00",
+      "NumProgressed": 474085,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -25237,7 +25242,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137484
+      "UsersEstimate": 137485
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -25253,7 +25258,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142225
+      "UsersEstimate": 142226
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -25301,7 +25306,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104298
+      "UsersEstimate": 104299
     },
     {
       "ID": "achievement_childhood_dream",
@@ -25317,7 +25322,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104298
+      "UsersEstimate": 104299
     },
     {
       "ID": "achievement_clean_sheet",
@@ -25373,7 +25378,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199115
+      "UsersEstimate": 199116
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -25413,7 +25418,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104298
+      "UsersEstimate": 104299
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -25453,7 +25458,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137484
+      "UsersEstimate": 137485
     },
     {
       "ID": "achievement_hattrick",
@@ -25461,7 +25466,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194374
+      "UsersEstimate": 194375
     },
     {
       "ID": "achievement_head_to_head",
@@ -25517,7 +25522,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109039
+      "UsersEstimate": 109040
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -25557,7 +25562,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75853
+      "UsersEstimate": 75854
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -25565,7 +25570,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165929
+      "UsersEstimate": 165930
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -25613,7 +25618,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137484
+      "UsersEstimate": 137485
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -25685,7 +25690,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227560
+      "UsersEstimate": 227561
     },
     {
       "ID": "achievement_signed_a_player",
@@ -25701,7 +25706,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109039
+      "UsersEstimate": 109040
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -25781,7 +25786,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104298
+      "UsersEstimate": 104299
     },
     {
       "ID": "achievement_won_international_championship",
@@ -25924,15 +25929,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474084,
+      "Progressed": 474085,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-03T21:59:36.6388121+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:05:10.3649195+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:04:32.3471126+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.7159421+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:59:40.3403827+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:05:10.3653285+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:58:42.7115754+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:04:32.3473181+00:00"
 }

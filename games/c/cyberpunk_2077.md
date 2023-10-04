@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 4.00% | ~35,540 |
-| Rough Landing | 4.00% | ~35,540 |
+| Ten out of Ten | 4.00% | ~35,541 |
+| Rough Landing | 4.00% | ~35,541 |
 | Gunslinger | 3.00% | ~26,655 |
 | Master Crafter | 3.00% | ~26,655 |
 | The High Priestess | 3.00% | ~26,655 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,508 (Ranked 15)  
+Progressed: 888,514 (Ranked 15)  
 Completed: 2,570 (0.29%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 2,570 (0.29%) (Ranked 203)
 | 2023-10-01 | 887,461 | 2,535 |
 | 2023-10-02 | 888,024 | 2,550 |
 | 2023-10-03 | 888,432 | 2,568 |
-| 2023-10-04 | 888,508 | 2,570 |
+| 2023-10-04 | 888,514 | 2,570 |
 ## Awards
 Max (Character Customization): 90,464  (Ranked 9)  
 Sum: 261,738 (Ranked 12)  

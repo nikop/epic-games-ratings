@@ -1998,9 +1998,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 404
     },
     {
       "ID": "AC11",
@@ -2295,8 +2295,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-03T19:59:23.0661093+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:06:49.8537267+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:05:42.5593631+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:59:59.7180911+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:06:49.8537961+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:58:53.6226484+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:05:42.5594052+00:00"
 }

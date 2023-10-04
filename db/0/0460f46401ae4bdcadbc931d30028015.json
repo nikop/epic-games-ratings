@@ -310,9 +310,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-10-04T05:05:15.6862921+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T07:04:31.7272958+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1678,7 +1683,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "achievement_21",
@@ -1694,7 +1699,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_4",
@@ -1749,7 +1754,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 0
     }
   ],
@@ -1757,8 +1762,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-04T02:17:09.9614509+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:05:09.7415366+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:04:31.7272952+00:00",
   "LastUpdate_AppInfo": "2023-09-28T02:12:48.3456088+00:00",
-  "LastUpdate_Ratings": "2023-10-04T06:01:09.0808507+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:05:09.7415615+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:59:40.7398924+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:04:31.7273769+00:00"
 }

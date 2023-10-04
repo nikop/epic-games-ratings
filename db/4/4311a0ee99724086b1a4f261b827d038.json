@@ -314,9 +314,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 223639,
+  "EOS_Progressed": 223645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1972,
+  "EOS_NewPlayers": 1970,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8509,6 +8509,11 @@
       "Time": "2023-10-04T06:05:54.0636931+00:00",
       "NumProgressed": 223639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-04T07:05:02.8167152+00:00",
+      "NumProgressed": 223645,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8577,7 +8582,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46964
+      "UsersEstimate": 46965
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8705,7 +8710,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29073
+      "UsersEstimate": 29074
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8777,7 +8782,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 55910
+      "UsersEstimate": 55911
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -8792,7 +8797,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 223639,
+      "Progressed": 223645,
       "Completed": 0
     }
   ],
@@ -8800,8 +8805,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-03T17:00:16.6237307+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:05:54.0636922+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:05:02.8167147+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:14.1986301+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:59:33.6444128+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:05:54.0638188+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:58:39.168849+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:05:02.8167971+00:00"
 }

@@ -3356,7 +3356,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73120,
+  "EOS_Progressed": 73121,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 4,
@@ -17556,6 +17556,11 @@
       "Time": "2023-10-04T06:05:52.5825685+00:00",
       "NumProgressed": 73120,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-04T07:05:01.8006389+00:00",
+      "NumProgressed": 73121,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -17647,7 +17652,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "APPLY_STATUS",
@@ -17663,7 +17668,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     },
     {
       "ID": "CLAYFACE_1",
@@ -17743,7 +17748,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -17911,7 +17916,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38022
+      "UsersEstimate": 38023
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18015,7 +18020,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "SECRET_CACHE",
@@ -18054,13 +18059,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73120,
+      "Progressed": 73121,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43400,
+      "Progressed": 43401,
       "Completed": 2668
     }
   ],
@@ -18068,8 +18073,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-03T20:57:30.4468993+00:00",
-  "LastChanged_Achievements": "2023-10-04T06:05:52.5825678+00:00",
+  "LastChanged_Achievements": "2023-10-04T07:05:01.8006377+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-04T05:57:37.3186698+00:00",
-  "LastUpdate_Achievements": "2023-10-04T06:05:52.582777+00:00"
+  "LastUpdate_Ratings": "2023-10-04T06:57:21.4071954+00:00",
+  "LastUpdate_Achievements": "2023-10-04T07:05:01.8007827+00:00"
 }
