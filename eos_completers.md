@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.73% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 62.65% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.32% |
@@ -19,7 +19,7 @@
 | 17 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 18 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 20 | [Island Cities](games/i/island_cities.md) | 16.32% |
+| 20 | [Island Cities](games/i/island_cities.md) | 16.46% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 23 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
@@ -29,7 +29,7 @@
 | 27 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 28 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.72% |
-| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.61% |
+| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.45% |
 | 31 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.09% |
 | 32 | [Anna's Quest](games/a/anna's_quest.md) | 10.00% |
 | 32 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -43,7 +43,7 @@
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 42 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.55% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.32% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.31% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.05% |
@@ -61,8 +61,8 @@
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.49% |
-| 63 | [ZZT!](games/z/zzt!.md) | 4.43% |
+| 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.41% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -95,8 +95,8 @@
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 95 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
-| 96 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.41% |
 | 96 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 97 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.40% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 100 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.33% |
@@ -193,8 +193,8 @@
 | 191 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 191 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 193 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
-| 193 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.33% |
-| 195 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 194 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 194 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.32% |
 | 196 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 196 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
