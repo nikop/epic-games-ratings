@@ -185,9 +185,9 @@
       "ID": "a2",
       "SetID": "cdg65ol",
       "Name": "Yeet!",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a20",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:09:31.0690468+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:09:26.2388865+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.5753092+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:01:09.3056014+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:09:31.0690827+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:00:58.800149+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:09:26.2389094+00:00"
 }

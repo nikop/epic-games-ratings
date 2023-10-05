@@ -11,6 +11,7 @@
 | Hoist the Sails | 18.00% | ~2 |
 | Socialite | 9.00% | ~1 |
 | Who Even Needs Keys | 9.00% | ~1 |
+| Yeet! | 9.00% | ~1 |
 | Mad Scientist | 9.00% | ~1 |
 | Safe Investment | 9.00% | ~1 |
 | Bank of Me | 9.00% | ~1 |
@@ -24,7 +25,6 @@
 | Shrub-Seeing: Silly Birbs | 0.00% | ~0 |
 | Shrub-Seeing: Ancient Extractor | 0.00% | ~0 |
 | Shrub-Seeing: Seen it all! | 0.00% | ~0 |
-| Yeet! | 0.00% | ~0 |
 | Couch-surfing | 0.00% | ~0 |
 | Sailor Swift | 0.00% | ~0 |
 | No Evil | 0.00% | ~0 |

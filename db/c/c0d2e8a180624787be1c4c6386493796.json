@@ -654,9 +654,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
       "SetID": "caeik3h",
       "Name": "The Gill-man",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -694,9 +694,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -709,8 +709,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:04:21.5002835+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:04:34.6523068+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:59:58.709947+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:04:21.5003562+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:59:56.0380648+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:04:34.6523763+00:00"
 }

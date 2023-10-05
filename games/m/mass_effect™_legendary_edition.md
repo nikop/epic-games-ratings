@@ -49,9 +49,9 @@
 | The Quarian | 32.00% | ~180 |
 | The Assassin | 31.00% | ~174 |
 | The Justicar | 31.00% | ~174 |
+| Battlemaster | 31.00% | ~174 |
 | The Prodigal | 31.00% | ~174 |
 | A Personal Touch | 30.00% | ~168 |
-| Battlemaster | 30.00% | ~168 |
 | Ghost of the Father | 30.00% | ~168 |
 | The Cure | 30.00% | ~168 |
 | Big Game Hunter | 30.00% | ~168 |
@@ -78,8 +78,8 @@
 | Mission Accomplished | 24.00% | ~135 |
 | Against All Odds | 24.00% | ~135 |
 | Weapon Specialist | 24.00% | ~135 |
+| World Shaker | 24.00% | ~135 |
 | A House Divided | 23.00% | ~129 |
-| World Shaker | 23.00% | ~129 |
 | Liberator | 23.00% | ~129 |
 | Pathfinder | 22.00% | ~123 |
 | Arbiter | 21.00% | ~118 |

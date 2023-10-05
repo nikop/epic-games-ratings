@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2053,
+  "EOS_Progressed": 2054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2307,6 +2307,11 @@
       "Time": "2023-10-05T16:08:22.0181186+00:00",
       "NumProgressed": 2053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T19:08:02.8114098+00:00",
+      "NumProgressed": 2054,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2327,7 +2332,7 @@
       "Name": "Bragging Rights",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "achievement_11",
@@ -2359,7 +2364,7 @@
       "Name": "Dealmaker",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_15",
@@ -2367,7 +2372,7 @@
       "Name": "MVP",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "achievement_16",
@@ -2447,7 +2452,7 @@
       "Name": "Already in Progress",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_6",
@@ -2471,7 +2476,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_9",
@@ -2486,7 +2491,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2053,
+      "Progressed": 2054,
       "Completed": 0
     }
   ],
@@ -2494,8 +2499,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-04T21:57:18.2366156+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:08:01.2449452+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:08:02.8114095+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:57:57.1133766+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:08:01.2449754+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:58:01.3606984+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:08:02.8114313+00:00"
 }

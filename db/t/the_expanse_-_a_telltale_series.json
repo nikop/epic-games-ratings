@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13585,
+  "EOS_Progressed": 13587,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7747,6 +7747,11 @@
       "Time": "2023-10-05T18:07:15.5102973+00:00",
       "NumProgressed": 13585,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-05T19:07:19.5105938+00:00",
+      "NumProgressed": 13587,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7781,9 +7786,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "13",
@@ -7901,9 +7906,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "27",
@@ -7998,7 +8003,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13585,
+      "Progressed": 13587,
       "Completed": 9
     }
   ],
@@ -8006,8 +8011,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:07:15.5102966+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:07:19.5105934+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:02:25.9502356+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:07:15.5104061+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:02:13.8946886+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:07:19.5106462+00:00"
 }

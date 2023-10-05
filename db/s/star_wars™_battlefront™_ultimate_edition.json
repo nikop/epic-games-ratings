@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 446,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1371,9 +1371,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_38",
@@ -1403,9 +1403,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_41",
@@ -1650,8 +1650,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:06:13.6632637+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:06:21.4654693+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:03:03.0599311+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:06:13.6633551+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:03:06.1389353+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:06:21.465553+00:00"
 }

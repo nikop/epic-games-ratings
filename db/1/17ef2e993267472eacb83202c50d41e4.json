@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6892,
+  "EOS_Progressed": 6894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3468,6 +3468,11 @@
       "Time": "2023-10-05T18:09:11.927747+00:00",
       "NumProgressed": 6892,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T19:09:08.3599457+00:00",
+      "NumProgressed": 6894,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3536,7 +3541,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "DHUpgraded1",
@@ -3600,7 +3605,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "GamesPlayed10",
@@ -3624,7 +3629,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "GamesWon10",
@@ -3688,7 +3693,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "HSPurchased1",
@@ -3768,7 +3773,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "LaserUpgraded1",
@@ -3792,7 +3797,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MaxDamageDone30000",
@@ -3840,7 +3845,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MaxTowersKilled3",
@@ -3848,7 +3853,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MaxTowersKilled6",
@@ -3864,7 +3869,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MinionKills2000",
@@ -3904,7 +3909,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "PlayerKills10",
@@ -3936,7 +3941,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "QAUpgraded1",
@@ -3952,7 +3957,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "RAPurchased1",
@@ -3992,7 +3997,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "SOVUpgraded1",
@@ -4040,7 +4045,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "TSUPurchased1",
@@ -4071,7 +4076,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6892,
+      "Progressed": 6894,
       "Completed": 1
     }
   ],
@@ -4079,8 +4084,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:09:11.9277459+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:09:08.359945+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:01:25.4809814+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:09:11.927897+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:01:14.3568861+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:09:08.3600268+00:00"
 }

@@ -640,7 +640,7 @@
   ],
   "EOS_Progressed": 782,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2640,9 +2640,9 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_8",
@@ -2673,8 +2673,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:03:38.2149946+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:03:38.477746+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:00:40.021604+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:03:38.2150591+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:00:31.7438495+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:03:38.4777884+00:00"
 }

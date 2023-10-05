@@ -20,7 +20,7 @@ Rating: 4.61 (Ranked 371)
 | Greenhouse Effect | 51.00% | ~399 |
 | Freeze | 50.00% | ~391 |
 | Full Arsenal | 44.00% | ~344 |
-| S.O.S. | 43.00% | ~336 |
+| S.O.S. | 44.00% | ~344 |
 | Get Off My Ship! | 42.00% | ~328 |
 | Live with the Hot Ones | 41.00% | ~321 |
 | Strange Transmissions | 41.00% | ~321 |

@@ -560,12 +560,18 @@
       "Rating": 4.39,
       "NumberOfAwards": 194,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-10-05T19:02:08.7049987+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 194,
+  "NumberOfAwards": 198,
   "NumberOfAwardsMax": 39,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -583,7 +589,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 39
     },
     {
       "Text": "This game is Relaxing",
@@ -628,8 +634,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-10-05T16:02:41.2573427+00:00",
+  "LastChanged": "2023-10-05T19:02:08.7049982+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:20.8971003+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:02:20.4792981+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:04:33.5956584+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:02:08.7049991+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:04:45.9296023+00:00"
 }

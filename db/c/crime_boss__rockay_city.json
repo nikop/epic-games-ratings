@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3870,9 +3870,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88785,
+  "EOS_Progressed": 88788,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21270,6 +21270,11 @@
       "Time": "2023-10-05T18:03:52.1386778+00:00",
       "NumProgressed": 88785,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-05T19:03:51.3758968+00:00",
+      "NumProgressed": 88788,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 41,
@@ -21513,7 +21518,7 @@
       "Name": "Fancy Pants",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_0431",
@@ -21608,13 +21613,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88785,
+      "Progressed": 88788,
       "Completed": 47
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17132,
+      "Progressed": 17135,
       "Completed": 15541
     }
   ],
@@ -21622,8 +21627,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-05T16:59:13.5419214+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:03:52.1386771+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:03:51.3758963+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:59:58.3013004+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:03:52.1388434+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:59:55.6395364+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:03:51.3760018+00:00"
 }

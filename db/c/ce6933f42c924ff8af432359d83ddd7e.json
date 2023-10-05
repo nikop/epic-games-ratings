@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 336,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
@@ -731,9 +731,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 140,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_CUBES",
@@ -818,8 +818,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:09:24.4699086+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:09:20.0567626+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:01:05.9873204+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:09:24.4699269+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:00:55.7167264+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:09:20.0567797+00:00"
 }

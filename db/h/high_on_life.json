@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24121,
+  "EOS_Progressed": 24122,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
@@ -5185,6 +5185,11 @@
       "Time": "2023-10-05T15:07:35.7760502+00:00",
       "NumProgressed": 24121,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-05T19:07:23.2837622+00:00",
+      "NumProgressed": 24122,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5378,9 +5383,9 @@
       "ID": "ACH_KILL_SLUMSLEY",
       "SetID": "cdkbb11",
       "Name": "Fallout Doesn\u0027t Let You Do This",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5547,13 +5552,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24121,
+      "Progressed": 24122,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1414,
+      "Progressed": 1415,
       "Completed": 1373
     }
   ],
@@ -5561,8 +5566,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-04T20:01:07.8999808+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:07:19.3632699+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:07:23.2837618+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:02:02.9358345+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:07:19.3633421+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:01:49.0380078+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:07:23.283816+00:00"
 }

@@ -9,10 +9,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.60% | ~86 |
 | Settler | 0.60% | ~86 |
 | Play a Single Player Game | 0.60% | ~86 |
+| Intrepid | 0.50% | ~72 |
 | Friendly Family | 0.50% | ~72 |
 | Able | 0.40% | ~57 |
 | Good | 0.40% | ~57 |
-| Intrepid | 0.40% | ~57 |
 | Learned | 0.40% | ~57 |
 | Mason | 0.40% | ~57 |
 | Noble | 0.40% | ~57 |
@@ -33,10 +33,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.30% | ~43 |
 | Wise | 0.30% | ~43 |
 | Developing Cities | 0.30% | ~43 |
+| Strong Cities | 0.30% | ~43 |
 | Great Ziggurat | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
 | Pyramids | 0.30% | ~43 |
+| Learn to Play 1 | 0.30% | ~43 |
 | Christianity | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
@@ -51,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.20% | ~29 |
 | Intercessor | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
-| Strong Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
 | Furious Family | 0.20% | ~29 |
 | Acropolis | 0.20% | ~29 |
@@ -60,11 +61,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.20% | ~29 |
 | Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
-| Learn to Play 1 | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
+| Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
 | Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -212,7 +213,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.10% | ~14 |
 | Enlightenment | 0.10% | ~14 |
 | Gnosticism | 0.10% | ~14 |
-| Legalism | 0.10% | ~14 |
 | Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
 | Veneration | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,370 (Ranked 134)  
+Progressed: 14,374 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,370 | 5 |
+| 2023-10-05 | 14,374 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

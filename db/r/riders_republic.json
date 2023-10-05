@@ -3,7 +3,7 @@
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 140,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
@@ -7852,10 +7852,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6165,
       "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-10-05T18:58:13.1946701+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6173,
+      "NumberOfAwardsMax": 669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6165,
+  "NumberOfAwards": 6173,
   "NumberOfAwardsMax": 669,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -7875,7 +7881,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 616
+      "Count": 624
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7949,8 +7955,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-10-05T17:58:10.273817+00:00",
+  "LastChanged": "2023-10-05T18:58:13.19467+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.4798736+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:58:10.2738178+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:06:26.5285959+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:58:13.1946705+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:06:33.4199931+00:00"
 }

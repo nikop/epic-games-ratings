@@ -2,7 +2,7 @@
   "ID": "buffalo",
   "Name": "Super Meat Boy",
   "ProductSlug": "super-meat-boy",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 653,
@@ -444,6 +444,6 @@
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
   "LastChanged": "2023-08-04T10:59:19.3799349+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:34.1780098+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:58:17.7132725+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:09:13.589115+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:58:19.9904767+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:09:09.73464+00:00"
 }

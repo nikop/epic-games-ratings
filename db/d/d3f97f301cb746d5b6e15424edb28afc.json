@@ -329,25 +329,25 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_CAR_WASH_04",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 4",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CAR_WASH_05",
@@ -361,9 +361,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FISH",
@@ -433,9 +433,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -513,9 +513,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -641,9 +641,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -1056,8 +1056,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:04:51.3634603+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:05:02.7670322+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:02:01.2950077+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:04:51.3635698+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:01:47.4894075+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:05:02.7671198+00:00"
 }

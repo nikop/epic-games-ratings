@@ -9,6 +9,7 @@
 | Dicesmithing Time! | 10.00% | ~4 |
 | Endless Tricks | 10.00% | ~4 |
 | Sanctuary Guardian | 10.00% | ~4 |
+| Lacertian Champion | 10.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Loyal Partner | 7.00% | ~3 |
 | Mechanical Buddy | 7.00% | ~3 |
@@ -17,7 +18,6 @@
 | Unbeatable | 7.00% | ~3 |
 | Wild's Keeper | 7.00% | ~3 |
 | Apian Champion | 7.00% | ~3 |
-| Lacertian Champion | 7.00% | ~3 |
 | Can't touch this | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |

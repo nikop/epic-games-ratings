@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3374,9 +3374,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51791,
+  "EOS_Progressed": 51792,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -12689,6 +12689,11 @@
       "Time": "2023-10-05T09:03:20.2643535+00:00",
       "NumProgressed": 51791,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-10-05T19:03:44.5649509+00:00",
+      "NumProgressed": 51792,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 45,
@@ -12724,7 +12729,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40915
+      "UsersEstimate": 40916
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12828,7 +12833,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20716
+      "UsersEstimate": 20717
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -12964,7 +12969,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50237
+      "UsersEstimate": 50238
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13036,7 +13041,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27449
+      "UsersEstimate": 27450
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13059,15 +13064,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51791,
+      "Progressed": 51792,
       "Completed": 237
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-05T05:59:21.9447225+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:03:44.7530352+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:03:44.5649505+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:00:53.1606619+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:03:44.7531114+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:00:43.1956145+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:03:44.5650268+00:00"
 }

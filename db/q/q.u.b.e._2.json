@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2356,6 +2356,11 @@
       "Time": "2023-10-05T18:05:27.2741772+00:00",
       "NumProgressed": 581,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T19:05:37.6016912+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2368,7 +2373,7 @@
       "Name": "Descendants",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2384,7 +2389,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2512,7 +2517,7 @@
       "Name": "Mission Success",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_HUB2",
@@ -2526,9 +2531,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_PEAK",
@@ -2560,7 +2565,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_S4",
@@ -2568,7 +2573,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_S5",
@@ -2576,7 +2581,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2590,24 +2595,24 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 285
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-05T18:05:27.2741763+00:00",
+  "LastChanged_Achievements": "2023-10-05T19:05:37.6016907+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:02:20.0861883+00:00",
-  "LastUpdate_Achievements": "2023-10-05T18:05:27.274212+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:02:08.3235205+00:00",
+  "LastUpdate_Achievements": "2023-10-05T19:05:37.6017182+00:00"
 }

@@ -9,13 +9,13 @@ Rating: 4.53 (Ranked 523)
 | Drug Gifter | 2.00% | ~272 |
 | The Pit and the Pirates | 1.00% | ~136 |
 | Drone Dodger | 1.00% | ~136 |
+| Call it Even | 1.00% | ~136 |
 | Bosmang | 1.00% | ~136 |
 | Impossible Objects | 1.00% | ~136 |
-| Call it Even | 0.90% | ~122 |
 | Celebrations are in Order | 0.90% | ~122 |
+| Data Archivist | 0.80% | ~109 |
 | Heal Thy Medic | 0.80% | ~109 |
 | Captain Drummer | 0.80% | ~109 |
-| Data Archivist | 0.70% | ~95 |
 | Spore Taste | 0.70% | ~95 |
 | Martian Music | 0.70% | ~95 |
 | Stogie for Fogey | 0.60% | ~82 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 523)
 | Debris Spree | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,585 (Ranked 135)  
+Progressed: 13,587 (Ranked 135)  
 Completed: 9 (0.07%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 9 (0.07%) (Ranked 253)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,585 | 9 |
+| 2023-10-05 | 13,587 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
