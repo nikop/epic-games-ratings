@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 473)
 | Arm Wrestlin' | 9.00% | ~61 |
 | 1+1>2 | 9.00% | ~61 |
 | This can't be right… | 9.00% | ~61 |
+| I'm walking here! | 8.00% | ~54 |
 | So Fresh and So clean clean | 8.00% | ~54 |
 | Welcome home, 06 | 8.00% | ~54 |
 | Clarity of Mind | 7.00% | ~47 |
-| I'm walking here! | 7.00% | ~47 |
 | Supreme Bartender Ann | 7.00% | ~47 |
 | I feel secure, contained & protected | 6.00% | ~40 |
 | Science, it works! | 6.00% | ~40 |

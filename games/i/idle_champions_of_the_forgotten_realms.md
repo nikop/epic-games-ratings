@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.10% | ~197 |
 | Always Watching | 0.10% | ~197 |
 | The Fall of Ythryn | 0.10% | ~197 |
+| Icequake | 0.10% | ~197 |
 | A Lesson in Classes | 0.10% | ~197 |
 | The Prince of a Thousand Enemies | 0.10% | ~197 |
 | Uncommon Allies | 0.10% | ~197 |
@@ -138,6 +139,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~231 |
 | No Good at All | 0.10% | ~231 |
 | Fall From Grace | 0.10% | ~231 |
+| Home Field Advantage | 0.10% | ~231 |
 | Double Vision | 0.10% | ~231 |
 | Underground Railroad | 0.10% | ~231 |
 | Low Initiative | 0.10% | ~231 |
@@ -188,6 +190,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.10% | ~231 |
 | Seeds of Deceit | 0.10% | ~231 |
 | Visions of Strahd | 0.10% | ~231 |
+| Seeds of Corruption | 0.10% | ~231 |
 | The Strahd Squad | 0.10% | ~197 |
 | Trollskull Manor | 0.10% | ~231 |
 | The Gargoyle's Apprentice | 0.10% | ~231 |
@@ -310,6 +313,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Ambush | 0.10% | ~197 |
 | Déjà Vu | 0.10% | ~197 |
 | Wait, What? | 0.10% | ~197 |
+| Ireena von Zarovich | 0.10% | ~197 |
 | Into The Fire | 0.10% | ~197 |
 | A Difficult Descent | 0.10% | ~197 |
 | The Devil Arrives | 0.10% | ~197 |
@@ -341,6 +345,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nightmare Occasion | 0.10% | ~197 |
 | The Prison of Velkynvelve | 0.10% | ~197 |
 | Prisoners of Lolth | 0.10% | ~197 |
+| Prisoners of Unknown Choices | 0.10% | ~197 |
 | Escort to Waterdeep | 0.10% | ~231 |
 | The Giant's Bane Tavern | 0.10% | ~197 |
 | Rime Bandits | 0.10% | ~197 |
@@ -385,6 +390,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~197 |
 | It's Cold Out There Every Day | 0.10% | ~197 |
 | The Bleeding Citadel | 0.10% | ~197 |
+| Don't Pick at the Scab | 0.10% | ~197 |
 | Going To Eleven | 0.10% | ~197 |
 | Idyllglen | 0.10% | ~197 |
 | The Madness of Yeenoghu | 0.10% | ~197 |
@@ -394,6 +400,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~197 |
 | Witty Riposting | 0.10% | ~197 |
 | Waiting on Sunrise | 0.10% | ~197 |
+| Frontline Fighters | 0.10% | ~197 |
 | A Chilling Encounter | 0.10% | ~197 |
 | How Far Away is Thay | 0.10% | ~197 |
 | Deekin's Mission | 0.10% | ~197 |
@@ -415,6 +422,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.10% | ~197 |
 | Ambitious Speakers - Part 2 | 0.10% | ~197 |
 | Reghed Glacier Mysteries | 0.10% | ~197 |
+| Mysteries Unlocked | 0.10% | ~197 |
 | Pure Energy | 0.10% | ~231 |
 | Tekeli-li's Hunt | 0.10% | ~197 |
 | Cackling Horror | 0.10% | ~197 |
@@ -431,6 +439,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.10% | ~231 |
 | The Haunted Jungle | 0.10% | ~231 |
 | Poor Guidance | 0.10% | ~231 |
+| Overwhelming Force | 0.10% | ~231 |
 | Rescue in the Jungle | 0.10% | ~231 |
 | The Court of Storms | 0.10% | ~197 |
 | Coasting to the Finish | 0.10% | ~197 |
@@ -465,7 +474,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Patron Party | 0.00% | ~0 |
-| Icequake | 0.00% | ~0 |
 | The Dark Heart | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
 | It's So Pretty… | 0.00% | ~0 |
@@ -477,11 +485,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.00% | ~0 |
 | The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
-| Home Field Advantage | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Seeds of Corruption | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | A Saurial's Resolve | 0.00% | ~0 |
@@ -504,7 +510,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Smooth Talkers | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
-| Ireena von Zarovich | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
 | The Gargoyle | 0.00% | ~0 |
@@ -512,21 +517,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.00% | ~0 |
 | Into the Unknown | 0.00% | ~0 |
 | A Tenday at Golgamann's | 0.00% | ~0 |
-| Prisoners of Unknown Choices | 0.00% | ~0 |
 | Relentless Peril | 0.00% | ~0 |
-| Don't Pick at the Scab | 0.00% | ~0 |
-| Frontline Fighters | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Mysteries Unlocked | 0.00% | ~0 |
 | Male Pattern Boldness | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
-| Overwhelming Force | 0.00% | ~0 |
 | To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,913 (Ranked 56)  
+Progressed: 230,915 (Ranked 56)  
 Completed: 2,330 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,330 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,913 | 2,330 |
+| 2023-10-05 | 230,915 | 2,330 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

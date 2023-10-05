@@ -6,9 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~3,677 |
+| It wakes | 0.40% | ~3,678 |
 | Zealous | 0.30% | ~2,758 |
 | Not half bad | 0.30% | ~2,758 |
+| Apt Survivor | 0.30% | ~2,758 |
 | Skillful | 0.30% | ~2,758 |
 | Make Some Noise | 0.30% | ~2,758 |
 | The Grand Sacrifice | 0.20% | ~1,839 |
@@ -22,13 +23,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.20% | ~1,839 |
 | Perfect Killing | 0.20% | ~1,839 |
 | Bloody Millionaire | 0.20% | ~1,839 |
-| Apt Survivor | 0.20% | ~1,839 |
 | Survival Treasures | 0.20% | ~1,839 |
 | I | 0.20% | ~1,839 |
 | Engineer | 0.20% | ~1,839 |
 | Sorted | 0.20% | ~1,839 |
 | Healthy Obsession | 0.20% | ~1,839 |
 | Resurgence | 0.20% | ~1,839 |
+| Close Shave | 0.20% | ~1,839 |
 | Preemptive Strike | 0.20% | ~1,839 |
 | Humanitarian | 0.20% | ~1,839 |
 | A bite for the Entity | 0.10% | ~919 |
@@ -173,7 +174,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Multi-tasker | 0.10% | ~919 |
 | Adept Trickster | 0.10% | ~919 |
 | Insult and Injury | 0.10% | ~919 |
-| Close Shave | 0.10% | ~919 |
 | Adept Yun-Jin | 0.10% | ~919 |
 | Biological Weaponry | 0.10% | ~919 |
 | Adept Nemesis | 0.10% | ~919 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~919 |
 | Adept Ripley | 0.10% | ~919 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919,374 (Ranked 14)  
+Progressed: 919,407 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,10 +404,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 919,374 | 49 |
+| 2023-10-05 | 919,407 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,361 (Ranked 13)  
+Sum: 259,391 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -417,7 +417,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,307 |
 | This game is Extremely Fun | 28,962 |
 | This game has Challenging Combat | 28,538 |
-| This game has Quickly Understood Controls | 28,473 |
+| This game has Quickly Understood Controls | 28,503 |
 | This game has Amazing Storytelling | 26,584 |
 | This game has a Competitive Community | 25,070 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
-| 2023-10-05 | 4.52 | - | 33,450 | 259,361 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,391 |

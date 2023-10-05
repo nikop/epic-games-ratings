@@ -10,12 +10,12 @@ Rating: 4.76 (Ranked 118)
 | Expanding Horizons | 7.00% | ~13,309 |
 | Quest for Survival | 7.00% | ~13,309 |
 | Not Your Average Trait | 7.00% | ~13,309 |
-| Gleaming the Cube | 6.00% | ~11,407 |
-| Not a Janitor | 6.00% | ~11,407 |
-| Familiar Face | 6.00% | ~11,407 |
-| Duality | 6.00% | ~11,407 |
-| Boss'n Up | 6.00% | ~11,407 |
-| Trait Chaser | 6.00% | ~11,407 |
+| Gleaming the Cube | 6.00% | ~11,408 |
+| Not a Janitor | 6.00% | ~11,408 |
+| Familiar Face | 6.00% | ~11,408 |
+| Duality | 6.00% | ~11,408 |
+| Boss'n Up | 6.00% | ~11,408 |
+| Trait Chaser | 6.00% | ~11,408 |
 | Not So Special Now | 5.00% | ~9,506 |
 | Equal Measures | 5.00% | ~9,506 |
 | Blue Goddess | 5.00% | ~9,506 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,901 |
 | Ghost in the Machine | 0.90% | ~1,711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,122 (Ranked 66)  
+Progressed: 190,125 (Ranked 66)  
 Completed: 359 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 359 (0.19%) (Ranked 218)
 | 2023-10-02 | 189,383 | 353 |
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
-| 2023-10-05 | 190,122 | 359 |
+| 2023-10-05 | 190,125 | 359 |
 ## Awards
 Max (Great Boss Battles): 1,770  (Ranked 117)  
 Sum: 3,745 (Ranked 154)  

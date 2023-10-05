@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -267,9 +267,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "beat_c1_bronze",
@@ -866,8 +866,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:09:03.1808328+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:22:16.2191465+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.4295563+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:42:59.56224+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:09:03.1809451+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:17:08.1008704+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:22:16.2192408+00:00"
 }

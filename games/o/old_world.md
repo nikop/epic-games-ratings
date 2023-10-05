@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.30% | ~43 |
 | Pioneer | 0.30% | ~43 |
 | Strong | 0.30% | ~43 |
+| Wise | 0.30% | ~43 |
 | Hanging Gardens | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
@@ -28,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
+| Kushite Paganism | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
 | Brilliant | 0.20% | ~29 |
@@ -37,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.20% | ~29 |
 | Magnificent | 0.20% | ~29 |
 | Warrior | 0.20% | ~29 |
-| Wise | 0.20% | ~29 |
 | Developing Cities | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
@@ -56,13 +57,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
-| Kushite Paganism | 0.20% | ~29 |
+| Lighthouse in Alexandria | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
 | Hanging Gardens in Babylon | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
 | United Against The Horde | 0.10% | ~14 |
+| Before the Mongol Horde | 0.10% | ~14 |
 | Blade of the Monkey | 0.10% | ~14 |
 | Carthage - Ox Hide | 0.10% | ~14 |
 | Bronze Victory (Carthage 1) | 0.10% | ~14 |
@@ -84,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
 | Conqueror | 0.10% | ~14 |
+| Destroyer | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Intercessor | 0.10% | ~14 |
@@ -103,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.10% | ~14 |
 | Noble Difficulty | 0.10% | ~14 |
 | Strong Difficulty | 0.10% | ~14 |
+| Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
 | Artisans | 0.10% | ~14 |
 | Champions | 0.10% | ~14 |
@@ -117,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
+| Game of the Week | 0.10% | ~14 |
 | Defend Where? | 0.10% | ~14 |
 | Run, Pheidippides, Run! | 0.10% | ~14 |
 | Nenikekamen | 0.10% | ~14 |
@@ -126,11 +131,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
+| I am the Archon Now | 0.10% | ~14 |
 | The Olive Wreath | 0.10% | ~14 |
 | Those Were Mine | 0.10% | ~14 |
+| If? Then! | 0.10% | ~14 |
 | What's 'hubris' in Greek? | 0.10% | ~14 |
 | Three's a Crowd | 0.10% | ~14 |
 | Unfinished Business | 0.10% | ~14 |
+| Philip's Bronze Crown | 0.10% | ~14 |
+| Philip's Silver Crown | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
 | Queen of Lies | 0.10% | ~14 |
@@ -275,13 +284,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
-| Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -291,7 +298,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
-| Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -300,21 +306,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
-| Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Shape of Things to Come | 0.00% | ~0 |
-| I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| If? Then! | 0.00% | ~0 |
-| Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
-| Philip's Silver Crown | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |

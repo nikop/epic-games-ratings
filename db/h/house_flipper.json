@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -8967,9 +8967,9 @@
       "ID": "FirstMoney",
       "SetID": "d0jo315",
       "Name": "First money",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19632
+      "UsersEstimate": 19841
     },
     {
       "ID": "GameOver",
@@ -9111,8 +9111,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-03T15:02:10.6870334+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:49:23.3160034+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:23:20.4171342+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:05.7418417+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:48:12.4823312+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:49:23.3160473+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:22:10.4670896+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:23:20.4172199+00:00"
 }

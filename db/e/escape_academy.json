@@ -4,8 +4,8 @@
   "ProductSlug": "escape-academy-bfc2bf",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-14T04:00:00+00:00",
     "PcReleaseDate": "2022-07-14T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0407293+00:00",
   "LastChanged": "2023-03-31T05:57:28.0407294+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:30.1348418+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:43:52.9950095+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:54:29.1345738+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:17:59.0845547+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:28:32.2143604+00:00"
 }

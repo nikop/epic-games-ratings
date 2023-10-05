@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~190,653 |
+| Boarded! | 94.00% | ~190,654 |
 | Snooper. | 10.00% | ~20,282 |
 | You have to start somewhere, right? | 8.00% | ~16,226 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,169 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 794)
 | Snooper + | 0.50% | ~1,014 |
 | Corrupted + | 0.40% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,822 (Ranked 64)  
+Progressed: 202,823 (Ranked 64)  
 Completed: 512 (0.25%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,14 +203,14 @@ Completed: 512 (0.25%) (Ranked 207)
 | 2023-10-02 | 202,695 | 512 |
 | 2023-10-03 | 202,752 | 512 |
 | 2023-10-04 | 202,810 | 512 |
-| 2023-10-05 | 202,822 | 512 |
+| 2023-10-05 | 202,823 | 512 |
 ## Awards
-Max (Challenging Puzzles): 562  (Ranked 195)  
-Sum: 677 (Ranked 286)  
+Max (Challenging Puzzles): 564  (Ranked 195)  
+Sum: 679 (Ranked 286)  
 Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 562 |
+| This game features Challenging Puzzles | 564 |
 | This game is Highly Recommended | 25 |
 | This game has Amazing Characters | 25 |
 | This game has Quickly Understood Controls | 23 |
@@ -249,3 +249,4 @@ Diff (max vs sum): -91
 | 2023-08-19 | 4.32 | 561 | 675 |
 | 2023-09-21 | 4.32 | 562 | 676 |
 | 2023-09-23 | 4.32 | 562 | 677 |
+| 2023-10-05 | 4.32 | 564 | 679 |

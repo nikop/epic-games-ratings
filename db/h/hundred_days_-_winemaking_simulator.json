@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6466,
+  "EOS_Progressed": 6470,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5232,6 +5232,11 @@
       "Time": "2023-10-05T01:50:49.26741+00:00",
       "NumProgressed": 6466,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-05T02:24:44.9716434+00:00",
+      "NumProgressed": 6470,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5292,7 +5297,7 @@
       "Name": "Bye Bye",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2394
     },
     {
       "ID": "a_19",
@@ -5308,7 +5313,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "a_20",
@@ -5426,9 +5431,9 @@
       "ID": "a_35",
       "SetID": "daiie3o",
       "Name": "Welcome to the club",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 129
+      "UsersEstimate": 65
     },
     {
       "ID": "a_36",
@@ -5491,7 +5496,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6466,
+      "Progressed": 6470,
       "Completed": 7
     }
   ],
@@ -5499,8 +5504,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:50:49.2674095+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:24:44.9716429+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:44:56.8865729+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:50:49.267452+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:19:01.76161+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:24:44.9717096+00:00"
 }

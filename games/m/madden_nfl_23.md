@@ -24,7 +24,7 @@ Rating: 4.27 (Ranked 830)
 | Lockdown Corner | 4.00% | ~82 |
 | Gain Train | 1.00% | ~20 |
 | Ol' Reliable | 0.60% | ~12 |
-| Lockdown Leader | 0.50% | ~10 |
+| Lockdown Leader | 0.60% | ~12 |
 | The Fortress | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,040 (Ranked 200)  

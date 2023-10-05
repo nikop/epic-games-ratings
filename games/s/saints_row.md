@@ -8,22 +8,22 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~33,936 |
 | To The Nines | 42.00% | ~30,985 |
-| Optimized | 36.00% | ~26,558 |
-| Performance Review | 36.00% | ~26,558 |
+| Optimized | 36.00% | ~26,559 |
+| Performance Review | 36.00% | ~26,559 |
 | Making a Name | 34.00% | ~25,083 |
 | Tune Up | 33.00% | ~24,345 |
-| Wet Work | 32.00% | ~23,607 |
-| Landlord | 32.00% | ~23,607 |
+| Wet Work | 32.00% | ~23,608 |
+| Landlord | 32.00% | ~23,608 |
 | The Side Job | 31.00% | ~22,870 |
-| Wrecking Ball | 28.00% | ~20,656 |
+| Wrecking Ball | 28.00% | ~20,657 |
 | Food for Thought | 27.00% | ~19,919 |
-| Finders Keepers | 25.00% | ~18,443 |
-| A Young Empire | 25.00% | ~18,443 |
+| Finders Keepers | 25.00% | ~18,444 |
+| A Young Empire | 25.00% | ~18,444 |
 | Work Ethic | 23.00% | ~16,968 |
 | Power Players | 19.00% | ~14,017 |
 | Picking Fights | 19.00% | ~14,017 |
 | Quality Time | 18.00% | ~13,279 |
-| Et tu? | 17.00% | ~12,541 |
+| Et tu? | 17.00% | ~12,542 |
 | Showdown | 16.00% | ~11,804 |
 | Took It to The Limit | 16.00% | ~11,804 |
 | Kitted Out | 14.00% | ~10,328 |
@@ -42,7 +42,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 5.00% | ~3,689 |
 | Free Refills | 5.00% | ~3,689 |
 | Smooth Moves | 5.00% | ~3,689 |
-| Hazardous Heist | 5.00% | ~2,270 |
+| Hazardous Heist | 5.00% | ~2,271 |
 | Neighborly | 4.00% | ~2,951 |
 | Prankster | 4.00% | ~2,951 |
 | Tourist | 4.00% | ~2,951 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~148 |
 | Fiesta Time | 0.20% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,773 (Ranked 87)  
+Progressed: 73,774 (Ranked 87)  
 Completed: 50 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 50 (0.07%) (Ranked 254)
 | 2023-10-02 | 73,547 | 50 |
 | 2023-10-03 | 73,662 | 50 |
 | 2023-10-04 | 73,761 | 50 |
-| 2023-10-05 | 73,773 | 50 |
+| 2023-10-05 | 73,774 | 50 |
 ## Awards
 Max (Extremely Fun): 1,068  (Ranked 142)  
 Sum: 8,663 (Ranked 97)  

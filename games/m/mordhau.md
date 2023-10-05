@@ -5,22 +5,22 @@ Rating: 4.39 (Ranked 728)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~751,948 |
-| The ABCs | 43.00% | ~659,872 |
-| Home Run | 41.00% | ~629,181 |
-| Keeps Coming Off | 41.00% | ~629,181 |
-| Guts | 20.00% | ~306,917 |
+| Justice from the Grave | 49.00% | ~751,949 |
+| The ABCs | 43.00% | ~659,874 |
+| Home Run | 41.00% | ~629,182 |
+| Keeps Coming Off | 41.00% | ~629,182 |
+| Guts | 20.00% | ~306,918 |
 | Meat Grinder | 19.00% | ~291,572 |
 | Burning Man | 16.00% | ~245,534 |
-| Lived to Tell the Tale | 12.00% | ~184,150 |
+| Lived to Tell the Tale | 12.00% | ~184,151 |
 | Highlander | 10.00% | ~153,459 |
 | Unstoppable | 10.00% | ~153,459 |
 | Just a Scratch | 9.00% | ~138,113 |
 | Tough Nut to Crack | 6.00% | ~92,075 |
 | Yoink | 6.00% | ~92,075 |
-| Long List of Names | 4.00% | ~61,383 |
-| Pyromaniac | 4.00% | ~61,383 |
-| The Queen of Weapons | 4.00% | ~61,383 |
+| Long List of Names | 4.00% | ~61,384 |
+| Pyromaniac | 4.00% | ~61,384 |
+| The Queen of Weapons | 4.00% | ~61,384 |
 | This isn’t Sparta | 3.00% | ~46,038 |
 | Crybaby | 2.00% | ~30,692 |
 | Eagle Eye | 2.00% | ~30,692 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 728)
 | That’s No Ordinary Cold | 0.10% | ~1,535 |
 | Stairway to Hell | 0.10% | ~1,535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,534,587 (Ranked 8)  
+Progressed: 1,534,590 (Ranked 8)  
 Completed: 59 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,14 +212,14 @@ Completed: 59 (0.00%) (Ranked 306)
 | 2023-10-02 | 1,533,445 | 59 |
 | 2023-10-03 | 1,534,006 | 59 |
 | 2023-10-04 | 1,534,543 | 59 |
-| 2023-10-05 | 1,534,587 | 59 |
+| 2023-10-05 | 1,534,590 | 59 |
 ## Awards
-Max (Diverse Characters): 743  (Ranked 167)  
-Sum: 3,928 (Ranked 150)  
+Max (Diverse Characters): 748  (Ranked 167)  
+Sum: 3,933 (Ranked 150)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 743 |
+| This game has Diverse Characters | 748 |
 | This game has Challenging Combat | 627 |
 | This game is Highly Recommended | 624 |
 | This game has Amazing Characters | 515 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 17
 | 2023-10-02 | 4.39 | 738 | 3,900 |
 | 2023-10-03 | 4.39 | 738 | 3,904 |
 | 2023-10-04 | 4.39 | 743 | 3,928 |
+| 2023-10-05 | 4.39 | 748 | 3,933 |

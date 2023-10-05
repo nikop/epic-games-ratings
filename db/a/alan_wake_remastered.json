@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67006,
+  "EOS_Progressed": 67008,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16909,6 +16909,11 @@
       "Time": "2023-10-05T01:50:08.1672485+00:00",
       "NumProgressed": 67006,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-05T02:24:04.5950612+00:00",
+      "NumProgressed": 67008,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16952,7 +16957,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15411
+      "UsersEstimate": 15412
     },
     {
       "ID": "06",
@@ -16960,7 +16965,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12731
+      "UsersEstimate": 12732
     },
     {
       "ID": "07",
@@ -17048,7 +17053,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5360
+      "UsersEstimate": 5361
     },
     {
       "ID": "18",
@@ -17056,7 +17061,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "19",
@@ -17168,7 +17173,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22112
+      "UsersEstimate": 22113
     },
     {
       "ID": "33",
@@ -17192,7 +17197,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23452
+      "UsersEstimate": 23453
     },
     {
       "ID": "36",
@@ -17256,7 +17261,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12731
+      "UsersEstimate": 12732
     },
     {
       "ID": "44",
@@ -17328,7 +17333,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "53",
@@ -17384,7 +17389,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "60",
@@ -17416,7 +17421,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "64",
@@ -17455,21 +17460,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67006,
+      "Progressed": 67008,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30474,
+      "Progressed": 30476,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:50:08.1672481+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:24:04.5950607+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:45:15.6457615+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:50:08.1673779+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:19:20.1726646+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:24:04.5952943+00:00"
 }

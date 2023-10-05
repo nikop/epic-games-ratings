@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 33.00% | ~2,010 |
 | Luminary Researcher | 32.00% | ~1,949 |
 | Heating Up | 30.00% | ~1,827 |
-| Winter Is Coming | 27.00% | ~1,645 |
+| Winter Is Coming | 28.00% | ~1,705 |
 | Winter Is Here | 24.00% | ~1,462 |
 | Disassembled | 21.00% | ~1,279 |
 | A Party Now | 21.00% | ~1,279 |

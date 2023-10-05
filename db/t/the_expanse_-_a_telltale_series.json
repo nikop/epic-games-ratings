@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13560,
+  "EOS_Progressed": 13562,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7682,6 +7682,11 @@
       "Time": "2023-10-05T01:50:39.8224434+00:00",
       "NumProgressed": 13560,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T02:24:35.8438032+00:00",
+      "NumProgressed": 13562,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7740,9 +7745,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "16",
@@ -7933,7 +7938,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13560,
+      "Progressed": 13562,
       "Completed": 5
     }
   ],
@@ -7941,8 +7946,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:50:39.8224429+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:24:35.8438027+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:45:03.1182789+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:50:39.8224949+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:19:08.4744892+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:24:35.8439116+00:00"
 }

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Endless Tricks | 8.00% | ~3 |
+| Sanctuary Guardian | 8.00% | ~3 |
+| Stellar Dismantler | 8.00% | ~3 |
 | Anomaly Destroyer | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
 | Dicesmithing Time! | 5.00% | ~2 |
-| Endless Tricks | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Loyal Partner | 5.00% | ~2 |
 | Mechanical Buddy | 5.00% | ~2 |
 | Mind Illuminator | 5.00% | ~2 |
 | Purification Pioneer | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
-| Sanctuary Guardian | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
-| Stellar Dismantler | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
 | Anomaly Control | 3.00% | ~1 |

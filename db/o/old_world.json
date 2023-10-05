@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1787,7 +1787,7 @@
   ],
   "EOS_Progressed": 14358,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13008,9 +13008,9 @@
       "ID": "ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse in Alexandria",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_MUSAEUM",
@@ -13112,9 +13112,9 @@
       "ID": "ACHIEVEMENT_BEFORE_MONGOL_HORDE",
       "SetID": "9201eeb",
       "Name": "Before the Mongol Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
@@ -13392,9 +13392,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
       "SetID": "9201eeb",
       "Name": "Destroyer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
@@ -13664,9 +13664,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -13792,9 +13792,9 @@
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
       "SetID": "9201eeb",
       "Name": "Ethnic Diversity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ET_TU_BRUTUS",
@@ -13936,9 +13936,9 @@
       "ID": "ACHIEVEMENT_GOTW",
       "SetID": "9201eeb",
       "Name": "Game of the Week",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_ALTERNATE_WIN",
@@ -14056,9 +14056,9 @@
       "ID": "ACHIEVEMENT_GREECE3_ATHENS",
       "SetID": "9201eeb",
       "Name": "I am the Archon Now",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_NO_WOUND",
@@ -14088,9 +14088,9 @@
       "ID": "ACHIEVEMENT_GREECE3_SPARTA",
       "SetID": "9201eeb",
       "Name": "If? Then!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THRACIANS",
@@ -14120,9 +14120,9 @@
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_BRONZE",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Bronze Crown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_GOLD",
@@ -14136,9 +14136,9 @@
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_SILVER",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Silver Crown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_CITIES",
@@ -15704,9 +15704,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
       "SetID": "9201eeb",
       "Name": "Kushite Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -15734,8 +15734,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:54:17.3961942+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:28:20.9007884+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:44:32.1154074+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:54:17.397174+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:18:35.857929+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:28:20.9023279+00:00"
 }

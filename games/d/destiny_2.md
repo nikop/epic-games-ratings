@@ -6,31 +6,31 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 93.00% | ~513,726 |
-| The People's Hero | 56.00% | ~309,341 |
-| In A Flash | 32.00% | ~176,766 |
-| Lest Ye Be Judged | 24.00% | ~132,575 |
-| Heart of Darkness | 24.00% | ~132,575 |
-| Cayde's Pathfinder | 23.00% | ~127,051 |
-| Ikora's Protégé | 21.00% | ~116,003 |
-| The Life Exotic | 19.00% | ~104,955 |
-| Heart of the Awoken | 18.00% | ~99,431 |
-| Zavala's Lieutenant | 17.00% | ~93,907 |
-| Challenge Accepted | 16.00% | ~88,383 |
-| High-Stakes Play | 16.00% | ~88,383 |
-| Show Me What You Got | 16.00% | ~88,383 |
-| Legends Grow | 14.00% | ~77,335 |
-| Exotique | 13.00% | ~71,811 |
-| Nothing Left to Say | 13.00% | ~71,811 |
-| An Exotic Journey | 12.00% | ~66,287 |
-| Darkness Falls | 12.00% | ~66,287 |
-| Belly Of The Beast | 10.00% | ~55,239 |
+| Long and Winding Road | 93.00% | ~513,734 |
+| The People's Hero | 56.00% | ~309,345 |
+| In A Flash | 32.00% | ~176,769 |
+| Lest Ye Be Judged | 24.00% | ~132,576 |
+| Heart of Darkness | 24.00% | ~132,576 |
+| Cayde's Pathfinder | 23.00% | ~127,052 |
+| Ikora's Protégé | 21.00% | ~116,004 |
+| The Life Exotic | 19.00% | ~104,956 |
+| Heart of the Awoken | 18.00% | ~99,432 |
+| Zavala's Lieutenant | 17.00% | ~93,908 |
+| Challenge Accepted | 16.00% | ~88,384 |
+| High-Stakes Play | 16.00% | ~88,384 |
+| Show Me What You Got | 16.00% | ~88,384 |
+| Legends Grow | 14.00% | ~77,336 |
+| Exotique | 13.00% | ~71,812 |
+| Nothing Left to Say | 13.00% | ~71,812 |
+| An Exotic Journey | 12.00% | ~66,288 |
+| Darkness Falls | 12.00% | ~66,288 |
+| Belly Of The Beast | 10.00% | ~55,240 |
 | The Prestige | 7.00% | ~38,668 |
 | Fashion Statement | 7.00% | ~38,668 |
 | Wishing for the Best | 6.00% | ~33,144 |
 | Seal the Deal | 4.00% | ~22,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,394 (Ranked 30)  
+Progressed: 552,402 (Ranked 30)  
 Completed: 15,438 (2.79%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 15,438 (2.79%) (Ranked 88)
 | 2023-10-02 | 551,154 | 15,402 |
 | 2023-10-03 | 551,792 | 15,421 |
 | 2023-10-04 | 552,334 | 15,435 |
-| 2023-10-05 | 552,394 | 15,438 |
+| 2023-10-05 | 552,402 | 15,438 |
 ## Awards
 Max (Great Boss Battles): 38,068  (Ranked 14)  
 Sum: 96,567 (Ranked 16)  

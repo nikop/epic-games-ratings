@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -967,6 +967,11 @@
       "Time": "2023-10-04T21:04:21.2747666+00:00",
       "NumProgressed": 337,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-05T02:23:27.6715539+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -979,7 +984,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_10",
@@ -993,9 +998,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_12",
@@ -1003,7 +1008,7 @@
       "Name": "From Way Downtown",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_13",
@@ -1017,9 +1022,9 @@
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_15",
@@ -1041,9 +1046,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_18",
@@ -1073,9 +1078,9 @@
       "ID": "achievement_4",
       "SetID": "7ldgi7j",
       "Name": "From Many, One",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_5",
@@ -1099,7 +1104,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_8",
@@ -1115,20 +1120,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:49:30.6297895+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:23:27.6715533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:41.7321613+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:43:26.0751347+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:49:30.6298054+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:17:35.01867+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:23:27.6715739+00:00"
 }

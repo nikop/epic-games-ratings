@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7102,9 +7102,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230913,
+  "EOS_Progressed": 230915,
   "EOS_Completed": 2330,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25737,6 +25737,11 @@
       "Time": "2023-10-05T01:51:07.4585982+00:00",
       "NumProgressed": 230913,
       "NumCompleted": 2330
+    },
+    {
+      "Time": "2023-10-05T02:25:03.4747109+00:00",
+      "NumProgressed": 230915,
+      "NumCompleted": 2330
     }
   ],
   "TotalAchievements": 528,
@@ -25970,9 +25975,9 @@
       "ID": "objective_completed_1076",
       "SetID": "415jc5c",
       "Name": "Icequake",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1077",
@@ -26906,9 +26911,9 @@
       "ID": "objective_completed_155",
       "SetID": "cc37lbc",
       "Name": "Home Field Advantage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_156",
@@ -27338,9 +27343,9 @@
       "ID": "objective_completed_269",
       "SetID": "cc37lbc",
       "Name": "Seeds of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_270",
@@ -28498,9 +28503,9 @@
       "ID": "objective_completed_627",
       "SetID": "415jc5c",
       "Name": "Ireena von Zarovich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_628",
@@ -28810,9 +28815,9 @@
       "ID": "objective_completed_687",
       "SetID": "415jc5c",
       "Name": "Prisoners of Unknown Choices",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_69",
@@ -29178,9 +29183,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_839",
@@ -29258,9 +29263,9 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_854",
@@ -29474,9 +29479,9 @@
       "ID": "objective_completed_898",
       "SetID": "415jc5c",
       "Name": "Mysteries Unlocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_899",
@@ -29642,9 +29647,9 @@
       "ID": "objective_completed_97",
       "SetID": "cc37lbc",
       "Name": "Overwhelming Force",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_99",
@@ -29971,21 +29976,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197187,
+      "Progressed": 197189,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230913,
+      "Progressed": 230915,
       "Completed": 2330
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T01:51:07.4585978+00:00",
+  "LastChanged_Achievements": "2023-10-05T02:25:03.4747107+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T01:45:35.2450513+00:00",
-  "LastUpdate_Achievements": "2023-10-05T01:51:07.4610447+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:19:37.0684529+00:00",
+  "LastUpdate_Achievements": "2023-10-05T02:25:03.4782979+00:00"
 }
