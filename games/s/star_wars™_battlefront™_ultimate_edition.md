@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~404 |
-| Off to a good start | 67.00% | ~301 |
-| Do... or do not. There is no try | 52.00% | ~233 |
+| New Recruit | 90.00% | ~405 |
+| Off to a good start | 67.00% | ~302 |
+| Do... or do not. There is no try | 52.00% | ~234 |
 | A good blaster at your side | 34.00% | ~153 |
 | Scrap collector | 22.00% | ~99 |
 | I suggest a new strategy | 20.00% | ~90 |
 | Great shot, kid! | 20.00% | ~90 |
-| All right, I'll give it a try | 19.00% | ~85 |
+| All right, I'll give it a try | 19.00% | ~86 |
 | The power of the Force | 18.00% | ~81 |
 | Shoot first | 18.00% | ~81 |
 | Together we can rule the galaxy | 17.00% | ~76 |
@@ -19,7 +19,7 @@
 | Survivor | 13.00% | ~58 |
 | Tell Jabba that I've got his money | 12.00% | ~54 |
 | Best star-pilot in the galaxy | 12.00% | ~54 |
-| A cunning warrior | 11.00% | ~49 |
+| A cunning warrior | 11.00% | ~50 |
 | What's the cargo? | 10.00% | ~45 |
 | "Gonk? Gonk!" | 10.00% | ~45 |
 | Never tell me the odds! | 10.00% | ~45 |
@@ -45,9 +45,9 @@
 | Alternative solution | 4.00% | ~18 |
 | What will you become? | 4.00% | ~18 |
 | Disturbed tranquility | 4.00% | ~18 |
-| Playing the objective | 3.00% | ~13 |
-| Ackbar's Elite | 3.00% | ~13 |
-| The circle is now complete | 3.00% | ~13 |
+| Playing the objective | 3.00% | ~14 |
+| Ackbar's Elite | 3.00% | ~14 |
+| The circle is now complete | 3.00% | ~14 |
 | Hold the line! | 2.00% | ~9 |
 | No such thing as luck | 2.00% | ~9 |
 | Do we take prisoners? | 2.00% | ~9 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 278)  
+Progressed: 450 (Ranked 278)  
 Completed: 1 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.22%) (Ranked 212)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 449 | 1 |
+| 2023-10-05 | 450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

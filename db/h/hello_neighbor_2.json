@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -408,9 +408,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
@@ -3498,6 +3498,11 @@
       "Time": "2023-10-05T19:07:26.2106988+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-10-05T23:05:35.7766348+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 14,
@@ -3509,7 +3514,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3573,7 +3578,7 @@
       "Name": "Imprisonment",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -3581,7 +3586,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_REUNION",
@@ -3613,14 +3618,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2919,
       "Completed": 119
     }
   ],
@@ -3628,8 +3633,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-17T11:03:57.624996+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:07:00.3630533+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:05:35.7766343+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:44.8893578+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:59:47.8729284+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:07:00.3630881+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:58:46.3719913+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:05:35.7766661+00:00"
 }

@@ -1981,9 +1981,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 619
     },
     {
       "ID": "AC05",
@@ -2326,8 +2326,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-04T20:00:30.3095733+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:07:22.5468984+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:05:53.9073522+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:00:49.9750287+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:07:22.5469505+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:59:30.4038264+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:05:53.9074014+00:00"
 }

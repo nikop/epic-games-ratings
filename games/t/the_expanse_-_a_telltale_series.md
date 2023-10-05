@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 4.00% | ~544 |
+| Oyedang, Kopengs | 5.00% | ~680 |
 | Drug Gifter | 2.00% | ~272 |
 | The Pit and the Pirates | 1.00% | ~136 |
 | Drone Dodger | 1.00% | ~136 |
@@ -20,10 +20,10 @@ Rating: 4.53 (Ranked 523)
 | Spore Taste | 0.70% | ~95 |
 | Khan's Revenge | 0.70% | ~95 |
 | Stogie for Fogey | 0.60% | ~82 |
+| Miraculous Maya | 0.50% | ~68 |
 | Doctor Approved | 0.40% | ~54 |
 | Bottoms up! | 0.40% | ~54 |
 | Thorston Mayer | 0.40% | ~54 |
-| Miraculous Maya | 0.40% | ~54 |
 | Brother's Reaper | 0.30% | ~41 |
 | No Belter Left Behind | 0.30% | ~41 |
 | Data Logger | 0.20% | ~27 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 523)
 | Debris Spree | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,596 (Ranked 135)  
+Progressed: 13,598 (Ranked 135)  
 Completed: 12 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 12 (0.09%) (Ranked 246)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,596 | 12 |
+| 2023-10-05 | 13,598 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

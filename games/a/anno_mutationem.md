@@ -7,10 +7,10 @@ Rating: 4.56 (Ranked 472)
 | ---- | ---------- | ----- |
 | Tell me your story | 76.00% | ~512 |
 | Don't judge a manhole by its cover | 60.00% | ~404 |
-| I just love stuff! | 42.00% | ~283 |
+| I just love stuff! | 43.00% | ~290 |
 | Keep 'em coming! | 42.00% | ~283 |
+| The things they print nowadays | 40.00% | ~270 |
 | Big Spender | 39.00% | ~263 |
-| The things they print nowadays | 39.00% | ~263 |
 | That's gotta hurt | 37.00% | ~249 |
 | The Ann Flores Combo Experience | 27.00% | ~182 |
 | I think it's broke | 26.00% | ~175 |

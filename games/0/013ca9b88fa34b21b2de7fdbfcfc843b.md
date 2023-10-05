@@ -11,7 +11,7 @@ Rating: 4.80 (Ranked 83)
 | Break-Net Speed | 48.00% | ~2,918 |
 | Bramble Breaker | 45.00% | ~2,736 |
 | Miner 49er | 42.00% | ~2,554 |
-| Humble Collector | 40.00% | ~2,432 |
+| Humble Collector | 41.00% | ~2,493 |
 | Calm Sailing | 35.00% | ~2,128 |
 | Open the Gate! | 31.00% | ~1,885 |
 | Mist Walker | 29.00% | ~1,763 |
@@ -28,8 +28,8 @@ Rating: 4.80 (Ranked 83)
 | Fanatical Farmer | 6.00% | ~365 |
 | Flaming Hot Completos | 5.00% | ~304 |
 | Fae Farmer | 5.00% | ~304 |
+| Scattered Scroll Scrounger | 5.00% | ~304 |
 | Azorian Anniversary | 5.00% | ~304 |
-| Scattered Scroll Scrounger | 4.00% | ~243 |
 | I Now Pronounce You... | 4.00% | ~243 |
 | Chatty Neighbor | 3.00% | ~182 |
 | House Proud | 3.00% | ~182 |

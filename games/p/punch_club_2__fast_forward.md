@@ -57,15 +57,15 @@
 | Not little hacker | 36.00% | ~119 |
 | Absolute Champion! | 36.00% | ~119 |
 | Your own way | 36.00% | ~119 |
+| The lonesome road | 35.00% | ~116 |
+| Key memories | 35.00% | ~116 |
 | Anyone can resist | 35.00% | ~116 |
+| The heart of the Resistance | 35.00% | ~116 |
 | Trap disarmed | 34.00% | ~113 |
 | Another world | 34.00% | ~113 |
-| The lonesome road | 34.00% | ~113 |
 | Keep nature safe | 34.00% | ~113 |
 | Family comes first | 34.00% | ~113 |
-| Key memories | 34.00% | ~113 |
 | Careerist | 34.00% | ~113 |
-| The heart of the Resistance | 34.00% | ~113 |
 | The last bell ring | 33.00% | ~109 |
 | Better cooking at home | 31.00% | ~103 |
 | Silver’s past | 30.00% | ~99 |

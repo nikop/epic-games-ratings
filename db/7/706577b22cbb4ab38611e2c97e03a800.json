@@ -455,9 +455,9 @@
       "ID": "ACHIEVEMENT_AV_04",
       "SetID": "b50kim2",
       "Name": "MISSION 04",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_AV_05",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:09:37.1255162+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:08:30.9120659+00:00",
   "LastUpdate_AppInfo": "2023-10-03T03:57:18.6208963+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:00:46.9882705+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:09:37.125562+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:59:28.1942217+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:08:30.9121122+00:00"
 }

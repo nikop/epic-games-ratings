@@ -16,12 +16,12 @@
 | Council Legion of Merit | 58.00% | ~327 |
 | Medal of Honor | 56.00% | ~315 |
 | Turian Ally | 56.00% | ~315 |
+| Charismatic | 56.00% | ~315 |
 | Meritorious Service Medal | 55.00% | ~310 |
-| Charismatic | 55.00% | ~310 |
-| Soldier | 53.00% | ~298 |
+| Soldier | 54.00% | ~304 |
 | Medal of Exploration III | 52.00% | ~293 |
 | Asari Ally | 52.00% | ~293 |
-| Principled | 51.00% | ~287 |
+| Principled | 52.00% | ~293 |
 | Soldier Ally | 50.00% | ~282 |
 | Colonial Savior | 49.00% | ~276 |
 | Sentinel Ally | 46.00% | ~259 |
@@ -36,10 +36,10 @@
 | Veteran | 40.00% | ~225 |
 | Missing in Action | 40.00% | ~225 |
 | Power Full | 39.00% | ~220 |
+| The Archangel | 37.00% | ~208 |
 | The Professor | 37.00% | ~208 |
 | Completionist | 36.00% | ~203 |
 | Colony Defense | 36.00% | ~203 |
-| The Archangel | 36.00% | ~203 |
 | The Convict | 36.00% | ~203 |
 | The Krogan | 35.00% | ~197 |
 | Archivist | 34.00% | ~191 |
@@ -92,13 +92,13 @@
 | Electronics Specialist | 18.00% | ~101 |
 | Sabotage Specialist | 18.00% | ~101 |
 | Party Crasher | 18.00% | ~101 |
+| Fact Finder | 18.00% | ~101 |
 | Problem Solver | 18.00% | ~101 |
 | Under Pressure | 17.00% | ~96 |
 | Last Resort | 17.00% | ~96 |
 | Hard Target | 17.00% | ~96 |
 | Saboteur | 17.00% | ~96 |
 | Last Witness | 17.00% | ~96 |
-| Fact Finder | 17.00% | ~96 |
 | Well Connected | 16.00% | ~90 |
 | Throw Mastery | 15.00% | ~84 |
 | Master and Commander | 15.00% | ~84 |

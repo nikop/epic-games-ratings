@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2647,
+  "EOS_Progressed": 2648,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6351,6 +6351,11 @@
       "Time": "2023-10-05T20:06:51.979848+00:00",
       "NumProgressed": 2647,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T23:06:18.1778401+00:00",
+      "NumProgressed": 2648,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6392,9 +6397,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 715
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -6442,7 +6447,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "GLOVE_SLAP",
@@ -6466,7 +6471,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "GUARD_MAKER",
@@ -6537,14 +6542,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2647,
+      "Progressed": 2648,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:07:51.5536869+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:06:18.1778395+00:00",
   "LastUpdate_AppInfo": "2023-10-04T02:14:34.4765305+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:01:14.0116159+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:07:51.5537468+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:59:51.5110903+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:06:18.1778961+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,397 |
-| Photographer | 69.00% | ~7,291 |
+| Goofy's Investor | 70.00% | ~7,398 |
+| Photographer | 69.00% | ~7,292 |
 | Valley's Helper | 62.00% | ~6,552 |
-| Constructor | 51.00% | ~5,389 |
-| Renovator | 51.00% | ~5,389 |
-| Bestest Friend | 47.00% | ~4,966 |
-| Banker | 39.00% | ~4,121 |
+| Constructor | 51.00% | ~5,390 |
+| Renovator | 51.00% | ~5,390 |
+| Bestest Friend | 47.00% | ~4,967 |
+| Banker | 39.00% | ~4,122 |
 | Gardener | 31.00% | ~3,276 |
 | Generous | 24.00% | ~2,536 |
 | Chef Cook | 18.00% | ~1,902 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~528 |
 | Chit Chatter | 3.00% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,567 (Ranked 141)  
+Progressed: 10,568 (Ranked 141)  
 Completed: 249 (2.36%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,14 +141,14 @@ Completed: 249 (2.36%) (Ranked 98)
 | 2023-10-02 | 10,498 | 246 |
 | 2023-10-03 | 10,525 | 248 |
 | 2023-10-04 | 10,544 | 249 |
-| 2023-10-05 | 10,567 | 249 |
+| 2023-10-05 | 10,568 | 249 |
 ## Awards
-Max (Great for Beginners): 989  (Ranked 147)  
-Sum: 7,655 (Ranked 106)  
+Max (Great for Beginners): 993  (Ranked 147)  
+Sum: 7,661 (Ranked 106)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 989 |
+| This game is Great for Beginners | 993 |
 | This game has Diverse Characters | 840 |
 | This game has Amazing Characters | 804 |
 | This game is Relaxing | 804 |
@@ -157,7 +157,7 @@ Diff (max vs sum): 41
 | This game is Extremely Fun | 754 |
 | This game has Quickly Understood Controls | 746 |
 | This game has a Creative Community | 637 |
-| This game has Easy Combat | 511 |
+| This game has Easy Combat | 513 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -368,4 +368,4 @@ Diff (max vs sum): 41
 | 2023-10-02 | 4.76 | - | 983 | 7,639 |
 | 2023-10-03 | 4.76 | - | 986 | 7,649 |
 | 2023-10-04 | 4.76 | - | 989 | 7,654 |
-| 2023-10-05 | 4.76 | - | 989 | 7,655 |
+| 2023-10-05 | 4.76 | - | 993 | 7,661 |

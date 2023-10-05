@@ -637,10 +637,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2155,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2023-10-05T22:57:10.2352671+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2156,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2155,
+  "NumberOfAwards": 2156,
   "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -690,7 +696,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 278
+      "Count": 279
     },
     {
       "Text": "This game is Great for Beginners",
@@ -705,7 +711,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224021,
+  "EOS_Progressed": 224022,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
@@ -19025,6 +19031,11 @@
       "Time": "2023-10-05T22:07:30.8750126+00:00",
       "NumProgressed": 224021,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T23:06:00.6293305+00:00",
+      "NumProgressed": 224022,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19044,7 +19055,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58245
+      "UsersEstimate": 58246
     },
     {
       "ID": "ACH_BASE_11",
@@ -19307,16 +19318,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224021,
+      "Progressed": 224022,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-05T19:57:21.9510532+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:07:30.8750119+00:00",
+  "LastChanged": "2023-10-05T22:57:10.2352669+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:06:00.6293299+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.1217409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:57:40.4298063+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:07:30.8751503+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:57:10.2352674+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:06:00.6294773+00:00"
 }

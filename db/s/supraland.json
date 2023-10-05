@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -2986,10 +2986,10 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 728231,
+  "EOS_Progressed": 728232,
   "EOS_Completed": 744,
-  "EOS_NewPlayers": 835,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 832,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -21791,6 +21791,11 @@
       "Time": "2023-10-05T22:07:00.882111+00:00",
       "NumProgressed": 728231,
       "NumCompleted": 744
+    },
+    {
+      "Time": "2023-10-05T23:05:36.1977283+00:00",
+      "NumProgressed": 728232,
+      "NumCompleted": 744
     }
   ],
   "TotalAchievements": 98,
@@ -21834,7 +21839,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 218469
+      "UsersEstimate": 218470
     },
     {
       "ID": "BallShooter",
@@ -21882,7 +21887,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "Buckle",
@@ -21930,7 +21935,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "CoinsBack",
@@ -21938,7 +21943,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "Crash2",
@@ -22050,7 +22055,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 385962
+      "UsersEstimate": 385963
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -22138,7 +22143,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "Happiness",
@@ -22162,7 +22167,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 400527
+      "UsersEstimate": 400528
     },
     {
       "ID": "Healthregen",
@@ -22218,7 +22223,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "InvisibleWall",
@@ -22242,7 +22247,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 269445
+      "UsersEstimate": 269446
     },
     {
       "ID": "MacGuffin",
@@ -22258,7 +22263,7 @@
       "Name": "The real real teleported man",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58258
+      "UsersEstimate": 58259
     },
     {
       "ID": "Mime",
@@ -22314,7 +22319,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 720949
+      "UsersEstimate": 720950
     },
     {
       "ID": "PanicLights",
@@ -22386,7 +22391,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 196622
+      "UsersEstimate": 196623
     },
     {
       "ID": "RedstonePickaxe",
@@ -22402,7 +22407,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80105
+      "UsersEstimate": 80106
     },
     {
       "ID": "Shady",
@@ -22434,7 +22439,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 480632
+      "UsersEstimate": 480633
     },
     {
       "ID": "Strong",
@@ -22474,7 +22479,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 618996
+      "UsersEstimate": 618997
     },
     {
       "ID": "ThroughPipe",
@@ -22514,7 +22519,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 313139
+      "UsersEstimate": 313140
     },
     {
       "ID": "True_Holy_Spirit",
@@ -22585,15 +22590,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 728231,
+      "Progressed": 728232,
       "Completed": 744
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-10-03T15:00:08.0452522+00:00",
-  "LastChanged_Achievements": "2023-10-05T22:07:00.8821104+00:00",
+  "LastChanged_Achievements": "2023-10-05T23:05:36.1977277+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.769952+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:03:24.8117443+00:00",
-  "LastUpdate_Achievements": "2023-10-05T22:07:00.8823821+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:02:09.2326312+00:00",
+  "LastUpdate_Achievements": "2023-10-05T23:05:36.1979702+00:00"
 }
