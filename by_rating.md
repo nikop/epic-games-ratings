@@ -85,7 +85,7 @@
 | 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 527 |
 | 84 | [Aground](games/a/aground.md) | 4.80 | 0 | 527 |
 | 84 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 51 | 407 |
-| 84 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,455 | 55 |
+| 84 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,456 | 55 |
 | 84 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 183 | 285 |
 | 84 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,481 | 103 |
 | 84 | [Sailing Era](games/s/sailing_era.md) | 4.80 | 0 | 527 |
@@ -223,7 +223,7 @@
 | 221 | [Black Book](games/b/black_book.md) | 4.69 | 68 | 388 |
 | 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,062 | 8 |
 | 221 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 527 |
-| 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,390 | 57 |
+| 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,400 | 57 |
 | 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,095 | 70 |
 | 221 | [House Flipper](games/h/house_flipper.md) | 4.69 | 312 | 239 |
 | 221 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 527 |
@@ -274,7 +274,7 @@
 | 261 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 464 |
 | 261 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 527 |
 | 261 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 527 |
-| 261 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 654 | 183 |
+| 261 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 654 | 184 |
 | 261 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 527 |
 | 261 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 160 | 301 |
 | 261 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 527 |
@@ -414,7 +414,7 @@
 | 396 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 486 | 204 |
 | 396 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 259 | 256 |
 | 396 | [Warframe](games/w/warframe.md) | 4.60 | 17,496 | 22 |
-| 396 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 472 | 206 |
+| 396 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 474 | 205 |
 | 396 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 86 | 363 |
 | 417 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.59 | 0 | 527 |
 | 417 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 422 |
@@ -801,7 +801,7 @@
 | 794 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 527 |
 | 794 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,490 | 68 |
 | 794 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 471 |
-| 794 | [Vampyr](games/v/vampyr.md) | 4.32 | 562 | 196 |
+| 794 | [Vampyr](games/v/vampyr.md) | 4.32 | 563 | 196 |
 | 794 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 527 |
 | 794 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 527 |
 | 805 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 527 |
@@ -855,7 +855,7 @@
 | 853 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 527 |
 | 853 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 464 |
 | 853 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 512 |
-| 853 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 654 | 183 |
+| 853 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 656 | 183 |
 | 853 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 527 |
 | 853 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 420 |
 | 853 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 527 |
@@ -928,14 +928,14 @@
 | 925 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 527 |
 | 927 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 527 |
 | 928 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 90 | 360 |
-| 928 | [Obduction](games/o/obduction.md) | 4.10 | 54 | 401 |
 | 928 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
-| 931 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 527 |
-| 931 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 527 |
-| 931 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 527 |
-| 931 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 527 |
-| 931 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.09 | 25 | 494 |
-| 931 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 527 |
+| 930 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 527 |
+| 930 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 527 |
+| 930 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 527 |
+| 930 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 527 |
+| 930 | [Obduction](games/o/obduction.md) | 4.09 | 54 | 401 |
+| 930 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.09 | 25 | 494 |
+| 930 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 527 |
 | 937 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 527 |
 | 937 | [Banished](games/b/banished.md) | 4.08 | 0 | 527 |
 | 937 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 527 |

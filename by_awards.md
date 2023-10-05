@@ -54,9 +54,9 @@
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,176 | 4.74 | 149 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 688 |
 | 54 | [Sifu](games/s/sifu.md) | 6,635 | 4.82 | 64 |
-| 55 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,455 | 4.80 | 84 |
+| 55 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,456 | 4.80 | 84 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,406 | 4.58 | 435 |
-| 57 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,390 | 4.69 | 221 |
+| 57 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,400 | 4.69 | 221 |
 | 58 | [Dead Island 2](games/d/dead_island_2.md) | 6,318 | 4.54 | 508 |
 | 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,116 | 4.75 | 140 |
 | 60 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,030 | 4.79 | 93 |
@@ -182,8 +182,8 @@
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 669 | 4.67 | 261 |
 | 180 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 669 | 4.73 | 164 |
 | 182 | [Riders Republic](games/r/riders_republic.md) | 664 | 4.75 | 140 |
-| 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 654 | 4.24 | 853 |
-| 183 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 654 | 4.67 | 261 |
+| 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 656 | 4.24 | 853 |
+| 184 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 654 | 4.67 | 261 |
 | 185 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 646 | 4.50 | 573 |
 | 186 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 905 |
 | 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 614 | 4.73 | 164 |
@@ -195,7 +195,7 @@
 | 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 567 | 4.40 | 716 |
 | 194 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 566 | 4.67 | 261 |
 | 195 | [Filament](games/f/filament.md) | 564 | 4.32 | 794 |
-| 196 | [Vampyr](games/v/vampyr.md) | 562 | 4.32 | 794 |
+| 196 | [Vampyr](games/v/vampyr.md) | 563 | 4.32 | 794 |
 | 197 | [Godfall Ultimate Edition](games/g/godfall.md) | 545 | 4.07 | 944 |
 | 198 | [Dishonored 2](games/d/dishonored_2.md) | 538 | 4.79 | 93 |
 | 199 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 536 | 4.52 | 536 |
@@ -205,7 +205,7 @@
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 502 | 4.72 | 180 |
 | 204 | [Surviving Mars](games/s/surviving_mars.md) | 486 | 4.60 | 396 |
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 474 | 3.94 | 976 |
-| 206 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 472 | 4.60 | 396 |
+| 205 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 474 | 4.60 | 396 |
 | 207 | [Second Extinction™](games/s/second_extinction™.md) | 470 | 4.05 | 952 |
 | 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 466 | 4.40 | 716 |
 | 209 | [Loop Hero](games/l/loop_hero.md) | 462 | 4.67 | 261 |
@@ -400,7 +400,7 @@
 | 398 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 659 |
 | 399 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 55 | 4.37 | 750 |
 | 399 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 55 | 4.65 | 299 |
-| 401 | [Obduction](games/o/obduction.md) | 54 | 4.10 | 928 |
+| 401 | [Obduction](games/o/obduction.md) | 54 | 4.09 | 930 |
 | 401 | [Ranch Simulator](games/r/ranch_simulator.md) | 54 | 4.45 | 644 |
 | 401 | [Session: Skate Sim](games/s/session__skate_sim.md) | 54 | 4.69 | 221 |
 | 404 | [The Escapists 2](games/t/the_escapists_2.md) | 53 | 4.58 | 435 |
@@ -495,7 +495,7 @@
 | 490 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 84 |
 | 494 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 25 | 4.60 | 396 |
 | 494 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.53 | 522 |
-| 494 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 25 | 4.09 | 931 |
+| 494 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 25 | 4.09 | 930 |
 | 494 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 334 |
 | 498 | [ELEX](games/e/elex.md) | 24 | 4.46 | 629 |
 | 498 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 24 | 4.06 | 947 |

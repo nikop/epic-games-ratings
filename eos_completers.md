@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.09% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.05% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
@@ -43,7 +43,7 @@
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 43 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.41% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.25% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.00% |
@@ -65,7 +65,7 @@
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.06% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.95% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -148,8 +148,8 @@
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 147 | [Eternights](games/e/eternights.md) | 0.77% |
 | 148 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
-| 148 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.73% |
-| 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
+| 149 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.72% |
+| 149 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.69% |
 | 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 152 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.64% |
@@ -161,10 +161,10 @@
 | 159 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 159 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 159 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
+| 162 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 162 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
-| 163 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 163 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 163 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 164 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 164 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 166 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 166 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 168 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
@@ -639,6 +639,7 @@
 | 306 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
 | 306 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 306 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
+| 306 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.00% |
 | 306 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 306 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
 | 306 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
