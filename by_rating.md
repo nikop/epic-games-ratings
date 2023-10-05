@@ -397,7 +397,7 @@
 | 371 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 526 |
 | 396 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 494 |
 | 396 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 28 | 476 |
-| 396 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,094 | 27 |
+| 396 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,111 | 27 |
 | 396 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 526 |
 | 396 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 361 | 228 |
 | 396 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,705 | 73 |
@@ -731,7 +731,7 @@
 | 728 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 526 |
 | 728 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 526 |
 | 728 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.39 | 0 | 526 |
-| 728 | [MORDHAU](games/m/mordhau.md) | 4.39 | 743 | 167 |
+| 728 | [MORDHAU](games/m/mordhau.md) | 4.39 | 748 | 167 |
 | 728 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,767 | 34 |
 | 728 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.39 | 36 | 448 |
 | 728 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 526 |
@@ -782,7 +782,7 @@
 | 779 | [Encased](games/e/encased.md) | 4.34 | 146 | 309 |
 | 779 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 258 | 257 |
 | 779 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 526 |
-| 779 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 2,542 | 101 |
+| 779 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 2,555 | 101 |
 | 784 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 526 |
 | 784 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 121 | 325 |
 | 784 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 526 |
@@ -796,12 +796,12 @@
 | 794 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 362 | 227 |
 | 794 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 526 |
 | 794 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 397 |
-| 794 | [Filament](games/f/filament.md) | 4.32 | 562 | 195 |
+| 794 | [Filament](games/f/filament.md) | 4.32 | 564 | 195 |
 | 794 | [House Party](games/h/house_party.md) | 4.32 | 0 | 526 |
 | 794 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 526 |
 | 794 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,490 | 68 |
 | 794 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 470 |
-| 794 | [Vampyr](games/v/vampyr.md) | 4.32 | 562 | 195 |
+| 794 | [Vampyr](games/v/vampyr.md) | 4.32 | 562 | 196 |
 | 794 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 526 |
 | 794 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 526 |
 | 805 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 526 |
@@ -866,10 +866,10 @@
 | 862 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 526 |
 | 862 | [Out of Line](games/o/out_of_line.md) | 4.23 | 0 | 526 |
 | 862 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 526 |
-| 867 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 287 |
-| 867 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 526 |
-| 867 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 215 | 272 |
-| 867 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 167 | 297 |
+| 862 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 215 | 272 |
+| 868 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 181 | 287 |
+| 868 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 526 |
+| 868 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.22 | 167 | 297 |
 | 871 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 322 |
 | 871 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 526 |
 | 871 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 464 |
