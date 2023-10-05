@@ -74,8 +74,8 @@ Rating: 4.06 (Ranked 947)
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
+| Conqueror | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
-| Conqueror | 0.80% | ~16 |
 | Silverwood liberator | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Jewel Enchanting | 0.20% | ~4 |
@@ -246,9 +246,9 @@ Completed: 2 (0.10%) (Ranked 243)
 | 2023-10-02 | 1,987 | 2 |
 | 2023-10-03 | 1,989 | 2 |
 ## Awards
-Max (Great for Beginners): 24  (Ranked 497)  
+Max (Great for Beginners): 24  (Ranked 498)  
 Sum: 66 (Ranked 452)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 24 |

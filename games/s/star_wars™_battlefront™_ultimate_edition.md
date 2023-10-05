@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~388 |
-| Off to a good start | 66.00% | ~284 |
+| New Recruit | 91.00% | ~393 |
+| Off to a good start | 66.00% | ~285 |
 | Do... or do not. There is no try | 51.00% | ~220 |
 | A good blaster at your side | 34.00% | ~147 |
 | Scrap collector | 22.00% | ~95 |
@@ -18,16 +18,16 @@
 | Collector | 15.00% | ~65 |
 | Survivor | 13.00% | ~56 |
 | Best star-pilot in the galaxy | 12.00% | ~52 |
-| Tell Jabba that I've got his money | 11.00% | ~47 |
+| Tell Jabba that I've got his money | 11.00% | ~48 |
 | What's the cargo? | 10.00% | ~43 |
 | Never tell me the odds! | 10.00% | ~43 |
 | Impressive. Most impressive. | 10.00% | ~43 |
 | A cunning warrior | 10.00% | ~43 |
 | "Gonk? Gonk!" | 9.00% | ~39 |
 | Judge me by my size, do you? | 9.00% | ~39 |
-| Distinguished | 8.00% | ~34 |
-| A tremor in the Force | 8.00% | ~34 |
-| Support the troops | 8.00% | ~34 |
+| Distinguished | 8.00% | ~35 |
+| A tremor in the Force | 8.00% | ~35 |
+| Support the troops | 8.00% | ~35 |
 | On the ball | 6.00% | ~26 |
 | Not bad for a little furball | 6.00% | ~26 |
 | Patience you must have | 6.00% | ~26 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 280)  
+Progressed: 432 (Ranked 280)  
 Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 211)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 431 | 1 |
+| 2023-10-05 | 432 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

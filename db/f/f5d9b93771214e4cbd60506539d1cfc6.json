@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 63,
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146538,
+  "EOS_Progressed": 146539,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13277,6 +13277,11 @@
       "Time": "2023-10-05T03:04:08.1351267+00:00",
       "NumProgressed": 146538,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-10-05T04:04:35.7896148+00:00",
+      "NumProgressed": 146539,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 31,
@@ -13320,7 +13325,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24911
+      "UsersEstimate": 24912
     },
     {
       "ID": "EAwards_13",
@@ -13360,7 +13365,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32238
+      "UsersEstimate": 32239
     },
     {
       "ID": "EAwards_18",
@@ -13368,7 +13373,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32238
+      "UsersEstimate": 32239
     },
     {
       "ID": "EAwards_19",
@@ -13480,7 +13485,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13188
+      "UsersEstimate": 13189
     },
     {
       "ID": "EAwards_4",
@@ -13504,7 +13509,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36634
+      "UsersEstimate": 36635
     },
     {
       "ID": "EAwards_7",
@@ -13535,7 +13540,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 146538,
+      "Progressed": 146539,
       "Completed": 287
     }
   ],
@@ -13543,8 +13548,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-28T14:01:47.960468+00:00",
-  "LastChanged_Achievements": "2023-10-05T03:04:08.1351262+00:00",
+  "LastChanged_Achievements": "2023-10-05T04:04:35.7896143+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.0774295+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:59:32.8748153+00:00",
-  "LastUpdate_Achievements": "2023-10-05T03:04:08.1352341+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:59:59.7020875+00:00",
+  "LastUpdate_Achievements": "2023-10-05T04:04:35.7897193+00:00"
 }

@@ -5,31 +5,31 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Chapter I | 52.00% | ~67 |
-| Fire in the... nevermind | 52.00% | ~67 |
-| Haute cuisine | 48.00% | ~61 |
-| I didn't do it! | 40.00% | ~51 |
+| Fire in the... nevermind | 51.00% | ~66 |
+| Haute cuisine | 47.00% | ~61 |
+| I didn't do it! | 40.00% | ~52 |
 | Demolition expert | 38.00% | ~49 |
-| Wooooooow! | 38.00% | ~49 |
+| Wooooooow! | 37.00% | ~48 |
 | Keep away from children | 36.00% | ~46 |
-| Open up wide | 33.00% | ~42 |
+| Open up wide | 33.00% | ~43 |
 | Artistic fool | 32.00% | ~41 |
 | Let the boot talk | 32.00% | ~41 |
 | Chapter II | 27.00% | ~35 |
 | Handyman | 24.00% | ~31 |
 | Achoo!! | 24.00% | ~31 |
-| Shadow on the wall | 23.00% | ~29 |
-| Bubblekillerfamily | 23.00% | ~29 |
-| Chapter III | 23.00% | ~29 |
-| Like a moth in the Wind | 23.00% | ~29 |
+| Chapter III | 23.00% | ~30 |
+| Like a moth in the Wind | 23.00% | ~30 |
 | Quite a buggy game | 22.00% | ~28 |
-| Pacifist | 20.00% | ~26 |
+| Shadow on the wall | 22.00% | ~28 |
+| Bubblekillerfamily | 22.00% | ~28 |
 | Mirror mirror on the wall... | 20.00% | ~26 |
-| Fastidious Clown | 19.00% | ~24 |
+| Pacifist | 19.00% | ~25 |
+| Fastidious Clown | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~23 |
 | Home is where the heart is | 18.00% | ~23 |
 | Master of Thermodynamics | 15.00% | ~19 |
 | Death is a part of life | 15.00% | ~19 |
-| Unfullfilled dreams | 13.00% | ~17 |
+| Unfullfilled dreams | 12.00% | ~15 |
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 362)  
+Progressed: 129 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-27 | 125 | 0 |
 | 2023-09-28 | 127 | 0 |
 | 2023-09-30 | 128 | 0 |
+| 2023-10-05 | 129 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

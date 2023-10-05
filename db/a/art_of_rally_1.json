@@ -3,11 +3,11 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -1982,8 +1982,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-05T03:08:10.662481+00:00",
+  "LastChanged_Achievements": "2023-10-05T04:07:02.0636402+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.2537883+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:02:07.4396527+00:00",
-  "LastUpdate_Achievements": "2023-10-05T03:08:10.6625239+00:00"
+  "LastUpdate_Ratings": "2023-10-05T04:00:42.5372876+00:00",
+  "LastUpdate_Achievements": "2023-10-05T04:07:02.0636939+00:00"
 }

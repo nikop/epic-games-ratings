@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 94,
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13564,
+  "EOS_Progressed": 13567,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7692,6 +7692,11 @@
       "Time": "2023-10-05T03:05:21.993372+00:00",
       "NumProgressed": 13564,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T04:05:51.9732092+00:00",
+      "NumProgressed": 13567,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7766,9 +7771,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "18",
@@ -7878,9 +7883,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "30",
@@ -7943,7 +7948,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13564,
+      "Progressed": 13567,
       "Completed": 5
     }
   ],
@@ -7951,8 +7956,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T03:05:21.9933713+00:00",
+  "LastChanged_Achievements": "2023-10-05T04:05:51.9732088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:59:50.6513797+00:00",
-  "LastUpdate_Achievements": "2023-10-05T03:05:21.9934405+00:00"
+  "LastUpdate_Ratings": "2023-10-05T04:00:18.4848313+00:00",
+  "LastUpdate_Achievements": "2023-10-05T04:05:51.9732769+00:00"
 }

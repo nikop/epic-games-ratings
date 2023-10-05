@@ -7102,9 +7102,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230918,
+  "EOS_Progressed": 230923,
   "EOS_Completed": 2330,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25747,6 +25747,11 @@
       "Time": "2023-10-05T03:05:49.3992656+00:00",
       "NumProgressed": 230918,
       "NumCompleted": 2330
+    },
+    {
+      "Time": "2023-10-05T04:06:20.8753374+00:00",
+      "NumProgressed": 230923,
+      "NumCompleted": 2330
     }
   ],
   "TotalAchievements": 528,
@@ -26220,9 +26225,9 @@
       "ID": "objective_completed_1117",
       "SetID": "415jc5c",
       "Name": "It\u0027s So Pretty\u2026",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_112",
@@ -26652,9 +26657,9 @@
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1213",
@@ -26908,9 +26913,9 @@
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_155",
@@ -28060,9 +28065,9 @@
       "ID": "objective_completed_561",
       "SetID": "cc37lbc",
       "Name": "Veteran Brigade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_562",
@@ -28308,9 +28313,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_600",
@@ -28780,17 +28785,17 @@
       "ID": "objective_completed_680",
       "SetID": "415jc5c",
       "Name": "Into the Unknown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_681",
       "SetID": "415jc5c",
       "Name": "A Tenday at Golgamann\u0027s",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_682",
@@ -29981,21 +29986,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197192,
+      "Progressed": 197197,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230918,
+      "Progressed": 230923,
       "Completed": 2330
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T03:05:49.3992651+00:00",
+  "LastChanged_Achievements": "2023-10-05T04:06:20.8753368+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:02:11.2224595+00:00",
-  "LastUpdate_Achievements": "2023-10-05T03:05:49.4021512+00:00"
+  "LastUpdate_Ratings": "2023-10-05T04:03:05.8636153+00:00",
+  "LastUpdate_Achievements": "2023-10-05T04:06:20.8787855+00:00"
 }

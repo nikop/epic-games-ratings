@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Oozing Hunger | 0.10% | ~197 |
 | Levelheaded | 0.10% | ~197 |
 | The Madness of Zuggtmoy | 0.10% | ~197 |
+| It's So Pretty… | 0.10% | ~197 |
 | Don't Look Up! | 0.10% | ~231 |
 | The Cult of Lolth | 0.10% | ~197 |
 | Head over Heals | 0.10% | ~197 |
@@ -111,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.10% | ~231 |
 | Pin and Skewer | 0.10% | ~197 |
 | Vecna Out! | 0.10% | ~197 |
+| Bully for Vecna | 0.10% | ~197 |
 | Who Lurks Below? | 0.10% | ~197 |
 | Clowning Around | 0.10% | ~197 |
 | Xanathaaaaaaar! | 0.10% | ~197 |
@@ -142,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~231 |
 | No Good at All | 0.10% | ~231 |
 | Fall From Grace | 0.10% | ~231 |
+| Captured! | 0.10% | ~231 |
 | Home Field Advantage | 0.10% | ~231 |
 | Double Vision | 0.10% | ~231 |
 | Underground Railroad | 0.10% | ~231 |
@@ -276,6 +279,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | In The Beginning | 0.10% | ~197 |
 | Crowded Streets | 0.10% | ~231 |
 | The Sunless Citadel | 0.10% | ~231 |
+| Veteran Brigade | 0.10% | ~231 |
 | Social Grace | 0.10% | ~197 |
 | Evergreens with an Evergreen | 0.10% | ~197 |
 | She's Harmless! | 0.10% | ~231 |
@@ -302,6 +306,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Nimble Grove | 0.10% | ~231 |
 | The Misty Grove | 0.10% | ~197 |
 | The Contagious Curse | 0.10% | ~231 |
+| Dinosaur Racing | 0.10% | ~231 |
 | Elturel Has Fallen | 0.10% | ~231 |
 | Everything is Awful | 0.10% | ~231 |
 | Earthquake! | 0.10% | ~197 |
@@ -351,6 +356,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bel's Forge | 0.10% | ~197 |
 | Extreme Heat | 0.10% | ~197 |
 | Fire and Brimstone | 0.10% | ~197 |
+| Into the Unknown | 0.10% | ~197 |
+| A Tenday at Golgamann's | 0.10% | ~197 |
 | A Nightmare Occasion | 0.10% | ~197 |
 | The Prison of Velkynvelve | 0.10% | ~197 |
 | Prisoners of Lolth | 0.10% | ~197 |
@@ -485,12 +492,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patron Party | 0.00% | ~0 |
 | The Dark Heart | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
-| It's So Pretty… | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Checkmate | 0.00% | ~0 |
-| Bully for Vecna | 0.00% | ~0 |
-| Captured! | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
@@ -500,12 +504,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| Veteran Brigade | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
-| Dinosaur Racing | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
@@ -515,8 +517,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Just The Worst | 0.00% | ~0 |
-| Into the Unknown | 0.00% | ~0 |
-| A Tenday at Golgamann's | 0.00% | ~0 |
 | Relentless Peril | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,918 (Ranked 56)  
+Progressed: 230,923 (Ranked 56)  
 Completed: 2,330 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,330 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,918 | 2,330 |
+| 2023-10-05 | 230,923 | 2,330 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

@@ -3,11 +3,11 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 371,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 527,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1471,
+  "EOS_Progressed": 1472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-10-04T01:47:08.1336067+00:00",
       "NumProgressed": 1471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T04:03:59.770717+00:00",
+      "NumProgressed": 1472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2971,7 +2976,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Auditor",
@@ -3051,7 +3056,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Everyone_is_here",
@@ -3083,7 +3088,7 @@
       "Name": "Grenadier",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "Hard_Serpent",
@@ -3099,7 +3104,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "High_noon",
@@ -3155,7 +3160,7 @@
       "Name": "Bomberman",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MoskitoBite",
@@ -3187,7 +3192,7 @@
       "Name": "War Never Changes",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "We_were_not_here",
@@ -3210,15 +3215,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-05T03:03:32.6119072+00:00",
+  "LastChanged_Achievements": "2023-10-05T04:03:59.7707158+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:04.8175411+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:57:42.5656314+00:00",
-  "LastUpdate_Achievements": "2023-10-05T03:03:32.611946+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:58:04.7054456+00:00",
+  "LastUpdate_Achievements": "2023-10-05T04:03:59.7707549+00:00"
 }

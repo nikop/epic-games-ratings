@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 509)
 | On Safari | 0.60% | ~4,145 |
 | Not Even My Final Form | 0.60% | ~4,145 |
 | Variety is the Spice of Death | 0.60% | ~4,145 |
-| Make it So | 0.50% | ~3,454 |
+| Make it So | 0.50% | ~3,455 |
 | LA Influential | 0.40% | ~2,764 |
 | Gore Horse | 0.40% | ~2,764 |
 | Sharpest Tool in the Box | 0.40% | ~2,764 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,897 (Ranked 22)  
+Progressed: 690,904 (Ranked 22)  
 Completed: 2,190 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
-| 2023-10-05 | 690,897 | 2,190 |
+| 2023-10-05 | 690,904 | 2,190 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 58)  
 Sum: 9,420 (Ranked 91)  

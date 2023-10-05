@@ -1,52 +1,52 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.07 (Ranked 943)  
+Rating: 4.09 (Ranked 931)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~77,717 |
-| May the Torchbearer light our way | 34.00% | ~71,416 |
-| A powerful aura was here | 21.00% | ~44,110 |
-| Let's raise the stakes!! | 9.00% | ~18,904 |
-| Rumors are true | 4.00% | ~8,402 |
-| Pride is a sin, young Knight | 4.00% | ~8,402 |
-| Your wounds… They are healing so fast! | 4.00% | ~8,402 |
-| Bring it on! | 4.00% | ~8,402 |
-| We'll be careful | 3.00% | ~6,301 |
-| Back to your senses | 2.00% | ~4,201 |
-| They tricked me | 1.00% | ~2,100 |
-| We need to talk | 1.00% | ~2,100 |
-| They won't last long | 1.00% | ~2,100 |
-| I took a risk | 0.90% | ~1,890 |
-| I feel drawn to it | 0.60% | ~1,260 |
-| Their fate is sealed | 0.50% | ~1,050 |
-| Here to stay | 0.40% | ~840 |
-| Counting on you | 0.40% | ~840 |
-| You want more? I've got more! | 0.40% | ~840 |
-| This is the end | 0.30% | ~630 |
-| We can choose to fight | 0.30% | ~630 |
-| Not even from this world | 0.20% | ~420 |
-| No damsels in distress | 0.10% | ~210 |
-| The immortal is bound to reborn | 0.10% | ~210 |
-| A legend among Chimeras | 0.10% | ~210 |
-| It's only pain | 0.10% | ~210 |
-| I know how to handle it | 0.10% | ~210 |
-| Settle this once and for all | 0.10% | ~210 |
-| The Ashen Knight | 0.10% | ~210 |
-| The Shade | 0.10% | ~210 |
-| Through the Veil | 0.10% | ~210 |
-| Call this the Judge's mercy | 0.10% | ~210 |
-| There's too many of them! | 0.10% | ~210 |
-| I've been waiting for this! | 0.10% | ~210 |
-| I'm just warming up | 0.10% | ~210 |
-| We learned it the hard way | 0.10% | ~210 |
-| They wanted yet another monster… | 0.10% | ~210 |
-| Something... unnatural | 0.10% | ~210 |
-| We strike as one | 0.10% | ~210 |
-| Chaos be damned! | 0.10% | ~210 |
+| The touch of Chaos | 37.00% | ~77,953 |
+| May the Torchbearer light our way | 34.00% | ~71,633 |
+| A powerful aura was here | 21.00% | ~44,244 |
+| Let's raise the stakes!! | 9.00% | ~18,962 |
+| Rumors are true | 4.00% | ~8,427 |
+| Pride is a sin, young Knight | 4.00% | ~8,427 |
+| Your wounds… They are healing so fast! | 4.00% | ~8,427 |
+| Bring it on! | 4.00% | ~8,427 |
+| We'll be careful | 3.00% | ~6,321 |
+| Back to your senses | 2.00% | ~4,214 |
+| They tricked me | 1.00% | ~2,107 |
+| We need to talk | 1.00% | ~2,107 |
+| They won't last long | 1.00% | ~2,107 |
+| I took a risk | 0.90% | ~1,896 |
+| I feel drawn to it | 0.60% | ~1,264 |
+| Their fate is sealed | 0.50% | ~1,053 |
+| Here to stay | 0.40% | ~843 |
+| Counting on you | 0.40% | ~843 |
+| You want more? I've got more! | 0.40% | ~843 |
+| This is the end | 0.30% | ~632 |
+| We can choose to fight | 0.30% | ~632 |
+| Not even from this world | 0.20% | ~421 |
+| No damsels in distress | 0.10% | ~211 |
+| The immortal is bound to reborn | 0.10% | ~211 |
+| A legend among Chimeras | 0.10% | ~211 |
+| It's only pain | 0.10% | ~211 |
+| I know how to handle it | 0.10% | ~211 |
+| Settle this once and for all | 0.10% | ~211 |
+| The Ashen Knight | 0.10% | ~211 |
+| The Shade | 0.10% | ~211 |
+| Through the Veil | 0.10% | ~211 |
+| Call this the Judge's mercy | 0.10% | ~211 |
+| There's too many of them! | 0.10% | ~211 |
+| I've been waiting for this! | 0.10% | ~211 |
+| I'm just warming up | 0.10% | ~211 |
+| We learned it the hard way | 0.10% | ~211 |
+| They wanted yet another monster… | 0.10% | ~211 |
+| Something... unnatural | 0.10% | ~211 |
+| We strike as one | 0.10% | ~211 |
+| Chaos be damned! | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,046 (Ranked 62)  
+Progressed: 210,685 (Ranked 62)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,14 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 169,170 | 0 |
 | 2023-10-03 | 189,727 | 0 |
 | 2023-10-04 | 207,599 | 1 |
-| 2023-10-05 | 210,046 | 1 |
+| 2023-10-05 | 210,685 | 1 |
+## Awards
+Max (Character Customization): 25  (Ranked 494)  
+Sum: 25 (Ranked 503)  
+Diff (max vs sum): -9  
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -67,3 +74,4 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 4.04 | 0 | 0 |
 | 2023-10-03 | 4.04 | 0 | 0 |
 | 2023-10-04 | 4.07 | 0 | 0 |
+| 2023-10-05 | 4.09 | 25 | 25 |
