@@ -4,7 +4,7 @@
   "ProductSlug": "nova-strike",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -268,8 +268,8 @@
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:04:50.0048517+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:05:38.807552+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:19.0733359+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:59:35.9524114+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:04:50.0048634+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:00:34.7391199+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:05:38.807563+00:00"
 }

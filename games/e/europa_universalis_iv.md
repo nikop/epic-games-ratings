@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,923 |
-| Until death do us apart | 4.00% | ~16,923 |
-| That is mine! | 3.00% | ~12,692 |
-| Victorious! | 3.00% | ~12,692 |
-| Brothers in Arms | 2.00% | ~8,462 |
-| For the Glory | 2.00% | ~8,462 |
-| That's a Grand Navy | 2.00% | ~8,462 |
-| Seriously?! | 2.00% | ~8,462 |
+| That's a Grand Army | 4.00% | ~16,925 |
+| Until death do us apart | 4.00% | ~16,925 |
+| That is mine! | 3.00% | ~12,694 |
+| Victorious! | 3.00% | ~12,694 |
+| Brothers in Arms | 2.00% | ~8,463 |
+| For the Glory | 2.00% | ~8,463 |
+| That's a Grand Navy | 2.00% | ~8,463 |
+| Seriously?! | 2.00% | ~8,463 |
 | Cold War | 1.00% | ~4,231 |
 | Defender of the Faith | 1.00% | ~4,231 |
 | It's all about the money | 1.00% | ~4,231 |
@@ -26,18 +26,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,385 |
 | Total Control | 0.80% | ~3,385 |
 | Royal Authority | 0.70% | ~2,962 |
-| My armies are invincible! | 0.60% | ~2,538 |
-| Agressive Expander | 0.50% | ~2,115 |
-| Azur semé de lis or | 0.50% | ~2,115 |
-| City of Cities | 0.50% | ~2,115 |
-| Combined Arms | 0.50% | ~2,115 |
-| This navy can take it all | 0.50% | ~2,115 |
-| Bright Spark | 0.40% | ~1,692 |
-| Factionalism | 0.40% | ~1,692 |
-| Gentle Persuasion | 0.40% | ~1,692 |
-| Isn't this the way to India? | 0.40% | ~1,692 |
-| Queen of Conquest | 0.40% | ~1,692 |
-| The Five Colonies | 0.40% | ~1,692 |
+| My armies are invincible! | 0.60% | ~2,539 |
+| Agressive Expander | 0.50% | ~2,116 |
+| Azur semé de lis or | 0.50% | ~2,116 |
+| City of Cities | 0.50% | ~2,116 |
+| Combined Arms | 0.50% | ~2,116 |
+| This navy can take it all | 0.50% | ~2,116 |
+| Bright Spark | 0.40% | ~1,693 |
+| Factionalism | 0.40% | ~1,693 |
+| Gentle Persuasion | 0.40% | ~1,693 |
+| Isn't this the way to India? | 0.40% | ~1,693 |
+| Queen of Conquest | 0.40% | ~1,693 |
+| The Five Colonies | 0.40% | ~1,693 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,269 |
 | Down Under | 0.30% | ~1,269 |
 | The Emperors new clothes | 0.30% | ~1,269 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,082 (Ranked 41)  
+Progressed: 423,127 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -529,7 +529,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 420,871 | 1 |
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
-| 2023-10-05 | 423,082 | 1 |
+| 2023-10-05 | 423,127 | 1 |
 ## Awards
 Max (Educational): 6,400  (Ranked 57)  
 Sum: 52,626 (Ranked 24)  

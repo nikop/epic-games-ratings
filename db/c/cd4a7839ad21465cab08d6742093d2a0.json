@@ -2,9 +2,9 @@
   "ID": "cd4a7839ad21465cab08d6742093d2a0",
   "Name": "Mask of the Rose",
   "ProductSlug": "mask-of-the-rose-9f7efe",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-08T17:00:00+00:00",
@@ -188,8 +188,8 @@
   ],
   "FirstSeen": "2023-06-09T04:57:25.0433962+00:00",
   "FirstSeenAchievements": "2023-06-08T18:00:58.4934075+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:03:23.4284849+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:04:05.9146535+00:00",
   "LastUpdate_AppInfo": "2023-09-29T02:57:00.4397493+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:58:20.5077167+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:03:23.4284939+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:58:50.7249919+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:04:05.9146634+00:00"
 }

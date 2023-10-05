@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1705,9 +1705,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 206193,
+  "EOS_Progressed": 206201,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20765,6 +20765,11 @@
       "Time": "2023-10-05T20:06:00.5409298+00:00",
       "NumProgressed": 206193,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-10-05T21:07:09.4038413+00:00",
+      "NumProgressed": 206201,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 44,
@@ -20776,7 +20781,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20619
+      "UsersEstimate": 20620
     },
     {
       "ID": "AtheistOx",
@@ -20816,7 +20821,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "FiveShadows",
@@ -20848,7 +20853,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24743
+      "UsersEstimate": 24744
     },
     {
       "ID": "HappyLittleAccidents",
@@ -20992,7 +20997,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "Rollin",
@@ -21000,7 +21005,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "StillRollin",
@@ -21032,7 +21037,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "TheCave",
@@ -21064,7 +21069,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20619
+      "UsersEstimate": 20620
     },
     {
       "ID": "TimeParadox",
@@ -21127,15 +21132,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 206193,
+      "Progressed": 206201,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-05T16:03:20.4946279+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:06:00.5409293+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:07:09.4038408+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:02:18.5829178+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:06:00.5410465+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:03:06.7605391+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:07:09.4039571+00:00"
 }

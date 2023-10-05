@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1246,9 +1246,9 @@
       "ID": "FINISHSOUND",
       "SetID": "3dh70f3",
       "Name": "Running at the speed of sound",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 161
     },
     {
       "ID": "FLYLONG",
@@ -1439,8 +1439,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:05:04.6734051+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:05:57.1282739+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:10.5162525+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:58:14.0197712+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:05:04.6734467+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:58:44.3113052+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:05:57.1283149+00:00"
 }

@@ -6,42 +6,42 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~394,690 |
-| Happy Returns | 78.00% | ~380,071 |
-| Hey! That's mine! | 78.00% | ~380,071 |
-| Field Promotion | 74.00% | ~360,581 |
-| Leadhead | 71.00% | ~345,962 |
-| Eradicator | 67.00% | ~326,472 |
-| Surplus | 65.00% | ~316,726 |
-| I Spy | 64.00% | ~311,853 |
-| Burn Baby Burn | 59.00% | ~287,490 |
-| Yellow Beats Green | 55.00% | ~267,999 |
-| Salvage Rights | 53.00% | ~258,254 |
-| Close Call | 50.00% | ~243,636 |
-| Pew Pew | 50.00% | ~243,636 |
-| What IS that? | 50.00% | ~243,636 |
-| Penny Pincher | 49.00% | ~238,763 |
-| Arsenal | 46.00% | ~224,145 |
-| Boot Camp | 45.00% | ~219,272 |
-| Flawless Victory | 42.00% | ~204,654 |
-| Confident | 41.00% | ~199,781 |
-| Exterminator | 36.00% | ~175,418 |
-| Sharpshooter | 34.00% | ~165,672 |
-| Not So Fast | 33.00% | ~160,799 |
-| Great Ball of Fire | 32.00% | ~155,927 |
-| No Sale | 31.00% | ~151,054 |
-| Kaboom! | 30.00% | ~146,181 |
-| Liquidator | 29.00% | ~141,309 |
-| High Voltage | 24.00% | ~116,945 |
-| Filthy Rich | 19.00% | ~92,581 |
-| The Not-So-Friendly Skies | 18.00% | ~87,709 |
-| Power Builder | 17.00% | ~82,836 |
-| Pyrrhic Victory | 17.00% | ~82,836 |
-| Death From Above | 16.00% | ~77,963 |
-| Retry | 16.00% | ~77,963 |
+| First Blood | 81.00% | ~394,693 |
+| Happy Returns | 78.00% | ~380,074 |
+| Hey! That's mine! | 78.00% | ~380,074 |
+| Field Promotion | 74.00% | ~360,584 |
+| Leadhead | 71.00% | ~345,965 |
+| Eradicator | 67.00% | ~326,474 |
+| Surplus | 65.00% | ~316,729 |
+| I Spy | 64.00% | ~311,856 |
+| Burn Baby Burn | 59.00% | ~287,492 |
+| Yellow Beats Green | 55.00% | ~268,001 |
+| Salvage Rights | 53.00% | ~258,256 |
+| Close Call | 50.00% | ~243,638 |
+| Pew Pew | 50.00% | ~243,638 |
+| What IS that? | 50.00% | ~243,638 |
+| Penny Pincher | 49.00% | ~238,765 |
+| Arsenal | 46.00% | ~224,146 |
+| Boot Camp | 45.00% | ~219,274 |
+| Flawless Victory | 42.00% | ~204,656 |
+| Confident | 41.00% | ~199,783 |
+| Exterminator | 36.00% | ~175,419 |
+| Sharpshooter | 34.00% | ~165,674 |
+| Not So Fast | 33.00% | ~160,801 |
+| Great Ball of Fire | 32.00% | ~155,928 |
+| No Sale | 31.00% | ~151,055 |
+| Kaboom! | 30.00% | ~146,182 |
+| Liquidator | 29.00% | ~141,310 |
+| High Voltage | 24.00% | ~116,946 |
+| Filthy Rich | 19.00% | ~92,582 |
+| The Not-So-Friendly Skies | 18.00% | ~87,710 |
+| Power Builder | 17.00% | ~82,837 |
+| Pyrrhic Victory | 17.00% | ~82,837 |
+| Death From Above | 16.00% | ~77,964 |
+| Retry | 16.00% | ~77,964 |
 | Head Trauma | 12.00% | ~58,473 |
-| Full Defense | 10.00% | ~48,727 |
-| Overseer | 9.00% | ~43,854 |
+| Full Defense | 10.00% | ~48,728 |
+| Overseer | 9.00% | ~43,855 |
 | Annihilator | 8.00% | ~38,982 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,982 |
 | Indecisive | 6.00% | ~29,236 |
@@ -50,11 +50,11 @@ Number of Ratings: 1,225  (23.09.2022)
 | Diversity | 3.00% | ~14,618 |
 | Full Potential | 3.00% | ~14,618 |
 | Tower Expert | 3.00% | ~14,618 |
-| Minimalist | 2.00% | ~9,745 |
-| Nail Biter | 2.00% | ~9,745 |
-| Siege Breaker | 2.00% | ~9,745 |
-| The Long Road | 2.00% | ~9,745 |
-| Untouchable | 2.00% | ~9,745 |
+| Minimalist | 2.00% | ~9,746 |
+| Nail Biter | 2.00% | ~9,746 |
+| Siege Breaker | 2.00% | ~9,746 |
+| The Long Road | 2.00% | ~9,746 |
+| Untouchable | 2.00% | ~9,746 |
 | Flurry | 1.00% | ~4,873 |
 | Gun Crazy | 1.00% | ~4,873 |
 | Well Invested | 1.00% | ~4,873 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,271 (Ranked 35)  
+Progressed: 487,275 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 4 (0.00%) (Ranked 306)
 | 2023-10-02 | 487,093 | 4 |
 | 2023-10-03 | 487,164 | 4 |
 | 2023-10-04 | 487,216 | 4 |
-| 2023-10-05 | 487,271 | 4 |
+| 2023-10-05 | 487,275 | 4 |
 ## Awards
 Max (Great for Beginners): 250  (Ranked 259)  
 Sum: 1,694 (Ranked 212)  

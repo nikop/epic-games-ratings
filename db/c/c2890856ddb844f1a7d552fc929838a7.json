@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1976,9 +1976,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 618
     },
     {
       "ID": "AC05",
@@ -2321,8 +2321,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-04T20:00:30.3095733+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:06:26.5570711+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:07:42.6040138+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:00:01.3851118+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:06:26.5571104+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:01:03.718678+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:07:42.604058+00:00"
 }

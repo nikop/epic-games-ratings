@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~6,675 |
-| A Better Idea | 25.00% | ~1,756 |
-| Safety in the Storm | 24.00% | ~1,686 |
-| Begin the Ceremony | 21.00% | ~1,475 |
-| Mission Accomplished | 20.00% | ~1,405 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,054 |
-| A Starfighter of Your Own | 14.00% | ~984 |
-| Asset Secured | 13.00% | ~913 |
-| Unkillable | 8.00% | ~562 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~492 |
-| Sound Strategy | 7.00% | ~492 |
-| Together, Vanguard | 7.00% | ~492 |
-| Stomped | 6.00% | ~422 |
-| Great Shot, Kid | 5.00% | ~351 |
-| Fearless | 5.00% | ~351 |
-| Back From the Brink | 5.00% | ~351 |
-| Flames Over Mon Cala | 5.00% | ~351 |
-| A Promising Career | 5.00% | ~351 |
-| Temporary Guardian | 4.00% | ~281 |
-| Baited | 4.00% | ~281 |
+| Fracture at Fostar Haven | 95.00% | ~6,697 |
+| A Better Idea | 25.00% | ~1,762 |
+| Safety in the Storm | 24.00% | ~1,692 |
+| Begin the Ceremony | 21.00% | ~1,480 |
+| Mission Accomplished | 20.00% | ~1,410 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,057 |
+| A Starfighter of Your Own | 14.00% | ~987 |
+| Asset Secured | 13.00% | ~916 |
+| Unkillable | 8.00% | ~564 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~493 |
+| Sound Strategy | 7.00% | ~493 |
+| Together, Vanguard | 7.00% | ~493 |
+| Stomped | 6.00% | ~423 |
+| Great Shot, Kid | 5.00% | ~352 |
+| Fearless | 5.00% | ~352 |
+| Back From the Brink | 5.00% | ~352 |
+| Flames Over Mon Cala | 5.00% | ~352 |
+| A Promising Career | 5.00% | ~352 |
+| Temporary Guardian | 4.00% | ~282 |
+| Baited | 4.00% | ~282 |
 | Stronger Together | 3.00% | ~211 |
 | Stun 'Em | 3.00% | ~211 |
 | Squadron Hunter | 3.00% | ~211 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~7 |
 | The Galaxy's Finest (Ace) | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,026 (Ranked 155)  
+Progressed: 7,049 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 6,051 | 0 |
 | 2023-10-03 | 6,410 | 0 |
 | 2023-10-04 | 6,703 | 0 |
-| 2023-10-05 | 7,026 | 0 |
+| 2023-10-05 | 7,049 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

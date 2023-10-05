@@ -2,9 +2,9 @@
   "ID": "97359b2710354a139a24ddb1580b5b3d",
   "Name": "I Did Not Buy This Ticket",
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Completed": 6,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 50,
+  "EOS_Completed_Percentage": 33.33,
   "EosHistory": [
     {
       "Time": "2023-10-01T11:08:58.7945643+00:00",
@@ -33,6 +33,11 @@
     {
       "Time": "2023-10-03T07:08:31.7134624+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T21:09:11.2938319+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 1
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "ACHAbyss",
       "SetID": "bjbioka",
       "Name": "Chance Meeting",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -52,7 +57,7 @@
       "ID": "ACHAccumulator",
       "SetID": "bjbioka",
       "Name": "Accumulator",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "ACHBathroom",
       "SetID": "bjbioka",
       "Name": "Washroom Regular",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -68,7 +73,7 @@
       "ID": "ACHCanPossessed",
       "SetID": "bjbioka",
       "Name": "Motherly Embrace",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "ACHCreatureComforts",
       "SetID": "bjbioka",
       "Name": "Traveling Companion",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -84,7 +89,7 @@
       "ID": "ACHCryEnding",
       "SetID": "bjbioka",
       "Name": "You cried.",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "ACHDontCry",
       "SetID": "bjbioka",
       "Name": "You didn\u0027t cry.",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "ACHEternalPassenger",
       "SetID": "bjbioka",
       "Name": "Eternal Passenger",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "ACHFinalStop",
       "SetID": "bjbioka",
       "Name": "Final Stop",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "ACHGusPossessed",
       "SetID": "bjbioka",
       "Name": "Brotherly Bonds",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -124,7 +129,7 @@
       "ID": "ACHHearthole",
       "SetID": "bjbioka",
       "Name": "Hearthole",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "ACHIndifferent",
       "SetID": "bjbioka",
       "Name": "Indifferent",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "ACHIronMemory",
       "SetID": "bjbioka",
       "Name": "Iron Memory",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "ACHLostTraveler",
       "SetID": "bjbioka",
       "Name": "Lost Traveler",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "ACHMeeting",
       "SetID": "bjbioka",
       "Name": "Dangerous Traveling",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -166,13 +171,13 @@
       "Name": "First Look",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHMirror2",
       "SetID": "bjbioka",
       "Name": "Second Look",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "ACHMirror3",
       "SetID": "bjbioka",
       "Name": "Third Look",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "ACHMirror4",
       "SetID": "bjbioka",
       "Name": "New Old Face",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "ACHMomsBack",
       "SetID": "bjbioka",
       "Name": "Mom\u0027s Back",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "ACHMourner",
       "SetID": "bjbioka",
       "Name": "Dutiful Mourner",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -212,7 +217,7 @@
       "ID": "ACHNewListener",
       "SetID": "bjbioka",
       "Name": "Eternal Listener",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "ACHNoWay",
       "SetID": "bjbioka",
       "Name": "Nope",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "ACHProtected",
       "SetID": "bjbioka",
       "Name": "Dutiful Sister",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "ACHRelived",
       "SetID": "bjbioka",
       "Name": "Obsessive Thoughts",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "ACHRoadtrip",
       "SetID": "bjbioka",
       "Name": "Family Roadtrip",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -254,13 +259,13 @@
       "Name": "Hard Seats",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHSnitch",
       "SetID": "bjbioka",
       "Name": "Snitch",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "ACHWeep",
       "SetID": "bjbioka",
       "Name": "Extra Hours",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "ACHWho",
       "SetID": "bjbioka",
       "Name": "Who are you?",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -285,13 +290,13 @@
     {
       "ID": "bjbioka",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:08:28.5145094+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:09:11.2938314+00:00",
   "LastUpdate_AppInfo": "2023-10-02T19:57:10.0464984+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:57:08.13875+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:08:28.5145269+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:57:17.7565128+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:09:11.2938475+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,199 |
-| Cavalier | 25.00% | ~200,937 |
-| Fatso | 23.00% | ~184,862 |
-| Awakening | 21.00% | ~168,787 |
-| Ranger | 20.00% | ~160,749 |
-| Scrooge | 20.00% | ~160,749 |
+| Blacksmith's Son | 32.00% | ~257,201 |
+| Cavalier | 25.00% | ~200,938 |
+| Fatso | 23.00% | ~184,863 |
+| Awakening | 21.00% | ~168,788 |
+| Ranger | 20.00% | ~160,751 |
+| Scrooge | 20.00% | ~160,751 |
 | Anorectic | 16.00% | ~128,600 |
-| Bookworm | 15.00% | ~120,562 |
-| Firestarter | 15.00% | ~120,562 |
-| Insomniac | 13.00% | ~104,487 |
+| Bookworm | 15.00% | ~120,563 |
+| Firestarter | 15.00% | ~120,563 |
+| Insomniac | 13.00% | ~104,488 |
 | Buddy | 12.00% | ~96,450 |
 | Thief | 12.00% | ~96,450 |
-| Sinner | 11.00% | ~88,412 |
-| Traveller | 11.00% | ~88,412 |
+| Sinner | 11.00% | ~88,413 |
+| Traveller | 11.00% | ~88,413 |
 | Convict | 10.00% | ~80,375 |
-| Haggler | 9.00% | ~72,337 |
-| McLovin | 7.00% | ~56,262 |
-| Runt | 7.00% | ~56,262 |
+| Haggler | 9.00% | ~72,338 |
+| McLovin | 7.00% | ~56,263 |
+| Runt | 7.00% | ~56,263 |
 | Casanova | 6.00% | ~48,225 |
-| Bad Trip | 5.00% | ~40,187 |
-| Monk | 5.00% | ~40,187 |
-| Serial Killer | 5.00% | ~40,187 |
+| Bad Trip | 5.00% | ~40,188 |
+| Monk | 5.00% | ~40,188 |
+| Serial Killer | 5.00% | ~40,188 |
 | Bastard | 4.00% | ~32,150 |
 | Hunter | 4.00% | ~32,150 |
 | Plague Doctor | 4.00% | ~32,150 |
-| Bard | 3.00% | ~24,112 |
-| Conqueror | 3.00% | ~24,112 |
-| Ginger in a Pickle | 3.00% | ~24,112 |
-| Kingdom did not come | 3.00% | ~24,112 |
+| Bard | 3.00% | ~24,113 |
+| Conqueror | 3.00% | ~24,113 |
+| Ginger in a Pickle | 3.00% | ~24,113 |
+| Kingdom did not come | 3.00% | ~24,113 |
 | Completionist | 2.00% | ~16,075 |
 | Death by splinter | 2.00% | ~16,075 |
 | King Charming | 2.00% | ~16,075 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,075 |
 | Talmberger | 2.00% | ~16,075 |
 | The End | 2.00% | ~16,075 |
-| Woman's Lot | 1.00% | ~8,037 |
-| Chivalrous Soul | 1.00% | ~8,037 |
-| Spoilsport | 1.00% | ~8,037 |
-| Freud | 1.00% | ~8,037 |
-| Gambler | 1.00% | ~8,037 |
-| Master Huntsman | 1.00% | ~8,037 |
-| Stealth Killer | 1.00% | ~8,037 |
+| Woman's Lot | 1.00% | ~8,038 |
+| Chivalrous Soul | 1.00% | ~8,038 |
+| Spoilsport | 1.00% | ~8,038 |
+| Freud | 1.00% | ~8,038 |
+| Gambler | 1.00% | ~8,038 |
+| Master Huntsman | 1.00% | ~8,038 |
+| Stealth Killer | 1.00% | ~8,038 |
 | Bailiff | 0.90% | ~7,234 |
 | Tracker | 0.90% | ~7,234 |
 | David Horak | 0.80% | ~6,430 |
 | Fighter | 0.70% | ~5,626 |
 | Mercenary's Honour | 0.70% | ~5,626 |
 | Saviour | 0.70% | ~5,626 |
-| Edward Kelly | 0.60% | ~4,822 |
+| Edward Kelly | 0.60% | ~4,823 |
 | I Can Quit Anytime | 0.50% | ~4,019 |
 | Perfectionist | 0.50% | ~4,019 |
 | Alcoholic | 0.30% | ~2,411 |
 | Sniper | 0.30% | ~2,411 |
-| Angel of Mercy | 0.20% | ~1,607 |
-| Christian Burial | 0.20% | ~1,607 |
-| Friends without benefits | 0.20% | ~1,607 |
-| Game Over | 0.20% | ~1,607 |
-| Not-so-Christian Burial | 0.20% | ~1,607 |
-| True Friend | 0.20% | ~1,607 |
+| Angel of Mercy | 0.20% | ~1,608 |
+| Christian Burial | 0.20% | ~1,608 |
+| Friends without benefits | 0.20% | ~1,608 |
+| Game Over | 0.20% | ~1,608 |
+| Not-so-Christian Burial | 0.20% | ~1,608 |
+| True Friend | 0.20% | ~1,608 |
 | Bad Girl | 0.10% | ~804 |
 | Cleric's pet | 0.10% | ~804 |
 | Full House Sinner | 0.10% | ~804 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,747 (Ranked 17)  
+Progressed: 803,753 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-02 | 803,459 | 49 |
 | 2023-10-03 | 803,567 | 49 |
 | 2023-10-04 | 803,673 | 49 |
-| 2023-10-05 | 803,747 | 49 |
+| 2023-10-05 | 803,753 | 49 |
 ## Awards
 Max (Character Customization): 7,497  (Ranked 48)  
 Sum: 27,923 (Ranked 48)  

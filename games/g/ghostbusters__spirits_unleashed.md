@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,12 +13,12 @@ Rating: 4.50 (Ranked 574)
 | Fully Upgraded | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |
+| Clutch Capture | 0.80% | ~210 |
 | Cultured | 0.80% | ~210 |
 | Swift Rift Removers | 0.80% | ~210 |
 | Teamwork | 0.80% | ~210 |
 | There you are! | 0.80% | ~210 |
 | Back Off | 0.70% | ~184 |
-| Clutch Capture | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
 | Whoopsie | 0.70% | ~184 |
 | Animated | 0.60% | ~157 |

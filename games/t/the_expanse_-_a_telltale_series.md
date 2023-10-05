@@ -12,21 +12,21 @@ Rating: 4.53 (Ranked 523)
 | Call it Even | 1.00% | ~136 |
 | Bosmang | 1.00% | ~136 |
 | Impossible Objects | 1.00% | ~136 |
+| Heal Thy Medic | 0.90% | ~122 |
 | Celebrations are in Order | 0.90% | ~122 |
 | Data Archivist | 0.80% | ~109 |
 | Martian Music | 0.80% | ~109 |
-| Heal Thy Medic | 0.80% | ~109 |
 | Captain Drummer | 0.80% | ~109 |
 | Spore Taste | 0.70% | ~95 |
+| Khan's Revenge | 0.70% | ~95 |
 | Stogie for Fogey | 0.60% | ~82 |
-| Khan's Revenge | 0.60% | ~82 |
 | Doctor Approved | 0.40% | ~54 |
 | Bottoms up! | 0.40% | ~54 |
 | Thorston Mayer | 0.40% | ~54 |
 | Miraculous Maya | 0.40% | ~54 |
+| Brother's Reaper | 0.30% | ~41 |
+| No Belter Left Behind | 0.30% | ~41 |
 | Data Logger | 0.20% | ~27 |
-| Brother's Reaper | 0.20% | ~27 |
-| No Belter Left Behind | 0.20% | ~27 |
 | Data Master | 0.20% | ~27 |
 | Data Recoverer | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~14 |
@@ -36,8 +36,8 @@ Rating: 4.53 (Ranked 523)
 | Debris Spree | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,589 (Ranked 135)  
-Completed: 10 (0.07%) (Ranked 253)  
+Progressed: 13,592 (Ranked 135)  
+Completed: 11 (0.08%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 10 (0.07%) (Ranked 253)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,589 | 10 |
+| 2023-10-05 | 13,592 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

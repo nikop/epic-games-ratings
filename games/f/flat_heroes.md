@@ -7,10 +7,10 @@
 | Dash Crash | 73.00% | ~431 |
 | Snake Eyes | 58.00% | ~342 |
 | Be water, my friend | 56.00% | ~330 |
-| Fireball | 44.00% | ~260 |
+| Fireball | 45.00% | ~266 |
 | The King of Flat | 42.00% | ~248 |
+| Air Slash | 32.00% | ~189 |
 | Hit That Ball | 32.00% | ~189 |
-| Air Slash | 31.00% | ~183 |
 | Eat That Apple | 23.00% | ~136 |
 | Tornado Chaser | 13.00% | ~77 |
 | Bomberman | 9.00% | ~53 |
@@ -22,10 +22,10 @@
 | Ambush | 4.00% | ~24 |
 | Black Belt | 3.00% | ~18 |
 | Snake Eyes - Hero Edition | 2.00% | ~12 |
+| The King of Flat - Hero Edition | 2.00% | ~12 |
 | Quite The Hero | 2.00% | ~12 |
 | Rogue | 2.00% | ~12 |
 | Path of the Hero | 1.00% | ~6 |
-| The King of Flat - Hero Edition | 1.00% | ~6 |
 | Hit That Ball - Hero Edition | 1.00% | ~6 |
 | Eat That Apple - Hero Edition | 1.00% | ~6 |
 | Snakecharmer | 1.00% | ~6 |

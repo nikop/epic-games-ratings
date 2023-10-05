@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3374,7 +3374,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73175,
+  "EOS_Progressed": 73177,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 2,
@@ -17714,6 +17714,11 @@
       "Time": "2023-10-05T19:06:55.6576593+00:00",
       "NumProgressed": 73175,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T21:06:49.5682027+00:00",
+      "NumProgressed": 73177,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17773,7 +17778,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16830
+      "UsersEstimate": 16831
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17813,7 +17818,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10976
+      "UsersEstimate": 10977
     },
     {
       "ID": "CHALLENGES_1",
@@ -17925,7 +17930,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -17965,7 +17970,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "FREEZE_3",
@@ -18029,7 +18034,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25611
+      "UsersEstimate": 25612
     },
     {
       "ID": "HARLEY_2",
@@ -18069,7 +18074,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38051
+      "UsersEstimate": 38052
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18101,7 +18106,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20489
+      "UsersEstimate": 20490
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18109,7 +18114,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "MYSTERY_01",
@@ -18133,7 +18138,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16830
+      "UsersEstimate": 16831
     },
     {
       "ID": "MYSTERY_04",
@@ -18157,7 +18162,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10976
+      "UsersEstimate": 10977
     },
     {
       "ID": "MYSTERY_07",
@@ -18212,13 +18217,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73175,
+      "Progressed": 73177,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43455,
+      "Progressed": 43457,
       "Completed": 2666
     }
   ],
@@ -18226,8 +18231,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-05T11:58:42.0656685+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:05:45.3084105+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:06:49.5682018+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:58:12.6171712+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:05:45.3085247+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:58:42.2853767+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:06:49.5683134+00:00"
 }

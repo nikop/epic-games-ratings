@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 628,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 120,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21490,
+  "EOS_Progressed": 21495,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -18480,6 +18480,11 @@
       "Time": "2023-10-05T20:03:31.524635+00:00",
       "NumProgressed": 21490,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-10-05T21:04:20.0398948+00:00",
+      "NumProgressed": 21495,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 20,
@@ -18491,7 +18496,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -18499,7 +18504,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "EAST_FINISHED",
@@ -18515,7 +18520,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -18531,7 +18536,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -18539,7 +18544,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -18563,7 +18568,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -18571,7 +18576,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "FOUND_MAMBA",
@@ -18579,7 +18584,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -18595,7 +18600,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "GAME_FINISHED",
@@ -18611,7 +18616,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16547
+      "UsersEstimate": 16551
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18619,7 +18624,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6017
+      "UsersEstimate": 6019
     },
     {
       "ID": "NORTH_FINISHED",
@@ -18635,7 +18640,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "WEST_FINISHED",
@@ -18643,22 +18648,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21490,
+      "Progressed": 21495,
       "Completed": 429
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:03:31.5246346+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:04:20.0398944+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:58:00.2188364+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:03:31.5247316+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:58:27.0992777+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:04:20.0399886+00:00"
 }

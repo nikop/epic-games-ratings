@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -705,9 +705,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -1056,8 +1056,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:04:20.9175625+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:05:02.9452638+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:00:27.5231836+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:04:20.917652+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:01:38.0481054+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:05:02.9453478+00:00"
 }

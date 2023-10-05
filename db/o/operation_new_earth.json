@@ -6,8 +6,8 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5568,6 +5568,11 @@
       "Time": "2023-10-05T17:06:01.5929572+00:00",
       "NumProgressed": 1527,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T21:07:13.1365884+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5659,7 +5664,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_headquarters_15",
@@ -5882,7 +5887,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1527,
+      "Progressed": 1528,
       "Completed": 1
     }
   ],
@@ -5890,8 +5895,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-05T19:00:32.825459+00:00",
-  "LastChanged_Achievements": "2023-10-05T20:06:03.4955432+00:00",
+  "LastChanged_Achievements": "2023-10-05T21:07:13.1365879+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:59:30.5699255+00:00",
-  "LastUpdate_Achievements": "2023-10-05T20:06:03.4955923+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:00:29.2691355+00:00",
+  "LastUpdate_Achievements": "2023-10-05T21:07:13.1366369+00:00"
 }
