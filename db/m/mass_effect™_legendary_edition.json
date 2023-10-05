@@ -2,9 +2,9 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1476,9 +1476,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_19",
@@ -1620,9 +1620,9 @@
       "ID": "achievement_34",
       "SetID": "b9pe172",
       "Name": "Colonial Savior",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_35",
@@ -1700,9 +1700,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_44",
@@ -1764,9 +1764,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_51",
@@ -1860,9 +1860,9 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_62",
@@ -1956,9 +1956,9 @@
       "ID": "achievement_72",
       "SetID": "d252ncf",
       "Name": "Weapon Specialist",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_73",
@@ -2052,9 +2052,9 @@
       "ID": "achievement_83",
       "SetID": "d252ncf",
       "Name": "Pathfinder",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_84",
@@ -2208,8 +2208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:06:00.4174425+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:06:02.445225+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:01:23.2448206+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:06:00.4176611+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:01:35.5117081+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:06:02.4454507+00:00"
 }

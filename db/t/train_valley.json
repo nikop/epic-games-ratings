@@ -5,9 +5,9 @@
   "Ranking_Rating": 609,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2023-10-02T13:11:59.1816231+00:00",
       "NumProgressed": 505,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T16:04:26.6727784+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1230,15 +1235,15 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 213
     },
     {
       "ID": "03_philatelist",
@@ -1246,7 +1251,7 @@
       "Name": "Philatelist",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "04_tycoon",
@@ -1254,15 +1259,15 @@
       "Name": "Tycoon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 228
     },
     {
       "ID": "06_living",
@@ -1270,7 +1275,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "07_europe",
@@ -1316,17 +1321,17 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 147
     },
     {
       "ID": "14_woodcutter",
@@ -1334,7 +1339,7 @@
       "Name": "Woodcutter",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "15_bbq",
@@ -1454,7 +1459,7 @@
       "Name": "Madness!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "30_completelynuts",
@@ -1478,7 +1483,7 @@
       "Name": "Engineer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "33_peacemaker",
@@ -1541,15 +1546,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:04:27.066155+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:04:26.6727775+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:02:41.1564736+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:04:27.0662121+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:02:51.8280081+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:04:26.6728198+00:00"
 }

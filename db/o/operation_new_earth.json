@@ -5,9 +5,9 @@
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1526,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5552,6 +5552,11 @@
       "Time": "2023-10-05T13:18:09.8198392+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T16:07:37.0401595+00:00",
+      "NumProgressed": 1526,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5659,7 +5664,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_headquarters_5",
@@ -5715,7 +5720,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -5739,7 +5744,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5755,7 +5760,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5763,7 +5768,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -5771,7 +5776,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5787,7 +5792,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5795,7 +5800,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -5803,7 +5808,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5819,7 +5824,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5859,14 +5864,14 @@
       "Name": "Control the Skies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1526,
       "Completed": 1
     }
   ],
@@ -5874,8 +5879,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-02T15:57:56.3745226+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:07:32.4771447+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:07:37.040159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:00:49.05362+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:07:32.4772098+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:00:56.1581592+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:07:37.0402361+00:00"
 }

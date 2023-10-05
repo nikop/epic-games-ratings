@@ -6,8 +6,8 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3374,7 +3374,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73164,
+  "EOS_Progressed": 73165,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 2,
@@ -17694,6 +17694,11 @@
       "Time": "2023-10-05T15:07:06.8187123+00:00",
       "NumProgressed": 73164,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T16:07:10.8256087+00:00",
+      "NumProgressed": 73165,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17809,7 +17814,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15364
+      "UsersEstimate": 15365
     },
     {
       "ID": "CLAYFACE_2",
@@ -17849,7 +17854,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5122
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -17937,7 +17942,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15364
+      "UsersEstimate": 15365
     },
     {
       "ID": "FREEZE_2",
@@ -18009,7 +18014,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25607
+      "UsersEstimate": 25608
     },
     {
       "ID": "HARLEY_2",
@@ -18049,7 +18054,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38045
+      "UsersEstimate": 38046
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18192,13 +18197,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73164,
+      "Progressed": 73165,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43444,
+      "Progressed": 43445,
       "Completed": 2666
     }
   ],
@@ -18206,8 +18211,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-05T11:58:42.0656685+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:07:06.8187116+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:07:10.8256077+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:58:52.8945212+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:07:06.8189309+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:58:56.8684042+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:07:10.8257848+00:00"
 }

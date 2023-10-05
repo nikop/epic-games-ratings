@@ -5,9 +5,9 @@
   "Ranking_Rating": 42,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4124,
+  "EOS_Progressed": 4125,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6890,6 +6890,11 @@
       "Time": "2023-10-05T12:04:46.5057554+00:00",
       "NumProgressed": 4124,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-05T16:05:08.6825582+00:00",
+      "NumProgressed": 4125,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7061,7 +7066,7 @@
       "Name": "I have to read these things?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Ach022",
@@ -7301,7 +7306,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Ach052",
@@ -7468,13 +7473,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4124,
+      "Progressed": 4125,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2645,
+      "Progressed": 2646,
       "Completed": 1930
     }
   ],
@@ -7482,8 +7487,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:05:08.3679087+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:05:08.6825574+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:57:28.6398962+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:05:08.3680909+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:57:23.7594158+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:05:08.6826982+00:00"
 }

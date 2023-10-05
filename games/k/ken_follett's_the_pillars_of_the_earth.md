@@ -7,14 +7,14 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,220 |
-| Man of politics | 35.00% | ~5,442 |
+| Man of politics | 35.00% | ~5,443 |
 | Friends of sorts | 33.00% | ~5,132 |
 | Yet another secret | 33.00% | ~5,132 |
 | Let there be darkness | 32.00% | ~4,976 |
 | End of Book One | 30.00% | ~4,665 |
+| Wannabe knight | 24.00% | ~3,732 |
 | Garden of Eden | 24.00% | ~3,732 |
 | Full house | 24.00% | ~3,732 |
-| Wannabe knight | 23.00% | ~3,576 |
 | Help an old friend | 22.00% | ~3,421 |
 | Two of us | 20.00% | ~3,110 |
 | Negotiation skills | 18.00% | ~2,799 |
@@ -25,9 +25,9 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,177 |
 | Exterminator | 13.00% | ~2,022 |
 | Whodunnit | 12.00% | ~1,866 |
-| Good midwife | 11.00% | ~1,710 |
-| Friar Tuck | 11.00% | ~1,710 |
-| First profit | 11.00% | ~1,710 |
+| Good midwife | 11.00% | ~1,711 |
+| Friar Tuck | 11.00% | ~1,711 |
+| First profit | 11.00% | ~1,711 |
 | Team player | 10.00% | ~1,555 |
 | Skilled merchant | 9.00% | ~1,400 |
 | Nothing but make-believe | 9.00% | ~1,400 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,400 |
 | The End. | 9.00% | ~1,400 |
 | A cry for help | 8.00% | ~1,244 |
-| Silentium est aureum | 7.00% | ~1,088 |
+| Silentium est aureum | 7.00% | ~1,089 |
 | Rebel without a cause | 6.00% | ~933 |
 | Staring contest champion | 5.00% | ~778 |
 | Lone wolf | 5.00% | ~778 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~622 |
 | Self-defense | 4.00% | ~622 |
 | Countess Aliena | 4.00% | ~622 |
-| Care, like a brother cares | 3.00% | ~466 |
-| A brush with death | 3.00% | ~466 |
+| Care, like a brother cares | 3.00% | ~467 |
+| A brush with death | 3.00% | ~467 |
 | Boy of mystery | 2.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,550 (Ranked 132)  
+Progressed: 15,551 (Ranked 132)  
 Completed: 112 (0.72%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,11 +216,11 @@ Completed: 112 (0.72%) (Ranked 149)
 | 2023-10-02 | 15,517 | 112 |
 | 2023-10-03 | 15,525 | 112 |
 | 2023-10-04 | 15,542 | 112 |
-| 2023-10-05 | 15,550 | 112 |
+| 2023-10-05 | 15,551 | 112 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 306)  
-Sum: 193 (Ranked 384)  
-Diff (max vs sum): -78  
+Sum: 193 (Ranked 385)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 151 |

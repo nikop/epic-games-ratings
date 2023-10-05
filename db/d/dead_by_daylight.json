@@ -10899,10 +10899,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259574,
       "NumberOfAwardsMax": 33450
+    },
+    {
+      "Time": "2023-10-05T16:00:04.2559163+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259598,
+      "NumberOfAwardsMax": 33450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259574,
+  "NumberOfAwards": 259598,
   "NumberOfAwardsMax": 33450,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10964,7 +10970,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 26584
+      "Count": 26608
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10973,9 +10979,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 920136,
+  "EOS_Progressed": 920242,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13519,
+  "EOS_NewPlayers": 13532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30028,6 +30034,11 @@
       "Time": "2023-10-05T15:06:46.5114189+00:00",
       "NumProgressed": 920136,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T16:06:50.039486+00:00",
+      "NumProgressed": 920242,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30175,7 +30186,7 @@
       "Name": "Handyman",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_019",
@@ -30223,7 +30234,7 @@
       "Name": "Not half bad",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_025",
@@ -30247,7 +30258,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_028",
@@ -30271,7 +30282,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_031",
@@ -30607,7 +30618,7 @@
       "Name": "Sorted",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_073",
@@ -31807,7 +31818,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_226",
@@ -31870,21 +31881,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 920136,
+      "Progressed": 920242,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 920136,
+      "Progressed": 920242,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-05T14:59:55.8722892+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:06:46.5114182+00:00",
+  "LastChanged": "2023-10-05T16:00:04.2559161+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:06:50.0394851+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:59:55.8722899+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:06:46.5121004+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:00:04.2559168+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:06:50.0403138+00:00"
 }

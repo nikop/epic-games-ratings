@@ -9,12 +9,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Zealous | 0.40% | ~3,681 |
 | It wakes | 0.40% | ~3,681 |
 | Skillful | 0.40% | ~3,681 |
-| Handyman | 0.30% | ~2,760 |
-| Not half bad | 0.30% | ~2,760 |
-| Apt Survivor | 0.30% | ~2,760 |
-| Survival Treasures | 0.30% | ~2,760 |
-| Sorted | 0.30% | ~2,760 |
-| Make Some Noise | 0.30% | ~2,760 |
+| Handyman | 0.30% | ~2,761 |
+| Not half bad | 0.30% | ~2,761 |
+| Apt Survivor | 0.30% | ~2,761 |
+| Survival Treasures | 0.30% | ~2,761 |
+| Sorted | 0.30% | ~2,761 |
+| Make Some Noise | 0.30% | ~2,761 |
 | The Grand Sacrifice | 0.20% | ~1,840 |
 | Agonizing Escape | 0.20% | ~1,840 |
 | Backdoor Escape | 0.20% | ~1,840 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,136 (Ranked 14)  
+Progressed: 920,242 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,10 +404,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 920,136 | 49 |
+| 2023-10-05 | 920,242 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,574 (Ranked 13)  
+Sum: 259,598 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -418,7 +418,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 28,997 |
 | This game has Challenging Combat | 28,569 |
 | This game has Quickly Understood Controls | 28,503 |
-| This game has Amazing Storytelling | 26,584 |
+| This game has Amazing Storytelling | 26,608 |
 | This game has a Competitive Community | 25,103 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
-| 2023-10-05 | 4.52 | - | 33,450 | 259,574 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,598 |

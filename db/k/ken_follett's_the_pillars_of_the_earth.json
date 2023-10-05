@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 552,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 149,
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15550,
+  "EOS_Progressed": 15551,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11390,6 +11390,11 @@
       "Time": "2023-10-05T15:08:05.6509087+00:00",
       "NumProgressed": 15550,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-05T16:08:10.6818672+00:00",
+      "NumProgressed": 15551,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 41,
@@ -11401,7 +11406,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "tpote_achievement_10",
@@ -11415,9 +11420,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3732
     },
     {
       "ID": "tpote_achievement_12",
@@ -11449,7 +11454,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "tpote_achievement_16",
@@ -11473,7 +11478,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "tpote_achievement_19",
@@ -11521,7 +11526,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "tpote_achievement_24",
@@ -11529,7 +11534,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "tpote_achievement_25",
@@ -11705,7 +11710,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "tpote_achievement_8",
@@ -11721,22 +11726,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5442
+      "UsersEstimate": 5443
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15550,
+      "Progressed": 15551,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:08:05.6509081+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:08:10.6818663+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.6663313+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:00:30.0183137+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:08:05.6510216+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:00:38.2993171+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:08:10.6819964+00:00"
 }

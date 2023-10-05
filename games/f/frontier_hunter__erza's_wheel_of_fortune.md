@@ -42,11 +42,11 @@
 | Rebellious | 3.00% | ~3 |
 | Blade Mantis Challenge | 3.00% | ~3 |
 | Giant Claw Spider Challenge | 3.00% | ~3 |
+| Furious Scorpion Challenge | 3.00% | ~3 |
 | Mermaid Challenge | 3.00% | ~3 |
 | Giantess Challenge | 3.00% | ~3 |
 | Warden Challenge | 3.00% | ~3 |
 | Flying Kobold Challenge | 2.00% | ~2 |
-| Furious Scorpion Challenge | 2.00% | ~2 |
 | Giant Lizard Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

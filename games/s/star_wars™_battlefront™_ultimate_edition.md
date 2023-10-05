@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~397 |
-| Off to a good start | 67.00% | ~295 |
-| Do... or do not. There is no try | 51.00% | ~225 |
-| A good blaster at your side | 34.00% | ~150 |
+| New Recruit | 90.00% | ~399 |
+| Off to a good start | 66.00% | ~292 |
+| Do... or do not. There is no try | 51.00% | ~226 |
+| A good blaster at your side | 34.00% | ~151 |
 | Scrap collector | 22.00% | ~97 |
 | All right, I'll give it a try | 19.00% | ~84 |
 | I suggest a new strategy | 19.00% | ~84 |
@@ -16,7 +16,7 @@
 | Together we can rule the galaxy | 17.00% | ~75 |
 | Shoot first | 17.00% | ~75 |
 | Collector | 16.00% | ~71 |
-| Survivor | 13.00% | ~57 |
+| Survivor | 13.00% | ~58 |
 | Tell Jabba that I've got his money | 12.00% | ~53 |
 | Best star-pilot in the galaxy | 12.00% | ~53 |
 | A cunning warrior | 11.00% | ~49 |
@@ -28,10 +28,10 @@
 | A tremor in the Force | 9.00% | ~40 |
 | Distinguished | 8.00% | ~35 |
 | Support the troops | 8.00% | ~35 |
-| On the ball | 6.00% | ~26 |
-| Not bad for a little furball | 6.00% | ~26 |
-| Patience you must have | 6.00% | ~26 |
-| Don't underestimate the Force | 6.00% | ~26 |
+| On the ball | 6.00% | ~27 |
+| Not bad for a little furball | 6.00% | ~27 |
+| Patience you must have | 6.00% | ~27 |
+| Don't underestimate the Force | 6.00% | ~27 |
 | I've been waiting for you | 5.00% | ~22 |
 | When 900 years old you reach... | 5.00% | ~22 |
 | Determined | 5.00% | ~22 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441 (Ranked 277)  
-Completed: 1 (0.23%) (Ranked 211)  
+Progressed: 443 (Ranked 277)  
+Completed: 1 (0.23%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 211)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 441 | 1 |
+| 2023-10-05 | 443 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

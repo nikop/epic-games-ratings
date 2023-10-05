@@ -51,7 +51,7 @@ Rating: 4.63 (Ranked 335)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,121 (Ranked 117)  
-Completed: 13 (0.05%) (Ranked 265)  
+Completed: 13 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

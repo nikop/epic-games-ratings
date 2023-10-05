@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "cold_feet",
       "SetID": "7i36ba9",
       "Name": "Cold Feet",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "cultipedia",
@@ -346,8 +346,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:09:57.4025107+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:10:09.8751968+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:06.9383944+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:00:28.4683383+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:09:57.4025303+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:00:36.6562143+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:10:09.8752177+00:00"
 }

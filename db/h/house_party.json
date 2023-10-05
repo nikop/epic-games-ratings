@@ -5,8 +5,8 @@
   "Ranking_Rating": 794,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6335,
+  "EOS_Progressed": 6336,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5638,6 +5638,11 @@
       "Time": "2023-10-05T13:19:08.019923+00:00",
       "NumProgressed": 6335,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-05T16:08:42.6037023+00:00",
+      "NumProgressed": 6336,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5761,7 +5766,7 @@
       "Name": "Deck the Balls",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DnD_Ashley",
@@ -5929,7 +5934,7 @@
       "Name": "Life Found a Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "MoneyShot",
@@ -6200,21 +6205,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3374,
+      "Progressed": 3375,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6335,
+      "Progressed": 6336,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:08:41.4051983+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:08:42.6037017+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:57.7051399+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:00:59.7593987+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:08:41.4053437+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:01:06.9449053+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:08:42.6038321+00:00"
 }

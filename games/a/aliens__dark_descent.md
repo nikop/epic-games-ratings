@@ -11,7 +11,7 @@ Rating: 4.48 (Ranked 609)
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,314 |
 | Call Me Snake | 63.00% | ~2,176 |
 | Something Lurks Under The Hills | 61.00% | ~2,107 |
-| This Was No Papercut | 59.00% | ~2,038 |
+| This Was No Papercut | 60.00% | ~2,072 |
 | The Shrink Hates Me | 57.00% | ~1,969 |
 | People Person | 56.00% | ~1,934 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,831 |
@@ -51,8 +51,8 @@ Rating: 4.48 (Ranked 609)
 | Chalk It Up To Experience | 0.80% | ~28 |
 | This Ain't No Picnic | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,454 (Ranked 183)  
-Completed: 3 (0.09%) (Ranked 247)  
+Progressed: 3,454 (Ranked 184)  
+Completed: 3 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

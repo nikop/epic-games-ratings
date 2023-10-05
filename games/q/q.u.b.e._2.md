@@ -1,23 +1,23 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 688)  
+Rating: 4.42 (Ranked 689)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 64.00% | ~368 |
-| Quick Understanding of Block Extrusion | 62.00% | ~356 |
-| Nature or Nurture | 53.00% | ~305 |
-| Power Glove | 51.00% | ~293 |
+| Lost in Space | 64.00% | ~369 |
+| Quick Understanding of Block Extrusion | 62.00% | ~358 |
+| Nature or Nurture | 53.00% | ~306 |
+| Power Glove | 52.00% | ~300 |
 | Forgotten Memories | 50.00% | ~288 |
-| Cogs in the Machine | 45.00% | ~259 |
+| Cogs in the Machine | 45.00% | ~260 |
 | Mission Success | 29.00% | ~167 |
-| There's No Place Like Home | 27.00% | ~155 |
+| There's No Place Like Home | 27.00% | ~156 |
 | Green Cube Killer | 24.00% | ~138 |
 | Path to Salvation | 21.00% | ~121 |
 | Infinity Loop | 20.00% | ~115 |
-| Descendants | 19.00% | ~109 |
+| Descendants | 19.00% | ~110 |
 | The Flawed Teacher | 17.00% | ~98 |
 | To Infinity and Beyond | 7.00% | ~40 |
 | The Truthful Enemy | 7.00% | ~40 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.20% | ~1 |
 | Expert Collector | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 259)  
-Completed: 1 (0.17%) (Ranked 223)  
+Progressed: 577 (Ranked 260)  
+Completed: 1 (0.17%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 1 (0.17%) (Ranked 223)
 | 2023-10-02 | 536 | 1 |
 | 2023-10-03 | 556 | 1 |
 | 2023-10-04 | 569 | 1 |
-| 2023-10-05 | 575 | 1 |
+| 2023-10-05 | 577 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

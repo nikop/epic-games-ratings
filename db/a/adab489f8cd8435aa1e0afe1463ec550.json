@@ -123,17 +123,17 @@
       "ID": "12",
       "SetID": "6hl9l7f",
       "Name": "Weapon Unlocked",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "13",
       "SetID": "6hl9l7f",
       "Name": "Ability Unlocked",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "14",
@@ -155,17 +155,17 @@
       "ID": "16",
       "SetID": "6hl9l7f",
       "Name": "Brute",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "17",
       "SetID": "6hl9l7f",
       "Name": "Launcher",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "18",
@@ -395,9 +395,9 @@
       "ID": "6",
       "SetID": "6hl9l7f",
       "Name": "Loadout Accepted",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "7",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:08:47.9159808+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:08:49.316333+00:00",
   "LastUpdate_AppInfo": "2023-10-01T11:57:11.0083131+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:00:32.7999258+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:08:47.916025+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:00:40.961525+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:08:49.3163695+00:00"
 }

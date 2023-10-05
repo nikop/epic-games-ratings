@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,304 (Ranked 219)  
+Progressed: 1,305 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 1,264 | 0 |
 | 2023-10-03 | 1,276 | 0 |
 | 2023-10-04 | 1,297 | 0 |
-| 2023-10-05 | 1,304 | 0 |
+| 2023-10-05 | 1,305 | 0 |

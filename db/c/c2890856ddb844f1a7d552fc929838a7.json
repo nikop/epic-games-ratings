@@ -5,7 +5,7 @@
   "Ranking_Rating": 56,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 118,
@@ -2040,9 +2040,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 247
     },
     {
       "ID": "AC13",
@@ -2321,8 +2321,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-04T20:00:30.3095733+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:08:04.7371552+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:08:09.8154562+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:01:27.1490552+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:08:04.7372206+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:01:39.1767641+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:08:09.8155086+00:00"
 }

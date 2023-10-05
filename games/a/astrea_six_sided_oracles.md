@@ -15,6 +15,7 @@
 | Mind Illuminator | 7.00% | ~3 |
 | Purification Pioneer | 7.00% | ~3 |
 | Unbeatable | 7.00% | ~3 |
+| Wild's Keeper | 7.00% | ~3 |
 | Lacertian Champion | 7.00% | ~3 |
 | Can't touch this | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
@@ -24,7 +25,6 @@
 | Sentinelphobic | 5.00% | ~2 |
 | Shard Spender | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
-| Wild's Keeper | 5.00% | ~2 |
 | Apian Champion | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
 | Noctuan Champion | 5.00% | ~2 |

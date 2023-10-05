@@ -2,8 +2,8 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -2836,6 +2836,11 @@
       "Time": "2023-10-05T15:09:49.3182572+00:00",
       "NumProgressed": 766,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T16:10:01.6149597+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2863,7 +2868,7 @@
       "Name": "Basic Controls",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "BigPlane",
@@ -3175,21 +3180,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:09:49.3182565+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:10:01.6149591+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:01:31.7304244+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:09:49.3183013+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:01:44.4257324+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:10:01.6150105+00:00"
 }

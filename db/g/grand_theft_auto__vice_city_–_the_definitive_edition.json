@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -728,21 +728,27 @@
       "Rating": 4.54,
       "NumberOfAwards": 91,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-10-05T15:57:26.4712891+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 92,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 91,
-  "NumberOfAwardsMax": 91,
+  "NumberOfAwards": 92,
+  "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 91
+      "Count": 92
     }
   ],
-  "EOS_Progressed": 10527,
+  "EOS_Progressed": 10528,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
@@ -11072,6 +11078,11 @@
       "Time": "2023-10-05T14:03:41.170279+00:00",
       "NumProgressed": 10527,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-05T16:04:13.2214583+00:00",
+      "NumProgressed": 10528,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 34,
@@ -11187,7 +11198,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "ACH15",
@@ -11211,7 +11222,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH18",
@@ -11243,7 +11254,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "ACH22",
@@ -11251,7 +11262,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "ACH23",
@@ -11315,7 +11326,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH31",
@@ -11354,16 +11365,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10527,
+      "Progressed": 10528,
       "Completed": 59
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-10-05T06:03:17.0134065+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:04:14.1164308+00:00",
+  "LastChanged": "2023-10-05T15:57:26.4712887+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:04:13.2214573+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:57:30.3569699+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:04:14.1165478+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:57:26.4712901+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:04:13.2215769+00:00"
 }

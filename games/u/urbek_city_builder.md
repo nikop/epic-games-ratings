@@ -30,6 +30,7 @@
 | Farming Frenzy Plus | 0.30% | ~1 |
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
+| Rebel city | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -64,7 +65,6 @@
 | Town planner | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
 | Metropolurbek Plus | 0.00% | ~0 |
-| Rebel city | 0.00% | ~0 |
 | City in flames | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |

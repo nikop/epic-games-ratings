@@ -6,9 +6,9 @@
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 3349,
-  "Ranking_EOS_NewCompleters": 3349,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 3350,
+  "Ranking_EOS_NewCompleters": 3350,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19154,
+  "EOS_Progressed": 19153,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": -97,
+  "EOS_NewPlayers": -98,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7197,6 +7197,11 @@
       "Time": "2023-10-05T15:09:08.4243917+00:00",
       "NumProgressed": 19154,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-05T16:09:20.4813022+00:00",
+      "NumProgressed": 19153,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -7216,7 +7221,7 @@
       "Name": "Helper of the People",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7661
     },
     {
       "ID": "ach.030.deertastic",
@@ -7248,7 +7253,7 @@
       "Name": "Going the Distance",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10535
+      "UsersEstimate": 10534
     },
     {
       "ID": "ach.070.8kenough",
@@ -7304,7 +7309,7 @@
       "Name": "Minimalist",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17622
+      "UsersEstimate": 17621
     },
     {
       "ID": "ach.140.legacy",
@@ -7312,7 +7317,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 19154
+      "UsersEstimate": 19153
     },
     {
       "ID": "ach.150.pocket",
@@ -7360,7 +7365,7 @@
       "Name": "Let There be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6320
     },
     {
       "ID": "ach.210.baron",
@@ -7376,7 +7381,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5937
     },
     {
       "ID": "ach.230.infinity",
@@ -7400,7 +7405,7 @@
       "Name": "Before the Downfall",
       "Percentage": 95,
       "XP": 60,
-      "UsersEstimate": 18196
+      "UsersEstimate": 18195
     },
     {
       "ID": "ach.260.investor",
@@ -7464,7 +7469,7 @@
       "Name": "Money like Water",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 17813
+      "UsersEstimate": 17812
     },
     {
       "ID": "ach.340.steel",
@@ -7503,7 +7508,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19154,
+      "Progressed": 19153,
       "Completed": 34
     }
   ],
@@ -7511,8 +7516,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-01T19:01:21.8061522+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:09:08.424391+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:09:20.4813017+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.0626024+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:03:23.2009307+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:09:08.424512+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:03:29.325165+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:09:20.4813863+00:00"
 }

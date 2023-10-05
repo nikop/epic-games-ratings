@@ -15,15 +15,15 @@
 | Medal of Exploration II | 60.00% | ~336 |
 | Council Legion of Merit | 58.00% | ~325 |
 | Medal of Honor | 56.00% | ~314 |
+| Meritorious Service Medal | 56.00% | ~314 |
 | Turian Ally | 56.00% | ~314 |
-| Meritorious Service Medal | 55.00% | ~308 |
 | Charismatic | 55.00% | ~308 |
 | Soldier | 54.00% | ~302 |
 | Medal of Exploration III | 52.00% | ~291 |
 | Asari Ally | 52.00% | ~291 |
 | Principled | 51.00% | ~286 |
 | Soldier Ally | 50.00% | ~280 |
-| Colonial Savior | 48.00% | ~269 |
+| Colonial Savior | 49.00% | ~274 |
 | Sentinel Ally | 46.00% | ~258 |
 | Paramour I | 45.00% | ~252 |
 | Krogan Ally | 45.00% | ~252 |
@@ -46,19 +46,19 @@
 | Galactic Explorer | 34.00% | ~190 |
 | Broke, Blind, and Bedlam | 33.00% | ~185 |
 | Ghost Ship | 32.00% | ~179 |
+| The Quarian | 32.00% | ~179 |
 | The Assassin | 31.00% | ~174 |
 | The Justicar | 31.00% | ~174 |
-| The Quarian | 31.00% | ~174 |
 | The Prodigal | 31.00% | ~174 |
 | A Personal Touch | 30.00% | ~168 |
 | Battlemaster | 30.00% | ~168 |
 | Ghost of the Father | 30.00% | ~168 |
 | The Cure | 30.00% | ~168 |
+| Big Game Hunter | 30.00% | ~168 |
 | Heart of Darkness | 30.00% | ~168 |
 | Shopaholic | 30.00% | ~168 |
 | Catharsis | 29.00% | ~162 |
 | Fade Away | 29.00% | ~162 |
-| Big Game Hunter | 29.00% | ~162 |
 | Agent | 29.00% | ~162 |
 | Revenge! | 29.00% | ~162 |
 | Driven | 29.00% | ~162 |
@@ -69,19 +69,19 @@
 | Cat's in the Cradle | 27.00% | ~151 |
 | Doppelganger | 27.00% | ~151 |
 | First Aid Specialist | 26.00% | ~146 |
+| Friend or Foe | 26.00% | ~146 |
 | Mobilizer | 26.00% | ~146 |
 | Suicide Mission | 25.00% | ~140 |
-| Friend or Foe | 25.00% | ~140 |
 | Untouchable | 24.00% | ~134 |
 | Eye of the Hurricane | 24.00% | ~134 |
 | Giant Killer | 24.00% | ~134 |
 | Mission Accomplished | 24.00% | ~134 |
 | Against All Odds | 24.00% | ~134 |
+| Weapon Specialist | 24.00% | ~134 |
 | A House Divided | 23.00% | ~129 |
-| Weapon Specialist | 23.00% | ~129 |
 | World Shaker | 23.00% | ~129 |
 | Liberator | 23.00% | ~129 |
-| Pathfinder | 21.00% | ~118 |
+| Pathfinder | 22.00% | ~123 |
 | Arbiter | 21.00% | ~118 |
 | Savior | 20.00% | ~112 |
 | Paramour II | 20.00% | ~112 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~6 |
 | The One and Only | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560 (Ranked 261)  
+Progressed: 560 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |

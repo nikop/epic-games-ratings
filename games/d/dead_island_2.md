@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,733 |
-| Break A Leg | 3.00% | ~20,733 |
-| Coup de Grâce | 3.00% | ~20,733 |
-| Hazardous Materials | 3.00% | ~20,733 |
-| Hotel California | 3.00% | ~20,733 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,733 |
-| Welcome To Hell-A | 3.00% | ~20,733 |
+| Git Gutte! | 3.00% | ~20,734 |
+| Break A Leg | 3.00% | ~20,734 |
+| Coup de Grâce | 3.00% | ~20,734 |
+| Hazardous Materials | 3.00% | ~20,734 |
+| Hotel California | 3.00% | ~20,734 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,734 |
+| Welcome To Hell-A | 3.00% | ~20,734 |
 | Dr. Reed, I Presume? | 2.00% | ~13,822 |
 | Anger Management | 2.00% | ~13,822 |
 | Perks of the Job | 2.00% | ~13,822 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 508)
 | On Safari | 0.60% | ~4,147 |
 | Not Even My Final Form | 0.60% | ~4,147 |
 | Variety is the Spice of Death | 0.60% | ~4,147 |
-| Make it So | 0.50% | ~3,455 |
+| Make it So | 0.50% | ~3,456 |
 | LA Influential | 0.40% | ~2,764 |
 | Gore Horse | 0.40% | ~2,764 |
 | Sharpest Tool in the Box | 0.40% | ~2,764 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,086 (Ranked 22)  
-Completed: 2,190 (0.32%) (Ranked 195)  
+Progressed: 691,120 (Ranked 22)  
+Completed: 2,192 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,16 +219,16 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
-| 2023-10-05 | 691,086 | 2,190 |
+| 2023-10-05 | 691,120 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 58)  
-Sum: 9,436 (Ranked 91)  
+Sum: 9,438 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,327 |
 | This game is Great for Beginners | 443 |
-| This game has Diverse Characters | 436 |
+| This game has Diverse Characters | 438 |
 | This game has Quickly Understood Controls | 415 |
 | This game is Relaxing | 395 |
 | This game has Amazing Storytelling | 365 |
@@ -405,4 +405,4 @@ Diff (max vs sum): -33
 | 2023-10-02 | 4.54 | 6,289 | 9,380 |
 | 2023-10-03 | 4.54 | 6,301 | 9,397 |
 | 2023-10-04 | 4.54 | 6,318 | 9,420 |
-| 2023-10-05 | 4.54 | 6,327 | 9,436 |
+| 2023-10-05 | 4.54 | 6,327 | 9,438 |

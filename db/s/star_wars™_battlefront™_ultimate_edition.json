@@ -3,8 +3,8 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1106,6 +1106,11 @@
       "Time": "2023-10-05T15:06:31.3378476+00:00",
       "NumProgressed": 441,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T16:06:34.0545464+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1286,7 +1291,7 @@
       "Name": "On the ball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_3",
@@ -1342,7 +1347,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_36",
@@ -1356,9 +1361,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_38",
@@ -1366,7 +1371,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_39",
@@ -1390,7 +1395,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_41",
@@ -1406,7 +1411,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_43",
@@ -1422,7 +1427,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_45",
@@ -1438,7 +1443,7 @@
       "Name": "Patience you must have",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_47",
@@ -1606,7 +1611,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_9",
@@ -1621,13 +1626,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 443,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 441,
+      "Progressed": 443,
       "Completed": 1
     }
   ],
@@ -1635,8 +1640,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T15:06:31.3378469+00:00",
+  "LastChanged_Achievements": "2023-10-05T16:06:34.0545454+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:03:15.8724991+00:00",
-  "LastUpdate_Achievements": "2023-10-05T15:06:31.3379491+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:03:23.5781238+00:00",
+  "LastUpdate_Achievements": "2023-10-05T16:06:34.0546391+00:00"
 }

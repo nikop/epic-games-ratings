@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,987 (Ranked 164)  
+Progressed: 5,987 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,9 +212,9 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-04 | 5,981 | 0 |
 | 2023-10-05 | 5,987 | 0 |
 ## Awards
-Max (Relaxing): 36  (Ranked 448)  
+Max (Relaxing): 36  (Ranked 449)  
 Sum: 180 (Ranked 391)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

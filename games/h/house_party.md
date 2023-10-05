@@ -12,7 +12,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 2.00% | ~127 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~127 |
 | Katherine | 2.00% | ~127 |
-| Life Found a Way | 2.00% | ~67 |
+| Life Found a Way | 2.00% | ~68 |
 | Relentless | 2.00% | ~127 |
 | If at First You Don't Succeed... | 2.00% | ~127 |
 | Drunk and Disorderly: Ashley | 1.00% | ~63 |
@@ -35,7 +35,7 @@ Number of Ratings: 177  (23.09.2022)
 | Casanova | 0.50% | ~32 |
 | Now It's a Party! | 0.50% | ~32 |
 | Ashley | 0.40% | ~25 |
-| Deck the Balls | 0.40% | ~13 |
+| Deck the Balls | 0.40% | ~14 |
 | Love Conquers All | 0.40% | ~25 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,335 (Ranked 161)  
-Completed: 3 (0.05%) (Ranked 265)  
+Progressed: 6,336 (Ranked 162)  
+Completed: 3 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 3 (0.05%) (Ranked 265)
 | 2023-10-02 | 6,328 | 3 |
 | 2023-10-03 | 6,330 | 3 |
 | 2023-10-04 | 6,333 | 3 |
-| 2023-10-05 | 6,335 | 3 |
+| 2023-10-05 | 6,336 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

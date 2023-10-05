@@ -10,31 +10,34 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.60% | ~86 |
 | Play a Single Player Game | 0.60% | ~86 |
 | Friendly Family | 0.50% | ~72 |
+| Able | 0.40% | ~57 |
 | Good | 0.40% | ~57 |
 | Intrepid | 0.40% | ~57 |
 | Learned | 0.40% | ~57 |
+| Mason | 0.40% | ~57 |
 | Noble | 0.40% | ~57 |
 | Pioneer | 0.40% | ~57 |
 | Strong | 0.40% | ~57 |
 | Hanging Gardens | 0.40% | ~57 |
+| Judaism | 0.40% | ~57 |
 | Kushite Paganism | 0.40% | ~57 |
-| Able | 0.30% | ~43 |
 | Ambitious | 0.30% | ~43 |
 | Architect | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
+| Fountainhead | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
 | Just | 0.30% | ~43 |
 | Keystone | 0.30% | ~43 |
 | Magnificent | 0.30% | ~43 |
-| Mason | 0.30% | ~43 |
 | Warrior | 0.30% | ~43 |
 | Wise | 0.30% | ~43 |
+| Developing Cities | 0.30% | ~43 |
+| Great Ziggurat | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
 | Pyramids | 0.30% | ~43 |
 | Christianity | 0.30% | ~43 |
-| Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
 | Greek Paganism | 0.30% | ~43 |
@@ -44,10 +47,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.20% | ~29 |
 | Hanging Gardens in Babylon | 0.20% | ~29 |
 | Brilliant | 0.20% | ~29 |
-| Fountainhead | 0.20% | ~29 |
 | Great | 0.20% | ~29 |
 | Intercessor | 0.20% | ~29 |
-| Developing Cities | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
-| Great Ziggurat | 0.20% | ~29 |
 | Mausoleum | 0.20% | ~29 |
 | Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,367 (Ranked 133)  
-Completed: 5 (0.03%) (Ranked 277)  
+Progressed: 14,369 (Ranked 133)  
+Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -517,17 +517,17 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,367 | 5 |
+| 2023-10-05 | 14,369 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
-Sum: 1,826 (Ranked 208)  
+Sum: 1,827 (Ranked 208)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 223 |
 | This game has Diverse Characters | 211 |
+| This game is Highly Recommended | 211 |
 | This game is Extremely Fun | 210 |
-| This game is Highly Recommended | 210 |
 | This game is Educational | 209 |
 | This game has Challenging Combat | 197 |
 | This game has Quickly Understood Controls | 190 |
@@ -675,3 +675,4 @@ Diff (max vs sum): 58
 | 2023-09-28 | 4.65 | - | 223 | 1,823 |
 | 2023-09-29 | 4.65 | - | 223 | 1,824 |
 | 2023-10-01 | 4.65 | - | 223 | 1,826 |
+| 2023-10-05 | 4.65 | - | 223 | 1,827 |
