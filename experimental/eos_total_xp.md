@@ -72,6 +72,7 @@
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
+| [Agatha Christie - Murder on the Orient Express](../games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 27 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [Airport CEO](../games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 34 | 1,000 |

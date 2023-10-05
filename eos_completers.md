@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.77% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.70% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
@@ -37,7 +37,7 @@
 | 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
-| 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.92% |
+| 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.91% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 40 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
@@ -62,13 +62,13 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.94% |
-| 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
-| 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -261,15 +261,15 @@
 | 259 | [Black Book](games/b/black_book.md) | 0.06% |
 | 259 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 259 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 259 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.06% |
 | 259 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
 | 259 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 264 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 264 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 264 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 264 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 264 | [House Party](games/h/house_party.md) | 0.05% |
-| 264 | [MythForce](games/m/mythforce.md) | 0.05% |
-| 264 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.05% |
+| 265 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 265 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 265 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 265 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 265 | [House Party](games/h/house_party.md) | 0.05% |
+| 265 | [MythForce](games/m/mythforce.md) | 0.05% |
 | 271 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 271 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 271 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -649,4 +649,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,348 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,349 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
