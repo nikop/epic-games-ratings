@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.43% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.34% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
@@ -11,7 +11,7 @@
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.69% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.64% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.55% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
@@ -40,10 +40,10 @@
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.91% |
 | 39 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
 | 40 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
+| 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.49% |
-| 43 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.27% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.22% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
+| 44 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.27% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.00% |
@@ -58,7 +58,7 @@
 | 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 57 | [JARS](games/j/jars.md) | 5.06% |
 | 58 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
-| 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
@@ -87,7 +87,7 @@
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.88% |
 | 87 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 88 | [Destiny 2](games/d/destiny_2.md) | 2.79% |
+| 88 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 89 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 90 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.71% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
@@ -105,7 +105,7 @@
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.22% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 105 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.00% |
+| 106 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.96% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.94% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -226,10 +226,10 @@
 | 223 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 223 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 223 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 227 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.15% |
 | 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 229 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 229 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.14% |
+| 228 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 228 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.14% |
+| 228 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.14% |
 | 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
@@ -651,4 +651,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,352 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,353 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
