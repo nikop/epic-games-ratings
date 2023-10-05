@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.30% |
-| 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 60.20% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
-| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.36% |
-| 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
+| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.36% |
+| 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
+| 6 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 33.33% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.53% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.69% |
@@ -34,7 +34,7 @@
 | 32 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.09% |
 | 33 | [Smelter](games/s/smelter.md) | 10.00% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
+| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.91% |
@@ -63,13 +63,13 @@
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
-| 64 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
+| 64 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.12% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.93% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.69% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -94,15 +94,15 @@
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 95 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.44% |
-| 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
-| 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 95 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.42% |
+| 96 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 97 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.38% |
 | 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 98 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.36% |
 | 100 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 101 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.30% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.22% |
+| 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 106 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.96% |
@@ -252,13 +252,13 @@
 | 246 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 246 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 252 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 253 | [Black Book](games/b/black_book.md) | 0.07% |
-| 253 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
-| 253 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 253 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 253 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 253 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.07% |
-| 253 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 252 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.08% |
+| 254 | [Black Book](games/b/black_book.md) | 0.07% |
+| 254 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
+| 254 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 254 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 254 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 254 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 260 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
