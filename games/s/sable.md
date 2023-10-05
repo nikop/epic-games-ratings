@@ -6,64 +6,64 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,500 |
-| Just The Two of Us | 32.00% | ~29,647 |
-| Up On High | 25.00% | ~23,162 |
-| Under The Hood | 25.00% | ~23,162 |
-| Got Your Nose | 24.00% | ~22,235 |
-| The Gift of Gab | 24.00% | ~22,235 |
-| Wrapping Up | 22.00% | ~20,382 |
-| More Than A Box Of Sand | 18.00% | ~16,676 |
-| The Dunboyne | 17.00% | ~15,750 |
-| Badge Hobbyist | 17.00% | ~15,750 |
+| Simoon | 34.00% | ~31,502 |
+| Just The Two of Us | 32.00% | ~29,649 |
+| Up On High | 25.00% | ~23,163 |
+| Under The Hood | 25.00% | ~23,163 |
+| Got Your Nose | 24.00% | ~22,236 |
+| The Gift of Gab | 24.00% | ~22,236 |
+| Wrapping Up | 22.00% | ~20,383 |
+| More Than A Box Of Sand | 18.00% | ~16,677 |
+| The Dunboyne | 17.00% | ~15,751 |
+| Badge Hobbyist | 17.00% | ~15,751 |
 | Chum Novice | 16.00% | ~14,824 |
 | Silver-Tongued Sable | 16.00% | ~14,824 |
 | Sticky Paws | 16.00% | ~14,824 |
 | Bubble Up | 16.00% | ~14,824 |
-| Thread The Needle | 15.00% | ~13,897 |
+| Thread The Needle | 15.00% | ~13,898 |
 | Power to the People | 14.00% | ~12,971 |
-| Take That! | 13.00% | ~12,044 |
-| Nesting Giant | 13.00% | ~12,044 |
-| Treasure Tracker | 13.00% | ~12,044 |
-| Big Spender | 13.00% | ~12,044 |
+| Take That! | 13.00% | ~12,045 |
+| Nesting Giant | 13.00% | ~12,045 |
+| Treasure Tracker | 13.00% | ~12,045 |
+| Big Spender | 13.00% | ~12,045 |
 | Badge Collector | 12.00% | ~11,118 |
 | Quite The Catch | 12.00% | ~11,118 |
-| Rowleys Way | 11.00% | ~10,191 |
+| Rowleys Way | 11.00% | ~10,192 |
 | The Machinist Mask | 10.00% | ~9,265 |
 | The Cartographer Mask | 10.00% | ~9,265 |
 | Balfron Connection | 10.00% | ~9,265 |
 | Ceiling Of Stars | 10.00% | ~9,265 |
 | Playing Dress Up | 10.00% | ~9,265 |
-| Many Different Faces | 9.00% | ~8,338 |
-| Trellick's Pillar | 9.00% | ~8,338 |
-| Centre Of Brunswick | 9.00% | ~8,338 |
-| Bike Collector | 9.00% | ~8,338 |
-| Not That Kind Of Gliding | 9.00% | ~8,338 |
+| Many Different Faces | 9.00% | ~8,339 |
+| Trellick's Pillar | 9.00% | ~8,339 |
+| Centre Of Brunswick | 9.00% | ~8,339 |
+| Bike Collector | 9.00% | ~8,339 |
+| Not That Kind Of Gliding | 9.00% | ~8,339 |
 | The Scrapper Mask | 8.00% | ~7,412 |
 | Shadow Of Neave | 8.00% | ~7,412 |
 | Fragile Goods | 8.00% | ~7,412 |
 | Glider on the Storm | 8.00% | ~7,412 |
 | Squeeze One Out | 8.00% | ~7,412 |
 | Dune Rider | 8.00% | ~7,412 |
-| Amateur Historian | 7.00% | ~6,485 |
-| The Beetle Mask | 7.00% | ~6,485 |
-| The Guard Mask | 7.00% | ~6,485 |
-| Smoked Out | 7.00% | ~6,485 |
-| A Hard Place | 7.00% | ~6,485 |
+| Amateur Historian | 7.00% | ~6,486 |
+| The Beetle Mask | 7.00% | ~6,486 |
+| The Guard Mask | 7.00% | ~6,486 |
+| Smoked Out | 7.00% | ~6,486 |
+| A Hard Place | 7.00% | ~6,486 |
 | The Climber Mask | 6.00% | ~5,559 |
 | The Merchant Mask | 6.00% | ~5,559 |
 | Honorary Chum | 6.00% | ~5,559 |
 | Bikes Don't Fly | 6.00% | ~5,559 |
-| The Gliding | 5.00% | ~4,632 |
-| The Entertainer Mask | 5.00% | ~4,632 |
+| The Gliding | 5.00% | ~4,633 |
+| The Entertainer Mask | 5.00% | ~4,633 |
 | The Quick and the Curious | 4.00% | ~3,706 |
 | Bike Aficionado | 4.00% | ~3,706 |
-| Chum Expert | 3.00% | ~2,779 |
-| Gastric Bypass | 3.00% | ~2,779 |
-| The Angler Mask | 3.00% | ~2,779 |
+| Chum Expert | 3.00% | ~2,780 |
+| Gastric Bypass | 3.00% | ~2,780 |
+| The Angler Mask | 3.00% | ~2,780 |
 | Vivacious Vivarium | 2.00% | ~1,853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,647 (Ranked 79)  
+Progressed: 92,652 (Ranked 79)  
 Completed: 932 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 932 (1.01%) (Ranked 136)
 | 2023-10-02 | 92,315 | 931 |
 | 2023-10-03 | 92,454 | 931 |
 | 2023-10-04 | 92,578 | 932 |
-| 2023-10-05 | 92,647 | 932 |
+| 2023-10-05 | 92,652 | 932 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 498)  
 Sum: 88 (Ranked 431)  

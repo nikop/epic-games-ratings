@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -212,10 +212,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146569,
+  "EOS_Progressed": 146571,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 1162,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 1161,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -13322,6 +13322,11 @@
       "Time": "2023-10-05T12:05:14.7020304+00:00",
       "NumProgressed": 146569,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-10-05T13:16:29.4182324+00:00",
+      "NumProgressed": 146571,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 31,
@@ -13341,7 +13346,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 102598
+      "UsersEstimate": 102600
     },
     {
       "ID": "EAwards_10",
@@ -13381,7 +13386,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 57162
+      "UsersEstimate": 57163
     },
     {
       "ID": "EAwards_15",
@@ -13389,7 +13394,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "EAwards_16",
@@ -13405,7 +13410,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32245
+      "UsersEstimate": 32246
     },
     {
       "ID": "EAwards_18",
@@ -13413,7 +13418,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32245
+      "UsersEstimate": 32246
     },
     {
       "ID": "EAwards_19",
@@ -13429,7 +13434,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41039
+      "UsersEstimate": 41040
     },
     {
       "ID": "EAwards_20",
@@ -13469,7 +13474,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7328
+      "UsersEstimate": 7329
     },
     {
       "ID": "EAwards_25",
@@ -13533,7 +13538,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21985
+      "UsersEstimate": 21986
     },
     {
       "ID": "EAwards_5",
@@ -13549,7 +13554,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 36642
+      "UsersEstimate": 36643
     },
     {
       "ID": "EAwards_7",
@@ -13573,14 +13578,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 146569,
+      "Progressed": 146571,
       "Completed": 287
     }
   ],
@@ -13588,8 +13593,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-28T14:01:47.960468+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:05:14.7020296+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:16:29.4182315+00:00",
   "LastUpdate_AppInfo": "2023-09-29T01:39:02.0774295+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:01:20.6351501+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:05:14.7021769+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:12:46.613529+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:16:29.4183326+00:00"
 }

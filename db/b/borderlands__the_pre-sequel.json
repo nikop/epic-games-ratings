@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2014-10-14T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -3462,10 +3462,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2954,
       "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-10-05T13:12:49.0779103+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2955,
+      "NumberOfAwardsMax": 420
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2954,
+  "NumberOfAwards": 2955,
   "NumberOfAwardsMax": 420,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3491,7 +3497,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 356
+      "Count": 357
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3541,8 +3547,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-10-05T05:01:48.2486814+00:00",
+  "LastChanged": "2023-10-05T13:12:49.0779102+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.9610435+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:01:22.009181+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:03:25.8755015+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:12:49.0779107+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:14:33.9185839+00:00"
 }

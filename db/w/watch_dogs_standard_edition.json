@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2002,10 +2002,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 500,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-10-05T13:11:21.2221318+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 500,
+  "NumberOfAwards": 440,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2093,8 +2099,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-10-04T23:59:52.0437005+00:00",
+  "LastChanged": "2023-10-05T13:11:21.2221317+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.1055822+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:00:00.1264805+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:04:21.896111+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:11:21.2221322+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:15:32.5097319+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2934,
+  "EOS_Progressed": 2935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2023-10-05T12:03:19.7927979+00:00",
       "NumProgressed": 2934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T13:14:27.0417968+00:00",
+      "NumProgressed": 2935,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2191,7 +2196,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "achievement_0007",
@@ -2199,7 +2204,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "achievement_0008",
@@ -2207,7 +2212,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "achievement_0009",
@@ -2279,7 +2284,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_0018",
@@ -2311,7 +2316,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_0022",
@@ -2359,7 +2364,7 @@
       "Name": "Switcheroo",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_0028",
@@ -2375,7 +2380,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_0030",
@@ -2383,7 +2388,7 @@
       "Name": "Reuse",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_0031",
@@ -2415,7 +2420,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_0035",
@@ -2431,7 +2436,7 @@
       "Name": "Ups and Downs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_0037",
@@ -2535,14 +2540,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 0
     }
   ],
@@ -2550,8 +2555,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:03:19.7927971+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:14:27.0417962+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:01:17.0652799+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:03:19.7928955+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:12:42.9424305+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:14:27.0418537+00:00"
 }

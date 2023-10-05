@@ -486,9 +486,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 60953,
+  "EOS_Progressed": 60962,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2562,
+  "EOS_NewPlayers": 2552,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3861,6 +3861,11 @@
       "Time": "2023-10-05T12:09:22.0386141+00:00",
       "NumProgressed": 60953,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T13:20:21.7776264+00:00",
+      "NumProgressed": 60962,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3873,7 +3878,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16457
+      "UsersEstimate": 16460
     },
     {
       "ID": "10",
@@ -3937,7 +3942,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9143
+      "UsersEstimate": 9144
     },
     {
       "ID": "3",
@@ -3945,7 +3950,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7314
+      "UsersEstimate": 7315
     },
     {
       "ID": "4",
@@ -3953,7 +3958,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "5",
@@ -3969,7 +3974,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "7",
@@ -4000,7 +4005,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 60953,
+      "Progressed": 60962,
       "Completed": 2
     }
   ],
@@ -4008,8 +4013,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-05T03:57:10.9610344+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:09:22.0386135+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:20:21.7776259+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:57:45.2554181+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:09:22.0386468+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:08:51.4827554+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:20:21.7776562+00:00"
 }

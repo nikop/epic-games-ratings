@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7064,10 +7064,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31899,
       "NumberOfAwardsMax": 5358
+    },
+    {
+      "Time": "2023-10-05T13:13:38.3731845+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31900,
+      "NumberOfAwardsMax": 5358
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31899,
+  "NumberOfAwards": 31900,
   "NumberOfAwardsMax": 5358,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7111,13 +7117,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3457
+      "Count": 3458
     }
   ],
-  "EOS_Progressed": 230953,
+  "EOS_Progressed": 230957,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 694,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 692,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -25804,6 +25810,11 @@
       "Time": "2023-10-05T12:07:26.2176705+00:00",
       "NumProgressed": 230953,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T13:18:51.3683448+00:00",
+      "NumProgressed": 230957,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -29581,9 +29592,9 @@
       "ID": "objective_completed_904",
       "SetID": "415jc5c",
       "Name": "Working for the Weak End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_918",
@@ -29933,9 +29944,9 @@
       "ID": "objective_completed_1401",
       "SetID": "415jc5c",
       "Name": "There\u0027s a Flying Snake in my Boot!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1365",
@@ -30038,21 +30049,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197227,
+      "Progressed": 197231,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230953,
+      "Progressed": 230957,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-05T12:02:09.756647+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:07:26.2176699+00:00",
+  "LastChanged": "2023-10-05T13:13:38.3731843+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:18:51.3683444+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:02:09.7566477+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:07:26.2210139+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:13:38.3731851+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:18:51.371278+00:00"
 }

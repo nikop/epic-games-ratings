@@ -3374,9 +3374,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73161,
+  "EOS_Progressed": 73162,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17679,6 +17679,11 @@
       "Time": "2023-10-05T12:06:25.9579323+00:00",
       "NumProgressed": 73161,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T13:17:46.1181053+00:00",
+      "NumProgressed": 73162,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17786,7 +17791,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12437
+      "UsersEstimate": 12438
     },
     {
       "ID": "CLAYFACE_1",
@@ -17874,7 +17879,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -17994,7 +17999,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25606
+      "UsersEstimate": 25607
     },
     {
       "ID": "HARLEY_2",
@@ -18154,7 +18159,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -18177,13 +18182,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73161,
+      "Progressed": 73162,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43441,
+      "Progressed": 43442,
       "Completed": 2666
     }
   ],
@@ -18191,8 +18196,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-05T11:58:42.0656685+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:06:25.9579316+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:17:46.1181049+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:58:42.0656692+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:06:25.9581154+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:09:56.0843671+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:17:46.1182507+00:00"
 }

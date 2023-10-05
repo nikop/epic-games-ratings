@@ -3,12 +3,12 @@
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 281,
-  "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 340,
+  "Ranking_Popularity": 404,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -1095,11 +1095,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-10-05T13:13:21.2622184+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 388,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 388,
+  "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1130,7 +1136,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1154,7 +1160,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1192,8 +1198,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-09-28T21:57:37.1373613+00:00",
+  "LastChanged": "2023-10-05T13:13:21.2622183+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:18.8682747+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:01:54.025681+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:06:22.5700809+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:13:21.2622189+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:17:42.4453532+00:00"
 }

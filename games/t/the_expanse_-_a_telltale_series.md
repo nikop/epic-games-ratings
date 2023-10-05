@@ -6,12 +6,12 @@ Rating: 4.53 (Ranked 522)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 3.00% | ~407 |
+| Drug Gifter | 2.00% | ~272 |
 | The Pit and the Pirates | 1.00% | ~136 |
-| Drug Gifter | 1.00% | ~136 |
 | Bosmang | 1.00% | ~136 |
 | Drone Dodger | 0.90% | ~122 |
+| Call it Even | 0.90% | ~122 |
 | Impossible Objects | 0.90% | ~122 |
-| Call it Even | 0.80% | ~109 |
 | Celebrations are in Order | 0.80% | ~109 |
 | Data Archivist | 0.70% | ~95 |
 | Martian Music | 0.70% | ~95 |

@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2023-10-05T11:07:16.0241824+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T13:18:32.5519105+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -60,7 +65,7 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 78,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -68,7 +73,7 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -100,7 +105,7 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -116,7 +121,7 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "5k00jcd",
       "Name": "Shapeshifter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "ML_ACHIEVEMENT_16",
       "SetID": "5k00jcd",
       "Name": "Stage animal",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -188,7 +193,7 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -204,7 +209,7 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -212,7 +217,7 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "ML_ACHIEVEMENT_28",
       "SetID": "5k00jcd",
       "Name": "Can you keep a secret?",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -284,7 +289,7 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "5k00jcd",
       "Name": "\u2026Is half done",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -292,7 +297,7 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "5k00jcd",
       "Name": "Eagle eye",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -316,7 +321,7 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -324,7 +329,7 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -332,7 +337,7 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -340,7 +345,7 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -364,7 +369,7 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "5k00jcd",
       "Name": "Tools of the trade",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -372,7 +377,7 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -380,7 +385,7 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -388,7 +393,7 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 5
     }
@@ -405,13 +410,13 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:07:08.7535051+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:18:32.55191+00:00",
   "LastUpdate_AppInfo": "2023-10-04T22:57:18.8486094+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:01:15.8126766+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:07:08.753567+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:12:41.5970446+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:18:32.551944+00:00"
 }

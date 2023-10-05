@@ -2,10 +2,10 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -704,8 +704,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:04:23.1127651+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:15:33.8747025+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:59:43.766676+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:04:23.112849+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:11:01.8857577+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:15:33.8747865+00:00"
 }

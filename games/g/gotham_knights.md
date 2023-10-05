@@ -6,7 +6,7 @@ Rating: 4.18 (Ranked 896)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~38,044 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,606 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,607 |
 | Loose Ends | 34.00% | ~24,875 |
 | To the Victor Go the Spoils | 29.00% | ~21,217 |
 | Knighthood | 28.00% | ~20,485 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 896)
 | Snow Problem | 19.00% | ~13,901 |
 | The Show Mud Go On | 18.00% | ~13,169 |
 | From Inside Gotham's Walls | 18.00% | ~13,169 |
-| Protector of Gotham | 17.00% | ~12,437 |
+| Protector of Gotham | 17.00% | ~12,438 |
 | Universal Health Scare | 16.00% | ~11,706 |
 | In Your Element | 15.00% | ~10,974 |
 | Voiceless | 15.00% | ~10,974 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 896)
 | Gotham Knight | 12.00% | ~8,779 |
 | Gotham City Confidential | 11.00% | ~8,048 |
 | Drone You Out | 10.00% | ~7,316 |
-| Out of Their League | 9.00% | ~6,584 |
-| Solid Alibi | 9.00% | ~6,584 |
+| Out of Their League | 9.00% | ~6,585 |
+| Solid Alibi | 9.00% | ~6,585 |
 | Fusion Expert | 7.00% | ~5,121 |
 | Family Meeting | 6.00% | ~4,390 |
 | A Worthy Successor | 6.00% | ~4,390 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 896)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,161 (Ranked 89)  
+Progressed: 73,162 (Ranked 89)  
 Completed: 120 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 120 (0.16%) (Ranked 224)
 | 2023-10-02 | 73,059 | 121 |
 | 2023-10-03 | 73,099 | 122 |
 | 2023-10-04 | 73,139 | 122 |
-| 2023-10-05 | 73,161 | 120 |
+| 2023-10-05 | 73,162 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,784  (Ranked 97)  
 Sum: 4,661 (Ranked 140)  

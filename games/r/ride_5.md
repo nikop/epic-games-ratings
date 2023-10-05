@@ -25,12 +25,12 @@
 | Make It Your Own! | 4.00% | ~52 |
 | Cherry Blossom and Temples | 4.00% | ~52 |
 | I Make the Rules! | 4.00% | ~52 |
+| Spoilt for Choice | 3.00% | ~39 |
 | La Dolce Vita | 3.00% | ~39 |
 | The Road to Liberty | 3.00% | ~39 |
 | Romantic Races | 3.00% | ~39 |
 | Still Here | 3.00% | ~39 |
 | Iconic! | 2.00% | ~26 |
-| Spoilt for Choice | 2.00% | ~26 |
 | Back in Blighty | 2.00% | ~26 |
 | Rounding Off | 2.00% | ~26 |
 | My Work Here Is Done | 2.00% | ~26 |

@@ -15,6 +15,7 @@ Rating: 4.63 (Ranked 334)
 | Lezduit! | 0.20% | ~48 |
 | RIP Davey Glutes | 0.20% | ~48 |
 | Sweezy Like Sunday Morning | 0.20% | ~48 |
+| Eye Scream, You Scream | 0.20% | ~48 |
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | G3 Graduation | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |
@@ -28,7 +29,6 @@ Rating: 4.63 (Ranked 334)
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
-| Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
 | Self-Actualization | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |

@@ -6,43 +6,43 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,061 |
-| He's Signed! | 50.00% | ~237,061 |
-| First Victory | 50.00% | ~237,061 |
+| Clean Sheet | 50.00% | ~237,062 |
+| He's Signed! | 50.00% | ~237,062 |
+| First Victory | 50.00% | ~237,062 |
 | He's Sold! | 48.00% | ~227,579 |
-| I'm The Boss! | 42.00% | ~199,131 |
+| I'm The Boss! | 42.00% | ~199,132 |
 | Hat-trick | 41.00% | ~194,390 |
-| Scoring Streak | 38.00% | ~180,166 |
-| Unbeatable! | 37.00% | ~175,425 |
-| Thumping | 37.00% | ~175,425 |
+| Scoring Streak | 38.00% | ~180,167 |
+| Unbeatable! | 37.00% | ~175,426 |
+| Thumping | 37.00% | ~175,426 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,943 |
 | Total Support | 32.00% | ~151,719 |
 | Record Signing | 32.00% | ~151,719 |
 | He's a Natural | 31.00% | ~146,978 |
 | Millionaire's Club | 31.00% | ~146,978 |
 | Team Performance | 30.00% | ~142,237 |
-| Parked The Bus | 29.00% | ~137,495 |
-| Shrewd Spender | 29.00% | ~137,495 |
-| Star Man | 29.00% | ~137,495 |
+| Parked The Bus | 29.00% | ~137,496 |
+| Shrewd Spender | 29.00% | ~137,496 |
+| Star Man | 29.00% | ~137,496 |
 | Attack! | 28.00% | ~132,754 |
 | You're On Fire | 27.00% | ~128,013 |
 | Tremendous Trio | 27.00% | ~128,013 |
 | Record Sale | 27.00% | ~128,013 |
 | On A Roll | 26.00% | ~123,272 |
 | Unstoppable Force | 26.00% | ~123,272 |
-| Armchair Expert | 25.00% | ~118,530 |
-| Fantastic Five | 24.00% | ~113,789 |
-| Full Faith | 24.00% | ~113,789 |
-| Iron Curtain | 24.00% | ~113,789 |
-| The Boss | 24.00% | ~113,789 |
+| Armchair Expert | 25.00% | ~118,531 |
+| Fantastic Five | 24.00% | ~113,790 |
+| Full Faith | 24.00% | ~113,790 |
+| Iron Curtain | 24.00% | ~113,790 |
+| The Boss | 24.00% | ~113,790 |
 | Top Of The Class | 23.00% | ~109,048 |
 | Goal Machine | 23.00% | ~109,048 |
 | Splashing The Cash | 22.00% | ~104,307 |
 | Clean Bill of Health | 22.00% | ~104,307 |
 | What A Goal! | 22.00% | ~104,307 |
 | Cup Glory! | 22.00% | ~104,307 |
-| Irresistible Force | 20.00% | ~94,824 |
-| Excellent Match Cohesion | 20.00% | ~94,824 |
+| Irresistible Force | 20.00% | ~94,825 |
+| Excellent Match Cohesion | 20.00% | ~94,825 |
 | Do The Double | 19.00% | ~90,083 |
 | Top Form | 17.00% | ~80,601 |
 | Cash To Burn | 17.00% | ~80,601 |
@@ -54,7 +54,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Comeback King! | 14.00% | ~66,377 |
 | You're Up! | 13.00% | ~61,636 |
 | Money, Money, Money | 12.00% | ~56,895 |
-| Invincible! | 11.00% | ~52,153 |
+| Invincible! | 11.00% | ~52,154 |
 | Superb Strike | 10.00% | ~47,412 |
 | International Superstar | 10.00% | ~47,412 |
 | Best In The World | 10.00% | ~47,412 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,122 (Ranked 36)  
+Progressed: 474,123 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 22 (0.00%) (Ranked 306)
 | 2023-10-02 | 474,037 | 22 |
 | 2023-10-03 | 474,076 | 22 |
 | 2023-10-04 | 474,109 | 22 |
-| 2023-10-05 | 474,122 | 22 |
+| 2023-10-05 | 474,123 | 22 |
 ## Awards
 Max (Relaxing): 6,456  (Ranked 55)  
-Sum: 50,830 (Ranked 26)  
+Sum: 50,831 (Ranked 26)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): 29
 | This game has Diverse Characters | 5,538 |
 | This game has Amazing Storytelling | 4,917 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,374 |
+| This game has Amazing Characters | 4,375 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -546,4 +546,4 @@ Diff (max vs sum): 29
 | 2023-10-02 | 4.80 | - | 6,455 | 50,823 |
 | 2023-10-03 | 4.80 | - | 6,455 | 50,824 |
 | 2023-10-04 | 4.80 | - | 6,455 | 50,826 |
-| 2023-10-05 | 4.80 | - | 6,456 | 50,830 |
+| 2023-10-05 | 4.80 | - | 6,456 | 50,831 |

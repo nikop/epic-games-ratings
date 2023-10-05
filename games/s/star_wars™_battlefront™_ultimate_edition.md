@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~393 |
-| Off to a good start | 67.00% | ~293 |
-| Do... or do not. There is no try | 52.00% | ~227 |
-| A good blaster at your side | 34.00% | ~149 |
-| Scrap collector | 22.00% | ~96 |
-| All right, I'll give it a try | 19.00% | ~83 |
-| I suggest a new strategy | 19.00% | ~83 |
-| Great shot, kid! | 19.00% | ~83 |
-| The power of the Force | 17.00% | ~74 |
-| Together we can rule the galaxy | 17.00% | ~74 |
-| Shoot first | 17.00% | ~74 |
+| New Recruit | 90.00% | ~396 |
+| Off to a good start | 66.00% | ~290 |
+| Do... or do not. There is no try | 51.00% | ~224 |
+| A good blaster at your side | 34.00% | ~150 |
+| Scrap collector | 22.00% | ~97 |
+| All right, I'll give it a try | 19.00% | ~84 |
+| I suggest a new strategy | 19.00% | ~84 |
+| Great shot, kid! | 19.00% | ~84 |
+| The power of the Force | 17.00% | ~75 |
+| Together we can rule the galaxy | 17.00% | ~75 |
+| Shoot first | 17.00% | ~75 |
 | Collector | 16.00% | ~70 |
 | Survivor | 13.00% | ~57 |
-| Best star-pilot in the galaxy | 12.00% | ~52 |
-| Tell Jabba that I've got his money | 11.00% | ~48 |
-| Impressive. Most impressive. | 11.00% | ~48 |
+| Tell Jabba that I've got his money | 12.00% | ~53 |
+| Best star-pilot in the galaxy | 12.00% | ~53 |
 | What's the cargo? | 10.00% | ~44 |
 | Never tell me the odds! | 10.00% | ~44 |
+| Impressive. Most impressive. | 10.00% | ~44 |
+| Judge me by my size, do you? | 10.00% | ~44 |
 | A cunning warrior | 10.00% | ~44 |
-| "Gonk? Gonk!" | 9.00% | ~39 |
-| Judge me by my size, do you? | 9.00% | ~39 |
+| "Gonk? Gonk!" | 9.00% | ~40 |
 | Distinguished | 8.00% | ~35 |
 | A tremor in the Force | 8.00% | ~35 |
 | Support the troops | 8.00% | ~35 |
@@ -37,14 +37,14 @@
 | Determined | 5.00% | ~22 |
 | Your journey has only started | 5.00% | ~22 |
 | That's no moon | 5.00% | ~22 |
-| The Force is strong with this one | 4.00% | ~17 |
-| Precision shot | 4.00% | ~17 |
-| Safety ain't the point of a joyride | 4.00% | ~17 |
-| This is a new day, a new beginning | 4.00% | ~17 |
-| City in the Clouds | 4.00% | ~17 |
-| Alternative solution | 4.00% | ~17 |
-| What will you become? | 4.00% | ~17 |
-| Disturbed tranquility | 4.00% | ~17 |
+| The Force is strong with this one | 4.00% | ~18 |
+| Precision shot | 4.00% | ~18 |
+| Safety ain't the point of a joyride | 4.00% | ~18 |
+| This is a new day, a new beginning | 4.00% | ~18 |
+| City in the Clouds | 4.00% | ~18 |
+| Alternative solution | 4.00% | ~18 |
+| What will you become? | 4.00% | ~18 |
+| Disturbed tranquility | 4.00% | ~18 |
 | Playing the objective | 3.00% | ~13 |
 | Ackbar's Elite | 3.00% | ~13 |
 | The circle is now complete | 3.00% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 279)  
+Progressed: 440 (Ranked 277)  
 Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 211)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 437 | 1 |
+| 2023-10-05 | 440 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

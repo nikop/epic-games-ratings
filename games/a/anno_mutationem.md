@@ -22,7 +22,7 @@ Rating: 4.56 (Ranked 473)
 | Deadly Kombationem | 19.00% | ~128 |
 | The truth is out there | 16.00% | ~108 |
 | Annakin Skyscroller | 14.00% | ~94 |
-| In the smacker...I think | 10.00% | ~67 |
+| In the smacker...I think | 11.00% | ~74 |
 | Arm Wrestlin' | 9.00% | ~61 |
 | 1+1>2 | 9.00% | ~61 |
 | This can't be right… | 9.00% | ~61 |

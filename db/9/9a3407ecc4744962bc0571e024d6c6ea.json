@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2023-10-05T12:04:51.5427591+00:00",
       "NumProgressed": 692,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T13:16:04.6310978+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1538,7 +1543,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "BostonHayDay",
@@ -1546,7 +1551,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "BoxingClever",
@@ -1562,7 +1567,7 @@
       "Name": "Cartographer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Causality",
@@ -1594,7 +1599,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "DustDancing",
@@ -1642,7 +1647,7 @@
       "Name": "Outpatient",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Relic",
@@ -1658,7 +1663,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "TerraTourGuide",
@@ -1690,21 +1695,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:04:51.542758+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:16:04.6310974+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:59:22.0111062+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:04:51.5427983+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:10:38.0313298+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:16:04.6311198+00:00"
 }

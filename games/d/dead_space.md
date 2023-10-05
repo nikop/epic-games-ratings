@@ -7,7 +7,7 @@ Rating: 4.61 (Ranked 371)
 | ---- | ---------- | ----- |
 | Marksman | 95.00% | ~740 |
 | Welcome Aboard | 86.00% | ~670 |
-| Lab Rat | 74.00% | ~576 |
+| Lab Rat | 75.00% | ~584 |
 | All Systems Go | 66.00% | ~514 |
 | Brute Force | 65.00% | ~506 |
 | Cannon Fodder | 62.00% | ~483 |
@@ -21,8 +21,8 @@ Rating: 4.61 (Ranked 371)
 | Freeze | 49.00% | ~382 |
 | Full Arsenal | 44.00% | ~343 |
 | S.O.S. | 43.00% | ~335 |
+| Get Off My Ship! | 42.00% | ~327 |
 | Live with the Hot Ones | 41.00% | ~319 |
-| Get Off My Ship! | 41.00% | ~319 |
 | Strange Transmissions | 41.00% | ~319 |
 | Wreckage | 40.00% | ~312 |
 | Keeper of the Faith | 36.00% | ~280 |
@@ -38,8 +38,8 @@ Rating: 4.61 (Ranked 371)
 | Final Regeneration | 23.00% | ~179 |
 | Full Contact | 23.00% | ~179 |
 | Pack Rat | 23.00% | ~179 |
+| Pusher | 22.00% | ~171 |
 | Full Clearance | 22.00% | ~171 |
-| Pusher | 21.00% | ~164 |
 | Z-Baller | 20.00% | ~156 |
 | Eviscerator | 18.00% | ~140 |
 | Marked | 18.00% | ~140 |

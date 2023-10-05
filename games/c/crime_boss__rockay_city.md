@@ -12,13 +12,13 @@ Rating: 3.94 (Ranked 976)
 | Too Old for This | 0.80% | ~710 |
 | Fancy Pants | 0.70% | ~621 |
 | Roid Ranger | 0.60% | ~533 |
+| King of the Hill | 0.60% | ~533 |
 | Off the Rocks | 0.60% | ~533 |
+| Raider’s Ruin | 0.60% | ~533 |
 | Dragonslayer | 0.60% | ~533 |
 | Rockay Rex | 0.60% | ~533 |
 | Hidden Sonata | 0.50% | ~444 |
 | Case Closed | 0.50% | ~444 |
-| King of the Hill | 0.50% | ~444 |
-| Raider’s Ruin | 0.50% | ~444 |
 | Track Star | 0.40% | ~355 |
 | True Player | 0.40% | ~355 |
 | I Like Trains | 0.30% | ~266 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 976)
 | One for All | 0.10% | ~17 |
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,775 (Ranked 80)  
+Progressed: 88,778 (Ranked 80)  
 Completed: 47 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 47 (0.05%) (Ranked 264)
 | 2023-10-02 | 88,680 | 46 |
 | 2023-10-03 | 88,722 | 46 |
 | 2023-10-04 | 88,755 | 47 |
-| 2023-10-05 | 88,775 | 47 |
+| 2023-10-05 | 88,778 | 47 |
 ## Awards
 Max (Diverse Characters): 474  (Ranked 205)  
 Sum: 2,269 (Ranked 193)  

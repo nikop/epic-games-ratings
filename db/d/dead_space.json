@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 779,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2355,9 +2355,9 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 584
     },
     {
       "ID": "achievement_20",
@@ -2387,9 +2387,9 @@
       "ID": "achievement_23",
       "SetID": "222fo9l",
       "Name": "Pusher",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_24",
@@ -2571,9 +2571,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_45",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:03:27.1185948+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:14:35.2360928+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:00:14.6417975+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:03:27.1187484+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:11:36.6717359+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:14:35.2361445+00:00"
 }

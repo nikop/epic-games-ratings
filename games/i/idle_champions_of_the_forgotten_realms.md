@@ -473,6 +473,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.10% | ~231 |
 | Tekeli-li's Hunt | 0.10% | ~197 |
 | Cackling Horror | 0.10% | ~197 |
+| Working for the Weak End | 0.10% | ~197 |
 | Neutral No More | 0.10% | ~197 |
 | Fungal Excitation | 0.10% | ~197 |
 | Crimson Perception | 0.10% | ~197 |
@@ -516,6 +517,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.10% | ~197 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~197 |
 | To Infinity's and Beyond | 0.10% | ~197 |
+| There's a Flying Snake in my Boot! | 0.10% | ~197 |
 | Legends and Lore | 0.10% | ~197 |
 | Unearthed Arcana | 0.10% | ~197 |
 | The End | 0.10% | ~197 |
@@ -528,14 +530,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
-| Working for the Weak End | 0.00% | ~0 |
-| There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,953 (Ranked 56)  
+Progressed: 230,957 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,10 +703,10 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,953 | 2,331 |
+| 2023-10-05 | 230,957 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
-Sum: 31,899 (Ranked 41)  
+Sum: 31,900 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -716,7 +716,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,669 |
 | This game has Amazing Characters | 4,144 |
 | This game is Highly Recommended | 4,140 |
-| This game has Playful Visuals | 3,457 |
+| This game has Playful Visuals | 3,458 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -972,4 +972,4 @@ Diff (max vs sum): 28
 | 2023-10-02 | 4.06 | - | 5,354 | 31,882 |
 | 2023-10-03 | 4.06 | - | 5,354 | 31,886 |
 | 2023-10-04 | 4.06 | - | 5,358 | 31,893 |
-| 2023-10-05 | 4.06 | - | 5,358 | 31,899 |
+| 2023-10-05 | 4.06 | - | 5,358 | 31,900 |

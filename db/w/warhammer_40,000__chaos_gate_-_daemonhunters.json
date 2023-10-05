@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 435,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 313,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3718,9 +3718,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ForTheMachineGod",
@@ -4164,8 +4164,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:08:31.5485685+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:20:00.546606+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:58:06.1345115+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:08:31.548731+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:09:16.8524129+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:20:00.5466924+00:00"
 }

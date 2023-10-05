@@ -33,11 +33,11 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 0.90% | ~29 |
 | Long Distance Call | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |
+| Fleetmaster | 0.80% | ~26 |
 | Mind Like a Fortress | 0.80% | ~26 |
 | Junk Banishment | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
-| Fleetmaster | 0.70% | ~23 |
 | For the Machine God | 0.60% | ~20 |
 | Preservationist | 0.60% | ~20 |
 | Engine Kill | 0.60% | ~20 |
@@ -234,8 +234,8 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-05 | 3,254 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 268)  
-Sum: 474 (Ranked 313)  
-Diff (max vs sum): -45  
+Sum: 474 (Ranked 312)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 220 |

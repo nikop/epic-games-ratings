@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1647,
+  "EOS_Progressed": 1648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3867,6 +3867,11 @@
       "Time": "2023-10-04T21:05:22.3347799+00:00",
       "NumProgressed": 1647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T13:17:56.7309453+00:00",
+      "NumProgressed": 1648,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3950,7 +3955,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4052,9 +4057,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 544
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4068,9 +4073,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 412
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4102,7 +4107,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4261,7 +4266,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1647,
+      "Progressed": 1648,
       "Completed": 0
     }
   ],
@@ -4269,8 +4274,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-04T19:58:33.1072348+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:06:35.7967732+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:17:56.7309449+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:59:05.0031963+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:06:35.7968365+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:10:20.5939047+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:17:56.7310078+00:00"
 }

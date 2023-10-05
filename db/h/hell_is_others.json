@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 716,
-  "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 354,
+  "Ranking_Popularity": 423,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -962,18 +962,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 280,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-10-05T13:14:18.5777471+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 280,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 282,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1030,9 +1036,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 256949,
+  "EOS_Progressed": 256951,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17705,6 +17711,11 @@
       "Time": "2023-10-05T12:06:59.7171354+00:00",
       "NumProgressed": 256949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-05T13:18:23.0175925+00:00",
+      "NumProgressed": 256951,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17716,7 +17727,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17986
+      "UsersEstimate": 17987
     },
     {
       "ID": "Act2",
@@ -17732,7 +17743,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "Act4",
@@ -17764,7 +17775,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79654
+      "UsersEstimate": 79655
     },
     {
       "ID": "BackHomeNTimes",
@@ -17772,7 +17783,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12847
+      "UsersEstimate": 12848
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -17828,7 +17839,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7708
+      "UsersEstimate": 7709
     },
     {
       "ID": "CreditLevel3",
@@ -17844,7 +17855,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12847
+      "UsersEstimate": 12848
     },
     {
       "ID": "CreedsInBank2",
@@ -17852,7 +17863,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "CreedsInBank3",
@@ -17884,7 +17895,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "FullHomeExpansion",
@@ -17908,7 +17919,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "GrowPlants1",
@@ -17924,7 +17935,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "GrowPlants3",
@@ -17988,7 +17999,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7708
+      "UsersEstimate": 7709
     },
     {
       "ID": "KillOtherWithMine",
@@ -18036,7 +18047,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "MaxImagoLevel",
@@ -18068,7 +18079,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "OldCoinCollected",
@@ -18156,23 +18167,23 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256949,
+      "Progressed": 256951,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-10-05T09:03:07.6606751+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:06:59.7171346+00:00",
+  "LastChanged": "2023-10-05T13:14:18.577747+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:18:23.0175921+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.0363814+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:03:13.0935012+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:06:59.7172884+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:14:18.5777474+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:18:23.0177465+00:00"
 }

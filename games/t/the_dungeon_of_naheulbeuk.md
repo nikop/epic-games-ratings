@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,208 |
-| Alt+F4 | 6.00% | ~13,726 |
+| Sowwy! | 32.00% | ~73,211 |
+| Alt+F4 | 6.00% | ~13,727 |
 | Where's that freaking Dwarf? | 5.00% | ~11,439 |
 | Déjà vu | 4.00% | ~9,151 |
 | Sock! SOCK! | 4.00% | ~9,151 |
@@ -16,19 +16,19 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 3.00% | ~6,863 |
 | Speedrun | 3.00% | ~6,863 |
 | Fireproof Wizardess | 3.00% | ~6,863 |
-| Livin' in a dwarven paradise | 2.00% | ~4,575 |
-| Way of the Wimp | 2.00% | ~4,575 |
-| The plot thickens... At the tavern | 2.00% | ~4,575 |
-| The demons' feast | 2.00% | ~4,575 |
-| The Great Library | 2.00% | ~4,575 |
-| Torture and Sensibility | 2.00% | ~4,575 |
-| Urik's Depths | 2.00% | ~4,575 |
-| The Dungeon Master | 2.00% | ~4,575 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,575 |
-| The Woman in the High Castle | 2.00% | ~4,575 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,575 |
-| Team Building Exercise | 2.00% | ~4,575 |
-| Oh, when I'll be level 10... | 2.00% | ~4,575 |
+| Livin' in a dwarven paradise | 2.00% | ~4,576 |
+| Way of the Wimp | 2.00% | ~4,576 |
+| The plot thickens... At the tavern | 2.00% | ~4,576 |
+| The demons' feast | 2.00% | ~4,576 |
+| The Great Library | 2.00% | ~4,576 |
+| Torture and Sensibility | 2.00% | ~4,576 |
+| Urik's Depths | 2.00% | ~4,576 |
+| The Dungeon Master | 2.00% | ~4,576 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,576 |
+| The Woman in the High Castle | 2.00% | ~4,576 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,576 |
+| Team Building Exercise | 2.00% | ~4,576 |
+| Oh, when I'll be level 10... | 2.00% | ~4,576 |
 | Shiny and Crôm | 1.00% | ~2,288 |
 | Res Judicata | 1.00% | ~2,288 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,288 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,774 (Ranked 58)  
+Progressed: 228,783 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,17 +222,17 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-02 | 228,310 | 5 |
 | 2023-10-03 | 228,515 | 5 |
 | 2023-10-04 | 228,696 | 5 |
-| 2023-10-05 | 228,774 | 5 |
+| 2023-10-05 | 228,783 | 5 |
 ## Awards
 Max (Character Customization): 207  (Ranked 274)  
-Sum: 404 (Ranked 325)  
+Sum: 405 (Ranked 325)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 207 |
 | This game is Relaxing | 32 |
 | This game is Great for Beginners | 30 |
-| This game has Amazing Characters | 24 |
+| This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Storytelling | 22 |
@@ -389,4 +389,4 @@ Diff (max vs sum): -51
 | 2023-10-01 | 4.59 | - | 205 | 397 |
 | 2023-10-02 | 4.59 | - | 205 | 398 |
 | 2023-10-03 | 4.59 | - | 205 | 400 |
-| 2023-10-05 | 4.59 | - | 207 | 404 |
+| 2023-10-05 | 4.59 | - | 207 | 405 |

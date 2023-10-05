@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1096,6 +1096,11 @@
       "Time": "2023-10-05T11:05:56.7533862+00:00",
       "NumProgressed": 437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T13:17:13.8696118+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1156,7 +1161,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_16",
@@ -1172,7 +1177,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_18",
@@ -1180,7 +1185,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_19",
@@ -1210,9 +1215,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_22",
@@ -1252,7 +1257,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_27",
@@ -1292,7 +1297,7 @@
       "Name": "Precision shot",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_31",
@@ -1300,7 +1305,7 @@
       "Name": "Scrap collector",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_32",
@@ -1308,7 +1313,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_33",
@@ -1316,7 +1321,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_34",
@@ -1324,7 +1329,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_35",
@@ -1332,23 +1337,23 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_38",
@@ -1372,23 +1377,23 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_42",
@@ -1412,7 +1417,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_45",
@@ -1420,7 +1425,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_46",
@@ -1460,7 +1465,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_50",
@@ -1468,7 +1473,7 @@
       "Name": "City in the Clouds",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_51",
@@ -1532,7 +1537,7 @@
       "Name": "Alternative solution",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_59",
@@ -1548,7 +1553,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_60",
@@ -1556,7 +1561,7 @@
       "Name": "What will you become?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_61",
@@ -1580,7 +1585,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_7",
@@ -1611,13 +1616,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 440,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 437,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
@@ -1625,8 +1630,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T12:05:55.8387251+00:00",
+  "LastChanged_Achievements": "2023-10-05T13:17:13.8696111+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T12:02:12.6027085+00:00",
-  "LastUpdate_Achievements": "2023-10-05T12:05:55.8388301+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:13:41.5856055+00:00",
+  "LastUpdate_Achievements": "2023-10-05T13:17:13.8696864+00:00"
 }

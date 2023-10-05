@@ -59,6 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
+| Mythology | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
@@ -208,7 +209,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.10% | ~14 |
 | Gnosticism | 0.10% | ~14 |
 | Legalism | 0.10% | ~14 |
-| Mythology | 0.10% | ~14 |
 | Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
 | Veneration | 0.10% | ~14 |
