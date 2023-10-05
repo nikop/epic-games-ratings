@@ -11,7 +11,7 @@ Number of Ratings: 94  (23.09.2022)
 | Nature or Nurture | 53.00% | ~303 |
 | Power Glove | 52.00% | ~297 |
 | Forgotten Memories | 50.00% | ~286 |
-| Cogs in the Machine | 44.00% | ~252 |
+| Cogs in the Machine | 45.00% | ~257 |
 | Mission Success | 29.00% | ~166 |
 | There's No Place Like Home | 27.00% | ~154 |
 | Green Cube Killer | 24.00% | ~137 |

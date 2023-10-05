@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1906,9 +1906,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 106
     },
     {
       "ID": "BearBroom",
@@ -2074,9 +2074,9 @@
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 111
     },
     {
       "ID": "HatFlower",
@@ -2257,8 +2257,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:18:02.9742736+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:06:53.5698884+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.4622609+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:12:22.9772354+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:18:02.9743242+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:01:07.4596636+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:06:53.5699266+00:00"
 }

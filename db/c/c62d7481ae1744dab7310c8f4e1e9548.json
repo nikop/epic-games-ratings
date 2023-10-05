@@ -481,17 +481,17 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Destilat",
@@ -529,9 +529,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Kamzik",
@@ -545,17 +545,17 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Kudla",
@@ -577,9 +577,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Myska",
@@ -593,17 +593,17 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Pejsek",
@@ -617,9 +617,9 @@
       "ID": "Poustevnik",
       "SetID": "ag48e8e",
       "Name": "Hermit Crabs",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Prstenec",
@@ -633,9 +633,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Sova",
@@ -649,25 +649,25 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Strom",
@@ -681,9 +681,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Truhlice",
@@ -705,17 +705,17 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:19:16.6422225+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:08:09.486882+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:12:06.8048326+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:19:16.6422473+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:00:51.5917425+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:08:09.4869022+00:00"
 }

@@ -10887,10 +10887,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259512,
       "NumberOfAwardsMax": 33450
+    },
+    {
+      "Time": "2023-10-05T13:59:34.6684293+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259539,
+      "NumberOfAwardsMax": 33450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259512,
+  "NumberOfAwards": 259539,
   "NumberOfAwardsMax": 33450,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10928,7 +10934,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29307
+      "Count": 29334
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10961,9 +10967,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 919962,
+  "EOS_Progressed": 920037,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13493,
+  "EOS_NewPlayers": 13508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30006,6 +30012,11 @@
       "Time": "2023-10-05T13:17:27.4806925+00:00",
       "NumProgressed": 919962,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T14:06:17.4325209+00:00",
+      "NumProgressed": 920037,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30911,9 +30922,9 @@
       "ID": "ACH_113",
       "SetID": "16jml5b",
       "Name": "Wounded Healer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_114",
@@ -31848,21 +31859,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 919962,
+      "Progressed": 920037,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 919962,
+      "Progressed": 920037,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-05T11:59:34.8110213+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:17:27.480692+00:00",
+  "LastChanged": "2023-10-05T13:59:34.6684292+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:06:17.4325204+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:10:53.3480195+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:17:27.4814212+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:59:34.6684299+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:06:17.4330999+00:00"
 }

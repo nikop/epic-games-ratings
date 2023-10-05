@@ -10,6 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 0.40% | ~601 |
 | The Hunt | 0.30% | ~451 |
 | Weeper | 0.30% | ~451 |
+| Ravenous | 0.30% | ~451 |
 | Scion | 0.20% | ~300 |
 | Harmless | 0.20% | ~301 |
 | Jawcrab | 0.20% | ~301 |
@@ -20,7 +21,6 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 0.20% | ~301 |
 | Yank | 0.20% | ~301 |
 | Sharpened Vessel | 0.20% | ~301 |
-| Ravenous | 0.20% | ~301 |
 | Spiral Heart | 0.10% | ~150 |
 | Bloodhunter | 0.10% | ~150 |
 | Skinmaker | 0.10% | ~150 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,348 (Ranked 69)  
+Progressed: 150,361 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 149,650 | 1 |
 | 2023-10-03 | 149,903 | 1 |
 | 2023-10-04 | 150,205 | 1 |
-| 2023-10-05 | 150,348 | 1 |
+| 2023-10-05 | 150,361 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
-Sum: 267 (Ranked 360)  
+Sum: 268 (Ranked 360)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -210,8 +210,8 @@ Diff (max vs sum): 71
 | This game has Quickly Understood Controls | 38 |
 | This game has Challenging Combat | 33 |
 | This game is Extremely Fun | 31 |
+| This game has Amazing Storytelling | 31 |
 | This game has a Creative Community | 30 |
-| This game has Amazing Storytelling | 30 |
 | This game has Amazing Characters | 24 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -321,3 +321,4 @@ Diff (max vs sum): 71
 | 2023-10-02 | 4.59 | - | 41 | 260 |
 | 2023-10-03 | 4.59 | - | 42 | 264 |
 | 2023-10-04 | 4.59 | - | 42 | 267 |
+| 2023-10-05 | 4.59 | - | 42 | 268 |

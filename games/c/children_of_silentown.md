@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 91.00% | ~183 |
+| Lucky charm | 92.00% | ~185 |
 | Trumpet | 90.00% | ~181 |
 | Spyglass | 85.00% | ~171 |
 | Broken toy | 78.00% | ~157 |

@@ -418,9 +418,9 @@
       "ID": "Canttouchthis",
       "SetID": "1jeo1g7",
       "Name": "Can\u0027t touch this",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CriticalTwist",
@@ -554,9 +554,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MechanicIntegration",
@@ -698,9 +698,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SixSidedMastery",
@@ -826,9 +826,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UnepicHero",
@@ -962,9 +962,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LacertianHero",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:20:05.3797242+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:09:09.1315389+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:13:34.0838938+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:20:05.3798376+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:02:27.3890806+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:09:09.1316248+00:00"
 }

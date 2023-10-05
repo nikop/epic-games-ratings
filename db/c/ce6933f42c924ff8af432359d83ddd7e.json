@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 4.28,
+  "EOS_Completed_Percentage": 4.27,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -696,6 +696,11 @@
       "Time": "2023-10-05T13:20:03.2570786+00:00",
       "NumProgressed": 327,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-05T14:09:07.1949779+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -708,7 +713,7 @@
       "Name": "Time traveller",
       "Percentage": 24,
       "XP": 140,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_CUBES",
@@ -738,9 +743,9 @@
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 185,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_PENTAGRAM",
@@ -756,7 +761,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -787,14 +792,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:20:03.2570781+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:09:07.1949773+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:11:58.0437402+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:20:03.2570917+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:00:44.2595504+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:09:07.1949889+00:00"
 }

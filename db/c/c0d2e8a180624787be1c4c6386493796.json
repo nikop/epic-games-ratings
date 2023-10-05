@@ -145,9 +145,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -217,9 +217,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -329,9 +329,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -417,9 +417,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -497,9 +497,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -585,9 +585,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -704,8 +704,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:15:33.8747025+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:04:06.9768087+00:00",
   "LastUpdate_AppInfo": "2023-09-28T13:57:20.0199081+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:11:01.8857577+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:15:33.8747865+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:59:46.4205254+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:04:06.9768757+00:00"
 }

@@ -1092,9 +1092,9 @@
       "ID": "PlayedFor1DayAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Colonel",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PlayedFor1HourAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:19:43.0254393+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:08:36.3981255+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.3692726+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:09:20.8041648+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:19:43.0256555+00:00"
+  "LastUpdate_Ratings": "2023-10-05T13:57:56.4631109+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:08:36.3982825+00:00"
 }

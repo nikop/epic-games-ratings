@@ -518,9 +518,9 @@
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "Trumpet",
@@ -559,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:20:09.176989+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:09:13.0963569+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:50.6331321+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:11:32.9096842+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:20:09.1770084+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:00:18.6428877+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:09:13.0963736+00:00"
 }

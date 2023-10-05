@@ -10,33 +10,33 @@
 | Sanctuary Guardian | 10.00% | ~4 |
 | Stellar Dismantler | 10.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
+| Loyal Partner | 7.00% | ~3 |
 | Mechanical Buddy | 7.00% | ~3 |
 | Mind Illuminator | 7.00% | ~3 |
 | Purification Pioneer | 7.00% | ~3 |
+| Unbeatable | 7.00% | ~3 |
+| Lacertian Champion | 7.00% | ~3 |
+| Can't touch this | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
-| Loyal Partner | 5.00% | ~2 |
 | Meissa's Savior | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
+| Shard Spender | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
-| Unbeatable | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
-| Lacertian Champion | 5.00% | ~2 |
 | Noctuan Champion | 5.00% | ~2 |
 | Anomaly Control | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
 | Astrarium of Holding | 2.00% | ~1 |
-| Can't touch this | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Heart Gate | 2.00% | ~1 |
 | Heavy Purger | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
-| Shard Spender | 2.00% | ~1 |
 | Star Killer | 2.00% | ~1 |
 | The Corruption Goddess | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |

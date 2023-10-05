@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 253,
@@ -2556,9 +2556,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 324
     },
     {
       "ID": "MQ03_3",
@@ -2733,8 +2733,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-05T13:19:17.995921+00:00",
+  "LastChanged_Achievements": "2023-10-05T14:08:10.8001081+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:59.6031612+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:12:04.1156968+00:00",
-  "LastUpdate_Achievements": "2023-10-05T13:19:17.9959545+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:00:48.9173211+00:00",
+  "LastUpdate_Achievements": "2023-10-05T14:08:10.8001344+00:00"
 }

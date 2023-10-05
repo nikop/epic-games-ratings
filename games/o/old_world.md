@@ -10,18 +10,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.60% | ~86 |
 | Play a Single Player Game | 0.60% | ~86 |
 | Friendly Family | 0.50% | ~72 |
+| Good | 0.40% | ~57 |
 | Intrepid | 0.40% | ~57 |
 | Learned | 0.40% | ~57 |
+| Noble | 0.40% | ~57 |
 | Hanging Gardens | 0.40% | ~57 |
 | Able | 0.30% | ~43 |
 | Ambitious | 0.30% | ~43 |
 | Architect | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
-| Good | 0.30% | ~43 |
 | Just | 0.30% | ~43 |
 | Mason | 0.30% | ~43 |
-| Noble | 0.30% | ~43 |
 | Pioneer | 0.30% | ~43 |
 | Strong | 0.30% | ~43 |
 | Wise | 0.30% | ~43 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,362 (Ranked 133)  
+Progressed: 14,364 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,362 | 5 |
+| 2023-10-05 | 14,364 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

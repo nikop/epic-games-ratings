@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 522)  
+Rating: 4.53 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,8 +36,8 @@ Rating: 4.53 (Ranked 522)
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,578 (Ranked 134)  
-Completed: 6 (0.04%) (Ranked 270)  
+Progressed: 13,579 (Ranked 134)  
+Completed: 7 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 6 (0.04%) (Ranked 270)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,578 | 6 |
+| 2023-10-05 | 13,579 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

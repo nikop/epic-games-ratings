@@ -26,10 +26,10 @@ Number of Ratings: 209  (23.09.2022)
 | Boomeraxe | 87.00% | ~1,966 |
 | Iron Pickaxe | 87.00% | ~1,966 |
 | Banking District | 86.00% | ~1,944 |
+| Arrested | 86.00% | ~1,944 |
 | Zappy Gun | 86.00% | ~1,944 |
+| Got your own one now | 86.00% | ~1,944 |
 | Mission Unlikely | 86.00% | ~1,944 |
-| Arrested | 85.00% | ~1,921 |
-| Got your own one now | 85.00% | ~1,921 |
 | Don't draw dicks pls | 85.00% | ~1,921 |
 | Ripped | 85.00% | ~1,921 |
 | Beat the big arena | 83.00% | ~1,876 |

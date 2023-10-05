@@ -88,6 +88,7 @@
 | Golden Tovarish | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
+| Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
@@ -126,7 +127,6 @@
 | Usurper IV | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
-| Galactic Colonel | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
