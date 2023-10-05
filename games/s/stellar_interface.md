@@ -86,6 +86,7 @@
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
 | Golden Tovarish | 2.00% | ~1 |
+| Archer's Golden Fate | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
@@ -93,6 +94,7 @@
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
+| Collateral Damage IV | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
@@ -117,7 +119,6 @@
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
-| Archer's Golden Fate | 0.00% | ~0 |
 | Magic Golden mirror; on the wall | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
@@ -131,7 +132,6 @@
 | Universal Captain | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
-| Collateral Damage IV | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit IV | 0.00% | ~0 |

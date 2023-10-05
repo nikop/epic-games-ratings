@@ -39,8 +39,8 @@
 | Boutique Benefits | 14.00% | ~48 |
 | Terrifically Trashed | 13.00% | ~44 |
 | Thrilled Tenants | 13.00% | ~44 |
+| Swimming in Surplus | 12.00% | ~41 |
 | 28 Days Later | 11.00% | ~38 |
-| Swimming in Surplus | 11.00% | ~38 |
 | Aestheticly Pleased | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |

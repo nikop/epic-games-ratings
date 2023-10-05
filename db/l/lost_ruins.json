@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -920,9 +920,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 171
     },
     {
       "ID": "Librarian",
@@ -1000,9 +1000,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "Roughneck",
@@ -1129,8 +1129,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:06:10.1652058+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:38.4566488+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:22.976986+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:59:35.069137+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:06:10.1652354+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:59:56.261018+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:38.4566877+00:00"
 }

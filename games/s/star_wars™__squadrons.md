@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~6,525 |
-| A Better Idea | 25.00% | ~1,717 |
-| Safety in the Storm | 24.00% | ~1,648 |
-| Begin the Ceremony | 21.00% | ~1,442 |
-| Mission Accomplished | 20.00% | ~1,374 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,030 |
-| A Starfighter of Your Own | 14.00% | ~962 |
-| Asset Secured | 13.00% | ~893 |
-| Unkillable | 8.00% | ~549 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~481 |
-| Sound Strategy | 7.00% | ~481 |
-| Together, Vanguard | 7.00% | ~481 |
-| Stomped | 6.00% | ~412 |
-| Great Shot, Kid | 5.00% | ~343 |
-| Fearless | 5.00% | ~343 |
-| Back From the Brink | 5.00% | ~343 |
-| Flames Over Mon Cala | 5.00% | ~343 |
-| A Promising Career | 5.00% | ~343 |
+| Fracture at Fostar Haven | 95.00% | ~6,538 |
+| A Better Idea | 25.00% | ~1,720 |
+| Safety in the Storm | 24.00% | ~1,652 |
+| Begin the Ceremony | 21.00% | ~1,445 |
+| Mission Accomplished | 20.00% | ~1,376 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,032 |
+| A Starfighter of Your Own | 14.00% | ~963 |
+| Asset Secured | 13.00% | ~895 |
+| Unkillable | 8.00% | ~551 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~482 |
+| Sound Strategy | 7.00% | ~482 |
+| Together, Vanguard | 7.00% | ~482 |
+| Stomped | 6.00% | ~413 |
+| Great Shot, Kid | 5.00% | ~344 |
+| Fearless | 5.00% | ~344 |
+| Back From the Brink | 5.00% | ~344 |
+| Flames Over Mon Cala | 5.00% | ~344 |
+| A Promising Career | 5.00% | ~344 |
 | Temporary Guardian | 4.00% | ~275 |
 | Baited | 4.00% | ~275 |
 | Stronger Together | 3.00% | ~206 |
@@ -29,7 +29,7 @@
 | Squadron Hunter | 3.00% | ~206 |
 | Punch It | 3.00% | ~206 |
 | Combat Pilot | 3.00% | ~206 |
-| Dressed for the Job You Want | 2.00% | ~137 |
+| Dressed for the Job You Want | 2.00% | ~138 |
 | Found Your Place | 1.00% | ~69 |
 | I Have You Now | 1.00% | ~69 |
 | Denied | 1.00% | ~69 |
@@ -43,7 +43,7 @@
 | Heavy Hitter | 0.50% | ~34 |
 | The Galaxy's Finest (Veteran) | 0.50% | ~34 |
 | Across the Stars | 0.50% | ~34 |
-| Victory for the Empire | 0.40% | ~27 |
+| Victory for the Empire | 0.40% | ~28 |
 | I Know a Few Maneuvers | 0.30% | ~21 |
 | Shallow Grave | 0.30% | ~21 |
 | Ultimate Weapon | 0.30% | ~21 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~7 |
 | The Galaxy's Finest (Ace) | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,868 (Ranked 157)  
+Progressed: 6,882 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 6,051 | 0 |
 | 2023-10-03 | 6,410 | 0 |
 | 2023-10-04 | 6,703 | 0 |
-| 2023-10-05 | 6,868 | 0 |
+| 2023-10-05 | 6,882 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -76,11 +76,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.86,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2491,6 +2491,11 @@
       "Time": "2023-10-05T02:25:30.0134434+00:00",
       "NumProgressed": 674,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-05T15:08:52.4481806+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2502,7 +2507,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "MQ01_2",
@@ -2510,7 +2515,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "MQ02_1",
@@ -2526,7 +2531,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ02_3",
@@ -2542,7 +2547,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "MQ03_1",
@@ -2566,7 +2571,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MQ03_4",
@@ -2606,7 +2611,7 @@
       "Name": "The New World",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MQ05_1",
@@ -2614,7 +2619,7 @@
       "Name": "Open Sesame",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ05_2",
@@ -2630,7 +2635,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ05_4",
@@ -2638,7 +2643,7 @@
       "Name": "Knives Out",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ06_1",
@@ -2654,7 +2659,7 @@
       "Name": "Bookworm",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MQ06_3",
@@ -2662,7 +2667,7 @@
       "Name": "Land, Ho!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MQ06_4",
@@ -2702,15 +2707,15 @@
       "Name": "Up In Flames",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 304
     },
     {
       "ID": "PLTN",
@@ -2725,7 +2730,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 26
     }
   ],
@@ -2733,8 +2738,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:08:10.8001081+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:08:52.44818+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:59.6031612+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:00:48.9173211+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:08:10.8001344+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:01:17.948678+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:08:52.4482278+00:00"
 }

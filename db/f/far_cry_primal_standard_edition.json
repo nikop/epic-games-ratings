@@ -4,10 +4,10 @@
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 204,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -1076,18 +1076,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 461,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-10-05T14:58:30.3623348+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 464,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 461,
-  "NumberOfAwardsMax": 412,
+  "NumberOfAwards": 464,
+  "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 412
+      "Count": 415
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1119,8 +1125,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-10-03T22:02:33.2574465+00:00",
+  "LastChanged": "2023-10-05T14:58:30.3623346+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:33.977038+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:58:11.5386545+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:06:21.1145556+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:58:30.3623354+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:50.2302493+00:00"
 }

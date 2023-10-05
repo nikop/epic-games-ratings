@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -796,9 +796,9 @@
       "ID": "GoldGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Golden Fate",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldHoberMallowBossDefeatedAchievement",
@@ -1276,9 +1276,9 @@
       "ID": "VisitLostLord100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage IV",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisitLostLord10TimeAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:08:36.3981255+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:09:20.1343218+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.3692726+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:57:56.4631109+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:08:36.3982825+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:58:14.8476811+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:09:20.1345825+00:00"
 }

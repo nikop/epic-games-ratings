@@ -640,7 +640,7 @@
   ],
   "EOS_Progressed": 779,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2313,9 +2313,9 @@
       "ID": "achievement_14",
       "SetID": "222fo9l",
       "Name": "Whole Again",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_15",
@@ -2369,9 +2369,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_21",
@@ -2529,9 +2529,9 @@
       "ID": "achievement_39",
       "SetID": "222fo9l",
       "Name": "Z-Baller",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_4",
@@ -2658,8 +2658,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:03:26.889037+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:03:48.6897115+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:00:22.5041823+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:03:26.8890779+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:00:47.3223207+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:03:48.6897687+00:00"
 }

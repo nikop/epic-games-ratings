@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2936,
+  "EOS_Progressed": 2937,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2149,6 +2149,11 @@
       "Time": "2023-10-05T14:03:18.6207758+00:00",
       "NumProgressed": 2936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T15:03:39.7834619+00:00",
+      "NumProgressed": 2937,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2169,7 +2174,7 @@
       "Name": "Gathering Dust",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_0003",
@@ -2209,7 +2214,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_0008",
@@ -2217,7 +2222,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "achievement_0009",
@@ -2257,7 +2262,7 @@
       "Name": "Oil and Water",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_0014",
@@ -2321,7 +2326,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "achievement_0022",
@@ -2505,7 +2510,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "achievement_0045",
@@ -2552,7 +2557,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2936,
+      "Progressed": 2937,
       "Completed": 0
     }
   ],
@@ -2560,8 +2565,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:03:18.6207754+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:03:39.7834613+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:01:29.668723+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:03:18.6208205+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:02:03.9964664+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:03:39.7835144+00:00"
 }

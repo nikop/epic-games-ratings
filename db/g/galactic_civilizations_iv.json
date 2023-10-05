@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6761,
+  "EOS_Progressed": 6762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6682,6 +6682,11 @@
       "Time": "2023-10-05T13:16:49.2934965+00:00",
       "NumProgressed": 6761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T15:06:03.9979955+00:00",
+      "NumProgressed": 6762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6797,7 +6802,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "First_Race_Met",
@@ -6885,7 +6890,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Level_5_Ship",
@@ -7181,7 +7186,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7268,15 +7273,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6761,
+      "Progressed": 6762,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:05:37.5112092+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:03.9979946+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:02:14.3278304+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:05:37.5112951+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:02:51.0084575+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:03.9981198+00:00"
 }

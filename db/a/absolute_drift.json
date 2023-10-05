@@ -2,11 +2,11 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 7,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543552,
+  "EOS_Progressed": 1543558,
   "EOS_Completed": 699,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19404,6 +19404,11 @@
       "Time": "2023-10-05T14:04:17.5677775+00:00",
       "NumProgressed": 1543552,
       "NumCompleted": 699
+    },
+    {
+      "Time": "2023-10-05T15:04:52.3347115+00:00",
+      "NumProgressed": 1543558,
+      "NumCompleted": 699
     }
   ],
   "TotalAchievements": 20,
@@ -19511,7 +19516,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154355
+      "UsersEstimate": 154356
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -19574,15 +19579,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1543552,
+      "Progressed": 1543558,
       "Completed": 699
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:04:17.567777+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:04:52.3347108+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:39.8553991+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:59:05.4045399+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:04:17.5678774+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:59:25.1430305+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:04:52.3348615+00:00"
 }

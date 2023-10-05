@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "ID": "achievement_106",
       "SetID": "d252ncf",
       "Name": "Pyromaniac",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_107",
@@ -1284,9 +1284,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_111",
@@ -1372,9 +1372,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_121",
@@ -1516,9 +1516,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_23",
@@ -1868,9 +1868,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_63",
@@ -2004,9 +2004,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_79",
@@ -2156,9 +2156,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_96",
@@ -2208,8 +2208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:05:34.1291003+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:00.4174425+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:00:53.5742412+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:05:34.1292798+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:01:23.2448206+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:00.4176611+00:00"
 }

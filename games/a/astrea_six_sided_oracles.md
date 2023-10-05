@@ -25,6 +25,7 @@
 | Shard Spender | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
+| Apian Champion | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
 | Noctuan Champion | 5.00% | ~2 |
 | Anomaly Control | 2.00% | ~1 |
@@ -41,7 +42,6 @@
 | The Corruption Goddess | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Wave Bender | 2.00% | ~1 |
-| Apian Champion | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |

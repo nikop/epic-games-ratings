@@ -7120,9 +7120,9 @@
       "Count": 3458
     }
   ],
-  "EOS_Progressed": 230962,
+  "EOS_Progressed": 230965,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25820,6 +25820,11 @@
       "Time": "2023-10-05T14:07:43.1514047+00:00",
       "NumProgressed": 230962,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T15:08:23.5542486+00:00",
+      "NumProgressed": 230965,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -27565,9 +27570,9 @@
       "ID": "objective_completed_381",
       "SetID": "415jc5c",
       "Name": "Red Wizard \u0027Escort\u0027",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_383",
@@ -30054,21 +30059,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197236,
+      "Progressed": 197239,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230962,
+      "Progressed": 230965,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-05T13:13:38.3731843+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:07:43.151404+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:08:23.554248+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:02:31.4010878+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:07:43.1539148+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:03:11.6161797+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:08:23.5577915+00:00"
 }

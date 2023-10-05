@@ -14,21 +14,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.40% | ~57 |
 | Learned | 0.40% | ~57 |
 | Noble | 0.40% | ~57 |
+| Pioneer | 0.40% | ~57 |
+| Strong | 0.40% | ~57 |
 | Hanging Gardens | 0.40% | ~57 |
+| Kushite Paganism | 0.40% | ~57 |
 | Able | 0.30% | ~43 |
 | Ambitious | 0.30% | ~43 |
 | Architect | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
 | Just | 0.30% | ~43 |
+| Keystone | 0.30% | ~43 |
+| Magnificent | 0.30% | ~43 |
 | Mason | 0.30% | ~43 |
-| Pioneer | 0.30% | ~43 |
-| Strong | 0.30% | ~43 |
+| Warrior | 0.30% | ~43 |
 | Wise | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
 | Pyramids | 0.30% | ~43 |
+| Christianity | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
@@ -36,34 +41,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Trade Caravan | 0.30% | ~43 |
-| Kushite Paganism | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
+| Hanging Gardens in Babylon | 0.20% | ~29 |
 | Brilliant | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Great | 0.20% | ~29 |
-| Keystone | 0.20% | ~29 |
-| Magnificent | 0.20% | ~29 |
-| Warrior | 0.20% | ~29 |
+| Intercessor | 0.20% | ~29 |
 | Developing Cities | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
 | Furious Family | 0.20% | ~29 |
+| Acropolis | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
+| Colossus | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
+| Mausoleum | 0.20% | ~29 |
 | Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
-| Christianity | 0.20% | ~29 |
+| Learn to Play 3 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
+| Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
+| Alliance Victory | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
-| Hanging Gardens in Babylon | 0.10% | ~14 |
+| Acropolis in Athenai | 0.10% | ~14 |
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
 | United Against The Horde | 0.10% | ~14 |
@@ -94,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
-| Intercessor | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Mighty | 0.10% | ~14 |
@@ -155,20 +162,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~14 |
 | A Tyresome Siege | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
-| Acropolis | 0.10% | ~14 |
 | Circus Maximus | 0.10% | ~14 |
-| Colossus | 0.10% | ~14 |
 | Hagia Sophia | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
-| Mausoleum | 0.10% | ~14 |
 | Pantheon | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
-| Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
 | Macedonian Wars | 0.10% | ~14 |
@@ -285,15 +288,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Greatest Pharaoh! | 0.10% | ~14 |
 | Pharaonic History Repeats | 0.10% | ~14 |
 | Egypt Campaign | 0.10% | ~14 |
-| Kushite Pyramids | 0.10% | ~14 |
 | Kush | 0.10% | ~14 |
 | Beja Archer | 0.10% | ~14 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
-| Alliance Victory | 0.00% | ~0 |
-| Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,364 (Ranked 133)  
+Progressed: 14,367 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,364 | 5 |
+| 2023-10-05 | 14,367 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18280,
+  "EOS_Progressed": 18281,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11181,6 +11181,11 @@
       "Time": "2023-10-05T10:03:53.369969+00:00",
       "NumProgressed": 18280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-05T15:04:18.6370545+00:00",
+      "NumProgressed": 18281,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11248,7 +11253,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "0009",
@@ -11408,7 +11413,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "0029",
@@ -11416,7 +11421,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "0030",
@@ -11424,7 +11429,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "0031",
@@ -11479,7 +11484,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18280,
+      "Progressed": 18281,
       "Completed": 4
     }
   ],
@@ -11487,8 +11492,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:03:45.434877+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:04:18.6370537+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:59:31.103945+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:03:45.4349686+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:59:52.7793289+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:04:18.6372605+00:00"
 }

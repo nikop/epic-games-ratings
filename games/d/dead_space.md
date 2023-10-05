@@ -11,7 +11,7 @@ Rating: 4.61 (Ranked 371)
 | All Systems Go | 66.00% | ~514 |
 | Brute Force | 65.00% | ~506 |
 | Cannon Fodder | 62.00% | ~483 |
-| Autofire | 59.00% | ~460 |
+| Autofire | 60.00% | ~467 |
 | Story Teller | 56.00% | ~436 |
 | Raise the Stakes | 56.00% | ~436 |
 | True Believer | 56.00% | ~436 |
@@ -33,14 +33,14 @@ Rating: 4.61 (Ranked 371)
 | Legend Teller | 33.00% | ~257 |
 | Mindless Prey | 33.00% | ~257 |
 | Front Toward Enemy | 32.00% | ~249 |
-| Whole Again | 26.00% | ~203 |
+| Whole Again | 27.00% | ~210 |
 | Set A Benchmark | 26.00% | ~203 |
 | Final Regeneration | 23.00% | ~179 |
 | Full Contact | 23.00% | ~179 |
 | Pack Rat | 23.00% | ~179 |
 | Pusher | 22.00% | ~171 |
 | Full Clearance | 22.00% | ~171 |
-| Z-Baller | 20.00% | ~156 |
+| Z-Baller | 21.00% | ~164 |
 | Eviscerator | 18.00% | ~140 |
 | Marked | 18.00% | ~140 |
 | Backbreaker | 13.00% | ~101 |

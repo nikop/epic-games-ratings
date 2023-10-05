@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -25,9 +25,227 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "6bgoh8g",
+      "Name": "A mystery? No! A trifle for Poirot!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "6bgoh8g",
+      "Name": "Masquerade",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "6bgoh8g",
+      "Name": "Final questions",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "6bgoh8g",
+      "Name": "Time to rob a bank!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "6bgoh8g",
+      "Name": "A leap of faith to be sure!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "6bgoh8g",
+      "Name": "End of the line, everyone disembark",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "6bgoh8g",
+      "Name": "My little grey cells did not let me down!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "6bgoh8g",
+      "Name": "Catch\u0027em all!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "6bgoh8g",
+      "Name": "Master Chess",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "6bgoh8g",
+      "Name": "A human lie detector!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "6bgoh8g",
+      "Name": "I am speed",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "6bgoh8g",
+      "Name": "I do not like your face, Mr Ratchett",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "6bgoh8g",
+      "Name": "The world\u0027s greatest detective",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "6bgoh8g",
+      "Name": "The world\u0027s greatest detectives",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "6bgoh8g",
+      "Name": "I know kung fu",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "6bgoh8g",
+      "Name": "He is the doctor you\u0027re looking for",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "6bgoh8g",
+      "Name": "Just like a police lineup",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "6bgoh8g",
+      "Name": "Cheater!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "6bgoh8g",
+      "Name": "The only useful pigeon is a stool pigeon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "6bgoh8g",
+      "Name": "Dessert Connoisseur!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "6bgoh8g",
+      "Name": "It was not in the book",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "6bgoh8g",
+      "Name": "A simple mistake leads to grave consequences",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "6bgoh8g",
+      "Name": "The power of observation",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "6bgoh8g",
+      "Name": "A true detective",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "6bgoh8g",
+      "Name": "It\u0027s all coming together",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "6bgoh8g",
+      "Name": "You\u0027re probably wondering how I got here...",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "6bgoh8g",
+      "Name": "Encore!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
@@ -37,8 +255,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:05:47.4825262+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:14.3136091+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.1525743+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:01:13.6967159+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:05:47.4825298+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:01:46.439649+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:14.3693898+00:00"
 }

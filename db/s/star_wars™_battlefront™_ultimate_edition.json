@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-10-05T13:17:13.8696118+00:00",
       "NumProgressed": 440,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T15:06:31.3378476+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1209,7 +1214,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_21",
@@ -1247,9 +1252,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_26",
@@ -1337,7 +1342,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_36",
@@ -1351,9 +1356,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_38",
@@ -1367,9 +1372,9 @@
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_4",
@@ -1385,7 +1390,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_41",
@@ -1591,9 +1596,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_8",
@@ -1616,13 +1621,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 1
     }
   ],
@@ -1630,8 +1635,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:06:03.5880975+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:31.3378469+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:02:35.0271274+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:06:03.5881601+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:03:15.8724991+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:31.3379491+00:00"
 }

@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6884,
+  "EOS_Progressed": 6887,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
@@ -3448,6 +3448,11 @@
       "Time": "2023-10-05T14:08:45.3374009+00:00",
       "NumProgressed": 6884,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T15:09:29.9479156+00:00",
+      "NumProgressed": 6887,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3508,7 +3513,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "CreditsSpent50000",
@@ -3572,7 +3577,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "GamesPlayed1",
@@ -3580,7 +3585,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "GamesPlayed10",
@@ -3604,7 +3609,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "GamesWon10",
@@ -3676,7 +3681,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "HSUPurchased1",
@@ -3724,7 +3729,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "InhibitorKills3",
@@ -3892,7 +3897,7 @@
       "Name": "10 Eliminations",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "PlayerKills100",
@@ -4051,7 +4056,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6884,
+      "Progressed": 6887,
       "Completed": 1
     }
   ],
@@ -4059,8 +4064,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:08:45.3374001+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:09:29.9479149+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-05T14:01:01.3298392+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:08:45.3374789+00:00"
+  "LastUpdate_Ratings": "2023-10-05T15:01:31.0587291+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:09:29.9480173+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.40% | ~3,680 |
-| It wakes | 0.40% | ~3,680 |
-| Skillful | 0.40% | ~3,680 |
+| Zealous | 0.40% | ~3,681 |
+| It wakes | 0.40% | ~3,681 |
+| Skillful | 0.40% | ~3,681 |
 | Handyman | 0.30% | ~2,760 |
 | Not half bad | 0.30% | ~2,760 |
 | Apt Survivor | 0.30% | ~2,760 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,037 (Ranked 14)  
+Progressed: 920,136 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,10 +404,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 920,037 | 49 |
+| 2023-10-05 | 920,136 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,539 (Ranked 13)  
+Sum: 259,574 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -415,7 +415,7 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 29,661 |
 | This game has Competitive Players | 29,373 |
 | This game has Amazing Characters | 29,334 |
-| This game is Extremely Fun | 28,962 |
+| This game is Extremely Fun | 28,997 |
 | This game has Challenging Combat | 28,569 |
 | This game has Quickly Understood Controls | 28,503 |
 | This game has Amazing Storytelling | 26,584 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
-| 2023-10-05 | 4.52 | - | 33,450 | 259,539 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,574 |

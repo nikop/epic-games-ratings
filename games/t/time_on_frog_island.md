@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shipwrecked! | 73.00% | ~8 |
-| Sea Legs | 55.00% | ~6 |
+| Sea Legs | 64.00% | ~7 |
 | Frogs Legs | 18.00% | ~2 |
 | What?! | 18.00% | ~2 |
 | Hoist the Sails | 18.00% | ~2 |
@@ -40,7 +40,7 @@
 | Hands on the Helm | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 513)  
+Progressed: 11 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |

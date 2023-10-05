@@ -10893,10 +10893,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259539,
       "NumberOfAwardsMax": 33450
+    },
+    {
+      "Time": "2023-10-05T14:59:55.8722894+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259574,
+      "NumberOfAwardsMax": 33450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259539,
+  "NumberOfAwards": 259574,
   "NumberOfAwardsMax": 33450,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10928,7 +10934,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28962
+      "Count": 28997
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10967,9 +10973,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 920037,
+  "EOS_Progressed": 920136,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13508,
+  "EOS_NewPlayers": 13519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30017,6 +30023,11 @@
       "Time": "2023-10-05T14:06:17.4325209+00:00",
       "NumProgressed": 920037,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T15:06:46.5114189+00:00",
+      "NumProgressed": 920136,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30196,7 +30207,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "ACH_023",
@@ -30204,7 +30215,7 @@
       "Name": "It wakes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "ACH_024",
@@ -30332,7 +30343,7 @@
       "Name": "Skillful",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "ACH_040",
@@ -31859,21 +31870,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 920037,
+      "Progressed": 920136,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 920037,
+      "Progressed": 920136,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-05T13:59:34.6684292+00:00",
-  "LastChanged_Achievements": "2023-10-05T14:06:17.4325204+00:00",
+  "LastChanged": "2023-10-05T14:59:55.8722892+00:00",
+  "LastChanged_Achievements": "2023-10-05T15:06:46.5114182+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-05T13:59:34.6684299+00:00",
-  "LastUpdate_Achievements": "2023-10-05T14:06:17.4330999+00:00"
+  "LastUpdate_Ratings": "2023-10-05T14:59:55.8722899+00:00",
+  "LastUpdate_Achievements": "2023-10-05T15:06:46.5121004+00:00"
 }

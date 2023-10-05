@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~396 |
-| Off to a good start | 66.00% | ~290 |
-| Do... or do not. There is no try | 51.00% | ~224 |
+| New Recruit | 90.00% | ~397 |
+| Off to a good start | 67.00% | ~295 |
+| Do... or do not. There is no try | 51.00% | ~225 |
 | A good blaster at your side | 34.00% | ~150 |
 | Scrap collector | 22.00% | ~97 |
 | All right, I'll give it a try | 19.00% | ~84 |
@@ -15,18 +15,18 @@
 | The power of the Force | 17.00% | ~75 |
 | Together we can rule the galaxy | 17.00% | ~75 |
 | Shoot first | 17.00% | ~75 |
-| Collector | 16.00% | ~70 |
+| Collector | 16.00% | ~71 |
 | Survivor | 13.00% | ~57 |
 | Tell Jabba that I've got his money | 12.00% | ~53 |
 | Best star-pilot in the galaxy | 12.00% | ~53 |
+| A cunning warrior | 11.00% | ~49 |
 | What's the cargo? | 10.00% | ~44 |
 | Never tell me the odds! | 10.00% | ~44 |
 | Impressive. Most impressive. | 10.00% | ~44 |
 | Judge me by my size, do you? | 10.00% | ~44 |
-| A cunning warrior | 10.00% | ~44 |
 | "Gonk? Gonk!" | 9.00% | ~40 |
+| A tremor in the Force | 9.00% | ~40 |
 | Distinguished | 8.00% | ~35 |
-| A tremor in the Force | 8.00% | ~35 |
 | Support the troops | 8.00% | ~35 |
 | On the ball | 6.00% | ~26 |
 | Not bad for a little furball | 6.00% | ~26 |
@@ -46,9 +46,9 @@
 | What will you become? | 4.00% | ~18 |
 | Disturbed tranquility | 4.00% | ~18 |
 | Playing the objective | 3.00% | ~13 |
-| Ackbar's Elite | 3.00% | ~13 |
 | The circle is now complete | 3.00% | ~13 |
 | Hold the line! | 2.00% | ~9 |
+| Ackbar's Elite | 2.00% | ~9 |
 | No such thing as luck | 2.00% | ~9 |
 | Do we take prisoners? | 2.00% | ~9 |
 | You have your moments | 2.00% | ~9 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 277)  
+Progressed: 441 (Ranked 277)  
 Completed: 1 (0.23%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 211)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 440 | 1 |
+| 2023-10-05 | 441 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
