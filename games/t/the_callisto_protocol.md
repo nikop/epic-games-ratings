@@ -36,7 +36,7 @@ Rating: 4.19 (Ranked 887)
 | Big Spender | 0.70% | ~27 |
 | Information Overload | 0.70% | ~27 |
 | Grim Reaper | 0.60% | ~96 |
-| Parole Denied | 0.60% | ~23 |
+| Parole Denied | 0.60% | ~24 |
 | Quick Pick | 0.50% | ~20 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 887)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,990 (Ranked 132)  
+Progressed: 15,991 (Ranked 132)  
 Completed: 74 (0.46%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,15 +215,15 @@ Completed: 74 (0.46%) (Ranked 170)
 | 2023-10-02 | 15,981 | 73 |
 | 2023-10-03 | 15,984 | 74 |
 | 2023-10-04 | 15,986 | 74 |
-| 2023-10-05 | 15,990 | 74 |
+| 2023-10-05 | 15,991 | 74 |
 ## Awards
-Max (Amazing Storytelling): 74  (Ranked 379)  
-Sum: 436 (Ranked 322)  
-Diff (max vs sum): 57  
+Max (Highly Recommended): 74  (Ranked 379)  
+Sum: 437 (Ranked 321)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 74 |
 | This game has Amazing Storytelling | 74 |
-| This game is Highly Recommended | 73 |
 | This game has Amazing Characters | 73 |
 | This game has Quickly Understood Controls | 71 |
 | This game is Extremely Fun | 64 |
@@ -363,3 +363,4 @@ Diff (max vs sum): 57
 | 2023-09-30 | 4.19 | 74 | 431 |
 | 2023-10-02 | 4.19 | 74 | 433 |
 | 2023-10-04 | 4.19 | 74 | 436 |
+| 2023-10-05 | 4.19 | 74 | 437 |

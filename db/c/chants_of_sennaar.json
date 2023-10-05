@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7,
+  "EOS_Completed_Percentage": 6.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1147,6 +1147,11 @@
       "Time": "2023-10-04T17:05:00.7977313+00:00",
       "NumProgressed": 243,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-05T22:05:30.4210055+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1300,9 +1305,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1357,14 +1362,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:05:40.916403+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:05:30.4210047+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:58:08.7221654+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:05:40.9164238+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:58:13.3102808+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:05:30.4210321+00:00"
 }

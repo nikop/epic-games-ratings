@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -467,9 +467,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87807,
+  "EOS_Progressed": 87813,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -19052,6 +19052,11 @@
       "Time": "2023-10-05T21:06:43.1722101+00:00",
       "NumProgressed": 87807,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-10-05T22:06:27.7897269+00:00",
+      "NumProgressed": 87813,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 10,
@@ -19063,7 +19068,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "Drawings01",
@@ -19127,7 +19132,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30732
+      "UsersEstimate": 30735
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -19142,15 +19147,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 87807,
+      "Progressed": 87813,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-09-29T00:00:07.252338+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:06:43.1722096+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:06:27.7897262+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:48.6321829+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:59:54.8759243+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:06:43.1722841+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:59:47.0657295+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:06:27.7898677+00:00"
 }

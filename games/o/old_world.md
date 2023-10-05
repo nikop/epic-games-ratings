@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.70% | ~101 |
+| Play a Single Player Game | 0.70% | ~101 |
 | Explorer | 0.60% | ~86 |
-| Settler | 0.60% | ~86 |
-| Play a Single Player Game | 0.60% | ~86 |
 | Intrepid | 0.50% | ~72 |
 | Friendly Family | 0.50% | ~72 |
 | Able | 0.40% | ~58 |
@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.40% | ~58 |
 | Oracle | 0.40% | ~58 |
 | Judaism | 0.40% | ~58 |
+| Naming Landmarks | 0.40% | ~58 |
 | Kushite Paganism | 0.40% | ~58 |
 | Ambitious | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Zoroastrianism | 0.30% | ~43 |
-| Naming Landmarks | 0.30% | ~43 |
 | Trade Caravan | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Hanging Gardens in Babylon | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,377 (Ranked 134)  
+Progressed: 14,382 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,377 | 5 |
+| 2023-10-05 | 14,382 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 27.00% | ~16,506 |
-| As Far Away As Possible | 15.00% | ~9,170 |
-| A Most Unstable Organism | 12.00% | ~7,336 |
-| No Time to Follow Protocol | 9.00% | ~5,502 |
-| Float Like a Butterfly... | 7.00% | ~4,279 |
-| In Two Places At Once | 6.00% | ~3,668 |
-| Nano Connoisseur | 5.00% | ~3,057 |
+| Your Lucky Day | 27.00% | ~16,510 |
+| As Far Away As Possible | 15.00% | ~9,172 |
+| A Most Unstable Organism | 12.00% | ~7,338 |
+| No Time to Follow Protocol | 9.00% | ~5,504 |
+| Float Like a Butterfly... | 8.00% | ~4,892 |
+| In Two Places At Once | 6.00% | ~3,669 |
+| Nano Connoisseur | 5.00% | ~3,058 |
 | Pulling Your Weight | 2.00% | ~1,223 |
 | Reaping Rivals | 2.00% | ~1,223 |
 | fifteenth Time's the Charm | 0.90% | ~550 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 895)
 | Runs for Your Money | 0.10% | ~61 |
 | Past Master | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,132 (Ranked 96)  
+Progressed: 61,150 (Ranked 96)  
 Completed: 3 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,15 +61,15 @@ Completed: 3 (0.00%) (Ranked 306)
 | 2023-10-02 | 60,188 | 2 |
 | 2023-10-03 | 60,483 | 2 |
 | 2023-10-04 | 60,826 | 2 |
-| 2023-10-05 | 61,132 | 3 |
+| 2023-10-05 | 61,150 | 3 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 407)  
-Sum: 181 (Ranked 389)  
+Sum: 182 (Ranked 389)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 51 |
-| This game has Diverse Characters | 33 |
+| This game has Diverse Characters | 34 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 26 |
 | This game has Quickly Understood Controls | 21 |
@@ -104,4 +104,4 @@ Diff (max vs sum): 18
 | 2023-10-02 | 4.18 | 48 | 165 |
 | 2023-10-03 | 4.18 | 49 | 153 |
 | 2023-10-04 | 4.18 | 51 | 181 |
-| 2023-10-05 | 4.19 | 51 | 181 |
+| 2023-10-05 | 4.19 | 51 | 182 |

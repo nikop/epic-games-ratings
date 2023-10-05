@@ -5,26 +5,26 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,770 |
-| On the Top Step | 88.00% | ~2,593 |
-| Setting up for Success | 77.00% | ~2,269 |
-| Team Orders | 75.00% | ~2,210 |
-| Engineer | 55.00% | ~1,621 |
-| Familiar Faces | 49.00% | ~1,444 |
-| Going the Extra Mile | 43.00% | ~1,267 |
-| Sharing the Love | 41.00% | ~1,208 |
-| Hitting a Season | 35.00% | ~1,031 |
+| Getting on the Step | 94.00% | ~2,772 |
+| On the Top Step | 88.00% | ~2,595 |
+| Setting up for Success | 77.00% | ~2,271 |
+| Team Orders | 75.00% | ~2,212 |
+| Engineer | 55.00% | ~1,622 |
+| Familiar Faces | 49.00% | ~1,445 |
+| Going the Extra Mile | 43.00% | ~1,268 |
+| Sharing the Love | 41.00% | ~1,209 |
+| Hitting a Season | 35.00% | ~1,032 |
 | Challenge Yourself | 33.00% | ~973 |
-| Making History | 32.00% | ~943 |
-| A Dozen Pieces | 30.00% | ~884 |
+| Making History | 32.00% | ~944 |
+| A Dozen Pieces | 30.00% | ~885 |
 | Network Success | 25.00% | ~737 |
 | Writing a new Chapter | 25.00% | ~737 |
-| Spring Cleaning | 24.00% | ~707 |
+| Spring Cleaning | 24.00% | ~708 |
 | Reduce | 19.00% | ~560 |
 | Ups and Downs | 19.00% | ~560 |
 | Crucial Combo | 17.00% | ~501 |
+| Reuse | 17.00% | ~501 |
 | One for the Book | 17.00% | ~501 |
-| Reuse | 16.00% | ~472 |
 | Proving Them Wrong | 16.00% | ~472 |
 | Gathering Dust | 15.00% | ~442 |
 | Oil and Water | 15.00% | ~442 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 190)  
+Progressed: 2,949 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 2,866 | 0 |
 | 2023-10-03 | 2,894 | 0 |
 | 2023-10-04 | 2,928 | 0 |
-| 2023-10-05 | 2,947 | 0 |
+| 2023-10-05 | 2,949 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

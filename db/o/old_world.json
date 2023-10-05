@@ -1791,9 +1791,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14377,
+  "EOS_Progressed": 14382,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13036,6 +13036,11 @@
       "Time": "2023-10-05T21:09:04.3615061+00:00",
       "NumProgressed": 14377,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T22:09:18.0421821+00:00",
+      "NumProgressed": 14382,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13669,9 +13674,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -14797,9 +14802,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -14965,9 +14970,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -15782,21 +15787,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14377,
+      "Progressed": 14382,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14377,
+      "Progressed": 14382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:09:04.3615057+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:09:18.0421814+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:01:17.3236385+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:09:04.362494+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:01:03.5303831+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:09:18.0434086+00:00"
 }

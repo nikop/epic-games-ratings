@@ -5,17 +5,17 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,141 |
-| The Killing Jar | 8.00% | ~15,236 |
+| First of Many | 9.00% | ~17,142 |
+| The Killing Jar | 8.00% | ~15,237 |
 | Expanding Horizons | 7.00% | ~13,332 |
 | Quest for Survival | 7.00% | ~13,332 |
 | Not Your Average Trait | 7.00% | ~13,332 |
-| Gleaming the Cube | 6.00% | ~11,427 |
-| Not a Janitor | 6.00% | ~11,427 |
-| Familiar Face | 6.00% | ~11,427 |
-| Duality | 6.00% | ~11,427 |
-| Boss'n Up | 6.00% | ~11,427 |
-| Trait Chaser | 6.00% | ~11,427 |
+| Gleaming the Cube | 6.00% | ~11,428 |
+| Not a Janitor | 6.00% | ~11,428 |
+| Familiar Face | 6.00% | ~11,428 |
+| Duality | 6.00% | ~11,428 |
+| Boss'n Up | 6.00% | ~11,428 |
+| Trait Chaser | 6.00% | ~11,428 |
 | Not So Special Now | 5.00% | ~9,523 |
 | Equal Measures | 5.00% | ~9,523 |
 | Blue Goddess | 5.00% | ~9,523 |
@@ -24,17 +24,17 @@ Rating: 4.76 (Ranked 118)
 | Almost There | 5.00% | ~9,523 |
 | Make Some Room | 5.00% | ~9,523 |
 | Good, But Could Be Better! | 5.00% | ~9,523 |
-| Chaos | 4.00% | ~7,618 |
-| Traitor | 4.00% | ~7,618 |
-| Forever is a Long Time Coming | 4.00% | ~7,618 |
-| Power Surge | 4.00% | ~7,618 |
-| The God Gambit | 4.00% | ~7,618 |
-| Dark Designs | 4.00% | ~7,618 |
-| Madman's Paradise | 4.00% | ~7,618 |
-| Was This Supposed To Happen? | 4.00% | ~7,618 |
-| The Web | 4.00% | ~7,618 |
-| Scrap Collector | 4.00% | ~7,618 |
-| All These Traits� | 4.00% | ~7,618 |
+| Chaos | 4.00% | ~7,619 |
+| Traitor | 4.00% | ~7,619 |
+| Forever is a Long Time Coming | 4.00% | ~7,619 |
+| Power Surge | 4.00% | ~7,619 |
+| The God Gambit | 4.00% | ~7,619 |
+| Dark Designs | 4.00% | ~7,619 |
+| Madman's Paradise | 4.00% | ~7,619 |
+| Was This Supposed To Happen? | 4.00% | ~7,619 |
+| The Web | 4.00% | ~7,619 |
+| Scrap Collector | 4.00% | ~7,619 |
+| All These Traits� | 4.00% | ~7,619 |
 | Am I Seeing This? | 3.00% | ~5,714 |
 | The Agenda | 3.00% | ~5,714 |
 | Tall Tales | 3.00% | ~5,714 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,905 |
 | Ghost in the Machine | 0.90% | ~1,714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,452 (Ranked 66)  
+Progressed: 190,463 (Ranked 66)  
 Completed: 363 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 363 (0.19%) (Ranked 217)
 | 2023-10-02 | 189,383 | 353 |
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
-| 2023-10-05 | 190,452 | 363 |
+| 2023-10-05 | 190,463 | 363 |
 ## Awards
 Max (Great Boss Battles): 1,776  (Ranked 117)  
 Sum: 3,762 (Ranked 154)  

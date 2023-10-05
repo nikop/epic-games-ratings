@@ -4,10 +4,10 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 887,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1194,18 +1194,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 436,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-05T22:00:51.1014207+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 437,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 436,
+  "NumberOfAwards": 437,
   "NumberOfAwardsMax": 74,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1244,9 +1250,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15990,
+  "EOS_Progressed": 15991,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7284,6 +7290,11 @@
       "Time": "2023-10-05T18:09:49.6798822+00:00",
       "NumProgressed": 15990,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-05T22:03:38.310972+00:00",
+      "NumProgressed": 15991,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7391,7 +7402,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -7670,22 +7681,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15990,
+      "Progressed": 15991,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3916,
+      "Progressed": 3917,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-04T16:00:28.4085682+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:03:24.3359164+00:00",
+  "LastChanged": "2023-10-05T22:00:51.1014202+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:03:38.3109714+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:15.2729521+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:01:04.9309263+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:03:24.3359796+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:00:51.101421+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:03:38.3110681+00:00"
 }

@@ -12,6 +12,7 @@
 | A Link to the Past | 0.40% | ~1 |
 | Alchemists Express | 0.40% | ~1 |
 | Rascal | 0.40% | ~1 |
+| That's the spirit | 0.40% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
@@ -22,7 +23,6 @@
 | The Preacher's fate | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 | Champollion | 0.00% | ~0 |
-| That's the spirit | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
 | Welcome to the Tower | 0.00% | ~0 |
 | The great escape | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | The darkness | 0.00% | ~0 |
 | One last step | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 328)  
-Completed: 17 (7.00%) (Ranked 47)  
+Progressed: 244 (Ranked 328)  
+Completed: 17 (6.97%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,3 +107,4 @@ Completed: 17 (7.00%) (Ranked 47)
 | 2023-10-01 | 239 | 16 |
 | 2023-10-02 | 241 | 17 |
 | 2023-10-04 | 243 | 17 |
+| 2023-10-05 | 244 | 17 |

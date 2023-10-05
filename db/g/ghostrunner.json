@@ -5,7 +5,7 @@
   "Ranking_Rating": 180,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 281,
-  "Ranking_EOS_Progress": 124,
+  "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 80,
@@ -1230,9 +1230,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19470,
+  "EOS_Progressed": 19471,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19490,6 +19490,11 @@
       "Time": "2023-10-05T21:07:40.9719512+00:00",
       "NumProgressed": 19470,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-05T22:07:21.1629392+00:00",
+      "NumProgressed": 19471,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19525,7 +19530,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7009
+      "UsersEstimate": 7010
     },
     {
       "ID": "CantRunCantHide",
@@ -19541,7 +19546,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2921
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -19597,7 +19602,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8372
+      "UsersEstimate": 8373
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -19637,7 +19642,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14797
+      "UsersEstimate": 14798
     },
     {
       "ID": "MoreThanHuman",
@@ -19693,7 +19698,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "PreempativeStrike",
@@ -19765,7 +19770,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "SwordRunner",
@@ -19781,7 +19786,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "TripleA",
@@ -19797,7 +19802,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4283
+      "UsersEstimate": 4284
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -19813,7 +19818,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5647
     },
     {
       "ID": "Wallrunner",
@@ -19821,7 +19826,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10319
+      "UsersEstimate": 10320
     },
     {
       "ID": "WaveOfMutilation",
@@ -19829,7 +19834,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4283
+      "UsersEstimate": 4284
     },
     {
       "ID": "WhereAreMyKeys",
@@ -19860,21 +19865,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19470,
+      "Progressed": 19471,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19470,
+      "Progressed": 19471,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-04T13:11:18.7235478+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:07:40.9719509+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:07:21.1629385+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:03:10.3913384+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:07:40.9720663+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:03:25.9914757+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:07:21.1631135+00:00"
 }

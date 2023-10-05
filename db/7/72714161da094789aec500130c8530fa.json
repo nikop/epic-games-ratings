@@ -652,17 +652,17 @@
       "ID": "_spc_v2",
       "SetID": "2d5739o",
       "Name": "SPC v2",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "_spc_v3",
       "SetID": "2d5739o",
       "Name": "SPC v3",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_spc_v4",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:04:51.7805319+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:04:45.1227283+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:00:00.0981584+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:04:51.7805615+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:59:51.3324503+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:04:45.1227722+00:00"
 }

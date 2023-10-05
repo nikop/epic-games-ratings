@@ -4,10 +4,10 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 204,
   "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-21T14:00:00+00:00",
@@ -379,10 +379,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 101,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-10-05T21:57:43.7619535+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 101,
+  "NumberOfAwards": 123,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -402,13 +408,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -422,8 +434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-08-31T16:57:46.6445082+00:00",
+  "LastChanged": "2023-10-05T21:57:43.7619532+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:43.3077338+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:57:39.1484051+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:03:40.996788+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:57:43.7619537+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:03:53.7436132+00:00"
 }

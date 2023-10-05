@@ -2,12 +2,12 @@
   "ID": "a60b160cb14c4c258b70299310b63e56",
   "Name": "Panzer Corps 2",
   "ProductSlug": "panzer-corps-2",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -328,10 +328,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-05T22:01:39.9900279+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88,
+  "NumberOfAwards": 108,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -358,6 +364,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -371,8 +383,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-10-04T10:00:01.4364634+00:00",
+  "LastChanged": "2023-10-05T22:01:39.9900276+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.9321963+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:01:57.0996558+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:08:40.9455817+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:01:39.9900281+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:08:25.3782998+00:00"
 }

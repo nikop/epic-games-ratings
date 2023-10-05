@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-10-05T21:06:17.0482031+00:00",
       "NumProgressed": 448,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T22:06:03.8332324+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1237,9 +1242,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_21",
@@ -1357,9 +1362,9 @@
       "ID": "achievement_34",
       "SetID": "271ol84",
       "Name": "Best star-pilot in the galaxy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_35",
@@ -1367,7 +1372,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_36",
@@ -1383,7 +1388,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_38",
@@ -1447,7 +1452,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_45",
@@ -1646,13 +1651,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 1
     }
   ],
@@ -1660,8 +1665,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:06:17.0482025+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:06:03.8332315+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:03:09.3902516+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:06:17.0482872+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:03:23.995032+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:06:03.8333038+00:00"
 }

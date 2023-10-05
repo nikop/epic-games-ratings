@@ -887,9 +887,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -1078,8 +1078,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:07:14.8763596+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:06:56.6437404+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-05T20:58:34.6789716+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:07:14.876378+00:00"
+  "LastUpdate_Ratings": "2023-10-05T21:58:38.4586783+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:06:56.6437652+00:00"
 }

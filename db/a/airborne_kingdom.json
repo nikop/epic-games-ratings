@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7284,
+  "EOS_Progressed": 7285,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2023-10-05T21:07:48.3282496+00:00",
       "NumProgressed": 7284,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-05T22:07:27.8263224+00:00",
+      "NumProgressed": 7285,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4766,7 +4771,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4798,7 +4803,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4870,7 +4875,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -4886,7 +4891,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4894,7 +4899,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4902,7 +4907,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4965,15 +4970,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7284,
+      "Progressed": 7285,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-05T21:07:48.3282491+00:00",
+  "LastChanged_Achievements": "2023-10-05T22:07:27.8263218+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:02.0685585+00:00",
-  "LastUpdate_Ratings": "2023-10-05T21:01:16.883823+00:00",
-  "LastUpdate_Achievements": "2023-10-05T21:07:48.3282845+00:00"
+  "LastUpdate_Ratings": "2023-10-05T22:01:03.8211639+00:00",
+  "LastUpdate_Achievements": "2023-10-05T22:07:27.8263703+00:00"
 }
