@@ -7,13 +7,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.40% | ~3,679 |
-| Handyman | 0.30% | ~2,759 |
-| Zealous | 0.30% | ~2,759 |
-| Not half bad | 0.30% | ~2,759 |
-| Apt Survivor | 0.30% | ~2,759 |
-| Survival Treasures | 0.30% | ~2,759 |
-| Skillful | 0.30% | ~2,759 |
-| Make Some Noise | 0.30% | ~2,759 |
+| Handyman | 0.30% | ~2,760 |
+| Zealous | 0.30% | ~2,760 |
+| Not half bad | 0.30% | ~2,760 |
+| Apt Survivor | 0.30% | ~2,760 |
+| Survival Treasures | 0.30% | ~2,760 |
+| Skillful | 0.30% | ~2,760 |
+| Make Some Noise | 0.30% | ~2,760 |
 | The Grand Sacrifice | 0.20% | ~1,840 |
 | Agonizing Escape | 0.20% | ~1,840 |
 | Backdoor Escape | 0.20% | ~1,840 |
@@ -24,8 +24,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.20% | ~1,840 |
 | Perfect Killing | 0.20% | ~1,840 |
 | Bloody Millionaire | 0.20% | ~1,840 |
+| Apt Killer | 0.20% | ~1,840 |
 | Risk it all | 0.20% | ~1,840 |
 | I | 0.20% | ~1,840 |
+| II | 0.20% | ~1,840 |
 | Engineer | 0.20% | ~1,840 |
 | Sorted | 0.20% | ~1,840 |
 | Healthy Obsession | 0.20% | ~1,840 |
@@ -46,7 +48,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.10% | ~920 |
 | The Key to Escape | 0.10% | ~920 |
 | Gifts for the Fog | 0.10% | ~920 |
-| Apt Killer | 0.10% | ~920 |
 | Vulture | 0.10% | ~920 |
 | Adept Jake | 0.10% | ~920 |
 | Adept Dwight | 0.10% | ~920 |
@@ -55,7 +56,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trapper | 0.10% | ~920 |
 | Adept Wraith | 0.10% | ~920 |
 | Adept Hillbilly | 0.10% | ~920 |
-| II | 0.10% | ~920 |
 | III | 0.10% | ~920 |
 | III-50 | 0.10% | ~920 |
 | In the void she walks | 0.10% | ~920 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919,784 (Ranked 14)  
+Progressed: 919,860 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,22 +404,22 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 919,784 | 49 |
+| 2023-10-05 | 919,860 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,454 (Ranked 13)  
+Sum: 259,512 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,450 |
 | This game is Highly Recommended | 29,661 |
-| This game has Competitive Players | 29,348 |
+| This game has Competitive Players | 29,373 |
 | This game has Amazing Characters | 29,307 |
 | This game is Extremely Fun | 28,962 |
 | This game has Challenging Combat | 28,569 |
 | This game has Quickly Understood Controls | 28,503 |
 | This game has Amazing Storytelling | 26,584 |
-| This game has a Competitive Community | 25,070 |
+| This game has a Competitive Community | 25,103 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -679,4 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
-| 2023-10-05 | 4.52 | - | 33,450 | 259,454 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,512 |

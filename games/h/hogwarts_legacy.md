@@ -10,12 +10,12 @@ Rating: 4.76 (Ranked 118)
 | Troll with the Punches | 13.00% | ~38,719 |
 | A Keen Sense of Spell | 12.00% | ~35,741 |
 | That's a Keeper | 12.00% | ~35,741 |
-| The Defender of Dragons | 11.00% | ~32,762 |
-| Loom for Improvement | 11.00% | ~32,762 |
-| A Talent for Spending | 11.00% | ~32,762 |
+| The Hallowed Hero | 11.00% | ~32,763 |
+| The Defender of Dragons | 11.00% | ~32,763 |
+| Loom for Improvement | 11.00% | ~32,763 |
+| A Talent for Spending | 11.00% | ~32,763 |
 | Grappling with a Graphorn | 10.00% | ~29,784 |
 | The One Who Mastered Memories | 10.00% | ~29,784 |
-| The Hallowed Hero | 10.00% | ~29,784 |
 | The Hero of Hogwarts | 10.00% | ~29,784 |
 | Challenge Accepted | 10.00% | ~29,784 |
 | Coasting Along | 10.00% | ~29,784 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 118)
 | Flight the Good Flight | 8.00% | ~23,827 |
 | The Spell Master | 8.00% | ~23,827 |
 | Beast Friends | 7.00% | ~20,849 |
-| The Seeker of Knowledge | 6.00% | ~17,870 |
-| The Root of the Problem | 6.00% | ~17,870 |
-| Third Time's a Charm | 6.00% | ~17,870 |
-| Raising Expectations | 6.00% | ~17,870 |
+| The Seeker of Knowledge | 6.00% | ~17,871 |
+| The Root of the Problem | 6.00% | ~17,871 |
+| Third Time's a Charm | 6.00% | ~17,871 |
+| Raising Expectations | 6.00% | ~17,871 |
 | The Ends Petrify the Means | 5.00% | ~14,892 |
 | The Toast of the Town | 4.00% | ~11,914 |
 | Going Through the Potions | 4.00% | ~11,914 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,840 (Ranked 46)  
+Progressed: 297,842 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 480 (0.16%) (Ranked 224)
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
 | 2023-10-04 | 297,825 | 480 |
-| 2023-10-05 | 297,840 | 480 |
+| 2023-10-05 | 297,842 | 480 |
 ## Awards
 Max (Character Customization): 23,277  (Ranked 17)  
 Sum: 45,058 (Ranked 31)  

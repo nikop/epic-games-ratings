@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67029,
+  "EOS_Progressed": 67031,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 1,
@@ -16949,6 +16949,11 @@
       "Time": "2023-10-05T10:05:39.0923353+00:00",
       "NumProgressed": 67029,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-05T12:06:08.7801713+00:00",
+      "NumProgressed": 67031,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -16960,7 +16965,7 @@
       "Name": "Follow the Light",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 28152
+      "UsersEstimate": 28153
     },
     {
       "ID": "02",
@@ -16984,7 +16989,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "05",
@@ -17024,7 +17029,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10054
+      "UsersEstimate": 10055
     },
     {
       "ID": "10",
@@ -17064,7 +17069,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "15",
@@ -17112,7 +17117,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "21",
@@ -17128,7 +17133,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10054
+      "UsersEstimate": 10055
     },
     {
       "ID": "23",
@@ -17192,7 +17197,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "31",
@@ -17200,7 +17205,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12065
+      "UsersEstimate": 12066
     },
     {
       "ID": "32",
@@ -17224,7 +17229,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "35",
@@ -17232,7 +17237,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23460
+      "UsersEstimate": 23461
     },
     {
       "ID": "36",
@@ -17280,7 +17285,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12065
+      "UsersEstimate": 12066
     },
     {
       "ID": "42",
@@ -17336,7 +17341,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "49",
@@ -17495,21 +17500,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67029,
+      "Progressed": 67031,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30497,
+      "Progressed": 30499,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:06:10.4575785+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:06:08.7801706+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:02:11.0270311+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:06:10.4577121+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:01:59.3740603+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:06:08.7804652+00:00"
 }

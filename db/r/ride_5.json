@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2602,9 +2602,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 325
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2642,9 +2642,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "c7hf6a4",
       "Name": "In Search of Perfection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -2713,8 +2713,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:04:59.4495639+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:05:04.2505356+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-05T10:57:47.3258264+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:04:59.4496117+00:00"
+  "LastUpdate_Ratings": "2023-10-05T11:58:07.9772306+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:05:04.2506374+00:00"
 }

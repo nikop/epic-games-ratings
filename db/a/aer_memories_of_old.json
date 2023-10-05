@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21458,
+  "EOS_Progressed": 21460,
   "EOS_Completed": 427,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -18435,6 +18435,11 @@
       "Time": "2023-10-05T11:03:58.4904346+00:00",
       "NumProgressed": 21458,
       "NumCompleted": 427
+    },
+    {
+      "Time": "2023-10-05T12:04:08.7536755+00:00",
+      "NumProgressed": 21460,
+      "NumCompleted": 427
     }
   ],
   "TotalAchievements": 20,
@@ -18454,7 +18459,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "EAST_FINISHED",
@@ -18478,7 +18483,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -18526,7 +18531,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "FOUND_MAMBA",
@@ -18534,7 +18539,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -18550,7 +18555,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "GAME_FINISHED",
@@ -18566,7 +18571,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16523
+      "UsersEstimate": 16524
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18574,7 +18579,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "NORTH_FINISHED",
@@ -18598,22 +18603,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21458,
+      "Progressed": 21460,
       "Completed": 427
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:03:58.4904342+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:04:08.7536749+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T10:58:09.6592835+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:03:58.4905285+00:00"
+  "LastUpdate_Ratings": "2023-10-05T11:58:30.0692908+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:04:08.7538908+00:00"
 }

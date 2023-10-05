@@ -10,13 +10,13 @@ Rating: 3.54 (Ranked 1,008)
 | I Like My Stakes Rare! | 1.00% | ~18 |
 | Grounded | 1.00% | ~18 |
 | Fly Fisher | 1.00% | ~18 |
+| Catch and Release | 1.00% | ~18 |
 | Enter of Your Own Free Will | 0.90% | ~16 |
 | Peek-a-boo | 0.90% | ~16 |
 | Throw The First Stone | 0.90% | ~16 |
 | ICU | 0.90% | ~16 |
 | Sucks To Be You | 0.90% | ~16 |
 | Wounded Whispers | 0.90% | ~16 |
-| Catch and Release | 0.90% | ~16 |
 | Welcome to the Neighborhood | 0.80% | ~14 |
 | Heart Attack | 0.80% | ~14 |
 | Home Is Where the Heart Is | 0.70% | ~12 |

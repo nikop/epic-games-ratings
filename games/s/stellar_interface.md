@@ -77,20 +77,20 @@
 | Golden Alchemist | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden BBQ | 3.00% | ~2 |
+| The Healer | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
 | Silver Tovarish | 3.00% | ~2 |
+| Archer's Silver Fate | 3.00% | ~2 |
 | Silver Alchemist | 3.00% | ~2 |
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
 | Golden Tovarish | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
-| The Healer | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
-| Archer's Silver Fate | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |

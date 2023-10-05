@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2545,9 +2545,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_035",
@@ -2826,8 +2826,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:08:21.8410512+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:08:08.7035489+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.8794547+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:02:11.7239814+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:08:21.8411152+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:02:00.0089475+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:08:08.7036995+00:00"
 }

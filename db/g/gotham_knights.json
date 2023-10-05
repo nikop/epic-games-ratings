@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3300,10 +3300,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4659,
       "NumberOfAwardsMax": 2784
+    },
+    {
+      "Time": "2023-10-05T11:58:42.0656687+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4661,
+      "NumberOfAwardsMax": 2784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4659,
+  "NumberOfAwards": 4661,
   "NumberOfAwardsMax": 2784,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3329,7 +3335,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 232
+      "Count": 234
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3368,7 +3374,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73160,
+  "EOS_Progressed": 73161,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 2,
@@ -17668,6 +17674,11 @@
       "Time": "2023-10-05T11:06:29.4508442+00:00",
       "NumProgressed": 73160,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T12:06:25.9579323+00:00",
+      "NumProgressed": 73161,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17799,7 +17810,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -17903,7 +17914,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21216
+      "UsersEstimate": 21217
     },
     {
       "ID": "FREEZE_1_5",
@@ -17919,7 +17930,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13900
+      "UsersEstimate": 13901
     },
     {
       "ID": "FREEZE_3",
@@ -17927,7 +17938,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18023,7 +18034,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38043
+      "UsersEstimate": 38044
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18071,7 +18082,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24874
+      "UsersEstimate": 24875
     },
     {
       "ID": "MYSTERY_02",
@@ -18119,7 +18130,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "MYSTERY_08",
@@ -18166,22 +18177,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73160,
+      "Progressed": 73161,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43440,
+      "Progressed": 43441,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-05T08:58:00.2682571+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:06:29.4508434+00:00",
+  "LastChanged": "2023-10-05T11:58:42.0656685+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:06:25.9579316+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T10:58:23.2659504+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:06:29.4509551+00:00"
+  "LastUpdate_Ratings": "2023-10-05T11:58:42.0656692+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:06:25.9581154+00:00"
 }

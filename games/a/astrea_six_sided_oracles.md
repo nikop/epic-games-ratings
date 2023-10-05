@@ -4,14 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Anomaly Destroyer | 10.00% | ~4 |
 | Dicesmithing Time! | 10.00% | ~4 |
 | Endless Tricks | 10.00% | ~4 |
 | Sanctuary Guardian | 10.00% | ~4 |
-| Anomaly Destroyer | 7.00% | ~3 |
+| Stellar Dismantler | 10.00% | ~4 |
+| Astral Adventurer | 7.00% | ~3 |
 | Mechanical Buddy | 7.00% | ~3 |
 | Mind Illuminator | 7.00% | ~3 |
 | Purification Pioneer | 7.00% | ~3 |
-| Stellar Dismantler | 7.00% | ~3 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Loyal Partner | 5.00% | ~2 |
@@ -19,13 +20,14 @@
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
+| Unbeatable | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
 | Lacertian Champion | 5.00% | ~2 |
+| Noctuan Champion | 5.00% | ~2 |
 | Anomaly Control | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
-| Astral Adventurer | 2.00% | ~1 |
 | Astrarium of Holding | 2.00% | ~1 |
 | Can't touch this | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
@@ -38,13 +40,12 @@
 | Star Killer | 2.00% | ~1 |
 | The Corruption Goddess | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
-| Unbeatable | 2.00% | ~1 |
 | Wave Bender | 2.00% | ~1 |
 | Apian Champion | 2.00% | ~1 |
+| Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Mastery | 2.00% | ~1 |
-| Noctuan Champion | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -97,7 +98,6 @@
 | Aquarian Champion | 0.00% | ~0 |
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
-| Behenian Champion | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Lacertian Hero | 0.00% | ~0 |

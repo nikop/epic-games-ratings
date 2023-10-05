@@ -4,8 +4,8 @@
   "ProductSlug": "blazing-sails",
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-04-06T13:34:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T14:57:02.5112694+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:00:08.9613111+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:04:31.615279+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:00:16.8715245+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:04:38.8170445+00:00"
 }

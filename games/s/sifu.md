@@ -7,17 +7,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.40% | ~99 |
-| The Old Grandmaster | 0.30% | ~2,146 |
-| The Assault | 0.30% | ~2,146 |
-| The Hateful Pole Fighter | 0.30% | ~2,146 |
-| A Lady's Blood in the Snow | 0.30% | ~2,146 |
-| Street Fighting | 0.30% | ~2,146 |
-| Life is your teacher | 0.30% | ~2,146 |
-| State of constant learning | 0.30% | ~2,146 |
-| Qi Gong: Breath | 0.30% | ~2,146 |
-| Qi Gong: Essence | 0.30% | ~2,146 |
-| Lightning Hands | 0.30% | ~2,146 |
-| Rumble in the Hangar | 0.30% | ~2,146 |
+| The Old Grandmaster | 0.30% | ~2,147 |
+| The Assault | 0.30% | ~2,147 |
+| The Hateful Pole Fighter | 0.30% | ~2,147 |
+| A Lady's Blood in the Snow | 0.30% | ~2,147 |
+| Street Fighting | 0.30% | ~2,147 |
+| Life is your teacher | 0.30% | ~2,147 |
+| State of constant learning | 0.30% | ~2,147 |
+| Qi Gong: Breath | 0.30% | ~2,147 |
+| Qi Gong: Essence | 0.30% | ~2,147 |
+| Lightning Hands | 0.30% | ~2,147 |
+| Rumble in the Hangar | 0.30% | ~2,147 |
 | Project Arena | 0.30% | ~74 |
 | Martial Hub | 0.30% | ~74 |
 | Fight the way you practice | 0.30% | ~74 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,500 (Ranked 20)  
+Progressed: 715,501 (Ranked 20)  
 Completed: 12,909 (1.80%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 12,909 (1.80%) (Ranked 112)
 | 2023-10-02 | 715,452 | 12,906 |
 | 2023-10-03 | 715,479 | 12,908 |
 | 2023-10-04 | 715,493 | 12,908 |
-| 2023-10-05 | 715,500 | 12,909 |
+| 2023-10-05 | 715,501 | 12,909 |
 ## Awards
 Max (Great Boss Battles): 6,635  (Ranked 54)  
 Sum: 11,498 (Ranked 82)  

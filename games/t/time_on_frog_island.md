@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 70.00% | ~7 |
-| Sea Legs | 60.00% | ~6 |
-| Frogs Legs | 20.00% | ~2 |
-| What?! | 20.00% | ~2 |
-| Hoist the Sails | 20.00% | ~2 |
-| Socialite | 10.00% | ~1 |
-| Who Even Needs Keys | 10.00% | ~1 |
-| Mad Scientist | 10.00% | ~1 |
-| Safe Investment | 10.00% | ~1 |
-| Bank of Me | 10.00% | ~1 |
-| Secure the Sheets | 10.00% | ~1 |
-| Replace the Rudder | 10.00% | ~1 |
+| Shipwrecked! | 73.00% | ~8 |
+| Sea Legs | 55.00% | ~6 |
+| Frogs Legs | 18.00% | ~2 |
+| What?! | 18.00% | ~2 |
+| Hoist the Sails | 18.00% | ~2 |
+| Socialite | 9.00% | ~1 |
+| Who Even Needs Keys | 9.00% | ~1 |
+| Mad Scientist | 9.00% | ~1 |
+| Safe Investment | 9.00% | ~1 |
+| Bank of Me | 9.00% | ~1 |
+| Secure the Sheets | 9.00% | ~1 |
+| Replace the Rudder | 9.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | Hands on the Helm | 0.00% | ~0 |
 | The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 517)  
+Progressed: 11 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,6 +53,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-29 | 7 | 0 |
 | 2023-10-02 | 8 | 0 |
 | 2023-10-04 | 10 | 0 |
+| 2023-10-05 | 11 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -2531,9 +2531,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_40",
@@ -2563,9 +2563,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_44",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:03:34.7247003+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:03:27.1185948+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:00:06.4225898+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:03:34.7247609+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:00:14.6417975+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:03:27.1187484+00:00"
 }

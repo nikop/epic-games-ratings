@@ -10,7 +10,7 @@
 | Hear That Roar! | 38.00% | ~494 |
 | Rivals to the End | 29.00% | ~377 |
 | We're Going to Need a Bigger Garage | 25.00% | ~325 |
-| Bitter Rivalry | 24.00% | ~312 |
+| Bitter Rivalry | 25.00% | ~325 |
 | Champagne Spray | 21.00% | ~273 |
 | I'm Here Too! | 20.00% | ~260 |
 | Restored and Ready | 18.00% | ~234 |
@@ -39,8 +39,8 @@
 | Next Level | 1.00% | ~13 |
 | I Don't Stop | 1.00% | ~13 |
 | Exhausted but Happy | 0.80% | ~10 |
+| In Search of Perfection | 0.60% | ~8 |
 | Globe-trotter | 0.50% | ~7 |
-| In Search of Perfection | 0.50% | ~7 |
 | Maximum Endurance | 0.20% | ~3 |
 | All My Own Toys | 0.20% | ~3 |
 | Endless | 0.20% | ~3 |

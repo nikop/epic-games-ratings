@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -812,6 +812,11 @@
       "Time": "2023-10-05T03:06:12.2864707+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T12:07:48.6992433+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -872,7 +877,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_eou7",
@@ -880,7 +885,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_eou8",
@@ -888,7 +893,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_mg2",
@@ -896,7 +901,7 @@
       "Name": "Disc Collector",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_n64",
@@ -904,7 +909,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_rogue",
@@ -927,14 +932,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:08:00.1281933+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:07:48.6992425+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-05T10:59:49.9711637+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:08:00.1282052+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:00:00.3828239+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:07:48.6992706+00:00"
 }

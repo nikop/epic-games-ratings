@@ -6,35 +6,39 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.60% | ~86 |
 | Settler | 0.60% | ~86 |
 | Play a Single Player Game | 0.60% | ~86 |
-| Explorer | 0.50% | ~72 |
 | Friendly Family | 0.50% | ~72 |
 | Intrepid | 0.40% | ~57 |
+| Learned | 0.40% | ~57 |
+| Hanging Gardens | 0.40% | ~57 |
 | Able | 0.30% | ~43 |
 | Ambitious | 0.30% | ~43 |
 | Architect | 0.30% | ~43 |
+| Enlightened | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
 | Good | 0.30% | ~43 |
 | Just | 0.30% | ~43 |
-| Learned | 0.30% | ~43 |
 | Mason | 0.30% | ~43 |
 | Noble | 0.30% | ~43 |
 | Pioneer | 0.30% | ~43 |
 | Strong | 0.30% | ~43 |
 | Wise | 0.30% | ~43 |
-| Hanging Gardens | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
+| Lighthouse | 0.30% | ~43 |
 | Oracle | 0.30% | ~43 |
+| Pyramids | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
+| Greek Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
+| Trade Caravan | 0.30% | ~43 |
 | Kushite Paganism | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Brilliant | 0.20% | ~29 |
-| Enlightened | 0.20% | ~29 |
 | Fountainhead | 0.20% | ~29 |
 | Great | 0.20% | ~29 |
 | Keystone | 0.20% | ~29 |
@@ -47,18 +51,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
-| Lighthouse | 0.20% | ~29 |
 | Musaeum | 0.20% | ~29 |
 | Necropolis | 0.20% | ~29 |
-| Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
-| Greek Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
-| Trade Caravan | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
 | Future Regicide | 0.10% | ~14 |
@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
 | United Against The Horde | 0.10% | ~14 |
+| Battle of Opis | 0.10% | ~14 |
 | Before the Mongol Horde | 0.10% | ~14 |
 | Blade of the Monkey | 0.10% | ~14 |
 | Carthage - Ox Hide | 0.10% | ~14 |
@@ -84,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~14 |
 | Cleopatra's Love | 0.10% | ~14 |
 | Ancient | 0.10% | ~14 |
+| Avenger | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
 | Drillmaster | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
@@ -120,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
+| Battle of the Fertile Crescent | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
 | Game of the Week | 0.10% | ~14 |
@@ -167,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
+| Macedonian Wars | 0.10% | ~14 |
 | Medo-Babylonian Conquest | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
@@ -291,7 +295,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| Battle of Opis | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -300,7 +303,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
-| Avenger | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -310,7 +312,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
@@ -331,7 +332,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Macedonian Wars | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,361 (Ranked 133)  
+Progressed: 14,362 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,361 | 5 |
+| 2023-10-05 | 14,362 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

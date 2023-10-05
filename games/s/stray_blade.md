@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 89.00% | ~79 |
-| Tinkerer | 71.00% | ~63 |
+| Self-Defence | 88.00% | ~79 |
+| Tinkerer | 70.00% | ~63 |
 | Welcome to the Club | 38.00% | ~34 |
 | Apprentice | 38.00% | ~34 |
 | A new World ahead | 31.00% | ~28 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 396)  
+Progressed: 90 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-24 | 87 | 0 |
 | 2023-10-01 | 88 | 0 |
 | 2023-10-04 | 89 | 0 |
+| 2023-10-05 | 90 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

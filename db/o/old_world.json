@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1785,9 +1785,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14361,
+  "EOS_Progressed": 14362,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12990,6 +12990,11 @@
       "Time": "2023-10-05T11:08:47.073247+00:00",
       "NumProgressed": 14361,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T12:08:31.8399357+00:00",
+      "NumProgressed": 14362,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13119,9 +13124,9 @@
       "ID": "ACHIEVEMENT_BATTLE_OF_OPIS",
       "SetID": "9201eeb",
       "Name": "Battle of Opis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_BEFORE_MONGOL_HORDE",
@@ -13359,9 +13364,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
       "SetID": "9201eeb",
       "Name": "Avenger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
@@ -13423,17 +13428,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -13519,9 +13524,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -13927,9 +13932,9 @@
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
       "SetID": "9201eeb",
       "Name": "Battle of the Fertile Crescent",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
@@ -14367,9 +14372,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -14415,9 +14420,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -14463,9 +14468,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -14559,9 +14564,9 @@
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
       "SetID": "9201eeb",
       "Name": "Macedonian Wars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST",
@@ -14831,9 +14836,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -15031,9 +15036,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -15736,21 +15741,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14361,
+      "Progressed": 14362,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14361,
+      "Progressed": 14362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-05T11:08:47.0732467+00:00",
+  "LastChanged_Achievements": "2023-10-05T12:08:31.8399348+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T11:00:56.7185193+00:00",
-  "LastUpdate_Achievements": "2023-10-05T11:08:47.0742316+00:00"
+  "LastUpdate_Ratings": "2023-10-05T12:01:03.341126+00:00",
+  "LastUpdate_Achievements": "2023-10-05T12:08:31.8422593+00:00"
 }
