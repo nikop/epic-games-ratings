@@ -74,6 +74,7 @@
 | Cartridge Hoarder | 3.00% | ~2 |
 | Rambo V | 3.00% | ~2 |
 | Space Magellan | 3.00% | ~2 |
+| Golden Alchemist | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden BBQ | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
@@ -82,7 +83,7 @@
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
-| Golden Alchemist | 2.00% | ~1 |
+| Golden Tovarish | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
@@ -115,7 +116,6 @@
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
-| Golden Tovarish | 0.00% | ~0 |
 | Archer's Golden Fate | 0.00% | ~0 |
 | Magic Golden mirror; on the wall | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |

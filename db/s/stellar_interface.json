@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "GoldBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Tovarish",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldBallyBossDefeatedAchievement",
@@ -812,9 +812,9 @@
       "ID": "GoldHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Alchemist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldMirrorBossDefeatedAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-05T10:09:16.1349013+00:00",
+  "LastChanged_Achievements": "2023-10-05T11:08:28.0472313+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.3692726+00:00",
-  "LastUpdate_Ratings": "2023-10-05T09:57:44.8457398+00:00",
-  "LastUpdate_Achievements": "2023-10-05T10:09:16.1350657+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:57:48.4899176+00:00",
+  "LastUpdate_Achievements": "2023-10-05T11:08:28.0474073+00:00"
 }

@@ -16,8 +16,8 @@ Rating: 4.61 (Ranked 371)
 | Raise the Stakes | 56.00% | ~436 |
 | True Believer | 56.00% | ~436 |
 | Surgeon | 52.00% | ~405 |
+| Greenhouse Effect | 51.00% | ~397 |
 | Exterminator | 50.00% | ~390 |
-| Greenhouse Effect | 50.00% | ~390 |
 | Freeze | 49.00% | ~382 |
 | Full Arsenal | 44.00% | ~343 |
 | S.O.S. | 43.00% | ~335 |

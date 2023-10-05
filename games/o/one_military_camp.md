@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~92 |
-| The 4 Pillars | 51.00% | ~89 |
+| First Step | 53.00% | ~93 |
+| The 4 Pillars | 50.00% | ~88 |
 | Capitalism | 21.00% | ~37 |
 | Great Producer | 12.00% | ~21 |
 | There's something in those trees | 11.00% | ~19 |
 | Indebted | 11.00% | ~19 |
 | Green Energy | 11.00% | ~19 |
-| Desert Power | 10.00% | ~17 |
+| Desert Power | 10.00% | ~18 |
 | Health Care | 9.00% | ~16 |
 | Desert Rat | 9.00% | ~16 |
 | Perfect Soldier | 8.00% | ~14 |
@@ -31,14 +31,14 @@
 | Outdoor Decorator | 3.00% | ~5 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
-| Economist | 2.00% | ~3 |
-| Crisis Committee | 2.00% | ~3 |
-| Vive le Résistance | 2.00% | ~3 |
-| No News is Good News | 2.00% | ~3 |
-| Snowman | 2.00% | ~3 |
-| Reconquest | 2.00% | ~3 |
-| Winter Soldier | 2.00% | ~3 |
-| Researcher | 2.00% | ~3 |
+| Economist | 2.00% | ~4 |
+| Crisis Committee | 2.00% | ~4 |
+| Vive le Résistance | 2.00% | ~4 |
+| No News is Good News | 2.00% | ~4 |
+| Snowman | 2.00% | ~4 |
+| Reconquest | 2.00% | ~4 |
+| Winter Soldier | 2.00% | ~4 |
+| Researcher | 2.00% | ~4 |
 | Counter-espionage | 1.00% | ~2 |
 | Conveyor Belt Madness | 0.60% | ~1 |
 | Against Adversity | 0.60% | ~1 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 347)  
+Progressed: 175 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,3 +101,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-27 | 172 | 0 |
 | 2023-09-28 | 173 | 0 |
 | 2023-10-02 | 174 | 0 |
+| 2023-10-05 | 175 | 0 |

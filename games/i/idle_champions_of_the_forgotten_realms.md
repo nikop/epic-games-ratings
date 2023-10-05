@@ -313,6 +313,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Cuteness | 0.10% | ~197 |
 | Champions of Waterdeep | 0.10% | ~231 |
 | On The Job Learning | 0.10% | ~231 |
+| Strike! | 0.10% | ~197 |
 | Take Five | 0.10% | ~197 |
 | Running of the Saurs | 0.10% | ~231 |
 | Lost in the Goblin Halls | 0.10% | ~231 |
@@ -524,7 +525,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
-| Strike! | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,944 (Ranked 56)  
+Progressed: 230,948 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,944 | 2,331 |
+| 2023-10-05 | 230,948 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,897 (Ranked 41)  

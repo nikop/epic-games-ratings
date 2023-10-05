@@ -16,10 +16,10 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 19.00% | ~12,736 |
 | Back! Back, I Say! | 18.00% | ~12,065 |
 | Finders Keepers | 18.00% | ~12,065 |
+| Damn Good Cup of Coffee | 17.00% | ~11,395 |
 | They're Heeeeeere! | 16.00% | ~10,725 |
 | Sound and Fury | 16.00% | ~10,725 |
 | Missed by a Mile | 16.00% | ~10,725 |
-| Damn Good Cup of Coffee | 16.00% | ~10,725 |
 | Wheels Within Wheels | 15.00% | ~10,054 |
 | The Six-Gun Scribe | 15.00% | ~10,054 |
 | Heavy Metal | 14.00% | ~9,384 |

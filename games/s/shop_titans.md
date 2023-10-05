@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.80% | ~1,097 |
 | Fated Encounters | 0.70% | ~960 |
 | Power of Love | 0.70% | ~960 |
+| Trash to Treasure | 0.70% | ~960 |
 | Royal Ransom | 0.70% | ~960 |
 | Magical Harmony | 0.70% | ~960 |
 | A Notch Above the Rest | 0.60% | ~823 |
@@ -58,7 +59,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.60% | ~823 |
 | Expansion in Session | 0.60% | ~823 |
 | Cranked up to 11 | 0.60% | ~823 |
-| Trash to Treasure | 0.60% | ~823 |
 | Mammonite | 0.60% | ~823 |
 | Miracle Alchemist | 0.60% | ~823 |
 | Laden with Loot | 0.60% | ~823 |
@@ -105,6 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 0.30% | ~411 |
 | Eternal Crusade | 0.30% | ~411 |
 | All Accounted For | 0.30% | ~411 |
+| Ultimate Collector | 0.20% | ~274 |
 | Unleashed Potential | 0.20% | ~274 |
 | JACKPOT!!! | 0.20% | ~274 |
 | Anything not Nailed Down | 0.20% | ~274 |
@@ -112,15 +113,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.20% | ~274 |
 | Marvels from the World Over | 0.20% | ~274 |
 | Bane of Legends | 0.10% | ~137 |
-| Ultimate Collector | 0.10% | ~137 |
 | Oligarch Monarch | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
 | Merchant Extraordinaire | 0.10% | ~137 |
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,136 (Ranked 72)  
-Completed: 161 (0.12%) (Ranked 234)  
+Progressed: 137,138 (Ranked 72)  
+Completed: 162 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
 | 2023-10-04 | 137,116 | 161 |
-| 2023-10-05 | 137,136 | 161 |
+| 2023-10-05 | 137,138 | 162 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
 Sum: 27,332 (Ranked 49)  

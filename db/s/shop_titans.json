@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6370,10 +6370,10 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137136,
-  "EOS_Completed": 161,
-  "EOS_NewPlayers": 339,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 137138,
+  "EOS_Completed": 162,
+  "EOS_NewPlayers": 341,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -23565,6 +23565,11 @@
       "Time": "2023-10-05T10:04:40.1377832+00:00",
       "NumProgressed": 137136,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-10-05T11:04:53.3621759+00:00",
+      "NumProgressed": 137138,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 112,
@@ -23798,9 +23803,9 @@
       "ID": "collection05",
       "SetID": "anfd17p",
       "Name": "Ultimate Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "commonres01",
@@ -24030,9 +24035,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 960
     },
     {
       "ID": "gemsspent",
@@ -24471,15 +24476,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137136,
-      "Completed": 161
+      "Progressed": 137138,
+      "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-05T02:16:18.5278154+00:00",
-  "LastChanged_Achievements": "2023-10-05T10:04:40.1377827+00:00",
+  "LastChanged_Achievements": "2023-10-05T11:04:53.3621754+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-05T09:57:34.1783574+00:00",
-  "LastUpdate_Achievements": "2023-10-05T10:04:40.1380001+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:57:35.3945574+00:00",
+  "LastUpdate_Achievements": "2023-10-05T11:04:53.3623838+00:00"
 }

@@ -3368,9 +3368,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73159,
+  "EOS_Progressed": 73160,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17663,6 +17663,11 @@
       "Time": "2023-10-05T10:05:53.799082+00:00",
       "NumProgressed": 73159,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T11:06:29.4508442+00:00",
+      "NumProgressed": 73160,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17778,7 +17783,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15363
+      "UsersEstimate": 15364
     },
     {
       "ID": "CLAYFACE_2",
@@ -17906,7 +17911,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15363
+      "UsersEstimate": 15364
     },
     {
       "ID": "FREEZE_2",
@@ -18002,7 +18007,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11705
+      "UsersEstimate": 11706
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18130,7 +18135,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8047
+      "UsersEstimate": 8048
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18161,13 +18166,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73159,
+      "Progressed": 73160,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43439,
+      "Progressed": 43440,
       "Completed": 2666
     }
   ],
@@ -18175,8 +18180,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-05T08:58:00.2682571+00:00",
-  "LastChanged_Achievements": "2023-10-05T10:05:53.7990817+00:00",
+  "LastChanged_Achievements": "2023-10-05T11:06:29.4508434+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T09:58:12.4943074+00:00",
-  "LastUpdate_Achievements": "2023-10-05T10:05:53.7992019+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:58:23.2659504+00:00",
+  "LastUpdate_Achievements": "2023-10-05T11:06:29.4509551+00:00"
 }

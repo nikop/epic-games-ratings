@@ -39,8 +39,8 @@
 | Next Level | 1.00% | ~13 |
 | I Don't Stop | 1.00% | ~13 |
 | Exhausted but Happy | 0.80% | ~10 |
-| Globe-trotter | 0.50% | ~6 |
-| In Search of Perfection | 0.50% | ~6 |
+| Globe-trotter | 0.50% | ~7 |
+| In Search of Perfection | 0.50% | ~7 |
 | Maximum Endurance | 0.20% | ~3 |
 | All My Own Toys | 0.20% | ~3 |
 | Endless | 0.20% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 219)  
+Progressed: 1,301 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 1,264 | 0 |
 | 2023-10-03 | 1,276 | 0 |
 | 2023-10-04 | 1,297 | 0 |
-| 2023-10-05 | 1,300 | 0 |
+| 2023-10-05 | 1,301 | 0 |

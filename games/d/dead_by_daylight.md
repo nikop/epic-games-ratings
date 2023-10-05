@@ -7,33 +7,33 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.40% | ~3,679 |
+| Handyman | 0.30% | ~2,759 |
 | Zealous | 0.30% | ~2,759 |
 | Not half bad | 0.30% | ~2,759 |
 | Apt Survivor | 0.30% | ~2,759 |
 | Survival Treasures | 0.30% | ~2,759 |
 | Skillful | 0.30% | ~2,759 |
 | Make Some Noise | 0.30% | ~2,759 |
-| The Grand Sacrifice | 0.20% | ~1,839 |
-| Agonizing Escape | 0.20% | ~1,839 |
-| Backdoor Escape | 0.20% | ~1,839 |
-| I've got your back | 0.20% | ~1,839 |
-| No one left behind | 0.20% | ~1,839 |
-| Medic | 0.20% | ~1,839 |
-| Handyman | 0.20% | ~1,839 |
-| Nerves of steel | 0.20% | ~1,839 |
-| Perfect Escape | 0.20% | ~1,839 |
-| Perfect Killing | 0.20% | ~1,839 |
-| Bloody Millionaire | 0.20% | ~1,839 |
-| Risk it all | 0.20% | ~1,839 |
-| I | 0.20% | ~1,839 |
-| Engineer | 0.20% | ~1,839 |
-| Sorted | 0.20% | ~1,839 |
-| Healthy Obsession | 0.20% | ~1,839 |
-| Resurgence | 0.20% | ~1,839 |
-| Close Shave | 0.20% | ~1,839 |
-| Preemptive Strike | 0.20% | ~1,839 |
-| Humanitarian | 0.20% | ~1,839 |
-| Second Act | 0.20% | ~1,839 |
+| The Grand Sacrifice | 0.20% | ~1,840 |
+| Agonizing Escape | 0.20% | ~1,840 |
+| Backdoor Escape | 0.20% | ~1,840 |
+| I've got your back | 0.20% | ~1,840 |
+| No one left behind | 0.20% | ~1,840 |
+| Medic | 0.20% | ~1,840 |
+| Nerves of steel | 0.20% | ~1,840 |
+| Perfect Escape | 0.20% | ~1,840 |
+| Perfect Killing | 0.20% | ~1,840 |
+| Bloody Millionaire | 0.20% | ~1,840 |
+| Risk it all | 0.20% | ~1,840 |
+| I | 0.20% | ~1,840 |
+| Engineer | 0.20% | ~1,840 |
+| Sorted | 0.20% | ~1,840 |
+| Healthy Obsession | 0.20% | ~1,840 |
+| Resurgence | 0.20% | ~1,840 |
+| Close Shave | 0.20% | ~1,840 |
+| Preemptive Strike | 0.20% | ~1,840 |
+| Humanitarian | 0.20% | ~1,840 |
+| Second Act | 0.20% | ~1,840 |
 | A bite for the Entity | 0.10% | ~920 |
 | A feast for the Entity | 0.10% | ~920 |
 | Blood on your hands | 0.10% | ~920 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919,725 (Ranked 14)  
+Progressed: 919,784 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,15 +404,15 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 919,725 | 49 |
+| 2023-10-05 | 919,784 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,422 (Ranked 13)  
+Sum: 259,454 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,450 |
-| This game is Highly Recommended | 29,629 |
+| This game is Highly Recommended | 29,661 |
 | This game has Competitive Players | 29,348 |
 | This game has Amazing Characters | 29,307 |
 | This game is Extremely Fun | 28,962 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
-| 2023-10-05 | 4.52 | - | 33,450 | 259,422 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,454 |
