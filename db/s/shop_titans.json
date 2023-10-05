@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6370,9 +6370,9 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137125,
+  "EOS_Progressed": 137128,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23550,6 +23550,11 @@
       "Time": "2023-10-05T05:05:31.0345368+00:00",
       "NumProgressed": 137125,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-10-05T06:04:23.1570638+00:00",
+      "NumProgressed": 137128,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 112,
@@ -23625,7 +23630,7 @@
       "Name": "Constellated",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ashley_a",
@@ -23817,7 +23822,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "craft01",
@@ -23825,7 +23830,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "craft02",
@@ -23849,7 +23854,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "craft05",
@@ -23913,7 +23918,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "energy02",
@@ -23937,7 +23942,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "expansion02",
@@ -24009,7 +24014,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "fuseuncommon",
@@ -24033,7 +24038,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "gold02",
@@ -24121,7 +24126,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "jackslot03",
@@ -24145,7 +24150,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "level02",
@@ -24337,7 +24342,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "sell02",
@@ -24417,7 +24422,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "workers01",
@@ -24456,15 +24461,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137125,
+      "Progressed": 137128,
       "Completed": 161
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-05T02:16:18.5278154+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:05:31.0345361+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:04:23.1570632+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:57:53.1781789+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:05:31.0348262+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:57:29.7528522+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:04:23.1573198+00:00"
 }

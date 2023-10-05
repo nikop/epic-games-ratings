@@ -12,10 +12,10 @@ Rating: 4.53 (Ranked 522)
 | Impossible Objects | 0.90% | ~122 |
 | Drone Dodger | 0.80% | ~109 |
 | Call it Even | 0.80% | ~109 |
+| Celebrations are in Order | 0.80% | ~109 |
 | Data Archivist | 0.70% | ~95 |
 | Heal Thy Medic | 0.70% | ~95 |
 | Captain Drummer | 0.70% | ~95 |
-| Celebrations are in Order | 0.70% | ~95 |
 | Spore Taste | 0.60% | ~81 |
 | Martian Music | 0.60% | ~81 |
 | Stogie for Fogey | 0.50% | ~68 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 522)
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,567 (Ranked 134)  
+Progressed: 13,569 (Ranked 134)  
 Completed: 5 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 5 (0.04%) (Ranked 270)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,567 | 5 |
+| 2023-10-05 | 13,569 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

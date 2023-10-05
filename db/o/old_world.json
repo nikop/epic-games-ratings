@@ -1787,7 +1787,7 @@
   ],
   "EOS_Progressed": 14359,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14805,9 +14805,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -15739,8 +15739,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:09:47.6810391+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:09:10.987056+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:01:25.6877302+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:09:47.6824189+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:59:47.9906988+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:09:10.9883587+00:00"
 }

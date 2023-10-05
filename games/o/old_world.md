@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
+| Carthaginian Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Kushite Paganism | 0.30% | ~43 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
-| Carthaginian Paganism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Greek Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |

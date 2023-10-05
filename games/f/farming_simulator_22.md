@@ -16,7 +16,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Hard work pays off | 53.00% | ~26,195 |
 | It's never too late to farm | 50.00% | ~24,712 |
 | All out of Land | 44.00% | ~21,747 |
-| Field Trip | 43.00% | ~21,252 |
+| Field Trip | 44.00% | ~21,747 |
 | I like to switch it up | 40.00% | ~19,770 |
 | Help me to help you | 38.00% | ~18,781 |
 | Ultimutt Pawesomeness | 28.00% | ~13,839 |
@@ -221,7 +221,7 @@ Completed: 6 (0.01%) (Ranked 289)
 | 2023-10-05 | 49,424 | 6 |
 ## Awards
 Max (Great for Beginners): 5,095  (Ranked 70)  
-Sum: 40,853 (Ranked 33)  
+Sum: 40,856 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -232,7 +232,7 @@ Diff (max vs sum): 37
 | This game has Quickly Understood Controls | 4,131 |
 | This game is Highly Recommended | 4,056 |
 | This game is Extremely Fun | 4,028 |
-| This game has Amazing Storytelling | 3,929 |
+| This game has Amazing Storytelling | 3,932 |
 | This game has Amazing Characters | 3,561 |
 | This game has a Creative Community | 3,441 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -501,3 +501,4 @@ Diff (max vs sum): 37
 | 2023-10-02 | 4.69 | - | 5,089 | 40,798 |
 | 2023-10-03 | 4.69 | - | 5,095 | 40,831 |
 | 2023-10-04 | 4.69 | - | 5,095 | 40,853 |
+| 2023-10-05 | 4.69 | - | 5,095 | 40,856 |

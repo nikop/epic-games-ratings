@@ -113,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~197 |
 | Get Back In The Castle | 0.10% | ~197 |
 | Were-verpowered | 0.10% | ~231 |
+| Checkmate | 0.10% | ~197 |
 | Pin and Skewer | 0.10% | ~197 |
 | Vecna Out! | 0.10% | ~197 |
 | Bully for Vecna | 0.10% | ~197 |
@@ -252,6 +253,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Exploits | 0.10% | ~231 |
 | Cramped Quarters | 0.10% | ~231 |
 | Flame(skull) War | 0.10% | ~231 |
+| Servants of the Demon Prince | 0.10% | ~197 |
 | Enter the Sargauth | 0.10% | ~231 |
 | Elder Rune Madness | 0.10% | ~231 |
 | The Madness Grows | 0.10% | ~231 |
@@ -308,6 +310,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.10% | ~197 |
 | Running of the Saurs | 0.10% | ~231 |
 | Lost in the Goblin Halls | 0.10% | ~231 |
+| Batiri in the Goblin Halls | 0.10% | ~231 |
 | The Twilight Grove | 0.10% | ~231 |
 | The Nimble Grove | 0.10% | ~231 |
 | The Misty Grove | 0.10% | ~197 |
@@ -328,6 +331,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.10% | ~231 |
 | Displaced Anger | 0.10% | ~231 |
 | Ettercap Swarm | 0.10% | ~197 |
+| Smooth Talkers | 0.10% | ~197 |
 | Relay Race | 0.10% | ~231 |
 | An Illithid Undertaking | 0.10% | ~197 |
 | An Illithid Ambush | 0.10% | ~197 |
@@ -465,6 +469,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~197 |
 | An Icewind Dale Reunion | 0.10% | ~197 |
 | The Netherese Necropolis | 0.10% | ~197 |
+| The Archaeologist and the Sailor | 0.10% | ~197 |
 | The Templar's Camp | 0.10% | ~231 |
 | The Haunted Jungle | 0.10% | ~231 |
 | Poor Guidance | 0.10% | ~231 |
@@ -504,19 +509,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Speeds of Destruction | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
-| Checkmate | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
-| Servants of the Demon Prince | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
-| Batiri in the Goblin Halls | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
-| Smooth Talkers | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
@@ -526,7 +527,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
-| The Archaeologist and the Sailor | 0.00% | ~0 |
 | To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,927 (Ranked 56)  
+Progressed: 230,930 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,10 +703,10 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,927 | 2,331 |
+| 2023-10-05 | 230,930 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
-Sum: 31,893 (Ranked 41)  
+Sum: 31,897 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -715,7 +715,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,783 |
 | This game is Relaxing | 4,669 |
 | This game has Amazing Characters | 4,142 |
-| This game is Highly Recommended | 4,136 |
+| This game is Highly Recommended | 4,140 |
 | This game has Playful Visuals | 3,457 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -972,3 +972,4 @@ Diff (max vs sum): 28
 | 2023-10-02 | 4.06 | - | 5,354 | 31,882 |
 | 2023-10-03 | 4.06 | - | 5,354 | 31,886 |
 | 2023-10-04 | 4.06 | - | 5,358 | 31,893 |
+| 2023-10-05 | 4.06 | - | 5,358 | 31,897 |

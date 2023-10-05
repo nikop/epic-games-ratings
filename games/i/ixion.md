@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 27.00% | ~867 |
+| Wakey Wakey | 27.00% | ~868 |
 | Sputnik 2049 | 24.00% | ~771 |
 | Infinite Growth... | 23.00% | ~739 |
 | Without Breaking Some Eggs... | 22.00% | ~707 |
@@ -15,8 +15,8 @@ Rating: 4.56 (Ranked 473)
 | Permanent Redesigns | 14.00% | ~450 |
 | Fully Recycled | 13.00% | ~418 |
 | The Ship of Theseus | 13.00% | ~418 |
-| Guy de Borderlands | 12.00% | ~385 |
-| Ain't Nobody Got Time for That | 12.00% | ~385 |
+| Guy de Borderlands | 12.00% | ~386 |
+| Ain't Nobody Got Time for That | 12.00% | ~386 |
 | Exceeding Capacity | 11.00% | ~353 |
 | Hope Seeker | 11.00% | ~353 |
 | A Hunk of Junk | 10.00% | ~321 |
@@ -32,9 +32,9 @@ Rating: 4.56 (Ranked 473)
 | Oats | 5.00% | ~161 |
 | BRAWL! | 5.00% | ~161 |
 | All in Good Health | 5.00% | ~161 |
-| What They Hide From Us | 4.00% | ~128 |
-| ...  in a finite world | 4.00% | ~128 |
-| What the Ruins Teach Us | 4.00% | ~128 |
+| What They Hide From Us | 4.00% | ~129 |
+| ...  in a finite world | 4.00% | ~129 |
+| What the Ruins Teach Us | 4.00% | ~129 |
 | Sustainable Energy | 3.00% | ~96 |
 | In Dolos We Trust | 3.00% | ~96 |
 | Delivery! | 3.00% | ~96 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 473)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,212 (Ranked 187)  
+Progressed: 3,213 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 3,206 | 0 |
 | 2023-10-03 | 3,209 | 0 |
 | 2023-10-04 | 3,212 | 0 |
+| 2023-10-05 | 3,213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

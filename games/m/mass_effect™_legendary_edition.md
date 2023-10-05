@@ -81,7 +81,7 @@
 | Weapon Specialist | 23.00% | ~128 |
 | World Shaker | 23.00% | ~128 |
 | Liberator | 23.00% | ~128 |
-| Pathfinder | 21.00% | ~117 |
+| Pathfinder | 22.00% | ~123 |
 | Arbiter | 21.00% | ~117 |
 | Savior | 20.00% | ~112 |
 | Paramour II | 20.00% | ~112 |

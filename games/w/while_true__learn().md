@@ -6,7 +6,7 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~563,448 |
+| First.. Bit? | 94.00% | ~569,507 |
 | Error: Stack Overflow | 66.00% | ~399,866 |
 | We need more gold | 61.00% | ~369,573 |
 | The dawn of civilization | 53.00% | ~321,105 |

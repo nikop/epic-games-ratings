@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:05:19.5358319+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:04:14.8913865+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:01:47.3511624+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:05:19.5359598+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:00:03.8727683+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:04:14.8914768+00:00"
 }

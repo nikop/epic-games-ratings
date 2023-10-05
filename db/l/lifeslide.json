@@ -2,9 +2,9 @@
   "ID": "ff1ca89cef474e6fa402c58c29a6258a",
   "Name": "Lifeslide",
   "ProductSlug": "lifeslide",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -91,6 +91,11 @@
       "Time": "2023-10-01T18:06:49.8933893+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T06:06:45.5219547+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -142,7 +147,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -172,25 +177,25 @@
       "ID": "CHILDHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "Wonderful World",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 193
     },
     {
       "ID": "COLLECT_MATTER_10000",
       "SetID": "b6f796g",
       "Name": "Tangibility",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 65
     },
     {
       "ID": "END_REACHED",
       "SetID": "b6f796g",
       "Name": "Alive",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "FIRST_IMPROVEMENT",
@@ -278,7 +283,7 @@
       "Name": "Sunset",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SECOND_WIND",
@@ -286,7 +291,7 @@
       "Name": "Second Wind",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "SECOND_WIND_X3",
@@ -302,7 +307,7 @@
       "Name": "Spring Air",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SURVIVOR",
@@ -324,9 +329,9 @@
       "ID": "WILL_CHAIN_3",
       "SetID": "b6f796g",
       "Name": "Chain of Events",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
@@ -349,7 +354,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 0
     }
   ],
@@ -357,8 +362,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:08:56.0411325+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:06:45.5219539+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.8316174+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:57:44.8624702+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:08:56.0411561+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:57:24.5622004+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:06:45.5219779+00:00"
 }

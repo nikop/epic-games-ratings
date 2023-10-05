@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 94.00% | ~102 |
-| Cluster One | 84.00% | ~92 |
-| Another Brick in the Wall (Part 1) | 72.00% | ~78 |
+| Is There Anybody Out There? | 94.00% | ~103 |
+| Cluster One | 85.00% | ~94 |
+| Another Brick in the Wall (Part 1) | 72.00% | ~79 |
 | High Hopes | 62.00% | ~68 |
-| Comfortably Numb | 60.00% | ~65 |
+| Comfortably Numb | 59.00% | ~65 |
 | Echoes | 52.00% | ~57 |
-| Another Brick in the Wall (Part 2) | 50.00% | ~54 |
-| Biding My Time | 46.00% | ~50 |
+| Another Brick in the Wall (Part 2) | 50.00% | ~55 |
+| Biding My Time | 45.00% | ~50 |
 | The Gunner's Dream | 41.00% | ~45 |
-| Another Brick in the Wall (Part 3) | 36.00% | ~39 |
-| Burning Bridges | 28.00% | ~31 |
-| The Last Few Bricks | 28.00% | ~31 |
+| Another Brick in the Wall (Part 3) | 35.00% | ~38 |
+| Burning Bridges | 27.00% | ~30 |
+| The Last Few Bricks | 27.00% | ~30 |
 | The Dogs of War | 13.00% | ~14 |
 | I'm a King Bee | 6.00% | ~7 |
 | What Shall We Do Now? | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 373)  
-Completed: 2 (1.83%) (Ranked 110)  
+Progressed: 110 (Ranked 373)  
+Completed: 2 (1.82%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,6 +58,7 @@ Completed: 2 (1.83%) (Ranked 110)
 | 2023-09-15 | 106 | 2 |
 | 2023-09-20 | 108 | 2 |
 | 2023-09-24 | 109 | 2 |
+| 2023-10-05 | 110 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

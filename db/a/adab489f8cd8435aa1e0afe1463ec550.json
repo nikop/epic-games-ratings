@@ -4,7 +4,7 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -313,9 +313,9 @@
       "ID": "35",
       "SetID": "6hl9l7f",
       "Name": "Variety",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "36",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:08:48.0447794+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:06:39.4281723+00:00",
   "LastUpdate_AppInfo": "2023-10-01T11:57:11.0083131+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:00:20.5171195+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:08:48.0448118+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:59:06.6174777+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:06:39.4282032+00:00"
 }

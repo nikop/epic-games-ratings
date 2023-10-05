@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3212,
+  "EOS_Progressed": 3213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5214,6 +5214,11 @@
       "Time": "2023-10-04T20:03:13.8667008+00:00",
       "NumProgressed": 3212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T06:03:37.2683155+00:00",
+      "NumProgressed": 3213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5281,7 +5286,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_BASE_18",
@@ -5297,7 +5302,7 @@
       "Name": "...  in a finite world",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_BASE_2",
@@ -5305,7 +5310,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_BASE_21",
@@ -5313,7 +5318,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_BASE_22",
@@ -5529,7 +5534,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_BASE_5",
@@ -5665,7 +5670,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_BASE_9",
@@ -5680,13 +5685,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1394,
+      "Progressed": 1395,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3212,
+      "Progressed": 3213,
       "Completed": 0
     }
   ],
@@ -5694,8 +5699,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:04:25.3316889+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:03:37.268315+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.8238221+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:02:08.1819879+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:04:25.3318845+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:00:18.1525858+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:03:37.2684063+00:00"
 }

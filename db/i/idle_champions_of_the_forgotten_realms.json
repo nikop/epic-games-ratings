@@ -7052,10 +7052,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31893,
       "NumberOfAwardsMax": 5358
+    },
+    {
+      "Time": "2023-10-05T06:03:05.2195677+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31897,
+      "NumberOfAwardsMax": 5358
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31893,
+  "NumberOfAwards": 31897,
   "NumberOfAwardsMax": 5358,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7087,7 +7093,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4136
+      "Count": 4140
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7102,9 +7108,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230927,
+  "EOS_Progressed": 230930,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25757,6 +25763,11 @@
       "Time": "2023-10-05T05:08:18.815064+00:00",
       "NumProgressed": 230927,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T06:06:20.1355348+00:00",
+      "NumProgressed": 230930,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -26638,9 +26649,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1204",
@@ -27798,9 +27809,9 @@
       "ID": "objective_completed_421",
       "SetID": "415jc5c",
       "Name": "Servants of the Demon Prince",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_423",
@@ -28270,9 +28281,9 @@
       "ID": "objective_completed_591",
       "SetID": "cc37lbc",
       "Name": "Batiri in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_592",
@@ -28454,9 +28465,9 @@
       "ID": "objective_completed_618",
       "SetID": "415jc5c",
       "Name": "Smooth Talkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_62",
@@ -29630,9 +29641,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_94",
@@ -29991,21 +30002,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197201,
+      "Progressed": 197204,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230927,
+      "Progressed": 230930,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:08:18.8150635+00:00",
+  "LastChanged": "2023-10-05T06:03:05.2195676+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:06:20.1355342+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:03:10.1385347+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:08:18.8180509+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:03:05.2195683+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:06:20.138367+00:00"
 }

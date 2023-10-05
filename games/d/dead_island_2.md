@@ -1,17 +1,17 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 509)  
+Rating: 4.54 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,727 |
-| Break A Leg | 3.00% | ~20,727 |
-| Coup de Grâce | 3.00% | ~20,727 |
-| Hazardous Materials | 3.00% | ~20,727 |
-| Hotel California | 3.00% | ~20,727 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,727 |
-| Welcome To Hell-A | 3.00% | ~20,727 |
+| Git Gutte! | 3.00% | ~20,728 |
+| Break A Leg | 3.00% | ~20,728 |
+| Coup de Grâce | 3.00% | ~20,728 |
+| Hazardous Materials | 3.00% | ~20,728 |
+| Hotel California | 3.00% | ~20,728 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,728 |
+| Welcome To Hell-A | 3.00% | ~20,728 |
 | Dr. Reed, I Presume? | 2.00% | ~13,818 |
 | Anger Management | 2.00% | ~13,818 |
 | Perks of the Job | 2.00% | ~13,818 |
@@ -39,9 +39,9 @@ Rating: 4.54 (Ranked 509)
 | Rising Star | 0.90% | ~6,218 |
 | Smorgasbord | 0.80% | ~5,527 |
 | Internet Famous | 0.70% | ~4,836 |
-| On Safari | 0.60% | ~4,145 |
-| Not Even My Final Form | 0.60% | ~4,145 |
-| Variety is the Spice of Death | 0.60% | ~4,145 |
+| On Safari | 0.60% | ~4,146 |
+| Not Even My Final Form | 0.60% | ~4,146 |
+| Variety is the Spice of Death | 0.60% | ~4,146 |
 | Make it So | 0.50% | ~3,455 |
 | LA Influential | 0.40% | ~2,764 |
 | Gore Horse | 0.40% | ~2,764 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,915 (Ranked 22)  
+Progressed: 690,921 (Ranked 22)  
 Completed: 2,190 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
-| 2023-10-05 | 690,915 | 2,190 |
+| 2023-10-05 | 690,921 | 2,190 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 58)  
 Sum: 9,422 (Ranked 91)  

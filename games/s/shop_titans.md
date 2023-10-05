@@ -9,12 +9,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,114 |
 | Basic in Bulk | 3.00% | ~4,114 |
 | Titan's First Steps | 3.00% | ~4,114 |
-| Disintermediation | 2.00% | ~2,742 |
-| Another Satisfied Customer | 2.00% | ~2,742 |
-| It's Free Real Estate | 2.00% | ~2,742 |
-| Tinkle of Coins | 2.00% | ~2,742 |
-| Budding Merchant | 2.00% | ~2,742 |
-| Capitalism Ho! | 2.00% | ~2,742 |
+| Disintermediation | 2.00% | ~2,743 |
+| Another Satisfied Customer | 2.00% | ~2,743 |
+| It's Free Real Estate | 2.00% | ~2,743 |
+| Tinkle of Coins | 2.00% | ~2,743 |
+| Budding Merchant | 2.00% | ~2,743 |
+| Capitalism Ho! | 2.00% | ~2,743 |
 | The Daily Grind | 1.00% | ~1,371 |
 | One Easy Payment | 1.00% | ~1,371 |
 | Some Assembly Required | 1.00% | ~1,371 |
@@ -95,12 +95,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.50% | ~686 |
 | Exotic Commodities | 0.50% | ~686 |
 | King's Blade | 0.50% | ~686 |
-| Constellated | 0.40% | ~548 |
-| Fillin' the Bin | 0.40% | ~548 |
-| Industrial Evolution | 0.40% | ~548 |
-| A Legend is Born | 0.40% | ~548 |
-| Jackpot! | 0.40% | ~548 |
-| Economy of Scarce | 0.40% | ~548 |
+| Constellated | 0.40% | ~549 |
+| Fillin' the Bin | 0.40% | ~549 |
+| Industrial Evolution | 0.40% | ~549 |
+| A Legend is Born | 0.40% | ~549 |
+| Jackpot! | 0.40% | ~549 |
+| Economy of Scarce | 0.40% | ~549 |
 | The Free Encyclopedia | 0.30% | ~411 |
 | Thank You Tom Nook | 0.30% | ~411 |
 | Eternal Crusade | 0.30% | ~411 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,125 (Ranked 72)  
+Progressed: 137,128 (Ranked 72)  
 Completed: 161 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 161 (0.12%) (Ranked 234)
 | 2023-10-02 | 137,018 | 160 |
 | 2023-10-03 | 137,070 | 160 |
 | 2023-10-04 | 137,116 | 161 |
-| 2023-10-05 | 137,125 | 161 |
+| 2023-10-05 | 137,128 | 161 |
 ## Awards
 Max (Great for Beginners): 4,767  (Ranked 71)  
 Sum: 27,332 (Ranked 49)  

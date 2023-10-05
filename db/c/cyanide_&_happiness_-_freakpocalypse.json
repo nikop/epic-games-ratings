@@ -4,7 +4,7 @@
   "ProductSlug": "cyanide-happiness-freakpocalypse",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-03-11T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.6124809+00:00",
   "LastChanged": "2023-03-31T05:57:27.6124811+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.9394749+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:01:00.531001+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:05:41.5736758+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:59:32.2004224+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:04:30.5023985+00:00"
 }

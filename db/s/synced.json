@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 96,
@@ -486,9 +486,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 60896,
+  "EOS_Progressed": 60901,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2588,
+  "EOS_NewPlayers": 2584,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3826,6 +3826,11 @@
       "Time": "2023-10-05T05:10:24.152132+00:00",
       "NumProgressed": 60896,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T06:09:28.8931252+00:00",
+      "NumProgressed": 60901,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3838,7 +3843,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16442
+      "UsersEstimate": 16443
     },
     {
       "ID": "10",
@@ -3902,7 +3907,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9135
     },
     {
       "ID": "3",
@@ -3965,7 +3970,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 60896,
+      "Progressed": 60901,
       "Completed": 2
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-05T03:57:10.9610344+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:10:24.1521316+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:09:28.8931247+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:57:39.3909244+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:10:24.1521692+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:57:20.763428+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:09:28.8931564+00:00"
 }

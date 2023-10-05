@@ -4,7 +4,7 @@
   "ProductSlug": "i-love-finding-cats-ec21da",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-10T08:00:42.2873481+00:00",
-  "LastChanged_Achievements": "2023-10-05T05:10:20.9381984+00:00",
+  "LastChanged_Achievements": "2023-10-05T06:09:26.6908432+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:12.633214+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:00:13.6013363+00:00",
-  "LastUpdate_Achievements": "2023-10-05T05:10:20.9382018+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:59:02.0584728+00:00",
+  "LastUpdate_Achievements": "2023-10-05T06:09:26.6908527+00:00"
 }
