@@ -6,25 +6,25 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,771 |
-| Leader | 60.00% | ~5,642 |
-| Explorer | 53.00% | ~4,984 |
-| Healer | 52.00% | ~4,890 |
-| Aspiring Inventor | 44.00% | ~4,138 |
+| First Step | 72.00% | ~6,772 |
+| Leader | 60.00% | ~5,644 |
+| Explorer | 53.00% | ~4,985 |
+| Healer | 52.00% | ~4,891 |
+| Aspiring Inventor | 44.00% | ~4,139 |
 | Adventurer | 41.00% | ~3,856 |
 | Famous Healer | 38.00% | ~3,574 |
-| Local Leader | 35.00% | ~3,291 |
-| Famous Explorer | 34.00% | ~3,197 |
-| New Opportunities | 34.00% | ~3,197 |
-| Energized | 33.00% | ~3,103 |
-| The Long Haul | 33.00% | ~3,103 |
-| Survivor | 32.00% | ~3,009 |
-| The Great Healer | 31.00% | ~2,915 |
-| Legendary Explorer | 28.00% | ~2,633 |
-| Cleaner | 28.00% | ~2,633 |
-| Catastrofan | 28.00% | ~2,633 |
-| Finders, Keepers | 26.00% | ~2,445 |
-| Top Notch | 25.00% | ~2,351 |
+| Local Leader | 35.00% | ~3,292 |
+| Famous Explorer | 34.00% | ~3,198 |
+| New Opportunities | 34.00% | ~3,198 |
+| Energized | 33.00% | ~3,104 |
+| The Long Haul | 33.00% | ~3,104 |
+| Survivor | 32.00% | ~3,010 |
+| The Great Healer | 31.00% | ~2,916 |
+| Legendary Explorer | 28.00% | ~2,634 |
+| Cleaner | 28.00% | ~2,634 |
+| Catastrofan | 28.00% | ~2,634 |
+| Finders, Keepers | 26.00% | ~2,446 |
+| Top Notch | 25.00% | ~2,352 |
 | Great Leader | 23.00% | ~2,163 |
 | Mentor | 23.00% | ~2,163 |
 | Merchant | 22.00% | ~2,069 |
@@ -40,9 +40,9 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 14.00% | ~1,317 |
 | Prepared for Anything | 13.00% | ~1,223 |
 | Big Catastrofan | 13.00% | ~1,223 |
-| It's a Finnish Thing | 10.00% | ~940 |
-| Sky Burial | 10.00% | ~940 |
-| Trader | 9.00% | ~846 |
+| It's a Finnish Thing | 10.00% | ~941 |
+| Sky Burial | 10.00% | ~941 |
+| Trader | 9.00% | ~847 |
 | Bread and Circuses | 8.00% | ~752 |
 | New Eden | 7.00% | ~658 |
 | Tailored to fit | 7.00% | ~658 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,404 (Ranked 148)  
+Progressed: 9,406 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 9,348 | 0 |
 | 2023-10-03 | 9,368 | 0 |
 | 2023-10-04 | 9,383 | 0 |
-| 2023-10-05 | 9,404 | 0 |
+| 2023-10-05 | 9,406 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 339)  
 Sum: 707 (Ranked 282)  

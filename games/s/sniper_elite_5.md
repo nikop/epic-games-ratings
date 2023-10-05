@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 644)  
+Rating: 4.45 (Ranked 643)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.45 (Ranked 644)
 | The Long Game | 5.00% | ~185 |
 | It'll Buff Right Out | 5.00% | ~185 |
 | Don't hold your breath | 5.00% | ~185 |
-| Operation Foxley | 5.00% | ~182 |
+| Operation Foxley | 5.00% | ~183 |
 | Strategist | 4.00% | ~148 |
 | Tinkerer | 4.00% | ~148 |
 | Locomotion Commotion | 4.00% | ~148 |
@@ -66,9 +66,9 @@ Rating: 4.45 (Ranked 644)
 | Sink or Swim | 2.00% | ~73 |
 | Best of the Best | 1.00% | ~37 |
 | Sight Beyond Sights | 1.00% | ~37 |
-| From Führer Away | 1.00% | ~36 |
-| Alpha | 1.00% | ~36 |
-| Das Familienjuwel | 1.00% | ~36 |
+| From Führer Away | 1.00% | ~37 |
+| Alpha | 1.00% | ~37 |
+| Das Familienjuwel | 1.00% | ~37 |
 | Master of Secondaries | 0.90% | ~33 |
 | Master of Rifles | 0.80% | ~30 |
 | Operation Overlord | 0.80% | ~29 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,699 (Ranked 178)  
+Progressed: 3,700 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 11 (0.30%) (Ranked 198)
 | 2023-10-02 | 3,691 | 11 |
 | 2023-10-03 | 3,694 | 11 |
 | 2023-10-04 | 3,697 | 11 |
-| 2023-10-05 | 3,699 | 11 |
+| 2023-10-05 | 3,700 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

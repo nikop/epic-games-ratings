@@ -2,12 +2,12 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-09-27T18:00:22.509375+00:00",
@@ -56,15 +56,21 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-05T17:59:44.2591675+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74412,
+  "EOS_Progressed": 74470,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 11392,
+  "EOS_NewPlayers": 11317,
   "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1752,6 +1758,11 @@
       "Time": "2023-10-05T17:04:51.9162112+00:00",
       "NumProgressed": 74412,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-10-05T18:05:37.0315966+00:00",
+      "NumProgressed": 74470,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -1764,7 +1775,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 89,
       "XP": 100,
-      "UsersEstimate": 66227
+      "UsersEstimate": 66278
     },
     {
       "ID": "JB_is_Playing",
@@ -1772,7 +1783,7 @@
       "Name": "JB is Playing",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 14882
+      "UsersEstimate": 14894
     },
     {
       "ID": "JBs_House_Discovered",
@@ -1780,7 +1791,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 17115
+      "UsersEstimate": 17128
     },
     {
       "ID": "Kirk_is_Playing",
@@ -1788,7 +1799,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 29765
+      "UsersEstimate": 29788
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -1796,7 +1807,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 48368
+      "UsersEstimate": 48406
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -1804,7 +1815,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 67715
+      "UsersEstimate": 67768
     },
     {
       "ID": "Lights_On",
@@ -1820,7 +1831,7 @@
       "Name": "Sebastian\u0027s House Discovered",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 11906
+      "UsersEstimate": 11915
     },
     {
       "ID": "The_Band_is_Back_Together",
@@ -1828,23 +1839,23 @@
       "Name": "The Band is Back Together",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4468
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 74412,
+      "Progressed": 74470,
       "Completed": 107
     }
   ],
   "FirstSeen": "2023-09-21T18:00:01.3259174+00:00",
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
-  "LastChanged": "2023-10-03T17:57:44.7580773+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:04:51.9162106+00:00",
+  "LastChanged": "2023-10-05T17:59:44.2591674+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:05:37.0315959+00:00",
   "LastUpdate_AppInfo": "2023-10-05T16:57:03.9692736+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:59:03.8436478+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:04:51.9162295+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:44.2591679+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:05:37.0316159+00:00"
 }

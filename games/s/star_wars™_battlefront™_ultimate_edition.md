@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~400 |
-| Off to a good start | 66.00% | ~293 |
-| Do... or do not. There is no try | 51.00% | ~226 |
-| A good blaster at your side | 34.00% | ~151 |
+| New Recruit | 90.00% | ~401 |
+| Off to a good start | 66.00% | ~294 |
+| Do... or do not. There is no try | 51.00% | ~227 |
+| A good blaster at your side | 34.00% | ~152 |
 | Scrap collector | 22.00% | ~98 |
+| All right, I'll give it a try | 20.00% | ~89 |
+| I suggest a new strategy | 20.00% | ~89 |
 | Great shot, kid! | 20.00% | ~89 |
-| All right, I'll give it a try | 19.00% | ~84 |
-| I suggest a new strategy | 19.00% | ~84 |
 | Shoot first | 18.00% | ~80 |
-| The power of the Force | 17.00% | ~75 |
-| Together we can rule the galaxy | 17.00% | ~75 |
+| The power of the Force | 17.00% | ~76 |
+| Together we can rule the galaxy | 17.00% | ~76 |
 | Collector | 16.00% | ~71 |
+| Best star-pilot in the galaxy | 13.00% | ~58 |
 | Survivor | 13.00% | ~58 |
-| Tell Jabba that I've got his money | 12.00% | ~53 |
-| Best star-pilot in the galaxy | 12.00% | ~53 |
+| Tell Jabba that I've got his money | 12.00% | ~54 |
+| Never tell me the odds! | 11.00% | ~49 |
+| Impressive. Most impressive. | 11.00% | ~49 |
 | A cunning warrior | 11.00% | ~49 |
-| What's the cargo? | 10.00% | ~44 |
-| Never tell me the odds! | 10.00% | ~44 |
-| Impressive. Most impressive. | 10.00% | ~44 |
-| Judge me by my size, do you? | 10.00% | ~44 |
-| "Gonk? Gonk!" | 9.00% | ~40 |
+| What's the cargo? | 10.00% | ~45 |
+| "Gonk? Gonk!" | 10.00% | ~45 |
+| Judge me by my size, do you? | 10.00% | ~45 |
 | A tremor in the Force | 9.00% | ~40 |
 | Distinguished | 8.00% | ~36 |
 | Support the troops | 8.00% | ~36 |
+| Patience you must have | 7.00% | ~31 |
 | On the ball | 6.00% | ~27 |
 | Not bad for a little furball | 6.00% | ~27 |
-| Patience you must have | 6.00% | ~27 |
 | Don't underestimate the Force | 6.00% | ~27 |
 | I've been waiting for you | 5.00% | ~22 |
 | When 900 years old you reach... | 5.00% | ~22 |
@@ -46,9 +46,9 @@
 | What will you become? | 4.00% | ~18 |
 | Disturbed tranquility | 4.00% | ~18 |
 | Playing the objective | 3.00% | ~13 |
+| Ackbar's Elite | 3.00% | ~13 |
 | The circle is now complete | 3.00% | ~13 |
 | Hold the line! | 2.00% | ~9 |
-| Ackbar's Elite | 2.00% | ~9 |
 | No such thing as luck | 2.00% | ~9 |
 | Do we take prisoners? | 2.00% | ~9 |
 | You have your moments | 2.00% | ~9 |
@@ -63,13 +63,13 @@
 | Don't get cocky | 0.70% | ~3 |
 | Master | 0.70% | ~3 |
 | Greed can be a very powerful ally | 0.70% | ~3 |
-| Stay on target | 0.50% | ~2 |
-| Stay in attack formation | 0.50% | ~2 |
+| Stay on target | 0.40% | ~2 |
+| Stay in attack formation | 0.40% | ~2 |
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 278)  
-Completed: 1 (0.23%) (Ranked 210)  
+Progressed: 446 (Ranked 278)  
+Completed: 1 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 210)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 444 | 1 |
+| 2023-10-05 | 446 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

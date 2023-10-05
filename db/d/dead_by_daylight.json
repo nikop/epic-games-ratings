@@ -6,8 +6,8 @@
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 14,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -10979,9 +10979,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 920340,
+  "EOS_Progressed": 920448,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13533,
+  "EOS_NewPlayers": 13549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30044,6 +30044,11 @@
       "Time": "2023-10-05T17:05:29.1155592+00:00",
       "NumProgressed": 920340,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T18:06:29.8680032+00:00",
+      "NumProgressed": 920448,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30223,7 +30228,7 @@
       "Name": "Zealous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH_023",
@@ -30231,7 +30236,7 @@
       "Name": "It wakes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH_024",
@@ -30293,9 +30298,9 @@
       "ID": "ACH_031",
       "SetID": "bdmlp8o",
       "Name": "Vulture",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 1841
     },
     {
       "ID": "ACH_032",
@@ -30359,7 +30364,7 @@
       "Name": "Skillful",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH_040",
@@ -31886,21 +31891,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 920340,
+      "Progressed": 920448,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 920340,
+      "Progressed": 920448,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-05T16:00:04.2559161+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:05:29.115559+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:06:29.8680024+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:59:06.3084044+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:05:29.1163166+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:48.380198+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:06:29.8687965+00:00"
 }

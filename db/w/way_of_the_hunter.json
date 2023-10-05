@@ -5,9 +5,9 @@
   "Ranking_Rating": 758,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 343,
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -1058,10 +1058,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 311,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-10-05T17:57:43.7751501+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 311,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1135,7 +1141,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Creative Community",
@@ -1156,8 +1162,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-10-04T15:03:08.8114941+00:00",
+  "LastChanged": "2023-10-05T17:57:43.7751499+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.7964064+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:57:30.8154139+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:03:38.9040364+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:57:43.7751505+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:04:14.8399817+00:00"
 }

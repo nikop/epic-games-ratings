@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.40% | ~57 |
 | Strong | 0.40% | ~57 |
 | Hanging Gardens | 0.40% | ~57 |
+| Oracle | 0.40% | ~57 |
 | Judaism | 0.40% | ~57 |
 | Kushite Paganism | 0.40% | ~57 |
 | Ambitious | 0.30% | ~43 |
@@ -35,13 +36,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
-| Oracle | 0.30% | ~43 |
 | Pyramids | 0.30% | ~43 |
 | Christianity | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
 | Greek Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
+| Zoroastrianism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Trade Caravan | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
-| Zoroastrianism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
 | Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,369 (Ranked 133)  
+Progressed: 14,370 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,369 | 5 |
+| 2023-10-05 | 14,370 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

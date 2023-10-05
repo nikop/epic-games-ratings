@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4161,9 +4161,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -4274,8 +4274,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-04T19:58:33.1072348+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:05:51.4770062+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:07:01.639493+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:58:36.1128771+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:05:51.4770682+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:09.9603175+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:07:01.6395892+00:00"
 }

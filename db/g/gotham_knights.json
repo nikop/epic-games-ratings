@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3374,7 +3374,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73168,
+  "EOS_Progressed": 73170,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 2,
@@ -17704,6 +17704,11 @@
       "Time": "2023-10-05T17:05:43.2887686+00:00",
       "NumProgressed": 73168,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-05T18:06:49.5023355+00:00",
+      "NumProgressed": 73170,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17803,7 +17808,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10975
+      "UsersEstimate": 10976
     },
     {
       "ID": "CHALLENGES_1",
@@ -17819,7 +17824,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "CLAYFACE_2",
@@ -17827,7 +17832,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13170
+      "UsersEstimate": 13171
     },
     {
       "ID": "CLAYFACE_3",
@@ -17947,7 +17952,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "FREEZE_2",
@@ -18019,7 +18024,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25609
+      "UsersEstimate": 25610
     },
     {
       "ID": "HARLEY_2",
@@ -18059,7 +18064,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38047
+      "UsersEstimate": 38048
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18091,7 +18096,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20487
+      "UsersEstimate": 20488
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18107,7 +18112,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24877
+      "UsersEstimate": 24878
     },
     {
       "ID": "MYSTERY_02",
@@ -18139,7 +18144,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13170
+      "UsersEstimate": 13171
     },
     {
       "ID": "MYSTERY_06",
@@ -18147,7 +18152,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10975
+      "UsersEstimate": 10976
     },
     {
       "ID": "MYSTERY_07",
@@ -18171,7 +18176,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8048
+      "UsersEstimate": 8049
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18202,13 +18207,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73168,
+      "Progressed": 73170,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43448,
+      "Progressed": 43450,
       "Completed": 2666
     }
   ],
@@ -18216,8 +18221,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-05T11:58:42.0656685+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:05:43.2887681+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:06:49.5023349+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:58:16.7574843+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:05:43.2889251+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:58:41.3379763+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:06:49.5024527+00:00"
 }

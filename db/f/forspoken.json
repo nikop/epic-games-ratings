@@ -6,7 +6,7 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -400,9 +400,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41792,
+  "EOS_Progressed": 41800,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1698,
+  "EOS_NewPlayers": 1705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9870,6 +9870,11 @@
       "Time": "2023-10-05T17:06:32.8266713+00:00",
       "NumProgressed": 41792,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-05T18:08:00.0159169+00:00",
+      "NumProgressed": 41800,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9929,7 +9934,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10033,7 +10038,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "CUFF_ATTACK",
@@ -10121,7 +10126,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -10217,7 +10222,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "SPRING_ALL",
@@ -10304,22 +10309,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41792,
+      "Progressed": 41800,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6629,
-      "Completed": 6629
+      "Progressed": 6637,
+      "Completed": 6637
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-05T16:57:25.6587851+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:06:32.8266707+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:08:00.0159163+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:57:25.6587856+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:06:32.8267724+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:57:36.1291715+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:08:00.0160128+00:00"
 }

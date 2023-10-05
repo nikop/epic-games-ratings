@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528636,
+  "EOS_Progressed": 528640,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18454,6 +18454,11 @@
       "Time": "2023-10-05T17:04:29.5943552+00:00",
       "NumProgressed": 528636,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-05T18:05:05.2099836+00:00",
+      "NumProgressed": 528640,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 57,
@@ -18465,7 +18470,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121586
+      "UsersEstimate": 121587
     },
     {
       "ID": "10",
@@ -18473,7 +18478,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237886
+      "UsersEstimate": 237888
     },
     {
       "ID": "11",
@@ -18481,7 +18486,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370045
+      "UsersEstimate": 370048
     },
     {
       "ID": "12",
@@ -18489,7 +18494,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116300
+      "UsersEstimate": 116301
     },
     {
       "ID": "13",
@@ -18521,7 +18526,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47577
+      "UsersEstimate": 47578
     },
     {
       "ID": "17",
@@ -18537,7 +18542,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79295
+      "UsersEstimate": 79296
     },
     {
       "ID": "19",
@@ -18545,7 +18550,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327754
+      "UsersEstimate": 327757
     },
     {
       "ID": "2",
@@ -18561,7 +18566,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126873
+      "UsersEstimate": 126874
     },
     {
       "ID": "21",
@@ -18577,7 +18582,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47577
+      "UsersEstimate": 47578
     },
     {
       "ID": "23",
@@ -18593,7 +18598,7 @@
       "Name": "Privacy, Please!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "25",
@@ -18617,7 +18622,7 @@
       "Name": "Silky Smooth",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "28",
@@ -18633,7 +18638,7 @@
       "Name": "Hash It Over",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "3",
@@ -18681,7 +18686,7 @@
       "Name": "Biting Tongue",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "35",
@@ -18689,7 +18694,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264318
+      "UsersEstimate": 264320
     },
     {
       "ID": "36",
@@ -18721,7 +18726,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179736
+      "UsersEstimate": 179738
     },
     {
       "ID": "4",
@@ -18761,7 +18766,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89868
+      "UsersEstimate": 89869
     },
     {
       "ID": "44",
@@ -18793,7 +18798,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327754
+      "UsersEstimate": 327757
     },
     {
       "ID": "48",
@@ -18801,7 +18806,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105727
+      "UsersEstimate": 105728
     },
     {
       "ID": "49",
@@ -18809,7 +18814,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179736
+      "UsersEstimate": 179738
     },
     {
       "ID": "5",
@@ -18817,7 +18822,7 @@
       "Name": "What a Catch!",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "50",
@@ -18825,7 +18830,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74009
+      "UsersEstimate": 74010
     },
     {
       "ID": "51",
@@ -18833,7 +18838,7 @@
       "Name": "Hit the Spot",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "52",
@@ -18841,7 +18846,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243173
+      "UsersEstimate": 243174
     },
     {
       "ID": "53",
@@ -18849,7 +18854,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121586
+      "UsersEstimate": 121587
     },
     {
       "ID": "54",
@@ -18920,15 +18925,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528636,
+      "Progressed": 528640,
       "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:04:29.5943546+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:05:05.2099829+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:00:41.9602648+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:04:29.5944939+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:02:08.5813321+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:05:05.210193+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 335,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 119,
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -7448,10 +7448,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 6689,
       "NumberOfAwardsMax": 1194
+    },
+    {
+      "Time": "2023-10-05T17:59:55.625803+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 6699,
+      "NumberOfAwardsMax": 1194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6689,
+  "NumberOfAwards": 6699,
   "NumberOfAwardsMax": 1194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7459,7 +7465,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 453
+      "Count": 458
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7513,7 +7519,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 466
+      "Count": 471
     },
     {
       "Text": "This game has Easy Combat",
@@ -7542,9 +7548,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-10-05T15:00:04.1700546+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:06:40.0919161+00:00",
+  "LastChanged": "2023-10-05T17:59:55.6258028+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:08:10.0845455+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:26.605746+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:59:11.841678+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:06:40.0919193+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:55.6258035+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:08:10.0845506+00:00"
 }

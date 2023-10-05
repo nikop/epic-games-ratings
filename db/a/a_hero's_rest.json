@@ -2,9 +2,9 @@
   "ID": "779b5dccd6354e2a8a5cc05d7ba5f87d",
   "Name": "A Hero\u0027s Rest",
   "ProductSlug": "a-heros-rest-67f117",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-12T07:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.9621063+00:00",
   "FirstSeenAchievements": "2023-07-21T08:04:30.7694129+00:00",
   "LastChanged": "2023-03-31T05:57:29.9621064+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:06:14.5293851+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:07:34.0413441+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:21.932202+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:58:42.4748806+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:06:14.5293884+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:17.4703328+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:07:34.0413551+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.40% | ~3,681 |
-| It wakes | 0.40% | ~3,681 |
-| Skillful | 0.40% | ~3,681 |
+| Zealous | 0.40% | ~3,682 |
+| It wakes | 0.40% | ~3,682 |
+| Skillful | 0.40% | ~3,682 |
 | Handyman | 0.30% | ~2,761 |
 | Not half bad | 0.30% | ~2,761 |
 | Apt Survivor | 0.30% | ~2,761 |
@@ -28,6 +28,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bloody Millionaire | 0.20% | ~1,841 |
 | Apt Killer | 0.20% | ~1,841 |
 | Risk it all | 0.20% | ~1,841 |
+| Vulture | 0.20% | ~1,841 |
 | I | 0.20% | ~1,841 |
 | II | 0.20% | ~1,841 |
 | Engineer | 0.20% | ~1,841 |
@@ -49,7 +50,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.10% | ~920 |
 | The Key to Escape | 0.10% | ~920 |
 | Gifts for the Fog | 0.10% | ~920 |
-| Vulture | 0.10% | ~920 |
 | Adept Jake | 0.10% | ~920 |
 | Adept Dwight | 0.10% | ~920 |
 | Adept Claudette | 0.10% | ~920 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,340 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 289)  
+Progressed: 920,448 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -404,7 +404,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 920,340 | 49 |
+| 2023-10-05 | 920,448 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
 Sum: 259,598 (Ranked 13)  

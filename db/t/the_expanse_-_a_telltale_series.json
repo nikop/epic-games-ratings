@@ -5,7 +5,7 @@
   "Ranking_Rating": 523,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 22,
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13582,
+  "EOS_Progressed": 13585,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7742,6 +7742,11 @@
       "Time": "2023-10-05T16:07:36.2709084+00:00",
       "NumProgressed": 13582,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-05T18:07:15.5102973+00:00",
+      "NumProgressed": 13585,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7800,9 +7805,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "16",
@@ -7824,9 +7829,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "19",
@@ -7890,7 +7895,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "26",
@@ -7976,9 +7981,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "9",
@@ -7993,7 +7998,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13582,
+      "Progressed": 13585,
       "Completed": 9
     }
   ],
@@ -8001,8 +8006,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:06:01.0548977+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:07:15.5102966+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:00:54.9605409+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:06:01.0549602+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:02:25.9502356+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:07:15.5104061+00:00"
 }

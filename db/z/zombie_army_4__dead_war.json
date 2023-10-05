@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2133,9 +2133,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43566,
+  "EOS_Progressed": 43567,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7343,6 +7343,11 @@
       "Time": "2023-10-05T17:05:53.6514737+00:00",
       "NumProgressed": 43566,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-05T18:07:04.943413+00:00",
+      "NumProgressed": 43567,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7354,7 +7359,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26575
+      "UsersEstimate": 26576
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7410,7 +7415,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12198
+      "UsersEstimate": 12199
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -7546,7 +7551,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27011
+      "UsersEstimate": 27012
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7562,7 +7567,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14812
+      "UsersEstimate": 14813
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -7602,7 +7607,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21347
+      "UsersEstimate": 21348
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -7618,7 +7623,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13505
+      "UsersEstimate": 13506
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -7642,7 +7647,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16119
+      "UsersEstimate": 16120
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7658,7 +7663,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21783
+      "UsersEstimate": 21784
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -7794,7 +7799,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14812
+      "UsersEstimate": 14813
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -7810,7 +7815,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28318
+      "UsersEstimate": 28319
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7881,15 +7886,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43566,
+      "Progressed": 43567,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-04T14:59:08.0598295+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:05:53.6514732+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:07:04.9434124+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:59:38.9910672+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:05:53.6515559+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:00:37.27304+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:07:04.9435437+00:00"
 }

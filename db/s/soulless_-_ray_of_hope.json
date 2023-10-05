@@ -2,9 +2,9 @@
   "ID": "8ec23fae547d4e3e9e4550b44d249f7b",
   "Name": "Soulless - Ray Of Hope",
   "ProductSlug": "soulless-ray-of-hope-e37a13",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-27T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.4942379+00:00",
   "LastChanged": "2023-03-31T05:58:24.494238+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:48.2420304+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:58:10.5793713+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:03:48.9120603+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:58:32.2334536+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:04:29.1057761+00:00"
 }

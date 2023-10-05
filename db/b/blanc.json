@@ -3,8 +3,8 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2774,
+  "EOS_Progressed": 2776,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3593,6 +3593,11 @@
       "Time": "2023-10-05T16:04:00.986634+00:00",
       "NumProgressed": 2774,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-05T18:03:41.5221163+00:00",
+      "NumProgressed": 2776,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3620,7 +3625,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -3692,7 +3697,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -3707,7 +3712,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2774,
+      "Progressed": 2776,
       "Completed": 6
     }
   ],
@@ -3715,8 +3720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:03:15.463398+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:03:41.5221157+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:53.5890664+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:58:34.2543015+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:03:15.463431+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:59:06.4298198+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:03:41.5221485+00:00"
 }

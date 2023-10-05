@@ -2,9 +2,9 @@
   "ID": "03da83c059e94d01a5be784017ea0f4d",
   "Name": "Paranormal Mission",
   "ProductSlug": "paranormal-mission-ef50f9",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T22:03:09.0908095+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:08:20.6300764+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:09:23.0059789+00:00",
   "LastUpdate_AppInfo": "2023-09-28T23:57:00.7995983+00:00",
-  "LastUpdate_Ratings": "2023-10-05T17:00:41.0954666+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:08:20.6300798+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:02:07.41299+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:09:23.0059828+00:00"
 }

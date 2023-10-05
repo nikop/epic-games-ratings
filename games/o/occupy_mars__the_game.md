@@ -33,7 +33,7 @@ Rating: 4.00 (Ranked 961)
 | Planetary Defence | 1.00% | ~16 |
 | Thunderstruck | 1.00% | ~16 |
 | 5G Network | 0.70% | ~12 |
-| One does not simply... | 0.60% | ~10 |
+| One does not simply... | 0.70% | ~12 |
 | Rover Mechanic | 0.50% | ~8 |
 | Bull’s eye | 0.40% | ~7 |
 | Korolev crater | 0.40% | ~7 |

@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 643,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 178,
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3699,
+  "EOS_Progressed": 3700,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7065,6 +7065,11 @@
       "Time": "2023-10-05T17:03:12.6018999+00:00",
       "NumProgressed": 3699,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-05T18:03:37.4500644+00:00",
+      "NumProgressed": 3700,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7516,7 +7521,7 @@
       "Name": "From F\u00FChrer Away",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -7532,7 +7537,7 @@
       "Name": "Alpha",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -7548,7 +7553,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7556,7 +7561,7 @@
       "Name": "Das Familienjuwel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -7643,13 +7648,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3650,
+      "Progressed": 3651,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3699,
+      "Progressed": 3700,
       "Completed": 11
     }
   ],
@@ -7657,8 +7662,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-05T17:03:12.6018994+00:00",
+  "LastChanged_Achievements": "2023-10-05T18:03:37.4500638+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:59:58.6750776+00:00",
-  "LastUpdate_Achievements": "2023-10-05T17:03:12.602012+00:00"
+  "LastUpdate_Ratings": "2023-10-05T18:01:07.7203867+00:00",
+  "LastUpdate_Achievements": "2023-10-05T18:03:37.4501821+00:00"
 }

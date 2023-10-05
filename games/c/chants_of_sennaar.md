@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Half the way | 0.40% | ~1 |
 | Open door | 0.40% | ~1 |
 | Free at last | 0.40% | ~1 |
 | Feels like springtime | 0.40% | ~1 |
+| For its own good | 0.40% | ~1 |
+| A Link to the Past | 0.40% | ~1 |
+| Alchemists Express | 0.40% | ~1 |
 | Rascal | 0.40% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
 | Cable guy | 0.00% | ~0 |
 | A good beginning | 0.00% | ~0 |
-| Half the way | 0.00% | ~0 |
 | A great audience | 0.00% | ~0 |
-| For its own good | 0.00% | ~0 |
-| A Link to the Past | 0.00% | ~0 |
-| Alchemists Express | 0.00% | ~0 |
 | True G3M4R | 0.00% | ~0 |
 | The Preacher's fate | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |

@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,342 |
-| Worker Specialization | 78.00% | ~5,274 |
-| First Contact | 73.00% | ~4,936 |
-| Win a Battle | 66.00% | ~4,463 |
-| Anomaly Researcher | 62.00% | ~4,192 |
-| Unleash My Power | 62.00% | ~4,192 |
+| Colonize a Planet | 79.00% | ~5,343 |
+| Worker Specialization | 78.00% | ~5,275 |
+| First Contact | 73.00% | ~4,937 |
+| Win a Battle | 66.00% | ~4,464 |
+| Anomaly Researcher | 62.00% | ~4,193 |
+| Unleash My Power | 62.00% | ~4,193 |
 | Own 30 Planets | 34.00% | ~2,299 |
 | Xenocide | 32.00% | ~2,164 |
 | Design a Civilization | 32.00% | ~2,164 |
-| Commodity Trader | 31.00% | ~2,096 |
-| Design a Ship | 28.00% | ~1,893 |
-| Commodity Seller | 25.00% | ~1,690 |
+| Commodity Trader | 31.00% | ~2,097 |
+| Design a Ship | 28.00% | ~1,894 |
+| Commodity Seller | 25.00% | ~1,691 |
 | Prestige Victory! | 14.00% | ~947 |
 | Galactic War | 11.00% | ~744 |
 | Trading Partner | 9.00% | ~609 |
@@ -27,7 +27,7 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 6.00% | ~406 |
 | Win with a Custom Faction | 6.00% | ~406 |
 | Win Quickly | 5.00% | ~338 |
-| Conquest Victory! | 4.00% | ~270 |
+| Conquest Victory! | 4.00% | ~271 |
 | Pirate Cleansing | 3.00% | ~203 |
 | Win an Immense Game | 3.00% | ~203 |
 | Artifact Mastery | 2.00% | ~135 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,762 (Ranked 159)  
+Progressed: 6,763 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 6,748 | 0 |
 | 2023-10-03 | 6,755 | 0 |
 | 2023-10-04 | 6,759 | 0 |
-| 2023-10-05 | 6,762 | 0 |
+| 2023-10-05 | 6,763 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 355)  
 Sum: 681 (Ranked 284)  

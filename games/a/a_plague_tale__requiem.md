@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 164)
 | Old protector | 2.00% | ~269 |
 | Malignant | 1.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,474 (Ranked 135)  
+Progressed: 13,474 (Ranked 136)  
 Completed: 48 (0.36%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 48 (0.36%) (Ranked 186)
 | 2023-10-05 | 13,474 | 48 |
 ## Awards
 Max (Great Boss Battles): 425  (Ranked 216)  
-Sum: 654 (Ranked 295)  
+Sum: 655 (Ranked 295)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -224,8 +224,8 @@ Diff (max vs sum): -79
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 25 |
 | This game has Amazing Characters | 23 |
+| This game has Quickly Understood Controls | 21 |
 | This game has a Creative Community | 21 |
-| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -289,4 +289,4 @@ Diff (max vs sum): -79
 | 2023-09-27 | 4.73 | 422 | 649 |
 | 2023-09-30 | 4.73 | 423 | 650 |
 | 2023-10-02 | 4.73 | 423 | 652 |
-| 2023-10-05 | 4.73 | 425 | 654 |
+| 2023-10-05 | 4.73 | 425 | 655 |
