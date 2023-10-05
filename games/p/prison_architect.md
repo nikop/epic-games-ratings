@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,216 |
-| Get Busy Living | 16.00% | ~28,938 |
-| Samuel Norton | 9.00% | ~16,278 |
-| Spare The Rod | 5.00% | ~9,043 |
+| Stone Walls | 25.00% | ~45,219 |
+| Get Busy Living | 16.00% | ~28,940 |
+| Samuel Norton | 9.00% | ~16,279 |
+| Spare The Rod | 5.00% | ~9,044 |
 | Don't Put Me In The Dark | 3.00% | ~5,426 |
 | Wait and Hope | 3.00% | ~5,426 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,426 |
-| Throw The Book At Them | 2.00% | ~3,617 |
-| Iron Bars | 2.00% | ~3,617 |
+| Throw The Book At Them | 2.00% | ~3,618 |
+| Iron Bars | 2.00% | ~3,618 |
 | D.B. Cooper | 1.00% | ~1,809 |
 | Reformation | 0.60% | ~1,085 |
 | Crowd Control | 0.50% | ~904 |
-| Freedom | 0.40% | ~723 |
+| Freedom | 0.40% | ~724 |
 | Confined | 0.30% | ~543 |
 | It's Not What You Know... | 0.10% | ~181 |
 | ... It's What You Can Prove | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,864 (Ranked 67)  
+Progressed: 180,876 (Ranked 67)  
 Completed: 8 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 8 (0.00%) (Ranked 306)
 | 2023-10-02 | 180,357 | 8 |
 | 2023-10-03 | 180,588 | 8 |
 | 2023-10-04 | 180,858 | 8 |
-| 2023-10-05 | 180,864 | 8 |
+| 2023-10-05 | 180,876 | 8 |
 ## Awards
 Max (Extremely Fun): 522  (Ranked 200)  
-Sum: 4,481 (Ranked 141)  
+Sum: 4,483 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -203,9 +203,9 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 497 |
 | This game has Quickly Understood Controls | 485 |
 | This game is Relaxing | 463 |
-| This game has Amazing Storytelling | 445 |
+| This game has Amazing Storytelling | 446 |
 | This game has Diverse Characters | 434 |
-| This game is Educational | 423 |
+| This game is Educational | 424 |
 | This game has Amazing Characters | 392 |
 | This game has a Creative Community | 307 |
 | This game has Obsessive Gameplay | 234 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 59
 | 2023-10-02 | 4.61 | - | 519 | 4,463 |
 | 2023-10-03 | 4.61 | - | 519 | 4,472 |
 | 2023-10-04 | 4.61 | - | 522 | 4,481 |
+| 2023-10-05 | 4.61 | - | 522 | 4,483 |

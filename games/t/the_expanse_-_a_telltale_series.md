@@ -7,10 +7,10 @@ Rating: 4.53 (Ranked 523)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 3.00% | ~407 |
 | Drug Gifter | 1.00% | ~136 |
-| Bosmang | 0.90% | ~122 |
-| The Pit and the Pirates | 0.80% | ~108 |
+| Bosmang | 1.00% | ~136 |
+| The Pit and the Pirates | 0.90% | ~122 |
+| Drone Dodger | 0.80% | ~108 |
 | Impossible Objects | 0.80% | ~108 |
-| Drone Dodger | 0.70% | ~95 |
 | Call it Even | 0.70% | ~95 |
 | Celebrations are in Order | 0.70% | ~95 |
 | Data Archivist | 0.60% | ~81 |
@@ -36,8 +36,8 @@ Rating: 4.53 (Ranked 523)
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,554 (Ranked 134)  
-Completed: 4 (0.03%) (Ranked 276)  
+Progressed: 13,560 (Ranked 134)  
+Completed: 5 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 4 (0.03%) (Ranked 276)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,554 | 4 |
+| 2023-10-05 | 13,560 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

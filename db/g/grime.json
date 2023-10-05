@@ -1000,9 +1000,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150217,
+  "EOS_Progressed": 150230,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10500,6 +10500,11 @@
       "Time": "2023-10-05T00:04:58.3129316+00:00",
       "NumProgressed": 150217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T01:49:11.5526239+00:00",
+      "NumProgressed": 150230,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10685,9 +10690,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -10878,21 +10883,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149800,
-      "Completed": 1138
+      "Progressed": 149813,
+      "Completed": 1139
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150217,
+      "Progressed": 150230,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-04T22:00:31.5462818+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:04:58.3129309+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:49:11.5526235+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:00:56.6145232+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:04:58.3131076+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:44:28.6185966+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:49:11.5527019+00:00"
 }

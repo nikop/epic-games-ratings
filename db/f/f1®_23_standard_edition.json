@@ -366,7 +366,7 @@
   "Tags": [],
   "EOS_Progressed": 2928,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2289,9 +2289,9 @@
       "ID": "achievement_0021",
       "SetID": "9123ogc",
       "Name": "Team Orders",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2196
     },
     {
       "ID": "achievement_0022",
@@ -2530,8 +2530,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:09:16.7119745+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:54:13.3954033+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:01:19.0708578+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:09:16.7120336+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:44:43.417866+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:54:13.3954427+00:00"
 }

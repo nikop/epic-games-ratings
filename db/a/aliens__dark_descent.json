@@ -5200,9 +5200,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5409,8 +5409,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-01T17:02:15.244996+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:04:29.6395102+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:48:50.9075492+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:28.6223813+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:03:19.6858716+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:04:29.6396294+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:48:13.3391733+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:50.9075993+00:00"
 }

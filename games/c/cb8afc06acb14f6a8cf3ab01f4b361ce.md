@@ -5,48 +5,48 @@ Rating: 4.07 (Ranked 943)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~77,041 |
-| May the Torchbearer light our way | 34.00% | ~70,794 |
-| A powerful aura was here | 21.00% | ~43,726 |
-| Let's raise the stakes!! | 9.00% | ~18,740 |
-| Rumors are true | 4.00% | ~8,329 |
-| Pride is a sin, young Knight | 4.00% | ~8,329 |
-| Your wounds… They are healing so fast! | 4.00% | ~8,329 |
-| Bring it on! | 4.00% | ~8,329 |
-| We'll be careful | 3.00% | ~6,247 |
-| Back to your senses | 2.00% | ~4,164 |
-| They tricked me | 1.00% | ~2,082 |
-| We need to talk | 1.00% | ~2,082 |
-| They won't last long | 1.00% | ~2,082 |
-| I took a risk | 0.90% | ~1,874 |
-| I feel drawn to it | 0.60% | ~1,249 |
-| Their fate is sealed | 0.50% | ~1,041 |
-| Here to stay | 0.40% | ~833 |
-| Counting on you | 0.40% | ~833 |
-| You want more? I've got more! | 0.40% | ~833 |
-| This is the end | 0.30% | ~625 |
-| We can choose to fight | 0.30% | ~625 |
-| Not even from this world | 0.20% | ~416 |
-| No damsels in distress | 0.10% | ~208 |
-| The immortal is bound to reborn | 0.10% | ~208 |
-| A legend among Chimeras | 0.10% | ~208 |
-| It's only pain | 0.10% | ~208 |
-| I know how to handle it | 0.10% | ~208 |
-| Settle this once and for all | 0.10% | ~208 |
-| The Ashen Knight | 0.10% | ~208 |
-| The Shade | 0.10% | ~208 |
-| Through the Veil | 0.10% | ~208 |
-| Call this the Judge's mercy | 0.10% | ~208 |
-| There's too many of them! | 0.10% | ~208 |
-| I've been waiting for this! | 0.10% | ~208 |
-| I'm just warming up | 0.10% | ~208 |
-| We learned it the hard way | 0.10% | ~208 |
-| They wanted yet another monster… | 0.10% | ~208 |
-| Something... unnatural | 0.10% | ~208 |
-| We strike as one | 0.10% | ~208 |
-| Chaos be damned! | 0.10% | ~208 |
+| The touch of Chaos | 37.00% | ~77,428 |
+| May the Torchbearer light our way | 34.00% | ~71,150 |
+| A powerful aura was here | 21.00% | ~43,946 |
+| Let's raise the stakes!! | 9.00% | ~18,834 |
+| Rumors are true | 4.00% | ~8,371 |
+| Pride is a sin, young Knight | 4.00% | ~8,371 |
+| Your wounds… They are healing so fast! | 4.00% | ~8,371 |
+| Bring it on! | 4.00% | ~8,371 |
+| We'll be careful | 3.00% | ~6,278 |
+| Back to your senses | 2.00% | ~4,185 |
+| They tricked me | 1.00% | ~2,093 |
+| We need to talk | 1.00% | ~2,093 |
+| They won't last long | 1.00% | ~2,093 |
+| I took a risk | 0.90% | ~1,883 |
+| I feel drawn to it | 0.60% | ~1,256 |
+| Their fate is sealed | 0.50% | ~1,046 |
+| Here to stay | 0.40% | ~837 |
+| Counting on you | 0.40% | ~837 |
+| You want more? I've got more! | 0.40% | ~837 |
+| This is the end | 0.30% | ~628 |
+| We can choose to fight | 0.30% | ~628 |
+| Not even from this world | 0.20% | ~419 |
+| No damsels in distress | 0.10% | ~209 |
+| The immortal is bound to reborn | 0.10% | ~209 |
+| A legend among Chimeras | 0.10% | ~209 |
+| It's only pain | 0.10% | ~209 |
+| I know how to handle it | 0.10% | ~209 |
+| Settle this once and for all | 0.10% | ~209 |
+| The Ashen Knight | 0.10% | ~209 |
+| The Shade | 0.10% | ~209 |
+| Through the Veil | 0.10% | ~209 |
+| Call this the Judge's mercy | 0.10% | ~209 |
+| There's too many of them! | 0.10% | ~209 |
+| I've been waiting for this! | 0.10% | ~209 |
+| I'm just warming up | 0.10% | ~209 |
+| We learned it the hard way | 0.10% | ~209 |
+| They wanted yet another monster… | 0.10% | ~209 |
+| Something... unnatural | 0.10% | ~209 |
+| We strike as one | 0.10% | ~209 |
+| Chaos be damned! | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,218 (Ranked 62)  
+Progressed: 209,266 (Ranked 62)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 169,170 | 0 |
 | 2023-10-03 | 189,727 | 0 |
 | 2023-10-04 | 207,599 | 1 |
-| 2023-10-05 | 208,218 | 1 |
+| 2023-10-05 | 209,266 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

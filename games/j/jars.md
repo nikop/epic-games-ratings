@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Missing data | 84.00% | ~66 |
 | Broken jar | 80.00% | ~63 |
-| It fits. IT FITS! | 76.00% | ~60 |
+| It fits. IT FITS! | 77.00% | ~61 |
 | The child of the night | 73.00% | ~58 |
 | Uncle will be happy | 71.00% | ~56 |
 | I have an army! | 63.00% | ~50 |

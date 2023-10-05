@@ -110,9 +110,9 @@
       "ID": "ach_flick_count",
       "SetID": "8787m1a",
       "Name": "Sir Flicksalot",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_flick_key",
@@ -213,8 +213,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:08:23.2344036+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:51:36.3918367+00:00",
   "LastUpdate_AppInfo": "2023-10-04T02:14:33.5706036+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:59:11.9637028+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:08:23.2344248+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:43:15.480336+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:51:36.3918474+00:00"
 }

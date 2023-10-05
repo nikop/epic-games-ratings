@@ -6,8 +6,8 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.40% | ~3,677 |
 | Zealous | 0.30% | ~2,758 |
-| It wakes | 0.30% | ~2,758 |
 | Not half bad | 0.30% | ~2,758 |
 | Skillful | 0.30% | ~2,758 |
 | Make Some Noise | 0.30% | ~2,758 |
@@ -20,6 +20,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.20% | ~1,839 |
 | Nerves of steel | 0.20% | ~1,839 |
 | Perfect Escape | 0.20% | ~1,839 |
+| Perfect Killing | 0.20% | ~1,839 |
 | Bloody Millionaire | 0.20% | ~1,839 |
 | Apt Survivor | 0.20% | ~1,839 |
 | Survival Treasures | 0.20% | ~1,839 |
@@ -41,7 +42,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.10% | ~919 |
 | Made it out alive! | 0.10% | ~919 |
 | The Key to Escape | 0.10% | ~919 |
-| Perfect Killing | 0.10% | ~919 |
 | Gifts for the Fog | 0.10% | ~919 |
 | Apt Killer | 0.10% | ~919 |
 | Risk it all | 0.10% | ~919 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~919 |
 | Adept Ripley | 0.10% | ~919 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919,272 (Ranked 14)  
+Progressed: 919,374 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,14 +404,14 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 919,272 | 49 |
+| 2023-10-05 | 919,374 | 49 |
 ## Awards
-Max (Diverse Characters): 33,414  (Ranked 15)  
-Sum: 259,325 (Ranked 13)  
+Max (Diverse Characters): 33,450  (Ranked 15)  
+Sum: 259,361 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,414 |
+| This game has Diverse Characters | 33,450 |
 | This game is Highly Recommended | 29,629 |
 | This game has Competitive Players | 29,348 |
 | This game has Amazing Characters | 29,307 |
@@ -679,3 +679,4 @@ Diff (max vs sum): 2
 | 2023-10-02 | 4.52 | - | 33,374 | 258,864 |
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
+| 2023-10-05 | 4.52 | - | 33,450 | 259,361 |

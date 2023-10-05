@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,211 |
-| Finding Your Footing | 26.00% | ~10,796 |
-| Nomad | 17.00% | ~7,059 |
-| Picking Up Speed | 16.00% | ~6,644 |
-| Welcome Maya | 15.00% | ~6,228 |
-| Scout | 11.00% | ~4,568 |
-| Sightseer | 11.00% | ~4,568 |
-| Amateur | 9.00% | ~3,737 |
-| Unlock Maya | 8.00% | ~3,322 |
-| Enter Paz | 8.00% | ~3,322 |
-| Wanderer | 8.00% | ~3,322 |
-| Aviator | 6.00% | ~2,491 |
-| My Little Friend | 5.00% | ~2,076 |
-| One With The Board | 5.00% | ~2,076 |
-| Voyager | 5.00% | ~2,076 |
+| Rookie | 27.00% | ~11,214 |
+| Finding Your Footing | 26.00% | ~10,798 |
+| Nomad | 17.00% | ~7,060 |
+| Picking Up Speed | 16.00% | ~6,645 |
+| Welcome Maya | 15.00% | ~6,230 |
+| Scout | 11.00% | ~4,569 |
+| Sightseer | 11.00% | ~4,569 |
+| Amateur | 9.00% | ~3,738 |
+| Unlock Maya | 8.00% | ~3,323 |
+| Enter Paz | 8.00% | ~3,323 |
+| Wanderer | 8.00% | ~3,323 |
+| Aviator | 6.00% | ~2,492 |
+| My Little Friend | 5.00% | ~2,077 |
+| One With The Board | 5.00% | ~2,077 |
+| Voyager | 5.00% | ~2,077 |
 | Izel Has Arrived | 4.00% | ~1,661 |
 | Junkie | 3.00% | ~1,246 |
 | Traveler | 3.00% | ~1,246 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,246 |
 | Human Flight | 3.00% | ~1,246 |
 | Sandboarder | 3.00% | ~1,246 |
-| Explorer | 2.00% | ~830 |
-| Pro | 2.00% | ~830 |
-| Unlock Izel | 2.00% | ~830 |
-| Here Comes Felipe | 2.00% | ~830 |
+| Explorer | 2.00% | ~831 |
+| Pro | 2.00% | ~831 |
+| Unlock Izel | 2.00% | ~831 |
+| Here Comes Felipe | 2.00% | ~831 |
 | Hoist the Mainsail | 1.00% | ~415 |
 | Daredevil | 1.00% | ~415 |
 | Introducing Sumara | 1.00% | ~415 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~42 |
 | Windswept | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,523 (Ranked 104)  
+Progressed: 41,532 (Ranked 104)  
 Completed: 5 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 5 (0.01%) (Ranked 289)
 | 2023-10-02 | 41,321 | 5 |
 | 2023-10-03 | 41,415 | 5 |
 | 2023-10-04 | 41,519 | 5 |
-| 2023-10-05 | 41,523 | 5 |
+| 2023-10-05 | 41,532 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 416)  
 Sum: 364 (Ranked 333)  

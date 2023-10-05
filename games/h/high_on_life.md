@@ -5,30 +5,30 @@ Rating: 4.63 (Ranked 335)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Bounty Down | 0.30% | ~72 |
+| Don't Knife The Hand That Feeds | 0.30% | ~72 |
 | Creature Feature | 0.20% | ~48 |
 | Satisfied Gus-tomer | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
+| Lezduit! | 0.20% | ~48 |
 | RIP Davey Glutes | 0.20% | ~48 |
 | Sweezy Like Sunday Morning | 0.20% | ~48 |
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
-| First Bounty Down | 0.20% | ~48 |
 | G3 Graduation | 0.20% | ~48 |
+| Legendary Bounty Hunter | 0.20% | ~48 |
 | Hardest Battle In The Game | 0.20% | ~48 |
 | Cold-Blooded Driller | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
-| Don't Knife The Hand That Feeds | 0.20% | ~48 |
 | Bathe With A Giant Nude Alien | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | Eatin' Good in the Neighborhood | 0.10% | ~24 |
-| Lezduit! | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
-| Legendary Bounty Hunter | 0.10% | ~24 |
 | Self-Actualization | 0.10% | ~24 |
 | Fallout Doesn't Let You Do This | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 335)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,118 (Ranked 117)  
+Progressed: 24,119 (Ranked 117)  
 Completed: 12 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 12 (0.05%) (Ranked 264)
 | 2023-10-02 | 24,108 | 12 |
 | 2023-10-03 | 24,113 | 12 |
 | 2023-10-04 | 24,118 | 12 |
+| 2023-10-05 | 24,119 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

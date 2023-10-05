@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,300 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,301 |
 | The Spy who eliminated me | 23.00% | ~4,204 |
 | Mainframe Hacker | 22.00% | ~4,021 |
 | Tomorrow Never Dyes | 22.00% | ~4,021 |
@@ -19,10 +19,10 @@ Rating: 4.56 (Ranked 473)
 | A view to Win | 13.00% | ~2,376 |
 | Private Collection | 12.00% | ~2,193 |
 | Smells Like Trouble | 12.00% | ~2,193 |
-| The Living Portrait | 11.00% | ~2,010 |
-| My Motto, My Creed | 11.00% | ~2,010 |
-| Killer Looks | 11.00% | ~2,010 |
-| Hostile Takeover | 11.00% | ~2,010 |
+| The Living Portrait | 11.00% | ~2,011 |
+| My Motto, My Creed | 11.00% | ~2,011 |
+| Killer Looks | 11.00% | ~2,011 |
+| Hostile Takeover | 11.00% | ~2,011 |
 | Keycards Royale | 10.00% | ~1,828 |
 | Dr. No Kill | 10.00% | ~1,828 |
 | In It to Win It | 9.00% | ~1,645 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 473)
 | PHD in VIP | 2.00% | ~366 |
 | The terminals are not enough | 1.00% | ~183 |
 | Lose Another Day | 1.00% | ~183 |
-| Chairman of Deceive Inc. | 0.90% | ~164 |
+| Chairman of Deceive Inc. | 0.90% | ~165 |
 | Chief Information Officer | 0.80% | ~146 |
 | Masteries Are Forever | 0.40% | ~73 |
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,277 (Ranked 126)  
+Progressed: 18,278 (Ranked 126)  
 Completed: 4 (0.02%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 4 (0.02%) (Ranked 281)
 | 2023-10-02 | 18,255 | 4 |
 | 2023-10-03 | 18,264 | 4 |
 | 2023-10-04 | 18,277 | 4 |
+| 2023-10-05 | 18,278 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

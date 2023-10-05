@@ -8,7 +8,7 @@ Rating: 4.66 (Ranked 281)
 | Getting on the Step | 94.00% | ~2,752 |
 | On the Top Step | 88.00% | ~2,577 |
 | Setting up for Success | 77.00% | ~2,255 |
-| Team Orders | 74.00% | ~2,167 |
+| Team Orders | 75.00% | ~2,196 |
 | Engineer | 55.00% | ~1,610 |
 | Familiar Faces | 48.00% | ~1,405 |
 | Going the Extra Mile | 43.00% | ~1,259 |

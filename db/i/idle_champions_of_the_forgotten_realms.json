@@ -7102,10 +7102,10 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230904,
-  "EOS_Completed": 2329,
-  "EOS_NewPlayers": 673,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 230913,
+  "EOS_Completed": 2330,
+  "EOS_NewPlayers": 677,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -25732,6 +25732,11 @@
       "Time": "2023-10-05T00:07:41.751083+00:00",
       "NumProgressed": 230904,
       "NumCompleted": 2329
+    },
+    {
+      "Time": "2023-10-05T01:51:07.4585982+00:00",
+      "NumProgressed": 230913,
+      "NumCompleted": 2330
     }
   ],
   "TotalAchievements": 528,
@@ -26053,9 +26058,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1091",
@@ -26157,9 +26162,9 @@
       "ID": "objective_completed_1106",
       "SetID": "415jc5c",
       "Name": "Thoughts on the Menu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1107",
@@ -26189,9 +26194,9 @@
       "ID": "objective_completed_1112",
       "SetID": "415jc5c",
       "Name": "Levelheaded",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1116",
@@ -26245,9 +26250,9 @@
       "ID": "objective_completed_1127",
       "SetID": "415jc5c",
       "Name": "Speed Demons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1132",
@@ -26685,9 +26690,9 @@
       "ID": "objective_completed_125",
       "SetID": "cc37lbc",
       "Name": "Anti-Dexterous Explorers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_126",
@@ -26869,9 +26874,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_151",
@@ -27445,9 +27450,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_378",
@@ -27989,9 +27994,9 @@
       "ID": "objective_completed_553",
       "SetID": "415jc5c",
       "Name": "DPS in the Deeps",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_555",
@@ -28021,9 +28026,9 @@
       "ID": "objective_completed_558",
       "SetID": "415jc5c",
       "Name": "In The Beginning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_56",
@@ -28157,9 +28162,9 @@
       "ID": "objective_completed_578",
       "SetID": "415jc5c",
       "Name": "Faer\u00FBn\u0027s Most Neglected",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_580",
@@ -28565,9 +28570,9 @@
       "ID": "objective_completed_638",
       "SetID": "415jc5c",
       "Name": "Look Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_640",
@@ -28725,9 +28730,9 @@
       "ID": "objective_completed_671",
       "SetID": "415jc5c",
       "Name": "Raggadragga\u0027s Crew",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_672",
@@ -28965,9 +28970,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_802",
@@ -29157,9 +29162,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_837",
@@ -29381,9 +29386,9 @@
       "ID": "objective_completed_879",
       "SetID": "415jc5c",
       "Name": "Visions of Hornfirth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_882",
@@ -29445,9 +29450,9 @@
       "ID": "objective_completed_893",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_894",
@@ -29493,9 +29498,9 @@
       "ID": "objective_completed_902",
       "SetID": "415jc5c",
       "Name": "Tekeli-li\u0027s Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_903",
@@ -29533,9 +29538,9 @@
       "ID": "objective_completed_920",
       "SetID": "415jc5c",
       "Name": "Crimson Perception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_923",
@@ -29549,17 +29554,17 @@
       "ID": "objective_completed_924",
       "SetID": "415jc5c",
       "Name": "Watchful Eyes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_925",
       "SetID": "415jc5c",
       "Name": "Maroon Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_928",
@@ -29669,9 +29674,9 @@
       "ID": "objective_completed_1360",
       "SetID": "415jc5c",
       "Name": "Beware the Jabberwock",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1361",
@@ -29685,9 +29690,9 @@
       "ID": "objective_completed_1042",
       "SetID": "415jc5c",
       "Name": "Willing to Sacrifice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1047",
@@ -29966,21 +29971,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197178,
+      "Progressed": 197187,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230904,
-      "Completed": 2329
+      "Progressed": 230913,
+      "Completed": 2330
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:07:41.7510825+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:51:07.4585978+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:02:33.0863476+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:07:41.7546744+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:45:35.2450513+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:51:07.4610447+00:00"
 }

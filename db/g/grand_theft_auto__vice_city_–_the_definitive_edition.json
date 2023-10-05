@@ -736,9 +736,9 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 10521,
+  "EOS_Progressed": 10522,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -11031,6 +11031,11 @@
       "Time": "2023-10-04T21:03:12.6705217+00:00",
       "NumProgressed": 10521,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-05T01:48:22.1175213+00:00",
+      "NumProgressed": 10522,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -11114,7 +11119,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH11",
@@ -11218,7 +11223,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2736
     },
     {
       "ID": "ACH24",
@@ -11258,7 +11263,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH29",
@@ -11313,7 +11318,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10521,
+      "Progressed": 10522,
       "Completed": 58
     }
   ],
@@ -11321,8 +11326,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-04T16:03:07.042304+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:03:30.3186634+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:48:22.1175207+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:03:12.4964057+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:03:30.3187644+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:48:08.9897275+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:22.1175936+00:00"
 }

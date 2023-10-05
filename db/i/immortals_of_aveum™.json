@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_12",
@@ -452,9 +452,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_2",
@@ -548,9 +548,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_41",
@@ -620,9 +620,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_50",
@@ -668,9 +668,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_60",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:04:22.5852151+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:48:45.6837955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.6113778+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:02:25.9278797+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:04:22.5852746+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:45:29.5599856+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:45.6838307+00:00"
 }

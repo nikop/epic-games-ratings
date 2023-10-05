@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18277,
+  "EOS_Progressed": 18278,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11166,6 +11166,11 @@
       "Time": "2023-10-04T22:03:20.1432061+00:00",
       "NumProgressed": 18277,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-05T01:48:25.7917916+00:00",
+      "NumProgressed": 18278,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11177,7 +11182,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "0002",
@@ -11377,7 +11382,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "0027",
@@ -11385,7 +11390,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "0028",
@@ -11425,7 +11430,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "0033",
@@ -11433,7 +11438,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "0034",
@@ -11449,7 +11454,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "0036",
@@ -11464,7 +11469,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18277,
+      "Progressed": 18278,
       "Completed": 4
     }
   ],
@@ -11472,8 +11477,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:03:35.3870747+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:48:25.7917911+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:59:19.5409112+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:03:35.3871793+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:43:21.1382795+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:25.7919018+00:00"
 }

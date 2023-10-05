@@ -3,11 +3,11 @@
   "Name": "Warface",
   "ProductSlug": "warface",
   "Ranking_Rating": 983,
-  "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 172,
+  "Ranking_Popularity": 215,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3637,18 +3637,24 @@
       "Rating": 3.91,
       "NumberOfAwards": 2927,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-10-05T01:43:44.275469+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3292,
+      "NumberOfAwardsMax": 426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2927,
-  "NumberOfAwardsMax": 417,
+  "NumberOfAwards": 3292,
+  "NumberOfAwardsMax": 426,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 344
+      "Count": 347
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3660,13 +3666,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 411
+      "Count": 413
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3678,31 +3684,31 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 383
+      "Count": 384
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 417
+      "Count": 426
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 368
+      "Count": 370
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 295
+      "Count": 296
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 337
+      "Count": 339
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3722,8 +3728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-09-25T19:59:24.4274547+00:00",
+  "LastChanged": "2023-10-05T01:43:44.2754688+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.0684773+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:59:53.9581735+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:08:31.5883733+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:43:44.2754696+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:51:42.2626848+00:00"
 }

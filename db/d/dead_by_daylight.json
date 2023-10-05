@@ -10857,11 +10857,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 259325,
       "NumberOfAwardsMax": 33414
+    },
+    {
+      "Time": "2023-10-05T01:43:22.8694152+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259361,
+      "NumberOfAwardsMax": 33450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259325,
-  "NumberOfAwardsMax": 33414,
+  "NumberOfAwards": 259361,
+  "NumberOfAwardsMax": 33450,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10874,7 +10880,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33414
+      "Count": 33450
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10931,7 +10937,7 @@
       "Count": 25070
     }
   ],
-  "EOS_Progressed": 919272,
+  "EOS_Progressed": 919374,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 13443,
   "EOS_NewCompleters": 0,
@@ -29911,6 +29917,11 @@
       "Time": "2023-10-05T00:06:14.9800224+00:00",
       "NumProgressed": 919272,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T01:50:05.769387+00:00",
+      "NumProgressed": 919374,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30080,9 +30091,9 @@
       "ID": "ACH_021",
       "SetID": "bdmlp8o",
       "Name": "Perfect Killing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 1839
     },
     {
       "ID": "ACH_022",
@@ -30096,9 +30107,9 @@
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2758
+      "UsersEstimate": 3677
     },
     {
       "ID": "ACH_024",
@@ -31753,21 +31764,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 919272,
+      "Progressed": 919374,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 919272,
+      "Progressed": 919374,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-04T14:58:35.8729279+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:06:14.980022+00:00",
+  "LastChanged": "2023-10-05T01:43:22.869415+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:50:05.7693866+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:59:22.5811174+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:06:14.9808788+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:43:22.8694156+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:50:05.7699342+00:00"
 }

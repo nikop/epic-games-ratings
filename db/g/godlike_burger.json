@@ -6,8 +6,8 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1094,6 +1094,11 @@
       "Time": "2023-10-04T18:03:34.7837052+00:00",
       "NumProgressed": 476,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T01:48:46.1229887+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -1103,9 +1108,9 @@
       "ID": "GB_BUTCHER",
       "SetID": "8ga3kd9",
       "Name": "BUTCHER",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "GB_CELEBRITY",
@@ -1143,17 +1148,17 @@
       "ID": "GB_EXPERIMENTALIST",
       "SetID": "8ga3kd9",
       "Name": "EXPERIMENTALIST",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 348
     },
     {
       "ID": "GB_GOURMET",
@@ -1177,7 +1182,7 @@
       "Name": "GRATITUDE",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -1209,7 +1214,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -1223,9 +1228,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 272
     },
     {
       "ID": "GB_KEVIN",
@@ -1255,9 +1260,9 @@
       "ID": "GB_MASTER_CHEF",
       "SetID": "8ga3kd9",
       "Name": "MASTER CHEF",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 381
+      "UsersEstimate": 377
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1328,7 +1333,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 2
     }
   ],
@@ -1336,8 +1341,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:04:23.0753448+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:48:46.1229883+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.6426232+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:02:10.1329436+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:04:23.0753793+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:45:20.1271362+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:46.1230093+00:00"
 }

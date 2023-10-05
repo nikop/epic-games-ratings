@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2102,9 +2102,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 291
     },
     {
       "ID": "AC22",
@@ -2311,8 +2311,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-04T20:00:30.3095733+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:07:35.816823+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:51:02.5323791+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:00:45.6628462+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:07:35.8168963+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:44:22.4147686+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:51:02.5324169+00:00"
 }

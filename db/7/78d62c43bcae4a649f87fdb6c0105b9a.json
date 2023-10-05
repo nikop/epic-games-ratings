@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,9 +136,9 @@
       "ID": "jungle",
       "SetID": "40o2ndb",
       "Name": "Jungle Fever",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "laboratory",
@@ -168,9 +168,9 @@
       "ID": "temple",
       "SetID": "40o2ndb",
       "Name": "It Belongs In A Museum!",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ufo",
@@ -200,9 +200,9 @@
       "ID": "world2",
       "SetID": "40o2ndb",
       "Name": "Moo!",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 85,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "world2insane",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-05T00:07:53.8799435+00:00",
+  "LastChanged_Achievements": "2023-10-05T01:51:15.6587841+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-05T00:01:34.5555488+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:07:53.8799713+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:44:52.7883014+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:51:15.6587975+00:00"
 }

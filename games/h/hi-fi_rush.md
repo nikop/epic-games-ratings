@@ -23,12 +23,12 @@ Rating: 4.85 (Ranked 42)
 | Whoa! There's ANOTHER health bar!? | 8.00% | ~330 |
 | Out in a puff of smoke | 8.00% | ~330 |
 | I look cool. But I can look COOLER. | 8.00% | ~330 |
-| Headliner | 7.00% | ~288 |
-| Time to pay up! | 7.00% | ~288 |
-| Who's the boss now? | 7.00% | ~288 |
-| You must like calling me in, Chai | 7.00% | ~288 |
-| Perfecter Parry-er! | 7.00% | ~288 |
-| Does that say weakpoint? | 7.00% | ~288 |
+| Headliner | 7.00% | ~289 |
+| Time to pay up! | 7.00% | ~289 |
+| Who's the boss now? | 7.00% | ~289 |
+| You must like calling me in, Chai | 7.00% | ~289 |
+| Perfecter Parry-er! | 7.00% | ~289 |
+| Does that say weakpoint? | 7.00% | ~289 |
 | NOW we got a kickass hideout! | 7.00% | ~185 |
 | I have to read these things? | 6.00% | ~247 |
 | Well that was a rush! | 4.00% | ~165 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,121 (Ranked 175)  
+Progressed: 4,122 (Ranked 175)  
 Completed: 8 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 8 (0.19%) (Ranked 218)
 | 2023-10-02 | 4,117 | 8 |
 | 2023-10-03 | 4,119 | 8 |
 | 2023-10-04 | 4,121 | 8 |
+| 2023-10-05 | 4,122 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
   "ProductSlug": "fuser",
   "Ranking_Rating": 189,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": null,
@@ -218,12 +218,18 @@
     {
       "Time": "2023-01-12T21:57:19.024745+00:00",
       "Rating": 4.71
+    },
+    {
+      "Time": "2023-10-05T01:43:01.4888116+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342,
+  "NumberOfAwards": 343,
   "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Educational",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -271,7 +277,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Unique Visuals",
@@ -309,8 +315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2023-01-12T21:57:19.0247448+00:00",
+  "LastChanged": "2023-10-05T01:43:01.4888114+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.525336+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:58:51.9563615+00:00",
-  "LastUpdate_Achievements": "2023-10-05T00:04:39.9119452+00:00"
+  "LastUpdate_Ratings": "2023-10-05T01:43:01.488812+00:00",
+  "LastUpdate_Achievements": "2023-10-05T01:48:58.1495077+00:00"
 }
