@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 553)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,222 |
-| Man of politics | 35.00% | ~5,444 |
+| Man of politics | 35.00% | ~5,445 |
 | Friends of sorts | 33.00% | ~5,133 |
 | Yet another secret | 33.00% | ~5,133 |
-| Let there be darkness | 32.00% | ~4,977 |
-| End of Book One | 30.00% | ~4,666 |
+| Let there be darkness | 32.00% | ~4,978 |
+| End of Book One | 30.00% | ~4,667 |
 | Wannabe knight | 24.00% | ~3,733 |
 | Garden of Eden | 24.00% | ~3,733 |
 | Full house | 24.00% | ~3,733 |
@@ -20,15 +20,15 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~2,800 |
 | Workers' union | 18.00% | ~2,800 |
 | End of Book Two | 18.00% | ~2,800 |
-| Everything's in order | 17.00% | ~2,644 |
+| Everything's in order | 17.00% | ~2,645 |
 | Twist of Fate | 14.00% | ~2,178 |
 | Jack was here! | 14.00% | ~2,178 |
 | Exterminator | 13.00% | ~2,022 |
-| Whodunnit | 12.00% | ~1,866 |
+| Whodunnit | 12.00% | ~1,867 |
 | Good midwife | 11.00% | ~1,711 |
 | Friar Tuck | 11.00% | ~1,711 |
 | First profit | 11.00% | ~1,711 |
-| Team player | 10.00% | ~1,555 |
+| Team player | 10.00% | ~1,556 |
 | Skilled merchant | 9.00% | ~1,400 |
 | Nothing but make-believe | 9.00% | ~1,400 |
 | Brother Marcus | 9.00% | ~1,400 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~467 |
 | Boy of mystery | 2.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,554 (Ranked 133)  
+Progressed: 15,556 (Ranked 133)  
 Completed: 113 (0.73%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 113 (0.73%) (Ranked 148)
 | 2023-10-02 | 15,517 | 112 |
 | 2023-10-03 | 15,525 | 112 |
 | 2023-10-04 | 15,542 | 112 |
-| 2023-10-05 | 15,554 | 113 |
+| 2023-10-05 | 15,556 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 306)  
 Sum: 193 (Ranked 385)  

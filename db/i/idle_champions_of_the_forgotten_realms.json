@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7126,9 +7126,9 @@
       "Count": 3458
     }
   ],
-  "EOS_Progressed": 230987,
+  "EOS_Progressed": 230993,
   "EOS_Completed": 2332,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25851,6 +25851,11 @@
       "Time": "2023-10-05T19:08:07.5649175+00:00",
       "NumProgressed": 230987,
       "NumCompleted": 2332
+    },
+    {
+      "Time": "2023-10-05T20:06:38.8504844+00:00",
+      "NumProgressed": 230993,
+      "NumCompleted": 2332
     }
   ],
   "TotalAchievements": 528,
@@ -28516,9 +28521,9 @@
       "ID": "objective_completed_613",
       "SetID": "415jc5c",
       "Name": "Nightmare Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_615",
@@ -30085,21 +30090,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197261,
+      "Progressed": 197267,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230987,
+      "Progressed": 230993,
       "Completed": 2332
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-05T16:03:20.1148257+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:08:07.5649171+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:06:38.8504841+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:02:42.6536233+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:08:07.5675364+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:02:18.4484628+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:06:38.8531457+00:00"
 }

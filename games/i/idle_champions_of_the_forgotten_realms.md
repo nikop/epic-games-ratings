@@ -337,6 +337,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.10% | ~231 |
 | Twice More Into The Breach | 0.10% | ~231 |
 | Thrice More Into The Breach | 0.10% | ~197 |
+| Nightmare Mode | 0.10% | ~197 |
 | Wyllowwood | 0.10% | ~231 |
 | Displaced Anger | 0.10% | ~231 |
 | Ettercap Swarm | 0.10% | ~197 |
@@ -529,13 +530,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Think Your Way Out Of It | 0.00% | ~0 |
-| Nightmare Mode | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,987 (Ranked 56)  
+Progressed: 230,993 (Ranked 56)  
 Completed: 2,332 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,332 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,987 | 2,332 |
+| 2023-10-05 | 230,993 | 2,332 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,901 (Ranked 41)  

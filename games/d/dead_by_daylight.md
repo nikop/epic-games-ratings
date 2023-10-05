@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.40% | ~3,682 |
-| It wakes | 0.40% | ~3,682 |
-| Skillful | 0.40% | ~3,682 |
+| It wakes | 0.50% | ~4,603 |
+| Zealous | 0.40% | ~3,683 |
+| Skillful | 0.40% | ~3,683 |
 | No one left behind | 0.30% | ~2,762 |
 | Medic | 0.30% | ~2,762 |
 | Handyman | 0.30% | ~2,762 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,579 (Ranked 14)  
+Progressed: 920,694 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 920,579 | 49 |
+| 2023-10-05 | 920,694 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
 Sum: 259,598 (Ranked 13)  

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1121,6 +1121,11 @@
       "Time": "2023-10-05T18:06:13.6632644+00:00",
       "NumProgressed": 446,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T20:05:20.0737311+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1229,7 +1234,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_21",
@@ -1331,9 +1336,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_33",
@@ -1357,7 +1362,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_36",
@@ -1395,9 +1400,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_40",
@@ -1451,9 +1456,9 @@
       "ID": "achievement_46",
       "SetID": "cemm4l8",
       "Name": "Patience you must have",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_47",
@@ -1636,13 +1641,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 1
     }
   ],
@@ -1650,8 +1655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:06:21.4654693+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:05:20.0737308+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:03:06.1389353+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:06:21.465553+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:02:20.5119236+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:05:20.0737906+00:00"
 }

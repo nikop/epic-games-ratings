@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -537,9 +537,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Kour",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:08:31.6891039+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:06:57.0609908+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:01:03.7764613+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:08:31.6891246+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:59:57.5209937+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:06:57.0610118+00:00"
 }

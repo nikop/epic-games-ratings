@@ -39,7 +39,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Baratak | 1.00% | ~68 |
 | Win as Festron | 1.00% | ~68 |
 | Win as the Navigators | 0.90% | ~61 |
-| Win as Torians | 0.80% | ~54 |
+| Win as Torians | 0.90% | ~61 |
 | Win as the Drath | 0.70% | ~47 |
 | Win as the Drengin | 0.70% | ~47 |
 | Win as the Krynn | 0.70% | ~47 |

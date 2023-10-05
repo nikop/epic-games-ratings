@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~401 |
+| New Recruit | 90.00% | ~402 |
 | Off to a good start | 67.00% | ~299 |
 | Do... or do not. There is no try | 52.00% | ~232 |
 | A good blaster at your side | 34.00% | ~152 |
 | Scrap collector | 22.00% | ~98 |
-| All right, I'll give it a try | 20.00% | ~89 |
-| I suggest a new strategy | 20.00% | ~89 |
 | Great shot, kid! | 20.00% | ~89 |
+| All right, I'll give it a try | 19.00% | ~85 |
+| I suggest a new strategy | 19.00% | ~85 |
 | Shoot first | 18.00% | ~80 |
 | The power of the Force | 17.00% | ~76 |
 | Together we can rule the galaxy | 17.00% | ~76 |
-| Collector | 16.00% | ~71 |
+| Collector | 16.00% | ~72 |
 | Best star-pilot in the galaxy | 13.00% | ~58 |
 | Survivor | 13.00% | ~58 |
 | Tell Jabba that I've got his money | 12.00% | ~54 |
@@ -28,9 +28,9 @@
 | A tremor in the Force | 9.00% | ~40 |
 | Distinguished | 8.00% | ~36 |
 | Support the troops | 8.00% | ~36 |
-| Patience you must have | 7.00% | ~31 |
 | On the ball | 6.00% | ~27 |
 | Not bad for a little furball | 6.00% | ~27 |
+| Patience you must have | 6.00% | ~27 |
 | Don't underestimate the Force | 6.00% | ~27 |
 | I've been waiting for you | 5.00% | ~22 |
 | When 900 years old you reach... | 5.00% | ~22 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446 (Ranked 278)  
+Progressed: 447 (Ranked 278)  
 Completed: 1 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.22%) (Ranked 212)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 446 | 1 |
+| 2023-10-05 | 447 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -18,14 +18,14 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 53.00% | ~3,234 |
 | Studious Researcher | 52.00% | ~3,173 |
 | Beam Me Up | 51.00% | ~3,112 |
-| Adept Researcher | 45.00% | ~2,745 |
-| Feast or Famine | 43.00% | ~2,623 |
-| Retribution | 41.00% | ~2,501 |
-| ...And Don’t Come Back! | 41.00% | ~2,501 |
-| Fit For A King | 33.00% | ~2,013 |
-| Luminary Researcher | 32.00% | ~1,952 |
-| Heating Up | 30.00% | ~1,830 |
-| Winter Is Coming | 28.00% | ~1,708 |
+| Adept Researcher | 45.00% | ~2,746 |
+| Feast or Famine | 43.00% | ~2,624 |
+| Retribution | 41.00% | ~2,502 |
+| ...And Don’t Come Back! | 41.00% | ~2,502 |
+| Fit For A King | 33.00% | ~2,014 |
+| Luminary Researcher | 32.00% | ~1,953 |
+| Heating Up | 30.00% | ~1,831 |
+| Winter Is Coming | 28.00% | ~1,709 |
 | Winter Is Here | 24.00% | ~1,464 |
 | Disassembled | 21.00% | ~1,281 |
 | A Party Now | 21.00% | ~1,281 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~122 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,101 (Ranked 163)  
+Progressed: 6,102 (Ranked 163)  
 Completed: 14 (0.23%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,10 @@ Completed: 14 (0.23%) (Ranked 210)
 | 2023-10-02 | 6,066 | 14 |
 | 2023-10-03 | 6,077 | 14 |
 | 2023-10-04 | 6,090 | 14 |
-| 2023-10-05 | 6,101 | 14 |
+| 2023-10-05 | 6,102 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 324)  
-Sum: 989 (Ranked 248)  
+Sum: 990 (Ranked 248)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): 76
 | This game has Diverse Characters | 111 |
 | This game has Quickly Understood Controls | 105 |
 | This game is Extremely Fun | 103 |
-| This game is Highly Recommended | 100 |
+| This game is Highly Recommended | 101 |
 | This game has Amazing Characters | 92 |
 | This game has Amazing Storytelling | 85 |
 | This game has Unique Visuals | 82 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 76
 | 2023-09-30 | 4.60 | - | 122 | 986 |
 | 2023-10-02 | 4.60 | - | 122 | 988 |
 | 2023-10-04 | 4.60 | - | 122 | 989 |
+| 2023-10-05 | 4.60 | - | 122 | 990 |

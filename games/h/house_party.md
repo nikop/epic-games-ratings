@@ -18,9 +18,9 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 1.00% | ~63 |
 | IRL Let's Player | 1.00% | ~63 |
 | Newcomer: Vickie | 1.00% | ~63 |
+| Amy | 0.90% | ~57 |
 | Inspector | 0.90% | ~57 |
 | Social Butterfly | 0.90% | ~57 |
-| Amy | 0.80% | ~51 |
 | The Muse: Madison | 0.80% | ~51 |
 | Smooth Operator: Ashley | 0.70% | ~44 |
 | The Crush | 0.70% | ~44 |

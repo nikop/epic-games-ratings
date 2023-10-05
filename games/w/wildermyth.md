@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 41.00% | ~577 |
+| The Cost of Heroism | 41.00% | ~578 |
 | Me and My Familiar | 38.00% | ~535 |
 | This Too Shall Pass | 32.00% | ~451 |
-| Passing Shadow | 31.00% | ~436 |
-| Cutthroat Competitors | 31.00% | ~436 |
-| Daybreak | 29.00% | ~408 |
-| How Romantic! | 28.00% | ~394 |
+| Passing Shadow | 31.00% | ~437 |
+| Cutthroat Competitors | 31.00% | ~437 |
+| Daybreak | 29.00% | ~409 |
+| How Romantic! | 28.00% | ~395 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~366 |
 | Completing the Look | 15.00% | ~211 |
 | War Endured | 15.00% | ~211 |
@@ -28,10 +28,10 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 8.00% | ~113 |
 | A Story of Heroes | 8.00% | ~113 |
 | Let Me Get My Chisel | 7.00% | ~99 |
-| Legends Never Die | 6.00% | ~84 |
-| Wingknight's Prowess | 6.00% | ~84 |
-| All My Birds, Safely Home | 6.00% | ~84 |
-| Turncoat | 6.00% | ~84 |
+| Legends Never Die | 6.00% | ~85 |
+| Wingknight's Prowess | 6.00% | ~85 |
+| All My Birds, Safely Home | 6.00% | ~85 |
+| Turncoat | 6.00% | ~85 |
 | In Soil, In Smoke | 5.00% | ~70 |
 | A Hunger, Sated | 5.00% | ~70 |
 | We Emerge Changed | 4.00% | ~56 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,408 (Ranked 219)  
-Completed: 5 (0.36%) (Ranked 186)  
+Progressed: 1,409 (Ranked 219)  
+Completed: 5 (0.35%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,7 +192,7 @@ Completed: 5 (0.36%) (Ranked 186)
 | 2023-09-25 | 1,405 | 5 |
 | 2023-09-27 | 1,406 | 5 |
 | 2023-10-01 | 1,407 | 5 |
-| 2023-10-05 | 1,408 | 5 |
+| 2023-10-05 | 1,409 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 477)  
 Sum: 28 (Ranked 492)  

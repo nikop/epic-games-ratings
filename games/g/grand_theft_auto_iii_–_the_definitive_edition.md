@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,832 |
+| First Day on the Job | 83.00% | ~6,833 |
 | Disposing of the Evidence | 38.00% | ~3,128 |
 | Without a Scratch | 34.00% | ~2,799 |
 | Wreckless Driving | 28.00% | ~2,305 |
@@ -35,7 +35,7 @@ Rating: 4.19 (Ranked 887)
 | Is That All You've Got? | 0.90% | ~74 |
 | King of Liberty City | 0.60% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,231 (Ranked 151)  
+Progressed: 8,232 (Ranked 151)  
 Completed: 53 (0.64%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 53 (0.64%) (Ranked 152)
 | 2023-10-02 | 8,215 | 53 |
 | 2023-10-03 | 8,220 | 53 |
 | 2023-10-04 | 8,222 | 53 |
-| 2023-10-05 | 8,231 | 53 |
+| 2023-10-05 | 8,232 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

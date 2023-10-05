@@ -2,10 +2,10 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 188,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 118,
@@ -2306,7 +2306,7 @@
   ],
   "EOS_Progressed": 26223,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14667,9 +14667,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 236
     },
     {
       "ID": "Welcome_Crew",
@@ -14700,8 +14700,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-05T18:59:12.71997+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:07:47.4487967+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:06:23.7196678+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:59:12.7199705+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:07:47.4488898+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:58:36.6439021+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:06:23.7197622+00:00"
 }

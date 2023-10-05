@@ -2,13 +2,13 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3738,10 +3738,10 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 73855,
-  "EOS_Completed": 50,
-  "EOS_NewPlayers": 914,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 73856,
+  "EOS_Completed": 51,
+  "EOS_NewPlayers": 907,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
@@ -22618,6 +22618,11 @@
       "Time": "2023-10-05T19:03:41.316523+00:00",
       "NumProgressed": 73855,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-05T20:03:16.3534341+00:00",
+      "NumProgressed": 73856,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -22741,7 +22746,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33973
+      "UsersEstimate": 33974
     },
     {
       "ID": "customize_a_vehicle",
@@ -22813,7 +22818,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14032
+      "UsersEstimate": 14033
     },
     {
       "ID": "empire_tier_4",
@@ -22869,7 +22874,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12555
+      "UsersEstimate": 12556
     },
     {
       "ID": "get_fired",
@@ -22901,7 +22906,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 14032
+      "UsersEstimate": 14033
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -22909,7 +22914,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20679
+      "UsersEstimate": 20680
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -23013,7 +23018,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31019
+      "UsersEstimate": 31020
     },
     {
       "ID": "whole_map_purple",
@@ -23029,7 +23034,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -23052,13 +23057,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 73855,
-      "Completed": 50
+      "Progressed": 73856,
+      "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 45492,
+      "Progressed": 45493,
       "Completed": 4024
     }
   ],
@@ -23066,8 +23071,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-05T16:58:21.8130681+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:03:41.3165226+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:03:16.3534337+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:40.2297525+00:00",
-  "LastUpdate_Ratings": "2023-10-05T18:58:51.5937983+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:03:41.3166498+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:58:17.8659037+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:03:16.3535594+00:00"
 }

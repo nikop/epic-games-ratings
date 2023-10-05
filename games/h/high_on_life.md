@@ -7,6 +7,7 @@ Rating: 4.63 (Ranked 335)
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
+| Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Creature Feature | 0.20% | ~48 |
 | Satisfied Gus-tomer | 0.20% | ~48 |
@@ -23,8 +24,8 @@ Rating: 4.63 (Ranked 335)
 | Cold-Blooded Driller | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
+| Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |
-| Bathe With A Giant Nude Alien | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -35,7 +36,6 @@ Rating: 4.63 (Ranked 335)
 | Gunning For Your Job | 0.10% | ~24 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
-| Spent 15 Hours At The Alien Strip Club | 0.10% | ~24 |
 | Playing Favorites | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 335)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,122 (Ranked 117)  
+Progressed: 24,122 (Ranked 118)  
 Completed: 13 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |

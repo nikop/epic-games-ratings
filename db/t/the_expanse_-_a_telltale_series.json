@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -142,10 +142,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13587,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 485,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 13589,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 480,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
@@ -7752,6 +7752,11 @@
       "Time": "2023-10-05T19:07:19.5105938+00:00",
       "NumProgressed": 13587,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-05T20:06:02.9555324+00:00",
+      "NumProgressed": 13589,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7796,15 +7801,15 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "15",
@@ -7842,9 +7847,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "2",
@@ -8003,16 +8008,16 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13587,
-      "Completed": 9
+      "Progressed": 13589,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:07:19.5105934+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:06:02.9555318+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:02:13.8946886+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:07:19.5106462+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:00:45.2964996+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:06:02.955588+00:00"
 }

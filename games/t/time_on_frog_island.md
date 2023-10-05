@@ -7,12 +7,12 @@
 | Shipwrecked! | 73.00% | ~8 |
 | Sea Legs | 64.00% | ~7 |
 | Frogs Legs | 18.00% | ~2 |
+| Who Even Needs Keys | 18.00% | ~2 |
+| Mad Scientist | 18.00% | ~2 |
 | What?! | 18.00% | ~2 |
 | Hoist the Sails | 18.00% | ~2 |
 | Socialite | 9.00% | ~1 |
-| Who Even Needs Keys | 9.00% | ~1 |
 | Yeet! | 9.00% | ~1 |
-| Mad Scientist | 9.00% | ~1 |
 | Safe Investment | 9.00% | ~1 |
 | Bank of Me | 9.00% | ~1 |
 | Secure the Sheets | 9.00% | ~1 |

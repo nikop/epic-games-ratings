@@ -5,10 +5,10 @@
   "Ranking_Rating": 335,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 117,
+  "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5423,9 +5423,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5543,9 +5543,9 @@
       "ID": "ACH_TOXXO_BATH",
       "SetID": "7fgbhpb",
       "Name": "Bathe With A Giant Nude Alien",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -5566,8 +5566,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-04T20:01:07.8999808+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:07:23.2837618+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:06:05.7506159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:01:49.0380078+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:07:23.283816+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:00:28.6525684+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:06:05.7506696+00:00"
 }

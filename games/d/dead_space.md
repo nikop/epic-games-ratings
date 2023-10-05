@@ -12,9 +12,9 @@ Rating: 4.61 (Ranked 371)
 | Brute Force | 66.00% | ~516 |
 | Cannon Fodder | 62.00% | ~485 |
 | Autofire | 60.00% | ~469 |
+| True Believer | 57.00% | ~446 |
 | Story Teller | 56.00% | ~438 |
 | Raise the Stakes | 56.00% | ~438 |
-| True Believer | 56.00% | ~438 |
 | Surgeon | 52.00% | ~407 |
 | Exterminator | 51.00% | ~399 |
 | Greenhouse Effect | 51.00% | ~399 |
@@ -22,8 +22,8 @@ Rating: 4.61 (Ranked 371)
 | Full Arsenal | 44.00% | ~344 |
 | S.O.S. | 44.00% | ~344 |
 | Get Off My Ship! | 42.00% | ~328 |
+| Strange Transmissions | 42.00% | ~328 |
 | Live with the Hot Ones | 41.00% | ~321 |
-| Strange Transmissions | 41.00% | ~321 |
 | Wreckage | 40.00% | ~313 |
 | Keeper of the Faith | 37.00% | ~289 |
 | Betrayed | 35.00% | ~274 |

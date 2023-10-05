@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -640,7 +640,7 @@
   ],
   "EOS_Progressed": 782,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2624,9 +2624,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_6",
@@ -2648,9 +2648,9 @@
       "ID": "achievement_8",
       "SetID": "222fo9l",
       "Name": "Strange Transmissions",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_9",
@@ -2673,8 +2673,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:03:38.477746+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:03:14.1948486+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:00:31.7438495+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:03:38.4777884+00:00"
+  "LastUpdate_Ratings": "2023-10-05T19:59:29.8015837+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:03:14.1948896+00:00"
 }

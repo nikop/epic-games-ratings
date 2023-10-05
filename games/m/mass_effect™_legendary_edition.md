@@ -27,9 +27,9 @@
 | Sentinel Ally | 46.00% | ~258 |
 | Paramour I | 45.00% | ~252 |
 | Krogan Ally | 45.00% | ~252 |
+| Merciless | 45.00% | ~252 |
 | Scientist | 45.00% | ~252 |
-| Merciless | 44.00% | ~247 |
-| Head Hunter | 42.00% | ~236 |
+| Head Hunter | 43.00% | ~241 |
 | Very Elusive | 41.00% | ~230 |
 | Operative | 41.00% | ~230 |
 | Scholar | 41.00% | ~230 |
@@ -52,12 +52,12 @@
 | Battlemaster | 31.00% | ~174 |
 | The Prodigal | 31.00% | ~174 |
 | A Personal Touch | 30.00% | ~168 |
+| Catharsis | 30.00% | ~168 |
 | Ghost of the Father | 30.00% | ~168 |
 | The Cure | 30.00% | ~168 |
 | Big Game Hunter | 30.00% | ~168 |
 | Heart of Darkness | 30.00% | ~168 |
 | Shopaholic | 30.00% | ~168 |
-| Catharsis | 29.00% | ~163 |
 | Fade Away | 29.00% | ~163 |
 | Agent | 29.00% | ~163 |
 | Revenge! | 29.00% | ~163 |
@@ -69,9 +69,9 @@
 | Cat's in the Cradle | 27.00% | ~151 |
 | Doppelganger | 27.00% | ~151 |
 | First Aid Specialist | 26.00% | ~146 |
+| Friend or Foe | 26.00% | ~146 |
 | Mobilizer | 26.00% | ~146 |
 | Suicide Mission | 25.00% | ~140 |
-| Friend or Foe | 25.00% | ~140 |
 | Untouchable | 24.00% | ~135 |
 | Eye of the Hurricane | 24.00% | ~135 |
 | Giant Killer | 24.00% | ~135 |
@@ -82,10 +82,10 @@
 | A House Divided | 23.00% | ~129 |
 | Liberator | 23.00% | ~129 |
 | Pathfinder | 22.00% | ~123 |
+| Tunnel Rat | 21.00% | ~118 |
 | Arbiter | 21.00% | ~118 |
 | Savior | 20.00% | ~112 |
 | Paramour II | 20.00% | ~112 |
-| Tunnel Rat | 20.00% | ~112 |
 | No One Left Behind | 19.00% | ~107 |
 | Lost and Found | 19.00% | ~107 |
 | Pyromaniac | 18.00% | ~101 |
@@ -109,10 +109,10 @@
 | Barrier Mastery | 11.00% | ~62 |
 | Combined Arms | 11.00% | ~62 |
 | Long Service Medal | 11.00% | ~62 |
+| Overload Specialist | 11.00% | ~62 |
 | Warp Mastery | 11.00% | ~62 |
 | Bruiser | 10.00% | ~56 |
 | Lift Mastery | 10.00% | ~56 |
-| Overload Specialist | 10.00% | ~56 |
 | Always Prepared | 9.00% | ~50 |
 | Hijacker | 8.00% | ~45 |
 | Paramour III | 8.00% | ~45 |

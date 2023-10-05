@@ -11,19 +11,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.60% | ~86 |
 | Intrepid | 0.50% | ~72 |
 | Friendly Family | 0.50% | ~72 |
-| Able | 0.40% | ~57 |
-| Good | 0.40% | ~57 |
-| Learned | 0.40% | ~57 |
-| Mason | 0.40% | ~57 |
-| Noble | 0.40% | ~57 |
-| Pioneer | 0.40% | ~57 |
-| Strong | 0.40% | ~57 |
-| Hanging Gardens | 0.40% | ~57 |
-| Oracle | 0.40% | ~57 |
-| Judaism | 0.40% | ~57 |
-| Kushite Paganism | 0.40% | ~57 |
+| Able | 0.40% | ~58 |
+| Architect | 0.40% | ~58 |
+| Good | 0.40% | ~58 |
+| Learned | 0.40% | ~58 |
+| Mason | 0.40% | ~58 |
+| Noble | 0.40% | ~58 |
+| Pioneer | 0.40% | ~58 |
+| Strong | 0.40% | ~58 |
+| Hanging Gardens | 0.40% | ~58 |
+| Oracle | 0.40% | ~58 |
+| Judaism | 0.40% | ~58 |
+| Kushite Paganism | 0.40% | ~58 |
 | Ambitious | 0.30% | ~43 |
-| Architect | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Fountainhead | 0.30% | ~43 |
 | Glorious | 0.30% | ~43 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,374 (Ranked 134)  
+Progressed: 14,375 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,374 | 5 |
+| 2023-10-05 | 14,375 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

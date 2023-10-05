@@ -6,40 +6,40 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 82.00% | ~28,096 |
-| Initial Capital | 71.00% | ~24,327 |
-| Moneybags | 50.00% | ~17,132 |
-| Junior Supply Officer | 50.00% | ~17,132 |
-| Naval Warfare. Arson | 38.00% | ~13,020 |
-| Naval Warfare. Ramming | 37.00% | ~12,678 |
-| Amateur | 36.00% | ~12,335 |
-| Naval Constructor | 36.00% | ~12,335 |
-| Naval Warfare. Tactics | 35.00% | ~11,992 |
-| Naval Warfare. Weaponry Basics | 27.00% | ~9,251 |
-| Naval Warfare. Flooding | 23.00% | ~7,881 |
-| Naval Warfare. Lucky Shot | 23.00% | ~7,881 |
-| Business Magnate | 21.00% | ~7,195 |
-| Battle Hero | 19.00% | ~6,510 |
-| Smooth Supply | 17.00% | ~5,825 |
-| Warrior | 16.00% | ~5,482 |
-| Supply Officer | 16.00% | ~5,482 |
-| Veteran | 10.00% | ~3,426 |
-| Legend of the Seas | 5.00% | ~1,713 |
-| Chief Naval Architect | 5.00% | ~1,713 |
-| Shield | 5.00% | ~1,713 |
-| Important Missions | 4.00% | ~1,371 |
-| Senior Supply Officer | 3.00% | ~1,028 |
-| Weather Beaten | 3.00% | ~1,028 |
-| Guardian | 3.00% | ~1,028 |
-| Bane of the Oceans | 2.00% | ~685 |
-| "Science of Victory" | 2.00% | ~685 |
-| Special Orders | 2.00% | ~685 |
-| Protector | 2.00% | ~685 |
-| Exterminator | 2.00% | ~685 |
-| American Cruisers | 2.00% | ~685 |
+| Junior Naval Designer | 82.00% | ~28,124 |
+| Initial Capital | 71.00% | ~24,351 |
+| Moneybags | 50.00% | ~17,148 |
+| Junior Supply Officer | 50.00% | ~17,148 |
+| Naval Warfare. Arson | 38.00% | ~13,033 |
+| Naval Warfare. Ramming | 37.00% | ~12,690 |
+| Amateur | 36.00% | ~12,347 |
+| Naval Constructor | 36.00% | ~12,347 |
+| Naval Warfare. Tactics | 35.00% | ~12,004 |
+| Naval Warfare. Weaponry Basics | 27.00% | ~9,260 |
+| Naval Warfare. Flooding | 23.00% | ~7,888 |
+| Naval Warfare. Lucky Shot | 23.00% | ~7,888 |
+| Business Magnate | 21.00% | ~7,202 |
+| Battle Hero | 19.00% | ~6,516 |
+| Smooth Supply | 17.00% | ~5,830 |
+| Warrior | 16.00% | ~5,488 |
+| Supply Officer | 16.00% | ~5,488 |
+| Veteran | 10.00% | ~3,430 |
+| Legend of the Seas | 5.00% | ~1,715 |
+| Chief Naval Architect | 5.00% | ~1,715 |
+| Shield | 5.00% | ~1,715 |
+| Important Missions | 4.00% | ~1,372 |
+| Senior Supply Officer | 3.00% | ~1,029 |
+| Weather Beaten | 3.00% | ~1,029 |
+| Guardian | 3.00% | ~1,029 |
+| Bane of the Oceans | 2.00% | ~686 |
+| "Science of Victory" | 2.00% | ~686 |
+| Special Orders | 2.00% | ~686 |
+| Protector | 2.00% | ~686 |
+| Exterminator | 2.00% | ~686 |
+| American Cruisers | 2.00% | ~686 |
 | Old-Timer | 1.00% | ~343 |
-| Secret Instructions | 0.90% | ~308 |
-| Raider | 0.90% | ~308 |
+| Secret Instructions | 0.90% | ~309 |
+| Raider | 0.90% | ~309 |
 | Experienced One | 0.70% | ~240 |
 | Ravager | 0.50% | ~171 |
 | "Yamamoto Isoroku" | 0.50% | ~171 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~34 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,264 (Ranked 111)  
+Progressed: 34,297 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,19 +104,19 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 32,977 | 0 |
 | 2023-10-03 | 33,411 | 0 |
 | 2023-10-04 | 33,819 | 0 |
-| 2023-10-05 | 34,264 | 0 |
+| 2023-10-05 | 34,297 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,391  (Ranked 131)  
-Sum: 11,581 (Ranked 81)  
+Sum: 11,588 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,391 |
 | This game is Relaxing | 1,387 |
-| This game has Challenging Combat | 1,363 |
+| This game has Challenging Combat | 1,366 |
 | This game is Highly Recommended | 1,351 |
 | This game has Competitive Players | 1,350 |
-| This game is Extremely Fun | 1,321 |
+| This game is Extremely Fun | 1,325 |
 | This game has Realistic Visuals | 1,213 |
 | This game has Amazing Storytelling | 1,129 |
 | This game has a Competitive Community | 1,076 |
@@ -390,4 +390,4 @@ Diff (max vs sum): 50
 | 2023-10-02 | 4.41 | - | 1,382 | 11,538 |
 | 2023-10-03 | 4.41 | - | 1,386 | 11,550 |
 | 2023-10-04 | 4.41 | - | 1,391 | 11,572 |
-| 2023-10-05 | 4.41 | - | 1,391 | 11,581 |
+| 2023-10-05 | 4.41 | - | 1,391 | 11,588 |

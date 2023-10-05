@@ -1791,7 +1791,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14374,
+  "EOS_Progressed": 14375,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -13026,6 +13026,11 @@
       "Time": "2023-10-05T19:09:19.2104931+00:00",
       "NumProgressed": 14374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T20:08:22.9415163+00:00",
+      "NumProgressed": 14375,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13365,7 +13370,7 @@
       "Name": "Able",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -13387,9 +13392,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -13493,7 +13498,7 @@
       "Name": "Good",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -13557,7 +13562,7 @@
       "Name": "Learned",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -13589,7 +13594,7 @@
       "Name": "Mason",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -13605,7 +13610,7 @@
       "Name": "Noble",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -13629,7 +13634,7 @@
       "Name": "Pioneer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -13669,7 +13674,7 @@
       "Name": "Strong",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -14405,7 +14410,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -14485,7 +14490,7 @@
       "Name": "Oracle",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -14821,7 +14826,7 @@
       "Name": "Judaism",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -15757,7 +15762,7 @@
       "Name": "Kushite Paganism",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -15772,21 +15777,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14374,
+      "Progressed": 14375,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14374,
+      "Progressed": 14375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-05T19:09:19.2104928+00:00",
+  "LastChanged_Achievements": "2023-10-05T20:08:22.9415159+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T19:01:26.3763987+00:00",
-  "LastUpdate_Achievements": "2023-10-05T19:09:19.2115371+00:00"
+  "LastUpdate_Ratings": "2023-10-05T20:00:13.0742125+00:00",
+  "LastUpdate_Achievements": "2023-10-05T20:08:22.9425486+00:00"
 }

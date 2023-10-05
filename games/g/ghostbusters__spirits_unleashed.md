@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 573)  
+Rating: 4.50 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,11 @@ Rating: 4.50 (Ranked 573)
 | I collect Spores, Molds, and Fungi | 0.90% | ~236 |
 | Fully Upgraded | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
+| Vaporous Expansion | 0.90% | ~236 |
 | Cultured | 0.80% | ~210 |
 | Swift Rift Removers | 0.80% | ~210 |
 | Teamwork | 0.80% | ~210 |
 | There you are! | 0.80% | ~210 |
-| Vaporous Expansion | 0.80% | ~210 |
 | Back Off | 0.70% | ~184 |
 | Clutch Capture | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,223 (Ranked 115)  
+Progressed: 26,223 (Ranked 116)  
 Completed: 58 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

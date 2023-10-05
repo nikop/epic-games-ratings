@@ -5,23 +5,23 @@ Rating: 4.80 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,427 |
-| A Thorny Situation | 70.00% | ~4,246 |
-| ... And Spit Back Out | 59.00% | ~3,578 |
-| Break-Net Speed | 47.00% | ~2,851 |
-| Bramble Breaker | 45.00% | ~2,729 |
-| Miner 49er | 42.00% | ~2,547 |
-| Humble Collector | 40.00% | ~2,426 |
-| Calm Sailing | 35.00% | ~2,123 |
-| Open the Gate! | 31.00% | ~1,880 |
-| Mist Walker | 29.00% | ~1,759 |
-| Lumberjack | 25.00% | ~1,516 |
-| Oui, Chef! | 22.00% | ~1,334 |
-| Clear the Air | 16.00% | ~970 |
+| Azoria Beckons | 73.00% | ~4,430 |
+| A Thorny Situation | 70.00% | ~4,248 |
+| ... And Spit Back Out | 59.00% | ~3,581 |
+| Break-Net Speed | 47.00% | ~2,852 |
+| Bramble Breaker | 45.00% | ~2,731 |
+| Miner 49er | 42.00% | ~2,549 |
+| Humble Collector | 40.00% | ~2,428 |
+| Calm Sailing | 35.00% | ~2,124 |
+| Open the Gate! | 31.00% | ~1,881 |
+| Mist Walker | 29.00% | ~1,760 |
+| Lumberjack | 25.00% | ~1,517 |
+| Oui, Chef! | 22.00% | ~1,335 |
+| Clear the Air | 16.00% | ~971 |
 | Botanical Breakthrough | 15.00% | ~910 |
-| Beach Comber | 13.00% | ~788 |
-| Search for the Hairy Grell | 11.00% | ~667 |
-| Higher Tax Bracket | 11.00% | ~667 |
+| Beach Comber | 13.00% | ~789 |
+| Search for the Hairy Grell | 11.00% | ~668 |
+| Higher Tax Bracket | 11.00% | ~668 |
 | Skilled | 7.00% | ~425 |
 | Got to Catch Them All | 6.00% | ~364 |
 | Rumble in the Jumble | 6.00% | ~364 |
@@ -41,7 +41,7 @@ Rating: 4.80 (Ranked 83)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,065 (Ranked 164)  
+Progressed: 6,069 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 5,872 | 0 |
 | 2023-10-03 | 5,939 | 0 |
 | 2023-10-04 | 6,004 | 0 |
-| 2023-10-05 | 6,065 | 0 |
+| 2023-10-05 | 6,069 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
