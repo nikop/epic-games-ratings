@@ -125,25 +125,25 @@
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ClearC02",
       "SetID": "94lmepd",
       "Name": "Strength",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearC02END",
       "SetID": "94lmepd",
       "Name": "Judgement",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearD01",
@@ -229,9 +229,9 @@
       "ID": "ClearG01",
       "SetID": "94lmepd",
       "Name": "Temperance",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearH01",
@@ -253,9 +253,9 @@
       "ID": "ClearJ01",
       "SetID": "94lmepd",
       "Name": "Justice",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearK01",
@@ -277,17 +277,17 @@
       "ID": "ClearM01",
       "SetID": "94lmepd",
       "Name": "Wheel Of Fortune",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearTE01",
       "SetID": "94lmepd",
       "Name": "First Tale",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearTE02",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:05:49.6800549+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:05:43.2299575+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:13.0330765+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:02.7768467+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:05:49.6800827+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:59:56.5922134+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:05:43.2299849+00:00"
 }

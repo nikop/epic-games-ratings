@@ -8544,9 +8544,9 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297832,
+  "EOS_Progressed": 297834,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26619,6 +26619,11 @@
       "Time": "2023-10-05T05:07:28.0883255+00:00",
       "NumProgressed": 297832,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-05T07:05:37.6687529+00:00",
+      "NumProgressed": 297834,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26742,7 +26747,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "PFA_23",
@@ -26989,7 +26994,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297832,
+      "Progressed": 297834,
       "Completed": 480
     }
   ],
@@ -26997,8 +27002,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-05T06:00:15.1204969+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:05:44.1465351+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:05:37.6687525+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:15.1204975+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:05:44.1466826+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:10.7210915+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:05:37.668895+00:00"
 }

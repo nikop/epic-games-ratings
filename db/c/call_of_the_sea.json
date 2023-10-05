@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122955,
+  "EOS_Progressed": 122956,
   "EOS_Completed": 1025,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -19149,6 +19149,11 @@
       "Time": "2023-10-05T06:06:49.6826929+00:00",
       "NumProgressed": 122955,
       "NumCompleted": 1025
+    },
+    {
+      "Time": "2023-10-05T07:06:42.7055056+00:00",
+      "NumProgressed": 122956,
+      "NumCompleted": 1025
     }
   ],
   "TotalAchievements": 34,
@@ -19176,7 +19181,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51641
+      "UsersEstimate": 51642
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -19216,7 +19221,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 97134
+      "UsersEstimate": 97135
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -19240,7 +19245,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34427
+      "UsersEstimate": 34428
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -19248,7 +19253,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 47952
+      "UsersEstimate": 47953
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -19272,7 +19277,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 36886
+      "UsersEstimate": 36887
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -19288,7 +19293,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 36886
+      "UsersEstimate": 36887
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -19336,7 +19341,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34427
+      "UsersEstimate": 34428
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -19344,7 +19349,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20902
+      "UsersEstimate": 20903
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -19431,7 +19436,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 122955,
+      "Progressed": 122956,
       "Completed": 1025
     }
   ],
@@ -19439,8 +19444,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:06:49.6826923+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:06:42.705505+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:49.9411208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:58:11.589385+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:06:49.6828126+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:58:06.2808817+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:06:42.7056229+00:00"
 }

@@ -27,11 +27,11 @@ Rating: 4.73 (Ranked 164)
 | Mercy | 24.00% | ~3,232 |
 | Effective instruments | 22.00% | ~2,963 |
 | Perfect shot | 22.00% | ~2,963 |
+| Perfect throw | 22.00% | ~2,963 |
 | Knights! | 21.00% | ~2,828 |
-| Perfect throw | 21.00% | ~2,828 |
 | Handful of pockets | 13.00% | ~1,751 |
+| Pocket laboratory | 12.00% | ~1,616 |
 | Not a toy anymore | 11.00% | ~1,481 |
-| Pocket laboratory | 11.00% | ~1,481 |
 | Herbalist | 8.00% | ~1,077 |
 | Fighter | 8.00% | ~1,077 |
 | Ornithologist | 5.00% | ~673 |

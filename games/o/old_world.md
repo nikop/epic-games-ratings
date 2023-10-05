@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.60% | ~86 |
 | Play a Single Player Game | 0.60% | ~86 |
 | Explorer | 0.50% | ~72 |
-| Settler | 0.50% | ~72 |
 | Friendly Family | 0.50% | ~72 |
 | Intrepid | 0.40% | ~57 |
 | Able | 0.30% | ~43 |

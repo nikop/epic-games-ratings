@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 59978,
+  "EOS_Progressed": 59979,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20123,6 +20123,11 @@
       "Time": "2023-10-05T06:09:06.9406589+00:00",
       "NumProgressed": 59978,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-05T07:09:08.6631548+00:00",
+      "NumProgressed": 59979,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20366,7 +20371,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -20398,7 +20403,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23991
+      "UsersEstimate": 23992
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -20422,7 +20427,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37786
+      "UsersEstimate": 37787
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -20470,7 +20475,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4199
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -20478,7 +20483,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14994
+      "UsersEstimate": 14995
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -20502,7 +20507,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46783
+      "UsersEstimate": 46784
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -20518,7 +20523,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4199
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -20605,15 +20610,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 59978,
+      "Progressed": 59979,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:09:06.9406583+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:09:08.6631541+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:26.0197067+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:57:52.5968768+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:09:06.9408219+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:57:46.8056769+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:09:08.6633047+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2826,6 +2826,11 @@
       "Time": "2023-10-05T01:54:27.1111605+00:00",
       "NumProgressed": 764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T07:09:21.3228882+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2837,7 +2842,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ActivePause",
@@ -2989,7 +2994,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LinearNetwork",
@@ -3085,7 +3090,7 @@
       "Name": "Race Against Time",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Reaction",
@@ -3149,7 +3154,7 @@
       "Name": "Ten!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "TimeForManagement",
@@ -3172,14 +3177,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:09:19.540016+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:09:21.3228875+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:59:41.4574508+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:09:19.5400651+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:59:37.2189195+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:09:21.3229366+00:00"
 }

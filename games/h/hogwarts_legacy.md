@@ -49,9 +49,9 @@ Rating: 4.76 (Ranked 118)
 | A Forte for Achievement | 1.00% | ~2,978 |
 | Spilled Milk | 0.80% | ~2,383 |
 | The Nature of the Beast | 0.60% | ~1,787 |
-| Collector's Edition | 0.30% | ~893 |
+| Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,832 (Ranked 46)  
+Progressed: 297,834 (Ranked 46)  
 Completed: 480 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 480 (0.16%) (Ranked 224)
 | 2023-10-02 | 297,736 | 479 |
 | 2023-10-03 | 297,777 | 480 |
 | 2023-10-04 | 297,825 | 480 |
-| 2023-10-05 | 297,832 | 480 |
+| 2023-10-05 | 297,834 | 480 |
 ## Awards
 Max (Character Customization): 23,277  (Ranked 17)  
 Sum: 45,058 (Ranked 31)  

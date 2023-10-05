@@ -6688,10 +6688,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11496,
       "NumberOfAwardsMax": 6635
+    },
+    {
+      "Time": "2023-10-05T06:57:14.5233848+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11498,
+      "NumberOfAwardsMax": 6635
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11496,
+  "NumberOfAwards": 11498,
   "NumberOfAwardsMax": 6635,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6759,7 +6765,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 542
+      "Count": 544
     },
     {
       "Text": "This game has a Creative Community",
@@ -22160,9 +22166,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2146
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -22445,9 +22451,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-05T05:57:20.9568869+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:03:50.5335558+00:00",
+  "LastChanged": "2023-10-05T06:57:14.5233846+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:03:43.6147332+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:57:20.9568876+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:03:50.5336968+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:57:14.5233853+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:03:43.6148594+00:00"
 }

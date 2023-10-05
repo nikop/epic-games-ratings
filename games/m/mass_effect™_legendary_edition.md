@@ -44,8 +44,8 @@
 | The Krogan | 35.00% | ~195 |
 | Archivist | 34.00% | ~190 |
 | Galactic Explorer | 34.00% | ~190 |
+| Broke, Blind, and Bedlam | 33.00% | ~184 |
 | Ghost Ship | 32.00% | ~179 |
-| Broke, Blind, and Bedlam | 32.00% | ~179 |
 | The Assassin | 31.00% | ~173 |
 | The Justicar | 31.00% | ~173 |
 | The Quarian | 31.00% | ~173 |
@@ -95,10 +95,10 @@
 | Under Pressure | 17.00% | ~95 |
 | Sabotage Specialist | 17.00% | ~95 |
 | Hard Target | 17.00% | ~95 |
+| Last Witness | 17.00% | ~95 |
 | Fact Finder | 17.00% | ~95 |
 | Last Resort | 16.00% | ~89 |
 | Saboteur | 16.00% | ~89 |
-| Last Witness | 16.00% | ~89 |
 | Throw Mastery | 15.00% | ~84 |
 | Well Connected | 15.00% | ~84 |
 | Master and Commander | 15.00% | ~84 |

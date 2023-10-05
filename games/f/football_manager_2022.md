@@ -24,10 +24,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Bus | 29.00% | ~137,494 |
 | Shrewd Spender | 29.00% | ~137,494 |
 | Star Man | 29.00% | ~137,494 |
-| Attack! | 28.00% | ~132,752 |
-| You're On Fire | 27.00% | ~128,011 |
-| Tremendous Trio | 27.00% | ~128,011 |
-| Record Sale | 27.00% | ~128,011 |
+| Attack! | 28.00% | ~132,753 |
+| You're On Fire | 27.00% | ~128,012 |
+| Tremendous Trio | 27.00% | ~128,012 |
+| Record Sale | 27.00% | ~128,012 |
 | On A Roll | 26.00% | ~123,270 |
 | Unstoppable Force | 26.00% | ~123,270 |
 | Armchair Expert | 25.00% | ~118,529 |
@@ -47,9 +47,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Top Form | 17.00% | ~80,600 |
 | Cash To Burn | 17.00% | ~80,600 |
 | Overachiever! | 16.00% | ~75,859 |
-| Beating Expectations | 15.00% | ~71,117 |
-| Rushed signing | 15.00% | ~71,117 |
-| Window Shopping | 15.00% | ~71,117 |
+| Beating Expectations | 15.00% | ~71,118 |
+| Rushed signing | 15.00% | ~71,118 |
+| Window Shopping | 15.00% | ~71,118 |
 | Eyes and Ears | 14.00% | ~66,376 |
 | Comeback King! | 14.00% | ~66,376 |
 | You're Up! | 13.00% | ~61,635 |
@@ -58,10 +58,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Superb Strike | 10.00% | ~47,412 |
 | International Superstar | 10.00% | ~47,412 |
 | Best In The World | 10.00% | ~47,412 |
-| Best In Europe | 9.00% | ~42,670 |
-| National Service | 9.00% | ~42,670 |
-| Headhunted | 9.00% | ~42,670 |
-| Domination | 9.00% | ~42,670 |
+| Best In Europe | 9.00% | ~42,671 |
+| National Service | 9.00% | ~42,671 |
+| Headhunted | 9.00% | ~42,671 |
+| Domination | 9.00% | ~42,671 |
 | Best In The Business | 8.00% | ~37,929 |
 | Legend | 6.00% | ~28,447 |
 | Win the Club World Cup | 6.00% | ~28,447 |
@@ -71,9 +71,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Going Places | 5.00% | ~23,706 |
 | We Trust You | 5.00% | ~23,706 |
 | Trophy Hoarder | 4.00% | ~18,965 |
-| National Hero | 3.00% | ~14,223 |
-| Golden Boot | 3.00% | ~14,223 |
-| Freedom Of The Country | 3.00% | ~14,223 |
+| National Hero | 3.00% | ~14,224 |
+| Golden Boot | 3.00% | ~14,224 |
+| Freedom Of The Country | 3.00% | ~14,224 |
 | Icon | 2.00% | ~9,482 |
 | Part Of The Furniture | 2.00% | ~9,482 |
 | Childhood Dream | 2.00% | ~9,482 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,116 (Ranked 36)  
+Progressed: 474,117 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 22 (0.00%) (Ranked 306)
 | 2023-10-02 | 474,037 | 22 |
 | 2023-10-03 | 474,076 | 22 |
 | 2023-10-04 | 474,109 | 22 |
-| 2023-10-05 | 474,116 | 22 |
+| 2023-10-05 | 474,117 | 22 |
 ## Awards
 Max (Relaxing): 6,455  (Ranked 55)  
-Sum: 50,827 (Ranked 26)  
+Sum: 50,829 (Ranked 26)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 5,872 |
 | This game is Highly Recommended | 5,870 |
 | This game is Educational | 5,856 |
-| This game has Diverse Characters | 5,536 |
+| This game has Diverse Characters | 5,538 |
 | This game has Amazing Storytelling | 4,917 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,374 |
@@ -546,4 +546,4 @@ Diff (max vs sum): 29
 | 2023-10-02 | 4.80 | - | 6,455 | 50,823 |
 | 2023-10-03 | 4.80 | - | 6,455 | 50,824 |
 | 2023-10-04 | 4.80 | - | 6,455 | 50,826 |
-| 2023-10-05 | 4.80 | - | 6,455 | 50,827 |
+| 2023-10-05 | 4.80 | - | 6,455 | 50,829 |

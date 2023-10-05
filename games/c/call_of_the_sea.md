@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~97,134 |
+| A Family Heirloom | 79.00% | ~97,135 |
 | 74 miles East of Otaheité | 56.00% | ~68,855 |
-| Interesting... | 42.00% | ~51,641 |
-| The Everhart Expedition | 39.00% | ~47,952 |
-| The Vanishing of the Lady Shannon | 30.00% | ~36,886 |
-| Seaside Serenade | 30.00% | ~36,886 |
+| Interesting... | 42.00% | ~51,642 |
+| The Everhart Expedition | 39.00% | ~47,953 |
+| The Vanishing of the Lady Shannon | 30.00% | ~36,887 |
+| Seaside Serenade | 30.00% | ~36,887 |
 | Halfway there | 29.00% | ~35,657 |
-| A brigantine, a brig and a barque | 28.00% | ~34,427 |
-| 506 East Hampden Avenue | 28.00% | ~34,427 |
+| A brigantine, a brig and a barque | 28.00% | ~34,428 |
+| 506 East Hampden Avenue | 28.00% | ~34,428 |
 | Weekend at Walakea's | 27.00% | ~33,198 |
 | Quite a Show | 27.00% | ~33,198 |
 | Dark Water Ride | 24.00% | ~29,509 |
@@ -21,7 +21,7 @@ Rating: 4.40 (Ranked 715)
 | Deep Cut | 24.00% | ~29,509 |
 | FHALGOF'N' | 23.00% | ~28,280 |
 | Marsh Cannery | 21.00% | ~25,821 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~20,902 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~20,903 |
 | The only thing I have now | 16.00% | ~19,673 |
 | Not Another Boring Slideshow! | 15.00% | ~18,443 |
 | Naacalvision | 15.00% | ~18,443 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 715)
 | Gently down the stream... | 1.00% | ~1,230 |
 | Meta-reference | 1.00% | ~1,230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,955 (Ranked 75)  
+Progressed: 122,956 (Ranked 75)  
 Completed: 1,025 (0.83%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 1,025 (0.83%) (Ranked 145)
 | 2023-10-02 | 122,646 | 1,016 |
 | 2023-10-03 | 122,790 | 1,018 |
 | 2023-10-04 | 122,927 | 1,024 |
-| 2023-10-05 | 122,955 | 1,025 |
+| 2023-10-05 | 122,956 | 1,025 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

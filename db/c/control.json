@@ -4,7 +4,7 @@
   "ProductSlug": "control",
   "Ranking_Rating": 396,
   "Ranking_Popularity": 41,
-  "Ranking_PopularitySum": 76,
+  "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 396,
@@ -4635,5 +4635,5 @@
   "LastChanged": "2023-10-05T06:03:11.2926067+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.5239852+00:00",
   "LastUpdate_Ratings": "2023-10-05T06:03:11.2926073+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:04:24.949902+00:00"
+  "LastUpdate_Achievements": "2023-10-05T07:04:18.3870485+00:00"
 }

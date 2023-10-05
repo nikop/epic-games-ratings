@@ -32,7 +32,7 @@ Rating: 4.61 (Ranked 371)
 | Exodus | 33.00% | ~255 |
 | Legend Teller | 33.00% | ~255 |
 | Mindless Prey | 33.00% | ~255 |
-| Front Toward Enemy | 31.00% | ~240 |
+| Front Toward Enemy | 32.00% | ~248 |
 | Whole Again | 26.00% | ~201 |
 | Set A Benchmark | 26.00% | ~201 |
 | Final Regeneration | 23.00% | ~178 |

@@ -112,6 +112,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.10% | ~197 |
 | Kas the Bloody Handed | 0.10% | ~197 |
 | Get Back In The Castle | 0.10% | ~197 |
+| Kas the Destroyer | 0.10% | ~197 |
 | Were-verpowered | 0.10% | ~231 |
 | Checkmate | 0.10% | ~197 |
 | Pin and Skewer | 0.10% | ~197 |
@@ -358,6 +359,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~197 |
 | Elder Rune Attack | 0.10% | ~197 |
 | The Gargoyle | 0.10% | ~197 |
+| Ulkoria's Escape from Alterdeep | 0.10% | ~197 |
 | The Wandering Emporium | 0.10% | ~197 |
 | Madcap Adventures Redux | 0.10% | ~197 |
 | When the Going Gets Tough | 0.10% | ~197 |
@@ -441,6 +443,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~197 |
 | REALLY Frozen Vengeance | 0.10% | ~197 |
 | The Battle of High Hall Tower | 0.10% | ~197 |
+| The Stunning Tower Battle | 0.10% | ~197 |
 | Elturel's Last Stand | 0.10% | ~197 |
 | Gargauth's Betrayal | 0.10% | ~197 |
 | Lost in the Underdark | 0.10% | ~197 |
@@ -508,7 +511,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Speeds of Destruction | 0.00% | ~0 |
-| Kas the Destroyer | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
@@ -520,9 +522,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
-| Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| The Stunning Tower Battle | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,930 (Ranked 56)  
+Progressed: 230,935 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,930 | 2,331 |
+| 2023-10-05 | 230,935 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,897 (Ranked 41)  

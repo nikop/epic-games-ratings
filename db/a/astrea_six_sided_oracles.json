@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-10-04T16:09:21.0367731+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T07:09:17.5121765+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -221,7 +226,7 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -293,7 +298,7 @@
       "ID": "ArchOracle",
       "SetID": "1jeo1g7",
       "Name": "Arch-Oracle",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -301,7 +306,7 @@
       "ID": "Artificer",
       "SetID": "1jeo1g7",
       "Name": "Artificer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -309,7 +314,7 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "AstrariumofHolding",
       "SetID": "1jeo1g7",
       "Name": "Astrarium of Holding",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -413,7 +418,7 @@
       "ID": "Canttouchthis",
       "SetID": "1jeo1g7",
       "Name": "Can\u0027t touch this",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -421,7 +426,7 @@
       "ID": "CriticalTwist",
       "SetID": "1jeo1g7",
       "Name": "Critical Twist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -445,7 +450,7 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -453,7 +458,7 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -493,7 +498,7 @@
       "ID": "Gottatinkeremall",
       "SetID": "1jeo1g7",
       "Name": "Gotta tinker\u0027em all!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -501,7 +506,7 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -509,7 +514,7 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -573,7 +578,7 @@
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -581,7 +586,7 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -613,7 +618,7 @@
       "ID": "PlagueDoctor",
       "SetID": "1jeo1g7",
       "Name": "Plague Doctor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -677,7 +682,7 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -693,7 +698,7 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -717,7 +722,7 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -725,7 +730,7 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -765,7 +770,7 @@
       "ID": "TheCorruptionGoddess",
       "SetID": "1jeo1g7",
       "Name": "The Corruption Goddess",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -813,7 +818,7 @@
       "ID": "ThisisFine",
       "SetID": "1jeo1g7",
       "Name": "This is Fine",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -821,7 +826,7 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -845,7 +850,7 @@
       "ID": "WaveBender",
       "SetID": "1jeo1g7",
       "Name": "Wave Bender",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -861,7 +866,7 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -925,7 +930,7 @@
       "ID": "BehenianMastery",
       "SetID": "1jeo1g7",
       "Name": "Behenian Mastery",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -949,7 +954,7 @@
       "ID": "EridanianMastery",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Mastery",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -957,7 +962,7 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -973,7 +978,7 @@
       "ID": "LacertianMastery",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Mastery",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -981,7 +986,7 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -997,7 +1002,7 @@
       "ID": "NoctuanMastery",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Mastery",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -1006,14 +1011,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:09:15.7969401+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:09:17.5121759+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:40.291568+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:09:15.7970545+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:34.8176172+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:09:17.5122854+00:00"
 }

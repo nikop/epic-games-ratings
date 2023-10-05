@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38321,
+  "EOS_Progressed": 38323,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17784,6 +17784,11 @@
       "Time": "2023-10-05T05:04:31.3026516+00:00",
       "NumProgressed": 38321,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-05T07:03:34.2784614+00:00",
+      "NumProgressed": 38323,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17859,7 +17864,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "ach_cursestone",
@@ -17883,7 +17888,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "ach_deathofermod",
@@ -17963,7 +17968,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "ach_invictus",
@@ -17995,7 +18000,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach_legacyrival",
@@ -18011,7 +18016,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach_legacyshipmate",
@@ -18019,7 +18024,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "ach_newstories",
@@ -18027,7 +18032,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach_portbell",
@@ -18139,7 +18144,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ach_sweetheart",
@@ -18226,15 +18231,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38321,
+      "Progressed": 38323,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-04T01:41:35.8515724+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:03:41.3572298+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:03:34.2784609+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:58:24.8959153+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:03:41.3573788+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:58:20.1174346+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:03:34.2785893+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7695,9 +7695,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62709,
+  "EOS_Progressed": 62710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25515,6 +25515,11 @@
       "Time": "2023-10-05T05:05:17.9261787+00:00",
       "NumProgressed": 62709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T07:04:07.0600563+00:00",
+      "NumProgressed": 62710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25582,7 +25587,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "Crackshot",
@@ -25598,7 +25603,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "Duelist",
@@ -25694,7 +25699,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10033
+      "UsersEstimate": 10034
     },
     {
       "ID": "I spit on your grave",
@@ -25806,7 +25811,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "Real Estate",
@@ -25933,15 +25938,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62709,
+      "Progressed": 62710,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-04T19:01:12.9742681+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:04:13.7836976+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:04:07.0600558+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:40.1775044+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:04:13.7838476+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:34.7013673+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:04:07.0602069+00:00"
 }

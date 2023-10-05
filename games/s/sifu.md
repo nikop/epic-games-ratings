@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.30% | ~2,146 |
 | State of constant learning | 0.30% | ~2,146 |
 | Qi Gong: Breath | 0.30% | ~2,146 |
+| Qi Gong: Essence | 0.30% | ~2,146 |
 | Lightning Hands | 0.30% | ~2,146 |
 | Rumble in the Hangar | 0.30% | ~2,146 |
 | Project Arena | 0.30% | ~74 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.20% | ~1,431 |
 | Dance of the Praying Mantis | 0.20% | ~1,431 |
 | Qi Gong: Mind | 0.20% | ~1,431 |
-| Qi Gong: Essence | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
 | Old Child | 0.20% | ~1,431 |
 | Kung-Fu Tussle | 0.20% | ~1,431 |
@@ -238,7 +238,7 @@ Completed: 12,909 (1.80%) (Ranked 112)
 | 2023-10-05 | 715,497 | 12,909 |
 ## Awards
 Max (Great Boss Battles): 6,635  (Ranked 54)  
-Sum: 11,496 (Ranked 82)  
+Sum: 11,498 (Ranked 82)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): -28
 | This game has Quickly Understood Controls | 556 |
 | This game is Extremely Fun | 550 |
 | This game has Amazing Characters | 548 |
-| This game is Highly Recommended | 542 |
+| This game is Highly Recommended | 544 |
 | This game has Unique Visuals | 519 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 394 |
@@ -518,4 +518,4 @@ Diff (max vs sum): -28
 | 2023-10-02 | 4.82 | - | 6,629 | 11,474 |
 | 2023-10-03 | 4.82 | - | 6,629 | 11,483 |
 | 2023-10-04 | 4.82 | - | 6,635 | 11,494 |
-| 2023-10-05 | 4.82 | - | 6,635 | 11,496 |
+| 2023-10-05 | 4.82 | - | 6,635 | 11,498 |

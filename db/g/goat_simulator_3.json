@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4186,10 +4186,10 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 246252,
-  "EOS_Completed": 846,
-  "EOS_NewPlayers": 878,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 246253,
+  "EOS_Completed": 847,
+  "EOS_NewPlayers": 871,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -22436,6 +22436,11 @@
       "Time": "2023-10-05T06:06:03.1293464+00:00",
       "NumProgressed": 246252,
       "NumCompleted": 846
+    },
+    {
+      "Time": "2023-10-05T07:05:56.793331+00:00",
+      "NumProgressed": 246253,
+      "NumCompleted": 847
     }
   ],
   "TotalAchievements": 39,
@@ -22511,7 +22516,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 224089
+      "UsersEstimate": 224090
     },
     {
       "ID": "AchievementClownID",
@@ -22543,7 +22548,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44325
+      "UsersEstimate": 44326
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -22607,7 +22612,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 110813
+      "UsersEstimate": 110814
     },
     {
       "ID": "AchievementIntroID",
@@ -22679,7 +22684,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182226
+      "UsersEstimate": 182227
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -22727,7 +22732,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115738
+      "UsersEstimate": 115739
     },
     {
       "ID": "AchievementTrinketID",
@@ -22758,16 +22763,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246252,
-      "Completed": 846
+      "Progressed": 246253,
+      "Completed": 847
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-05T05:59:28.2035663+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:06:03.1293457+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:05:56.7933305+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:59:28.2035669+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:06:03.1294806+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:59:23.4667863+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:05:56.7934825+00:00"
 }

@@ -7108,9 +7108,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230930,
+  "EOS_Progressed": 230935,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25768,6 +25768,11 @@
       "Time": "2023-10-05T06:06:20.1355348+00:00",
       "NumProgressed": 230930,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T07:06:13.9974424+00:00",
+      "NumProgressed": 230935,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -26633,9 +26638,9 @@
       "ID": "objective_completed_1199",
       "SetID": "415jc5c",
       "Name": "Kas the Destroyer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_12",
@@ -28697,9 +28702,9 @@
       "ID": "objective_completed_658",
       "SetID": "415jc5c",
       "Name": "Ulkoria\u0027s Escape from Alterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_660",
@@ -29377,9 +29382,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_872",
@@ -30002,21 +30007,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197204,
+      "Progressed": 197209,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230930,
+      "Progressed": 230935,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-05T06:03:05.2195676+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:06:20.1355342+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:06:13.9974419+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:03:05.2195683+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:06:20.138367+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:38.2382463+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:06:14.0001724+00:00"
 }

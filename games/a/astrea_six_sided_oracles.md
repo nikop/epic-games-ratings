@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Anomaly Destroyer | 8.00% | ~3 |
-| Dicesmithing Time! | 8.00% | ~3 |
-| Endless Tricks | 8.00% | ~3 |
-| Mind Illuminator | 8.00% | ~3 |
-| Sanctuary Guardian | 8.00% | ~3 |
-| Stellar Dismantler | 8.00% | ~3 |
+| Anomaly Destroyer | 7.00% | ~3 |
+| Dicesmithing Time! | 7.00% | ~3 |
+| Endless Tricks | 7.00% | ~3 |
+| Mind Illuminator | 7.00% | ~3 |
+| Sanctuary Guardian | 7.00% | ~3 |
+| Stellar Dismantler | 7.00% | ~3 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Loyal Partner | 5.00% | ~2 |
@@ -20,31 +20,31 @@
 | Stellar Haste | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
-| Anomaly Control | 3.00% | ~1 |
-| Arch-Oracle | 3.00% | ~1 |
-| Artificer | 3.00% | ~1 |
-| Astral Adventurer | 3.00% | ~1 |
-| Astrarium of Holding | 3.00% | ~1 |
-| Can't touch this | 3.00% | ~1 |
-| Critical Twist | 3.00% | ~1 |
-| Gotta tinker'em all! | 3.00% | ~1 |
-| Heart Gate | 3.00% | ~1 |
-| Heavy Purger | 3.00% | ~1 |
-| Meissa's Savior | 3.00% | ~1 |
-| Plague Doctor | 3.00% | ~1 |
-| Shard Spender | 3.00% | ~1 |
-| Star Killer | 3.00% | ~1 |
-| The Corruption Goddess | 3.00% | ~1 |
-| This is Fine | 3.00% | ~1 |
-| Unbeatable | 3.00% | ~1 |
-| Wave Bender | 3.00% | ~1 |
-| Apian Champion | 3.00% | ~1 |
-| Behenian Mastery | 3.00% | ~1 |
-| Eridanian Mastery | 3.00% | ~1 |
-| Lacertian Champion | 3.00% | ~1 |
-| Lacertian Mastery | 3.00% | ~1 |
-| Noctuan Champion | 3.00% | ~1 |
-| Noctuan Mastery | 3.00% | ~1 |
+| Anomaly Control | 2.00% | ~1 |
+| Arch-Oracle | 2.00% | ~1 |
+| Artificer | 2.00% | ~1 |
+| Astral Adventurer | 2.00% | ~1 |
+| Astrarium of Holding | 2.00% | ~1 |
+| Can't touch this | 2.00% | ~1 |
+| Critical Twist | 2.00% | ~1 |
+| Gotta tinker'em all! | 2.00% | ~1 |
+| Heart Gate | 2.00% | ~1 |
+| Heavy Purger | 2.00% | ~1 |
+| Meissa's Savior | 2.00% | ~1 |
+| Plague Doctor | 2.00% | ~1 |
+| Shard Spender | 2.00% | ~1 |
+| Star Killer | 2.00% | ~1 |
+| The Corruption Goddess | 2.00% | ~1 |
+| This is Fine | 2.00% | ~1 |
+| Unbeatable | 2.00% | ~1 |
+| Wave Bender | 2.00% | ~1 |
+| Apian Champion | 2.00% | ~1 |
+| Behenian Mastery | 2.00% | ~1 |
+| Eridanian Mastery | 2.00% | ~1 |
+| Lacertian Champion | 2.00% | ~1 |
+| Lacertian Mastery | 2.00% | ~1 |
+| Noctuan Champion | 2.00% | ~1 |
+| Noctuan Mastery | 2.00% | ~1 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | Lacertian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 449)  
+Progressed: 41 (Ranked 448)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,3 +118,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 36 | 0 |
 | 2023-10-03 | 37 | 0 |
 | 2023-10-04 | 40 | 0 |
+| 2023-10-05 | 41 | 0 |

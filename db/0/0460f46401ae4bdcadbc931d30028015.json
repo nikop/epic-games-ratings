@@ -1698,9 +1698,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 557
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_14",
@@ -1843,8 +1843,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-04T21:00:00.246337+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:05:03.2649465+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:04:56.2254365+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:24.4961296+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:05:03.2649705+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:18.9218257+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:04:56.2254596+00:00"
 }

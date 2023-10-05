@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7024,
+  "EOS_Progressed": 7025,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6003,6 +6003,11 @@
       "Time": "2023-10-05T02:23:44.8137882+00:00",
       "NumProgressed": 7024,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-05T07:04:53.3327298+00:00",
+      "NumProgressed": 7025,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6046,7 +6051,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -6078,7 +6083,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -6094,7 +6099,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -6102,7 +6107,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -6182,7 +6187,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6206,7 +6211,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3793
+      "UsersEstimate": 3794
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6254,7 +6259,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -6262,7 +6267,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6294,7 +6299,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -6342,7 +6347,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6350,7 +6355,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -6358,7 +6363,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -6373,7 +6378,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7024,
+      "Progressed": 7025,
       "Completed": 8
     }
   ],
@@ -6381,8 +6386,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:05:00.2712185+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:04:53.3327291+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.2710723+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:03:09.2868285+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:05:00.2712841+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:57:10.8944887+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:04:53.3327947+00:00"
 }

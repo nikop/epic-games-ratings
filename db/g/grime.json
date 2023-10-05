@@ -1000,9 +1000,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150277,
+  "EOS_Progressed": 150288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10530,6 +10530,11 @@
       "Time": "2023-10-05T06:04:23.885374+00:00",
       "NumProgressed": 150277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T07:04:17.310676+00:00",
+      "NumProgressed": 150288,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10691,9 +10696,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 301
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -10908,21 +10913,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149860,
+      "Progressed": 149871,
       "Completed": 1139
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150277,
+      "Progressed": 150288,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-04T22:00:31.5462818+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:04:23.8853735+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:04:17.3106756+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T05:59:44.626906+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:04:23.8854682+00:00"
+  "LastUpdate_Ratings": "2023-10-05T06:59:40.2729631+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:04:17.3107697+00:00"
 }

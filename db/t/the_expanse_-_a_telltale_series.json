@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 13569,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7792,9 +7792,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "2",
@@ -7816,9 +7816,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 122
     },
     {
       "ID": "22",
@@ -7961,8 +7961,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T06:05:51.1197362+00:00",
+  "LastChanged_Achievements": "2023-10-05T07:05:44.6850815+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:00:19.7501394+00:00",
-  "LastUpdate_Achievements": "2023-10-05T06:05:51.1198021+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:00:14.354477+00:00",
+  "LastUpdate_Achievements": "2023-10-05T07:05:44.6851467+00:00"
 }
