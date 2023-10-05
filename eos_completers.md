@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.13% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.12% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.61% |
@@ -132,8 +132,8 @@
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 131 | [Infindustry](games/i/infindustry.md) | 1.09% |
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
-| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
 | 133 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 135 | [Adios](games/a/adios.md) | 1.04% |
 | 136 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 136 | [Sable](games/s/sable.md) | 1.01% |

@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,767 | 4.45 | 644 |
 | 34 | [NBA 2K21](games/n/nba_2k21.md) | 11,767 | 4.39 | 728 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,479 | 4.69 | 221 |
-| 37 | [SnowRunner](games/s/snowrunner.md) | 11,022 | 4.76 | 118 |
+| 37 | [SnowRunner](games/s/snowrunner.md) | 11,043 | 4.76 | 118 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,233 | 4.78 | 104 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,193 | 4.61 | 371 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,396 | 4.57 | 453 |
@@ -126,7 +126,7 @@
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,519 | 4.62 | 356 |
 | 125 | [Ring of Pain](games/r/ring_of_pain.md) | 1,497 | 4.58 | 435 |
 | 126 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,487 | 4.55 | 490 |
-| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,475 | 4.54 | 508 |
+| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,479 | 4.54 | 508 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,471 | 4.86 | 31 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,460 | 4.53 | 522 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,457 | 4.87 | 25 |
@@ -159,7 +159,7 @@
 | 157 | [Football Manager 2023](games/f/football_manager_2023.md) | 836 | 4.76 | 118 |
 | 158 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 831 | 4.69 | 221 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 825 | 4.50 | 573 |
-| 160 | [Frostpunk](games/f/frostpunk.md) | 820 | 4.74 | 149 |
+| 160 | [Frostpunk](games/f/frostpunk.md) | 821 | 4.74 | 149 |
 | 161 | [The Long Dark](games/t/the_long_dark.md) | 817 | 4.74 | 149 |
 | 162 | [Auto Chess](games/a/auto_chess.md) | 809 | 4.51 | 552 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 778 | 4.61 | 371 |

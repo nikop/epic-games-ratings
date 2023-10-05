@@ -133,7 +133,7 @@
 | 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 413 |
 | 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,776 | 117 |
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 527 |
-| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,022 | 37 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,043 | 37 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 527 |
 | 118 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 103 | 339 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 49 | 413 |
@@ -149,7 +149,7 @@
 | 140 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 527 |
 | 140 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 527 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 527 |
-| 149 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 820 | 160 |
+| 149 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 821 | 160 |
 | 149 | [Haven](games/h/haven.md) | 4.74 | 0 | 527 |
 | 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 14,245 | 26 |
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 707 | 175 |
@@ -507,7 +507,7 @@
 | 490 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 372 |
 | 490 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,588 | 75 |
 | 490 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,299 | 133 |
-| 508 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,475 | 127 |
+| 508 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,479 | 127 |
 | 508 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 527 |
 | 508 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,318 | 58 |
 | 508 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 451 |
