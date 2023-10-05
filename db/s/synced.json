@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -480,9 +480,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 60868,
+  "EOS_Progressed": 60873,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2594,
+  "EOS_NewPlayers": 2585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3805,6 +3805,11 @@
       "Time": "2023-10-05T02:28:39.8301821+00:00",
       "NumProgressed": 60868,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T03:08:52.7712415+00:00",
+      "NumProgressed": 60873,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3817,7 +3822,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16434
+      "UsersEstimate": 16436
     },
     {
       "ID": "10",
@@ -3857,7 +3862,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "15",
@@ -3881,7 +3886,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "3",
@@ -3889,7 +3894,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "4",
@@ -3897,7 +3902,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5478
+      "UsersEstimate": 5479
     },
     {
       "ID": "5",
@@ -3944,7 +3949,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 60868,
+      "Progressed": 60873,
       "Completed": 2
     }
   ],
@@ -3952,8 +3957,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-04T23:00:33.4879348+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:28:39.8301816+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:08:52.7712411+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
   "LastUpdate_Ratings": "2023-10-05T02:19:29.2408619+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:28:39.8302239+00:00"
+  "LastUpdate_Achievements": "2023-10-05T03:08:52.7712763+00:00"
 }

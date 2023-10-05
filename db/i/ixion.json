@@ -5479,9 +5479,9 @@
       "ID": "ACH_BASE_43",
       "SetID": "92iocjf",
       "Name": "Work Harder",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_44",
@@ -5694,8 +5694,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:22:22.6563583+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:03:08.5039303+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.8238221+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:06.091048+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:22:22.6565081+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:59:49.1689554+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:03:08.5040166+00:00"
 }

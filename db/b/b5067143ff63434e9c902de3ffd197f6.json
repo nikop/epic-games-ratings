@@ -2,7 +2,7 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 118,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-10-05T02:22:21.2766392+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T03:03:07.1436511+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -535,7 +540,7 @@
       "ID": "ACH_LEVEL188",
       "SetID": "1lo1k0a",
       "Name": "Liminal Hotel",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -601,7 +606,7 @@
       "Name": "Electric",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -609,7 +614,7 @@
       "Name": "Level 0",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -704,14 +709,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:22:21.2766386+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:03:07.1436506+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:17:51.4205677+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:22:21.2766654+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:58:34.6814324+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:03:07.1436699+00:00"
 }

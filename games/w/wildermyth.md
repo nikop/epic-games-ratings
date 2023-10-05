@@ -8,7 +8,7 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 41.00% | ~577 |
 | Me and My Familiar | 38.00% | ~535 |
-| This Too Shall Pass | 32.00% | ~450 |
+| This Too Shall Pass | 32.00% | ~451 |
 | Passing Shadow | 31.00% | ~436 |
 | Cutthroat Competitors | 31.00% | ~436 |
 | Daybreak | 29.00% | ~408 |
@@ -27,7 +27,7 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 8.00% | ~113 |
 | Another Tale to Tell | 8.00% | ~113 |
 | A Story of Heroes | 8.00% | ~113 |
-| Let Me Get My Chisel | 7.00% | ~98 |
+| Let Me Get My Chisel | 7.00% | ~99 |
 | Legends Never Die | 6.00% | ~84 |
 | Wingknight's Prowess | 6.00% | ~84 |
 | All My Birds, Safely Home | 6.00% | ~84 |
@@ -40,6 +40,7 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 4.00% | ~56 |
 | Bears are Scary | 4.00% | ~56 |
 | Grillmaster | 4.00% | ~56 |
+| Lochias's Hunger | 4.00% | ~56 |
 | No Time for Clawmonsters | 4.00% | ~56 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 3.00% | ~42 |
 | Astrology | 3.00% | ~42 |
 | Tempest | 3.00% | ~42 |
-| Lochias's Hunger | 3.00% | ~42 |
 | The Power of Friendship | 2.00% | ~28 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,407 (Ranked 218)  
+Progressed: 1,408 (Ranked 218)  
 Completed: 5 (0.36%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 5 (0.36%) (Ranked 187)
 | 2023-09-25 | 1,405 | 5 |
 | 2023-09-27 | 1,406 | 5 |
 | 2023-10-01 | 1,407 | 5 |
+| 2023-10-05 | 1,408 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 476)  
 Sum: 28 (Ranked 492)  

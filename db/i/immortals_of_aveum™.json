@@ -372,9 +372,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_10",
@@ -396,9 +396,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_13",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:22:43.6371447+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:03:29.3834419+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.6113778+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:31.8113935+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:22:43.637211+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:02:06.5431968+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:03:29.3834913+00:00"
 }

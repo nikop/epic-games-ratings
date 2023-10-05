@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-invader-68d438",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-03-18T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.2897715+00:00",
   "LastChanged": "2023-03-31T05:58:13.2897716+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:12.7203565+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:16:23.0923824+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:24:19.1396413+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:57:06.5009946+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:05:05.5078979+00:00"
 }

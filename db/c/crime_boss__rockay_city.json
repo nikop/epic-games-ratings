@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3864,7 +3864,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88756,
+  "EOS_Progressed": 88757,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
@@ -21199,6 +21199,11 @@
       "Time": "2023-10-05T02:22:20.2192306+00:00",
       "NumProgressed": 88756,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-05T03:03:06.0806504+00:00",
+      "NumProgressed": 88757,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 41,
@@ -21304,9 +21309,9 @@
       "ID": "ACH_0060",
       "SetID": "3kam13l",
       "Name": "Freebooter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_0061",
@@ -21537,13 +21542,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88756,
+      "Progressed": 88757,
       "Completed": 47
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17103,
+      "Progressed": 17104,
       "Completed": 15541
     }
   ],
@@ -21551,8 +21556,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-05T02:17:38.2229924+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:22:20.21923+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:03:06.0806498+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:17:38.2229932+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:22:20.2194417+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:58:22.0190237+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:03:06.0810234+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "beach-invasion-1944-d654d6",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-13T10:00:00+00:00",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-07-13T21:57:44.861851+00:00",
   "FirstSeenAchievements": "2023-07-07T02:27:34.9591055+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:25:01.398652+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:05:46.9773453+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:11.1492681+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:18:59.9313063+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:25:01.3986977+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:59:40.9365149+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:05:46.9773769+00:00"
 }

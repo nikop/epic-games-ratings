@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Laid Plans | 0.10% | ~197 |
 | Pincushion Party | 0.10% | ~197 |
 | G. O. A. T. | 0.10% | ~197 |
+| The Howling Peaks of Yon | 0.10% | ~197 |
 | Strength of Character | 0.10% | ~197 |
 | The Invisible Wizards of Thay | 0.10% | ~197 |
 | Heavy Burden | 0.10% | ~231 |
@@ -84,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.10% | ~197 |
 | Flapjacks and Waffles | 0.10% | ~197 |
 | On the Hunt | 0.10% | ~231 |
+| Best Thay Ever | 0.10% | ~197 |
 | Vecna Lives! | 0.10% | ~197 |
 | Overwhelmed with Knowledge | 0.10% | ~197 |
 | A Demi-god's Defender | 0.10% | ~197 |
@@ -122,6 +124,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.10% | ~231 |
 | Lobsterfolk Assault | 0.10% | ~231 |
 | Taking Responsibility | 0.10% | ~231 |
+| The Minions of Endelyn Moongrave | 0.10% | ~197 |
 | Between a Brigganock and a Hard Place | 0.10% | ~197 |
 | Love Unsoiled | 0.10% | ~197 |
 | The Play's the Thing! | 0.10% | ~197 |
@@ -224,7 +227,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.10% | ~231 |
 | Useless Allies | 0.10% | ~231 |
 | Stumbling Escape | 0.10% | ~231 |
+| Distracted Escape | 0.10% | ~197 |
 | Fugitives | 0.10% | ~231 |
+| From The Shadows | 0.10% | ~231 |
 | Spined Nuisances | 0.10% | ~231 |
 | Twilight Twist | 0.10% | ~197 |
 | Excavating History | 0.10% | ~231 |
@@ -261,6 +266,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Hero's Entourage | 0.10% | ~231 |
 | Sneak Attack | 0.10% | ~197 |
 | Flying Monkey Skulls of Doom | 0.10% | ~231 |
+| Lair of the Xanathar | 0.10% | ~231 |
 | Dreams of Beholders | 0.10% | ~231 |
 | Feigned Weakness | 0.10% | ~231 |
 | DPS in the Deeps | 0.10% | ~197 |
@@ -268,6 +274,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~231 |
 | Sober Up | 0.10% | ~231 |
 | In The Beginning | 0.10% | ~197 |
+| Crowded Streets | 0.10% | ~231 |
 | The Sunless Citadel | 0.10% | ~231 |
 | Social Grace | 0.10% | ~197 |
 | Evergreens with an Evergreen | 0.10% | ~197 |
@@ -282,10 +289,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.10% | ~231 |
 | Madcap Adventures | 0.10% | ~231 |
 | Faerûn's Most Neglected | 0.10% | ~197 |
+| Vault of Dragons | 0.10% | ~231 |
 | Vault of Pixies | 0.10% | ~231 |
 | Vault of Poison | 0.10% | ~231 |
 | Vault of Cuteness | 0.10% | ~197 |
 | Champions of Waterdeep | 0.10% | ~231 |
+| On The Job Learning | 0.10% | ~231 |
 | Take Five | 0.10% | ~197 |
 | Running of the Saurs | 0.10% | ~231 |
 | Lost in the Goblin Halls | 0.10% | ~231 |
@@ -477,13 +486,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dark Heart | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
 | It's So Pretty… | 0.00% | ~0 |
-| The Howling Peaks of Yon | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
-| Best Thay Ever | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Checkmate | 0.00% | ~0 |
 | Bully for Vecna | 0.00% | ~0 |
-| The Minions of Endelyn Moongrave | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
@@ -491,17 +497,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | A Saurial's Resolve | 0.00% | ~0 |
-| Distracted Escape | 0.00% | ~0 |
-| From The Shadows | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
-| Lair of the Xanathar | 0.00% | ~0 |
-| Crowded Streets | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
-| Vault of Dragons | 0.00% | ~0 |
-| On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,915 (Ranked 56)  
+Progressed: 230,918 (Ranked 56)  
 Completed: 2,330 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,330 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,915 | 2,330 |
+| 2023-10-05 | 230,918 | 2,330 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

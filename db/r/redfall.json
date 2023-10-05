@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2313,9 +2313,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_006",
@@ -2826,8 +2826,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-09-23T22:00:03.5070604+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:25:46.8421584+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:08:11.4899469+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:36.8794547+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:23.3736306+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:25:46.8422565+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:00:08.6869414+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:08:11.4900383+00:00"
 }

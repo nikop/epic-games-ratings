@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -13296,9 +13296,9 @@
       "ID": "10_PathOfAzata",
       "SetID": "989of5o",
       "Name": "Path of the Azata",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 574
     },
     {
       "ID": "11_PathOfAeon",
@@ -14166,8 +14166,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-03T22:01:16.4260162+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:25:05.1569021+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:05:50.7382032+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:20.1297504+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:25:05.1571523+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:00:04.7406823+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:05:50.7385643+00:00"
 }

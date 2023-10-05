@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,305 |
+| Corner Clout | 46.00% | ~159,306 |
 | Copacetic Coordination | 16.00% | ~55,411 |
-| Fronting the Money | 15.00% | ~51,947 |
-| The Dawn of Automation | 14.00% | ~48,484 |
-| Extraordinary Logistics | 14.00% | ~48,484 |
+| Fronting the Money | 15.00% | ~51,948 |
+| The Dawn of Automation | 14.00% | ~48,485 |
+| Extraordinary Logistics | 14.00% | ~48,485 |
 | Dirty Money | 13.00% | ~45,021 |
 | Family First | 13.00% | ~45,021 |
 | Cleaning House | 12.00% | ~41,558 |
@@ -41,13 +41,13 @@ Rating: 4.27 (Ranked 830)
 | An Affront to the Enemy | 4.00% | ~13,853 |
 | Friends from Back Home | 4.00% | ~13,853 |
 | Half Century Mark | 4.00% | ~13,853 |
-| Corner Opportunities | 3.00% | ~10,389 |
-| 2122 North Clark Street | 3.00% | ~10,389 |
-| Copious Cabbage | 3.00% | ~10,389 |
-| Sockdolager | 3.00% | ~10,389 |
-| Still Stalwart | 3.00% | ~10,389 |
-| Bees Knees Bootlegger | 3.00% | ~10,389 |
-| Tighten the Screws | 3.00% | ~10,389 |
+| Corner Opportunities | 3.00% | ~10,390 |
+| 2122 North Clark Street | 3.00% | ~10,390 |
+| Copious Cabbage | 3.00% | ~10,390 |
+| Sockdolager | 3.00% | ~10,390 |
+| Still Stalwart | 3.00% | ~10,390 |
+| Bees Knees Bootlegger | 3.00% | ~10,390 |
+| Tighten the Screws | 3.00% | ~10,390 |
 | One of Us | 2.00% | ~6,926 |
 | Baker’s Dozen | 2.00% | ~6,926 |
 | Dropping the Dime | 2.00% | ~6,926 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 830)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,316 (Ranked 43)  
+Progressed: 346,318 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-02 | 346,026 | 7 |
 | 2023-10-03 | 346,178 | 7 |
 | 2023-10-04 | 346,309 | 7 |
-| 2023-10-05 | 346,316 | 7 |
+| 2023-10-05 | 346,318 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
 Sum: 199 (Ranked 380)  

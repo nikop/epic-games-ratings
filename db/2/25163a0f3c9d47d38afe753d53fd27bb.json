@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.72,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2631,6 +2631,11 @@
       "Time": "2023-10-02T22:08:33.9307409+00:00",
       "NumProgressed": 746,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-10-05T03:08:55.0325238+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 30,
@@ -2642,7 +2647,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "LEVEL_002",
@@ -2650,7 +2655,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "LEVEL_003",
@@ -2674,7 +2679,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "LEVEL_006",
@@ -2682,7 +2687,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "LEVEL_007",
@@ -2714,15 +2719,15 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_012",
@@ -2778,7 +2783,7 @@
       "Name": "Isle rock city",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_019",
@@ -2794,7 +2799,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_021",
@@ -2881,14 +2886,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 80
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:28:42.1588334+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:08:55.0325233+00:00",
   "LastUpdate_AppInfo": "2023-10-02T23:57:22.9208588+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:18:47.0394484+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:28:42.1588852+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:59:29.1237189+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:08:55.0325641+00:00"
 }

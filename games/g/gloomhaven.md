@@ -6,22 +6,22 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,428 |
-| A normal day in Gloomhaven | 34.00% | ~3,501 |
-| Overkill | 33.00% | ~3,398 |
-| Vaccine Incoming | 32.00% | ~3,295 |
-| Spread the plague | 30.00% | ~3,089 |
-| Get over here! | 23.00% | ~2,368 |
-| Just when I thought I was out... | 18.00% | ~1,853 |
-| Mine... All Mine... | 17.00% | ~1,750 |
-| Light of my life | 15.00% | ~1,545 |
-| Anatomy Lesson | 15.00% | ~1,545 |
-| Precious! | 14.00% | ~1,442 |
-| You activated my trap card! | 13.00% | ~1,339 |
-| Augmented rat | 13.00% | ~1,339 |
-| Obstacle race | 12.00% | ~1,236 |
-| Doom and gloom | 12.00% | ~1,236 |
-| Grizzled veteran | 11.00% | ~1,133 |
+| I'm not dead yet | 43.00% | ~4,432 |
+| A normal day in Gloomhaven | 34.00% | ~3,504 |
+| Overkill | 33.00% | ~3,401 |
+| Vaccine Incoming | 32.00% | ~3,298 |
+| Spread the plague | 30.00% | ~3,092 |
+| Get over here! | 23.00% | ~2,370 |
+| Just when I thought I was out... | 18.00% | ~1,855 |
+| Mine... All Mine... | 17.00% | ~1,752 |
+| Light of my life | 15.00% | ~1,546 |
+| Anatomy Lesson | 15.00% | ~1,546 |
+| Precious! | 14.00% | ~1,443 |
+| You activated my trap card! | 13.00% | ~1,340 |
+| Augmented rat | 13.00% | ~1,340 |
+| Obstacle race | 12.00% | ~1,237 |
+| Doom and gloom | 12.00% | ~1,237 |
+| Grizzled veteran | 11.00% | ~1,134 |
 | Pack leader | 8.00% | ~824 |
 | Pain is your friend | 8.00% | ~824 |
 | Black death | 8.00% | ~824 |
@@ -29,10 +29,10 @@ Number of Ratings: 68  (23.09.2022)
 | Dungeon Veteran | 7.00% | ~721 |
 | Who's the Boss? | 7.00% | ~721 |
 | Quad damage | 6.00% | ~618 |
+| The Pro from Dover | 5.00% | ~515 |
 | Pretty lights! | 5.00% | ~515 |
 | Now you see me... | 5.00% | ~515 |
 | Power Up! | 4.00% | ~412 |
-| The Pro from Dover | 4.00% | ~412 |
 | Caught off guard | 3.00% | ~309 |
 | Grin and bear it | 3.00% | ~309 |
 | I hate portals | 2.00% | ~206 |
@@ -49,8 +49,8 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 1.00% | ~103 |
 | New Blood | 0.90% | ~93 |
 | Captain hooked | 0.70% | ~72 |
-| Betray this | 0.50% | ~51 |
-| Spoiler police! | 0.50% | ~51 |
+| Betray this | 0.50% | ~52 |
+| Spoiler police! | 0.50% | ~52 |
 | A tough job | 0.40% | ~41 |
 | The Pacifist | 0.40% | ~41 |
 | Born Support | 0.40% | ~41 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~10 |
 | Murder Death Kill | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,297 (Ranked 142)  
+Progressed: 10,306 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.01%) (Ranked 289)
 | 2023-10-02 | 9,653 | 1 |
 | 2023-10-03 | 9,970 | 1 |
 | 2023-10-04 | 10,247 | 1 |
-| 2023-10-05 | 10,297 | 1 |
+| 2023-10-05 | 10,306 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
 Sum: 8,258 (Ranked 98)  

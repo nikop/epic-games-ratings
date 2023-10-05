@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13562,
+  "EOS_Progressed": 13564,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7687,6 +7687,11 @@
       "Time": "2023-10-05T02:24:35.8438032+00:00",
       "NumProgressed": 13562,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T03:05:21.993372+00:00",
+      "NumProgressed": 13564,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7803,7 +7808,7 @@
       "Name": "Drone Dodger",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "22",
@@ -7817,17 +7822,17 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "25",
@@ -7841,9 +7846,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "27",
@@ -7931,14 +7936,14 @@
       "Name": "Impossible Objects",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13562,
+      "Progressed": 13564,
       "Completed": 5
     }
   ],
@@ -7946,8 +7951,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:24:35.8438027+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:05:21.9933713+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:08.4744892+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:24:35.8439116+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:59:50.6513797+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:05:21.9934405+00:00"
 }

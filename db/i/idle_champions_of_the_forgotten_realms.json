@@ -7102,9 +7102,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230915,
+  "EOS_Progressed": 230918,
   "EOS_Completed": 2330,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25742,6 +25742,11 @@
       "Time": "2023-10-05T02:25:03.4747109+00:00",
       "NumProgressed": 230915,
       "NumCompleted": 2330
+    },
+    {
+      "Time": "2023-10-05T03:05:49.3992656+00:00",
+      "NumProgressed": 230918,
+      "NumCompleted": 2330
     }
   ],
   "TotalAchievements": 528,
@@ -26343,9 +26348,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1148",
@@ -26423,9 +26428,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1163",
@@ -26759,9 +26764,9 @@
       "ID": "objective_completed_1325",
       "SetID": "415jc5c",
       "Name": "The Minions of Endelyn Moongrave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1326",
@@ -27639,9 +27644,9 @@
       "ID": "objective_completed_401",
       "SetID": "415jc5c",
       "Name": "Distracted Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_403",
@@ -27655,9 +27660,9 @@
       "ID": "objective_completed_404",
       "SetID": "cc37lbc",
       "Name": "From The Shadows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_405",
@@ -27975,9 +27980,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_551",
@@ -28039,9 +28044,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_560",
@@ -28175,9 +28180,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_581",
@@ -28215,9 +28220,9 @@
       "ID": "objective_completed_586",
       "SetID": "cc37lbc",
       "Name": "On The Job Learning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_587",
@@ -29976,21 +29981,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197189,
+      "Progressed": 197192,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230915,
+      "Progressed": 230918,
       "Completed": 2330
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:25:03.4747107+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:05:49.3992651+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:19:37.0684529+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:25:03.4782979+00:00"
+  "LastUpdate_Ratings": "2023-10-05T03:02:11.2224595+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:05:49.4021512+00:00"
 }

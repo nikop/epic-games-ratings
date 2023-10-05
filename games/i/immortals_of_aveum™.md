@@ -5,7 +5,7 @@ Rating: 4.03 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 86.00% | ~57 |
+| Unforeseen | 88.00% | ~58 |
 | Battlefields Have Memories | 86.00% | ~57 |
 | Enlisted | 86.00% | ~57 |
 | Maybe Engage a Little | 83.00% | ~55 |
@@ -19,7 +19,7 @@ Rating: 4.03 (Ranked 957)
 | Control is an Illusion | 33.00% | ~22 |
 | Socialite | 33.00% | ~22 |
 | The Means to Save It | 29.00% | ~19 |
-| Resilience to Sin | 23.00% | ~15 |
+| Resilience to Sin | 24.00% | ~16 |
 | Armsman | 21.00% | ~14 |
 | A Familiar Nest | 20.00% | ~13 |
 | Geas Aristeya | 20.00% | ~13 |

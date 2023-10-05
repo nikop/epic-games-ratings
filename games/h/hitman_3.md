@@ -17,8 +17,8 @@ Number of Ratings: 21,082  (23.09.2022)
 | Tools of the Trade | 28.00% | ~375,647 |
 | Cleared for Field Duty | 27.00% | ~362,231 |
 | Seizing the Opportunity | 26.00% | ~348,815 |
-| Bullet Train | 21.00% | ~281,735 |
-| Stylish Assassin | 20.00% | ~268,319 |
+| Bullet Train | 21.00% | ~281,736 |
+| Stylish Assassin | 20.00% | ~268,320 |
 | Silent Assassin | 14.00% | ~187,824 |
 | Rise Up | 12.00% | ~160,992 |
 | Evil Wine Club | 11.00% | ~147,576 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,416 |
 | The Creative Assassin | 0.70% | ~9,391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341,597 (Ranked 9)  
+Progressed: 1,341,598 (Ranked 9)  
 Completed: 2,153 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 2,153 (0.16%) (Ranked 224)
 | 2023-10-02 | 1,340,900 | 2,152 |
 | 2023-10-03 | 1,341,236 | 2,152 |
 | 2023-10-04 | 1,341,572 | 2,153 |
-| 2023-10-05 | 1,341,597 | 2,153 |
+| 2023-10-05 | 1,341,598 | 2,153 |
 ## Awards
 Max (Diverse Characters): 10,233  (Ranked 38)  
 Sum: 71,770 (Ranked 21)  

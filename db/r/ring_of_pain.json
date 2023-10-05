@@ -3001,9 +3001,9 @@
       "Count": 737
     }
   ],
-  "EOS_Progressed": 237288,
+  "EOS_Progressed": 237289,
   "EOS_Completed": 277,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -20306,6 +20306,11 @@
       "Time": "2023-10-05T02:25:37.1137674+00:00",
       "NumProgressed": 237288,
       "NumCompleted": 277
+    },
+    {
+      "Time": "2023-10-05T03:06:22.0347172+00:00",
+      "NumProgressed": 237289,
+      "NumCompleted": 277
     }
   ],
   "TotalAchievements": 122,
@@ -20349,7 +20354,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 227796
+      "UsersEstimate": 227797
     },
     {
       "ID": "CURSE1HP",
@@ -20357,7 +20362,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94915
+      "UsersEstimate": 94916
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -20429,7 +20434,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30847
+      "UsersEstimate": 30848
     },
     {
       "ID": "DEPTH6",
@@ -20437,7 +20442,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 173220
+      "UsersEstimate": 173221
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -20493,7 +20498,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135254
+      "UsersEstimate": 135255
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -20501,7 +20506,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 137627
+      "UsersEstimate": 137628
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -20749,7 +20754,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94915
+      "UsersEstimate": 94916
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -20813,7 +20818,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109152
+      "UsersEstimate": 109153
     },
     {
       "ID": "KILLPARANOIA",
@@ -20821,7 +20826,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 92542
+      "UsersEstimate": 92543
     },
     {
       "ID": "KILLREFLECT10",
@@ -20845,7 +20850,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109152
+      "UsersEstimate": 109153
     },
     {
       "ID": "KILLSPITTER",
@@ -20901,7 +20906,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135254
+      "UsersEstimate": 135255
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -20909,7 +20914,7 @@
       "Name": "Chain Reaction",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30847
+      "UsersEstimate": 30848
     },
     {
       "ID": "MULTIKILL30",
@@ -20965,7 +20970,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 154237
+      "UsersEstimate": 154238
     },
     {
       "ID": "PETRIFY50",
@@ -21061,7 +21066,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 211186
+      "UsersEstimate": 211187
     },
     {
       "ID": "SPECIALROOMS10",
@@ -21292,7 +21297,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 237288,
+      "Progressed": 237289,
       "Completed": 277
     }
   ],
@@ -21300,8 +21305,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-04T18:58:16.4226667+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:25:37.1137668+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:06:22.0347166+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:21.396192+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:17:12.3037577+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:25:37.1140815+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:57:56.8222787+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:06:22.0350088+00:00"
 }

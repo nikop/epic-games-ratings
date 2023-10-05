@@ -53,7 +53,7 @@ Rating: 4.56 (Ranked 473)
 | You Had One Job... | 1.00% | ~32 |
 | Gregor Spinoza | 1.00% | ~32 |
 | Scientifically Accurate | 1.00% | ~32 |
-| Work Harder | 0.50% | ~16 |
+| Work Harder | 0.60% | ~19 |
 | Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.30% | ~10 |
 | A Junker's Dream | 0.20% | ~6 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-10-01T19:10:00.6369206+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T03:03:30.6294921+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1596,7 +1601,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1708,7 +1713,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1978,9 +1983,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -1995,15 +2000,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:22:44.959689+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:03:30.6294917+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:28.4146224+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:16:58.8667891+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:22:44.9597824+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:57:42.808863+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:03:30.6295493+00:00"
 }

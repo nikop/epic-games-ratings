@@ -10195,9 +10195,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1341597,
+  "EOS_Progressed": 1341598,
   "EOS_Completed": 2153,
-  "EOS_NewPlayers": 2511,
+  "EOS_NewPlayers": 2508,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29130,6 +29130,11 @@
       "Time": "2023-10-05T02:28:38.6518064+00:00",
       "NumProgressed": 1341597,
       "NumCompleted": 2153
+    },
+    {
+      "Time": "2023-10-05T03:08:51.4943186+00:00",
+      "NumProgressed": 1341598,
+      "NumCompleted": 2153
     }
   ],
   "TotalAchievements": 47,
@@ -29229,7 +29234,7 @@
       "Name": "Stylish Assassin",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 268319
+      "UsersEstimate": 268320
     },
     {
       "ID": "ACH_012",
@@ -29485,7 +29490,7 @@
       "Name": "Bullet Train",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 281735
+      "UsersEstimate": 281736
     },
     {
       "ID": "ACH_044",
@@ -29516,15 +29521,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1341597,
+      "Progressed": 1341598,
       "Completed": 2153
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-05T01:42:28.0004429+00:00",
-  "LastChanged_Achievements": "2023-10-05T02:28:38.6518058+00:00",
+  "LastChanged_Achievements": "2023-10-05T03:08:51.4943178+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:33.9103066+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:16:37.4062062+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:28:38.6519992+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:57:20.714057+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:08:51.4944796+00:00"
 }

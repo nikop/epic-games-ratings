@@ -43,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.20% | ~29 |
 | Strong Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
+| Furious Family | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Great Ziggurat | 0.20% | ~29 |
 | Lighthouse | 0.20% | ~29 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
-| Furious Family | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
 | Game of the Week | 0.10% | ~14 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | Tell the Spartans | 0.10% | ~14 |
+| Shape of Things to Come | 0.10% | ~14 |
 | I am the Archon Now | 0.10% | ~14 |
 | The Olive Wreath | 0.10% | ~14 |
 | Those Were Mine | 0.10% | ~14 |
@@ -312,7 +313,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Chance | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Shape of Things to Come | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |

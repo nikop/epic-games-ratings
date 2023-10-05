@@ -4,21 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Anomaly Destroyer | 8.00% | ~3 |
+| Dicesmithing Time! | 8.00% | ~3 |
 | Endless Tricks | 8.00% | ~3 |
+| Mind Illuminator | 8.00% | ~3 |
 | Sanctuary Guardian | 8.00% | ~3 |
 | Stellar Dismantler | 8.00% | ~3 |
-| Anomaly Destroyer | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
-| Dicesmithing Time! | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Loyal Partner | 5.00% | ~2 |
 | Mechanical Buddy | 5.00% | ~2 |
-| Mind Illuminator | 5.00% | ~2 |
 | Purification Pioneer | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
 | Wild's Keeper | 5.00% | ~2 |
+| Eridanian Champion | 5.00% | ~2 |
 | Anomaly Control | 3.00% | ~1 |
 | Arch-Oracle | 3.00% | ~1 |
 | Artificer | 3.00% | ~1 |
@@ -39,7 +40,6 @@
 | Wave Bender | 3.00% | ~1 |
 | Apian Champion | 3.00% | ~1 |
 | Behenian Mastery | 3.00% | ~1 |
-| Eridanian Champion | 3.00% | ~1 |
 | Eridanian Mastery | 3.00% | ~1 |
 | Lacertian Champion | 3.00% | ~1 |
 | Lacertian Mastery | 3.00% | ~1 |

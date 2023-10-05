@@ -4,7 +4,7 @@
   "ProductSlug": "artifact-hunter-4767f0",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:59:29.7520924+00:00",
-  "LastUpdate_Ratings": "2023-10-05T02:17:17.1352026+00:00",
-  "LastUpdate_Achievements": "2023-10-05T02:23:40.0126211+00:00"
+  "LastUpdate_Ratings": "2023-10-05T02:58:01.2996387+00:00",
+  "LastUpdate_Achievements": "2023-10-05T03:04:26.4762554+00:00"
 }
