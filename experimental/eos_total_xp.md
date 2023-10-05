@@ -95,6 +95,7 @@
 | [Arto](../games/a/arto.md) | 18 | 1,000 |
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
+| [Asterix and Obelix Heroes](../games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 22 | 1,000 |
 | [Asteroids: Recharged](../games/a/asteroids__recharged.md) | 16 | 1,000 |
 | [Astrea Six Sided Oracles](../games/a/astrea_six_sided_oracles.md) | 80 | 1,000 |
 | [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |
