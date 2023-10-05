@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -837,9 +837,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_eou1",
@@ -948,8 +948,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:08:51.1747256+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:07:04.0800272+00:00",
   "LastUpdate_AppInfo": "2023-09-28T21:57:13.9249463+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:00:36.1042829+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:08:51.1747407+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:59:27.9779825+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:07:04.0800425+00:00"
 }

@@ -1,0 +1,218 @@
+{
+  "ID": "be7cf2a479094ae88f605dd9f77430cf",
+  "Name": "Asterix and Obelix Heroes",
+  "ProductSlug": "asterix-and-obelix-heroes",
+  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
+  "Store": {
+    "ReleaseDate": "2023-10-05T16:00:00+00:00",
+    "PcReleaseDate": "2023-10-05T16:00:00+00:00",
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "AchievementsAdded": "2023-10-05T17:02:30.1575422+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "5jnn47e",
+      "Name": "First Steps of a long journey",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "5jnn47e",
+      "Name": "Play with fire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "5jnn47e",
+      "Name": "Don\u2019t stop me now",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "5jnn47e",
+      "Name": "Always follow the nose",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "5jnn47e",
+      "Name": "I appoint you my shield-bearers",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "5jnn47e",
+      "Name": "Have some magic potion - No, Obelix, not you",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "5jnn47e",
+      "Name": "Most beautiful",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "5jnn47e",
+      "Name": "Get your parsley",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "5jnn47e",
+      "Name": "The best architect in Alexandria",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "5jnn47e",
+      "Name": "The fish is not fresh",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "5jnn47e",
+      "Name": "The fish is fresh",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Gaul",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "5jnn47e",
+      "Name": "It\u0027s called negotiating!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "5jnn47e",
+      "Name": "Negotiating is stupid",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "5jnn47e",
+      "Name": "Can we finally go home and eat something then?",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Carnute Forest",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Egypt",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Britain",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Land of the Norse",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "5jnn47e",
+      "Name": "Complete Adventure Rome",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "5jnn47e",
+      "Name": "Victory is ours",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "5jnn47e",
+      "Name": "Nothing is holding you back",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5jnn47e",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:02:30.1575327+00:00",
+  "LastUpdate_AppInfo": "2023-10-05T16:57:03.6587366+00:00",
+  "LastUpdate_Ratings": "2023-10-05T16:57:04.1346112+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:02:30.1601525+00:00"
+}

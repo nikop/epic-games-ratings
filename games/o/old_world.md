@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 2) | 0.10% | ~14 |
 | Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
+| Bronze Victory (Carthage 3) | 0.10% | ~14 |
 | Carthage - Seizing Destiny | 0.10% | ~14 |
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum in Alexandria | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Bronze Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Gold Victory (Carthage 3) | 0.00% | ~0 |
 | Silver Victory (Carthage 3) | 0.00% | ~0 |

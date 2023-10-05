@@ -1,48 +1,48 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 659)  
+Rating: 4.44 (Ranked 660)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~293,789 |
-| Full garage | 60.00% | ~241,471 |
-| To the eyeballs! | 51.00% | ~205,250 |
-| Individual delivery | 46.00% | ~185,127 |
-| Non-Stop | 44.00% | ~177,078 |
-| Juggler | 36.00% | ~144,882 |
-| Forgot something | 35.00% | ~140,858 |
-| Close call! | 30.00% | ~120,735 |
-| Get out my way | 28.00% | ~112,686 |
-| Common cause | 26.00% | ~104,637 |
-| Critical care | 26.00% | ~104,637 |
-| Mega-railroad | 23.00% | ~92,564 |
-| Upgrade complete | 23.00% | ~92,564 |
-| Just in time! | 18.00% | ~72,441 |
-| Builder | 17.00% | ~68,417 |
-| Long Haul | 17.00% | ~68,305 |
-| Steam Age | 16.00% | ~64,392 |
-| Bridgemania | 14.00% | ~56,343 |
-| Multilevel road | 14.00% | ~56,343 |
-| Need to think | 14.00% | ~56,343 |
-| The Tortoise | 12.00% | ~48,294 |
-| Without a lunch break | 11.00% | ~44,270 |
-| Beginner | 10.00% | ~40,245 |
-| One way | 10.00% | ~40,245 |
-| Relocation | 10.00% | ~40,245 |
-| Industrial Age | 9.00% | ~36,221 |
-| Just One More Valley | 9.00% | ~36,161 |
-| Prick of conscience | 8.00% | ~32,196 |
-| Missed it! | 7.00% | ~28,172 |
-| At the last moment! | 6.00% | ~24,147 |
-| Overseer | 6.00% | ~24,147 |
-| Jewelry accuracy | 5.00% | ~20,123 |
-| Stargazer | 5.00% | ~20,123 |
-| Bridge builder | 4.00% | ~16,098 |
-| Electrical Age | 4.00% | ~16,098 |
-| Highlander | 4.00% | ~16,098 |
-| Large construction | 4.00% | ~16,098 |
+| Dealmaker | 73.00% | ~293,804 |
+| Full garage | 60.00% | ~241,483 |
+| To the eyeballs! | 51.00% | ~205,260 |
+| Individual delivery | 46.00% | ~185,137 |
+| Non-Stop | 44.00% | ~177,087 |
+| Juggler | 36.00% | ~144,890 |
+| Forgot something | 35.00% | ~140,865 |
+| Close call! | 30.00% | ~120,741 |
+| Get out my way | 28.00% | ~112,692 |
+| Common cause | 26.00% | ~104,642 |
+| Critical care | 26.00% | ~104,642 |
+| Mega-railroad | 23.00% | ~92,568 |
+| Upgrade complete | 23.00% | ~92,568 |
+| Just in time! | 18.00% | ~72,445 |
+| Builder | 17.00% | ~68,420 |
+| Long Haul | 17.00% | ~68,308 |
+| Steam Age | 16.00% | ~64,395 |
+| Bridgemania | 14.00% | ~56,346 |
+| Multilevel road | 14.00% | ~56,346 |
+| Need to think | 14.00% | ~56,346 |
+| The Tortoise | 12.00% | ~48,297 |
+| Without a lunch break | 11.00% | ~44,272 |
+| Beginner | 10.00% | ~40,247 |
+| One way | 10.00% | ~40,247 |
+| Relocation | 10.00% | ~40,247 |
+| Industrial Age | 9.00% | ~36,222 |
+| Just One More Valley | 9.00% | ~36,163 |
+| Prick of conscience | 8.00% | ~32,198 |
+| Missed it! | 7.00% | ~28,173 |
+| At the last moment! | 6.00% | ~24,148 |
+| Overseer | 6.00% | ~24,148 |
+| Jewelry accuracy | 5.00% | ~20,124 |
+| Stargazer | 5.00% | ~20,124 |
+| Bridge builder | 4.00% | ~16,099 |
+| Electrical Age | 4.00% | ~16,099 |
+| Highlander | 4.00% | ~16,099 |
+| Large construction | 4.00% | ~16,099 |
 | Engineer | 3.00% | ~12,074 |
 | Living it large | 3.00% | ~12,074 |
 | Sabotage | 3.00% | ~12,074 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~402 |
 | World Zapper | 0.10% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,451 (Ranked 42)  
+Progressed: 402,471 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,24 +226,24 @@ Completed: 19 (0.00%) (Ranked 306)
 | 2023-10-02 | 401,504 | 19 |
 | 2023-10-03 | 401,867 | 19 |
 | 2023-10-04 | 402,183 | 19 |
-| 2023-10-05 | 402,451 | 19 |
+| 2023-10-05 | 402,471 | 19 |
 ## Awards
 Max (Challenging Puzzles): 718  (Ranked 172)  
-Sum: 1,438 (Ranked 227)  
+Sum: 1,442 (Ranked 227)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 718 |
 | This game is Great for Beginners | 114 |
+| This game has Playful Visuals | 84 |
 | This game has Quickly Understood Controls | 83 |
-| This game has Playful Visuals | 82 |
 | This game is Extremely Fun | 81 |
 | This game is Highly Recommended | 78 |
 | This game is Relaxing | 78 |
 | This game has Challenging Combat | 65 |
-| This game has a Creative Community | 52 |
+| This game has a Creative Community | 53 |
 | This game has Amazing Storytelling | 50 |
-| This game has Amazing Characters | 37 |
+| This game has Amazing Characters | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -382,4 +382,4 @@ Diff (max vs sum): -55
 | 2023-10-02 | 4.44 | - | 704 | 1,408 |
 | 2023-10-03 | 4.44 | - | 712 | 1,425 |
 | 2023-10-04 | 4.44 | - | 718 | 1,437 |
-| 2023-10-05 | 4.44 | - | 718 | 1,438 |
+| 2023-10-05 | 4.44 | - | 718 | 1,442 |

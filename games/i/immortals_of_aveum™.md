@@ -18,7 +18,7 @@ Rating: 4.03 (Ranked 958)
 | Beggars Would Ride | 36.00% | ~24 |
 | Control is an Illusion | 35.00% | ~23 |
 | Socialite | 33.00% | ~22 |
-| The Means to Save It | 29.00% | ~19 |
+| The Means to Save It | 30.00% | ~20 |
 | Resilience to Sin | 24.00% | ~16 |
 | Armsman | 21.00% | ~14 |
 | A Familiar Nest | 20.00% | ~13 |

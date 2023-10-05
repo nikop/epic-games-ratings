@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -730,9 +730,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "StellarHaste",
@@ -866,9 +866,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ApianHero",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:09:56.9068208+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:08:23.2240058+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:03:15.5607665+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:09:56.9069342+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:02:14.6421539+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:08:23.2241094+00:00"
 }

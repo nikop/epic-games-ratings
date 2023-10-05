@@ -6,7 +6,7 @@
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 105,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -2170,9 +2170,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41254,
+  "EOS_Progressed": 41255,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20310,6 +20310,11 @@
       "Time": "2023-10-05T16:06:44.9711829+00:00",
       "NumProgressed": 41254,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-05T17:05:25.3993561+00:00",
+      "NumProgressed": 41255,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20369,7 +20374,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19389
+      "UsersEstimate": 19390
     },
     {
       "ID": "achievements_17",
@@ -20401,7 +20406,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "achievements_21",
@@ -20425,7 +20430,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24752
+      "UsersEstimate": 24753
     },
     {
       "ID": "achievements_24",
@@ -20497,7 +20502,7 @@
       "Name": "Bane of Mercenaries - III",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "achievements_32",
@@ -20505,7 +20510,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14026
+      "UsersEstimate": 14027
     },
     {
       "ID": "achievements_33",
@@ -20545,7 +20550,7 @@
       "Name": "Monument to Greatness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "achievements_38",
@@ -20553,7 +20558,7 @@
       "Name": "Ancient Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "achievements_39",
@@ -20601,7 +20606,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "achievements_44",
@@ -20617,7 +20622,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "achievements_46",
@@ -20625,7 +20630,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 35066
+      "UsersEstimate": 35067
     },
     {
       "ID": "achievements_47",
@@ -20697,7 +20702,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17739
+      "UsersEstimate": 17740
     },
     {
       "ID": "achievements_55",
@@ -20745,7 +20750,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14026
+      "UsersEstimate": 14027
     },
     {
       "ID": "achievements_61",
@@ -20897,7 +20902,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30115
+      "UsersEstimate": 30116
     },
     {
       "ID": "achievements_8",
@@ -20920,15 +20925,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41254,
+      "Progressed": 41255,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-02T15:00:18.2821908+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:06:44.9711823+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:05:25.3993553+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.3710119+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:57:53.104532+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:06:44.971443+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:57:27.8575731+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:05:25.3995608+00:00"
 }

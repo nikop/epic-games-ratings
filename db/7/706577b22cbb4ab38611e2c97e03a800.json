@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-10-04T08:09:41.173453+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T17:09:07.875879+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -421,7 +426,7 @@
       "ID": "ACHIEVEMENT_AV_01",
       "SetID": "b50kim2",
       "Name": "MISSION 01",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
       "UsersEstimate": 117
     },
@@ -429,9 +434,9 @@
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "b50kim2",
       "Name": "MISSION 02",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -621,9 +626,9 @@
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
@@ -822,14 +827,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:10:18.2332429+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:09:07.8758783+00:00",
   "LastUpdate_AppInfo": "2023-10-03T03:57:18.6208963+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:01:35.7213937+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:10:18.2332903+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:00:05.332607+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:09:07.8759417+00:00"
 }

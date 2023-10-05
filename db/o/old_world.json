@@ -1793,7 +1793,7 @@
   ],
   "EOS_Progressed": 14369,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13265,9 +13265,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 3)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_EPIC",
@@ -15775,8 +15775,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:09:53.0675292+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:08:20.5376258+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:01:55.012562+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:09:53.0689414+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:00:21.3906168+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:08:20.5388521+00:00"
 }

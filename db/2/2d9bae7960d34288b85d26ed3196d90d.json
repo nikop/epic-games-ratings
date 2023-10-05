@@ -2,7 +2,7 @@
   "ID": "2d9bae7960d34288b85d26ed3196d90d",
   "Name": "The Moshpit Tournament",
   "ProductSlug": "the-moshpit-9c2eeb",
-  "Ranking_EOS_Progress": 651,
+  "Ranking_EOS_Progress": 652,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-06T15:57:31.6423725+00:00",
   "LastUpdate_AppInfo": "2023-10-03T18:56:57.4743267+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:01:20.0542846+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:08:39.7097477+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:59:56.8919708+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:06:46.2948052+00:00"
 }

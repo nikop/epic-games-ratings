@@ -2,7 +2,7 @@
   "ID": "aee5af2fdb3142aebb40a83babe07a3d",
   "Name": "GRAVEN",
   "ProductSlug": "graven",
-  "Ranking_EOS_Progress": 651,
+  "Ranking_EOS_Progress": 652,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.3639022+00:00",
   "LastChanged": "2023-03-31T05:58:41.3639023+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:17.8214455+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:01:51.1854541+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:06:36.3633348+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:00:18.8975349+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:05:19.4844212+00:00"
 }

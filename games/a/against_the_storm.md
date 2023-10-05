@@ -14,17 +14,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~841 |
 | Coral Forest | 5.00% | ~841 |
 | The Scarlet Orchard | 5.00% | ~841 |
-| Homesick | 4.00% | ~672 |
-| Bandit Camp | 4.00% | ~672 |
-| Barren Lands | 4.00% | ~672 |
-| Ancient Battleground | 4.00% | ~672 |
-| Sparkdew Crystals | 4.00% | ~672 |
-| Royal Outpost | 4.00% | ~672 |
-| Lost Colonies | 4.00% | ~672 |
-| Statue of the Forefathers | 4.00% | ~672 |
-| Watchtower | 4.00% | ~672 |
-| A Real Challenge | 4.00% | ~672 |
-| Trade Baron | 4.00% | ~672 |
+| Homesick | 4.00% | ~673 |
+| Bandit Camp | 4.00% | ~673 |
+| Barren Lands | 4.00% | ~673 |
+| Ancient Battleground | 4.00% | ~673 |
+| Sparkdew Crystals | 4.00% | ~673 |
+| Royal Outpost | 4.00% | ~673 |
+| Lost Colonies | 4.00% | ~673 |
+| Statue of the Forefathers | 4.00% | ~673 |
+| Watchtower | 4.00% | ~673 |
+| A Real Challenge | 4.00% | ~673 |
+| Trade Baron | 4.00% | ~673 |
 | Serving Ale | 3.00% | ~504 |
 | Against All Odds | 3.00% | ~504 |
 | Ruined Armory | 3.00% | ~504 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 1.00% | ~168 |
 | Prestigious Expedition | 1.00% | ~168 |
 | Blood Flower Farmer | 1.00% | ~168 |
-| Lizard Utopia | 0.80% | ~134 |
+| Lizard Utopia | 0.80% | ~135 |
 | Beaver Utopia | 0.70% | ~118 |
 | Human Utopia | 0.70% | ~118 |
 | The Queen's Chosen | 0.60% | ~101 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,812 (Ranked 129)  
+Progressed: 16,813 (Ranked 129)  
 Completed: 52 (0.31%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 52 (0.31%) (Ranked 195)
 | 2023-10-02 | 16,782 | 52 |
 | 2023-10-03 | 16,792 | 52 |
 | 2023-10-04 | 16,804 | 52 |
-| 2023-10-05 | 16,812 | 52 |
+| 2023-10-05 | 16,813 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 433  (Ranked 212)  
 Sum: 3,178 (Ranked 167)  

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~399 |
-| Off to a good start | 66.00% | ~292 |
+| New Recruit | 90.00% | ~400 |
+| Off to a good start | 66.00% | ~293 |
 | Do... or do not. There is no try | 51.00% | ~226 |
 | A good blaster at your side | 34.00% | ~151 |
-| Scrap collector | 22.00% | ~97 |
+| Scrap collector | 22.00% | ~98 |
+| Great shot, kid! | 20.00% | ~89 |
 | All right, I'll give it a try | 19.00% | ~84 |
 | I suggest a new strategy | 19.00% | ~84 |
-| Great shot, kid! | 19.00% | ~84 |
+| Shoot first | 18.00% | ~80 |
 | The power of the Force | 17.00% | ~75 |
 | Together we can rule the galaxy | 17.00% | ~75 |
-| Shoot first | 17.00% | ~75 |
 | Collector | 16.00% | ~71 |
 | Survivor | 13.00% | ~58 |
 | Tell Jabba that I've got his money | 12.00% | ~53 |
@@ -26,8 +26,8 @@
 | Judge me by my size, do you? | 10.00% | ~44 |
 | "Gonk? Gonk!" | 9.00% | ~40 |
 | A tremor in the Force | 9.00% | ~40 |
-| Distinguished | 8.00% | ~35 |
-| Support the troops | 8.00% | ~35 |
+| Distinguished | 8.00% | ~36 |
+| Support the troops | 8.00% | ~36 |
 | On the ball | 6.00% | ~27 |
 | Not bad for a little furball | 6.00% | ~27 |
 | Patience you must have | 6.00% | ~27 |
@@ -58,17 +58,17 @@
 | A New Hope | 1.00% | ~4 |
 | I’ll take that bet | 1.00% | ~4 |
 | in a galaxy far, far away.... | 0.90% | ~4 |
+| Walker defender | 0.90% | ~4 |
 | That got him! | 0.70% | ~3 |
 | Don't get cocky | 0.70% | ~3 |
 | Master | 0.70% | ~3 |
-| Walker defender | 0.70% | ~3 |
 | Greed can be a very powerful ally | 0.70% | ~3 |
 | Stay on target | 0.50% | ~2 |
 | Stay in attack formation | 0.50% | ~2 |
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 277)  
+Progressed: 444 (Ranked 278)  
 Completed: 1 (0.23%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.23%) (Ranked 210)
 | 2023-10-02 | 393 | 1 |
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
-| 2023-10-05 | 443 | 1 |
+| 2023-10-05 | 444 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

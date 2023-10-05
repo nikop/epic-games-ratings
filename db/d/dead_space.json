@@ -638,9 +638,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2268,6 +2268,11 @@
       "Time": "2023-10-05T16:03:57.7485285+00:00",
       "NumProgressed": 780,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-05T17:03:13.2044663+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2280,7 +2285,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "achievement_10",
@@ -2304,7 +2309,7 @@
       "Name": "Exodus",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_13",
@@ -2312,7 +2317,7 @@
       "Name": "Final Regeneration",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_14",
@@ -2352,7 +2357,7 @@
       "Name": "Full Arsenal",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_19",
@@ -2368,7 +2373,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achievement_20",
@@ -2376,7 +2381,7 @@
       "Name": "Autofire",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_21",
@@ -2392,7 +2397,7 @@
       "Name": "A Cut Above",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_23",
@@ -2408,7 +2413,7 @@
       "Name": "Eviscerator",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_25",
@@ -2416,7 +2421,7 @@
       "Name": "Full Contact",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_26",
@@ -2432,7 +2437,7 @@
       "Name": "Pack Rat",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_28",
@@ -2448,7 +2453,7 @@
       "Name": "Legend Teller",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_3",
@@ -2472,7 +2477,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_32",
@@ -2512,7 +2517,7 @@
       "Name": "Backbreaker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_37",
@@ -2592,7 +2597,7 @@
       "Name": "Mindless Prey",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_46",
@@ -2600,7 +2605,7 @@
       "Name": "Marked",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_47",
@@ -2630,9 +2635,9 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_8",
@@ -2655,7 +2660,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 3
     }
   ],
@@ -2663,8 +2668,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:03:57.748528+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:03:13.2044656+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:00:54.9643021+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:03:57.7485958+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:59:41.2976739+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:03:13.204521+00:00"
 }

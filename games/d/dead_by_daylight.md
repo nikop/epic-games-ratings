@@ -14,29 +14,29 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.30% | ~2,761 |
 | Survival Treasures | 0.30% | ~2,761 |
 | Sorted | 0.30% | ~2,761 |
+| Resurgence | 0.30% | ~2,761 |
 | Make Some Noise | 0.30% | ~2,761 |
-| The Grand Sacrifice | 0.20% | ~1,840 |
-| Agonizing Escape | 0.20% | ~1,840 |
-| Backdoor Escape | 0.20% | ~1,840 |
-| I've got your back | 0.20% | ~1,840 |
-| No one left behind | 0.20% | ~1,840 |
-| Medic | 0.20% | ~1,840 |
-| Nerves of steel | 0.20% | ~1,840 |
-| Perfect Escape | 0.20% | ~1,840 |
-| Perfect Killing | 0.20% | ~1,840 |
-| Bloody Millionaire | 0.20% | ~1,840 |
-| Apt Killer | 0.20% | ~1,840 |
-| Risk it all | 0.20% | ~1,840 |
-| I | 0.20% | ~1,840 |
-| II | 0.20% | ~1,840 |
-| Engineer | 0.20% | ~1,840 |
-| Wounded Healer | 0.20% | ~1,840 |
-| Healthy Obsession | 0.20% | ~1,840 |
-| Resurgence | 0.20% | ~1,840 |
-| Close Shave | 0.20% | ~1,840 |
-| Preemptive Strike | 0.20% | ~1,840 |
-| Humanitarian | 0.20% | ~1,840 |
-| Second Act | 0.20% | ~1,840 |
+| The Grand Sacrifice | 0.20% | ~1,841 |
+| Agonizing Escape | 0.20% | ~1,841 |
+| Backdoor Escape | 0.20% | ~1,841 |
+| I've got your back | 0.20% | ~1,841 |
+| No one left behind | 0.20% | ~1,841 |
+| Medic | 0.20% | ~1,841 |
+| Nerves of steel | 0.20% | ~1,841 |
+| Perfect Escape | 0.20% | ~1,841 |
+| Perfect Killing | 0.20% | ~1,841 |
+| Bloody Millionaire | 0.20% | ~1,841 |
+| Apt Killer | 0.20% | ~1,841 |
+| Risk it all | 0.20% | ~1,841 |
+| I | 0.20% | ~1,841 |
+| II | 0.20% | ~1,841 |
+| Engineer | 0.20% | ~1,841 |
+| Wounded Healer | 0.20% | ~1,841 |
+| Healthy Obsession | 0.20% | ~1,841 |
+| Close Shave | 0.20% | ~1,841 |
+| Preemptive Strike | 0.20% | ~1,841 |
+| Humanitarian | 0.20% | ~1,841 |
+| Second Act | 0.20% | ~1,841 |
 | A bite for the Entity | 0.10% | ~920 |
 | A feast for the Entity | 0.10% | ~920 |
 | Blood on your hands | 0.10% | ~920 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,242 (Ranked 14)  
+Progressed: 920,340 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 920,242 | 49 |
+| 2023-10-05 | 920,340 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
 Sum: 259,598 (Ranked 13)  

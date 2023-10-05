@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,11 +98,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1998,6 +1998,11 @@
       "Time": "2023-10-05T13:15:43.5443464+00:00",
       "NumProgressed": 698,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-05T17:03:50.6713034+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2008,9 +2013,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 210
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2034,7 +2039,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "_05_FinishAct2",
@@ -2042,7 +2047,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2050,7 +2055,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "_07_FinishAct3",
@@ -2066,7 +2071,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "_09_Completion_20",
@@ -2074,7 +2079,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "_10_Completion_30",
@@ -2082,7 +2087,7 @@
       "Name": "Buccaneer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "_11_Completion_40",
@@ -2128,9 +2133,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 189
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2138,7 +2143,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2217,7 +2222,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 21
     }
   ],
@@ -2225,8 +2230,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:04:51.1453859+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:03:50.6713029+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:13.9940029+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:03:29.2948949+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:04:51.1454249+00:00"
+  "LastUpdate_Ratings": "2023-10-05T17:02:25.3976137+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:03:50.6713341+00:00"
 }

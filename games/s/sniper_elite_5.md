@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,701 |
-| Confirming Suspicions | 41.00% | ~1,516 |
-| The Kraken Wakes | 36.00% | ~1,331 |
-| It's Starting to Crack | 33.00% | ~1,220 |
-| Lord of War | 30.00% | ~1,109 |
-| Change the Channel | 30.00% | ~1,109 |
-| Taking it back | 28.00% | ~1,035 |
-| Resourceful | 27.00% | ~998 |
-| Target America | 26.00% | ~961 |
+| Meeting Resistance | 46.00% | ~1,702 |
+| Confirming Suspicions | 41.00% | ~1,517 |
+| The Kraken Wakes | 36.00% | ~1,332 |
+| It's Starting to Crack | 33.00% | ~1,221 |
+| Lord of War | 30.00% | ~1,110 |
+| Change the Channel | 30.00% | ~1,110 |
+| Taking it back | 28.00% | ~1,036 |
+| Resourceful | 27.00% | ~999 |
+| Target America | 26.00% | ~962 |
 | The Kraken Sleeps | 24.00% | ~888 |
 | Liberté | 22.00% | ~814 |
 | Organ Grinder | 22.00% | ~814 |
@@ -53,8 +53,8 @@ Rating: 4.45 (Ranked 644)
 | Burn after reading | 3.00% | ~111 |
 | Souvenir hunter | 3.00% | ~111 |
 | Shoot for the Moon | 3.00% | ~111 |
-| If You Go Down To The Woods Today | 3.00% | ~109 |
-| Fight Another Day | 3.00% | ~109 |
+| If You Go Down To The Woods Today | 3.00% | ~110 |
+| Fight Another Day | 3.00% | ~110 |
 | Out of Scope | 2.00% | ~74 |
 | Eagle Eyed | 2.00% | ~74 |
 | Up close and personal | 2.00% | ~74 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,698 (Ranked 178)  
+Progressed: 3,699 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 11 (0.30%) (Ranked 198)
 | 2023-10-02 | 3,691 | 11 |
 | 2023-10-03 | 3,694 | 11 |
 | 2023-10-04 | 3,697 | 11 |
-| 2023-10-05 | 3,698 | 11 |
+| 2023-10-05 | 3,699 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

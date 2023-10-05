@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,131 |
-| The Killing Jar | 8.00% | ~15,227 |
-| Expanding Horizons | 7.00% | ~13,324 |
-| Quest for Survival | 7.00% | ~13,324 |
-| Not Your Average Trait | 7.00% | ~13,324 |
-| Gleaming the Cube | 6.00% | ~11,420 |
-| Not a Janitor | 6.00% | ~11,420 |
-| Familiar Face | 6.00% | ~11,420 |
-| Duality | 6.00% | ~11,420 |
-| Boss'n Up | 6.00% | ~11,420 |
-| Trait Chaser | 6.00% | ~11,420 |
-| Not So Special Now | 5.00% | ~9,517 |
-| Equal Measures | 5.00% | ~9,517 |
-| Blue Goddess | 5.00% | ~9,517 |
-| Top Performer | 5.00% | ~9,517 |
-| Shhh...It's a Secret | 5.00% | ~9,517 |
-| Almost There | 5.00% | ~9,517 |
-| Make Some Room | 5.00% | ~9,517 |
-| Good, But Could Be Better! | 5.00% | ~9,517 |
+| First of Many | 9.00% | ~17,132 |
+| The Killing Jar | 8.00% | ~15,229 |
+| Expanding Horizons | 7.00% | ~13,325 |
+| Quest for Survival | 7.00% | ~13,325 |
+| Not Your Average Trait | 7.00% | ~13,325 |
+| Gleaming the Cube | 6.00% | ~11,422 |
+| Not a Janitor | 6.00% | ~11,422 |
+| Familiar Face | 6.00% | ~11,422 |
+| Duality | 6.00% | ~11,422 |
+| Boss'n Up | 6.00% | ~11,422 |
+| Trait Chaser | 6.00% | ~11,422 |
+| Not So Special Now | 5.00% | ~9,518 |
+| Equal Measures | 5.00% | ~9,518 |
+| Blue Goddess | 5.00% | ~9,518 |
+| Top Performer | 5.00% | ~9,518 |
+| Shhh...It's a Secret | 5.00% | ~9,518 |
+| Almost There | 5.00% | ~9,518 |
+| Make Some Room | 5.00% | ~9,518 |
+| Good, But Could Be Better! | 5.00% | ~9,518 |
 | Chaos | 4.00% | ~7,614 |
 | Traitor | 4.00% | ~7,614 |
 | Forever is a Long Time Coming | 4.00% | ~7,614 |
@@ -35,14 +35,14 @@ Rating: 4.76 (Ranked 118)
 | The Web | 4.00% | ~7,614 |
 | Scrap Collector | 4.00% | ~7,614 |
 | All These Traits� | 4.00% | ~7,614 |
-| Am I Seeing This? | 3.00% | ~5,710 |
-| The Agenda | 3.00% | ~5,710 |
-| Tall Tales | 3.00% | ~5,710 |
-| Bad Moon Rising | 3.00% | ~5,710 |
-| Strapped | 3.00% | ~5,710 |
-| Edgelord | 3.00% | ~5,710 |
-| The Ultimate Weapon | 3.00% | ~5,710 |
-| No One Should Have All That Power | 3.00% | ~5,710 |
+| Am I Seeing This? | 3.00% | ~5,711 |
+| The Agenda | 3.00% | ~5,711 |
+| Tall Tales | 3.00% | ~5,711 |
+| Bad Moon Rising | 3.00% | ~5,711 |
+| Strapped | 3.00% | ~5,711 |
+| Edgelord | 3.00% | ~5,711 |
+| The Ultimate Weapon | 3.00% | ~5,711 |
+| No One Should Have All That Power | 3.00% | ~5,711 |
 | Crafty | 2.00% | ~3,807 |
 | Only Human | 2.00% | ~3,807 |
 | Red Room | 2.00% | ~3,807 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 118)
 | Carnage in C-Minor | 2.00% | ~3,807 |
 | Maxed Out! | 2.00% | ~3,807 |
 | Transmutate | 2.00% | ~3,807 |
-| The Trigger | 1.00% | ~1,903 |
-| Cutting Edge | 1.00% | ~1,903 |
-| Proving Grounds | 1.00% | ~1,903 |
+| The Trigger | 1.00% | ~1,904 |
+| Cutting Edge | 1.00% | ~1,904 |
+| Proving Grounds | 1.00% | ~1,904 |
 | Ghost in the Machine | 0.90% | ~1,713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,341 (Ranked 66)  
+Progressed: 190,361 (Ranked 66)  
 Completed: 362 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 362 (0.19%) (Ranked 217)
 | 2023-10-02 | 189,383 | 353 |
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
-| 2023-10-05 | 190,341 | 362 |
+| 2023-10-05 | 190,361 | 362 |
 ## Awards
 Max (Great Boss Battles): 1,776  (Ranked 117)  
-Sum: 3,754 (Ranked 154)  
+Sum: 3,759 (Ranked 154)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -149,12 +149,12 @@ Diff (max vs sum): -37
 | This game is Extremely Fun | 219 |
 | This game has Diverse Characters | 217 |
 | This game is Relaxing | 213 |
-| This game is Highly Recommended | 207 |
+| This game is Highly Recommended | 210 |
 | This game has Amazing Characters | 200 |
 | This game has Amazing Storytelling | 198 |
 | This game has Quickly Understood Controls | 187 |
 | This game has Unique Visuals | 169 |
-| This game has a Creative Community | 146 |
+| This game has a Creative Community | 148 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -229,4 +229,4 @@ Diff (max vs sum): -37
 | 2023-10-02 | 4.76 | 1,760 | 3,707 |
 | 2023-10-03 | 4.76 | 1,760 | 3,717 |
 | 2023-10-04 | 4.76 | 1,770 | 3,739 |
-| 2023-10-05 | 4.76 | 1,776 | 3,754 |
+| 2023-10-05 | 4.76 | 1,776 | 3,759 |

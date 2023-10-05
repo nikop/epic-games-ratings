@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249989,
+  "EOS_Progressed": 249992,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15739,6 +15739,11 @@
       "Time": "2023-10-05T16:04:48.9339331+00:00",
       "NumProgressed": 249989,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-05T17:03:49.1331625+00:00",
+      "NumProgressed": 249992,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15798,7 +15803,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "canYouDigIt",
@@ -15806,7 +15811,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42498
+      "UsersEstimate": 42499
     },
     {
       "ID": "cantBeKeptDown",
@@ -15822,7 +15827,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37498
+      "UsersEstimate": 37499
     },
     {
       "ID": "clearCut",
@@ -15846,7 +15851,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44998
+      "UsersEstimate": 44999
     },
     {
       "ID": "curator",
@@ -15926,7 +15931,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132494
+      "UsersEstimate": 132496
     },
     {
       "ID": "indegestible",
@@ -15950,7 +15955,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64997
+      "UsersEstimate": 64998
     },
     {
       "ID": "justABit",
@@ -15982,7 +15987,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37498
+      "UsersEstimate": 37499
     },
     {
       "ID": "myFirstRunbow",
@@ -15990,7 +15995,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124994
+      "UsersEstimate": 124996
     },
     {
       "ID": "notScared",
@@ -16110,14 +16115,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39998
+      "UsersEstimate": 39999
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249989,
+      "Progressed": 249992,
       "Completed": 6
     }
   ],
@@ -16125,8 +16130,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:04:48.9339326+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:03:49.1331619+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-05T15:59:11.8308965+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:04:48.9514085+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:58:25.8010295+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:03:49.1332919+00:00"
 }

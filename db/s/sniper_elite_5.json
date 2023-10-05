@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3698,
+  "EOS_Progressed": 3699,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7060,6 +7060,11 @@
       "Time": "2023-10-05T12:03:26.2780158+00:00",
       "NumProgressed": 3698,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-05T17:03:12.6018999+00:00",
+      "NumProgressed": 3699,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7151,7 +7156,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7239,7 +7244,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7279,7 +7284,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7295,7 +7300,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7319,7 +7324,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7383,7 +7388,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7407,7 +7412,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7439,7 +7444,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7463,7 +7468,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7591,7 +7596,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -7599,7 +7604,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -7638,13 +7643,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3649,
+      "Progressed": 3650,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3698,
+      "Progressed": 3699,
       "Completed": 11
     }
   ],
@@ -7652,8 +7657,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:03:57.071387+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:03:12.6018994+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:01:23.0947448+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:03:57.0715142+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:59:58.6750776+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:03:12.602012+00:00"
 }

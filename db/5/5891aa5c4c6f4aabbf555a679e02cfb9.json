@@ -387,9 +387,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -515,9 +515,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-05T16:04:54.2680257+00:00",
+  "LastChanged_Achievements": "2023-10-05T17:03:52.9825576+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:02.1155253+00:00",
-  "LastUpdate_Ratings": "2023-10-05T16:00:56.5354262+00:00",
-  "LastUpdate_Achievements": "2023-10-05T16:04:54.2680729+00:00"
+  "LastUpdate_Ratings": "2023-10-05T16:59:42.2056667+00:00",
+  "LastUpdate_Achievements": "2023-10-05T17:03:52.9826081+00:00"
 }

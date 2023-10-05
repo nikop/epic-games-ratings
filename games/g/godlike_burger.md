@@ -5,37 +5,37 @@ Rating: 4.27 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 29.00% | ~1,889 |
-| FIRST BLOOD | 23.00% | ~1,498 |
-| KEVIN! | 14.00% | ~912 |
-| JACK OF ALL TRADES | 10.00% | ~651 |
-| CRIMINAL | 6.00% | ~391 |
-| GRANDMA WOULD BE PROUD | 3.00% | ~195 |
-| HONORS STUDENT | 3.00% | ~195 |
-| WITHOUT BREAKING A SWEAT | 3.00% | ~195 |
-| BUTCHER | 2.00% | ~130 |
-| INDIVIDUAL APPROACH | 2.00% | ~130 |
-| RAMBO | 2.00% | ~130 |
-| CELEBRITY | 1.00% | ~65 |
-| GRATITUDE | 1.00% | ~65 |
-| HELL'S KITCHEN | 1.00% | ~65 |
-| MARTYR | 1.00% | ~65 |
-| LAW-ABIDING CITIZEN | 0.80% | ~52 |
-| PRUDENT | 0.80% | ~52 |
-| PATTY-KILLER | 0.70% | ~46 |
-| GOURMET | 0.60% | ~39 |
-| SCATTERBRAIN | 0.60% | ~39 |
-| EXPERIMENTALIST | 0.50% | ~33 |
-| TASTE UNTASTY | 0.30% | ~20 |
-| CORRUPTIONIST | 0.20% | ~13 |
-| HIGH TECHNOLOGIES | 0.20% | ~13 |
-| DEBTOR | 0.10% | ~7 |
-| I'VE SEEN SOME… | 0.10% | ~7 |
-| MISTER ALL THUMBS | 0.10% | ~7 |
-| TRAVELER | 0.10% | ~7 |
+| MASTER CHEF | 33.00% | ~3,890 |
+| FIRST BLOOD | 27.00% | ~3,183 |
+| KEVIN! | 18.00% | ~2,122 |
+| JACK OF ALL TRADES | 12.00% | ~1,415 |
+| CRIMINAL | 7.00% | ~825 |
+| GRANDMA WOULD BE PROUD | 2.00% | ~236 |
+| WITHOUT BREAKING A SWEAT | 2.00% | ~236 |
+| BUTCHER | 1.00% | ~118 |
+| HONORS STUDENT | 1.00% | ~118 |
+| INDIVIDUAL APPROACH | 1.00% | ~118 |
+| RAMBO | 1.00% | ~118 |
+| HELL'S KITCHEN | 0.80% | ~94 |
+| MARTYR | 0.70% | ~83 |
+| CELEBRITY | 0.60% | ~71 |
+| GRATITUDE | 0.60% | ~71 |
+| LAW-ABIDING CITIZEN | 0.40% | ~47 |
+| PATTY-KILLER | 0.40% | ~47 |
+| PRUDENT | 0.40% | ~47 |
+| EXPERIMENTALIST | 0.30% | ~35 |
+| GOURMET | 0.30% | ~35 |
+| SCATTERBRAIN | 0.30% | ~35 |
+| TASTE UNTASTY | 0.20% | ~24 |
+| CORRUPTIONIST | 0.10% | ~12 |
+| DEBTOR | 0.10% | ~12 |
+| HIGH TECHNOLOGIES | 0.10% | ~12 |
+| I'VE SEEN SOME… | 0.10% | ~12 |
+| MISTER ALL THUMBS | 0.10% | ~12 |
+| TRAVELER | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,513 (Ranked 160)  
-Completed: 2 (0.03%) (Ranked 276)  
+Progressed: 11,788 (Ranked 138)  
+Completed: 2 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 2 (0.03%) (Ranked 276)
 | 2023-10-02 | 468 | 2 |
 | 2023-10-03 | 473 | 2 |
 | 2023-10-04 | 476 | 2 |
-| 2023-10-05 | 6,513 | 2 |
+| 2023-10-05 | 11,788 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
