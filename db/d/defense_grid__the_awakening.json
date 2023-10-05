@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1855,7 +1855,7 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 487216,
+  "EOS_Progressed": 487217,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -19465,6 +19465,11 @@
       "Time": "2023-10-04T23:05:01.3615909+00:00",
       "NumProgressed": 487216,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-05T00:06:19.691024+00:00",
+      "NumProgressed": 487217,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -19492,7 +19497,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 224119
+      "UsersEstimate": 224120
     },
     {
       "ID": "BASEDEFENDER",
@@ -19524,7 +19529,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 219247
+      "UsersEstimate": 219248
     },
     {
       "ID": "BURNBABYBURN",
@@ -19532,7 +19537,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 287457
+      "UsersEstimate": 287458
     },
     {
       "ID": "CHAS",
@@ -19612,7 +19617,7 @@
       "Name": "Diversity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "ERADICATOR",
@@ -19644,7 +19649,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 360540
+      "UsersEstimate": 360541
     },
     {
       "ID": "FILTHYRICH",
@@ -19668,7 +19673,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 394645
+      "UsersEstimate": 394646
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -19716,7 +19721,7 @@
       "Name": "Full Potential",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "FULLYCONTAINED",
@@ -19748,7 +19753,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 380028
+      "UsersEstimate": 380029
     },
     {
       "ID": "HEADTRAUMA",
@@ -19764,7 +19769,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 380028
+      "UsersEstimate": 380029
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -19788,7 +19793,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 311818
+      "UsersEstimate": 311819
     },
     {
       "ID": "KABOOM",
@@ -19812,7 +19817,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 345923
+      "UsersEstimate": 345924
     },
     {
       "ID": "LIQUIDATOR",
@@ -19884,7 +19889,7 @@
       "Name": "Not So Fast",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 160781
+      "UsersEstimate": 160782
     },
     {
       "ID": "OUTOFBULLETS",
@@ -19916,7 +19921,7 @@
       "Name": "Overseer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43849
+      "UsersEstimate": 43850
     },
     {
       "ID": "PENNYPINCHER",
@@ -20004,7 +20009,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 258224
+      "UsersEstimate": 258225
     },
     {
       "ID": "SAVANTGENIUS",
@@ -20020,7 +20025,7 @@
       "Name": "Sharpshooter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 165653
+      "UsersEstimate": 165654
     },
     {
       "ID": "SHELLSHOCKED",
@@ -20060,7 +20065,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 316690
+      "UsersEstimate": 316691
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -20108,7 +20113,7 @@
       "Name": "Tower Expert",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14616
+      "UsersEstimate": 14617
     },
     {
       "ID": "TRACEAMOUNTSOFGOLD",
@@ -20171,15 +20176,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 487216,
+      "Progressed": 487217,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-10-04T20:02:27.5305343+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:05:01.3615905+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:06:19.6910237+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.3059441+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:00:49.889028+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:05:01.3618081+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:03:05.3212719+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:06:19.691246+00:00"
 }

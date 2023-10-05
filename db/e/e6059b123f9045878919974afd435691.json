@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2036,6 +2036,11 @@
       "Time": "2023-10-03T16:05:56.8643551+00:00",
       "NumProgressed": 850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T00:07:52.6627789+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2047,7 +2052,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2055,7 +2060,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2095,7 +2100,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2103,7 +2108,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -2119,7 +2124,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2127,7 +2132,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -2151,7 +2156,7 @@
       "Name": "Main Course",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -2165,9 +2170,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 179
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2175,7 +2180,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2223,7 +2228,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -2247,7 +2252,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2271,7 +2276,7 @@
       "Name": "Rare Steak",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FREED_ACHIEVEMENT_1",
@@ -2319,7 +2324,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2327,7 +2332,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2335,7 +2340,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2365,9 +2370,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 264
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2399,7 +2404,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2415,7 +2420,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2439,7 +2444,7 @@
       "Name": "Night Snack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2463,7 +2468,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -2479,7 +2484,7 @@
       "Name": "The Last of Us",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2495,7 +2500,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2574,14 +2579,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:06:05.942755+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:07:52.6627779+00:00",
   "LastUpdate_AppInfo": "2023-09-28T20:57:04.0029092+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:59:55.6666234+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:06:05.9428392+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:01:24.8800238+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:07:52.662915+00:00"
 }

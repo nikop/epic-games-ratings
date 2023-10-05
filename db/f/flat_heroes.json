@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 77
     },
     {
       "ID": "World7Boss",
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:03:38.4960469+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:04:22.2454085+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.5286504+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:00:03.0274394+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:03:38.4961007+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:01:37.5312313+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:04:22.2454552+00:00"
 }

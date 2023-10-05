@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,302 |
-| Copacetic Coordination | 16.00% | ~55,409 |
-| Fronting the Money | 15.00% | ~51,946 |
-| The Dawn of Automation | 14.00% | ~48,483 |
-| Extraordinary Logistics | 14.00% | ~48,483 |
+| Corner Clout | 46.00% | ~159,303 |
+| Copacetic Coordination | 16.00% | ~55,410 |
+| Fronting the Money | 15.00% | ~51,947 |
+| The Dawn of Automation | 14.00% | ~48,484 |
+| Extraordinary Logistics | 14.00% | ~48,484 |
 | Dirty Money | 13.00% | ~45,020 |
 | Family First | 13.00% | ~45,020 |
 | Cleaning House | 12.00% | ~41,557 |
@@ -29,13 +29,13 @@ Rating: 4.27 (Ranked 830)
 | Wise Head | 6.00% | ~20,779 |
 | Show ‘em the Sugar | 6.00% | ~20,779 |
 | Killing Them Softly | 6.00% | ~20,779 |
-| Street Knowledge | 5.00% | ~17,315 |
-| Oh Captain | 5.00% | ~17,315 |
-| Branching Out | 5.00% | ~17,315 |
-| Improvement Missions | 5.00% | ~17,315 |
-| Opportunity Knocked | 5.00% | ~17,315 |
-| City of Big Shoulders | 5.00% | ~17,315 |
-| Mission Mastery | 5.00% | ~17,315 |
+| Street Knowledge | 5.00% | ~17,316 |
+| Oh Captain | 5.00% | ~17,316 |
+| Branching Out | 5.00% | ~17,316 |
+| Improvement Missions | 5.00% | ~17,316 |
+| Opportunity Knocked | 5.00% | ~17,316 |
+| City of Big Shoulders | 5.00% | ~17,316 |
+| Mission Mastery | 5.00% | ~17,316 |
 | Considerable Clams | 4.00% | ~13,852 |
 | Gin Joint | 4.00% | ~13,852 |
 | An Affront to the Enemy | 4.00% | ~13,852 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 830)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,309 (Ranked 43)  
+Progressed: 346,311 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-02 | 346,026 | 7 |
 | 2023-10-03 | 346,178 | 7 |
 | 2023-10-04 | 346,309 | 7 |
+| 2023-10-05 | 346,311 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 445)  
 Sum: 199 (Ranked 380)  

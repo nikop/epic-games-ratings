@@ -2742,9 +2742,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 190094,
+  "EOS_Progressed": 190108,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 2895,
+  "EOS_NewPlayers": 2900,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11702,6 +11702,11 @@
       "Time": "2023-10-04T23:09:17.9238508+00:00",
       "NumProgressed": 190094,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-10-05T00:10:07.8541476+00:00",
+      "NumProgressed": 190108,
+      "NumCompleted": 359
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11714,7 +11719,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13307
+      "UsersEstimate": 13308
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -11794,7 +11799,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15208
+      "UsersEstimate": 15209
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -11834,7 +11839,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13307
+      "UsersEstimate": 13308
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -11898,7 +11903,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17108
+      "UsersEstimate": 17110
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -12018,7 +12023,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13307
+      "UsersEstimate": 13308
     },
     {
       "ID": "Obtain_Traits_B",
@@ -12113,7 +12118,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 190094,
+      "Progressed": 190108,
       "Completed": 359
     }
   ],
@@ -12121,8 +12126,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-04T20:00:10.6179304+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:09:17.9238502+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:10:07.854147+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:11.7554102+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:59:17.7977015+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:09:17.9239487+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:00:26.526588+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:10:07.8543126+00:00"
 }

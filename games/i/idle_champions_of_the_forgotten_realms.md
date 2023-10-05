@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold as Ice | 0.10% | ~197 |
 | Keep Your Friends Close | 0.10% | ~197 |
 | Friends and Foes | 0.10% | ~197 |
+| And Your Enemies Closer | 0.10% | ~197 |
 | Tall Tales | 0.10% | ~197 |
 | Nightmare Rats! | 0.10% | ~197 |
 | An Unexpected Geist | 0.10% | ~197 |
@@ -24,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.10% | ~197 |
 | Thieves of the Coven | 0.10% | ~197 |
 | Sticky Fingers | 0.10% | ~197 |
+| Go Fourth | 0.10% | ~197 |
 | Hither of the Feywild | 0.10% | ~197 |
 | Don't Breathe the Marsh Gas | 0.10% | ~197 |
 | Don't Blast the Brigands | 0.10% | ~197 |
@@ -90,8 +92,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.10% | ~197 |
 | To Avernus in a Handbasket | 0.10% | ~197 |
 | Hands Off! | 0.10% | ~197 |
+| The Dread Domain of Tovag | 0.10% | ~197 |
 | Weak Doesn't Mean Feeble | 0.10% | ~197 |
 | Frail Doesn't Mean Broken | 0.10% | ~197 |
+| The Castle of a Thousand Vecnas | 0.10% | ~197 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~197 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~197 |
 | The Sanctum of the Sword | 0.10% | ~197 |
@@ -113,12 +117,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.10% | ~231 |
 | Taking Responsibility | 0.10% | ~231 |
 | Between a Brigganock and a Hard Place | 0.10% | ~197 |
+| Love Unsoiled | 0.10% | ~197 |
 | The Play's the Thing! | 0.10% | ~197 |
 | The Bitter End | 0.10% | ~197 |
 | A Nimble Approach | 0.10% | ~197 |
 | The Palace of Heart's Desire | 0.10% | ~197 |
 | The Egg of Nat's Desire | 0.10% | ~197 |
 | No One Can Hear You Scream | 0.10% | ~197 |
+| Anchors Aweigh | 0.10% | ~197 |
 | Welcome to the Rock | 0.10% | ~197 |
 | Welcome to the Band | 0.10% | ~197 |
 | Beast Mode | 0.10% | ~231 |
@@ -167,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.10% | ~231 |
 | Hold for the Red Wizards | 0.10% | ~231 |
 | Form Ranks | 0.10% | ~231 |
+| Drop of Time | 0.10% | ~197 |
 | The Wyrmheart Mine | 0.10% | ~231 |
 | They Who Smelt It | 0.10% | ~231 |
 | Distribute Your Weight | 0.10% | ~231 |
@@ -212,6 +219,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~197 |
 | Excavating History | 0.10% | ~231 |
 | Screams of the Dead | 0.10% | ~231 |
+| Premature Betrayal | 0.10% | ~231 |
 | Frantic Excavation | 0.10% | ~231 |
 | Birds of a Feather | 0.10% | ~197 |
 | Towering Expectations | 0.10% | ~231 |
@@ -249,7 +257,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~231 |
 | Sober Up | 0.10% | ~231 |
 | The Sunless Citadel | 0.10% | ~231 |
+| Social Grace | 0.10% | ~197 |
+| Evergreens with an Evergreen | 0.10% | ~197 |
 | She's Harmless! | 0.10% | ~231 |
+| The Tallest of Kobolds | 0.10% | ~197 |
 | Patience is Key | 0.10% | ~231 |
 | The Darkness Runs Deeper | 0.10% | ~231 |
 | Troublesome Prisoner | 0.10% | ~231 |
@@ -260,6 +271,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Madcap Adventures | 0.10% | ~231 |
 | Vault of Pixies | 0.10% | ~231 |
 | Vault of Poison | 0.10% | ~231 |
+| Vault of Cuteness | 0.10% | ~197 |
 | Champions of Waterdeep | 0.10% | ~231 |
 | Take Five | 0.10% | ~197 |
 | Running of the Saurs | 0.10% | ~231 |
@@ -324,6 +336,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.10% | ~197 |
 | The Everlasting Rime | 0.10% | ~197 |
 | Enemy Summit | 0.10% | ~197 |
+| Mirage Arcane | 0.10% | ~197 |
 | Only Human | 0.10% | ~197 |
 | The Mad Wizard | 0.10% | ~231 |
 | Close Escort | 0.10% | ~231 |
@@ -340,6 +353,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | CONtagious Cold | 0.10% | ~197 |
 | Ten in Ten-Towns | 0.10% | ~197 |
 | Civilization | 0.10% | ~197 |
+| Trench Coat Run | 0.10% | ~197 |
 | The Taunting Lord | 0.10% | ~197 |
 | Durable Deep | 0.10% | ~231 |
 | Lone Wolf Party | 0.10% | ~197 |
@@ -366,6 +380,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~197 |
 | Witty Riposting | 0.10% | ~197 |
 | Waiting on Sunrise | 0.10% | ~197 |
+| A Chilling Encounter | 0.10% | ~197 |
 | How Far Away is Thay | 0.10% | ~197 |
 | Deekin's Mission | 0.10% | ~197 |
 | Dive Bomb | 0.10% | ~197 |
@@ -416,8 +431,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flight of the Kindori Pod | 0.10% | ~197 |
 | 3,720 to 1 | 0.10% | ~197 |
 | Topolah's Tower | 0.10% | ~197 |
+| Krux's Speed Run | 0.10% | ~197 |
 | Animated Giff | 0.10% | ~197 |
 | The Hunt for The Last Breath | 0.10% | ~197 |
+| The Chaotic Hunt for The Last Breath | 0.10% | ~197 |
 | Legends and Lore | 0.10% | ~197 |
 | Unearthed Arcana | 0.10% | ~197 |
 | The End | 0.10% | ~197 |
@@ -425,9 +442,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~197 |
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
-| And Your Enemies Closer | 0.00% | ~0 |
 | Patron Party | 0.00% | ~0 |
-| Go Fourth | 0.00% | ~0 |
 | Icequake | 0.00% | ~0 |
 | Slack-jawed Lorna | 0.00% | ~0 |
 | The Dark Heart | 0.00% | ~0 |
@@ -439,20 +454,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
 | Best Thay Ever | 0.00% | ~0 |
-| The Dread Domain of Tovag | 0.00% | ~0 |
-| The Castle of a Thousand Vecnas | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Checkmate | 0.00% | ~0 |
 | Bully for Vecna | 0.00% | ~0 |
 | Anti-Dexterous Explorers | 0.00% | ~0 |
 | The Minions of Endelyn Moongrave | 0.00% | ~0 |
-| Love Unsoiled | 0.00% | ~0 |
-| Anchors Aweigh | 0.00% | ~0 |
 | Periodic Petrification | 0.00% | ~0 |
 | Captured! | 0.00% | ~0 |
 | Home Field Advantage | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
-| Drop of Time | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
@@ -462,7 +472,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.00% | ~0 |
 | Distracted Escape | 0.00% | ~0 |
 | From The Shadows | 0.00% | ~0 |
-| Premature Betrayal | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
@@ -471,13 +480,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | In The Beginning | 0.00% | ~0 |
 | Crowded Streets | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
-| Social Grace | 0.00% | ~0 |
-| Evergreens with an Evergreen | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
-| The Tallest of Kobolds | 0.00% | ~0 |
 | Faerûn's Most Neglected | 0.00% | ~0 |
 | Vault of Dragons | 0.00% | ~0 |
-| Vault of Cuteness | 0.00% | ~0 |
 | On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Batiri in the Goblin Halls | 0.00% | ~0 |
@@ -498,14 +503,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into the Unknown | 0.00% | ~0 |
 | A Tenday at Golgamann's | 0.00% | ~0 |
 | Prisoners of Unknown Choices | 0.00% | ~0 |
-| Mirage Arcane | 0.00% | ~0 |
 | Overdue Rendezvous | 0.00% | ~0 |
-| Trench Coat Run | 0.00% | ~0 |
 | Relentless Peril | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
-| A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Visions of Hornfirth | 0.00% | ~0 |
@@ -525,8 +527,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Willing to Sacrifice | 0.00% | ~0 |
-| Krux's Speed Run | 0.00% | ~0 |
-| The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
 | To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,902 (Ranked 56)  
+Progressed: 230,904 (Ranked 56)  
 Completed: 2,329 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,6 +703,7 @@ Completed: 2,329 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
+| 2023-10-05 | 230,904 | 2,329 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

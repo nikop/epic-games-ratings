@@ -27,17 +27,17 @@
 | Shattered | 36.00% | ~18 |
 | GG | 36.00% | ~18 |
 | You've got mail! | 34.00% | ~17 |
+| Mischief maker | 34.00% | ~17 |
+| Close the deal | 32.00% | ~16 |
 | Memories | 32.00% | ~16 |
 | Beekeeper | 32.00% | ~16 |
 | Ring-a-ding-ding | 32.00% | ~16 |
 | Pain in the hands | 32.00% | ~16 |
-| Mischief maker | 32.00% | ~16 |
-| Close the deal | 30.00% | ~15 |
 | Turn the last page | 28.00% | ~14 |
 | Singstar | 28.00% | ~14 |
 | Makeover | 26.00% | ~13 |
-| Bahahahaha... | 24.00% | ~12 |
-| Kill it! KILL IT! | 24.00% | ~12 |
+| Bahahahaha... | 26.00% | ~13 |
+| Kill it! KILL IT! | 26.00% | ~13 |
 | Guilty conscience | 22.00% | ~11 |
 | Cameodalic | 20.00% | ~10 |
 | Clever reference #451 | 18.00% | ~9 |
@@ -45,7 +45,7 @@
 | Posterboy! | 14.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 431)  
-Completed: 5 (10.00%) (Ranked 32)  
+Completed: 6 (12.00%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 5 (10.00%) (Ranked 32)
 | 2023-09-24 | 48 | 5 |
 | 2023-09-25 | 49 | 5 |
 | 2023-09-26 | 50 | 5 |
+| 2023-10-05 | 50 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

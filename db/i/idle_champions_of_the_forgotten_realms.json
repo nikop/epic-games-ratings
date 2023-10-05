@@ -7102,9 +7102,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230902,
+  "EOS_Progressed": 230904,
   "EOS_Completed": 2329,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25727,6 +25727,11 @@
       "Time": "2023-10-04T23:05:58.1958738+00:00",
       "NumProgressed": 230902,
       "NumCompleted": 2329
+    },
+    {
+      "Time": "2023-10-05T00:07:41.751083+00:00",
+      "NumProgressed": 230904,
+      "NumCompleted": 2329
     }
   ],
   "TotalAchievements": 528,
@@ -25800,9 +25805,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1050",
@@ -25896,9 +25901,9 @@
       "ID": "objective_completed_1063",
       "SetID": "415jc5c",
       "Name": "Go Fourth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1065",
@@ -26520,9 +26525,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1184",
@@ -26544,9 +26549,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1189",
@@ -26760,9 +26765,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1331",
@@ -26816,9 +26821,9 @@
       "ID": "objective_completed_1346",
       "SetID": "415jc5c",
       "Name": "Anchors Aweigh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1350",
@@ -27240,9 +27245,9 @@
       "ID": "objective_completed_249",
       "SetID": "415jc5c",
       "Name": "Drop of Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_251",
@@ -27680,9 +27685,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_410",
@@ -28048,17 +28053,17 @@
       "ID": "objective_completed_562",
       "SetID": "415jc5c",
       "Name": "Social Grace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_563",
       "SetID": "415jc5c",
       "Name": "Evergreens with an Evergreen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_565",
@@ -28080,9 +28085,9 @@
       "ID": "objective_completed_567",
       "SetID": "415jc5c",
       "Name": "The Tallest of Kobolds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_57",
@@ -28184,9 +28189,9 @@
       "ID": "objective_completed_583",
       "SetID": "415jc5c",
       "Name": "Vault of Cuteness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_585",
@@ -28864,9 +28869,9 @@
       "ID": "objective_completed_697",
       "SetID": "415jc5c",
       "Name": "Mirage Arcane",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_698",
@@ -29008,9 +29013,9 @@
       "ID": "objective_completed_808",
       "SetID": "415jc5c",
       "Name": "Trench Coat Run",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_809",
@@ -29256,9 +29261,9 @@
       "ID": "objective_completed_854",
       "SetID": "415jc5c",
       "Name": "A Chilling Encounter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_855",
@@ -29816,9 +29821,9 @@
       "ID": "objective_completed_1391",
       "SetID": "415jc5c",
       "Name": "Krux\u0027s Speed Run",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1392",
@@ -29840,9 +29845,9 @@
       "ID": "objective_completed_1396",
       "SetID": "415jc5c",
       "Name": "The Chaotic Hunt for The Last Breath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1400",
@@ -29961,21 +29966,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197176,
+      "Progressed": 197178,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230902,
+      "Progressed": 230904,
       "Completed": 2329
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:05:58.1958733+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:07:41.7510825+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:00:41.6781743+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:05:58.19882+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:02:33.0863476+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:07:41.7546744+00:00"
 }

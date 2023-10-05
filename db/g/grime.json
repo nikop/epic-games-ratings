@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150205,
+  "EOS_Progressed": 150217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10495,6 +10495,11 @@
       "Time": "2023-10-04T23:04:04.3151931+00:00",
       "NumProgressed": 150205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T00:04:58.3129316+00:00",
+      "NumProgressed": 150217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10760,9 +10765,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -10873,21 +10878,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 149788,
+      "Progressed": 149800,
       "Completed": 1138
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150205,
+      "Progressed": 150217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-04T22:00:31.5462818+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:04:04.3151924+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:04:58.3129309+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-04T22:59:36.9415536+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:04:04.3152773+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:00:56.6145232+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:04:58.3131076+00:00"
 }

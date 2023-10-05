@@ -480,9 +480,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 60826,
+  "EOS_Progressed": 60837,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2604,
+  "EOS_NewPlayers": 2597,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3790,6 +3790,11 @@
       "Time": "2023-10-04T23:09:19.3077774+00:00",
       "NumProgressed": 60826,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T00:10:09.8481028+00:00",
+      "NumProgressed": 60837,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3802,15 +3807,15 @@
       "Name": "Your Lucky Day",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16423
+      "UsersEstimate": 16426
     },
     {
       "ID": "10",
       "SetID": "2cfdi92",
       "Name": "fifteenth Time\u0027s the Charm",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 548
     },
     {
       "ID": "11",
@@ -3842,7 +3847,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "15",
@@ -3866,7 +3871,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9124
+      "UsersEstimate": 9126
     },
     {
       "ID": "3",
@@ -3874,7 +3879,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "4",
@@ -3882,7 +3887,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "5",
@@ -3890,7 +3895,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "6",
@@ -3929,7 +3934,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 60826,
+      "Progressed": 60837,
       "Completed": 2
     }
   ],
@@ -3937,8 +3942,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-04T23:00:33.4879348+00:00",
-  "LastChanged_Achievements": "2023-10-04T23:09:19.3077763+00:00",
+  "LastChanged_Achievements": "2023-10-05T00:10:09.8481022+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-04T23:00:33.4879353+00:00",
-  "LastUpdate_Achievements": "2023-10-04T23:09:19.3078057+00:00"
+  "LastUpdate_Ratings": "2023-10-05T00:02:21.7152946+00:00",
+  "LastUpdate_Achievements": "2023-10-05T00:10:09.8481611+00:00"
 }

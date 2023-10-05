@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.30% | ~43 |
 | Judaism | 0.30% | ~43 |
 | Babylonian Paganism | 0.30% | ~43 |
+| Roman Paganism | 0.30% | ~43 |
 | Naming Landmarks | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Ambitious | 0.20% | ~29 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Greek Paganism | 0.20% | ~29 |
-| Roman Paganism | 0.20% | ~29 |
 | Zoroastrianism | 0.20% | ~29 |
 | Trade Caravan | 0.20% | ~29 |
 | Kushite Paganism | 0.20% | ~29 |
@@ -171,6 +171,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.10% | ~14 |
 | Apadana in Parsa | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
+| Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
@@ -333,7 +334,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
-| Play a Hotseat Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,353 (Ranked 133)  
+Progressed: 14,357 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,6 +517,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
+| 2023-10-05 | 14,357 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  
