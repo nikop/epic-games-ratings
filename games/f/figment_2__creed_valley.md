@@ -14,13 +14,13 @@
 | Repair the Mind Validation Machine | 18.00% | ~3 |
 | Flee like an idiot | 18.00% | ~3 |
 | Elementary, My Dear Dusty | 12.00% | ~2 |
+| Come full circle | 6.00% | ~1 |
 | Dance like an idiot | 6.00% | ~1 |
 | I'm Back at the Surface now | 6.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | GOAAAAAAAAAL! | 0.00% | ~0 |
-| Come full circle | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 487)  

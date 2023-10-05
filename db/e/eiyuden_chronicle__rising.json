@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -165,10 +165,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 692,
-  "EOS_Completed": 59,
+  "EOS_Completed": 60,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.53,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 8.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-09-25T16:05:10.3346885+00:00",
       "NumProgressed": 692,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-05T09:04:21.4115691+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -490,9 +495,9 @@
       "ID": "ACHIEVEMENT020",
       "SetID": "dejhjd5",
       "Name": "Full Force - Garoo",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT021",
@@ -538,9 +543,9 @@
       "ID": "ACHIEVEMENT026",
       "SetID": "dejhjd5",
       "Name": "No Treasure Left Behind",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -642,9 +647,9 @@
       "ID": "ACHIEVEMENT039",
       "SetID": "dejhjd5",
       "Name": "Meat Master",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -722,9 +727,9 @@
       "ID": "ACHIEVEMENT049",
       "SetID": "dejhjd5",
       "Name": "Champion of the Lava Ruins",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -740,14 +745,14 @@
       "ID": "dejhjd5",
       "IsBase": true,
       "Progressed": 692,
-      "Completed": 59
+      "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:05:03.7347708+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:04:21.4115688+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:47.5720419+00:00",
-  "LastUpdate_Ratings": "2023-10-05T07:59:48.3142739+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:05:03.7348193+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:59:02.7631031+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:04:21.4116047+00:00"
 }

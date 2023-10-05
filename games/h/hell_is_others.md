@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.40 (Ranked 715)  
+Rating: 4.40 (Ranked 716)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 715)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,944 (Ranked 49)  
+Progressed: 256,945 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,19 +230,19 @@ Completed: 3 (0.00%) (Ranked 306)
 | 2023-10-02 | 256,864 | 3 |
 | 2023-10-03 | 256,896 | 3 |
 | 2023-10-04 | 256,932 | 3 |
-| 2023-10-05 | 256,944 | 3 |
+| 2023-10-05 | 256,945 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 43  (Ranked 429)  
-Sum: 279 (Ranked 355)  
-Diff (max vs sum): 74  
+Sum: 280 (Ranked 354)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 43 |
 | This game has Unique Visuals | 35 |
+| This game has Amazing Characters | 32 |
 | This game has Challenging Combat | 32 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Storytelling | 32 |
-| This game has Amazing Characters | 31 |
 | This game has a Competitive Community | 27 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Competitive Players | 25 |
@@ -389,3 +389,4 @@ Diff (max vs sum): 74
 | 2023-09-25 | 4.42 | 40 | 262 |
 | 2023-10-02 | 4.40 | 43 | 278 |
 | 2023-10-04 | 4.40 | 43 | 279 |
+| 2023-10-05 | 4.40 | 43 | 280 |

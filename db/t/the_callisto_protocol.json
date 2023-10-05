@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15987,
+  "EOS_Progressed": 15988,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7269,6 +7269,11 @@
       "Time": "2023-10-05T05:10:29.1608595+00:00",
       "NumProgressed": 15987,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-05T09:09:16.8696677+00:00",
+      "NumProgressed": 15988,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7304,7 +7309,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "DISARM_ENEMY",
@@ -7344,7 +7349,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -7400,7 +7405,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -7408,7 +7413,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "KILL_ROBOT",
@@ -7424,7 +7429,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -7448,7 +7453,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "PRINT_WEAPON",
@@ -7472,7 +7477,7 @@
       "Name": "The Outer Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_ESCAPE",
@@ -7488,7 +7493,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_HANGAR",
@@ -7496,7 +7501,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_MINETOWN",
@@ -7504,7 +7509,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -7520,7 +7525,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_TOWER",
@@ -7528,7 +7533,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_TUNNELS",
@@ -7536,7 +7541,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "DISMEMBER_100",
@@ -7655,13 +7660,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15987,
+      "Progressed": 15988,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3913,
+      "Progressed": 3914,
       "Completed": 29
     }
   ],
@@ -7669,8 +7674,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-04T16:00:28.4085682+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:10:29.7356872+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:09:16.8696673+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:15.2729521+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:22.5330544+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:10:29.7357642+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:59:36.962623+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:09:16.8697271+00:00"
 }

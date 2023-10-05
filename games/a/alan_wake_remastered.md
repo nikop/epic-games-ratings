@@ -7,25 +7,25 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 42.00% | ~28,150 |
-| Let There Be Light | 35.00% | ~23,458 |
+| Let There Be Light | 35.00% | ~23,459 |
 | Float Like a Butterfly | 33.00% | ~22,118 |
-| Nordic Walking | 27.00% | ~18,096 |
+| Nordic Walking | 27.00% | ~18,097 |
 | Bright Falls' Finest | 26.00% | ~17,426 |
-| Under a Thin Layer of Skin | 23.00% | ~15,415 |
-| Park Ranger | 19.00% | ~12,734 |
-| Paging Mr. Wake | 19.00% | ~12,734 |
+| Under a Thin Layer of Skin | 23.00% | ~15,416 |
+| Park Ranger | 19.00% | ~12,735 |
+| Paging Mr. Wake | 19.00% | ~12,735 |
 | Back! Back, I Say! | 18.00% | ~12,064 |
 | Finders Keepers | 18.00% | ~12,064 |
 | They're Heeeeeere! | 16.00% | ~10,724 |
 | Sound and Fury | 16.00% | ~10,724 |
 | Missed by a Mile | 16.00% | ~10,724 |
 | Damn Good Cup of Coffee | 16.00% | ~10,724 |
-| Wheels Within Wheels | 15.00% | ~10,053 |
-| The Six-Gun Scribe | 15.00% | ~10,053 |
-| Heavy Metal | 14.00% | ~9,383 |
-| Iron Horse | 14.00% | ~9,383 |
-| Collateral Carnage | 14.00% | ~9,383 |
-| Come One, Come All | 14.00% | ~9,383 |
+| Wheels Within Wheels | 15.00% | ~10,054 |
+| The Six-Gun Scribe | 15.00% | ~10,054 |
+| Heavy Metal | 14.00% | ~9,384 |
+| Iron Horse | 14.00% | ~9,384 |
+| Collateral Carnage | 14.00% | ~9,384 |
+| Come One, Come All | 14.00% | ~9,384 |
 | Perchance to Dream | 13.00% | ~8,713 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,713 |
 | Thunder and Lightning | 13.00% | ~8,713 |
@@ -39,10 +39,10 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 8.00% | ~5,362 |
 | A Friend in Need | 8.00% | ~2,439 |
 | Hardboiled Writer | 7.00% | ~4,692 |
-| Children of the Elder God | 6.00% | ~4,021 |
-| Drink 'Em Both Up | 6.00% | ~4,021 |
-| A Friend Indeed | 6.00% | ~1,829 |
-| Ding! | 6.00% | ~1,829 |
+| Children of the Elder God | 6.00% | ~4,022 |
+| Drink 'Em Both Up | 6.00% | ~4,022 |
+| A Friend Indeed | 6.00% | ~1,830 |
+| Ding! | 6.00% | ~1,830 |
 | Boob Tube | 5.00% | ~3,351 |
 | If It Flies, It Burns | 5.00% | ~3,351 |
 | KBF-FM | 5.00% | ~3,351 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,023 (Ranked 91)  
+Progressed: 67,025 (Ranked 91)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-10-02 | 66,805 | 67 |
 | 2023-10-03 | 66,899 | 67 |
 | 2023-10-04 | 66,994 | 67 |
-| 2023-10-05 | 67,023 | 67 |
+| 2023-10-05 | 67,025 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

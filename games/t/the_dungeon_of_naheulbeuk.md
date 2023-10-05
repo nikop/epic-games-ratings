@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,198 |
+| Sowwy! | 32.00% | ~73,201 |
 | Alt+F4 | 6.00% | ~13,725 |
-| Where's that freaking Dwarf? | 5.00% | ~11,437 |
+| Where's that freaking Dwarf? | 5.00% | ~11,438 |
 | Déjà vu | 4.00% | ~9,150 |
 | Sock! SOCK! | 4.00% | ~9,150 |
-| A beer, two curses, three companions | 3.00% | ~6,862 |
-| GG EZ | 3.00% | ~6,862 |
-| DM intervention | 3.00% | ~6,862 |
-| Speedrun | 3.00% | ~6,862 |
-| Fireproof Wizardess | 3.00% | ~6,862 |
+| A beer, two curses, three companions | 3.00% | ~6,863 |
+| GG EZ | 3.00% | ~6,863 |
+| DM intervention | 3.00% | ~6,863 |
+| Speedrun | 3.00% | ~6,863 |
+| Fireproof Wizardess | 3.00% | ~6,863 |
 | Livin' in a dwarven paradise | 2.00% | ~4,575 |
 | Way of the Wimp | 2.00% | ~4,575 |
 | The plot thickens... At the tavern | 2.00% | ~4,575 |
@@ -29,23 +29,23 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 2.00% | ~4,575 |
 | Team Building Exercise | 2.00% | ~4,575 |
 | Oh, when I'll be level 10... | 2.00% | ~4,575 |
-| Shiny and Crôm | 1.00% | ~2,287 |
-| Res Judicata | 1.00% | ~2,287 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,287 |
-| Dwarf Fortress | 1.00% | ~2,287 |
-| %#*!$*! | 1.00% | ~2,287 |
-| Look but don't touch | 1.00% | ~2,287 |
-| The beards of change | 1.00% | ~2,287 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,287 |
-| The Ranger of Chaos | 1.00% | ~2,287 |
-| I am the night | 1.00% | ~2,287 |
-| Thieves' Guild Accreditation | 1.00% | ~2,287 |
+| Shiny and Crôm | 1.00% | ~2,288 |
+| Res Judicata | 1.00% | ~2,288 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,288 |
+| Dwarf Fortress | 1.00% | ~2,288 |
+| %#*!$*! | 1.00% | ~2,288 |
+| Look but don't touch | 1.00% | ~2,288 |
+| The beards of change | 1.00% | ~2,288 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,288 |
+| The Ranger of Chaos | 1.00% | ~2,288 |
+| I am the night | 1.00% | ~2,288 |
+| Thieves' Guild Accreditation | 1.00% | ~2,288 |
 | Lust and Debauchery | 0.90% | ~2,059 |
 | Dead for good | 0.80% | ~1,830 |
 | Material Girl | 0.80% | ~1,830 |
 | Gargantua | 0.70% | ~1,601 |
-| In Navalu's footsteps | 0.60% | ~1,372 |
-| Lëgal Legend | 0.60% | ~1,372 |
+| In Navalu's footsteps | 0.60% | ~1,373 |
+| Lëgal Legend | 0.60% | ~1,373 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,144 |
 | We come in peace | 0.50% | ~1,144 |
 | Holistic Adventuring Party | 0.40% | ~915 |
@@ -54,10 +54,10 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.30% | ~686 |
 | I'd rather... Just... Sing! | 0.30% | ~686 |
 | It's been a hard day's night | 0.30% | ~686 |
-| The number of the counting shalt be 7 | 0.20% | ~457 |
-| 100% satisfaction guarantee | 0.20% | ~457 |
-| Death is for wimps | 0.20% | ~457 |
-| Inception | 0.20% | ~457 |
+| The number of the counting shalt be 7 | 0.20% | ~458 |
+| 100% satisfaction guarantee | 0.20% | ~458 |
+| Death is for wimps | 0.20% | ~458 |
+| Inception | 0.20% | ~458 |
 | Cursed die | 0.10% | ~229 |
 | Necrophilia | 0.10% | ~229 |
 | The Blood Countess | 0.10% | ~229 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,745 (Ranked 58)  
+Progressed: 228,753 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-02 | 228,310 | 5 |
 | 2023-10-03 | 228,515 | 5 |
 | 2023-10-04 | 228,696 | 5 |
-| 2023-10-05 | 228,745 | 5 |
+| 2023-10-05 | 228,753 | 5 |
 ## Awards
 Max (Character Customization): 205  (Ranked 275)  
 Sum: 400 (Ranked 326)  

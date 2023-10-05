@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,728 |
-| Break A Leg | 3.00% | ~20,728 |
-| Coup de Grâce | 3.00% | ~20,728 |
-| Hazardous Materials | 3.00% | ~20,728 |
-| Hotel California | 3.00% | ~20,728 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,728 |
-| Welcome To Hell-A | 3.00% | ~20,728 |
+| Git Gutte! | 3.00% | ~20,729 |
+| Break A Leg | 3.00% | ~20,729 |
+| Coup de Grâce | 3.00% | ~20,729 |
+| Hazardous Materials | 3.00% | ~20,729 |
+| Hotel California | 3.00% | ~20,729 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,729 |
+| Welcome To Hell-A | 3.00% | ~20,729 |
 | Dr. Reed, I Presume? | 2.00% | ~13,819 |
 | Anger Management | 2.00% | ~13,819 |
 | Perks of the Job | 2.00% | ~13,819 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 508)
 | Stacking the Deck | 2.00% | ~13,819 |
 | Our True Nature | 2.00% | ~13,819 |
 | This is My Weapon | 2.00% | ~13,819 |
-| Making Your Mark | 1.00% | ~6,909 |
-| Humanity Distilled | 1.00% | ~6,909 |
-| Down with the Sickness | 1.00% | ~6,909 |
-| Max Headroom | 1.00% | ~6,909 |
+| Making Your Mark | 1.00% | ~6,910 |
+| Humanity Distilled | 1.00% | ~6,910 |
+| Down with the Sickness | 1.00% | ~6,910 |
+| Max Headroom | 1.00% | ~6,910 |
 | Jumbo Keyring | 0.90% | ~6,219 |
 | Go, Bobcats! | 0.90% | ~6,219 |
 | Rising Star | 0.90% | ~6,219 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690,946 (Ranked 22)  
+Progressed: 690,956 (Ranked 22)  
 Completed: 2,190 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2,190 (0.32%) (Ranked 195)
 | 2023-10-02 | 689,963 | 2,187 |
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
-| 2023-10-05 | 690,946 | 2,190 |
+| 2023-10-05 | 690,956 | 2,190 |
 ## Awards
 Max (Great Boss Battles): 6,318  (Ranked 58)  
 Sum: 9,425 (Ranked 91)  

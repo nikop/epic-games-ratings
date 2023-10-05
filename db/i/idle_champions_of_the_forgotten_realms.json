@@ -7108,9 +7108,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230938,
+  "EOS_Progressed": 230941,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 686,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25778,6 +25778,11 @@
       "Time": "2023-10-05T08:07:11.2210597+00:00",
       "NumProgressed": 230938,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T09:06:33.4397114+00:00",
+      "NumProgressed": 230941,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -27771,9 +27776,9 @@
       "ID": "objective_completed_415",
       "SetID": "cc37lbc",
       "Name": "Careful Consideration",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_416",
@@ -30012,21 +30017,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197212,
+      "Progressed": 197215,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230938,
+      "Progressed": 230941,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-05T06:03:05.2195676+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:07:11.2210593+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:06:33.4397109+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:01:25.1638302+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:07:11.2241604+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:02:15.9260579+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:06:33.4423347+00:00"
 }

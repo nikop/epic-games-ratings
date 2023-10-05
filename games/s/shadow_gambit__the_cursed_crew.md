@@ -26,14 +26,14 @@ Rating: 4.73 (Ranked 164)
 | Tobacco Travesty | 11.00% | ~77 |
 | Accursed Artifacts | 10.00% | ~70 |
 | Lyrical Longing | 10.00% | ~70 |
+| Corsair | 7.00% | ~49 |
 | Fully Decked | 7.00% | ~49 |
-| Corsair | 6.00% | ~42 |
 | Freebooter | 5.00% | ~35 |
 | Marauder | 4.00% | ~28 |
 | Welcome Back Jester | 4.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 696 (Ranked 248)  
-Completed: 21 (3.02%) (Ranked 84)  
+Completed: 21 (3.02%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.81,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -461,6 +461,11 @@
       "Time": "2023-10-04T21:06:29.1525218+00:00",
       "NumProgressed": 86,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-05T09:08:04.9302734+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -527,7 +532,7 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 42
     },
@@ -535,7 +540,7 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -543,7 +548,7 @@
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -575,7 +580,7 @@
       "ID": "Myska",
       "SetID": "ag48e8e",
       "Name": "Singing Mouse",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -671,7 +676,7 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -703,7 +708,7 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 22
     }
@@ -712,14 +717,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:07:33.8044114+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:08:04.9302727+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:17.8294297+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:07:33.8044364+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:59:31.9273359+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:08:04.9303049+00:00"
 }

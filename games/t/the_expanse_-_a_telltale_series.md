@@ -20,10 +20,10 @@ Rating: 4.53 (Ranked 522)
 | Spore Taste | 0.60% | ~81 |
 | Stogie for Fogey | 0.50% | ~68 |
 | Khan's Revenge | 0.50% | ~68 |
+| Thorston Mayer | 0.40% | ~54 |
 | Miraculous Maya | 0.40% | ~54 |
 | Doctor Approved | 0.30% | ~41 |
 | Bottoms up! | 0.30% | ~41 |
-| Thorston Mayer | 0.30% | ~41 |
 | Data Logger | 0.20% | ~27 |
 | Brother's Reaper | 0.20% | ~27 |
 | No Belter Left Behind | 0.20% | ~27 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 522)
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,571 (Ranked 134)  
+Progressed: 13,573 (Ranked 134)  
 Completed: 5 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 5 (0.04%) (Ranked 270)
 | 2023-10-02 | 13,453 | 0 |
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
-| 2023-10-05 | 13,571 | 5 |
+| 2023-10-05 | 13,573 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

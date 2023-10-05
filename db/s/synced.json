@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -486,9 +486,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 60917,
+  "EOS_Progressed": 60923,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2583,
+  "EOS_NewPlayers": 2581,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3841,6 +3841,11 @@
       "Time": "2023-10-05T08:10:25.9052763+00:00",
       "NumProgressed": 60917,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T09:09:13.2016685+00:00",
+      "NumProgressed": 60923,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -3853,7 +3858,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 16448
+      "UsersEstimate": 16449
     },
     {
       "ID": "10",
@@ -3925,7 +3930,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7311
     },
     {
       "ID": "4",
@@ -3941,7 +3946,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "6",
@@ -3980,7 +3985,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 60917,
+      "Progressed": 60923,
       "Completed": 2
     }
   ],
@@ -3988,8 +3993,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-05T03:57:10.9610344+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:10:25.9052759+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:09:13.2016681+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:17.2023742+00:00",
-  "LastUpdate_Ratings": "2023-10-05T07:58:00.2240338+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:10:25.9053103+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:57:13.4829265+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:09:13.2016925+00:00"
 }

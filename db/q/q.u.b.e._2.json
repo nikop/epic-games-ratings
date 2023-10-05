@@ -6,7 +6,7 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
@@ -350,11 +350,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -2325,6 +2325,11 @@
       "Time": "2023-10-05T05:05:54.6685827+00:00",
       "NumProgressed": 571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T09:04:47.4465127+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2337,7 +2342,7 @@
       "Name": "Descendants",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2423,7 +2428,7 @@
       "ID": "ACH_DLC2COMPLETE",
       "SetID": "232494e",
       "Name": "Puzzle Master",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2431,7 +2436,7 @@
       "ID": "ACH_DLC2EXIT",
       "SetID": "232494e",
       "Name": "Coming Home",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2529,7 +2534,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_S4",
@@ -2537,7 +2542,7 @@
       "Name": "Power Glove",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_S5",
@@ -2545,7 +2550,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2553,7 +2558,7 @@
       "Name": "Lost in Space",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_STATUE",
@@ -2568,15 +2573,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-04T15:00:15.0627841+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:05:28.9295262+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:04:47.4465123+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:58.8917941+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:05:28.9295608+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:00:15.3268737+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:04:47.4465388+00:00"
 }

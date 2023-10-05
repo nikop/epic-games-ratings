@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8544,9 +8544,9 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 297835,
+  "EOS_Progressed": 297837,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26629,6 +26629,11 @@
       "Time": "2023-10-05T08:06:34.126785+00:00",
       "NumProgressed": 297835,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-05T09:05:55.0358687+00:00",
+      "NumProgressed": 297837,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 45,
@@ -26640,7 +26645,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44675
+      "UsersEstimate": 44676
     },
     {
       "ID": "PFA_10",
@@ -26704,7 +26709,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20848
+      "UsersEstimate": 20849
     },
     {
       "ID": "PFA_18",
@@ -26999,7 +27004,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297835,
+      "Progressed": 297837,
       "Completed": 480
     }
   ],
@@ -27007,8 +27012,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-05T06:00:15.1204969+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:06:34.1267847+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:05:55.0358682+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:57.6551785+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:06:34.1269637+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:00:13.8732834+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:05:55.0359802+00:00"
 }

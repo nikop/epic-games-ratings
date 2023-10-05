@@ -5,32 +5,32 @@ Rating: 4.38 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~7,466 |
-| IT MAKES BOOM! | 2.00% | ~2,986 |
-| EXTRA BOOST | 1.00% | ~1,493 |
-| PROTECTED | 1.00% | ~1,493 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~1,493 |
-| AGGRESSIVE RACER | 0.90% | ~1,344 |
-| PRO | 0.90% | ~1,344 |
+| ROOKIE | 5.00% | ~7,472 |
+| IT MAKES BOOM! | 2.00% | ~2,989 |
+| EXTRA BOOST | 1.00% | ~1,494 |
+| PROTECTED | 1.00% | ~1,494 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~1,494 |
+| AGGRESSIVE RACER | 0.90% | ~1,345 |
+| PRO | 0.90% | ~1,345 |
 | A TIGER'S FEAR | 0.80% | ~1,195 |
-| ACE SPEEDSTER | 0.60% | ~896 |
+| ACE SPEEDSTER | 0.60% | ~897 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~747 |
 | MASTER | 0.50% | ~747 |
-| TRAINING HARD | 0.40% | ~597 |
-| RELEASE THE KRAKEN | 0.40% | ~597 |
-| BE OUR GUEST | 0.40% | ~597 |
-| ACE BRAWLER | 0.40% | ~597 |
-| DEFEAT OUR CHAMPION | 0.40% | ~597 |
-| ACE DEFENDER | 0.40% | ~597 |
-| FRIENDLY | 0.40% | ~597 |
-| LEGENDARY HERO | 0.40% | ~597 |
+| TRAINING HARD | 0.40% | ~598 |
+| RELEASE THE KRAKEN | 0.40% | ~598 |
+| BE OUR GUEST | 0.40% | ~598 |
+| ACE BRAWLER | 0.40% | ~598 |
+| DEFEAT OUR CHAMPION | 0.40% | ~598 |
+| ACE DEFENDER | 0.40% | ~598 |
+| FRIENDLY | 0.40% | ~598 |
+| LEGENDARY HERO | 0.40% | ~598 |
 | PERFECTLY POISED | 0.30% | ~448 |
 | THE EYE OF THE HUNTER | 0.30% | ~448 |
 | ACE TRICKSTER | 0.30% | ~448 |
 | EXPERIENCED CREW | 0.20% | ~299 |
 | FRAMED! | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,319 (Ranked 69)  
+Progressed: 149,432 (Ranked 69)  
 Completed: 227 (0.15%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 227 (0.15%) (Ranked 228)
 | 2023-10-02 | 97,731 | 224 |
 | 2023-10-03 | 129,454 | 226 |
 | 2023-10-04 | 145,471 | 226 |
-| 2023-10-05 | 149,319 | 227 |
+| 2023-10-05 | 149,432 | 227 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

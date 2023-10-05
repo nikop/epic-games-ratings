@@ -2,9 +2,9 @@
   "ID": "63e942fbfc8e40a5af2f7749a8cbcc09",
   "Name": "Last Labyrinth",
   "ProductSlug": "last-labyrinth-5aed27",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -165,17 +165,17 @@
       "ID": "ClearD02",
       "SetID": "94lmepd",
       "Name": "The High Priestess",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearD02END",
       "SetID": "94lmepd",
       "Name": "The Star",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearE01",
@@ -237,17 +237,17 @@
       "ID": "ClearH01",
       "SetID": "94lmepd",
       "Name": "The Hierophant",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearI01",
       "SetID": "94lmepd",
       "Name": "The Lovers",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearJ01",
@@ -261,9 +261,9 @@
       "ID": "ClearK01",
       "SetID": "94lmepd",
       "Name": "The Hanged Man",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearL01",
@@ -325,17 +325,17 @@
       "ID": "ClearTE04",
       "SetID": "94lmepd",
       "Name": "Sixth Tale",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearTE05",
       "SetID": "94lmepd",
       "Name": "Seventh Tale",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearTE06",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:06:39.7207451+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:06:00.7838846+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:13.0330765+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:44.320577+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:06:39.7207727+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:00:01.0714893+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:06:00.783933+00:00"
 }

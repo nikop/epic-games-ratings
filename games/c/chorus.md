@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.46 (Ranked 629)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,234 (Ranked 223)  
-Completed: 16 (1.30%) (Ranked 128)  
+Completed: 17 (1.38%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,13 +199,14 @@ Completed: 16 (1.30%) (Ranked 128)
 | 2023-10-01 | 1,231 | 16 |
 | 2023-10-02 | 1,233 | 16 |
 | 2023-10-03 | 1,234 | 16 |
+| 2023-10-05 | 1,234 | 17 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 462)  
-Sum: 33 (Ranked 485)  
-Diff (max vs sum): -23  
+Max (Great Boss Battles): 34  (Ranked 458)  
+Sum: 34 (Ranked 482)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 33 |
+| This game has Great Boss Battles | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -264,3 +265,4 @@ Diff (max vs sum): -23
 | 2023-08-19 | 4.46 | - | 32 | 32 |
 | 2023-09-20 | 4.47 | - | 32 | 32 |
 | 2023-09-24 | 4.47 | - | 33 | 33 |
+| 2023-10-05 | 4.46 | - | 34 | 34 |

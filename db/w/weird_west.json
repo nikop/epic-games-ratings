@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -349,9 +349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1845,
+  "EOS_Progressed": 1846,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2059,6 +2059,11 @@
       "Time": "2023-10-02T01:48:29.6297564+00:00",
       "NumProgressed": 1845,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-05T09:08:24.7504162+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2078,7 +2083,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2094,7 +2099,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2222,7 +2227,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2302,7 +2307,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2334,7 +2339,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2342,7 +2347,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_REVENANT",
@@ -2358,7 +2363,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2366,7 +2371,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2374,7 +2379,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2390,7 +2395,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2414,7 +2419,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -2493,15 +2498,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1845,
+      "Progressed": 1846,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-09-26T20:04:09.1562051+00:00",
-  "LastChanged_Achievements": "2023-10-05T08:07:52.0374278+00:00",
+  "LastChanged_Achievements": "2023-10-05T09:08:24.7504158+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.7395475+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:00:31.8783764+00:00",
-  "LastUpdate_Achievements": "2023-10-05T08:07:52.0374849+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:59:47.2261695+00:00",
+  "LastUpdate_Achievements": "2023-10-05T09:08:24.7504626+00:00"
 }

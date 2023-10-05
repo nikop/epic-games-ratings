@@ -21,6 +21,7 @@ Rating: 4.63 (Ranked 334)
 | Hardest Battle In The Game | 0.20% | ~48 |
 | Cold-Blooded Driller | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
+| Series Wrap on Suit-O | 0.20% | ~48 |
 | Bathe With A Giant Nude Alien | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
@@ -37,7 +38,6 @@ Rating: 4.63 (Ranked 334)
 | Spent 15 Hours At The Alien Strip Club | 0.10% | ~24 |
 | Playing Favorites | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
-| Series Wrap on Suit-O | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
 | Mux Ado About Shipping | 0.10% | ~1 |
 | See Salt | 0.10% | ~1 |

@@ -32,8 +32,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Quarry...On Foot! | 31.00% | ~215 |
 | The Runebarrows...On Foot! | 29.00% | ~201 |
 | The Lava Ruins...On Foot! | 28.00% | ~194 |
+| Meat Master | 27.00% | ~187 |
 | The Snowpeak...On Foot! | 27.00% | ~187 |
-| Meat Master | 26.00% | ~180 |
 | Fishing Master | 25.00% | ~173 |
 | Armor Master | 24.00% | ~166 |
 | The Pride of the Town | 23.00% | ~159 |
@@ -41,24 +41,24 @@ Number of Ratings: 48  (23.09.2022)
 | New Nevaeh's Number One Customer | 21.00% | ~145 |
 | Arms Master | 19.00% | ~131 |
 | Rune Scholar | 17.00% | ~118 |
-| No Treasure Left Behind | 13.00% | ~90 |
+| No Treasure Left Behind | 14.00% | ~97 |
 | One-Hundred Resident Record | 12.00% | ~83 |
 | Sommelier | 12.00% | ~83 |
 | Champion of the Great Forest | 12.00% | ~83 |
 | A Local Hero | 11.00% | ~76 |
+| Champion of the Lava Ruins | 11.00% | ~76 |
 | Gourmand | 10.00% | ~69 |
 | Accessorizer | 10.00% | ~69 |
 | Champion of the Quarry | 10.00% | ~69 |
 | Champion of the Snowpeak | 10.00% | ~69 |
-| Champion of the Lava Ruins | 10.00% | ~69 |
 | No One Better | 9.00% | ~62 |
 | Full Force - CJ | 9.00% | ~62 |
-| Full Force - Garoo | 8.00% | ~55 |
+| Full Force - Garoo | 9.00% | ~62 |
 | Full Force - Isha | 8.00% | ~55 |
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 692 (Ranked 249)  
-Completed: 59 (8.53%) (Ranked 36)  
+Completed: 60 (8.67%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 59 (8.53%) (Ranked 36)
 | 2023-09-18 | 690 | 59 |
 | 2023-09-20 | 691 | 59 |
 | 2023-09-25 | 692 | 59 |
+| 2023-10-05 | 692 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

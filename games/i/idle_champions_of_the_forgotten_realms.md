@@ -251,6 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frantic Excavation | 0.10% | ~231 |
 | Birds of a Feather | 0.10% | ~197 |
 | Towering Expectations | 0.10% | ~231 |
+| Careful Consideration | 0.10% | ~231 |
 | Tanking Expectations | 0.10% | ~197 |
 | Hopelessly Lost | 0.10% | ~231 |
 | Bazaar Exploits | 0.10% | ~231 |
@@ -518,7 +519,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
-| Careful Consideration | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,938 (Ranked 56)  
+Progressed: 230,941 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,938 | 2,331 |
+| 2023-10-05 | 230,941 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,897 (Ranked 41)  

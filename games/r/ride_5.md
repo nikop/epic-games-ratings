@@ -21,7 +21,7 @@
 | We've Just Begun | 10.00% | ~130 |
 | Stamina Star | 8.00% | ~104 |
 | Is It the Right Size? | 7.00% | ~91 |
-| Evangelist | 5.00% | ~65 |
+| Evangelist | 6.00% | ~78 |
 | Make It Your Own! | 4.00% | ~52 |
 | Cherry Blossom and Temples | 4.00% | ~52 |
 | I Make the Rules! | 4.00% | ~52 |
