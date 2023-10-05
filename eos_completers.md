@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.41% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 61.31% |
 | 2 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 50.00% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.61% |
@@ -43,7 +43,7 @@
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.52% |
 | 43 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 7.41% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.28% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.26% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.00% |
@@ -62,7 +62,7 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.29% |
+| 63 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.25% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -127,8 +127,8 @@
 | 125 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 126 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 126 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
-| 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.31% |
-| 129 | [Chorus](games/c/chorus.md) | 1.30% |
+| 128 | [Chorus](games/c/chorus.md) | 1.30% |
+| 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.30% |
 | 130 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 131 | [Infindustry](games/i/infindustry.md) | 1.09% |
 | 131 | [Trifox](games/t/trifox.md) | 1.09% |
@@ -176,8 +176,8 @@
 | 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 170 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
-| 177 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
-| 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.41% |
+| 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.43% |
+| 178 | [Godlike Burger](games/g/godlike_burger.md) | 0.42% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 181 | [Dead Space](games/d/dead_space.md) | 0.39% |
@@ -205,7 +205,7 @@
 | 202 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.29% |
 | 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 202 | [The Devil's Face](games/t/the_devil's_face.md) | 0.29% |
-| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
+| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
@@ -274,12 +274,12 @@
 | 270 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 270 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
 | 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 270 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.04% |
 | 270 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 276 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 276 | [Old World](games/o/old_world.md) | 0.03% |
-| 276 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
-| 276 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 276 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.03% |
+| 277 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 277 | [Old World](games/o/old_world.md) | 0.03% |
+| 277 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.03% |
+| 277 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 281 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 281 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
 | 281 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
