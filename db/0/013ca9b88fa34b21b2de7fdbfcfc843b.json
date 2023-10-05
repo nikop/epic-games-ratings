@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -88,7 +88,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6016,
+  "EOS_Progressed": 6017,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
@@ -3323,6 +3323,11 @@
       "Time": "2023-10-05T07:04:17.8516146+00:00",
       "NumProgressed": 6016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-05T08:05:13.9935763+00:00",
+      "NumProgressed": 6017,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3343,7 +3348,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3511,7 +3516,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3543,7 +3548,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -3559,7 +3564,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -3599,7 +3604,7 @@
       "Name": "House Proud",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -3614,7 +3619,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6016,
+      "Progressed": 6017,
       "Completed": 0
     }
   ],
@@ -3622,8 +3627,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-03T18:57:41.9487056+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:04:17.8516138+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:05:13.993576+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:58:23.977111+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:04:17.8516493+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:59:11.8229469+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:05:13.9936271+00:00"
 }

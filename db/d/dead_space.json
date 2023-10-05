@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -634,7 +634,7 @@
   ],
   "EOS_Progressed": 774,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2273,9 +2273,9 @@
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_12",
@@ -2353,9 +2353,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_21",
@@ -2642,8 +2642,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-02T11:57:56.8636024+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:03:17.8920322+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:04:13.9949194+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:59:07.1352382+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:03:17.8920928+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:59:56.9913814+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:04:13.994981+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7200,9 +7200,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 813
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7647,8 +7647,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:03:17.3576839+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:04:13.4340593+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:59:25.1705+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:03:17.3577925+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:00:13.06618+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:04:13.4341776+00:00"
 }

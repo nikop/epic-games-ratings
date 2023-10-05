@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,041 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,604 |
-| Loose Ends | 34.00% | ~24,873 |
-| To the Victor Go the Spoils | 29.00% | ~21,215 |
-| Knighthood | 28.00% | ~20,483 |
-| Get ReQ'd | 25.00% | ~18,289 |
-| Whispered Words | 25.00% | ~18,289 |
+| First Step Into the Knight | 52.00% | ~38,042 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,605 |
+| Loose Ends | 34.00% | ~24,874 |
+| To the Victor Go the Spoils | 29.00% | ~21,216 |
+| Knighthood | 28.00% | ~20,484 |
+| Get ReQ'd | 25.00% | ~18,290 |
+| Whispered Words | 25.00% | ~18,290 |
 | The Batman Family | 23.00% | ~16,826 |
 | Lock and Key | 23.00% | ~16,826 |
 | Something in the Clay | 21.00% | ~15,363 |
 | Quartzer Life Crisis | 21.00% | ~15,363 |
-| Working Hard or Harley Working? | 20.00% | ~14,631 |
-| Unstoppable Force | 20.00% | ~14,631 |
-| Bad Apples in Every Orchard | 20.00% | ~14,631 |
-| Snow Problem | 19.00% | ~13,899 |
+| Working Hard or Harley Working? | 20.00% | ~14,632 |
+| Unstoppable Force | 20.00% | ~14,632 |
+| Bad Apples in Every Orchard | 20.00% | ~14,632 |
+| Snow Problem | 19.00% | ~13,900 |
 | The Show Mud Go On | 18.00% | ~13,168 |
 | From Inside Gotham's Walls | 18.00% | ~13,168 |
-| Protector of Gotham | 17.00% | ~12,436 |
+| Protector of Gotham | 17.00% | ~12,437 |
 | Universal Health Scare | 16.00% | ~11,705 |
-| In Your Element | 15.00% | ~10,973 |
-| Voiceless | 15.00% | ~10,973 |
+| In Your Element | 15.00% | ~10,974 |
+| Voiceless | 15.00% | ~10,974 |
 | Rock and a Hard Place | 14.00% | ~10,242 |
 | Cooldown | 14.00% | ~10,242 |
 | Seeking Asylum | 14.00% | ~10,242 |
-| Not On My Watch | 13.00% | ~9,510 |
-| Shock Til They Drop | 13.00% | ~9,510 |
+| Not On My Watch | 13.00% | ~9,511 |
+| Shock Til They Drop | 13.00% | ~9,511 |
 | End of an Era | 12.00% | ~8,779 |
 | Bulldozed | 12.00% | ~8,779 |
 | Gotham Knight | 12.00% | ~8,779 |
@@ -51,9 +51,9 @@ Rating: 4.18 (Ranked 896)
 | The Man-Bat Family | 1.00% | ~732 |
 | Batarang Collector | 1.00% | ~732 |
 | Claiming the Mural High Ground | 1.00% | ~732 |
-| Icebreaker | 0.80% | ~347 |
+| Icebreaker | 0.80% | ~348 |
 | History Major | 0.80% | ~585 |
-| A Sophisticated Mallet | 0.80% | ~347 |
+| A Sophisticated Mallet | 0.80% | ~348 |
 | Read Owl About It | 0.70% | ~512 |
 | Gotham's Greatest Depths | 0.60% | ~261 |
 | Don't Mecha Big Deal About It | 0.60% | ~261 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 896)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,155 (Ranked 89)  
+Progressed: 73,158 (Ranked 89)  
 Completed: 120 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 120 (0.16%) (Ranked 224)
 | 2023-10-02 | 73,059 | 121 |
 | 2023-10-03 | 73,099 | 122 |
 | 2023-10-04 | 73,139 | 122 |
-| 2023-10-05 | 73,155 | 120 |
+| 2023-10-05 | 73,158 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,782  (Ranked 97)  
 Sum: 4,657 (Ranked 140)  

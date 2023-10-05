@@ -7,6 +7,7 @@ Rating: 4.63 (Ranked 334)
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
+| Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Creature Feature | 0.20% | ~48 |
 | Satisfied Gus-tomer | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
@@ -25,7 +26,6 @@ Rating: 4.63 (Ranked 334)
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
-| Eatin' Good in the Neighborhood | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
 | Eye Scream, You Scream | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |

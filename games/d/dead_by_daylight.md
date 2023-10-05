@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.40% | ~3,678 |
+| It wakes | 0.40% | ~3,679 |
 | Zealous | 0.30% | ~2,759 |
 | Not half bad | 0.30% | ~2,759 |
 | Apt Survivor | 0.30% | ~2,759 |
@@ -24,6 +24,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.20% | ~1,839 |
 | Perfect Killing | 0.20% | ~1,839 |
 | Bloody Millionaire | 0.20% | ~1,839 |
+| Risk it all | 0.20% | ~1,839 |
 | I | 0.20% | ~1,839 |
 | Engineer | 0.20% | ~1,839 |
 | Sorted | 0.20% | ~1,839 |
@@ -46,7 +47,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Key to Escape | 0.10% | ~920 |
 | Gifts for the Fog | 0.10% | ~920 |
 | Apt Killer | 0.10% | ~920 |
-| Risk it all | 0.10% | ~920 |
 | Vulture | 0.10% | ~920 |
 | Adept Jake | 0.10% | ~920 |
 | Adept Dwight | 0.10% | ~920 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~920 |
 | Adept Ripley | 0.10% | ~920 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919,589 (Ranked 14)  
+Progressed: 919,636 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-02 | 915,862 | 49 |
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
-| 2023-10-05 | 919,589 | 49 |
+| 2023-10-05 | 919,636 | 49 |
 ## Awards
 Max (Diverse Characters): 33,450  (Ranked 15)  
 Sum: 259,391 (Ranked 13)  

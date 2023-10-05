@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Invisible Wizards of Thay | 0.10% | ~197 |
 | Heavy Burden | 0.10% | ~231 |
 | Seeds of Destruction | 0.10% | ~197 |
+| Speeds of Destruction | 0.10% | ~197 |
 | Owlbear Necessities | 0.10% | ~197 |
 | The Evacuation of Waterdeep | 0.10% | ~197 |
 | Flapjacks and Waffles | 0.10% | ~197 |
@@ -177,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~231 |
 | Invisible Shadows | 0.10% | ~231 |
 | Werewolves in the Mist | 0.10% | ~231 |
+| We're not in Faerûn Anymore | 0.10% | ~231 |
 | Family Entanglements | 0.10% | ~231 |
 | Haunted Fortunes | 0.10% | ~231 |
 | Poor Fortune | 0.10% | ~231 |
@@ -312,6 +314,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.10% | ~231 |
 | Lost in the Goblin Halls | 0.10% | ~231 |
 | Batiri in the Goblin Halls | 0.10% | ~231 |
+| Temporal Rift in the Goblin Halls | 0.10% | ~197 |
 | The Twilight Grove | 0.10% | ~231 |
 | The Nimble Grove | 0.10% | ~231 |
 | The Misty Grove | 0.10% | ~197 |
@@ -472,6 +475,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~197 |
 | An Icewind Dale Reunion | 0.10% | ~197 |
 | The Netherese Necropolis | 0.10% | ~197 |
+| Ineffectual Intellectuals | 0.10% | ~197 |
 | The Archaeologist and the Sailor | 0.10% | ~197 |
 | The Templar's Camp | 0.10% | ~231 |
 | The Haunted Jungle | 0.10% | ~231 |
@@ -506,19 +510,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Legends and Lore | 0.10% | ~197 |
 | Unearthed Arcana | 0.10% | ~197 |
 | The End | 0.10% | ~197 |
+| All's Well That Ends Well | 0.10% | ~197 |
 | The Jungles of Doomspace | 0.10% | ~197 |
 | Slow Down Showdown | 0.10% | ~197 |
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
-| Speeds of Destruction | 0.00% | ~0 |
-| We're not in Faerûn Anymore | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
-| Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
@@ -526,16 +528,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
-| Ineffectual Intellectuals | 0.00% | ~0 |
 | To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
-| All's Well That Ends Well | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,935 (Ranked 56)  
+Progressed: 230,938 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,935 | 2,331 |
+| 2023-10-05 | 230,938 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,897 (Ranked 41)  

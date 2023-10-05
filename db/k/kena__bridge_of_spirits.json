@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1334,9 +1334,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428326,
+  "EOS_Progressed": 428327,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -12624,6 +12624,11 @@
       "Time": "2023-10-05T06:08:19.2622219+00:00",
       "NumProgressed": 428326,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2023-10-05T08:07:59.0236948+00:00",
+      "NumProgressed": 428327,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 41,
@@ -12643,7 +12648,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167047
+      "UsersEstimate": 167048
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12771,7 +12776,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201313
+      "UsersEstimate": 201314
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -12803,7 +12808,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406910
+      "UsersEstimate": 406911
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12835,7 +12840,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295545
+      "UsersEstimate": 295546
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -12851,7 +12856,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342661
+      "UsersEstimate": 342662
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -12923,7 +12928,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184180
+      "UsersEstimate": 184181
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -12962,15 +12967,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428326,
+      "Progressed": 428327,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-04T02:57:40.2654546+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:07:01.6486042+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:07:59.0236944+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:38.1163954+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:57:59.5469075+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:07:01.6486897+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:58:47.2705607+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:07:59.0237952+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,747,393 |
-| Easy to forget | 46.00% | ~1,640,410 |
-| Back in the black | 39.00% | ~1,390,782 |
-| That's what I'm talking about | 29.00% | ~1,034,171 |
-| The Best of Both Worlds | 25.00% | ~891,527 |
-| Get your wings | 20.00% | ~713,222 |
-| Double trouble | 16.00% | ~570,577 |
-| Smashing it | 11.00% | ~392,272 |
+| You need to plug it in... | 49.00% | ~1,747,397 |
+| Easy to forget | 46.00% | ~1,640,413 |
+| Back in the black | 39.00% | ~1,390,785 |
+| That's what I'm talking about | 29.00% | ~1,034,174 |
+| The Best of Both Worlds | 25.00% | ~891,529 |
+| Get your wings | 20.00% | ~713,223 |
+| Double trouble | 16.00% | ~570,579 |
+| Smashing it | 11.00% | ~392,273 |
 | But can it run Crysis? | 9.00% | ~320,950 |
 | My favourite feature... | 9.00% | ~320,950 |
 | From humble beginnings... | 7.00% | ~249,628 |
 | Customer satisfaction | 7.00% | ~249,628 |
-| Keeping things neat | 4.00% | ~142,644 |
-| Seems you're pretty good at this | 4.00% | ~142,644 |
-| Bending over backwards | 4.00% | ~142,644 |
+| Keeping things neat | 4.00% | ~142,645 |
+| Seems you're pretty good at this | 4.00% | ~142,645 |
+| Bending over backwards | 4.00% | ~142,645 |
 | Triple threat | 3.00% | ~106,983 |
 | You rock at this! | 3.00% | ~106,983 |
 | Your music sucks | 3.00% | ~106,983 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,566 |
 | Treat yourself - GPU | 0.10% | ~3,566 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,566,108 (Ranked 5)  
+Progressed: 3,566,116 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 36 (0.00%) (Ranked 306)
 | 2023-10-02 | 3,565,406 | 36 |
 | 2023-10-03 | 3,565,724 | 36 |
 | 2023-10-04 | 3,566,040 | 36 |
-| 2023-10-05 | 3,566,108 | 36 |
+| 2023-10-05 | 3,566,116 | 36 |
 ## Awards
 Max (Great for Beginners): 1,076  (Ranked 141)  
 Sum: 8,045 (Ranked 100)  

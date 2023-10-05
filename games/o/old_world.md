@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~29 |
 | Pyramids | 0.20% | ~29 |
 | Learn to Play 1 | 0.20% | ~29 |
+| Learn to Play 2 | 0.20% | ~29 |
 | Christianity | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
@@ -140,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three's a Crowd | 0.10% | ~14 |
 | Unfinished Business | 0.10% | ~14 |
 | Philip's Bronze Crown | 0.10% | ~14 |
+| Philip's Golden Crown | 0.10% | ~14 |
 | Philip's Silver Crown | 0.10% | ~14 |
 | Queen of Politics | 0.10% | ~14 |
 | Queen of Intrigue | 0.10% | ~14 |
@@ -162,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
-| Learn to Play 2 | 0.10% | ~14 |
 | Learn to Play 3 | 0.10% | ~14 |
 | Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
@@ -314,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Philip's Golden Crown | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,359 (Ranked 133)  
+Progressed: 14,360 (Ranked 133)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-02 | 14,300 | 5 |
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
-| 2023-10-05 | 14,359 | 5 |
+| 2023-10-05 | 14,360 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,826 (Ranked 208)  

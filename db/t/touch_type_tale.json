@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3678,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4069,6 +4069,11 @@
       "Time": "2023-10-05T04:03:27.7123987+00:00",
       "NumProgressed": 3678,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-05T08:04:19.0997277+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4088,7 +4093,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "bonus3",
@@ -4128,7 +4133,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "campaign10",
@@ -4136,7 +4141,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "campaign11",
@@ -4152,7 +4157,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "campaign13",
@@ -4160,7 +4165,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "campaign14",
@@ -4184,7 +4189,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "campaign17",
@@ -4214,9 +4219,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2796
     },
     {
       "ID": "campaign20",
@@ -4248,7 +4253,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "campaign6",
@@ -4264,7 +4269,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "campaign8",
@@ -4343,7 +4348,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3678,
+      "Progressed": 3679,
       "Completed": 11
     }
   ],
@@ -4351,8 +4356,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:03:22.8504842+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:04:19.0997272+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.3600543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T07:03:13.7792488+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:03:22.8505466+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:04:08.1203637+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:04:19.0998034+00:00"
 }

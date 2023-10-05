@@ -11,7 +11,7 @@ Rating: 4.61 (Ranked 371)
 | All Systems Go | 66.00% | ~511 |
 | Brute Force | 66.00% | ~511 |
 | Cannon Fodder | 61.00% | ~472 |
-| Autofire | 59.00% | ~457 |
+| Autofire | 60.00% | ~464 |
 | Story Teller | 56.00% | ~433 |
 | Raise the Stakes | 56.00% | ~433 |
 | True Believer | 56.00% | ~433 |
@@ -26,7 +26,7 @@ Rating: 4.61 (Ranked 371)
 | Strange Transmissions | 41.00% | ~317 |
 | Wreckage | 39.00% | ~302 |
 | Keeper of the Faith | 36.00% | ~279 |
-| Betrayed | 34.00% | ~263 |
+| Betrayed | 35.00% | ~271 |
 | A Cut Above | 34.00% | ~263 |
 | There's Always Peng! | 34.00% | ~263 |
 | Exodus | 33.00% | ~255 |

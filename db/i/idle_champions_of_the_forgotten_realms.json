@@ -7108,9 +7108,9 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230935,
+  "EOS_Progressed": 230938,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25773,6 +25773,11 @@
       "Time": "2023-10-05T07:06:13.9974424+00:00",
       "NumProgressed": 230935,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-10-05T08:07:11.2210597+00:00",
+      "NumProgressed": 230938,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -26414,9 +26419,9 @@
       "ID": "objective_completed_1153",
       "SetID": "415jc5c",
       "Name": "Speeds of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1154",
@@ -27158,9 +27163,9 @@
       "ID": "objective_completed_211",
       "SetID": "cc37lbc",
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_213",
@@ -28294,9 +28299,9 @@
       "ID": "objective_completed_592",
       "SetID": "415jc5c",
       "Name": "Temporal Rift in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_595",
@@ -29638,9 +29643,9 @@
       "ID": "objective_completed_934",
       "SetID": "415jc5c",
       "Name": "Ineffectual Intellectuals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_935",
@@ -29934,9 +29939,9 @@
       "ID": "objective_completed_1371",
       "SetID": "415jc5c",
       "Name": "All\u0027s Well That Ends Well",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1405",
@@ -30007,21 +30012,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197209,
+      "Progressed": 197212,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230935,
+      "Progressed": 230938,
       "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-05T06:03:05.2195676+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:06:13.9974419+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:07:11.2210593+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T07:00:38.2382463+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:06:14.0001724+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:01:25.1638302+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:07:11.2241604+00:00"
 }

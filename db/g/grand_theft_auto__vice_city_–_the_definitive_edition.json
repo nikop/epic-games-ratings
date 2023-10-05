@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -742,7 +742,7 @@
       "Count": 91
     }
   ],
-  "EOS_Progressed": 10524,
+  "EOS_Progressed": 10525,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -11052,6 +11052,11 @@
       "Time": "2023-10-05T06:03:36.1289139+00:00",
       "NumProgressed": 10524,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-05T08:04:25.2017885+00:00",
+      "NumProgressed": 10525,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 34,
@@ -11109,9 +11114,9 @@
       "ID": "ACH07",
       "SetID": "9llo822",
       "Name": "High Quality H2O",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 316
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH08",
@@ -11151,7 +11156,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH13",
@@ -11223,7 +11228,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ACH22",
@@ -11334,7 +11339,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10524,
+      "Progressed": 10525,
       "Completed": 58
     }
   ],
@@ -11342,8 +11347,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-05T06:03:17.0134065+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:03:28.8025624+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:04:25.201788+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-05T07:03:07.2748225+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:03:28.8026564+00:00"
+  "LastUpdate_Ratings": "2023-10-05T08:01:32.4416409+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:04:25.2019043+00:00"
 }

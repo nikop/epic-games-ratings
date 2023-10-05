@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -312,7 +312,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197899,
+  "EOS_Progressed": 197900,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -18332,6 +18332,11 @@
       "Time": "2023-10-05T07:03:18.1963564+00:00",
       "NumProgressed": 197899,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-05T08:04:14.2268339+00:00",
+      "NumProgressed": 197900,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18351,7 +18356,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 140508
+      "UsersEstimate": 140509
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -18439,7 +18444,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -18470,7 +18475,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197899,
+      "Progressed": 197900,
       "Completed": 4
     }
   ],
@@ -18478,8 +18483,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:03:18.196356+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:04:14.2268335+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.8385746+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:58:42.2979524+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:03:18.1964774+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:59:31.6503732+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:04:14.2269723+00:00"
 }

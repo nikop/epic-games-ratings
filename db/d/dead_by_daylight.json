@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10943,9 +10943,9 @@
       "Count": 25070
     }
   ],
-  "EOS_Progressed": 919589,
+  "EOS_Progressed": 919636,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13430,
+  "EOS_NewPlayers": 13436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29958,6 +29958,11 @@
       "Time": "2023-10-05T07:05:12.1390938+00:00",
       "NumProgressed": 919589,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-05T08:06:08.8085419+00:00",
+      "NumProgressed": 919636,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30145,7 +30150,7 @@
       "Name": "It wakes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "ACH_024",
@@ -30191,9 +30196,9 @@
       "ID": "ACH_029",
       "SetID": "bdmlp8o",
       "Name": "Risk it all",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 1839
     },
     {
       "ID": "ACH_030",
@@ -31800,21 +31805,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 919589,
+      "Progressed": 919636,
       "Completed": 50
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 919589,
+      "Progressed": 919636,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-05T02:17:32.2820899+00:00",
-  "LastChanged_Achievements": "2023-10-05T07:05:12.1390933+00:00",
+  "LastChanged_Achievements": "2023-10-05T08:06:08.8085415+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-05T06:58:36.649777+00:00",
-  "LastUpdate_Achievements": "2023-10-05T07:05:12.1397168+00:00"
+  "LastUpdate_Ratings": "2023-10-05T07:59:25.425503+00:00",
+  "LastUpdate_Achievements": "2023-10-05T08:06:08.809335+00:00"
 }

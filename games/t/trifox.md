@@ -16,14 +16,14 @@
 | Redecorator | 21.00% | ~19 |
 | Just a sip | 20.00% | ~18 |
 | Complete Level 2-1 | 17.00% | ~16 |
-| Complete Level 2-2 | 16.00% | ~15 |
+| Complete Level 2-2 | 17.00% | ~16 |
 | Versatile | 16.00% | ~15 |
 | Complete Level 2-3 | 14.00% | ~13 |
+| Well-off | 13.00% | ~12 |
 | Defeat the engineer boss | 13.00% | ~12 |
-| Well-off | 12.00% | ~11 |
 | Too many crates | 12.00% | ~11 |
+| Baby steps | 12.00% | ~11 |
 | Complete Level 3-1 | 12.00% | ~11 |
-| Baby steps | 11.00% | ~10 |
 | Complete Level 3-2 | 10.00% | ~9 |
 | Engineer-warrior hybrid | 10.00% | ~9 |
 | Should have left me alone | 9.00% | ~8 |
