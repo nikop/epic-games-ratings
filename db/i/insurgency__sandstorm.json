@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3571,9 +3571,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 459125,
+  "EOS_Progressed": 459130,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2162,
+  "EOS_NewPlayers": 2161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22496,6 +22496,11 @@
       "Time": "2023-10-05T09:03:31.1495193+00:00",
       "NumProgressed": 459125,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-05T10:03:54.1597232+00:00",
+      "NumProgressed": 459130,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22507,7 +22512,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -22579,7 +22584,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -22587,7 +22592,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_GROUNDED",
@@ -22683,7 +22688,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_REFLEXES",
@@ -22715,7 +22720,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -22747,7 +22752,7 @@
       "Name": "Thanks Station!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACH_THERE_FOR_YOU",
@@ -22786,15 +22791,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 459125,
+      "Progressed": 459130,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-04T13:11:22.723228+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:03:31.1495188+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:03:54.1597227+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:24.0077318+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:03:31.1496265+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:34.9147+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:03:54.1598359+00:00"
 }

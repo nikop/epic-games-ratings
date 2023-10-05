@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3864,9 +3864,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88763,
+  "EOS_Progressed": 88767,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21224,6 +21224,11 @@
       "Time": "2023-10-05T09:03:25.500103+00:00",
       "NumProgressed": 88763,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-05T10:03:48.5986687+00:00",
+      "NumProgressed": 88767,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 41,
@@ -21505,9 +21510,9 @@
       "ID": "ACH_0452",
       "SetID": "3kam13l",
       "Name": "Dragonslayer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_0460",
@@ -21562,13 +21567,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88763,
+      "Progressed": 88767,
       "Completed": 47
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17110,
+      "Progressed": 17114,
       "Completed": 15541
     }
   ],
@@ -21576,8 +21581,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-05T02:17:38.2229924+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:03:25.5001027+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:03:48.5986683+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:58:45.6100769+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:03:25.500208+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:59:03.0460825+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:03:48.5987807+00:00"
 }

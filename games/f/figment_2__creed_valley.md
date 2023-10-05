@@ -13,10 +13,10 @@
 | Fight like an idiot | 18.00% | ~3 |
 | Repair the Mind Validation Machine | 18.00% | ~3 |
 | Flee like an idiot | 18.00% | ~3 |
+| Dance like an idiot | 12.00% | ~2 |
+| I'm Back at the Surface now | 12.00% | ~2 |
 | Elementary, My Dear Dusty | 12.00% | ~2 |
 | Come full circle | 6.00% | ~1 |
-| Dance like an idiot | 6.00% | ~1 |
-| I'm Back at the Surface now | 6.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |
 | Whac-a-worker | 0.00% | ~0 |
 | You're a-MAZE-ing! | 0.00% | ~0 |

@@ -33,8 +33,8 @@
 | Very Elusive | 41.00% | ~229 |
 | Operative | 41.00% | ~229 |
 | Scholar | 41.00% | ~229 |
+| Veteran | 40.00% | ~223 |
 | Missing in Action | 40.00% | ~223 |
-| Veteran | 39.00% | ~218 |
 | Power Full | 39.00% | ~218 |
 | The Professor | 37.00% | ~206 |
 | The Archangel | 36.00% | ~201 |
@@ -99,8 +99,8 @@
 | Fact Finder | 17.00% | ~95 |
 | Last Resort | 16.00% | ~89 |
 | Saboteur | 16.00% | ~89 |
+| Well Connected | 16.00% | ~89 |
 | Throw Mastery | 15.00% | ~84 |
-| Well Connected | 15.00% | ~84 |
 | Master and Commander | 15.00% | ~84 |
 | Mail Slot | 13.00% | ~73 |
 | Executioner | 13.00% | ~73 |

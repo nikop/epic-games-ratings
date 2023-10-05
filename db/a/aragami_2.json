@@ -6,9 +6,9 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43394,
+  "EOS_Progressed": 43395,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -15991,6 +15991,11 @@
       "Time": "2023-10-05T09:04:42.4931082+00:00",
       "NumProgressed": 43394,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-05T10:04:51.5619051+00:00",
+      "NumProgressed": 43395,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16050,7 +16055,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4339
+      "UsersEstimate": 4340
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -16058,7 +16063,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -16122,7 +16127,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34715
+      "UsersEstimate": 34716
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16146,7 +16151,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -16170,7 +16175,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -16242,7 +16247,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27338
+      "UsersEstimate": 27339
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16250,7 +16255,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -16266,7 +16271,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26036
+      "UsersEstimate": 26037
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -16274,7 +16279,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29074
+      "UsersEstimate": 29075
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -16306,7 +16311,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19527
+      "UsersEstimate": 19528
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -16338,7 +16343,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40356
+      "UsersEstimate": 40357
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16353,7 +16358,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43394,
+      "Progressed": 43395,
       "Completed": 238
     }
   ],
@@ -16361,8 +16366,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:04:42.4931077+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:04:51.5619047+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.9212531+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:13.1053364+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:04:42.4932104+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:24.7133543+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:04:51.5620132+00:00"
 }

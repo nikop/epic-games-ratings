@@ -2,10 +2,10 @@
   "ID": "499acd70c5dd4e7d9d6af210338e2ae6",
   "Name": "Mr. Run and Jump",
   "ProductSlug": "mr-run-and-jump-91ed30",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-25T07:00:00+00:00",
     "PcReleaseDate": "2023-07-25T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T10:57:38.1704803+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:57.9508273+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:59:57.1821785+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:03:29.1609679+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:00:16.0468584+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:03:52.1764828+00:00"
 }

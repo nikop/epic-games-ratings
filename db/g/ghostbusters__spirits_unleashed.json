@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2298,9 +2298,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26214,
+  "EOS_Progressed": 26215,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14233,6 +14233,11 @@
       "Time": "2023-10-05T04:06:11.8584063+00:00",
       "NumProgressed": 26214,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-05T10:06:32.2864356+00:00",
+      "NumProgressed": 26215,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14260,7 +14265,7 @@
       "Name": "Back Off",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Best_Insurance",
@@ -14284,7 +14289,7 @@
       "Name": "Clutch Capture",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Collect_Spores",
@@ -14404,7 +14409,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Legions",
@@ -14644,14 +14649,14 @@
       "Name": "Whoopsie",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26214,
+      "Progressed": 26215,
       "Completed": 58
     }
   ],
@@ -14659,8 +14664,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-04T19:58:36.9198367+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:06:22.2841114+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:06:32.2864352+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:58:18.9486273+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:06:22.2842023+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:58:35.9742762+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:06:32.2865313+00:00"
 }

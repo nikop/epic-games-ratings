@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233099,
+  "EOS_Progressed": 233100,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18018,6 +18018,11 @@
       "Time": "2023-10-05T09:09:11.3450511+00:00",
       "NumProgressed": 233099,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-05T10:09:46.5137248+00:00",
+      "NumProgressed": 233100,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18125,7 +18130,7 @@
       "Name": "GTX COMPETIZIONE",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "HARDCORE",
@@ -18141,7 +18146,7 @@
       "Name": "HIDDEN POWER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "IINI",
@@ -18285,7 +18290,7 @@
       "Name": "TUNING MANIAC",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "VANGUARD",
@@ -18300,15 +18305,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233099,
+      "Progressed": 233100,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:09:11.3450508+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:09:46.5137243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:09.0813317+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:35.273911+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:09:11.3451504+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:46.8308635+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:09:46.5138669+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1c2d56b2a9ab46c09f8e6fc6cf939852",
   "Name": "Organs Please",
   "ProductSlug": "organs-please-a5e5e4",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-26T20:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2023-07-25T18:01:12.8923633+00:00",
   "LastChanged_Achievements": "2023-10-05T09:08:15.225935+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:14.0341504+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:58:40.1107341+00:00",
+  "LastUpdate_Ratings": "2023-10-05T09:58:57.6372983+00:00",
   "LastUpdate_Achievements": "2023-10-05T09:08:15.2259374+00:00"
 }

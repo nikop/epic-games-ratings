@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6370,9 +6370,9 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137130,
+  "EOS_Progressed": 137136,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23560,6 +23560,11 @@
       "Time": "2023-10-05T09:04:31.1071155+00:00",
       "NumProgressed": 137130,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-10-05T10:04:40.1377832+00:00",
+      "NumProgressed": 137136,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 112,
@@ -23681,9 +23686,9 @@
       "ID": "blueprint02",
       "SetID": "anfd17p",
       "Name": "Research \u0026 Development",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 1097
     },
     {
       "ID": "blueprint03",
@@ -24009,9 +24014,9 @@
       "ID": "fuseflawless",
       "SetID": "anfd17p",
       "Name": "Flawless Fusion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 1097
     },
     {
       "ID": "fuselegendary",
@@ -24466,15 +24471,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137130,
+      "Progressed": 137136,
       "Completed": 161
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-05T02:16:18.5278154+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:04:31.1071149+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:04:40.1377827+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:23.7372285+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:04:31.1073156+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:34.1783574+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:04:40.1380001+00:00"
 }

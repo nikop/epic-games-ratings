@@ -2,10 +2,10 @@
   "ID": "b3abc1eee7c640188e55143d71399a94",
   "Name": "Forklift Simulator 2023",
   "ProductSlug": "forklift-simulator-2023-b1d538",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-15T12:00:00+00:00",
     "PcReleaseDate": "2023-07-23T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-26T09:57:20.697419+00:00",
   "LastUpdate_AppInfo": "2023-10-04T08:57:21.8332343+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:24.6628842+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:06:15.9069073+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:35.5051682+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:06:25.6583788+00:00"
 }

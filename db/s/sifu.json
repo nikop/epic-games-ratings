@@ -6774,9 +6774,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 715498,
+  "EOS_Progressed": 715500,
   "EOS_Completed": 12909,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -21954,6 +21954,11 @@
       "Time": "2023-10-05T09:03:41.754657+00:00",
       "NumProgressed": 715498,
       "NumCompleted": 12909
+    },
+    {
+      "Time": "2023-10-05T10:04:05.1726585+00:00",
+      "NumProgressed": 715500,
+      "NumCompleted": 12909
     }
   ],
   "TotalAchievements": 60,
@@ -22013,7 +22018,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "08_Wude_H2",
@@ -22021,7 +22026,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "09_Wude_H3",
@@ -22029,7 +22034,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "10_Wude_H4",
@@ -22037,7 +22042,7 @@
       "Name": "Iron Money",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "11_Wude_H5",
@@ -22045,7 +22050,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "12_MidAge",
@@ -22061,7 +22066,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -22077,7 +22082,7 @@
       "Name": "Detective Story",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "16_Detective_H2",
@@ -22085,7 +22090,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "17_Detective_H3",
@@ -22093,7 +22098,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "18_Detective_H4",
@@ -22101,7 +22106,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "19_Detective_H5",
@@ -22109,7 +22114,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -22181,7 +22186,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -22189,7 +22194,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "30_ComboMid",
@@ -22205,7 +22210,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "32_ReachMaxAge",
@@ -22221,7 +22226,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "34_TimedTakedown",
@@ -22261,7 +22266,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -22269,7 +22274,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -22285,7 +22290,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -22293,7 +22298,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -22444,21 +22449,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24799,
+      "Progressed": 24801,
       "Completed": 10685
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715498,
+      "Progressed": 715500,
       "Completed": 12909
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-05T06:57:14.5233846+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:03:41.7546564+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:04:05.1726581+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:13.7399716+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:03:41.7547684+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:25.5535014+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:04:05.1727734+00:00"
 }

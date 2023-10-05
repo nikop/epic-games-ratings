@@ -2,10 +2,10 @@
   "ID": "9109c608db3a4e52a9c7ad51394f0e4d",
   "Name": "Mushrooms: Forest Walker",
   "ProductSlug": "musrooms-forest-walker-e712fd",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.8246973+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:17.0160789+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:08:49.4543718+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:29.0306658+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:09:38.5268305+00:00"
 }

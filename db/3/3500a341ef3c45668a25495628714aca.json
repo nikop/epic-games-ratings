@@ -2,10 +2,10 @@
   "ID": "3500a341ef3c45668a25495628714aca",
   "Name": "Truck Simulator Ultimate 3D",
   "ProductSlug": "truck-simulator-ultimate-3d-fafeaa",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-29T10:00:00+00:00",
     "PcReleaseDate": "2023-01-30T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-03T11:57:08.5251491+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:57:27.610348+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:04:30.2858113+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:57:38.6363313+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:04:39.1947465+00:00"
 }

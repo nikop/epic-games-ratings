@@ -251,6 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frantic Excavation | 0.10% | ~231 |
 | Birds of a Feather | 0.10% | ~197 |
 | Towering Expectations | 0.10% | ~231 |
+| Guests of the Groom | 0.10% | ~231 |
 | Careful Consideration | 0.10% | ~231 |
 | Tanking Expectations | 0.10% | ~197 |
 | Hopelessly Lost | 0.10% | ~231 |
@@ -294,6 +295,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Veteran Brigade | 0.10% | ~231 |
 | Social Grace | 0.10% | ~197 |
 | Evergreens with an Evergreen | 0.10% | ~197 |
+| Meepo's Quest | 0.10% | ~231 |
 | She's Harmless! | 0.10% | ~231 |
 | The Tallest of Kobolds | 0.10% | ~197 |
 | Patience is Key | 0.10% | ~231 |
@@ -447,6 +449,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~197 |
 | REALLY Frozen Vengeance | 0.10% | ~197 |
 | The Battle of High Hall Tower | 0.10% | ~197 |
+| Might Makes Right | 0.10% | ~197 |
 | The Stunning Tower Battle | 0.10% | ~197 |
 | Elturel's Last Stand | 0.10% | ~197 |
 | Gargauth's Betrayal | 0.10% | ~197 |
@@ -455,8 +458,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Hornfirth | 0.10% | ~197 |
 | Leemooggoogoon Rises | 0.10% | ~197 |
 | Stragglers | 0.10% | ~197 |
+| Volo's Guide to Kuo-toa | 0.10% | ~197 |
 | Ending the Rime - Part 1 | 0.10% | ~197 |
 | Ambitious Speakers - Part 1 | 0.10% | ~197 |
+| Shady Sidekicks - Part 1 | 0.10% | ~197 |
 | Ending the Rime - Part 2 | 0.10% | ~197 |
 | Ambitious Speakers - Part 2 | 0.10% | ~197 |
 | Shady Sidekicks - Part 2 | 0.10% | ~197 |
@@ -508,6 +513,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.10% | ~197 |
 | The Hunt for The Last Breath | 0.10% | ~197 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~197 |
+| To Infinity's and Beyond | 0.10% | ~197 |
 | Legends and Lore | 0.10% | ~197 |
 | Unearthed Arcana | 0.10% | ~197 |
 | The End | 0.10% | ~197 |
@@ -518,24 +524,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~197 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
-| Guests of the Groom | 0.00% | ~0 |
-| Meepo's Quest | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
-| Volo's Guide to Kuo-toa | 0.00% | ~0 |
-| Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
-| To Infinity's and Beyond | 0.00% | ~0 |
 | There's a Flying Snake in my Boot! | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,941 (Ranked 56)  
+Progressed: 230,944 (Ranked 56)  
 Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -703,7 +703,7 @@ Completed: 2,331 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,941 | 2,331 |
+| 2023-10-05 | 230,944 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,897 (Ranked 41)  

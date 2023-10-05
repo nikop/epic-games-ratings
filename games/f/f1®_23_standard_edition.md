@@ -10,9 +10,9 @@ Rating: 4.66 (Ranked 281)
 | Setting up for Success | 77.00% | ~2,256 |
 | Team Orders | 75.00% | ~2,198 |
 | Engineer | 55.00% | ~1,612 |
-| Familiar Faces | 48.00% | ~1,406 |
+| Familiar Faces | 49.00% | ~1,436 |
 | Going the Extra Mile | 43.00% | ~1,260 |
-| Sharing the Love | 40.00% | ~1,172 |
+| Sharing the Love | 41.00% | ~1,201 |
 | Hitting a Season | 35.00% | ~1,026 |
 | Challenge Yourself | 33.00% | ~967 |
 | Making History | 31.00% | ~908 |

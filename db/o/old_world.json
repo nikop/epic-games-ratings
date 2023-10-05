@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14762,9 +14762,9 @@
       "ID": "ACHIEVEMENT_PUNIC_WARS",
       "SetID": "9201eeb",
       "Name": "Punic Wars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
@@ -15744,8 +15744,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-01T19:58:30.3517262+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:08:40.6906438+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:09:29.9663942+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:59:46.6969351+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:08:40.6916414+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:00:05.8566473+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:09:29.9674095+00:00"
 }

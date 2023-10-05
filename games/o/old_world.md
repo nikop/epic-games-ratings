@@ -187,6 +187,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
 | Power to the People | 0.10% | ~14 |
+| Punic Wars | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Persian Paganism | 0.10% | ~14 |
@@ -335,7 +336,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.00% | ~0 |
 | Play a 1-v-1 Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
-| Punic Wars | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |

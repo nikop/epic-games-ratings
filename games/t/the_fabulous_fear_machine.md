@@ -7,12 +7,13 @@
 | You have three wishes left | 67.00% | ~4 |
 | Jung's dream | 50.00% | ~3 |
 | Giant | 50.00% | ~3 |
+| The happy farmer girl | 50.00% | ~3 |
 | Master trainee | 33.00% | ~2 |
 | The artist | 33.00% | ~2 |
 | The battle of Great Britain | 33.00% | ~2 |
 | Pulp! Out of this World | 33.00% | ~2 |
 | A continent with chemistry | 33.00% | ~2 |
-| The happy farmer girl | 33.00% | ~2 |
+| Kirlian's best disciple | 33.00% | ~2 |
 | Diagnosis: fear | 33.00% | ~2 |
 | Ambition is... blind | 33.00% | ~2 |
 | You have two wishes left | 33.00% | ~2 |
@@ -22,7 +23,6 @@
 | Pulp! Terror Tales in the Night | 17.00% | ~1 |
 | Pulp! Where Monsters Dwell | 17.00% | ~1 |
 | Pulp! Adventures into the Unknown | 17.00% | ~1 |
-| Kirlian's best disciple | 17.00% | ~1 |
 | The barbarian invasions | 17.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |

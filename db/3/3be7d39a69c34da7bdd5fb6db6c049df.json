@@ -2,10 +2,10 @@
   "ID": "3be7d39a69c34da7bdd5fb6db6c049df",
   "Name": "Age of Zalmoxis - Rise of the Fallen",
   "ProductSlug": "age-of-zalmoxis-rise-of-the-fallen-78e1c2",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-01T15:57:12.5694099+00:00",
-  "LastUpdate_Ratings": "2023-10-05T08:58:41.6990134+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:04:47.8228307+00:00"
+  "LastUpdate_Ratings": "2023-10-05T09:58:59.3238821+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:04:56.6982146+00:00"
 }

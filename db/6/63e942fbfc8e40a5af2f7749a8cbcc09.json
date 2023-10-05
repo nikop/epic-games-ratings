@@ -4,8 +4,8 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -93,9 +93,9 @@
       "ID": "AllO01ObjFound",
       "SetID": "94lmepd",
       "Name": "The World",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AllTrophyGot",
@@ -197,17 +197,17 @@
       "ID": "ClearE02",
       "SetID": "94lmepd",
       "Name": "The Chariot",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearE02END",
       "SetID": "94lmepd",
       "Name": "Death",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearF01",
@@ -269,9 +269,9 @@
       "ID": "ClearL01",
       "SetID": "94lmepd",
       "Name": "The Hermit",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearM01",
@@ -341,9 +341,9 @@
       "ID": "ClearTE06",
       "SetID": "94lmepd",
       "Name": "Eighth Tale",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClearTE07",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-05T09:06:00.7838846+00:00",
+  "LastChanged_Achievements": "2023-10-05T10:06:10.3112492+00:00",
   "LastUpdate_AppInfo": "2023-09-28T11:57:13.0330765+00:00",
-  "LastUpdate_Ratings": "2023-10-05T09:00:01.0714893+00:00",
-  "LastUpdate_Achievements": "2023-10-05T09:06:00.783933+00:00"
+  "LastUpdate_Ratings": "2023-10-05T10:00:19.6126339+00:00",
+  "LastUpdate_Achievements": "2023-10-05T10:06:10.311301+00:00"
 }

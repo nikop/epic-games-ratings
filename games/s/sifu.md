@@ -34,25 +34,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
 | Bloody Sport | 0.20% | ~50 |
-| Muk Yan Master | 0.10% | ~715 |
-| Tiger on Fire | 0.10% | ~715 |
-| Source of Flying Daggers | 0.10% | ~715 |
-| Iron Money | 0.10% | ~715 |
-| Legendary Talismans of Wuxing | 0.10% | ~715 |
-| Prodigal Child | 0.10% | ~715 |
-| Detective Story | 0.10% | ~715 |
-| Drunken Fighter | 0.10% | ~715 |
-| Martial Artist | 0.10% | ~715 |
-| Knowledge Greed | 0.10% | ~715 |
-| Healing Memory | 0.10% | ~715 |
-| The 36th Chamber of Kung-Fu | 0.10% | ~715 |
-| Master of the Phoenix Eye Fist | 0.10% | ~715 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~715 |
-| Sword Stained With Blood | 0.10% | ~715 |
-| The Pit Protector | 0.10% | ~715 |
-| Be like water my friend | 0.10% | ~715 |
-| Warriors from the Mountain | 0.10% | ~715 |
-| Come Snap With Me | 0.10% | ~715 |
+| Muk Yan Master | 0.10% | ~716 |
+| Tiger on Fire | 0.10% | ~716 |
+| Source of Flying Daggers | 0.10% | ~716 |
+| Iron Money | 0.10% | ~716 |
+| Legendary Talismans of Wuxing | 0.10% | ~716 |
+| Prodigal Child | 0.10% | ~716 |
+| Detective Story | 0.10% | ~716 |
+| Drunken Fighter | 0.10% | ~716 |
+| Martial Artist | 0.10% | ~716 |
+| Knowledge Greed | 0.10% | ~716 |
+| Healing Memory | 0.10% | ~716 |
+| The 36th Chamber of Kung-Fu | 0.10% | ~716 |
+| Master of the Phoenix Eye Fist | 0.10% | ~716 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~716 |
+| Sword Stained With Blood | 0.10% | ~716 |
+| The Pit Protector | 0.10% | ~716 |
+| Be like water my friend | 0.10% | ~716 |
+| Warriors from the Mountain | 0.10% | ~716 |
+| Come Snap With Me | 0.10% | ~716 |
 | Deadly Venom | 0.10% | ~25 |
 | Secure, Protect, Leave | 0.10% | ~25 |
 | The best strikes are the ones we avoid | 0.10% | ~25 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,498 (Ranked 20)  
+Progressed: 715,500 (Ranked 20)  
 Completed: 12,909 (1.80%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 12,909 (1.80%) (Ranked 112)
 | 2023-10-02 | 715,452 | 12,906 |
 | 2023-10-03 | 715,479 | 12,908 |
 | 2023-10-04 | 715,493 | 12,908 |
-| 2023-10-05 | 715,498 | 12,909 |
+| 2023-10-05 | 715,500 | 12,909 |
 ## Awards
 Max (Great Boss Battles): 6,635  (Ranked 54)  
 Sum: 11,498 (Ranked 82)  
