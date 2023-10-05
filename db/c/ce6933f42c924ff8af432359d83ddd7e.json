@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 314,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -656,6 +656,11 @@
       "Time": "2023-10-05T04:09:19.3666023+00:00",
       "NumProgressed": 312,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-05T05:09:52.593518+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -676,7 +681,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_DONUTS",
@@ -684,7 +689,7 @@
       "Name": "Sweet tooth",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -692,7 +697,7 @@
       "Name": "An apple a day",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -716,7 +721,7 @@
       "Name": "Good listener",
       "Percentage": 57,
       "XP": 85,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -724,7 +729,7 @@
       "Name": "Food lover",
       "Percentage": 64,
       "XP": 55,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -740,21 +745,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 314,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:09:19.3666018+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:09:52.5935175+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:59:24.6147593+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:09:19.3666154+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:00:54.8191821+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:09:52.5935315+00:00"
 }

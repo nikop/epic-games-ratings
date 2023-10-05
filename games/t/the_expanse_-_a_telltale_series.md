@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 523)  
+Rating: 4.53 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,13 +9,13 @@ Rating: 4.53 (Ranked 523)
 | Drug Gifter | 1.00% | ~136 |
 | Bosmang | 1.00% | ~136 |
 | The Pit and the Pirates | 0.90% | ~122 |
+| Impossible Objects | 0.90% | ~122 |
 | Drone Dodger | 0.80% | ~109 |
 | Call it Even | 0.80% | ~109 |
-| Impossible Objects | 0.80% | ~109 |
+| Data Archivist | 0.70% | ~95 |
 | Heal Thy Medic | 0.70% | ~95 |
 | Captain Drummer | 0.70% | ~95 |
 | Celebrations are in Order | 0.70% | ~95 |
-| Data Archivist | 0.60% | ~81 |
 | Spore Taste | 0.60% | ~81 |
 | Martian Music | 0.60% | ~81 |
 | Stogie for Fogey | 0.50% | ~68 |
@@ -27,12 +27,12 @@ Rating: 4.53 (Ranked 523)
 | Data Logger | 0.20% | ~27 |
 | Brother's Reaper | 0.20% | ~27 |
 | No Belter Left Behind | 0.20% | ~27 |
+| Data Master | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 | Debris Spree | 0.10% | ~14 |
-| Data Master | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)

@@ -64,11 +64,11 @@
 | Driven | 29.00% | ~162 |
 | Treason | 28.00% | ~156 |
 | Digital Exorcist | 28.00% | ~156 |
+| Bringer of War | 28.00% | ~156 |
 | Focused | 27.00% | ~151 |
 | First Aid Specialist | 27.00% | ~151 |
 | Cat's in the Cradle | 27.00% | ~151 |
 | Doppelganger | 27.00% | ~151 |
-| Bringer of War | 27.00% | ~151 |
 | Mobilizer | 26.00% | ~145 |
 | Suicide Mission | 25.00% | ~140 |
 | Friend or Foe | 25.00% | ~140 |

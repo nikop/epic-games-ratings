@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15986,
+  "EOS_Progressed": 15987,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7264,6 +7264,11 @@
       "Time": "2023-10-04T20:09:45.358712+00:00",
       "NumProgressed": 15986,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-05T05:10:29.1608595+00:00",
+      "NumProgressed": 15987,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7635,7 +7640,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -7650,13 +7655,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15986,
+      "Progressed": 15987,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3912,
+      "Progressed": 3913,
       "Completed": 29
     }
   ],
@@ -7664,8 +7669,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-04T16:00:28.4085682+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:09:38.2038276+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:10:29.1608592+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:15.2729521+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:59:35.5925214+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:09:38.2039349+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:01:12.2603695+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:10:29.1609999+00:00"
 }

@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662929,
+  "EOS_Progressed": 662930,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
@@ -16803,6 +16803,11 @@
       "Time": "2023-10-05T04:04:26.8464604+00:00",
       "NumProgressed": 662929,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-05T05:05:38.029275+00:00",
+      "NumProgressed": 662930,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16814,7 +16819,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477309
+      "UsersEstimate": 477310
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17054,7 +17059,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79551
+      "UsersEstimate": 79552
     },
     {
       "ID": "Achievement_32_Karma",
@@ -17197,15 +17202,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662929,
+      "Progressed": 662930,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:04:26.8464596+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:05:38.0292745+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:03:09.7337669+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:04:26.8467097+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:03:15.7075914+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:05:38.0294714+00:00"
 }

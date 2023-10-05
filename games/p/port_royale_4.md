@@ -9,7 +9,7 @@ Number of Ratings: 53  (23.09.2022)
 | Cabin boy | 81.00% | ~766 |
 | My little farm | 64.00% | ~605 |
 | Every beginning is difficult | 63.00% | ~596 |
-| Gofer | 56.00% | ~530 |
+| Gofer | 57.00% | ~539 |
 | 3, 2, 1, mine | 55.00% | ~520 |
 | O Captain! My Captain! | 54.00% | ~511 |
 | Seafarer | 52.00% | ~492 |

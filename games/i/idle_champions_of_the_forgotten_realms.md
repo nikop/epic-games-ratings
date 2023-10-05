@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.10% | ~197 |
 | Thieves of the Coven | 0.10% | ~197 |
 | Sticky Fingers | 0.10% | ~197 |
+| Patron Party | 0.10% | ~197 |
 | Go Fourth | 0.10% | ~197 |
 | Hither of the Feywild | 0.10% | ~197 |
 | Don't Breathe the Marsh Gas | 0.10% | ~197 |
@@ -53,6 +54,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for You! | 0.10% | ~197 |
 | Beast Intentions | 0.10% | ~231 |
 | Wet Feet | 0.10% | ~231 |
+| The Dark Heart | 0.10% | ~197 |
+| Undergeared | 0.10% | ~197 |
 | Underdark Chill | 0.10% | ~197 |
 | The Alien Underdark | 0.10% | ~197 |
 | Thoughts on the Menu | 0.10% | ~197 |
@@ -193,6 +196,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distribute Your Weight | 0.10% | ~231 |
 | Mongrelfolk Incursion | 0.10% | ~197 |
 | Tower on the Lake | 0.10% | ~231 |
+| Only the Strong Survive | 0.10% | ~231 |
+| Shorty's Day Off | 0.10% | ~231 |
 | Intelligence Hunt | 0.10% | ~231 |
 | Seeds of Deceit | 0.10% | ~231 |
 | Visions of Strahd | 0.10% | ~231 |
@@ -215,6 +220,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~231 |
 | The Lost Love | 0.10% | ~231 |
 | A Saurial's Lament | 0.10% | ~231 |
+| A Saurial's Resolve | 0.10% | ~231 |
 | Spirit of the Trickster Gods | 0.10% | ~197 |
 | Flies on the Wall | 0.10% | ~231 |
 | The Killer Mists | 0.10% | ~231 |
@@ -325,9 +331,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.10% | ~231 |
 | An Illithid Undertaking | 0.10% | ~197 |
 | An Illithid Ambush | 0.10% | ~197 |
+| Misty Undermountain | 0.10% | ~197 |
 | Déjà Vu | 0.10% | ~197 |
 | Wait, What? | 0.10% | ~197 |
 | Ireena von Zarovich | 0.10% | ~197 |
+| Déjà Vu All Over Again | 0.10% | ~197 |
 | Into The Fire | 0.10% | ~197 |
 | A Difficult Descent | 0.10% | ~197 |
 | The Devil Arrives | 0.10% | ~197 |
@@ -345,6 +353,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.10% | ~197 |
 | Alterdeep | 0.10% | ~197 |
 | Elder Rune Attack | 0.10% | ~197 |
+| The Gargoyle | 0.10% | ~197 |
 | The Wandering Emporium | 0.10% | ~197 |
 | Madcap Adventures Redux | 0.10% | ~197 |
 | When the Going Gets Tough | 0.10% | ~197 |
@@ -353,6 +362,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fight Dragons with Dragons | 0.10% | ~197 |
 | Questlines | 0.10% | ~197 |
 | Raggadragga's Crew | 0.10% | ~197 |
+| Just The Worst | 0.10% | ~197 |
 | Bel's Forge | 0.10% | ~197 |
 | Extreme Heat | 0.10% | ~197 |
 | Fire and Brimstone | 0.10% | ~197 |
@@ -395,6 +405,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archduke's Blessing | 0.10% | ~197 |
 | A Neutral Party | 0.10% | ~197 |
 | Wrecked Flying Fortress | 0.10% | ~197 |
+| Relentless Peril | 0.10% | ~197 |
 | Rickety Rubble | 0.10% | ~197 |
 | Expert Opinion | 0.10% | ~231 |
 | Dwarven Rumors | 0.10% | ~197 |
@@ -437,8 +448,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 1 | 0.10% | ~197 |
 | Ending the Rime - Part 2 | 0.10% | ~197 |
 | Ambitious Speakers - Part 2 | 0.10% | ~197 |
+| Shady Sidekicks - Part 2 | 0.10% | ~197 |
 | Reghed Glacier Mysteries | 0.10% | ~197 |
 | Mysteries Unlocked | 0.10% | ~197 |
+| Male Pattern Boldness | 0.10% | ~197 |
 | Pure Energy | 0.10% | ~231 |
 | Tekeli-li's Hunt | 0.10% | ~197 |
 | Cackling Horror | 0.10% | ~197 |
@@ -489,18 +502,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~197 |
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
-| Patron Party | 0.00% | ~0 |
-| The Dark Heart | 0.00% | ~0 |
-| Undergeared | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
 | Kas the Destroyer | 0.00% | ~0 |
 | Checkmate | 0.00% | ~0 |
 | We're not in Faerûn Anymore | 0.00% | ~0 |
-| Only the Strong Survive | 0.00% | ~0 |
-| Shorty's Day Off | 0.00% | ~0 |
 | Think Your Way Out Of It | 0.00% | ~0 |
 | Red Wizard 'Escort' | 0.00% | ~0 |
-| A Saurial's Resolve | 0.00% | ~0 |
 | Guests of the Groom | 0.00% | ~0 |
 | Careful Consideration | 0.00% | ~0 |
 | Servants of the Demon Prince | 0.00% | ~0 |
@@ -510,20 +517,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| Misty Undermountain | 0.00% | ~0 |
 | An Owlbear of an Undertaking | 0.00% | ~0 |
-| Déjà Vu All Over Again | 0.00% | ~0 |
 | The Path of Redcaps | 0.00% | ~0 |
-| The Gargoyle | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Just The Worst | 0.00% | ~0 |
-| Relentless Peril | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Male Pattern Boldness | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,923 (Ranked 56)  
-Completed: 2,330 (1.01%) (Ranked 136)  
+Progressed: 230,927 (Ranked 56)  
+Completed: 2,331 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -703,7 +703,7 @@ Completed: 2,330 (1.01%) (Ranked 136)
 | 2023-10-02 | 230,760 | 2,325 |
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
-| 2023-10-05 | 230,923 | 2,330 |
+| 2023-10-05 | 230,927 | 2,331 |
 ## Awards
 Max (Diverse Characters): 5,358  (Ranked 69)  
 Sum: 31,893 (Ranked 41)  

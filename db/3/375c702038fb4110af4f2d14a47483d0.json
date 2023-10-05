@@ -4,7 +4,7 @@
   "ProductSlug": "panic-room-4de5e7",
   "Ranking_EOS_Progress": 650,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-08T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T17:57:17.5587716+00:00",
   "LastUpdate_AppInfo": "2023-10-01T07:57:02.8328785+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:59:34.5680254+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:05:41.0043345+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:01:10.1420325+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:07:22.6036112+00:00"
 }

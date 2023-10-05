@@ -6,49 +6,49 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~111,203 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~84,897 |
-| A Clear Conscience | 69.00% | ~82,505 |
+| A Place to Lay Your Head | 93.00% | ~111,204 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~84,898 |
+| A Clear Conscience | 69.00% | ~82,506 |
 | Unleash Hell | 68.00% | ~81,310 |
 | Unfulfilled Desires | 68.00% | ~81,310 |
-| Funny Guy | 67.00% | ~80,114 |
-| Unshackled | 67.00% | ~80,114 |
-| Long Live the King | 66.00% | ~78,918 |
-| Resurrection | 62.00% | ~74,135 |
-| Wyrdly Reconstructed | 62.00% | ~74,135 |
+| Funny Guy | 67.00% | ~80,115 |
+| Unshackled | 67.00% | ~80,115 |
+| Long Live the King | 66.00% | ~78,919 |
+| Resurrection | 62.00% | ~74,136 |
+| Wyrdly Reconstructed | 62.00% | ~74,136 |
 | Boxcar Kid | 60.00% | ~71,744 |
 | Rush Hour | 60.00% | ~71,744 |
 | To Grandmother's House | 60.00% | ~71,744 |
 | Serenity Now! | 53.00% | ~63,374 |
-| Hope Rekindled | 50.00% | ~59,786 |
+| Hope Rekindled | 50.00% | ~59,787 |
 | Ramble On | 49.00% | ~58,591 |
-| Nope | 48.00% | ~57,395 |
+| Nope | 48.00% | ~57,396 |
 | This Looks Familiar | 38.00% | ~45,438 |
 | Now Stay Dead | 37.00% | ~44,242 |
-| Merry Time | 36.00% | ~43,046 |
-| Harvest Festival | 36.00% | ~43,046 |
-| Hot Air | 36.00% | ~43,046 |
+| Merry Time | 36.00% | ~43,047 |
+| Harvest Festival | 36.00% | ~43,047 |
+| Hot Air | 36.00% | ~43,047 |
 | Creep and Sleep | 33.00% | ~39,459 |
-| Overdue Notice | 32.00% | ~38,263 |
+| Overdue Notice | 32.00% | ~38,264 |
 | Banishment | 31.00% | ~37,068 |
 | Whale | 31.00% | ~37,068 |
 | FNG | 29.00% | ~34,676 |
-| Predator | 25.00% | ~29,893 |
-| Reverse Banditry | 25.00% | ~29,893 |
-| Autodidact | 25.00% | ~29,893 |
+| Predator | 25.00% | ~29,894 |
+| Reverse Banditry | 25.00% | ~29,894 |
+| Autodidact | 25.00% | ~29,894 |
 | Meat and Greet | 23.00% | ~27,502 |
 | Road Trip | 22.00% | ~26,306 |
-| Spelunker | 21.00% | ~25,110 |
-| Eyes Up | 21.00% | ~25,110 |
+| Spelunker | 21.00% | ~25,111 |
+| Eyes Up | 21.00% | ~25,111 |
 | It Rings a Bell | 20.00% | ~23,915 |
 | Escape from the Black Hole | 18.00% | ~21,523 |
-| Dissector | 17.00% | ~20,327 |
-| It Happens | 17.00% | ~20,327 |
+| Dissector | 17.00% | ~20,328 |
+| It Happens | 17.00% | ~20,328 |
 | This Belongs in a Museum | 16.00% | ~19,132 |
 | Handled | 16.00% | ~19,132 |
 | Catch and Decease | 14.00% | ~16,740 |
-| Not Today! | 13.00% | ~15,544 |
-| Deprogramming | 13.00% | ~15,544 |
+| Not Today! | 13.00% | ~15,545 |
+| Deprogramming | 13.00% | ~15,545 |
 | Shrine of Reflection | 12.00% | ~14,349 |
 | When You Want Something Done Right | 11.00% | ~13,153 |
 | Body of Work | 10.00% | ~11,957 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~120 |
 | No Gravestone Left Unturned | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,573 (Ranked 76)  
+Progressed: 119,574 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,14 +230,14 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-02 | 119,410 | 1 |
 | 2023-10-03 | 119,486 | 1 |
 | 2023-10-04 | 119,561 | 1 |
-| 2023-10-05 | 119,573 | 1 |
+| 2023-10-05 | 119,574 | 1 |
 ## Awards
-Max (Character Customization): 7,436  (Ranked 49)  
-Sum: 19,459 (Ranked 57)  
+Max (Character Customization): 7,441  (Ranked 49)  
+Sum: 19,464 (Ranked 57)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,436 |
+| This game has Inclusive Character Customization | 7,441 |
 | This game has Diverse Characters | 1,555 |
 | This game has Challenging Combat | 1,487 |
 | This game is Highly Recommended | 1,426 |
@@ -503,4 +503,4 @@ Diff (max vs sum): -8
 | 2023-10-02 | 4.68 | - | 7,434 | 19,446 |
 | 2023-10-03 | 4.68 | - | 7,436 | 19,454 |
 | 2023-10-04 | 4.68 | - | 7,436 | 19,457 |
-| 2023-10-05 | 4.68 | - | 7,436 | 19,459 |
+| 2023-10-05 | 4.68 | - | 7,441 | 19,464 |

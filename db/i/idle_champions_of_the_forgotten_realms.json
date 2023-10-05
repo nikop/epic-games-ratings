@@ -7102,10 +7102,10 @@
       "Count": 3457
     }
   ],
-  "EOS_Progressed": 230923,
-  "EOS_Completed": 2330,
-  "EOS_NewPlayers": 681,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 230927,
+  "EOS_Completed": 2331,
+  "EOS_NewPlayers": 682,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
@@ -25752,6 +25752,11 @@
       "Time": "2023-10-05T04:06:20.8753374+00:00",
       "NumProgressed": 230923,
       "NumCompleted": 2330
+    },
+    {
+      "Time": "2023-10-05T05:08:18.815064+00:00",
+      "NumProgressed": 230927,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 528,
@@ -25913,9 +25918,9 @@
       "ID": "objective_completed_1062",
       "SetID": "415jc5c",
       "Name": "Patron Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1063",
@@ -26145,17 +26150,17 @@
       "ID": "objective_completed_1100",
       "SetID": "415jc5c",
       "Name": "The Dark Heart",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1101",
       "SetID": "415jc5c",
       "Name": "Undergeared",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_1102",
@@ -27313,17 +27318,17 @@
       "ID": "objective_completed_263",
       "SetID": "cc37lbc",
       "Name": "Only the Strong Survive",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_264",
       "SetID": "cc37lbc",
       "Name": "Shorty\u0027s Day Off",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_265",
@@ -27521,9 +27526,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_386",
@@ -28481,9 +28486,9 @@
       "ID": "objective_completed_622",
       "SetID": "415jc5c",
       "Name": "Misty Undermountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_623",
@@ -28521,9 +28526,9 @@
       "ID": "objective_completed_628",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu All Over Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_630",
@@ -28673,9 +28678,9 @@
       "ID": "objective_completed_657",
       "SetID": "415jc5c",
       "Name": "The Gargoyle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_658",
@@ -28753,9 +28758,9 @@
       "ID": "objective_completed_672",
       "SetID": "415jc5c",
       "Name": "Just The Worst",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_675",
@@ -29097,9 +29102,9 @@
       "ID": "objective_completed_818",
       "SetID": "415jc5c",
       "Name": "Relentless Peril",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_819",
@@ -29473,9 +29478,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_897",
@@ -29497,9 +29502,9 @@
       "ID": "objective_completed_899",
       "SetID": "415jc5c",
       "Name": "Male Pattern Boldness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_completed_9",
@@ -29986,21 +29991,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197197,
+      "Progressed": 197201,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 230923,
-      "Completed": 2330
+      "Progressed": 230927,
+      "Completed": 2331
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-04T19:01:25.1070703+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:06:20.8753368+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:08:18.8150635+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:03:05.8636153+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:06:20.8787855+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:03:10.1385347+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:08:18.8180509+00:00"
 }

@@ -3978,7 +3978,7 @@
       "Count": 511
     }
   ],
-  "EOS_Progressed": 10549,
+  "EOS_Progressed": 10550,
   "EOS_Completed": 249,
   "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 9,
@@ -14948,6 +14948,11 @@
       "Time": "2023-10-05T04:05:59.4821441+00:00",
       "NumProgressed": 10549,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-10-05T05:07:48.506664+00:00",
+      "NumProgressed": 10550,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 15,
@@ -14959,7 +14964,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Banker",
@@ -15007,7 +15012,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "Gardener",
@@ -15031,7 +15036,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7384
+      "UsersEstimate": 7385
     },
     {
       "ID": "Miner",
@@ -15039,7 +15044,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "Photographer",
@@ -15063,7 +15068,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Valleys_Helper",
@@ -15071,14 +15076,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10549,
+      "Progressed": 10550,
       "Completed": 249
     }
   ],
@@ -15086,8 +15091,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-04T22:02:05.6259901+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:05:59.4821434+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:07:48.5066635+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:02:09.4995418+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:05:59.482226+00:00"
+  "LastUpdate_Ratings": "2023-10-05T04:57:37.4790396+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:07:48.5067394+00:00"
 }

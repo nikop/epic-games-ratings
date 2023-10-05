@@ -1932,10 +1932,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8259,
       "NumberOfAwardsMax": 3543
+    },
+    {
+      "Time": "2023-10-05T05:03:03.973396+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8261,
+      "NumberOfAwardsMax": 3543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8259,
+  "NumberOfAwards": 8261,
   "NumberOfAwardsMax": 3543,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1979,7 +1985,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 483
+      "Count": 484
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1991,7 +1997,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 480
+      "Count": 481
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2012,9 +2018,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 10317,
+  "EOS_Progressed": 10319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2680,
+  "EOS_NewPlayers": 2679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4017,6 +4023,11 @@
       "Time": "2023-10-05T04:04:22.0794344+00:00",
       "NumProgressed": 10317,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-05T05:05:31.2832704+00:00",
+      "NumProgressed": 10319,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -4197,7 +4208,7 @@
       "Name": "Precious!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "Achievement_Trophy23",
@@ -4213,7 +4224,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "Achievement_Trophy25",
@@ -4245,7 +4256,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "Achievement_Trophy29",
@@ -4261,7 +4272,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "Achievement_Trophy31",
@@ -4285,7 +4296,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Achievement_Trophy34",
@@ -4341,7 +4352,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Achievement_Trophy41",
@@ -4357,7 +4368,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Achievement_Trophy43",
@@ -4397,7 +4408,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Achievement_Trophy48",
@@ -4516,16 +4527,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 10317,
+      "Progressed": 10319,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-10-05T04:00:40.3922175+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:04:22.0794339+00:00",
+  "LastChanged": "2023-10-05T05:03:03.9733956+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:05:31.2832699+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:44.4258763+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:00:40.3922184+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:04:22.0795056+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:03:03.9733967+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:05:31.2833381+00:00"
 }

@@ -1012,9 +1012,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6478,
+  "EOS_Progressed": 6479,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5247,6 +5247,11 @@
       "Time": "2023-10-05T04:06:01.0628955+00:00",
       "NumProgressed": 6478,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-05T05:07:50.7849997+00:00",
+      "NumProgressed": 6479,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5315,7 +5320,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "a_2",
@@ -5337,9 +5342,9 @@
       "ID": "a_21",
       "SetID": "daiie3o",
       "Name": "The Blue Marl",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 389
     },
     {
       "ID": "a_22",
@@ -5355,15 +5360,15 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 324
     },
     {
       "ID": "a_26",
@@ -5506,7 +5511,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6478,
+      "Progressed": 6479,
       "Completed": 7
     }
   ],
@@ -5514,8 +5519,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:06:01.0628949+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:07:50.7849992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.5640173+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:00:10.9139193+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:06:01.0629481+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:02:01.621751+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:07:50.7850502+00:00"
 }

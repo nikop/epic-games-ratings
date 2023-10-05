@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2018,9 +2018,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_81",
@@ -2198,8 +2198,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:04:47.6955433+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:06:07.6157983+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:59:31.4653593+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:04:47.6957986+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:01:05.7616335+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:06:07.6160012+00:00"
 }

@@ -5726,9 +5726,9 @@
       "Count": 893
     }
   ],
-  "EOS_Progressed": 808992,
+  "EOS_Progressed": 809009,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 5634,
+  "EOS_NewPlayers": 5636,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21221,6 +21221,11 @@
       "Time": "2023-10-05T04:09:28.9228965+00:00",
       "NumProgressed": 808992,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2023-10-05T05:10:16.1812934+00:00",
+      "NumProgressed": 809009,
+      "NumCompleted": 175
     }
   ],
   "TotalAchievements": 75,
@@ -21232,7 +21237,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186068
+      "UsersEstimate": 186072
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -21528,7 +21533,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48540
+      "UsersEstimate": 48541
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -21704,7 +21709,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 48540
+      "UsersEstimate": 48541
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -21831,13 +21836,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 808992,
+      "Progressed": 809009,
       "Completed": 210
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 808992,
+      "Progressed": 809009,
       "Completed": 175
     }
   ],
@@ -21845,8 +21850,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-05T02:59:31.4001262+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:09:28.9228959+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:10:16.1812928+00:00",
   "LastUpdate_AppInfo": "2023-09-29T03:56:58.0679026+00:00",
-  "LastUpdate_Ratings": "2023-10-05T03:59:58.0717814+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:09:28.923079+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:01:44.3188381+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:10:16.1814637+00:00"
 }

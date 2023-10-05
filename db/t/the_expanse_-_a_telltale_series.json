@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 134,
@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 13567,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7731,9 +7731,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "13",
@@ -7907,9 +7907,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "6",
@@ -7939,9 +7939,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
@@ -7956,8 +7956,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-05T04:05:51.9732088+00:00",
+  "LastChanged_Achievements": "2023-10-05T05:07:38.1198063+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-05T04:00:18.4848313+00:00",
-  "LastUpdate_Achievements": "2023-10-05T04:05:51.9732769+00:00"
+  "LastUpdate_Ratings": "2023-10-05T05:02:10.1667019+00:00",
+  "LastUpdate_Achievements": "2023-10-05T05:07:38.1199458+00:00"
 }

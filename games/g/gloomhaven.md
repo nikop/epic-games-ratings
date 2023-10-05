@@ -6,26 +6,26 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,436 |
+| I'm not dead yet | 43.00% | ~4,437 |
 | A normal day in Gloomhaven | 34.00% | ~3,508 |
 | Overkill | 33.00% | ~3,405 |
-| Vaccine Incoming | 32.00% | ~3,301 |
-| Spread the plague | 30.00% | ~3,095 |
+| Vaccine Incoming | 32.00% | ~3,302 |
+| Spread the plague | 30.00% | ~3,096 |
 | Get over here! | 23.00% | ~2,373 |
 | Just when I thought I was out... | 18.00% | ~1,857 |
 | Mine... All Mine... | 17.00% | ~1,754 |
 | Light of my life | 15.00% | ~1,548 |
 | Anatomy Lesson | 15.00% | ~1,548 |
-| Precious! | 14.00% | ~1,444 |
+| Precious! | 14.00% | ~1,445 |
 | You activated my trap card! | 13.00% | ~1,341 |
 | Augmented rat | 13.00% | ~1,341 |
 | Grizzled veteran | 12.00% | ~1,238 |
 | Obstacle race | 12.00% | ~1,238 |
 | Doom and gloom | 12.00% | ~1,238 |
-| Pack leader | 8.00% | ~825 |
-| Pain is your friend | 8.00% | ~825 |
-| Black death | 8.00% | ~825 |
-| Play it again, Sam | 8.00% | ~825 |
+| Pack leader | 8.00% | ~826 |
+| Pain is your friend | 8.00% | ~826 |
+| Black death | 8.00% | ~826 |
+| Play it again, Sam | 8.00% | ~826 |
 | Dungeon Veteran | 7.00% | ~722 |
 | Who's the Boss? | 7.00% | ~722 |
 | Quad damage | 6.00% | ~619 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~10 |
 | Murder Death Kill | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,317 (Ranked 142)  
+Progressed: 10,319 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,10 +90,10 @@ Completed: 1 (0.01%) (Ranked 289)
 | 2023-10-02 | 9,653 | 1 |
 | 2023-10-03 | 9,970 | 1 |
 | 2023-10-04 | 10,247 | 1 |
-| 2023-10-05 | 10,317 | 1 |
+| 2023-10-05 | 10,319 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
-Sum: 8,259 (Ranked 98)  
+Sum: 8,261 (Ranked 98)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -103,9 +103,9 @@ Diff (max vs sum): -9
 | This game is Highly Recommended | 541 |
 | This game is Extremely Fun | 532 |
 | This game has Amazing Characters | 485 |
-| This game is Relaxing | 483 |
+| This game is Relaxing | 484 |
 | This game has Quickly Understood Controls | 481 |
-| This game has Amazing Storytelling | 480 |
+| This game has Amazing Storytelling | 481 |
 | This game has Unique Visuals | 376 |
 | This game has a Creative Community | 210 |
 | This game has Obsessive Gameplay | 152 |
@@ -293,4 +293,4 @@ Diff (max vs sum): -9
 | 2023-10-02 | 4.47 | - | 3,543 | 8,255 |
 | 2023-10-03 | 4.47 | - | 3,543 | 8,257 |
 | 2023-10-04 | 4.47 | - | 3,543 | 8,258 |
-| 2023-10-05 | 4.47 | - | 3,543 | 8,259 |
+| 2023-10-05 | 4.47 | - | 3,543 | 8,261 |
