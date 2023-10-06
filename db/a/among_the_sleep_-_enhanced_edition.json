@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -467,9 +467,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87837,
+  "EOS_Progressed": 87841,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -19097,6 +19097,11 @@
       "Time": "2023-10-06T06:05:55.6895985+00:00",
       "NumProgressed": 87837,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-10-06T07:06:35.5355076+00:00",
+      "NumProgressed": 87841,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 10,
@@ -19172,7 +19177,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30743
+      "UsersEstimate": 30744
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -19180,22 +19185,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9662
+      "UsersEstimate": 9663
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 87837,
+      "Progressed": 87841,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-09-29T00:00:07.252338+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:05:55.6895978+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:06:35.5355072+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:48.6321829+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:59:23.6197937+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:05:55.6897508+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:59:53.7597898+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:06:35.5355997+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 4.07,
+  "EOS_Completed_Percentage": 4.06,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -751,6 +751,11 @@
       "Time": "2023-10-06T06:08:17.4029438+00:00",
       "NumProgressed": 344,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-06T07:09:18.1565211+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -761,9 +766,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 140,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_CUBES",
@@ -771,7 +776,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_DONUTS",
@@ -779,7 +784,7 @@
       "Name": "Sweet tooth",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -801,17 +806,17 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 85,
-      "UsersEstimate": 162
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 206
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -842,14 +847,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:08:17.4029432+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:09:18.1565207+00:00",
   "LastUpdate_AppInfo": "2023-09-29T13:01:08.3622363+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:00:00.6839487+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:08:17.4029592+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:00:40.1264601+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:09:18.1565313+00:00"
 }

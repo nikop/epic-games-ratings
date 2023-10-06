@@ -2133,7 +2133,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43568,
+  "EOS_Progressed": 43569,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -7353,6 +7353,11 @@
       "Time": "2023-10-06T05:05:59.7872998+00:00",
       "NumProgressed": 43568,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-06T07:06:53.5602483+00:00",
+      "NumProgressed": 43569,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -7364,7 +7369,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26576
+      "UsersEstimate": 26577
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -7388,7 +7393,7 @@
       "Name": "Plane sailing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
@@ -7556,7 +7561,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27012
+      "UsersEstimate": 27013
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -7612,7 +7617,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21348
+      "UsersEstimate": 21349
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -7620,7 +7625,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -7652,7 +7657,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16120
+      "UsersEstimate": 16121
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -7684,7 +7689,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -7692,7 +7697,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30062
+      "UsersEstimate": 30063
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -7708,7 +7713,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13070
+      "UsersEstimate": 13071
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -7740,7 +7745,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -7748,7 +7753,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11764
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -7764,7 +7769,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28755
+      "UsersEstimate": 28756
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -7772,7 +7777,7 @@
       "Name": "I can do anything I want. I got guns",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "SE_MASTER_A_WEAPON",
@@ -7796,7 +7801,7 @@
       "Name": "Send me an angel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "SE_PERFORM_X_TAKEDOWNS",
@@ -7820,7 +7825,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28319
+      "UsersEstimate": 28320
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7828,7 +7833,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10456
+      "UsersEstimate": 10457
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -7884,22 +7889,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43568,
+      "Progressed": 43569,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-04T14:59:08.0598295+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:06:10.3211986+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:06:53.5602479+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:14.6672036+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:59:44.8162018+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:06:10.3212939+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:00:18.9057579+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:06:53.5603209+00:00"
 }

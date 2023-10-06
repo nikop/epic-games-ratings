@@ -3990,9 +3990,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 10574,
+  "EOS_Progressed": 10575,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
@@ -15040,6 +15040,11 @@
       "Time": "2023-10-06T05:06:14.207823+00:00",
       "NumProgressed": 10574,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-10-06T07:07:10.9375635+00:00",
+      "NumProgressed": 10575,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 15,
@@ -15075,7 +15080,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "Chit_Chatter",
@@ -15139,7 +15144,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "Renovator",
@@ -15170,7 +15175,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10574,
+      "Progressed": 10575,
       "Completed": 249
     }
   ],
@@ -15178,8 +15183,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-05T22:57:11.5865434+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:06:24.6324673+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:07:10.9375631+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:57:45.2499884+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:06:24.632566+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:57:55.2670791+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:07:10.9376331+00:00"
 }

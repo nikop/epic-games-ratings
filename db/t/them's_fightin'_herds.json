@@ -256,9 +256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230636,
+  "EOS_Progressed": 230638,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17761,6 +17761,11 @@
       "Time": "2023-10-06T05:04:44.5172231+00:00",
       "NumProgressed": 230636,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T07:05:21.9514557+00:00",
+      "NumProgressed": 230638,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17836,7 +17841,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83029
+      "UsersEstimate": 83030
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -17916,7 +17921,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78416
+      "UsersEstimate": 78417
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -17972,7 +17977,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9225
+      "UsersEstimate": 9226
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -17995,7 +18000,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230636,
+      "Progressed": 230638,
       "Completed": 5
     }
   ],
@@ -18003,8 +18008,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:04:54.5674+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:05:21.9514553+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:59:45.6739104+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:04:54.5675348+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:00:20.0169142+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:05:21.9515507+00:00"
 }

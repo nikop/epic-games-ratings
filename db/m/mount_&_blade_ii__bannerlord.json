@@ -7725,9 +7725,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62773,
+  "EOS_Progressed": 62774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25660,6 +25660,11 @@
       "Time": "2023-10-06T06:04:38.1521759+00:00",
       "NumProgressed": 62773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T07:05:01.9218464+00:00",
+      "NumProgressed": 62774,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25799,7 +25804,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8160
+      "UsersEstimate": 8161
     },
     {
       "ID": "Great Granny",
@@ -25863,7 +25868,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "Kingslayer",
@@ -25903,7 +25908,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24481
+      "UsersEstimate": 24482
     },
     {
       "ID": "Lawmaker",
@@ -26078,15 +26083,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62773,
+      "Progressed": 62774,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-05T23:57:03.5773353+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:04:38.1521751+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:05:01.921846+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:57:26.9821603+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:04:38.1524545+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:57:31.4320861+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:05:01.9219653+00:00"
 }

@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
+| Learn to Play 4 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
 | Persian Paganism | 0.20% | ~29 |
@@ -176,7 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
-| Learn to Play 4 | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
 | Macedonian Wars | 0.10% | ~14 |
 | Medo-Babylonian Conquest | 0.10% | ~14 |

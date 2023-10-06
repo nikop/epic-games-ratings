@@ -4014,9 +4014,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 4278,
+  "EOS_Progressed": 4279,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5759,6 +5759,11 @@
       "Time": "2023-10-06T06:05:17.6270689+00:00",
       "NumProgressed": 4278,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-06T07:05:50.0659794+00:00",
+      "NumProgressed": 4279,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -5771,7 +5776,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 4235
+      "UsersEstimate": 4236
     },
     {
       "ID": "achievement_a10",
@@ -5787,7 +5792,7 @@
       "Name": "At the Precipice",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "achievement_a12",
@@ -5859,7 +5864,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "achievement_a20",
@@ -5891,7 +5896,7 @@
       "Name": "Mirror Match",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "achievement_a24",
@@ -5915,7 +5920,7 @@
       "Name": "Riposte",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "achievement_a27",
@@ -5947,7 +5952,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "achievement_a30",
@@ -5963,7 +5968,7 @@
       "Name": "Cleaning Up",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "achievement_a32",
@@ -5979,7 +5984,7 @@
       "Name": "Skywalker",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_a34",
@@ -6003,7 +6008,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "achievement_a37",
@@ -6035,7 +6040,7 @@
       "Name": "The Past Made Present",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "achievement_a40",
@@ -6043,7 +6048,7 @@
       "Name": "Greezy Money",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "achievement_a41",
@@ -6065,9 +6070,9 @@
       "ID": "achievement_a43",
       "SetID": "3m4b0pk",
       "Name": "Hey, Luke At Us",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2054
     },
     {
       "ID": "achievement_a44",
@@ -6099,7 +6104,7 @@
       "Name": "Growth Spurt",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_a48",
@@ -6123,7 +6128,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "achievement_a50",
@@ -6163,7 +6168,7 @@
       "Name": "Among the Masters",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_a7",
@@ -6187,14 +6192,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 4278,
+      "Progressed": 4279,
       "Completed": 18
     }
   ],
@@ -6202,8 +6207,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-06T02:57:57.7792414+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:05:17.6270683+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:05:50.0659791+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.16408+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:57:56.0430888+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:05:17.6271381+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:58:08.5038188+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:05:50.0660374+00:00"
 }

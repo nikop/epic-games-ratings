@@ -1,26 +1,26 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.28 (Ranked 824)  
+Rating: 4.28 (Ranked 825)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~147,729 |
-| Doubled Pawn | 56.00% | ~118,183 |
-| Check | 55.00% | ~116,073 |
-| Absolute pin | 47.00% | ~99,189 |
-| Promotion | 31.00% | ~65,423 |
-| Checkmate | 30.00% | ~63,312 |
-| O-O | 24.00% | ~50,650 |
-| Spanish Bishop | 21.00% | ~44,319 |
-| Queen Sacrifice | 20.00% | ~42,208 |
-| Stalemate | 18.00% | ~37,987 |
-| O-O-O | 13.00% | ~27,435 |
-| Octopus | 13.00% | ~27,435 |
-| Stranger Danger | 12.00% | ~25,325 |
+| Chop Wood | 70.00% | ~147,734 |
+| Doubled Pawn | 56.00% | ~118,187 |
+| Check | 55.00% | ~116,076 |
+| Absolute pin | 47.00% | ~99,193 |
+| Promotion | 31.00% | ~65,425 |
+| Checkmate | 30.00% | ~63,314 |
+| O-O | 24.00% | ~50,652 |
+| Spanish Bishop | 21.00% | ~44,320 |
+| Queen Sacrifice | 20.00% | ~42,210 |
+| Stalemate | 18.00% | ~37,989 |
+| O-O-O | 13.00% | ~27,436 |
+| Octopus | 13.00% | ~27,436 |
+| Stranger Danger | 12.00% | ~25,326 |
 | En Passant | 9.00% | ~18,994 |
 | Double Check | 7.00% | ~14,773 |
-| Piece Collector | 6.00% | ~12,662 |
+| Piece Collector | 6.00% | ~12,663 |
 | ELO | 5.00% | ~10,552 |
 | Family Fork | 5.00% | ~10,552 |
 | Friendly Fire | 5.00% | ~10,552 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 824)
 | Tournament Master | 0.10% | ~211 |
 | Tournament Pro | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,041 (Ranked 62)  
+Progressed: 211,048 (Ranked 62)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-03 | 210,696 | 2 |
 | 2023-10-04 | 210,843 | 2 |
 | 2023-10-05 | 211,013 | 2 |
-| 2023-10-06 | 211,041 | 2 |
+| 2023-10-06 | 211,048 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

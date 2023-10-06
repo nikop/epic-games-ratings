@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,741 |
-| Break A Leg | 3.00% | ~20,741 |
-| Coup de Grâce | 3.00% | ~20,741 |
-| Hazardous Materials | 3.00% | ~20,741 |
-| Hotel California | 3.00% | ~20,741 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,741 |
-| Welcome To Hell-A | 3.00% | ~20,741 |
+| Git Gutte! | 3.00% | ~20,742 |
+| Break A Leg | 3.00% | ~20,742 |
+| Coup de Grâce | 3.00% | ~20,742 |
+| Hazardous Materials | 3.00% | ~20,742 |
+| Hotel California | 3.00% | ~20,742 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,742 |
+| Welcome To Hell-A | 3.00% | ~20,742 |
 | Dr. Reed, I Presume? | 2.00% | ~13,828 |
 | Anger Management | 2.00% | ~13,828 |
 | Perks of the Job | 2.00% | ~13,828 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 507)
 | Humanity Distilled | 1.00% | ~6,914 |
 | Down with the Sickness | 1.00% | ~6,914 |
 | Max Headroom | 1.00% | ~6,914 |
-| Jumbo Keyring | 0.90% | ~6,222 |
-| Go, Bobcats! | 0.90% | ~6,222 |
-| Rising Star | 0.90% | ~6,222 |
+| Jumbo Keyring | 0.90% | ~6,223 |
+| Go, Bobcats! | 0.90% | ~6,223 |
+| Rising Star | 0.90% | ~6,223 |
 | Smorgasbord | 0.80% | ~5,531 |
 | Internet Famous | 0.70% | ~4,840 |
 | On Safari | 0.60% | ~4,148 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,378 (Ranked 22)  
+Progressed: 691,391 (Ranked 22)  
 Completed: 2,192 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 2,192 (0.32%) (Ranked 194)
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
 | 2023-10-05 | 691,288 | 2,192 |
-| 2023-10-06 | 691,378 | 2,192 |
+| 2023-10-06 | 691,391 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 58)  
 Sum: 9,442 (Ranked 91)  

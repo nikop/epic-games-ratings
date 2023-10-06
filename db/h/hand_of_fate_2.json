@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662956,
+  "EOS_Progressed": 662958,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16908,6 +16908,11 @@
       "Time": "2023-10-06T06:04:52.8616784+00:00",
       "NumProgressed": 662956,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-06T07:05:20.0272367+00:00",
+      "NumProgressed": 662958,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16919,7 +16924,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477328
+      "UsersEstimate": 477330
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16927,7 +16932,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384514
+      "UsersEstimate": 384516
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16959,7 +16964,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53036
+      "UsersEstimate": 53037
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -17087,7 +17092,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53036
+      "UsersEstimate": 53037
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -17143,7 +17148,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53036
+      "UsersEstimate": 53037
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -17183,7 +17188,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165739
+      "UsersEstimate": 165740
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17215,7 +17220,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53036
+      "UsersEstimate": 53037
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -17302,15 +17307,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662956,
+      "Progressed": 662958,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:04:52.8616777+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:05:20.0272364+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:57:22.8804516+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:04:52.8618223+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:57:24.9754289+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:05:20.027342+00:00"
 }

@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2952,
+  "EOS_Progressed": 2954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2199,6 +2199,11 @@
       "Time": "2023-10-06T02:20:13.4312551+00:00",
       "NumProgressed": 2952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T07:03:49.6443733+00:00",
+      "NumProgressed": 2954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2211,7 +2216,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_0002",
@@ -2251,7 +2256,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2275
     },
     {
       "ID": "achievement_0007",
@@ -2259,7 +2264,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2777
     },
     {
       "ID": "achievement_0008",
@@ -2267,7 +2272,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2600
     },
     {
       "ID": "achievement_0009",
@@ -2331,7 +2336,7 @@
       "Name": "Hitting a Season",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_0017",
@@ -2371,7 +2376,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2216
     },
     {
       "ID": "achievement_0022",
@@ -2387,7 +2392,7 @@
       "Name": "Sharing the Love",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "achievement_0024",
@@ -2467,7 +2472,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "achievement_0034",
@@ -2475,7 +2480,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "achievement_0035",
@@ -2547,7 +2552,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_0044",
@@ -2555,7 +2560,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "achievement_0045",
@@ -2595,14 +2600,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2952,
+      "Progressed": 2954,
       "Completed": 0
     }
   ],
@@ -2610,8 +2615,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:03:26.3272177+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:03:49.6443729+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:00:36.2831822+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:03:26.3272749+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:01:23.7189811+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:03:49.6444136+00:00"
 }

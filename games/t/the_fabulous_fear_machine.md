@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You have three wishes left | 71.00% | ~5 |
+| Jung's dream | 57.00% | ~4 |
+| Giant | 57.00% | ~4 |
 | Master trainee | 43.00% | ~3 |
-| Jung's dream | 43.00% | ~3 |
-| Giant | 43.00% | ~3 |
+| The battle of Great Britain | 43.00% | ~3 |
 | The happy farmer girl | 43.00% | ~3 |
 | The artist | 29.00% | ~2 |
-| The battle of Great Britain | 29.00% | ~2 |
 | Pulp! Out of this World | 29.00% | ~2 |
 | A continent with chemistry | 29.00% | ~2 |
 | Kirlian's best disciple | 29.00% | ~2 |

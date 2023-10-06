@@ -1731,9 +1731,9 @@
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Poor Now!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 768
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1820,8 +1820,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:07:20.5473165+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:08:28.9917525+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:25.506669+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:00:54.8976169+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:07:20.547345+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:01:45.1140615+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:08:28.9917748+00:00"
 }

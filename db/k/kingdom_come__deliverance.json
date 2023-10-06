@@ -7692,9 +7692,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 803779,
+  "EOS_Progressed": 803781,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26517,6 +26517,11 @@
       "Time": "2023-10-06T06:04:41.0213057+00:00",
       "NumProgressed": 803779,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T07:05:05.4895845+00:00",
+      "NumProgressed": 803781,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26608,7 +26613,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257209
+      "UsersEstimate": 257210
     },
     {
       "ID": "Bookworm",
@@ -26624,7 +26629,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96453
+      "UsersEstimate": 96454
     },
     {
       "ID": "Casanova",
@@ -26728,7 +26733,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184869
+      "UsersEstimate": 184870
     },
     {
       "ID": "Fighter",
@@ -26848,7 +26853,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104491
+      "UsersEstimate": 104492
     },
     {
       "ID": "Judas",
@@ -27104,7 +27109,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96453
+      "UsersEstimate": 96454
     },
     {
       "ID": "TisButAScratch",
@@ -27183,15 +27188,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 803779,
+      "Progressed": 803781,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-06T01:40:36.4718788+00:00",
-  "LastChanged_Achievements": "2023-10-06T06:04:41.021305+00:00",
+  "LastChanged_Achievements": "2023-10-06T07:05:05.4895841+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:20.9607732+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:58:13.3848216+00:00",
-  "LastUpdate_Achievements": "2023-10-06T06:04:41.0215958+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:58:29.8414141+00:00",
+  "LastUpdate_Achievements": "2023-10-06T07:05:05.489748+00:00"
 }
