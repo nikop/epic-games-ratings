@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.92% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.88% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -104,7 +104,7 @@
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
-| 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
+| 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 106 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.96% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.94% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -144,7 +144,7 @@
 | 142 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 143 | [Hades](games/h/hades.md) | 0.91% |
 | 144 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
+| 145 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 146 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 147 | [Eternights](games/e/eternights.md) | 0.77% |
 | 148 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
