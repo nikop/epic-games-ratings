@@ -6,8 +6,10 @@ Rating: 4.63 (Ranked 335)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.30% | ~72 |
+| Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | Sweezy Like Sunday Morning | 0.30% | ~72 |
 | First Bounty Down | 0.30% | ~72 |
+| G3 Graduation | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
 | Who's The Boss? | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
@@ -15,12 +17,10 @@ Rating: 4.63 (Ranked 335)
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Creature Feature | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
-| Bring A Knife to a Gun Fight | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
 | RIP Davey Glutes | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | We're All Very Impressed, Trust Me | 0.20% | ~48 |
-| G3 Graduation | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |
 | Hardest Battle In The Game | 0.20% | ~48 |
 | Self-Actualization | 0.20% | ~48 |

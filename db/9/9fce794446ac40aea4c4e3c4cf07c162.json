@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "MEM_I",
       "SetID": "35d3i7a",
       "Name": "You are so beautiful! I love you.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_II",
@@ -284,17 +284,17 @@
       "ID": "MEM_VIII",
       "SetID": "35d3i7a",
       "Name": "Bad dog.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_X",
       "SetID": "35d3i7a",
       "Name": "You are BEAUTIFUL, she said.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XI",
@@ -468,9 +468,9 @@
       "ID": "PROJ_III",
       "SetID": "35d3i7a",
       "Name": "Safeguard.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROJ_IV",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T15:06:45.33393+00:00",
+  "LastChanged_Achievements": "2023-10-06T16:05:54.6829815+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:00:18.9422739+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:06:45.3339681+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:59:34.5965407+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:05:54.6830306+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -1171,6 +1171,11 @@
       "Time": "2023-10-06T14:07:15.4026105+00:00",
       "NumProgressed": 458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T16:05:32.8192976+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1253,9 +1258,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_19",
@@ -1351,7 +1356,7 @@
       "Name": "On the ball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_3",
@@ -1373,9 +1378,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_32",
@@ -1389,9 +1394,9 @@
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_34",
@@ -1407,7 +1412,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_36",
@@ -1421,9 +1426,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_38",
@@ -1445,9 +1450,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_40",
@@ -1455,7 +1460,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_41",
@@ -1471,7 +1476,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_43",
@@ -1485,9 +1490,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_45",
@@ -1503,7 +1508,7 @@
       "Name": "Patience you must have",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_47",
@@ -1535,7 +1540,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_50",
@@ -1661,9 +1666,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_8",
@@ -1671,7 +1676,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_9",
@@ -1686,13 +1691,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 1
     }
   ],
@@ -1700,8 +1705,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-06T15:06:18.5389503+00:00",
+  "LastChanged_Achievements": "2023-10-06T16:05:32.8192968+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:03:03.4927873+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:06:18.5390082+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:02:31.8043732+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:05:32.8193731+00:00"
 }

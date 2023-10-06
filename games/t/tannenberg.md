@@ -6,51 +6,51 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~118,369 |
-| Comeback | 82.00% | ~109,059 |
-| Information is Key | 80.00% | ~106,399 |
-| Unlucky | 71.00% | ~94,429 |
-| Anarchist | 68.00% | ~90,439 |
-| Wallhack | 65.00% | ~86,449 |
-| Steady Supply | 60.00% | ~79,799 |
-| Lucky Shot | 53.00% | ~70,489 |
-| Forward Observer | 52.00% | ~69,159 |
-| Ring Ring! | 52.00% | ~69,159 |
-| Bossing Around | 45.00% | ~59,850 |
-| Frostbite | 45.00% | ~59,850 |
-| Night Owl | 44.00% | ~58,520 |
-| Strength in Numbers | 44.00% | ~58,520 |
-| Fog of War | 41.00% | ~54,530 |
-| Anyone Else? | 39.00% | ~51,870 |
-| Rasputin | 39.00% | ~51,870 |
-| Stronghold Denied | 39.00% | ~51,870 |
-| Hydra | 36.00% | ~47,880 |
-| This Belongs to Us Now | 36.00% | ~47,880 |
-| Stronghold | 35.00% | ~46,550 |
-| Leeroy | 33.00% | ~43,890 |
-| Lost Batallion | 33.00% | ~43,890 |
-| This is MY Machine Gun! | 32.00% | ~42,560 |
-| Together As One | 31.00% | ~41,230 |
-| Gavrilo Princip | 27.00% | ~35,910 |
-| Lead Harvest | 25.00% | ~33,250 |
-| Skynet Confirmed | 23.00% | ~30,590 |
-| Kesselschlacht | 22.00% | ~29,260 |
-| Democracy Works! | 21.00% | ~27,930 |
-| Switch, Please! | 19.00% | ~25,270 |
-| I've Seen It All | 18.00% | ~23,940 |
-| Tourist | 18.00% | ~23,940 |
-| At Least This Way I Can Win... | 17.00% | ~22,610 |
-| Oops! | 17.00% | ~22,610 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~21,280 |
-| Butcher | 12.00% | ~15,960 |
-| Before the Leaves Fall | 10.00% | ~13,300 |
-| Close Call | 10.00% | ~13,300 |
-| Pinpoint | 10.00% | ~13,300 |
-| Tannenberg | 9.00% | ~11,970 |
-| For the Emperor | 8.00% | ~10,640 |
-| Hawk Eye | 8.00% | ~10,640 |
-| Equality For All | 7.00% | ~9,310 |
-| Hötzendorf | 7.00% | ~9,310 |
+| Immovable Object | 89.00% | ~118,378 |
+| Comeback | 82.00% | ~109,067 |
+| Information is Key | 80.00% | ~106,407 |
+| Unlucky | 71.00% | ~94,436 |
+| Anarchist | 68.00% | ~90,446 |
+| Wallhack | 65.00% | ~86,456 |
+| Steady Supply | 60.00% | ~79,805 |
+| Lucky Shot | 53.00% | ~70,495 |
+| Forward Observer | 52.00% | ~69,165 |
+| Ring Ring! | 52.00% | ~69,165 |
+| Bossing Around | 45.00% | ~59,854 |
+| Frostbite | 45.00% | ~59,854 |
+| Night Owl | 44.00% | ~58,524 |
+| Strength in Numbers | 44.00% | ~58,524 |
+| Fog of War | 41.00% | ~54,534 |
+| Anyone Else? | 39.00% | ~51,874 |
+| Rasputin | 39.00% | ~51,874 |
+| Stronghold Denied | 39.00% | ~51,874 |
+| Hydra | 36.00% | ~47,883 |
+| This Belongs to Us Now | 36.00% | ~47,883 |
+| Stronghold | 35.00% | ~46,553 |
+| Leeroy | 33.00% | ~43,893 |
+| Lost Batallion | 33.00% | ~43,893 |
+| This is MY Machine Gun! | 32.00% | ~42,563 |
+| Together As One | 31.00% | ~41,233 |
+| Gavrilo Princip | 27.00% | ~35,912 |
+| Lead Harvest | 25.00% | ~33,252 |
+| Skynet Confirmed | 23.00% | ~30,592 |
+| Kesselschlacht | 22.00% | ~29,262 |
+| Democracy Works! | 21.00% | ~27,932 |
+| Switch, Please! | 19.00% | ~25,272 |
+| I've Seen It All | 18.00% | ~23,942 |
+| Tourist | 18.00% | ~23,942 |
+| At Least This Way I Can Win... | 17.00% | ~22,612 |
+| Oops! | 17.00% | ~22,612 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~21,281 |
+| Butcher | 12.00% | ~15,961 |
+| Before the Leaves Fall | 10.00% | ~13,301 |
+| Close Call | 10.00% | ~13,301 |
+| Pinpoint | 10.00% | ~13,301 |
+| Tannenberg | 9.00% | ~11,971 |
+| For the Emperor | 8.00% | ~10,641 |
+| Hawk Eye | 8.00% | ~10,641 |
+| Equality For All | 7.00% | ~9,311 |
+| Hötzendorf | 7.00% | ~9,311 |
 | Crack Shot | 5.00% | ~6,650 |
 | From Russia with Love | 5.00% | ~6,650 |
 | Overachiever | 5.00% | ~6,650 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,197 |
 | Road to Berlin | 0.60% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,999 (Ranked 73)  
+Progressed: 133,009 (Ranked 73)  
 Completed: 29 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 29 (0.02%) (Ranked 280)
 | 2023-10-03 | 132,759 | 29 |
 | 2023-10-04 | 132,858 | 29 |
 | 2023-10-05 | 132,955 | 29 |
-| 2023-10-06 | 132,999 | 29 |
+| 2023-10-06 | 133,009 | 29 |
 ## Awards
 Max (Competitive Players): 334  (Ranked 234)  
 Sum: 2,911 (Ranked 173)  

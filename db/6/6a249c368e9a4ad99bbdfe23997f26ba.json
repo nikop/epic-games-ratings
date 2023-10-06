@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -349,9 +349,9 @@
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A20",
@@ -381,9 +381,9 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A24",
@@ -397,9 +397,9 @@
       "ID": "A25",
       "SetID": "7f5j12l",
       "Name": "Igloos Destroyed",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A26",
@@ -437,9 +437,9 @@
       "ID": "A3",
       "SetID": "7f5j12l",
       "Name": "Level 3 Completed",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A30",
@@ -540,8 +540,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-10-06T15:07:40.7287308+00:00",
+  "LastChanged_Achievements": "2023-10-06T16:06:29.8324994+00:00",
   "LastUpdate_AppInfo": "2023-10-03T05:57:08.3790011+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:01:17.3868095+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:07:40.7287522+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:00:26.1605575+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:06:29.8325271+00:00"
 }

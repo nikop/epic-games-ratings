@@ -2,9 +2,9 @@
   "ID": "96d9e862cd3947c28ea4206e89c1ea48",
   "Name": "Paper Beast",
   "ProductSlug": "paper-beast",
-  "Ranking_EOS_Progress": 654,
+  "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-10-20T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.2937195+00:00",
   "LastChanged": "2023-03-31T05:58:05.2937196+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.2046013+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:59:52.9879292+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:06:43.6600119+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:59:15.1896244+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:05:53.3268459+00:00"
 }

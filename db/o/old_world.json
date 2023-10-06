@@ -1791,7 +1791,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14419,
+  "EOS_Progressed": 14422,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -13111,6 +13111,11 @@
       "Time": "2023-10-06T15:03:14.6322318+00:00",
       "NumProgressed": 14419,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T16:03:10.998423+00:00",
+      "NumProgressed": 14422,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13744,9 +13749,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -13816,9 +13821,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -14488,9 +14493,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -14880,9 +14885,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -15040,9 +15045,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -15312,9 +15317,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
       "SetID": "9201eeb",
       "Name": "Role-Playing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_TIME",
@@ -15520,9 +15525,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Unified",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -15857,21 +15862,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14419,
+      "Progressed": 14422,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14419,
+      "Progressed": 14422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-06T15:03:14.6322313+00:00",
+  "LastChanged_Achievements": "2023-10-06T16:03:10.9984225+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:01:53.3550968+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:03:14.6333024+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:00:51.5680705+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:03:10.9997184+00:00"
 }

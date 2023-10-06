@@ -2670,9 +2670,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 307
     }
   ],
   "AchievementSets": [
@@ -2686,8 +2686,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-06T15:05:39.1651576+00:00",
+  "LastChanged_Achievements": "2023-10-06T16:05:00.292095+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:02:33.0278725+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:05:39.1651872+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:02:11.8994659+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:05:00.292133+00:00"
 }

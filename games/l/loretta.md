@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The only good Rat is a dead Rat | 86.00% | ~6 |
-| Act of Violence | 86.00% | ~6 |
-| Ace in the Hole | 71.00% | ~5 |
-| Dead End | 57.00% | ~4 |
-| The New Beginning | 57.00% | ~4 |
-| Red is Dead | 43.00% | ~3 |
-| A Cure for Wellness | 43.00% | ~3 |
-| Out of the Past | 29.00% | ~2 |
-| Woman on the Run | 14.00% | ~1 |
-| Lightning Strikes Twice | 14.00% | ~1 |
-| I've Got a Feeling I'm Falling | 14.00% | ~1 |
-| Dead man's hand | 14.00% | ~1 |
-| Over The Cuckoo’s Nest | 14.00% | ~1 |
-| The Narrow Margin | 14.00% | ~1 |
-| Shadow of a Doubt | 14.00% | ~1 |
-| The Big Sleep | 14.00% | ~1 |
-| The Wrong Man | 14.00% | ~1 |
-| Touch of Evil | 14.00% | ~1 |
-| Bury Me Dead | 14.00% | ~1 |
-| Kiss Me Deadly | 14.00% | ~1 |
-| Murmuration | 14.00% | ~1 |
-| Spiders In My Head | 14.00% | ~1 |
+| The only good Rat is a dead Rat | 75.00% | ~6 |
+| Act of Violence | 75.00% | ~6 |
+| Ace in the Hole | 63.00% | ~5 |
+| Dead End | 50.00% | ~4 |
+| The New Beginning | 50.00% | ~4 |
+| Red is Dead | 38.00% | ~3 |
+| A Cure for Wellness | 38.00% | ~3 |
+| Out of the Past | 25.00% | ~2 |
+| Woman on the Run | 13.00% | ~1 |
+| Lightning Strikes Twice | 13.00% | ~1 |
+| I've Got a Feeling I'm Falling | 13.00% | ~1 |
+| Dead man's hand | 13.00% | ~1 |
+| Over The Cuckoo’s Nest | 13.00% | ~1 |
+| The Narrow Margin | 13.00% | ~1 |
+| Shadow of a Doubt | 13.00% | ~1 |
+| The Big Sleep | 13.00% | ~1 |
+| The Wrong Man | 13.00% | ~1 |
+| Touch of Evil | 13.00% | ~1 |
+| Bury Me Dead | 13.00% | ~1 |
+| Kiss Me Deadly | 13.00% | ~1 |
+| Murmuration | 13.00% | ~1 |
+| Spiders In My Head | 13.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 535)  
+Progressed: 8 (Ranked 530)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,6 +35,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-04-25 | 5 | 0 |
 | 2023-06-01 | 6 | 0 |
 | 2023-06-16 | 7 | 0 |
+| 2023-10-06 | 8 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

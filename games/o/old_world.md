@@ -6,11 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.90% | ~130 |
 | Explorer | 0.80% | ~115 |
-| Settler | 0.80% | ~115 |
 | Play a Single Player Game | 0.80% | ~115 |
 | Friendly Family | 0.70% | ~101 |
 | Intrepid | 0.60% | ~87 |
+| Hanging Gardens | 0.60% | ~87 |
 | Able | 0.50% | ~72 |
 | Architect | 0.50% | ~72 |
 | Good | 0.50% | ~72 |
@@ -19,9 +20,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.50% | ~72 |
 | Pioneer | 0.50% | ~72 |
 | Strong | 0.50% | ~72 |
-| Hanging Gardens | 0.50% | ~72 |
 | Oracle | 0.50% | ~72 |
 | Judaism | 0.50% | ~72 |
+| Naming Landmarks | 0.50% | ~72 |
 | Trade Caravan | 0.50% | ~72 |
 | Kushite Paganism | 0.50% | ~72 |
 | Ambitious | 0.40% | ~58 |
@@ -30,18 +31,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.40% | ~58 |
 | Magnificent | 0.40% | ~58 |
 | Wise | 0.40% | ~58 |
+| Developing Cities | 0.40% | ~58 |
 | Ishtar Gate | 0.40% | ~58 |
 | Pyramids | 0.40% | ~58 |
 | Babylonian Paganism | 0.40% | ~58 |
 | Carthaginian Paganism | 0.40% | ~58 |
 | Greek Paganism | 0.40% | ~58 |
-| Naming Landmarks | 0.40% | ~58 |
 | Brilliant | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Fountainhead | 0.30% | ~43 |
 | Great | 0.30% | ~43 |
 | Warrior | 0.30% | ~43 |
-| Developing Cities | 0.30% | ~43 |
 | Strong Cities | 0.30% | ~43 |
 | Able Difficulty | 0.30% | ~43 |
 | Furious Family | 0.30% | ~43 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
+| Power to the People | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Persian Paganism | 0.20% | ~29 |
 | Legalism | 0.20% | ~29 |
@@ -82,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
+| Kmt Unified | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Alliance Victory | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
@@ -200,7 +202,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~14 |
 | Play a MP Teams Game | 0.10% | ~14 |
 | Play a Network Game | 0.10% | ~14 |
-| Power to the People | 0.10% | ~14 |
 | Punic Wars | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
@@ -235,6 +236,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
 | Randomized Leaders | 0.10% | ~14 |
+| Role-Playing | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
 | Necropolis in Waset | 0.10% | ~14 |
 | Win a Hotseat Game | 0.10% | ~14 |
@@ -253,7 +255,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Only Kem | 0.10% | ~14 |
 | Sepat Wase Forever | 0.10% | ~14 |
 | Greater Kmt Unified | 0.10% | ~14 |
-| Kmt Unified | 0.10% | ~14 |
 | Pharaonic Greater Kmt Unified | 0.10% | ~14 |
 | Pharaonic Kmt Unified | 0.10% | ~14 |
 | Golden Age-less | 0.10% | ~14 |
@@ -340,7 +341,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
-| Role-Playing | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,419 (Ranked 134)  
+Progressed: 14,422 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,419 | 5 |
+| 2023-10-06 | 14,422 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

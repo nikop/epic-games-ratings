@@ -10,7 +10,7 @@ Number of Ratings: 94  (23.09.2022)
 | Quick Understanding of Block Extrusion | 63.00% | ~387 |
 | Nature or Nurture | 54.00% | ~332 |
 | Power Glove | 52.00% | ~319 |
-| Forgotten Memories | 49.00% | ~301 |
+| Forgotten Memories | 50.00% | ~307 |
 | Cogs in the Machine | 44.00% | ~270 |
 | Mission Success | 28.00% | ~172 |
 | There's No Place Like Home | 26.00% | ~160 |

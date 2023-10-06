@@ -2,9 +2,9 @@
   "ID": "47cba32bce2f4b1e9da0eee33bbb489a",
   "Name": "Splitgate",
   "ProductSlug": "splitgate-a4414d",
-  "Ranking_EOS_Progress": 654,
+  "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T12:59:29.1587259+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:58:54.1013891+00:00",
-  "LastUpdate_Achievements": "2023-10-06T15:07:46.5055987+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:58:25.9091176+00:00",
+  "LastUpdate_Achievements": "2023-10-06T16:06:34.6308555+00:00"
 }
