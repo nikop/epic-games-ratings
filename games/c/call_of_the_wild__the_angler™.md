@@ -29,8 +29,8 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 3.00% | ~180 |
 | Gonna Need a Bigger Boat | 3.00% | ~180 |
 | No Fin left to give | 2.00% | ~120 |
+| Taylor Made | 2.00% | ~120 |
 | Rod and Troll | 2.00% | ~107 |
-| Taylor Made | 1.00% | ~60 |
 | Fish upon a Star | 0.70% | ~38 |
 | Head for Heights | 0.60% | ~36 |
 | Lake Me up Before You Go Go | 0.50% | ~30 |

@@ -2,7 +2,7 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 103,
   "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 655,
@@ -1543,10 +1543,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 1609,
       "NumberOfAwardsMax": 950
+    },
+    {
+      "Time": "2023-10-06T19:02:03.5126131+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1610,
+      "NumberOfAwardsMax": 950
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1609,
+  "NumberOfAwards": 1610,
   "NumberOfAwardsMax": 950,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1614,7 +1620,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Relaxing",
@@ -1646,8 +1652,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-10-05T11:01:32.7122181+00:00",
+  "LastChanged": "2023-10-06T19:02:03.5126129+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:12.3850542+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:02:42.3139065+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:04:00.419627+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:02:03.5126134+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:03:43.3666197+00:00"
 }

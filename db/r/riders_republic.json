@@ -2,9 +2,9 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 124,
+  "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 402,
@@ -7888,10 +7888,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6188,
       "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-10-06T18:58:19.8576984+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6195,
+      "NumberOfAwardsMax": 669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6188,
+  "NumberOfAwards": 6195,
   "NumberOfAwardsMax": 669,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -7899,7 +7905,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 596
+      "Count": 603
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7985,8 +7991,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-10-06T14:58:42.7901537+00:00",
+  "LastChanged": "2023-10-06T18:58:19.8576982+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.4798736+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:58:45.5776889+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:06:39.283819+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:58:19.8576988+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:05:46.3732884+00:00"
 }

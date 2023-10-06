@@ -13,15 +13,15 @@ Rating: 4.03 (Ranked 959)
 | Initiate | 64.00% | ~43 |
 | Thrada-Kul | 61.00% | ~41 |
 | Gravity-Challenged Rocks | 49.00% | ~33 |
-| Soldier | 42.00% | ~28 |
+| Soldier | 43.00% | ~29 |
 | All the Major Food Groups | 42.00% | ~28 |
 | Beggars Would Ride | 36.00% | ~24 |
 | Control is an Illusion | 34.00% | ~23 |
 | Socialite | 34.00% | ~23 |
 | The Means to Save It | 30.00% | ~20 |
 | Resilience to Sin | 25.00% | ~17 |
+| A Familiar Nest | 21.00% | ~14 |
 | Armsman | 21.00% | ~14 |
-| A Familiar Nest | 19.00% | ~13 |
 | Geas Aristeya | 19.00% | ~13 |
 | Periapt Alizarin | 19.00% | ~13 |
 | A Perfect Cycle | 16.00% | ~11 |

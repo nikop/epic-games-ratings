@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 655,
@@ -11313,10 +11313,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 29312,
       "NumberOfAwardsMax": 3534
+    },
+    {
+      "Time": "2023-10-06T19:00:30.6340505+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 29351,
+      "NumberOfAwardsMax": 3534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29312,
+  "NumberOfAwards": 29351,
   "NumberOfAwardsMax": 3534,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11330,7 +11336,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3099
+      "Count": 3118
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -11342,7 +11348,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2858
+      "Count": 2868
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11372,7 +11378,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2397
+      "Count": 2407
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11404,8 +11410,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-10-06T16:00:20.5882583+00:00",
+  "LastChanged": "2023-10-06T19:00:30.6340503+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.6517268+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:01:29.4058603+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:07:47.4456429+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:00:30.6340509+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:07:04.8320397+00:00"
 }

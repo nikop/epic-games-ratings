@@ -2,13 +2,13 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 103,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -13082,8 +13082,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-06T07:00:32.2475156+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:04:09.8813125+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:03:50.627232+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:01:29.2294356+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:04:09.8813865+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:00:30.3854541+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:03:50.6273022+00:00"
 }

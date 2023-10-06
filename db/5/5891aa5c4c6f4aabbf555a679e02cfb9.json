@@ -651,9 +651,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:03:31.3858645+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:03:20.7898092+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:02.1155253+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:01:12.2543785+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:03:31.3859024+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:00:18.1901137+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:03:20.7898469+00:00"
 }

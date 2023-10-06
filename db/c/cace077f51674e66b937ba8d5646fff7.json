@@ -507,9 +507,9 @@
       "ID": "ENEMY_15",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph, Ali Baba \u0026 Pillows",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ENEMY_16",
@@ -986,8 +986,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:07:50.3111866+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:07:07.1431357+00:00",
   "LastUpdate_AppInfo": "2023-10-02T19:57:09.78547+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:02:26.7113363+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:07:50.3112503+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:01:18.5840273+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:07:07.1432088+00:00"
 }

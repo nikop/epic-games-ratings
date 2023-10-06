@@ -30,11 +30,11 @@
 | Krogan Ally | 45.00% | ~256 |
 | Merciless | 45.00% | ~256 |
 | Head Hunter | 43.00% | ~245 |
+| Veteran | 41.00% | ~234 |
 | Missing in Action | 41.00% | ~234 |
 | Very Elusive | 41.00% | ~234 |
 | Operative | 41.00% | ~234 |
 | Scholar | 41.00% | ~234 |
-| Veteran | 40.00% | ~228 |
 | Power Full | 39.00% | ~222 |
 | The Professor | 38.00% | ~217 |
 | The Archangel | 37.00% | ~211 |
@@ -42,26 +42,26 @@
 | The Convict | 36.00% | ~205 |
 | Colony Defense | 35.00% | ~200 |
 | The Krogan | 35.00% | ~200 |
+| Galactic Explorer | 35.00% | ~200 |
 | Archivist | 34.00% | ~194 |
-| Galactic Explorer | 34.00% | ~194 |
+| The Quarian | 33.00% | ~188 |
 | Broke, Blind, and Bedlam | 33.00% | ~188 |
 | Ghost Ship | 32.00% | ~182 |
 | The Assassin | 32.00% | ~182 |
 | The Justicar | 32.00% | ~182 |
-| The Quarian | 32.00% | ~182 |
 | The Prodigal | 32.00% | ~182 |
 | Battlemaster | 31.00% | ~177 |
 | The Cure | 31.00% | ~177 |
+| Big Game Hunter | 31.00% | ~177 |
 | A Personal Touch | 30.00% | ~171 |
 | Catharsis | 30.00% | ~171 |
 | Ghost of the Father | 30.00% | ~171 |
-| Big Game Hunter | 30.00% | ~171 |
+| Agent | 30.00% | ~171 |
 | Revenge! | 30.00% | ~171 |
 | Heart of Darkness | 30.00% | ~171 |
 | Shopaholic | 30.00% | ~171 |
 | Fade Away | 29.00% | ~165 |
 | Treason | 29.00% | ~165 |
-| Agent | 29.00% | ~165 |
 | Digital Exorcist | 29.00% | ~165 |
 | Driven | 29.00% | ~165 |
 | Focused | 28.00% | ~160 |

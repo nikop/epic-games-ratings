@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -956,9 +956,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1083,8 +1083,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:07:36.492345+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:06:36.9431024+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:59:09.9911002+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:07:36.4923633+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:58:42.3057662+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:06:36.9431217+00:00"
 }

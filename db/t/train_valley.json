@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2023-10-06T14:05:15.0377817+00:00",
       "NumProgressed": 507,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T19:04:04.372896+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1240,7 +1245,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "02_collector",
@@ -1272,7 +1277,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "06_living",
@@ -1280,15 +1285,15 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     },
     {
       "ID": "08_america",
@@ -1304,7 +1309,7 @@
       "Name": "Russia",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "10_japan",
@@ -1318,9 +1323,9 @@
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 30
     },
     {
       "ID": "12_roll",
@@ -1376,7 +1381,7 @@
       "Name": "Foreman",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "19_justintime",
@@ -1384,7 +1389,7 @@
       "Name": "Just in time!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "20_sabotage",
@@ -1400,7 +1405,7 @@
       "Name": "Missed it!",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "22_ouroboros",
@@ -1416,7 +1421,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "24_mega",
@@ -1551,15 +1556,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:04:27.8608518+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:04:04.3728956+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:57:24.3921527+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:04:27.8608816+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:57:04.5868426+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:04:04.3729556+00:00"
 }

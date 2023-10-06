@@ -15,8 +15,8 @@ Number of Ratings: 22  (23.09.2022)
 | Perfect Illusion | 24.00% | ~113 |
 | Hundred Percent First | 24.00% | ~113 |
 | Dirty Dozen | 21.00% | ~99 |
+| Lion Tamer | 19.00% | ~89 |
 | Fan Service | 19.00% | ~89 |
-| Lion Tamer | 18.00% | ~85 |
 | Amazing! | 17.00% | ~80 |
 | King of District 1 | 16.00% | ~75 |
 | Bar Brawler | 15.00% | ~70 |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 470 (Ranked 277)  
-Completed: 1 (0.21%) (Ranked 215)  
+Completed: 1 (0.21%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

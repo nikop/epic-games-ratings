@@ -2,7 +2,7 @@
   "ID": "f588333a02fe4011980472c7be02db12",
   "Name": "Death\u0027s Door",
   "ProductSlug": "deaths-door",
-  "Ranking_Rating": 335,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 655,
@@ -314,6 +314,6 @@
   "FirstSeen": "2022-07-22T20:26:20.4430327+00:00",
   "LastChanged": "2023-08-29T12:02:26.3971955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:35.6449288+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:57:52.5159765+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:05:59.3544523+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:57:34.1088271+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:05:15.866489+00:00"
 }

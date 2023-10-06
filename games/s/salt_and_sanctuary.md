@@ -6,7 +6,7 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,873 |
+| Find Sanctuary | 83.00% | ~443,874 |
 | The Three | 64.00% | ~342,264 |
 | The Banquet | 40.00% | ~213,915 |
 | Devara's Light | 31.00% | ~165,784 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,087 |
 | The Alkymancery | 5.00% | ~26,739 |
 | The Pitchwoods | 5.00% | ~26,739 |
-| Honed | 4.00% | ~21,391 |
-| The House of Splendor | 4.00% | ~21,391 |
-| The Crypt | 4.00% | ~21,391 |
-| The Palace | 4.00% | ~21,391 |
+| Honed | 4.00% | ~21,392 |
+| The House of Splendor | 4.00% | ~21,392 |
+| The Crypt | 4.00% | ~21,392 |
+| The Palace | 4.00% | ~21,392 |
 | Find Salvation | 3.00% | ~16,044 |
 | The Unspeakable Deep | 3.00% | ~16,044 |
 | Coastrock | 2.00% | ~10,696 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,696 |
 | Fading Fast | 1.00% | ~5,348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,787 (Ranked 32)  
+Progressed: 534,788 (Ranked 32)  
 Completed: 1,564 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 1,564 (0.29%) (Ranked 201)
 | 2023-10-03 | 534,604 | 1,561 |
 | 2023-10-04 | 534,661 | 1,562 |
 | 2023-10-05 | 534,720 | 1,563 |
-| 2023-10-06 | 534,787 | 1,564 |
+| 2023-10-06 | 534,788 | 1,564 |
 ## Awards
 Max (Challenging Combat): 284  (Ranked 245)  
 Sum: 1,964 (Ranked 205)  

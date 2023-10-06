@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 105,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.81,
   "EosHistory": [
@@ -698,9 +698,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_34",
@@ -880,8 +880,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:04:11.3837624+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:03:51.7052413+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:02:36.028413+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:04:11.3837969+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:01:28.5239384+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:03:51.7052794+00:00"
 }

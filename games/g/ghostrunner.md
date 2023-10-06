@@ -1,31 +1,31 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 180)  
+Rating: 4.72 (Ranked 179)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~14,826 |
+| Longrunner | 76.00% | ~14,827 |
 | Sword Runner | 61.00% | ~11,900 |
-| Running out of breath | 54.00% | ~10,534 |
-| Wallrunner | 53.00% | ~10,339 |
+| Running out of breath | 54.00% | ~10,535 |
+| Wallrunner | 53.00% | ~10,340 |
 | Homerunner | 45.00% | ~8,779 |
 | I call it luck | 44.00% | ~8,584 |
 | Out of order | 44.00% | ~8,584 |
-| Where are my Keys? | 40.00% | ~7,803 |
+| Where are my Keys? | 40.00% | ~7,804 |
 | Back to hell | 36.00% | ~7,023 |
 | Perfection | 32.00% | ~6,243 |
-| Why not both | 30.00% | ~5,852 |
-| Sword to a gunfight | 29.00% | ~5,657 |
-| Upgrades not mandatory | 29.00% | ~5,657 |
-| Artificial selection | 28.00% | ~5,462 |
+| Why not both | 30.00% | ~5,853 |
+| Sword to a gunfight | 29.00% | ~5,658 |
+| Upgrades not mandatory | 29.00% | ~5,658 |
+| Artificial selection | 28.00% | ~5,463 |
 | Control freak | 27.00% | ~5,267 |
 | Running Wild | 27.00% | ~5,267 |
 | Finish line | 26.00% | ~5,072 |
 | Unstoppable force | 22.00% | ~4,292 |
 | Wave of mutilation | 22.00% | ~4,292 |
-| Can't Run Can't Hide | 17.00% | ~3,316 |
+| Can't Run Can't Hide | 17.00% | ~3,317 |
 | R is for Running | 16.00% | ~3,121 |
 | Dead in the air | 15.00% | ~2,926 |
 | Improvise, adapt, overrun | 13.00% | ~2,536 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 12.00% | ~2,341 |
 | Triple A | 9.00% | ~1,756 |
 | One Of Those Days | 7.00% | ~1,366 |
-| Fine addition | 6.00% | ~1,170 |
+| Fine addition | 6.00% | ~1,171 |
 | Where He Stood | 5.00% | ~975 |
 | About Adam | 4.00% | ~780 |
 | Push it to the limit | 4.00% | ~780 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~78 |
 | Up Close And Personal | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,508 (Ranked 125)  
+Progressed: 19,509 (Ranked 125)  
 Completed: 73 (0.37%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 73 (0.37%) (Ranked 183)
 | 2023-10-03 | 19,364 | 73 |
 | 2023-10-04 | 19,409 | 73 |
 | 2023-10-05 | 19,471 | 73 |
-| 2023-10-06 | 19,508 | 73 |
+| 2023-10-06 | 19,509 | 73 |
 ## Awards
 Max (Great Boss Battles): 502  (Ranked 203)  
 Sum: 719 (Ranked 281)  

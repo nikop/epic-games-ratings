@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,749 |
-| Break A Leg | 3.00% | ~20,749 |
-| Coup de Grâce | 3.00% | ~20,749 |
-| Hazardous Materials | 3.00% | ~20,749 |
-| Hotel California | 3.00% | ~20,749 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,749 |
-| Welcome To Hell-A | 3.00% | ~20,749 |
+| Git Gutte! | 3.00% | ~20,750 |
+| Break A Leg | 3.00% | ~20,750 |
+| Coup de Grâce | 3.00% | ~20,750 |
+| Hazardous Materials | 3.00% | ~20,750 |
+| Hotel California | 3.00% | ~20,750 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,750 |
+| Welcome To Hell-A | 3.00% | ~20,750 |
 | Dr. Reed, I Presume? | 2.00% | ~13,833 |
 | Anger Management | 2.00% | ~13,833 |
 | Perks of the Job | 2.00% | ~13,833 |
@@ -30,15 +30,15 @@ Rating: 4.54 (Ranked 507)
 | Stacking the Deck | 2.00% | ~13,833 |
 | Our True Nature | 2.00% | ~13,833 |
 | This is My Weapon | 2.00% | ~13,833 |
-| Making Your Mark | 1.00% | ~6,916 |
-| Humanity Distilled | 1.00% | ~6,916 |
-| Down with the Sickness | 1.00% | ~6,916 |
-| Max Headroom | 1.00% | ~6,916 |
-| Go, Bobcats! | 1.00% | ~6,916 |
+| Making Your Mark | 1.00% | ~6,917 |
+| Humanity Distilled | 1.00% | ~6,917 |
+| Down with the Sickness | 1.00% | ~6,917 |
+| Max Headroom | 1.00% | ~6,917 |
+| Go, Bobcats! | 1.00% | ~6,917 |
 | Jumbo Keyring | 0.90% | ~6,225 |
 | Rising Star | 0.90% | ~6,225 |
 | Smorgasbord | 0.80% | ~5,533 |
-| Internet Famous | 0.70% | ~4,841 |
+| Internet Famous | 0.70% | ~4,842 |
 | On Safari | 0.60% | ~4,150 |
 | Not Even My Final Form | 0.60% | ~4,150 |
 | Variety is the Spice of Death | 0.60% | ~4,150 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~692 |
 | Bucket List | 0.10% | ~692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,627 (Ranked 22)  
+Progressed: 691,655 (Ranked 22)  
 Completed: 2,192 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 2,192 (0.32%) (Ranked 194)
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
 | 2023-10-05 | 691,288 | 2,192 |
-| 2023-10-06 | 691,627 | 2,192 |
+| 2023-10-06 | 691,655 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 6,339  (Ranked 58)  
 Sum: 9,461 (Ranked 91)  

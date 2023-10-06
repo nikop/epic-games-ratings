@@ -1,51 +1,51 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.64 (Ranked 318)  
+Rating: 4.64 (Ranked 317)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~9,786 |
-| A Long Time Ago | 93.00% | ~9,101 |
-| Sabersmith | 80.00% | ~7,829 |
-| The Obstacle is the Way | 79.00% | ~7,731 |
-| Back At You | 74.00% | ~7,242 |
-| Happy Go Wookiee | 70.00% | ~6,850 |
-| Everything is Connected | 61.00% | ~5,969 |
-| Her Name Was Masana Tide | 55.00% | ~5,382 |
-| Bank Shot | 55.00% | ~5,382 |
-| Perfect Timing | 53.00% | ~5,187 |
-| Gorgara Falls | 50.00% | ~4,893 |
-| The Full Glow-Up | 50.00% | ~4,893 |
-| For A More Civilized Age | 48.00% | ~4,697 |
-| I Knew He Was No Good | 46.00% | ~4,502 |
-| The Holocron Awaits | 45.00% | ~4,404 |
-| Look Out Below | 44.00% | ~4,306 |
-| Scum and Villainy | 43.00% | ~4,208 |
-| Trust Only In The Force | 43.00% | ~4,208 |
-| Don't Mess with BD-1 | 42.00% | ~4,110 |
-| Blade Master | 38.00% | ~3,719 |
-| Full House | 35.00% | ~3,425 |
-| Legendary Beasts | 22.00% | ~2,153 |
-| Echo Location | 20.00% | ~1,957 |
-| Visiting Alderaan Places | 18.00% | ~1,761 |
-| Triple Take | 14.00% | ~1,370 |
-| Cal Got Your Tongue? | 14.00% | ~1,370 |
-| Big Bang | 12.00% | ~1,174 |
-| Feel the Force | 10.00% | ~979 |
-| Can't Touch This | 9.00% | ~881 |
-| Medical Droid | 8.00% | ~783 |
-| Data Collector | 7.00% | ~685 |
-| Data Disk | 6.00% | ~587 |
-| Collector | 5.00% | ~489 |
-| Kickoff | 4.00% | ~391 |
-| Green Thumb | 4.00% | ~391 |
-| A Galaxy Far, Far Away | 4.00% | ~391 |
+| The Mantis | 100.00% | ~9,804 |
+| A Long Time Ago | 93.00% | ~9,118 |
+| Sabersmith | 80.00% | ~7,843 |
+| The Obstacle is the Way | 79.00% | ~7,745 |
+| Back At You | 74.00% | ~7,255 |
+| Happy Go Wookiee | 70.00% | ~6,863 |
+| Everything is Connected | 61.00% | ~5,980 |
+| Her Name Was Masana Tide | 55.00% | ~5,392 |
+| Bank Shot | 55.00% | ~5,392 |
+| Perfect Timing | 53.00% | ~5,196 |
+| Gorgara Falls | 50.00% | ~4,902 |
+| The Full Glow-Up | 50.00% | ~4,902 |
+| For A More Civilized Age | 48.00% | ~4,706 |
+| I Knew He Was No Good | 46.00% | ~4,510 |
+| The Holocron Awaits | 45.00% | ~4,412 |
+| Look Out Below | 44.00% | ~4,314 |
+| Scum and Villainy | 43.00% | ~4,216 |
+| Trust Only In The Force | 43.00% | ~4,216 |
+| Don't Mess with BD-1 | 42.00% | ~4,118 |
+| Blade Master | 38.00% | ~3,726 |
+| Full House | 35.00% | ~3,431 |
+| Legendary Beasts | 22.00% | ~2,157 |
+| Echo Location | 20.00% | ~1,961 |
+| Visiting Alderaan Places | 18.00% | ~1,765 |
+| Triple Take | 14.00% | ~1,373 |
+| Cal Got Your Tongue? | 14.00% | ~1,373 |
+| Big Bang | 12.00% | ~1,176 |
+| Feel the Force | 10.00% | ~980 |
+| Can't Touch This | 9.00% | ~882 |
+| Medical Droid | 8.00% | ~784 |
+| Data Collector | 7.00% | ~686 |
+| Data Disk | 6.00% | ~588 |
+| Collector | 5.00% | ~490 |
+| Kickoff | 4.00% | ~392 |
+| Green Thumb | 4.00% | ~392 |
+| A Galaxy Far, Far Away | 4.00% | ~392 |
 | Kicking Back | 3.00% | ~294 |
 | What Goes Around... | 3.00% | ~294 |
 | Not So Fast | 1.00% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,786 (Ranked 146)  
+Progressed: 9,804 (Ranked 146)  
 Completed: 106 (1.08%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 106 (1.08%) (Ranked 133)
 | 2023-10-03 | 9,248 | 99 |
 | 2023-10-04 | 9,430 | 99 |
 | 2023-10-05 | 9,638 | 105 |
-| 2023-10-06 | 9,786 | 106 |
+| 2023-10-06 | 9,804 | 106 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

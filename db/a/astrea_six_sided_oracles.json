@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -841,9 +841,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UnepicHero",
@@ -953,9 +953,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EridanianHero",
@@ -1032,8 +1032,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:09:10.8693895+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:09:09.0861427+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:03:01.7974654+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:09:10.8694826+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:02:16.2237969+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:09:09.0862359+00:00"
 }

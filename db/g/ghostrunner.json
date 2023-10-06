@@ -2,12 +2,12 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1236,9 +1236,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19508,
+  "EOS_Progressed": 19509,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19571,6 +19571,11 @@
       "Time": "2023-10-06T18:08:02.6952041+00:00",
       "NumProgressed": 19508,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-06T19:07:16.7146468+00:00",
+      "NumProgressed": 19509,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19598,7 +19603,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5462
+      "UsersEstimate": 5463
     },
     {
       "ID": "BackToHell",
@@ -19614,7 +19619,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "DeadInTheAir",
@@ -19638,7 +19643,7 @@
       "Name": "Fine addition",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "FinishLine",
@@ -19718,7 +19723,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "MoreThanHuman",
@@ -19806,7 +19811,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10534
+      "UsersEstimate": 10535
     },
     {
       "ID": "RunningWild",
@@ -19862,7 +19867,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "TripleA",
@@ -19894,7 +19899,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "Wallrunner",
@@ -19902,7 +19907,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "WaveOfMutilation",
@@ -19918,7 +19923,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7803
+      "UsersEstimate": 7804
     },
     {
       "ID": "WhereHeStood",
@@ -19934,28 +19939,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19508,
+      "Progressed": 19509,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19508,
+      "Progressed": 19509,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-06T15:03:04.744899+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:08:02.6952036+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:07:16.714646+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:03:08.4521828+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:08:02.6953206+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:03:04.8864604+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:07:16.7147616+00:00"
 }

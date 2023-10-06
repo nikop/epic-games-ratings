@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -116,9 +116,9 @@
       "ID": "BOSS_07",
       "SetID": "35d3i7a",
       "Name": "This is not me.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_I",
@@ -420,17 +420,17 @@
       "ID": "MEM_XXVI",
       "SetID": "35d3i7a",
       "Name": "I\u2019M UGLY!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PART_I",
       "SetID": "35d3i7a",
       "Name": "The Dream.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PART_II",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:07:09.3951929+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:06:15.9999661+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:00:30.5347363+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:07:09.3952287+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:59:42.8553312+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:06:16.0000041+00:00"
 }

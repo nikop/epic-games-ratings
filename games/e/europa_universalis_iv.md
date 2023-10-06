@@ -1,19 +1,19 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 221)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,954 |
-| Until death do us apart | 4.00% | ~16,954 |
-| That is mine! | 3.00% | ~12,716 |
-| Victorious! | 3.00% | ~12,716 |
-| Brothers in Arms | 2.00% | ~8,477 |
-| For the Glory | 2.00% | ~8,477 |
-| That's a Grand Navy | 2.00% | ~8,477 |
-| Seriously?! | 2.00% | ~8,477 |
+| That's a Grand Army | 4.00% | ~16,957 |
+| Until death do us apart | 4.00% | ~16,957 |
+| That is mine! | 3.00% | ~12,718 |
+| Victorious! | 3.00% | ~12,718 |
+| Brothers in Arms | 2.00% | ~8,479 |
+| For the Glory | 2.00% | ~8,479 |
+| That's a Grand Navy | 2.00% | ~8,479 |
+| Seriously?! | 2.00% | ~8,479 |
 | Cold War | 1.00% | ~4,239 |
 | Defender of the Faith | 1.00% | ~4,239 |
 | It's all about the money | 1.00% | ~4,239 |
@@ -26,18 +26,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,391 |
 | Total Control | 0.80% | ~3,391 |
 | Royal Authority | 0.70% | ~2,967 |
-| My armies are invincible! | 0.60% | ~2,543 |
-| Agressive Expander | 0.50% | ~2,119 |
-| Azur semé de lis or | 0.50% | ~2,119 |
-| City of Cities | 0.50% | ~2,119 |
-| Combined Arms | 0.50% | ~2,119 |
-| This navy can take it all | 0.50% | ~2,119 |
-| Bright Spark | 0.40% | ~1,695 |
-| Factionalism | 0.40% | ~1,695 |
-| Gentle Persuasion | 0.40% | ~1,695 |
-| Isn't this the way to India? | 0.40% | ~1,695 |
-| Queen of Conquest | 0.40% | ~1,695 |
-| The Five Colonies | 0.40% | ~1,695 |
+| My armies are invincible! | 0.60% | ~2,544 |
+| Agressive Expander | 0.50% | ~2,120 |
+| Azur semé de lis or | 0.50% | ~2,120 |
+| City of Cities | 0.50% | ~2,120 |
+| Combined Arms | 0.50% | ~2,120 |
+| This navy can take it all | 0.50% | ~2,120 |
+| Bright Spark | 0.40% | ~1,696 |
+| Factionalism | 0.40% | ~1,696 |
+| Gentle Persuasion | 0.40% | ~1,696 |
+| Isn't this the way to India? | 0.40% | ~1,696 |
+| Queen of Conquest | 0.40% | ~1,696 |
+| The Five Colonies | 0.40% | ~1,696 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,272 |
 | Down Under | 0.30% | ~1,272 |
 | The Emperors new clothes | 0.30% | ~1,272 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,859 (Ranked 41)  
+Progressed: 423,928 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
-| 2023-10-06 | 423,859 | 1 |
+| 2023-10-06 | 423,928 | 1 |
 ## Awards
 Max (Educational): 6,412  (Ranked 56)  
 Sum: 52,724 (Ranked 24)  

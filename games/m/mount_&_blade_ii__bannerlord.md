@@ -1,22 +1,22 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 149)  
+Rating: 4.74 (Ranked 148)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,492 |
-| Landlord | 33.00% | ~20,724 |
-| Bannerlord | 23.00% | ~14,444 |
-| Horde breaker | 23.00% | ~14,444 |
-| Lawmaker | 23.00% | ~14,444 |
-| Trained | 23.00% | ~14,444 |
-| The king is pleased | 18.00% | ~11,304 |
-| King Solomon | 17.00% | ~10,676 |
-| I can do it | 16.00% | ~10,048 |
-| Apple of my eye | 15.00% | ~9,420 |
-| God of the Arena | 13.00% | ~8,164 |
+| Lawbringer | 39.00% | ~24,494 |
+| Landlord | 33.00% | ~20,725 |
+| Bannerlord | 23.00% | ~14,445 |
+| Horde breaker | 23.00% | ~14,445 |
+| Lawmaker | 23.00% | ~14,445 |
+| Trained | 23.00% | ~14,445 |
+| The king is pleased | 18.00% | ~11,305 |
+| King Solomon | 17.00% | ~10,677 |
+| I can do it | 16.00% | ~10,049 |
+| Apple of my eye | 15.00% | ~9,421 |
+| God of the Arena | 13.00% | ~8,165 |
 | Against all odds | 12.00% | ~7,536 |
 | This Is Our Land | 12.00% | ~7,536 |
 | Duelist | 10.00% | ~6,280 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,801 (Ranked 96)  
+Progressed: 62,804 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 62,646 | 0 |
 | 2023-10-04 | 62,701 | 0 |
 | 2023-10-05 | 62,761 | 0 |
-| 2023-10-06 | 62,801 | 0 |
+| 2023-10-06 | 62,804 | 0 |
 ## Awards
 Max (Character Customization): 7,185  (Ranked 52)  
-Sum: 14,745 (Ranked 66)  
+Sum: 14,748 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 833 |
 | This game has Amazing Characters | 828 |
 | This game is Relaxing | 825 |
-| This game has Quickly Understood Controls | 805 |
+| This game has Quickly Understood Controls | 808 |
 | This game has a Creative Community | 601 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -14
 | 2023-10-03 | 4.74 | - | 7,173 | 14,699 |
 | 2023-10-04 | 4.74 | - | 7,176 | 14,708 |
 | 2023-10-05 | 4.74 | - | 7,176 | 14,724 |
-| 2023-10-06 | 4.74 | - | 7,185 | 14,745 |
+| 2023-10-06 | 4.74 | - | 7,185 | 14,748 |

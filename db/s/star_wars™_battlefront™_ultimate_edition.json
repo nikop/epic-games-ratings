@@ -3,8 +3,8 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -1186,6 +1186,11 @@
       "Time": "2023-10-06T18:06:30.0873348+00:00",
       "NumProgressed": 463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T19:05:39.3097866+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1302,7 +1307,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_22",
@@ -1340,9 +1345,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_27",
@@ -1372,9 +1377,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_30",
@@ -1390,7 +1395,7 @@
       "Name": "Scrap collector",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_32",
@@ -1398,15 +1403,15 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_33",
       "SetID": "271ol84",
       "Name": "Safety ain\u0027t the point of a joyride",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_34",
@@ -1422,15 +1427,15 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_37",
@@ -1438,7 +1443,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_38",
@@ -1446,7 +1451,7 @@
       "Name": "Survivor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_39",
@@ -1470,7 +1475,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_41",
@@ -1478,7 +1483,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_42",
@@ -1500,9 +1505,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_45",
@@ -1550,7 +1555,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_50",
@@ -1588,9 +1593,9 @@
       "ID": "achievement_54",
       "SetID": "cemm4l8",
       "Name": "That\u0027s no moon",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_55",
@@ -1604,9 +1609,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_57",
@@ -1701,13 +1706,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 467,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 463,
+      "Progressed": 467,
       "Completed": 1
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:06:30.0873343+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:05:39.3097861+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:03:06.7234157+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:06:30.0873926+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:03:03.9696032+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:05:39.309844+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 159,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 655,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 2871,
   "RatingHistory": [
     {
@@ -6445,10 +6445,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7332,
       "NumberOfAwardsMax": 828
+    },
+    {
+      "Time": "2023-10-06T18:59:04.3224311+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7337,
+      "NumberOfAwardsMax": 828
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7332,
+  "NumberOfAwards": 7337,
   "NumberOfAwardsMax": 828,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6474,7 +6480,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 733
+      "Count": 734
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -6492,13 +6498,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 684
+      "Count": 686
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 652
+      "Count": 654
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6536,8 +6542,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-10-06T17:59:37.7359091+00:00",
+  "LastChanged": "2023-10-06T18:59:04.3224309+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:09.1507056+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:59:37.7359097+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:04:52.2643212+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:59:04.3224316+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:04:22.7061842+00:00"
 }

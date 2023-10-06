@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 771)  
+Rating: 4.35 (Ranked 772)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 38.00% | ~2,550 |
-| It's a good start | 9.00% | ~604 |
+| Bye Bye | 38.00% | ~2,553 |
+| It's a good start | 9.00% | ~605 |
 | Bonjour! | 7.00% | ~470 |
 | Quack | 7.00% | ~470 |
 | The Assistant | 6.00% | ~403 |
 | The Blue Marl | 6.00% | ~403 |
 | Ostinata | 5.00% | ~336 |
 | Better than nothing? | 5.00% | ~336 |
-| A long journey | 4.00% | ~268 |
-| Big Money | 3.00% | ~201 |
-| Keep the doctor away | 3.00% | ~201 |
-| Surprise of Langhe | 3.00% | ~201 |
-| Famous | 3.00% | ~201 |
+| A long journey | 4.00% | ~269 |
+| Big Money | 3.00% | ~202 |
+| Keep the doctor away | 3.00% | ~202 |
+| Surprise of Langhe | 3.00% | ~202 |
+| Famous | 3.00% | ~202 |
 | What is that? A castle? | 2.00% | ~134 |
 | A lot of space | 2.00% | ~134 |
 | A big garage | 2.00% | ~134 |
@@ -32,13 +32,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Treasure of Roero | 0.70% | ~47 |
 | Knight of Langhe | 0.50% | ~34 |
 | King of red wines | 0.30% | ~20 |
-| King of white wines | 0.20% | ~13 |
+| King of white wines | 0.30% | ~20 |
 | Sales Expert | 0.20% | ~13 |
 | Big deals | 0.20% | ~13 |
 | Master Winemaker | 0.10% | ~7 |
 | Unsuitable Terroir | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,711 (Ranked 160)  
+Progressed: 6,719 (Ranked 160)  
 Completed: 7 (0.10%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 7 (0.10%) (Ranked 241)
 | 2023-10-03 | 6,308 | 7 |
 | 2023-10-04 | 6,456 | 7 |
 | 2023-10-05 | 6,605 | 7 |
-| 2023-10-06 | 6,711 | 7 |
+| 2023-10-06 | 6,719 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 276)  
 Sum: 1,590 (Ranked 219)  

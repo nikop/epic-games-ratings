@@ -1,11 +1,11 @@
 # Sonic Mania
 [Store](https://store.epicgames.com/en-US/p/sonic-mania)  
 [View Rawdata](../../db/s/sonic_mania.json)  
-Rating: 4.78 (Ranked 104)  
+Rating: 4.78 (Ranked 103)  
 Number of Ratings: 2,185  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 950  (Ranked 152)  
-Sum: 1,609 (Ranked 216)  
+Sum: 1,610 (Ranked 216)  
 Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): -64
 | This game is Relaxing | 67 |
 | This game has Diverse Characters | 66 |
 | This game has Amazing Storytelling | 65 |
+| This game is Great for Beginners | 61 |
 | This game has Amazing Characters | 60 |
-| This game is Great for Beginners | 60 |
 | This game has Obsessive Gameplay | 56 |
 | This game has a Creative Community | 54 |
 | This game has Competitive Players | 37 |
@@ -167,3 +167,4 @@ Diff (max vs sum): -64
 | 2023-10-02 | 4.78 | - | 947 | 1,606 |
 | 2023-10-03 | 4.78 | - | 949 | 1,608 |
 | 2023-10-05 | 4.78 | - | 950 | 1,609 |
+| 2023-10-06 | 4.78 | - | 950 | 1,610 |

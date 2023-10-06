@@ -33,9 +33,9 @@
 | Karakuri Isle | 34.00% | ~36 |
 | Team Hunter | 32.00% | ~34 |
 | Artful Assister | 32.00% | ~34 |
+| Human Believer | 30.00% | ~32 |
 | Unrivaled in Arms | 30.00% | ~32 |
 | Left Arm Leverager | 29.00% | ~30 |
-| Human Believer | 29.00% | ~30 |
 | Threaded Harmony | 29.00% | ~30 |
 | Karakuri Minato | 28.00% | ~29 |
 | Canyon of Karakuri | 27.00% | ~28 |

@@ -229,9 +229,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37928,
+  "EOS_Progressed": 37929,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18789,6 +18789,11 @@
       "Time": "2023-10-06T18:03:30.8881123+00:00",
       "NumProgressed": 37928,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-06T19:03:20.2163091+00:00",
+      "NumProgressed": 37929,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18904,7 +18909,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -18976,7 +18981,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -18984,7 +18989,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -19031,7 +19036,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37928,
+      "Progressed": 37929,
       "Completed": 25
     }
   ],
@@ -19039,8 +19044,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-06T18:03:30.8881118+00:00",
+  "LastChanged_Achievements": "2023-10-06T19:03:20.2163082+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:59:59.8625281+00:00",
-  "LastUpdate_Achievements": "2023-10-06T18:03:30.8882322+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:59:19.6504289+00:00",
+  "LastUpdate_Achievements": "2023-10-06T19:03:20.2164535+00:00"
 }

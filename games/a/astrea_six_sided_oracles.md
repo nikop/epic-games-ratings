@@ -15,12 +15,12 @@
 | Mechanical Buddy | 11.00% | ~5 |
 | Mind Illuminator | 11.00% | ~5 |
 | Purification Pioneer | 11.00% | ~5 |
+| Unbeatable | 11.00% | ~5 |
+| Eridanian Champion | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Meissa's Savior | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
 | Shard Spender | 9.00% | ~4 |
-| Unbeatable | 9.00% | ~4 |
-| Eridanian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
 | Star Killer | 7.00% | ~3 |

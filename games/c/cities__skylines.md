@@ -1,39 +1,39 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 282)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~773,616 |
-| Green Energy | 60.00% | ~653,760 |
-| Foggy Weather | 59.00% | ~642,864 |
-| Singing In The- | 59.00% | ~642,864 |
-| Unpopular Mayor | 40.00% | ~435,840 |
-| Power at Your Fingertips | 33.00% | ~359,568 |
-| City Planner | 23.00% | ~250,608 |
-| Rolling in Dough | 20.00% | ~217,920 |
-| Does My Bum Look Big In This? | 17.00% | ~185,232 |
-| Climbing the Social Ladder | 16.00% | ~174,336 |
-| Safe City | 14.00% | ~152,544 |
-| Quay-King | 11.00% | ~119,856 |
-| Lawmaker | 10.00% | ~108,960 |
-| With Canals You Can! | 10.00% | ~108,960 |
-| Nomen Est Omen | 7.00% | ~76,272 |
-| Well Informed | 6.00% | ~65,376 |
-| Fire Watch | 5.00% | ~54,480 |
-| Greenest City | 4.00% | ~43,584 |
-| Heavenly City | 3.00% | ~32,688 |
-| Reporting! | 3.00% | ~32,688 |
-| SIMulated City | 3.00% | ~32,688 |
-| The Safest Town | 3.00% | ~32,688 |
-| Professional Dumper | 2.00% | ~21,792 |
-| City in Motion | 1.00% | ~10,896 |
-| Earthloving City | 1.00% | ~10,896 |
-| Metropolis | 1.00% | ~10,896 |
+| Pioneer | 71.00% | ~773,668 |
+| Green Energy | 60.00% | ~653,804 |
+| Foggy Weather | 59.00% | ~642,907 |
+| Singing In The- | 59.00% | ~642,907 |
+| Unpopular Mayor | 40.00% | ~435,869 |
+| Power at Your Fingertips | 33.00% | ~359,592 |
+| City Planner | 23.00% | ~250,625 |
+| Rolling in Dough | 20.00% | ~217,935 |
+| Does My Bum Look Big In This? | 17.00% | ~185,244 |
+| Climbing the Social Ladder | 16.00% | ~174,348 |
+| Safe City | 14.00% | ~152,554 |
+| Quay-King | 11.00% | ~119,864 |
+| Lawmaker | 10.00% | ~108,967 |
+| With Canals You Can! | 10.00% | ~108,967 |
+| Nomen Est Omen | 7.00% | ~76,277 |
+| Well Informed | 6.00% | ~65,380 |
+| Fire Watch | 5.00% | ~54,484 |
+| Greenest City | 4.00% | ~43,587 |
+| Heavenly City | 3.00% | ~32,690 |
+| Reporting! | 3.00% | ~32,690 |
+| SIMulated City | 3.00% | ~32,690 |
+| The Safest Town | 3.00% | ~32,690 |
+| Professional Dumper | 2.00% | ~21,793 |
+| City in Motion | 1.00% | ~10,897 |
+| Earthloving City | 1.00% | ~10,897 |
+| Metropolis | 1.00% | ~10,897 |
 | Higher Education | 0.80% | ~8,717 |
-| Beam Me Up | 0.70% | ~7,627 |
+| Beam Me Up | 0.70% | ~7,628 |
 | Full Capacity | 0.60% | ~6,538 |
 | Terraformer | 0.60% | ~6,538 |
 | Decorator | 0.50% | ~5,448 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~5,448 |
 | The Waters of Our Lives | 0.50% | ~5,448 |
 | Twist and shout | 0.50% | ~5,448 |
-| Airfield Expertise | 0.40% | ~4,358 |
-| Airlifter | 0.40% | ~4,358 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,358 |
-| Happy Town | 0.40% | ~4,358 |
-| I Want It All | 0.40% | ~4,358 |
-| Just Tolling | 0.40% | ~4,358 |
-| Thunder and Lightning | 0.40% | ~4,358 |
+| Airfield Expertise | 0.40% | ~4,359 |
+| Airlifter | 0.40% | ~4,359 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,359 |
+| Happy Town | 0.40% | ~4,359 |
+| I Want It All | 0.40% | ~4,359 |
+| Just Tolling | 0.40% | ~4,359 |
+| Thunder and Lightning | 0.40% | ~4,359 |
 | A Huge Hadron | 0.30% | ~3,269 |
 | Airport Architect | 0.30% | ~3,269 |
 | Are They Naked In There? | 0.30% | ~3,269 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,090 |
 | Z00 | 0.10% | ~1,090 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089,600 (Ranked 11)  
+Progressed: 1,089,673 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,15 +295,15 @@ Completed: 10 (0.00%) (Ranked 306)
 | 2023-10-03 | 1,085,577 | 10 |
 | 2023-10-04 | 1,087,054 | 10 |
 | 2023-10-05 | 1,088,478 | 10 |
-| 2023-10-06 | 1,089,600 | 10 |
+| 2023-10-06 | 1,089,673 | 10 |
 ## Awards
 Max (Great for Beginners): 5,661  (Ranked 66)  
-Sum: 42,621 (Ranked 32)  
+Sum: 42,641 (Ranked 32)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,661 |
-| This game is Relaxing | 5,627 |
+| This game is Relaxing | 5,647 |
 | This game is Educational | 5,309 |
 | This game has Quickly Understood Controls | 5,244 |
 | This game is Extremely Fun | 4,918 |
@@ -568,4 +568,4 @@ Diff (max vs sum): 34
 | 2023-10-03 | 4.66 | - | 5,641 | 42,444 |
 | 2023-10-04 | 4.66 | - | 5,646 | 42,494 |
 | 2023-10-05 | 4.66 | - | 5,646 | 42,545 |
-| 2023-10-06 | 4.66 | - | 5,661 | 42,621 |
+| 2023-10-06 | 4.66 | - | 5,661 | 42,641 |
