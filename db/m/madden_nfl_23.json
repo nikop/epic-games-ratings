@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2087,
+  "EOS_Progressed": 2088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2023-10-06T06:06:48.5004051+00:00",
       "NumProgressed": 2087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T14:08:56.7348665+00:00",
+      "NumProgressed": 2088,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2398,7 +2403,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_13",
@@ -2406,7 +2411,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "achievement_14",
@@ -2494,7 +2499,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_5",
@@ -2541,7 +2546,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2087,
+      "Progressed": 2088,
       "Completed": 0
     }
   ],
@@ -2549,8 +2554,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-04T21:57:18.2366156+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:12:45.4005329+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:08:56.734866+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:51.8760408+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:12:45.4005537+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:58:40.8055409+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:08:56.7348954+00:00"
 }

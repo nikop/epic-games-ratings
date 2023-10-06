@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 41832,
+  "EOS_Progressed": 41836,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1674,
+  "EOS_NewPlayers": 1669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9950,6 +9950,11 @@
       "Time": "2023-10-06T12:07:06.6001783+00:00",
       "NumProgressed": 41832,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T14:08:55.1385785+00:00",
+      "NumProgressed": 41836,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -9969,7 +9974,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CAMP",
@@ -10009,7 +10014,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10105,7 +10110,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CRAFT_FIRST",
@@ -10113,7 +10118,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "CUFF_ATTACK",
@@ -10145,7 +10150,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEAPFROG",
@@ -10201,7 +10206,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -10361,7 +10366,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -10369,7 +10374,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "TANTACAT_ALL",
@@ -10384,22 +10389,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41832,
+      "Progressed": 41836,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6669,
-      "Completed": 6669
+      "Progressed": 6673,
+      "Completed": 6673
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-05T16:57:25.6587851+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:12:44.2349029+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:08:55.1385776+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:37.744789+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:12:44.2349852+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:58:18.4042009+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:08:55.1387637+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,733 |
-| Hey Good Hookin | 69.00% | ~4,134 |
-| I'm on a Boat! | 60.00% | ~3,595 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,355 |
-| Scaling up | 56.00% | ~3,355 |
-| More Fish in the Sea | 49.00% | ~2,936 |
-| Ready to Rod and Roll | 47.00% | ~2,816 |
+| Fish Just Got Reel | 79.00% | ~4,734 |
+| Hey Good Hookin | 69.00% | ~4,135 |
+| I'm on a Boat! | 60.00% | ~3,596 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,356 |
+| Scaling up | 56.00% | ~3,356 |
+| More Fish in the Sea | 49.00% | ~2,937 |
+| Ready to Rod and Roll | 47.00% | ~2,817 |
 | Fish Out of Water | 36.00% | ~2,157 |
-| License to Gill | 33.00% | ~1,977 |
-| Things that go Splash in the Night | 31.00% | ~1,857 |
-| Goldfish? | 29.00% | ~1,737 |
+| License to Gill | 33.00% | ~1,978 |
+| Things that go Splash in the Night | 31.00% | ~1,858 |
+| Goldfish? | 29.00% | ~1,738 |
 | Going for Gold | 26.00% | ~1,558 |
-| I'm Hooked! | 20.00% | ~1,198 |
+| I'm Hooked! | 20.00% | ~1,199 |
 | Diamond in the Rough | 13.00% | ~779 |
 | More than a Tourist | 11.00% | ~659 |
 | School's Out for Summer | 10.00% | ~599 |
 | Hook, Line and Sinker | 8.00% | ~479 |
 | Marathon | 8.00% | ~479 |
-| I'm the Captain Now | 6.00% | ~359 |
+| I'm the Captain Now | 6.00% | ~360 |
 | Big Fish Small Pond | 5.00% | ~300 |
 | The Beetles | 3.00% | ~180 |
 | Gonna Need a Bigger Boat | 3.00% | ~180 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,991 (Ranked 165)  
+Progressed: 5,993 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 5,974 | 0 |
 | 2023-10-04 | 5,981 | 0 |
 | 2023-10-05 | 5,990 | 0 |
-| 2023-10-06 | 5,991 | 0 |
+| 2023-10-06 | 5,993 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 449)  
 Sum: 180 (Ranked 390)  

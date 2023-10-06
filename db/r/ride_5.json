@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -2359,6 +2359,11 @@
       "Time": "2023-10-06T12:03:18.8504616+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T14:04:35.3506839+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2371,7 +2376,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2675,7 +2680,7 @@
       "Name": "Champagne Spray",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2762,14 +2767,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:09:35.8158209+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:04:35.3506832+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:54.5711968+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:09:35.8158681+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:58:44.165696+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:04:35.3508029+00:00"
 }

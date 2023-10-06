@@ -5,19 +5,19 @@ Rating: 4.61 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~759 |
-| Welcome Aboard | 86.00% | ~687 |
-| Lab Rat | 75.00% | ~599 |
-| All Systems Go | 66.00% | ~527 |
-| Brute Force | 66.00% | ~527 |
-| Cannon Fodder | 62.00% | ~495 |
-| Autofire | 60.00% | ~479 |
-| True Believer | 57.00% | ~455 |
-| Story Teller | 56.00% | ~447 |
-| Raise the Stakes | 56.00% | ~447 |
-| Surgeon | 53.00% | ~423 |
-| Exterminator | 51.00% | ~407 |
-| Greenhouse Effect | 51.00% | ~407 |
+| Marksman | 95.00% | ~760 |
+| Welcome Aboard | 87.00% | ~696 |
+| Lab Rat | 75.00% | ~600 |
+| All Systems Go | 66.00% | ~528 |
+| Brute Force | 66.00% | ~528 |
+| Cannon Fodder | 62.00% | ~496 |
+| Autofire | 60.00% | ~480 |
+| Story Teller | 57.00% | ~456 |
+| True Believer | 57.00% | ~456 |
+| Raise the Stakes | 56.00% | ~448 |
+| Surgeon | 53.00% | ~424 |
+| Greenhouse Effect | 52.00% | ~416 |
+| Exterminator | 51.00% | ~408 |
 | Freeze | 50.00% | ~400 |
 | Full Arsenal | 45.00% | ~360 |
 | S.O.S. | 44.00% | ~352 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | One Gun | 2.00% | ~16 |
 | Maxed Out | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 242)  
+Progressed: 800 (Ranked 242)  
 Completed: 3 (0.38%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 3 (0.38%) (Ranked 181)
 | 2023-10-03 | 748 | 3 |
 | 2023-10-04 | 767 | 3 |
 | 2023-10-05 | 785 | 3 |
-| 2023-10-06 | 799 | 3 |
+| 2023-10-06 | 800 | 3 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 343)  
 Sum: 101 (Ranked 425)  

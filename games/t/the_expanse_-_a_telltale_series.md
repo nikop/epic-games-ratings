@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 507)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~681 |
-| Drug Gifter | 2.00% | ~272 |
-| Bosmang | 2.00% | ~272 |
+| Drug Gifter | 2.00% | ~273 |
+| Bosmang | 2.00% | ~273 |
 | The Pit and the Pirates | 1.00% | ~136 |
 | Data Archivist | 1.00% | ~136 |
 | Drone Dodger | 1.00% | ~136 |
@@ -21,9 +21,9 @@ Rating: 4.54 (Ranked 507)
 | Khan's Revenge | 0.80% | ~109 |
 | Stogie for Fogey | 0.60% | ~82 |
 | Miraculous Maya | 0.50% | ~68 |
-| Doctor Approved | 0.40% | ~54 |
-| Bottoms up! | 0.40% | ~54 |
-| Thorston Mayer | 0.40% | ~54 |
+| Doctor Approved | 0.40% | ~55 |
+| Bottoms up! | 0.40% | ~55 |
+| Thorston Mayer | 0.40% | ~55 |
 | Data Logger | 0.30% | ~41 |
 | Brother's Reaper | 0.30% | ~41 |
 | No Belter Left Behind | 0.30% | ~41 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,624 (Ranked 135)  
+Progressed: 13,626 (Ranked 135)  
 Completed: 13 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 13 (0.10%) (Ranked 242)
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
-| 2023-10-06 | 13,624 | 13 |
+| 2023-10-06 | 13,626 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

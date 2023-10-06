@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346526,
+  "EOS_Progressed": 346527,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1094,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19672,6 +19672,11 @@
       "Time": "2023-10-06T13:10:06.0169054+00:00",
       "NumProgressed": 346526,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-06T14:05:16.2579149+00:00",
+      "NumProgressed": 346527,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19811,7 +19816,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45048
+      "UsersEstimate": 45049
     },
     {
       "ID": "ach018",
@@ -20035,7 +20040,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45048
+      "UsersEstimate": 45049
     },
     {
       "ID": "ach046",
@@ -20322,7 +20327,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346526,
+      "Progressed": 346527,
       "Completed": 7
     }
   ],
@@ -20330,8 +20335,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T10:02:31.4791386+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:10:06.016905+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:16.2579143+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.1527529+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:09:09.3742077+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:10:06.0170691+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:03:36.7789851+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:16.2581716+00:00"
 }

@@ -17,9 +17,9 @@
 | Bucolic city | 2.00% | ~7 |
 | I love parks | 1.00% | ~4 |
 | I love books! | 0.80% | ~3 |
+| King of fish | 0.80% | ~3 |
 | Food producer | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
-| King of fish | 0.60% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | City crisis | 0.30% | ~1 |

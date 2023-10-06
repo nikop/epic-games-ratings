@@ -8,7 +8,7 @@
 | Jung's dream | 63.00% | ~5 |
 | Master trainee | 50.00% | ~4 |
 | Giant | 50.00% | ~4 |
-| The battle of Great Britain | 38.00% | ~3 |
+| The battle of Great Britain | 50.00% | ~4 |
 | The happy farmer girl | 38.00% | ~3 |
 | The artist | 25.00% | ~2 |
 | Pulp! Out of this World | 25.00% | ~2 |

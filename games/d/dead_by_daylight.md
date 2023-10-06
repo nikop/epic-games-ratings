@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It wakes | 0.60% | ~5,531 |
 | Zealous | 0.50% | ~4,609 |
-| It wakes | 0.50% | ~4,609 |
 | Skillful | 0.50% | ~4,609 |
 | Handyman | 0.40% | ~3,687 |
 | Not half bad | 0.40% | ~3,687 |
 | Apt Survivor | 0.40% | ~3,687 |
 | Survival Treasures | 0.40% | ~3,687 |
 | Make Some Noise | 0.40% | ~3,687 |
-| The Grand Sacrifice | 0.30% | ~2,765 |
-| Agonizing Escape | 0.30% | ~2,765 |
-| Backdoor Escape | 0.30% | ~2,765 |
-| No one left behind | 0.30% | ~2,765 |
-| Medic | 0.30% | ~2,765 |
-| Nerves of steel | 0.30% | ~2,765 |
-| Perfect Escape | 0.30% | ~2,765 |
-| Bloody Millionaire | 0.30% | ~2,765 |
-| I | 0.30% | ~2,765 |
-| Engineer | 0.30% | ~2,765 |
-| Sorted | 0.30% | ~2,765 |
-| Healthy Obsession | 0.30% | ~2,765 |
-| Resurgence | 0.30% | ~2,765 |
-| Preemptive Strike | 0.30% | ~2,765 |
-| Humanitarian | 0.30% | ~2,765 |
+| The Grand Sacrifice | 0.30% | ~2,766 |
+| Agonizing Escape | 0.30% | ~2,766 |
+| Backdoor Escape | 0.30% | ~2,766 |
+| No one left behind | 0.30% | ~2,766 |
+| Medic | 0.30% | ~2,766 |
+| Nerves of steel | 0.30% | ~2,766 |
+| Perfect Escape | 0.30% | ~2,766 |
+| Bloody Millionaire | 0.30% | ~2,766 |
+| I | 0.30% | ~2,766 |
+| Engineer | 0.30% | ~2,766 |
+| Sorted | 0.30% | ~2,766 |
+| Healthy Obsession | 0.30% | ~2,766 |
+| Resurgence | 0.30% | ~2,766 |
+| Preemptive Strike | 0.30% | ~2,766 |
+| Humanitarian | 0.30% | ~2,766 |
 | I've got your back | 0.20% | ~1,844 |
 | Perfect Killing | 0.20% | ~1,844 |
 | Apt Killer | 0.20% | ~1,844 |
@@ -41,7 +41,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.20% | ~1,844 |
 | Every Last Drop | 0.20% | ~1,844 |
 | Close Shave | 0.20% | ~1,844 |
+| Raccoon City Recruit | 0.20% | ~1,844 |
 | With Scars to Show | 0.20% | ~1,844 |
+| Flight to Freedom | 0.20% | ~1,844 |
 | Second Act | 0.20% | ~1,844 |
 | A bite for the Entity | 0.10% | ~922 |
 | A feast for the Entity | 0.10% | ~922 |
@@ -179,7 +181,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Yun-Jin | 0.10% | ~922 |
 | Biological Weaponry | 0.10% | ~922 |
 | Adept Nemesis | 0.10% | ~922 |
-| Raccoon City Recruit | 0.10% | ~922 |
 | Adept Leon | 0.10% | ~922 |
 | Adept Jill | 0.10% | ~922 |
 | Tear Their Soul Apart | 0.10% | ~922 |
@@ -190,7 +191,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Caws of Death | 0.10% | ~922 |
 | Prowler | 0.10% | ~922 |
 | Adept Artist | 0.10% | ~922 |
-| Flight to Freedom | 0.10% | ~922 |
 | Adept Jonah | 0.10% | ~922 |
 | Viral Video | 0.10% | ~922 |
 | Ghost in the Machine | 0.10% | ~922 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~922 |
 | Adept Ripley | 0.10% | ~922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,765 (Ranked 14)  
+Progressed: 921,840 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,765 | 49 |
+| 2023-10-06 | 921,840 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,754 (Ranked 13)  

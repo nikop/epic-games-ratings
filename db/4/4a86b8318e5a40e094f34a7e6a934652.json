@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -791,9 +791,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -847,9 +847,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "TAKE_LEECH",
@@ -878,8 +878,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:10:08.9618128+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:20.4779667+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:06:35.1850432+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:10:08.9618267+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:02:38.4355022+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:20.4779988+00:00"
 }

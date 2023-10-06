@@ -4,25 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Dicesmithing Time! | 14.00% | ~6 |
+| Loyal Partner | 14.00% | ~6 |
 | Stellar Dismantler | 14.00% | ~6 |
 | Wild's Keeper | 14.00% | ~6 |
 | Apian Champion | 14.00% | ~6 |
 | Lacertian Champion | 14.00% | ~6 |
-| Dicesmithing Time! | 12.00% | ~5 |
-| Loyal Partner | 12.00% | ~5 |
+| Endless Tricks | 12.00% | ~5 |
 | Mechanical Buddy | 12.00% | ~5 |
 | Mind Illuminator | 12.00% | ~5 |
 | Purification Pioneer | 12.00% | ~5 |
 | Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
-| Endless Tricks | 9.00% | ~4 |
 | Meissa's Savior | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
+| Shard Spender | 9.00% | ~4 |
 | Unbeatable | 9.00% | ~4 |
 | Eridanian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
-| Shard Spender | 7.00% | ~3 |
+| Star Killer | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
 | Anomaly Control | 5.00% | ~2 |
 | Astrarium of Holding | 5.00% | ~2 |
@@ -31,7 +32,6 @@
 | Heart Gate | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
-| Star Killer | 5.00% | ~2 |
 | The Corruption Goddess | 5.00% | ~2 |
 | Wave Bender | 5.00% | ~2 |
 | Lacertian Mastery | 5.00% | ~2 |

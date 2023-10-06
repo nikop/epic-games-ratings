@@ -27,6 +27,7 @@ Rating: 4.63 (Ranked 335)
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |
+| We Came, We Chainsaw, We Conquered | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |
@@ -43,7 +44,6 @@ Rating: 4.63 (Ranked 335)
 | See Salt | 0.10% | ~1 |
 | Porch Pirate | 0.10% | ~1 |
 | Harper? I Barely Know Her! | 0.10% | ~1 |
-| We Came, We Chainsaw, We Conquered | 0.10% | ~1 |
 | Give Away All Your Money | 0.10% | ~1 |
 | Fall In Love With A Parasite | 0.10% | ~1 |
 | Meet Frasier from Frasier | 0.10% | ~1 |

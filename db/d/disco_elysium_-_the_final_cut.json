@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1337,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129378,
+  "EOS_Progressed": 129379,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18277,6 +18277,11 @@
       "Time": "2023-10-06T13:09:56.425957+00:00",
       "NumProgressed": 129378,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-06T14:05:03.3065213+00:00",
+      "NumProgressed": 129379,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18392,7 +18397,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20700
+      "UsersEstimate": 20701
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -18400,7 +18405,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27169
+      "UsersEstimate": 27170
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -18424,7 +18429,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20700
+      "UsersEstimate": 20701
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -18607,15 +18612,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129378,
+      "Progressed": 129379,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:09:56.4259566+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:03.3065208+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:04:29.3578227+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:09:56.4260627+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:59:36.589385+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:03.3066606+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -797,9 +797,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28421,
+  "EOS_Progressed": 28422,
   "EOS_Completed": 1358,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -5842,6 +5842,11 @@
       "Time": "2023-10-06T13:09:56.8995291+00:00",
       "NumProgressed": 28421,
       "NumCompleted": 1358
+    },
+    {
+      "Time": "2023-10-06T14:05:03.9803686+00:00",
+      "NumProgressed": 28422,
+      "NumCompleted": 1358
     }
   ],
   "TotalAchievements": 30,
@@ -5853,7 +5858,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12789
+      "UsersEstimate": 12790
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -5909,7 +5914,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18758
+      "UsersEstimate": 18759
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -5917,7 +5922,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21884
+      "UsersEstimate": 21885
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -5941,7 +5946,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16769
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -5949,7 +5954,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27568
+      "UsersEstimate": 27569
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -5957,7 +5962,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19610
+      "UsersEstimate": 19611
     },
     {
       "ID": "ACH_GOLEM",
@@ -5965,7 +5970,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "ACH_HATS",
@@ -5973,7 +5978,7 @@
       "Name": "Dapper Capper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "ACH_HOME",
@@ -6005,7 +6010,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 15063
+      "UsersEstimate": 15064
     },
     {
       "ID": "ACH_PUZZLE",
@@ -6021,7 +6026,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16769
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -6029,7 +6034,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11368
+      "UsersEstimate": 11369
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -6085,22 +6090,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28421,
+      "Progressed": 28422,
       "Completed": 1358
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:09:56.8995288+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:03.9803679+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:09.9340102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:04:37.9760225+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:09:56.8995695+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:59:50.0779633+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:03.9804318+00:00"
 }

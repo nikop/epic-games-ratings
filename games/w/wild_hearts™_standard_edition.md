@@ -8,8 +8,8 @@
 | Hidden History | 84.00% | ~86 |
 | Budding Conjuror | 77.00% | ~79 |
 | Commencing of Quests | 75.00% | ~76 |
+| Man-Machine Master | 70.00% | ~71 |
 | Charmed by the Hunt | 70.00% | ~71 |
-| Man-Machine Master | 69.00% | ~70 |
 | Mountain Splitter | 68.00% | ~69 |
 | Memory Rouser | 66.00% | ~67 |
 | Fusion Conjuror | 65.00% | ~66 |
@@ -22,7 +22,7 @@
 | Flawless Crystal | 53.00% | ~54 |
 | Counter Specialist | 50.00% | ~51 |
 | Bonds of Enmity | 50.00% | ~51 |
-| Axer of Auspice | 43.00% | ~44 |
+| Axer of Auspice | 44.00% | ~45 |
 | Single Minded | 40.00% | ~41 |
 | Fair Means or Foul | 40.00% | ~41 |
 | Karakuri Trail | 39.00% | ~40 |

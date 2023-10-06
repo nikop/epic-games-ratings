@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2656,9 +2656,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH045",
@@ -2712,8 +2712,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:11:39.7051219+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:07:25.7986014+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.0354085+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:17.0008696+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:11:39.7051649+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:57:51.3367791+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:07:25.7987007+00:00"
 }

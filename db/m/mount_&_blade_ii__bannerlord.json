@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7657,10 +7657,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14737,
       "NumberOfAwardsMax": 7185
+    },
+    {
+      "Time": "2023-10-06T13:57:43.7695378+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14745,
+      "NumberOfAwardsMax": 7185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14737,
+  "NumberOfAwards": 14745,
   "NumberOfAwardsMax": 7185,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7704,7 +7710,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 823
+      "Count": 828
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7716,7 +7722,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 941
+      "Count": 944
     },
     {
       "Text": "This game is Relaxing",
@@ -7737,9 +7743,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62791,
+  "EOS_Progressed": 62794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25707,6 +25713,11 @@
       "Time": "2023-10-06T13:10:32.4621268+00:00",
       "NumProgressed": 62791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T14:05:52.9997093+00:00",
+      "NumProgressed": 62794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25734,7 +25745,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "Best served cold",
@@ -25758,7 +25769,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "Catch",
@@ -25878,7 +25889,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "I can do it",
@@ -25910,7 +25921,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "Kingslayer",
@@ -25926,7 +25937,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "Lance-a-lot",
@@ -25942,7 +25953,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "Lawbringer",
@@ -25950,7 +25961,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24488
+      "UsersEstimate": 24490
     },
     {
       "ID": "Lawmaker",
@@ -25958,7 +25969,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "Long live the Empire",
@@ -25974,7 +25985,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "Minor Clan",
@@ -26070,7 +26081,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11302
+      "UsersEstimate": 11303
     },
     {
       "ID": "This Is Our Land",
@@ -26094,7 +26105,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "Undercover",
@@ -26125,15 +26136,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62791,
+      "Progressed": 62794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-06T10:57:23.5886686+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:10:32.4621264+00:00",
+  "LastChanged": "2023-10-06T13:57:43.7695376+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:52.9997088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:11.9776064+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:10:32.4622431+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:57:43.7695388+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:52.9998861+00:00"
 }

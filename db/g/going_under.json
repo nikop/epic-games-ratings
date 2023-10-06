@@ -4,8 +4,8 @@
   "ProductSlug": "going-under",
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-29T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.8880203+00:00",
   "LastChanged": "2023-03-31T05:58:03.8880204+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:53.8412067+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:03:17.1706937+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:11:12.8598077+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:57:51.6096842+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:06:48.6399807+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.06 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,854 |
-| World Map | 79.00% | ~1,575 |
+| Victor | 93.00% | ~1,855 |
+| World Map | 79.00% | ~1,576 |
 | Temple of Eternals | 57.00% | ~1,137 |
 | Prestigious | 54.00% | ~1,077 |
-| Fellowship Power | 42.00% | ~837 |
-| Guild Power | 26.00% | ~518 |
+| Fellowship Power | 42.00% | ~838 |
+| Guild Power | 26.00% | ~519 |
 | Prestigious x10 | 23.00% | ~459 |
 | The game is on | 21.00% | ~419 |
 | Exotic Merchant | 19.00% | ~379 |
@@ -38,11 +38,11 @@ Rating: 4.06 (Ranked 949)
 | Moving Up The Ladder | 11.00% | ~219 |
 | Relic Of The Past | 11.00% | ~219 |
 | Scroll Master | 11.00% | ~219 |
-| Frostfire Liberator | 10.00% | ~199 |
-| The father of Dragons | 10.00% | ~199 |
-| Here We Go Again | 9.00% | ~179 |
-| Master Enchanter | 9.00% | ~179 |
-| Trader | 9.00% | ~179 |
+| Frostfire Liberator | 10.00% | ~200 |
+| Master Enchanter | 10.00% | ~200 |
+| The father of Dragons | 10.00% | ~200 |
+| Here We Go Again | 9.00% | ~180 |
+| Trader | 9.00% | ~180 |
 | Blueprint Upgrades | 8.00% | ~160 |
 | Crystal Mining | 8.00% | ~160 |
 | Dragon Slayer | 8.00% | ~160 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 949)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,994 (Ranked 202)  
+Progressed: 1,995 (Ranked 202)  
 Completed: 2 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,14 +246,14 @@ Completed: 2 (0.10%) (Ranked 242)
 | 2023-10-02 | 1,987 | 2 |
 | 2023-10-03 | 1,989 | 2 |
 | 2023-10-05 | 1,990 | 2 |
-| 2023-10-06 | 1,994 | 2 |
+| 2023-10-06 | 1,995 | 2 |
 ## Awards
-Max (Great for Beginners): 24  (Ranked 499)  
-Sum: 66 (Ranked 454)  
-Diff (max vs sum): 45  
+Max (Great for Beginners): 25  (Ranked 495)  
+Sum: 67 (Ranked 451)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 24 |
+| This game is Great for Beginners | 25 |
 | This game is Great for Quick Sessions | 22 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -301,3 +301,4 @@ Diff (max vs sum): 45
 | 2023-09-30 | 4.05 | 23 | 65 |
 | 2023-10-01 | 4.05 | 24 | 66 |
 | 2023-10-04 | 4.06 | 24 | 66 |
+| 2023-10-06 | 4.06 | 25 | 67 |

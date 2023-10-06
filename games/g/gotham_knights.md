@@ -8,10 +8,10 @@ Rating: 4.18 (Ranked 895)
 | First Step Into the Knight | 52.00% | ~38,067 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,622 |
 | Loose Ends | 34.00% | ~24,890 |
-| To the Victor Go the Spoils | 29.00% | ~21,229 |
-| Knighthood | 28.00% | ~20,497 |
-| Get ReQ'd | 25.00% | ~18,301 |
-| Whispered Words | 25.00% | ~18,301 |
+| To the Victor Go the Spoils | 29.00% | ~21,230 |
+| Knighthood | 28.00% | ~20,498 |
+| Get ReQ'd | 25.00% | ~18,302 |
+| Whispered Words | 25.00% | ~18,302 |
 | The Batman Family | 23.00% | ~16,837 |
 | Lock and Key | 23.00% | ~16,837 |
 | Something in the Clay | 21.00% | ~15,373 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 895)
 | Bulldozed | 12.00% | ~8,785 |
 | Gotham Knight | 12.00% | ~8,785 |
 | Gotham City Confidential | 11.00% | ~8,053 |
-| Drone You Out | 10.00% | ~7,320 |
-| Out of Their League | 9.00% | ~6,588 |
-| Solid Alibi | 9.00% | ~6,588 |
+| Drone You Out | 10.00% | ~7,321 |
+| Out of Their League | 9.00% | ~6,589 |
+| Solid Alibi | 9.00% | ~6,589 |
 | Fusion Expert | 7.00% | ~5,124 |
 | Family Meeting | 6.00% | ~4,392 |
 | A Worthy Successor | 6.00% | ~4,392 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 895)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,205 (Ranked 90)  
+Progressed: 73,206 (Ranked 90)  
 Completed: 120 (0.16%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 120 (0.16%) (Ranked 222)
 | 2023-10-03 | 73,099 | 122 |
 | 2023-10-04 | 73,139 | 122 |
 | 2023-10-05 | 73,181 | 120 |
-| 2023-10-06 | 73,205 | 120 |
+| 2023-10-06 | 73,206 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,784  (Ranked 97)  
 Sum: 4,663 (Ranked 140)  

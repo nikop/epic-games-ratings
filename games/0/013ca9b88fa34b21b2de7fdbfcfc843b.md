@@ -5,20 +5,20 @@ Rating: 4.80 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,463 |
-| A Thorny Situation | 70.00% | ~4,280 |
-| ... And Spit Back Out | 59.00% | ~3,607 |
-| Break-Net Speed | 47.00% | ~2,874 |
-| Bramble Breaker | 45.00% | ~2,751 |
-| Miner 49er | 42.00% | ~2,568 |
-| Humble Collector | 41.00% | ~2,507 |
-| Calm Sailing | 35.00% | ~2,140 |
-| Open the Gate! | 31.00% | ~1,895 |
-| Mist Walker | 29.00% | ~1,773 |
-| Lumberjack | 25.00% | ~1,528 |
-| Oui, Chef! | 22.00% | ~1,345 |
-| Clear the Air | 16.00% | ~978 |
-| Botanical Breakthrough | 15.00% | ~917 |
+| Azoria Beckons | 73.00% | ~4,466 |
+| A Thorny Situation | 70.00% | ~4,283 |
+| ... And Spit Back Out | 59.00% | ~3,610 |
+| Break-Net Speed | 47.00% | ~2,875 |
+| Bramble Breaker | 45.00% | ~2,753 |
+| Miner 49er | 42.00% | ~2,570 |
+| Humble Collector | 41.00% | ~2,508 |
+| Calm Sailing | 35.00% | ~2,141 |
+| Open the Gate! | 31.00% | ~1,897 |
+| Mist Walker | 29.00% | ~1,774 |
+| Lumberjack | 25.00% | ~1,530 |
+| Oui, Chef! | 22.00% | ~1,346 |
+| Clear the Air | 16.00% | ~979 |
+| Botanical Breakthrough | 15.00% | ~918 |
 | Beach Comber | 13.00% | ~795 |
 | Search for the Hairy Grell | 11.00% | ~673 |
 | Higher Tax Bracket | 11.00% | ~673 |
@@ -31,8 +31,8 @@ Rating: 4.80 (Ranked 83)
 | Scattered Scroll Scrounger | 5.00% | ~306 |
 | Azorian Anniversary | 5.00% | ~306 |
 | I Now Pronounce You... | 4.00% | ~245 |
-| Chatty Neighbor | 3.00% | ~183 |
-| House Proud | 3.00% | ~183 |
+| Chatty Neighbor | 3.00% | ~184 |
+| House Proud | 3.00% | ~184 |
 | Right Tool For the Job | 2.00% | ~122 |
 | Angling Authority | 1.00% | ~61 |
 | Captain of Cozy | 1.00% | ~61 |
@@ -41,7 +41,7 @@ Rating: 4.80 (Ranked 83)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,114 (Ranked 163)  
+Progressed: 6,118 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 5,939 | 0 |
 | 2023-10-04 | 6,004 | 0 |
 | 2023-10-05 | 6,080 | 0 |
-| 2023-10-06 | 6,114 | 0 |
+| 2023-10-06 | 6,118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

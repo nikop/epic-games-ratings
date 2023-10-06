@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3882,9 +3882,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88812,
+  "EOS_Progressed": 88814,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21357,6 +21357,11 @@
       "Time": "2023-10-06T13:09:55.3467231+00:00",
       "NumProgressed": 88812,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-06T14:05:01.6822174+00:00",
+      "NumProgressed": 88814,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21376,7 +21381,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_0012",
@@ -21536,7 +21541,7 @@
       "Name": "Too Old for This",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_0300",
@@ -21695,13 +21700,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88812,
+      "Progressed": 88814,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17159,
+      "Progressed": 17161,
       "Completed": 15541
     }
   ],
@@ -21709,8 +21714,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-06T07:59:05.3412308+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:09:55.3467227+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:05:01.6822166+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:05:16.8980139+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:09:55.3468295+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:00:44.7597098+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:05:01.6823708+00:00"
 }

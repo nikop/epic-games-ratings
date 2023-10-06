@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1182,7 +1182,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5464,
+  "EOS_Progressed": 5465,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -10847,6 +10847,11 @@
       "Time": "2023-10-06T08:06:44.3825931+00:00",
       "NumProgressed": 5464,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T14:09:07.0126541+00:00",
+      "NumProgressed": 5465,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10978,7 +10983,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11018,7 +11023,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11050,7 +11055,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_MYWAYS",
@@ -11114,7 +11119,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11138,7 +11143,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -11162,7 +11167,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -11177,15 +11182,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5464,
+      "Progressed": 5465,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-05T18:01:13.1907097+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:12:53.0181143+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:09:07.0126533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:06:09.6428103+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:12:53.018186+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:01:57.710693+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:09:07.0127471+00:00"
 }

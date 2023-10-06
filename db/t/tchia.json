@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7550,
+  "EOS_Progressed": 7551,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7244,6 +7244,11 @@
       "Time": "2023-10-06T00:08:31.8526964+00:00",
       "NumProgressed": 7550,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-06T14:09:55.6638635+00:00",
+      "NumProgressed": 7551,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7279,7 +7284,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -7295,7 +7300,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7311,7 +7316,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "FASHION_VICTIM",
@@ -7319,7 +7324,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -7327,7 +7332,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -7422,7 +7427,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7550,
+      "Progressed": 7551,
       "Completed": 33
     }
   ],
@@ -7430,8 +7435,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:14:38.8808565+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:09:55.663863+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.4912999+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:06:40.1510845+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:14:38.8809008+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:02:48.4709816+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:09:55.6639231+00:00"
 }

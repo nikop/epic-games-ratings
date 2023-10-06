@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 80.00% | ~246 |
-| First Blood | 62.00% | ~190 |
-| Triple Kill | 60.00% | ~184 |
-| Aspairagus | 60.00% | ~154 |
+| First Blood | 62.00% | ~191 |
+| Triple Kill | 60.00% | ~185 |
+| Aspairagus | 60.00% | ~155 |
 | No Asperascope | 56.00% | ~172 |
 | Survivor | 56.00% | ~144 |
 | Cornivore | 53.00% | ~163 |
-| I Believe I Can Fly | 49.00% | ~150 |
+| I Believe I Can Fly | 49.00% | ~151 |
 | No Diggity | 43.00% | ~111 |
 | Early Survivor | 40.00% | ~103 |
-| Bouncemato | 32.00% | ~82 |
+| Bouncemato | 31.00% | ~80 |
 | 10K | 30.00% | ~92 |
 | Amateur Survivor | 30.00% | ~77 |
 | 15K | 28.00% | ~86 |
@@ -22,7 +22,7 @@
 | Drinking Problem | 22.00% | ~68 |
 | Grave Digger | 22.00% | ~57 |
 | Professional Survivor | 21.00% | ~54 |
-| Pork Chop Express | 19.00% | ~58 |
+| Pork Chop Express | 19.00% | ~59 |
 | Skin Of Your Teeth | 17.00% | ~52 |
 | Carrocketeer | 17.00% | ~52 |
 | This Is My Boomstick | 17.00% | ~44 |
@@ -47,11 +47,11 @@
 | Pro Shotgunner | 1.00% | ~3 |
 | King of the Crow | 1.00% | ~3 |
 | Easy Peasy | 1.00% | ~3 |
-| Pro Pyromancer | 0.70% | ~2 |
-| Pro Sniperagus | 0.70% | ~2 |
-| Unstoppable | 0.70% | ~2 |
-| Death From Above | 0.70% | ~2 |
-| Tomassacred | 0.70% | ~2 |
+| Pro Pyromancer | 0.60% | ~2 |
+| Pro Sniperagus | 0.60% | ~2 |
+| Unstoppable | 0.60% | ~2 |
+| Death From Above | 0.60% | ~2 |
+| Tomassacred | 0.60% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Pro Carrocketeer | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 307)  
+Progressed: 308 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 303 | 0 |
 | 2023-10-02 | 305 | 0 |
 | 2023-10-04 | 306 | 0 |
-| 2023-10-06 | 307 | 0 |
+| 2023-10-06 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

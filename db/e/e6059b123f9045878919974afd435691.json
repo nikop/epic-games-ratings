@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2046,6 +2046,11 @@
       "Time": "2023-10-06T06:06:53.1479932+00:00",
       "NumProgressed": 854,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T14:09:03.8917886+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2177,7 +2182,7 @@
       "Name": "Burnt Smell",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2265,7 +2270,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2295,9 +2300,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 137
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2313,7 +2318,7 @@
       "Name": "Free Like Birds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2337,15 +2342,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 299
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2361,7 +2366,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2375,9 +2380,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 274
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2415,9 +2420,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 231
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2431,9 +2436,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 214
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2457,7 +2462,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2497,7 +2502,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2505,7 +2510,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2584,14 +2589,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-06T13:12:50.782946+00:00",
+  "LastChanged_Achievements": "2023-10-06T14:09:03.891788+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:06:46.974216+00:00",
-  "LastUpdate_Achievements": "2023-10-06T13:12:50.7830104+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:02:53.5213543+00:00",
+  "LastUpdate_Achievements": "2023-10-06T14:09:03.8918726+00:00"
 }
