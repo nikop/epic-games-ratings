@@ -6,8 +6,8 @@
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -737,9 +737,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3818,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6712,6 +6712,11 @@
       "Time": "2023-10-06T22:05:14.8095213+00:00",
       "NumProgressed": 3818,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T23:05:03.5257632+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6748,7 +6753,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -6764,7 +6769,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -6834,9 +6839,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 764
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -6884,7 +6889,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -6907,15 +6912,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3818,
+      "Progressed": 3820,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-05T19:57:26.6544273+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:05:14.8095208+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:05:03.5257627+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:04.2024158+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:08.3766446+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:05:14.8095684+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:54.9569127+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:05:03.525817+00:00"
 }

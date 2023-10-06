@@ -9,29 +9,29 @@
 | Welcome to the Tower | 2.00% | ~5 |
 | The great escape | 2.00% | ~5 |
 | Rascal | 1.00% | ~3 |
+| Cable guy | 0.80% | ~2 |
+| Half the way | 0.80% | ~2 |
+| Open door | 0.80% | ~2 |
+| Free at last | 0.80% | ~2 |
+| Feels like springtime | 0.80% | ~2 |
+| For its own good | 0.80% | ~2 |
+| A Link to the Past | 0.80% | ~2 |
+| Alchemists Express | 0.80% | ~2 |
+| Champollion | 0.80% | ~2 |
 | A new dawn | 0.80% | ~2 |
+| One last step | 0.80% | ~2 |
 | I did it | 0.40% | ~1 |
 | In this together | 0.40% | ~1 |
 | Peace walker | 0.40% | ~1 |
-| Cable guy | 0.40% | ~1 |
-| Half the way | 0.40% | ~1 |
-| Open door | 0.40% | ~1 |
-| Free at last | 0.40% | ~1 |
-| Feels like springtime | 0.40% | ~1 |
-| For its own good | 0.40% | ~1 |
-| A Link to the Past | 0.40% | ~1 |
-| Alchemists Express | 0.40% | ~1 |
-| Champollion | 0.40% | ~1 |
-| One last step | 0.40% | ~1 |
-| A good beginning | 0.00% | ~0 |
+| A good beginning | 0.40% | ~1 |
+| True G3M4R | 0.40% | ~1 |
+| Scholar | 0.40% | ~1 |
+| The darkness | 0.40% | ~1 |
 | A great audience | 0.00% | ~0 |
-| True G3M4R | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
-| The darkness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 327)  
-Completed: 17 (6.75%) (Ranked 48)  
+Completed: 17 (6.75%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

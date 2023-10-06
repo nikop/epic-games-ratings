@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,963 |
-| Until death do us apart | 4.00% | ~16,963 |
-| That is mine! | 3.00% | ~12,722 |
-| Victorious! | 3.00% | ~12,722 |
+| That's a Grand Army | 4.00% | ~16,965 |
+| Until death do us apart | 4.00% | ~16,965 |
+| That is mine! | 3.00% | ~12,723 |
+| Victorious! | 3.00% | ~12,723 |
 | Brothers in Arms | 2.00% | ~8,482 |
 | For the Glory | 2.00% | ~8,482 |
 | That's a Grand Navy | 2.00% | ~8,482 |
@@ -26,12 +26,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,393 |
 | Total Control | 0.80% | ~3,393 |
 | Royal Authority | 0.70% | ~2,969 |
-| My armies are invincible! | 0.60% | ~2,544 |
-| Agressive Expander | 0.50% | ~2,120 |
-| Azur semé de lis or | 0.50% | ~2,120 |
-| City of Cities | 0.50% | ~2,120 |
-| Combined Arms | 0.50% | ~2,120 |
-| This navy can take it all | 0.50% | ~2,120 |
+| My armies are invincible! | 0.60% | ~2,545 |
+| Agressive Expander | 0.50% | ~2,121 |
+| Azur semé de lis or | 0.50% | ~2,121 |
+| City of Cities | 0.50% | ~2,121 |
+| Combined Arms | 0.50% | ~2,121 |
+| This navy can take it all | 0.50% | ~2,121 |
 | Bright Spark | 0.40% | ~1,696 |
 | Factionalism | 0.40% | ~1,696 |
 | Gentle Persuasion | 0.40% | ~1,696 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,083 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 306)  
+Progressed: 424,114 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -530,7 +530,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
-| 2023-10-06 | 424,083 | 1 |
+| 2023-10-06 | 424,114 | 1 |
 ## Awards
 Max (Educational): 6,412  (Ranked 56)  
 Sum: 52,738 (Ranked 24)  

@@ -2,12 +2,12 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1874,6 +1874,11 @@
       "Time": "2023-10-05T19:07:07.6380981+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T23:07:11.2212534+00:00",
+      "NumProgressed": 1109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1885,7 +1890,7 @@
       "Name": "Full house",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -2037,7 +2042,7 @@
       "Name": "Burn and Pillage",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
@@ -2085,7 +2090,7 @@
       "Name": "Hear me out",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "RUIN_CLEAR",
@@ -2109,7 +2114,7 @@
       "Name": "We made it",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2117,7 +2122,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -2244,7 +2249,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 0
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:35.0661133+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:07:11.2212526+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:14.9386431+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:03:20.4088908+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:35.0661523+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:02:29.1992752+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:11.2213011+00:00"
 }

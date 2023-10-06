@@ -2,11 +2,11 @@
   "ID": "da939f32956f4fc68e0ea965edb98f8d",
   "Name": "King\u0027s Bounty: Armored Princess",
   "ProductSlug": "kings-bounty-armored-princess-2fbc57",
-  "Ranking_Rating": 56,
+  "Ranking_Rating": 57,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -80,6 +80,6 @@
   "FirstSeenRating": "2022-09-15T21:32:29.6730065+00:00",
   "LastChanged": "2023-05-30T04:59:28.6461171+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.6005164+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:57:50.4362816+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:06:22.8982126+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:36.1978335+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:04.9150239+00:00"
 }

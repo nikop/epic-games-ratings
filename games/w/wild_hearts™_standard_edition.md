@@ -49,12 +49,12 @@
 | Haven Hunter | 21.00% | ~22 |
 | Relentless Kemono Hunter | 20.00% | ~21 |
 | Vanquisher of the Volatile | 17.00% | ~18 |
-| Bewitched by Bathing | 15.00% | ~16 |
+| Bewitched by Bathing | 16.00% | ~17 |
 | Big Spender | 13.00% | ~14 |
 | Tsukumo Whisperer | 9.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106 (Ranked 377)  
-Completed: 4 (3.77%) (Ranked 70)  
+Completed: 4 (3.77%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

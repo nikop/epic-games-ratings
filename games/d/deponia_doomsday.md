@@ -12,8 +12,8 @@ Rating: 4.55 (Ranked 488)
 | FunScore | 55.00% | ~235 |
 | Funtime's over | 53.00% | ~226 |
 | Chunky | 50.00% | ~214 |
+| Shall we play a game? | 49.00% | ~209 |
 | Boat of love, boat of love | 49.00% | ~209 |
-| Shall we play a game? | 48.00% | ~205 |
 | School's out | 43.00% | ~184 |
 | Scaffolding Expert | 37.00% | ~158 |
 | Elysian Minigame-Master | 37.00% | ~158 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 488)
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 427 (Ranked 284)  
-Completed: 6 (1.41%) (Ranked 119)  
+Completed: 6 (1.41%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

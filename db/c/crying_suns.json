@@ -6,7 +6,7 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468607,
+  "EOS_Progressed": 468608,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18325,6 +18325,11 @@
       "Time": "2023-10-06T22:06:23.7858551+00:00",
       "NumProgressed": 468607,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-06T23:06:05.8562622+00:00",
+      "NumProgressed": 468608,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18472,7 +18477,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32802
+      "UsersEstimate": 32803
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -18480,7 +18485,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32802
+      "UsersEstimate": 32803
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -18512,7 +18517,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93721
+      "UsersEstimate": 93722
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -18520,7 +18525,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159326
+      "UsersEstimate": 159327
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -18576,7 +18581,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32802
+      "UsersEstimate": 32803
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -18760,7 +18765,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206187
+      "UsersEstimate": 206188
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -18967,21 +18972,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12541,
+      "Progressed": 12542,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468607,
+      "Progressed": 468608,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:06:23.7858545+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:06:05.8562612+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:25.4640051+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:53.7487822+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:06:23.7860036+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:32.9316828+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:05.8564623+00:00"
 }

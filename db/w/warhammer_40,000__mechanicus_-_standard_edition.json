@@ -6,7 +6,7 @@
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -729,9 +729,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224097,
+  "EOS_Progressed": 224102,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19154,6 +19154,11 @@
       "Time": "2023-10-06T22:08:32.7702504+00:00",
       "NumProgressed": 224097,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T23:08:04.5802274+00:00",
+      "NumProgressed": 224102,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19165,7 +19170,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42578
+      "UsersEstimate": 42579
     },
     {
       "ID": "ACH_BASE_10",
@@ -19173,7 +19178,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58265
+      "UsersEstimate": 58267
     },
     {
       "ID": "ACH_BASE_11",
@@ -19436,7 +19441,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224097,
+      "Progressed": 224102,
       "Completed": 5
     }
   ],
@@ -19444,8 +19449,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-06T20:58:11.7746664+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:08:32.77025+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:08:04.5802269+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.1217409+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:00.4417648+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:08:32.7703539+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:44.9785227+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:08:04.580366+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67137,
+  "EOS_Progressed": 67139,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17104,6 +17104,11 @@
       "Time": "2023-10-06T22:07:04.0056058+00:00",
       "NumProgressed": 67137,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-06T23:06:33.3411021+00:00",
+      "NumProgressed": 67139,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17123,7 +17128,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18127
+      "UsersEstimate": 18128
     },
     {
       "ID": "03",
@@ -17219,7 +17224,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "15",
@@ -17235,7 +17240,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "17",
@@ -17347,7 +17352,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "31",
@@ -17363,7 +17368,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22155
+      "UsersEstimate": 22156
     },
     {
       "ID": "33",
@@ -17379,7 +17384,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "35",
@@ -17387,7 +17392,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23498
+      "UsersEstimate": 23499
     },
     {
       "ID": "36",
@@ -17475,7 +17480,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11413
+      "UsersEstimate": 11414
     },
     {
       "ID": "47",
@@ -17515,7 +17520,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "52",
@@ -17650,21 +17655,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67137,
+      "Progressed": 67139,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30605,
+      "Progressed": 30607,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:04.0056054+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:06:33.3411011+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:57:25.1176682+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:04.0057501+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:15.8275854+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:33.3412707+00:00"
 }

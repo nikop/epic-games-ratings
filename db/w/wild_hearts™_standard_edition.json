@@ -3,7 +3,7 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
@@ -727,9 +727,9 @@
       "ID": "achievement_36",
       "SetID": "2cpn27e",
       "Name": "Bewitched by Bathing",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_37",
@@ -885,8 +885,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:04:34.8726617+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:04:17.3030952+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:02:53.3593204+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:04:34.8727141+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:02:10.7285453+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:04:17.3031454+00:00"
 }

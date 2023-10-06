@@ -6,8 +6,8 @@
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,7 +514,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3552,
+  "EOS_Progressed": 3553,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -5044,6 +5044,11 @@
       "Time": "2023-10-06T12:05:31.367618+00:00",
       "NumProgressed": 3552,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-06T23:06:22.3023118+00:00",
+      "NumProgressed": 3553,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5111,7 +5116,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Eureka_23",
@@ -5159,7 +5164,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "HouseofCards_19",
@@ -5239,7 +5244,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5255,7 +5260,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5279,7 +5284,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5390,15 +5395,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3552,
+      "Progressed": 3553,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:06:41.6513806+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:06:22.3023112+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:03:29.8274911+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:06:41.6514275+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:03:07.3492633+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:22.302373+00:00"
 }

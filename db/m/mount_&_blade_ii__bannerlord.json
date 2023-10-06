@@ -6,8 +6,8 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7749,9 +7749,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62812,
+  "EOS_Progressed": 62814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25759,6 +25759,11 @@
       "Time": "2023-10-06T22:05:26.7320066+00:00",
       "NumProgressed": 62812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T23:05:14.5024933+00:00",
+      "NumProgressed": 62814,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25770,7 +25775,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7537
+      "UsersEstimate": 7538
     },
     {
       "ID": "Apple of my eye",
@@ -25994,7 +25999,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20728
+      "UsersEstimate": 20729
     },
     {
       "ID": "Lawbringer",
@@ -26122,7 +26127,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11306
+      "UsersEstimate": 11307
     },
     {
       "ID": "This Is Our Land",
@@ -26130,7 +26135,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7537
+      "UsersEstimate": 7538
     },
     {
       "ID": "This is Sparta",
@@ -26154,7 +26159,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "Veni vidi vici",
@@ -26162,7 +26167,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -26177,15 +26182,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62812,
+      "Progressed": 62814,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-06T18:57:20.909867+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:05:26.732006+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:05:14.5024928+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:57:34.0984505+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:05:26.7321515+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:22.5705662+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:05:14.5026457+00:00"
 }

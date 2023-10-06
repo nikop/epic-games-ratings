@@ -6,26 +6,26 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~767 |
-| My little farm | 64.00% | ~606 |
+| Cabin boy | 81.00% | ~768 |
+| My little farm | 64.00% | ~607 |
 | Every beginning is difficult | 63.00% | ~597 |
 | Gofer | 57.00% | ~540 |
 | 3, 2, 1, mine | 55.00% | ~521 |
-| O Captain! My Captain! | 54.00% | ~511 |
-| Seafarer | 52.00% | ~492 |
-| Greed for gold | 43.00% | ~407 |
+| O Captain! My Captain! | 54.00% | ~512 |
+| Seafarer | 52.00% | ~493 |
+| Greed for gold | 43.00% | ~408 |
 | Intangible | 42.00% | ~398 |
-| I'm out of here for a while | 41.00% | ~388 |
-| In a mint condition | 37.00% | ~350 |
+| I'm out of here for a while | 41.00% | ~389 |
+| In a mint condition | 37.00% | ~351 |
 | Licence to Kill | 36.00% | ~341 |
 | Pirates! | 34.00% | ~322 |
 | Collectionitis | 29.00% | ~275 |
 | Christening | 28.00% | ~265 |
 | Megalomania | 28.00% | ~265 |
 | Groundskeeper | 25.00% | ~237 |
-| Wholesale | 22.00% | ~208 |
+| Wholesale | 22.00% | ~209 |
 | Walk the plank | 21.00% | ~199 |
-| Pearly gates | 18.00% | ~170 |
+| Pearly gates | 18.00% | ~171 |
 | My precious! | 17.00% | ~161 |
 | Conquistador | 14.00% | ~133 |
 | Panic buying | 11.00% | ~104 |
@@ -50,15 +50,15 @@ Number of Ratings: 53  (23.09.2022)
 | Gold fever | 2.00% | ~19 |
 | Fill it up, please! | 2.00% | ~19 |
 | Administrator | 1.00% | ~9 |
-| Raiders of the Lost Ark | 1.00% | ~9 |
+| Raiders of the Lost Ark | 0.90% | ~9 |
 | Capitalist | 0.80% | ~8 |
 | Parlay? | 0.80% | ~8 |
 | Fleet Admiral | 0.70% | ~7 |
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 233)  
-Completed: 1 (0.11%) (Ranked 238)  
+Progressed: 948 (Ranked 233)  
+Completed: 1 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,7 +207,7 @@ Completed: 1 (0.11%) (Ranked 238)
 | 2023-10-02 | 942 | 1 |
 | 2023-10-03 | 943 | 1 |
 | 2023-10-04 | 946 | 1 |
-| 2023-10-06 | 947 | 1 |
+| 2023-10-06 | 948 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

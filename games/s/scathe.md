@@ -36,7 +36,7 @@
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 339 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

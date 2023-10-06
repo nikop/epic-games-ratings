@@ -2,8 +2,8 @@
   "ID": "95cbbdf02a9b4a3ab761e20e0b04dcf7",
   "Name": "Hit and Boom",
   "ProductSlug": "hit-and-boom-d8bacd",
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T09:57:04.4205906+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:01:32.3834155+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:08:51.1469267+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:00:55.5669527+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:08:20.8151101+00:00"
 }

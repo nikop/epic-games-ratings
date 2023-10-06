@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15992,
+  "EOS_Progressed": 15993,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7300,6 +7300,11 @@
       "Time": "2023-10-06T16:03:26.8051347+00:00",
       "NumProgressed": 15992,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-06T23:03:45.5383141+00:00",
+      "NumProgressed": 15993,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7415,7 +7420,7 @@
       "Name": "Get a Grip",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -7686,13 +7691,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15992,
+      "Progressed": 15993,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3918,
+      "Progressed": 3919,
       "Completed": 29
     }
   ],
@@ -7700,8 +7705,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-05T22:00:51.1014202+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:04:11.4421537+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:03:45.5383137+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:15.2729521+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:02:05.3703717+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:04:11.4422358+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:01:24.7885825+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:03:45.5383928+00:00"
 }

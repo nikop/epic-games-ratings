@@ -3,7 +3,7 @@
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20056,
+  "EOS_Progressed": 20077,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4200,
+  "EOS_NewPlayers": 4177,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 58.63,
+  "EOS_Completed_Percentage": 58.57,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -4531,6 +4531,11 @@
       "Time": "2023-10-06T22:04:55.2402474+00:00",
       "NumProgressed": 20056,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-06T23:04:35.7085834+00:00",
+      "NumProgressed": 20077,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -4551,7 +4556,7 @@
       "Name": "First blood",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 10630
+      "UsersEstimate": 10641
     },
     {
       "ID": "grenadeKills",
@@ -4607,7 +4612,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "revengeMedal",
@@ -4654,14 +4659,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 20056,
+      "Progressed": 20077,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:04:55.2402463+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:04:35.708583+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.6352608+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:59:04.5554458+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:04:55.2402862+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:40.2357806+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:04:35.7086268+00:00"
 }

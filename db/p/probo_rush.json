@@ -2,8 +2,8 @@
   "ID": "3ad904a98f1b4585a37ee1eae7769ace",
   "Name": "Probo Rush",
   "ProductSlug": "probo-rush-b3ee54",
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -19,32 +19,176 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 1,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 100,
+  "EosHistory": [
+    {
+      "Time": "2023-10-06T23:06:45.1254746+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2023-10-06T23:06:45.1254776+00:00",
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1400,
+  "Achievements": [
+    {
+      "ID": "ALL_BOSSES",
+      "SetID": "db0ak30",
+      "Name": "ALL BOSSES",
+      "Percentage": 200,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BOSS_1",
+      "SetID": "db0ak30",
+      "Name": "BOSS 1",
+      "Percentage": 200,
+      "XP": 80,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BOSS_10",
+      "SetID": "db0ak30",
+      "Name": "BOSS 10",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_11",
+      "SetID": "9h4jac1",
+      "Name": "BOSS 11",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_12",
+      "SetID": "9h4jac1",
+      "Name": "BOSS 12",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_13",
+      "SetID": "9h4jac1",
+      "Name": "BOSS 13",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_14",
+      "SetID": "9h4jac1",
+      "Name": "BOSS 14",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_15",
+      "SetID": "9h4jac1",
+      "Name": "BOSS 15",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_2",
+      "SetID": "db0ak30",
+      "Name": "BOSS 2",
+      "Percentage": 200,
+      "XP": 80,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BOSS_3",
+      "SetID": "db0ak30",
+      "Name": "BOSS 3",
+      "Percentage": 200,
+      "XP": 80,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BOSS_4",
+      "SetID": "db0ak30",
+      "Name": "BOSS 4",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_5",
+      "SetID": "db0ak30",
+      "Name": "BOSS 5",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_6",
+      "SetID": "db0ak30",
+      "Name": "BOSS 6",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_7",
+      "SetID": "db0ak30",
+      "Name": "BOSS 7",
+      "Percentage": 200,
+      "XP": 80,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BOSS_8",
+      "SetID": "db0ak30",
+      "Name": "BOSS 8",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOSS_9",
+      "SetID": "db0ak30",
+      "Name": "BOSS 9",
+      "Percentage": 100,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NO_HIT",
+      "SetID": "db0ak30",
+      "Name": "GOD GAMER",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "db0ak30",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 1,
+      "Completed": 1
     },
     {
       "ID": "9h4jac1",
       "IsBase": false,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:13.1424827+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:17.2795816+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:06:45.1254741+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:24.656443+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:57:51.5646416+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:17.2795844+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:57:37.2782772+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:45.1665439+00:00"
 }

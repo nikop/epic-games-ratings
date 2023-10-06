@@ -6,7 +6,7 @@
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
@@ -5136,10 +5136,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 691747,
-  "EOS_Completed": 2192,
-  "EOS_NewPlayers": 3651,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 691763,
+  "EOS_Completed": 2193,
+  "EOS_NewPlayers": 3648,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24291,6 +24291,11 @@
       "Time": "2023-10-06T22:08:05.6191956+00:00",
       "NumProgressed": 691747,
       "NumCompleted": 2192
+    },
+    {
+      "Time": "2023-10-06T23:07:29.9142724+00:00",
+      "NumProgressed": 691763,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 45,
@@ -24310,7 +24315,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_ammo_ran",
@@ -24318,7 +24323,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_anger_management",
@@ -24334,7 +24339,7 @@
       "Name": "Make it So",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_big_name_in_town",
@@ -24366,7 +24371,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_contender",
@@ -24374,7 +24379,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_defensive",
@@ -24422,7 +24427,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24446,7 +24451,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24462,7 +24467,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_impressive_aim",
@@ -24542,7 +24547,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_revival_tour",
@@ -24558,7 +24563,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_secrets_of_la",
@@ -24582,7 +24587,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_survival_expert",
@@ -24598,7 +24603,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_the_vcla",
@@ -24606,7 +24611,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_thesacrifice",
@@ -24630,7 +24635,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -24638,7 +24643,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24661,22 +24666,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691747,
-      "Completed": 2192
+      "Progressed": 691763,
+      "Completed": 2193
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17289,
-      "Completed": 17289
+      "Progressed": 17305,
+      "Completed": 17305
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-06T20:58:58.699526+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:08:05.6191949+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:07:29.914272+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:54.2361094+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:08:05.6193098+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:33.3940264+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:29.9144269+00:00"
 }

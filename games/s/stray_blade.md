@@ -11,7 +11,7 @@
 | A new World ahead | 31.00% | ~28 |
 | Can't touch this | 27.00% | ~25 |
 | Don't Cry Wolf | 25.00% | ~23 |
-| Freezing Cold | 19.00% | ~17 |
+| Freezing Cold | 20.00% | ~18 |
 | Expert | 18.00% | ~16 |
 | Searing Heat | 15.00% | ~14 |
 | Nothing but the Truth | 15.00% | ~14 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 394)  
-Completed: 0 (0.00%) (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

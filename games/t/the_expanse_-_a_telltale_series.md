@@ -6,10 +6,11 @@ Rating: 4.54 (Ranked 507)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 6.00% | ~819 |
+| Drug Gifter | 3.00% | ~410 |
 | The Pit and the Pirates | 2.00% | ~273 |
-| Drug Gifter | 2.00% | ~273 |
 | Bosmang | 2.00% | ~273 |
 | Data Archivist | 1.00% | ~137 |
+| Spore Taste | 1.00% | ~137 |
 | Martian Music | 1.00% | ~137 |
 | Drone Dodger | 1.00% | ~137 |
 | Heal Thy Medic | 1.00% | ~137 |
@@ -18,7 +19,6 @@ Rating: 4.54 (Ranked 507)
 | Captain Drummer | 1.00% | ~137 |
 | Celebrations are in Order | 1.00% | ~137 |
 | Impossible Objects | 1.00% | ~137 |
-| Spore Taste | 0.90% | ~123 |
 | Stogie for Fogey | 0.80% | ~109 |
 | Miraculous Maya | 0.60% | ~82 |
 | Doctor Approved | 0.50% | ~68 |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,651 (Ranked 135)  
-Completed: 13 (0.10%) (Ranked 241)  
+Progressed: 13,653 (Ranked 135)  
+Completed: 13 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 13 (0.10%) (Ranked 241)
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
-| 2023-10-06 | 13,651 | 13 |
+| 2023-10-06 | 13,653 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

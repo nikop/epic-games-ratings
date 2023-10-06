@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 1.00% | ~144 |
 | Explorer | 0.90% | ~130 |
-| Settler | 0.90% | ~130 |
 | Play a Single Player Game | 0.90% | ~130 |
 | Friendly Family | 0.80% | ~116 |
 | Intrepid | 0.70% | ~101 |
@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.60% | ~87 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
+| Keystone | 0.50% | ~72 |
 | Oracle | 0.50% | ~72 |
 | Judaism | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.40% | ~58 |
 | Enlightened | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
-| Keystone | 0.40% | ~58 |
 | Magnificent | 0.40% | ~58 |
 | Warrior | 0.40% | ~58 |
 | Wise | 0.40% | ~58 |
@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.40% | ~58 |
 | Lighthouse | 0.40% | ~58 |
 | Pyramids | 0.40% | ~58 |
+| Learn to Play 1 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
 | Carthaginian Paganism | 0.40% | ~58 |
 | Greek Paganism | 0.40% | ~58 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.30% | ~43 |
 | Musaeum | 0.30% | ~43 |
 | Necropolis | 0.30% | ~43 |
-| Learn to Play 1 | 0.30% | ~43 |
 | Learn to Play 2 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
 | Egyptian Paganism | 0.30% | ~43 |
@@ -91,7 +91,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
 | Redemption | 0.20% | ~29 |
+| Veneration | 0.20% | ~29 |
 | Cimmerian Archer | 0.20% | ~29 |
+| Legionary | 0.20% | ~29 |
 | Phalangite | 0.20% | ~29 |
 | Double Victory | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
@@ -223,12 +225,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.10% | ~14 |
 | Gnosticism | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
-| Veneration | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Three Man Chariot | 0.10% | ~14 |
 | Mounted Lancer | 0.10% | ~14 |
-| Legionary | 0.10% | ~14 |
 | Siege Tower | 0.10% | ~14 |
 | Turreted Elephant | 0.10% | ~14 |
 | All Nations | 0.10% | ~14 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,439 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 276)  
+Progressed: 14,441 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,439 | 5 |
+| 2023-10-06 | 14,441 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

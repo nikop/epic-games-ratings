@@ -8,30 +8,30 @@ Number of Ratings: 70,340  (23.09.2022)
 | ---- | ---------- | ----- |
 | Zealous | 0.60% | ~5,537 |
 | It wakes | 0.60% | ~5,537 |
+| Skillful | 0.60% | ~5,537 |
 | Not half bad | 0.50% | ~4,614 |
-| Skillful | 0.50% | ~4,614 |
 | Make Some Noise | 0.50% | ~4,614 |
+| No one left behind | 0.40% | ~3,691 |
 | Medic | 0.40% | ~3,691 |
 | Handyman | 0.40% | ~3,691 |
 | Apt Survivor | 0.40% | ~3,691 |
 | Survival Treasures | 0.40% | ~3,691 |
 | Sorted | 0.40% | ~3,691 |
 | Resurgence | 0.40% | ~3,691 |
-| The Grand Sacrifice | 0.30% | ~2,768 |
-| Agonizing Escape | 0.30% | ~2,768 |
-| Backdoor Escape | 0.30% | ~2,768 |
-| I've got your back | 0.30% | ~2,768 |
-| No one left behind | 0.30% | ~2,768 |
-| Nerves of steel | 0.30% | ~2,768 |
-| Perfect Escape | 0.30% | ~2,768 |
-| Perfect Killing | 0.30% | ~2,768 |
-| Bloody Millionaire | 0.30% | ~2,768 |
-| I | 0.30% | ~2,768 |
-| Engineer | 0.30% | ~2,768 |
-| Healthy Obsession | 0.30% | ~2,768 |
-| Close Shave | 0.30% | ~2,768 |
-| Preemptive Strike | 0.30% | ~2,768 |
-| Humanitarian | 0.30% | ~2,768 |
+| The Grand Sacrifice | 0.30% | ~2,769 |
+| Agonizing Escape | 0.30% | ~2,769 |
+| Backdoor Escape | 0.30% | ~2,769 |
+| I've got your back | 0.30% | ~2,769 |
+| Nerves of steel | 0.30% | ~2,769 |
+| Perfect Escape | 0.30% | ~2,769 |
+| Perfect Killing | 0.30% | ~2,769 |
+| Bloody Millionaire | 0.30% | ~2,769 |
+| I | 0.30% | ~2,769 |
+| Engineer | 0.30% | ~2,769 |
+| Healthy Obsession | 0.30% | ~2,769 |
+| Close Shave | 0.30% | ~2,769 |
+| Preemptive Strike | 0.30% | ~2,769 |
+| Humanitarian | 0.30% | ~2,769 |
 | Blood on your hands | 0.20% | ~1,846 |
 | Made it out alive! | 0.20% | ~1,846 |
 | Apt Killer | 0.20% | ~1,846 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.20% | ~1,846 |
 | Unforgettable Getaway | 0.20% | ~1,846 |
 | Wounded Healer | 0.20% | ~1,846 |
+| Cutting Out | 0.20% | ~1,846 |
 | First to the Punch | 0.20% | ~1,846 |
 | Operation: Survival | 0.20% | ~1,846 |
 | Old West Oasis | 0.20% | ~1,846 |
@@ -141,7 +142,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~923 |
 | Shrine Apparatus | 0.10% | ~923 |
 | Adept Jane | 0.10% | ~923 |
-| Cutting Out | 0.10% | ~923 |
 | Outrun Evil | 0.10% | ~923 |
 | Adept Ash | 0.10% | ~923 |
 | Silent Approach | 0.10% | ~923 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922,773 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 288)  
+Progressed: 922,863 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 922,773 | 49 |
+| 2023-10-06 | 922,863 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,873 (Ranked 13)  

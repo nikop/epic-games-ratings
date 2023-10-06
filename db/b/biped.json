@@ -3,7 +3,7 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -11244,8 +11244,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:25.8801742+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:06:52.7895135+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.5763334+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:26.1250975+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:25.8802363+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:07.7170053+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:06:52.7895938+00:00"
 }

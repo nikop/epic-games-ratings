@@ -3,8 +3,8 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -724,9 +724,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BRING_MARY",
@@ -772,9 +772,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -796,9 +796,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:04:56.038634+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:04:36.5951756+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:02:34.2595301+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:04:56.0386516+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:01:54.1340611+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:04:36.5951955+00:00"
 }

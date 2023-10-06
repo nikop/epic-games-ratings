@@ -4,9 +4,9 @@
   "ProductSlug": "rebel-galaxy",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 378,
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_PopularitySum": 379,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -918,6 +918,6 @@
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
   "LastChanged": "2023-10-01T08:59:42.8751757+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:29.8106949+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:59:07.766503+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:08:05.7918555+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:42.4423107+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:30.06838+00:00"
 }

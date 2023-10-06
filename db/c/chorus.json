@@ -6,8 +6,8 @@
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -2214,6 +2214,11 @@
       "Time": "2023-10-05T09:05:51.4448008+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-06T23:07:08.485452+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2257,7 +2262,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "GatlingVsArmor",
@@ -2281,7 +2286,7 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "KillWithALargeShip",
@@ -2289,7 +2294,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "MasteryOfCombat",
@@ -2329,7 +2334,7 @@
       "Name": "Retaliate",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MissionAncientRitual",
@@ -2345,7 +2350,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -2369,7 +2374,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "MissionEosReturn",
@@ -2409,7 +2414,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2417,7 +2422,7 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MissionOldFriend",
@@ -2433,7 +2438,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MissionSalvage",
@@ -2441,7 +2446,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "MissionScavengingJob",
@@ -2449,7 +2454,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "MissionShipyard",
@@ -2465,7 +2470,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MissionTemple",
@@ -2497,7 +2502,7 @@
       "Name": "Overcharged",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "RadiationCloud",
@@ -2505,7 +2510,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "RiteOfControl",
@@ -2537,7 +2542,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "UseRepairDrones",
@@ -2561,22 +2566,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1235,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:32.1960182+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:07:08.4854515+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:38.2609537+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:00:57.1919921+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:32.1960602+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:00:27.8768301+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:08.4854996+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3892,6 +3892,11 @@
       "Time": "2023-10-06T19:06:26.0546582+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T23:07:09.9472417+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4127,7 +4132,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4159,7 +4164,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4286,7 +4291,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 0
     }
   ],
@@ -4294,8 +4299,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-04T19:58:33.1072348+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:33.6450963+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:07:09.9472407+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:59:51.510828+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:33.6451469+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:59:28.6678637+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:09.9473048+00:00"
 }

@@ -12,6 +12,7 @@ Rating: 4.63 (Ranked 334)
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | First Bounty Down | 0.30% | ~72 |
 | G3 Graduation | 0.30% | ~72 |
+| Hardest Battle In The Game | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
 | Who's The Boss? | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
@@ -22,7 +23,6 @@ Rating: 4.63 (Ranked 334)
 | RIP Davey Glutes | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |
-| Hardest Battle In The Game | 0.20% | ~48 |
 | Self-Actualization | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
@@ -51,7 +51,7 @@ Rating: 4.63 (Ranked 334)
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,133 (Ranked 119)  
-Completed: 13 (0.05%) (Ranked 264)  
+Completed: 13 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -14,7 +14,7 @@
 | Kickball Unlocked | 69.00% | ~66 |
 | Stay Hydrated | 64.00% | ~61 |
 | First Win | 63.00% | ~60 |
-| True Story! | 42.00% | ~40 |
+| True Story! | 43.00% | ~41 |
 | Bedroom Secret Spot | 40.00% | ~38 |
 | Kick It | 33.00% | ~31 |
 | Classroom Secret Spot | 31.00% | ~29 |
@@ -26,7 +26,7 @@
 | Have Mercy | 22.00% | ~21 |
 | Bathroom Secret Spot | 22.00% | ~21 |
 | Living Room Secret Spot | 21.00% | ~20 |
-| Angry Mom | 19.00% | ~18 |
+| Angry Mom | 20.00% | ~19 |
 | Hi Hungry, I'm Dad | 18.00% | ~17 |
 | Just how we drew it up | 13.00% | ~12 |
 | Interference | 9.00% | ~9 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 95 (Ranked 389)  
-Completed: 0 (0.00%) (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,11 @@
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
-  "Ranking_Rating": 56,
+  "Ranking_Rating": 57,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 180,
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -2529,6 +2529,6 @@
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
   "LastChanged": "2023-10-05T19:57:33.0004097+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:42.8238395+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:58:19.8621241+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:04:22.6837317+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:58:05.0274768+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:04:05.9329464+00:00"
 }

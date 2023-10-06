@@ -6,9 +6,9 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13651,
+  "EOS_Progressed": 13653,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7873,6 +7873,11 @@
       "Time": "2023-10-06T21:07:55.4113712+00:00",
       "NumProgressed": 13651,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-06T23:07:19.8325152+00:00",
+      "NumProgressed": 13653,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7939,17 +7944,17 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 410
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 137
     },
     {
       "ID": "18",
@@ -8124,7 +8129,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13651,
+      "Progressed": 13653,
       "Completed": 13
     }
   ],
@@ -8132,8 +8137,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-06T08:00:39.97616+00:00",
-  "LastChanged_Achievements": "2023-10-06T22:07:44.7146699+00:00",
+  "LastChanged_Achievements": "2023-10-06T23:07:19.8325148+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:03:13.2929143+00:00",
-  "LastUpdate_Achievements": "2023-10-06T22:07:44.714729+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:02:23.8956765+00:00",
+  "LastUpdate_Achievements": "2023-10-06T23:07:19.8325839+00:00"
 }
