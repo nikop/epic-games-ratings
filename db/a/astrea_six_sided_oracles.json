@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -658,9 +658,9 @@
       "ID": "ReflexiveMind",
       "SetID": "1jeo1g7",
       "Name": "Reflexive Mind",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RoyalChoir",
@@ -698,9 +698,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SixSidedMastery",
@@ -890,9 +890,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AquarianHero",
@@ -1017,8 +1017,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:25:33.2280062+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:08:56.5526206+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:19:20.4515024+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:25:33.2281205+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:02:26.117572+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:08:56.5527225+00:00"
 }

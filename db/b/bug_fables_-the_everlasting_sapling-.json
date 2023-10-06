@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -161,6 +161,11 @@
       "Time": "2023-08-30T17:08:06.4313509+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T03:04:11.6116748+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -178,7 +183,7 @@
       "ID": "BFT_BONUS",
       "SetID": "7o7kd30",
       "Name": "Bounty Hunter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -186,7 +191,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 64
     },
@@ -202,7 +207,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -234,7 +239,7 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -258,7 +263,7 @@
       "ID": "BFT_CH5HB",
       "SetID": "7o7kd30",
       "Name": "The Terror",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -362,7 +367,7 @@
       "ID": "BFT_MEDAL",
       "SetID": "7o7kd30",
       "Name": "Medal Collector",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -378,7 +383,7 @@
       "ID": "BFT_PLAT",
       "SetID": "7o7kd30",
       "Name": "Our job\u0027s done!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -411,7 +416,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
@@ -419,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:20:39.9184962+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:11.6116744+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.459139+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:15:42.8771036+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:20:39.9185198+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:59:19.9615828+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:11.6116938+00:00"
 }

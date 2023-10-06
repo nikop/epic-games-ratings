@@ -11,10 +11,10 @@ Rating: 4.60 (Ranked 397)
 | Immaculate Aim | 22.00% | ~199 |
 | Make Up For Lost Time | 21.00% | ~190 |
 | Time Flies | 21.00% | ~190 |
+| The Harder They Fall | 21.00% | ~190 |
 | The Prince in Heels | 21.00% | ~190 |
 | The Brass Boss | 21.00% | ~190 |
 | The Steel Shadow | 20.00% | ~181 |
-| The Harder They Fall | 20.00% | ~181 |
 | No, Thanks! | 20.00% | ~181 |
 | Breaking Down Barriers | 20.00% | ~181 |
 | The Wicked Twins | 20.00% | ~181 |

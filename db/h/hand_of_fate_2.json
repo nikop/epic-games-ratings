@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662950,
+  "EOS_Progressed": 662951,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16893,6 +16893,11 @@
       "Time": "2023-10-06T02:21:35.4842559+00:00",
       "NumProgressed": 662950,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-06T03:05:11.9112314+00:00",
+      "NumProgressed": 662951,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -16904,7 +16909,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477324
+      "UsersEstimate": 477325
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -16912,7 +16917,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384511
+      "UsersEstimate": 384512
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -16920,7 +16925,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152478
+      "UsersEstimate": 152479
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -17040,7 +17045,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152478
+      "UsersEstimate": 152479
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -17088,7 +17093,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19888
+      "UsersEstimate": 19889
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -17160,7 +17165,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19888
+      "UsersEstimate": 19889
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -17208,7 +17213,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19888
+      "UsersEstimate": 19889
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -17287,15 +17292,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662950,
+      "Progressed": 662951,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:21:35.4842551+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:05:11.911231+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:19.9367849+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:19:28.731552+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:21:35.4843976+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:02:35.2951866+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:05:11.9113354+00:00"
 }

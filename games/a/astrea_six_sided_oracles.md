@@ -15,6 +15,7 @@
 | Mechanical Buddy | 7.00% | ~3 |
 | Mind Illuminator | 7.00% | ~3 |
 | Purification Pioneer | 7.00% | ~3 |
+| Shard Spender | 7.00% | ~3 |
 | Unbeatable | 7.00% | ~3 |
 | Wild's Keeper | 7.00% | ~3 |
 | Apian Champion | 7.00% | ~3 |
@@ -24,7 +25,6 @@
 | Meissa's Savior | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
-| Shard Spender | 5.00% | ~2 |
 | Stellar Haste | 5.00% | ~2 |
 | Eridanian Champion | 5.00% | ~2 |
 | Noctuan Champion | 5.00% | ~2 |
@@ -38,10 +38,12 @@
 | Heavy Purger | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
+| Reflexive Mind | 2.00% | ~1 |
 | Star Killer | 2.00% | ~1 |
 | The Corruption Goddess | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Wave Bender | 2.00% | ~1 |
+| Aquarian Champion | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
@@ -79,7 +81,6 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Pocket Astrarium | 0.00% | ~0 |
 | Purification Avatar | 0.00% | ~0 |
-| Reflexive Mind | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
@@ -95,7 +96,6 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
-| Aquarian Champion | 0.00% | ~0 |
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |

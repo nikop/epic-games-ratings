@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -797,7 +797,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28419,
+  "EOS_Progressed": 28420,
   "EOS_Completed": 1358,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
@@ -5832,6 +5832,11 @@
       "Time": "2023-10-06T02:20:33.9165509+00:00",
       "NumProgressed": 28419,
       "NumCompleted": 1358
+    },
+    {
+      "Time": "2023-10-06T03:04:05.3330407+00:00",
+      "NumProgressed": 28420,
+      "NumCompleted": 1358
     }
   ],
   "TotalAchievements": 30,
@@ -5851,7 +5856,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -5859,7 +5864,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 10799
+      "UsersEstimate": 10800
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -5883,7 +5888,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -5923,7 +5928,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10799
+      "UsersEstimate": 10800
     },
     {
       "ID": "ACH_DONATE",
@@ -5931,7 +5936,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16767
+      "UsersEstimate": 16768
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -5939,7 +5944,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27566
+      "UsersEstimate": 27567
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -5947,7 +5952,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19609
+      "UsersEstimate": 19610
     },
     {
       "ID": "ACH_GOLEM",
@@ -5995,7 +6000,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 15062
+      "UsersEstimate": 15063
     },
     {
       "ID": "ACH_PUZZLE",
@@ -6003,7 +6008,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -6011,7 +6016,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16767
+      "UsersEstimate": 16768
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -6027,7 +6032,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -6035,7 +6040,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26430
+      "UsersEstimate": 26431
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -6067,7 +6072,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21314
+      "UsersEstimate": 21315
     },
     {
       "ID": "ACH_WATERFALL",
@@ -6082,15 +6087,15 @@
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28419,
+      "Progressed": 28420,
       "Completed": 1358
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:20:33.9165493+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:05.3330403+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:09.9340102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:15:31.0304478+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:20:33.9166052+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:59:05.2718889+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:05.3330816+00:00"
 }

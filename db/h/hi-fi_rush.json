@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4125,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -6895,6 +6895,11 @@
       "Time": "2023-10-05T16:05:08.6825582+00:00",
       "NumProgressed": 4125,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-06T03:04:52.3168412+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6922,7 +6927,7 @@
       "Name": "This will cost you big time",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Ach004",
@@ -7002,7 +7007,7 @@
       "Name": "Problem solved... wait, what?",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach014",
@@ -7162,7 +7167,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Ach034",
@@ -7194,7 +7199,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach038",
@@ -7218,7 +7223,7 @@
       "Name": "Now this is how you fight like a team!",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach041",
@@ -7290,7 +7295,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach050",
@@ -7314,7 +7319,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach053",
@@ -7330,7 +7335,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach055",
@@ -7378,7 +7383,7 @@
       "Name": "Check out my moves!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Ach061",
@@ -7473,13 +7478,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4125,
+      "Progressed": 4126,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2646,
+      "Progressed": 2647,
       "Completed": 1930
     }
   ],
@@ -7487,8 +7492,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:21:17.718342+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:52.3168409+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:14:03.9953741+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:21:17.7184612+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:57:27.8651565+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:52.3169322+00:00"
 }

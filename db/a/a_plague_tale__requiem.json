@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -438,10 +438,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-10-06T02:59:26.9229797+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 656,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 655,
+  "NumberOfAwards": 656,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -467,7 +473,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -506,7 +512,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13478,
+  "EOS_Progressed": 13479,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
@@ -9681,6 +9687,11 @@
       "Time": "2023-10-05T22:04:57.527733+00:00",
       "NumProgressed": 13478,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T03:04:57.2804356+00:00",
+      "NumProgressed": 13479,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9692,7 +9703,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12400
+      "UsersEstimate": 12401
     },
     {
       "ID": "ACH_02",
@@ -9724,7 +9735,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "ACH_06",
@@ -9740,7 +9751,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8356
+      "UsersEstimate": 8357
     },
     {
       "ID": "ACH_08",
@@ -9756,7 +9767,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7682
+      "UsersEstimate": 7683
     },
     {
       "ID": "ACH_10",
@@ -9764,7 +9775,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7143
+      "UsersEstimate": 7144
     },
     {
       "ID": "ACH_11",
@@ -9772,7 +9783,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6604
+      "UsersEstimate": 6605
     },
     {
       "ID": "ACH_12",
@@ -9788,7 +9799,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "ACH_14",
@@ -9820,7 +9831,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "ACH_18",
@@ -9908,7 +9919,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9300
+      "UsersEstimate": 9301
     },
     {
       "ID": "ACH_29",
@@ -9971,16 +9982,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13478,
+      "Progressed": 13479,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-10-05T17:59:30.2653039+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:21:22.1305605+00:00",
+  "LastChanged": "2023-10-06T02:59:26.9229795+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:57.2804351+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:15:49.3840616+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:21:22.1306485+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:59:26.9229802+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:57.2804987+00:00"
 }

@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7118,
+  "EOS_Progressed": 7119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2929,
+  "EOS_NewPlayers": 2921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-10-06T02:22:23.156447+00:00",
       "NumProgressed": 7118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T03:06:03.7300932+00:00",
+      "NumProgressed": 7119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -2000,7 +2005,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_28",
@@ -2072,7 +2077,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "achievement_36",
@@ -2104,7 +2109,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "achievement_4",
@@ -2223,7 +2228,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 7118,
+      "Progressed": 7119,
       "Completed": 0
     }
   ],
@@ -2231,8 +2236,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:22:23.1564454+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:06:03.7300928+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:23.4480073+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:15:21.1181335+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:22:23.156501+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:58:54.7645784+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:06:03.7301413+00:00"
 }

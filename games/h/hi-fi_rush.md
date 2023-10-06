@@ -14,8 +14,8 @@ Rating: 4.85 (Ranked 42)
 | You got this, Peppermint? | 11.00% | ~454 |
 | Perfect Parry | 11.00% | ~454 |
 | Alright, that felt AWESOME! | 11.00% | ~454 |
-| This will cost you big time | 10.00% | ~412 |
-| Uh, they were broken when I got here | 10.00% | ~412 |
+| This will cost you big time | 10.00% | ~413 |
+| Uh, they were broken when I got here | 10.00% | ~413 |
 | I play my own way! | 9.00% | ~371 |
 | Z-shielding's got nothing on us! | 9.00% | ~371 |
 | Kissing the sky! | 9.00% | ~371 |
@@ -36,11 +36,11 @@ Rating: 4.85 (Ranked 42)
 | That's a lot of junk metal… | 4.00% | ~165 |
 | There's such a thing as TOO helpful | 4.00% | ~165 |
 | Chip-tuned | 3.00% | ~124 |
-| We're Jammin' | 2.00% | ~82 |
-| I hit things with a guitar really well. | 2.00% | ~82 |
-| Wanna hear my playlist? | 2.00% | ~82 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~82 |
-| Check out my moves! | 2.00% | ~82 |
+| We're Jammin' | 2.00% | ~83 |
+| I hit things with a guitar really well. | 2.00% | ~83 |
+| Wanna hear my playlist? | 2.00% | ~83 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~83 |
+| Check out my moves! | 2.00% | ~83 |
 | Call me Turbo Chai | 2.00% | ~53 |
 | I think I deserve some praise, here! | 1.00% | ~41 |
 | I think I found your calling, Macaron | 1.00% | ~41 |
@@ -52,8 +52,8 @@ Rating: 4.85 (Ranked 42)
 | OK, well THEY came after ME! | 0.70% | ~29 |
 | Choose your own adventure | 0.60% | ~16 |
 | Easy Listening | 0.50% | ~21 |
-| Problem solved... wait, what? | 0.40% | ~16 |
-| Now this is how you fight like a team! | 0.40% | ~16 |
+| Problem solved... wait, what? | 0.40% | ~17 |
+| Now this is how you fight like a team! | 0.40% | ~17 |
 | And the crowd goes wild! | 0.30% | ~12 |
 | With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,125 (Ranked 176)  
+Progressed: 4,126 (Ranked 176)  
 Completed: 8 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 8 (0.19%) (Ranked 217)
 | 2023-10-03 | 4,119 | 8 |
 | 2023-10-04 | 4,121 | 8 |
 | 2023-10-05 | 4,125 | 8 |
+| 2023-10-06 | 4,126 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

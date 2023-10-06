@@ -7692,7 +7692,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 803772,
+  "EOS_Progressed": 803774,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 0,
@@ -26497,6 +26497,11 @@
       "Time": "2023-10-06T02:21:20.7478057+00:00",
       "NumProgressed": 803772,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T03:04:55.7086091+00:00",
+      "NumProgressed": 803774,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26540,7 +26545,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168792
+      "UsersEstimate": 168793
     },
     {
       "ID": "BadGirl",
@@ -26588,7 +26593,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257207
+      "UsersEstimate": 257208
     },
     {
       "ID": "Bookworm",
@@ -26620,7 +26625,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200943
+      "UsersEstimate": 200944
     },
     {
       "ID": "Chivalrous",
@@ -26788,7 +26793,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72339
+      "UsersEstimate": 72340
     },
     {
       "ID": "HardcoreHenry",
@@ -26828,7 +26833,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104490
+      "UsersEstimate": 104491
     },
     {
       "ID": "Judas",
@@ -26988,7 +26993,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160754
+      "UsersEstimate": 160755
     },
     {
       "ID": "RevenantOfLedechko",
@@ -27028,7 +27033,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160754
+      "UsersEstimate": 160755
     },
     {
       "ID": "SerialKiller",
@@ -27163,15 +27168,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 803772,
+      "Progressed": 803774,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-06T01:40:36.4718788+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:21:20.7478051+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:55.7086088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:20.9607732+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:14:52.1151459+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:21:20.7480237+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:58:22.5099553+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:55.7087646+00:00"
 }

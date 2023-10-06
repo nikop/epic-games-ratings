@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3701,6 +3701,11 @@
       "Time": "2023-10-04T10:03:43.8193666+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T03:04:47.7312159+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3792,7 +3797,7 @@
       "Name": "Catacombs Raid 2",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "catacombs_raid_3",
@@ -3960,7 +3965,7 @@
       "Name": "Glitter of Gold 2",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "glitter_of_gold_3",
@@ -4176,7 +4181,7 @@
       "Name": "Stronghold 2",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "stronghold_3",
@@ -4232,21 +4237,21 @@
       "Name": "Tomb Raider 3",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:21:13.5592023+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:04:47.7312155+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:13.2515449+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:14:32.4896533+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:21:13.5592919+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:57:58.8318279+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:04:47.7312811+00:00"
 }

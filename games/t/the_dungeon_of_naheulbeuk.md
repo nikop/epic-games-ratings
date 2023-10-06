@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,247 |
+| Sowwy! | 32.00% | ~73,248 |
 | Alt+F4 | 6.00% | ~13,734 |
 | Where's that freaking Dwarf? | 5.00% | ~11,445 |
 | Déjà vu | 4.00% | ~9,156 |
@@ -46,8 +46,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.80% | ~1,831 |
 | In Navalu's footsteps | 0.70% | ~1,602 |
 | Lëgal Legend | 0.60% | ~1,373 |
-| An old poacher makes the best gamekeeper | 0.50% | ~1,144 |
-| We come in peace | 0.50% | ~1,144 |
+| An old poacher makes the best gamekeeper | 0.50% | ~1,145 |
+| We come in peace | 0.50% | ~1,145 |
 | Holistic Adventuring Party | 0.40% | ~916 |
 | Scholar of the Lands of Fangh | 0.40% | ~916 |
 | Law and Order | 0.40% | ~916 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,896 (Ranked 58)  
+Progressed: 228,901 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-03 | 228,515 | 5 |
 | 2023-10-04 | 228,696 | 5 |
 | 2023-10-05 | 228,876 | 5 |
-| 2023-10-06 | 228,896 | 5 |
+| 2023-10-06 | 228,901 | 5 |
 ## Awards
 Max (Character Customization): 207  (Ranked 274)  
 Sum: 405 (Ranked 325)  

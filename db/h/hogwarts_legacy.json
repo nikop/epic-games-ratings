@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8586,9 +8586,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297877,
+  "EOS_Progressed": 297878,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26751,6 +26751,11 @@
       "Time": "2023-10-06T01:48:51.0750041+00:00",
       "NumProgressed": 297877,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-06T03:06:54.98021+00:00",
+      "NumProgressed": 297878,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26786,7 +26791,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32766
+      "UsersEstimate": 32767
     },
     {
       "ID": "PFA_13",
@@ -26818,7 +26823,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32766
+      "UsersEstimate": 32767
     },
     {
       "ID": "PFA_17",
@@ -26890,7 +26895,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32766
+      "UsersEstimate": 32767
     },
     {
       "ID": "PFA_25",
@@ -26946,7 +26951,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32766
+      "UsersEstimate": 32767
     },
     {
       "ID": "PFA_31",
@@ -27121,7 +27126,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297877,
+      "Progressed": 297878,
       "Completed": 481
     }
   ],
@@ -27129,8 +27134,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T01:43:44.9750515+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:23:10.3883838+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:06:54.9802095+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:18:07.7473308+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:23:10.3885417+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:02:04.0480408+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:06:54.980323+00:00"
 }

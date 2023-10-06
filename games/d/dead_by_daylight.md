@@ -11,19 +11,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Not half bad | 0.40% | ~3,685 |
 | Skillful | 0.40% | ~3,685 |
 | Make Some Noise | 0.40% | ~3,685 |
-| The Grand Sacrifice | 0.30% | ~2,763 |
-| No one left behind | 0.30% | ~2,763 |
-| Medic | 0.30% | ~2,763 |
-| Handyman | 0.30% | ~2,763 |
-| Nerves of steel | 0.30% | ~2,763 |
-| Bloody Millionaire | 0.30% | ~2,763 |
-| Apt Survivor | 0.30% | ~2,763 |
-| Survival Treasures | 0.30% | ~2,763 |
-| I | 0.30% | ~2,763 |
-| Sorted | 0.30% | ~2,763 |
-| Healthy Obsession | 0.30% | ~2,763 |
-| Resurgence | 0.30% | ~2,763 |
-| Preemptive Strike | 0.30% | ~2,763 |
+| The Grand Sacrifice | 0.30% | ~2,764 |
+| No one left behind | 0.30% | ~2,764 |
+| Medic | 0.30% | ~2,764 |
+| Handyman | 0.30% | ~2,764 |
+| Nerves of steel | 0.30% | ~2,764 |
+| Bloody Millionaire | 0.30% | ~2,764 |
+| Apt Survivor | 0.30% | ~2,764 |
+| Survival Treasures | 0.30% | ~2,764 |
+| I | 0.30% | ~2,764 |
+| Sorted | 0.30% | ~2,764 |
+| Healthy Obsession | 0.30% | ~2,764 |
+| Resurgence | 0.30% | ~2,764 |
+| Preemptive Strike | 0.30% | ~2,764 |
 | Agonizing Escape | 0.20% | ~1,842 |
 | Backdoor Escape | 0.20% | ~1,842 |
 | I've got your back | 0.20% | ~1,842 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,145 (Ranked 14)  
+Progressed: 921,182 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,10 +405,10 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,145 | 49 |
+| 2023-10-06 | 921,182 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
-Sum: 259,648 (Ranked 13)  
+Sum: 259,673 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -418,7 +418,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,334 |
 | This game is Extremely Fun | 28,997 |
 | This game has Challenging Combat | 28,569 |
-| This game has Quickly Understood Controls | 28,503 |
+| This game has Quickly Understood Controls | 28,528 |
 | This game has Amazing Storytelling | 26,608 |
 | This game has a Competitive Community | 25,103 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -681,4 +681,4 @@ Diff (max vs sum): 2
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
-| 2023-10-06 | 4.52 | - | 33,500 | 259,648 |
+| 2023-10-06 | 4.52 | - | 33,500 | 259,673 |

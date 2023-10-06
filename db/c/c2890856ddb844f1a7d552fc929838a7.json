@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1939,6 +1939,11 @@
       "Time": "2023-10-05T22:07:22.5468991+00:00",
       "NumProgressed": 884,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T03:07:35.9929005+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1959,7 +1964,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "AC02",
@@ -1967,7 +1972,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "AC03",
@@ -1975,7 +1980,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "AC04",
@@ -1983,7 +1988,7 @@
       "Name": "Blood and Iron",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "AC05",
@@ -1991,7 +1996,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "AC06",
@@ -1999,7 +2004,7 @@
       "Name": "The Last Ascension",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "AC07",
@@ -2007,7 +2012,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "AC08",
@@ -2015,7 +2020,7 @@
       "Name": "Forged in Fire",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "AC09",
@@ -2063,7 +2068,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "AC15",
@@ -2071,7 +2076,7 @@
       "Name": "Full Devotion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC16",
@@ -2127,7 +2132,7 @@
       "Name": "Empty Handed",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "AC23",
@@ -2151,7 +2156,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "AC26",
@@ -2167,7 +2172,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC28",
@@ -2175,7 +2180,7 @@
       "Name": "The Punished One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "AC29",
@@ -2191,7 +2196,7 @@
       "Name": "The Anointed One",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "AC31",
@@ -2199,7 +2204,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "AC32",
@@ -2215,7 +2220,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "AC34",
@@ -2255,7 +2260,7 @@
       "Name": "Edge of Orison",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "AC39",
@@ -2318,7 +2323,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 0
     }
   ],
@@ -2326,8 +2331,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-04T20:00:30.3095733+00:00",
-  "LastChanged_Achievements": "2023-10-06T02:23:48.4124493+00:00",
+  "LastChanged_Achievements": "2023-10-06T03:07:35.9929+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:17:17.4695332+00:00",
-  "LastUpdate_Achievements": "2023-10-06T02:23:48.4124989+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:01:06.8783596+00:00",
+  "LastUpdate_Achievements": "2023-10-06T03:07:35.9929657+00:00"
 }

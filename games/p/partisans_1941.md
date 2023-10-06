@@ -10,8 +10,8 @@ Number of Ratings: 98  (23.09.2022)
 | Grenadier | 40.00% | ~589 |
 | War Never Changes | 40.00% | ~589 |
 | Heroes Never Die | 37.00% | ~545 |
-| Mosquito bite | 35.00% | ~515 |
-| Spice It Up | 31.00% | ~456 |
+| Mosquito bite | 34.00% | ~501 |
+| Spice It Up | 31.00% | ~457 |
 | Agent 47 | 26.00% | ~383 |
 | Bomberman | 26.00% | ~383 |
 | You're Gonna Go Far, Kid | 25.00% | ~368 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,472 (Ranked 217)  
+Progressed: 1,473 (Ranked 217)  
 Completed: 1 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 1 (0.07%) (Ranked 254)
 | 2023-10-03 | 1,470 | 1 |
 | 2023-10-04 | 1,471 | 1 |
 | 2023-10-05 | 1,472 | 1 |
+| 2023-10-06 | 1,473 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
