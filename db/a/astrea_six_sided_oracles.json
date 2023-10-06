@@ -2,7 +2,7 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 118,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -221,6 +221,11 @@
       "Time": "2023-10-06T04:09:22.3269945+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T11:10:01.1297402+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -239,7 +244,7 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -423,9 +428,9 @@
       "ID": "Canttouchthis",
       "SetID": "1jeo1g7",
       "Name": "Can\u0027t touch this",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CriticalTwist",
@@ -463,7 +468,7 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -559,9 +564,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MechanicIntegration",
@@ -575,7 +580,7 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -591,7 +596,7 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -655,7 +660,7 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -687,7 +692,7 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -831,7 +836,7 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -943,7 +948,7 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -1016,14 +1021,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:09:06.6575606+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:10:01.1297398+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:02:23.0330934+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:09:06.6576514+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:03:04.459291+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:10:01.1298823+00:00"
 }

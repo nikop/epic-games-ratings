@@ -2437,9 +2437,9 @@
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_22",
@@ -2718,8 +2718,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:03:45.4910056+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:04:03.1756035+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:00:35.73902+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:03:45.4910472+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:00:57.7191807+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:04:03.1756599+00:00"
 }

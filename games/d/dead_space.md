@@ -21,9 +21,9 @@ Rating: 4.61 (Ranked 371)
 | Freeze | 50.00% | ~398 |
 | Full Arsenal | 45.00% | ~359 |
 | S.O.S. | 44.00% | ~351 |
+| Live with the Hot Ones | 42.00% | ~335 |
 | Get Off My Ship! | 42.00% | ~335 |
 | Strange Transmissions | 42.00% | ~335 |
-| Live with the Hot Ones | 41.00% | ~327 |
 | Wreckage | 40.00% | ~319 |
 | Keeper of the Faith | 38.00% | ~303 |
 | Betrayed | 36.00% | ~287 |

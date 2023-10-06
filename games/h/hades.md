@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,248 |
-| Escaped Asphodel | 80.00% | ~563,818 |
-| Arms Collector | 71.00% | ~500,389 |
-| Friends in High Places | 68.00% | ~479,246 |
-| Escaped Elysium | 66.00% | ~465,150 |
-| Chthonic Colleagues | 63.00% | ~444,007 |
-| Is There No Escape? | 52.00% | ~366,482 |
-| Death Dealer | 45.00% | ~317,148 |
-| Skelly Slayer | 42.00% | ~296,005 |
-| Well Stocked | 40.00% | ~281,909 |
-| Back to Work | 38.00% | ~267,814 |
-| Day-or-Night Trader | 37.00% | ~260,766 |
-| Blessed by the Gods | 37.00% | ~260,766 |
-| Urge to Sing | 36.00% | ~253,718 |
-| Blood Bound | 35.00% | ~246,671 |
-| Three-Headed Boy | 32.00% | ~225,527 |
-| River Denizens | 28.00% | ~197,336 |
-| Grown Close | 28.00% | ~197,336 |
-| Home Makeover | 27.00% | ~190,289 |
-| The Family Secret | 26.00% | ~183,241 |
-| Had to Happen | 25.00% | ~176,193 |
+| Escaped Tartarus | 89.00% | ~627,251 |
+| Escaped Asphodel | 80.00% | ~563,821 |
+| Arms Collector | 71.00% | ~500,391 |
+| Friends in High Places | 68.00% | ~479,248 |
+| Escaped Elysium | 66.00% | ~465,152 |
+| Chthonic Colleagues | 63.00% | ~444,009 |
+| Is There No Escape? | 52.00% | ~366,484 |
+| Death Dealer | 45.00% | ~317,149 |
+| Skelly Slayer | 42.00% | ~296,006 |
+| Well Stocked | 40.00% | ~281,910 |
+| Back to Work | 38.00% | ~267,815 |
+| Day-or-Night Trader | 37.00% | ~260,767 |
+| Blessed by the Gods | 37.00% | ~260,767 |
+| Urge to Sing | 36.00% | ~253,719 |
+| Blood Bound | 35.00% | ~246,672 |
+| Three-Headed Boy | 32.00% | ~225,528 |
+| River Denizens | 28.00% | ~197,337 |
+| Grown Close | 28.00% | ~197,337 |
+| Home Makeover | 27.00% | ~190,290 |
+| The Family Secret | 26.00% | ~183,242 |
+| Had to Happen | 25.00% | ~176,194 |
 | To Charon's Credit | 23.00% | ~162,098 |
 | Tools of the Architect | 23.00% | ~162,098 |
 | Master of Arms | 23.00% | ~162,098 |
-| Rare Collectible | 22.00% | ~155,050 |
-| Weapon of Fate | 21.00% | ~148,002 |
+| Rare Collectible | 22.00% | ~155,051 |
+| Weapon of Fate | 21.00% | ~148,003 |
 | Something From Everyone | 19.00% | ~133,907 |
-| Hold the Onions | 18.00% | ~126,859 |
-| Well Versed | 17.00% | ~119,811 |
+| Hold the Onions | 18.00% | ~126,860 |
+| Well Versed | 17.00% | ~119,812 |
 | War-God's Bloodlust | 15.00% | ~105,716 |
-| Musician and Muse | 14.00% | ~98,668 |
-| The Useless Trinket | 13.00% | ~91,620 |
-| Champion of Elysium | 13.00% | ~91,620 |
+| Musician and Muse | 14.00% | ~98,669 |
+| The Useless Trinket | 13.00% | ~91,621 |
+| Champion of Elysium | 13.00% | ~91,621 |
 | Slashed Benefits | 12.00% | ~84,573 |
 | Haste of Hermes | 11.00% | ~77,525 |
-| Bad Call | 10.00% | ~70,477 |
-| Nyx's Mirror | 10.00% | ~70,477 |
-| Night and Darkness | 10.00% | ~70,477 |
-| End to Torment | 10.00% | ~70,477 |
+| Bad Call | 10.00% | ~70,478 |
+| Nyx's Mirror | 10.00% | ~70,478 |
+| Night and Darkness | 10.00% | ~70,478 |
+| End to Torment | 10.00% | ~70,478 |
 | Dark Reflections | 9.00% | ~63,430 |
 | Thanks, But No Thanks | 9.00% | ~63,430 |
 | Infernal Arms | 9.00% | ~63,430 |
 | Divided by Death | 8.00% | ~56,382 |
 | Harsh Conditions | 7.00% | ~49,334 |
 | One for the Ages | 7.00% | ~49,334 |
-| Complete Set | 6.00% | ~42,286 |
-| Skelly's Last Lamentations | 6.00% | ~42,286 |
+| Complete Set | 6.00% | ~42,287 |
+| Skelly's Last Lamentations | 6.00% | ~42,287 |
 | Thorn of Thanatos | 4.00% | ~28,191 |
 | Friends Forever | 4.00% | ~28,191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,773 (Ranked 21)  
+Progressed: 704,776 (Ranked 21)  
 Completed: 6,397 (0.91%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,10 +225,10 @@ Completed: 6,397 (0.91%) (Ranked 143)
 | 2023-10-03 | 704,636 | 6,393 |
 | 2023-10-04 | 704,689 | 6,396 |
 | 2023-10-05 | 704,755 | 6,396 |
-| 2023-10-06 | 704,773 | 6,397 |
+| 2023-10-06 | 704,776 | 6,397 |
 ## Awards
 Max (Character Customization): 3,293  (Ranked 94)  
-Sum: 7,987 (Ranked 102)  
+Sum: 7,989 (Ranked 102)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -239,8 +239,8 @@ Diff (max vs sum): -8
 | This game has Amazing Storytelling | 247 |
 | This game has Amazing Characters | 243 |
 | This game is Extremely Fun | 243 |
+| This game has Diverse Characters | 241 |
 | This game is Relaxing | 240 |
-| This game has Diverse Characters | 239 |
 | This game has Quickly Understood Controls | 239 |
 | This game has Unique Visuals | 232 |
 | This game has Challenging Combat | 170 |
@@ -488,4 +488,4 @@ Diff (max vs sum): -8
 | 2023-10-03 | 4.92 | - | 3,290 | 7,979 |
 | 2023-10-04 | 4.92 | - | 3,291 | 7,982 |
 | 2023-10-05 | 4.92 | - | 3,293 | 7,986 |
-| 2023-10-06 | 4.92 | - | 3,293 | 7,987 |
+| 2023-10-06 | 4.92 | - | 3,293 | 7,989 |

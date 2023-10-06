@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Lacertian Champion | 14.00% | ~6 |
 | Dicesmithing Time! | 12.00% | ~5 |
+| Loyal Partner | 12.00% | ~5 |
 | Stellar Dismantler | 12.00% | ~5 |
 | Wild's Keeper | 12.00% | ~5 |
 | Apian Champion | 12.00% | ~5 |
 | Noctuan Champion | 12.00% | ~5 |
-| Anomaly Destroyer | 10.00% | ~4 |
-| Endless Tricks | 10.00% | ~4 |
-| Loyal Partner | 10.00% | ~4 |
-| Mechanical Buddy | 10.00% | ~4 |
-| Mind Illuminator | 10.00% | ~4 |
-| Purification Pioneer | 10.00% | ~4 |
-| Sanctuary Guardian | 10.00% | ~4 |
-| Unbeatable | 10.00% | ~4 |
-| Eridanian Champion | 10.00% | ~4 |
+| Anomaly Destroyer | 9.00% | ~4 |
+| Endless Tricks | 9.00% | ~4 |
+| Mechanical Buddy | 9.00% | ~4 |
+| Mind Illuminator | 9.00% | ~4 |
+| Purification Pioneer | 9.00% | ~4 |
+| Sanctuary Guardian | 9.00% | ~4 |
+| Unbeatable | 9.00% | ~4 |
+| Eridanian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
+| Can't touch this | 7.00% | ~3 |
 | Meissa's Savior | 7.00% | ~3 |
 | Shard Spender | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
 | Anomaly Control | 5.00% | ~2 |
 | Astrarium of Holding | 5.00% | ~2 |
-| Can't touch this | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Heart Gate | 5.00% | ~2 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 446)  
+Progressed: 43 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 37 | 0 |
 | 2023-10-04 | 40 | 0 |
 | 2023-10-05 | 41 | 0 |
-| 2023-10-06 | 42 | 0 |
+| 2023-10-06 | 43 | 0 |

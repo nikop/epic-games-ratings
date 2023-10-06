@@ -3990,9 +3990,9 @@
       "Count": 513
     }
   ],
-  "EOS_Progressed": 10576,
+  "EOS_Progressed": 10577,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
@@ -15050,6 +15050,11 @@
       "Time": "2023-10-06T09:07:04.3732893+00:00",
       "NumProgressed": 10576,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-10-06T11:08:20.1769093+00:00",
+      "NumProgressed": 10577,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 15,
@@ -15133,7 +15138,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "Miner",
@@ -15149,7 +15154,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7297
+      "UsersEstimate": 7298
     },
     {
       "ID": "Renovator",
@@ -15173,14 +15178,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10576,
+      "Progressed": 10577,
       "Completed": 249
     }
   ],
@@ -15188,8 +15193,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-05T22:57:11.5865434+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:07:22.5329848+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:08:20.1769088+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:46.6415358+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:57:49.5960917+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:07:22.5330435+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:57:49.6859052+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:08:20.1769861+00:00"
 }

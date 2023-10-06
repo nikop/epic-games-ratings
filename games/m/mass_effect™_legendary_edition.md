@@ -46,15 +46,15 @@
 | Galactic Explorer | 34.00% | ~193 |
 | Broke, Blind, and Bedlam | 33.00% | ~187 |
 | Ghost Ship | 32.00% | ~181 |
+| The Assassin | 32.00% | ~181 |
 | The Justicar | 32.00% | ~181 |
 | The Quarian | 32.00% | ~181 |
-| The Assassin | 31.00% | ~176 |
 | Battlemaster | 31.00% | ~176 |
+| The Cure | 31.00% | ~176 |
 | The Prodigal | 31.00% | ~176 |
 | A Personal Touch | 30.00% | ~170 |
 | Catharsis | 30.00% | ~170 |
 | Ghost of the Father | 30.00% | ~170 |
-| The Cure | 30.00% | ~170 |
 | Big Game Hunter | 30.00% | ~170 |
 | Agent | 30.00% | ~170 |
 | Revenge! | 30.00% | ~170 |
@@ -68,7 +68,7 @@
 | Cat's in the Cradle | 28.00% | ~159 |
 | Doppelganger | 28.00% | ~159 |
 | Bringer of War | 28.00% | ~159 |
-| First Aid Specialist | 26.00% | ~147 |
+| First Aid Specialist | 27.00% | ~153 |
 | Friend or Foe | 26.00% | ~147 |
 | Mobilizer | 26.00% | ~147 |
 | Untouchable | 25.00% | ~142 |
@@ -92,11 +92,11 @@
 | Problem Solver | 19.00% | ~108 |
 | Pyromaniac | 18.00% | ~102 |
 | Party Crasher | 18.00% | ~102 |
+| Hard Target | 18.00% | ~102 |
 | Fact Finder | 18.00% | ~102 |
 | Under Pressure | 17.00% | ~96 |
 | Last Resort | 17.00% | ~96 |
 | Sabotage Specialist | 17.00% | ~96 |
-| Hard Target | 17.00% | ~96 |
 | Saboteur | 17.00% | ~96 |
 | Last Witness | 17.00% | ~96 |
 | Well Connected | 16.00% | ~91 |

@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.70% | ~101 |
 | Intrepid | 0.60% | ~86 |
 | Friendly Family | 0.60% | ~86 |
+| Able | 0.50% | ~72 |
 | Good | 0.50% | ~72 |
 | Learned | 0.50% | ~72 |
 | Mason | 0.50% | ~72 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.50% | ~72 |
 | Hanging Gardens | 0.50% | ~72 |
 | Kushite Paganism | 0.50% | ~72 |
-| Able | 0.40% | ~58 |
 | Ambitious | 0.40% | ~58 |
 | Architect | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
@@ -74,6 +74,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
 | Redemption | 0.20% | ~29 |
+| Points Victory | 0.20% | ~29 |
+| Win a Single Player Game | 0.20% | ~29 |
 | Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Alliance Victory | 0.10% | ~14 |
@@ -231,7 +233,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | No Undo | 0.10% | ~14 |
-| Points Victory | 0.10% | ~14 |
 | Randomized Families | 0.10% | ~14 |
 | Randomized Leaders | 0.10% | ~14 |
 | Time Victory | 0.10% | ~14 |
@@ -241,7 +242,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.10% | ~14 |
 | Win a Network Game | 0.10% | ~14 |
 | Win a Play-By-Cloud Game | 0.10% | ~14 |
-| Win a Single Player Game | 0.10% | ~14 |
 | The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
 | The Great Mage | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,401 (Ranked 134)  
+Progressed: 14,404 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,401 | 5 |
+| 2023-10-06 | 14,404 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

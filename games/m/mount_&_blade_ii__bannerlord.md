@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,484 |
-| Landlord | 33.00% | ~20,717 |
-| Bannerlord | 23.00% | ~14,439 |
-| Horde breaker | 23.00% | ~14,439 |
-| Lawmaker | 23.00% | ~14,439 |
-| Trained | 23.00% | ~14,439 |
-| The king is pleased | 18.00% | ~11,300 |
+| Lawbringer | 39.00% | ~24,485 |
+| Landlord | 33.00% | ~20,718 |
+| Bannerlord | 23.00% | ~14,440 |
+| Horde breaker | 23.00% | ~14,440 |
+| Lawmaker | 23.00% | ~14,440 |
+| Trained | 23.00% | ~14,440 |
+| The king is pleased | 18.00% | ~11,301 |
 | King Solomon | 17.00% | ~10,673 |
 | I can do it | 16.00% | ~10,045 |
 | Apple of my eye | 15.00% | ~9,417 |
-| God of the Arena | 13.00% | ~8,161 |
+| God of the Arena | 13.00% | ~8,162 |
 | Against all odds | 12.00% | ~7,534 |
 | This Is Our Land | 12.00% | ~7,534 |
 | Duelist | 10.00% | ~6,278 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,278 |
 | What have the Romans ever done for us? | 10.00% | ~6,278 |
 | I spit on your grave | 9.00% | ~5,650 |
-| Butterlord | 8.00% | ~5,022 |
+| Butterlord | 8.00% | ~5,023 |
 | Know your enemy | 7.00% | ~4,395 |
 | Mastery | 7.00% | ~4,395 |
 | Crowdfunded | 5.00% | ~3,139 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,780 (Ranked 96)  
+Progressed: 62,782 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,10 +227,10 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 62,646 | 0 |
 | 2023-10-04 | 62,701 | 0 |
 | 2023-10-05 | 62,761 | 0 |
-| 2023-10-06 | 62,780 | 0 |
+| 2023-10-06 | 62,782 | 0 |
 ## Awards
 Max (Character Customization): 7,185  (Ranked 52)  
-Sum: 14,733 (Ranked 66)  
+Sum: 14,737 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -240,8 +240,8 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 885 |
 | This game is Extremely Fun | 844 |
 | This game has Amazing Storytelling | 833 |
+| This game is Relaxing | 825 |
 | This game has Amazing Characters | 823 |
-| This game is Relaxing | 821 |
 | This game has Quickly Understood Controls | 805 |
 | This game has a Creative Community | 601 |
 | This game has Obsessive Gameplay | 376 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -14
 | 2023-10-03 | 4.74 | - | 7,173 | 14,699 |
 | 2023-10-04 | 4.74 | - | 7,176 | 14,708 |
 | 2023-10-05 | 4.74 | - | 7,176 | 14,724 |
-| 2023-10-06 | 4.74 | - | 7,185 | 14,733 |
+| 2023-10-06 | 4.74 | - | 7,185 | 14,737 |

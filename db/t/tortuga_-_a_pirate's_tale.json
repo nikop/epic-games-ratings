@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16770,
+  "EOS_Progressed": 16771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5458,6 +5458,11 @@
       "Time": "2023-10-06T08:05:41.4761526+00:00",
       "NumProgressed": 16770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T11:07:41.6958515+00:00",
+      "NumProgressed": 16771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5477,7 +5482,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14422
+      "UsersEstimate": 14423
     },
     {
       "ID": "ACH0010",
@@ -5541,7 +5546,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH0018",
@@ -5549,7 +5554,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "ACH0019",
@@ -5565,7 +5570,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "ACH0020",
@@ -5629,7 +5634,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14590
+      "UsersEstimate": 14591
     },
     {
       "ID": "ACH005",
@@ -5653,7 +5658,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ACH008",
@@ -5676,7 +5681,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16770,
+      "Progressed": 16771,
       "Completed": 0
     }
   ],
@@ -5684,8 +5689,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:06:46.6576029+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:07:41.6958511+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:00:27.9015913+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:06:46.657643+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:00:49.9515551+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:07:41.6959041+00:00"
 }

@@ -2668,9 +2668,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 290
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2763,8 +2763,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:03:31.7482751+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:03:48.4739757+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:58:17.9697684+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:03:31.7483201+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:58:20.7627339+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:03:48.4740402+00:00"
 }

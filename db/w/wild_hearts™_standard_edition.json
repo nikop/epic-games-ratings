@@ -651,9 +651,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_30",
@@ -865,8 +865,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:03:52.6218724+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:04:11.0406849+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:01:55.6627586+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:03:52.621908+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:02:25.6587887+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:04:11.0407364+00:00"
 }

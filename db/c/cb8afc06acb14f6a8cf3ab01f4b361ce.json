@@ -104,9 +104,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 231375,
+  "EOS_Progressed": 231794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194665,
+  "EOS_NewPlayers": 193411,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2023-10-06T10:03:08.4949422+00:00",
       "NumProgressed": 231375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T11:03:23.6575915+00:00",
+      "NumProgressed": 231794,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -1051,7 +1056,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78668
+      "UsersEstimate": 78810
     },
     {
       "ID": "S02_BRDA",
@@ -1059,7 +1064,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 48589
+      "UsersEstimate": 48677
     },
     {
       "ID": "S03_OTWA",
@@ -1067,7 +1072,7 @@
       "Name": "Rumors are true",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9272
     },
     {
       "ID": "S04_BRDC",
@@ -1075,7 +1080,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6954
     },
     {
       "ID": "S05_SWRA",
@@ -1083,7 +1088,7 @@
       "Name": "Back to your senses",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4636
     },
     {
       "ID": "S06_LWTC",
@@ -1091,7 +1096,7 @@
       "Name": "They tricked me",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2318
     },
     {
       "ID": "S07_INWA",
@@ -1099,7 +1104,7 @@
       "Name": "We need to talk",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2318
     },
     {
       "ID": "S08_MNSA",
@@ -1107,7 +1112,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1623
     },
     {
       "ID": "S09_MNSE",
@@ -1115,7 +1120,7 @@
       "Name": "Here to stay",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1159
     },
     {
       "ID": "S10_GRSB",
@@ -1123,7 +1128,7 @@
       "Name": "Counting on you",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "S11_MMR6",
@@ -1131,7 +1136,7 @@
       "Name": "This is the end",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "S12_ALL",
@@ -1139,7 +1144,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "S13_ALL_HARD",
@@ -1147,7 +1152,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -1155,7 +1160,7 @@
       "Name": "The immortal is bound to reborn",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S15_ALL_IMPOSSIBLE",
@@ -1163,7 +1168,7 @@
       "Name": "A legend among Chimeras",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S16_VITALITY",
@@ -1171,7 +1176,7 @@
       "Name": "It\u0027s only pain",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S17_ENTROPY",
@@ -1179,15 +1184,15 @@
       "Name": "I know how to handle it",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S18_CHALLENGE",
       "SetID": "4j44ol8",
       "Name": "The touch of Chaos",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 83295
+      "UsersEstimate": 85764
     },
     {
       "ID": "S19_CHALLENGES",
@@ -1195,7 +1200,7 @@
       "Name": "Settle this once and for all",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S20_KNIGHT",
@@ -1203,7 +1208,7 @@
       "Name": "The Ashen Knight",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S21_WITCH",
@@ -1211,7 +1216,7 @@
       "Name": "The Shade",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S22_CORRUPTED",
@@ -1219,7 +1224,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2318
     },
     {
       "ID": "S23_ETHEREAL",
@@ -1227,7 +1232,7 @@
       "Name": "Through the Veil",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S24_POSSESSED",
@@ -1235,7 +1240,7 @@
       "Name": "Call this the Judge\u0027s mercy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S25_OTWA",
@@ -1243,7 +1248,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9272
     },
     {
       "ID": "S26_CRTA",
@@ -1251,7 +1256,7 @@
       "Name": "There\u0027s too many of them!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S27_LWTC",
@@ -1259,7 +1264,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1391
     },
     {
       "ID": "S28_CTHB",
@@ -1267,7 +1272,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "S29_RECOVER",
@@ -1275,7 +1280,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11569
+      "UsersEstimate": 11590
     },
     {
       "ID": "S30_DIAMOND",
@@ -1283,7 +1288,7 @@
       "Name": "Bring it on!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9272
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -1291,7 +1296,7 @@
       "Name": "I\u0027ve been waiting for this!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S32_NOHIT",
@@ -1299,7 +1304,7 @@
       "Name": "You want more? I\u0027ve got more!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "S33_NORMAL_PLATINUM",
@@ -1307,7 +1312,7 @@
       "Name": "I\u0027m just warming up",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S34_HARD_PLATINUM",
@@ -1315,7 +1320,7 @@
       "Name": "We learned it the hard way",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S35_VERYHARD_PLATINUM",
@@ -1323,7 +1328,7 @@
       "Name": "They wanted yet another monster\u2026",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S36_CHTC_VODA",
@@ -1331,7 +1336,7 @@
       "Name": "Something... unnatural",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S37_SYNERGY",
@@ -1339,7 +1344,7 @@
       "Name": "We strike as one",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S38_RAPTURE",
@@ -1347,7 +1352,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -1355,7 +1360,7 @@
       "Name": "I took a risk",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2086
     },
     {
       "ID": "S40_BONUS",
@@ -1363,14 +1368,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20824
+      "UsersEstimate": 20861
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 231375,
+      "Progressed": 231794,
       "Completed": 1
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-06T04:59:25.5231205+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:03:08.4949411+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:03:23.6575898+00:00",
   "LastUpdate_AppInfo": "2023-10-05T16:57:03.7740399+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:00:31.4725598+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:03:08.4968401+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:00:54.6769946+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:03:23.6586806+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8598,9 +8598,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297887,
+  "EOS_Progressed": 297891,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26788,6 +26788,11 @@
       "Time": "2023-10-06T10:07:03.2053783+00:00",
       "NumProgressed": 297887,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-06T11:07:59.5188919+00:00",
+      "NumProgressed": 297891,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26799,7 +26804,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44683
+      "UsersEstimate": 44684
     },
     {
       "ID": "PFA_10",
@@ -26887,7 +26892,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_20",
@@ -26919,7 +26924,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35746
+      "UsersEstimate": 35747
     },
     {
       "ID": "PFA_24",
@@ -26951,7 +26956,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_28",
@@ -26999,7 +27004,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_33",
@@ -27047,7 +27052,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_39",
@@ -27063,7 +27068,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_40",
@@ -27079,7 +27084,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14894
+      "UsersEstimate": 14895
     },
     {
       "ID": "PFA_42",
@@ -27119,7 +27124,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "PFA_6",
@@ -27127,7 +27132,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38725
+      "UsersEstimate": 38726
     },
     {
       "ID": "PFA_7",
@@ -27135,7 +27140,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38725
+      "UsersEstimate": 38726
     },
     {
       "ID": "PFA_8",
@@ -27143,7 +27148,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35746
+      "UsersEstimate": 35747
     },
     {
       "ID": "PFA_9",
@@ -27158,7 +27163,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297887,
+      "Progressed": 297891,
       "Completed": 481
     }
   ],
@@ -27166,8 +27171,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T06:00:52.3499085+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:07:03.2053779+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:07:59.5188914+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:02:06.1304817+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:07:03.2054912+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:02:36.7265165+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:07:59.519045+00:00"
 }

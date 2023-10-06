@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1495,9 +1495,9 @@
       "ID": "achievement_16",
       "SetID": "b9pe172",
       "Name": "First Aid Specialist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_17",
@@ -1751,9 +1751,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_46",
@@ -1863,9 +1863,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_59",
@@ -2111,9 +2111,9 @@
       "ID": "achievement_86",
       "SetID": "d252ncf",
       "Name": "Hard Target",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_87",
@@ -2243,8 +2243,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:05:50.8105532+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:06:41.4796429+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:01:09.2054658+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:05:50.810732+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:01:35.9089939+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:06:41.4798723+00:00"
 }

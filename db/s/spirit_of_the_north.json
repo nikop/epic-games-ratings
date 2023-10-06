@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,10 +324,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70676,
+  "EOS_Progressed": 70677,
   "EOS_Completed": 376,
   "EOS_NewPlayers": 593,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
@@ -18824,6 +18824,11 @@
       "Time": "2023-10-06T10:04:16.0051993+00:00",
       "NumProgressed": 70676,
       "NumCompleted": 376
+    },
+    {
+      "Time": "2023-10-06T11:04:19.7301853+00:00",
+      "NumProgressed": 70677,
+      "NumCompleted": 376
     }
   ],
   "TotalAchievements": 24,
@@ -18915,7 +18920,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37458
+      "UsersEstimate": 37459
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19003,7 +19008,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10601
+      "UsersEstimate": 10602
     },
     {
       "ID": "WEIGHTLESS",
@@ -19026,7 +19031,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70676,
+      "Progressed": 70677,
       "Completed": 376
     }
   ],
@@ -19034,8 +19039,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:04:16.0051989+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:04:19.7301848+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.2012891+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:58:03.3763403+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:04:16.0053025+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:58:03.88724+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:04:19.7303198+00:00"
 }

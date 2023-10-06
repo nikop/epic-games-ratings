@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6764,
+  "EOS_Progressed": 6765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6697,6 +6697,11 @@
       "Time": "2023-10-06T02:22:05.0453299+00:00",
       "NumProgressed": 6764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T11:06:43.3446943+00:00",
+      "NumProgressed": 6765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6772,7 +6777,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -6788,7 +6793,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "First_Major_Ally",
@@ -6844,7 +6849,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7164,7 +7169,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "Win_As_Torian",
@@ -7196,7 +7201,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7283,15 +7288,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6764,
+      "Progressed": 6765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-06T10:05:52.7553001+00:00",
+  "LastChanged_Achievements": "2023-10-06T11:06:43.3446939+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:17.8113415+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:57:31.0737751+00:00",
-  "LastUpdate_Achievements": "2023-10-06T10:05:52.7553877+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:57:29.6105514+00:00",
+  "LastUpdate_Achievements": "2023-10-06T11:06:43.3448094+00:00"
 }
