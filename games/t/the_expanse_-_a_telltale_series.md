@@ -12,11 +12,11 @@ Rating: 4.53 (Ranked 523)
 | Call it Even | 1.00% | ~136 |
 | Bosmang | 1.00% | ~136 |
 | Impossible Objects | 1.00% | ~136 |
+| Data Archivist | 0.90% | ~122 |
 | Heal Thy Medic | 0.90% | ~122 |
+| Captain Drummer | 0.90% | ~122 |
 | Celebrations are in Order | 0.90% | ~122 |
-| Data Archivist | 0.80% | ~109 |
 | Martian Music | 0.80% | ~109 |
-| Captain Drummer | 0.80% | ~109 |
 | Spore Taste | 0.70% | ~95 |
 | Khan's Revenge | 0.70% | ~95 |
 | Stogie for Fogey | 0.60% | ~82 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 523)
 | Debris Spree | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,602 (Ranked 135)  
+Progressed: 13,609 (Ranked 135)  
 Completed: 12 (0.09%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 12 (0.09%) (Ranked 246)
 | 2023-10-03 | 13,512 | 3 |
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
-| 2023-10-06 | 13,602 | 12 |
+| 2023-10-06 | 13,609 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

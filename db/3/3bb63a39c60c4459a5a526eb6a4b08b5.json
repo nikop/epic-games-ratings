@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2841,6 +2841,11 @@
       "Time": "2023-10-05T16:10:01.6149597+00:00",
       "NumProgressed": 767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T01:51:36.0845579+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2948,7 +2953,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "FullCompletion",
@@ -2988,7 +2993,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LargeTerritories",
@@ -3012,7 +3017,7 @@
       "Name": "Linear Network",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LongDistance",
@@ -3052,7 +3057,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "NoTimeForModernization",
@@ -3068,7 +3073,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "NotPlanned",
@@ -3164,7 +3169,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "TimeForManagement",
@@ -3187,14 +3192,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:08:40.0194675+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:51:36.0845573+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:00:31.6952727+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:08:40.0195192+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:43:04.3568964+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:51:36.084626+00:00"
 }

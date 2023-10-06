@@ -12,15 +12,15 @@
 | Unholy lands | 8.00% | ~28 |
 | Unveiling the Magnitude of Sin | 5.00% | ~18 |
 | The court | 4.00% | ~14 |
-| The crucifixion | 3.00% | ~10 |
-| Holy Nails | 3.00% | ~10 |
-| Flagellation | 3.00% | ~10 |
+| The crucifixion | 3.00% | ~11 |
+| Holy Nails | 3.00% | ~11 |
+| Flagellation | 3.00% | ~11 |
 | The choice | 2.00% | ~7 |
 | Hubris | 2.00% | ~7 |
 | Humility | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 297)  
-Completed: 1 (0.29%) (Ranked 201)  
+Progressed: 351 (Ranked 297)  
+Completed: 1 (0.28%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,3 +103,4 @@ Completed: 1 (0.29%) (Ranked 201)
 | 2023-10-02 | 344 | 1 |
 | 2023-10-03 | 346 | 1 |
 | 2023-10-04 | 350 | 1 |
+| 2023-10-06 | 351 | 1 |

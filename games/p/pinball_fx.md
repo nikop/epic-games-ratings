@@ -1,19 +1,19 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.05 (Ranked 952)  
+Rating: 4.06 (Ranked 947)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~220,462 |
-| I know the Rules | 36.00% | ~96,788 |
-| Contender | 10.00% | ~26,886 |
-| I Found it! | 10.00% | ~26,886 |
-| First but not Last | 4.00% | ~10,754 |
-| Ready Steady Score | 3.00% | ~8,066 |
-| Dress Code | 3.00% | ~8,066 |
-| Full Loot Madness | 2.00% | ~5,377 |
+| Ball Launched | 82.00% | ~220,486 |
+| I know the Rules | 36.00% | ~96,799 |
+| Contender | 10.00% | ~26,888 |
+| I Found it! | 10.00% | ~26,888 |
+| First but not Last | 4.00% | ~10,755 |
+| Ready Steady Score | 3.00% | ~8,067 |
+| Dress Code | 3.00% | ~8,067 |
+| Full Loot Madness | 2.00% | ~5,378 |
 | My Table, my Rules | 1.00% | ~2,689 |
 | Nine Zeroes | 0.90% | ~2,420 |
 | Shiny Memento | 0.30% | ~807 |
@@ -37,8 +37,8 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,856 (Ranked 48)  
-Completed: 0 (0.00%) (Ranked 305)  
+Progressed: 268,885 (Ranked 48)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,20 +206,20 @@ Completed: 0 (0.00%) (Ranked 305)
 | 2023-10-03 | 268,209 | 0 |
 | 2023-10-04 | 268,419 | 0 |
 | 2023-10-05 | 268,847 | 0 |
-| 2023-10-06 | 268,856 | 0 |
+| 2023-10-06 | 268,885 | 0 |
 ## Awards
-Max (Great for Beginners): 191  (Ranked 281)  
-Sum: 1,553 (Ranked 223)  
-Diff (max vs sum): 58  
+Max (Great for Beginners): 194  (Ranked 279)  
+Sum: 1,563 (Ranked 223)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 191 |
+| This game is Great for Beginners | 194 |
 | This game is Great for Quick Sessions | 181 |
-| This game has Quickly Understood Controls | 162 |
-| This game is Relaxing | 162 |
-| This game is Extremely Fun | 155 |
-| This game is Highly Recommended | 153 |
-| This game has Competitive Players | 148 |
+| This game has Quickly Understood Controls | 163 |
+| This game is Relaxing | 163 |
+| This game is Highly Recommended | 156 |
+| This game is Extremely Fun | 156 |
+| This game has Competitive Players | 149 |
 | This game has Challenging Combat | 107 |
 | This game has a Competitive Community | 102 |
 | This game has Amazing Storytelling | 101 |
@@ -392,3 +392,4 @@ Diff (max vs sum): 58
 | 2023-09-19 | 4.05 | - | 189 | 1,550 |
 | 2023-09-20 | 4.05 | - | 190 | 1,552 |
 | 2023-09-24 | 4.05 | - | 191 | 1,553 |
+| 2023-10-06 | 4.06 | - | 194 | 1,563 |

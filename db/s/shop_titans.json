@@ -6382,9 +6382,9 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137160,
+  "EOS_Progressed": 137162,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23642,6 +23642,11 @@
       "Time": "2023-10-06T00:04:43.6793772+00:00",
       "NumProgressed": 137160,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-10-06T01:47:14.105873+00:00",
+      "NumProgressed": 137162,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 112,
@@ -23939,9 +23944,9 @@
       "ID": "craft04",
       "SetID": "anfd17p",
       "Name": "Industrial Evolution",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 686
     },
     {
       "ID": "craft05",
@@ -24548,15 +24553,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137160,
+      "Progressed": 137162,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-05T23:57:39.0702199+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:04:43.6793764+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:47:14.1058725+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:57:39.0702207+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:04:43.6796383+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:40:13.1701745+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:47:14.1062579+00:00"
 }

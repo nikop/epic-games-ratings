@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -1546,6 +1546,11 @@
       "Time": "2023-10-04T22:05:46.4165632+00:00",
       "NumProgressed": 350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T01:48:16.0288626+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1573,7 +1578,7 @@
       "Name": "The crucifixion",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1653,7 +1658,7 @@
       "Name": "Holy Nails",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1661,21 +1666,21 @@
       "Name": "Flagellation",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:05:46.9233138+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:48:16.0288616+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:58.5619697+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:00:15.0122655+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:05:46.9233312+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:42:45.4667816+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:48:16.0288953+00:00"
 }

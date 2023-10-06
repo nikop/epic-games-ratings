@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Rascal | 0.80% | ~2 |
 | Half the way | 0.40% | ~1 |
 | Open door | 0.40% | ~1 |
 | Free at last | 0.40% | ~1 |
@@ -11,8 +12,8 @@
 | For its own good | 0.40% | ~1 |
 | A Link to the Past | 0.40% | ~1 |
 | Alchemists Express | 0.40% | ~1 |
-| Rascal | 0.40% | ~1 |
 | That's the spirit | 0.40% | ~1 |
+| Welcome to the Tower | 0.40% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
@@ -24,7 +25,6 @@
 | Fashion victim | 0.00% | ~0 |
 | Champollion | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
-| Welcome to the Tower | 0.00% | ~0 |
 | The great escape | 0.00% | ~0 |
 | A new dawn | 0.00% | ~0 |
 | The darkness | 0.00% | ~0 |

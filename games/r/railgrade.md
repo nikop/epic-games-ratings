@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,146 |
-| Before the Downfall | 95.00% | ~18,189 |
-| Money like Water | 93.00% | ~17,806 |
-| Minimalist | 92.00% | ~17,614 |
-| Builder | 84.00% | ~16,083 |
-| Eraser | 71.00% | ~13,594 |
-| Pocket of Trains | 67.00% | ~12,828 |
-| Inspector | 60.00% | ~11,488 |
+| Trevithick's Legacy | 100.00% | ~19,145 |
+| Before the Downfall | 95.00% | ~18,188 |
+| Money like Water | 93.00% | ~17,805 |
+| Minimalist | 92.00% | ~17,613 |
+| Builder | 84.00% | ~16,082 |
+| Eraser | 71.00% | ~13,593 |
+| Pocket of Trains | 67.00% | ~12,827 |
+| Inspector | 60.00% | ~11,487 |
 | Going the Distance | 55.00% | ~10,530 |
-| Oil Baron | 43.00% | ~8,233 |
-| Loads-a-Money | 43.00% | ~8,233 |
+| Oil Baron | 43.00% | ~8,232 |
+| Loads-a-Money | 43.00% | ~8,232 |
 | Helper of the People | 40.00% | ~7,658 |
 | Simplification | 35.00% | ~6,701 |
-| Box of Trains | 34.00% | ~6,510 |
+| Box of Trains | 34.00% | ~6,509 |
 | Let There be Light | 33.00% | ~6,318 |
 | Hot Water | 31.00% | ~5,935 |
 | Indecisive | 30.00% | ~5,744 |
@@ -26,10 +26,10 @@ Rating: 4.55 (Ranked 489)
 | Industrialist | 26.00% | ~4,978 |
 | Perfectionist | 24.00% | ~4,595 |
 | Trains over Pipes | 24.00% | ~4,595 |
-| 8K is Enough for Everyone | 23.00% | ~4,404 |
+| 8K is Enough for Everyone | 23.00% | ~4,403 |
 | Man of Steel | 17.00% | ~3,255 |
 | Room Full of Trains | 13.00% | ~2,489 |
-| Investor | 10.00% | ~1,915 |
+| Investor | 10.00% | ~1,914 |
 | Multiverse | 7.00% | ~1,340 |
 | The poor groundwater levels | 7.00% | ~1,340 |
 | Metropolis | 7.00% | ~1,340 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 489)
 | Overdeer | 0.60% | ~115 |
 | Cloud Services | 0.30% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,146 (Ranked 126)  
+Progressed: 19,145 (Ranked 126)  
 Completed: 34 (0.18%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 34 (0.18%) (Ranked 220)
 | 2023-10-03 | 19,192 | 35 |
 | 2023-10-04 | 19,177 | 35 |
 | 2023-10-05 | 19,163 | 35 |
+| 2023-10-06 | 19,145 | 34 |
 ## Awards
 Max (Great for Beginners): 89  (Ranked 362)  
 Sum: 670 (Ranked 289)  

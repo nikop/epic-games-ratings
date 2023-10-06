@@ -39,11 +39,11 @@ Rating: 4.45 (Ranked 643)
 | Rigged to Blow | 8.00% | ~296 |
 | Herr Today, Gone Tomorrow | 6.00% | ~219 |
 | The Long Game | 5.00% | ~185 |
+| Tinkerer | 5.00% | ~185 |
 | It'll Buff Right Out | 5.00% | ~185 |
 | Don't hold your breath | 5.00% | ~185 |
 | Operation Foxley | 5.00% | ~183 |
 | Strategist | 4.00% | ~148 |
-| Tinkerer | 4.00% | ~148 |
 | Locomotion Commotion | 4.00% | ~148 |
 | Road Rage | 4.00% | ~148 |
 | Last Resort | 4.00% | ~146 |

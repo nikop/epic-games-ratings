@@ -3,7 +3,7 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 383,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -664,9 +664,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -880,9 +880,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
@@ -897,8 +897,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:09:14.0284144+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:51:49.5392832+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.2011916+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:59:15.3960324+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:09:14.0284576+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:41:48.3099421+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:51:49.5393598+00:00"
 }

@@ -5102,9 +5102,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1171
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5382,8 +5382,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:05:41.3653144+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:48:10.4757128+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:02:18.5072876+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:05:41.365379+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:45:21.3308357+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:48:10.4758183+00:00"
 }

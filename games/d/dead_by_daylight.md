@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.50% | ~4,605 |
+| It wakes | 0.50% | ~4,606 |
 | Zealous | 0.40% | ~3,684 |
 | Not half bad | 0.40% | ~3,684 |
 | Skillful | 0.40% | ~3,684 |
@@ -38,6 +38,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.20% | ~1,842 |
 | Preemptive Strike | 0.20% | ~1,842 |
 | Humanitarian | 0.20% | ~1,842 |
+| With Scars to Show | 0.20% | ~1,842 |
 | Second Act | 0.20% | ~1,842 |
 | A bite for the Entity | 0.10% | ~921 |
 | A feast for the Entity | 0.10% | ~921 |
@@ -189,7 +190,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Caws of Death | 0.10% | ~921 |
 | Prowler | 0.10% | ~921 |
 | Adept Artist | 0.10% | ~921 |
-| With Scars to Show | 0.10% | ~921 |
 | Flight to Freedom | 0.10% | ~921 |
 | Adept Jonah | 0.10% | ~921 |
 | Viral Video | 0.10% | ~921 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920,987 (Ranked 14)  
+Progressed: 921,114 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,14 +405,14 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 920,987 | 49 |
+| 2023-10-06 | 921,114 | 49 |
 ## Awards
-Max (Diverse Characters): 33,450  (Ranked 15)  
-Sum: 259,598 (Ranked 13)  
+Max (Diverse Characters): 33,500  (Ranked 15)  
+Sum: 259,648 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,450 |
+| This game has Diverse Characters | 33,500 |
 | This game is Highly Recommended | 29,661 |
 | This game has Competitive Players | 29,373 |
 | This game has Amazing Characters | 29,334 |
@@ -681,3 +681,4 @@ Diff (max vs sum): 2
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
+| 2023-10-06 | 4.52 | - | 33,500 | 259,648 |

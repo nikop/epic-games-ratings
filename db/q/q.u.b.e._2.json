@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 596,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2381,6 +2381,11 @@
       "Time": "2023-10-05T23:04:18.0017295+00:00",
       "NumProgressed": 595,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T01:47:32.021625+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2543,9 +2548,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_OASIS",
@@ -2553,7 +2558,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_PEAK",
@@ -2593,7 +2598,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_S5",
@@ -2615,24 +2620,24 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 292
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 596,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:05:02.3995734+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:47:32.0216245+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:01:17.1947595+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:05:02.3996078+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:43:46.7097692+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:47:32.0216823+00:00"
 }

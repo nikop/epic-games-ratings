@@ -6,6 +6,7 @@ Rating: 4.63 (Ranked 335)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.30% | ~72 |
+| Cold-Blooded Driller | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
@@ -21,7 +22,7 @@ Rating: 4.63 (Ranked 335)
 | G3 Graduation | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |
 | Hardest Battle In The Game | 0.20% | ~48 |
-| Cold-Blooded Driller | 0.20% | ~48 |
+| Self-Actualization | 0.20% | ~48 |
 | Who's The Boss? | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
@@ -32,7 +33,6 @@ Rating: 4.63 (Ranked 335)
 | Luglox Genocide | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
 | Sequel-Bait | 0.10% | ~24 |
-| Self-Actualization | 0.10% | ~24 |
 | Gunning For Your Job | 0.10% | ~24 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 335)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,122 (Ranked 118)  
+Progressed: 24,123 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 13 (0.05%) (Ranked 264)
 | 2023-10-03 | 24,113 | 12 |
 | 2023-10-04 | 24,118 | 12 |
 | 2023-10-05 | 24,122 | 13 |
+| 2023-10-06 | 24,123 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

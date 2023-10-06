@@ -23,9 +23,9 @@
 | Counter Specialist | 49.00% | ~49 |
 | Bonds of Enmity | 48.00% | ~48 |
 | Axer of Auspice | 43.00% | ~43 |
+| Single Minded | 40.00% | ~40 |
 | Fair Means or Foul | 40.00% | ~40 |
 | Karakuri Trail | 39.00% | ~39 |
-| Single Minded | 39.00% | ~39 |
 | Mighty Marmelizer | 39.00% | ~39 |
 | Snare Specialist | 39.00% | ~39 |
 | Kemono at Heart | 37.00% | ~37 |

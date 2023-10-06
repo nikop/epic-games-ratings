@@ -1,17 +1,17 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 508)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,739 |
-| Break A Leg | 3.00% | ~20,739 |
-| Coup de Grâce | 3.00% | ~20,739 |
-| Hazardous Materials | 3.00% | ~20,739 |
-| Hotel California | 3.00% | ~20,739 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,739 |
-| Welcome To Hell-A | 3.00% | ~20,739 |
+| Git Gutte! | 3.00% | ~20,740 |
+| Break A Leg | 3.00% | ~20,740 |
+| Coup de Grâce | 3.00% | ~20,740 |
+| Hazardous Materials | 3.00% | ~20,740 |
+| Hotel California | 3.00% | ~20,740 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,740 |
+| Welcome To Hell-A | 3.00% | ~20,740 |
 | Dr. Reed, I Presume? | 2.00% | ~13,826 |
 | Anger Management | 2.00% | ~13,826 |
 | Perks of the Job | 2.00% | ~13,826 |
@@ -37,12 +37,12 @@ Rating: 4.54 (Ranked 508)
 | Jumbo Keyring | 0.90% | ~6,222 |
 | Go, Bobcats! | 0.90% | ~6,222 |
 | Rising Star | 0.90% | ~6,222 |
-| Smorgasbord | 0.80% | ~5,530 |
+| Smorgasbord | 0.80% | ~5,531 |
 | Internet Famous | 0.70% | ~4,839 |
 | On Safari | 0.60% | ~4,148 |
 | Not Even My Final Form | 0.60% | ~4,148 |
 | Variety is the Spice of Death | 0.60% | ~4,148 |
-| Make it So | 0.50% | ~3,456 |
+| Make it So | 0.50% | ~3,457 |
 | LA Influential | 0.40% | ~2,765 |
 | Gore Horse | 0.40% | ~2,765 |
 | Sharpest Tool in the Box | 0.40% | ~2,765 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,300 (Ranked 22)  
+Progressed: 691,321 (Ranked 22)  
 Completed: 2,192 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,17 +220,17 @@ Completed: 2,192 (0.32%) (Ranked 194)
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
 | 2023-10-05 | 691,288 | 2,192 |
-| 2023-10-06 | 691,300 | 2,192 |
+| 2023-10-06 | 691,321 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 58)  
-Sum: 9,439 (Ranked 91)  
+Sum: 9,441 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,327 |
 | This game is Great for Beginners | 444 |
 | This game has Diverse Characters | 438 |
-| This game has Quickly Understood Controls | 415 |
+| This game has Quickly Understood Controls | 417 |
 | This game is Relaxing | 395 |
 | This game has Amazing Storytelling | 365 |
 | This game is Highly Recommended | 355 |
@@ -407,3 +407,4 @@ Diff (max vs sum): -33
 | 2023-10-03 | 4.54 | 6,301 | 9,397 |
 | 2023-10-04 | 4.54 | 6,318 | 9,420 |
 | 2023-10-05 | 4.54 | 6,327 | 9,439 |
+| 2023-10-06 | 4.54 | 6,327 | 9,441 |

@@ -11,13 +11,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.70% | ~101 |
 | Friendly Family | 0.60% | ~86 |
 | Intrepid | 0.50% | ~72 |
+| Learned | 0.50% | ~72 |
 | Hanging Gardens | 0.50% | ~72 |
 | Able | 0.40% | ~58 |
 | Architect | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
 | Good | 0.40% | ~58 |
 | Just | 0.40% | ~58 |
-| Learned | 0.40% | ~58 |
 | Mason | 0.40% | ~58 |
 | Noble | 0.40% | ~58 |
 | Pioneer | 0.40% | ~58 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.40% | ~58 |
 | Kushite Paganism | 0.40% | ~58 |
 | Ambitious | 0.30% | ~43 |
+| Brilliant | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Fountainhead | 0.30% | ~43 |
 | Keystone | 0.30% | ~43 |
@@ -50,9 +51,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Hanging Gardens in Babylon | 0.20% | ~29 |
-| Brilliant | 0.20% | ~29 |
+| Drillmaster | 0.20% | ~29 |
 | Great | 0.20% | ~29 |
 | Intercessor | 0.20% | ~29 |
+| Valiant | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
 | Furious Family | 0.20% | ~29 |
@@ -65,8 +67,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
 | Egyptian Paganism | 0.20% | ~29 |
+| Persian Paganism | 0.20% | ~29 |
 | Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
+| Redemption | 0.20% | ~29 |
 | Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Alliance Victory | 0.10% | ~14 |
@@ -98,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.10% | ~14 |
 | Avenger | 0.10% | ~14 |
 | Beloved | 0.10% | ~14 |
-| Drillmaster | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
 | Conqueror | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
@@ -111,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
 | Subjugator | 0.10% | ~14 |
-| Valiant | 0.10% | ~14 |
 | Victorious | 0.10% | ~14 |
 | Glorious Difficulty | 0.10% | ~14 |
 | Good Difficulty | 0.10% | ~14 |
@@ -200,7 +202,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~14 |
 | Assyrian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
-| Persian Paganism | 0.10% | ~14 |
 | Roman Papacy | 0.10% | ~14 |
 | Circus Maximus in Roma | 0.10% | ~14 |
 | Pantheon in Roma | 0.10% | ~14 |
@@ -213,7 +214,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.10% | ~14 |
 | Enlightenment | 0.10% | ~14 |
 | Gnosticism | 0.10% | ~14 |
-| Redemption | 0.10% | ~14 |
 | Revelation | 0.10% | ~14 |
 | Veneration | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,388 (Ranked 134)  
+Progressed: 14,391 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,388 | 5 |
+| 2023-10-06 | 14,391 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

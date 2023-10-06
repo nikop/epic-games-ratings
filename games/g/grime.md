@@ -6,13 +6,13 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 0.50% | ~752 |
+| Taste | 0.50% | ~753 |
 | The Hunt | 0.40% | ~602 |
 | Weeper | 0.40% | ~602 |
 | Imprint | 0.40% | ~602 |
-| Silenced Whispers | 0.30% | ~451 |
-| Devourer | 0.30% | ~451 |
-| Ravenous | 0.30% | ~451 |
+| Silenced Whispers | 0.30% | ~452 |
+| Devourer | 0.30% | ~452 |
+| Ravenous | 0.30% | ~452 |
 | Shapely | 0.20% | ~301 |
 | Scion | 0.20% | ~300 |
 | Glare | 0.20% | ~300 |
@@ -23,38 +23,38 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.20% | ~301 |
 | Yank | 0.20% | ~301 |
 | Sharpened Vessel | 0.20% | ~301 |
-| Spiral Heart | 0.10% | ~150 |
-| Bloodhunter | 0.10% | ~150 |
-| Skinmaker | 0.10% | ~150 |
-| Assimilation | 0.10% | ~150 |
-| Instruments | 0.10% | ~150 |
+| Spiral Heart | 0.10% | ~151 |
+| Bloodhunter | 0.10% | ~151 |
+| Skinmaker | 0.10% | ~151 |
+| Assimilation | 0.10% | ~151 |
+| Instruments | 0.10% | ~151 |
 | Zygote | 0.10% | ~150 |
-| Breath | 0.10% | ~150 |
-| Hunt Down | 0.10% | ~150 |
-| Artisan | 0.10% | ~150 |
+| Breath | 0.10% | ~151 |
+| Hunt Down | 0.10% | ~151 |
+| Artisan | 0.10% | ~151 |
 | Host | 0.10% | ~150 |
-| Hush | 0.10% | ~150 |
-| Celebration | 0.10% | ~150 |
-| Inevitable | 0.10% | ~150 |
-| All-Seeing | 0.10% | ~150 |
-| Predator | 0.10% | ~150 |
-| Kinship | 0.10% | ~150 |
-| Weakness | 0.10% | ~150 |
-| Breathsmith | 0.10% | ~150 |
-| Unwrap the Gift | 0.10% | ~150 |
-| Passage | 0.10% | ~150 |
+| Hush | 0.10% | ~151 |
+| Celebration | 0.10% | ~151 |
+| Inevitable | 0.10% | ~151 |
+| All-Seeing | 0.10% | ~151 |
+| Predator | 0.10% | ~151 |
+| Kinship | 0.10% | ~151 |
+| Weakness | 0.10% | ~151 |
+| Breathsmith | 0.10% | ~151 |
+| Unwrap the Gift | 0.10% | ~151 |
+| Passage | 0.10% | ~151 |
 | Dream | 0.10% | ~150 |
-| Generous | 0.10% | ~150 |
+| Generous | 0.10% | ~151 |
 | Kin | 0.10% | ~150 |
 | Listen | 0.10% | ~150 |
-| Proportions | 0.10% | ~150 |
+| Proportions | 0.10% | ~151 |
 | The Nightmare | 0.10% | ~150 |
 | Touch of Otherwhere | 0.10% | ~150 |
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,498 (Ranked 69)  
-Completed: 1 (0.00%) (Ranked 305)  
+Progressed: 150,517 (Ranked 69)  
+Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 1 (0.00%) (Ranked 305)
 | 2023-10-03 | 149,903 | 1 |
 | 2023-10-04 | 150,205 | 1 |
 | 2023-10-05 | 150,488 | 1 |
-| 2023-10-06 | 150,498 | 1 |
+| 2023-10-06 | 150,517 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
 Sum: 268 (Ranked 360)  

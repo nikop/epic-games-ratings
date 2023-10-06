@@ -2,11 +2,11 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -300,10 +300,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-10-06T01:42:39.7269831+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
+  "NumberOfAwards": 45,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -317,10 +323,10 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 224054,
+  "EOS_Progressed": 224063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1967,
   "EOS_NewCompleters": 0,
@@ -8725,6 +8731,11 @@
       "Time": "2023-10-06T00:06:10.0527392+00:00",
       "NumProgressed": 224054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T01:48:38.5941839+00:00",
+      "NumProgressed": 224063,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -8769,7 +8780,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -8793,7 +8804,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47051
+      "UsersEstimate": 47053
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -8801,7 +8812,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20165
+      "UsersEstimate": 20166
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -8817,7 +8828,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8962
+      "UsersEstimate": 8963
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -8921,7 +8932,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29127
+      "UsersEstimate": 29128
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -8961,7 +8972,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -8993,7 +9004,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56014
+      "UsersEstimate": 56016
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -9008,16 +9019,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 224054,
+      "Progressed": 224063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-05T14:00:35.4759424+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:06:10.0527385+00:00",
+  "LastChanged": "2023-10-06T01:42:39.7269829+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:48:38.5941832+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:00:08.9958931+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:06:10.0528167+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:42:39.7269836+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:48:38.5943187+00:00"
 }

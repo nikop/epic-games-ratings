@@ -2,10 +2,10 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 351,
-  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 118,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 401,
   "RatingHistory": [
     {
@@ -677,6 +677,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2023-10-06T01:41:28.0525785+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 215
     }
   ],
   "ReviewsDisabled": false,
@@ -709,9 +715,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38366,
+  "EOS_Progressed": 38367,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17869,6 +17875,11 @@
       "Time": "2023-10-06T00:03:50.8407886+00:00",
       "NumProgressed": 38366,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T01:46:23.0609181+00:00",
+      "NumProgressed": 38367,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -18311,15 +18322,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38366,
+      "Progressed": 38367,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2023-10-04T01:41:35.8515724+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:03:50.840788+00:00",
+  "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:46:23.0609176+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:58:54.5098769+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:03:50.8409218+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:41:28.052579+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:46:23.0611296+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 750,
+  "Ranking_Rating": 751,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 145,
-  "Ranking_EOS_Progress": 105,
+  "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2170,9 +2170,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41274,
+  "EOS_Progressed": 41275,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20350,6 +20350,11 @@
       "Time": "2023-10-06T00:05:49.7667291+00:00",
       "NumProgressed": 41274,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-06T01:48:18.7149133+00:00",
+      "NumProgressed": 41275,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20393,7 +20398,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23526
+      "UsersEstimate": 23527
     },
     {
       "ID": "achievements_14",
@@ -20465,7 +20470,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24764
+      "UsersEstimate": 24765
     },
     {
       "ID": "achievements_24",
@@ -20489,7 +20494,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "achievements_27",
@@ -20513,7 +20518,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13620
+      "UsersEstimate": 13621
     },
     {
       "ID": "achievements_3",
@@ -20521,7 +20526,7 @@
       "Name": "Evil Always Wins!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "achievements_30",
@@ -20537,7 +20542,7 @@
       "Name": "Bane of Mercenaries - III",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "achievements_32",
@@ -20545,7 +20550,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14033
+      "UsersEstimate": 14034
     },
     {
       "ID": "achievements_33",
@@ -20553,7 +20558,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11969
+      "UsersEstimate": 11970
     },
     {
       "ID": "achievements_34",
@@ -20577,7 +20582,7 @@
       "Name": "Grand Arena",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "achievements_37",
@@ -20585,7 +20590,7 @@
       "Name": "Monument to Greatness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "achievements_38",
@@ -20593,7 +20598,7 @@
       "Name": "Ancient Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "achievements_39",
@@ -20609,7 +20614,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 27241
+      "UsersEstimate": 27242
     },
     {
       "ID": "achievements_40",
@@ -20665,7 +20670,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 35083
+      "UsersEstimate": 35084
     },
     {
       "ID": "achievements_47",
@@ -20721,7 +20726,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "achievements_53",
@@ -20729,7 +20734,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23526
+      "UsersEstimate": 23527
     },
     {
       "ID": "achievements_54",
@@ -20785,7 +20790,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14033
+      "UsersEstimate": 14034
     },
     {
       "ID": "achievements_61",
@@ -20809,7 +20814,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "achievements_64",
@@ -20849,7 +20854,7 @@
       "Name": "Graveyard Call - I",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "achievements_69",
@@ -20857,7 +20862,7 @@
       "Name": "Graveyard Call - II",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "achievements_7",
@@ -20881,7 +20886,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "achievements_72",
@@ -20937,7 +20942,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30130
+      "UsersEstimate": 30131
     },
     {
       "ID": "achievements_8",
@@ -20960,15 +20965,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41274,
+      "Progressed": 41275,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-02T15:00:18.2821908+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:05:49.7667281+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:48:18.7149126+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.3710119+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:57:34.4032361+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:05:49.7669333+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:40:09.050605+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:48:18.7152659+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
-  "Ranking_Rating": 93,
+  "Ranking_Rating": 94,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 653,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -490,6 +490,6 @@
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
   "LastChanged": "2023-09-16T21:00:02.4481497+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:48.6287991+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:57:42.6670204+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:03:38.1520747+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:40:15.7079802+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:46:10.0231096+00:00"
 }

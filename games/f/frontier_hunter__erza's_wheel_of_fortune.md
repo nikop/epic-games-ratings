@@ -14,9 +14,9 @@
 | Flower Thief | 58.00% | ~59 |
 | Apostle of Flame | 56.00% | ~57 |
 | Beginner Cook | 54.00% | ~55 |
-| Beginner Artificer | 53.00% | ~54 |
+| Beginner Artificer | 54.00% | ~55 |
 | Seal Breaker | 50.00% | ~50 |
-| Handyman | 47.00% | ~47 |
+| Handyman | 48.00% | ~48 |
 | Giant Lizard Killer | 46.00% | ~46 |
 | Nosebleeder | 45.00% | ~45 |
 | Guardian | 44.00% | ~44 |
@@ -51,7 +51,7 @@
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

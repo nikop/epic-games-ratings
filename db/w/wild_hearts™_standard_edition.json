@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -593,9 +593,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_25",
@@ -855,8 +855,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-06T00:03:39.5224002+00:00",
+  "LastChanged_Achievements": "2023-10-06T01:46:11.4616924+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-06T00:01:06.7894141+00:00",
-  "LastUpdate_Achievements": "2023-10-06T00:03:39.5224457+00:00"
+  "LastUpdate_Ratings": "2023-10-06T01:43:36.0098646+00:00",
+  "LastUpdate_Achievements": "2023-10-06T01:46:11.461815+00:00"
 }
