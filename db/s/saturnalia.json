@@ -258,7 +258,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66944,
+  "EOS_Progressed": 66945,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -11748,6 +11748,11 @@
       "Time": "2023-10-06T08:04:42.1340551+00:00",
       "NumProgressed": 66944,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-06T10:05:27.8313169+00:00",
+      "NumProgressed": 66945,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -11775,7 +11780,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -11918,7 +11923,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66944,
+      "Progressed": 66945,
       "Completed": 16
     }
   ],
@@ -11926,8 +11931,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:05:19.15338+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:05:27.8313162+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:11.2913052+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:01:39.6283028+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:05:19.1534544+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:02:00.7995704+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:05:27.8314075+00:00"
 }

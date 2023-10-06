@@ -20,7 +20,7 @@
 | Distance Devourer | 57.00% | ~58 |
 | Helpful Heart | 54.00% | ~55 |
 | Flawless Crystal | 53.00% | ~54 |
-| Counter Specialist | 49.00% | ~50 |
+| Counter Specialist | 50.00% | ~51 |
 | Bonds of Enmity | 49.00% | ~50 |
 | Axer of Auspice | 43.00% | ~44 |
 | Single Minded | 40.00% | ~41 |

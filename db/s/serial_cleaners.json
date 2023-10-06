@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 249,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -722,8 +722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:03:30.5418217+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:03:13.4720349+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.5663782+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:58:32.7533997+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:03:30.5418474+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:58:35.1390635+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:03:13.4720542+00:00"
 }

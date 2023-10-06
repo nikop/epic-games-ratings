@@ -2,12 +2,12 @@
   "ID": "d3f34b351df646e0ab932fd8d8e5dfc2",
   "Name": "Speed Brawl",
   "ProductSlug": "speed-brawl",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 489,
-  "Ranking_EOS_Progress": 653,
+  "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-09-18T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 104,
   "RatingHistory": [
     {
@@ -265,6 +265,12 @@
       "Rating": 4.32,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-10-06T10:01:26.7588509+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -290,8 +296,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:43.9675796+00:00",
-  "LastChanged": "2023-09-13T07:59:20.554782+00:00",
+  "LastChanged": "2023-10-06T10:01:26.7588508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.8665648+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:01:06.6817039+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:03:44.0074283+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:01:26.7588512+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:03:28.3764562+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,262 |
+| Sowwy! | 32.00% | ~73,264 |
 | Alt+F4 | 6.00% | ~13,737 |
 | Where's that freaking Dwarf? | 5.00% | ~11,447 |
 | Déjà vu | 4.00% | ~9,158 |
@@ -40,7 +40,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,289 |
 | I am the night | 1.00% | ~2,289 |
 | Thieves' Guild Accreditation | 1.00% | ~2,289 |
-| Lust and Debauchery | 0.90% | ~2,060 |
+| Lust and Debauchery | 0.90% | ~2,061 |
 | Dead for good | 0.80% | ~1,832 |
 | Gargantua | 0.80% | ~1,832 |
 | Material Girl | 0.80% | ~1,832 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,944 (Ranked 59)  
+Progressed: 228,949 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-03 | 228,515 | 5 |
 | 2023-10-04 | 228,696 | 5 |
 | 2023-10-05 | 228,876 | 5 |
-| 2023-10-06 | 228,944 | 5 |
+| 2023-10-06 | 228,949 | 5 |
 ## Awards
 Max (Character Customization): 207  (Ranked 274)  
 Sum: 405 (Ranked 325)  

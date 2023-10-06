@@ -5,6 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rascal | 0.80% | ~2 |
+| That's the spirit | 0.80% | ~2 |
+| Welcome to the Tower | 0.80% | ~2 |
 | Half the way | 0.40% | ~1 |
 | Open door | 0.40% | ~1 |
 | Free at last | 0.40% | ~1 |
@@ -13,8 +15,6 @@
 | A Link to the Past | 0.40% | ~1 |
 | Alchemists Express | 0.40% | ~1 |
 | The Preacher's fate | 0.40% | ~1 |
-| That's the spirit | 0.40% | ~1 |
-| Welcome to the Tower | 0.40% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |

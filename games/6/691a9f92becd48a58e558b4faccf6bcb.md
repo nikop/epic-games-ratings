@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Minimalist lifestyle | 7.00% | ~3 |
 | I deliver the presents! | 7.00% | ~3 |
-| A new HOME | 5.00% | ~2 |
-| Lost forever | 5.00% | ~2 |
-| Lesson learned | 5.00% | ~2 |
-| Silver Button | 5.00% | ~2 |
-| Silver Carrot | 5.00% | ~2 |
-| Silver Hat | 5.00% | ~2 |
+| A new HOME | 4.00% | ~2 |
+| Lost forever | 4.00% | ~2 |
+| Lesson learned | 4.00% | ~2 |
+| Silver Button | 4.00% | ~2 |
+| Silver Carrot | 4.00% | ~2 |
+| Silver Hat | 4.00% | ~2 |
 | Good list | 2.00% | ~1 |
 | At least you tried | 2.00% | ~1 |
 | Golden Button | 2.00% | ~1 |
@@ -23,8 +23,8 @@
 | Silver Scarf | 2.00% | ~1 |
 | So close! | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 442)  
-Completed: 1 (2.27%) (Ranked 101)  
+Progressed: 45 (Ranked 441)  
+Completed: 1 (2.22%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -40,4 +40,4 @@ Completed: 1 (2.27%) (Ranked 101)
 | 2023-10-03 | 36 | 1 |
 | 2023-10-04 | 39 | 1 |
 | 2023-10-05 | 42 | 1 |
-| 2023-10-06 | 44 | 1 |
+| 2023-10-06 | 45 | 1 |

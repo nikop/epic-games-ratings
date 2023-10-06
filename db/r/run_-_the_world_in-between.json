@@ -2,9 +2,9 @@
   "ID": "51f1574dc7904dc4b4fae5265a651711",
   "Name": "RUN - The world in-between",
   "ProductSlug": "run-the-world-inbetween-399e64",
-  "Ranking_EOS_Progress": 653,
+  "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-14T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7139521+00:00",
   "LastChanged": "2023-03-31T05:58:12.7139522+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.1194892+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:01:43.9827044+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:04:05.5707063+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:02:05.244789+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:03:51.4927361+00:00"
 }

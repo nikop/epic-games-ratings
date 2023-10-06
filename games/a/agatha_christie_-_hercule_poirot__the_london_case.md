@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 67.00% | ~10 |
-| Marc Allard | 67.00% | ~10 |
-| The Ship | 60.00% | ~9 |
-| Seeking the truth | 60.00% | ~9 |
-| An old friend | 53.00% | ~8 |
-| The Gala | 47.00% | ~7 |
-| A curious gathering | 47.00% | ~7 |
-| Little grey cells | 40.00% | ~6 |
-| Impossible is possible | 40.00% | ~6 |
-| The Missing Magdalene | 40.00% | ~6 |
-| Arthur Hastings | 40.00% | ~6 |
-| Everything matters | 33.00% | ~5 |
-| Order and method | 33.00% | ~5 |
-| An expert mediator | 27.00% | ~4 |
-| Betty Allen | 27.00% | ~4 |
-| DI Hardwicke | 27.00% | ~4 |
-| The Investigation Begins | 27.00% | ~4 |
+| Little ideas | 63.00% | ~10 |
+| Marc Allard | 63.00% | ~10 |
+| The Ship | 56.00% | ~9 |
+| Seeking the truth | 56.00% | ~9 |
+| An old friend | 50.00% | ~8 |
+| The Gala | 44.00% | ~7 |
+| A curious gathering | 44.00% | ~7 |
+| Little grey cells | 38.00% | ~6 |
+| Impossible is possible | 38.00% | ~6 |
+| The Missing Magdalene | 38.00% | ~6 |
+| Arthur Hastings | 38.00% | ~6 |
+| Everything matters | 31.00% | ~5 |
+| Order and method | 31.00% | ~5 |
+| An expert mediator | 25.00% | ~4 |
+| Betty Allen | 25.00% | ~4 |
+| DI Hardwicke | 25.00% | ~4 |
+| The Investigation Begins | 25.00% | ~4 |
 | Well-acquainted | 13.00% | ~2 |
 | Truth from within | 13.00% | ~2 |
 | An odd series of events | 13.00% | ~2 |
@@ -33,7 +33,7 @@
 | Bartholomew | 13.00% | ~2 |
 | The Apartment | 13.00% | ~2 |
 | The Scheme | 13.00% | ~2 |
-| A curious phrase | 7.00% | ~1 |
+| A curious phrase | 6.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 496)  
+Progressed: 16 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,3 +68,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-14 | 13 | 0 |
 | 2023-09-25 | 14 | 0 |
 | 2023-10-03 | 15 | 0 |
+| 2023-10-06 | 16 | 0 |

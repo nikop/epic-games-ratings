@@ -2770,9 +2770,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 32465,
+  "EOS_Progressed": 32466,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -21190,6 +21190,11 @@
       "Time": "2023-10-06T09:03:27.5188725+00:00",
       "NumProgressed": 32465,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-06T10:03:10.0664043+00:00",
+      "NumProgressed": 32466,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 60,
@@ -21217,7 +21222,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 18505
+      "UsersEstimate": 18506
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -21241,7 +21246,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 7142
+      "UsersEstimate": 7143
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -21305,7 +21310,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -21425,7 +21430,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 11687
+      "UsersEstimate": 11688
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -21473,7 +21478,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -21577,7 +21582,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10713
+      "UsersEstimate": 10714
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -21585,7 +21590,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 14609
+      "UsersEstimate": 14610
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -21601,7 +21606,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 22401
+      "UsersEstimate": 22402
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -21633,7 +21638,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -21665,7 +21670,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -21680,15 +21685,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 32465,
+      "Progressed": 32466,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-06T01:40:30.7232064+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:03:27.518871+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:03:10.0664038+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:41.4813131+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:58:22.1029846+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:03:27.5214056+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:58:24.2215882+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:03:10.0666224+00:00"
 }

@@ -14,13 +14,13 @@
 | Endless Tricks | 10.00% | ~4 |
 | Loyal Partner | 10.00% | ~4 |
 | Mechanical Buddy | 10.00% | ~4 |
+| Mind Illuminator | 10.00% | ~4 |
 | Purification Pioneer | 10.00% | ~4 |
 | Sanctuary Guardian | 10.00% | ~4 |
 | Unbeatable | 10.00% | ~4 |
 | Eridanian Champion | 10.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Meissa's Savior | 7.00% | ~3 |
-| Mind Illuminator | 7.00% | ~3 |
 | Shard Spender | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
 | Anomaly Control | 5.00% | ~2 |

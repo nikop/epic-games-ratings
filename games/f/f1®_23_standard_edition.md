@@ -31,9 +31,9 @@ Rating: 4.66 (Ranked 281)
 | Lightning Round the World | 13.00% | ~384 |
 | Hitting a Bullseye | 13.00% | ~384 |
 | Eagle Eye | 12.00% | ~354 |
+| Spinning Around | 12.00% | ~354 |
 | Recycle | 12.00% | ~354 |
 | All in a Weekend's Work | 11.00% | ~325 |
-| Spinning Around | 11.00% | ~325 |
 | Tinkerer | 11.00% | ~325 |
 | Friendly Competition | 10.00% | ~295 |
 | Switcheroo | 10.00% | ~295 |

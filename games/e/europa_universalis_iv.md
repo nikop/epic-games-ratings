@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,935 |
-| Until death do us apart | 4.00% | ~16,935 |
+| That's a Grand Army | 4.00% | ~16,937 |
+| Until death do us apart | 4.00% | ~16,937 |
 | That is mine! | 3.00% | ~12,702 |
 | Victorious! | 3.00% | ~12,702 |
 | Brothers in Arms | 2.00% | ~8,468 |
@@ -20,8 +20,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,234 |
 | True Catholic | 1.00% | ~4,234 |
 | Truly Divine Ruler | 1.00% | ~4,234 |
-| It's all about luck | 0.90% | ~3,810 |
-| Respected | 0.90% | ~3,810 |
+| It's all about luck | 0.90% | ~3,811 |
+| Respected | 0.90% | ~3,811 |
 | Blockader | 0.80% | ~3,387 |
 | Double the Love | 0.80% | ~3,387 |
 | Total Control | 0.80% | ~3,387 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,385 (Ranked 41)  
+Progressed: 423,413 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
-| 2023-10-06 | 423,385 | 1 |
+| 2023-10-06 | 423,413 | 1 |
 ## Awards
 Max (Educational): 6,400  (Ranked 57)  
 Sum: 52,647 (Ranked 24)  

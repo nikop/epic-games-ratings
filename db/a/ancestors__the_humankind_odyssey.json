@@ -2,12 +2,12 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 379,
-  "Ranking_EOS_Progress": 653,
+  "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 481,
   "RatingHistory": [
     {
@@ -631,6 +631,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 200,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-06T10:02:27.3825261+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 200,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -704,8 +710,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2023-08-01T02:05:35.9365176+00:00",
+  "LastChanged": "2023-10-06T10:02:27.382526+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.5724146+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:03:15.3937049+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:03:41.2095445+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:02:27.3825265+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:03:25.2935458+00:00"
 }

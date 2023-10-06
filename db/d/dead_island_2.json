@@ -5124,9 +5124,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 691412,
+  "EOS_Progressed": 691425,
   "EOS_Completed": 2192,
-  "EOS_NewPlayers": 3596,
+  "EOS_NewPlayers": 3598,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24214,6 +24214,11 @@
       "Time": "2023-10-06T09:07:05.4816497+00:00",
       "NumProgressed": 691412,
       "NumCompleted": 2192
+    },
+    {
+      "Time": "2023-10-06T10:07:23.7700411+00:00",
+      "NumProgressed": 691425,
+      "NumCompleted": 2192
     }
   ],
   "TotalAchievements": 45,
@@ -24241,7 +24246,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_anger_management",
@@ -24289,7 +24294,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_contender",
@@ -24297,7 +24302,7 @@
       "Name": "On Safari",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "ach_defensive",
@@ -24345,7 +24350,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24361,7 +24366,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "ach_hazardous_materials",
@@ -24369,7 +24374,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24385,7 +24390,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_impressive_aim",
@@ -24505,7 +24510,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_survival_expert",
@@ -24527,9 +24532,9 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6914
     },
     {
       "ID": "ach_thesacrifice",
@@ -24553,7 +24558,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -24561,7 +24566,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24584,22 +24589,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691412,
+      "Progressed": 691425,
       "Completed": 2192
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 16954,
-      "Completed": 16954
+      "Progressed": 16967,
+      "Completed": 16967
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-06T08:58:28.5814166+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:07:05.4816493+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:07:23.7700405+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:58:28.5814176+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:07:05.481831+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:58:30.3210076+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:07:23.7701598+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 249,
-  "Ranking_EOS_Progress": 23,
+  "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 670539,
+  "EOS_Progressed": 670544,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1844,
+  "EOS_NewPlayers": 1843,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21214,6 +21214,11 @@
       "Time": "2023-10-06T09:06:51.2788286+00:00",
       "NumProgressed": 670539,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-06T10:07:08.195119+00:00",
+      "NumProgressed": 670544,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21225,7 +21230,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 536431
+      "UsersEstimate": 536435
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21313,7 +21318,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241394
+      "UsersEstimate": 241396
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -21465,7 +21470,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 207867
+      "UsersEstimate": 207869
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -21497,7 +21502,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40232
+      "UsersEstimate": 40233
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -21529,7 +21534,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100581
+      "UsersEstimate": 100582
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -21625,7 +21630,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120697
+      "UsersEstimate": 120698
     },
     {
       "ID": "RP_TRUSTED",
@@ -21656,15 +21661,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 670539,
+      "Progressed": 670544,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:06:51.2788278+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:07:08.1951185+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:00.9118199+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:57:57.0447986+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:06:51.2789731+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:57:55.2365901+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:07:08.1952503+00:00"
 }

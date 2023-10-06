@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -2986,9 +2986,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 728273,
+  "EOS_Progressed": 728276,
   "EOS_Completed": 744,
-  "EOS_NewPlayers": 834,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -21846,6 +21846,11 @@
       "Time": "2023-10-06T09:07:02.4120577+00:00",
       "NumProgressed": 728273,
       "NumCompleted": 744
+    },
+    {
+      "Time": "2023-10-06T10:07:20.4290258+00:00",
+      "NumProgressed": 728276,
+      "NumCompleted": 744
     }
   ],
   "TotalAchievements": 98,
@@ -21857,7 +21862,7 @@
       "Name": "All Chests",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14565
+      "UsersEstimate": 14566
     },
     {
       "ID": "AllGraves",
@@ -21865,7 +21870,7 @@
       "Name": "Poor ancestors",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14565
+      "UsersEstimate": 14566
     },
     {
       "ID": "AllHeroes",
@@ -21873,7 +21878,7 @@
       "Name": "Shelf filled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14565
+      "UsersEstimate": 14566
     },
     {
       "ID": "All_Shells",
@@ -21889,7 +21894,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 218482
+      "UsersEstimate": 218483
     },
     {
       "ID": "BallShooter",
@@ -21913,7 +21918,7 @@
       "Name": "Beam",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 101958
+      "UsersEstimate": 101959
     },
     {
       "ID": "BeatTheBigOne",
@@ -21945,7 +21950,7 @@
       "Name": "Buckle",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 123806
+      "UsersEstimate": 123807
     },
     {
       "ID": "Burglar1",
@@ -22049,7 +22054,7 @@
       "Name": "Well deserved",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 43696
+      "UsersEstimate": 43697
     },
     {
       "ID": "DiscoveringtheGlobe",
@@ -22065,7 +22070,7 @@
       "Name": "Double Health",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 131089
+      "UsersEstimate": 131090
     },
     {
       "ID": "Doublejump",
@@ -22073,7 +22078,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 349571
+      "UsersEstimate": 349572
     },
     {
       "ID": "FireFlies",
@@ -22081,7 +22086,7 @@
       "Name": "Fire Flies",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "Firepipe",
@@ -22089,7 +22094,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 284026
+      "UsersEstimate": 284028
     },
     {
       "ID": "FliesBeam",
@@ -22097,7 +22102,7 @@
       "Name": "Cave Flies",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "ForceCube",
@@ -22105,7 +22110,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 385985
+      "UsersEstimate": 385986
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -22113,7 +22118,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 182068
+      "UsersEstimate": 182069
     },
     {
       "ID": "Freed_from_Prison",
@@ -22121,7 +22126,7 @@
       "Name": "Freed from prison",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 152937
+      "UsersEstimate": 152938
     },
     {
       "ID": "GiantWorkshop",
@@ -22145,7 +22150,7 @@
       "Name": "Gold Scam",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "GoldScam2",
@@ -22153,7 +22158,7 @@
       "Name": "Gold Scam Uncovered",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "GottaJumpHigh",
@@ -22177,7 +22182,7 @@
       "Name": "Green Keycard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 123806
+      "UsersEstimate": 123807
     },
     {
       "ID": "GreenMoonDoor",
@@ -22209,7 +22214,7 @@
       "Name": "Health Drink",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94675
+      "UsersEstimate": 94676
     },
     {
       "ID": "Healthbar",
@@ -22217,7 +22222,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 400550
+      "UsersEstimate": 400552
     },
     {
       "ID": "Healthregen",
@@ -22225,7 +22230,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 342288
+      "UsersEstimate": 342290
     },
     {
       "ID": "HelpedAStar",
@@ -22233,7 +22238,7 @@
       "Name": "Helped a star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94675
+      "UsersEstimate": 94676
     },
     {
       "ID": "HillClimb",
@@ -22241,7 +22246,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 305875
+      "UsersEstimate": 305876
     },
     {
       "ID": "Holy_Sword",
@@ -22281,7 +22286,7 @@
       "Name": "Invisible Wall",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14565
+      "UsersEstimate": 14566
     },
     {
       "ID": "JesusSuperstar",
@@ -22297,7 +22302,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 269461
+      "UsersEstimate": 269462
     },
     {
       "ID": "MacGuffin",
@@ -22305,7 +22310,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 276744
+      "UsersEstimate": 276745
     },
     {
       "ID": "Magic",
@@ -22345,7 +22350,7 @@
       "Name": "9",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94675
+      "UsersEstimate": 94676
     },
     {
       "ID": "NonNPC",
@@ -22369,7 +22374,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 720990
+      "UsersEstimate": 720993
     },
     {
       "ID": "PanicLights",
@@ -22377,7 +22382,7 @@
       "Name": "Panic Lights",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "Purple_Cube",
@@ -22385,7 +22390,7 @@
       "Name": "Purple Cube",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 94675
+      "UsersEstimate": 94676
     },
     {
       "ID": "Race1",
@@ -22441,7 +22446,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 196634
+      "UsersEstimate": 196635
     },
     {
       "ID": "RedstonePickaxe",
@@ -22481,7 +22486,7 @@
       "Name": "Stomp",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 152937
+      "UsersEstimate": 152938
     },
     {
       "ID": "Speedx2",
@@ -22489,7 +22494,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 480660
+      "UsersEstimate": 480662
     },
     {
       "ID": "Strong",
@@ -22513,7 +22518,7 @@
       "Name": "Supraball Noob",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94675
+      "UsersEstimate": 94676
     },
     {
       "ID": "Telefrag",
@@ -22529,7 +22534,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 619032
+      "UsersEstimate": 619035
     },
     {
       "ID": "ThroughPipe",
@@ -22561,7 +22566,7 @@
       "Name": "Translocator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "Triplejump",
@@ -22569,7 +22574,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 313157
+      "UsersEstimate": 313159
     },
     {
       "ID": "True_Holy_Spirit",
@@ -22577,7 +22582,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 203916
+      "UsersEstimate": 203917
     },
     {
       "ID": "Waldoh",
@@ -22617,7 +22622,7 @@
       "Name": "Yellow Shot Button",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 72827
+      "UsersEstimate": 72828
     },
     {
       "ID": "notholyenough",
@@ -22640,15 +22645,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 728273,
+      "Progressed": 728276,
       "Completed": 744
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-10-03T15:00:08.0452522+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:07:02.412057+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:07:20.4290254+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:52.769952+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:03:19.4983059+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:07:02.4122982+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:02:30.8391262+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:07:20.4292127+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 831,
-  "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 393,
+  "Ranking_Popularity": 442,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -611,11 +611,17 @@
       "Rating": 4.27,
       "NumberOfAwards": 175,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-10-06T10:02:31.4791389+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 175,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 176,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -652,7 +658,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Diverse Characters",
@@ -661,9 +667,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346502,
+  "EOS_Progressed": 346505,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19646,6 +19652,11 @@
       "Time": "2023-10-06T09:04:23.0952454+00:00",
       "NumProgressed": 346502,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-06T10:04:25.7499605+00:00",
+      "NumProgressed": 346505,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19673,7 +19684,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41580
+      "UsersEstimate": 41581
     },
     {
       "ID": "ach004",
@@ -19713,7 +19724,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41580
+      "UsersEstimate": 41581
     },
     {
       "ID": "ach009",
@@ -19761,7 +19772,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51975
+      "UsersEstimate": 51976
     },
     {
       "ID": "ach015",
@@ -19785,7 +19796,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45045
+      "UsersEstimate": 45046
     },
     {
       "ID": "ach018",
@@ -19865,7 +19876,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159391
+      "UsersEstimate": 159392
     },
     {
       "ID": "ach028",
@@ -19881,7 +19892,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38115
+      "UsersEstimate": 38116
     },
     {
       "ID": "ach030",
@@ -20009,7 +20020,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45045
+      "UsersEstimate": 45046
     },
     {
       "ID": "ach046",
@@ -20057,7 +20068,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38115
+      "UsersEstimate": 38116
     },
     {
       "ID": "ach052",
@@ -20169,7 +20180,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48510
+      "UsersEstimate": 48511
     },
     {
       "ID": "ach067",
@@ -20185,7 +20196,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "ach069",
@@ -20193,7 +20204,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48510
+      "UsersEstimate": 48511
     },
     {
       "ID": "ach070",
@@ -20296,16 +20307,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346502,
+      "Progressed": 346505,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-10-06T00:02:20.2431336+00:00",
-  "LastChanged_Achievements": "2023-10-06T09:04:23.0952447+00:00",
+  "LastChanged": "2023-10-06T10:02:31.4791386+00:00",
+  "LastChanged_Achievements": "2023-10-06T10:04:25.7499601+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.1527529+00:00",
-  "LastUpdate_Ratings": "2023-10-06T09:03:20.047199+00:00",
-  "LastUpdate_Achievements": "2023-10-06T09:04:23.0954613+00:00"
+  "LastUpdate_Ratings": "2023-10-06T10:02:31.4791394+00:00",
+  "LastUpdate_Achievements": "2023-10-06T10:04:25.7501166+00:00"
 }
