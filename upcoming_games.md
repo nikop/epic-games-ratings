@@ -37,6 +37,7 @@
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | - |  | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-10-27 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | - |  | - | 0 |
+| [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2023-10-30 | - |  | - | - |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-31 | 27 (1,000 XP) | 1 | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-10-31 | - |  | - | - |
 | [Beacon's Bluff](games/1/1ca6e9728fe7438baed142359fbb70ed.md) | 2023-10-31 | - |  | - | - |
@@ -56,6 +57,7 @@
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | - |  | - | - |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-02 | - |  | - | - |
+| [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | - |
 | [WRC Standard Edition](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | - |  | - | - |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | - |  | - | - |
@@ -187,7 +189,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 29,813 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 30,437 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -413,7 +415,6 @@
 | [Surviving The Humans ACT 1](games/s/surviving_the_humans_act_1.md) | 2099-01-01 | - |  | - | - |
 | [Swarm Grinder](games/9/9e20456aa9964c3287bda848105582e2.md) | 2099-01-01 | - |  | - | - |
 | [Sword of the Spirit](games/s/sword_of_the_spirit.md) | 2099-01-01 | - |  | - | - |
-| [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2099-01-01 | 27 (1,000 XP) | 1 | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2099-01-01 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
