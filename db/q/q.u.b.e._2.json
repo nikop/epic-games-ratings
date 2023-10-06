@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2441,6 +2441,11 @@
       "Time": "2023-10-06T17:05:24.3689073+00:00",
       "NumProgressed": 616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T18:05:47.6687626+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2597,7 +2602,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_HUB2",
@@ -2645,7 +2650,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_S4",
@@ -2653,7 +2658,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_S5",
@@ -2669,7 +2674,7 @@
       "Name": "Lost in Space",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_STATUE",
@@ -2684,15 +2689,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:05:24.3689067+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:05:47.668762+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:02:13.212129+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:05:24.3689446+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:02:47.2647893+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:05:47.6687879+00:00"
 }

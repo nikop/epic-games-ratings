@@ -6,38 +6,38 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 42.00% | ~28,186 |
-| Let There Be Light | 35.00% | ~23,488 |
-| Float Like a Butterfly | 33.00% | ~22,146 |
-| Nordic Walking | 27.00% | ~18,120 |
-| Bright Falls' Finest | 26.00% | ~17,449 |
-| Under a Thin Layer of Skin | 23.00% | ~15,435 |
-| Park Ranger | 19.00% | ~12,751 |
-| Paging Mr. Wake | 19.00% | ~12,751 |
-| Back! Back, I Say! | 18.00% | ~12,080 |
-| Finders Keepers | 18.00% | ~12,080 |
-| Damn Good Cup of Coffee | 17.00% | ~11,409 |
-| They're Heeeeeere! | 16.00% | ~10,738 |
-| Sound and Fury | 16.00% | ~10,738 |
-| Missed by a Mile | 16.00% | ~10,738 |
-| Wheels Within Wheels | 15.00% | ~10,066 |
-| The Six-Gun Scribe | 15.00% | ~10,066 |
-| Heavy Metal | 14.00% | ~9,395 |
-| Iron Horse | 14.00% | ~9,395 |
-| Collateral Carnage | 14.00% | ~9,395 |
-| Come One, Come All | 14.00% | ~9,395 |
-| Perchance to Dream | 13.00% | ~8,724 |
-| It's Not Just a Typewriter Brand | 13.00% | ~8,724 |
-| Thunder and Lightning | 13.00% | ~8,724 |
-| Gatekeeper | 12.00% | ~8,053 |
-| Two For the Price of One | 12.00% | ~8,053 |
-| Energized! | 12.00% | ~8,053 |
-| The Lady of the Light | 11.00% | ~7,382 |
-| What Light Through Yonder Window | 10.00% | ~6,711 |
-| Right of Way | 10.00% | ~6,711 |
-| Tornado Wrangler | 9.00% | ~6,040 |
-| A Friend in Need | 9.00% | ~2,752 |
+| Follow the Light | 42.00% | ~28,190 |
+| Let There Be Light | 35.00% | ~23,491 |
+| Float Like a Butterfly | 33.00% | ~22,149 |
+| Nordic Walking | 27.00% | ~18,122 |
+| Bright Falls' Finest | 26.00% | ~17,451 |
+| Under a Thin Layer of Skin | 23.00% | ~15,437 |
+| Park Ranger | 19.00% | ~12,752 |
+| Paging Mr. Wake | 19.00% | ~12,752 |
+| Back! Back, I Say! | 18.00% | ~12,081 |
+| Finders Keepers | 18.00% | ~12,081 |
+| Damn Good Cup of Coffee | 17.00% | ~11,410 |
+| They're Heeeeeere! | 16.00% | ~10,739 |
+| Sound and Fury | 16.00% | ~10,739 |
+| Missed by a Mile | 16.00% | ~10,739 |
+| Wheels Within Wheels | 15.00% | ~10,068 |
+| The Six-Gun Scribe | 15.00% | ~10,068 |
+| Heavy Metal | 14.00% | ~9,397 |
+| Iron Horse | 14.00% | ~9,397 |
+| Collateral Carnage | 14.00% | ~9,397 |
+| Come One, Come All | 14.00% | ~9,397 |
+| Perchance to Dream | 13.00% | ~8,725 |
+| It's Not Just a Typewriter Brand | 13.00% | ~8,725 |
+| Thunder and Lightning | 13.00% | ~8,725 |
+| Gatekeeper | 12.00% | ~8,054 |
+| Two For the Price of One | 12.00% | ~8,054 |
+| Energized! | 12.00% | ~8,054 |
+| The Lady of the Light | 11.00% | ~7,383 |
+| What Light Through Yonder Window | 10.00% | ~6,712 |
+| Right of Way | 10.00% | ~6,712 |
+| Tornado Wrangler | 9.00% | ~6,041 |
 | Departure | 8.00% | ~5,369 |
+| A Friend in Need | 8.00% | ~2,447 |
 | Hardboiled Writer | 7.00% | ~4,698 |
 | Children of the Elder God | 6.00% | ~4,027 |
 | Drink 'Em Both Up | 6.00% | ~4,027 |
@@ -48,7 +48,7 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 5.00% | ~3,356 |
 | Kill Your Darlings | 4.00% | ~1,223 |
 | Heartbreaker | 4.00% | ~1,223 |
-| Carny | 3.00% | ~2,013 |
+| Carny | 3.00% | ~2,014 |
 | Medical Opinions | 2.00% | ~1,342 |
 | Taken Season | 2.00% | ~1,342 |
 | An Idyllic Small Town | 2.00% | ~1,342 |
@@ -56,7 +56,7 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Will | 2.00% | ~612 |
 | Go Gentle Into That Good Light | 1.00% | ~306 |
 | Words Will Never Harm You | 0.70% | ~214 |
-| Cardboard Companions | 0.60% | ~183 |
+| Cardboard Companions | 0.60% | ~184 |
 | Fast and Furious | 0.50% | ~153 |
 | License Revoked | 0.50% | ~153 |
 | Creative Space | 0.50% | ~153 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,110 (Ranked 92)  
+Progressed: 67,118 (Ranked 92)  
 Completed: 67 (0.10%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 67 (0.10%) (Ranked 241)
 | 2023-10-03 | 66,899 | 67 |
 | 2023-10-04 | 66,994 | 67 |
 | 2023-10-05 | 67,064 | 67 |
-| 2023-10-06 | 67,110 | 67 |
+| 2023-10-06 | 67,118 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

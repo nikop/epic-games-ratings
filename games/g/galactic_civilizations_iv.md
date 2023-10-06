@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,346 |
-| Worker Specialization | 78.00% | ~5,278 |
-| First Contact | 73.00% | ~4,940 |
-| Win a Battle | 66.00% | ~4,466 |
+| Colonize a Planet | 79.00% | ~5,347 |
+| Worker Specialization | 78.00% | ~5,279 |
+| First Contact | 73.00% | ~4,941 |
+| Win a Battle | 66.00% | ~4,467 |
 | Anomaly Researcher | 62.00% | ~4,196 |
 | Unleash My Power | 62.00% | ~4,196 |
 | Own 30 Planets | 34.00% | ~2,301 |
-| Xenocide | 32.00% | ~2,165 |
-| Design a Civilization | 32.00% | ~2,165 |
+| Xenocide | 32.00% | ~2,166 |
+| Design a Civilization | 32.00% | ~2,166 |
 | Commodity Trader | 31.00% | ~2,098 |
 | Design a Ship | 28.00% | ~1,895 |
 | Commodity Seller | 25.00% | ~1,692 |
-| Prestige Victory! | 14.00% | ~947 |
+| Prestige Victory! | 14.00% | ~948 |
 | Galactic War | 11.00% | ~744 |
 | Trading Partner | 9.00% | ~609 |
 | Fleet Victory | 8.00% | ~541 |
@@ -40,9 +40,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~68 |
 | Win as the Navigators | 0.90% | ~61 |
 | Win as Torians | 0.90% | ~61 |
+| Win as the Krynn | 0.80% | ~54 |
 | Win as the Drath | 0.70% | ~47 |
 | Win as the Drengin | 0.70% | ~47 |
-| Win as the Krynn | 0.70% | ~47 |
 | Win as the Manti | 0.70% | ~47 |
 | Win as Xeloxi | 0.70% | ~47 |
 | Win as the Iridium | 0.60% | ~41 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,767 (Ranked 159)  
+Progressed: 6,768 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 6,755 | 0 |
 | 2023-10-04 | 6,759 | 0 |
 | 2023-10-05 | 6,763 | 0 |
-| 2023-10-06 | 6,767 | 0 |
+| 2023-10-06 | 6,768 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 355)  
 Sum: 681 (Ranked 285)  

@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24128,
+  "EOS_Progressed": 24129,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
@@ -5220,6 +5220,11 @@
       "Time": "2023-10-06T13:12:16.7263508+00:00",
       "NumProgressed": 24128,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-06T18:07:37.4349167+00:00",
+      "NumProgressed": 24129,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5349,9 +5354,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5582,13 +5587,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24128,
+      "Progressed": 24129,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 1373
     }
   ],
@@ -5596,8 +5601,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-04T20:01:07.8999808+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:06:50.5034584+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:07:37.4349163+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.6524105+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:01:29.9562864+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:06:50.5035379+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:02:31.9804359+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:07:37.4349682+00:00"
 }

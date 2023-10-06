@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1236,9 +1236,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19507,
+  "EOS_Progressed": 19508,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19566,6 +19566,11 @@
       "Time": "2023-10-06T16:06:34.1000146+00:00",
       "NumProgressed": 19507,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-06T18:08:02.6952041+00:00",
+      "NumProgressed": 19508,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19665,7 +19670,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "ICallItLuck",
@@ -19673,7 +19678,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8583
+      "UsersEstimate": 8584
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -19713,7 +19718,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14825
+      "UsersEstimate": 14826
     },
     {
       "ID": "MoreThanHuman",
@@ -19753,7 +19758,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "OutOfOrder",
@@ -19761,7 +19766,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8583
+      "UsersEstimate": 8584
     },
     {
       "ID": "Perfection",
@@ -19769,7 +19774,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "PreempativeStrike",
@@ -19849,7 +19854,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11899
+      "UsersEstimate": 11900
     },
     {
       "ID": "SwordToAGunfight",
@@ -19936,21 +19941,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19507,
+      "Progressed": 19508,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19507,
+      "Progressed": 19508,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-06T15:03:04.744899+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:07:19.5981762+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:08:02.6952036+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:03:12.594096+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:07:19.5983395+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:03:08.4521828+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:08:02.6953206+00:00"
 }

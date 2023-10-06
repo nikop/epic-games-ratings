@@ -25,11 +25,13 @@
 | Can't touch this | 7.00% | ~3 |
 | Star Killer | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
+| Behenian Champion | 7.00% | ~3 |
 | Anomaly Control | 5.00% | ~2 |
 | Astrarium of Holding | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
 | Favored by the Cosmos | 5.00% | ~2 |
 | Heart Gate | 5.00% | ~2 |
+| Heavy Purger | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
 | The Corruption Goddess | 5.00% | ~2 |
@@ -42,7 +44,6 @@
 | Astral Seeker | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
-| Heavy Purger | 2.00% | ~1 |
 | If I Had Failed... | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
@@ -56,7 +57,6 @@
 | Apian Hero | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
 | Aquarian Mastery | 2.00% | ~1 |
-| Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Hero | 2.00% | ~1 |

@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -901,9 +901,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_eou4",
@@ -973,9 +973,9 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:08:15.4687409+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:08:35.6228625+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:00:11.2558316+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:08:15.4687593+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:00:52.1298006+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:08:35.6228747+00:00"
 }

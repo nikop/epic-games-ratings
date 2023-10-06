@@ -8,6 +8,7 @@ Rating: 4.63 (Ranked 335)
 | Satisfied Gus-tomer | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | Sweezy Like Sunday Morning | 0.30% | ~72 |
+| We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | First Bounty Down | 0.30% | ~72 |
 | G3 Graduation | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
@@ -20,7 +21,6 @@ Rating: 4.63 (Ranked 335)
 | Lezduit! | 0.20% | ~48 |
 | RIP Davey Glutes | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
-| We're All Very Impressed, Trust Me | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |
 | Hardest Battle In The Game | 0.20% | ~48 |
 | Self-Actualization | 0.20% | ~48 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 335)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,128 (Ranked 119)  
+Progressed: 24,129 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 13 (0.05%) (Ranked 264)
 | 2023-10-03 | 24,113 | 12 |
 | 2023-10-04 | 24,118 | 12 |
 | 2023-10-05 | 24,122 | 13 |
-| 2023-10-06 | 24,128 | 13 |
+| 2023-10-06 | 24,129 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

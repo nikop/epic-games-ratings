@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13637,
+  "EOS_Progressed": 13642,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7853,6 +7853,11 @@
       "Time": "2023-10-06T17:06:47.476647+00:00",
       "NumProgressed": 13637,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-06T18:07:33.3996489+00:00",
+      "NumProgressed": 13642,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7999,9 +8004,9 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "26",
@@ -8104,7 +8109,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13637,
+      "Progressed": 13642,
       "Completed": 13
     }
   ],
@@ -8112,8 +8117,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-06T08:00:39.97616+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:06:47.4766457+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:07:33.3996484+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:02:17.7833852+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:06:47.4767155+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:02:52.1547111+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:07:33.399701+00:00"
 }

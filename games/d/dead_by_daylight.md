@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~5,533 |
+| It wakes | 0.60% | ~5,534 |
 | Zealous | 0.50% | ~4,611 |
 | Skillful | 0.50% | ~4,611 |
 | Handyman | 0.40% | ~3,689 |
@@ -23,6 +23,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Medic | 0.30% | ~2,767 |
 | Nerves of steel | 0.30% | ~2,767 |
 | Perfect Escape | 0.30% | ~2,767 |
+| Perfect Killing | 0.30% | ~2,767 |
 | Bloody Millionaire | 0.30% | ~2,767 |
 | I | 0.30% | ~2,767 |
 | Engineer | 0.30% | ~2,767 |
@@ -30,24 +31,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.30% | ~2,767 |
 | Preemptive Strike | 0.30% | ~2,767 |
 | Humanitarian | 0.30% | ~2,767 |
-| Made it out alive! | 0.20% | ~1,844 |
-| Perfect Killing | 0.20% | ~1,844 |
-| Apt Killer | 0.20% | ~1,844 |
-| Risk it all | 0.20% | ~1,844 |
-| Vulture | 0.20% | ~1,844 |
-| II | 0.20% | ~1,844 |
-| III | 0.20% | ~1,844 |
-| Cherish your Life | 0.20% | ~1,844 |
-| Wounded Healer | 0.20% | ~1,844 |
-| First to the Punch | 0.20% | ~1,844 |
-| Every Last Drop | 0.20% | ~1,844 |
-| Close Shave | 0.20% | ~1,844 |
-| Raccoon City Recruit | 0.20% | ~1,844 |
-| With Scars to Show | 0.20% | ~1,844 |
-| Flight to Freedom | 0.20% | ~1,844 |
-| A Fast Death | 0.20% | ~1,844 |
-| Chorus of Chaos | 0.20% | ~1,844 |
-| Second Act | 0.20% | ~1,844 |
+| Made it out alive! | 0.20% | ~1,845 |
+| Apt Killer | 0.20% | ~1,845 |
+| Risk it all | 0.20% | ~1,845 |
+| Vulture | 0.20% | ~1,845 |
+| II | 0.20% | ~1,845 |
+| III | 0.20% | ~1,845 |
+| Cherish your Life | 0.20% | ~1,845 |
+| Wounded Healer | 0.20% | ~1,845 |
+| First to the Punch | 0.20% | ~1,845 |
+| Every Last Drop | 0.20% | ~1,845 |
+| Close Shave | 0.20% | ~1,845 |
+| Raccoon City Recruit | 0.20% | ~1,845 |
+| With Scars to Show | 0.20% | ~1,845 |
+| Flight to Freedom | 0.20% | ~1,845 |
+| A Fast Death | 0.20% | ~1,845 |
+| Chorus of Chaos | 0.20% | ~1,845 |
+| One More Step | 0.20% | ~1,845 |
+| Second Act | 0.20% | ~1,845 |
+| MU/TH/UR Dearest | 0.20% | ~1,845 |
 | A bite for the Entity | 0.10% | ~922 |
 | A feast for the Entity | 0.10% | ~922 |
 | Blood on your hands | 0.10% | ~922 |
@@ -226,17 +228,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 0.10% | ~922 |
 | Adept Singularity | 0.10% | ~922 |
 | Extraterrestrial | 0.10% | ~922 |
-| One More Step | 0.10% | ~922 |
 | Adept Gabriel | 0.10% | ~922 |
 | Adept Cage | 0.10% | ~922 |
 | Terror of LV-426 | 0.10% | ~922 |
 | Disarm and Dismember | 0.10% | ~922 |
 | Adept Xenomorph | 0.10% | ~922 |
-| MU/TH/UR Dearest | 0.10% | ~922 |
 | Kitted Out | 0.10% | ~922 |
 | Adept Ripley | 0.10% | ~922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922,189 (Ranked 14)  
+Progressed: 922,299 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 922,189 | 49 |
+| 2023-10-06 | 922,299 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,842 (Ranked 13)  

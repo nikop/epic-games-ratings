@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~414 |
-| Off to a good start | 68.00% | ~313 |
-| Do... or do not. There is no try | 52.00% | ~239 |
-| A good blaster at your side | 35.00% | ~161 |
-| Scrap collector | 22.00% | ~101 |
-| I suggest a new strategy | 20.00% | ~92 |
-| Great shot, kid! | 20.00% | ~92 |
-| All right, I'll give it a try | 19.00% | ~87 |
-| The power of the Force | 18.00% | ~83 |
-| Together we can rule the galaxy | 18.00% | ~83 |
+| New Recruit | 90.00% | ~417 |
+| Off to a good start | 68.00% | ~315 |
+| Do... or do not. There is no try | 52.00% | ~241 |
+| A good blaster at your side | 35.00% | ~162 |
+| Scrap collector | 22.00% | ~102 |
+| I suggest a new strategy | 20.00% | ~93 |
+| Great shot, kid! | 20.00% | ~93 |
+| All right, I'll give it a try | 19.00% | ~88 |
 | Shoot first | 18.00% | ~83 |
-| Collector | 16.00% | ~74 |
+| The power of the Force | 17.00% | ~79 |
+| Collector | 17.00% | ~79 |
+| Together we can rule the galaxy | 17.00% | ~79 |
+| Tell Jabba that I've got his money | 13.00% | ~60 |
 | Survivor | 13.00% | ~60 |
-| Tell Jabba that I've got his money | 12.00% | ~55 |
-| Best star-pilot in the galaxy | 12.00% | ~55 |
+| Best star-pilot in the galaxy | 12.00% | ~56 |
+| What's the cargo? | 11.00% | ~51 |
+| Never tell me the odds! | 11.00% | ~51 |
+| Impressive. Most impressive. | 11.00% | ~51 |
 | A cunning warrior | 11.00% | ~51 |
-| What's the cargo? | 10.00% | ~46 |
-| Never tell me the odds! | 10.00% | ~46 |
-| Impressive. Most impressive. | 10.00% | ~46 |
 | Judge me by my size, do you? | 10.00% | ~46 |
-| "Gonk? Gonk!" | 9.00% | ~41 |
-| A tremor in the Force | 9.00% | ~41 |
+| "Gonk? Gonk!" | 9.00% | ~42 |
+| A tremor in the Force | 9.00% | ~42 |
 | Distinguished | 8.00% | ~37 |
 | Support the troops | 8.00% | ~37 |
 | On the ball | 6.00% | ~28 |
@@ -38,17 +38,17 @@
 | Your journey has only started | 5.00% | ~23 |
 | Safety ain't the point of a joyride | 5.00% | ~23 |
 | That's no moon | 5.00% | ~23 |
-| Precision shot | 4.00% | ~18 |
-| City in the Clouds | 4.00% | ~18 |
-| What will you become? | 4.00% | ~18 |
-| Disturbed tranquility | 4.00% | ~18 |
+| Precision shot | 4.00% | ~19 |
+| City in the Clouds | 4.00% | ~19 |
+| What will you become? | 4.00% | ~19 |
+| Disturbed tranquility | 4.00% | ~19 |
+| Hold the line! | 3.00% | ~14 |
 | Playing the objective | 3.00% | ~14 |
 | The Force is strong with this one | 3.00% | ~14 |
 | Ackbar's Elite | 3.00% | ~14 |
 | This is a new day, a new beginning | 3.00% | ~14 |
 | Alternative solution | 3.00% | ~14 |
 | The circle is now complete | 3.00% | ~14 |
-| Hold the line! | 2.00% | ~9 |
 | No such thing as luck | 2.00% | ~9 |
 | Do we take prisoners? | 2.00% | ~9 |
 | You have your moments | 2.00% | ~9 |
@@ -59,16 +59,16 @@
 | I’ll take that bet | 1.00% | ~5 |
 | in a galaxy far, far away.... | 0.90% | ~4 |
 | Walker defender | 0.90% | ~4 |
-| That got him! | 0.70% | ~3 |
-| Don't get cocky | 0.70% | ~3 |
-| Master | 0.70% | ~3 |
-| Greed can be a very powerful ally | 0.70% | ~3 |
+| That got him! | 0.60% | ~3 |
+| Don't get cocky | 0.60% | ~3 |
+| Master | 0.60% | ~3 |
+| Greed can be a very powerful ally | 0.60% | ~3 |
 | Stay on target | 0.40% | ~2 |
 | Stay in attack formation | 0.40% | ~2 |
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 278)  
+Progressed: 463 (Ranked 278)  
 Completed: 1 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.22%) (Ranked 212)
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
-| 2023-10-06 | 460 | 1 |
+| 2023-10-06 | 463 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

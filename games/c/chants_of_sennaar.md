@@ -4,10 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 1.00% | ~2 |
+| That's the spirit | 2.00% | ~5 |
 | Welcome to the Tower | 1.00% | ~2 |
 | Rascal | 0.80% | ~2 |
 | I did it | 0.40% | ~1 |
+| In this together | 0.40% | ~1 |
 | Peace walker | 0.40% | ~1 |
 | Cable guy | 0.40% | ~1 |
 | Half the way | 0.40% | ~1 |
@@ -22,7 +23,6 @@
 | The great escape | 0.40% | ~1 |
 | A new dawn | 0.40% | ~1 |
 | One last step | 0.40% | ~1 |
-| In this together | 0.00% | ~0 |
 | A good beginning | 0.00% | ~0 |
 | A great audience | 0.00% | ~0 |
 | True G3M4R | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | Scholar | 0.00% | ~0 |
 | The darkness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 327)  
-Completed: 17 (6.83%) (Ranked 47)  
+Progressed: 250 (Ranked 327)  
+Completed: 17 (6.80%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,4 +108,4 @@ Completed: 17 (6.83%) (Ranked 47)
 | 2023-10-02 | 241 | 17 |
 | 2023-10-04 | 243 | 17 |
 | 2023-10-05 | 244 | 17 |
-| 2023-10-06 | 249 | 17 |
+| 2023-10-06 | 250 | 17 |

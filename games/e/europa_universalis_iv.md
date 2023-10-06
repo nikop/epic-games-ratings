@@ -6,25 +6,25 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,952 |
-| Until death do us apart | 4.00% | ~16,952 |
-| That is mine! | 3.00% | ~12,714 |
-| Victorious! | 3.00% | ~12,714 |
-| Brothers in Arms | 2.00% | ~8,476 |
-| For the Glory | 2.00% | ~8,476 |
-| That's a Grand Navy | 2.00% | ~8,476 |
-| Seriously?! | 2.00% | ~8,476 |
-| Cold War | 1.00% | ~4,238 |
-| Defender of the Faith | 1.00% | ~4,238 |
-| It's all about the money | 1.00% | ~4,238 |
-| The Princess is in this Castle | 1.00% | ~4,238 |
-| True Catholic | 1.00% | ~4,238 |
-| Truly Divine Ruler | 1.00% | ~4,238 |
-| It's all about luck | 0.90% | ~3,814 |
-| Respected | 0.90% | ~3,814 |
-| Blockader | 0.80% | ~3,390 |
-| Double the Love | 0.80% | ~3,390 |
-| Total Control | 0.80% | ~3,390 |
+| That's a Grand Army | 4.00% | ~16,954 |
+| Until death do us apart | 4.00% | ~16,954 |
+| That is mine! | 3.00% | ~12,716 |
+| Victorious! | 3.00% | ~12,716 |
+| Brothers in Arms | 2.00% | ~8,477 |
+| For the Glory | 2.00% | ~8,477 |
+| That's a Grand Navy | 2.00% | ~8,477 |
+| Seriously?! | 2.00% | ~8,477 |
+| Cold War | 1.00% | ~4,239 |
+| Defender of the Faith | 1.00% | ~4,239 |
+| It's all about the money | 1.00% | ~4,239 |
+| The Princess is in this Castle | 1.00% | ~4,239 |
+| True Catholic | 1.00% | ~4,239 |
+| Truly Divine Ruler | 1.00% | ~4,239 |
+| It's all about luck | 0.90% | ~3,815 |
+| Respected | 0.90% | ~3,815 |
+| Blockader | 0.80% | ~3,391 |
+| Double the Love | 0.80% | ~3,391 |
+| Total Control | 0.80% | ~3,391 |
 | Royal Authority | 0.70% | ~2,967 |
 | My armies are invincible! | 0.60% | ~2,543 |
 | Agressive Expander | 0.50% | ~2,119 |
@@ -38,13 +38,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,695 |
 | Queen of Conquest | 0.40% | ~1,695 |
 | The Five Colonies | 0.40% | ~1,695 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,271 |
-| Down Under | 0.30% | ~1,271 |
-| The Emperors new clothes | 0.30% | ~1,271 |
-| A Golden Empire | 0.30% | ~1,271 |
-| Market Control | 0.30% | ~1,271 |
-| Populists in Government | 0.30% | ~1,271 |
-| Trustworthy | 0.30% | ~1,271 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,272 |
+| Down Under | 0.30% | ~1,272 |
+| The Emperors new clothes | 0.30% | ~1,272 |
+| A Golden Empire | 0.30% | ~1,272 |
+| Market Control | 0.30% | ~1,272 |
+| Populists in Government | 0.30% | ~1,272 |
+| Trustworthy | 0.30% | ~1,272 |
 | All belongs to Mother Russia | 0.20% | ~848 |
 | At every continent | 0.20% | ~848 |
 | Early-Modern Warfare | 0.20% | ~848 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,799 (Ranked 41)  
+Progressed: 423,859 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,10 +530,10 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
-| 2023-10-06 | 423,799 | 1 |
+| 2023-10-06 | 423,859 | 1 |
 ## Awards
 Max (Educational): 6,412  (Ranked 56)  
-Sum: 52,695 (Ranked 24)  
+Sum: 52,724 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -543,9 +543,9 @@ Diff (max vs sum): 32
 | This game has Challenging Combat | 6,058 |
 | This game is Extremely Fun | 6,041 |
 | This game is Relaxing | 5,941 |
-| This game has Competitive Players | 5,725 |
+| This game has Competitive Players | 5,742 |
 | This game has Amazing Storytelling | 5,361 |
-| This game has Amazing Characters | 4,964 |
+| This game has Amazing Characters | 4,976 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -812,4 +812,4 @@ Diff (max vs sum): 32
 | 2023-10-03 | 4.69 | - | 6,381 | 52,437 |
 | 2023-10-04 | 4.69 | - | 6,390 | 52,513 |
 | 2023-10-05 | 4.69 | - | 6,400 | 52,626 |
-| 2023-10-06 | 4.69 | - | 6,412 | 52,695 |
+| 2023-10-06 | 4.69 | - | 6,412 | 52,724 |

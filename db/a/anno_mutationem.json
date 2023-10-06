@@ -5,9 +5,9 @@
   "Ranking_Rating": 472,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-09-28T17:09:42.5412849+00:00",
       "NumProgressed": 674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T18:09:28.2436623+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -553,7 +558,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Arm_Wrestling",
@@ -585,7 +590,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Combine",
@@ -641,7 +646,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "In the smacker...I think",
@@ -657,7 +662,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Lady_Luck",
@@ -681,7 +686,7 @@
       "Name": "SERENITY NOW",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Science_it_works",
@@ -713,7 +718,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -721,7 +726,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "The Traveler",
@@ -809,7 +814,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "posters",
@@ -825,14 +830,14 @@
       "Name": "I just got real good",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
@@ -840,8 +845,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:09:27.6882286+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:09:28.2436619+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:20.1716856+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:57:44.1229042+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:09:27.6882648+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:57:57.9953141+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:09:28.2436899+00:00"
 }

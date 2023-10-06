@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "EpicACHV_11",
@@ -346,9 +346,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "EpicACHV_15",
@@ -402,9 +402,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EpicACHV_6",
@@ -418,9 +418,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EpicACHV_8",
@@ -434,9 +434,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:06:51.3506577+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:07:38.4106719+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:11.1249179+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:03:05.622375+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:06:51.350675+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:03:00.5971777+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:07:38.4106832+00:00"
 }

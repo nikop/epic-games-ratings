@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -108,9 +108,9 @@
       "ID": "BOSS_06",
       "SetID": "35d3i7a",
       "Name": "Who am I?",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_07",
@@ -388,9 +388,9 @@
       "ID": "MEM_XXII",
       "SetID": "35d3i7a",
       "Name": "Failed attempts.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXIII",
@@ -412,9 +412,9 @@
       "ID": "MEM_XXV",
       "SetID": "35d3i7a",
       "Name": "You\u2019ll wear the mask FOREVER.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXVI",
@@ -484,9 +484,9 @@
       "ID": "PROJ_V",
       "SetID": "35d3i7a",
       "Name": "Monster.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:06:28.8900922+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:07:09.3951929+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:59:49.4900176+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:06:28.8901436+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:00:30.5347363+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:07:09.3952287+00:00"
 }

@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.59 (Ranked 415)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 0.30% | ~452 |
 | Devourer | 0.30% | ~452 |
 | Shapely | 0.20% | ~301 |
-| Scion | 0.20% | ~300 |
-| Glare | 0.20% | ~300 |
+| Scion | 0.20% | ~301 |
+| Glare | 0.20% | ~301 |
 | Jawcrab | 0.20% | ~301 |
 | Jawstag | 0.20% | ~301 |
 | Feast | 0.20% | ~301 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,665 (Ranked 69)  
+Progressed: 150,677 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,16 +199,16 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 149,903 | 1 |
 | 2023-10-04 | 150,205 | 1 |
 | 2023-10-05 | 150,488 | 1 |
-| 2023-10-06 | 150,665 | 1 |
+| 2023-10-06 | 150,677 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
-Sum: 268 (Ranked 360)  
+Sum: 269 (Ranked 360)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
+| This game has Quickly Understood Controls | 39 |
 | This game has Unique Visuals | 39 |
-| This game has Quickly Understood Controls | 38 |
 | This game has Challenging Combat | 33 |
 | This game is Extremely Fun | 31 |
 | This game has Amazing Storytelling | 31 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 71
 | 2023-10-03 | 4.59 | - | 42 | 264 |
 | 2023-10-04 | 4.59 | - | 42 | 267 |
 | 2023-10-05 | 4.59 | - | 42 | 268 |
+| 2023-10-06 | 4.59 | - | 42 | 269 |

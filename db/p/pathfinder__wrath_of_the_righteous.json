@@ -3798,10 +3798,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6976,
       "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-10-06T17:57:31.7123711+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6977,
+      "NumberOfAwardsMax": 1720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6976,
+  "NumberOfAwards": 6977,
   "NumberOfAwardsMax": 1720,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3827,7 +3833,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 636
+      "Count": 637
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3872,9 +3878,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11477,
+  "EOS_Progressed": 11478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13262,6 +13268,11 @@
       "Time": "2023-10-06T13:12:44.9013238+00:00",
       "NumProgressed": 11477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T18:08:14.2715168+00:00",
+      "NumProgressed": 11478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13273,7 +13284,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "02_BurningCity",
@@ -14200,21 +14211,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10259,
+      "Progressed": 10260,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11477,
+      "Progressed": 11478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-06T13:03:03.4890588+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:07:28.423487+00:00",
+  "LastChanged": "2023-10-06T17:57:31.7123709+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:08:14.2715162+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.3542788+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:57:24.5417347+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:07:28.423735+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:57:31.7123715+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:08:14.2716905+00:00"
 }

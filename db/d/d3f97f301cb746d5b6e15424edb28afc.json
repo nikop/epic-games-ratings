@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -435,9 +435,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -691,17 +691,17 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -755,17 +755,17 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 79,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -803,9 +803,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -843,9 +843,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -883,17 +883,17 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -1066,8 +1066,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-06T17:04:50.8495988+00:00",
+  "LastChanged_Achievements": "2023-10-06T18:05:16.5670001+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:01:29.6840004+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:04:50.8497145+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:02:31.6326257+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:05:16.56708+00:00"
 }

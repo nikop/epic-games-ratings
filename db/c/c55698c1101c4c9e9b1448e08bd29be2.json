@@ -4,7 +4,7 @@
   "ProductSlug": "prospect-a438ca",
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T03:57:10.7214412+00:00",
-  "LastUpdate_Ratings": "2023-10-06T17:00:36.2211704+00:00",
-  "LastUpdate_Achievements": "2023-10-06T17:03:47.0911594+00:00"
+  "LastUpdate_Ratings": "2023-10-06T18:01:30.4859106+00:00",
+  "LastUpdate_Achievements": "2023-10-06T18:03:57.3686974+00:00"
 }
