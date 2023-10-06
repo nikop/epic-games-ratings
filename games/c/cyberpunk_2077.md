@@ -6,41 +6,41 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~631,397 |
-| Right Back At Ya | 44.00% | ~391,288 |
-| The Lovers | 38.00% | ~337,931 |
-| Stanislavski's Method | 32.00% | ~284,573 |
-| The Wheel of Fortune | 32.00% | ~284,573 |
-| The Hermit | 29.00% | ~257,894 |
-| The High Priestess | 28.00% | ~249,001 |
-| True Soldier | 28.00% | ~249,001 |
-| Christmas Tree Attack | 25.00% | ~222,323 |
-| Full Body Conversion | 23.00% | ~204,537 |
-| Life of the Road | 23.00% | ~204,537 |
-| The World | 21.00% | ~186,751 |
-| Master Crafter | 20.00% | ~177,858 |
-| Ten out of Ten | 20.00% | ~177,858 |
-| True Warrior | 19.00% | ~168,965 |
-| Bushido and Chill | 18.00% | ~160,072 |
-| Gun Fu | 17.00% | ~151,179 |
-| To Protect and Serve | 15.00% | ~133,394 |
-| I Am The Law | 15.00% | ~133,394 |
-| Breathtaking | 13.00% | ~115,608 |
-| The Quick and the Dead | 12.00% | ~106,715 |
-| The Wandering Fool | 11.00% | ~97,822 |
-| Rough Landing | 11.00% | ~97,822 |
-| To Bad Decisions! | 10.00% | ~88,929 |
-| The Jungle | 10.00% | ~88,929 |
-| Gunslinger | 9.00% | ~80,036 |
-| Mean Streets | 9.00% | ~80,036 |
-| Temperance | 8.00% | ~71,143 |
-| The Star | 8.00% | ~71,143 |
-| The Sun | 8.00% | ~71,143 |
-| City Lights | 5.00% | ~44,465 |
-| Must Be Rats | 5.00% | ~44,465 |
-| The Devil | 5.00% | ~44,465 |
-| Greetings from Pacifica! | 5.00% | ~44,465 |
-| Little Tokyo | 4.00% | ~35,572 |
+| The Fool | 71.00% | ~631,412 |
+| Right Back At Ya | 44.00% | ~391,298 |
+| The Lovers | 38.00% | ~337,939 |
+| Stanislavski's Method | 32.00% | ~284,580 |
+| The Wheel of Fortune | 32.00% | ~284,580 |
+| The Hermit | 29.00% | ~257,901 |
+| The High Priestess | 28.00% | ~249,008 |
+| True Soldier | 28.00% | ~249,008 |
+| Christmas Tree Attack | 25.00% | ~222,328 |
+| Full Body Conversion | 23.00% | ~204,542 |
+| Life of the Road | 23.00% | ~204,542 |
+| The World | 21.00% | ~186,756 |
+| Master Crafter | 20.00% | ~177,863 |
+| Ten out of Ten | 20.00% | ~177,863 |
+| True Warrior | 19.00% | ~168,969 |
+| Bushido and Chill | 18.00% | ~160,076 |
+| Gun Fu | 17.00% | ~151,183 |
+| To Protect and Serve | 15.00% | ~133,397 |
+| I Am The Law | 15.00% | ~133,397 |
+| Breathtaking | 13.00% | ~115,611 |
+| The Quick and the Dead | 12.00% | ~106,718 |
+| The Wandering Fool | 11.00% | ~97,824 |
+| Rough Landing | 11.00% | ~97,824 |
+| The Jungle | 11.00% | ~97,824 |
+| To Bad Decisions! | 10.00% | ~88,931 |
+| Gunslinger | 9.00% | ~80,038 |
+| Mean Streets | 9.00% | ~80,038 |
+| Temperance | 8.00% | ~71,145 |
+| The Star | 8.00% | ~71,145 |
+| The Sun | 8.00% | ~71,145 |
+| City Lights | 5.00% | ~44,466 |
+| Must Be Rats | 5.00% | ~44,466 |
+| The Devil | 5.00% | ~44,466 |
+| Greetings from Pacifica! | 5.00% | ~44,466 |
+| Little Tokyo | 4.00% | ~35,573 |
 | Autojock | 3.00% | ~26,679 |
 | Frequent Flyer | 3.00% | ~26,679 |
 | The Wasteland | 3.00% | ~26,679 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 889,291 (Ranked 15)  
-Completed: 2,602 (0.29%) (Ranked 201)  
+Progressed: 889,313 (Ranked 15)  
+Completed: 2,603 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,14 +233,14 @@ Completed: 2,602 (0.29%) (Ranked 201)
 | 2023-10-03 | 888,432 | 2,568 |
 | 2023-10-04 | 888,776 | 2,578 |
 | 2023-10-05 | 889,114 | 2,591 |
-| 2023-10-06 | 889,291 | 2,602 |
+| 2023-10-06 | 889,313 | 2,603 |
 ## Awards
-Max (Character Customization): 92,198  (Ranked 9)  
-Sum: 271,369 (Ranked 11)  
+Max (Character Customization): 93,194  (Ranked 9)  
+Sum: 272,365 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 92,198 |
+| This game has Inclusive Character Customization | 93,194 |
 | This game has Great Boss Battles | 63,515 |
 | This game is Great for Beginners | 14,138 |
 | This game has Diverse Characters | 14,091 |
@@ -514,4 +514,4 @@ Diff (max vs sum): -2
 | 2023-10-03 | 4.63 | - | 90,464 | 260,310 |
 | 2023-10-04 | 4.63 | - | 91,317 | 264,632 |
 | 2023-10-05 | 4.63 | - | 92,198 | 269,240 |
-| 2023-10-06 | 4.63 | - | 92,198 | 271,369 |
+| 2023-10-06 | 4.63 | - | 93,194 | 272,365 |

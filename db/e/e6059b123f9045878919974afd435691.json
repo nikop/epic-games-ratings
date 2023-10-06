@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2412,9 +2412,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 154
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2595,8 +2595,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:09:03.891788+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:08:02.9156217+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:02:53.5213543+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:09:03.8918726+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:02:17.1651251+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:08:02.9156863+00:00"
 }

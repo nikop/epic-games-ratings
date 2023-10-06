@@ -15,9 +15,9 @@
 | Medal of Exploration II | 59.00% | ~335 |
 | Council Legion of Merit | 58.00% | ~329 |
 | Medal of Honor | 56.00% | ~318 |
+| Meritorious Service Medal | 56.00% | ~318 |
 | Turian Ally | 56.00% | ~318 |
 | Charismatic | 56.00% | ~318 |
-| Meritorious Service Medal | 55.00% | ~312 |
 | Soldier | 54.00% | ~307 |
 | Medal of Exploration III | 52.00% | ~295 |
 | Asari Ally | 52.00% | ~295 |
@@ -88,13 +88,13 @@
 | Paramour II | 20.00% | ~114 |
 | Lost and Found | 20.00% | ~114 |
 | No One Left Behind | 19.00% | ~108 |
+| Problem Solver | 19.00% | ~108 |
 | Pyromaniac | 18.00% | ~102 |
 | Electronics Specialist | 18.00% | ~102 |
 | Sabotage Specialist | 18.00% | ~102 |
 | Party Crasher | 18.00% | ~102 |
 | Hard Target | 18.00% | ~102 |
 | Fact Finder | 18.00% | ~102 |
-| Problem Solver | 18.00% | ~102 |
 | Under Pressure | 17.00% | ~97 |
 | Last Resort | 17.00% | ~97 |
 | Saboteur | 17.00% | ~97 |

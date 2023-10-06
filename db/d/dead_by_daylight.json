@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10935,10 +10935,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259754,
       "NumberOfAwardsMax": 33500
+    },
+    {
+      "Time": "2023-10-06T15:00:12.7935223+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259816,
+      "NumberOfAwardsMax": 33500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259754,
+  "NumberOfAwards": 259816,
   "NumberOfAwardsMax": 33500,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10976,7 +10982,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29334
+      "Count": 29364
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11006,12 +11012,12 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 25103
+      "Count": 25135
     }
   ],
-  "EOS_Progressed": 921840,
+  "EOS_Progressed": 921952,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13589,
+  "EOS_NewPlayers": 13613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30179,6 +30185,11 @@
       "Time": "2023-10-06T14:07:34.6025288+00:00",
       "NumProgressed": 921840,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T15:06:35.3356689+00:00",
+      "NumProgressed": 921952,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30268,9 +30279,9 @@
       "ID": "ACH_011",
       "SetID": "bdmlp8o",
       "Name": "Made it out alive!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH_012",
@@ -30326,7 +30337,7 @@
       "Name": "Handyman",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_019",
@@ -30358,7 +30369,7 @@
       "Name": "Zealous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "ACH_023",
@@ -30366,7 +30377,7 @@
       "Name": "It wakes",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5531
+      "UsersEstimate": 5532
     },
     {
       "ID": "ACH_024",
@@ -30374,7 +30385,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_025",
@@ -30398,7 +30409,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_028",
@@ -30422,7 +30433,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_031",
@@ -30494,7 +30505,7 @@
       "Name": "Skillful",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "ACH_040",
@@ -31812,9 +31823,9 @@
       "ID": "ACH_207",
       "SetID": "16jml5b",
       "Name": "A Fast Death",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH_208",
@@ -31958,7 +31969,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_226",
@@ -32021,21 +32032,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 921840,
+      "Progressed": 921952,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 921840,
+      "Progressed": 921952,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-06T13:05:07.9527432+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:07:34.6025283+00:00",
+  "LastChanged": "2023-10-06T15:00:12.7935222+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:06:35.3356686+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:00:30.783443+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:07:34.6033336+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:00:12.7935228+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:06:35.3362543+00:00"
 }

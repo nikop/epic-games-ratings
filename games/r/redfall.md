@@ -19,8 +19,8 @@ Rating: 3.54 (Ranked 1,009)
 | Wounded Whispers | 0.90% | ~16 |
 | Welcome to the Neighborhood | 0.80% | ~14 |
 | Heart Attack | 0.80% | ~14 |
+| Skin of Their Teeth | 0.80% | ~14 |
 | Home Is Where the Heart Is | 0.70% | ~12 |
-| Skin of Their Teeth | 0.70% | ~12 |
 | Neighborhood Revitalization | 0.60% | ~11 |
 | Radio Silence | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |

@@ -1,12 +1,12 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.17 (Ranked 901)  
+Rating: 4.17 (Ranked 902)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~140,550 |
-| Initiation | 18.00% | ~35,632 |
+| Graduate Boot Camp | 71.00% | ~140,552 |
+| Initiation | 18.00% | ~35,633 |
 | Battlesuit Victory | 8.00% | ~15,837 |
 | Flawless Victory | 5.00% | ~9,898 |
 | Baby Steps | 5.00% | ~9,898 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 901)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~198 |
 | Many More to Come | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,958 (Ranked 65)  
+Progressed: 197,960 (Ranked 65)  
 Completed: 4 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 4 (0.00%) (Ranked 306)
 | 2023-10-03 | 197,827 | 4 |
 | 2023-10-04 | 197,883 | 4 |
 | 2023-10-05 | 197,933 | 4 |
-| 2023-10-06 | 197,958 | 4 |
+| 2023-10-06 | 197,960 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

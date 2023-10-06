@@ -11,6 +11,8 @@
 | The battle of Great Britain | 50.00% | ~4 |
 | The happy farmer girl | 38.00% | ~3 |
 | The artist | 25.00% | ~2 |
+| Pulp! Terror Tales in the Night | 25.00% | ~2 |
+| Pulp! Where Monsters Dwell | 25.00% | ~2 |
 | Pulp! Out of this World | 25.00% | ~2 |
 | A continent with chemistry | 25.00% | ~2 |
 | Kirlian's best disciple | 25.00% | ~2 |
@@ -20,8 +22,6 @@
 | You had one wish left | 13.00% | ~1 |
 | A rival with no options | 13.00% | ~1 |
 | The seer | 13.00% | ~1 |
-| Pulp! Terror Tales in the Night | 13.00% | ~1 |
-| Pulp! Where Monsters Dwell | 13.00% | ~1 |
 | Pulp! Adventures into the Unknown | 13.00% | ~1 |
 | The barbarian invasions | 13.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |

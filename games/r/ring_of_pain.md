@@ -6,21 +6,21 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,896 |
-| Uncharted Territory | 89.00% | ~211,279 |
-| Getting A Glimpse | 73.00% | ~173,296 |
+| First Steps | 96.00% | ~227,897 |
+| Uncharted Territory | 89.00% | ~211,280 |
+| Getting A Glimpse | 73.00% | ~173,297 |
 | A Quick Escape | 65.00% | ~154,305 |
-| Explorer | 62.00% | ~147,183 |
-| Defeat The Dark | 61.00% | ~144,809 |
-| An Offering | 61.00% | ~144,809 |
-| Colorful Corpse | 58.00% | ~137,687 |
-| That Was Quick | 57.00% | ~135,313 |
-| A Donation | 57.00% | ~135,313 |
+| Explorer | 62.00% | ~147,184 |
+| Defeat The Dark | 61.00% | ~144,810 |
+| An Offering | 61.00% | ~144,810 |
+| Colorful Corpse | 58.00% | ~137,688 |
+| That Was Quick | 57.00% | ~135,314 |
+| A Donation | 57.00% | ~135,314 |
 | Goodbye, Frog Friend | 54.00% | ~128,192 |
 | Heavy Hitter | 53.00% | ~125,818 |
-| Heartless | 46.00% | ~109,200 |
-| Spine Breaker | 46.00% | ~109,200 |
-| Deflection | 45.00% | ~106,826 |
+| Heartless | 46.00% | ~109,201 |
+| Spine Breaker | 46.00% | ~109,201 |
+| Deflection | 45.00% | ~106,827 |
 | Sneaky | 43.00% | ~102,079 |
 | Ambitious Intent | 42.00% | ~99,705 |
 | Delving Deeper | 42.00% | ~99,705 |
@@ -30,11 +30,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 39.00% | ~92,583 |
 | R.I.P | 37.00% | ~87,835 |
 | Shootout | 36.00% | ~85,461 |
-| I Am Overburdened | 35.00% | ~83,087 |
-| Cold Hearted | 34.00% | ~80,713 |
-| Dig Your Own Grave | 33.00% | ~78,339 |
-| Toxic | 33.00% | ~78,339 |
-| Who To Trust? | 32.00% | ~75,965 |
+| I Am Overburdened | 35.00% | ~83,088 |
+| Cold Hearted | 34.00% | ~80,714 |
+| Dig Your Own Grave | 33.00% | ~78,340 |
+| Toxic | 33.00% | ~78,340 |
+| Who To Trust? | 32.00% | ~75,966 |
 | Flesh Wound | 29.00% | ~68,844 |
 | Walk It Off | 28.00% | ~66,470 |
 | Stone Touch | 28.00% | ~66,470 |
@@ -45,11 +45,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 27.00% | ~64,096 |
 | Destroy Your Fears | 26.00% | ~61,722 |
 | Save Our Souls | 25.00% | ~59,348 |
-| To The Death! | 20.00% | ~47,478 |
-| Well Prepared | 20.00% | ~47,478 |
-| Just Chilling | 20.00% | ~47,478 |
-| All Consuming | 19.00% | ~45,104 |
-| Stop Hitting Yourself | 19.00% | ~45,104 |
+| To The Death! | 20.00% | ~47,479 |
+| Well Prepared | 20.00% | ~47,479 |
+| Just Chilling | 20.00% | ~47,479 |
+| All Consuming | 19.00% | ~45,105 |
+| Stop Hitting Yourself | 19.00% | ~45,105 |
 | Shadow Spreads | 17.00% | ~40,357 |
 | Max Damage! | 17.00% | ~40,357 |
 | Don't Ignore Me! | 17.00% | ~40,357 |
@@ -71,13 +71,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 8.00% | ~18,991 |
 | Fragile Mortality | 8.00% | ~18,991 |
 | Defuser | 8.00% | ~18,991 |
-| Friend of Vermin | 7.00% | ~16,617 |
-| Juggernaut | 7.00% | ~16,617 |
-| Gigantic | 7.00% | ~16,617 |
-| Path To Enlightenment | 7.00% | ~16,617 |
-| Fire Away! | 7.00% | ~16,617 |
-| Obsessed | 7.00% | ~16,617 |
-| Sentimental Value | 7.00% | ~16,617 |
+| Friend of Vermin | 7.00% | ~16,618 |
+| Juggernaut | 7.00% | ~16,618 |
+| Gigantic | 7.00% | ~16,618 |
+| Path To Enlightenment | 7.00% | ~16,618 |
+| Fire Away! | 7.00% | ~16,618 |
+| Obsessed | 7.00% | ~16,618 |
+| Sentimental Value | 7.00% | ~16,618 |
 | A Long Climb | 6.00% | ~14,244 |
 | Grave Digger | 6.00% | ~14,244 |
 | Soul Stash | 6.00% | ~14,244 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,187 |
 | Near Death Experience | 0.30% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,392 (Ranked 54)  
+Progressed: 237,393 (Ranked 54)  
 Completed: 278 (0.12%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 278 (0.12%) (Ranked 233)
 | 2023-10-03 | 237,213 | 277 |
 | 2023-10-04 | 237,282 | 277 |
 | 2023-10-05 | 237,344 | 277 |
-| 2023-10-06 | 237,392 | 278 |
+| 2023-10-06 | 237,393 | 278 |
 ## Awards
 Max (Quickly Understood Controls): 1,497  (Ranked 125)  
 Sum: 11,592 (Ranked 81)  

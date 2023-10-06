@@ -10,11 +10,11 @@
 | Wild's Keeper | 14.00% | ~6 |
 | Apian Champion | 14.00% | ~6 |
 | Lacertian Champion | 14.00% | ~6 |
+| Noctuan Champion | 14.00% | ~6 |
 | Endless Tricks | 12.00% | ~5 |
 | Mechanical Buddy | 12.00% | ~5 |
 | Mind Illuminator | 12.00% | ~5 |
 | Purification Pioneer | 12.00% | ~5 |
-| Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Meissa's Savior | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
@@ -34,6 +34,7 @@
 | Sentinelphobic | 5.00% | ~2 |
 | The Corruption Goddess | 5.00% | ~2 |
 | Wave Bender | 5.00% | ~2 |
+| Aquarian Champion | 5.00% | ~2 |
 | Lacertian Mastery | 5.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
@@ -53,7 +54,6 @@
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Apian Hero | 2.00% | ~1 |
-| Aquarian Champion | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
 | Aquarian Mastery | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |

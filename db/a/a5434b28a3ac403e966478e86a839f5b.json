@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -909,9 +909,9 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou5",
@@ -988,8 +988,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:09:20.3703717+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:08:17.168258+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:01:05.7508498+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:09:20.3703988+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:00:40.7347134+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:08:17.1682698+00:00"
 }

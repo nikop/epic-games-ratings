@@ -29,8 +29,8 @@
 | Full power | 22.00% | ~21 |
 | "Ah sh*t... Here we go again!" | 22.00% | ~21 |
 | Compulsive hoarder | 21.00% | ~20 |
-| GG EZ | 14.00% | ~14 |
-| Comeback | 14.00% | ~14 |
+| GG EZ | 15.00% | ~15 |
+| Comeback | 15.00% | ~15 |
 | MayDay! MayDay! | 11.00% | ~11 |
 | Gooooooaaaaal!!! | 8.00% | ~8 |
 | Sadistic | 2.00% | ~2 |

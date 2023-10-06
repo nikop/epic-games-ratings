@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -10702,9 +10702,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4094
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10750,8 +10750,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-05T19:58:13.7729259+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:05:37.1294196+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:04:53.2451868+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:07.6193189+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:59:30.0853907+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:05:37.129557+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:59:14.993864+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:04:53.2452461+00:00"
 }

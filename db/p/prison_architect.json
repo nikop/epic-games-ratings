@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -5722,10 +5722,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4494,
       "NumberOfAwardsMax": 522
+    },
+    {
+      "Time": "2023-10-06T14:58:04.0263214+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4495,
+      "NumberOfAwardsMax": 522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4494,
+  "NumberOfAwards": 4495,
   "NumberOfAwardsMax": 522,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -5793,12 +5799,12 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 424
+      "Count": 425
     }
   ],
-  "EOS_Progressed": 181286,
+  "EOS_Progressed": 181303,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2139,
+  "EOS_NewPlayers": 2130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24816,6 +24822,11 @@
       "Time": "2023-10-06T14:07:33.0413708+00:00",
       "NumProgressed": 181286,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-06T15:06:33.6549856+00:00",
+      "NumProgressed": 181303,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -24835,7 +24846,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "Achievement_10",
@@ -24859,7 +24870,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29008
     },
     {
       "ID": "Achievement_13",
@@ -24907,7 +24918,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 45322
+      "UsersEstimate": 45326
     },
     {
       "ID": "Achievement_5",
@@ -24939,7 +24950,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16316
+      "UsersEstimate": 16317
     },
     {
       "ID": "Achievement_9",
@@ -24947,22 +24958,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9064
+      "UsersEstimate": 9065
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 181286,
+      "Progressed": 181303,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-06T02:14:13.6679243+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:07:33.04137+00:00",
+  "LastChanged": "2023-10-06T14:58:04.0263213+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:06:33.6549851+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:44.2536696+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:58:07.7513805+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:07:33.0415+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:58:04.0263217+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:06:33.6550787+00:00"
 }

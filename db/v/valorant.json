@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -10256,10 +10256,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 537903,
       "NumberOfAwardsMax": 73788
+    },
+    {
+      "Time": "2023-10-06T15:02:23.9132183+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 538194,
+      "NumberOfAwardsMax": 73788
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 537903,
+  "NumberOfAwards": 538194,
   "NumberOfAwardsMax": 73788,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10297,7 +10303,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 59390
+      "Count": 59493
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10315,13 +10321,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54831
+      "Count": 54912
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 56941
+      "Count": 57048
     }
   ],
   "EOS_Progressed": 0,
@@ -10335,8 +10341,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-10-06T14:02:58.1319227+00:00",
+  "LastChanged": "2023-10-06T15:02:23.9132181+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:21.2754417+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:02:58.1319234+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:05:43.5966571+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:02:23.9132189+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:04:58.931409+00:00"
 }

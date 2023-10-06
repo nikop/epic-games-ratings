@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8604,9 +8604,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297895,
+  "EOS_Progressed": 297896,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26809,6 +26809,11 @@
       "Time": "2023-10-06T14:08:03.1087362+00:00",
       "NumProgressed": 297895,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-06T15:07:09.8915055+00:00",
+      "NumProgressed": 297896,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26844,7 +26849,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32768
+      "UsersEstimate": 32769
     },
     {
       "ID": "PFA_13",
@@ -26876,7 +26881,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32768
+      "UsersEstimate": 32769
     },
     {
       "ID": "PFA_17",
@@ -26940,7 +26945,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35747
+      "UsersEstimate": 35748
     },
     {
       "ID": "PFA_24",
@@ -26948,7 +26953,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32768
+      "UsersEstimate": 32769
     },
     {
       "ID": "PFA_25",
@@ -27004,7 +27009,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32768
+      "UsersEstimate": 32769
     },
     {
       "ID": "PFA_31",
@@ -27164,7 +27169,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35747
+      "UsersEstimate": 35748
     },
     {
       "ID": "PFA_9",
@@ -27179,7 +27184,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297895,
+      "Progressed": 297896,
       "Completed": 481
     }
   ],
@@ -27187,8 +27192,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T13:02:55.9307981+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:08:03.1087355+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:07:09.8915051+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:57:21.8790033+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:08:03.1088892+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:57:19.650945+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:07:09.8916194+00:00"
 }

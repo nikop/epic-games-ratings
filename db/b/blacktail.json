@@ -5,10 +5,10 @@
   "Ranking_Rating": 243,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 701,
+  "EOS_Progressed": 702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2023-10-03T13:15:10.1984449+00:00",
       "NumProgressed": 701,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T15:09:09.5859841+00:00",
+      "NumProgressed": 702,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2167,7 +2172,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Toxic",
@@ -2206,7 +2211,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 701,
+      "Progressed": 702,
       "Completed": 1
     }
   ],
@@ -2214,8 +2219,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:10:08.9925035+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:09:09.5859838+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:52.2848972+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:00:11.3734262+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:10:08.9925682+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:59:53.2280394+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:09:09.5860115+00:00"
 }

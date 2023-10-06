@@ -4,11 +4,11 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 83,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 294,
+  "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2015-01-29T16:00:00+00:00",
@@ -1637,10 +1637,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2023-10-06T15:02:44.9329966+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 659,
+  "NumberOfAwards": 660,
   "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1654,7 +1660,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1728,8 +1734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-10-06T09:03:07.8300959+00:00",
+  "LastChanged": "2023-10-06T15:02:44.9329965+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:38.333596+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:03:22.5489986+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:05:41.0814129+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:02:44.9329968+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:04:56.8568617+00:00"
 }

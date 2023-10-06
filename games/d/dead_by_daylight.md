@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~5,531 |
-| Zealous | 0.50% | ~4,609 |
-| Skillful | 0.50% | ~4,609 |
-| Handyman | 0.40% | ~3,687 |
-| Not half bad | 0.40% | ~3,687 |
-| Apt Survivor | 0.40% | ~3,687 |
-| Survival Treasures | 0.40% | ~3,687 |
-| Make Some Noise | 0.40% | ~3,687 |
+| It wakes | 0.60% | ~5,532 |
+| Zealous | 0.50% | ~4,610 |
+| Skillful | 0.50% | ~4,610 |
+| Handyman | 0.40% | ~3,688 |
+| Not half bad | 0.40% | ~3,688 |
+| Apt Survivor | 0.40% | ~3,688 |
+| Survival Treasures | 0.40% | ~3,688 |
+| Make Some Noise | 0.40% | ~3,688 |
 | The Grand Sacrifice | 0.30% | ~2,766 |
 | Agonizing Escape | 0.30% | ~2,766 |
 | Backdoor Escape | 0.30% | ~2,766 |
@@ -29,6 +29,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.30% | ~2,766 |
 | Preemptive Strike | 0.30% | ~2,766 |
 | Humanitarian | 0.30% | ~2,766 |
+| Made it out alive! | 0.20% | ~1,844 |
 | I've got your back | 0.20% | ~1,844 |
 | Perfect Killing | 0.20% | ~1,844 |
 | Apt Killer | 0.20% | ~1,844 |
@@ -44,6 +45,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.20% | ~1,844 |
 | With Scars to Show | 0.20% | ~1,844 |
 | Flight to Freedom | 0.20% | ~1,844 |
+| A Fast Death | 0.20% | ~1,844 |
 | Second Act | 0.20% | ~1,844 |
 | A bite for the Entity | 0.10% | ~922 |
 | A feast for the Entity | 0.10% | ~922 |
@@ -54,7 +56,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.10% | ~922 |
 | The Grind | 0.10% | ~922 |
 | Escape Artist | 0.10% | ~922 |
-| Made it out alive! | 0.10% | ~922 |
 | The Key to Escape | 0.10% | ~922 |
 | Gifts for the Fog | 0.10% | ~922 |
 | Adept Jake | 0.10% | ~922 |
@@ -211,7 +212,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ada | 0.10% | ~922 |
 | Adept Rebecca | 0.10% | ~922 |
 | Cruelty Loves Company | 0.10% | ~922 |
-| A Fast Death | 0.10% | ~922 |
 | Adept Knight | 0.10% | ~922 |
 | Rebuilding The Borgo | 0.10% | ~922 |
 | Lifting The Fog | 0.10% | ~922 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~922 |
 | Adept Ripley | 0.10% | ~922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,840 (Ranked 14)  
+Progressed: 921,952 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,22 +405,22 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,840 | 49 |
+| 2023-10-06 | 921,952 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
-Sum: 259,754 (Ranked 13)  
+Sum: 259,816 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,500 |
 | This game is Highly Recommended | 29,691 |
 | This game has Competitive Players | 29,396 |
-| This game has Amazing Characters | 29,334 |
+| This game has Amazing Characters | 29,364 |
 | This game is Extremely Fun | 28,997 |
 | This game has Challenging Combat | 28,597 |
 | This game has Quickly Understood Controls | 28,528 |
 | This game has Amazing Storytelling | 26,608 |
-| This game has a Competitive Community | 25,103 |
+| This game has a Competitive Community | 25,135 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -681,4 +681,4 @@ Diff (max vs sum): 2
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
-| 2023-10-06 | 4.52 | - | 33,500 | 259,754 |
+| 2023-10-06 | 4.52 | - | 33,500 | 259,816 |

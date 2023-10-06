@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 160,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -6954,10 +6954,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3293,
       "NumberOfAwardsMax": 366
+    },
+    {
+      "Time": "2023-10-06T15:00:22.3122138+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 3295,
+      "NumberOfAwardsMax": 366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3293,
+  "NumberOfAwards": 3295,
   "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -7025,7 +7031,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 221
+      "Count": 223
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7046,8 +7052,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-10-06T08:59:51.4093175+00:00",
+  "LastChanged": "2023-10-06T15:00:22.3122137+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.444935+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:00:45.3190762+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:04:38.2401962+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:00:22.3122141+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:03:41.7462786+00:00"
 }

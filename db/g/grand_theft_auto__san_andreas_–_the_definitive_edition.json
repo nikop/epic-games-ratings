@@ -4,9 +4,9 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 489,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -1132,9 +1132,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13115,
+  "EOS_Progressed": 13116,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12362,6 +12362,11 @@
       "Time": "2023-10-06T13:12:43.7217592+00:00",
       "NumProgressed": 13115,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T15:07:54.6200981+00:00",
+      "NumProgressed": 13116,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12373,7 +12378,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10623
+      "UsersEstimate": 10624
     },
     {
       "ID": "ACH02",
@@ -12652,7 +12657,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13115,
+      "Progressed": 13116,
       "Completed": 49
     }
   ],
@@ -12660,8 +12665,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-06T06:59:05.674928+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:08:54.3383276+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:07:54.6200978+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:57.1591539+00:00",
-  "LastUpdate_Ratings": "2023-10-06T13:59:43.2506736+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:08:54.3384415+00:00"
+  "LastUpdate_Ratings": "2023-10-06T14:59:27.3707662+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:07:54.6201704+00:00"
 }

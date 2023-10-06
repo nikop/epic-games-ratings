@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 27.00% | ~16,558 |
-| As Far Away As Possible | 15.00% | ~9,199 |
-| A Most Unstable Organism | 12.00% | ~7,359 |
-| No Time to Follow Protocol | 9.00% | ~5,519 |
-| Float Like a Butterfly... | 8.00% | ~4,906 |
+| Your Lucky Day | 27.00% | ~16,561 |
+| As Far Away As Possible | 15.00% | ~9,201 |
+| A Most Unstable Organism | 12.00% | ~7,361 |
+| No Time to Follow Protocol | 9.00% | ~5,520 |
+| Float Like a Butterfly... | 8.00% | ~4,907 |
 | Nano Connoisseur | 6.00% | ~3,680 |
 | In Two Places At Once | 6.00% | ~3,680 |
-| Pulling Your Weight | 2.00% | ~1,226 |
-| Reaping Rivals | 2.00% | ~1,226 |
+| Pulling Your Weight | 2.00% | ~1,227 |
+| Reaping Rivals | 2.00% | ~1,227 |
 | fifteenth Time's the Charm | 0.90% | ~552 |
 | More Power to You | 0.60% | ~368 |
 | Memory Keeper | 0.20% | ~123 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 895)
 | Runs for Your Money | 0.10% | ~61 |
 | Past Master | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,325 (Ranked 97)  
+Progressed: 61,338 (Ranked 97)  
 Completed: 6 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,14 +62,14 @@ Completed: 6 (0.01%) (Ranked 288)
 | 2023-10-03 | 60,483 | 2 |
 | 2023-10-04 | 60,826 | 2 |
 | 2023-10-05 | 61,160 | 3 |
-| 2023-10-06 | 61,325 | 6 |
+| 2023-10-06 | 61,338 | 6 |
 ## Awards
-Max (Great for Beginners): 51  (Ranked 407)  
-Sum: 183 (Ranked 388)  
-Diff (max vs sum): 19  
+Max (Great for Beginners): 53  (Ranked 404)  
+Sum: 185 (Ranked 386)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 51 |
+| This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 34 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 26 |
@@ -106,4 +106,4 @@ Diff (max vs sum): 19
 | 2023-10-03 | 4.18 | 49 | 153 |
 | 2023-10-04 | 4.18 | 51 | 181 |
 | 2023-10-05 | 4.19 | 51 | 182 |
-| 2023-10-06 | 4.18 | 51 | 183 |
+| 2023-10-06 | 4.18 | 53 | 185 |

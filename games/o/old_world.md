@@ -10,7 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.80% | ~115 |
 | Play a Single Player Game | 0.80% | ~115 |
 | Friendly Family | 0.70% | ~101 |
-| Intrepid | 0.60% | ~86 |
+| Intrepid | 0.60% | ~87 |
 | Able | 0.50% | ~72 |
 | Architect | 0.50% | ~72 |
 | Good | 0.50% | ~72 |
@@ -20,37 +20,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.50% | ~72 |
 | Strong | 0.50% | ~72 |
 | Hanging Gardens | 0.50% | ~72 |
+| Oracle | 0.50% | ~72 |
 | Judaism | 0.50% | ~72 |
+| Trade Caravan | 0.50% | ~72 |
 | Kushite Paganism | 0.50% | ~72 |
 | Ambitious | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
 | Just | 0.40% | ~58 |
 | Keystone | 0.40% | ~58 |
+| Magnificent | 0.40% | ~58 |
 | Wise | 0.40% | ~58 |
-| Oracle | 0.40% | ~58 |
+| Ishtar Gate | 0.40% | ~58 |
 | Pyramids | 0.40% | ~58 |
 | Babylonian Paganism | 0.40% | ~58 |
 | Carthaginian Paganism | 0.40% | ~58 |
 | Greek Paganism | 0.40% | ~58 |
 | Naming Landmarks | 0.40% | ~58 |
-| Trade Caravan | 0.40% | ~58 |
 | Brilliant | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Fountainhead | 0.30% | ~43 |
 | Great | 0.30% | ~43 |
-| Magnificent | 0.30% | ~43 |
 | Warrior | 0.30% | ~43 |
 | Developing Cities | 0.30% | ~43 |
 | Strong Cities | 0.30% | ~43 |
 | Able Difficulty | 0.30% | ~43 |
 | Furious Family | 0.30% | ~43 |
 | Great Ziggurat | 0.30% | ~43 |
-| Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
 | Musaeum | 0.30% | ~43 |
 | Necropolis | 0.30% | ~43 |
 | Learn to Play 1 | 0.30% | ~43 |
+| Learn to Play 2 | 0.30% | ~43 |
 | Christianity | 0.30% | ~43 |
+| Egyptian Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Zoroastrianism | 0.30% | ~43 |
 | Kushite Pyramids | 0.30% | ~43 |
@@ -71,11 +73,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
 | Mausoleum | 0.20% | ~29 |
-| Learn to Play 2 | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Manichaeism | 0.20% | ~29 |
-| Egyptian Paganism | 0.20% | ~29 |
 | Persian Paganism | 0.20% | ~29 |
 | Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,412 (Ranked 134)  
+Progressed: 14,419 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,412 | 5 |
+| 2023-10-06 | 14,419 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

@@ -244,12 +244,12 @@ Completed: 25 (0.06%) (Ranked 260)
 | 2023-10-05 | 43,567 | 25 |
 | 2023-10-06 | 43,575 | 25 |
 ## Awards
-Max (Great Boss Battles): 831  (Ranked 158)  
-Sum: 2,509 (Ranked 179)  
+Max (Great Boss Battles): 832  (Ranked 158)  
+Sum: 2,510 (Ranked 179)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 831 |
+| This game has Great Boss Battles | 832 |
 | This game is Great for Beginners | 259 |
 | This game is Highly Recommended | 215 |
 | This game has Diverse Characters | 215 |
@@ -451,3 +451,4 @@ Diff (max vs sum): -21
 | 2023-09-30 | 4.69 | - | 828 | 2,504 |
 | 2023-10-01 | 4.69 | - | 830 | 2,507 |
 | 2023-10-04 | 4.69 | - | 831 | 2,509 |
+| 2023-10-06 | 4.69 | - | 832 | 2,510 |

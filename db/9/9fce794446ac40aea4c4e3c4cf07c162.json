@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -76,17 +76,17 @@
       "ID": "BOSS_02",
       "SetID": "35d3i7a",
       "Name": "Can\u2019t be real.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_03",
       "SetID": "35d3i7a",
       "Name": "Painful image.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_04",
@@ -228,9 +228,9 @@
       "ID": "MEM_II",
       "SetID": "35d3i7a",
       "Name": "Not my son!",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_III",
@@ -244,9 +244,9 @@
       "ID": "MEM_IV",
       "SetID": "35d3i7a",
       "Name": "Your only friend.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_IX",
@@ -260,17 +260,17 @@
       "ID": "MEM_V",
       "SetID": "35d3i7a",
       "Name": "Put on the mask!",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEM_VI",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE MASK!",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_VII",
@@ -340,33 +340,33 @@
       "ID": "MEM_XV",
       "SetID": "35d3i7a",
       "Name": "I will make you a REAL prince.",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XVI",
       "SetID": "35d3i7a",
       "Name": "Now you are ready.",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XVII",
       "SetID": "35d3i7a",
       "Name": "I like your loneliness.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XVIII",
       "SetID": "35d3i7a",
       "Name": "A new hope.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XX",
@@ -452,9 +452,9 @@
       "ID": "PROJ_I",
       "SetID": "35d3i7a",
       "Name": "Beauty.",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROJ_II",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T14:07:46.4603608+00:00",
+  "LastChanged_Achievements": "2023-10-06T15:06:45.33393+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:00:40.17225+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:07:46.4604338+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:00:18.9422739+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:06:45.3339681+00:00"
 }

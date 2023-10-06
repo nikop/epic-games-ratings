@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 261,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -822,10 +822,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1177,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-10-06T15:02:37.1701693+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1189,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1177,
+  "NumberOfAwards": 1189,
   "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -851,7 +857,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 151
+      "Count": 156
     },
     {
       "Text": "This game has Diverse Characters",
@@ -875,7 +881,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 134
+      "Count": 141
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -908,8 +914,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-06T09:01:50.9406838+00:00",
+  "LastChanged": "2023-10-06T15:02:37.1701692+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:27.984683+00:00",
-  "LastUpdate_Ratings": "2023-10-06T14:03:15.7839096+00:00",
-  "LastUpdate_Achievements": "2023-10-06T14:07:49.7133211+00:00"
+  "LastUpdate_Ratings": "2023-10-06T15:02:37.1701696+00:00",
+  "LastUpdate_Achievements": "2023-10-06T15:06:48.0086827+00:00"
 }
