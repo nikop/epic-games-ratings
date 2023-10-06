@@ -1,23 +1,23 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,224 |
-| Biggest Communism Builder | 24.00% | ~31,049 |
+| Biggest Communism Builder | 24.00% | ~31,050 |
 | The World's Most Laughable Centrist | 21.00% | ~27,168 |
 | Il Coppo Del'Arte! | 18.00% | ~23,287 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,699 |
-| Hyperstellar Law Official | 16.00% | ~20,699 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,700 |
+| Hyperstellar Law Official | 16.00% | ~20,700 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,112 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,112 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,818 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,231 |
-| Unbelievably Boring **** | 9.00% | ~11,643 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,643 |
+| Unbelievably Boring **** | 9.00% | ~11,644 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,644 |
 | Enemy Of The Physical Realm | 8.00% | ~10,350 |
 | Hardie's Heroes | 6.00% | ~7,762 |
 | The Lawbringer | 4.00% | ~5,175 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~129 |
 | What body? | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,371 (Ranked 74)  
+Progressed: 129,373 (Ranked 74)  
 Completed: 28 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 28 (0.02%) (Ranked 280)
 | 2023-10-03 | 129,278 | 28 |
 | 2023-10-04 | 129,321 | 28 |
 | 2023-10-05 | 129,360 | 28 |
-| 2023-10-06 | 129,371 | 28 |
+| 2023-10-06 | 129,373 | 28 |
 ## Awards
 Max (Character Customization): 728  (Ranked 171)  
 Sum: 1,095 (Ranked 241)  

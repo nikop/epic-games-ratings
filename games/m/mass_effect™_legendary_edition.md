@@ -61,12 +61,12 @@
 | Heart of Darkness | 30.00% | ~170 |
 | Shopaholic | 30.00% | ~170 |
 | Fade Away | 29.00% | ~164 |
+| Treason | 29.00% | ~164 |
 | Digital Exorcist | 29.00% | ~164 |
 | Driven | 29.00% | ~164 |
 | Focused | 28.00% | ~159 |
 | Cat's in the Cradle | 28.00% | ~159 |
 | Doppelganger | 28.00% | ~159 |
-| Treason | 28.00% | ~159 |
 | Bringer of War | 28.00% | ~159 |
 | First Aid Specialist | 26.00% | ~147 |
 | Friend or Foe | 26.00% | ~147 |

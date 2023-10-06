@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Lacertian Champion | 14.00% | ~6 |
 | Dicesmithing Time! | 12.00% | ~5 |
 | Stellar Dismantler | 12.00% | ~5 |
 | Wild's Keeper | 12.00% | ~5 |
 | Apian Champion | 12.00% | ~5 |
-| Lacertian Champion | 12.00% | ~5 |
 | Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 10.00% | ~4 |
 | Endless Tricks | 10.00% | ~4 |

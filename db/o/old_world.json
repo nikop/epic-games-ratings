@@ -1791,9 +1791,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14398,
+  "EOS_Progressed": 14400,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13081,6 +13081,11 @@
       "Time": "2023-10-06T08:08:26.4458543+00:00",
       "NumProgressed": 14398,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T09:09:20.907054+00:00",
+      "NumProgressed": 14400,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13426,9 +13431,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -13554,9 +13559,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -13578,9 +13583,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -13642,9 +13647,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -13682,9 +13687,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -13930,9 +13935,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -14522,9 +14527,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -14842,9 +14847,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -15827,21 +15832,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14398,
+      "Progressed": 14400,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14398,
+      "Progressed": 14400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:08:26.4458538+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:09:20.9070534+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:00:06.528436+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:08:26.4469395+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:01:11.0418194+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:09:20.908298+00:00"
 }

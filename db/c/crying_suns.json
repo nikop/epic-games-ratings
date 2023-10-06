@@ -610,7 +610,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468565,
+  "EOS_Progressed": 468566,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
@@ -18260,6 +18260,11 @@
       "Time": "2023-10-06T08:05:05.7590148+00:00",
       "NumProgressed": 468565,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-06T09:05:47.8107518+00:00",
+      "NumProgressed": 468566,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18295,7 +18300,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103084
+      "UsersEstimate": 103085
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -18311,7 +18316,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46856
+      "UsersEstimate": 46857
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -18359,7 +18364,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309253
+      "UsersEstimate": 309254
     },
     {
       "ID": "achievement_story_landa",
@@ -18391,7 +18396,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117141
+      "UsersEstimate": 117142
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -18727,7 +18732,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182740
+      "UsersEstimate": 182741
     },
     {
       "ID": "achievement_win_run_hard",
@@ -18783,7 +18788,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103084
+      "UsersEstimate": 103085
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -18823,7 +18828,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -18902,21 +18907,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12499,
+      "Progressed": 12500,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468565,
+      "Progressed": 468566,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:05.7590142+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:05:47.8107512+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:25.4640051+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:57:54.5452916+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:05.7591654+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:58:27.991067+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:05:47.8109528+00:00"
 }

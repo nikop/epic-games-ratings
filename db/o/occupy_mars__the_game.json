@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1649,
+  "EOS_Progressed": 1650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3877,6 +3877,11 @@
       "Time": "2023-10-06T06:06:08.6626839+00:00",
       "NumProgressed": 1649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T09:06:45.0277674+00:00",
+      "NumProgressed": 1650,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3920,7 +3925,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -3992,7 +3997,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4040,7 +4045,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4160,7 +4165,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4184,7 +4189,7 @@
       "Name": "Plumber",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -4264,14 +4269,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1649,
+      "Progressed": 1650,
       "Completed": 0
     }
   ],
@@ -4279,8 +4284,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-04T19:58:33.1072348+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:52.5248183+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:06:45.0277666+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:58:32.5320422+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:52.5248669+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:59:11.103143+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:06:45.0278297+00:00"
 }

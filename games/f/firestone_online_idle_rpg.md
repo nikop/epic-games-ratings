@@ -67,6 +67,7 @@ Rating: 4.06 (Ranked 948)
 | Cauldron Liberator | 2.00% | ~40 |
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |
+| Conqueror | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
 | Pokerface | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |
@@ -74,7 +75,6 @@ Rating: 4.06 (Ranked 948)
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
-| Conqueror | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
 | Silverwood liberator | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
@@ -249,8 +249,8 @@ Completed: 2 (0.10%) (Ranked 242)
 | 2023-10-06 | 1,993 | 2 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 499)  
-Sum: 66 (Ranked 453)  
-Diff (max vs sum): 46  
+Sum: 66 (Ranked 454)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 24 |

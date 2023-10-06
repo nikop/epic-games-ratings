@@ -18,8 +18,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Medic | 0.30% | ~2,764 |
 | Handyman | 0.30% | ~2,764 |
 | Nerves of steel | 0.30% | ~2,764 |
+| Perfect Escape | 0.30% | ~2,764 |
 | Bloody Millionaire | 0.30% | ~2,764 |
 | I | 0.30% | ~2,764 |
+| Engineer | 0.30% | ~2,764 |
 | Sorted | 0.30% | ~2,764 |
 | Healthy Obsession | 0.30% | ~2,764 |
 | Resurgence | 0.30% | ~2,764 |
@@ -28,14 +30,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Agonizing Escape | 0.20% | ~1,843 |
 | Backdoor Escape | 0.20% | ~1,843 |
 | I've got your back | 0.20% | ~1,843 |
-| Perfect Escape | 0.20% | ~1,843 |
 | Perfect Killing | 0.20% | ~1,843 |
 | Apt Killer | 0.20% | ~1,843 |
 | Risk it all | 0.20% | ~1,843 |
 | Vulture | 0.20% | ~1,843 |
 | II | 0.20% | ~1,843 |
 | III | 0.20% | ~1,843 |
-| Engineer | 0.20% | ~1,843 |
 | Wounded Healer | 0.20% | ~1,843 |
 | First to the Punch | 0.20% | ~1,843 |
 | Close Shave | 0.20% | ~1,843 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,410 (Ranked 14)  
+Progressed: 921,464 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,10 +405,10 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,410 | 49 |
+| 2023-10-06 | 921,464 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
-Sum: 259,673 (Ranked 13)  
+Sum: 259,701 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -417,7 +417,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,373 |
 | This game has Amazing Characters | 29,334 |
 | This game is Extremely Fun | 28,997 |
-| This game has Challenging Combat | 28,569 |
+| This game has Challenging Combat | 28,597 |
 | This game has Quickly Understood Controls | 28,528 |
 | This game has Amazing Storytelling | 26,608 |
 | This game has a Competitive Community | 25,103 |
@@ -681,4 +681,4 @@ Diff (max vs sum): 2
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
-| 2023-10-06 | 4.52 | - | 33,500 | 259,673 |
+| 2023-10-06 | 4.52 | - | 33,500 | 259,701 |

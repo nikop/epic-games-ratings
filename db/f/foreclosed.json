@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.88,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -206,6 +206,11 @@
       "Time": "2023-09-25T14:04:40.8319633+00:00",
       "NumProgressed": 104,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T09:05:16.1604374+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -255,9 +260,9 @@
       "ID": "EnemyDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Cyborg",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ExpertChoice",
@@ -273,21 +278,21 @@
       "Name": "Breaking Through",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -311,7 +316,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -401,14 +406,14 @@
       "Name": "Telekinesis",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 3
     }
   ],
@@ -416,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:04:39.6823778+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:05:16.1604369+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:45.7966258+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:02:11.5903856+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:04:39.6823935+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:03:13.1916866+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:05:16.1604569+00:00"
 }

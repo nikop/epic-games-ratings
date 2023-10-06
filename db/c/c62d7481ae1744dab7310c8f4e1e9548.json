@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Kamzik",
@@ -566,9 +566,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Kvitky",
@@ -654,9 +654,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Sputnik2",
@@ -718,9 +718,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -733,8 +733,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:07:06.9108537+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:08:06.9470821+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:04.7836374+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:59:48.1325462+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:07:06.9108743+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:00:50.703991+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:08:06.9471073+00:00"
 }

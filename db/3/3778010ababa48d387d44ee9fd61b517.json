@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -25,9 +25,323 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A_ALL_UPGRADES",
+      "SetID": "324h56e",
+      "Name": "Researcher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_ARTIFACT",
+      "SetID": "324h56e",
+      "Name": "The Artifact",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_AVATAR",
+      "SetID": "324h56e",
+      "Name": "The Avatar",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_CHAINBOLT",
+      "SetID": "324h56e",
+      "Name": "Killing Spree",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_CHESTS",
+      "SetID": "324h56e",
+      "Name": "Treasure Finder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_CHESTS_2",
+      "SetID": "324h56e",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_COMP_HARD",
+      "SetID": "324h56e",
+      "Name": "Hive Guardian",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_COMP_INSANE",
+      "SetID": "324h56e",
+      "Name": "Insane",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_COMP_NORMAL",
+      "SetID": "324h56e",
+      "Name": "Vanguard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_DAVID",
+      "SetID": "324h56e",
+      "Name": "David(s) vs Goliath",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_DNA",
+      "SetID": "324h56e",
+      "Name": "Evolution",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_GOLD_PILES",
+      "SetID": "324h56e",
+      "Name": "Scrooge",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_HIVE_RESS hiveRes (0-100)",
+      "SetID": "324h56e",
+      "Name": "Hivespital",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_HUNT hunt (0-1)",
+      "SetID": "324h56e",
+      "Name": "Big Game Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_HUNT_2 hunt (0-5)",
+      "SetID": "324h56e",
+      "Name": "Bigger Game Hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_ITEM_DROPS",
+      "SetID": "324h56e",
+      "Name": "Scavenger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_KILLS kills_1 (0-100)",
+      "SetID": "324h56e",
+      "Name": "Slaughter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_KILLS_2 kills_1 (0-1000)",
+      "SetID": "324h56e",
+      "Name": "Massacre",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_LEGENDARY",
+      "SetID": "324h56e",
+      "Name": "Loot of Legends",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_LEGIONNAIRES",
+      "SetID": "324h56e",
+      "Name": "We Are All You Need",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_LEVEL",
+      "SetID": "324h56e",
+      "Name": "Ding!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_MEAT meat (0-10000)",
+      "SetID": "324h56e",
+      "Name": "Fresh Meat!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_MEDIC_HEAL",
+      "SetID": "324h56e",
+      "Name": "Always Blame the Healer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_MINERALS minerals (0-2500)",
+      "SetID": "324h56e",
+      "Name": "Miner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_NOFISH",
+      "SetID": "324h56e",
+      "Name": "Fish Lover",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_ORB",
+      "SetID": "324h56e",
+      "Name": "Orb of Wisdom",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_POPULATION",
+      "SetID": "324h56e",
+      "Name": "Full Hive",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_QUEEN",
+      "SetID": "324h56e",
+      "Name": "Mother of Insectoids",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_RESS",
+      "SetID": "324h56e",
+      "Name": "Play of the Game",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_SCORPION",
+      "SetID": "324h56e",
+      "Name": "Acidodger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_SHIP",
+      "SetID": "324h56e",
+      "Name": "What\u0027s this?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_SKIP_ADVISOR advisor (0-5)",
+      "SetID": "324h56e",
+      "Name": "Silencer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_SUN",
+      "SetID": "324h56e",
+      "Name": "The Age of Discovery",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_SUNKEN",
+      "SetID": "324h56e",
+      "Name": "The Sunken City",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_TURRET",
+      "SetID": "324h56e",
+      "Name": "All About That Base",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_TURTLES",
+      "SetID": "324h56e",
+      "Name": "Turtle Beach",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_WASP",
+      "SetID": "324h56e",
+      "Name": "Splat",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_WORKER",
+      "SetID": "324h56e",
+      "Name": "All-Star Worker",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_WRAITH",
+      "SetID": "324h56e",
+      "Name": "So Bright It Burns",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "324h56e",
@@ -37,8 +351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:45.8317247+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:06:36.8528775+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:04.2517692+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:00:21.2607486+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:45.8317292+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:01:29.7913299+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:06:36.8928648+00:00"
 }

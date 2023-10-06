@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,752 |
+| Genin | 12.00% | ~24,753 |
 | A thief's beginning | 10.00% | ~20,627 |
 | Thorough | 10.00% | ~20,627 |
-| Disguised | 8.00% | ~16,501 |
-| Rescue Takuma | 8.00% | ~16,501 |
-| Rollin' | 8.00% | ~16,501 |
-| Tanuki Time | 8.00% | ~16,501 |
+| Disguised | 8.00% | ~16,502 |
+| Rescue Takuma | 8.00% | ~16,502 |
+| Rollin' | 8.00% | ~16,502 |
+| Tanuki Time | 8.00% | ~16,502 |
 | Ice Ice Yuki | 7.00% | ~14,439 |
 | Jonin | 7.00% | ~14,439 |
 | Stoned Ox | 7.00% | ~14,439 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,376 |
 | Mugen Unchained | 6.00% | ~12,376 |
 | Warzone | 6.00% | ~12,376 |
-| Okkoto | 5.00% | ~10,313 |
-| Prisoners | 5.00% | ~10,313 |
-| Too Early | 5.00% | ~10,313 |
+| Okkoto | 5.00% | ~10,314 |
+| Prisoners | 5.00% | ~10,314 |
+| Too Early | 5.00% | ~10,314 |
 | Gear up | 4.00% | ~8,251 |
 | Happy little accidents | 4.00% | ~8,251 |
 | Still Rollin' | 4.00% | ~8,251 |
@@ -45,13 +45,13 @@ Number of Ratings: 495  (23.09.2022)
 | Merciful | 0.50% | ~1,031 |
 | Time Paradox | 0.50% | ~1,031 |
 | Five Shadows | 0.30% | ~619 |
+| Praise the Shogun | 0.20% | ~413 |
 | Chicken Dinner | 0.10% | ~206 |
 | Complete Mastery | 0.10% | ~206 |
 | Mimimi | 0.10% | ~206 |
-| Praise the Shogun | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,268 (Ranked 63)  
+Progressed: 206,274 (Ranked 63)  
 Completed: 89 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,16 +220,16 @@ Completed: 89 (0.04%) (Ranked 270)
 | 2023-10-03 | 205,839 | 88 |
 | 2023-10-04 | 206,028 | 89 |
 | 2023-10-05 | 206,213 | 89 |
-| 2023-10-06 | 206,268 | 89 |
+| 2023-10-06 | 206,274 | 89 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
-Sum: 4,781 (Ranked 138)  
+Sum: 4,782 (Ranked 138)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 566 |
 | This game has Diverse Characters | 530 |
-| This game is Extremely Fun | 528 |
+| This game is Extremely Fun | 529 |
 | This game has Amazing Storytelling | 512 |
 | This game has Amazing Characters | 491 |
 | This game is Highly Recommended | 487 |
@@ -424,3 +424,4 @@ Diff (max vs sum): 56
 | 2023-09-30 | 4.66 | - | 566 | 4,779 |
 | 2023-10-01 | 4.67 | - | 566 | 4,779 |
 | 2023-10-05 | 4.67 | - | 566 | 4,781 |
+| 2023-10-06 | 4.67 | - | 566 | 4,782 |

@@ -6,47 +6,47 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~118,345 |
-| Comeback | 82.00% | ~109,037 |
-| Information is Key | 80.00% | ~106,378 |
-| Unlucky | 71.00% | ~94,410 |
-| Anarchist | 68.00% | ~90,421 |
-| Wallhack | 65.00% | ~86,432 |
-| Steady Supply | 60.00% | ~79,783 |
-| Lucky Shot | 53.00% | ~70,475 |
-| Forward Observer | 52.00% | ~69,145 |
-| Ring Ring! | 52.00% | ~69,145 |
-| Bossing Around | 45.00% | ~59,837 |
-| Frostbite | 45.00% | ~59,837 |
-| Night Owl | 44.00% | ~58,508 |
-| Strength in Numbers | 44.00% | ~58,508 |
-| Fog of War | 41.00% | ~54,519 |
-| Anyone Else? | 39.00% | ~51,859 |
-| Rasputin | 39.00% | ~51,859 |
-| Stronghold Denied | 39.00% | ~51,859 |
-| Hydra | 36.00% | ~47,870 |
-| This Belongs to Us Now | 36.00% | ~47,870 |
-| Stronghold | 35.00% | ~46,540 |
-| Leeroy | 33.00% | ~43,881 |
-| Lost Batallion | 33.00% | ~43,881 |
-| This is MY Machine Gun! | 32.00% | ~42,551 |
-| Together As One | 31.00% | ~41,221 |
-| Gavrilo Princip | 27.00% | ~35,902 |
-| Lead Harvest | 25.00% | ~33,243 |
+| Immovable Object | 89.00% | ~118,349 |
+| Comeback | 82.00% | ~109,040 |
+| Information is Key | 80.00% | ~106,381 |
+| Unlucky | 71.00% | ~94,413 |
+| Anarchist | 68.00% | ~90,424 |
+| Wallhack | 65.00% | ~86,434 |
+| Steady Supply | 60.00% | ~79,786 |
+| Lucky Shot | 53.00% | ~70,477 |
+| Forward Observer | 52.00% | ~69,148 |
+| Ring Ring! | 52.00% | ~69,148 |
+| Bossing Around | 45.00% | ~59,839 |
+| Frostbite | 45.00% | ~59,839 |
+| Night Owl | 44.00% | ~58,509 |
+| Strength in Numbers | 44.00% | ~58,509 |
+| Fog of War | 41.00% | ~54,520 |
+| Anyone Else? | 39.00% | ~51,861 |
+| Rasputin | 39.00% | ~51,861 |
+| Stronghold Denied | 39.00% | ~51,861 |
+| Hydra | 36.00% | ~47,871 |
+| This Belongs to Us Now | 36.00% | ~47,871 |
+| Stronghold | 35.00% | ~46,542 |
+| Leeroy | 33.00% | ~43,882 |
+| Lost Batallion | 33.00% | ~43,882 |
+| This is MY Machine Gun! | 32.00% | ~42,552 |
+| Together As One | 31.00% | ~41,223 |
+| Gavrilo Princip | 27.00% | ~35,904 |
+| Lead Harvest | 25.00% | ~33,244 |
 | Skynet Confirmed | 23.00% | ~30,584 |
-| Kesselschlacht | 22.00% | ~29,254 |
-| Democracy Works! | 21.00% | ~27,924 |
+| Kesselschlacht | 22.00% | ~29,255 |
+| Democracy Works! | 21.00% | ~27,925 |
 | Switch, Please! | 19.00% | ~25,265 |
-| I've Seen It All | 18.00% | ~23,935 |
-| Tourist | 18.00% | ~23,935 |
-| At Least This Way I Can Win... | 17.00% | ~22,605 |
-| Oops! | 17.00% | ~22,605 |
+| I've Seen It All | 18.00% | ~23,936 |
+| Tourist | 18.00% | ~23,936 |
+| At Least This Way I Can Win... | 17.00% | ~22,606 |
+| Oops! | 17.00% | ~22,606 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~21,276 |
 | Butcher | 12.00% | ~15,957 |
-| Before the Leaves Fall | 10.00% | ~13,297 |
-| Close Call | 10.00% | ~13,297 |
-| Pinpoint | 10.00% | ~13,297 |
-| Tannenberg | 9.00% | ~11,967 |
+| Before the Leaves Fall | 10.00% | ~13,298 |
+| Close Call | 10.00% | ~13,298 |
+| Pinpoint | 10.00% | ~13,298 |
+| Tannenberg | 9.00% | ~11,968 |
 | For the Emperor | 8.00% | ~10,638 |
 | Hawk Eye | 8.00% | ~10,638 |
 | Equality For All | 7.00% | ~9,308 |
@@ -62,11 +62,11 @@ Number of Ratings: 13,393  (23.09.2022)
 | Na Nozh! | 3.00% | ~3,989 |
 | S nami Bog! | 3.00% | ~3,989 |
 | Za veru, Tsarya i otechestvo | 3.00% | ~3,989 |
-| Cheeki Breeki | 2.00% | ~2,659 |
-| Pe aici nu se trece | 2.00% | ~2,659 |
-| Phone It In | 2.00% | ~2,659 |
-| Pulcējaties zem latviešu karogiem! | 2.00% | ~2,659 |
-| Pure Krupp Steel | 2.00% | ~2,659 |
+| Cheeki Breeki | 2.00% | ~2,660 |
+| Pe aici nu se trece | 2.00% | ~2,660 |
+| Phone It In | 2.00% | ~2,660 |
+| Pulcējaties zem latviešu karogiem! | 2.00% | ~2,660 |
+| Pure Krupp Steel | 2.00% | ~2,660 |
 | From Russia with Hate | 1.00% | ~1,330 |
 | Talk Much? | 1.00% | ~1,330 |
 | To Arms! To Arms! | 1.00% | ~1,330 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,197 |
 | Road to Berlin | 0.60% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,972 (Ranked 73)  
+Progressed: 132,976 (Ranked 73)  
 Completed: 29 (0.02%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 29 (0.02%) (Ranked 280)
 | 2023-10-03 | 132,759 | 29 |
 | 2023-10-04 | 132,858 | 29 |
 | 2023-10-05 | 132,955 | 29 |
-| 2023-10-06 | 132,972 | 29 |
+| 2023-10-06 | 132,976 | 29 |
 ## Awards
 Max (Competitive Players): 333  (Ranked 235)  
 Sum: 2,900 (Ranked 173)  

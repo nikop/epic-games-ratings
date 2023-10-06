@@ -10917,10 +10917,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259673,
       "NumberOfAwardsMax": 33500
+    },
+    {
+      "Time": "2023-10-06T08:59:41.7628295+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259701,
+      "NumberOfAwardsMax": 33500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259673,
+  "NumberOfAwards": 259701,
   "NumberOfAwardsMax": 33500,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10976,7 +10982,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28569
+      "Count": 28597
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10991,9 +10997,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 921410,
+  "EOS_Progressed": 921464,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13562,
+  "EOS_NewPlayers": 13569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30131,6 +30137,11 @@
       "Time": "2023-10-06T08:05:32.9548905+00:00",
       "NumProgressed": 921410,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T09:06:21.3372284+00:00",
+      "NumProgressed": 921464,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30292,9 +30303,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1843
+      "UsersEstimate": 2764
     },
     {
       "ID": "ACH_021",
@@ -30604,9 +30615,9 @@
       "ID": "ACH_059",
       "SetID": "16jml5b",
       "Name": "Engineer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1843
+      "UsersEstimate": 2764
     },
     {
       "ID": "ACH_060",
@@ -31973,21 +31984,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 921410,
+      "Progressed": 921464,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 921410,
+      "Progressed": 921464,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-06T02:59:42.6750255+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:32.9548898+00:00",
+  "LastChanged": "2023-10-06T08:59:41.7628292+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:06:21.3372279+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:58:58.0390716+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:32.9554707+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:59:41.7628302+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:06:21.3381919+00:00"
 }

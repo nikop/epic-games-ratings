@@ -19,7 +19,7 @@
 | Unboxing Video | 2.00% | ~2 |
 | Mise-en-scènester | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 378)  
+Progressed: 104 (Ranked 379)  
 Completed: 2 (1.92%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

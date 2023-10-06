@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 74,
@@ -1337,9 +1337,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129371,
+  "EOS_Progressed": 129373,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18257,6 +18257,11 @@
       "Time": "2023-10-06T08:03:26.5221836+00:00",
       "NumProgressed": 129371,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-06T09:04:12.2025118+00:00",
+      "NumProgressed": 129373,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18316,7 +18321,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11643
+      "UsersEstimate": 11644
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -18324,7 +18329,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31049
+      "UsersEstimate": 31050
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18372,7 +18377,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20699
+      "UsersEstimate": 20700
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -18404,7 +18409,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20699
+      "UsersEstimate": 20700
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -18428,7 +18433,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11643
+      "UsersEstimate": 11644
     },
     {
       "ID": "ACH_GLUTEN",
@@ -18587,15 +18592,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129371,
+      "Progressed": 129373,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-02T16:00:31.9424375+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:03:26.5221828+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:04:12.2025113+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:58:20.2932571+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:03:26.5222901+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:58:57.0213904+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:04:12.2026461+00:00"
 }

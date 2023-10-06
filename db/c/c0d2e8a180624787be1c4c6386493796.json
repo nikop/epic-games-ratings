@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -139,9 +139,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -515,9 +515,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:03:44.5588567+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:04:33.8693964+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:59:05.5144464+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:03:44.5589246+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:59:51.0558838+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:04:33.8694693+00:00"
 }

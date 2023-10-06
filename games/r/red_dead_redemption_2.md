@@ -1,7 +1,7 @@
 # Red Dead Redemption 2
 [Store](https://store.epicgames.com/en-US/p/red-dead-redemption-2)  
 [View Rawdata](../../db/r/red_dead_redemption_2.json)  
-Rating: 4.88 (Ranked 18)  
+Rating: 4.88 (Ranked 17)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 183,722  (Ranked 6)  

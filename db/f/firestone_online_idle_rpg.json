@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 948,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5976,9 +5976,9 @@
       "ID": "conqueror",
       "SetID": "3nl4bcg",
       "Name": "Conqueror",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "crystalmining",
@@ -6513,8 +6513,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-04T06:01:04.1921947+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:30.2500655+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:06:17.5901383+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:00:40.2337936+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:30.2501559+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:01:51.3875576+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:06:17.5902377+00:00"
 }

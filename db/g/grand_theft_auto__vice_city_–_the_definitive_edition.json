@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -748,9 +748,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 10537,
+  "EOS_Progressed": 10538,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11118,6 +11118,11 @@
       "Time": "2023-10-06T07:04:18.1325121+00:00",
       "NumProgressed": 10537,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-06T09:04:11.6000659+00:00",
+      "NumProgressed": 10538,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 34,
@@ -11177,7 +11182,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH08",
@@ -11185,7 +11190,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH09",
@@ -11297,7 +11302,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH23",
@@ -11400,7 +11405,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10537,
+      "Progressed": 10538,
       "Completed": 59
     }
   ],
@@ -11408,8 +11413,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-05T15:57:26.4712887+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:03:26.0361199+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:04:11.6000654+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:57:18.2558478+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:03:26.036186+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:57:36.8860085+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:04:11.6001483+00:00"
 }

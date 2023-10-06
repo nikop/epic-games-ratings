@@ -1631,10 +1631,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4781,
       "NumberOfAwardsMax": 566
+    },
+    {
+      "Time": "2023-10-06T09:03:15.2311801+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4782,
+      "NumberOfAwardsMax": 566
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4781,
+  "NumberOfAwards": 4782,
   "NumberOfAwardsMax": 566,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1642,7 +1648,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 528
+      "Count": 529
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1705,9 +1711,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 206268,
+  "EOS_Progressed": 206274,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 1389,
+  "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -20825,6 +20831,11 @@
       "Time": "2023-10-06T08:05:59.1979362+00:00",
       "NumProgressed": 206268,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-10-06T09:06:53.2866351+00:00",
+      "NumProgressed": 206274,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 44,
@@ -20876,7 +20887,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16501
+      "UsersEstimate": 16502
     },
     {
       "ID": "FiveShadows",
@@ -20908,7 +20919,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24752
+      "UsersEstimate": 24753
     },
     {
       "ID": "HappyLittleAccidents",
@@ -21012,7 +21023,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10313
+      "UsersEstimate": 10314
     },
     {
       "ID": "OldMan",
@@ -21026,9 +21037,9 @@
       "ID": "PraiseTheShogun",
       "SetID": "ak6bfk8",
       "Name": "Praise the Shogun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 413
     },
     {
       "ID": "Prisoners",
@@ -21036,7 +21047,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10313
+      "UsersEstimate": 10314
     },
     {
       "ID": "ReleaseTheKraken",
@@ -21052,7 +21063,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16501
+      "UsersEstimate": 16502
     },
     {
       "ID": "Rollin",
@@ -21060,7 +21071,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16501
+      "UsersEstimate": 16502
     },
     {
       "ID": "StillRollin",
@@ -21092,7 +21103,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16501
+      "UsersEstimate": 16502
     },
     {
       "ID": "TheCave",
@@ -21148,7 +21159,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10313
+      "UsersEstimate": 10314
     },
     {
       "ID": "Warzone",
@@ -21187,15 +21198,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 206268,
+      "Progressed": 206274,
       "Completed": 89
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-10-05T16:03:20.4946279+00:00",
-  "LastChanged_Achievements": "2023-10-06T08:05:59.1979356+00:00",
+  "LastChanged": "2023-10-06T09:03:15.2311798+00:00",
+  "LastChanged_Achievements": "2023-10-06T09:06:53.2866345+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:49.8939779+00:00",
-  "LastUpdate_Ratings": "2023-10-06T08:02:13.4961592+00:00",
-  "LastUpdate_Achievements": "2023-10-06T08:05:59.1980529+00:00"
+  "LastUpdate_Ratings": "2023-10-06T09:03:15.2311805+00:00",
+  "LastUpdate_Achievements": "2023-10-06T09:06:53.2867943+00:00"
 }

@@ -7,31 +7,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 0.80% | ~115 |
+| Play a Single Player Game | 0.80% | ~115 |
 | Explorer | 0.70% | ~101 |
-| Play a Single Player Game | 0.70% | ~101 |
+| Intrepid | 0.60% | ~86 |
 | Friendly Family | 0.60% | ~86 |
 | Good | 0.50% | ~72 |
-| Intrepid | 0.50% | ~72 |
 | Learned | 0.50% | ~72 |
+| Mason | 0.50% | ~72 |
 | Noble | 0.50% | ~72 |
+| Pioneer | 0.50% | ~72 |
 | Strong | 0.50% | ~72 |
 | Hanging Gardens | 0.50% | ~72 |
 | Kushite Paganism | 0.50% | ~72 |
 | Able | 0.40% | ~58 |
+| Ambitious | 0.40% | ~58 |
 | Architect | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
 | Just | 0.40% | ~58 |
-| Mason | 0.40% | ~58 |
-| Pioneer | 0.40% | ~58 |
 | Oracle | 0.40% | ~58 |
 | Judaism | 0.40% | ~58 |
 | Babylonian Paganism | 0.40% | ~58 |
 | Naming Landmarks | 0.40% | ~58 |
 | Trade Caravan | 0.40% | ~58 |
-| Ambitious | 0.30% | ~43 |
 | Brilliant | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
 | Fountainhead | 0.30% | ~43 |
+| Great | 0.30% | ~43 |
 | Keystone | 0.30% | ~43 |
 | Magnificent | 0.30% | ~43 |
 | Warrior | 0.30% | ~43 |
@@ -41,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.30% | ~43 |
 | Ishtar Gate | 0.30% | ~43 |
 | Lighthouse | 0.30% | ~43 |
+| Musaeum | 0.30% | ~43 |
 | Necropolis | 0.30% | ~43 |
 | Pyramids | 0.30% | ~43 |
 | Learn to Play 1 | 0.30% | ~43 |
@@ -53,17 +55,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.20% | ~29 |
 | Drillmaster | 0.20% | ~29 |
 | Conqueror | 0.20% | ~29 |
-| Great | 0.20% | ~29 |
 | Intercessor | 0.20% | ~29 |
 | Valiant | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
+| Champions | 0.20% | ~29 |
 | Furious Family | 0.20% | ~29 |
 | Acropolis | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
 | Mausoleum | 0.20% | ~29 |
-| Musaeum | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
 | Artisans | 0.10% | ~14 |
-| Champions | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
 | Hunters | 0.10% | ~14 |
 | Landowners | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,398 (Ranked 134)  
+Progressed: 14,400 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,398 | 5 |
+| 2023-10-06 | 14,400 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

@@ -5,7 +5,7 @@ Rating: 4.27 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,389 |
+| Corner Clout | 46.00% | ~159,391 |
 | Copacetic Coordination | 16.00% | ~55,440 |
 | Fronting the Money | 15.00% | ~51,975 |
 | The Dawn of Automation | 14.00% | ~48,510 |
@@ -59,34 +59,34 @@ Rating: 4.27 (Ranked 831)
 | Full House | 1.00% | ~3,465 |
 | The Rubber Meets the Road | 1.00% | ~3,465 |
 | Cat’s Meow Clubs | 1.00% | ~3,465 |
-| Determined Deliveries | 0.90% | ~3,118 |
-| Stepping It Up | 0.90% | ~3,118 |
+| Determined Deliveries | 0.90% | ~3,119 |
+| Stepping It Up | 0.90% | ~3,119 |
 | Boots in the Ground | 0.80% | ~2,772 |
 | Getting Fancy | 0.80% | ~2,772 |
 | Crossing Over | 0.80% | ~2,772 |
-| Social Butterfly | 0.50% | ~1,732 |
+| Social Butterfly | 0.50% | ~1,733 |
 | Homemade Hooch | 0.40% | ~1,386 |
 | Still Dreaming | 0.40% | ~1,386 |
 | High End Booze | 0.40% | ~1,386 |
 | Working on the Railroad | 0.40% | ~1,386 |
 | In-House Maintenance | 0.40% | ~1,386 |
-| Bottled Up | 0.30% | ~1,039 |
-| Streetwise | 0.30% | ~1,039 |
+| Bottled Up | 0.30% | ~1,040 |
+| Streetwise | 0.30% | ~1,040 |
 | Dirty Work | 0.20% | ~693 |
 | Balkan Firewater | 0.20% | ~693 |
-| Windy City Win | 0.10% | ~346 |
-| Steeling Victory | 0.10% | ~346 |
-| Queen of the City | 0.10% | ~346 |
-| Vehicles to Victory | 0.10% | ~346 |
-| Putting on the Ritz | 0.10% | ~346 |
-| Bourbon Barrels | 0.10% | ~346 |
-| Tied Houses | 0.10% | ~346 |
-| Laying Low | 0.10% | ~346 |
-| No Applesauce | 0.10% | ~346 |
-| High Pillow | 0.10% | ~346 |
-| Station Master | 0.10% | ~346 |
+| Windy City Win | 0.10% | ~347 |
+| Steeling Victory | 0.10% | ~347 |
+| Queen of the City | 0.10% | ~347 |
+| Vehicles to Victory | 0.10% | ~347 |
+| Putting on the Ritz | 0.10% | ~347 |
+| Bourbon Barrels | 0.10% | ~347 |
+| Tied Houses | 0.10% | ~347 |
+| Laying Low | 0.10% | ~347 |
+| No Applesauce | 0.10% | ~347 |
+| High Pillow | 0.10% | ~347 |
+| Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,497 (Ranked 43)  
+Progressed: 346,502 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-03 | 346,178 | 7 |
 | 2023-10-04 | 346,309 | 7 |
 | 2023-10-05 | 346,451 | 7 |
-| 2023-10-06 | 346,497 | 7 |
+| 2023-10-06 | 346,502 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 446)  
 Sum: 175 (Ranked 393)  
