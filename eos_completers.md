@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.55% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.48% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
+| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 33.33% |
@@ -27,7 +27,7 @@
 | 25 | [Anna's Quest](games/a/anna's_quest.md) | 12.00% |
 | 25 | [Remains](games/r/remains.md) | 12.00% |
 | 27 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 29 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 30 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.29% |
@@ -66,10 +66,10 @@
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.91% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.71% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -175,8 +175,8 @@
 | 170 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 170 | [Them and Us](games/t/them_and_us.md) | 0.46% |
+| 176 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.44% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
-| 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.42% |
 | 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 178 | [Train Valley](games/t/train_valley.md) | 0.40% |
 | 180 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
@@ -245,13 +245,13 @@
 | 242 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 242 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 242 | [Supraland](games/s/supraland.md) | 0.10% |
-| 246 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 246 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 246 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 246 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 246 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 246 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.09% |
-| 246 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 242 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.10% |
+| 247 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 247 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 247 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 247 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 247 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 247 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 253 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 254 | [Black Book](games/b/black_book.md) | 0.07% |
 | 254 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
@@ -652,4 +652,4 @@
 | 306 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 306 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 306 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,354 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,355 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
