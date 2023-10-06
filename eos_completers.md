@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.48% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.42% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -34,7 +34,7 @@
 | 32 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.09% |
 | 33 | [Smelter](games/s/smelter.md) | 10.00% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
+| 35 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
 | 36 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 37 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 38 | [Sonic Origins](games/s/sonic_origins.md) | 7.89% |
@@ -65,7 +65,7 @@
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
@@ -106,7 +106,7 @@
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 106 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
-| 106 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.92% |
+| 107 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.89% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
@@ -178,8 +178,8 @@
 | 176 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.44% |
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 178 | [Train Valley](games/t/train_valley.md) | 0.40% |
-| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
+| 179 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
+| 179 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 181 | [Dead Space](games/d/dead_space.md) | 0.38% |
 | 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
