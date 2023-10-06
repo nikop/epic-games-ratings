@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 67.00% | ~4 |
-| Jung's dream | 50.00% | ~3 |
-| Giant | 50.00% | ~3 |
-| The happy farmer girl | 50.00% | ~3 |
-| Master trainee | 33.00% | ~2 |
-| The artist | 33.00% | ~2 |
-| The battle of Great Britain | 33.00% | ~2 |
-| Pulp! Out of this World | 33.00% | ~2 |
-| A continent with chemistry | 33.00% | ~2 |
-| Kirlian's best disciple | 33.00% | ~2 |
-| Diagnosis: fear | 33.00% | ~2 |
-| Ambition is... blind | 33.00% | ~2 |
-| You have two wishes left | 33.00% | ~2 |
-| You had one wish left | 17.00% | ~1 |
-| A rival with no options | 17.00% | ~1 |
-| The seer | 17.00% | ~1 |
-| Pulp! Terror Tales in the Night | 17.00% | ~1 |
-| Pulp! Where Monsters Dwell | 17.00% | ~1 |
-| Pulp! Adventures into the Unknown | 17.00% | ~1 |
-| The barbarian invasions | 17.00% | ~1 |
+| You have three wishes left | 71.00% | ~5 |
+| Master trainee | 43.00% | ~3 |
+| Jung's dream | 43.00% | ~3 |
+| Giant | 43.00% | ~3 |
+| The happy farmer girl | 43.00% | ~3 |
+| The artist | 29.00% | ~2 |
+| The battle of Great Britain | 29.00% | ~2 |
+| Pulp! Out of this World | 29.00% | ~2 |
+| A continent with chemistry | 29.00% | ~2 |
+| Kirlian's best disciple | 29.00% | ~2 |
+| Diagnosis: fear | 29.00% | ~2 |
+| Ambition is... blind | 29.00% | ~2 |
+| You have two wishes left | 29.00% | ~2 |
+| You had one wish left | 14.00% | ~1 |
+| A rival with no options | 14.00% | ~1 |
+| The seer | 14.00% | ~1 |
+| Pulp! Terror Tales in the Night | 14.00% | ~1 |
+| Pulp! Where Monsters Dwell | 14.00% | ~1 |
+| Pulp! Adventures into the Unknown | 14.00% | ~1 |
+| The barbarian invasions | 14.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -52,7 +52,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 539)  
+Progressed: 7 (Ranked 533)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,3 +60,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-21 | 1 | 0 |
 | 2023-09-27 | 3 | 0 |
 | 2023-10-04 | 6 | 0 |
+| 2023-10-06 | 7 | 0 |

@@ -6,26 +6,26 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~950,780 |
-| I Need a Bigger Garage | 63.00% | ~665,546 |
-| Pump my Ride | 47.00% | ~496,518 |
-| Ghostbuster | 33.00% | ~348,619 |
-| Call Roadside Assistance | 18.00% | ~190,156 |
-| That Was Close | 18.00% | ~190,156 |
-| Quickie | 11.00% | ~116,206 |
+| The First of Many | 90.00% | ~950,788 |
+| I Need a Bigger Garage | 63.00% | ~665,552 |
+| Pump my Ride | 47.00% | ~496,523 |
+| Ghostbuster | 33.00% | ~348,622 |
+| Call Roadside Assistance | 18.00% | ~190,158 |
+| That Was Close | 18.00% | ~190,158 |
+| Quickie | 11.00% | ~116,207 |
 | California Dreamer | 7.00% | ~73,950 |
-| Can't Touch This | 5.00% | ~52,821 |
+| Can't Touch This | 5.00% | ~52,822 |
 | Carménère Taster | 4.00% | ~42,257 |
 | Comeback | 4.00% | ~42,257 |
 | Driver from Ipanema | 3.00% | ~31,693 |
 | Supersonic | 3.00% | ~31,693 |
 | Marathonist | 3.00% | ~31,693 |
 | Living Legend | 3.00% | ~31,693 |
-| God of Roads | 2.00% | ~21,128 |
-| Pathfinder | 2.00% | ~21,128 |
-| Go-Kart Champion | 2.00% | ~21,128 |
-| Completionist | 2.00% | ~21,128 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,128 |
+| God of Roads | 2.00% | ~21,129 |
+| Pathfinder | 2.00% | ~21,129 |
+| Go-Kart Champion | 2.00% | ~21,129 |
+| Completionist | 2.00% | ~21,129 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,129 |
 | The Iceman | 1.00% | ~10,564 |
 | Bollywood Star | 1.00% | ~10,564 |
 | Oil Tycoon | 1.00% | ~10,564 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,056 |
 | Look Mom, No Hands! | 0.10% | ~1,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,422 (Ranked 13)  
+Progressed: 1,056,431 (Ranked 13)  
 Completed: 446 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 446 (0.04%) (Ranked 270)
 | 2023-10-03 | 1,055,396 | 445 |
 | 2023-10-04 | 1,055,836 | 445 |
 | 2023-10-05 | 1,056,317 | 446 |
-| 2023-10-06 | 1,056,422 | 446 |
+| 2023-10-06 | 1,056,431 | 446 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 304)  
 Sum: 1,302 (Ranked 231)  

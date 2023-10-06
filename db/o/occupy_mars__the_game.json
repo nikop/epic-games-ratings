@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 961,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1648,
+  "EOS_Progressed": 1649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3872,6 +3872,11 @@
       "Time": "2023-10-05T13:17:56.7309453+00:00",
       "NumProgressed": 1648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T06:06:08.6626839+00:00",
+      "NumProgressed": 1649,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3963,7 +3968,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4059,7 +4064,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4075,7 +4080,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4137,9 +4142,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 692
+      "UsersEstimate": 676
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4243,7 +4248,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4266,7 +4271,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1648,
+      "Progressed": 1649,
       "Completed": 0
     }
   ],
@@ -4274,8 +4279,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-04T19:58:33.1072348+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:05:58.1396119+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:06:08.6626833+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:22.9222125+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:58:31.9441047+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:05:58.1396621+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:58:49.3940584+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:06:08.6627638+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~409 |
-| Off to a good start | 67.00% | ~304 |
-| Do... or do not. There is no try | 52.00% | ~236 |
-| A good blaster at your side | 34.00% | ~154 |
+| New Recruit | 90.00% | ~410 |
+| Off to a good start | 67.00% | ~305 |
+| Do... or do not. There is no try | 52.00% | ~237 |
+| A good blaster at your side | 34.00% | ~155 |
 | Scrap collector | 22.00% | ~100 |
 | Great shot, kid! | 20.00% | ~91 |
 | All right, I'll give it a try | 19.00% | ~86 |
 | I suggest a new strategy | 19.00% | ~86 |
+| The power of the Force | 18.00% | ~82 |
 | Shoot first | 18.00% | ~82 |
-| The power of the Force | 17.00% | ~77 |
 | Together we can rule the galaxy | 17.00% | ~77 |
 | Collector | 16.00% | ~73 |
 | Survivor | 13.00% | ~59 |
-| Tell Jabba that I've got his money | 12.00% | ~54 |
-| Best star-pilot in the galaxy | 12.00% | ~54 |
+| Tell Jabba that I've got his money | 12.00% | ~55 |
+| Best star-pilot in the galaxy | 12.00% | ~55 |
 | Impressive. Most impressive. | 11.00% | ~50 |
 | A cunning warrior | 11.00% | ~50 |
-| What's the cargo? | 10.00% | ~45 |
-| Never tell me the odds! | 10.00% | ~45 |
-| Judge me by my size, do you? | 10.00% | ~45 |
+| What's the cargo? | 10.00% | ~46 |
+| Never tell me the odds! | 10.00% | ~46 |
+| Judge me by my size, do you? | 10.00% | ~46 |
 | "Gonk? Gonk!" | 9.00% | ~41 |
 | A tremor in the Force | 9.00% | ~41 |
 | Distinguished | 8.00% | ~36 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~1 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454 (Ranked 278)  
+Progressed: 455 (Ranked 278)  
 Completed: 1 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.22%) (Ranked 212)
 | 2023-10-03 | 413 | 1 |
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
-| 2023-10-06 | 454 | 1 |
+| 2023-10-06 | 455 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

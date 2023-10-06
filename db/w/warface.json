@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 653,
@@ -3649,10 +3649,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 3293,
       "NumberOfAwardsMax": 426
+    },
+    {
+      "Time": "2023-10-06T05:59:37.1166457+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3294,
+      "NumberOfAwardsMax": 426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3293,
+  "NumberOfAwards": 3294,
   "NumberOfAwardsMax": 426,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3708,7 +3714,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3734,8 +3740,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-10-05T14:00:09.1704364+00:00",
+  "LastChanged": "2023-10-06T05:59:37.1166456+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.0684773+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:59:17.9442781+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:03:27.9185764+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:59:37.1166463+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:03:18.4992896+00:00"
 }

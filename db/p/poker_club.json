@@ -2,7 +2,7 @@
   "ID": "a0149619255648e8af0993a17ef4ee8e",
   "Name": "Poker Club",
   "ProductSlug": "poker-club-6e18ee",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 993,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 33,
@@ -784,9 +784,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 528899,
+  "EOS_Progressed": 528901,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1681,
+  "EOS_NewPlayers": 1670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19639,6 +19639,11 @@
       "Time": "2023-10-06T05:06:02.3264759+00:00",
       "NumProgressed": 528899,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T06:06:12.8664737+00:00",
+      "NumProgressed": 528901,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -19730,7 +19735,7 @@
       "Name": "Club Legend",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "Clubman",
@@ -19898,7 +19903,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 401963
+      "UsersEstimate": 401965
     },
     {
       "ID": "ProPlayer",
@@ -20009,7 +20014,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 528899,
+      "Progressed": 528901,
       "Completed": 2
     }
   ],
@@ -20017,8 +20022,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-05T13:10:01.1177584+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:06:02.3264755+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:06:12.8664732+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.6055511+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:58:17.531614+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:06:02.3265901+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:58:35.6678242+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:06:12.8666329+00:00"
 }

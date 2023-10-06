@@ -1,11 +1,11 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.82 (Ranked 992)  
+Rating: 3.82 (Ranked 993)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~401,963 |
+| Pro Creation | 76.00% | ~401,965 |
 | Handy | 41.00% | ~216,849 |
 | Cold Caller | 39.00% | ~206,271 |
 | A Bit On The Side | 26.00% | ~137,514 |
@@ -37,7 +37,7 @@ Rating: 3.82 (Ranked 992)
 | Holding Your Own | 1.00% | ~5,289 |
 | Regular Punter | 0.70% | ~3,702 |
 | How I Roll | 0.60% | ~3,173 |
-| Club Legend | 0.50% | ~2,644 |
+| Club Legend | 0.50% | ~2,645 |
 | Bring It On | 0.20% | ~1,058 |
 | Dress To Impress | 0.20% | ~1,058 |
 | Bounty Hunter | 0.10% | ~529 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 992)
 | Rounder | 0.10% | ~529 |
 | Top Dog | 0.10% | ~529 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,899 (Ranked 33)  
+Progressed: 528,901 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-03 | 528,427 | 2 |
 | 2023-10-04 | 528,608 | 2 |
 | 2023-10-05 | 528,850 | 2 |
-| 2023-10-06 | 528,899 | 2 |
+| 2023-10-06 | 528,901 | 2 |
 ## Awards
 Max (Great for Beginners): 47  (Ranked 419)  
 Sum: 123 (Ranked 413)  

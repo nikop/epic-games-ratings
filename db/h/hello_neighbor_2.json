@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -408,9 +408,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2919,
+  "EOS_Progressed": 2920,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
@@ -3503,6 +3503,11 @@
       "Time": "2023-10-05T23:05:35.7766348+00:00",
       "NumProgressed": 2919,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-10-06T06:06:22.1029776+00:00",
+      "NumProgressed": 2920,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 14,
@@ -3554,7 +3559,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3562,7 +3567,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3625,7 +3630,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2919,
+      "Progressed": 2920,
       "Completed": 119
     }
   ],
@@ -3633,8 +3638,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-17T11:03:57.624996+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:06:11.7773959+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:06:22.1029767+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:44.8893578+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:59:07.0853326+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:06:11.777419+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:59:24.2232305+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:06:22.1030107+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2023-10-05T20:04:06.8897145+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T06:04:29.6790505+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -96,7 +101,7 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 57,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -120,7 +125,7 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 71,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -200,7 +205,7 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 71,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -216,7 +221,7 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 29,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -265,13 +270,13 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:04:19.4054263+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:04:29.6790498+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:00:38.6210055+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:04:19.4054408+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:00:58.774941+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:04:29.6790694+00:00"
 }

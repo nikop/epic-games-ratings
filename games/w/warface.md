@@ -1,11 +1,11 @@
 # Warface
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
-Rating: 3.91 (Ranked 983)  
+Rating: 3.91 (Ranked 984)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 426  (Ranked 215)  
-Sum: 3,293 (Ranked 159)  
+Sum: 3,294 (Ranked 159)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 355 |
 | This game has Amazing Characters | 347 |
 | This game is Extremely Fun | 339 |
-| This game has a Competitive Community | 296 |
+| This game has a Competitive Community | 297 |
 | This game is Great for Quick Sessions | 277 |
 | This game is Great for Beginners | 146 |
 ## Ratings History
@@ -246,3 +246,4 @@ Diff (max vs sum): 56
 | 2023-09-24 | 3.91 | - | 417 | 2,925 |
 | 2023-09-25 | 3.91 | - | 417 | 2,927 |
 | 2023-10-05 | 3.91 | - | 426 | 3,293 |
+| 2023-10-06 | 3.91 | - | 426 | 3,294 |

@@ -1791,9 +1791,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14395,
+  "EOS_Progressed": 14397,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13071,6 +13071,11 @@
       "Time": "2023-10-06T05:09:29.4739688+00:00",
       "NumProgressed": 14395,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T06:08:18.9998955+00:00",
+      "NumProgressed": 14397,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13648,9 +13653,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -13712,9 +13717,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -15800,9 +15805,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
       "SetID": "9201eeb",
       "Name": "Kushite Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -15817,21 +15822,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14395,
+      "Progressed": 14397,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14395,
+      "Progressed": 14397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:09:29.4739684+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:08:18.9998949+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:00:03.8931622+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:09:29.4749577+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:00:23.4552342+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:08:19.0013292+00:00"
 }

@@ -10991,9 +10991,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 921284,
+  "EOS_Progressed": 921323,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13597,
+  "EOS_NewPlayers": 13588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30116,6 +30116,11 @@
       "Time": "2023-10-06T05:05:38.1830634+00:00",
       "NumProgressed": 921284,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T06:05:48.9819488+00:00",
+      "NumProgressed": 921323,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30295,7 +30300,7 @@
       "Name": "Zealous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "ACH_023",
@@ -30303,7 +30308,7 @@
       "Name": "It wakes",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "ACH_024",
@@ -31125,9 +31130,9 @@
       "ID": "ACH_129",
       "SetID": "16jml5b",
       "Name": "First to the Punch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 921
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_130",
@@ -31533,9 +31538,9 @@
       "ID": "ACH_180",
       "SetID": "16jml5b",
       "Name": "Humanitarian",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1843
+      "UsersEstimate": 2764
     },
     {
       "ID": "ACH_181",
@@ -31958,21 +31963,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 921284,
+      "Progressed": 921323,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 921284,
+      "Progressed": 921323,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-06T02:59:42.6750255+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:05:38.1830631+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:05:48.9819481+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:58:57.0920567+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:05:38.1836287+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:59:15.0989565+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:05:48.9828511+00:00"
 }

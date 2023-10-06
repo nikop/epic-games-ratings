@@ -1,32 +1,32 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.13 (Ranked 924)  
+Rating: 4.13 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 36.00% | ~82,667 |
-| May the Torchbearer light our way | 34.00% | ~78,074 |
-| A powerful aura was here | 21.00% | ~48,222 |
-| Let's raise the stakes!! | 9.00% | ~20,667 |
-| Rumors are true | 4.00% | ~9,185 |
-| Pride is a sin, young Knight | 4.00% | ~9,185 |
-| Your wounds… They are healing so fast! | 4.00% | ~9,185 |
-| Bring it on! | 4.00% | ~9,185 |
-| We'll be careful | 3.00% | ~6,889 |
-| Back to your senses | 2.00% | ~4,593 |
-| They tricked me | 1.00% | ~2,296 |
-| We need to talk | 1.00% | ~2,296 |
-| They won't last long | 1.00% | ~2,296 |
-| I took a risk | 0.90% | ~2,067 |
-| I feel drawn to it | 0.70% | ~1,607 |
-| Their fate is sealed | 0.60% | ~1,378 |
-| Here to stay | 0.50% | ~1,148 |
-| Counting on you | 0.40% | ~919 |
-| This is the end | 0.40% | ~919 |
-| We can choose to fight | 0.40% | ~919 |
-| You want more? I've got more! | 0.40% | ~919 |
-| Not even from this world | 0.20% | ~459 |
+| The touch of Chaos | 36.00% | ~82,794 |
+| May the Torchbearer light our way | 34.00% | ~78,195 |
+| A powerful aura was here | 21.00% | ~48,297 |
+| Let's raise the stakes!! | 9.00% | ~20,699 |
+| Rumors are true | 4.00% | ~9,199 |
+| Pride is a sin, young Knight | 4.00% | ~9,199 |
+| Your wounds… They are healing so fast! | 4.00% | ~9,199 |
+| Bring it on! | 4.00% | ~9,199 |
+| We'll be careful | 3.00% | ~6,900 |
+| Back to your senses | 2.00% | ~4,600 |
+| They tricked me | 1.00% | ~2,300 |
+| We need to talk | 1.00% | ~2,300 |
+| They won't last long | 1.00% | ~2,300 |
+| I took a risk | 0.90% | ~2,070 |
+| I feel drawn to it | 0.70% | ~1,610 |
+| Their fate is sealed | 0.60% | ~1,380 |
+| Here to stay | 0.50% | ~1,150 |
+| Counting on you | 0.40% | ~920 |
+| This is the end | 0.40% | ~920 |
+| We can choose to fight | 0.40% | ~920 |
+| You want more? I've got more! | 0.40% | ~920 |
+| Not even from this world | 0.20% | ~460 |
 | No damsels in distress | 0.10% | ~230 |
 | The immortal is bound to reborn | 0.10% | ~230 |
 | A legend among Chimeras | 0.10% | ~230 |
@@ -46,7 +46,7 @@ Rating: 4.13 (Ranked 924)
 | We strike as one | 0.10% | ~230 |
 | Chaos be damned! | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,630 (Ranked 58)  
+Progressed: 229,984 (Ranked 58)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 189,727 | 0 |
 | 2023-10-04 | 207,599 | 1 |
 | 2023-10-05 | 227,187 | 1 |
-| 2023-10-06 | 229,630 | 1 |
+| 2023-10-06 | 229,984 | 1 |
 ## Awards
 Max (Character Customization): 31  (Ranked 468)  
 Sum: 31 (Ranked 487)  

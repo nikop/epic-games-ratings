@@ -420,9 +420,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248130,
+  "EOS_Progressed": 248131,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19215,6 +19215,11 @@
       "Time": "2023-10-06T05:09:25.6195548+00:00",
       "NumProgressed": 248130,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-06T06:08:15.5562965+00:00",
+      "NumProgressed": 248131,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19370,7 +19375,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69476
+      "UsersEstimate": 69477
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -19458,7 +19463,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -19546,7 +19551,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62032
+      "UsersEstimate": 62033
     },
     {
       "ID": "ACH_SOREAD",
@@ -19610,7 +19615,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     },
     {
       "ID": "ACH_WAKEUP",
@@ -19641,7 +19646,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248130,
+      "Progressed": 248131,
       "Completed": 7
     }
   ],
@@ -19649,8 +19654,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-29T20:57:59.9030549+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:09:25.6195545+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:08:15.5562959+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:31.2204076+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:58:09.740526+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:09:25.619678+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:58:27.7883541+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:08:15.5564626+00:00"
 }

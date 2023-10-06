@@ -1,24 +1,24 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 619)  
+Rating: 4.47 (Ranked 620)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,558 |
-| A normal day in Gloomhaven | 34.00% | ~3,604 |
-| Overkill | 33.00% | ~3,498 |
-| Vaccine Incoming | 32.00% | ~3,392 |
-| Spread the plague | 30.00% | ~3,180 |
-| Get over here! | 23.00% | ~2,438 |
-| Just when I thought I was out... | 18.00% | ~1,908 |
-| Mine... All Mine... | 17.00% | ~1,802 |
-| Light of my life | 15.00% | ~1,590 |
-| Anatomy Lesson | 15.00% | ~1,590 |
-| Precious! | 14.00% | ~1,484 |
-| You activated my trap card! | 13.00% | ~1,378 |
-| Augmented rat | 13.00% | ~1,378 |
+| I'm not dead yet | 43.00% | ~4,560 |
+| A normal day in Gloomhaven | 34.00% | ~3,605 |
+| Overkill | 33.00% | ~3,499 |
+| Vaccine Incoming | 32.00% | ~3,393 |
+| Spread the plague | 30.00% | ~3,181 |
+| Get over here! | 23.00% | ~2,439 |
+| Just when I thought I was out... | 19.00% | ~2,015 |
+| Mine... All Mine... | 17.00% | ~1,803 |
+| Light of my life | 15.00% | ~1,591 |
+| Anatomy Lesson | 15.00% | ~1,591 |
+| Precious! | 14.00% | ~1,485 |
+| You activated my trap card! | 13.00% | ~1,379 |
+| Augmented rat | 13.00% | ~1,379 |
 | Grizzled veteran | 12.00% | ~1,272 |
 | Obstacle race | 12.00% | ~1,272 |
 | Doom and gloom | 12.00% | ~1,272 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~11 |
 | Murder Death Kill | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,599 (Ranked 142)  
+Progressed: 10,604 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,15 +91,15 @@ Completed: 1 (0.01%) (Ranked 288)
 | 2023-10-03 | 9,970 | 1 |
 | 2023-10-04 | 10,247 | 1 |
 | 2023-10-05 | 10,531 | 1 |
-| 2023-10-06 | 10,599 | 1 |
+| 2023-10-06 | 10,604 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
-Sum: 8,261 (Ranked 98)  
+Sum: 8,263 (Ranked 98)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,543 |
-| This game has Diverse Characters | 585 |
+| This game has Diverse Characters | 587 |
 | This game has Challenging Combat | 543 |
 | This game is Highly Recommended | 541 |
 | This game is Extremely Fun | 532 |
@@ -295,3 +295,4 @@ Diff (max vs sum): -9
 | 2023-10-03 | 4.47 | - | 3,543 | 8,257 |
 | 2023-10-04 | 4.47 | - | 3,543 | 8,258 |
 | 2023-10-05 | 4.47 | - | 3,543 | 8,261 |
+| 2023-10-06 | 4.47 | - | 3,543 | 8,263 |

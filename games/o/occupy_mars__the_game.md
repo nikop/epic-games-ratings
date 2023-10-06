@@ -1,18 +1,18 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.00 (Ranked 961)  
+Rating: 4.00 (Ranked 962)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 42.00% | ~692 |
-| Electrician | 34.00% | ~560 |
+| I don't feel so good | 41.00% | ~676 |
+| Electrician | 34.00% | ~561 |
 | Fear my botany powers, Mars | 33.00% | ~544 |
-| Zero Waste | 30.00% | ~494 |
-| Bob The Builder | 30.00% | ~494 |
+| Zero Waste | 30.00% | ~495 |
+| Bob The Builder | 30.00% | ~495 |
 | I am the greatest botanist on this planet. | 29.00% | ~478 |
 | Occupy Mars! | 27.00% | ~445 |
-| Gardener | 26.00% | ~428 |
+| Gardener | 26.00% | ~429 |
 | Miner | 25.00% | ~412 |
 | Houston we have a problem | 22.00% | ~363 |
 | Detective | 19.00% | ~313 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 961)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,648 (Ranked 210)  
+Progressed: 1,649 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 1,645 | 0 |
 | 2023-10-04 | 1,647 | 0 |
 | 2023-10-05 | 1,648 | 0 |
+| 2023-10-06 | 1,649 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

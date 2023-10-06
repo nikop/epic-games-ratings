@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2846,6 +2846,11 @@
       "Time": "2023-10-06T01:51:36.0845579+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T06:08:22.9713045+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2873,7 +2878,7 @@
       "Name": "Basic Controls",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "BigPlane",
@@ -2889,7 +2894,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Calculated",
@@ -2985,7 +2990,7 @@
       "Name": "Lack of Time",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LargeAirport",
@@ -3129,7 +3134,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Restructuring",
@@ -3192,14 +3197,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:09:33.798552+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:08:22.971304+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:59:56.7852522+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:09:33.7985931+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:00:15.1606318+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:08:22.9713653+00:00"
 }

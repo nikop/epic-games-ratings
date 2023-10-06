@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.03 (Ranked 958)  
+Rating: 4.03 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.03 (Ranked 958)
 | Enlisted | 87.00% | ~58 |
 | Maybe Engage a Little | 85.00% | ~57 |
 | No More Names | 72.00% | ~48 |
-| Initiate | 63.00% | ~42 |
+| Initiate | 64.00% | ~43 |
 | Thrada-Kul | 61.00% | ~41 |
 | Gravity-Challenged Rocks | 49.00% | ~33 |
 | Soldier | 42.00% | ~28 |

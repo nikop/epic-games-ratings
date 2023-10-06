@@ -12,22 +12,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.60% | ~86 |
 | Intrepid | 0.50% | ~72 |
 | Learned | 0.50% | ~72 |
+| Noble | 0.50% | ~72 |
+| Strong | 0.50% | ~72 |
 | Hanging Gardens | 0.50% | ~72 |
+| Kushite Paganism | 0.50% | ~72 |
 | Able | 0.40% | ~58 |
 | Architect | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
 | Good | 0.40% | ~58 |
 | Just | 0.40% | ~58 |
 | Mason | 0.40% | ~58 |
-| Noble | 0.40% | ~58 |
 | Pioneer | 0.40% | ~58 |
-| Strong | 0.40% | ~58 |
 | Oracle | 0.40% | ~58 |
 | Judaism | 0.40% | ~58 |
 | Babylonian Paganism | 0.40% | ~58 |
 | Naming Landmarks | 0.40% | ~58 |
 | Trade Caravan | 0.40% | ~58 |
-| Kushite Paganism | 0.40% | ~58 |
 | Ambitious | 0.30% | ~43 |
 | Brilliant | 0.30% | ~43 |
 | Enlightened | 0.30% | ~43 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,395 (Ranked 134)  
+Progressed: 14,397 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,395 | 5 |
+| 2023-10-06 | 14,397 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

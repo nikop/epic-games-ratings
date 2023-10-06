@@ -7445,9 +7445,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach069",
@@ -7492,8 +7492,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:04:28.1123262+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:04:38.2227223+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:57:14.7578934+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:04:28.1124147+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:57:35.4320275+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:04:38.2228477+00:00"
 }

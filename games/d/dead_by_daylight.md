@@ -6,8 +6,8 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.50% | ~4,606 |
-| It wakes | 0.50% | ~4,606 |
+| Zealous | 0.50% | ~4,607 |
+| It wakes | 0.50% | ~4,607 |
 | Not half bad | 0.40% | ~3,685 |
 | Apt Survivor | 0.40% | ~3,685 |
 | Survival Treasures | 0.40% | ~3,685 |
@@ -24,6 +24,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.30% | ~2,764 |
 | Resurgence | 0.30% | ~2,764 |
 | Preemptive Strike | 0.30% | ~2,764 |
+| Humanitarian | 0.30% | ~2,764 |
 | Agonizing Escape | 0.20% | ~1,843 |
 | Backdoor Escape | 0.20% | ~1,843 |
 | I've got your back | 0.20% | ~1,843 |
@@ -36,8 +37,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.20% | ~1,843 |
 | Engineer | 0.20% | ~1,843 |
 | Wounded Healer | 0.20% | ~1,843 |
+| First to the Punch | 0.20% | ~1,843 |
 | Close Shave | 0.20% | ~1,843 |
-| Humanitarian | 0.20% | ~1,843 |
 | With Scars to Show | 0.20% | ~1,843 |
 | Second Act | 0.20% | ~1,843 |
 | A bite for the Entity | 0.10% | ~921 |
@@ -139,7 +140,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Left For Dead | 0.10% | ~921 |
 | Adept Bill | 0.10% | ~921 |
 | Denied! | 0.10% | ~921 |
-| First to the Punch | 0.10% | ~921 |
 | Tools of the Trade | 0.10% | ~921 |
 | Operation: Survival | 0.10% | ~921 |
 | Expert Generalist | 0.10% | ~921 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,284 (Ranked 14)  
+Progressed: 921,323 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,284 | 49 |
+| 2023-10-06 | 921,323 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,673 (Ranked 13)  

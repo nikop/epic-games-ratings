@@ -3044,9 +3044,9 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16816,
+  "EOS_Progressed": 16817,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11549,6 +11549,11 @@
       "Time": "2023-10-06T04:05:55.5704306+00:00",
       "NumProgressed": 16816,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-06T06:05:28.1792648+00:00",
+      "NumProgressed": 16817,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11560,7 +11565,7 @@
       "Name": "Serving Ale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "AllFood",
@@ -11664,7 +11669,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearArmory",
@@ -11672,7 +11677,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearBandit",
@@ -11744,7 +11749,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearLevitating",
@@ -11752,7 +11757,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearMines",
@@ -11760,7 +11765,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearMonastery",
@@ -11768,7 +11773,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearOutpost",
@@ -11808,7 +11813,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinNearWatchtower",
@@ -11832,7 +11837,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinOnMarshlands",
@@ -11920,7 +11925,7 @@
       "Name": "Like a Machine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -11944,7 +11949,7 @@
       "Name": "Defying the Crown",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Year1Dangerous",
@@ -11959,15 +11964,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16816,
+      "Progressed": 16817,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-06T03:01:01.009308+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:05:17.8987117+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:05:28.1792642+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.2002266+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:59:49.9629839+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:05:17.8987863+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:00:07.8961373+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:05:28.1793655+00:00"
 }

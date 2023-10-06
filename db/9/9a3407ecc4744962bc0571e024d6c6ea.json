@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1596,6 +1596,11 @@
       "Time": "2023-10-06T04:04:55.4100175+00:00",
       "NumProgressed": 715,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T06:04:42.2485343+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1616,7 +1621,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "BoxingClever",
@@ -1656,7 +1661,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -1712,7 +1717,7 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "Relic",
@@ -1760,21 +1765,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:04:32.1422223+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:04:42.2485336+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:58:46.3983134+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:04:32.1422401+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:59:04.1804242+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:04:42.2485628+00:00"
 }

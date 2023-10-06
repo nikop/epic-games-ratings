@@ -918,9 +918,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -1061,8 +1061,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-06T05:04:30.1051442+00:00",
+  "LastChanged_Achievements": "2023-10-06T06:04:40.2648129+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-06T05:00:20.7529524+00:00",
-  "LastUpdate_Achievements": "2023-10-06T05:04:30.1052285+00:00"
+  "LastUpdate_Ratings": "2023-10-06T06:00:39.7242518+00:00",
+  "LastUpdate_Achievements": "2023-10-06T06:04:40.2649426+00:00"
 }

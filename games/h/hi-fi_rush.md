@@ -48,7 +48,7 @@ Rating: 4.85 (Ranked 42)
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
 | You ever parry a volcano? | 0.90% | ~37 |
-| New bad guys? No problem! | 0.80% | ~21 |
+| New bad guys? No problem! | 0.90% | ~24 |
 | OK, well THEY came after ME! | 0.70% | ~29 |
 | Choose your own adventure | 0.60% | ~16 |
 | Easy Listening | 0.50% | ~21 |

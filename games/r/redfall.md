@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.54 (Ranked 1,008)  
+Rating: 3.54 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,11 +26,11 @@ Rating: 3.54 (Ranked 1,008)
 | From the Shadows | 0.60% | ~11 |
 | Bad Wiring | 0.50% | ~9 |
 | Sic Transit Umbra | 0.50% | ~9 |
+| Helping Hand | 0.50% | ~9 |
 | Bell-ringer | 0.40% | ~7 |
 | Good Morning | 0.40% | ~7 |
 | Right This Way | 0.40% | ~7 |
 | Harvest’s End | 0.40% | ~7 |
-| Helping Hand | 0.40% | ~7 |
 | Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
