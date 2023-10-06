@@ -487,6 +487,7 @@
 | [Apotheorasis • Lab of the Blind Gods](../games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 22 | 1,000 |
 | [Asterix and Obelix Heroes](../games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 22 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
+| [Contraption Maker](../games/f/fafd1bf30a1e489e819444377e309999.md) | 22 | 1,000 |
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Death Crown](../games/3/36c80652a9de4ac28ab9f990034dc847.md) | 22 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
