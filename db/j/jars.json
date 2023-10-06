@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -273,9 +273,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -417,9 +417,9 @@
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:05:30.4012665+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:04:58.6488343+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.405433+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:53.0894657+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:05:30.4012804+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:46.0583617+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:04:58.6488483+00:00"
 }

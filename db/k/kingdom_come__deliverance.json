@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -7692,9 +7692,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 803775,
+  "EOS_Progressed": 803777,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26507,6 +26507,11 @@
       "Time": "2023-10-06T04:04:53.4906866+00:00",
       "NumProgressed": 803775,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T05:04:30.8050612+00:00",
+      "NumProgressed": 803777,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26598,7 +26603,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257208
+      "UsersEstimate": 257209
     },
     {
       "ID": "Bookworm",
@@ -26606,7 +26611,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120566
+      "UsersEstimate": 120567
     },
     {
       "ID": "Buddy",
@@ -26622,7 +26627,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48226
+      "UsersEstimate": 48227
     },
     {
       "ID": "Cavalier",
@@ -26718,7 +26723,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184868
+      "UsersEstimate": 184869
     },
     {
       "ID": "Fighter",
@@ -26734,7 +26739,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120566
+      "UsersEstimate": 120567
     },
     {
       "ID": "Freud",
@@ -27173,15 +27178,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 803775,
+      "Progressed": 803777,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-06T01:40:36.4718788+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:04:53.4906861+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:04:30.8050609+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:20.9607732+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:58:20.953394+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:04:53.4908426+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:57:57.5467632+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:04:30.8052252+00:00"
 }

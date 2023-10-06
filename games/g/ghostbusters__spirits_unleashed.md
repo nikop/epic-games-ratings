@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 573)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,230 (Ranked 116)  
+Progressed: 26,231 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,17 +226,17 @@ Completed: 58 (0.22%) (Ranked 212)
 | 2023-10-03 | 26,189 | 58 |
 | 2023-10-04 | 26,208 | 58 |
 | 2023-10-05 | 26,225 | 58 |
-| 2023-10-06 | 26,230 | 58 |
+| 2023-10-06 | 26,231 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
-Sum: 2,365 (Ranked 188)  
+Sum: 2,366 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 260 |
 | This game is Great for Beginners | 258 |
+| This game has Competitive Players | 239 |
 | This game has Amazing Storytelling | 238 |
-| This game has Competitive Players | 238 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 233 |
 | This game is Highly Recommended | 231 |
@@ -421,3 +421,4 @@ Diff (max vs sum): 68
 | 2023-10-03 | 4.50 | 259 | 2,362 |
 | 2023-10-04 | 4.50 | 259 | 2,363 |
 | 2023-10-05 | 4.50 | 260 | 2,365 |
+| 2023-10-06 | 4.50 | 260 | 2,366 |

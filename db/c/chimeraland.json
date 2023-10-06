@@ -3,8 +3,8 @@
   "Name": "Chimeraland",
   "ProductSlug": "chimeraland",
   "Ranking_Rating": 985,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 495,
+  "Ranking_Popularity": 483,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 396,
@@ -416,6 +416,6 @@
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
   "LastChanged": "2023-09-22T18:58:00.9153263+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:44.7125281+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:01.2946247+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:04:37.929356+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:09.4272114+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:04:18.6789735+00:00"
 }

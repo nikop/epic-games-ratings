@@ -3,8 +3,8 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 335,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 120,
@@ -256,9 +256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230634,
+  "EOS_Progressed": 230636,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17756,6 +17756,11 @@
       "Time": "2023-10-06T04:05:11.6218194+00:00",
       "NumProgressed": 230634,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T05:04:44.5172231+00:00",
+      "NumProgressed": 230636,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17831,7 +17836,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83028
+      "UsersEstimate": 83029
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -17927,7 +17932,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50739
+      "UsersEstimate": 50740
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -17990,7 +17995,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230634,
+      "Progressed": 230636,
       "Completed": 5
     }
   ],
@@ -17998,8 +18003,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:05:11.6218189+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:04:44.5172228+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:27.3137039+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:05:11.6219131+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:26.0802678+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:04:44.5173251+00:00"
 }

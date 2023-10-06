@@ -234,14 +234,14 @@ Completed: 3 (0.00%) (Ranked 306)
 | 2023-10-06 | 256,977 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 423)  
-Sum: 282 (Ranked 353)  
-Diff (max vs sum): 70  
+Sum: 285 (Ranked 352)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 45 |
-| This game has Unique Visuals | 35 |
+| This game has Unique Visuals | 36 |
+| This game has Challenging Combat | 34 |
 | This game has Amazing Characters | 32 |
-| This game has Challenging Combat | 32 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Storytelling | 32 |
 | This game has a Competitive Community | 27 |
@@ -391,3 +391,4 @@ Diff (max vs sum): 70
 | 2023-10-02 | 4.40 | 43 | 278 |
 | 2023-10-04 | 4.40 | 43 | 279 |
 | 2023-10-05 | 4.40 | 45 | 282 |
+| 2023-10-06 | 4.40 | 45 | 285 |

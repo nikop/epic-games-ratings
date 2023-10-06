@@ -2,7 +2,7 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 23,
@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 670510,
+  "EOS_Progressed": 670515,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1861,
+  "EOS_NewPlayers": 1856,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21189,6 +21189,11 @@
       "Time": "2023-10-06T04:06:55.4491537+00:00",
       "NumProgressed": 670510,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-06T05:06:03.1186393+00:00",
+      "NumProgressed": 670515,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21200,7 +21205,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 536408
+      "UsersEstimate": 536412
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21280,7 +21285,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26820
+      "UsersEstimate": 26821
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -21288,7 +21293,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241384
+      "UsersEstimate": 241385
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -21440,7 +21445,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 207858
+      "UsersEstimate": 207860
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -21504,7 +21509,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100576
+      "UsersEstimate": 100577
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -21520,7 +21525,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26820
+      "UsersEstimate": 26821
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -21600,7 +21605,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120692
+      "UsersEstimate": 120693
     },
     {
       "ID": "RP_TRUSTED",
@@ -21624,22 +21629,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26820
+      "UsersEstimate": 26821
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 670510,
+      "Progressed": 670515,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:06:55.4491532+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:06:03.1186387+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:00.9118199+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:57:48.0799942+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:06:55.4492781+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:57:29.1850125+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:06:03.1187674+00:00"
 }

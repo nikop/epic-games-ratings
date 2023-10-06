@@ -7725,9 +7725,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62768,
+  "EOS_Progressed": 62769,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25650,6 +25650,11 @@
       "Time": "2023-10-06T04:04:49.9573075+00:00",
       "NumProgressed": 62768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T05:04:27.9941255+00:00",
+      "NumProgressed": 62769,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25701,7 +25706,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5021
+      "UsersEstimate": 5022
     },
     {
       "ID": "Catch",
@@ -25885,7 +25890,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20713
+      "UsersEstimate": 20714
     },
     {
       "ID": "Lawbringer",
@@ -26068,15 +26073,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62768,
+      "Progressed": 62769,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-05T23:57:03.5773353+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:04:49.9573071+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:04:27.9941252+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:57:18.9279992+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:04:49.9574244+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:57:07.0940562+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:04:27.994248+00:00"
 }

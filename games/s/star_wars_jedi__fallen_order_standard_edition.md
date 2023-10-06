@@ -5,29 +5,29 @@ Rating: 4.64 (Ranked 317)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~9,676 |
-| A Long Time Ago | 93.00% | ~8,999 |
-| Sabersmith | 80.00% | ~7,741 |
-| The Obstacle is the Way | 79.00% | ~7,644 |
-| Back At You | 74.00% | ~7,160 |
-| Happy Go Wookiee | 70.00% | ~6,773 |
-| Everything is Connected | 61.00% | ~5,902 |
-| Her Name Was Masana Tide | 55.00% | ~5,322 |
-| Bank Shot | 55.00% | ~5,322 |
-| Perfect Timing | 53.00% | ~5,128 |
-| Gorgara Falls | 50.00% | ~4,838 |
-| The Full Glow-Up | 50.00% | ~4,838 |
-| For A More Civilized Age | 48.00% | ~4,644 |
-| I Knew He Was No Good | 46.00% | ~4,451 |
-| The Holocron Awaits | 45.00% | ~4,354 |
-| Look Out Below | 44.00% | ~4,257 |
-| Scum and Villainy | 43.00% | ~4,161 |
-| Trust Only In The Force | 43.00% | ~4,161 |
-| Don't Mess with BD-1 | 42.00% | ~4,064 |
-| Blade Master | 38.00% | ~3,677 |
+| The Mantis | 100.00% | ~9,678 |
+| A Long Time Ago | 93.00% | ~9,001 |
+| Sabersmith | 80.00% | ~7,742 |
+| The Obstacle is the Way | 79.00% | ~7,646 |
+| Back At You | 74.00% | ~7,162 |
+| Happy Go Wookiee | 70.00% | ~6,775 |
+| Everything is Connected | 61.00% | ~5,904 |
+| Her Name Was Masana Tide | 55.00% | ~5,323 |
+| Bank Shot | 55.00% | ~5,323 |
+| Perfect Timing | 53.00% | ~5,129 |
+| Gorgara Falls | 50.00% | ~4,839 |
+| The Full Glow-Up | 50.00% | ~4,839 |
+| For A More Civilized Age | 48.00% | ~4,645 |
+| I Knew He Was No Good | 46.00% | ~4,452 |
+| The Holocron Awaits | 45.00% | ~4,355 |
+| Look Out Below | 44.00% | ~4,258 |
+| Scum and Villainy | 43.00% | ~4,162 |
+| Trust Only In The Force | 43.00% | ~4,162 |
+| Don't Mess with BD-1 | 42.00% | ~4,065 |
+| Blade Master | 38.00% | ~3,678 |
 | Full House | 35.00% | ~3,387 |
 | Legendary Beasts | 22.00% | ~2,129 |
-| Echo Location | 20.00% | ~1,935 |
+| Echo Location | 20.00% | ~1,936 |
 | Visiting Alderaan Places | 18.00% | ~1,742 |
 | Triple Take | 14.00% | ~1,355 |
 | Cal Got Your Tongue? | 14.00% | ~1,355 |
@@ -45,8 +45,8 @@ Rating: 4.64 (Ranked 317)
 | What Goes Around... | 3.00% | ~290 |
 | Not So Fast | 1.00% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,676 (Ranked 147)  
-Completed: 105 (1.09%) (Ranked 131)  
+Progressed: 9,678 (Ranked 147)  
+Completed: 105 (1.08%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 105 (1.09%) (Ranked 131)
 | 2023-10-03 | 9,248 | 99 |
 | 2023-10-04 | 9,430 | 99 |
 | 2023-10-05 | 9,638 | 105 |
-| 2023-10-06 | 9,676 | 105 |
+| 2023-10-06 | 9,678 | 105 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

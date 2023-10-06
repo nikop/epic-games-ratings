@@ -8,6 +8,7 @@ Rating: 4.63 (Ranked 335)
 | Satisfied Gus-tomer | 0.30% | ~72 |
 | First Bounty Down | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
+| Who's The Boss? | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
@@ -23,7 +24,6 @@ Rating: 4.63 (Ranked 335)
 | Legendary Bounty Hunter | 0.20% | ~48 |
 | Hardest Battle In The Game | 0.20% | ~48 |
 | Self-Actualization | 0.20% | ~48 |
-| Who's The Boss? | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |

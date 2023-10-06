@@ -8592,7 +8592,7 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297880,
+  "EOS_Progressed": 297882,
   "EOS_Completed": 481,
   "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 3,
@@ -26767,6 +26767,11 @@
       "Time": "2023-10-06T04:06:50.9659002+00:00",
       "NumProgressed": 297880,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-06T05:05:59.554507+00:00",
+      "NumProgressed": 297882,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26826,7 +26831,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23830
+      "UsersEstimate": 23831
     },
     {
       "ID": "PFA_16",
@@ -26850,7 +26855,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23830
+      "UsersEstimate": 23831
     },
     {
       "ID": "PFA_19",
@@ -26858,7 +26863,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23830
+      "UsersEstimate": 23831
     },
     {
       "ID": "PFA_2",
@@ -27082,7 +27087,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23830
+      "UsersEstimate": 23831
     },
     {
       "ID": "PFA_45",
@@ -27106,7 +27111,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38724
+      "UsersEstimate": 38725
     },
     {
       "ID": "PFA_7",
@@ -27114,7 +27119,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38724
+      "UsersEstimate": 38725
     },
     {
       "ID": "PFA_8",
@@ -27137,7 +27142,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297880,
+      "Progressed": 297882,
       "Completed": 481
     }
   ],
@@ -27145,8 +27150,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T04:02:01.1033226+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:06:50.9658997+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:05:59.5545065+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:02:01.1033232+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:06:50.966016+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:00:32.8324054+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:05:59.5546243+00:00"
 }

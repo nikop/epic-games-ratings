@@ -2,9 +2,9 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -883,6 +883,11 @@
       "Time": "2023-10-04T00:03:42.5753958+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T05:05:10.4990885+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -894,7 +899,7 @@
       "Name": "Wake Up",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_ACT10",
@@ -958,7 +963,7 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ACT3",
@@ -980,9 +985,9 @@
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_ACT6",
@@ -1054,7 +1059,7 @@
       "Name": "Fashionista",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -1062,15 +1067,15 @@
       "Name": "Handyman",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_REUINTED",
@@ -1086,7 +1091,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1109,7 +1114,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
@@ -1117,8 +1122,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:05:46.0159538+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:05:10.4990882+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:56:57.0209141+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:34.9202656+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:05:46.0159731+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:32.800263+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:05:10.4991078+00:00"
 }

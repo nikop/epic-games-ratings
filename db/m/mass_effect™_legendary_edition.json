@@ -1767,9 +1767,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_48",
@@ -1951,9 +1951,9 @@
       "ID": "achievement_68",
       "SetID": "b9pe172",
       "Name": "Agent",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_69",
@@ -2243,8 +2243,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:05:38.6952895+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:05:05.0568338+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:59.5501193+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:05:38.6954622+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:50.5982618+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:05:05.0570134+00:00"
 }

@@ -11,8 +11,8 @@
 | Demolition expert | 38.00% | ~49 |
 | Wooooooow! | 37.00% | ~48 |
 | Keep away from children | 36.00% | ~46 |
+| Artistic fool | 33.00% | ~43 |
 | Open up wide | 33.00% | ~43 |
-| Artistic fool | 32.00% | ~41 |
 | Let the boot talk | 32.00% | ~41 |
 | Chapter II | 27.00% | ~35 |
 | Handyman | 24.00% | ~31 |
@@ -29,7 +29,7 @@
 | Home is where the heart is | 18.00% | ~23 |
 | Master of Thermodynamics | 15.00% | ~19 |
 | Death is a part of life | 15.00% | ~19 |
-| Unfullfilled dreams | 12.00% | ~15 |
+| Unfullfilled dreams | 13.00% | ~17 |
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |
 | Nothing can stop me | 10.00% | ~13 |

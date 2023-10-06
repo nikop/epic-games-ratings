@@ -20,6 +20,7 @@
 | Explored The Labs | 20.00% | ~1 |
 | Bullet Conscious | 20.00% | ~1 |
 | Defence Broken | 20.00% | ~1 |
+| Gunny | 20.00% | ~1 |
 | C-C-Combo! | 20.00% | ~1 |
 | Cubes Can Fly | 20.00% | ~1 |
 | Never Forget your First | 20.00% | ~1 |
@@ -39,7 +40,6 @@
 | Got To Go Fast! | 0.00% | ~0 |
 | Gottagofast! | 0.00% | ~0 |
 | Grrrgfst | 0.00% | ~0 |
-| Gunny | 0.00% | ~0 |
 | Trigonometry Dash | 0.00% | ~0 |
 | Sorry, Not Sorry | 0.00% | ~0 |
 | I Just Like Holding It | 0.00% | ~0 |

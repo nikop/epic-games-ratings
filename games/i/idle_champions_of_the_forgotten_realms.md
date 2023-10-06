@@ -221,6 +221,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.10% | ~231 |
 | Treasure Hunters | 0.10% | ~231 |
 | The Guardian of Orolunga | 0.10% | ~231 |
+| Think Your Way Out Of It | 0.10% | ~231 |
 | Air's Getting Pretty Thin | 0.10% | ~231 |
 | Red Wizard 'Escort' | 0.10% | ~197 |
 | The Lost Love | 0.10% | ~231 |
@@ -529,13 +530,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~197 |
 | The Arena of Blood | 0.10% | ~197 |
 | Entrance of the Gladiators | 0.10% | ~197 |
-| Think Your Way Out Of It | 0.00% | ~0 |
 | Foul Play | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,033 (Ranked 56)  
+Progressed: 231,037 (Ranked 56)  
 Completed: 2,332 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -704,7 +704,7 @@ Completed: 2,332 (1.01%) (Ranked 136)
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
 | 2023-10-05 | 231,008 | 2,332 |
-| 2023-10-06 | 231,033 | 2,332 |
+| 2023-10-06 | 231,037 | 2,332 |
 ## Awards
 Max (Diverse Characters): 5,363  (Ranked 69)  
 Sum: 31,918 (Ranked 41)  

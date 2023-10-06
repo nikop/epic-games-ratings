@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -842,6 +842,11 @@
       "Time": "2023-10-05T23:06:21.3679618+00:00",
       "NumProgressed": 356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T05:06:56.3186669+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -854,7 +859,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_eou1",
@@ -862,7 +867,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_eou2",
@@ -870,7 +875,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou3",
@@ -886,7 +891,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_eou5",
@@ -894,15 +899,15 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_eou7",
@@ -910,7 +915,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_eou8",
@@ -957,14 +962,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:08:26.5938167+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:06:56.3186665+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:00:12.2446233+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:08:26.5938295+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:59:16.2165029+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:06:56.3186783+00:00"
 }

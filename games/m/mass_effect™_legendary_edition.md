@@ -46,9 +46,9 @@
 | Galactic Explorer | 34.00% | ~193 |
 | Broke, Blind, and Bedlam | 33.00% | ~187 |
 | Ghost Ship | 32.00% | ~181 |
+| The Justicar | 32.00% | ~181 |
 | The Quarian | 32.00% | ~181 |
 | The Assassin | 31.00% | ~176 |
-| The Justicar | 31.00% | ~176 |
 | Battlemaster | 31.00% | ~176 |
 | The Prodigal | 31.00% | ~176 |
 | A Personal Touch | 30.00% | ~170 |
@@ -56,11 +56,11 @@
 | Ghost of the Father | 30.00% | ~170 |
 | The Cure | 30.00% | ~170 |
 | Big Game Hunter | 30.00% | ~170 |
+| Agent | 30.00% | ~170 |
 | Revenge! | 30.00% | ~170 |
 | Heart of Darkness | 30.00% | ~170 |
 | Shopaholic | 30.00% | ~170 |
 | Fade Away | 29.00% | ~164 |
-| Agent | 29.00% | ~164 |
 | Driven | 29.00% | ~164 |
 | Focused | 28.00% | ~159 |
 | Cat's in the Cradle | 28.00% | ~159 |

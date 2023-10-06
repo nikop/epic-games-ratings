@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Dicesmithing Time! | 12.00% | ~5 |
 | Stellar Dismantler | 12.00% | ~5 |
+| Wild's Keeper | 12.00% | ~5 |
 | Apian Champion | 12.00% | ~5 |
 | Lacertian Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 10.00% | ~4 |
@@ -14,7 +15,7 @@
 | Purification Pioneer | 10.00% | ~4 |
 | Sanctuary Guardian | 10.00% | ~4 |
 | Unbeatable | 10.00% | ~4 |
-| Wild's Keeper | 10.00% | ~4 |
+| Eridanian Champion | 10.00% | ~4 |
 | Noctuan Champion | 10.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Loyal Partner | 7.00% | ~3 |
@@ -22,6 +23,7 @@
 | Mind Illuminator | 7.00% | ~3 |
 | Shard Spender | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
+| Anomaly Control | 5.00% | ~2 |
 | Astrarium of Holding | 5.00% | ~2 |
 | Can't touch this | 5.00% | ~2 |
 | Denying Destiny | 5.00% | ~2 |
@@ -29,9 +31,10 @@
 | Heart Gate | 5.00% | ~2 |
 | Sadistic Plan | 5.00% | ~2 |
 | Sentinelphobic | 5.00% | ~2 |
+| Star Killer | 5.00% | ~2 |
 | The Corruption Goddess | 5.00% | ~2 |
-| Eridanian Champion | 5.00% | ~2 |
-| Anomaly Control | 2.00% | ~1 |
+| Wave Bender | 5.00% | ~2 |
+| Lacertian Mastery | 5.00% | ~2 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
 | Astral Seeker | 2.00% | ~1 |
@@ -41,19 +44,18 @@
 | If I Had Failed... | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
+| Purification Avatar | 2.00% | ~1 |
 | Reflexive Mind | 2.00% | ~1 |
-| Star Killer | 2.00% | ~1 |
 | The Chaos Artisan | 2.00% | ~1 |
+| The Dark Moon | 2.00% | ~1 |
 | The Goddes Avatar | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
-| Wave Bender | 2.00% | ~1 |
 | Aquarian Champion | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Hero | 2.00% | ~1 |
-| Lacertian Mastery | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
 | Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
@@ -84,13 +86,11 @@
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 | Pocket Astrarium | 0.00% | ~0 |
-| Purification Avatar | 0.00% | ~0 |
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 | The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
-| The Dark Moon | 0.00% | ~0 |
 | The Distorted Sage | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |

@@ -3,8 +3,8 @@
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 478,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 396,
@@ -272,6 +272,6 @@
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
   "LastChanged": "2023-07-06T13:19:45.9188955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.6832513+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:59:07.8919826+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:09:07.8310034+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:58:30.8496711+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:09:18.3738995+00:00"
 }

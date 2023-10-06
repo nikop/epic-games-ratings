@@ -7138,9 +7138,9 @@
       "Count": 3458
     }
   ],
-  "EOS_Progressed": 231033,
+  "EOS_Progressed": 231037,
   "EOS_Completed": 2332,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25908,6 +25908,11 @@
       "Time": "2023-10-06T04:08:09.7722386+00:00",
       "NumProgressed": 231033,
       "NumCompleted": 2332
+    },
+    {
+      "Time": "2023-10-06T05:06:44.7760546+00:00",
+      "NumProgressed": 231037,
+      "NumCompleted": 2332
     }
   ],
   "TotalAchievements": 528,
@@ -27637,9 +27642,9 @@
       "ID": "objective_completed_379",
       "SetID": "cc37lbc",
       "Name": "Think Your Way Out Of It",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 231
     },
     {
       "ID": "objective_completed_380",
@@ -30142,21 +30147,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 197307,
+      "Progressed": 197311,
       "Completed": 3540
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 231033,
+      "Progressed": 231037,
       "Completed": 2332
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-06T03:02:29.7311463+00:00",
-  "LastChanged_Achievements": "2023-10-06T04:08:09.7722381+00:00",
+  "LastChanged_Achievements": "2023-10-06T05:06:44.7760541+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:48.9844409+00:00",
-  "LastUpdate_Ratings": "2023-10-06T04:02:27.7518518+00:00",
-  "LastUpdate_Achievements": "2023-10-06T04:08:09.7747292+00:00"
+  "LastUpdate_Ratings": "2023-10-06T05:03:10.5615287+00:00",
+  "LastUpdate_Achievements": "2023-10-06T05:06:44.7785898+00:00"
 }

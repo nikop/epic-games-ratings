@@ -7,19 +7,19 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,102 |
-| I read Shakespeare and stuff | 64.00% | ~31,660 |
-| Just a sprinkle | 63.00% | ~31,165 |
-| I'm stumped | 61.00% | ~30,176 |
-| Plant get enough | 60.00% | ~29,681 |
+| I read Shakespeare and stuff | 64.00% | ~31,661 |
+| Just a sprinkle | 63.00% | ~31,166 |
+| I'm stumped | 61.00% | ~30,177 |
+| Plant get enough | 60.00% | ~29,682 |
 | It's just the beginning | 59.00% | ~29,187 |
-| This is just my weekend vehicle | 58.00% | ~28,692 |
+| This is just my weekend vehicle | 58.00% | ~28,693 |
 | Hard work pays off | 53.00% | ~26,219 |
-| It's never too late to farm | 50.00% | ~24,734 |
-| All out of Land | 44.00% | ~21,766 |
+| It's never too late to farm | 50.00% | ~24,735 |
+| All out of Land | 44.00% | ~21,767 |
 | Field Trip | 43.00% | ~21,272 |
 | I like to switch it up | 40.00% | ~19,788 |
-| Help me to help you | 38.00% | ~18,798 |
-| Ultimutt Pawesomeness | 28.00% | ~13,851 |
+| Help me to help you | 38.00% | ~18,799 |
+| Ultimutt Pawesomeness | 28.00% | ~13,852 |
 | Van Gogh | 26.00% | ~12,862 |
 | You wood not believe it | 22.00% | ~10,883 |
 | Vehicle fleet | 22.00% | ~10,883 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~198 |
 | Raisin the stakes | 0.30% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,469 (Ranked 101)  
+Progressed: 49,470 (Ranked 101)  
 Completed: 6 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,17 +219,17 @@ Completed: 6 (0.01%) (Ranked 288)
 | 2023-10-03 | 49,381 | 6 |
 | 2023-10-04 | 49,420 | 6 |
 | 2023-10-05 | 49,466 | 6 |
-| 2023-10-06 | 49,469 | 6 |
+| 2023-10-06 | 49,470 | 6 |
 ## Awards
 Max (Great for Beginners): 5,102  (Ranked 70)  
-Sum: 40,886 (Ranked 33)  
+Sum: 40,891 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,102 |
 | This game has Diverse Characters | 4,233 |
 | This game is Educational | 4,214 |
-| This game is Relaxing | 4,174 |
+| This game is Relaxing | 4,179 |
 | This game has Quickly Understood Controls | 4,134 |
 | This game is Highly Recommended | 4,058 |
 | This game is Extremely Fun | 4,028 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 37
 | 2023-10-03 | 4.69 | - | 5,095 | 40,831 |
 | 2023-10-04 | 4.69 | - | 5,095 | 40,853 |
 | 2023-10-05 | 4.69 | - | 5,102 | 40,880 |
-| 2023-10-06 | 4.69 | - | 5,102 | 40,886 |
+| 2023-10-06 | 4.69 | - | 5,102 | 40,891 |
