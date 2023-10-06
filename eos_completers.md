@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.67% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.63% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -65,7 +65,7 @@
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.06% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.91% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
@@ -82,7 +82,7 @@
 | 80 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
 | 80 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 80 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.00% |
+| 83 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.99% |
 | 84 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.94% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
@@ -101,7 +101,7 @@
 | 99 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.33% |
 | 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.30% |
 | 101 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 101 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.27% |
+| 102 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.22% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -153,7 +153,7 @@
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
+| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.62% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 155 | [Haven](games/h/haven.md) | 0.61% |
 | 157 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
@@ -253,16 +253,16 @@
 | 246 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.09% |
 | 246 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 253 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
+| 254 | [Black Book](games/b/black_book.md) | 0.07% |
 | 254 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 254 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 254 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 254 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 254 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 259 | [Black Book](games/b/black_book.md) | 0.06% |
-| 259 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 259 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 259 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
-| 259 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 260 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
+| 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 264 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 264 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 264 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
@@ -608,6 +608,7 @@
 | 306 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 306 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 306 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
+| 306 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 0.00% |
 | 306 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.00% |
 | 306 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 0.00% |
 | 306 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 0.00% |
