@@ -2,7 +2,7 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 655,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -1270,10 +1270,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 468,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-10-06T21:00:15.246697+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 469,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 468,
+  "NumberOfAwards": 469,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1293,7 +1299,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1350,8 +1356,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2023-10-06T14:59:59.9851186+00:00",
+  "LastChanged": "2023-10-06T21:00:15.2466968+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:11.3525869+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:00:31.9629511+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:05:11.6848173+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:00:15.2466975+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:04:44.1132116+00:00"
 }

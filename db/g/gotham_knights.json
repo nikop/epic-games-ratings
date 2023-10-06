@@ -3380,9 +3380,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73214,
+  "EOS_Progressed": 73215,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17800,6 +17800,11 @@
       "Time": "2023-10-06T20:07:55.2371878+00:00",
       "NumProgressed": 73214,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-06T21:07:36.2532817+00:00",
+      "NumProgressed": 73215,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17907,7 +17912,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12447
     },
     {
       "ID": "CLAYFACE_1",
@@ -18027,7 +18032,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7321
+      "UsersEstimate": 7322
     },
     {
       "ID": "FREEZE_1",
@@ -18091,7 +18096,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -18155,7 +18160,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38071
+      "UsersEstimate": 38072
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18298,13 +18303,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73214,
+      "Progressed": 73215,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43494,
+      "Progressed": 43495,
       "Completed": 2666
     }
   ],
@@ -18312,8 +18317,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-06T10:59:03.8544368+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:07:55.2371873+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:07:36.2532811+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:59:35.6251487+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:07:55.2373544+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:59:28.3981554+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:07:36.2534286+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 434,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 187,
@@ -4030,9 +4030,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -4164,8 +4164,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:09:57.035437+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:09:30.8964065+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:58:47.2982466+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:09:57.035553+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:58:40.4545714+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:09:30.8964995+00:00"
 }

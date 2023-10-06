@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11958,
+  "EOS_Progressed": 11962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2552,
+  "EOS_NewPlayers": 2542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-10-06T20:10:02.8858638+00:00",
       "NumProgressed": 11958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T21:09:36.0223215+00:00",
+      "NumProgressed": 11962,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -1956,7 +1961,7 @@
       "Name": "Fender Bender",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "achievement_13",
@@ -1964,7 +1969,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 8849
+      "UsersEstimate": 8852
     },
     {
       "ID": "achievement_14",
@@ -1972,7 +1977,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5024
     },
     {
       "ID": "achievement_15",
@@ -1980,7 +1985,7 @@
       "Name": "Combat Engineer",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 6218
+      "UsersEstimate": 6220
     },
     {
       "ID": "achievement_16",
@@ -1988,7 +1993,7 @@
       "Name": "Heads Down",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 8610
+      "UsersEstimate": 8613
     },
     {
       "ID": "achievement_17",
@@ -2004,7 +2009,7 @@
       "Name": "Eager Beaver",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5383
     },
     {
       "ID": "achievement_19",
@@ -2012,7 +2017,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "achievement_2",
@@ -2028,7 +2033,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 11121
+      "UsersEstimate": 11125
     },
     {
       "ID": "achievement_21",
@@ -2036,7 +2041,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8371
+      "UsersEstimate": 8373
     },
     {
       "ID": "achievement_3",
@@ -2052,7 +2057,7 @@
       "Name": "Lovely",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4424
+      "UsersEstimate": 4426
     },
     {
       "ID": "achievement_5",
@@ -2060,7 +2065,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "achievement_6",
@@ -2068,15 +2073,15 @@
       "Name": "Ou La Mort",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "achievement_7",
       "SetID": "akc8324",
       "Name": "Off-hand",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_8",
@@ -2084,7 +2089,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 8610
+      "UsersEstimate": 8613
     },
     {
       "ID": "achievement_9",
@@ -2099,13 +2104,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 11958,
+      "Progressed": 11962,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:10:02.8858633+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:09:36.0223209+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:04.3532327+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:01:56.9166366+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:10:02.8858977+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:01:32.9493979+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:09:36.0223511+00:00"
 }

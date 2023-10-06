@@ -100,7 +100,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6146,
+  "EOS_Progressed": 6150,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
@@ -3500,6 +3500,11 @@
       "Time": "2023-10-06T20:06:16.0376171+00:00",
       "NumProgressed": 6146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T21:05:50.1012058+00:00",
+      "NumProgressed": 6150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3512,7 +3517,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4490
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3520,7 +3525,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4302
+      "UsersEstimate": 4305
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3528,7 +3533,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3536,7 +3541,7 @@
       "Name": "Open the Gate!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3544,7 +3549,7 @@
       "Name": "Clear the Air",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -3568,7 +3573,7 @@
       "Name": "Fae Farmer",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -3592,7 +3597,7 @@
       "Name": "Angling Authority",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "COLLECT_LOGS",
@@ -3600,7 +3605,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1538
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3608,7 +3613,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2583
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3616,7 +3621,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2889
+      "UsersEstimate": 2890
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3624,7 +3629,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -3648,7 +3653,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2522
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3656,7 +3661,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -3664,7 +3669,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3628
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3672,7 +3677,7 @@
       "Name": "Mist Walker",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -3688,7 +3693,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2768
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3728,7 +3733,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -3744,7 +3749,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -3768,7 +3773,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -3784,14 +3789,14 @@
       "Name": "Skilled",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6146,
+      "Progressed": 6150,
       "Completed": 0
     }
   ],
@@ -3799,8 +3804,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-06T18:59:22.3209913+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:06:16.0376163+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:05:50.1012053+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:00:21.7998534+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:06:16.0376992+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:00:09.841289+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:05:50.101254+00:00"
 }

@@ -32,10 +32,10 @@ Rating: 3.36 (Ranked 1,010)
 | Resourceful | 3.00% | ~46 |
 | Advanced Warfare | 2.00% | ~31 |
 | Colonel | 2.00% | ~31 |
-| Seek & Destroy | 2.00% | ~31 |
 | Battle Ready | 2.00% | ~31 |
 | Control the Skies | 2.00% | ~31 |
 | General | 1.00% | ~15 |
+| Seek & Destroy | 1.00% | ~15 |
 | Titan Tanks | 1.00% | ~15 |
 | Shock Troops | 0.90% | ~14 |
 | Advanced Interceptors | 0.70% | ~11 |
@@ -44,7 +44,7 @@ Rating: 3.36 (Ranked 1,010)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 213)  
+Progressed: 1,534 (Ranked 213)  
 Completed: 1 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.07%) (Ranked 254)
 | 2023-10-03 | 1,519 | 1 |
 | 2023-10-04 | 1,523 | 1 |
 | 2023-10-05 | 1,528 | 1 |
-| 2023-10-06 | 1,533 | 1 |
+| 2023-10-06 | 1,534 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

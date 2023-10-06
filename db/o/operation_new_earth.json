@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5604,6 +5604,11 @@
       "Time": "2023-10-06T20:08:19.9245665+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T21:07:57.1137046+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5813,9 +5818,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -5918,7 +5923,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1534,
       "Completed": 1
     }
   ],
@@ -5926,8 +5931,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:08:19.9245655+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:07:57.1137036+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:01:45.2405955+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:08:19.9246768+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:01:22.527328+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:07:57.1137676+00:00"
 }

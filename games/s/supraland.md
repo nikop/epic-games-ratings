@@ -6,27 +6,27 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,064 |
-| The Blues | 85.00% | ~619,095 |
-| Fast | 66.00% | ~480,709 |
-| Healthbar | 55.00% | ~400,591 |
-| Force Cube | 53.00% | ~386,024 |
-| Double Jump | 48.00% | ~349,607 |
-| Regeneration | 47.00% | ~342,323 |
-| Triple Jump | 43.00% | ~313,189 |
-| Climb the hill | 42.00% | ~305,906 |
-| Through the fire pipe | 39.00% | ~284,055 |
-| MacGuffin | 38.00% | ~276,772 |
-| Just once | 37.00% | ~269,488 |
-| Armor | 30.00% | ~218,504 |
-| True holy spirit | 28.00% | ~203,937 |
+| Out of bed | 99.00% | ~721,066 |
+| The Blues | 85.00% | ~619,097 |
+| Fast | 66.00% | ~480,710 |
+| Healthbar | 55.00% | ~400,592 |
+| Force Cube | 53.00% | ~386,025 |
+| Double Jump | 48.00% | ~349,608 |
+| Regeneration | 47.00% | ~342,324 |
+| Triple Jump | 43.00% | ~313,190 |
+| Climb the hill | 42.00% | ~305,907 |
+| Through the fire pipe | 39.00% | ~284,056 |
+| MacGuffin | 38.00% | ~276,773 |
+| Just once | 37.00% | ~269,489 |
+| Armor | 30.00% | ~218,505 |
+| True holy spirit | 28.00% | ~203,938 |
 | That's how electronics work obviously | 27.00% | ~196,654 |
 | Force Cube Catapult | 25.00% | ~182,087 |
 | Holy Sword | 23.00% | ~167,520 |
 | Telefrag | 23.00% | ~167,520 |
 | Freed from prison | 21.00% | ~152,953 |
 | Stomp | 21.00% | ~152,953 |
-| Double Health | 18.00% | ~131,102 |
+| Double Health | 18.00% | ~131,103 |
 | Buckle | 17.00% | ~123,819 |
 | Green Keycard | 17.00% | ~123,819 |
 | Rattle Hag | 16.00% | ~116,536 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~728 |
 | DLC: Top of the world | 0.10% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,347 (Ranked 19)  
+Progressed: 728,349 (Ranked 19)  
 Completed: 744 (0.10%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 744 (0.10%) (Ranked 241)
 | 2023-10-03 | 728,039 | 742 |
 | 2023-10-04 | 728,138 | 744 |
 | 2023-10-05 | 728,232 | 744 |
-| 2023-10-06 | 728,347 | 744 |
+| 2023-10-06 | 728,349 | 744 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

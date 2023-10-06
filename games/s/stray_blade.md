@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 88.00% | ~79 |
-| Tinkerer | 70.00% | ~63 |
-| Welcome to the Club | 38.00% | ~34 |
-| Apprentice | 38.00% | ~34 |
+| Self-Defence | 87.00% | ~79 |
+| Tinkerer | 69.00% | ~63 |
+| Welcome to the Club | 37.00% | ~34 |
+| Apprentice | 37.00% | ~34 |
 | A new World ahead | 31.00% | ~28 |
-| Can't touch this | 28.00% | ~25 |
-| Don't Cry Wolf | 26.00% | ~23 |
+| Can't touch this | 27.00% | ~25 |
+| Don't Cry Wolf | 25.00% | ~23 |
 | Freezing Cold | 19.00% | ~17 |
 | Expert | 18.00% | ~16 |
-| Searing Heat | 16.00% | ~14 |
-| Nothing but the Truth | 16.00% | ~14 |
+| Searing Heat | 15.00% | ~14 |
+| Nothing but the Truth | 15.00% | ~14 |
 | The Golden Flash | 13.00% | ~12 |
 | The Power of the Mountains | 13.00% | ~12 |
 | Locked and Loaded | 11.00% | ~10 |
@@ -28,8 +28,8 @@
 | Finally! | 8.00% | ~7 |
 | Mirror, Mirror on the Wall | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |
-| Bringing guns to a sword fight | 6.00% | ~5 |
-| Ancient Powers | 6.00% | ~5 |
+| Bringing guns to a sword fight | 5.00% | ~5 |
+| Ancient Powers | 5.00% | ~5 |
 | Defeat Ingla | 4.00% | ~4 |
 | But what of the Acreans? | 4.00% | ~4 |
 | Unveiling the Truth | 4.00% | ~4 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 395)  
+Progressed: 91 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-01 | 88 | 0 |
 | 2023-10-04 | 89 | 0 |
 | 2023-10-05 | 90 | 0 |
+| 2023-10-06 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

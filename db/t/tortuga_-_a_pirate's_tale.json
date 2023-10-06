@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16776,
+  "EOS_Progressed": 16777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5478,6 +5478,11 @@
       "Time": "2023-10-06T20:07:50.6389837+00:00",
       "NumProgressed": 16776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T21:07:32.2933856+00:00",
+      "NumProgressed": 16777,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5489,7 +5494,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15937
+      "UsersEstimate": 15938
     },
     {
       "ID": "ACH001",
@@ -5497,7 +5502,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14427
+      "UsersEstimate": 14428
     },
     {
       "ID": "ACH0010",
@@ -5521,7 +5526,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 8052
+      "UsersEstimate": 8053
     },
     {
       "ID": "ACH0013",
@@ -5529,7 +5534,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "ACH0014",
@@ -5649,7 +5654,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14595
+      "UsersEstimate": 14596
     },
     {
       "ID": "ACH005",
@@ -5665,7 +5670,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "ACH007",
@@ -5696,7 +5701,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16776,
+      "Progressed": 16777,
       "Completed": 0
     }
   ],
@@ -5704,8 +5709,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:07:50.638983+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:07:32.2933851+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:01:37.0094333+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:07:50.6390675+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:01:13.5387967+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:07:32.2934319+00:00"
 }

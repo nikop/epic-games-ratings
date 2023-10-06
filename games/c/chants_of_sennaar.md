@@ -6,9 +6,10 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 2.00% | ~5 |
 | Welcome to the Tower | 2.00% | ~5 |
-| Rascal | 1.00% | ~2 |
-| The Preacher's fate | 0.80% | ~2 |
-| The great escape | 0.80% | ~2 |
+| Rascal | 1.00% | ~3 |
+| The Preacher's fate | 1.00% | ~3 |
+| The great escape | 1.00% | ~3 |
+| A new dawn | 0.80% | ~2 |
 | I did it | 0.40% | ~1 |
 | In this together | 0.40% | ~1 |
 | Peace walker | 0.40% | ~1 |
@@ -21,7 +22,6 @@
 | A Link to the Past | 0.40% | ~1 |
 | Alchemists Express | 0.40% | ~1 |
 | Champollion | 0.40% | ~1 |
-| A new dawn | 0.40% | ~1 |
 | One last step | 0.40% | ~1 |
 | A good beginning | 0.00% | ~0 |
 | A great audience | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | Scholar | 0.00% | ~0 |
 | The darkness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 327)  
-Completed: 17 (6.80%) (Ranked 48)  
+Progressed: 251 (Ranked 327)  
+Completed: 17 (6.77%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,4 +108,4 @@ Completed: 17 (6.80%) (Ranked 48)
 | 2023-10-02 | 241 | 17 |
 | 2023-10-04 | 243 | 17 |
 | 2023-10-05 | 244 | 17 |
-| 2023-10-06 | 250 | 17 |
+| 2023-10-06 | 251 | 17 |

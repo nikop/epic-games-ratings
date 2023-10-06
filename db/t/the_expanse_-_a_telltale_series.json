@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13649,
+  "EOS_Progressed": 13651,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7868,6 +7868,11 @@
       "Time": "2023-10-06T20:08:17.7787378+00:00",
       "NumProgressed": 13649,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-06T21:07:55.4113712+00:00",
+      "NumProgressed": 13651,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7894,9 +7899,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 273
     },
     {
       "ID": "12",
@@ -7904,7 +7909,7 @@
       "Name": "Data Archivist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "13",
@@ -7960,7 +7965,7 @@
       "Name": "Martian Music",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "2",
@@ -7984,7 +7989,7 @@
       "Name": "Drone Dodger",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "22",
@@ -8000,7 +8005,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "24",
@@ -8024,7 +8029,7 @@
       "Name": "Call it Even",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "27",
@@ -8056,7 +8061,7 @@
       "Name": "Captain Drummer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "30",
@@ -8088,7 +8093,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "7",
@@ -8112,14 +8117,14 @@
       "Name": "Impossible Objects",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13649,
+      "Progressed": 13651,
       "Completed": 13
     }
   ],
@@ -8127,8 +8132,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-06T08:00:39.97616+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:08:17.7787368+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:07:55.4113705+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:03:39.0161256+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:08:17.7788707+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:03:03.336512+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:07:55.4114678+00:00"
 }

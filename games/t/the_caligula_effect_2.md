@@ -17,14 +17,14 @@ Number of Ratings: 32  (23.09.2022)
 | Behind the Curtain | 33.00% | ~78 |
 | Master of Surprise | 30.00% | ~71 |
 | Be Who You Wanna Be | 26.00% | ~61 |
+| Investment Ban-χ-ing | 25.00% | ~59 |
 | Counter Champion | 25.00% | ~59 |
 | Friendly Neighborhood | 24.00% | ~57 |
-| Investment Ban-χ-ing | 24.00% | ~57 |
 | Combo Commando | 24.00% | ~57 |
 | One-Track Mind | 23.00% | ~54 |
 | Nice Doing Business | 23.00% | ~54 |
+| Stay Winning | 23.00% | ~54 |
 | WIRE Guru | 22.00% | ~52 |
-| Stay Winning | 22.00% | ~52 |
 | The Greater Good | 19.00% | ~45 |
 | Selfish Decisions | 19.00% | ~45 |
 | Depths of the Heart | 19.00% | ~45 |

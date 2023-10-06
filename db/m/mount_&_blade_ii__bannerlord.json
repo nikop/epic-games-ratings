@@ -7749,7 +7749,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62808,
+  "EOS_Progressed": 62809,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
@@ -25749,6 +25749,11 @@
       "Time": "2023-10-06T20:06:01.4920242+00:00",
       "NumProgressed": 62808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T21:05:37.5240527+00:00",
+      "NumProgressed": 62809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25952,7 +25957,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "Kingslayer",
@@ -25992,7 +25997,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24495
+      "UsersEstimate": 24496
     },
     {
       "ID": "Lawmaker",
@@ -26112,7 +26117,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "This Is Our Land",
@@ -26167,15 +26172,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62808,
+      "Progressed": 62809,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-06T18:57:20.909867+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:06:01.4920235+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:05:37.5240522+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:57:38.7370273+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:06:01.4921826+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:57:45.1219387+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:05:37.5241883+00:00"
 }

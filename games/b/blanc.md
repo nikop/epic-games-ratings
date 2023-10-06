@@ -12,13 +12,13 @@
 | Transmission | 10.00% | ~278 |
 | The will to move on | 9.00% | ~250 |
 | Reunion | 8.00% | ~222 |
-| The end | 7.00% | ~194 |
+| The end | 7.00% | ~195 |
 | Sliders | 3.00% | ~83 |
 | Sheltered by the fallen tree | 2.00% | ~56 |
 | Snow-covered ruins | 0.50% | ~14 |
 | Another ride! | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,778 (Ranked 192)  
+Progressed: 2,779 (Ranked 192)  
 Completed: 6 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 6 (0.22%) (Ranked 212)
 | 2023-10-03 | 2,772 | 6 |
 | 2023-10-04 | 2,773 | 6 |
 | 2023-10-05 | 2,776 | 6 |
-| 2023-10-06 | 2,778 | 6 |
+| 2023-10-06 | 2,779 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

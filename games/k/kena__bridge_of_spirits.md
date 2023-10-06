@@ -6,36 +6,36 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,933 |
-| Haikyo | 80.00% | ~342,681 |
-| Good as New | 72.00% | ~308,413 |
-| Into the Woods | 69.00% | ~295,562 |
-| Hunter in the Forest | 60.00% | ~257,011 |
-| Rot Commander | 60.00% | ~257,011 |
-| Taro's Fear | 56.00% | ~239,877 |
-| Between the Eyes | 47.00% | ~201,325 |
-| Taro's Love | 46.00% | ~197,041 |
-| Taro's Regret | 43.00% | ~184,191 |
-| Spirit Guide | 42.00% | ~179,907 |
-| Harness Your Power | 39.00% | ~167,057 |
-| The Open Range | 37.00% | ~158,490 |
-| Adira's Love | 34.00% | ~145,639 |
-| Adira's Fear | 33.00% | ~141,356 |
-| Weigh Them Down | 31.00% | ~132,789 |
-| Adira's Regret | 31.00% | ~132,789 |
-| A Heavy Hammer | 30.00% | ~128,505 |
-| Crossing Over | 29.00% | ~124,222 |
-| Quick Draw | 29.00% | ~124,222 |
-| Toshi's Regret | 27.00% | ~115,655 |
-| Toshi's Fear | 27.00% | ~115,655 |
-| Toshi's Love | 27.00% | ~115,655 |
-| A Leader Walks Alone | 26.00% | ~111,371 |
-| Bow Master | 26.00% | ~111,371 |
-| The Lonely Path | 26.00% | ~111,371 |
+| Found a Friend | 95.00% | ~406,936 |
+| Haikyo | 80.00% | ~342,683 |
+| Good as New | 72.00% | ~308,415 |
+| Into the Woods | 69.00% | ~295,564 |
+| Hunter in the Forest | 60.00% | ~257,012 |
+| Rot Commander | 60.00% | ~257,012 |
+| Taro's Fear | 56.00% | ~239,878 |
+| Between the Eyes | 47.00% | ~201,326 |
+| Taro's Love | 46.00% | ~197,043 |
+| Taro's Regret | 43.00% | ~184,192 |
+| Spirit Guide | 42.00% | ~179,909 |
+| Harness Your Power | 39.00% | ~167,058 |
+| The Open Range | 37.00% | ~158,491 |
+| Adira's Love | 34.00% | ~145,640 |
+| Adira's Fear | 33.00% | ~141,357 |
+| Weigh Them Down | 31.00% | ~132,790 |
+| Adira's Regret | 31.00% | ~132,790 |
+| A Heavy Hammer | 30.00% | ~128,506 |
+| Crossing Over | 29.00% | ~124,223 |
+| Quick Draw | 29.00% | ~124,223 |
+| Toshi's Regret | 27.00% | ~115,656 |
+| Toshi's Fear | 27.00% | ~115,656 |
+| Toshi's Love | 27.00% | ~115,656 |
+| A Leader Walks Alone | 26.00% | ~111,372 |
+| Bow Master | 26.00% | ~111,372 |
+| The Lonely Path | 26.00% | ~111,372 |
 | Restore Balance | 25.00% | ~107,088 |
-| Say Cheese | 16.00% | ~68,536 |
+| Say Cheese | 16.00% | ~68,537 |
 | Skillful Spirit Guide | 15.00% | ~64,253 |
-| Piercing Blow | 14.00% | ~59,969 |
+| Piercing Blow | 14.00% | ~59,970 |
 | Zen Master | 8.00% | ~34,268 |
 | Curse Collector | 7.00% | ~29,985 |
 | The Last Stop | 7.00% | ~29,985 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,855 |
 | Master Spirit Guide | 0.30% | ~1,285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,351 (Ranked 40)  
+Progressed: 428,354 (Ranked 40)  
 Completed: 535 (0.12%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 535 (0.12%) (Ranked 233)
 | 2023-10-03 | 428,302 | 534 |
 | 2023-10-04 | 428,321 | 534 |
 | 2023-10-05 | 428,338 | 534 |
-| 2023-10-06 | 428,351 | 535 |
+| 2023-10-06 | 428,354 | 535 |
 ## Awards
 Max (Great Boss Battles): 1,325  (Ranked 132)  
 Sum: 1,679 (Ranked 214)  

@@ -3,7 +3,7 @@
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
   "Ranking_Rating": 139,
-  "Ranking_Popularity": 245,
+  "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
@@ -1527,6 +1527,6 @@
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
   "LastChanged": "2023-10-06T16:58:47.4858802+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:42.8698392+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:59:25.4333317+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:07:11.3767291+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:59:17.8584305+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:06:48.3589958+00:00"
 }

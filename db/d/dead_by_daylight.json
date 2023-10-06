@@ -11027,9 +11027,9 @@
       "Count": 25135
     }
   ],
-  "EOS_Progressed": 922546,
+  "EOS_Progressed": 922660,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13582,
+  "EOS_NewPlayers": 13579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30222,6 +30222,11 @@
       "Time": "2023-10-06T20:04:07.4251888+00:00",
       "NumProgressed": 922546,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T21:03:29.3388922+00:00",
+      "NumProgressed": 922660,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30369,7 +30374,7 @@
       "Name": "Handyman",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_019",
@@ -30409,7 +30414,7 @@
       "Name": "It wakes",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "ACH_024",
@@ -30417,7 +30422,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_025",
@@ -30441,7 +30446,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_028",
@@ -30465,7 +30470,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_031",
@@ -30647,9 +30652,9 @@
       "ID": "ACH_053",
       "SetID": "16jml5b",
       "Name": "All Aboard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_054",
@@ -30801,7 +30806,7 @@
       "Name": "Sorted",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_073",
@@ -31391,9 +31396,9 @@
       "ID": "ACH_149",
       "SetID": "16jml5b",
       "Name": "Classy Act",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_150",
@@ -31447,9 +31452,9 @@
       "ID": "ACH_156",
       "SetID": "16jml5b",
       "Name": "Resurgence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2768
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH_157",
@@ -31879,9 +31884,9 @@
       "ID": "ACH_210",
       "SetID": "16jml5b",
       "Name": "Lifting The Fog",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_211",
@@ -32064,21 +32069,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 922546,
+      "Progressed": 922660,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 922546,
+      "Progressed": 922660,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-06T18:59:38.0996822+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:04:07.4251882+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:03:29.3388913+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:00:46.8500443+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:04:07.4273385+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:00:29.4428992+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:03:29.3409011+00:00"
 }

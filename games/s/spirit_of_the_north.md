@@ -11,15 +11,15 @@ Number of Ratings: 1,175  (23.09.2022)
 | FOXIN' AROUND | 29.00% | ~20,509 |
 | FETCH | 28.00% | ~19,802 |
 | BLOOMS OF LIGHT | 26.00% | ~18,387 |
-| AWAKEN | 22.00% | ~15,558 |
-| BEST FRIENDS | 22.00% | ~15,558 |
+| AWAKEN | 22.00% | ~15,559 |
+| BEST FRIENDS | 22.00% | ~15,559 |
 | ERADICATE | 21.00% | ~14,851 |
 | SPIRIT BARK | 21.00% | ~14,851 |
 | GARDEN OF LIGHT | 18.00% | ~12,730 |
 | SPIRIT FORM | 16.00% | ~11,315 |
 | WRITTEN IN STONE | 16.00% | ~11,315 |
 | UPROOTING DARKNESS | 15.00% | ~10,608 |
-| WEIGHTLESS | 12.00% | ~8,486 |
+| WEIGHTLESS | 12.00% | ~8,487 |
 | SPIRIT DASH | 11.00% | ~7,779 |
 | OLD COMPANION | 9.00% | ~6,365 |
 | MATCH MAKER | 8.00% | ~5,658 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,414 |
 | KINDRED SPIRITS | 0.60% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,720 (Ranked 91)  
+Progressed: 70,721 (Ranked 91)  
 Completed: 376 (0.53%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 376 (0.53%) (Ranked 166)
 | 2023-10-03 | 70,505 | 374 |
 | 2023-10-04 | 70,573 | 375 |
 | 2023-10-05 | 70,649 | 376 |
-| 2023-10-06 | 70,720 | 376 |
+| 2023-10-06 | 70,721 | 376 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 491)  
 Sum: 114 (Ranked 419)  

@@ -6,15 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~5,535 |
+| It wakes | 0.60% | ~5,536 |
 | Zealous | 0.50% | ~4,613 |
 | Skillful | 0.50% | ~4,613 |
 | Make Some Noise | 0.50% | ~4,613 |
-| Handyman | 0.40% | ~3,690 |
-| Not half bad | 0.40% | ~3,690 |
-| Apt Survivor | 0.40% | ~3,690 |
-| Survival Treasures | 0.40% | ~3,690 |
-| Sorted | 0.40% | ~3,690 |
+| Handyman | 0.40% | ~3,691 |
+| Not half bad | 0.40% | ~3,691 |
+| Apt Survivor | 0.40% | ~3,691 |
+| Survival Treasures | 0.40% | ~3,691 |
+| Sorted | 0.40% | ~3,691 |
+| Resurgence | 0.40% | ~3,691 |
 | The Grand Sacrifice | 0.30% | ~2,768 |
 | Agonizing Escape | 0.30% | ~2,768 |
 | Backdoor Escape | 0.30% | ~2,768 |
@@ -28,7 +29,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I | 0.30% | ~2,768 |
 | Engineer | 0.30% | ~2,768 |
 | Healthy Obsession | 0.30% | ~2,768 |
-| Resurgence | 0.30% | ~2,768 |
 | Close Shave | 0.30% | ~2,768 |
 | Preemptive Strike | 0.30% | ~2,768 |
 | Humanitarian | 0.30% | ~2,768 |
@@ -39,6 +39,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Vulture | 0.20% | ~1,845 |
 | II | 0.20% | ~1,845 |
 | III | 0.20% | ~1,845 |
+| All Aboard | 0.20% | ~1,845 |
 | Holiday Get-Together | 0.20% | ~1,845 |
 | Near-Death Experience | 0.20% | ~1,845 |
 | Cherish your Life | 0.20% | ~1,845 |
@@ -46,11 +47,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.20% | ~1,845 |
 | First to the Punch | 0.20% | ~1,845 |
 | Old West Oasis | 0.20% | ~1,845 |
+| Classy Act | 0.20% | ~1,845 |
 | Every Last Drop | 0.20% | ~1,845 |
 | Raccoon City Recruit | 0.20% | ~1,845 |
 | With Scars to Show | 0.20% | ~1,845 |
 | Flight to Freedom | 0.20% | ~1,845 |
 | A Fast Death | 0.20% | ~1,845 |
+| Lifting The Fog | 0.20% | ~1,845 |
 | Chorus of Chaos | 0.20% | ~1,845 |
 | One More Step | 0.20% | ~1,845 |
 | Second Act | 0.20% | ~1,845 |
@@ -82,7 +85,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Triggered | 0.10% | ~923 |
 | Even Punishment | 0.10% | ~923 |
 | Adept Hag | 0.10% | ~923 |
-| All Aboard | 0.10% | ~923 |
 | Deep Cleansing | 0.10% | ~923 |
 | Adept Ace | 0.10% | ~923 |
 | Shocking Treatment | 0.10% | ~923 |
@@ -166,7 +168,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cleansed in Agony | 0.10% | ~923 |
 | Death of Ignorance | 0.10% | ~923 |
 | Adept Executioner | 0.10% | ~923 |
-| Classy Act | 0.10% | ~923 |
 | Adept Cheryl | 0.10% | ~923 |
 | Speed Kills | 0.10% | ~923 |
 | I See You | 0.10% | ~923 |
@@ -217,7 +218,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cruelty Loves Company | 0.10% | ~923 |
 | Adept Knight | 0.10% | ~923 |
 | Rebuilding The Borgo | 0.10% | ~923 |
-| Lifting The Fog | 0.10% | ~923 |
 | Adept Vittorio | 0.10% | ~923 |
 | Thrill of the Chase | 0.10% | ~923 |
 | Adept Skull Merchant | 0.10% | ~923 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922,546 (Ranked 14)  
+Progressed: 922,660 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 922,546 | 49 |
+| 2023-10-06 | 922,660 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,873 (Ranked 13)  

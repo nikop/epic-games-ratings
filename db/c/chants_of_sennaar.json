@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.8,
+  "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1177,6 +1177,11 @@
       "Time": "2023-10-06T18:05:53.9012146+00:00",
       "NumProgressed": 250,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-06T21:06:23.6993624+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1292,7 +1297,7 @@
       "Name": "Rascal",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1306,9 +1311,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1354,17 +1359,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROGRESS_N4",
@@ -1387,14 +1392,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:06:43.2587267+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:06:23.6993618+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:58:55.1698849+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:06:43.2587728+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:58:48.3566989+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:06:23.6993903+00:00"
 }

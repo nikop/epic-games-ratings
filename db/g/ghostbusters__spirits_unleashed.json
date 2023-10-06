@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2310,7 +2310,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26249,
+  "EOS_Progressed": 26250,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -14350,6 +14350,11 @@
       "Time": "2023-10-06T20:08:46.1653737+00:00",
       "NumProgressed": 26249,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-06T21:08:19.8942418+00:00",
+      "NumProgressed": 26250,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14505,7 +14510,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ghost_Expert",
@@ -14609,7 +14614,7 @@
       "Name": "Right back at ya",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Rivalry",
@@ -14673,7 +14678,7 @@
       "Name": "Summoner",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Surprise",
@@ -14705,7 +14710,7 @@
       "Name": "Terrifying",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Therapeutic",
@@ -14753,7 +14758,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Whoopsie",
@@ -14768,7 +14773,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26249,
+      "Progressed": 26250,
       "Completed": 58
     }
   ],
@@ -14776,8 +14781,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-06T04:58:35.5533031+00:00",
-  "LastChanged_Achievements": "2023-10-06T20:08:46.1653729+00:00",
+  "LastChanged_Achievements": "2023-10-06T21:08:19.8942413+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:00:07.7300388+00:00",
-  "LastUpdate_Achievements": "2023-10-06T20:08:46.1655829+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:59:56.2519759+00:00",
+  "LastUpdate_Achievements": "2023-10-06T21:08:19.89436+00:00"
 }
