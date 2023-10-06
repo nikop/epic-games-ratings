@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.76% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.72% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -47,13 +47,13 @@
 | 45 | [Scorn](games/s/scorn.md) | 7.06% |
 | 46 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.97% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
-| 48 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
-| 49 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 50 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 50 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 52 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.79% |
-| 53 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
-| 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.68% |
+| 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
+| 49 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
+| 50 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 51 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
+| 53 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.79% |
+| 54 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.77% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 56 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 57 | [JARS](games/j/jars.md) | 5.06% |
@@ -227,9 +227,9 @@
 | 223 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 223 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 228 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 228 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.14% |
-| 228 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.14% |
+| 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
+| 229 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 229 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.14% |
 | 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
@@ -253,16 +253,16 @@
 | 246 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.09% |
 | 246 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 253 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 254 | [Black Book](games/b/black_book.md) | 0.07% |
 | 254 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 254 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 254 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 254 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 254 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 260 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
-| 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 259 | [Black Book](games/b/black_book.md) | 0.06% |
+| 259 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 259 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 259 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
+| 259 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 264 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 264 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 264 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
