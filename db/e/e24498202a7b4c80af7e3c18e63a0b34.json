@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5655,
+  "EOS_Progressed": 5656,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2528,6 +2528,11 @@
       "Time": "2023-10-06T01:48:44.5446472+00:00",
       "NumProgressed": 5655,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-06T02:23:03.8661428+00:00",
+      "NumProgressed": 5656,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2540,7 +2545,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "achievement_01_02",
@@ -2556,7 +2561,7 @@
       "Name": "Brand New Ride",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3393
+      "UsersEstimate": 3394
     },
     {
       "ID": "achievement_01_04",
@@ -2564,7 +2569,7 @@
       "Name": "Bzzzt",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "achievement_01_05",
@@ -2572,7 +2577,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "achievement_01_06",
@@ -2604,7 +2609,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "achievement_01_10",
@@ -2650,9 +2655,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1188
     },
     {
       "ID": "achievement_02_06",
@@ -2684,7 +2689,7 @@
       "Name": "USA - Check!",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "achievement_03_02",
@@ -2804,7 +2809,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "achievement_04_06",
@@ -2820,7 +2825,7 @@
       "Name": "Nitro Saver",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "achievement_04_08",
@@ -2843,7 +2848,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5655,
+      "Progressed": 5656,
       "Completed": 20
     }
   ],
@@ -2851,8 +2856,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-04T18:00:34.2013803+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:48:44.5446467+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:23:03.8661412+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:43:41.8207425+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:48:44.5447242+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:18:04.0561452+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:23:03.8661899+00:00"
 }

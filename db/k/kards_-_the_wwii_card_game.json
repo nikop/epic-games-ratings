@@ -4,10 +4,10 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 738,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -2520,10 +2520,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 3816,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2023-10-06T02:14:28.015801+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3817,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3816,
+  "NumberOfAwards": 3817,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2537,7 +2543,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 495
+      "Count": 496
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2599,8 +2605,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-10-03T12:02:10.3443216+00:00",
+  "LastChanged": "2023-10-06T02:14:28.0158008+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.0395023+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:40:10.6554189+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:47:16.5566983+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:14:28.0158015+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:21:33.6872282+00:00"
 }

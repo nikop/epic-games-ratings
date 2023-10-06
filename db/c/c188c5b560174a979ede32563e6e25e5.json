@@ -2,9 +2,9 @@
   "ID": "c188c5b560174a979ede32563e6e25e5",
   "Name": "Eternal Evil",
   "ProductSlug": "eternal-evil-ca15ca",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-21T04:00:00+00:00",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-07-22T21:57:04.2311257+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.7873877+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:48:52.5202883+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:23:11.8696259+00:00",
   "LastUpdate_AppInfo": "2023-09-29T15:57:16.1436372+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:43:18.824437+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:48:52.5203265+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:17:38.057307+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:23:11.8696503+00:00"
 }

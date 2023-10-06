@@ -5,13 +5,13 @@ Rating: 4.63 (Ranked 335)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.30% | ~72 |
 | First Bounty Down | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
 | Don't Knife The Hand That Feeds | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Creature Feature | 0.20% | ~48 |
-| Satisfied Gus-tomer | 0.20% | ~48 |
 | Are You Packin'? | 0.20% | ~48 |
 | Bring A Knife to a Gun Fight | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 335)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,123 (Ranked 119)  
+Progressed: 24,124 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 13 (0.05%) (Ranked 264)
 | 2023-10-03 | 24,113 | 12 |
 | 2023-10-04 | 24,118 | 12 |
 | 2023-10-05 | 24,122 | 13 |
-| 2023-10-06 | 24,123 | 13 |
+| 2023-10-06 | 24,124 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

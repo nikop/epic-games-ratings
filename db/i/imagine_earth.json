@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-09-23T12:06:43.4338481+00:00",
       "NumProgressed": 417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T02:22:46.7282336+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -389,7 +394,7 @@
       "Name": "Campaign Gold",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CampaignStars4",
@@ -469,7 +474,7 @@
       "Name": "Edora",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "PlanetIqunox",
@@ -485,7 +490,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PlanetLorian",
@@ -493,7 +498,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PlanetMagni",
@@ -507,9 +512,9 @@
       "ID": "PlanetRounos",
       "SetID": "c2k469b",
       "Name": "Rounos",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "PlanetThera",
@@ -525,7 +530,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "PlanetUdionTorix",
@@ -556,7 +561,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 0
     }
   ],
@@ -564,8 +569,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:48:27.7023704+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:22:46.7282326+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:01.2331106+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:41:26.1808851+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:48:27.7024026+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:15:39.0937305+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:22:46.7282538+00:00"
 }

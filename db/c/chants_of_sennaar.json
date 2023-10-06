@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1281,9 +1281,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1368,8 +1368,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:47:37.1238691+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:21:55.1759462+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:40:29.3291776+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:47:37.1239127+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:14:44.8304554+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:21:55.1759743+00:00"
 }

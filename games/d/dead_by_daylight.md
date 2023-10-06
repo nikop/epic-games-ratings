@@ -7,10 +7,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.50% | ~4,606 |
-| Zealous | 0.40% | ~3,684 |
-| Not half bad | 0.40% | ~3,684 |
-| Skillful | 0.40% | ~3,684 |
-| Make Some Noise | 0.40% | ~3,684 |
+| Zealous | 0.40% | ~3,685 |
+| Not half bad | 0.40% | ~3,685 |
+| Skillful | 0.40% | ~3,685 |
+| Make Some Noise | 0.40% | ~3,685 |
 | The Grand Sacrifice | 0.30% | ~2,763 |
 | No one left behind | 0.30% | ~2,763 |
 | Medic | 0.30% | ~2,763 |
@@ -23,6 +23,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.30% | ~2,763 |
 | Healthy Obsession | 0.30% | ~2,763 |
 | Resurgence | 0.30% | ~2,763 |
+| Preemptive Strike | 0.30% | ~2,763 |
 | Agonizing Escape | 0.20% | ~1,842 |
 | Backdoor Escape | 0.20% | ~1,842 |
 | I've got your back | 0.20% | ~1,842 |
@@ -36,7 +37,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.20% | ~1,842 |
 | Wounded Healer | 0.20% | ~1,842 |
 | Close Shave | 0.20% | ~1,842 |
-| Preemptive Strike | 0.20% | ~1,842 |
 | Humanitarian | 0.20% | ~1,842 |
 | With Scars to Show | 0.20% | ~1,842 |
 | Second Act | 0.20% | ~1,842 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~921 |
 | Adept Ripley | 0.10% | ~921 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,114 (Ranked 14)  
+Progressed: 921,145 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,114 | 49 |
+| 2023-10-06 | 921,145 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,648 (Ranked 13)  

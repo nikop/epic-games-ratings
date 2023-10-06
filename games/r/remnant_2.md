@@ -10,31 +10,31 @@ Rating: 4.76 (Ranked 118)
 | Expanding Horizons | 7.00% | ~13,336 |
 | Quest for Survival | 7.00% | ~13,336 |
 | Not Your Average Trait | 7.00% | ~13,336 |
-| Gleaming the Cube | 6.00% | ~11,430 |
-| Not a Janitor | 6.00% | ~11,430 |
-| Familiar Face | 6.00% | ~11,430 |
-| Duality | 6.00% | ~11,430 |
-| Boss'n Up | 6.00% | ~11,430 |
-| Trait Chaser | 6.00% | ~11,430 |
-| Not So Special Now | 5.00% | ~9,525 |
-| Equal Measures | 5.00% | ~9,525 |
-| Blue Goddess | 5.00% | ~9,525 |
-| Top Performer | 5.00% | ~9,525 |
-| Shhh...It's a Secret | 5.00% | ~9,525 |
-| Almost There | 5.00% | ~9,525 |
-| Make Some Room | 5.00% | ~9,525 |
-| Good, But Could Be Better! | 5.00% | ~9,525 |
-| Chaos | 4.00% | ~7,620 |
-| Traitor | 4.00% | ~7,620 |
-| Forever is a Long Time Coming | 4.00% | ~7,620 |
-| Power Surge | 4.00% | ~7,620 |
-| The God Gambit | 4.00% | ~7,620 |
-| Dark Designs | 4.00% | ~7,620 |
-| Madman's Paradise | 4.00% | ~7,620 |
-| Was This Supposed To Happen? | 4.00% | ~7,620 |
-| The Web | 4.00% | ~7,620 |
-| Scrap Collector | 4.00% | ~7,620 |
-| All These Traits� | 4.00% | ~7,620 |
+| Gleaming the Cube | 6.00% | ~11,431 |
+| Not a Janitor | 6.00% | ~11,431 |
+| Familiar Face | 6.00% | ~11,431 |
+| Duality | 6.00% | ~11,431 |
+| Boss'n Up | 6.00% | ~11,431 |
+| Trait Chaser | 6.00% | ~11,431 |
+| Not So Special Now | 5.00% | ~9,526 |
+| Equal Measures | 5.00% | ~9,526 |
+| Blue Goddess | 5.00% | ~9,526 |
+| Top Performer | 5.00% | ~9,526 |
+| Shhh...It's a Secret | 5.00% | ~9,526 |
+| Almost There | 5.00% | ~9,526 |
+| Make Some Room | 5.00% | ~9,526 |
+| Good, But Could Be Better! | 5.00% | ~9,526 |
+| Chaos | 4.00% | ~7,621 |
+| Traitor | 4.00% | ~7,621 |
+| Forever is a Long Time Coming | 4.00% | ~7,621 |
+| Power Surge | 4.00% | ~7,621 |
+| The God Gambit | 4.00% | ~7,621 |
+| Dark Designs | 4.00% | ~7,621 |
+| Madman's Paradise | 4.00% | ~7,621 |
+| Was This Supposed To Happen? | 4.00% | ~7,621 |
+| The Web | 4.00% | ~7,621 |
+| Scrap Collector | 4.00% | ~7,621 |
+| All These Traits� | 4.00% | ~7,621 |
 | Am I Seeing This? | 3.00% | ~5,715 |
 | The Agenda | 3.00% | ~5,715 |
 | Tall Tales | 3.00% | ~5,715 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,905 |
 | Ghost in the Machine | 0.90% | ~1,715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,508 (Ranked 66)  
+Progressed: 190,515 (Ranked 66)  
 Completed: 363 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 363 (0.19%) (Ranked 217)
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
 | 2023-10-05 | 190,476 | 363 |
-| 2023-10-06 | 190,508 | 363 |
+| 2023-10-06 | 190,515 | 363 |
 ## Awards
 Max (Great Boss Battles): 1,776  (Ranked 117)  
 Sum: 3,762 (Ranked 154)  

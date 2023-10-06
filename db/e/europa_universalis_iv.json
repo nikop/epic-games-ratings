@@ -10350,9 +10350,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 423218,
+  "EOS_Progressed": 423233,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6425,
+  "EOS_NewPlayers": 6427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29440,6 +29440,11 @@
       "Time": "2023-10-06T01:49:23.5434755+00:00",
       "NumProgressed": 423218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T02:23:44.3583256+00:00",
+      "NumProgressed": 423233,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -29891,7 +29896,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -30283,7 +30288,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "achievement_forever_golden",
@@ -30475,7 +30480,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -31451,7 +31456,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -32282,21 +32287,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 423218,
+      "Progressed": 423233,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 423218,
+      "Progressed": 423233,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-05T19:02:21.6832638+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:49:23.5434746+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:23:44.3583245+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:45:07.4101558+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:49:23.5460445+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:19:10.8310943+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:23:44.3595983+00:00"
 }

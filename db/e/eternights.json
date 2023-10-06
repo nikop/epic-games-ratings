@@ -935,9 +935,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -951,9 +951,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1078,8 +1078,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:49:01.8481295+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:23:21.635602+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:22.5732106+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:40:51.6996654+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:49:01.8481802+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:15:07.7423069+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:23:21.6356251+00:00"
 }

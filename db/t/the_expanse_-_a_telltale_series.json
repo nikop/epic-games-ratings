@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13609,
+  "EOS_Progressed": 13610,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7782,6 +7782,11 @@
       "Time": "2023-10-06T01:48:59.6454439+00:00",
       "NumProgressed": 13609,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-06T02:23:19.2935817+00:00",
+      "NumProgressed": 13610,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7856,9 +7861,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "18",
@@ -8000,9 +8005,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "7",
@@ -8033,7 +8038,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13609,
+      "Progressed": 13610,
       "Completed": 12
     }
   ],
@@ -8041,8 +8046,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-06T01:48:59.6454432+00:00",
+  "LastChanged_Achievements": "2023-10-06T02:23:19.293581+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T01:43:51.5103584+00:00",
-  "LastUpdate_Achievements": "2023-10-06T01:48:59.6455639+00:00"
+  "LastUpdate_Ratings": "2023-10-06T02:19:05.5558202+00:00",
+  "LastUpdate_Achievements": "2023-10-06T02:23:19.2936546+00:00"
 }
