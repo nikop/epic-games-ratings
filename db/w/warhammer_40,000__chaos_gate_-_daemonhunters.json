@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3846,9 +3846,9 @@
       "ID": "Kills_Vakir",
       "SetID": "3jha1np",
       "Name": "Hands-On Research",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "KoramarCompleted",
@@ -4006,9 +4006,9 @@
       "ID": "ReaperDefeated_Dolorus",
       "SetID": "3jha1np",
       "Name": "Engine Kill",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -4062,9 +4062,9 @@
       "ID": "StrategicCommand",
       "SetID": "2im8phi",
       "Name": "Strategic Command",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "UnlockedAllStratagems",
@@ -4164,8 +4164,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:09:06.8015541+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:09:57.035437+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.5419722+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:58:09.3336978+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:09:06.8016236+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:58:47.2982466+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:09:57.035553+00:00"
 }

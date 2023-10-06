@@ -24,7 +24,7 @@ Rating: 4.36 (Ranked 759)
 | Aesop's fable | 28.00% | ~298 |
 | Hotel sleuthing | 28.00% | ~298 |
 | Kaboom | 27.00% | ~288 |
-| Nearly there | 25.00% | ~266 |
+| Nearly there | 26.00% | ~277 |
 | Broken heart | 23.00% | ~245 |
 | Island boy | 22.00% | ~234 |
 | You're a star | 20.00% | ~213 |

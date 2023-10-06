@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8273,
+  "EOS_Progressed": 8275,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -5698,6 +5698,11 @@
       "Time": "2023-10-06T19:03:49.2886271+00:00",
       "NumProgressed": 8273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T20:05:02.6530116+00:00",
+      "NumProgressed": 8275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -5885,7 +5890,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "superMartSuccess",
@@ -5893,7 +5898,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "templeAllObjectives",
@@ -5932,7 +5937,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8273,
+      "Progressed": 8275,
       "Completed": 0
     }
   ],
@@ -5940,8 +5945,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:03:49.2886267+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:05:02.6530106+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.3845708+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:02:13.3976861+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:03:49.2886683+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:46.9748173+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:05:02.6531079+00:00"
 }

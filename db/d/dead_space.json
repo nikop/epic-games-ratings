@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -646,7 +646,7 @@
   ],
   "EOS_Progressed": 809,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2742,9 +2742,9 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 332
     }
   ],
   "AchievementSets": [
@@ -2759,8 +2759,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-06T19:00:16.6194249+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:03:46.7551519+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:04:59.1178122+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:00:16.6194254+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:03:46.7551933+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:01:43.0172087+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:04:59.1178738+00:00"
 }

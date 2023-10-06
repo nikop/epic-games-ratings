@@ -2,13 +2,13 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4376,10 +4376,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 7247,
       "NumberOfAwardsMax": 3801
+    },
+    {
+      "Time": "2023-10-06T20:02:39.5624427+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 7248,
+      "NumberOfAwardsMax": 3801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7247,
+  "NumberOfAwards": 7248,
   "NumberOfAwardsMax": 3801,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4423,7 +4429,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 389
+      "Count": 390
     },
     {
       "Text": "This game is Relaxing",
@@ -4449,8 +4455,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-10-06T17:01:04.3561059+00:00",
+  "LastChanged": "2023-10-06T20:02:39.5624423+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.9045854+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:00:57.8979764+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:06:16.7032977+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:02:39.5624434+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:07:52.8559087+00:00"
 }

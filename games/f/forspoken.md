@@ -1,20 +1,20 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 912)  
+Rating: 4.15 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,185 |
-| Unlocked Potential | 9.00% | ~3,766 |
+| Unlocked Potential | 9.00% | ~3,767 |
 | Tinkerer | 7.00% | ~2,930 |
 | Knock 'Em Dead | 7.00% | ~2,930 |
 | Leapfrogger | 6.00% | ~2,511 |
 | Pilgrimage: Initiate | 6.00% | ~2,511 |
 | Hell of a Run | 6.00% | ~2,511 |
 | Call of the Fount: Baptized | 6.00% | ~2,511 |
-| No Mercy | 5.00% | ~2,092 |
-| Explorer: Seeker | 5.00% | ~2,092 |
+| No Mercy | 5.00% | ~2,093 |
+| Explorer: Seeker | 5.00% | ~2,093 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,674 |
 | Stuck | 4.00% | ~1,674 |
 | Help Me Out Here | 4.00% | ~1,674 |
@@ -28,12 +28,12 @@ Rating: 4.15 (Ranked 912)
 | Explorer: Pathfinder | 2.00% | ~837 |
 | Shocker | 2.00% | ~837 |
 | From Every Angle | 2.00% | ~837 |
-| The Hue of Blue | 1.00% | ~418 |
-| The Truth Will Out | 1.00% | ~418 |
-| Breaking Point | 1.00% | ~418 |
-| None the Wiser | 1.00% | ~418 |
-| Forspoken | 1.00% | ~418 |
-| Pilgrimage: Novice | 1.00% | ~418 |
+| The Hue of Blue | 1.00% | ~419 |
+| The Truth Will Out | 1.00% | ~419 |
+| Breaking Point | 1.00% | ~419 |
+| None the Wiser | 1.00% | ~419 |
+| Forspoken | 1.00% | ~419 |
+| Pilgrimage: Novice | 1.00% | ~419 |
 | Wildfire | 0.70% | ~293 |
 | Realized Potential | 0.70% | ~293 |
 | Awakening | 0.60% | ~251 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 912)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,850 (Ranked 104)  
+Progressed: 41,851 (Ranked 104)  
 Completed: 3 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 3 (0.01%) (Ranked 288)
 | 2023-10-03 | 41,648 | 3 |
 | 2023-10-04 | 41,743 | 3 |
 | 2023-10-05 | 41,816 | 3 |
-| 2023-10-06 | 41,850 | 3 |
+| 2023-10-06 | 41,851 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 483)  
 Sum: 27 (Ranked 496)  

@@ -24,7 +24,7 @@ Rating: 4.61 (Ranked 371)
 | Live with the Hot Ones | 42.00% | ~340 |
 | Get Off My Ship! | 42.00% | ~340 |
 | Strange Transmissions | 42.00% | ~340 |
-| Wreckage | 40.00% | ~324 |
+| Wreckage | 41.00% | ~332 |
 | Keeper of the Faith | 38.00% | ~307 |
 | Betrayed | 36.00% | ~291 |
 | There's Always Peng! | 36.00% | ~291 |

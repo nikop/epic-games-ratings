@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6913,
+  "EOS_Progressed": 6915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3538,6 +3538,11 @@
       "Time": "2023-10-06T19:08:31.1649311+00:00",
       "NumProgressed": 6913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T20:09:49.7571164+00:00",
+      "NumProgressed": 6915,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3598,7 +3603,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "CreditsSpent50000",
@@ -3662,7 +3667,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "GamesPlayed1",
@@ -3670,7 +3675,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "GamesPlayed10",
@@ -3694,7 +3699,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "GamesWon10",
@@ -3766,7 +3771,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "HSUPurchased1",
@@ -3814,7 +3819,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "InhibitorKills3",
@@ -3982,7 +3987,7 @@
       "Name": "10 Eliminations",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "PlayerKills100",
@@ -4141,7 +4146,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6913,
+      "Progressed": 6915,
       "Completed": 1
     }
   ],
@@ -4149,8 +4154,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:08:31.1649306+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:09:49.7571157+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:00:52.9115839+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:08:31.1650103+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:02:32.2498802+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:09:49.7572255+00:00"
 }

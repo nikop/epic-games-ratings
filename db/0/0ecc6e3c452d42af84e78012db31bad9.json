@@ -3,8 +3,8 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3366,
+  "EOS_Progressed": 3369,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -7586,6 +7586,11 @@
       "Time": "2023-10-06T18:06:51.6417097+00:00",
       "NumProgressed": 3366,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-06T20:07:43.8640661+00:00",
+      "NumProgressed": 3369,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 16,
@@ -7597,7 +7602,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -7613,7 +7618,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_animals_completed",
@@ -7629,7 +7634,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2594
     },
     {
       "ID": "ach_architecture_completed",
@@ -7645,7 +7650,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ach_bomb",
@@ -7653,7 +7658,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ach_color_splash",
@@ -7661,7 +7666,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ach_first_picture",
@@ -7669,7 +7674,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2729
     },
     {
       "ID": "ach_food_completed",
@@ -7685,7 +7690,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ach_game_opened",
@@ -7693,7 +7698,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2527
     },
     {
       "ID": "ach_magic_wand",
@@ -7701,7 +7706,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ach_no_boosters",
@@ -7709,7 +7714,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "ach_tornado",
@@ -7717,21 +7722,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3366,
+      "Progressed": 3369,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:06:07.228638+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:07:43.8640653+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:00:15.9676765+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:06:07.2286821+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:01:42.2304678+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:07:43.8641281+00:00"
 }

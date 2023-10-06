@@ -17,8 +17,8 @@ Rating: 3.54 (Ranked 1,009)
 | ICU | 0.90% | ~16 |
 | Sucks To Be You | 0.90% | ~16 |
 | Wounded Whispers | 0.90% | ~16 |
+| Heart Attack | 0.90% | ~16 |
 | Welcome to the Neighborhood | 0.80% | ~14 |
-| Heart Attack | 0.80% | ~14 |
 | Skin of Their Teeth | 0.80% | ~14 |
 | Home Is Where the Heart Is | 0.70% | ~12 |
 | Neighborhood Revitalization | 0.60% | ~11 |

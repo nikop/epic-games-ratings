@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -261,9 +261,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202911,
+  "EOS_Progressed": 202916,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18526,6 +18526,11 @@
       "Time": "2023-10-06T19:07:15.8245312+00:00",
       "NumProgressed": 202911,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-10-06T20:08:47.3878551+00:00",
+      "NumProgressed": 202916,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 29,
@@ -18561,7 +18566,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190736
+      "UsersEstimate": 190741
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -18721,7 +18726,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -18768,7 +18773,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202911,
+      "Progressed": 202916,
       "Completed": 512
     }
   ],
@@ -18776,8 +18781,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:07:15.8245307+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:08:47.3878546+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.6444699+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:59:05.8020536+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:07:15.8246332+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:00:00.1109529+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:08:47.3879909+00:00"
 }

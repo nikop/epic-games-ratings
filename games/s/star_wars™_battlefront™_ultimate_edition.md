@@ -36,10 +36,10 @@
 | When 900 years old you reach... | 5.00% | ~23 |
 | Determined | 5.00% | ~23 |
 | Your journey has only started | 5.00% | ~23 |
+| That's no moon | 5.00% | ~23 |
 | Precision shot | 4.00% | ~19 |
 | Safety ain't the point of a joyride | 4.00% | ~19 |
 | City in the Clouds | 4.00% | ~19 |
-| That's no moon | 4.00% | ~19 |
 | What will you become? | 4.00% | ~19 |
 | Disturbed tranquility | 4.00% | ~19 |
 | Hold the line! | 3.00% | ~14 |

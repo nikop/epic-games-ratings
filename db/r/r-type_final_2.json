@@ -2,13 +2,13 @@
   "ID": "37ed871e17ab4466b4d5da28e9576ea6",
   "Name": "R-Type Final 2",
   "ProductSlug": "r-type-final-2",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-04-30T17:00:00+00:00",
     "PcReleaseDate": "2021-04-30T17:00:00+00:00",
@@ -56,6 +56,6 @@
   "FirstSeenRating": "2023-03-31T05:57:05.459304+00:00",
   "LastChanged": "2023-09-02T03:57:19.1123576+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:30.3251921+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:59:51.5035593+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:07:30.6818818+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:01:07.3591621+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:09:08.2200679+00:00"
 }

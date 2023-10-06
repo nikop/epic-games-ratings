@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -366,7 +366,7 @@
   "Tags": [],
   "EOS_Progressed": 2977,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2369,9 +2369,9 @@
       "ID": "achievement_0016",
       "SetID": "9123ogc",
       "Name": "Hitting a Season",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_0017",
@@ -2417,9 +2417,9 @@
       "ID": "achievement_0022",
       "SetID": "9123ogc",
       "Name": "A Dozen Pieces",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_0023",
@@ -2465,9 +2465,9 @@
       "ID": "achievement_0028",
       "SetID": "9123ogc",
       "Name": "Spinning Around",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_0029",
@@ -2650,8 +2650,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:03:40.9200586+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:04:50.8570856+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:01:18.3383975+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:03:40.9200999+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:12.3712023+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:04:50.857141+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Ursus - Do Not Use",
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:09.7833226+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:58:06.9058148+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:04:46.8041251+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:58:42.5979326+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:06:22.8892895+00:00"
 }

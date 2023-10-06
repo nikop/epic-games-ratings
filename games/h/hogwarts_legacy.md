@@ -1,19 +1,19 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,685 |
-| First Class Student | 13.00% | ~38,727 |
-| Troll with the Punches | 13.00% | ~38,727 |
-| A Keen Sense of Spell | 12.00% | ~35,748 |
-| That's a Keeper | 12.00% | ~35,748 |
-| The Hallowed Hero | 11.00% | ~32,769 |
-| The Defender of Dragons | 11.00% | ~32,769 |
-| Loom for Improvement | 11.00% | ~32,769 |
-| A Talent for Spending | 11.00% | ~32,769 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,686 |
+| First Class Student | 13.00% | ~38,728 |
+| Troll with the Punches | 13.00% | ~38,728 |
+| A Keen Sense of Spell | 12.00% | ~35,749 |
+| That's a Keeper | 12.00% | ~35,749 |
+| The Hallowed Hero | 11.00% | ~32,770 |
+| The Defender of Dragons | 11.00% | ~32,770 |
+| Loom for Improvement | 11.00% | ~32,770 |
+| A Talent for Spending | 11.00% | ~32,770 |
 | Grappling with a Graphorn | 10.00% | ~29,790 |
 | The One Who Mastered Memories | 10.00% | ~29,790 |
 | The Hero of Hogwarts | 10.00% | ~29,790 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,902 (Ranked 46)  
+Progressed: 297,905 (Ranked 46)  
 Completed: 481 (0.16%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 481 (0.16%) (Ranked 222)
 | 2023-10-03 | 297,777 | 480 |
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
-| 2023-10-06 | 297,902 | 481 |
+| 2023-10-06 | 297,905 | 481 |
 ## Awards
 Max (Character Customization): 23,322  (Ranked 17)  
 Sum: 45,190 (Ranked 31)  

@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1593,9 +1593,9 @@
       "ID": "achievement_54",
       "SetID": "cemm4l8",
       "Name": "That\u0027s no moon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_55",
@@ -1720,8 +1720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:05:39.3097861+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:07:21.7972596+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:03:03.9696032+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:05:39.309844+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:56.1086083+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:07:21.7973986+00:00"
 }

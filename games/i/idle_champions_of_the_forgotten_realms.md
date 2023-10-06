@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 949)  
+Rating: 4.06 (Ranked 948)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,090 (Ranked 57)  
+Progressed: 231,098 (Ranked 57)  
 Completed: 2,336 (1.01%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -704,17 +704,17 @@ Completed: 2,336 (1.01%) (Ranked 136)
 | 2023-10-03 | 230,833 | 2,326 |
 | 2023-10-04 | 230,902 | 2,329 |
 | 2023-10-05 | 231,008 | 2,332 |
-| 2023-10-06 | 231,090 | 2,336 |
+| 2023-10-06 | 231,098 | 2,336 |
 ## Awards
 Max (Diverse Characters): 5,363  (Ranked 69)  
-Sum: 31,924 (Ranked 41)  
+Sum: 31,925 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,363 |
 | This game is Great for Beginners | 5,360 |
 | This game has Quickly Understood Controls | 4,785 |
-| This game is Relaxing | 4,670 |
+| This game is Relaxing | 4,671 |
 | This game is Highly Recommended | 4,144 |
 | This game has Amazing Characters | 4,144 |
 | This game has Playful Visuals | 3,458 |
@@ -974,4 +974,4 @@ Diff (max vs sum): 28
 | 2023-10-03 | 4.06 | - | 5,354 | 31,886 |
 | 2023-10-04 | 4.06 | - | 5,358 | 31,893 |
 | 2023-10-05 | 4.06 | - | 5,363 | 31,906 |
-| 2023-10-06 | 4.06 | - | 5,363 | 31,924 |
+| 2023-10-06 | 4.06 | - | 5,363 | 31,925 |

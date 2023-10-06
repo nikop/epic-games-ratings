@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 552)  
+Rating: 4.51 (Ranked 551)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,9 +12,9 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 33.00% | ~5,141 |
 | Let there be darkness | 32.00% | ~4,985 |
 | End of Book One | 30.00% | ~4,673 |
+| Wannabe knight | 24.00% | ~3,739 |
 | Garden of Eden | 24.00% | ~3,739 |
 | Full house | 24.00% | ~3,739 |
-| Wannabe knight | 23.00% | ~3,583 |
 | Help an old friend | 22.00% | ~3,427 |
 | Two of us | 20.00% | ~3,116 |
 | Negotiation skills | 18.00% | ~2,804 |

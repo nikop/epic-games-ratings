@@ -4,8 +4,8 @@
   "ProductSlug": "oddsparks-58440c",
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-09-29T19:57:00.4296792+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:59:08.5597147+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:06:17.5591406+00:00"
+  "LastUpdate_AppInfo": "2023-10-06T19:57:04.0103322+00:00",
+  "LastUpdate_Ratings": "2023-10-06T20:00:03.5070776+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:07:54.0846869+00:00"
 }

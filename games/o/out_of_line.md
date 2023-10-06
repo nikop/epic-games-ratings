@@ -1,7 +1,7 @@
 # Out of Line
 [Store](https://store.epicgames.com/en-US/p/out-of-line-209cbb)  
 [View Rawdata](../../db/o/out_of_line.json)  
-Rating: 4.26 (Ranked 842)  
+Rating: 4.26 (Ranked 843)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

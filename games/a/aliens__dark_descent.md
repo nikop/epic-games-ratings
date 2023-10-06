@@ -32,7 +32,7 @@ Rating: 4.48 (Ranked 608)
 | The Spire | 25.00% | ~864 |
 | El Riesgo Siempre Vive | 24.00% | ~830 |
 | Stuff Of Nightmares | 23.00% | ~795 |
-| Excavating The Truth | 21.00% | ~726 |
+| Excavating The Truth | 22.00% | ~761 |
 | Abysmal Horrors | 21.00% | ~726 |
 | One For Every Occasion | 20.00% | ~691 |
 | Frontliner | 20.00% | ~691 |

@@ -1,7 +1,7 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,7 +23,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chit Chatter | 3.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,585 (Ranked 143)  
-Completed: 249 (2.35%) (Ranked 97)  
+Completed: 249 (2.35%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

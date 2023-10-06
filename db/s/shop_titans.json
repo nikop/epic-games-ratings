@@ -6388,7 +6388,7 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137208,
+  "EOS_Progressed": 137211,
   "EOS_Completed": 163,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 5,
@@ -23733,6 +23733,11 @@
       "Time": "2023-10-06T19:04:43.6457299+00:00",
       "NumProgressed": 137208,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-10-06T20:06:18.7150182+00:00",
+      "NumProgressed": 137211,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 112,
@@ -23998,9 +24003,9 @@
       "ID": "commonres04",
       "SetID": "anfd17p",
       "Name": "Fillin\u0027 the Bin",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 686
     },
     {
       "ID": "craft01",
@@ -24639,15 +24644,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137208,
+      "Progressed": 137211,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-06T13:03:42.9535228+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:04:43.6457292+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:06:18.7150176+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:57:59.709001+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:04:43.6459324+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:58:31.110114+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:06:18.7152908+00:00"
 }

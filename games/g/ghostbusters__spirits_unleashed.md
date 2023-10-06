@@ -19,10 +19,10 @@ Rating: 4.50 (Ranked 572)
 | Teamwork | 0.80% | ~210 |
 | There you are! | 0.80% | ~210 |
 | Whoopsie | 0.80% | ~210 |
+| Animated | 0.70% | ~184 |
 | Back Off | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
-| Animated | 0.60% | ~157 |
 | Ghostbuster In Training | 0.60% | ~157 |
 | Right back at ya | 0.60% | ~157 |
 | Summoner | 0.60% | ~157 |
@@ -34,6 +34,7 @@ Rating: 4.50 (Ranked 572)
 | We have the best insurance | 0.40% | ~105 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
+| Seasoned | 0.40% | ~105 |
 | Stunner | 0.40% | ~105 |
 | Collector | 0.30% | ~79 |
 | Diabolical | 0.30% | ~79 |
@@ -41,7 +42,6 @@ Rating: 4.50 (Ranked 572)
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |
 | Rivalry | 0.30% | ~79 |
-| Seasoned | 0.30% | ~79 |
 | Tobin's Prodigy | 0.30% | ~79 |
 | Fragile Panes | 0.20% | ~52 |
 | Liability | 0.20% | ~52 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,245 (Ranked 117)  
+Progressed: 26,249 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 58 (0.22%) (Ranked 212)
 | 2023-10-03 | 26,189 | 58 |
 | 2023-10-04 | 26,208 | 58 |
 | 2023-10-05 | 26,225 | 58 |
-| 2023-10-06 | 26,245 | 58 |
+| 2023-10-06 | 26,249 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,366 (Ranked 188)  

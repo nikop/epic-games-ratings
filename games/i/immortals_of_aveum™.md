@@ -5,8 +5,8 @@ Rating: 4.03 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Battlefields Have Memories | 90.00% | ~60 |
 | Unforeseen | 88.00% | ~59 |
-| Battlefields Have Memories | 88.00% | ~59 |
 | Enlisted | 87.00% | ~58 |
 | Maybe Engage a Little | 85.00% | ~57 |
 | No More Names | 72.00% | ~48 |
@@ -22,8 +22,8 @@ Rating: 4.03 (Ranked 959)
 | Resilience to Sin | 25.00% | ~17 |
 | A Familiar Nest | 21.00% | ~14 |
 | Armsman | 21.00% | ~14 |
+| Periapt Alizarin | 21.00% | ~14 |
 | Geas Aristeya | 19.00% | ~13 |
-| Periapt Alizarin | 19.00% | ~13 |
 | A Perfect Cycle | 16.00% | ~11 |
 | Recruit | 16.00% | ~11 |
 | Lights Army | 12.00% | ~8 |

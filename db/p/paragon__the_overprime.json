@@ -2,13 +2,13 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -5506,11 +5506,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 4860,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2023-10-06T19:59:19.7539024+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 4864,
+      "NumberOfAwardsMax": 658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4860,
-  "NumberOfAwardsMax": 656,
+  "NumberOfAwards": 4864,
+  "NumberOfAwardsMax": 658,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5535,7 +5541,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 656
+      "Count": 658
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5553,7 +5559,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 557
+      "Count": 559
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5604,8 +5610,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-10-06T17:59:01.5317687+00:00",
+  "LastChanged": "2023-10-06T19:59:19.7539022+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:36.1447161+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:58:35.699707+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:05:22.8403756+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:59:19.753903+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:06:58.77244+00:00"
 }

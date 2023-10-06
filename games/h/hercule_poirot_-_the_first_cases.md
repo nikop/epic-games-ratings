@@ -12,9 +12,9 @@ Rating: 4.35 (Ranked 772)
 | Little Grey Cells | 69.00% | ~299 |
 | The Bracelet | 66.00% | ~286 |
 | The Blackmail | 55.00% | ~238 |
+| Florette Duval | 55.00% | ~238 |
 | Major Felix Hagen | 55.00% | ~238 |
 | Fine-toothed Comb | 54.00% | ~234 |
-| Florette Duval | 54.00% | ~234 |
 | Order and Method | 52.00% | ~225 |
 | The Altercation | 50.00% | ~216 |
 | Truth from Within | 49.00% | ~212 |

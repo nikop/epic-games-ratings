@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1092,9 +1092,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229056,
+  "EOS_Progressed": 229069,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1584,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13667,6 +13667,11 @@
       "Time": "2023-10-06T19:04:17.3252507+00:00",
       "NumProgressed": 229056,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T20:05:41.967302+00:00",
+      "NumProgressed": 229069,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -13726,7 +13731,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9162
+      "UsersEstimate": 9163
     },
     {
       "ID": "Chapter2",
@@ -14110,7 +14115,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9162
+      "UsersEstimate": 9163
     },
     {
       "ID": "ElfEpic",
@@ -14126,7 +14131,7 @@
       "Name": "Sowwy!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73298
+      "UsersEstimate": 73302
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -14174,7 +14179,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13743
+      "UsersEstimate": 13744
     },
     {
       "ID": "FollowBraztok",
@@ -14206,7 +14211,7 @@
       "Name": "Dead for good",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "KillGolbargh",
@@ -14230,7 +14235,7 @@
       "Name": "Gargantua",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "Orktobearfest",
@@ -14366,7 +14371,7 @@
       "Name": "Material Girl",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "WizardResistBurn",
@@ -14381,21 +14386,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 229056,
+      "Progressed": 229069,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 229056,
+      "Progressed": 229069,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-06T17:58:13.6095633+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:04:17.3252503+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:05:41.967301+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.894237+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:57:52.3695696+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:04:17.3253947+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:58:18.9212234+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:05:41.9674952+00:00"
 }

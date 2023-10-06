@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -690,9 +690,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_33",
@@ -880,8 +880,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:03:51.7052413+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:05:06.1376941+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:09.4608768+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:01:28.5239384+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:03:51.7052794+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:21.7569083+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:05:06.1377782+00:00"
 }

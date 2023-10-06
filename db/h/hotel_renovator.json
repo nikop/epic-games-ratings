@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2078,9 +2078,9 @@
       "ID": "ACH_STAR_4",
       "SetID": "7k95e4n",
       "Name": "Nearly there",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_STAR_5",
@@ -2127,8 +2127,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-30T17:58:02.6555182+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:04:27.9207501+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:05:56.8178815+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.5624233+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:01:17.9576519+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:04:27.9207769+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:11.8198656+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:05:56.8179328+00:00"
 }

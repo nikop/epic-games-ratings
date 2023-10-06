@@ -13,10 +13,10 @@ Rating: 4.66 (Ranked 281)
 | Familiar Faces | 49.00% | ~1,459 |
 | Going the Extra Mile | 43.00% | ~1,280 |
 | Sharing the Love | 41.00% | ~1,221 |
-| Hitting a Season | 35.00% | ~1,042 |
+| Hitting a Season | 36.00% | ~1,072 |
 | Challenge Yourself | 33.00% | ~982 |
 | Making History | 32.00% | ~953 |
-| A Dozen Pieces | 30.00% | ~893 |
+| A Dozen Pieces | 31.00% | ~923 |
 | Network Success | 25.00% | ~744 |
 | Writing a new Chapter | 25.00% | ~744 |
 | Spring Cleaning | 24.00% | ~714 |
@@ -31,9 +31,9 @@ Rating: 4.66 (Ranked 281)
 | Lightning Round the World | 13.00% | ~387 |
 | Hitting a Bullseye | 13.00% | ~387 |
 | Eagle Eye | 12.00% | ~357 |
+| Spinning Around | 12.00% | ~357 |
 | Recycle | 12.00% | ~357 |
 | All in a Weekend's Work | 11.00% | ~327 |
-| Spinning Around | 11.00% | ~327 |
 | Tinkerer | 11.00% | ~327 |
 | Friendly Competition | 10.00% | ~298 |
 | Switcheroo | 10.00% | ~298 |

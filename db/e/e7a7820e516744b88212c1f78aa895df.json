@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -287,6 +287,11 @@
       "Time": "2023-10-06T19:06:32.6724094+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T20:08:15.3134333+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -297,7 +302,7 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -353,7 +358,7 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -522,14 +527,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:06:32.6724089+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:08:15.3134325+00:00",
   "LastUpdate_AppInfo": "2023-10-05T09:57:13.8606524+00:00",
-  "LastUpdate_Ratings": "2023-10-06T18:57:15.0984692+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:06:32.6724268+00:00"
+  "LastUpdate_Ratings": "2023-10-06T19:57:32.9174808+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:08:15.3134696+00:00"
 }

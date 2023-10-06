@@ -38,13 +38,13 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 0.80% | ~26 |
 | Tactical Flexibility | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
+| Engine Kill | 0.70% | ~23 |
 | For the Machine God | 0.60% | ~20 |
 | Preservationist | 0.60% | ~20 |
-| Engine Kill | 0.60% | ~20 |
 | Death Comes For All | 0.60% | ~20 |
+| Hands-On Research | 0.50% | ~16 |
 | Harvest No More | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
-| Hands-On Research | 0.40% | ~13 |
 | Exercise in Restraint | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
 | Reign of Confusion | 0.30% | ~10 |
@@ -53,6 +53,7 @@ Number of Ratings: 371  (23.09.2022)
 | Blood and Iron | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
 | Warp Flickers | 0.20% | ~7 |
+| Strategic Command | 0.20% | ~7 |
 | Abomination | 0.20% | ~7 |
 | Killing Rampage | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -67,7 +68,6 @@ Number of Ratings: 371  (23.09.2022)
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
-| Strategic Command | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |

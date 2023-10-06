@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -391,9 +391,9 @@
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EpicACHV_4",
@@ -431,9 +431,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EpicACHV_9",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-06T19:06:38.255666+00:00",
+  "LastChanged_Achievements": "2023-10-06T20:08:23.0735108+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:11.1249179+00:00",
-  "LastUpdate_Ratings": "2023-10-06T19:02:14.9131601+00:00",
-  "LastUpdate_Achievements": "2023-10-06T19:06:38.2556767+00:00"
+  "LastUpdate_Ratings": "2023-10-06T20:03:49.1230995+00:00",
+  "LastUpdate_Achievements": "2023-10-06T20:08:23.073529+00:00"
 }
