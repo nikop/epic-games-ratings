@@ -261,9 +261,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 202892,
+  "EOS_Progressed": 202896,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18491,6 +18491,11 @@
       "Time": "2023-10-06T11:08:40.3484705+00:00",
       "NumProgressed": 202892,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-10-06T12:06:36.3967733+00:00",
+      "NumProgressed": 202896,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 29,
@@ -18526,7 +18531,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190718
+      "UsersEstimate": 190722
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -18686,7 +18691,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20289
+      "UsersEstimate": 20290
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -18702,7 +18707,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16231
+      "UsersEstimate": 16232
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -18733,7 +18738,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 202892,
+      "Progressed": 202896,
       "Completed": 512
     }
   ],
@@ -18741,8 +18746,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:08:40.34847+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:06:36.3967727+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:21.6444699+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:59:26.9973118+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:08:40.3486068+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:58:43.7979984+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:06:36.3969066+00:00"
 }

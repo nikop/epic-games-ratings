@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -2991,9 +2991,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1227
     },
     {
       "ID": "GetTHWeapon",
@@ -3102,8 +3102,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:04:01.3663867+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:03:28.1330412+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.1453887+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:57:53.3816749+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:04:01.3664273+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:57:40.548353+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:03:28.1330814+00:00"
 }

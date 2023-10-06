@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,743 |
-| Break A Leg | 3.00% | ~20,743 |
-| Coup de Grâce | 3.00% | ~20,743 |
-| Hazardous Materials | 3.00% | ~20,743 |
-| Hotel California | 3.00% | ~20,743 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,743 |
-| Welcome To Hell-A | 3.00% | ~20,743 |
+| Git Gutte! | 3.00% | ~20,744 |
+| Break A Leg | 3.00% | ~20,744 |
+| Coup de Grâce | 3.00% | ~20,744 |
+| Hazardous Materials | 3.00% | ~20,744 |
+| Hotel California | 3.00% | ~20,744 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,744 |
+| Welcome To Hell-A | 3.00% | ~20,744 |
 | Dr. Reed, I Presume? | 2.00% | ~13,829 |
 | Anger Management | 2.00% | ~13,829 |
 | Perks of the Job | 2.00% | ~13,829 |
@@ -30,11 +30,11 @@ Rating: 4.54 (Ranked 507)
 | Stacking the Deck | 2.00% | ~13,829 |
 | Our True Nature | 2.00% | ~13,829 |
 | This is My Weapon | 2.00% | ~13,829 |
-| Making Your Mark | 1.00% | ~6,914 |
-| Humanity Distilled | 1.00% | ~6,914 |
-| Down with the Sickness | 1.00% | ~6,914 |
-| Max Headroom | 1.00% | ~6,914 |
-| Go, Bobcats! | 1.00% | ~6,914 |
+| Making Your Mark | 1.00% | ~6,915 |
+| Humanity Distilled | 1.00% | ~6,915 |
+| Down with the Sickness | 1.00% | ~6,915 |
+| Max Headroom | 1.00% | ~6,915 |
+| Go, Bobcats! | 1.00% | ~6,915 |
 | Jumbo Keyring | 0.90% | ~6,223 |
 | Rising Star | 0.90% | ~6,223 |
 | Smorgasbord | 0.80% | ~5,532 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 507)
 | Donk! | 0.10% | ~691 |
 | Bucket List | 0.10% | ~691 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,442 (Ranked 22)  
+Progressed: 691,452 (Ranked 22)  
 Completed: 2,192 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 2,192 (0.32%) (Ranked 194)
 | 2023-10-03 | 690,441 | 2,189 |
 | 2023-10-04 | 690,859 | 2,190 |
 | 2023-10-05 | 691,288 | 2,192 |
-| 2023-10-06 | 691,442 | 2,192 |
+| 2023-10-06 | 691,452 | 2,192 |
 ## Awards
 Max (Great Boss Battles): 6,327  (Ranked 58)  
 Sum: 9,449 (Ranked 91)  

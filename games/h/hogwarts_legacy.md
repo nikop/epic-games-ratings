@@ -52,7 +52,7 @@ Rating: 4.76 (Ranked 118)
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 297,891 (Ranked 46)  
-Completed: 481 (0.16%) (Ranked 223)  
+Completed: 481 (0.16%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

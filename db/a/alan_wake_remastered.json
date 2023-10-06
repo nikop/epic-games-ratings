@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,7 +524,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67090,
+  "EOS_Progressed": 67091,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 1,
@@ -17049,6 +17049,11 @@
       "Time": "2023-10-06T08:05:30.0252967+00:00",
       "NumProgressed": 67090,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-06T12:05:41.4227275+00:00",
+      "NumProgressed": 67091,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17068,7 +17073,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18114
+      "UsersEstimate": 18115
     },
     {
       "ID": "03",
@@ -17076,7 +17081,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17443
+      "UsersEstimate": 17444
     },
     {
       "ID": "04",
@@ -17084,7 +17089,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "05",
@@ -17212,7 +17217,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "21",
@@ -17220,7 +17225,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10734
+      "UsersEstimate": 10735
     },
     {
       "ID": "22",
@@ -17284,7 +17289,7 @@
       "Name": "Sound and Fury",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10734
+      "UsersEstimate": 10735
     },
     {
       "ID": "30",
@@ -17316,7 +17321,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10734
+      "UsersEstimate": 10735
     },
     {
       "ID": "34",
@@ -17436,7 +17441,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "49",
@@ -17468,7 +17473,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "53",
@@ -17524,7 +17529,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "60",
@@ -17595,21 +17600,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67090,
+      "Progressed": 67091,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30558,
+      "Progressed": 30559,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:07:24.9051123+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:05:41.422727+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:57:15.384526+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:07:24.9052828+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:57:13.1895486+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:05:41.4228955+00:00"
 }

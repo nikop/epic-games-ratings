@@ -7,21 +7,21 @@
 | Lacertian Champion | 14.00% | ~6 |
 | Dicesmithing Time! | 12.00% | ~5 |
 | Loyal Partner | 12.00% | ~5 |
+| Mechanical Buddy | 12.00% | ~5 |
+| Purification Pioneer | 12.00% | ~5 |
 | Stellar Dismantler | 12.00% | ~5 |
 | Wild's Keeper | 12.00% | ~5 |
 | Apian Champion | 12.00% | ~5 |
 | Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Endless Tricks | 9.00% | ~4 |
-| Mechanical Buddy | 9.00% | ~4 |
+| Meissa's Savior | 9.00% | ~4 |
 | Mind Illuminator | 9.00% | ~4 |
-| Purification Pioneer | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
 | Unbeatable | 9.00% | ~4 |
 | Eridanian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
-| Meissa's Savior | 7.00% | ~3 |
 | Shard Spender | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
 | Anomaly Control | 5.00% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9801,9 +9801,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49479,
+  "EOS_Progressed": 49480,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24871,6 +24871,11 @@
       "Time": "2023-10-06T11:03:53.3808865+00:00",
       "NumProgressed": 49479,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-06T12:03:22.4330492+00:00",
+      "NumProgressed": 49480,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -24970,7 +24975,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10885
+      "UsersEstimate": 10886
     },
     {
       "ID": "CutTreeFirst",
@@ -24978,7 +24983,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30182
+      "UsersEstimate": 30183
     },
     {
       "ID": "DeliveryGrapes",
@@ -25018,7 +25023,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29687
+      "UsersEstimate": 29688
     },
     {
       "ID": "Harvested",
@@ -25034,7 +25039,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37109
+      "UsersEstimate": 37110
     },
     {
       "ID": "HorseJumps",
@@ -25130,7 +25135,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10885
+      "UsersEstimate": 10886
     },
     {
       "ID": "NumVehiclesSmall",
@@ -25178,7 +25183,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "TractorDriving",
@@ -25225,15 +25230,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49479,
+      "Progressed": 49480,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-06T10:59:33.7481209+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:03:53.3808862+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:03:22.4330439+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:59:33.7481216+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:03:53.3810057+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:58:49.4340208+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:03:22.4331603+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2310,7 +2310,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26232,
+  "EOS_Progressed": 26234,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -14310,6 +14310,11 @@
       "Time": "2023-10-06T10:07:39.7066159+00:00",
       "NumProgressed": 26232,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-06T12:06:35.1577223+00:00",
+      "NumProgressed": 26234,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14343,9 +14348,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 105
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -14599,9 +14604,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Solo_Capture",
@@ -14728,7 +14733,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26232,
+      "Progressed": 26234,
       "Completed": 58
     }
   ],
@@ -14736,8 +14741,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-06T04:58:35.5533031+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:08:38.9285935+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:06:35.1577216+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:59:34.3262453+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:08:38.9287154+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:58:49.8310442+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:06:35.1578412+00:00"
 }

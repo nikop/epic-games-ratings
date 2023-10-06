@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1513,9 +1513,9 @@
       "ID": "36_supercrash",
       "SetID": "chb1m60",
       "Name": "Supercrash!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "37_maniacvandal",
@@ -1553,8 +1553,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:04:29.3594761+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:03:48.3926917+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:13.62206+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:57:05.4525309+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:04:29.3595147+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:57:07.0427756+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:03:48.3927291+00:00"
 }

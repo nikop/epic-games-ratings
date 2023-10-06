@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -766,10 +766,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2110,
       "NumberOfAwardsMax": 897
+    },
+    {
+      "Time": "2023-10-06T12:00:37.7542025+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2117,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2110,
+  "NumberOfAwards": 2117,
   "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -813,7 +819,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 115
+      "Count": 122
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -846,7 +852,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 6962,
+  "EOS_Progressed": 6965,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 0,
@@ -2976,6 +2982,11 @@
       "Time": "2023-10-06T11:04:52.8467282+00:00",
       "NumProgressed": 6962,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T12:04:20.6052998+00:00",
+      "NumProgressed": 6965,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -2988,7 +2999,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "ach02",
@@ -2996,7 +3007,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "ach03",
@@ -3004,7 +3015,7 @@
       "Name": "A New Timeline",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach04",
@@ -3012,7 +3023,7 @@
       "Name": "What Just Happened??",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ach05",
@@ -3028,7 +3039,7 @@
       "Name": "Titan",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 5013
+      "UsersEstimate": 5015
     },
     {
       "ID": "ach07",
@@ -3036,7 +3047,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "ach08",
@@ -3044,7 +3055,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "ach09",
@@ -3060,7 +3071,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach11",
@@ -3116,15 +3127,15 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3413
     },
     {
       "ID": "ach18",
       "SetID": "47in8n6",
       "Name": "Adventure Time",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2368
     },
     {
       "ID": "ach19",
@@ -3164,7 +3175,7 @@
       "Name": "Take And Deny",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ach24",
@@ -3172,7 +3183,7 @@
       "Name": "Ultimate Power",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3065
     },
     {
       "ID": "ach25",
@@ -3180,7 +3191,7 @@
       "Name": "Talis-Mania",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "ach26",
@@ -3188,7 +3199,7 @@
       "Name": "Running On Empty",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ach27",
@@ -3196,7 +3207,7 @@
       "Name": "So Krafty",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ach28",
@@ -3204,7 +3215,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "ach29",
@@ -3212,7 +3223,7 @@
       "Name": "Unstoppable",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ach30",
@@ -3220,7 +3231,7 @@
       "Name": "Juggernaut",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ach31",
@@ -3228,7 +3239,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "ach32",
@@ -3236,7 +3247,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ach33",
@@ -3244,7 +3255,7 @@
       "Name": "Vanquished",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach34",
@@ -3252,7 +3263,7 @@
       "Name": "Always Accessorize",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "ach35",
@@ -3276,7 +3287,7 @@
       "Name": "ABACABB",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3759
+      "UsersEstimate": 3761
     },
     {
       "ID": "ach38",
@@ -3284,7 +3295,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach39",
@@ -3292,7 +3303,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "ach40",
@@ -3300,7 +3311,7 @@
       "Name": "Found You",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "ach41",
@@ -3308,7 +3319,7 @@
       "Name": "Stop Hiding",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "ach42",
@@ -3316,7 +3327,7 @@
       "Name": "Quest Master",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ach43",
@@ -3324,7 +3335,7 @@
       "Name": "Working Overtime",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach44",
@@ -3340,7 +3351,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ach46",
@@ -3372,7 +3383,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach50",
@@ -3380,23 +3391,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 6962,
+      "Progressed": 6965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-06T06:00:30.9189718+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:04:52.8467277+00:00",
+  "LastChanged": "2023-10-06T12:00:37.7542001+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:04:20.6052992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-06T11:02:07.8150566+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:04:52.8467858+00:00"
+  "LastUpdate_Ratings": "2023-10-06T12:00:37.7542029+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:04:20.6053568+00:00"
 }

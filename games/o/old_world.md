@@ -6,12 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.80% | ~115 |
 | Settler | 0.80% | ~115 |
 | Play a Single Player Game | 0.80% | ~115 |
-| Explorer | 0.70% | ~101 |
+| Friendly Family | 0.70% | ~101 |
 | Intrepid | 0.60% | ~86 |
-| Friendly Family | 0.60% | ~86 |
 | Able | 0.50% | ~72 |
+| Architect | 0.50% | ~72 |
 | Good | 0.50% | ~72 |
 | Learned | 0.50% | ~72 |
 | Mason | 0.50% | ~72 |
@@ -21,9 +22,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.50% | ~72 |
 | Kushite Paganism | 0.50% | ~72 |
 | Ambitious | 0.40% | ~58 |
-| Architect | 0.40% | ~58 |
 | Glorious | 0.40% | ~58 |
 | Just | 0.40% | ~58 |
+| Wise | 0.40% | ~58 |
 | Oracle | 0.40% | ~58 |
 | Judaism | 0.40% | ~58 |
 | Babylonian Paganism | 0.40% | ~58 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.30% | ~43 |
 | Magnificent | 0.30% | ~43 |
 | Warrior | 0.30% | ~43 |
-| Wise | 0.30% | ~43 |
 | Developing Cities | 0.30% | ~43 |
 | Strong Cities | 0.30% | ~43 |
 | Great Ziggurat | 0.30% | ~43 |
@@ -51,18 +51,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
 | Zoroastrianism | 0.30% | ~43 |
+| Kushite Pyramids | 0.30% | ~43 |
 | Regicide | 0.20% | ~29 |
 | Hanging Gardens in Babylon | 0.20% | ~29 |
 | Drillmaster | 0.20% | ~29 |
 | Conqueror | 0.20% | ~29 |
 | Intercessor | 0.20% | ~29 |
+| Mighty | 0.20% | ~29 |
 | Valiant | 0.20% | ~29 |
 | Legendary Cities | 0.20% | ~29 |
 | Able Difficulty | 0.20% | ~29 |
+| Just Difficulty | 0.20% | ~29 |
+| Artisans | 0.20% | ~29 |
 | Champions | 0.20% | ~29 |
+| Sages | 0.20% | ~29 |
 | Furious Family | 0.20% | ~29 |
 | Acropolis | 0.20% | ~29 |
 | Apadana | 0.20% | ~29 |
+| Circus Maximus | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
 | Mausoleum | 0.20% | ~29 |
 | Learn to Play 2 | 0.20% | ~29 |
@@ -76,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
-| Kushite Pyramids | 0.20% | ~29 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Alliance Victory | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
@@ -113,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~14 |
 | Invincible | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
-| Mighty | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
@@ -122,19 +126,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.10% | ~14 |
 | Good Difficulty | 0.10% | ~14 |
 | Great Difficulty | 0.10% | ~14 |
-| Just Difficulty | 0.10% | ~14 |
 | Magnificent Difficulty | 0.10% | ~14 |
 | Noble Difficulty | 0.10% | ~14 |
 | Strong Difficulty | 0.10% | ~14 |
 | Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
-| Artisans | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
 | Hunters | 0.10% | ~14 |
 | Landowners | 0.10% | ~14 |
 | Patrons | 0.10% | ~14 |
 | Riders | 0.10% | ~14 |
-| Sages | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Traders | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
@@ -169,7 +170,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~14 |
 | A Tyresome Siege | 0.10% | ~14 |
 | Hittite Iron | 0.10% | ~14 |
-| Circus Maximus | 0.10% | ~14 |
 | Hagia Sophia | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,404 (Ranked 134)  
+Progressed: 14,406 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,404 | 5 |
+| 2023-10-06 | 14,406 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  

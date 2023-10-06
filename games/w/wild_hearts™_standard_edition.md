@@ -30,7 +30,7 @@
 | Snare Specialist | 39.00% | ~40 |
 | Kemono at Heart | 37.00% | ~38 |
 | Reincarnation Cycle Stopper | 36.00% | ~37 |
-| Karakuri Isle | 33.00% | ~34 |
+| Karakuri Isle | 34.00% | ~35 |
 | Team Hunter | 33.00% | ~34 |
 | Artful Assister | 32.00% | ~33 |
 | Left Arm Leverager | 29.00% | ~30 |

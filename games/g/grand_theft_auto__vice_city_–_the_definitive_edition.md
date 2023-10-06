@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,847 |
+| Legal Counsel | 46.00% | ~4,848 |
 | Greasy Palms | 42.00% | ~4,426 |
 | South American Connection | 26.00% | ~2,740 |
 | Life of the Party | 20.00% | ~2,108 |
@@ -14,11 +14,11 @@ Rating: 4.54 (Ranked 507)
 | Tommy Two-Wheels | 15.00% | ~1,581 |
 | Salutations My Little Friend | 11.00% | ~1,159 |
 | Iron-y | 10.00% | ~1,054 |
-| Gun for Hire | 9.00% | ~948 |
-| Mischief Managed | 9.00% | ~948 |
+| Gun for Hire | 9.00% | ~949 |
+| Mischief Managed | 9.00% | ~949 |
 | Vice City Mogul | 7.00% | ~738 |
-| Bloodstained Hands | 7.00% | ~738 |
 | Catch Me if You Can | 6.00% | ~632 |
+| Bloodstained Hands | 6.00% | ~632 |
 | Not my First Time | 5.00% | ~527 |
 | Grand Theft Auto | 5.00% | ~527 |
 | High Quality H2O | 4.00% | ~422 |
@@ -29,10 +29,10 @@ Rating: 4.54 (Ranked 507)
 | Somebody Call the Wambulance? | 3.00% | ~316 |
 | Just Like the Real Thing | 3.00% | ~316 |
 | Don't Need Roads | 3.00% | ~316 |
+| City Sleuth | 3.00% | ~316 |
 | One is Better Than Two | 2.00% | ~211 |
 | Take the Cannoli | 2.00% | ~211 |
 | Chopper’d Up | 2.00% | ~211 |
-| City Sleuth | 2.00% | ~211 |
 | Born in the 80’s | 1.00% | ~105 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~105 |
 | I'm Famous! | 1.00% | ~105 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 507)
 | Done it All | 0.90% | ~95 |
 | Kingpin | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,538 (Ranked 144)  
+Progressed: 10,539 (Ranked 144)  
 Completed: 59 (0.56%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 59 (0.56%) (Ranked 162)
 | 2023-10-03 | 10,513 | 58 |
 | 2023-10-04 | 10,521 | 58 |
 | 2023-10-05 | 10,533 | 59 |
-| 2023-10-06 | 10,538 | 59 |
+| 2023-10-06 | 10,539 | 59 |
 ## Awards
 Max (Great Boss Battles): 92  (Ranked 358)  
 Sum: 92 (Ranked 430)  

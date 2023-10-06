@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -748,9 +748,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 10538,
+  "EOS_Progressed": 10539,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11123,6 +11123,11 @@
       "Time": "2023-10-06T09:04:11.6000659+00:00",
       "NumProgressed": 10538,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-06T12:03:39.074583+00:00",
+      "NumProgressed": 10539,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 34,
@@ -11262,7 +11267,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH18",
@@ -11294,7 +11299,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "ACH22",
@@ -11348,9 +11353,9 @@
       "ID": "ACH28",
       "SetID": "9llo822",
       "Name": "Bloodstained Hands",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH29",
@@ -11366,7 +11371,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH31",
@@ -11380,9 +11385,9 @@
       "ID": "ACH32",
       "SetID": "9llo822",
       "Name": "City Sleuth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 211
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH33",
@@ -11405,7 +11410,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10538,
+      "Progressed": 10539,
       "Completed": 59
     }
   ],
@@ -11413,8 +11418,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-05T15:57:26.4712887+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:04:16.6558131+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:03:39.0745824+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:57:36.7529519+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:04:16.6558964+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:57:27.9644625+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:03:39.0746722+00:00"
 }

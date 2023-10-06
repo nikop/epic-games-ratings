@@ -5124,9 +5124,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 691442,
+  "EOS_Progressed": 691452,
   "EOS_Completed": 2192,
-  "EOS_NewPlayers": 3601,
+  "EOS_NewPlayers": 3593,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24224,6 +24224,11 @@
       "Time": "2023-10-06T11:08:21.4893575+00:00",
       "NumProgressed": 691442,
       "NumCompleted": 2192
+    },
+    {
+      "Time": "2023-10-06T12:06:22.6589114+00:00",
+      "NumProgressed": 691452,
+      "NumCompleted": 2192
     }
   ],
   "TotalAchievements": 45,
@@ -24243,7 +24248,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ach_ammo_ran",
@@ -24251,7 +24256,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_anger_management",
@@ -24299,7 +24304,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_contender",
@@ -24355,7 +24360,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24379,7 +24384,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24395,7 +24400,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_impressive_aim",
@@ -24475,7 +24480,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ach_revival_tour",
@@ -24491,7 +24496,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ach_secrets_of_la",
@@ -24515,7 +24520,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_survival_expert",
@@ -24531,7 +24536,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ach_the_vcla",
@@ -24539,7 +24544,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ach_thesacrifice",
@@ -24571,7 +24576,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24594,22 +24599,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691442,
+      "Progressed": 691452,
       "Completed": 2192
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 16984,
-      "Completed": 16984
+      "Progressed": 16994,
+      "Completed": 16994
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-06T08:58:28.5814166+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:08:21.4893571+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:06:22.6589108+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:58:36.3435447+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:08:21.4895133+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:58:08.0813781+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:06:22.6590454+00:00"
 }

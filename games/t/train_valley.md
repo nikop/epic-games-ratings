@@ -33,10 +33,10 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 10.00% | ~51 |
 | Tycoon | 9.00% | ~46 |
 | Germany | 7.00% | ~35 |
+| Supercrash! | 5.00% | ~25 |
 | Chuck Norris | 5.00% | ~25 |
 | Сhancellor | 4.00% | ~20 |
 | Peacemaker | 4.00% | ~20 |
-| Supercrash! | 4.00% | ~20 |
 | Forgotten | 3.00% | ~15 |
 | Lucky vandal | 2.00% | ~10 |
 | Salesman | 0.80% | ~4 |

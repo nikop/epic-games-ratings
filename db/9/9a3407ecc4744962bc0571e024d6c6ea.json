@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 720,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-08-22T19:03:09.0790912+00:00",
@@ -1616,6 +1616,11 @@
       "Time": "2023-10-06T11:05:13.3036068+00:00",
       "NumProgressed": 719,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T12:04:35.2985001+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1636,7 +1641,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "BoxingClever",
@@ -1716,7 +1721,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1732,7 +1737,7 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Relic",
@@ -1740,7 +1745,7 @@
       "Name": "Relic",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "SkeletonCrew",
@@ -1787,14 +1792,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 720,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-06T11:05:13.3036055+00:00",
+  "LastChanged_Achievements": "2023-10-06T12:04:35.2984995+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-06T10:59:51.7664089+00:00",
-  "LastUpdate_Achievements": "2023-10-06T11:05:13.3036324+00:00"
+  "LastUpdate_Ratings": "2023-10-06T11:59:03.5328833+00:00",
+  "LastUpdate_Achievements": "2023-10-06T12:04:35.2985241+00:00"
 }

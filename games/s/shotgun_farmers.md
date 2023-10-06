@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 80.00% | ~245 |
-| First Blood | 61.00% | ~187 |
+| Seeds of War | 80.00% | ~246 |
+| First Blood | 62.00% | ~190 |
 | Triple Kill | 60.00% | ~184 |
 | Aspairagus | 60.00% | ~154 |
-| No Asperascope | 56.00% | ~171 |
-| Survivor | 56.00% | ~143 |
-| Cornivore | 53.00% | ~162 |
+| No Asperascope | 56.00% | ~172 |
+| Survivor | 56.00% | ~144 |
+| Cornivore | 53.00% | ~163 |
 | I Believe I Can Fly | 49.00% | ~150 |
-| No Diggity | 43.00% | ~110 |
-| Early Survivor | 40.00% | ~102 |
+| No Diggity | 43.00% | ~111 |
+| Early Survivor | 40.00% | ~103 |
 | Bouncemato | 32.00% | ~82 |
 | 10K | 30.00% | ~92 |
 | Amateur Survivor | 30.00% | ~77 |
 | 15K | 28.00% | ~86 |
-| Quick-Draw Pod | 24.00% | ~61 |
-| Drinking Problem | 22.00% | ~67 |
-| Grave Digger | 22.00% | ~56 |
+| Quick-Draw Pod | 24.00% | ~62 |
+| Drinking Problem | 22.00% | ~68 |
+| Grave Digger | 22.00% | ~57 |
 | Professional Survivor | 21.00% | ~54 |
 | Pork Chop Express | 19.00% | ~58 |
 | Skin Of Your Teeth | 17.00% | ~52 |
 | Carrocketeer | 17.00% | ~52 |
 | This Is My Boomstick | 17.00% | ~44 |
 | Getting Started | 16.00% | ~49 |
-| Oh My Gourd | 15.00% | ~38 |
-| Eggtraordinary | 14.00% | ~43 |
+| Eggtraordinary | 15.00% | ~46 |
+| Oh My Gourd | 15.00% | ~39 |
 | Quit Horsin' Around | 12.00% | ~37 |
-| Summers Here | 11.00% | ~28 |
+| Summers Here | 12.00% | ~31 |
 | Fresh Pancake | 10.00% | ~31 |
 | Perfect | 10.00% | ~26 |
 | Quadsparagus | 10.00% | ~26 |
 | Expert Survivor | 9.00% | ~23 |
-| Bring Home The Bacon | 8.00% | ~24 |
+| Bring Home The Bacon | 8.00% | ~25 |
 | Early Bird | 6.00% | ~18 |
 | Pyromaniac | 6.00% | ~15 |
 | Chick Magnet | 5.00% | ~15 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 307)  
+Progressed: 307 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-09-30 | 303 | 0 |
 | 2023-10-02 | 305 | 0 |
 | 2023-10-04 | 306 | 0 |
+| 2023-10-06 | 307 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,7 +19,7 @@
 | Turian Ally | 56.00% | ~318 |
 | Charismatic | 56.00% | ~318 |
 | Soldier | 54.00% | ~306 |
-| Medal of Exploration III | 52.00% | ~295 |
+| Medal of Exploration III | 53.00% | ~301 |
 | Asari Ally | 52.00% | ~295 |
 | Principled | 52.00% | ~295 |
 | Soldier Ally | 50.00% | ~284 |
