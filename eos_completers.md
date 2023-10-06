@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.17% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.06% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -46,8 +46,8 @@
 | 44 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 45 | [Scorn](games/s/scorn.md) | 7.06% |
 | 46 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
-| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
-| 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
+| 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.80% |
 | 49 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 50 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -69,7 +69,7 @@
 | 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 68 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.85% |
+| 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.81% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.71% |
 | 72 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -101,8 +101,8 @@
 | 99 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.33% |
 | 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
 | 101 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 102 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.22% |
-| 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
+| 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
+| 102 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 106 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
@@ -229,9 +229,9 @@
 | 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
 | 229 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 229 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.14% |
-| 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 230 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 230 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
+| 230 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 233 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
