@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -682,7 +682,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2080,
+  "EOS_Progressed": 2082,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
@@ -2347,6 +2347,11 @@
       "Time": "2023-10-06T03:07:46.2042724+00:00",
       "NumProgressed": 2080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T04:07:41.0397398+00:00",
+      "NumProgressed": 2082,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2367,7 +2372,7 @@
       "Name": "Bragging Rights",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "achievement_11",
@@ -2381,9 +2386,9 @@
       "ID": "achievement_12",
       "SetID": "c8fif6p",
       "Name": "Stud Finder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 915
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_13",
@@ -2391,7 +2396,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_14",
@@ -2407,7 +2412,7 @@
       "Name": "MVP",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "achievement_16",
@@ -2415,7 +2420,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_17",
@@ -2495,7 +2500,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_7",
@@ -2526,7 +2531,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2080,
+      "Progressed": 2082,
       "Completed": 0
     }
   ],
@@ -2534,8 +2539,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-04T21:57:18.2366156+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:07:46.204272+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:07:41.0397393+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:15.4729837+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:58:05.7111659+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:07:46.2042922+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:58:05.7211024+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:07:41.0397645+00:00"
 }

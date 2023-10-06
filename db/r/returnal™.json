@@ -2,7 +2,7 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 335,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 653,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -534,6 +534,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-10-06T04:01:28.0984994+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
@@ -560,8 +566,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-10-05T03:59:50.105417+00:00",
+  "LastChanged": "2023-10-06T04:01:28.0984992+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:11.6008017+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:01:29.517716+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:08:26.1526032+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:01:28.0984997+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:08:41.5940761+00:00"
 }

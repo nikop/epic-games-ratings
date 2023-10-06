@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1992,
+  "EOS_Progressed": 1993,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5890,6 +5890,11 @@
       "Time": "2023-10-06T01:48:22.4307281+00:00",
       "NumProgressed": 1992,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T04:06:19.446985+00:00",
+      "NumProgressed": 1993,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6077,7 +6082,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "fellowshippower",
@@ -6157,7 +6162,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "hunter",
@@ -6205,7 +6210,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "masterenchanter",
@@ -6245,7 +6250,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "movinguptheladder",
@@ -6317,7 +6322,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "scientist",
@@ -6357,7 +6362,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "thealchemist",
@@ -6389,7 +6394,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "thepowerofawakening",
@@ -6500,7 +6505,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1992,
+      "Progressed": 1993,
       "Completed": 2
     }
   ],
@@ -6508,8 +6513,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-04T06:01:04.1921947+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:06:23.1214181+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:06:19.4469845+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:28.3446509+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:02:11.3553612+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:06:23.121505+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:02:07.2276913+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:06:19.4470711+00:00"
 }

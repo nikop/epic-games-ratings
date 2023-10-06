@@ -1791,9 +1791,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14393,
+  "EOS_Progressed": 14394,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13061,6 +13061,11 @@
       "Time": "2023-10-06T02:25:31.9637393+00:00",
       "NumProgressed": 14393,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T04:09:21.5986915+00:00",
+      "NumProgressed": 14394,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14878,9 +14883,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -15334,9 +15339,9 @@
       "ID": "ACHIEVEMENT_WIN_PLAYBYCLOUD",
       "SetID": "9201eeb",
       "Name": "Win a Play-By-Cloud Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
@@ -15807,21 +15812,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14393,
+      "Progressed": 14394,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14393,
+      "Progressed": 14394,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:08:55.487609+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:09:21.5986906+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:01:22.1800185+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:08:55.4886684+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:01:20.5925878+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:09:21.5996788+00:00"
 }

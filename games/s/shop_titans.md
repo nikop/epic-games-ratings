@@ -28,9 +28,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 1.00% | ~1,372 |
 | Dungeon Imports | 1.00% | ~1,372 |
 | Through Repetition, Perfection | 1.00% | ~1,372 |
-| Accomplished Merchant | 0.90% | ~1,234 |
-| Did we pack lunch? | 0.90% | ~1,234 |
-| Arcane Industries | 0.90% | ~1,234 |
+| Accomplished Merchant | 0.90% | ~1,235 |
+| Did we pack lunch? | 0.90% | ~1,235 |
+| Arcane Industries | 0.90% | ~1,235 |
 | On the Path to Greatness | 0.80% | ~1,097 |
 | Ascended | 0.80% | ~1,097 |
 | Research & Development | 0.80% | ~1,097 |
@@ -41,13 +41,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.80% | ~1,097 |
 | Helping Hand | 0.80% | ~1,097 |
 | Natural 20 | 0.80% | ~1,097 |
+| Tax not Included | 0.70% | ~960 |
 | Fated Encounters | 0.70% | ~960 |
 | Power of Love | 0.70% | ~960 |
 | Trash to Treasure | 0.70% | ~960 |
 | Royal Ransom | 0.70% | ~960 |
 | Magical Harmony | 0.70% | ~960 |
 | A Notch Above the Rest | 0.60% | ~823 |
-| Tax not Included | 0.60% | ~823 |
 | The King's Caprice | 0.60% | ~823 |
 | Big Game Hunting | 0.60% | ~823 |
 | For the Hoard! | 0.60% | ~823 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.40% | ~549 |
 | Jackpot! | 0.40% | ~549 |
 | Economy of Scarce | 0.40% | ~549 |
-| The Free Encyclopedia | 0.30% | ~411 |
-| Thank You Tom Nook | 0.30% | ~411 |
-| Eternal Crusade | 0.30% | ~411 |
-| All Accounted For | 0.30% | ~411 |
+| The Free Encyclopedia | 0.30% | ~412 |
+| Thank You Tom Nook | 0.30% | ~412 |
+| Eternal Crusade | 0.30% | ~412 |
+| All Accounted For | 0.30% | ~412 |
 | Ultimate Collector | 0.20% | ~274 |
 | Unleashed Potential | 0.20% | ~274 |
 | JACKPOT!!! | 0.20% | ~274 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,164 (Ranked 72)  
+Progressed: 137,167 (Ranked 72)  
 Completed: 162 (0.12%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 162 (0.12%) (Ranked 233)
 | 2023-10-03 | 137,070 | 160 |
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
-| 2023-10-06 | 137,164 | 162 |
+| 2023-10-06 | 137,167 | 162 |
 ## Awards
 Max (Great for Beginners): 4,771  (Ranked 71)  
 Sum: 27,338 (Ranked 49)  

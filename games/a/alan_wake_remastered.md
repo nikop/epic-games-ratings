@@ -8,14 +8,14 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 42.00% | ~28,174 |
 | Let There Be Light | 35.00% | ~23,478 |
-| Float Like a Butterfly | 33.00% | ~22,136 |
+| Float Like a Butterfly | 33.00% | ~22,137 |
 | Nordic Walking | 27.00% | ~18,112 |
 | Bright Falls' Finest | 26.00% | ~17,441 |
-| Under a Thin Layer of Skin | 23.00% | ~15,428 |
+| Under a Thin Layer of Skin | 23.00% | ~15,429 |
 | Park Ranger | 19.00% | ~12,745 |
 | Paging Mr. Wake | 19.00% | ~12,745 |
-| Back! Back, I Say! | 18.00% | ~12,074 |
-| Finders Keepers | 18.00% | ~12,074 |
+| Back! Back, I Say! | 18.00% | ~12,075 |
+| Finders Keepers | 18.00% | ~12,075 |
 | Damn Good Cup of Coffee | 17.00% | ~11,404 |
 | They're Heeeeeere! | 16.00% | ~10,733 |
 | Sound and Fury | 16.00% | ~10,733 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 14.00% | ~9,391 |
 | Collateral Carnage | 14.00% | ~9,391 |
 | Come One, Come All | 14.00% | ~9,391 |
-| Perchance to Dream | 13.00% | ~8,720 |
-| It's Not Just a Typewriter Brand | 13.00% | ~8,720 |
-| Thunder and Lightning | 13.00% | ~8,720 |
+| Perchance to Dream | 13.00% | ~8,721 |
+| It's Not Just a Typewriter Brand | 13.00% | ~8,721 |
+| Thunder and Lightning | 13.00% | ~8,721 |
 | Gatekeeper | 12.00% | ~8,050 |
 | Two For the Price of One | 12.00% | ~8,050 |
 | Energized! | 12.00% | ~8,050 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,080 (Ranked 91)  
+Progressed: 67,081 (Ranked 91)  
 Completed: 67 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 67 (0.10%) (Ranked 242)
 | 2023-10-03 | 66,899 | 67 |
 | 2023-10-04 | 66,994 | 67 |
 | 2023-10-05 | 67,064 | 67 |
-| 2023-10-06 | 67,080 | 67 |
+| 2023-10-06 | 67,081 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

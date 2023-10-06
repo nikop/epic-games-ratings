@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 13611,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7954,9 +7954,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "28",
@@ -8051,8 +8051,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:07:04.5054529+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:07:00.4359025+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:02:10.9786936+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:07:04.5055105+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:02:06.8817605+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:07:00.4359542+00:00"
 }

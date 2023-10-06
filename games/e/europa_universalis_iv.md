@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,930 |
-| Until death do us apart | 4.00% | ~16,930 |
+| That's a Grand Army | 4.00% | ~16,931 |
+| Until death do us apart | 4.00% | ~16,931 |
 | That is mine! | 3.00% | ~12,698 |
 | Victorious! | 3.00% | ~12,698 |
 | Brothers in Arms | 2.00% | ~8,465 |
 | For the Glory | 2.00% | ~8,465 |
 | That's a Grand Navy | 2.00% | ~8,465 |
 | Seriously?! | 2.00% | ~8,465 |
-| Cold War | 1.00% | ~4,232 |
-| Defender of the Faith | 1.00% | ~4,232 |
-| It's all about the money | 1.00% | ~4,232 |
-| The Princess is in this Castle | 1.00% | ~4,232 |
-| True Catholic | 1.00% | ~4,232 |
-| Truly Divine Ruler | 1.00% | ~4,232 |
+| Cold War | 1.00% | ~4,233 |
+| Defender of the Faith | 1.00% | ~4,233 |
+| It's all about the money | 1.00% | ~4,233 |
+| The Princess is in this Castle | 1.00% | ~4,233 |
+| True Catholic | 1.00% | ~4,233 |
+| Truly Divine Ruler | 1.00% | ~4,233 |
 | It's all about luck | 0.90% | ~3,809 |
 | Respected | 0.90% | ~3,809 |
 | Blockader | 0.80% | ~3,386 |
@@ -45,21 +45,21 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,270 |
 | Populists in Government | 0.30% | ~1,270 |
 | Trustworthy | 0.30% | ~1,270 |
-| All belongs to Mother Russia | 0.20% | ~846 |
-| At every continent | 0.20% | ~846 |
-| Early-Modern Warfare | 0.20% | ~846 |
-| Electable! | 0.20% | ~846 |
-| Grand Coalition | 0.20% | ~846 |
-| In the Name of the Father | 0.20% | ~846 |
-| Just a Little Patience | 0.20% | ~846 |
-| One Family to Rule them All | 0.20% | ~846 |
-| Ruina Imperii | 0.20% | ~846 |
-| The pen is mightier than the sword | 0.20% | ~846 |
-| This is My Faith | 0.20% | ~846 |
-| Time Bandit | 0.20% | ~846 |
-| Traditional Player | 0.20% | ~846 |
-| Trophy Hunter | 0.20% | ~846 |
-| Voting Streak | 0.20% | ~846 |
+| All belongs to Mother Russia | 0.20% | ~847 |
+| At every continent | 0.20% | ~847 |
+| Early-Modern Warfare | 0.20% | ~847 |
+| Electable! | 0.20% | ~847 |
+| Grand Coalition | 0.20% | ~847 |
+| In the Name of the Father | 0.20% | ~847 |
+| Just a Little Patience | 0.20% | ~847 |
+| One Family to Rule them All | 0.20% | ~847 |
+| Ruina Imperii | 0.20% | ~847 |
+| The pen is mightier than the sword | 0.20% | ~847 |
+| This is My Faith | 0.20% | ~847 |
+| Time Bandit | 0.20% | ~847 |
+| Traditional Player | 0.20% | ~847 |
+| Trophy Hunter | 0.20% | ~847 |
+| Voting Streak | 0.20% | ~847 |
 | The 52 Garhs | 0.10% | ~423 |
 | I don't like sand | 0.10% | ~423 |
 | A Blessed Nation | 0.10% | ~423 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,250 (Ranked 41)  
+Progressed: 423,269 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
-| 2023-10-06 | 423,250 | 1 |
+| 2023-10-06 | 423,269 | 1 |
 ## Awards
 Max (Educational): 6,400  (Ranked 57)  
 Sum: 52,626 (Ranked 24)  

@@ -8,8 +8,8 @@ Rating: 4.76 (Ranked 118)
 | The Sort Who Makes an Entrance | 15.00% | ~44,682 |
 | First Class Student | 13.00% | ~38,724 |
 | Troll with the Punches | 13.00% | ~38,724 |
-| A Keen Sense of Spell | 12.00% | ~35,745 |
-| That's a Keeper | 12.00% | ~35,745 |
+| A Keen Sense of Spell | 12.00% | ~35,746 |
+| That's a Keeper | 12.00% | ~35,746 |
 | The Hallowed Hero | 11.00% | ~32,767 |
 | The Defender of Dragons | 11.00% | ~32,767 |
 | Loom for Improvement | 11.00% | ~32,767 |
@@ -25,7 +25,7 @@ Rating: 4.76 (Ranked 118)
 | A Sallow Grave | 8.00% | ~23,830 |
 | Flight the Good Flight | 8.00% | ~23,830 |
 | The Spell Master | 8.00% | ~23,830 |
-| Beast Friends | 7.00% | ~20,851 |
+| Beast Friends | 7.00% | ~20,852 |
 | The Seeker of Knowledge | 6.00% | ~17,873 |
 | The Root of the Problem | 6.00% | ~17,873 |
 | Third Time's a Charm | 6.00% | ~17,873 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.60% | ~1,787 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,878 (Ranked 46)  
+Progressed: 297,880 (Ranked 46)  
 Completed: 481 (0.16%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,16 +220,16 @@ Completed: 481 (0.16%) (Ranked 223)
 | 2023-10-03 | 297,777 | 480 |
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
-| 2023-10-06 | 297,878 | 481 |
+| 2023-10-06 | 297,880 | 481 |
 ## Awards
 Max (Character Customization): 23,300  (Ranked 17)  
-Sum: 45,131 (Ranked 31)  
+Sum: 45,135 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,300 |
 | This game has Great Boss Battles | 11,593 |
-| This game is Great for Beginners | 1,141 |
+| This game is Great for Beginners | 1,145 |
 | This game has Amazing Storytelling | 1,112 |
 | This game is Relaxing | 1,098 |
 | This game has Diverse Characters | 1,096 |
@@ -438,4 +438,4 @@ Diff (max vs sum): -14
 | 2023-10-03 | 4.76 | 23,249 | 44,966 |
 | 2023-10-04 | 4.76 | 23,277 | 45,048 |
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
-| 2023-10-06 | 4.76 | 23,300 | 45,131 |
+| 2023-10-06 | 4.76 | 23,300 | 45,135 |

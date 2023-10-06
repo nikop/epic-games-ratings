@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3550,
+  "EOS_Progressed": 3551,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5034,6 +5034,11 @@
       "Time": "2023-10-06T03:06:09.8611835+00:00",
       "NumProgressed": 3550,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-06T04:06:06.3906898+00:00",
+      "NumProgressed": 3551,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5117,7 +5122,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ForAllAurai_8",
@@ -5181,7 +5186,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MagicIsaScience_58",
@@ -5229,7 +5234,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5341,7 +5346,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -5365,7 +5370,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5380,15 +5385,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3550,
+      "Progressed": 3551,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:06:09.8611831+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:06:06.3906895+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-06T03:02:31.9143823+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:06:09.8612306+00:00"
+  "LastUpdate_Ratings": "2023-10-06T04:02:29.7891173+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:06:06.3907378+00:00"
 }

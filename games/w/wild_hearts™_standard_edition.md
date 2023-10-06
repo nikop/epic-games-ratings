@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~99 |
-| Hidden History | 84.00% | ~84 |
-| Budding Conjuror | 78.00% | ~78 |
-| Commencing of Quests | 75.00% | ~75 |
-| Charmed by the Hunt | 70.00% | ~70 |
-| Man-Machine Master | 69.00% | ~69 |
-| Mountain Splitter | 68.00% | ~68 |
-| Memory Rouser | 66.00% | ~66 |
-| Fusion Conjuror | 65.00% | ~65 |
-| Subsistence Skills | 62.00% | ~62 |
-| Kemono Hunter | 62.00% | ~62 |
-| Master of the Skies | 59.00% | ~59 |
-| Expert Conjuror | 58.00% | ~58 |
-| Distance Devourer | 57.00% | ~57 |
-| Helpful Heart | 54.00% | ~54 |
-| Flawless Crystal | 53.00% | ~53 |
+| Land of the Rising Sun | 99.00% | ~100 |
+| Hidden History | 84.00% | ~85 |
+| Budding Conjuror | 77.00% | ~78 |
+| Commencing of Quests | 75.00% | ~76 |
+| Charmed by the Hunt | 69.00% | ~70 |
+| Man-Machine Master | 68.00% | ~69 |
+| Mountain Splitter | 67.00% | ~68 |
+| Memory Rouser | 65.00% | ~66 |
+| Fusion Conjuror | 64.00% | ~65 |
+| Subsistence Skills | 62.00% | ~63 |
+| Kemono Hunter | 61.00% | ~62 |
+| Master of the Skies | 58.00% | ~59 |
+| Expert Conjuror | 57.00% | ~58 |
+| Distance Devourer | 56.00% | ~57 |
+| Helpful Heart | 53.00% | ~54 |
+| Flawless Crystal | 52.00% | ~53 |
 | Counter Specialist | 49.00% | ~49 |
-| Bonds of Enmity | 48.00% | ~48 |
+| Bonds of Enmity | 49.00% | ~49 |
 | Axer of Auspice | 43.00% | ~43 |
 | Single Minded | 40.00% | ~40 |
 | Fair Means or Foul | 40.00% | ~40 |
@@ -44,7 +44,7 @@
 | Style Seeker | 26.00% | ~26 |
 | Jack of All Trades | 26.00% | ~26 |
 | Superlative View | 24.00% | ~24 |
-| Quintessence of Form | 21.00% | ~21 |
+| Quintessence of Form | 22.00% | ~22 |
 | Relentless Kemono Hunter | 20.00% | ~20 |
 | Tender Touch | 20.00% | ~20 |
 | Haven Hunter | 20.00% | ~20 |
@@ -53,8 +53,8 @@
 | Big Spender | 14.00% | ~14 |
 | Tsukumo Whisperer | 9.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 386)  
-Completed: 3 (3.00%) (Ranked 83)  
+Progressed: 101 (Ranked 383)  
+Completed: 3 (2.97%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,3 +75,4 @@ Completed: 3 (3.00%) (Ranked 83)
 | 2023-10-03 | 94 | 2 |
 | 2023-10-04 | 99 | 3 |
 | 2023-10-05 | 100 | 3 |
+| 2023-10-06 | 101 | 3 |

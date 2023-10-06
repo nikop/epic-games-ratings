@@ -4,69 +4,69 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~532 |
-| Spectre Inductee | 84.00% | ~475 |
-| Medal of Exploration I | 76.00% | ~430 |
+| Distinguished Service Medal | 94.00% | ~533 |
+| Spectre Inductee | 84.00% | ~476 |
+| Medal of Exploration I | 76.00% | ~431 |
 | Recruit | 72.00% | ~408 |
-| Search and Rescue | 71.00% | ~402 |
-| Quarian Ally | 70.00% | ~396 |
+| Search and Rescue | 71.00% | ~403 |
+| Quarian Ally | 70.00% | ~397 |
 | Medal of Heroism | 66.00% | ~374 |
 | Honorarium of Corporate Service | 66.00% | ~374 |
-| Medal of Exploration II | 60.00% | ~340 |
-| Council Legion of Merit | 58.00% | ~328 |
-| Medal of Honor | 56.00% | ~317 |
-| Turian Ally | 56.00% | ~317 |
-| Charismatic | 56.00% | ~317 |
-| Meritorious Service Medal | 55.00% | ~311 |
+| Medal of Exploration II | 59.00% | ~335 |
+| Council Legion of Merit | 59.00% | ~335 |
+| Medal of Honor | 56.00% | ~318 |
+| Meritorious Service Medal | 56.00% | ~318 |
+| Turian Ally | 56.00% | ~318 |
+| Charismatic | 56.00% | ~318 |
 | Soldier | 54.00% | ~306 |
-| Medal of Exploration III | 52.00% | ~294 |
-| Asari Ally | 52.00% | ~294 |
-| Principled | 52.00% | ~294 |
-| Soldier Ally | 50.00% | ~283 |
-| Colonial Savior | 49.00% | ~277 |
-| Sentinel Ally | 46.00% | ~260 |
+| Medal of Exploration III | 52.00% | ~295 |
+| Asari Ally | 52.00% | ~295 |
+| Principled | 52.00% | ~295 |
+| Soldier Ally | 50.00% | ~284 |
+| Colonial Savior | 49.00% | ~278 |
+| Sentinel Ally | 46.00% | ~261 |
+| Scientist | 46.00% | ~261 |
 | Paramour I | 45.00% | ~255 |
 | Krogan Ally | 45.00% | ~255 |
 | Merciless | 45.00% | ~255 |
-| Scientist | 45.00% | ~255 |
-| Head Hunter | 43.00% | ~243 |
+| Head Hunter | 43.00% | ~244 |
 | Missing in Action | 41.00% | ~232 |
 | Very Elusive | 41.00% | ~232 |
 | Operative | 41.00% | ~232 |
 | Scholar | 41.00% | ~232 |
-| Veteran | 40.00% | ~226 |
+| Veteran | 40.00% | ~227 |
 | Power Full | 39.00% | ~221 |
 | The Professor | 38.00% | ~215 |
-| The Archangel | 37.00% | ~209 |
+| The Archangel | 37.00% | ~210 |
 | Completionist | 36.00% | ~204 |
-| Colony Defense | 36.00% | ~204 |
 | The Convict | 36.00% | ~204 |
+| Colony Defense | 35.00% | ~198 |
 | The Krogan | 35.00% | ~198 |
-| Archivist | 34.00% | ~192 |
-| Galactic Explorer | 34.00% | ~192 |
+| Archivist | 34.00% | ~193 |
+| Galactic Explorer | 34.00% | ~193 |
 | Broke, Blind, and Bedlam | 33.00% | ~187 |
 | Ghost Ship | 32.00% | ~181 |
 | The Quarian | 32.00% | ~181 |
-| The Assassin | 31.00% | ~175 |
-| The Justicar | 31.00% | ~175 |
-| Battlemaster | 31.00% | ~175 |
-| The Prodigal | 31.00% | ~175 |
+| The Assassin | 31.00% | ~176 |
+| The Justicar | 31.00% | ~176 |
+| Battlemaster | 31.00% | ~176 |
+| The Prodigal | 31.00% | ~176 |
 | A Personal Touch | 30.00% | ~170 |
 | Catharsis | 30.00% | ~170 |
 | Ghost of the Father | 30.00% | ~170 |
 | The Cure | 30.00% | ~170 |
 | Big Game Hunter | 30.00% | ~170 |
-| Agent | 30.00% | ~170 |
 | Revenge! | 30.00% | ~170 |
 | Heart of Darkness | 30.00% | ~170 |
 | Shopaholic | 30.00% | ~170 |
 | Fade Away | 29.00% | ~164 |
+| Agent | 29.00% | ~164 |
 | Driven | 29.00% | ~164 |
-| Focused | 28.00% | ~158 |
-| Cat's in the Cradle | 28.00% | ~158 |
-| Treason | 28.00% | ~158 |
-| Digital Exorcist | 28.00% | ~158 |
-| Bringer of War | 28.00% | ~158 |
+| Focused | 28.00% | ~159 |
+| Cat's in the Cradle | 28.00% | ~159 |
+| Treason | 28.00% | ~159 |
+| Digital Exorcist | 28.00% | ~159 |
+| Bringer of War | 28.00% | ~159 |
 | Doppelganger | 27.00% | ~153 |
 | First Aid Specialist | 26.00% | ~147 |
 | Friend or Foe | 26.00% | ~147 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~6 |
 | The One and Only | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 261)  
+Progressed: 567 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,4 +153,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 543 | 0 |
 | 2023-10-04 | 554 | 0 |
 | 2023-10-05 | 563 | 0 |
-| 2023-10-06 | 566 | 0 |
+| 2023-10-06 | 567 | 0 |

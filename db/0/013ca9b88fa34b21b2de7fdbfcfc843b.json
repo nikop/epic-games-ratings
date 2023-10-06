@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6085,
+  "EOS_Progressed": 6086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2023-10-06T01:47:13.6772523+00:00",
       "NumProgressed": 6085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T04:05:04.0309967+00:00",
+      "NumProgressed": 6086,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3421,7 +3426,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3445,7 +3450,7 @@
       "Name": "Open the Gate!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3467,9 +3472,9 @@
       "ID": "CHAPTER_7_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Flaming Hot Completos",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 304
+      "UsersEstimate": 365
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -3509,7 +3514,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3573,7 +3578,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3597,7 +3602,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3700,7 +3705,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6085,
+      "Progressed": 6086,
       "Completed": 0
     }
   ],
@@ -3708,8 +3713,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-05T18:59:26.0400746+00:00",
-  "LastChanged_Achievements": "2023-10-06T03:05:06.6513333+00:00",
+  "LastChanged_Achievements": "2023-10-06T04:05:04.0309963+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-06T02:59:24.9273835+00:00",
-  "LastUpdate_Achievements": "2023-10-06T03:05:06.651369+00:00"
+  "LastUpdate_Ratings": "2023-10-06T03:59:25.7934626+00:00",
+  "LastUpdate_Achievements": "2023-10-06T04:05:04.0310313+00:00"
 }

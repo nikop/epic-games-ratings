@@ -7,10 +7,10 @@ Rating: 4.53 (Ranked 523)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~681 |
 | Drug Gifter | 2.00% | ~272 |
+| Bosmang | 2.00% | ~272 |
 | The Pit and the Pirates | 1.00% | ~136 |
 | Drone Dodger | 1.00% | ~136 |
 | Call it Even | 1.00% | ~136 |
-| Bosmang | 1.00% | ~136 |
 | Celebrations are in Order | 1.00% | ~136 |
 | Impossible Objects | 1.00% | ~136 |
 | Data Archivist | 0.90% | ~122 |

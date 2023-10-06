@@ -1,13 +1,13 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 356)  
+Rating: 4.62 (Ranked 355)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,968 |
-| Wallbanger | 5.00% | ~22,968 |
+| Point Shooting | 5.00% | ~22,969 |
+| Wallbanger | 5.00% | ~22,969 |
 | Exploitative | 4.00% | ~18,375 |
 | High Speed Low Drag | 4.00% | ~18,375 |
 | Wet Feet | 4.00% | ~18,375 |
@@ -15,16 +15,16 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,781 |
 | Stylin' | 3.00% | ~13,781 |
 | Turf War | 3.00% | ~13,781 |
-| Banged | 2.00% | ~9,187 |
-| First Blood | 2.00% | ~9,187 |
-| Flaccid Paralysis | 2.00% | ~9,187 |
-| Push Victory | 2.00% | ~9,187 |
-| Self-destructive | 2.00% | ~9,187 |
+| Banged | 2.00% | ~9,188 |
+| First Blood | 2.00% | ~9,188 |
+| Flaccid Paralysis | 2.00% | ~9,188 |
+| Push Victory | 2.00% | ~9,188 |
+| Self-destructive | 2.00% | ~9,188 |
 | Blindfire | 1.00% | ~4,594 |
-| Efficient | 1.00% | ~4,594 |
 | Ruthless | 1.00% | ~4,594 |
 | Semper Paratus | 1.00% | ~4,594 |
 | Carrying | 0.90% | ~4,134 |
+| Efficient | 0.90% | ~4,134 |
 | Mount & Gun | 0.90% | ~4,134 |
 | Personal | 0.90% | ~4,134 |
 | Grounded | 0.80% | ~3,675 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,216 |
 | Firefight Victory | 0.60% | ~2,756 |
 | Cinematic | 0.50% | ~2,297 |
-| Thanks Station! | 0.40% | ~1,837 |
+| Thanks Station! | 0.40% | ~1,838 |
 | Knock Knock | 0.30% | ~1,378 |
 | There For You | 0.30% | ~1,378 |
 | Hit and Run | 0.20% | ~919 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~459 |
 | Road Hazard | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,367 (Ranked 38)  
+Progressed: 459,383 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 2 (0.00%) (Ranked 306)
 | 2023-10-03 | 458,760 | 2 |
 | 2023-10-04 | 459,005 | 2 |
 | 2023-10-05 | 459,302 | 2 |
-| 2023-10-06 | 459,367 | 2 |
+| 2023-10-06 | 459,383 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 385  (Ranked 224)  
 Sum: 3,044 (Ranked 170)  

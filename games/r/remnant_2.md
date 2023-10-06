@@ -6,35 +6,35 @@ Rating: 4.76 (Ranked 118)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~17,148 |
-| The Killing Jar | 8.00% | ~15,242 |
-| Expanding Horizons | 7.00% | ~13,337 |
-| Quest for Survival | 7.00% | ~13,337 |
-| Not Your Average Trait | 7.00% | ~13,337 |
+| The Killing Jar | 8.00% | ~15,243 |
+| Expanding Horizons | 7.00% | ~13,338 |
+| Quest for Survival | 7.00% | ~13,338 |
+| Not Your Average Trait | 7.00% | ~13,338 |
 | Gleaming the Cube | 6.00% | ~11,432 |
 | Not a Janitor | 6.00% | ~11,432 |
 | Familiar Face | 6.00% | ~11,432 |
 | Duality | 6.00% | ~11,432 |
 | Boss'n Up | 6.00% | ~11,432 |
 | Trait Chaser | 6.00% | ~11,432 |
-| Not So Special Now | 5.00% | ~9,526 |
-| Equal Measures | 5.00% | ~9,526 |
-| Blue Goddess | 5.00% | ~9,526 |
-| Top Performer | 5.00% | ~9,526 |
-| Shhh...It's a Secret | 5.00% | ~9,526 |
-| Almost There | 5.00% | ~9,526 |
-| Make Some Room | 5.00% | ~9,526 |
-| Good, But Could Be Better! | 5.00% | ~9,526 |
-| Chaos | 4.00% | ~7,621 |
-| Traitor | 4.00% | ~7,621 |
-| Forever is a Long Time Coming | 4.00% | ~7,621 |
-| Power Surge | 4.00% | ~7,621 |
-| The God Gambit | 4.00% | ~7,621 |
-| Dark Designs | 4.00% | ~7,621 |
-| Madman's Paradise | 4.00% | ~7,621 |
-| Was This Supposed To Happen? | 4.00% | ~7,621 |
-| The Web | 4.00% | ~7,621 |
-| Scrap Collector | 4.00% | ~7,621 |
-| All These Traits� | 4.00% | ~7,621 |
+| Not So Special Now | 5.00% | ~9,527 |
+| Equal Measures | 5.00% | ~9,527 |
+| Blue Goddess | 5.00% | ~9,527 |
+| Top Performer | 5.00% | ~9,527 |
+| Shhh...It's a Secret | 5.00% | ~9,527 |
+| Almost There | 5.00% | ~9,527 |
+| Make Some Room | 5.00% | ~9,527 |
+| Good, But Could Be Better! | 5.00% | ~9,527 |
+| Chaos | 4.00% | ~7,622 |
+| Traitor | 4.00% | ~7,622 |
+| Forever is a Long Time Coming | 4.00% | ~7,622 |
+| Power Surge | 4.00% | ~7,622 |
+| The God Gambit | 4.00% | ~7,622 |
+| Dark Designs | 4.00% | ~7,622 |
+| Madman's Paradise | 4.00% | ~7,622 |
+| Was This Supposed To Happen? | 4.00% | ~7,622 |
+| The Web | 4.00% | ~7,622 |
+| Scrap Collector | 4.00% | ~7,622 |
+| All These Traits� | 4.00% | ~7,622 |
 | Am I Seeing This? | 3.00% | ~5,716 |
 | The Agenda | 3.00% | ~5,716 |
 | Tall Tales | 3.00% | ~5,716 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 1.00% | ~1,905 |
 | Ghost in the Machine | 0.90% | ~1,715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,529 (Ranked 66)  
+Progressed: 190,538 (Ranked 66)  
 Completed: 363 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,14 +138,14 @@ Completed: 363 (0.19%) (Ranked 217)
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
 | 2023-10-05 | 190,476 | 363 |
-| 2023-10-06 | 190,529 | 363 |
+| 2023-10-06 | 190,538 | 363 |
 ## Awards
-Max (Great Boss Battles): 1,776  (Ranked 117)  
-Sum: 3,762 (Ranked 154)  
-Diff (max vs sum): -37  
+Max (Great Boss Battles): 1,785  (Ranked 116)  
+Sum: 3,771 (Ranked 154)  
+Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,776 |
+| This game has Great Boss Battles | 1,785 |
 | This game has Challenging Combat | 224 |
 | This game is Extremely Fun | 220 |
 | This game has Diverse Characters | 217 |
@@ -231,3 +231,4 @@ Diff (max vs sum): -37
 | 2023-10-03 | 4.76 | 1,760 | 3,717 |
 | 2023-10-04 | 4.76 | 1,770 | 3,739 |
 | 2023-10-05 | 4.76 | 1,776 | 3,762 |
+| 2023-10-06 | 4.76 | 1,785 | 3,771 |

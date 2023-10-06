@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.40% | ~58 |
 | Oracle | 0.40% | ~58 |
 | Judaism | 0.40% | ~58 |
+| Babylonian Paganism | 0.40% | ~58 |
 | Naming Landmarks | 0.40% | ~58 |
 | Trade Caravan | 0.40% | ~58 |
 | Kushite Paganism | 0.40% | ~58 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.30% | ~43 |
 | Learn to Play 1 | 0.30% | ~43 |
 | Christianity | 0.30% | ~43 |
-| Babylonian Paganism | 0.30% | ~43 |
 | Carthaginian Paganism | 0.30% | ~43 |
 | Greek Paganism | 0.30% | ~43 |
 | Roman Paganism | 0.30% | ~43 |
@@ -240,6 +240,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~14 |
 | Win a MP Teams Game | 0.10% | ~14 |
 | Win a Network Game | 0.10% | ~14 |
+| Win a Play-By-Cloud Game | 0.10% | ~14 |
 | Win a Single Player Game | 0.10% | ~14 |
 | The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
@@ -342,14 +343,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Role-Playing | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
-| Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,393 (Ranked 134)  
+Progressed: 14,394 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,393 | 5 |
+| 2023-10-06 | 14,394 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  
