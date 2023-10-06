@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 58.96% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 58.82% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -61,8 +61,8 @@
 | 59 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
-| 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
+| 62 | [ZZT!](games/z/zzt!.md) | 4.46% |
+| 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 65 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
@@ -93,13 +93,13 @@
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 92 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 93 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.47% |
 | 94 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 95 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.41% |
-| 95 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 97 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
-| 98 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 99 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.33% |
-| 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
+| 96 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.41% |
+| 96 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
+| 98 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
+| 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 100 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.33% |
 | 101 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 102 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 102 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.17% |
@@ -149,11 +149,11 @@
 | 147 | [Eternights](games/e/eternights.md) | 0.77% |
 | 148 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 148 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 150 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
-| 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
+| 150 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.68% |
+| 150 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 152 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.64% |
 | 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 154 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 156 | [Haven](games/h/haven.md) | 0.61% |
 | 157 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
