@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -476,9 +476,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 92708,
+  "EOS_Progressed": 92710,
   "EOS_Completed": 934,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -19506,6 +19506,11 @@
       "Time": "2023-10-05T23:03:27.992472+00:00",
       "NumProgressed": 92708,
       "NumCompleted": 934
+    },
+    {
+      "Time": "2023-10-06T00:03:59.7321696+00:00",
+      "NumProgressed": 92710,
+      "NumCompleted": 934
     }
   ],
   "TotalAchievements": 56,
@@ -19525,7 +19530,7 @@
       "Name": "The Gliding",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ach_002_complete_queendom",
@@ -19573,7 +19578,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -19581,7 +19586,7 @@
       "Name": "The Entertainer Mask",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ach_009_guard_mask",
@@ -19605,7 +19610,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -19629,7 +19634,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -19637,7 +19642,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -19645,7 +19650,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15760
+      "UsersEstimate": 15761
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -19725,7 +19730,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23177
+      "UsersEstimate": 23178
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -19813,7 +19818,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15760
+      "UsersEstimate": 15761
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -19837,7 +19842,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23177
+      "UsersEstimate": 23178
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -19853,7 +19858,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -19861,7 +19866,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -19869,7 +19874,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 16687
+      "UsersEstimate": 16688
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -19885,7 +19890,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -19901,7 +19906,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -19964,15 +19969,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 92708,
+      "Progressed": 92710,
       "Completed": 934
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-28T23:58:44.8728569+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:03:27.9924713+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:03:59.7321686+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:40.2302119+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:57:35.9170977+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:03:27.9926396+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:57:56.2760319+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:03:59.7323341+00:00"
 }

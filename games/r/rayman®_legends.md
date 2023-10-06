@@ -1,7 +1,7 @@
 # RAYMAN® LEGENDS
 [Store](https://store.epicgames.com/en-US/p/rayman-legends)  
 [View Rawdata](../../db/r/rayman®_legends.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.81 (Ranked 76)  
 Number of Ratings: 351  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 262  (Ranked 254)  
@@ -153,3 +153,4 @@ Diff (max vs sum): -108
 | 2023-09-29 | 4.82 | - | 257 | 257 |
 | 2023-10-01 | 4.82 | - | 260 | 260 |
 | 2023-10-04 | 4.82 | - | 262 | 262 |
+| 2023-10-05 | 4.81 | - | 262 | 262 |

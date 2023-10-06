@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~16,927 |
-| Until death do us apart | 4.00% | ~16,927 |
-| That is mine! | 3.00% | ~12,695 |
-| Victorious! | 3.00% | ~12,695 |
-| Brothers in Arms | 2.00% | ~8,463 |
-| For the Glory | 2.00% | ~8,463 |
-| That's a Grand Navy | 2.00% | ~8,463 |
-| Seriously?! | 2.00% | ~8,463 |
+| That's a Grand Army | 4.00% | ~16,928 |
+| Until death do us apart | 4.00% | ~16,928 |
+| That is mine! | 3.00% | ~12,696 |
+| Victorious! | 3.00% | ~12,696 |
+| Brothers in Arms | 2.00% | ~8,464 |
+| For the Glory | 2.00% | ~8,464 |
+| That's a Grand Navy | 2.00% | ~8,464 |
+| Seriously?! | 2.00% | ~8,464 |
 | Cold War | 1.00% | ~4,232 |
 | Defender of the Faith | 1.00% | ~4,232 |
 | It's all about the money | 1.00% | ~4,232 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Divine Ruler | 1.00% | ~4,232 |
 | It's all about luck | 0.90% | ~3,809 |
 | Respected | 0.90% | ~3,809 |
-| Blockader | 0.80% | ~3,385 |
-| Double the Love | 0.80% | ~3,385 |
-| Total Control | 0.80% | ~3,385 |
+| Blockader | 0.80% | ~3,386 |
+| Double the Love | 0.80% | ~3,386 |
+| Total Control | 0.80% | ~3,386 |
 | Royal Authority | 0.70% | ~2,962 |
 | My armies are invincible! | 0.60% | ~2,539 |
 | Agressive Expander | 0.50% | ~2,116 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,171 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 306)  
+Progressed: 423,191 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -530,6 +530,7 @@ Completed: 1 (0.00%) (Ranked 306)
 | 2023-10-03 | 421,681 | 1 |
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
+| 2023-10-06 | 423,191 | 1 |
 ## Awards
 Max (Educational): 6,400  (Ranked 57)  
 Sum: 52,626 (Ranked 24)  

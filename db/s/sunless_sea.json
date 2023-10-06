@@ -5,7 +5,7 @@
   "Ranking_Rating": 417,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 351,
-  "Ranking_EOS_Progress": 106,
+  "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 118,
@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38364,
+  "EOS_Progressed": 38366,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17864,6 +17864,11 @@
       "Time": "2023-10-05T23:03:20.7308236+00:00",
       "NumProgressed": 38364,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T00:03:50.8407886+00:00",
+      "NumProgressed": 38366,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -17995,7 +18000,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13811
+      "UsersEstimate": 13812
     },
     {
       "ID": "ach_die10",
@@ -18075,7 +18080,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_legacyrival",
@@ -18091,7 +18096,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_legacyshipmate",
@@ -18107,7 +18112,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_portbell",
@@ -18219,7 +18224,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_sweetheart",
@@ -18306,15 +18311,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38364,
+      "Progressed": 38366,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-04T01:41:35.8515724+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:03:20.730823+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:03:50.840788+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.4675029+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:58:19.5226388+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:03:20.730983+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:58:54.5098769+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:03:50.8409218+00:00"
 }

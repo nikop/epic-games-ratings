@@ -3,7 +3,7 @@
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 514,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -193,9 +193,9 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a21",
@@ -361,17 +361,17 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a9",
       "SetID": "cdg65ol",
       "Name": "The Journey Continues",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:08:20.0200852+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:08:39.39828+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.5753092+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:59:23.4249932+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:08:20.0201127+00:00"
+  "LastUpdate_Ratings": "2023-10-06T00:00:18.7131527+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:08:39.398308+00:00"
 }

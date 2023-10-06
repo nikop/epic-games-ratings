@@ -502,9 +502,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 279251,
+  "EOS_Progressed": 279258,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4185,
+  "EOS_NewPlayers": 4164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19597,6 +19597,11 @@
       "Time": "2023-10-05T23:08:16.3934395+00:00",
       "NumProgressed": 279251,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-06T00:08:34.861771+00:00",
+      "NumProgressed": 279258,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 72,
@@ -19648,7 +19653,7 @@
       "Name": "About Time!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22341
     },
     {
       "ID": "Actor-Turned-Politician",
@@ -19664,7 +19669,7 @@
       "Name": "All Too Easy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 41888
+      "UsersEstimate": 41889
     },
     {
       "ID": "And I Ran...",
@@ -19760,7 +19765,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 159173
+      "UsersEstimate": 159177
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -19768,7 +19773,7 @@
       "Name": "Didn\u0027t Need to See Him Naked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 39095
+      "UsersEstimate": 39096
     },
     {
       "ID": "Don\u0027t Look Down",
@@ -19776,7 +19781,7 @@
       "Name": "Don\u0027t Look Down",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 80983
+      "UsersEstimate": 80985
     },
     {
       "ID": "Don\u0027t Panic",
@@ -19784,7 +19789,7 @@
       "Name": "Don\u0027t Panic",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 78190
+      "UsersEstimate": 78192
     },
     {
       "ID": "Double Team",
@@ -19824,7 +19829,7 @@
       "Name": "First of Many",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 117285
+      "UsersEstimate": 117288
     },
     {
       "ID": "Fist Meet Ground",
@@ -19864,7 +19869,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 50265
+      "UsersEstimate": 50266
     },
     {
       "ID": "Half Way Home",
@@ -19936,7 +19941,7 @@
       "Name": "Indomitable",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27925
+      "UsersEstimate": 27926
     },
     {
       "ID": "Keymaster",
@@ -20000,7 +20005,7 @@
       "Name": "Ooo A Piece of Candy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 64228
+      "UsersEstimate": 64229
     },
     {
       "ID": "Our Gift to You",
@@ -20120,7 +20125,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 150796
+      "UsersEstimate": 150799
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -20152,7 +20157,7 @@
       "Name": "Woah.",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 103323
+      "UsersEstimate": 103325
     },
     {
       "ID": "You Chose... Poorly",
@@ -20168,7 +20173,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 175928
+      "UsersEstimate": 175933
     },
     {
       "ID": "Zoo Keeper",
@@ -20183,7 +20188,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 279251,
+      "Progressed": 279258,
       "Completed": 15
     }
   ],
@@ -20191,8 +20196,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2023-10-04T08:00:28.0043754+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:08:16.3934389+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:08:34.8617701+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:47.443752+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:57:11.0971524+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:08:16.3936382+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:57:25.5635321+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:08:34.8619589+00:00"
 }

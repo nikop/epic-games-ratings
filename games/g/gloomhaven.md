@@ -6,33 +6,33 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,528 |
-| A normal day in Gloomhaven | 34.00% | ~3,581 |
-| Overkill | 33.00% | ~3,475 |
-| Vaccine Incoming | 32.00% | ~3,370 |
-| Spread the plague | 30.00% | ~3,159 |
-| Get over here! | 23.00% | ~2,422 |
-| Just when I thought I was out... | 18.00% | ~1,896 |
-| Mine... All Mine... | 17.00% | ~1,790 |
-| Light of my life | 15.00% | ~1,580 |
-| Anatomy Lesson | 15.00% | ~1,580 |
-| Precious! | 14.00% | ~1,474 |
-| You activated my trap card! | 13.00% | ~1,369 |
-| Augmented rat | 13.00% | ~1,369 |
-| Grizzled veteran | 12.00% | ~1,264 |
-| Obstacle race | 12.00% | ~1,264 |
-| Doom and gloom | 12.00% | ~1,264 |
-| Pack leader | 8.00% | ~842 |
-| Pain is your friend | 8.00% | ~842 |
-| Black death | 8.00% | ~842 |
-| Play it again, Sam | 8.00% | ~842 |
-| Dungeon Veteran | 7.00% | ~737 |
-| Who's the Boss? | 7.00% | ~737 |
-| Quad damage | 6.00% | ~632 |
+| I'm not dead yet | 43.00% | ~4,533 |
+| A normal day in Gloomhaven | 34.00% | ~3,584 |
+| Overkill | 33.00% | ~3,479 |
+| Vaccine Incoming | 32.00% | ~3,373 |
+| Spread the plague | 30.00% | ~3,163 |
+| Get over here! | 23.00% | ~2,425 |
+| Just when I thought I was out... | 18.00% | ~1,898 |
+| Mine... All Mine... | 17.00% | ~1,792 |
+| Light of my life | 15.00% | ~1,581 |
+| Anatomy Lesson | 15.00% | ~1,581 |
+| Precious! | 14.00% | ~1,476 |
+| You activated my trap card! | 13.00% | ~1,370 |
+| Augmented rat | 13.00% | ~1,370 |
+| Grizzled veteran | 12.00% | ~1,265 |
+| Obstacle race | 12.00% | ~1,265 |
+| Doom and gloom | 12.00% | ~1,265 |
+| Pack leader | 8.00% | ~843 |
+| Pain is your friend | 8.00% | ~843 |
+| Black death | 8.00% | ~843 |
+| Play it again, Sam | 8.00% | ~843 |
+| Dungeon Veteran | 7.00% | ~738 |
+| Who's the Boss? | 7.00% | ~738 |
+| Quad damage | 6.00% | ~633 |
 | The Pro from Dover | 5.00% | ~527 |
 | Pretty lights! | 5.00% | ~527 |
 | Now you see me... | 5.00% | ~527 |
-| Power Up! | 4.00% | ~421 |
+| Power Up! | 4.00% | ~422 |
 | Caught off guard | 3.00% | ~316 |
 | Grin and bear it | 3.00% | ~316 |
 | I hate portals | 2.00% | ~211 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~11 |
 | Murder Death Kill | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,531 (Ranked 144)  
+Progressed: 10,542 (Ranked 143)  
 Completed: 1 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.01%) (Ranked 288)
 | 2023-10-03 | 9,970 | 1 |
 | 2023-10-04 | 10,247 | 1 |
 | 2023-10-05 | 10,531 | 1 |
+| 2023-10-06 | 10,542 | 1 |
 ## Awards
 Max (Character Customization): 3,543  (Ranked 89)  
 Sum: 8,261 (Ranked 98)  

@@ -11,12 +11,14 @@
 | Mad Scientist | 18.00% | ~2 |
 | What?! | 18.00% | ~2 |
 | Hoist the Sails | 18.00% | ~2 |
+| Replace the Rudder | 18.00% | ~2 |
 | Socialite | 9.00% | ~1 |
 | Yeet! | 9.00% | ~1 |
+| Couch-surfing | 9.00% | ~1 |
 | Safe Investment | 9.00% | ~1 |
 | Bank of Me | 9.00% | ~1 |
 | Secure the Sheets | 9.00% | ~1 |
-| Replace the Rudder | 9.00% | ~1 |
+| The Journey Continues | 9.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
@@ -25,7 +27,6 @@
 | Shrub-Seeing: Silly Birbs | 0.00% | ~0 |
 | Shrub-Seeing: Ancient Extractor | 0.00% | ~0 |
 | Shrub-Seeing: Seen it all! | 0.00% | ~0 |
-| Couch-surfing | 0.00% | ~0 |
 | Sailor Swift | 0.00% | ~0 |
 | No Evil | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
@@ -38,10 +39,9 @@
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
 | Hands on the Helm | 0.00% | ~0 |
-| The Journey Continues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 514)  
-Completed: 0 (0.00%) (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

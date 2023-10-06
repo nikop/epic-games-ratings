@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2543,17 +2543,17 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_PEAK",
@@ -2583,25 +2583,25 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2615,9 +2615,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
@@ -2631,8 +2631,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:04:18.0017289+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:05:02.3995734+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-05T23:00:12.4917259+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:04:18.0017638+00:00"
+  "LastUpdate_Ratings": "2023-10-06T00:01:17.1947595+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:05:02.3996078+00:00"
 }

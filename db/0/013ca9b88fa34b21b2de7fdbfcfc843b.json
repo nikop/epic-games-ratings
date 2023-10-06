@@ -6,8 +6,8 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -94,7 +94,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6080,
+  "EOS_Progressed": 6081,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
@@ -3399,6 +3399,11 @@
       "Time": "2023-10-05T22:05:06.2111922+00:00",
       "NumProgressed": 6080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T00:04:43.2533067+00:00",
+      "NumProgressed": 6081,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3411,7 +3416,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3419,7 +3424,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3515,7 +3520,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2918
+      "UsersEstimate": 2919
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3523,7 +3528,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -3563,7 +3568,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3690,7 +3695,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6080,
+      "Progressed": 6081,
       "Completed": 0
     }
   ],
@@ -3698,8 +3703,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-05T18:59:26.0400746+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:04:02.6181265+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:04:43.2533061+00:00",
   "LastUpdate_AppInfo": "2023-09-29T04:57:15.496959+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:58:24.1789111+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:04:02.6181734+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:59:00.9666905+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:04:43.2533543+00:00"
 }

@@ -4,9 +4,9 @@
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 52,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -7639,10 +7639,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14721,
       "NumberOfAwardsMax": 7176
+    },
+    {
+      "Time": "2023-10-05T23:57:03.5773354+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14724,
+      "NumberOfAwardsMax": 7176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14721,
+  "NumberOfAwards": 14724,
   "NumberOfAwardsMax": 7176,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7674,7 +7680,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 992
+      "Count": 995
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7719,7 +7725,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62761,
+  "EOS_Progressed": 62762,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
@@ -25624,6 +25630,11 @@
       "Time": "2023-10-05T23:03:52.0515359+00:00",
       "NumProgressed": 62761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T00:04:30.1518253+00:00",
+      "NumProgressed": 62762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25811,7 +25822,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5649
     },
     {
       "ID": "Jack of All Trades",
@@ -25827,7 +25838,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10669
+      "UsersEstimate": 10670
     },
     {
       "ID": "Kingslayer",
@@ -26042,15 +26053,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62761,
+      "Progressed": 62762,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-05T12:02:05.8189759+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:03:52.0515354+00:00",
+  "LastChanged": "2023-10-05T23:57:03.5773353+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:04:30.1518243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:03:16.1326638+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:03:52.0516951+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:57:03.577336+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:04:30.1519792+00:00"
 }

@@ -7,16 +7,16 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost in Space | 65.00% | ~387 |
-| Quick Understanding of Block Extrusion | 62.00% | ~369 |
-| Nature or Nurture | 53.00% | ~315 |
-| Power Glove | 51.00% | ~303 |
-| Forgotten Memories | 49.00% | ~292 |
-| Cogs in the Machine | 44.00% | ~262 |
+| Quick Understanding of Block Extrusion | 63.00% | ~375 |
+| Nature or Nurture | 54.00% | ~321 |
+| Power Glove | 52.00% | ~309 |
+| Forgotten Memories | 50.00% | ~298 |
+| Cogs in the Machine | 45.00% | ~268 |
 | Mission Success | 29.00% | ~173 |
 | There's No Place Like Home | 27.00% | ~161 |
 | Green Cube Killer | 24.00% | ~143 |
+| Path to Salvation | 21.00% | ~125 |
 | Infinity Loop | 20.00% | ~119 |
-| Path to Salvation | 20.00% | ~119 |
 | Descendants | 19.00% | ~113 |
 | The Flawed Teacher | 17.00% | ~101 |
 | The Truthful Enemy | 7.00% | ~42 |

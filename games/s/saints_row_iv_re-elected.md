@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 716)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~175,928 |
-| Destroyer-In-Chief | 57.00% | ~159,173 |
-| There Is No Pancakes | 54.00% | ~150,796 |
-| First of Many | 42.00% | ~117,285 |
-| Woah. | 37.00% | ~103,323 |
-| Don't Look Down | 29.00% | ~80,983 |
-| Don't Panic | 28.00% | ~78,190 |
-| Ooo A Piece of Candy! | 23.00% | ~64,228 |
-| Ghost in the Machine | 18.00% | ~50,265 |
-| All Too Easy | 15.00% | ~41,888 |
-| Didn't Need to See Him Naked | 14.00% | ~39,095 |
-| Indomitable | 10.00% | ~27,925 |
+| Zero Saints Thirty | 63.00% | ~175,933 |
+| Destroyer-In-Chief | 57.00% | ~159,177 |
+| There Is No Pancakes | 54.00% | ~150,799 |
+| First of Many | 42.00% | ~117,288 |
+| Woah. | 37.00% | ~103,325 |
+| Don't Look Down | 29.00% | ~80,985 |
+| Don't Panic | 28.00% | ~78,192 |
+| Ooo A Piece of Candy! | 23.00% | ~64,229 |
+| Ghost in the Machine | 18.00% | ~50,266 |
+| All Too Easy | 15.00% | ~41,889 |
+| Didn't Need to See Him Naked | 14.00% | ~39,096 |
+| Indomitable | 10.00% | ~27,926 |
 | Blast from the Past | 9.00% | ~25,133 |
 | Bow to the Boss! | 9.00% | ~25,133 |
 | Friend of the Raptors | 9.00% | ~25,133 |
-| About Time! | 8.00% | ~22,340 |
+| About Time! | 8.00% | ~22,341 |
 | Actor-Turned-Politician | 7.00% | ~19,548 |
 | Betrayed | 7.00% | ~19,548 |
 | Maximum Stopping Power | 7.00% | ~19,548 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 716)
 | Super Power Team Up! | 0.10% | ~279 |
 | Ultimate Hot Potato | 0.10% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,251 (Ranked 47)  
+Progressed: 279,258 (Ranked 47)  
 Completed: 15 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 15 (0.01%) (Ranked 288)
 | 2023-10-03 | 278,192 | 15 |
 | 2023-10-04 | 278,692 | 15 |
 | 2023-10-05 | 279,251 | 15 |
+| 2023-10-06 | 279,258 | 15 |
 ## Awards
 Max (Great Boss Battles): 466  (Ranked 208)  
 Sum: 466 (Ranked 314)  

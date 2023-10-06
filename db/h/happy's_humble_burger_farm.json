@@ -3,7 +3,7 @@
   "Name": "Happy\u0027s Humble Burger Farm",
   "ProductSlug": "happys-humble-burger-farm-d16675",
   "Ranking_EOS_Progress": 653,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.8589541+00:00",
   "LastChanged": "2023-03-31T05:58:35.8589542+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:29.9171058+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:58:33.9026585+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:08:17.0816768+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:59:12.4541559+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:08:35.5424954+00:00"
 }

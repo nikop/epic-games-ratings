@@ -5,19 +5,19 @@ Rating: 4.27 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,367 |
-| Copacetic Coordination | 16.00% | ~55,432 |
+| Corner Clout | 46.00% | ~159,369 |
+| Copacetic Coordination | 16.00% | ~55,433 |
 | Fronting the Money | 15.00% | ~51,968 |
-| The Dawn of Automation | 14.00% | ~48,503 |
-| Extraordinary Logistics | 14.00% | ~48,503 |
+| The Dawn of Automation | 14.00% | ~48,504 |
+| Extraordinary Logistics | 14.00% | ~48,504 |
 | Dirty Money | 13.00% | ~45,039 |
 | Family First | 13.00% | ~45,039 |
-| Cleaning House | 12.00% | ~41,574 |
-| Room in the Back | 12.00% | ~41,574 |
+| Cleaning House | 12.00% | ~41,575 |
+| Room in the Back | 12.00% | ~41,575 |
 | Beating the Heat | 11.00% | ~38,110 |
 | Booze Baron | 11.00% | ~38,110 |
-| Friends on the Force | 10.00% | ~34,645 |
-| Neighborhood Watch | 10.00% | ~34,645 |
+| Friends on the Force | 10.00% | ~34,646 |
+| Neighborhood Watch | 10.00% | ~34,646 |
 | Core Corps | 8.00% | ~27,716 |
 | Sizeable Stash | 8.00% | ~27,716 |
 | Street Fighter | 7.00% | ~24,252 |
@@ -86,8 +86,8 @@ Rating: 4.27 (Ranked 831)
 | High Pillow | 0.10% | ~346 |
 | Station Master | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,451 (Ranked 43)  
-Completed: 7 (0.00%) (Ranked 306)  
+Progressed: 346,455 (Ranked 43)  
+Completed: 7 (0.00%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,10 +255,11 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-03 | 346,178 | 7 |
 | 2023-10-04 | 346,309 | 7 |
 | 2023-10-05 | 346,451 | 7 |
+| 2023-10-06 | 346,455 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 446)  
-Sum: 200 (Ranked 379)  
-Diff (max vs sum): 67  
+Sum: 175 (Ranked 393)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |
@@ -355,3 +356,4 @@ Diff (max vs sum): 67
 | 2023-10-01 | 4.27 | 37 | 198 |
 | 2023-10-02 | 4.27 | 37 | 199 |
 | 2023-10-05 | 4.27 | 37 | 200 |
+| 2023-10-06 | 4.27 | 37 | 175 |

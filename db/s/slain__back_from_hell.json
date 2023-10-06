@@ -229,9 +229,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37882,
+  "EOS_Progressed": 37884,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18699,6 +18699,11 @@
       "Time": "2023-10-05T23:05:48.9263995+00:00",
       "NumProgressed": 37882,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-06T00:06:53.4251063+00:00",
+      "NumProgressed": 37884,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18710,7 +18715,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18718,7 +18723,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18740,9 +18745,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -18941,7 +18946,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37882,
+      "Progressed": 37884,
       "Completed": 25
     }
   ],
@@ -18949,8 +18954,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:05:48.926399+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:06:53.4251056+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:58:22.2956116+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:05:48.9265337+00:00"
+  "LastUpdate_Ratings": "2023-10-05T23:58:58.5430747+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:06:53.4252508+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
@@ -1888,6 +1888,11 @@
       "Time": "2023-10-03T15:03:06.4482635+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-06T00:04:26.8650321+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1899,7 +1904,7 @@
       "Name": "Humble beginnings",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -1923,7 +1928,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1931,7 +1936,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1947,7 +1952,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1995,7 +2000,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2035,7 +2040,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2067,7 +2072,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_STAR_4",
@@ -2107,14 +2112,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1065,
       "Completed": 15
     }
   ],
@@ -2122,8 +2127,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-30T17:58:02.6555182+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:03:49.4532989+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:04:26.8650313+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.5624233+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:59:54.8309403+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:03:49.4533303+00:00"
+  "LastUpdate_Ratings": "2023-10-06T00:00:56.3900191+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:04:26.8650622+00:00"
 }

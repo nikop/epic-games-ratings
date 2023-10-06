@@ -2772,9 +2772,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 190476,
+  "EOS_Progressed": 190486,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 2969,
+  "EOS_NewPlayers": 2968,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -11852,6 +11852,11 @@
       "Time": "2023-10-05T23:08:27.2389738+00:00",
       "NumProgressed": 190476,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-10-06T00:09:08.3836125+00:00",
+      "NumProgressed": 190486,
+      "NumCompleted": 363
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -11864,7 +11869,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -11880,7 +11885,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -11944,7 +11949,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15238
+      "UsersEstimate": 15239
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -11984,7 +11989,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -12000,7 +12005,7 @@
       "Name": "The Agenda",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Meet_Custodian",
@@ -12032,7 +12037,7 @@
       "Name": "Tall Tales",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Meet_Nimue",
@@ -12048,7 +12053,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17143
+      "UsersEstimate": 17144
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -12080,7 +12085,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -12104,7 +12109,7 @@
       "Name": "Strapped",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Obtain_Guns_B",
@@ -12120,7 +12125,7 @@
       "Name": "Edgelord",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Obtain_Melee_Weapons_B",
@@ -12168,7 +12173,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "Obtain_Traits_B",
@@ -12200,7 +12205,7 @@
       "Name": "The Ultimate Weapon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Upgrade_Boss_Weapon_B",
@@ -12232,7 +12237,7 @@
       "Name": "No One Should Have All That Power",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -12263,7 +12268,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 190476,
+      "Progressed": 190486,
       "Completed": 363
     }
   ],
@@ -12271,8 +12276,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-05T21:00:45.5558401+00:00",
-  "LastChanged_Achievements": "2023-10-05T23:08:27.2389731+00:00",
+  "LastChanged_Achievements": "2023-10-06T00:09:08.3836119+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:11.7554102+00:00",
-  "LastUpdate_Ratings": "2023-10-05T22:59:18.3048774+00:00",
-  "LastUpdate_Achievements": "2023-10-05T23:08:27.239061+00:00"
+  "LastUpdate_Ratings": "2023-10-06T00:00:13.1258818+00:00",
+  "LastUpdate_Achievements": "2023-10-06T00:09:08.3837104+00:00"
 }
