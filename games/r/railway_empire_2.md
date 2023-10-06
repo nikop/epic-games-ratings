@@ -5,33 +5,33 @@ Rating: 4.47 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,485 |
-| A new Journey | 74.00% | ~1,465 |
-| Departure | 73.00% | ~1,445 |
+| Country Bumpkin | 75.00% | ~1,486 |
+| A new Journey | 74.00% | ~1,466 |
+| Departure | 73.00% | ~1,446 |
 | From X to Y | 72.00% | ~1,426 |
-| Way of Iron | 70.00% | ~1,386 |
-| Mystery Tour | 68.00% | ~1,346 |
+| Way of Iron | 70.00% | ~1,387 |
+| Mystery Tour | 68.00% | ~1,347 |
 | We brake for nobody | 67.00% | ~1,327 |
 | Brainstorm | 66.00% | ~1,307 |
-| Mind the Gap | 65.00% | ~1,287 |
-| Travel Company | 65.00% | ~1,287 |
+| Mind the Gap | 65.00% | ~1,288 |
+| Travel Company | 65.00% | ~1,288 |
 | All around the World | 62.00% | ~1,228 |
 | Right through the middle | 57.00% | ~1,129 |
-| Poor Devil | 54.00% | ~1,069 |
-| Facility Manager | 53.00% | ~1,049 |
+| Poor Devil | 54.00% | ~1,070 |
+| Facility Manager | 53.00% | ~1,050 |
 | Producer | 50.00% | ~990 |
 | Apprentice | 41.00% | ~812 |
 | Bridge Builder | 41.00% | ~812 |
 | Access granted | 35.00% | ~693 |
 | Going once, going twice, sold | 35.00% | ~693 |
-| Bull and bear | 34.00% | ~673 |
-| Stoker | 33.00% | ~653 |
+| Bull and bear | 34.00% | ~674 |
+| Stoker | 33.00% | ~654 |
 | Full Steam ahead | 32.00% | ~634 |
 | Financial Shark | 31.00% | ~614 |
 | All mine | 30.00% | ~594 |
 | Mole | 30.00% | ~594 |
 | Socializer | 29.00% | ~574 |
-| Country Life | 28.00% | ~554 |
+| Country Life | 28.00% | ~555 |
 | General Manager | 27.00% | ~535 |
 | Hostile Takeover | 26.00% | ~515 |
 | Seven at one stroke | 24.00% | ~475 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 620)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,980 (Ranked 203)  
+Progressed: 1,981 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-02 | 1,972 | 0 |
 | 2023-10-03 | 1,977 | 0 |
 | 2023-10-04 | 1,979 | 0 |
-| 2023-10-06 | 1,980 | 0 |
+| 2023-10-06 | 1,981 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,853 |
-| The Three | 64.00% | ~342,248 |
-| The Banquet | 40.00% | ~213,905 |
-| Devara's Light | 31.00% | ~165,777 |
-| The Iron Ones | 18.00% | ~96,257 |
-| The Village | 16.00% | ~85,562 |
-| The Forest | 15.00% | ~80,214 |
-| The Keep | 14.00% | ~74,867 |
-| Branded | 13.00% | ~69,519 |
-| The Imposter | 13.00% | ~69,519 |
+| Find Sanctuary | 83.00% | ~443,857 |
+| The Three | 64.00% | ~342,252 |
+| The Banquet | 40.00% | ~213,907 |
+| Devara's Light | 31.00% | ~165,778 |
+| The Iron Ones | 18.00% | ~96,258 |
+| The Village | 16.00% | ~85,563 |
+| The Forest | 15.00% | ~80,215 |
+| The Keep | 14.00% | ~74,868 |
+| Branded | 13.00% | ~69,520 |
+| The Imposter | 13.00% | ~69,520 |
 | The Castle | 11.00% | ~58,824 |
 | The Dome | 9.00% | ~48,129 |
 | The Red Hall | 9.00% | ~48,129 |
 | The Sacrifice | 8.00% | ~42,781 |
-| The Cave | 7.00% | ~37,433 |
-| The Mire | 7.00% | ~37,433 |
-| The Stone Roots | 7.00% | ~37,433 |
-| The Ziggurat | 7.00% | ~37,433 |
+| The Cave | 7.00% | ~37,434 |
+| The Mire | 7.00% | ~37,434 |
+| The Stone Roots | 7.00% | ~37,434 |
+| The Ziggurat | 7.00% | ~37,434 |
 | Storied | 6.00% | ~32,086 |
 | The Construct | 6.00% | ~32,086 |
 | The Lake | 6.00% | ~32,086 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,695 |
 | Fading Fast | 1.00% | ~5,348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,763 (Ranked 32)  
+Progressed: 534,768 (Ranked 32)  
 Completed: 1,564 (0.29%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,15 +213,15 @@ Completed: 1,564 (0.29%) (Ranked 201)
 | 2023-10-03 | 534,604 | 1,561 |
 | 2023-10-04 | 534,661 | 1,562 |
 | 2023-10-05 | 534,720 | 1,563 |
-| 2023-10-06 | 534,763 | 1,564 |
+| 2023-10-06 | 534,768 | 1,564 |
 ## Awards
 Max (Challenging Combat): 284  (Ranked 245)  
-Sum: 1,963 (Ranked 205)  
+Sum: 1,964 (Ranked 205)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 284 |
-| This game has Quickly Understood Controls | 260 |
+| This game has Quickly Understood Controls | 261 |
 | This game is Highly Recommended | 258 |
 | This game has Diverse Characters | 243 |
 | This game is Extremely Fun | 239 |
@@ -399,3 +399,4 @@ Diff (max vs sum): 40
 | 2023-09-28 | 4.61 | - | 284 | 1,961 |
 | 2023-09-29 | 4.61 | - | 284 | 1,962 |
 | 2023-09-30 | 4.61 | - | 284 | 1,963 |
+| 2023-10-06 | 4.61 | - | 284 | 1,964 |

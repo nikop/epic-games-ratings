@@ -6,40 +6,40 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~627,252 |
-| Escaped Asphodel | 80.00% | ~563,822 |
-| Arms Collector | 71.00% | ~500,392 |
-| Friends in High Places | 68.00% | ~479,249 |
-| Escaped Elysium | 66.00% | ~465,153 |
-| Chthonic Colleagues | 63.00% | ~444,010 |
-| Is There No Escape? | 52.00% | ~366,485 |
-| Death Dealer | 45.00% | ~317,150 |
-| Skelly Slayer | 42.00% | ~296,007 |
-| Well Stocked | 40.00% | ~281,911 |
-| Back to Work | 38.00% | ~267,816 |
-| Day-or-Night Trader | 37.00% | ~260,768 |
-| Blessed by the Gods | 37.00% | ~260,768 |
-| Urge to Sing | 36.00% | ~253,720 |
-| Blood Bound | 35.00% | ~246,672 |
-| Three-Headed Boy | 32.00% | ~225,529 |
-| River Denizens | 28.00% | ~197,338 |
-| Grown Close | 28.00% | ~197,338 |
-| Home Makeover | 27.00% | ~190,290 |
-| The Family Secret | 26.00% | ~183,242 |
-| Had to Happen | 25.00% | ~176,194 |
-| To Charon's Credit | 23.00% | ~162,099 |
-| Tools of the Architect | 23.00% | ~162,099 |
-| Master of Arms | 23.00% | ~162,099 |
-| Rare Collectible | 22.00% | ~155,051 |
-| Weapon of Fate | 21.00% | ~148,003 |
-| Something From Everyone | 19.00% | ~133,908 |
-| Hold the Onions | 18.00% | ~126,860 |
-| Well Versed | 17.00% | ~119,812 |
+| Escaped Tartarus | 89.00% | ~627,256 |
+| Escaped Asphodel | 80.00% | ~563,826 |
+| Arms Collector | 71.00% | ~500,395 |
+| Friends in High Places | 68.00% | ~479,252 |
+| Escaped Elysium | 66.00% | ~465,156 |
+| Chthonic Colleagues | 63.00% | ~444,013 |
+| Is There No Escape? | 52.00% | ~366,487 |
+| Death Dealer | 45.00% | ~317,152 |
+| Skelly Slayer | 42.00% | ~296,008 |
+| Well Stocked | 40.00% | ~281,913 |
+| Back to Work | 38.00% | ~267,817 |
+| Day-or-Night Trader | 37.00% | ~260,769 |
+| Blessed by the Gods | 37.00% | ~260,769 |
+| Urge to Sing | 36.00% | ~253,722 |
+| Blood Bound | 35.00% | ~246,674 |
+| Three-Headed Boy | 32.00% | ~225,530 |
+| River Denizens | 28.00% | ~197,339 |
+| Grown Close | 28.00% | ~197,339 |
+| Home Makeover | 27.00% | ~190,291 |
+| The Family Secret | 26.00% | ~183,243 |
+| Had to Happen | 25.00% | ~176,196 |
+| To Charon's Credit | 23.00% | ~162,100 |
+| Tools of the Architect | 23.00% | ~162,100 |
+| Master of Arms | 23.00% | ~162,100 |
+| Rare Collectible | 22.00% | ~155,052 |
+| Weapon of Fate | 21.00% | ~148,004 |
+| Something From Everyone | 19.00% | ~133,909 |
+| Hold the Onions | 18.00% | ~126,861 |
+| Well Versed | 17.00% | ~119,813 |
 | War-God's Bloodlust | 15.00% | ~105,717 |
 | Musician and Muse | 14.00% | ~98,669 |
-| The Useless Trinket | 13.00% | ~91,621 |
-| Champion of Elysium | 13.00% | ~91,621 |
-| Slashed Benefits | 12.00% | ~84,573 |
+| The Useless Trinket | 13.00% | ~91,622 |
+| Champion of Elysium | 13.00% | ~91,622 |
+| Slashed Benefits | 12.00% | ~84,574 |
 | Haste of Hermes | 11.00% | ~77,526 |
 | Bad Call | 10.00% | ~70,478 |
 | Nyx's Mirror | 10.00% | ~70,478 |
@@ -48,15 +48,15 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,430 |
 | Thanks, But No Thanks | 9.00% | ~63,430 |
 | Infernal Arms | 9.00% | ~63,430 |
-| Divided by Death | 8.00% | ~56,382 |
-| Harsh Conditions | 7.00% | ~49,334 |
-| One for the Ages | 7.00% | ~49,334 |
+| Divided by Death | 8.00% | ~56,383 |
+| Harsh Conditions | 7.00% | ~49,335 |
+| One for the Ages | 7.00% | ~49,335 |
 | Complete Set | 6.00% | ~42,287 |
 | Skelly's Last Lamentations | 6.00% | ~42,287 |
 | Thorn of Thanatos | 4.00% | ~28,191 |
 | Friends Forever | 4.00% | ~28,191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,778 (Ranked 21)  
+Progressed: 704,782 (Ranked 21)  
 Completed: 6,397 (0.91%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6,397 (0.91%) (Ranked 143)
 | 2023-10-03 | 704,636 | 6,393 |
 | 2023-10-04 | 704,689 | 6,396 |
 | 2023-10-05 | 704,755 | 6,396 |
-| 2023-10-06 | 704,778 | 6,397 |
+| 2023-10-06 | 704,782 | 6,397 |
 ## Awards
 Max (Character Customization): 3,293  (Ranked 94)  
 Sum: 7,990 (Ranked 102)  

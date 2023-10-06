@@ -6,7 +6,7 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -148,11 +148,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13622,
-  "EOS_Completed": 12,
-  "EOS_NewPlayers": 461,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_Progressed": 13624,
+  "EOS_Completed": 13,
+  "EOS_NewPlayers": 460,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -7828,6 +7828,11 @@
       "Time": "2023-10-06T12:06:14.2501384+00:00",
       "NumProgressed": 13622,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-06T13:12:13.9282677+00:00",
+      "NumProgressed": 13624,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -7862,9 +7867,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 136
     },
     {
       "ID": "13",
@@ -8079,16 +8084,16 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13622,
-      "Completed": 12
+      "Progressed": 13624,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-06T08:00:39.97616+00:00",
-  "LastChanged_Achievements": "2023-10-06T12:06:14.2501377+00:00",
+  "LastChanged_Achievements": "2023-10-06T13:12:13.9282674+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T12:02:09.1930727+00:00",
-  "LastUpdate_Achievements": "2023-10-06T12:06:14.2502055+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:08:13.9749776+00:00",
+  "LastUpdate_Achievements": "2023-10-06T13:12:13.9283224+00:00"
 }

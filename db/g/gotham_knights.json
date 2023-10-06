@@ -5,10 +5,10 @@
   "Ranking_Rating": 895,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
-  "Ranking_EOS_Progress": 89,
+  "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3380,9 +3380,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73203,
+  "EOS_Progressed": 73205,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17770,6 +17770,11 @@
       "Time": "2023-10-06T07:06:41.8608726+00:00",
       "NumProgressed": 73203,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-06T13:11:57.1041802+00:00",
+      "NumProgressed": 73205,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17861,7 +17866,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "APPLY_STATUS",
@@ -17869,7 +17874,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10980
+      "UsersEstimate": 10981
     },
     {
       "ID": "CHALLENGES_1",
@@ -17901,7 +17906,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10248
+      "UsersEstimate": 10249
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -17941,7 +17946,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9516
+      "UsersEstimate": 9517
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -17957,7 +17962,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -17989,7 +17994,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9516
+      "UsersEstimate": 9517
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18029,7 +18034,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10248
+      "UsersEstimate": 10249
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18085,7 +18090,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25621
+      "UsersEstimate": 25622
     },
     {
       "ID": "HARLEY_2",
@@ -18109,7 +18114,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11712
+      "UsersEstimate": 11713
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18125,7 +18130,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38066
+      "UsersEstimate": 38067
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18173,7 +18178,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24889
+      "UsersEstimate": 24890
     },
     {
       "ID": "MYSTERY_02",
@@ -18213,7 +18218,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10980
+      "UsersEstimate": 10981
     },
     {
       "ID": "MYSTERY_07",
@@ -18221,7 +18226,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10248
+      "UsersEstimate": 10249
     },
     {
       "ID": "MYSTERY_08",
@@ -18229,7 +18234,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "SECRET_CACHE",
@@ -18237,7 +18242,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8052
+      "UsersEstimate": 8053
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18268,13 +18273,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73203,
+      "Progressed": 73205,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43483,
+      "Progressed": 43485,
       "Completed": 2666
     }
   ],
@@ -18282,8 +18287,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-06T10:59:03.8544368+00:00",
-  "LastChanged_Achievements": "2023-10-06T12:05:57.2246334+00:00",
+  "LastChanged_Achievements": "2023-10-06T13:11:57.1041797+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-06T11:58:29.3181199+00:00",
-  "LastUpdate_Achievements": "2023-10-06T12:05:57.2247803+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:04:23.2070001+00:00",
+  "LastUpdate_Achievements": "2023-10-06T13:11:57.1042961+00:00"
 }

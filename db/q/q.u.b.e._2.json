@@ -5,7 +5,7 @@
   "Ranking_Rating": 687,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 117,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2421,6 +2421,11 @@
       "Time": "2023-10-06T12:04:58.5470698+00:00",
       "NumProgressed": 608,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T13:10:59.4420251+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2577,7 +2582,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_HUB2",
@@ -2593,7 +2598,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_PEAK",
@@ -2609,7 +2614,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_REDEND",
@@ -2625,7 +2630,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_S4",
@@ -2633,7 +2638,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_S5",
@@ -2649,7 +2654,7 @@
       "Name": "Lost in Space",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_STATUE",
@@ -2664,15 +2669,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-06T12:04:58.5470688+00:00",
+  "LastChanged_Achievements": "2023-10-06T13:10:59.4420247+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-06T12:02:05.0991254+00:00",
-  "LastUpdate_Achievements": "2023-10-06T12:04:58.5471052+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:08:10.8219722+00:00",
+  "LastUpdate_Achievements": "2023-10-06T13:10:59.4420514+00:00"
 }

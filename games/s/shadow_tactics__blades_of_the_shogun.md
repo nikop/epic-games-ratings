@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,755 |
-| A thief's beginning | 10.00% | ~20,629 |
-| Thorough | 10.00% | ~20,629 |
-| Disguised | 8.00% | ~16,503 |
-| Rescue Takuma | 8.00% | ~16,503 |
-| Rollin' | 8.00% | ~16,503 |
-| Tanuki Time | 8.00% | ~16,503 |
+| Genin | 12.00% | ~24,757 |
+| A thief's beginning | 10.00% | ~20,631 |
+| Thorough | 10.00% | ~20,631 |
+| Disguised | 8.00% | ~16,504 |
+| Rescue Takuma | 8.00% | ~16,504 |
+| Rollin' | 8.00% | ~16,504 |
+| Tanuki Time | 8.00% | ~16,504 |
 | Ice Ice Yuki | 7.00% | ~14,441 |
 | Jonin | 7.00% | ~14,441 |
 | Stoned Ox | 7.00% | ~14,441 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,857 |
 | High Five the Moon | 0.80% | ~1,650 |
 | The Cave | 0.80% | ~1,650 |
-| Merciful | 0.50% | ~1,031 |
-| Time Paradox | 0.50% | ~1,031 |
+| Merciful | 0.50% | ~1,032 |
+| Time Paradox | 0.50% | ~1,032 |
 | Five Shadows | 0.30% | ~619 |
 | Praise the Shogun | 0.20% | ~413 |
 | Chicken Dinner | 0.10% | ~206 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,293 (Ranked 63)  
+Progressed: 206,306 (Ranked 63)  
 Completed: 89 (0.04%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 89 (0.04%) (Ranked 270)
 | 2023-10-03 | 205,839 | 88 |
 | 2023-10-04 | 206,028 | 89 |
 | 2023-10-05 | 206,213 | 89 |
-| 2023-10-06 | 206,293 | 89 |
+| 2023-10-06 | 206,306 | 89 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
 Sum: 4,782 (Ranked 138)  

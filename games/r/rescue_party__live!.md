@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ASAP | 96.00% | ~210 |
-| Medal of honor | 37.00% | ~81 |
-| Life matters | 37.00% | ~81 |
-| Safety first | 32.00% | ~70 |
-| Professional team! | 25.00% | ~55 |
+| ASAP | 97.00% | ~212 |
+| Medal of honor | 38.00% | ~83 |
+| Life matters | 38.00% | ~83 |
+| Safety first | 33.00% | ~72 |
+| Professional team! | 26.00% | ~57 |
 | Resource manager | 14.00% | ~31 |
 | Dawn of Victory | 13.00% | ~28 |
 | Team assemble | 13.00% | ~28 |

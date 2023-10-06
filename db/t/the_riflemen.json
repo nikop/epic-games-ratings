@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19748,
+  "EOS_Progressed": 19769,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4463,
+  "EOS_NewPlayers": 4440,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 59.55,
+  "EOS_Completed_Percentage": 59.48,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -4481,6 +4481,11 @@
       "Time": "2023-10-06T12:03:51.9746891+00:00",
       "NumProgressed": 19748,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-06T13:10:08.5201011+00:00",
+      "NumProgressed": 19769,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -4501,7 +4506,7 @@
       "Name": "First blood",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10280
     },
     {
       "ID": "grenadeKills",
@@ -4517,7 +4522,7 @@
       "Name": "Head popping I",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "headshots1000",
@@ -4533,7 +4538,7 @@
       "Name": "Head popping II",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "knifeKills",
@@ -4604,14 +4609,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 19748,
+      "Progressed": 19769,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-06T12:03:51.974679+00:00",
+  "LastChanged_Achievements": "2023-10-06T13:10:08.5201009+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:03.6352608+00:00",
-  "LastUpdate_Ratings": "2023-10-06T11:58:14.6115498+00:00",
-  "LastUpdate_Achievements": "2023-10-06T12:03:51.9747308+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:04:10.020628+00:00",
+  "LastUpdate_Achievements": "2023-10-06T13:10:08.5201298+00:00"
 }

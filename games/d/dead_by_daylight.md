@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.50% | ~4,608 |
-| It wakes | 0.50% | ~4,608 |
-| Skillful | 0.50% | ~4,608 |
+| Zealous | 0.50% | ~4,609 |
+| It wakes | 0.50% | ~4,609 |
+| Skillful | 0.50% | ~4,609 |
 | Handyman | 0.40% | ~3,687 |
 | Not half bad | 0.40% | ~3,687 |
 | Apt Survivor | 0.40% | ~3,687 |
@@ -29,19 +29,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 0.30% | ~2,765 |
 | Preemptive Strike | 0.30% | ~2,765 |
 | Humanitarian | 0.30% | ~2,765 |
-| I've got your back | 0.20% | ~1,843 |
-| Perfect Killing | 0.20% | ~1,843 |
-| Apt Killer | 0.20% | ~1,843 |
-| Risk it all | 0.20% | ~1,843 |
-| Vulture | 0.20% | ~1,843 |
-| II | 0.20% | ~1,843 |
-| III | 0.20% | ~1,843 |
-| Wounded Healer | 0.20% | ~1,843 |
-| First to the Punch | 0.20% | ~1,843 |
-| Every Last Drop | 0.20% | ~1,843 |
-| Close Shave | 0.20% | ~1,843 |
-| With Scars to Show | 0.20% | ~1,843 |
-| Second Act | 0.20% | ~1,843 |
+| I've got your back | 0.20% | ~1,844 |
+| Perfect Killing | 0.20% | ~1,844 |
+| Apt Killer | 0.20% | ~1,844 |
+| Risk it all | 0.20% | ~1,844 |
+| Vulture | 0.20% | ~1,844 |
+| II | 0.20% | ~1,844 |
+| III | 0.20% | ~1,844 |
+| Cherish your Life | 0.20% | ~1,844 |
+| Wounded Healer | 0.20% | ~1,844 |
+| First to the Punch | 0.20% | ~1,844 |
+| Every Last Drop | 0.20% | ~1,844 |
+| Close Shave | 0.20% | ~1,844 |
+| With Scars to Show | 0.20% | ~1,844 |
+| Second Act | 0.20% | ~1,844 |
 | A bite for the Entity | 0.10% | ~922 |
 | A feast for the Entity | 0.10% | ~922 |
 | Blood on your hands | 0.10% | ~922 |
@@ -106,7 +107,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Game Over | 0.10% | ~922 |
 | Adept Pig | 0.10% | ~922 |
 | Near-Death Experience | 0.10% | ~922 |
-| Cherish your Life | 0.10% | ~922 |
 | Adept Tapp | 0.10% | ~922 |
 | Party Crasher | 0.10% | ~922 |
 | Smoked | 0.10% | ~922 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~922 |
 | Adept Ripley | 0.10% | ~922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921,666 (Ranked 14)  
+Progressed: 921,765 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,16 +405,16 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 921,666 | 49 |
+| 2023-10-06 | 921,765 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
-Sum: 259,731 (Ranked 13)  
+Sum: 259,754 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,500 |
 | This game is Highly Recommended | 29,691 |
-| This game has Competitive Players | 29,373 |
+| This game has Competitive Players | 29,396 |
 | This game has Amazing Characters | 29,334 |
 | This game is Extremely Fun | 28,997 |
 | This game has Challenging Combat | 28,597 |
@@ -681,4 +681,4 @@ Diff (max vs sum): 2
 | 2023-10-03 | 4.52 | - | 33,414 | 259,094 |
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
-| 2023-10-06 | 4.52 | - | 33,500 | 259,731 |
+| 2023-10-06 | 4.52 | - | 33,500 | 259,754 |

@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,216 |
-| Cavalier | 25.00% | ~200,950 |
-| Fatso | 23.00% | ~184,874 |
-| Awakening | 21.00% | ~168,798 |
-| Ranger | 20.00% | ~160,760 |
-| Scrooge | 20.00% | ~160,760 |
-| Anorectic | 16.00% | ~128,608 |
-| Bookworm | 15.00% | ~120,570 |
-| Firestarter | 15.00% | ~120,570 |
-| Insomniac | 13.00% | ~104,494 |
-| Buddy | 12.00% | ~96,456 |
-| Thief | 12.00% | ~96,456 |
-| Sinner | 11.00% | ~88,418 |
-| Traveller | 11.00% | ~88,418 |
-| Convict | 10.00% | ~80,380 |
-| Haggler | 9.00% | ~72,342 |
-| McLovin | 7.00% | ~56,266 |
-| Runt | 7.00% | ~56,266 |
-| Casanova | 6.00% | ~48,228 |
+| Blacksmith's Son | 32.00% | ~257,219 |
+| Cavalier | 25.00% | ~200,952 |
+| Fatso | 23.00% | ~184,876 |
+| Awakening | 21.00% | ~168,800 |
+| Ranger | 20.00% | ~160,762 |
+| Scrooge | 20.00% | ~160,762 |
+| Anorectic | 16.00% | ~128,610 |
+| Bookworm | 15.00% | ~120,572 |
+| Firestarter | 15.00% | ~120,572 |
+| Insomniac | 13.00% | ~104,495 |
+| Buddy | 12.00% | ~96,457 |
+| Thief | 12.00% | ~96,457 |
+| Sinner | 11.00% | ~88,419 |
+| Traveller | 11.00% | ~88,419 |
+| Convict | 10.00% | ~80,381 |
+| Haggler | 9.00% | ~72,343 |
+| McLovin | 7.00% | ~56,267 |
+| Runt | 7.00% | ~56,267 |
+| Casanova | 6.00% | ~48,229 |
 | Bad Trip | 5.00% | ~40,190 |
 | Monk | 5.00% | ~40,190 |
 | Serial Killer | 5.00% | ~40,190 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,800 (Ranked 17)  
+Progressed: 803,810 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 803,567 | 49 |
 | 2023-10-04 | 803,673 | 49 |
 | 2023-10-05 | 803,759 | 49 |
-| 2023-10-06 | 803,800 | 49 |
+| 2023-10-06 | 803,810 | 49 |
 ## Awards
 Max (Character Customization): 7,498  (Ranked 48)  
 Sum: 27,926 (Ranked 48)  

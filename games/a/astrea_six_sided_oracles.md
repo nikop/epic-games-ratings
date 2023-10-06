@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Stellar Dismantler | 14.00% | ~6 |
+| Wild's Keeper | 14.00% | ~6 |
+| Apian Champion | 14.00% | ~6 |
 | Lacertian Champion | 14.00% | ~6 |
 | Dicesmithing Time! | 12.00% | ~5 |
 | Loyal Partner | 12.00% | ~5 |
 | Mechanical Buddy | 12.00% | ~5 |
+| Mind Illuminator | 12.00% | ~5 |
 | Purification Pioneer | 12.00% | ~5 |
-| Stellar Dismantler | 12.00% | ~5 |
-| Wild's Keeper | 12.00% | ~5 |
-| Apian Champion | 12.00% | ~5 |
 | Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Endless Tricks | 9.00% | ~4 |
 | Meissa's Savior | 9.00% | ~4 |
-| Mind Illuminator | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
 | Unbeatable | 9.00% | ~4 |
 | Eridanian Champion | 9.00% | ~4 |
@@ -35,6 +35,7 @@
 | The Corruption Goddess | 5.00% | ~2 |
 | Wave Bender | 5.00% | ~2 |
 | Lacertian Mastery | 5.00% | ~2 |
+| Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
 | Astral Seeker | 2.00% | ~1 |
@@ -53,12 +54,13 @@
 | This is Fine | 2.00% | ~1 |
 | Apian Hero | 2.00% | ~1 |
 | Aquarian Champion | 2.00% | ~1 |
+| Aquarian Hero | 2.00% | ~1 |
+| Aquarian Mastery | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Hero | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
-| Anomaly Master | 0.00% | ~0 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -97,8 +99,6 @@
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
-| Aquarian Hero | 0.00% | ~0 |
-| Aquarian Mastery | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |

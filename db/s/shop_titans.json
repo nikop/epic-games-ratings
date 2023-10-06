@@ -6326,10 +6326,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27338,
       "NumberOfAwardsMax": 4771
+    },
+    {
+      "Time": "2023-10-06T13:03:42.9535229+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27340,
+      "NumberOfAwardsMax": 4771
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27338,
+  "NumberOfAwards": 27340,
   "NumberOfAwardsMax": 4771,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6361,7 +6367,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4008
+      "Count": 4010
     },
     {
       "Text": "This game is Relaxing",
@@ -6382,9 +6388,9 @@
       "Count": 3756
     }
   ],
-  "EOS_Progressed": 137184,
+  "EOS_Progressed": 137188,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23692,6 +23698,11 @@
       "Time": "2023-10-06T12:04:43.9236811+00:00",
       "NumProgressed": 137184,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-10-06T13:10:44.9685376+00:00",
+      "NumProgressed": 137188,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 112,
@@ -23711,7 +23722,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "advlevel03",
@@ -23751,7 +23762,7 @@
       "Name": "Ascended",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ascend02",
@@ -23815,7 +23826,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "blueprint03",
@@ -23831,7 +23842,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "boss01",
@@ -24111,7 +24122,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "furniture02",
@@ -24143,7 +24154,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "fuselegendary",
@@ -24167,7 +24178,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "gold01",
@@ -24223,7 +24234,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "help02",
@@ -24367,7 +24378,7 @@
       "Name": "Natural 20",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "master03",
@@ -24598,15 +24609,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137184,
+      "Progressed": 137188,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-05T23:57:39.0702199+00:00",
-  "LastChanged_Achievements": "2023-10-06T12:04:43.9236805+00:00",
+  "LastChanged": "2023-10-06T13:03:42.9535228+00:00",
+  "LastChanged_Achievements": "2023-10-06T13:10:44.9685372+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:59.4659286+00:00",
-  "LastUpdate_Ratings": "2023-10-06T11:57:48.0720979+00:00",
-  "LastUpdate_Achievements": "2023-10-06T12:04:43.9239395+00:00"
+  "LastUpdate_Ratings": "2023-10-06T13:03:42.9535234+00:00",
+  "LastUpdate_Achievements": "2023-10-06T13:10:44.9687451+00:00"
 }
