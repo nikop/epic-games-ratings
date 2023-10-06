@@ -70,18 +70,18 @@
 | 64 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 527 |
 | 64 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 458 |
 | 64 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 737 | 169 |
-| 64 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 262 | 254 |
 | 64 | [Sifu](games/s/sifu.md) | 4.82 | 6,639 | 54 |
 | 64 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 416 | 218 |
 | 64 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 49 | 413 |
 | 64 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 527 |
 | 64 | [WarmSnow](games/w/warmsnow.md) | 4.82 | 0 | 527 |
-| 77 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 433 | 212 |
-| 77 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 527 |
-| 77 | [The Messenger](games/t/the_messenger.md) | 4.81 | 338 | 233 |
-| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 527 |
-| 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 477 |
-| 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 527 |
+| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 433 | 212 |
+| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 262 | 254 |
+| 76 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 527 |
+| 76 | [The Messenger](games/t/the_messenger.md) | 4.81 | 338 | 233 |
+| 76 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 527 |
+| 76 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 477 |
+| 76 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 527 |
 | 83 | [Aground](games/a/aground.md) | 4.80 | 0 | 527 |
 | 83 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 51 | 407 |
 | 83 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.80 | 0 | 527 |
@@ -399,7 +399,7 @@
 | 397 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 494 |
 | 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,111 | 27 |
 | 397 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 527 |
-| 397 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 361 | 228 |
+| 397 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 366 | 227 |
 | 397 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,707 | 73 |
 | 397 | [Control](games/c/control.md) | 4.60 | 8,568 | 41 |
 | 397 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 527 |
@@ -468,7 +468,7 @@
 | 453 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 527 |
 | 453 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,011 | 82 |
 | 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,755 | 20 |
-| 453 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,780 | 116 |
+| 453 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,781 | 116 |
 | 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 527 |
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 71 | 384 |
 | 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 527 |
@@ -613,7 +613,7 @@
 | 608 | [MythForce](games/m/mythforce.md) | 4.48 | 34 | 458 |
 | 608 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 442 |
 | 608 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 527 |
-| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 564,510 | 2 |
+| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 564,905 | 2 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 527 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 339 |
 | 608 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,157 | 44 |
@@ -794,7 +794,7 @@
 | 785 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 527 |
 | 785 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 513 |
 | 785 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 527 |
-| 795 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 364 | 227 |
+| 795 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 364 | 228 |
 | 795 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 398 |
 | 795 | [Filament](games/f/filament.md) | 4.32 | 564 | 195 |
 | 795 | [House Party](games/h/house_party.md) | 4.32 | 0 | 527 |
@@ -925,27 +925,27 @@
 | 920 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 527 |
 | 924 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 527 |
 | 924 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 527 |
-| 924 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.13 | 0 | 527 |
-| 927 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 527 |
-| 928 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 90 | 360 |
-| 928 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
-| 930 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 527 |
-| 930 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 527 |
-| 930 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 527 |
-| 930 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 527 |
-| 930 | [Obduction](games/o/obduction.md) | 4.09 | 54 | 402 |
-| 930 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 527 |
+| 926 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 527 |
+| 927 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 90 | 360 |
+| 927 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
+| 929 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 527 |
+| 929 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 527 |
+| 929 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 527 |
+| 929 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 527 |
+| 929 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.09 | 0 | 527 |
+| 929 | [Obduction](games/o/obduction.md) | 4.09 | 54 | 402 |
+| 929 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 527 |
 | 936 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 527 |
 | 936 | [Banished](games/b/banished.md) | 4.08 | 0 | 527 |
 | 936 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 527 |
 | 936 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 286 |
 | 936 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.08 | 0 | 527 |
-| 936 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.08 | 0 | 527 |
 | 936 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 527 |
 | 936 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 527 |
 | 936 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.08 | 25 | 494 |
-| 945 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 547 | 197 |
-| 945 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.07 | 0 | 527 |
+| 944 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 547 | 197 |
+| 944 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.07 | 0 | 527 |
+| 944 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.07 | 0 | 527 |
 | 947 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 527 |
 | 947 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 24 | 499 |
 | 947 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 527 |
