@@ -20,8 +20,8 @@ Rating: 4.47 (Ranked 620)
 | Poor Devil | 54.00% | ~1,070 |
 | Facility Manager | 53.00% | ~1,050 |
 | Producer | 50.00% | ~990 |
+| Bridge Builder | 42.00% | ~832 |
 | Apprentice | 41.00% | ~812 |
-| Bridge Builder | 41.00% | ~812 |
 | Access granted | 35.00% | ~693 |
 | Going once, going twice, sold | 35.00% | ~693 |
 | Bull and bear | 34.00% | ~674 |
@@ -57,7 +57,7 @@ Rating: 4.47 (Ranked 620)
 | Let off some steam | 4.00% | ~79 |
 | Accurate | 4.00% | ~79 |
 | European Union | 0.70% | ~14 |
-| Three Cheers for Progress | 0.60% | ~12 |
+| Three Cheers for Progress | 0.70% | ~14 |
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)

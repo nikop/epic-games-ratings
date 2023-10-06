@@ -11,10 +11,10 @@
 | Apian Champion | 14.00% | ~6 |
 | Lacertian Champion | 14.00% | ~6 |
 | Noctuan Champion | 14.00% | ~6 |
-| Endless Tricks | 12.00% | ~5 |
-| Mechanical Buddy | 12.00% | ~5 |
-| Mind Illuminator | 12.00% | ~5 |
-| Purification Pioneer | 12.00% | ~5 |
+| Endless Tricks | 11.00% | ~5 |
+| Mechanical Buddy | 11.00% | ~5 |
+| Mind Illuminator | 11.00% | ~5 |
+| Purification Pioneer | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Meissa's Savior | 9.00% | ~4 |
 | Sanctuary Guardian | 9.00% | ~4 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 445)  
+Progressed: 44 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 306)
 | 2023-10-03 | 37 | 0 |
 | 2023-10-04 | 40 | 0 |
 | 2023-10-05 | 41 | 0 |
-| 2023-10-06 | 43 | 0 |
+| 2023-10-06 | 44 | 0 |

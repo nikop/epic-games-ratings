@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-10-01T16:05:26.9984679+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T17:08:16.4747713+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -234,7 +239,7 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -242,7 +247,7 @@
       "ID": "achievements.completemission.islands.02",
       "SetID": "1kd1942",
       "Name": "Drilling for Black Gold",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -250,15 +255,15 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -266,7 +271,7 @@
       "ID": "achievements.completemission.master.03",
       "SetID": "1kd1942",
       "Name": "Rebuilding the Ruins",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "achievements.completemission.master.04",
       "SetID": "1kd1942",
       "Name": "Copper Mission Impossible",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -284,7 +289,7 @@
       "Name": "ForestTreePlank",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievements.firstexpedition",
@@ -306,7 +311,7 @@
       "ID": "achievements.researches.constructions50",
       "SetID": "1kd1942",
       "Name": "Even side of the street",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -330,7 +335,7 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -338,7 +343,7 @@
       "ID": "achievements.researches.upgradesall",
       "SetID": "1kd1942",
       "Name": "Maximizing Efficiency",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -355,14 +360,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:07:20.1592903+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:08:16.4747706+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.4381852+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:00:04.4484003+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:07:20.1593038+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:00:22.5301901+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:08:16.4747884+00:00"
 }

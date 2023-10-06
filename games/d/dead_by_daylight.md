@@ -6,31 +6,31 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.60% | ~5,532 |
-| Zealous | 0.50% | ~4,610 |
-| Skillful | 0.50% | ~4,610 |
-| Handyman | 0.40% | ~3,688 |
-| Not half bad | 0.40% | ~3,688 |
-| Apt Survivor | 0.40% | ~3,688 |
-| Survival Treasures | 0.40% | ~3,688 |
-| Make Some Noise | 0.40% | ~3,688 |
-| The Grand Sacrifice | 0.30% | ~2,766 |
-| Agonizing Escape | 0.30% | ~2,766 |
-| Backdoor Escape | 0.30% | ~2,766 |
-| No one left behind | 0.30% | ~2,766 |
-| Medic | 0.30% | ~2,766 |
-| Nerves of steel | 0.30% | ~2,766 |
-| Perfect Escape | 0.30% | ~2,766 |
-| Bloody Millionaire | 0.30% | ~2,766 |
-| I | 0.30% | ~2,766 |
-| Engineer | 0.30% | ~2,766 |
-| Sorted | 0.30% | ~2,766 |
-| Healthy Obsession | 0.30% | ~2,766 |
-| Resurgence | 0.30% | ~2,766 |
-| Preemptive Strike | 0.30% | ~2,766 |
-| Humanitarian | 0.30% | ~2,766 |
+| It wakes | 0.60% | ~5,533 |
+| Zealous | 0.50% | ~4,611 |
+| Skillful | 0.50% | ~4,611 |
+| Handyman | 0.40% | ~3,689 |
+| Not half bad | 0.40% | ~3,689 |
+| Apt Survivor | 0.40% | ~3,689 |
+| Survival Treasures | 0.40% | ~3,689 |
+| Sorted | 0.40% | ~3,689 |
+| Make Some Noise | 0.40% | ~3,689 |
+| The Grand Sacrifice | 0.30% | ~2,767 |
+| Agonizing Escape | 0.30% | ~2,767 |
+| Backdoor Escape | 0.30% | ~2,767 |
+| I've got your back | 0.30% | ~2,767 |
+| No one left behind | 0.30% | ~2,767 |
+| Medic | 0.30% | ~2,767 |
+| Nerves of steel | 0.30% | ~2,767 |
+| Perfect Escape | 0.30% | ~2,767 |
+| Bloody Millionaire | 0.30% | ~2,767 |
+| I | 0.30% | ~2,767 |
+| Engineer | 0.30% | ~2,767 |
+| Healthy Obsession | 0.30% | ~2,767 |
+| Resurgence | 0.30% | ~2,767 |
+| Preemptive Strike | 0.30% | ~2,767 |
+| Humanitarian | 0.30% | ~2,767 |
 | Made it out alive! | 0.20% | ~1,844 |
-| I've got your back | 0.20% | ~1,844 |
 | Perfect Killing | 0.20% | ~1,844 |
 | Apt Killer | 0.20% | ~1,844 |
 | Risk it all | 0.20% | ~1,844 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.20% | ~1,844 |
 | Flight to Freedom | 0.20% | ~1,844 |
 | A Fast Death | 0.20% | ~1,844 |
+| Chorus of Chaos | 0.20% | ~1,844 |
 | Second Act | 0.20% | ~1,844 |
 | A bite for the Entity | 0.10% | ~922 |
 | A feast for the Entity | 0.10% | ~922 |
@@ -217,7 +218,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.10% | ~922 |
 | Adept Vittorio | 0.10% | ~922 |
 | Thrill of the Chase | 0.10% | ~922 |
-| Chorus of Chaos | 0.10% | ~922 |
 | Adept Skull Merchant | 0.10% | ~922 |
 | Hack the Mainframe | 0.10% | ~922 |
 | Adept Thalita | 0.10% | ~922 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~922 |
 | Adept Ripley | 0.10% | ~922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922,064 (Ranked 14)  
+Progressed: 922,189 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 49 (0.01%) (Ranked 288)
 | 2023-10-03 | 917,561 | 49 |
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
-| 2023-10-06 | 922,064 | 49 |
+| 2023-10-06 | 922,189 | 49 |
 ## Awards
 Max (Diverse Characters): 33,500  (Ranked 15)  
 Sum: 259,842 (Ranked 13)  

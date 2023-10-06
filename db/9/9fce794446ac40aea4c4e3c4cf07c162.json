@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -92,17 +92,17 @@
       "ID": "BOSS_04",
       "SetID": "35d3i7a",
       "Name": "THIS IS NOT ME!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_05",
       "SetID": "35d3i7a",
       "Name": "I need to hide myself.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_06",
@@ -252,9 +252,9 @@
       "ID": "MEM_IX",
       "SetID": "35d3i7a",
       "Name": "Hot dog.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_V",
@@ -300,9 +300,9 @@
       "ID": "MEM_XI",
       "SetID": "35d3i7a",
       "Name": "This secret cannot escape!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XII",
@@ -316,9 +316,9 @@
       "ID": "MEM_XIII",
       "SetID": "35d3i7a",
       "Name": "You are UGLY.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XIV",
@@ -332,9 +332,9 @@
       "ID": "MEM_XIX",
       "SetID": "35d3i7a",
       "Name": "Mass production.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XV",
@@ -372,9 +372,9 @@
       "ID": "MEM_XX",
       "SetID": "35d3i7a",
       "Name": "Waiting for my prince.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXI",
@@ -396,17 +396,17 @@
       "ID": "MEM_XXIII",
       "SetID": "35d3i7a",
       "Name": "Don\u0027t take off the mask!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXIV",
       "SetID": "35d3i7a",
       "Name": "No one has to love you.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXV",
@@ -476,9 +476,9 @@
       "ID": "PROJ_IV",
       "SetID": "35d3i7a",
       "Name": "Obscurity.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROJ_V",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:05:54.6829815+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:06:28.8900922+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:59:34.5965407+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:05:54.6830306+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:59:49.4900176+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:06:28.8901436+00:00"
 }

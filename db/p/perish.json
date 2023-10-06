@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3188,6 +3188,11 @@
       "Time": "2023-10-05T22:07:15.3015151+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T17:07:15.3046219+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3365,9 +3370,9 @@
       "ID": "ACH_M_D5",
       "SetID": "b3fep3o",
       "Name": "Athenian Treasury",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_M_DC",
@@ -3702,7 +3707,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 0
     }
   ],
@@ -3710,8 +3715,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:06:29.6865002+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:07:15.3046214+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.1316358+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:59:39.2452343+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:06:29.686582+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:59:54.1822954+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:07:15.3047015+00:00"
 }

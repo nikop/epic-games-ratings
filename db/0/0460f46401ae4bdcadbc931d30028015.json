@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2110,
+  "EOS_Progressed": 2111,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
@@ -1763,6 +1763,11 @@
       "Time": "2023-10-06T15:06:08.2027965+00:00",
       "NumProgressed": 2110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T17:05:48.4616466+00:00",
+      "NumProgressed": 2111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1783,7 +1788,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "achievement_11",
@@ -1791,7 +1796,7 @@
       "Name": "Big Spender",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_12",
@@ -1815,7 +1820,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "achievement_15",
@@ -1871,7 +1876,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_21",
@@ -1935,14 +1940,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2110,
+      "Progressed": 2111,
       "Completed": 0
     }
   ],
@@ -1950,8 +1955,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-06T00:01:28.6331866+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:05:24.3713392+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:05:48.461646+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:57:06.1430336+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:05:24.371365+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:57:17.6952306+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:05:48.4616777+00:00"
 }

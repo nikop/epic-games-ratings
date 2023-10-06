@@ -25,12 +25,12 @@ Rating: 4.50 (Ranked 572)
 | Animated | 0.60% | ~157 |
 | Ghostbuster In Training | 0.60% | ~157 |
 | Right back at ya | 0.60% | ~157 |
+| Summoner | 0.60% | ~157 |
 | Terrifying | 0.60% | ~157 |
 | Welcome to the Crew | 0.60% | ~157 |
 | Ectoplasmic Entity | 0.50% | ~131 |
 | Side Hustle | 0.50% | ~131 |
 | Skilled | 0.50% | ~131 |
-| Summoner | 0.50% | ~131 |
 | We have the best insurance | 0.40% | ~105 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |

@@ -2,12 +2,12 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 832,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346542,
+  "EOS_Progressed": 346548,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19687,6 +19687,11 @@
       "Time": "2023-10-06T16:04:08.5844922+00:00",
       "NumProgressed": 346542,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-06T17:04:21.8634673+00:00",
+      "NumProgressed": 346548,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19714,7 +19719,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41585
+      "UsersEstimate": 41586
     },
     {
       "ID": "ach004",
@@ -19754,7 +19759,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41585
+      "UsersEstimate": 41586
     },
     {
       "ID": "ach009",
@@ -19786,7 +19791,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27723
+      "UsersEstimate": 27724
     },
     {
       "ID": "ach013",
@@ -19802,7 +19807,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51981
+      "UsersEstimate": 51982
     },
     {
       "ID": "ach015",
@@ -19826,7 +19831,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45050
+      "UsersEstimate": 45051
     },
     {
       "ID": "ach018",
@@ -19834,7 +19839,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27723
+      "UsersEstimate": 27724
     },
     {
       "ID": "ach019",
@@ -19906,7 +19911,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159409
+      "UsersEstimate": 159412
     },
     {
       "ID": "ach028",
@@ -20002,7 +20007,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34654
+      "UsersEstimate": 34655
     },
     {
       "ID": "ach040",
@@ -20050,7 +20055,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45050
+      "UsersEstimate": 45051
     },
     {
       "ID": "ach046",
@@ -20162,7 +20167,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34654
+      "UsersEstimate": 34655
     },
     {
       "ID": "ach060",
@@ -20210,7 +20215,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48516
+      "UsersEstimate": 48517
     },
     {
       "ID": "ach067",
@@ -20226,7 +20231,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55447
+      "UsersEstimate": 55448
     },
     {
       "ID": "ach069",
@@ -20234,7 +20239,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48516
+      "UsersEstimate": 48517
     },
     {
       "ID": "ach070",
@@ -20337,7 +20342,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346542,
+      "Progressed": 346548,
       "Completed": 7
     }
   ],
@@ -20345,8 +20350,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T10:02:31.4791386+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:04:08.5844913+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:04:21.8634667+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.1527529+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:03:05.3797946+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:04:08.5847034+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:57:11.0365879+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:04:21.8636912+00:00"
 }

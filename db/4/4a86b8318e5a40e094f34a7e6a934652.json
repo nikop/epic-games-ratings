@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:04:11.4674858+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:04:24.6764195+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:00:59.9690443+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:04:11.4675061+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:01:19.3210931+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:04:24.6764427+00:00"
 }

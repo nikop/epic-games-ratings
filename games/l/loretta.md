@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The only good Rat is a dead Rat | 75.00% | ~6 |
-| Act of Violence | 75.00% | ~6 |
+| The only good Rat is a dead Rat | 88.00% | ~7 |
+| Act of Violence | 88.00% | ~7 |
 | Ace in the Hole | 63.00% | ~5 |
 | Dead End | 50.00% | ~4 |
 | The New Beginning | 50.00% | ~4 |
+| A Cure for Wellness | 50.00% | ~4 |
 | Red is Dead | 38.00% | ~3 |
-| A Cure for Wellness | 38.00% | ~3 |
 | Out of the Past | 25.00% | ~2 |
 | Woman on the Run | 13.00% | ~1 |
 | Lightning Strikes Twice | 13.00% | ~1 |

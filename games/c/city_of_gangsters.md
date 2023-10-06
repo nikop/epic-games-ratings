@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 831)  
+Rating: 4.27 (Ranked 832)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,409 |
-| Copacetic Coordination | 16.00% | ~55,447 |
-| Fronting the Money | 15.00% | ~51,981 |
-| The Dawn of Automation | 14.00% | ~48,516 |
-| Extraordinary Logistics | 14.00% | ~48,516 |
-| Dirty Money | 13.00% | ~45,050 |
-| Family First | 13.00% | ~45,050 |
-| Cleaning House | 12.00% | ~41,585 |
-| Room in the Back | 12.00% | ~41,585 |
+| Corner Clout | 46.00% | ~159,412 |
+| Copacetic Coordination | 16.00% | ~55,448 |
+| Fronting the Money | 15.00% | ~51,982 |
+| The Dawn of Automation | 14.00% | ~48,517 |
+| Extraordinary Logistics | 14.00% | ~48,517 |
+| Dirty Money | 13.00% | ~45,051 |
+| Family First | 13.00% | ~45,051 |
+| Cleaning House | 12.00% | ~41,586 |
+| Room in the Back | 12.00% | ~41,586 |
 | Beating the Heat | 11.00% | ~38,120 |
 | Booze Baron | 11.00% | ~38,120 |
-| Friends on the Force | 10.00% | ~34,654 |
-| Neighborhood Watch | 10.00% | ~34,654 |
-| Core Corps | 8.00% | ~27,723 |
-| Sizeable Stash | 8.00% | ~27,723 |
+| Friends on the Force | 10.00% | ~34,655 |
+| Neighborhood Watch | 10.00% | ~34,655 |
+| Core Corps | 8.00% | ~27,724 |
+| Sizeable Stash | 8.00% | ~27,724 |
 | Street Fighter | 7.00% | ~24,258 |
 | Friendly Gestures | 7.00% | ~24,258 |
 | People Person | 7.00% | ~24,258 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 831)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,542 (Ranked 43)  
+Progressed: 346,548 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-03 | 346,178 | 7 |
 | 2023-10-04 | 346,309 | 7 |
 | 2023-10-05 | 346,451 | 7 |
-| 2023-10-06 | 346,542 | 7 |
+| 2023-10-06 | 346,548 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 442)  
 Sum: 176 (Ranked 392)  

@@ -4,7 +4,7 @@
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
@@ -300,8 +300,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:08:30.8476502+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:09:18.2100278+00:00",
   "LastUpdate_AppInfo": "2023-10-02T19:57:10.0464984+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:57:27.5858601+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:08:30.8476715+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:57:36.9677539+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:09:18.2100528+00:00"
 }

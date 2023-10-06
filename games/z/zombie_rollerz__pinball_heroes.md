@@ -1,14 +1,14 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 810)  
+Rating: 4.30 (Ranked 811)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~147 |
-| Bullseye! | 84.00% | ~140 |
+| Level Up! | 89.00% | ~149 |
+| Bullseye! | 85.00% | ~142 |
 | Graduation! | 80.00% | ~134 |
-| Villfir Forest | 76.00% | ~127 |
+| Villfir Forest | 77.00% | ~129 |
 | Right in the kisser! | 60.00% | ~100 |
 | The Thrower | 49.00% | ~82 |
 | Duscot Steamcity | 47.00% | ~78 |
@@ -18,11 +18,11 @@ Rating: 4.30 (Ranked 810)
 | The Tunneler | 39.00% | ~65 |
 | Level Up!! | 37.00% | ~62 |
 | The Shield | 37.00% | ~62 |
-| Kill-streak | 29.00% | ~48 |
+| Kill-streak | 30.00% | ~50 |
 | Topped up | 28.00% | ~47 |
 | The Bird | 28.00% | ~47 |
+| The Ninja | 27.00% | ~45 |
 | The Idol | 26.00% | ~43 |
-| The Ninja | 26.00% | ~43 |
 | Inferno Ruins | 25.00% | ~42 |
 | 1 is all I need | 23.00% | ~38 |
 | I'm Rich | 23.00% | ~38 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 371,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 425,
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -638,9 +638,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 807,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2343,6 +2343,11 @@
       "Time": "2023-10-06T16:03:40.0161705+00:00",
       "NumProgressed": 803,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T17:03:52.737929+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2353,9 +2358,9 @@
       "ID": "achievement_1",
       "SetID": "222fo9l",
       "Name": "Welcome Aboard",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 694
     },
     {
       "ID": "achievement_10",
@@ -2363,7 +2368,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_11",
@@ -2371,7 +2376,7 @@
       "Name": "Betrayed",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_12",
@@ -2379,7 +2384,7 @@
       "Name": "Exodus",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_13",
@@ -2387,7 +2392,7 @@
       "Name": "Final Regeneration",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_14",
@@ -2395,7 +2400,7 @@
       "Name": "Whole Again",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_15",
@@ -2403,7 +2408,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_16",
@@ -2427,7 +2432,7 @@
       "Name": "Full Arsenal",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_19",
@@ -2441,17 +2446,17 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 597
     },
     {
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 476
     },
     {
       "ID": "achievement_21",
@@ -2459,7 +2464,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_22",
@@ -2467,7 +2472,7 @@
       "Name": "A Cut Above",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_23",
@@ -2475,7 +2480,7 @@
       "Name": "Pusher",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_24",
@@ -2491,7 +2496,7 @@
       "Name": "Full Contact",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_26",
@@ -2507,7 +2512,7 @@
       "Name": "Pack Rat",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_28",
@@ -2515,7 +2520,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_29",
@@ -2523,15 +2528,15 @@
       "Name": "Legend Teller",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_30",
@@ -2547,7 +2552,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 767
     },
     {
       "ID": "achievement_32",
@@ -2555,7 +2560,7 @@
       "Name": "Surgeon",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_33",
@@ -2571,7 +2576,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_35",
@@ -2579,7 +2584,7 @@
       "Name": "Freeze",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_36",
@@ -2587,7 +2592,7 @@
       "Name": "Backbreaker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_37",
@@ -2603,7 +2608,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_39",
@@ -2619,7 +2624,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_40",
@@ -2627,7 +2632,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_41",
@@ -2635,7 +2640,7 @@
       "Name": "Full Clearance",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_42",
@@ -2643,7 +2648,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_43",
@@ -2651,7 +2656,7 @@
       "Name": "Exterminator",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_44",
@@ -2659,7 +2664,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_45",
@@ -2667,15 +2672,15 @@
       "Name": "Mindless Prey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_46",
       "SetID": "222fo9l",
       "Name": "Marked",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_47",
@@ -2691,15 +2696,15 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_7",
@@ -2707,7 +2712,7 @@
       "Name": "S.O.S.",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_8",
@@ -2715,7 +2720,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_9",
@@ -2723,14 +2728,14 @@
       "Name": "Wreckage",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 323
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 807,
       "Completed": 3
     }
   ],
@@ -2738,8 +2743,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-05T14:00:22.5041817+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:03:40.0161696+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:03:52.7379283+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:00:06.5543808+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:03:40.0162237+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:00:23.7657754+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:03:52.7379893+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 150,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Nocturnal_Achivement_11_FireShrine",
@@ -250,9 +250,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 150,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -265,8 +265,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:08:38.8920193+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:09:26.549364+00:00",
   "LastUpdate_AppInfo": "2023-10-02T23:57:23.1150585+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:03:05.392316+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:08:38.8920298+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:03:14.9860233+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:09:26.5493778+00:00"
 }

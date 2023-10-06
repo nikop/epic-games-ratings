@@ -5259,9 +5259,9 @@
       "ID": "A23",
       "SetID": "9b7p7eo",
       "Name": "Three Cheers for Progress",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "A24",
@@ -5411,9 +5411,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 832
     },
     {
       "ID": "A43",
@@ -5524,8 +5524,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:06:18.9400118+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:07:04.1803486+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:01.4771613+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:57:47.5637632+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:06:18.9400977+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:57:55.1127756+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:07:04.1804366+00:00"
 }

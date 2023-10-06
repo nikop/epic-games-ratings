@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-10-06T16:05:32.8192976+00:00",
       "NumProgressed": 459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T17:06:06.9772847+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1284,7 +1289,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_21",
@@ -1330,9 +1335,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_27",
@@ -1412,7 +1417,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_36",
@@ -1428,7 +1433,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_38",
@@ -1668,7 +1673,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_8",
@@ -1691,13 +1696,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 1
     }
   ],
@@ -1705,8 +1710,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:05:32.8192968+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:06:06.9772841+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:02:31.8043732+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:05:32.8193731+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:03:11.732187+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:06:06.9773706+00:00"
 }

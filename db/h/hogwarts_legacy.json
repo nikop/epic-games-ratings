@@ -8530,10 +8530,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45165,
       "NumberOfAwardsMax": 23322
+    },
+    {
+      "Time": "2023-10-06T16:57:16.205472+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45169,
+      "NumberOfAwardsMax": 23322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45165,
+  "NumberOfAwards": 45169,
   "NumberOfAwardsMax": 23322,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8559,7 +8565,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1062
+      "Count": 1066
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8610,9 +8616,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297896,
+  "EOS_Progressed": 297898,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26820,6 +26826,11 @@
       "Time": "2023-10-06T15:07:09.8915055+00:00",
       "NumProgressed": 297896,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-06T17:06:40.4212918+00:00",
+      "NumProgressed": 297898,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26831,7 +26842,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44684
+      "UsersEstimate": 44685
     },
     {
       "ID": "PFA_10",
@@ -27159,7 +27170,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38726
+      "UsersEstimate": 38727
     },
     {
       "ID": "PFA_7",
@@ -27167,7 +27178,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38726
+      "UsersEstimate": 38727
     },
     {
       "ID": "PFA_8",
@@ -27190,16 +27201,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297896,
+      "Progressed": 297898,
       "Completed": 481
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-06T15:57:03.9929156+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:06:05.8274147+00:00",
+  "LastChanged": "2023-10-06T16:57:16.2054718+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:06:40.4212913+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T15:57:03.9929162+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:06:05.8275658+00:00"
+  "LastUpdate_Ratings": "2023-10-06T16:57:16.2054725+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:06:40.4214544+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 3365,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -7725,8 +7725,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:05:49.2591588+00:00",
-  "LastUpdate_AppInfo": "2023-09-29T15:57:16.8209985+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:00:05.960188+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:05:49.2592208+00:00"
+  "LastChanged_Achievements": "2023-10-06T17:06:23.204905+00:00",
+  "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
+  "LastUpdate_Ratings": "2023-10-06T17:00:23.1612182+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:06:23.204972+00:00"
 }

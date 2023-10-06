@@ -1,17 +1,17 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.30 (Ranked 810)  
+Rating: 4.30 (Ranked 811)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,492 |
-| Powergamer | 27.00% | ~67,010 |
-| Barely scratched the surface | 25.00% | ~62,046 |
-| Write that down | 24.00% | ~59,565 |
-| Guns, lots of guns | 13.00% | ~32,264 |
-| Collector | 12.00% | ~29,782 |
+| I will finish what you started | 28.00% | ~69,493 |
+| Powergamer | 27.00% | ~67,011 |
+| Barely scratched the surface | 25.00% | ~62,048 |
+| Write that down | 24.00% | ~59,566 |
+| Guns, lots of guns | 13.00% | ~32,265 |
+| Collector | 12.00% | ~29,783 |
 | Elementary! | 9.00% | ~22,337 |
 | Pumpkin Jack | 8.00% | ~19,855 |
 | Wake up! | 8.00% | ~19,855 |
@@ -19,11 +19,11 @@ Number of Ratings: 33  (23.09.2022)
 | Griever | 7.00% | ~17,373 |
 | Me smart | 6.00% | ~14,891 |
 | Trash compactor | 6.00% | ~14,891 |
-| Good listener | 5.00% | ~12,409 |
-| Valedictorian | 5.00% | ~12,409 |
-| BOY! | 4.00% | ~9,927 |
-| Ka-ching! | 4.00% | ~9,927 |
-| So you like to read? | 4.00% | ~9,927 |
+| Good listener | 5.00% | ~12,410 |
+| Valedictorian | 5.00% | ~12,410 |
+| BOY! | 4.00% | ~9,928 |
+| Ka-ching! | 4.00% | ~9,928 |
+| So you like to read? | 4.00% | ~9,928 |
 | Hoarder | 3.00% | ~7,446 |
 | I like to sniff around | 3.00% | ~7,446 |
 | Mind reader | 3.00% | ~7,446 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,482 |
 | Take the blue pill | 1.00% | ~2,482 |
 | The power of three | 1.00% | ~2,482 |
-| It's blue, always blue | 0.80% | ~1,985 |
-| Let's try another | 0.80% | ~1,985 |
-| Home run | 0.80% | ~1,985 |
+| It's blue, always blue | 0.80% | ~1,986 |
+| Let's try another | 0.80% | ~1,986 |
+| Home run | 0.80% | ~1,986 |
 | I have the high ground | 0.70% | ~1,737 |
 | Enjoy these little moments | 0.50% | ~1,241 |
 | Who wouldn't love a troll? | 0.50% | ~1,241 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~496 |
 | Memory 5 | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,186 (Ranked 51)  
+Progressed: 248,190 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 7 (0.00%) (Ranked 306)
 | 2023-10-03 | 247,916 | 7 |
 | 2023-10-04 | 248,001 | 7 |
 | 2023-10-05 | 248,112 | 7 |
-| 2023-10-06 | 248,186 | 7 |
+| 2023-10-06 | 248,190 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 368)  
 Sum: 82 (Ranked 435)  

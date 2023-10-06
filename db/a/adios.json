@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75128,
+  "EOS_Progressed": 75133,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -18984,6 +18984,11 @@
       "Time": "2023-10-06T16:03:43.5266795+00:00",
       "NumProgressed": 75128,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2023-10-06T17:04:06.3346126+00:00",
+      "NumProgressed": 75133,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 25,
@@ -19011,7 +19016,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13523
+      "UsersEstimate": 13524
     },
     {
       "ID": "Audiophile",
@@ -19027,7 +19032,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16528
+      "UsersEstimate": 16529
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19035,7 +19040,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13523
+      "UsersEstimate": 13524
     },
     {
       "ID": "Butcher",
@@ -19067,7 +19072,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "Hearty",
@@ -19091,7 +19096,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "Master, Commander",
@@ -19099,7 +19104,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "Meaty",
@@ -19115,7 +19120,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14274
+      "UsersEstimate": 14275
     },
     {
       "ID": "Nice Try",
@@ -19123,7 +19128,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12020
+      "UsersEstimate": 12021
     },
     {
       "ID": "Nothing Left to Say",
@@ -19187,14 +19192,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6011
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75128,
+      "Progressed": 75133,
       "Completed": 784
     }
   ],
@@ -19202,8 +19207,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-06T16:03:43.526679+00:00",
+  "LastChanged_Achievements": "2023-10-06T17:04:06.3346121+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:51.9504793+00:00",
-  "LastUpdate_Ratings": "2023-10-06T16:00:08.4620286+00:00",
-  "LastUpdate_Achievements": "2023-10-06T16:03:43.5268263+00:00"
+  "LastUpdate_Ratings": "2023-10-06T17:00:26.5594881+00:00",
+  "LastUpdate_Achievements": "2023-10-06T17:04:06.3347633+00:00"
 }
