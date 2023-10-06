@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 58.71% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 58.63% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -14,7 +14,7 @@
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.55% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 17 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 18 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
@@ -47,7 +47,7 @@
 | 45 | [Scorn](games/s/scorn.md) | 7.06% |
 | 46 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.77% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.75% |
 | 49 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 50 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 51 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -70,7 +70,7 @@
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.77% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.72% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.71% |
 | 72 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -83,7 +83,7 @@
 | 81 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
 | 81 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 81 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.99% |
+| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.98% |
 | 85 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 86 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -178,10 +178,10 @@
 | 176 | [Tchia](games/t/tchia.md) | 0.44% |
 | 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.41% |
 | 178 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 179 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 179 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 180 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 180 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 183 | [Dead Space](games/d/dead_space.md) | 0.37% |
 | 183 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 183 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
