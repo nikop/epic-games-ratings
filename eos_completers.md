@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.58% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.55% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -23,7 +23,7 @@
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.71% |
 | 22 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.46% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.29% |
+| 24 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.28% |
 | 25 | [Anna's Quest](games/a/anna's_quest.md) | 12.00% |
 | 25 | [Remains](games/r/remains.md) | 12.00% |
 | 27 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -140,7 +140,7 @@
 | 138 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.00% |
 | 139 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.99% |
 | 139 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 141 | [A Musical Story](games/a/a_musical_story.md) | 0.97% |
+| 141 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 142 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 143 | [Hades](games/h/hades.md) | 0.91% |
 | 144 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -149,7 +149,7 @@
 | 147 | [Eternights](games/e/eternights.md) | 0.77% |
 | 148 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 148 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 150 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.70% |
+| 150 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 152 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 152 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -221,11 +221,11 @@
 | 217 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 220 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 220 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.17% |
-| 223 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 223 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 223 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 223 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 222 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 222 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 222 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.16% |
+| 222 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
 | 229 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
