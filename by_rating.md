@@ -34,7 +34,7 @@
 | 31 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 302 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 437 |
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 232 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,584 | 32 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,592 | 32 |
 | 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 350 |
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 302 |
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,472 | 128 |
@@ -167,7 +167,7 @@
 | 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 527 |
 | 164 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 45 | 423 |
 | 164 | [Fez](games/f/fez.md) | 4.73 | 23 | 509 |
-| 164 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 614 | 187 |
+| 164 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 616 | 187 |
 | 164 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 527 |
 | 164 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 145 | 310 |
 | 164 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 241 | 262 |
@@ -220,11 +220,11 @@
 | 204 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,585 | 77 |
 | 204 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 527 |
 | 204 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 527 |
-| 221 | [Black Book](games/b/black_book.md) | 4.69 | 68 | 388 |
+| 221 | [Black Book](games/b/black_book.md) | 4.69 | 69 | 386 |
 | 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,139 | 8 |
 | 221 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 527 |
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,400 | 57 |
-| 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,102 | 70 |
+| 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,111 | 70 |
 | 221 | [House Flipper](games/h/house_flipper.md) | 4.69 | 312 | 239 |
 | 221 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 527 |
 | 221 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,202 | 137 |
@@ -252,7 +252,7 @@
 | 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,966 | 83 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,605 | 75 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 308,985 | 3 |
-| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 237,253 | 4 |
+| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 237,764 | 4 |
 | 243 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 527 |
 | 243 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 527 |
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 568 | 192 |
@@ -278,7 +278,7 @@
 | 261 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 527 |
 | 261 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 170 | 295 |
 | 261 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 527 |
-| 261 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,520 | 90 |
+| 261 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,534 | 90 |
 | 261 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 527 |
 | 281 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 372 |
 | 281 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,661 | 66 |
@@ -353,7 +353,7 @@
 | 335 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,786 | 115 |
 | 335 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,202 | 137 |
 | 335 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 25 | 495 |
-| 335 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 68 | 388 |
+| 335 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 68 | 389 |
 | 355 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 387 | 223 |
 | 355 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 249 |
 | 355 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 458 |
@@ -436,7 +436,7 @@
 | 434 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 423 |
 | 434 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,833 | 11 |
 | 434 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 527 |
-| 434 | [DOOM 3](games/d/doom_3.md) | 4.58 | 68 | 388 |
+| 434 | [DOOM 3](games/d/doom_3.md) | 4.58 | 68 | 389 |
 | 434 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 254 |
 | 434 | [GRIT](games/g/grit.md) | 4.58 | 0 | 527 |
 | 434 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 62 | 397 |
@@ -500,7 +500,7 @@
 | 489 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 35 | 451 |
 | 489 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 527 |
 | 489 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 953 | 151 |
-| 489 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 89 | 362 |
+| 489 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 90 | 362 |
 | 489 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 93 | 356 |
 | 489 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 527 |
 | 489 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 372 |
