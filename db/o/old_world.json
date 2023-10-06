@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1791,9 +1791,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14436,
+  "EOS_Progressed": 14439,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13136,6 +13136,11 @@
       "Time": "2023-10-06T21:03:38.7437787+00:00",
       "NumProgressed": 14436,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-06T22:03:51.5578916+00:00",
+      "NumProgressed": 14439,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14059,7 +14064,7 @@
       "Name": "Friendly Family",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -14457,9 +14462,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -14601,9 +14606,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -14841,9 +14846,9 @@
       "ID": "ACHIEVEMENT_PLAY_1V1",
       "SetID": "9201eeb",
       "Name": "Play a 1-v-1 Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_PLAY_FFA",
@@ -15882,21 +15887,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14436,
+      "Progressed": 14439,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14436,
+      "Progressed": 14439,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-05T16:01:55.0125615+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:03:38.7437777+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:03:51.5578908+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:02:18.3376287+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:03:38.744939+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:02:20.2870982+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:03:51.5589848+00:00"
 }

@@ -1,25 +1,25 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 820)  
+Rating: 4.29 (Ranked 819)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~7,587 |
-| A Good Day To Die | 15.00% | ~5,690 |
+| Man 'O War | 20.00% | ~7,588 |
+| A Good Day To Die | 15.00% | ~5,691 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,276 |
 | Right Back Atcha | 6.00% | ~2,276 |
 | Killed by Death | 5.00% | ~1,897 |
-| Kill 'Em All | 4.00% | ~1,517 |
+| Kill 'Em All | 4.00% | ~1,518 |
 | Down Boy! | 2.00% | ~759 |
 | A Snowball's Chance in Hell | 2.00% | ~759 |
 | Enjoy The Silence | 1.00% | ~379 |
 | Sure Footed As A Goat | 0.90% | ~341 |
 | Backdoor Man | 0.90% | ~341 |
-| Thorn in My Herbicide | 0.80% | ~303 |
-| Red In Tooth And Claw | 0.80% | ~303 |
-| The Sky Is Falling | 0.80% | ~303 |
-| Schadenfreude | 0.80% | ~303 |
+| Thorn in My Herbicide | 0.80% | ~304 |
+| Red In Tooth And Claw | 0.80% | ~304 |
+| The Sky Is Falling | 0.80% | ~304 |
+| Schadenfreude | 0.80% | ~304 |
 | Death Becomes Her | 0.70% | ~266 |
 | Hail the Great Horned Metal God! | 0.70% | ~266 |
 | That'll Come In Handy... | 0.70% | ~266 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 820)
 | Heart Of Steel | 0.10% | ~38 |
 | Death or Glory | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,936 (Ranked 109)  
+Progressed: 37,939 (Ranked 109)  
 Completed: 25 (0.07%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 25 (0.07%) (Ranked 254)
 | 2023-10-03 | 37,757 | 25 |
 | 2023-10-04 | 37,820 | 25 |
 | 2023-10-05 | 37,882 | 25 |
-| 2023-10-06 | 37,936 | 25 |
+| 2023-10-06 | 37,939 | 25 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 319)  
 Sum: 126 (Ranked 412)  

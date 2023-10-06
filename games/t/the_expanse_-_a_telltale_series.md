@@ -13,20 +13,20 @@ Rating: 4.54 (Ranked 507)
 | Martian Music | 1.00% | ~137 |
 | Drone Dodger | 1.00% | ~137 |
 | Heal Thy Medic | 1.00% | ~137 |
+| Khan's Revenge | 1.00% | ~137 |
 | Call it Even | 1.00% | ~137 |
 | Captain Drummer | 1.00% | ~137 |
 | Celebrations are in Order | 1.00% | ~137 |
 | Impossible Objects | 1.00% | ~137 |
 | Spore Taste | 0.90% | ~123 |
-| Khan's Revenge | 0.90% | ~123 |
-| Stogie for Fogey | 0.70% | ~96 |
+| Stogie for Fogey | 0.80% | ~109 |
+| Miraculous Maya | 0.60% | ~82 |
 | Doctor Approved | 0.50% | ~68 |
 | Bottoms up! | 0.50% | ~68 |
 | Thorston Mayer | 0.50% | ~68 |
-| Miraculous Maya | 0.50% | ~68 |
+| No Belter Left Behind | 0.40% | ~55 |
 | Data Logger | 0.30% | ~41 |
 | Brother's Reaper | 0.30% | ~41 |
-| No Belter Left Behind | 0.30% | ~41 |
 | Data Master | 0.30% | ~41 |
 | Debris Spree | 0.20% | ~27 |
 | Data Recoverer | 0.20% | ~27 |

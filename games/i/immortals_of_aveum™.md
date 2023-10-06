@@ -44,9 +44,9 @@ Rating: 4.03 (Ranked 959)
 | Grand Magnus | 3.00% | ~2 |
 | Master of Carmine | 3.00% | ~2 |
 | Tip of the Spear | 3.00% | ~2 |
+| Backtracker | 3.00% | ~2 |
 | Witch-Taker | 1.00% | ~1 |
 | Master of Malachite | 1.00% | ~1 |
-| Backtracker | 1.00% | ~1 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Petite Bourgeoisie | 0.00% | ~0 |

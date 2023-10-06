@@ -4,8 +4,8 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "_00",
       "SetID": "670ak8f",
       "Name": "Immunity",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_01",
@@ -166,8 +166,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:05:53.1520656+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:05:44.1863408+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:16.5401504+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:58:00.0845193+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:05:53.1520868+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:57:49.2146149+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:05:44.1863534+00:00"
 }

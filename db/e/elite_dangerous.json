@@ -4,11 +4,11 @@
   "ProductSlug": "elite-dangerous",
   "Ranking_Rating": 334,
   "Ranking_Popularity": 106,
-  "Ranking_PopularitySum": 75,
+  "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2015-04-02T16:00:00+00:00",
@@ -6227,6 +6227,6 @@
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
   "LastChanged": "2023-10-06T10:57:14.4704262+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:19.9647252+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:57:37.6794225+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:08:33.3908885+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:57:24.2967705+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:08:35.3214972+00:00"
 }

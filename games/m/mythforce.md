@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 22.00% | ~839 |
-| Debuff Dogpile | 21.00% | ~801 |
-| Hit 'Em Where It Hurts | 21.00% | ~801 |
-| Perk Shard Punch Card | 21.00% | ~801 |
-| That'll Leave a Mark | 21.00% | ~801 |
+| Faceroll the Bones | 22.00% | ~840 |
+| Debuff Dogpile | 21.00% | ~802 |
+| Hit 'Em Where It Hurts | 21.00% | ~802 |
+| Perk Shard Punch Card | 21.00% | ~802 |
+| That'll Leave a Mark | 21.00% | ~802 |
 | Mushroom Madness! | 19.00% | ~725 |
 | Spending Spree | 17.00% | ~649 |
-| First Strike | 16.00% | ~610 |
-| Horder Better Faster Stronger | 16.00% | ~610 |
+| First Strike | 16.00% | ~611 |
+| Horder Better Faster Stronger | 16.00% | ~611 |
 | Everything Must Go! | 13.00% | ~496 |
 | Ten Steps from the Grave | 13.00% | ~496 |
 | Next Time on MythForce... | 12.00% | ~458 |
-| Cold-Blooded Critters | 9.00% | ~343 |
+| Cold-Blooded Critters | 9.00% | ~344 |
 | Death Becomes You | 8.00% | ~305 |
 | Flawless Victory | 6.00% | ~229 |
 | The Harder They Fall | 6.00% | ~229 |
 | On this Episode! | 5.00% | ~191 |
-| Deadication | 3.00% | ~114 |
-| Season Finale | 3.00% | ~114 |
+| Deadication | 3.00% | ~115 |
+| Season Finale | 3.00% | ~115 |
 | We've Got a Kaiju on the Field | 2.00% | ~76 |
 | The Fourth Gate | 1.00% | ~38 |
 | Vexed Her | 0.30% | ~11 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,815 (Ranked 177)  
+Progressed: 3,818 (Ranked 177)  
 Completed: 2 (0.05%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.05%) (Ranked 264)
 | 2023-10-03 | 3,709 | 2 |
 | 2023-10-04 | 3,744 | 2 |
 | 2023-10-05 | 3,782 | 2 |
-| 2023-10-06 | 3,815 | 2 |
+| 2023-10-06 | 3,818 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 458)  
 Sum: 282 (Ranked 354)  

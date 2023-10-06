@@ -65,7 +65,7 @@
 | Greed can be a very powerful ally | 0.60% | ~3 |
 | Stay on target | 0.40% | ~2 |
 | Stay in attack formation | 0.40% | ~2 |
-| I never doubted you! | 0.20% | ~1 |
+| I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 468 (Ranked 278)  

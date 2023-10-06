@@ -6,10 +6,10 @@ Rating: 4.50 (Ranked 572)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 2.00% | ~525 |
-| Advancement | 1.00% | ~262 |
-| Discovery | 1.00% | ~262 |
-| Meticulously Efficient | 1.00% | ~262 |
-| Fully Upgraded | 1.00% | ~262 |
+| Advancement | 1.00% | ~263 |
+| Discovery | 1.00% | ~263 |
+| Meticulously Efficient | 1.00% | ~263 |
+| Fully Upgraded | 1.00% | ~263 |
 | I collect Spores, Molds, and Fungi | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |
@@ -43,9 +43,9 @@ Rating: 4.50 (Ranked 572)
 | Rift Destroyer | 0.30% | ~79 |
 | Rivalry | 0.30% | ~79 |
 | Tobin's Prodigy | 0.30% | ~79 |
-| Fragile Panes | 0.20% | ~52 |
-| Liability | 0.20% | ~52 |
-| Surprise! | 0.20% | ~52 |
+| Fragile Panes | 0.20% | ~53 |
+| Liability | 0.20% | ~53 |
+| Surprise! | 0.20% | ~53 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,250 (Ranked 117)  
+Progressed: 26,251 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 58 (0.22%) (Ranked 212)
 | 2023-10-03 | 26,189 | 58 |
 | 2023-10-04 | 26,208 | 58 |
 | 2023-10-05 | 26,225 | 58 |
-| 2023-10-06 | 26,250 | 58 |
+| 2023-10-06 | 26,251 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,366 (Ranked 188)  

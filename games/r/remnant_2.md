@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,182 |
-| The Killing Jar | 8.00% | ~15,273 |
-| Expanding Horizons | 7.00% | ~13,364 |
-| Quest for Survival | 7.00% | ~13,364 |
-| Not Your Average Trait | 7.00% | ~13,364 |
-| Gleaming the Cube | 6.00% | ~11,455 |
-| Not a Janitor | 6.00% | ~11,455 |
-| Familiar Face | 6.00% | ~11,455 |
-| Duality | 6.00% | ~11,455 |
-| Boss'n Up | 6.00% | ~11,455 |
-| Trait Chaser | 6.00% | ~11,455 |
-| Not So Special Now | 5.00% | ~9,546 |
-| Equal Measures | 5.00% | ~9,546 |
-| Blue Goddess | 5.00% | ~9,546 |
-| Top Performer | 5.00% | ~9,546 |
-| Shhh...It's a Secret | 5.00% | ~9,546 |
-| Almost There | 5.00% | ~9,546 |
-| Make Some Room | 5.00% | ~9,546 |
-| Good, But Could Be Better! | 5.00% | ~9,546 |
+| First of Many | 9.00% | ~17,184 |
+| The Killing Jar | 8.00% | ~15,275 |
+| Expanding Horizons | 7.00% | ~13,366 |
+| Quest for Survival | 7.00% | ~13,366 |
+| Not Your Average Trait | 7.00% | ~13,366 |
+| Gleaming the Cube | 6.00% | ~11,456 |
+| Not a Janitor | 6.00% | ~11,456 |
+| Familiar Face | 6.00% | ~11,456 |
+| Duality | 6.00% | ~11,456 |
+| Boss'n Up | 6.00% | ~11,456 |
+| Trait Chaser | 6.00% | ~11,456 |
+| Not So Special Now | 5.00% | ~9,547 |
+| Equal Measures | 5.00% | ~9,547 |
+| Blue Goddess | 5.00% | ~9,547 |
+| Top Performer | 5.00% | ~9,547 |
+| Shhh...It's a Secret | 5.00% | ~9,547 |
+| Almost There | 5.00% | ~9,547 |
+| Make Some Room | 5.00% | ~9,547 |
+| Good, But Could Be Better! | 5.00% | ~9,547 |
 | Chaos | 4.00% | ~7,637 |
 | Traitor | 4.00% | ~7,637 |
 | Forever is a Long Time Coming | 4.00% | ~7,637 |
@@ -35,28 +35,28 @@ Rating: 4.76 (Ranked 119)
 | The Web | 4.00% | ~7,637 |
 | Scrap Collector | 4.00% | ~7,637 |
 | All These Traits� | 4.00% | ~7,637 |
-| Am I Seeing This? | 3.00% | ~5,727 |
-| The Agenda | 3.00% | ~5,727 |
-| Tall Tales | 3.00% | ~5,727 |
-| Bad Moon Rising | 3.00% | ~5,727 |
-| Strapped | 3.00% | ~5,727 |
-| Edgelord | 3.00% | ~5,727 |
-| The Ultimate Weapon | 3.00% | ~5,727 |
-| No One Should Have All That Power | 3.00% | ~5,727 |
-| Crafty | 2.00% | ~3,818 |
-| Only Human | 2.00% | ~3,818 |
-| Red Room | 2.00% | ~3,818 |
-| The Collector | 2.00% | ~3,818 |
-| Scrap Hoarder | 2.00% | ~3,818 |
-| Carnage in C-Minor | 2.00% | ~3,818 |
-| Maxed Out! | 2.00% | ~3,818 |
-| Transmutate | 2.00% | ~3,818 |
+| Am I Seeing This? | 3.00% | ~5,728 |
+| The Agenda | 3.00% | ~5,728 |
+| Tall Tales | 3.00% | ~5,728 |
+| Bad Moon Rising | 3.00% | ~5,728 |
+| Strapped | 3.00% | ~5,728 |
+| Edgelord | 3.00% | ~5,728 |
+| The Ultimate Weapon | 3.00% | ~5,728 |
+| No One Should Have All That Power | 3.00% | ~5,728 |
+| Crafty | 2.00% | ~3,819 |
+| Only Human | 2.00% | ~3,819 |
+| Red Room | 2.00% | ~3,819 |
+| The Collector | 2.00% | ~3,819 |
+| Scrap Hoarder | 2.00% | ~3,819 |
+| Carnage in C-Minor | 2.00% | ~3,819 |
+| Maxed Out! | 2.00% | ~3,819 |
+| Transmutate | 2.00% | ~3,819 |
 | The Trigger | 1.00% | ~1,909 |
 | Cutting Edge | 1.00% | ~1,909 |
 | Proving Grounds | 1.00% | ~1,909 |
 | Ghost in the Machine | 0.90% | ~1,718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,915 (Ranked 66)  
+Progressed: 190,936 (Ranked 66)  
 Completed: 367 (0.19%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 367 (0.19%) (Ranked 217)
 | 2023-10-03 | 189,767 | 357 |
 | 2023-10-04 | 190,094 | 359 |
 | 2023-10-05 | 190,476 | 363 |
-| 2023-10-06 | 190,915 | 367 |
+| 2023-10-06 | 190,936 | 367 |
 ## Awards
 Max (Great Boss Battles): 1,785  (Ranked 116)  
-Sum: 3,778 (Ranked 153)  
+Sum: 3,780 (Ranked 153)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -151,8 +151,8 @@ Diff (max vs sum): -37
 | This game has Diverse Characters | 220 |
 | This game is Relaxing | 213 |
 | This game is Highly Recommended | 210 |
+| This game has Amazing Storytelling | 200 |
 | This game has Amazing Characters | 200 |
-| This game has Amazing Storytelling | 198 |
 | This game has Quickly Understood Controls | 190 |
 | This game has Unique Visuals | 169 |
 | This game has a Creative Community | 149 |
@@ -231,4 +231,4 @@ Diff (max vs sum): -37
 | 2023-10-03 | 4.76 | 1,760 | 3,717 |
 | 2023-10-04 | 4.76 | 1,770 | 3,739 |
 | 2023-10-05 | 4.76 | 1,776 | 3,762 |
-| 2023-10-06 | 4.76 | 1,785 | 3,778 |
+| 2023-10-06 | 4.76 | 1,785 | 3,780 |

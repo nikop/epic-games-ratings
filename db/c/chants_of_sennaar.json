@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.77,
+  "EOS_Completed_Percentage": 6.75,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1182,6 +1182,11 @@
       "Time": "2023-10-06T21:06:23.6993624+00:00",
       "NumProgressed": 251,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-06T22:06:06.3995013+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1311,9 +1316,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1359,9 +1364,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "PROGRESS_N3",
@@ -1392,14 +1397,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:06:23.6993618+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:06:06.399501+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:35.9588107+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:58:48.3566989+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:06:23.6993903+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:58:44.0537083+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:06:06.39952+00:00"
 }

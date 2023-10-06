@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6916,
+  "EOS_Progressed": 6919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3548,6 +3548,11 @@
       "Time": "2023-10-06T21:09:24.715455+00:00",
       "NumProgressed": 6916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T22:09:20.0427247+00:00",
+      "NumProgressed": 6919,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3616,7 +3621,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "DHUpgraded1",
@@ -3632,7 +3637,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "EAUpgraded1",
@@ -3680,7 +3685,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "GamesPlayed10",
@@ -3704,7 +3709,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "GamesWon10",
@@ -3736,7 +3741,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "HAPurchased1",
@@ -3768,7 +3773,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "HSPurchased1",
@@ -3792,7 +3797,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -3928,7 +3933,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "MaxTowersKilled6",
@@ -3968,7 +3973,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "NeutralKills200",
@@ -4056,7 +4061,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "SEUpgraded1",
@@ -4072,7 +4077,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "SOVUpgraded1",
@@ -4112,7 +4117,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "TPurchased1",
@@ -4120,7 +4125,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "TSUPurchased1",
@@ -4136,7 +4141,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "WCUpgraded1",
@@ -4151,7 +4156,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6916,
+      "Progressed": 6919,
       "Completed": 1
     }
   ],
@@ -4159,8 +4164,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:09:24.7154544+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:09:20.0427243+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:02:04.6040692+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:09:24.7155584+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:02:08.9740786+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:09:20.0428241+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12260,
+  "EOS_Progressed": 12261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11386,6 +11386,11 @@
       "Time": "2023-10-06T21:03:39.5389105+00:00",
       "NumProgressed": 12260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T22:03:52.1955518+00:00",
+      "NumProgressed": 12261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11469,7 +11474,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11565,7 +11570,7 @@
       "Name": "Art Intern",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -11596,14 +11601,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12260,
+      "Progressed": 12261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:03:39.53891+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:03:52.195551+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.5456589+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:01:58.5941614+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:03:39.5389971+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:02:02.7408216+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:03:52.1956371+00:00"
 }

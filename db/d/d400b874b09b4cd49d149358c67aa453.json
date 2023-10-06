@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -983,9 +983,9 @@
       "ID": "ACH_END_ALL_TUTORIALS",
       "SetID": "al4k4nh",
       "Name": "Virtual Electrician",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:06:37.9183831+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:06:21.5353164+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.8227266+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:02:26.3682557+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:06:37.9184067+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:02:30.8032943+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:06:21.5353346+00:00"
 }

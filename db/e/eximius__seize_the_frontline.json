@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197974,
+  "EOS_Progressed": 197975,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18482,6 +18482,11 @@
       "Time": "2023-10-06T21:04:31.0197521+00:00",
       "NumProgressed": 197974,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-06T22:04:26.2965383+00:00",
+      "NumProgressed": 197975,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18525,7 +18530,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35635
+      "UsersEstimate": 35636
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -18597,7 +18602,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -18620,7 +18625,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 197974,
+      "Progressed": 197975,
       "Completed": 4
     }
   ],
@@ -18628,8 +18633,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:04:31.0197516+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:04:26.2965376+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.8385746+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:00:39.7966379+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:04:31.0198806+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:00:40.4957665+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:04:26.2966605+00:00"
 }

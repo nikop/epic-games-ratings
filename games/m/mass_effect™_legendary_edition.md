@@ -21,7 +21,7 @@
 | Soldier | 54.00% | ~309 |
 | Medal of Exploration III | 52.00% | ~297 |
 | Asari Ally | 52.00% | ~297 |
-| Principled | 51.00% | ~292 |
+| Principled | 52.00% | ~297 |
 | Soldier Ally | 50.00% | ~286 |
 | Colonial Savior | 49.00% | ~280 |
 | Paramour I | 45.00% | ~257 |
@@ -42,8 +42,8 @@
 | Colony Defense | 35.00% | ~200 |
 | The Convict | 35.00% | ~200 |
 | The Krogan | 35.00% | ~200 |
+| Galactic Explorer | 35.00% | ~200 |
 | Archivist | 34.00% | ~194 |
-| Galactic Explorer | 34.00% | ~194 |
 | The Quarian | 33.00% | ~189 |
 | Broke, Blind, and Bedlam | 33.00% | ~189 |
 | Ghost Ship | 32.00% | ~183 |
@@ -89,9 +89,9 @@
 | Lost and Found | 20.00% | ~114 |
 | Electronics Specialist | 19.00% | ~109 |
 | No One Left Behind | 19.00% | ~109 |
+| Party Crasher | 19.00% | ~109 |
 | Problem Solver | 19.00% | ~109 |
 | Pyromaniac | 18.00% | ~103 |
-| Party Crasher | 18.00% | ~103 |
 | Fact Finder | 18.00% | ~103 |
 | Under Pressure | 17.00% | ~97 |
 | Last Resort | 17.00% | ~97 |
@@ -105,14 +105,14 @@
 | Mail Slot | 13.00% | ~74 |
 | Executioner | 13.00% | ~74 |
 | Patriot | 13.00% | ~74 |
+| Warp Mastery | 12.00% | ~69 |
 | Legend | 12.00% | ~69 |
 | Barrier Mastery | 11.00% | ~63 |
 | Combined Arms | 11.00% | ~63 |
 | Long Service Medal | 11.00% | ~63 |
 | Bruiser | 11.00% | ~63 |
-| Warp Mastery | 11.00% | ~63 |
+| Overload Specialist | 11.00% | ~63 |
 | Lift Mastery | 10.00% | ~57 |
-| Overload Specialist | 10.00% | ~57 |
 | Hijacker | 9.00% | ~51 |
 | Always Prepared | 9.00% | ~51 |
 | Paramour III | 9.00% | ~51 |

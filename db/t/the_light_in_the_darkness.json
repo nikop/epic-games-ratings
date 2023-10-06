@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2494,
+  "EOS_Progressed": 2495,
   "EOS_Completed": 227,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
@@ -6478,6 +6478,11 @@
       "Time": "2023-10-06T14:08:40.3470341+00:00",
       "NumProgressed": 2494,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-06T22:08:19.2948247+00:00",
+      "NumProgressed": 2495,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 12,
@@ -6561,7 +6566,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Nazis in Paris",
@@ -6569,7 +6574,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Nuremberg Laws",
@@ -6584,7 +6589,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2494,
+      "Progressed": 2495,
       "Completed": 227
     }
   ],
@@ -6592,8 +6597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:08:18.3831864+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:08:19.2948243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.0820452+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:58:13.8611924+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:08:18.383237+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:58:03.8190729+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:08:19.2948632+00:00"
 }

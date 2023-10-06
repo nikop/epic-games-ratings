@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1648,9 +1648,9 @@
       "ID": "achievement_30",
       "SetID": "b9pe172",
       "Name": "Principled",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 292
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_31",
@@ -1952,9 +1952,9 @@
       "ID": "achievement_65",
       "SetID": "d252ncf",
       "Name": "Overload Specialist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_66",
@@ -1984,9 +1984,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 194
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_7",
@@ -2080,9 +2080,9 @@
       "ID": "achievement_8",
       "SetID": "b9pe172",
       "Name": "Warp Mastery",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_80",
@@ -2128,9 +2128,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_86",
@@ -2268,8 +2268,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:06:32.5601197+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:06:16.0702957+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-06T21:01:56.1699939+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:06:32.5603578+00:00"
+  "LastUpdate_Ratings": "2023-10-06T22:01:59.1457676+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:06:16.0704707+00:00"
 }

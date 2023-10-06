@@ -4,8 +4,8 @@
   "ProductSlug": "corpse-keeper-b070bb",
   "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-30T13:59:00.6539981+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:59:58.5947912+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:07:38.5031254+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:59:57.8003145+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:07:26.2931685+00:00"
 }

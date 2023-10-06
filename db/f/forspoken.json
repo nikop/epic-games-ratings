@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 478,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -386,23 +386,29 @@
       "Rating": 4.15,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-10-06T21:58:13.2562712+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 27
+      "Count": 28
     }
   ],
-  "EOS_Progressed": 41854,
+  "EOS_Progressed": 41856,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1483,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9990,6 +9996,11 @@
       "Time": "2023-10-06T21:08:31.7100662+00:00",
       "NumProgressed": 41854,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-06T22:08:33.525554+00:00",
+      "NumProgressed": 41856,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10049,7 +10060,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10424,22 +10435,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41854,
+      "Progressed": 41856,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6691,
-      "Completed": 6691
+      "Progressed": 6693,
+      "Completed": 6693
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-10-05T16:57:25.6587851+00:00",
-  "LastChanged_Achievements": "2023-10-06T21:08:31.7100656+00:00",
+  "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
+  "LastChanged_Achievements": "2023-10-06T22:08:33.5255535+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-06T20:58:22.2188492+00:00",
-  "LastUpdate_Achievements": "2023-10-06T21:08:31.7101725+00:00"
+  "LastUpdate_Ratings": "2023-10-06T21:58:13.2562715+00:00",
+  "LastUpdate_Achievements": "2023-10-06T22:08:33.5256394+00:00"
 }

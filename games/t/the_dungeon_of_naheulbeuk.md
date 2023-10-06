@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,306 |
-| Alt+F4 | 6.00% | ~13,745 |
-| Where's that freaking Dwarf? | 5.00% | ~11,454 |
-| Déjà vu | 4.00% | ~9,163 |
-| Sock! SOCK! | 4.00% | ~9,163 |
-| A beer, two curses, three companions | 3.00% | ~6,872 |
-| GG EZ | 3.00% | ~6,872 |
-| DM intervention | 3.00% | ~6,872 |
-| Speedrun | 3.00% | ~6,872 |
-| Fireproof Wizardess | 3.00% | ~6,872 |
+| Sowwy! | 32.00% | ~73,311 |
+| Alt+F4 | 6.00% | ~13,746 |
+| Where's that freaking Dwarf? | 5.00% | ~11,455 |
+| Déjà vu | 4.00% | ~9,164 |
+| Sock! SOCK! | 4.00% | ~9,164 |
+| A beer, two curses, three companions | 3.00% | ~6,873 |
+| GG EZ | 3.00% | ~6,873 |
+| DM intervention | 3.00% | ~6,873 |
+| Speedrun | 3.00% | ~6,873 |
+| Fireproof Wizardess | 3.00% | ~6,873 |
 | Livin' in a dwarven paradise | 2.00% | ~4,582 |
 | Way of the Wimp | 2.00% | ~4,582 |
 | The plot thickens... At the tavern | 2.00% | ~4,582 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.80% | ~1,833 |
 | Material Girl | 0.80% | ~1,833 |
 | In Navalu's footsteps | 0.70% | ~1,604 |
-| Lëgal Legend | 0.60% | ~1,374 |
+| Lëgal Legend | 0.60% | ~1,375 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,145 |
 | We come in peace | 0.50% | ~1,145 |
 | Holistic Adventuring Party | 0.40% | ~916 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,082 (Ranked 59)  
+Progressed: 229,097 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 5 (0.00%) (Ranked 306)
 | 2023-10-03 | 228,515 | 5 |
 | 2023-10-04 | 228,696 | 5 |
 | 2023-10-05 | 228,876 | 5 |
-| 2023-10-06 | 229,082 | 5 |
+| 2023-10-06 | 229,097 | 5 |
 ## Awards
 Max (Character Customization): 208  (Ranked 274)  
-Sum: 406 (Ranked 325)  
+Sum: 407 (Ranked 325)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): -51
 | This game is Relaxing | 32 |
 | This game is Great for Beginners | 30 |
 | This game has Amazing Characters | 25 |
-| This game is Highly Recommended | 24 |
+| This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Storytelling | 22 |
 | This game is Extremely Fun | 22 |
@@ -391,4 +391,4 @@ Diff (max vs sum): -51
 | 2023-10-02 | 4.59 | - | 205 | 398 |
 | 2023-10-03 | 4.59 | - | 205 | 400 |
 | 2023-10-05 | 4.59 | - | 207 | 405 |
-| 2023-10-06 | 4.59 | - | 208 | 406 |
+| 2023-10-06 | 4.59 | - | 208 | 407 |

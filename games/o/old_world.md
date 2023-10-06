@@ -9,7 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.90% | ~130 |
 | Settler | 0.90% | ~130 |
 | Play a Single Player Game | 0.90% | ~130 |
-| Friendly Family | 0.80% | ~115 |
+| Friendly Family | 0.80% | ~116 |
 | Intrepid | 0.70% | ~101 |
 | Able | 0.60% | ~87 |
 | Architect | 0.60% | ~87 |
@@ -75,11 +75,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~29 |
 | Sages | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
+| Hittite Iron | 0.20% | ~29 |
 | Acropolis | 0.20% | ~29 |
 | Circus Maximus | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
 | Hagia Sophia | 0.20% | ~29 |
 | Mausoleum | 0.20% | ~29 |
+| Pantheon | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
@@ -177,12 +179,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~14 |
 | Pharaoh | 0.10% | ~14 |
 | A Tyresome Siege | 0.10% | ~14 |
-| Hittite Iron | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
 | Temple of Solomon | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
-| Pantheon | 0.10% | ~14 |
 | Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
@@ -201,6 +201,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.10% | ~14 |
 | Pantheon of Gods | 0.10% | ~14 |
 | Apadana in Parsa | 0.10% | ~14 |
+| Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
@@ -337,7 +338,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Play a 1-v-1 Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
 | One City Challenge | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,436 (Ranked 134)  
+Progressed: 14,439 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 5 (0.03%) (Ranked 276)
 | 2023-10-03 | 14,326 | 5 |
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
-| 2023-10-06 | 14,436 | 5 |
+| 2023-10-06 | 14,439 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,827 (Ranked 208)  
