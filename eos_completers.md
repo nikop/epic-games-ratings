@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.81% |
+| 1 | [The Riflemen](games/t/the_riflemen.md) | 59.80% |
 | 2 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.46% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -64,12 +64,12 @@
 | 62 | [ZZT!](games/z/zzt!.md) | 4.43% |
 | 63 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 64 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
-| 64 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.08% |
 | 64 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.92% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.91% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 68 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.70% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.71% |
 | 71 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 72 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -106,7 +106,7 @@
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 106 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.96% |
-| 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.94% |
+| 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
