@@ -3404,9 +3404,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 132971,
+  "EOS_Progressed": 132972,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22309,6 +22309,11 @@
       "Time": "2023-10-06T07:04:04.0958775+00:00",
       "NumProgressed": 132971,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-10-06T08:03:14.3226754+00:00",
+      "NumProgressed": 132972,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -22320,7 +22325,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 90420
+      "UsersEstimate": 90421
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -22392,7 +22397,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 109036
+      "UsersEstimate": 109037
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -22416,7 +22421,7 @@
       "Name": "Developers, Developers, Developers, Developers!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 21275
+      "UsersEstimate": 21276
     },
     {
       "ID": "TANNENBERG_ACH_EQUALITY_FOR_ALL",
@@ -22440,7 +22445,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 54518
+      "UsersEstimate": 54519
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -22528,7 +22533,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 118344
+      "UsersEstimate": 118345
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -22544,7 +22549,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 106377
+      "UsersEstimate": 106378
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -22576,7 +22581,7 @@
       "Name": "Leeroy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 43880
+      "UsersEstimate": 43881
     },
     {
       "ID": "TANNENBERG_ACH_LIVING_ON_THE_EDGE",
@@ -22592,7 +22597,7 @@
       "Name": "Lost Batallion",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 43880
+      "UsersEstimate": 43881
     },
     {
       "ID": "TANNENBERG_ACH_LUCKY_SHOT",
@@ -22616,7 +22621,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 58507
+      "UsersEstimate": 58508
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -22712,7 +22717,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 30583
+      "UsersEstimate": 30584
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -22728,7 +22733,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 58507
+      "UsersEstimate": 58508
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -22752,7 +22757,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 25264
+      "UsersEstimate": 25265
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -22824,7 +22829,7 @@
       "Name": "Unlucky",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 94409
+      "UsersEstimate": 94410
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -22832,7 +22837,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 86431
+      "UsersEstimate": 86432
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -22855,15 +22860,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 132971,
+      "Progressed": 132972,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-25T13:58:26.2231991+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:04:04.0958769+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:03:14.322675+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:22.8037876+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:59:39.4070677+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:04:04.0960152+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:58:55.9399556+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:03:14.3228153+00:00"
 }

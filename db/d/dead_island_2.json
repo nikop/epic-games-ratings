@@ -5050,10 +5050,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9442,
       "NumberOfAwardsMax": 6327
+    },
+    {
+      "Time": "2023-10-06T07:57:54.8488586+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9445,
+      "NumberOfAwardsMax": 6327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9442,
+  "NumberOfAwards": 9445,
   "NumberOfAwardsMax": 6327,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5103,7 +5109,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 395
+      "Count": 398
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5112,9 +5118,9 @@
       "Count": 365
     }
   ],
-  "EOS_Progressed": 691391,
+  "EOS_Progressed": 691405,
   "EOS_Completed": 2192,
-  "EOS_NewPlayers": 3595,
+  "EOS_NewPlayers": 3597,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24192,6 +24198,11 @@
       "Time": "2023-10-06T07:07:11.9481676+00:00",
       "NumProgressed": 691391,
       "NumCompleted": 2192
+    },
+    {
+      "Time": "2023-10-06T08:06:09.3186592+00:00",
+      "NumProgressed": 691405,
+      "NumCompleted": 2192
     }
   ],
   "TotalAchievements": 45,
@@ -24562,22 +24573,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691391,
+      "Progressed": 691405,
       "Completed": 2192
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 16933,
-      "Completed": 16933
+      "Progressed": 16947,
+      "Completed": 16947
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-06T05:58:13.264369+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:07:11.9481672+00:00",
+  "LastChanged": "2023-10-06T07:57:54.8488582+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:06:09.3186587+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:58:29.6845469+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:07:11.9482889+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:57:54.8488591+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:06:09.3187772+00:00"
 }

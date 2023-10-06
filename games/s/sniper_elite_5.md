@@ -15,8 +15,8 @@ Rating: 4.45 (Ranked 643)
 | Resourceful | 27.00% | ~999 |
 | Target America | 26.00% | ~962 |
 | The Kraken Sleeps | 24.00% | ~888 |
+| Organ Grinder | 23.00% | ~851 |
 | Liberté | 22.00% | ~814 |
-| Organ Grinder | 22.00% | ~814 |
 | Sharpshooter | 22.00% | ~814 |
 | As Quiet as a Mouse | 22.00% | ~814 |
 | Explosive Efficiency | 19.00% | ~703 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 643)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 178)  
+Progressed: 3,701 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,6 +244,7 @@ Completed: 11 (0.30%) (Ranked 198)
 | 2023-10-03 | 3,694 | 11 |
 | 2023-10-04 | 3,697 | 11 |
 | 2023-10-05 | 3,700 | 11 |
+| 2023-10-06 | 3,701 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

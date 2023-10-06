@@ -600,9 +600,9 @@
       "ID": "50",
       "SetID": "5e3maia",
       "Name": "Star Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "51",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:03:48.6973632+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:03:10.0509508+00:00",
   "LastUpdate_AppInfo": "2023-09-30T01:37:01.546408+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:50.4524481+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:03:48.6974278+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:49.4117609+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:03:10.0510062+00:00"
 }

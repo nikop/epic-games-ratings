@@ -559,9 +559,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MechanicIntegration",
@@ -879,9 +879,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ApianMastery",
@@ -991,9 +991,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NoctuanHero",
@@ -1022,8 +1022,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:09:20.608243+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:08:26.1773308+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:03:11.2587347+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:09:20.6083342+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:02:10.094084+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:08:26.1774368+00:00"
 }

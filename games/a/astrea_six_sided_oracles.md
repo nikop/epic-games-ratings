@@ -9,16 +9,16 @@
 | Wild's Keeper | 12.00% | ~5 |
 | Apian Champion | 12.00% | ~5 |
 | Lacertian Champion | 12.00% | ~5 |
+| Noctuan Champion | 12.00% | ~5 |
 | Anomaly Destroyer | 10.00% | ~4 |
 | Endless Tricks | 10.00% | ~4 |
+| Loyal Partner | 10.00% | ~4 |
 | Mechanical Buddy | 10.00% | ~4 |
 | Purification Pioneer | 10.00% | ~4 |
 | Sanctuary Guardian | 10.00% | ~4 |
 | Unbeatable | 10.00% | ~4 |
 | Eridanian Champion | 10.00% | ~4 |
-| Noctuan Champion | 10.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
-| Loyal Partner | 7.00% | ~3 |
 | Meissa's Savior | 7.00% | ~3 |
 | Mind Illuminator | 7.00% | ~3 |
 | Shard Spender | 7.00% | ~3 |
@@ -51,6 +51,7 @@
 | The Goddes Avatar | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
+| Apian Hero | 2.00% | ~1 |
 | Aquarian Champion | 2.00% | ~1 |
 | Behenian Champion | 2.00% | ~1 |
 | Behenian Mastery | 2.00% | ~1 |
@@ -95,7 +96,6 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
-| Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |

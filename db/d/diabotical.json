@@ -3,11 +3,11 @@
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
   "Ranking_Rating": 140,
-  "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 185,
+  "Ranking_Popularity": 247,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-03T13:00:00+00:00",
@@ -1422,11 +1422,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 2394,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-10-06T07:58:07.0588871+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2403,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2394,
-  "NumberOfAwardsMax": 282,
+  "NumberOfAwards": 2403,
+  "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1439,13 +1445,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 263
+      "Count": 264
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1457,25 +1463,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 251
+      "Count": 253
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 243
+      "Count": 244
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1493,7 +1499,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 215
+      "Count": 217
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1513,8 +1519,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-09-24T11:57:05.8202085+00:00",
+  "LastChanged": "2023-10-06T07:58:07.0588869+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:42.8698392+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:58:46.3776631+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:06:04.5116748+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:58:07.0588874+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:05:13.799211+00:00"
 }

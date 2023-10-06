@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5663,
+  "EOS_Progressed": 5664,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2548,6 +2548,11 @@
       "Time": "2023-10-06T07:06:47.0905272+00:00",
       "NumProgressed": 5663,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-06T08:05:48.8548323+00:00",
+      "NumProgressed": 5664,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2560,7 +2565,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "achievement_01_02",
@@ -2584,7 +2589,7 @@
       "Name": "Bzzzt",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "achievement_01_05",
@@ -2600,7 +2605,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "achievement_01_07",
@@ -2616,7 +2621,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "achievement_01_09",
@@ -2624,7 +2629,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "achievement_01_10",
@@ -2704,7 +2709,7 @@
       "Name": "USA - Check!",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achievement_03_02",
@@ -2712,7 +2717,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "achievement_03_03",
@@ -2848,7 +2853,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_04_09",
@@ -2863,7 +2868,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5663,
+      "Progressed": 5664,
       "Completed": 20
     }
   ],
@@ -2871,8 +2876,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-04T18:00:34.2013803+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:06:47.0905268+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:05:48.8548317+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:01:39.6588224+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:06:47.0905627+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:00:31.5917954+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:05:48.8548674+00:00"
 }

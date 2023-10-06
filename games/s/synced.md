@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 27.00% | ~16,538 |
+| Your Lucky Day | 27.00% | ~16,539 |
 | As Far Away As Possible | 15.00% | ~9,188 |
-| A Most Unstable Organism | 12.00% | ~7,350 |
+| A Most Unstable Organism | 12.00% | ~7,351 |
 | No Time to Follow Protocol | 9.00% | ~5,513 |
 | Float Like a Butterfly... | 8.00% | ~4,900 |
 | In Two Places At Once | 6.00% | ~3,675 |
@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 895)
 | Runs for Your Money | 0.10% | ~61 |
 | Past Master | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,252 (Ranked 96)  
+Progressed: 61,256 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,10 +62,10 @@ Completed: 5 (0.01%) (Ranked 288)
 | 2023-10-03 | 60,483 | 2 |
 | 2023-10-04 | 60,826 | 2 |
 | 2023-10-05 | 61,160 | 3 |
-| 2023-10-06 | 61,252 | 5 |
+| 2023-10-06 | 61,256 | 5 |
 ## Awards
 Max (Great for Beginners): 51  (Ranked 407)  
-Sum: 182 (Ranked 388)  
+Sum: 183 (Ranked 388)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
@@ -73,7 +73,7 @@ Diff (max vs sum): 19
 | This game has Diverse Characters | 34 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 26 |
-| This game has Quickly Understood Controls | 21 |
+| This game has Quickly Understood Controls | 22 |
 | This game has Unique Visuals | 20 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -106,3 +106,4 @@ Diff (max vs sum): 19
 | 2023-10-03 | 4.18 | 49 | 153 |
 | 2023-10-04 | 4.18 | 51 | 181 |
 | 2023-10-05 | 4.19 | 51 | 182 |
+| 2023-10-06 | 4.18 | 51 | 183 |

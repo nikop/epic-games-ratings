@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1230,7 +1230,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19481,
+  "EOS_Progressed": 19482,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 1,
@@ -19520,6 +19520,11 @@
       "Time": "2023-10-06T07:07:28.7776392+00:00",
       "NumProgressed": 19481,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-06T08:06:27.0868589+00:00",
+      "NumProgressed": 19482,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19555,7 +19560,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "CantRunCantHide",
@@ -19619,15 +19624,15 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8766
+      "UsersEstimate": 8767
     },
     {
       "ID": "ICallItLuck",
       "SetID": "6ce5bmd",
       "Name": "I call it luck",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8377
+      "UsersEstimate": 8572
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -19803,7 +19808,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11883
+      "UsersEstimate": 11884
     },
     {
       "ID": "SwordToAGunfight",
@@ -19811,7 +19816,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "TripleA",
@@ -19843,7 +19848,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "Wallrunner",
@@ -19867,7 +19872,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7793
     },
     {
       "ID": "WhereHeStood",
@@ -19883,28 +19888,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19481,
+      "Progressed": 19482,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19481,
+      "Progressed": 19482,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-04T13:11:18.7235478+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:07:28.7776389+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:06:27.0868583+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:03:20.2210471+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:07:28.7777522+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:02:15.999742+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:06:27.0869756+00:00"
 }

@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 523)  
+Rating: 4.54 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,13 +27,13 @@ Rating: 4.53 (Ranked 523)
 | Data Logger | 0.30% | ~41 |
 | Brother's Reaper | 0.30% | ~41 |
 | No Belter Left Behind | 0.30% | ~41 |
+| Debris Spree | 0.20% | ~27 |
 | Data Master | 0.20% | ~27 |
 | Data Recoverer | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
-| Debris Spree | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,618 (Ranked 135)  
@@ -135,3 +135,4 @@ Completed: 12 (0.09%) (Ranked 246)
 | 2023-09-27 | 4.55 | 0 | 0 |
 | 2023-09-30 | 4.56 | 0 | 0 |
 | 2023-10-01 | 4.53 | 0 | 0 |
+| 2023-10-06 | 4.54 | 0 | 0 |

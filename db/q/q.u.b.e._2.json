@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2406,6 +2406,11 @@
       "Time": "2023-10-06T06:05:04.3543801+00:00",
       "NumProgressed": 604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-06T08:04:48.0750053+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2578,7 +2583,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_PEAK",
@@ -2618,7 +2623,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_S5",
@@ -2649,15 +2654,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:05:33.8469675+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:04:48.0750048+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:01:44.1622338+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:05:33.8469948+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:00:36.9703147+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:04:48.0750314+00:00"
 }

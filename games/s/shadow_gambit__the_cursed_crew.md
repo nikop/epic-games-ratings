@@ -18,7 +18,7 @@ Rating: 4.73 (Ranked 164)
 | Buccaneer | 25.00% | ~175 |
 | Fishy Fish | 22.00% | ~154 |
 | All Good Things | 20.00% | ~140 |
-| Seadog | 18.00% | ~126 |
+| Seadog | 19.00% | ~133 |
 | Persistent Parasite | 18.00% | ~126 |
 | Jaded Judge | 13.00% | ~91 |
 | Privateer | 12.00% | ~84 |

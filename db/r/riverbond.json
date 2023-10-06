@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 528673,
+  "EOS_Progressed": 528674,
   "EOS_Completed": 480,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -18519,6 +18519,11 @@
       "Time": "2023-10-06T07:05:15.4245701+00:00",
       "NumProgressed": 528673,
       "NumCompleted": 480
+    },
+    {
+      "Time": "2023-10-06T08:04:33.0917962+00:00",
+      "NumProgressed": 528674,
+      "NumCompleted": 480
     }
   ],
   "TotalAchievements": 57,
@@ -18546,7 +18551,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370071
+      "UsersEstimate": 370072
     },
     {
       "ID": "12",
@@ -18562,7 +18567,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68727
+      "UsersEstimate": 68728
     },
     {
       "ID": "14",
@@ -18610,7 +18615,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327777
+      "UsersEstimate": 327778
     },
     {
       "ID": "2",
@@ -18754,7 +18759,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264336
+      "UsersEstimate": 264337
     },
     {
       "ID": "36",
@@ -18826,7 +18831,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89874
+      "UsersEstimate": 89875
     },
     {
       "ID": "44",
@@ -18858,7 +18863,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327777
+      "UsersEstimate": 327778
     },
     {
       "ID": "48",
@@ -18985,15 +18990,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 528673,
+      "Progressed": 528674,
       "Completed": 480
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:05:15.4245697+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:04:33.0917955+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:10.5517072+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:01:34.8260383+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:05:15.4246956+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:00:27.7779035+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:04:33.0919222+00:00"
 }

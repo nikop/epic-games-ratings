@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16769,
+  "EOS_Progressed": 16770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5453,6 +5453,11 @@
       "Time": "2023-10-06T06:05:57.7499789+00:00",
       "NumProgressed": 16769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T08:05:41.4761526+00:00",
+      "NumProgressed": 16770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5464,7 +5469,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15931
+      "UsersEstimate": 15932
     },
     {
       "ID": "ACH001",
@@ -5472,7 +5477,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14421
+      "UsersEstimate": 14422
     },
     {
       "ID": "ACH0010",
@@ -5496,7 +5501,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 8049
+      "UsersEstimate": 8050
     },
     {
       "ID": "ACH0013",
@@ -5584,7 +5589,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "ACH0023",
@@ -5616,7 +5621,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9223
+      "UsersEstimate": 9224
     },
     {
       "ID": "ACH004",
@@ -5624,7 +5629,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14589
+      "UsersEstimate": 14590
     },
     {
       "ID": "ACH005",
@@ -5671,7 +5676,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16769,
+      "Progressed": 16770,
       "Completed": 0
     }
   ],
@@ -5679,8 +5684,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:06:38.3352501+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:05:41.4761521+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.9891298+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:16.0951968+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:06:38.3352893+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:24.890967+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:05:41.4761892+00:00"
 }

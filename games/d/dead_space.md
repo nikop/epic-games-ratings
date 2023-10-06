@@ -5,11 +5,11 @@ Rating: 4.61 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~756 |
-| Welcome Aboard | 86.00% | ~685 |
-| Lab Rat | 75.00% | ~597 |
-| All Systems Go | 66.00% | ~525 |
-| Brute Force | 66.00% | ~525 |
+| Marksman | 95.00% | ~757 |
+| Welcome Aboard | 87.00% | ~693 |
+| Lab Rat | 75.00% | ~598 |
+| All Systems Go | 66.00% | ~526 |
+| Brute Force | 66.00% | ~526 |
 | Cannon Fodder | 62.00% | ~494 |
 | Autofire | 60.00% | ~478 |
 | Story Teller | 57.00% | ~454 |
@@ -19,13 +19,13 @@ Rating: 4.61 (Ranked 371)
 | Exterminator | 51.00% | ~406 |
 | Greenhouse Effect | 51.00% | ~406 |
 | Freeze | 50.00% | ~398 |
-| Full Arsenal | 45.00% | ~358 |
-| S.O.S. | 44.00% | ~350 |
-| Get Off My Ship! | 42.00% | ~334 |
-| Strange Transmissions | 42.00% | ~334 |
-| Live with the Hot Ones | 41.00% | ~326 |
-| Wreckage | 40.00% | ~318 |
-| Keeper of the Faith | 38.00% | ~302 |
+| Full Arsenal | 45.00% | ~359 |
+| S.O.S. | 44.00% | ~351 |
+| Get Off My Ship! | 42.00% | ~335 |
+| Strange Transmissions | 42.00% | ~335 |
+| Live with the Hot Ones | 41.00% | ~327 |
+| Wreckage | 40.00% | ~319 |
+| Keeper of the Faith | 38.00% | ~303 |
 | Betrayed | 36.00% | ~287 |
 | Legend Teller | 35.00% | ~279 |
 | There's Always Peng! | 35.00% | ~279 |
@@ -43,7 +43,7 @@ Rating: 4.61 (Ranked 371)
 | Z-Baller | 21.00% | ~167 |
 | Eviscerator | 18.00% | ~143 |
 | Marked | 18.00% | ~143 |
-| Backbreaker | 13.00% | ~103 |
+| Backbreaker | 13.00% | ~104 |
 | Wishbone | 7.00% | ~56 |
 | Trusted Contractor | 6.00% | ~48 |
 | Built To Order | 5.00% | ~40 |
@@ -53,7 +53,7 @@ Rating: 4.61 (Ranked 371)
 | One Gun | 2.00% | ~16 |
 | Maxed Out | 2.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796 (Ranked 242)  
+Progressed: 797 (Ranked 242)  
 Completed: 3 (0.38%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 3 (0.38%) (Ranked 181)
 | 2023-10-03 | 748 | 3 |
 | 2023-10-04 | 767 | 3 |
 | 2023-10-05 | 785 | 3 |
-| 2023-10-06 | 796 | 3 |
+| 2023-10-06 | 797 | 3 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 343)  
 Sum: 101 (Ranked 425)  

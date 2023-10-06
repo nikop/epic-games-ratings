@@ -1182,9 +1182,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5463,
+  "EOS_Progressed": 5464,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10842,6 +10842,11 @@
       "Time": "2023-10-05T22:07:41.6929584+00:00",
       "NumProgressed": 5463,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-06T08:06:44.3825931+00:00",
+      "NumProgressed": 5464,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10925,7 +10930,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -10949,7 +10954,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -10963,9 +10968,9 @@
       "ID": "ACH_EP_SHACKLAND",
       "SetID": "1p8ab95",
       "Name": "Shackadelic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -11013,7 +11018,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11125,7 +11130,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11172,15 +11177,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5463,
+      "Progressed": 5464,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-05T18:01:13.1907097+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:07:49.0192425+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:06:44.3825926+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:48.1588375+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:07:49.0193102+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:47.5809169+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:06:44.3826653+00:00"
 }

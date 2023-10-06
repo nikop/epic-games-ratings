@@ -2,7 +2,7 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 118,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
@@ -121,6 +121,11 @@
       "Time": "2023-10-03T17:10:19.0732165+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T08:08:34.1875698+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -131,7 +136,7 @@
       "ID": "check_and_no_mate",
       "SetID": "7i36ba9",
       "Name": "Check and No Mate",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -139,7 +144,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -155,7 +160,7 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -171,7 +176,7 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -179,7 +184,7 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -187,7 +192,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -203,7 +208,7 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -219,7 +224,7 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -227,7 +232,7 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -243,7 +248,7 @@
       "ID": "taxi_drivers_knowledge",
       "SetID": "7i36ba9",
       "Name": "Taxi Driver\u0027s Knowledge",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -251,7 +256,7 @@
       "ID": "the_doctor",
       "SetID": "7i36ba9",
       "Name": "The Doctor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -259,7 +264,7 @@
       "ID": "the_escape",
       "SetID": "7i36ba9",
       "Name": "The Escape",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "the_fall",
       "SetID": "7i36ba9",
       "Name": "The Fall",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -275,7 +280,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 95,
       "UsersEstimate": 8
     },
@@ -291,7 +296,7 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -307,7 +312,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -323,7 +328,7 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -331,7 +336,7 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -340,14 +345,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:09:30.0312242+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:08:34.1875692+00:00",
   "LastUpdate_AppInfo": "2023-09-29T22:57:06.9383944+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:08.4780247+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:09:30.0312407+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:18.8650944+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:08:34.1875841+00:00"
 }

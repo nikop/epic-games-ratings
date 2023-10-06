@@ -846,9 +846,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 6954,
+  "EOS_Progressed": 6955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-10-06T07:04:48.6276585+00:00",
       "NumProgressed": 6954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-06T08:03:51.4807039+00:00",
+      "NumProgressed": 6955,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -2968,7 +2973,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "ach02",
@@ -2984,7 +2989,7 @@
       "Name": "A New Timeline",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "ach04",
@@ -3008,7 +3013,7 @@
       "Name": "Titan",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "ach07",
@@ -3096,7 +3101,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "ach18",
@@ -3142,9 +3147,9 @@
       "ID": "ach23",
       "SetID": "47in8n6",
       "Name": "Take And Deny",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1739
     },
     {
       "ID": "ach24",
@@ -3192,7 +3197,7 @@
       "Name": "Unstoppable",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ach30",
@@ -3200,7 +3205,7 @@
       "Name": "Juggernaut",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ach31",
@@ -3216,7 +3221,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ach33",
@@ -3256,7 +3261,7 @@
       "Name": "ABACABB",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3756
     },
     {
       "ID": "ach38",
@@ -3264,7 +3269,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "ach39",
@@ -3304,7 +3309,7 @@
       "Name": "Working Overtime",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "ach44",
@@ -3360,14 +3365,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 6954,
+      "Progressed": 6955,
       "Completed": 0
     }
   ],
@@ -3375,8 +3380,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-06T06:00:30.9189718+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:04:48.6276582+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:03:51.4807035+00:00",
   "LastUpdate_AppInfo": "2023-09-30T06:57:05.2943961+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:01:19.2506354+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:04:48.6277025+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:00:14.0887177+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:03:51.4807471+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -136,6 +136,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-06T08:00:39.9761605+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -144,7 +150,7 @@
   "Tags": [],
   "EOS_Progressed": 13618,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8009,9 +8015,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "5",
@@ -8065,9 +8071,9 @@
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-10-01T11:58:44.415583+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:07:02.1998655+00:00",
+  "LastChanged": "2023-10-06T08:00:39.97616+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:06:01.1537481+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:01:48.2132645+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:07:02.199921+00:00"
+  "LastUpdate_Ratings": "2023-10-06T08:00:39.9761608+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:06:01.1538025+00:00"
 }

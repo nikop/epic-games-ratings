@@ -1839,9 +1839,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_56",
@@ -2031,9 +2031,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_78",
@@ -2243,8 +2243,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:05:47.4033489+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:04:59.2918738+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:50.6766438+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:05:47.4035437+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:49.6321029+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:04:59.292053+00:00"
 }

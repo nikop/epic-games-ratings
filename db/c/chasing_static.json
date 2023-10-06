@@ -4,7 +4,7 @@
   "ProductSlug": "chasing-static-8405ca",
   "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-29T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.2502685+00:00",
   "LastChanged": "2023-03-31T05:57:21.2502686+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:45.4787085+00:00",
-  "LastUpdate_Ratings": "2023-10-06T07:00:06.7719294+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:04:36.1087617+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:59:17.593545+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:03:40.9408996+00:00"
 }

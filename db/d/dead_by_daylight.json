@@ -10991,9 +10991,9 @@
       "Count": 25103
     }
   ],
-  "EOS_Progressed": 921369,
+  "EOS_Progressed": 921410,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13583,
+  "EOS_NewPlayers": 13562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30126,6 +30126,11 @@
       "Time": "2023-10-06T07:06:27.6593697+00:00",
       "NumProgressed": 921369,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-06T08:05:32.9548905+00:00",
+      "NumProgressed": 921410,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30321,7 +30326,7 @@
       "Name": "Not half bad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH_025",
@@ -30345,7 +30350,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH_028",
@@ -30369,7 +30374,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH_031",
@@ -30439,9 +30444,9 @@
       "ID": "ACH_039",
       "SetID": "bdmlp8o",
       "Name": "Skillful",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 4607
     },
     {
       "ID": "ACH_040",
@@ -31905,7 +31910,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH_226",
@@ -31968,21 +31973,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 921369,
+      "Progressed": 921410,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 921369,
+      "Progressed": 921410,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-06T02:59:42.6750255+00:00",
-  "LastChanged_Achievements": "2023-10-06T07:06:27.6593694+00:00",
+  "LastChanged_Achievements": "2023-10-06T08:05:32.9548898+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-06T06:59:42.5915234+00:00",
-  "LastUpdate_Achievements": "2023-10-06T07:06:27.6599118+00:00"
+  "LastUpdate_Ratings": "2023-10-06T07:58:58.0390716+00:00",
+  "LastUpdate_Achievements": "2023-10-06T08:05:32.9554707+00:00"
 }
