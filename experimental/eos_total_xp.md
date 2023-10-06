@@ -18,6 +18,8 @@
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
+| [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
+| [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |

@@ -573,9 +573,11 @@
 | [DEEEER Simulator: Your Average Everyday Deer Game](../games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17 | 1,000 |
 | [Dodo Peak](../games/c/cea01263911a4e179a5e3892ef710930.md) | 17 | 1,000 |
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
+| [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
+| [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |
 | [Seven Doors](../games/s/seven_doors.md) | 17 | 1,000 |

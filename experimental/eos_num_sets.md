@@ -16,7 +16,7 @@
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 | 2 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 | 2 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 | 2 |
-| [Full Moon Rush](../games/f/full_moon_rush.md) | 0 | 0 | 2 |
+| [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 | 2 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 | 2 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
@@ -33,7 +33,7 @@
 | [Old World](../games/o/old_world.md) | 342 | 3,360 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
-| [Probo Rush](../games/p/probo_rush.md) | 0 | 0 | 2 |
+| [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
 | [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
