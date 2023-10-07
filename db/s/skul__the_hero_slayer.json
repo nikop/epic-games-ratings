@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1016,7 +1016,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8215,
+  "EOS_Progressed": 8216,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
@@ -4861,6 +4861,11 @@
       "Time": "2023-10-07T03:06:23.3992742+00:00",
       "NumProgressed": 8215,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-07T15:08:44.3363206+00:00",
+      "NumProgressed": 8216,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -4872,7 +4877,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "Chatterbox",
@@ -4896,7 +4901,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4920,7 +4925,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4960,7 +4965,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "LeoniasFall",
@@ -4984,7 +4989,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "RookieWelcome",
@@ -5000,7 +5005,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5008,7 +5013,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "SkeletonKing",
@@ -5024,7 +5029,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "TheLegendBegins",
@@ -5032,7 +5037,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7640
+      "UsersEstimate": 7641
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5040,7 +5045,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4025
+      "UsersEstimate": 4026
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5063,15 +5068,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8215,
+      "Progressed": 8216,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-06T03:58:18.2786084+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:05:27.3923353+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:58:23.1900424+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:58:49.9407498+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:05:27.3924193+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:08:44.33632+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:01:44.0567888+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:08:44.3363888+00:00"
 }

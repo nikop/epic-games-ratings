@@ -33,11 +33,11 @@ Rating: 4.50 (Ranked 571)
 | Skilled | 0.50% | ~131 |
 | Stunner | 0.50% | ~131 |
 | We have the best insurance | 0.40% | ~105 |
+| Diabolical | 0.40% | ~105 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
 | Collector | 0.30% | ~79 |
-| Diabolical | 0.30% | ~79 |
 | Escape Artist | 0.30% | ~79 |
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |

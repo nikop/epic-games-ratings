@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6774,
+  "EOS_Progressed": 6775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6747,6 +6747,11 @@
       "Time": "2023-10-07T14:06:15.2003163+00:00",
       "NumProgressed": 6774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T15:09:40.8537169+00:00",
+      "NumProgressed": 6775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6862,7 +6867,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5351
+      "UsersEstimate": 5352
     },
     {
       "ID": "First_Race_Met",
@@ -6870,7 +6875,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "First_Ship_Designed",
@@ -6974,7 +6979,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "Play_1000_Hours",
@@ -7086,7 +7091,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "War_With_5_Factions",
@@ -7110,7 +7115,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win_As_Arcean",
@@ -7190,7 +7195,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win_As_Navigators",
@@ -7238,7 +7243,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win_Battle",
@@ -7246,7 +7251,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7294,7 +7299,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win_Multiplayer",
@@ -7310,7 +7315,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "Win_Quickly",
@@ -7333,15 +7338,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6774,
+      "Progressed": 6775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:06:15.2003158+00:00",
+  "LastChanged_Achievements": "2023-10-07T15:09:40.8537163+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:58:03.2021221+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:06:15.2004315+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:00:46.3199542+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:09:40.8539076+00:00"
 }

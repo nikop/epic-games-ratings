@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 773,
+  "EOS_Progressed": 774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2866,6 +2866,11 @@
       "Time": "2023-10-07T10:09:34.0080268+00:00",
       "NumProgressed": 773,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T15:12:36.8391634+00:00",
+      "NumProgressed": 774,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2893,7 +2898,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "BigPlane",
@@ -2901,7 +2906,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "BudgetFlight",
@@ -3013,7 +3018,7 @@
       "Name": "Large Airport",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LargeTerritories",
@@ -3077,7 +3082,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "NoTimeForModernization",
@@ -3155,9 +3160,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 85
     },
     {
       "ID": "Reviewer",
@@ -3212,14 +3217,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 773,
+      "Progressed": 774,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:09:24.6028384+00:00",
+  "LastChanged_Achievements": "2023-10-07T15:12:36.8391627+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-07T14:01:10.3242087+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:09:24.6028921+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:04:31.8620525+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:12:36.8392485+00:00"
 }

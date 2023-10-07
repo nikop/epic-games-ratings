@@ -5,18 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 3.00% | ~8 |
+| Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | The Preacher's fate | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
 | Welcome to the Tower | 2.00% | ~5 |
 | The great escape | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
-| Cable guy | 1.00% | ~3 |
 | Open door | 1.00% | ~3 |
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
 | Alchemists Express | 1.00% | ~3 |
 | Rascal | 1.00% | ~3 |
+| I did it | 0.80% | ~2 |
+| In this together | 0.80% | ~2 |
 | Peace walker | 0.80% | ~2 |
 | A good beginning | 0.80% | ~2 |
 | Free at last | 0.80% | ~2 |
@@ -25,13 +27,11 @@
 | Scholar | 0.80% | ~2 |
 | A new dawn | 0.80% | ~2 |
 | The darkness | 0.80% | ~2 |
-| I did it | 0.40% | ~1 |
-| In this together | 0.40% | ~1 |
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 327)  
-Completed: 17 (6.69%) (Ranked 49)  
+Progressed: 255 (Ranked 327)  
+Completed: 17 (6.67%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 17 (6.69%) (Ranked 49)
 | 2023-10-04 | 243 | 17 |
 | 2023-10-05 | 244 | 17 |
 | 2023-10-06 | 252 | 17 |
-| 2023-10-07 | 254 | 17 |
+| 2023-10-07 | 255 | 17 |

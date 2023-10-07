@@ -16,18 +16,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,745 |
 | Capitalism Ho! | 2.00% | ~2,745 |
 | Own the Means of Production | 2.00% | ~2,745 |
-| The Daily Grind | 1.00% | ~1,372 |
-| One Easy Payment | 1.00% | ~1,372 |
-| Some Assembly Required | 1.00% | ~1,372 |
-| Bounty Hunters | 1.00% | ~1,372 |
-| Demand for Supplies | 1.00% | ~1,372 |
-| Flooding the Market | 1.00% | ~1,372 |
-| Where it Hurts | 1.00% | ~1,372 |
-| Pretty Penny | 1.00% | ~1,372 |
-| Gild-Gotten Goods | 1.00% | ~1,372 |
-| One-Armed Bandit | 1.00% | ~1,372 |
-| Dungeon Imports | 1.00% | ~1,372 |
-| Through Repetition, Perfection | 1.00% | ~1,372 |
+| The Daily Grind | 1.00% | ~1,373 |
+| One Easy Payment | 1.00% | ~1,373 |
+| Some Assembly Required | 1.00% | ~1,373 |
+| Bounty Hunters | 1.00% | ~1,373 |
+| Demand for Supplies | 1.00% | ~1,373 |
+| Flooding the Market | 1.00% | ~1,373 |
+| Where it Hurts | 1.00% | ~1,373 |
+| Pretty Penny | 1.00% | ~1,373 |
+| Gild-Gotten Goods | 1.00% | ~1,373 |
+| One-Armed Bandit | 1.00% | ~1,373 |
+| Dungeon Imports | 1.00% | ~1,373 |
+| Through Repetition, Perfection | 1.00% | ~1,373 |
 | Blank Page Syndrome | 0.90% | ~1,235 |
 | Accomplished Merchant | 0.90% | ~1,235 |
 | Did we pack lunch? | 0.90% | ~1,235 |
@@ -106,20 +106,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.30% | ~412 |
 | Eternal Crusade | 0.30% | ~412 |
 | All Accounted For | 0.30% | ~412 |
-| Bane of Legends | 0.20% | ~274 |
-| Ultimate Collector | 0.20% | ~274 |
-| Unleashed Potential | 0.20% | ~274 |
-| JACKPOT!!! | 0.20% | ~274 |
-| Anything not Nailed Down | 0.20% | ~274 |
-| The Greatest Grind | 0.20% | ~274 |
-| Marvels from the World Over | 0.20% | ~274 |
+| Bane of Legends | 0.20% | ~275 |
+| Ultimate Collector | 0.20% | ~275 |
+| Unleashed Potential | 0.20% | ~275 |
+| JACKPOT!!! | 0.20% | ~275 |
+| Anything not Nailed Down | 0.20% | ~275 |
+| The Greatest Grind | 0.20% | ~275 |
+| Marvels from the World Over | 0.20% | ~275 |
 | Oligarch Monarch | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
 | Merchant Extraordinaire | 0.10% | ~137 |
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,250 (Ranked 73)  
+Progressed: 137,254 (Ranked 73)  
 Completed: 166 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 166 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,250 | 166 |
+| 2023-10-07 | 137,254 | 166 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,346 (Ranked 49)  

@@ -20,7 +20,7 @@
 | Reaching for the stars | 0.10% | ~6 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,485 (Ranked 161)  
+Progressed: 6,486 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 6,463 | 0 |
 | 2023-10-05 | 6,472 | 0 |
 | 2023-10-06 | 6,479 | 0 |
-| 2023-10-07 | 6,485 | 0 |
+| 2023-10-07 | 6,486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

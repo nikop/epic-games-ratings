@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 28.69,
+  "EOS_Completed_Percentage": 28.46,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -661,6 +661,11 @@
       "Time": "2023-10-02T13:09:25.9441372+00:00",
       "NumProgressed": 122,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-10-07T15:09:50.0966472+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 10,
@@ -672,21 +677,21 @@
       "Name": "Beach",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 100,
       "UsersEstimate": 68
     },
@@ -696,7 +701,7 @@
       "Name": "Haunted Mansion",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_4",
@@ -718,9 +723,9 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_7",
@@ -728,7 +733,7 @@
       "Name": "Sewer",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_8",
@@ -736,7 +741,7 @@
       "Name": "Arcade",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_9",
@@ -751,14 +756,14 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:06:23.3731849+00:00",
+  "LastChanged_Achievements": "2023-10-07T15:09:50.0966466+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:00.4327305+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:57:41.5626872+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:06:23.3731975+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:00:19.2878068+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:09:50.0966645+00:00"
 }

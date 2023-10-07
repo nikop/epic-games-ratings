@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
@@ -402,9 +402,9 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_34_HAZELWOOD",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:05:12.7104868+00:00",
+  "LastChanged_Achievements": "2023-10-07T15:08:26.8919747+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-07T14:01:26.536582+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:05:12.7105216+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:04:51.3695198+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:08:26.892007+00:00"
 }

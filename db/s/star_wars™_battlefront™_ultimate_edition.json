@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 117,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1241,6 +1241,11 @@
       "Time": "2023-10-07T14:06:37.3258602+00:00",
       "NumProgressed": 483,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T15:10:06.6694371+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1285,7 +1290,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_14",
@@ -1301,7 +1306,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_16",
@@ -1317,7 +1322,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_18",
@@ -1325,7 +1330,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_19",
@@ -1349,7 +1354,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_21",
@@ -1397,7 +1402,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_27",
@@ -1429,7 +1434,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_30",
@@ -1445,7 +1450,7 @@
       "Name": "Scrap collector",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_32",
@@ -1467,9 +1472,9 @@
       "ID": "achievement_34",
       "SetID": "271ol84",
       "Name": "Best star-pilot in the galaxy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_35",
@@ -1477,7 +1482,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_36",
@@ -1485,15 +1490,15 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_38",
@@ -1509,7 +1514,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_4",
@@ -1525,15 +1530,15 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_42",
@@ -1557,7 +1562,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_45",
@@ -1565,7 +1570,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_46",
@@ -1677,7 +1682,7 @@
       "Name": "Alternative solution",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_59",
@@ -1709,7 +1714,7 @@
       "Name": "The circle is now complete",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_62",
@@ -1756,13 +1761,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 486,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 483,
+      "Progressed": 486,
       "Completed": 1
     }
   ],
@@ -1770,8 +1775,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:06:37.3258594+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-07T14:03:21.8540221+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:06:37.3259404+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:10:06.6694365+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:06:04.3640222+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:10:06.6695532+00:00"
 }

@@ -7755,9 +7755,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62850,
+  "EOS_Progressed": 62852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25835,6 +25835,11 @@
       "Time": "2023-10-07T14:05:31.8200744+00:00",
       "NumProgressed": 62850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T15:08:49.4872781+00:00",
+      "NumProgressed": 62852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25902,7 +25907,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "Crackshot",
@@ -25918,7 +25923,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "Duelist",
@@ -25942,7 +25947,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Explorer",
@@ -25974,7 +25979,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8170
+      "UsersEstimate": 8171
     },
     {
       "ID": "Great Granny",
@@ -26022,7 +26027,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "Jack of All Trades",
@@ -26038,7 +26043,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "Kingslayer",
@@ -26070,7 +26075,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20740
+      "UsersEstimate": 20741
     },
     {
       "ID": "Lawbringer",
@@ -26126,7 +26131,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "Real Estate",
@@ -26182,7 +26187,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Swordbearer",
@@ -26253,15 +26258,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62850,
+      "Progressed": 62852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-07T08:57:37.696371+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:05:31.8200738+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:57:56.7752993+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:05:31.8202722+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:08:49.4872776+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:00:37.7916915+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:08:49.487434+00:00"
 }

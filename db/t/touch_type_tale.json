@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3683,
+  "EOS_Progressed": 3684,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4089,6 +4089,11 @@
       "Time": "2023-10-07T12:07:07.9774292+00:00",
       "NumProgressed": 3683,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-07T15:07:53.8962334+00:00",
+      "NumProgressed": 3684,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4124,7 +4129,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "bonus5",
@@ -4148,7 +4153,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     },
     {
       "ID": "campaign10",
@@ -4212,7 +4217,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "campaign18",
@@ -4236,7 +4241,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "campaign20",
@@ -4356,14 +4361,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3683,
+      "Progressed": 3684,
       "Completed": 11
     }
   ],
@@ -4371,8 +4376,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:04:44.7863157+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:59:51.3600543+00:00",
-  "LastUpdate_Ratings": "2023-10-07T14:03:27.7396607+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:04:44.7864058+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:07:53.8962329+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T15:00:08.2021033+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:06:12.32429+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:07:53.8962864+00:00"
 }

@@ -41,8 +41,8 @@
 | Human Believer | 28.00% | ~31 |
 | Karakuri Minato | 28.00% | ~31 |
 | Canyon of Karakuri | 27.00% | ~29 |
+| Jack of All Trades | 27.00% | ~29 |
 | Volatile Vocation | 26.00% | ~28 |
-| Jack of All Trades | 26.00% | ~28 |
 | Superlative View | 24.00% | ~26 |
 | Quintessence of Form | 23.00% | ~25 |
 | Haven Hunter | 21.00% | ~23 |

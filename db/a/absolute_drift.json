@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543928,
+  "EOS_Progressed": 1543935,
   "EOS_Completed": 700,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19644,6 +19644,11 @@
       "Time": "2023-10-07T14:05:17.990802+00:00",
       "NumProgressed": 1543928,
       "NumCompleted": 700
+    },
+    {
+      "Time": "2023-10-07T15:08:32.9770959+00:00",
+      "NumProgressed": 1543935,
+      "NumCompleted": 700
     }
   ],
   "TotalAchievements": 20,
@@ -19695,7 +19700,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -19719,7 +19724,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -19751,7 +19756,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154393
+      "UsersEstimate": 154394
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -19799,7 +19804,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77196
+      "UsersEstimate": 77197
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -19814,15 +19819,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1543928,
+      "Progressed": 1543935,
       "Completed": 700
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:05:17.9908014+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:59:39.8553991+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:59:35.8701195+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:05:17.9909434+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:08:32.9770953+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:02:38.7284335+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:08:32.9772288+00:00"
 }

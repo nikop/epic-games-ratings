@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.20% | ~29 |
 | Via Recta Souk | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
+| Learn to Play 5 | 0.20% | ~29 |
 | Babylonia | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
 | Power to the People | 0.20% | ~29 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
-| Learn to Play 5 | 0.10% | ~14 |
 | Macedonian Wars | 0.10% | ~14 |
 | Medo-Babylonian Conquest | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,478 (Ranked 134)  
+Progressed: 14,479 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,478 | 5 |
+| 2023-10-07 | 14,479 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

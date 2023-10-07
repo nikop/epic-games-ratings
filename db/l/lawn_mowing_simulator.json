@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 670858,
+  "EOS_Progressed": 670877,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1802,
+  "EOS_NewPlayers": 1807,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21354,6 +21354,11 @@
       "Time": "2023-10-07T14:03:36.6210999+00:00",
       "NumProgressed": 670858,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-07T15:06:24.3456314+00:00",
+      "NumProgressed": 670877,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21365,7 +21370,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 536686
+      "UsersEstimate": 536702
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21373,7 +21378,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -21429,7 +21434,7 @@
       "Name": "Phoenix rises",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "COMPLETE_100_CONTRACTS",
@@ -21445,7 +21450,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26834
+      "UsersEstimate": 26835
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -21453,7 +21458,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241509
+      "UsersEstimate": 241516
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -21461,7 +21466,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -21605,7 +21610,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 207966
+      "UsersEstimate": 207972
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -21613,7 +21618,7 @@
       "Name": "Cut Loose",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "HAND_IN_100_VALUABLES",
@@ -21629,7 +21634,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -21637,7 +21642,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40251
+      "UsersEstimate": 40253
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -21669,7 +21674,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100629
+      "UsersEstimate": 100632
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -21677,7 +21682,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -21685,7 +21690,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26834
+      "UsersEstimate": 26835
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -21701,7 +21706,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -21709,7 +21714,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -21725,7 +21730,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46960
+      "UsersEstimate": 46961
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -21749,7 +21754,7 @@
       "Name": "Esteemed",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "RP_PROFESSIONAL",
@@ -21765,7 +21770,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120754
+      "UsersEstimate": 120758
     },
     {
       "ID": "RP_TRUSTED",
@@ -21773,7 +21778,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -21781,7 +21786,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 60377
+      "UsersEstimate": 60379
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -21789,22 +21794,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26834
+      "UsersEstimate": 26835
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 670858,
+      "Progressed": 670877,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-07T14:03:36.6210972+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:58:00.9118199+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:58:22.8085531+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:03:36.6214136+00:00"
+  "LastChanged_Achievements": "2023-10-07T15:06:24.3456308+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:57:45.928373+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:01:11.6914247+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:06:24.3459404+00:00"
 }

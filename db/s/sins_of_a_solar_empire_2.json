@@ -2,12 +2,12 @@
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
   "ProductSlug": "sins-of-a-solar-empire-ii",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-27T17:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2022-10-28T20:01:29.0144786+00:00",
@@ -250,6 +250,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-07T15:00:47.6368046+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -276,8 +282,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2023-10-05T14:57:26.7368448+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:57:37.2580924+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:58:04.5676195+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:04:31.1933201+00:00"
+  "LastChanged": "2023-10-07T15:00:47.6368045+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:57:31.9457768+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:00:47.636805+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:07:37.5415375+00:00"
 }

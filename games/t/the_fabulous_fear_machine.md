@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 83.00% | ~10 |
-| Master trainee | 67.00% | ~8 |
-| Jung's dream | 58.00% | ~7 |
-| The battle of Great Britain | 50.00% | ~6 |
-| Giant | 42.00% | ~5 |
-| Pulp! Terror Tales in the Night | 33.00% | ~4 |
-| Pulp! Where Monsters Dwell | 33.00% | ~4 |
-| A continent with chemistry | 33.00% | ~4 |
-| The happy farmer girl | 33.00% | ~4 |
-| The artist | 25.00% | ~3 |
-| Kirlian's best disciple | 25.00% | ~3 |
-| Diagnosis: fear | 25.00% | ~3 |
-| Ambition is... blind | 25.00% | ~3 |
-| You have two wishes left | 25.00% | ~3 |
-| A rival with no options | 17.00% | ~2 |
-| The seer | 17.00% | ~2 |
-| Pulp! Out of this World | 17.00% | ~2 |
-| Pulp! Adventures into the Unknown | 17.00% | ~2 |
+| You have three wishes left | 85.00% | ~11 |
+| Master trainee | 69.00% | ~9 |
+| Jung's dream | 54.00% | ~7 |
+| The battle of Great Britain | 46.00% | ~6 |
+| Giant | 38.00% | ~5 |
+| Pulp! Terror Tales in the Night | 31.00% | ~4 |
+| Pulp! Where Monsters Dwell | 31.00% | ~4 |
+| A continent with chemistry | 31.00% | ~4 |
+| The happy farmer girl | 31.00% | ~4 |
+| The artist | 23.00% | ~3 |
+| Kirlian's best disciple | 23.00% | ~3 |
+| Diagnosis: fear | 23.00% | ~3 |
+| Ambition is... blind | 23.00% | ~3 |
+| You have two wishes left | 23.00% | ~3 |
+| A rival with no options | 15.00% | ~2 |
+| The seer | 15.00% | ~2 |
+| Pulp! Out of this World | 15.00% | ~2 |
+| Pulp! Adventures into the Unknown | 15.00% | ~2 |
 | You've awakened the beast | 8.00% | ~1 |
 | Hate is... addictive | 8.00% | ~1 |
 | You had one wish left | 8.00% | ~1 |
@@ -52,7 +52,7 @@
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 507)  
+Progressed: 13 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-09-27 | 3 | 0 |
 | 2023-10-04 | 6 | 0 |
 | 2023-10-06 | 9 | 0 |
-| 2023-10-07 | 12 | 0 |
+| 2023-10-07 | 13 | 0 |

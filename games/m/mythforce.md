@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 23.00% | ~885 |
-| Debuff Dogpile | 21.00% | ~808 |
-| Hit 'Em Where It Hurts | 21.00% | ~808 |
-| Perk Shard Punch Card | 21.00% | ~808 |
-| That'll Leave a Mark | 21.00% | ~808 |
+| Faceroll the Bones | 23.00% | ~886 |
+| Debuff Dogpile | 21.00% | ~809 |
+| Hit 'Em Where It Hurts | 21.00% | ~809 |
+| Perk Shard Punch Card | 21.00% | ~809 |
+| That'll Leave a Mark | 21.00% | ~809 |
 | Mushroom Madness! | 20.00% | ~770 |
-| First Strike | 17.00% | ~654 |
-| Spending Spree | 17.00% | ~654 |
+| First Strike | 17.00% | ~655 |
+| Spending Spree | 17.00% | ~655 |
 | Horder Better Faster Stronger | 16.00% | ~616 |
-| Everything Must Go! | 13.00% | ~500 |
-| Ten Steps from the Grave | 13.00% | ~500 |
+| Everything Must Go! | 13.00% | ~501 |
+| Ten Steps from the Grave | 13.00% | ~501 |
 | Next Time on MythForce... | 12.00% | ~462 |
 | Cold-Blooded Critters | 10.00% | ~385 |
 | Death Becomes You | 8.00% | ~308 |
 | Flawless Victory | 6.00% | ~231 |
 | The Harder They Fall | 6.00% | ~231 |
-| On this Episode! | 5.00% | ~192 |
-| Deadication | 3.00% | ~115 |
-| We've Got a Kaiju on the Field | 3.00% | ~115 |
-| Season Finale | 3.00% | ~115 |
-| The Fourth Gate | 1.00% | ~38 |
+| On this Episode! | 5.00% | ~193 |
+| Deadication | 3.00% | ~116 |
+| We've Got a Kaiju on the Field | 3.00% | ~116 |
+| Season Finale | 3.00% | ~116 |
+| The Fourth Gate | 1.00% | ~39 |
 | Vexed Her | 0.30% | ~12 |
 | Deadalus and Loving It | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,849 (Ranked 177)  
+Progressed: 3,852 (Ranked 177)  
 Completed: 2 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 2 (0.05%) (Ranked 265)
 | 2023-10-04 | 3,744 | 2 |
 | 2023-10-05 | 3,782 | 2 |
 | 2023-10-06 | 3,820 | 2 |
-| 2023-10-07 | 3,849 | 2 |
+| 2023-10-07 | 3,852 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 459)  
 Sum: 282 (Ranked 354)  

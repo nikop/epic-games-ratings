@@ -2,12 +2,12 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 371,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 6460,
   "RatingHistory": [
     {
@@ -6394,6 +6394,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 3633,
       "NumberOfAwardsMax": 475
+    },
+    {
+      "Time": "2023-10-07T15:02:32.7791047+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3633,
+      "NumberOfAwardsMax": 475
     }
   ],
   "ReviewsDisabled": false,
@@ -6473,8 +6479,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-10-07T13:01:30.4023961+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T13:58:52.5027017+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:59:30.3014166+00:00",
-  "LastUpdate_Achievements": "2023-10-07T14:04:42.3930794+00:00"
+  "LastChanged": "2023-10-07T15:02:32.7791046+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T14:58:45.8176459+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:02:32.7791055+00:00",
+  "LastUpdate_Achievements": "2023-10-07T15:07:50.8671247+00:00"
 }

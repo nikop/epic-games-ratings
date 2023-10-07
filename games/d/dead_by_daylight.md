@@ -6,70 +6,70 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.70% | ~6,469 |
-| It wakes | 0.70% | ~6,469 |
-| Skillful | 0.60% | ~5,545 |
+| Zealous | 0.70% | ~6,470 |
+| It wakes | 0.70% | ~6,470 |
+| Skillful | 0.60% | ~5,546 |
 | Handyman | 0.50% | ~4,621 |
 | Not half bad | 0.50% | ~4,621 |
 | Apt Survivor | 0.50% | ~4,621 |
 | Survival Treasures | 0.50% | ~4,621 |
+| Sorted | 0.50% | ~4,621 |
 | Make Some Noise | 0.50% | ~4,621 |
-| The Grand Sacrifice | 0.40% | ~3,696 |
-| No one left behind | 0.40% | ~3,696 |
-| Medic | 0.40% | ~3,696 |
-| Nerves of steel | 0.40% | ~3,696 |
-| Perfect Escape | 0.40% | ~3,696 |
-| Bloody Millionaire | 0.40% | ~3,696 |
-| I | 0.40% | ~3,696 |
-| Sorted | 0.40% | ~3,696 |
-| Healthy Obsession | 0.40% | ~3,696 |
-| Resurgence | 0.40% | ~3,696 |
-| Preemptive Strike | 0.40% | ~3,696 |
-| Humanitarian | 0.40% | ~3,696 |
-| Agonizing Escape | 0.30% | ~2,772 |
-| Backdoor Escape | 0.30% | ~2,772 |
-| I've got your back | 0.30% | ~2,772 |
-| Perfect Killing | 0.30% | ~2,772 |
-| Apt Killer | 0.30% | ~2,772 |
-| Risk it all | 0.30% | ~2,772 |
-| Vulture | 0.30% | ~2,772 |
-| II | 0.30% | ~2,772 |
-| Engineer | 0.30% | ~2,772 |
-| Wounded Healer | 0.30% | ~2,772 |
-| Close Shave | 0.30% | ~2,772 |
-| Second Act | 0.30% | ~2,772 |
-| Blood on your hands | 0.20% | ~1,848 |
-| Escape Artist | 0.20% | ~1,848 |
-| Made it out alive! | 0.20% | ~1,848 |
-| Gifts for the Fog | 0.20% | ~1,848 |
-| III | 0.20% | ~1,848 |
-| III-50 | 0.20% | ~1,848 |
-| Shock Therapy | 0.20% | ~1,848 |
-| All Aboard | 0.20% | ~1,848 |
-| Item of Obsession | 0.20% | ~1,848 |
-| House of Pain | 0.20% | ~1,848 |
-| Cottage Owner | 0.20% | ~1,848 |
-| Holiday Get-Together | 0.20% | ~1,848 |
-| Near-Death Experience | 0.20% | ~1,848 |
-| Cherish your Life | 0.20% | ~1,848 |
-| Campbell's Chapel Legacy | 0.20% | ~1,848 |
-| Ancestor's Rite | 0.20% | ~1,848 |
-| Unforgettable Getaway | 0.20% | ~1,848 |
-| Cutting Out | 0.20% | ~1,848 |
-| Outrun Evil | 0.20% | ~1,848 |
-| First to the Punch | 0.20% | ~1,848 |
-| Operation: Survival | 0.20% | ~1,848 |
-| Old West Oasis | 0.20% | ~1,848 |
-| Classy Act | 0.20% | ~1,848 |
-| Every Last Drop | 0.20% | ~1,848 |
-| Raccoon City Recruit | 0.20% | ~1,848 |
-| With Scars to Show | 0.20% | ~1,848 |
-| Flight to Freedom | 0.20% | ~1,848 |
-| A Fast Death | 0.20% | ~1,848 |
-| Lifting The Fog | 0.20% | ~1,848 |
-| Chorus of Chaos | 0.20% | ~1,848 |
-| One More Step | 0.20% | ~1,848 |
-| MU/TH/UR Dearest | 0.20% | ~1,848 |
+| The Grand Sacrifice | 0.40% | ~3,697 |
+| Agonizing Escape | 0.40% | ~3,697 |
+| No one left behind | 0.40% | ~3,697 |
+| Medic | 0.40% | ~3,697 |
+| Nerves of steel | 0.40% | ~3,697 |
+| Perfect Escape | 0.40% | ~3,697 |
+| Bloody Millionaire | 0.40% | ~3,697 |
+| I | 0.40% | ~3,697 |
+| Engineer | 0.40% | ~3,697 |
+| Healthy Obsession | 0.40% | ~3,697 |
+| Resurgence | 0.40% | ~3,697 |
+| Preemptive Strike | 0.40% | ~3,697 |
+| Humanitarian | 0.40% | ~3,697 |
+| Backdoor Escape | 0.30% | ~2,773 |
+| I've got your back | 0.30% | ~2,773 |
+| Perfect Killing | 0.30% | ~2,773 |
+| Apt Killer | 0.30% | ~2,773 |
+| Risk it all | 0.30% | ~2,773 |
+| Vulture | 0.30% | ~2,773 |
+| II | 0.30% | ~2,773 |
+| Wounded Healer | 0.30% | ~2,773 |
+| Close Shave | 0.30% | ~2,773 |
+| Second Act | 0.30% | ~2,773 |
+| Blood on your hands | 0.20% | ~1,849 |
+| Escape Artist | 0.20% | ~1,849 |
+| Made it out alive! | 0.20% | ~1,849 |
+| Gifts for the Fog | 0.20% | ~1,849 |
+| III | 0.20% | ~1,849 |
+| III-50 | 0.20% | ~1,849 |
+| Shock Therapy | 0.20% | ~1,849 |
+| All Aboard | 0.20% | ~1,849 |
+| Item of Obsession | 0.20% | ~1,849 |
+| House of Pain | 0.20% | ~1,849 |
+| Cottage Owner | 0.20% | ~1,849 |
+| Holiday Get-Together | 0.20% | ~1,849 |
+| Near-Death Experience | 0.20% | ~1,849 |
+| Cherish your Life | 0.20% | ~1,849 |
+| Campbell's Chapel Legacy | 0.20% | ~1,849 |
+| Ancestor's Rite | 0.20% | ~1,849 |
+| Unforgettable Getaway | 0.20% | ~1,849 |
+| Cutting Out | 0.20% | ~1,849 |
+| Outrun Evil | 0.20% | ~1,849 |
+| First to the Punch | 0.20% | ~1,849 |
+| Operation: Survival | 0.20% | ~1,849 |
+| Old West Oasis | 0.20% | ~1,849 |
+| Classy Act | 0.20% | ~1,849 |
+| Every Last Drop | 0.20% | ~1,849 |
+| Raccoon City Recruit | 0.20% | ~1,849 |
+| With Scars to Show | 0.20% | ~1,849 |
+| Flight to Freedom | 0.20% | ~1,849 |
+| A Fast Death | 0.20% | ~1,849 |
+| Lifting The Fog | 0.20% | ~1,849 |
+| Chorus of Chaos | 0.20% | ~1,849 |
+| One More Step | 0.20% | ~1,849 |
+| MU/TH/UR Dearest | 0.20% | ~1,849 |
 | A bite for the Entity | 0.10% | ~924 |
 | A feast for the Entity | 0.10% | ~924 |
 | Blood on your face | 0.10% | ~924 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~924 |
 | Adept Ripley | 0.10% | ~924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 924,110 (Ranked 14)  
+Progressed: 924,254 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,22 +406,22 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 924,110 | 49 |
+| 2023-10-07 | 924,254 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
-Sum: 260,035 (Ranked 13)  
+Sum: 260,102 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,543 |
 | This game is Highly Recommended | 29,722 |
 | This game has Competitive Players | 29,423 |
-| This game has Amazing Characters | 29,364 |
+| This game has Amazing Characters | 29,398 |
 | This game is Extremely Fun | 29,023 |
 | This game has Challenging Combat | 28,622 |
 | This game has Quickly Understood Controls | 28,564 |
 | This game has Amazing Storytelling | 26,639 |
-| This game has a Competitive Community | 25,135 |
+| This game has a Competitive Community | 25,168 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -683,4 +683,4 @@ Diff (max vs sum): 2
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
-| 2023-10-07 | 4.52 | - | 33,543 | 260,035 |
+| 2023-10-07 | 4.52 | - | 33,543 | 260,102 |
