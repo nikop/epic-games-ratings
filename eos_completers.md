@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.15% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.99% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.01% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.43% |
@@ -48,7 +48,7 @@
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.64% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -66,7 +66,7 @@
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.99% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.98% |
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
@@ -100,7 +100,7 @@
 | 98 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
 | 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.30% |
+| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.29% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
@@ -154,9 +154,9 @@
 | 152 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.65% |
 | 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 156 | [Haven](games/h/haven.md) | 0.61% |
-| 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.61% |
+| 155 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
+| 156 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 157 | [Haven](games/h/haven.md) | 0.61% |
 | 158 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
 | 159 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 160 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
@@ -198,11 +198,11 @@
 | 196 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 196 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 199 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 199 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 199 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
-| 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 201 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 201 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
+| 201 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 204 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 204 | [The Devil's Face](games/t/the_devil's_face.md) | 0.28% |
 | 206 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.27% |
