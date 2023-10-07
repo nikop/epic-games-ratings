@@ -253,9 +253,9 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "16",
@@ -293,9 +293,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "20",
@@ -429,9 +429,9 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -446,8 +446,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:07:52.4756732+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:04:18.5249444+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.5381929+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:02:00.2248569+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:07:52.4756975+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:58:19.0349093+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:04:18.5249632+00:00"
 }

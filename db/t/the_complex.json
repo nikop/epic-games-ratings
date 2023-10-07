@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
@@ -642,6 +642,11 @@
       "Time": "2023-10-06T00:03:58.182523+00:00",
       "NumProgressed": 563,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-07T16:04:34.1029092+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -725,7 +730,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ending_8",
@@ -741,7 +746,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "free_champagne",
@@ -749,7 +754,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "kamikaze",
@@ -757,7 +762,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "kindar_surprise",
@@ -805,14 +810,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 19
     }
   ],
@@ -820,8 +825,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:08:14.2876901+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:04:34.1029087+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:10.2608398+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:04:40.3197224+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:08:14.2877097+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:00:11.0368104+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:04:34.102924+00:00"
 }

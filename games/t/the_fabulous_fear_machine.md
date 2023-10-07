@@ -7,7 +7,7 @@
 | You have three wishes left | 85.00% | ~11 |
 | Master trainee | 69.00% | ~9 |
 | Jung's dream | 54.00% | ~7 |
-| The battle of Great Britain | 46.00% | ~6 |
+| The battle of Great Britain | 54.00% | ~7 |
 | Giant | 38.00% | ~5 |
 | Pulp! Terror Tales in the Night | 31.00% | ~4 |
 | Pulp! Where Monsters Dwell | 31.00% | ~4 |

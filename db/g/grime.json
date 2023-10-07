@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 418,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 69,
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150949,
+  "EOS_Progressed": 150962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10839,6 +10839,11 @@
       "Time": "2023-10-07T15:09:02.8976241+00:00",
       "NumProgressed": 150949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T16:05:08.4265946+00:00",
+      "NumProgressed": 150962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11048,9 +11053,9 @@
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 604
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -11217,21 +11222,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150532,
+      "Progressed": 150545,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150949,
+      "Progressed": 150962,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:09:02.8976236+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:05:08.4265941+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:04:37.6167875+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:09:02.8977233+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:00:09.315203+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:05:08.4266741+00:00"
 }

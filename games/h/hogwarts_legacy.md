@@ -5,53 +5,53 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,692 |
-| First Class Student | 13.00% | ~38,733 |
-| Troll with the Punches | 13.00% | ~38,733 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,693 |
+| First Class Student | 13.00% | ~38,734 |
+| Troll with the Punches | 13.00% | ~38,734 |
 | A Keen Sense of Spell | 12.00% | ~35,754 |
 | That's a Keeper | 12.00% | ~35,754 |
-| The Hallowed Hero | 11.00% | ~32,774 |
-| The Defender of Dragons | 11.00% | ~32,774 |
-| Loom for Improvement | 11.00% | ~32,774 |
-| A Talent for Spending | 11.00% | ~32,774 |
+| The Hallowed Hero | 11.00% | ~32,775 |
+| The Defender of Dragons | 11.00% | ~32,775 |
+| Loom for Improvement | 11.00% | ~32,775 |
+| A Talent for Spending | 11.00% | ~32,775 |
 | Grappling with a Graphorn | 10.00% | ~29,795 |
 | The One Who Mastered Memories | 10.00% | ~29,795 |
 | The Hero of Hogwarts | 10.00% | ~29,795 |
 | Challenge Accepted | 10.00% | ~29,795 |
 | Coasting Along | 10.00% | ~29,795 |
-| Followed the Butterflies | 9.00% | ~26,815 |
-| Rising From the Ashes | 9.00% | ~26,815 |
+| Followed the Butterflies | 9.00% | ~26,816 |
+| Rising From the Ashes | 9.00% | ~26,816 |
 | The Avenging Gazelle | 8.00% | ~23,836 |
 | A Sallow Grave | 8.00% | ~23,836 |
 | Flight the Good Flight | 8.00% | ~23,836 |
 | The Spell Master | 8.00% | ~23,836 |
-| Beast Friends | 7.00% | ~20,856 |
+| Beast Friends | 7.00% | ~20,857 |
 | The Seeker of Knowledge | 6.00% | ~17,877 |
 | The Root of the Problem | 6.00% | ~17,877 |
 | Third Time's a Charm | 6.00% | ~17,877 |
 | Raising Expectations | 6.00% | ~17,877 |
-| The Ends Petrify the Means | 5.00% | ~14,897 |
+| The Ends Petrify the Means | 5.00% | ~14,898 |
 | The Toast of the Town | 4.00% | ~11,918 |
 | Going Through the Potions | 4.00% | ~11,918 |
 | Room with a View | 4.00% | ~11,918 |
 | The Intrepid Explorer | 4.00% | ~11,918 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,918 |
 | The Wise Owl | 4.00% | ~11,918 |
-| Put Down Roots | 3.00% | ~8,938 |
-| The Auror's Apprentice | 3.00% | ~8,938 |
-| Floo Around the World | 3.00% | ~8,938 |
+| Put Down Roots | 3.00% | ~8,939 |
+| The Auror's Apprentice | 3.00% | ~8,939 |
+| Floo Around the World | 3.00% | ~8,939 |
 | The Good Samaritan | 2.00% | ~5,959 |
 | Rise to the Challenges | 2.00% | ~5,959 |
 | Finishing Touches | 2.00% | ~5,959 |
-| Savvy Spender | 1.00% | ~2,979 |
-| Merlin's Beard! | 1.00% | ~2,979 |
-| Demiguise Dread | 1.00% | ~2,979 |
-| A Forte for Achievement | 1.00% | ~2,979 |
+| Savvy Spender | 1.00% | ~2,980 |
+| Merlin's Beard! | 1.00% | ~2,980 |
+| Demiguise Dread | 1.00% | ~2,980 |
+| A Forte for Achievement | 1.00% | ~2,980 |
 | Spilled Milk | 0.80% | ~2,384 |
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,948 (Ranked 46)  
+Progressed: 297,953 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,14 +221,14 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
-| 2023-10-07 | 297,948 | 482 |
+| 2023-10-07 | 297,953 | 482 |
 ## Awards
-Max (Character Customization): 23,322  (Ranked 17)  
-Sum: 45,209 (Ranked 31)  
+Max (Character Customization): 23,347  (Ranked 17)  
+Sum: 45,236 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,322 |
+| This game has Inclusive Character Customization | 23,347 |
 | This game has Great Boss Battles | 11,614 |
 | This game is Great for Beginners | 1,149 |
 | This game has Amazing Storytelling | 1,118 |
@@ -239,7 +239,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 1,053 |
 | This game has Quickly Understood Controls | 991 |
 | This game has Beautiful Visuals | 916 |
-| This game has a Creative Community | 686 |
+| This game has a Creative Community | 688 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -440,4 +440,4 @@ Diff (max vs sum): -14
 | 2023-10-04 | 4.76 | 23,277 | 45,048 |
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
-| 2023-10-07 | 4.76 | 23,322 | 45,209 |
+| 2023-10-07 | 4.76 | 23,347 | 45,236 |

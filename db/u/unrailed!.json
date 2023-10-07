@@ -2702,9 +2702,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 651716,
+  "EOS_Progressed": 651752,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2985,
+  "EOS_NewPlayers": 2966,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21877,6 +21877,11 @@
       "Time": "2023-10-07T15:07:48.2100825+00:00",
       "NumProgressed": 651716,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-07T16:04:15.6272008+00:00",
+      "NumProgressed": 651752,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -21888,7 +21893,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 97757
+      "UsersEstimate": 97763
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -21896,7 +21901,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71689
+      "UsersEstimate": 71693
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -21904,7 +21909,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19551
+      "UsersEstimate": 19553
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -21928,7 +21933,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110792
+      "UsersEstimate": 110798
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -21936,7 +21941,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84723
+      "UsersEstimate": 84728
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -21944,7 +21949,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19551
+      "UsersEstimate": 19553
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -21968,7 +21973,7 @@
       "Name": "Expert Stroller",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19551
+      "UsersEstimate": 19553
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -21976,7 +21981,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -21984,7 +21989,7 @@
       "Name": "Expert Voyager",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "_01_13_DISTANCE_1000_HARD",
@@ -21992,7 +21997,7 @@
       "Name": "Expert Wayfarer",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "_01_14_DISTANCE_2000_HARD",
@@ -22008,7 +22013,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84723
+      "UsersEstimate": 84728
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -22016,7 +22021,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19551
+      "UsersEstimate": 19553
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -22056,7 +22061,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -22088,7 +22093,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19551
+      "UsersEstimate": 19553
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -22136,7 +22141,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 110792
+      "UsersEstimate": 110798
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -22144,7 +22149,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39103
+      "UsersEstimate": 39105
     },
     {
       "ID": "_03_02_NANUK",
@@ -22152,7 +22157,7 @@
       "Name": "Nanuk",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "_03_03_SATANS_MINION",
@@ -22200,7 +22205,7 @@
       "Name": "Lost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "_11_00_CLIMATE_CHANGE",
@@ -22208,7 +22213,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 97757
+      "UsersEstimate": 97763
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -22272,7 +22277,7 @@
       "Name": "Dynamite Fishing",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "_13_00_FIREWORKS",
@@ -22296,22 +22301,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32586
+      "UsersEstimate": 32588
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 651716,
+      "Progressed": 651752,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-04T05:59:05.8238012+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:07:48.2100818+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:04:15.6272004+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7369498+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:03:38.443107+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:07:48.2103045+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:59:29.7682944+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:04:15.6273242+00:00"
 }

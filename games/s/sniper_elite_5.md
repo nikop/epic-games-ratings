@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,705 |
-| Confirming Suspicions | 41.00% | ~1,519 |
-| The Kraken Wakes | 36.00% | ~1,334 |
-| It's Starting to Crack | 33.00% | ~1,223 |
+| Meeting Resistance | 46.00% | ~1,706 |
+| Confirming Suspicions | 41.00% | ~1,520 |
+| The Kraken Wakes | 36.00% | ~1,335 |
+| It's Starting to Crack | 33.00% | ~1,224 |
 | Lord of War | 30.00% | ~1,112 |
 | Change the Channel | 30.00% | ~1,112 |
 | Taking it back | 28.00% | ~1,038 |
 | Resourceful | 27.00% | ~1,001 |
 | Target America | 26.00% | ~964 |
-| The Kraken Sleeps | 24.00% | ~889 |
-| Liberté | 22.00% | ~815 |
-| Organ Grinder | 22.00% | ~815 |
-| As Quiet as a Mouse | 22.00% | ~815 |
-| Sharpshooter | 21.00% | ~778 |
-| Explosive Efficiency | 19.00% | ~704 |
+| The Kraken Sleeps | 24.00% | ~890 |
+| Liberté | 22.00% | ~816 |
+| Organ Grinder | 22.00% | ~816 |
+| As Quiet as a Mouse | 22.00% | ~816 |
+| Sharpshooter | 21.00% | ~779 |
+| Explosive Efficiency | 19.00% | ~705 |
 | Gunslinger | 18.00% | ~667 |
 | Just a Flesh Wound | 17.00% | ~630 |
 | Climbing the Ladder | 16.00% | ~593 |
@@ -36,8 +36,8 @@ Rating: 4.45 (Ranked 644)
 | Set Europe Ablaze | 13.00% | ~482 |
 | Precision Is Key | 9.00% | ~334 |
 | My Little Friend | 9.00% | ~334 |
-| Rigged to Blow | 8.00% | ~296 |
-| Herr Today, Gone Tomorrow | 6.00% | ~219 |
+| Rigged to Blow | 8.00% | ~297 |
+| Herr Today, Gone Tomorrow | 6.00% | ~220 |
 | The Long Game | 5.00% | ~185 |
 | Tinkerer | 5.00% | ~185 |
 | It'll Buff Right Out | 5.00% | ~185 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,706 (Ranked 178)  
+Progressed: 3,708 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 11 (0.30%) (Ranked 199)
 | 2023-10-04 | 3,697 | 11 |
 | 2023-10-05 | 3,700 | 11 |
 | 2023-10-06 | 3,703 | 11 |
-| 2023-10-07 | 3,706 | 11 |
+| 2023-10-07 | 3,708 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

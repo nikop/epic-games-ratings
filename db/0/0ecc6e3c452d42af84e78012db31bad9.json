@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3376,
+  "EOS_Progressed": 3377,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -7621,6 +7621,11 @@
       "Time": "2023-10-07T13:08:57.0042717+00:00",
       "NumProgressed": 3376,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-07T16:06:08.4901885+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 16,
@@ -7720,7 +7725,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ach_game_opened",
@@ -7728,7 +7733,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "ach_magic_wand",
@@ -7752,21 +7757,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3376,
+      "Progressed": 3377,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:10:27.1336188+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:06:08.4901881+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:03:50.9464629+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:10:27.1337001+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:59:38.2435784+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:08.4902324+00:00"
 }

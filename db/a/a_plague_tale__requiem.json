@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13488,
+  "EOS_Progressed": 13489,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9732,6 +9732,11 @@
       "Time": "2023-10-07T14:05:35.6638592+00:00",
       "NumProgressed": 13488,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T16:05:02.2973453+00:00",
+      "NumProgressed": 13489,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9743,7 +9748,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12409
+      "UsersEstimate": 12410
     },
     {
       "ID": "ACH_02",
@@ -9759,7 +9764,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "ACH_04",
@@ -9775,7 +9780,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9172
+      "UsersEstimate": 9173
     },
     {
       "ID": "ACH_06",
@@ -9783,7 +9788,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8767
+      "UsersEstimate": 8768
     },
     {
       "ID": "ACH_07",
@@ -9807,7 +9812,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7688
+      "UsersEstimate": 7689
     },
     {
       "ID": "ACH_10",
@@ -9823,7 +9828,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6610
     },
     {
       "ID": "ACH_12",
@@ -9831,7 +9836,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     },
     {
       "ID": "ACH_13",
@@ -9839,7 +9844,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     },
     {
       "ID": "ACH_14",
@@ -9871,7 +9876,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "ACH_18",
@@ -9927,7 +9932,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACH_25",
@@ -9935,7 +9940,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ACH_26",
@@ -9991,7 +9996,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ACH_33",
@@ -9999,7 +10004,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ACH_34",
@@ -10022,7 +10027,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13488,
+      "Progressed": 13489,
       "Completed": 49
     }
   ],
@@ -10030,8 +10035,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-06T02:59:26.9229795+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:08:54.1986276+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:05:02.2973447+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:02:51.2094224+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:08:54.1987414+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:58:55.3428232+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:05:02.2974094+00:00"
 }

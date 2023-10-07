@@ -1,16 +1,16 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.59 (Ranked 418)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,360 |
-| Alt+F4 | 6.00% | ~13,755 |
+| Sowwy! | 32.00% | ~73,365 |
+| Alt+F4 | 6.00% | ~13,756 |
 | Where's that freaking Dwarf? | 5.00% | ~11,463 |
-| Déjà vu | 4.00% | ~9,170 |
-| Sock! SOCK! | 4.00% | ~9,170 |
+| Déjà vu | 4.00% | ~9,171 |
+| Sock! SOCK! | 4.00% | ~9,171 |
 | A beer, two curses, three companions | 3.00% | ~6,878 |
 | GG EZ | 3.00% | ~6,878 |
 | DM intervention | 3.00% | ~6,878 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,251 (Ranked 59)  
+Progressed: 229,265 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 5 (0.00%) (Ranked 308)
 | 2023-10-04 | 228,696 | 5 |
 | 2023-10-05 | 228,876 | 5 |
 | 2023-10-06 | 229,103 | 5 |
-| 2023-10-07 | 229,251 | 5 |
+| 2023-10-07 | 229,265 | 5 |
 ## Awards
 Max (Character Customization): 208  (Ranked 274)  
 Sum: 407 (Ranked 325)  

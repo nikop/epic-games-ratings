@@ -20,10 +20,10 @@ Rating: 4.68 (Ranked 242)
 | Fishing fanatic | 5.00% | ~35 |
 | The word around is... | 5.00% | ~35 |
 | The cycle acknowledged | 5.00% | ~35 |
+| Queen | 5.00% | ~35 |
 | Baba Yaga | 5.00% | ~35 |
 | Extensive retelling | 4.00% | ~28 |
 | Favorite | 4.00% | ~28 |
-| Queen | 4.00% | ~28 |
 | Specialist | 4.00% | ~28 |
 | Goal! | 3.00% | ~21 |
 | Both sides | 3.00% | ~21 |

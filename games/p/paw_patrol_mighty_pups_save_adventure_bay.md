@@ -7,8 +7,8 @@
 | Mighty Powers | 78.00% | ~25 |
 | Grand Re-Opening | 66.00% | ~21 |
 | Pup Pup Boogie | 66.00% | ~21 |
-| Summer Day | 63.00% | ~20 |
-| Mr. Porter | 53.00% | ~17 |
+| Summer Day | 66.00% | ~21 |
+| Mr. Porter | 56.00% | ~18 |
 | Risky Rescue | 53.00% | ~17 |
 | Carlos Is Tangled | 47.00% | ~15 |
 | Mandy Family | 44.00% | ~14 |
@@ -20,8 +20,8 @@
 | Training Day | 28.00% | ~9 |
 | The Fastest | 28.00% | ~9 |
 | Never Miss | 28.00% | ~9 |
+| Adventure Bay’s Citizen | 28.00% | ~9 |
 | Don’t Miss Any | 25.00% | ~8 |
-| Adventure Bay’s Citizen | 25.00% | ~8 |
 | Animal Sighting | 22.00% | ~7 |
 | Mountain and Ice | 22.00% | ~7 |
 | In the Air | 19.00% | ~6 |

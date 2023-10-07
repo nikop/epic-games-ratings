@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3410,9 +3410,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73248,
+  "EOS_Progressed": 73249,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17905,6 +17905,11 @@
       "Time": "2023-10-07T15:10:38.3531316+00:00",
       "NumProgressed": 73248,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-07T16:06:16.6366796+00:00",
+      "NumProgressed": 73249,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18292,7 +18297,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20509
+      "UsersEstimate": 20510
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18308,7 +18313,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24904
+      "UsersEstimate": 24905
     },
     {
       "ID": "MYSTERY_02",
@@ -18403,13 +18408,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73248,
+      "Progressed": 73249,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43528,
+      "Progressed": 43529,
       "Completed": 2666
     }
   ],
@@ -18417,8 +18422,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T13:01:10.8428931+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:10:38.353131+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:06:16.6366788+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:02:09.9155009+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:10:38.3533679+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:58:25.5007298+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:16.6367901+00:00"
 }

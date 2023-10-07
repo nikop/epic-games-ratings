@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -346,7 +346,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1999,
+  "EOS_Progressed": 2000,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -5931,6 +5931,11 @@
       "Time": "2023-10-06T23:06:33.7449191+00:00",
       "NumProgressed": 1999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T16:06:02.6814596+00:00",
+      "NumProgressed": 2000,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6012,9 +6017,9 @@
       "ID": "conqueror",
       "SetID": "3nl4bcg",
       "Name": "Conqueror",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "crystalmining",
@@ -6220,9 +6225,9 @@
       "ID": "jewelenchanting",
       "SetID": "3nl4bcg",
       "Name": "Jewel Enchanting",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "legendary",
@@ -6334,7 +6339,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "prestigiousx10",
@@ -6380,9 +6385,9 @@
       "ID": "silverwoodliberator",
       "SetID": "3nl4bcg",
       "Name": "Silverwood liberator",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "superior",
@@ -6398,7 +6403,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "thealchemist",
@@ -6502,7 +6507,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "warmachinesarmy",
@@ -6534,14 +6539,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1999,
+      "Progressed": 2000,
       "Completed": 2
     }
   ],
@@ -6549,8 +6554,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-06T14:03:16.1710301+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:10:18.5494699+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:06:02.6814591+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:05:22.4946326+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:10:18.5495885+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:03:08.9594246+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:02.6815456+00:00"
 }

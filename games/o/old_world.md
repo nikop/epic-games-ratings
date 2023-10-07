@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.90% | ~130 |
 | Intrepid | 0.80% | ~116 |
 | Hanging Gardens | 0.80% | ~116 |
+| Kushite Paganism | 0.80% | ~116 |
 | Able | 0.70% | ~101 |
 | Architect | 0.70% | ~101 |
 | Good | 0.70% | ~101 |
@@ -21,20 +22,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.70% | ~101 |
 | Strong | 0.70% | ~101 |
 | Trade Caravan | 0.70% | ~101 |
-| Kushite Paganism | 0.70% | ~101 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
+| Keystone | 0.60% | ~87 |
 | Oracle | 0.60% | ~87 |
 | Judaism | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
 | Naming Landmarks | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
 | Enlightened | 0.50% | ~72 |
-| Keystone | 0.50% | ~72 |
 | Magnificent | 0.50% | ~72 |
 | Warrior | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
 | Developing Cities | 0.50% | ~72 |
+| Strong Cities | 0.50% | ~72 |
 | Great Ziggurat | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
-| Strong Cities | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
 | Furious Family | 0.40% | ~58 |
 | Musaeum | 0.40% | ~58 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,479 (Ranked 134)  
+Progressed: 14,482 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,15 +519,15 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,479 | 5 |
+| 2023-10-07 | 14,482 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
-Sum: 1,828 (Ranked 208)  
+Sum: 1,829 (Ranked 208)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 223 |
-| This game has Diverse Characters | 211 |
+| This game has Diverse Characters | 212 |
 | This game is Highly Recommended | 211 |
 | This game is Extremely Fun | 210 |
 | This game is Educational | 209 |
@@ -678,4 +678,4 @@ Diff (max vs sum): 58
 | 2023-09-29 | 4.65 | - | 223 | 1,824 |
 | 2023-10-01 | 4.65 | - | 223 | 1,826 |
 | 2023-10-05 | 4.65 | - | 223 | 1,827 |
-| 2023-10-07 | 4.65 | - | 223 | 1,828 |
+| 2023-10-07 | 4.65 | - | 223 | 1,829 |

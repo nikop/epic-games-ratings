@@ -4,11 +4,11 @@
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 966,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6344,10 +6344,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27346,
       "NumberOfAwardsMax": 4776
+    },
+    {
+      "Time": "2023-10-07T15:57:52.9668866+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27352,
+      "NumberOfAwardsMax": 4776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27346,
+  "NumberOfAwards": 27352,
   "NumberOfAwardsMax": 4776,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6361,7 +6367,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3905
+      "Count": 3909
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6373,7 +6379,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3696
+      "Count": 3698
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6400,9 +6406,9 @@
       "Count": 3757
     }
   ],
-  "EOS_Progressed": 137254,
+  "EOS_Progressed": 137259,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23835,6 +23841,11 @@
       "Time": "2023-10-07T15:09:07.6287304+00:00",
       "NumProgressed": 137254,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-10-07T16:05:11.9249986+00:00",
+      "NumProgressed": 137259,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 112,
@@ -24741,15 +24752,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137254,
+      "Progressed": 137259,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-07T11:58:54.8635881+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:09:07.6287301+00:00",
+  "LastChanged": "2023-10-07T15:57:52.9668864+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:05:11.924998+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:01:20.5722685+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:09:07.6289951+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:57:52.9668872+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:05:11.9252091+00:00"
 }

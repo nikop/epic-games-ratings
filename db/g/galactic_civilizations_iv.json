@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6752,6 +6752,11 @@
       "Time": "2023-10-07T15:09:40.8537169+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T16:05:35.6995682+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6795,7 +6800,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -6803,7 +6808,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "Control_All_Relics",
@@ -6851,7 +6856,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -6867,7 +6872,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "First_Race_Met",
@@ -6899,7 +6904,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5284
+      "UsersEstimate": 5285
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7083,7 +7088,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7107,7 +7112,7 @@
       "Name": "War with the Unknown",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "Win_As_Altarian",
@@ -7275,7 +7280,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "Win_Diplomacy",
@@ -7338,15 +7343,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:09:40.8537163+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:05:35.6995679+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:00:46.3199542+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:09:40.8539076+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:57:30.1993083+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:05:35.6996519+00:00"
 }

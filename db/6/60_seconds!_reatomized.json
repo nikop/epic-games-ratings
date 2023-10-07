@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 170,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -192,6 +192,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-07T15:59:26.0001834+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -200,7 +206,7 @@
   "Tags": [],
   "EOS_Progressed": 5366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6132,9 +6138,9 @@
       "ID": "ACH_DISCO",
       "SetID": "5nj1ea3",
       "Name": "Disco Roach",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_DOCEND",
@@ -6460,9 +6466,9 @@
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
-  "LastChanged": "2023-10-01T15:57:28.5549707+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:10:42.4843329+00:00",
-  "LastUpdate_AppInfo": "2023-09-30T14:57:17.5027493+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:03:32.7818082+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:10:42.4844258+00:00"
+  "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:06:19.4841822+00:00",
+  "LastUpdate_AppInfo": "2023-10-07T15:57:00.9846058+00:00",
+  "LastUpdate_Ratings": "2023-10-07T15:59:26.0001837+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:19.4842641+00:00"
 }

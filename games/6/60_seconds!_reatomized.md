@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.60 (Ranked 397)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,7 +27,7 @@ Rating: 4.59 (Ranked 417)
 | This is the end | 34.00% | ~1,824 |
 | Gotta get 'em all | 33.00% | ~1,771 |
 | Atomic drill | 32.00% | ~1,717 |
-| Disco Roach | 27.00% | ~1,449 |
+| Disco Roach | 28.00% | ~1,502 |
 | Dawkins Residence | 21.00% | ~1,127 |
 | Rescue time! | 18.00% | ~966 |
 | New order | 17.00% | ~912 |
@@ -270,3 +270,4 @@ Completed: 1 (0.02%) (Ranked 281)
 | 2023-09-10 | 4.62 | 0 | 0 |
 | 2023-09-29 | 4.61 | 0 | 0 |
 | 2023-10-01 | 4.59 | 0 | 0 |
+| 2023-10-07 | 4.60 | 0 | 0 |

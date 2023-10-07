@@ -4,10 +4,10 @@
   "ProductSlug": "smite",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 52,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -8635,10 +8635,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 26038,
       "NumberOfAwardsMax": 4405
+    },
+    {
+      "Time": "2023-10-07T15:59:10.1465219+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 29141,
+      "NumberOfAwardsMax": 4405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26038,
+  "NumberOfAwards": 29141,
   "NumberOfAwardsMax": 4405,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8700,7 +8706,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 3033
+      "Count": 3103
     }
   ],
   "EOS_Progressed": 0,
@@ -8714,8 +8720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-10-07T06:01:22.2006465+00:00",
+  "LastChanged": "2023-10-07T15:59:10.1465218+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:13.6738962+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:03:11.6658114+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:11:01.371204+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:59:10.1465224+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:32.9234314+00:00"
 }

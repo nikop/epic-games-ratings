@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2871,6 +2871,11 @@
       "Time": "2023-10-07T15:12:36.8391634+00:00",
       "NumProgressed": 774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T16:08:30.9756461+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2914,7 +2919,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Calculated",
@@ -2938,7 +2943,7 @@
       "Name": "Creator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Debtor",
@@ -2962,7 +2967,7 @@
       "Name": "Experienced Manager",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Fifty",
@@ -2978,7 +2983,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FullCompletion",
@@ -3042,7 +3047,7 @@
       "Name": "Linear Network",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LongDistance",
@@ -3050,7 +3055,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ManagementMaster",
@@ -3098,7 +3103,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "NotPlanned",
@@ -3106,7 +3111,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Ownway",
@@ -3154,7 +3159,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Restructuring",
@@ -3217,14 +3222,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:12:36.8391627+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:08:30.9756456+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:04:31.8620525+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:12:36.8392485+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:00:05.2764319+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:08:30.9756851+00:00"
 }

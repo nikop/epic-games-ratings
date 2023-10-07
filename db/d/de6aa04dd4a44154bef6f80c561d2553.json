@@ -319,9 +319,9 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RareFindings",
@@ -335,9 +335,9 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ScrollToWin",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:09:18.5291644+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:05:19.3945157+00:00",
   "LastUpdate_AppInfo": "2023-10-02T10:57:11.2778371+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:01:08.8008836+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:09:18.5292241+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:57:44.8041402+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:05:19.3945445+00:00"
 }

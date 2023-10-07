@@ -24,8 +24,8 @@ Rating: 4.03 (Ranked 958)
 | Geas Aristeya | 22.00% | ~15 |
 | Armsman | 22.00% | ~15 |
 | Periapt Alizarin | 22.00% | ~15 |
-| A Perfect Cycle | 18.00% | ~12 |
-| Recruit | 18.00% | ~12 |
+| A Perfect Cycle | 19.00% | ~13 |
+| Recruit | 19.00% | ~13 |
 | Good Boy | 13.00% | ~9 |
 | Lights Army | 12.00% | ~8 |
 | Periapt Viridian | 12.00% | ~8 |

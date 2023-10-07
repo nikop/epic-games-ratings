@@ -1,14 +1,14 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 948)  
+Rating: 4.06 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,859 |
-| World Map | 79.00% | ~1,579 |
-| Temple of Eternals | 57.00% | ~1,139 |
-| Prestigious | 54.00% | ~1,079 |
+| Victor | 93.00% | ~1,860 |
+| World Map | 79.00% | ~1,580 |
+| Temple of Eternals | 57.00% | ~1,140 |
+| Prestigious | 54.00% | ~1,080 |
 | Fellowship Power | 42.00% | ~840 |
 | Guild Power | 26.00% | ~520 |
 | Prestigious x10 | 23.00% | ~460 |
@@ -67,7 +67,6 @@ Rating: 4.06 (Ranked 948)
 | Cauldron Liberator | 2.00% | ~40 |
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |
-| Conqueror | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
 | Pokerface | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |
@@ -75,13 +74,14 @@ Rating: 4.06 (Ranked 948)
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
+| Conqueror | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
-| Silverwood liberator | 0.60% | ~12 |
+| Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
-| Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
+| Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 202)  
+Progressed: 2,000 (Ranked 202)  
 Completed: 2 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 2 (0.10%) (Ranked 243)
 | 2023-10-03 | 1,989 | 2 |
 | 2023-10-05 | 1,990 | 2 |
 | 2023-10-06 | 1,999 | 2 |
+| 2023-10-07 | 2,000 | 2 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 495)  
 Sum: 67 (Ranked 452)  

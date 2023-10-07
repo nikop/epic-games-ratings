@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2540,9 +2540,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "c7hf6a4",
       "Name": "Maximum Endurance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -2843,8 +2843,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:07:34.4128083+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:04:05.4938354+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:01:33.0302158+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:07:34.4128751+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:58:01.2847558+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:04:05.493883+00:00"
 }

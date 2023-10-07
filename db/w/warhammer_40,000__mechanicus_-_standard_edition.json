@@ -661,10 +661,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2160,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-10-07T15:57:40.92652+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2161,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2160,
+  "NumberOfAwards": 2161,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -696,7 +702,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 261
+      "Count": 262
     },
     {
       "Text": "This game has Diverse Characters",
@@ -729,9 +735,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224166,
+  "EOS_Progressed": 224171,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19239,6 +19245,11 @@
       "Time": "2023-10-07T15:11:36.6536911+00:00",
       "NumProgressed": 224166,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T16:06:57.8041082+00:00",
+      "NumProgressed": 224171,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19258,7 +19269,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58283
+      "UsersEstimate": 58284
     },
     {
       "ID": "ACH_BASE_11",
@@ -19266,7 +19277,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH_BASE_12",
@@ -19498,7 +19509,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26900
+      "UsersEstimate": 26901
     },
     {
       "ID": "ACH_BASE_8",
@@ -19521,16 +19532,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224166,
+      "Progressed": 224171,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-06T20:58:11.7746664+00:00",
-  "LastChanged_Achievements": "2023-10-07T15:11:36.6536906+00:00",
+  "LastChanged": "2023-10-07T15:57:40.9265198+00:00",
+  "LastChanged_Achievements": "2023-10-07T16:06:57.8041077+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:01:02.5027108+00:00",
-  "LastUpdate_Achievements": "2023-10-07T15:11:36.6538566+00:00"
+  "LastUpdate_Ratings": "2023-10-07T15:57:40.9265203+00:00",
+  "LastUpdate_Achievements": "2023-10-07T16:06:57.8042112+00:00"
 }

@@ -41,7 +41,7 @@
 | Exhausted but Happy | 0.80% | ~11 |
 | In Search of Perfection | 0.70% | ~9 |
 | Globe-trotter | 0.40% | ~5 |
-| Maximum Endurance | 0.10% | ~1 |
+| Maximum Endurance | 0.20% | ~3 |
 | Beyond the Limiter | 0.10% | ~1 |
 | All My Own Toys | 0.10% | ~1 |
 | Endless | 0.10% | ~1 |
