@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 3.00% | ~8 |
-| Welcome to the Tower | 3.00% | ~8 |
+| That's the spirit | 4.00% | ~10 |
+| Welcome to the Tower | 4.00% | ~10 |
 | Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
@@ -30,8 +30,8 @@
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 327)  
-Completed: 17 (6.61%) (Ranked 49)  
+Progressed: 259 (Ranked 324)  
+Completed: 17 (6.56%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 17 (6.61%) (Ranked 49)
 | 2023-10-04 | 243 | 17 |
 | 2023-10-05 | 244 | 17 |
 | 2023-10-06 | 252 | 17 |
-| 2023-10-07 | 257 | 17 |
+| 2023-10-07 | 259 | 17 |

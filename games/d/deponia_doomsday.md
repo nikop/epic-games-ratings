@@ -6,18 +6,18 @@ Rating: 4.55 (Ranked 489)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~378 |
-| And again, and again, and... | 65.00% | ~279 |
-| Burn, Elysium, burn! | 63.00% | ~270 |
-| Kuvaq Minigame-Master | 62.00% | ~266 |
-| FunScore | 55.00% | ~236 |
-| Funtime's over | 53.00% | ~227 |
-| Chunky | 50.00% | ~214 |
+| And again, and again, and... | 64.00% | ~275 |
+| Burn, Elysium, burn! | 63.00% | ~271 |
+| Kuvaq Minigame-Master | 62.00% | ~267 |
+| FunScore | 55.00% | ~237 |
+| Funtime's over | 53.00% | ~228 |
+| Chunky | 50.00% | ~215 |
 | Shall we play a game? | 48.00% | ~206 |
 | Boat of love, boat of love | 48.00% | ~206 |
-| School's out | 43.00% | ~184 |
+| School's out | 43.00% | ~185 |
 | Scaffolding Expert | 37.00% | ~159 |
 | Elysian Minigame-Master | 37.00% | ~159 |
-| Sole Music | 35.00% | ~150 |
+| Sole Music | 36.00% | ~155 |
 | No man left behind! | 30.00% | ~129 |
 | Portals come in packs | 30.00% | ~129 |
 | Photo Friend | 26.00% | ~112 |
@@ -29,7 +29,7 @@ Rating: 4.55 (Ranked 489)
 | Monstrous Harassment | 14.00% | ~60 |
 | Heading the inverter | 14.00% | ~60 |
 | Blast from the Past | 13.00% | ~56 |
-| Play it again, Ronny | 12.00% | ~51 |
+| Play it again, Ronny | 12.00% | ~52 |
 | Goat Team | 10.00% | ~43 |
 | Paradox! | 10.00% | ~43 |
 | Weapons 101 | 9.00% | ~39 |
@@ -39,10 +39,10 @@ Rating: 4.55 (Ranked 489)
 | Pacifist | 6.00% | ~26 |
 | Apoca...huh? | 6.00% | ~26 |
 | Against better judgement | 6.00% | ~26 |
-| Every man for himself! | 5.00% | ~21 |
+| Every man for himself! | 5.00% | ~22 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 284)  
+Progressed: 430 (Ranked 282)  
 Completed: 6 (1.40%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 6 (1.40%) (Ranked 121)
 | 2023-10-01 | 425 | 6 |
 | 2023-10-04 | 426 | 6 |
 | 2023-10-06 | 427 | 6 |
-| 2023-10-07 | 429 | 6 |
+| 2023-10-07 | 430 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

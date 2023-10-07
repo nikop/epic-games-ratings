@@ -9,7 +9,7 @@
 | Life matters | 38.00% | ~83 |
 | Safety first | 33.00% | ~72 |
 | Professional team! | 26.00% | ~57 |
-| Resource manager | 14.00% | ~31 |
+| Resource manager | 15.00% | ~33 |
 | Dawn of Victory | 13.00% | ~28 |
 | Team assemble | 13.00% | ~28 |
 | Give me a hand | 5.00% | ~11 |

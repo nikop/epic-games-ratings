@@ -5,10 +5,10 @@
   "Ranking_Rating": 489,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -437,6 +437,11 @@
       "Time": "2023-10-07T13:10:34.1991202+00:00",
       "NumProgressed": 429,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-07T23:08:15.7094175+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -454,9 +459,9 @@
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "dep4_achievement_11",
@@ -520,7 +525,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "dep4_achievement_19",
@@ -528,15 +533,15 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 275
     },
     {
       "ID": "dep4_achievement_20",
@@ -568,7 +573,7 @@
       "Name": "Every man for himself!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "dep4_achievement_24",
@@ -608,7 +613,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "dep4_achievement_29",
@@ -624,7 +629,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "dep4_achievement_30",
@@ -648,7 +653,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_33",
@@ -688,7 +693,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "dep4_achievement_5",
@@ -704,7 +709,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "dep4_achievement_7",
@@ -735,7 +740,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 6
     }
   ],
@@ -743,8 +748,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-07T22:08:25.0659489+00:00",
+  "LastChanged_Achievements": "2023-10-07T23:08:15.7094171+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-07T21:59:42.0718227+00:00",
-  "LastUpdate_Achievements": "2023-10-07T22:08:25.0659728+00:00"
+  "LastUpdate_Ratings": "2023-10-07T22:59:33.953716+00:00",
+  "LastUpdate_Achievements": "2023-10-07T23:08:15.709441+00:00"
 }

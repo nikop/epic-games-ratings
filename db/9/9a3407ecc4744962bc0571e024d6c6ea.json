@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 774,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1741,6 +1741,11 @@
       "Time": "2023-10-07T22:04:42.1858891+00:00",
       "NumProgressed": 771,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T23:04:33.6020415+00:00",
+      "NumProgressed": 774,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1753,7 +1758,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 341
     },
     {
       "ID": "BostonHayDay",
@@ -1761,7 +1766,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 457
     },
     {
       "ID": "BoxingClever",
@@ -1769,7 +1774,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Cartographer",
@@ -1777,7 +1782,7 @@
       "Name": "Cartographer",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 341
     },
     {
       "ID": "Causality",
@@ -1793,7 +1798,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1801,7 +1806,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 308
+      "UsersEstimate": 310
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -1809,7 +1814,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "DustDancing",
@@ -1823,9 +1828,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 194
     },
     {
       "ID": "LightsOut",
@@ -1833,7 +1838,7 @@
       "Name": "Lights Out",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1841,7 +1846,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1849,7 +1854,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Outpatient",
@@ -1857,7 +1862,7 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "Relic",
@@ -1865,7 +1870,7 @@
       "Name": "Relic",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 604
     },
     {
       "ID": "SkeletonCrew",
@@ -1873,7 +1878,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "TerraTourGuide",
@@ -1889,7 +1894,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 395
     },
     {
       "ID": "TragedyDocumented",
@@ -1905,21 +1910,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 774,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-07T22:04:42.1858887+00:00",
+  "LastChanged_Achievements": "2023-10-07T23:04:33.6020411+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-07T21:59:00.5970532+00:00",
-  "LastUpdate_Achievements": "2023-10-07T22:04:42.1859074+00:00"
+  "LastUpdate_Ratings": "2023-10-07T22:58:53.0582241+00:00",
+  "LastUpdate_Achievements": "2023-10-07T23:04:33.602061+00:00"
 }

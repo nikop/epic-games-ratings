@@ -2,13 +2,13 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2009-10-27T16:30:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN, VN, TW, HK, MO, SG,MY, TH, ID, PH, KH, LA, MM, BN, TL"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.2,
   "NumberOfRatings": 10796,
   "RatingHistory": [
     {
@@ -9334,10 +9334,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 35350,
       "NumberOfAwardsMax": 16510
+    },
+    {
+      "Time": "2023-10-07T22:59:16.5318109+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 35355,
+      "NumberOfAwardsMax": 16510
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35350,
+  "NumberOfAwards": 35355,
   "NumberOfAwardsMax": 16510,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9381,7 +9387,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2797
+      "Count": 2802
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9407,8 +9413,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-10-07T18:59:13.3713375+00:00",
+  "LastChanged": "2023-10-07T22:59:16.5318107+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.539723+00:00",
-  "LastUpdate_Ratings": "2023-10-07T21:59:25.4102682+00:00",
-  "LastUpdate_Achievements": "2023-10-07T22:05:21.5296481+00:00"
+  "LastUpdate_Ratings": "2023-10-07T22:59:16.5318113+00:00",
+  "LastUpdate_Achievements": "2023-10-07T23:05:12.419719+00:00"
 }

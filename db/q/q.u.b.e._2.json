@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -2556,6 +2556,11 @@
       "Time": "2023-10-07T22:05:03.2334714+00:00",
       "NumProgressed": 659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T23:04:54.488305+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2576,7 +2581,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -2726,9 +2731,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_PEAK",
@@ -2736,7 +2741,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_PROPELL",
@@ -2760,7 +2765,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_S4",
@@ -2784,7 +2789,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_STATUE",
@@ -2799,15 +2804,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-07T22:05:03.2334711+00:00",
+  "LastChanged_Achievements": "2023-10-07T23:04:54.4883048+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-07T21:57:08.8022298+00:00",
-  "LastUpdate_Achievements": "2023-10-07T22:05:03.2334967+00:00"
+  "LastUpdate_Ratings": "2023-10-07T22:56:59.9049317+00:00",
+  "LastUpdate_Achievements": "2023-10-07T23:04:54.4883281+00:00"
 }

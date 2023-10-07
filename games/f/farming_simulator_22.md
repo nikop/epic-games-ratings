@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,168 |
-| I read Shakespeare and stuff | 64.00% | ~31,717 |
+| Own use | 75.00% | ~37,169 |
+| I read Shakespeare and stuff | 64.00% | ~31,718 |
 | Just a sprinkle | 63.00% | ~31,222 |
-| I'm stumped | 61.00% | ~30,230 |
+| I'm stumped | 61.00% | ~30,231 |
 | Plant get enough | 60.00% | ~29,735 |
-| It's just the beginning | 59.00% | ~29,239 |
+| It's just the beginning | 59.00% | ~29,240 |
 | This is just my weekend vehicle | 58.00% | ~28,744 |
 | Hard work pays off | 53.00% | ~26,266 |
-| It's never too late to farm | 50.00% | ~24,779 |
+| It's never too late to farm | 50.00% | ~24,780 |
 | All out of Land | 44.00% | ~21,806 |
-| Field Trip | 44.00% | ~21,806 |
-| I like to switch it up | 40.00% | ~19,823 |
+| Field Trip | 43.00% | ~21,310 |
+| I like to switch it up | 40.00% | ~19,824 |
 | Help me to help you | 38.00% | ~18,832 |
-| Ultimutt Pawesomeness | 28.00% | ~13,876 |
+| Ultimutt Pawesomeness | 28.00% | ~13,877 |
 | Van Gogh | 26.00% | ~12,885 |
 | You wood not believe it | 22.00% | ~10,903 |
 | Vehicle fleet | 22.00% | ~10,903 |
@@ -35,10 +35,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's sow easy | 11.00% | ~5,451 |
 | Giddy-up! | 10.00% | ~4,956 |
 | Cowherd | 7.00% | ~3,469 |
-| Fluffyness | 6.00% | ~2,973 |
-| Road Trip | 6.00% | ~2,973 |
-| Helper A does not stop … ever | 6.00% | ~2,973 |
-| Bringing in the Honey | 6.00% | ~2,973 |
+| Fluffyness | 6.00% | ~2,974 |
+| Road Trip | 6.00% | ~2,974 |
+| Helper A does not stop … ever | 6.00% | ~2,974 |
+| Bringing in the Honey | 6.00% | ~2,974 |
 | Three little piggies… | 4.00% | ~1,982 |
 | Game on | 4.00% | ~1,982 |
 | Pretty colourful | 0.90% | ~446 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~198 |
 | Raisin the stakes | 0.30% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,558 (Ranked 102)  
+Progressed: 49,559 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,10 +220,10 @@ Completed: 6 (0.01%) (Ranked 289)
 | 2023-10-04 | 49,420 | 6 |
 | 2023-10-05 | 49,466 | 6 |
 | 2023-10-06 | 49,506 | 6 |
-| 2023-10-07 | 49,558 | 6 |
+| 2023-10-07 | 49,559 | 6 |
 ## Awards
 Max (Great for Beginners): 5,120  (Ranked 70)  
-Sum: 40,952 (Ranked 33)  
+Sum: 40,959 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -236,7 +236,7 @@ Diff (max vs sum): 37
 | This game is Extremely Fun | 4,031 |
 | This game has Amazing Storytelling | 3,935 |
 | This game has Amazing Characters | 3,568 |
-| This game has a Creative Community | 3,453 |
+| This game has a Creative Community | 3,460 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -505,4 +505,4 @@ Diff (max vs sum): 37
 | 2023-10-04 | 4.69 | - | 5,095 | 40,853 |
 | 2023-10-05 | 4.69 | - | 5,102 | 40,880 |
 | 2023-10-06 | 4.69 | - | 5,111 | 40,920 |
-| 2023-10-07 | 4.69 | - | 5,120 | 40,952 |
+| 2023-10-07 | 4.69 | - | 5,120 | 40,959 |

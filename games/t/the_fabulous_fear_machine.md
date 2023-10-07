@@ -8,11 +8,11 @@
 | Master trainee | 69.00% | ~11 |
 | Jung's dream | 50.00% | ~8 |
 | The battle of Great Britain | 50.00% | ~8 |
-| Giant | 38.00% | ~6 |
+| Giant | 44.00% | ~7 |
+| The happy farmer girl | 38.00% | ~6 |
 | Pulp! Terror Tales in the Night | 31.00% | ~5 |
 | Pulp! Where Monsters Dwell | 31.00% | ~5 |
 | A continent with chemistry | 31.00% | ~5 |
-| The happy farmer girl | 31.00% | ~5 |
 | The artist | 25.00% | ~4 |
 | Kirlian's best disciple | 25.00% | ~4 |
 | Diagnosis: fear | 25.00% | ~4 |
@@ -26,12 +26,12 @@
 | You had one wish left | 13.00% | ~2 |
 | A rival with no options | 13.00% | ~2 |
 | Et in arcadia ego | 13.00% | ~2 |
+| The barbarian invasions | 13.00% | ~2 |
 | Vaccine fans | 13.00% | ~2 |
 | Welcome to Hellville | 13.00% | ~2 |
 | Blessed antennas | 6.00% | ~1 |
 | The bully | 6.00% | ~1 |
 | Thirst for Oleum | 6.00% | ~1 |
-| The barbarian invasions | 6.00% | ~1 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |

@@ -26,7 +26,7 @@ Rating: 4.61 (Ranked 371)
 | Strange Transmissions | 42.00% | ~352 |
 | Wreckage | 41.00% | ~343 |
 | Keeper of the Faith | 38.00% | ~318 |
-| Betrayed | 36.00% | ~301 |
+| Betrayed | 37.00% | ~310 |
 | Legend Teller | 36.00% | ~301 |
 | There's Always Peng! | 36.00% | ~301 |
 | Exodus | 34.00% | ~285 |

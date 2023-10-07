@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "2",
@@ -399,9 +399,9 @@
       "ID": "42",
       "SetID": "d37idgg",
       "Name": "The barbarian invasions",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "43",
@@ -447,9 +447,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "6",
@@ -494,8 +494,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-07T22:06:31.3379781+00:00",
+  "LastChanged_Achievements": "2023-10-07T23:06:23.5191133+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
   "LastUpdate_Ratings": "2023-10-07T22:02:13.3226897+00:00",
-  "LastUpdate_Achievements": "2023-10-07T22:06:31.3380118+00:00"
+  "LastUpdate_Achievements": "2023-10-07T23:06:23.5191486+00:00"
 }
