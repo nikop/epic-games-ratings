@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2001,
+  "EOS_Progressed": 2003,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5941,6 +5941,11 @@
       "Time": "2023-10-07T17:06:48.4165273+00:00",
       "NumProgressed": 2001,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T20:06:50.2182273+00:00",
+      "NumProgressed": 2003,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6056,7 +6061,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "dragonmaster",
@@ -6128,7 +6133,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "fellowshippower",
@@ -6136,7 +6141,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "fourleafclover",
@@ -6160,7 +6165,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "gearenchanting",
@@ -6184,7 +6189,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "herewegoagain",
@@ -6224,7 +6229,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "jewelenchanting",
@@ -6288,7 +6293,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "missionsdedication",
@@ -6344,7 +6349,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "prestigiousx10",
@@ -6352,7 +6357,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "relicofthepast",
@@ -6408,7 +6413,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "thealchemist",
@@ -6440,7 +6445,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "thepowerofawakening",
@@ -6512,7 +6517,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1863
     },
     {
       "ID": "warmachinesarmy",
@@ -6544,14 +6549,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2001,
+      "Progressed": 2003,
       "Completed": 2
     }
   ],
@@ -6559,8 +6564,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-06T14:03:16.1710301+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:05:32.2459072+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:06:50.2182268+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:56:55.132131+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:05:32.2459977+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:56:57.2005857+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:06:50.2183104+00:00"
 }

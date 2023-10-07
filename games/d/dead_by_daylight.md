@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.80% | ~7,399 |
-| Zealous | 0.70% | ~6,474 |
-| Skillful | 0.70% | ~6,474 |
-| Not half bad | 0.60% | ~5,549 |
-| Make Some Noise | 0.60% | ~5,549 |
-| Handyman | 0.50% | ~4,624 |
-| Apt Survivor | 0.50% | ~4,624 |
-| Survival Treasures | 0.50% | ~4,624 |
-| Sorted | 0.50% | ~4,624 |
-| The Grand Sacrifice | 0.40% | ~3,699 |
-| Agonizing Escape | 0.40% | ~3,699 |
-| Backdoor Escape | 0.40% | ~3,699 |
-| No one left behind | 0.40% | ~3,699 |
-| Medic | 0.40% | ~3,699 |
-| Nerves of steel | 0.40% | ~3,699 |
-| Perfect Escape | 0.40% | ~3,699 |
-| Bloody Millionaire | 0.40% | ~3,699 |
-| I | 0.40% | ~3,699 |
-| Engineer | 0.40% | ~3,699 |
-| Healthy Obsession | 0.40% | ~3,699 |
-| Resurgence | 0.40% | ~3,699 |
-| Preemptive Strike | 0.40% | ~3,699 |
-| Humanitarian | 0.40% | ~3,699 |
+| It wakes | 0.80% | ~7,400 |
+| Zealous | 0.70% | ~6,475 |
+| Skillful | 0.70% | ~6,475 |
+| Not half bad | 0.60% | ~5,550 |
+| Survival Treasures | 0.60% | ~5,550 |
+| Make Some Noise | 0.60% | ~5,550 |
+| Medic | 0.50% | ~4,625 |
+| Handyman | 0.50% | ~4,625 |
+| Apt Survivor | 0.50% | ~4,625 |
+| Sorted | 0.50% | ~4,625 |
+| Resurgence | 0.50% | ~4,625 |
+| The Grand Sacrifice | 0.40% | ~3,700 |
+| Agonizing Escape | 0.40% | ~3,700 |
+| Backdoor Escape | 0.40% | ~3,700 |
+| No one left behind | 0.40% | ~3,700 |
+| Nerves of steel | 0.40% | ~3,700 |
+| Perfect Escape | 0.40% | ~3,700 |
+| Bloody Millionaire | 0.40% | ~3,700 |
+| I | 0.40% | ~3,700 |
+| Engineer | 0.40% | ~3,700 |
+| Healthy Obsession | 0.40% | ~3,700 |
+| Preemptive Strike | 0.40% | ~3,700 |
+| Humanitarian | 0.40% | ~3,700 |
 | I've got your back | 0.30% | ~2,775 |
 | Perfect Killing | 0.30% | ~2,775 |
 | Apt Killer | 0.30% | ~2,775 |
@@ -38,6 +38,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.30% | ~2,775 |
 | Close Shave | 0.30% | ~2,775 |
 | Second Act | 0.30% | ~2,775 |
+| A bite for the Entity | 0.20% | ~1,850 |
 | Blood on your hands | 0.20% | ~1,850 |
 | Escape Artist | 0.20% | ~1,850 |
 | Made it out alive! | 0.20% | ~1,850 |
@@ -74,7 +75,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.20% | ~1,850 |
 | One More Step | 0.20% | ~1,850 |
 | MU/TH/UR Dearest | 0.20% | ~1,850 |
-| A bite for the Entity | 0.10% | ~925 |
 | A feast for the Entity | 0.10% | ~925 |
 | Blood on your face | 0.10% | ~925 |
 | Blood in your mouth | 0.10% | ~925 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~925 |
 | Adept Ripley | 0.10% | ~925 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 924,850 (Ranked 14)  
+Progressed: 924,999 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 924,850 | 49 |
+| 2023-10-07 | 924,999 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 260,157 (Ranked 13)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:08:13.6771921+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:08:22.0799123+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.6075217+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:59:49.5921375+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:08:13.6772129+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:00:55.1803762+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:08:22.0799329+00:00"
 }

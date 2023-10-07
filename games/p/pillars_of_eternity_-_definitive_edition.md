@@ -21,8 +21,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Heir of Caed Nua | 13.00% | ~143 |
 | Soulbinder | 13.00% | ~143 |
 | Last 5 Levels of Od Nua | 12.00% | ~132 |
+| The Giftbearer | 11.00% | ~121 |
 | Bounty Hunter | 10.00% | ~110 |
-| The Giftbearer | 10.00% | ~110 |
 | Trappy | 9.00% | ~99 |
 | Herald of the Old Flame | 9.00% | ~99 |
 | Watcher at the Breach | 9.00% | ~99 |

@@ -2,7 +2,7 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
@@ -156,9 +156,9 @@
       "ID": "ACH_Beacon",
       "SetID": "aao9n96",
       "Name": "This means something",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_CastDevice",
@@ -212,9 +212,9 @@
       "ID": "ACH_EscapeTrap",
       "SetID": "aao9n96",
       "Name": "they\u0027ll never take... OUR FREEDOM!",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_Everett",
@@ -260,9 +260,9 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_Keeper",
@@ -292,9 +292,9 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_OverridePanel",
@@ -340,9 +340,9 @@
       "ID": "ACH_Spire",
       "SetID": "aao9n96",
       "Name": "Hello there",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_Theremin",
@@ -372,9 +372,9 @@
       "ID": "ACH_WeatherStations",
       "SetID": "aao9n96",
       "Name": "Elementary, my dear Watson",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:08:47.2829569+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:09:24.706326+00:00",
   "LastUpdate_AppInfo": "2023-10-04T02:14:34.6241828+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:56:57.060699+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:08:47.2829795+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:56:59.8563407+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:09:24.7063491+00:00"
 }

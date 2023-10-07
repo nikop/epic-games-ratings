@@ -11,7 +11,7 @@ Rating: 4.50 (Ranked 571)
 | Discovery | 1.00% | ~263 |
 | Meticulously Efficient | 1.00% | ~263 |
 | Fully Upgraded | 1.00% | ~263 |
-| Solo Capture | 0.90% | ~236 |
+| Solo Capture | 1.00% | ~263 |
 | Swift Rift Removers | 0.90% | ~236 |
 | Teamwork | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |

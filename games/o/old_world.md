@@ -11,21 +11,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
 | Intrepid | 0.90% | ~130 |
+| Kushite Paganism | 0.90% | ~130 |
+| Good | 0.80% | ~116 |
+| Learned | 0.80% | ~116 |
+| Mason | 0.80% | ~116 |
+| Strong | 0.80% | ~116 |
 | Hanging Gardens | 0.80% | ~116 |
-| Kushite Paganism | 0.80% | ~116 |
 | Able | 0.70% | ~101 |
 | Architect | 0.70% | ~101 |
-| Good | 0.70% | ~101 |
-| Learned | 0.70% | ~101 |
-| Mason | 0.70% | ~101 |
 | Noble | 0.70% | ~101 |
 | Pioneer | 0.70% | ~101 |
-| Strong | 0.70% | ~101 |
 | Oracle | 0.70% | ~101 |
 | Trade Caravan | 0.70% | ~101 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
+| Pyramids | 0.60% | ~87 |
 | Judaism | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
@@ -41,10 +42,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
-| Pyramids | 0.50% | ~72 |
 | Learn to Play 1 | 0.50% | ~72 |
 | Christianity | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
+| Roman Paganism | 0.50% | ~72 |
 | Zoroastrianism | 0.50% | ~72 |
 | Brilliant | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.40% | ~58 |
 | Manichaeism | 0.40% | ~58 |
 | Egyptian Paganism | 0.40% | ~58 |
-| Roman Paganism | 0.40% | ~58 |
 | Kushite Pyramids | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
 | Hanging Gardens in Babylon | 0.30% | ~43 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,486 (Ranked 134)  
+Progressed: 14,490 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,14 +519,14 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,486 | 5 |
+| 2023-10-07 | 14,490 | 5 |
 ## Awards
-Max (Relaxing): 223  (Ranked 266)  
-Sum: 1,829 (Ranked 208)  
-Diff (max vs sum): 58  
+Max (Relaxing): 224  (Ranked 265)  
+Sum: 1,830 (Ranked 208)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 223 |
+| This game is Relaxing | 224 |
 | This game has Diverse Characters | 212 |
 | This game is Highly Recommended | 211 |
 | This game is Extremely Fun | 210 |
@@ -678,4 +678,4 @@ Diff (max vs sum): 58
 | 2023-09-29 | 4.65 | - | 223 | 1,824 |
 | 2023-10-01 | 4.65 | - | 223 | 1,826 |
 | 2023-10-05 | 4.65 | - | 223 | 1,827 |
-| 2023-10-07 | 4.65 | - | 223 | 1,829 |
+| 2023-10-07 | 4.65 | - | 224 | 1,830 |

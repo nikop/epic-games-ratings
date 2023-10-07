@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 978,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3900,9 +3900,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88874,
+  "EOS_Progressed": 88875,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21505,6 +21505,11 @@
       "Time": "2023-10-07T19:03:51.7212672+00:00",
       "NumProgressed": 88874,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-07T20:04:37.9709509+00:00",
+      "NumProgressed": 88875,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21548,7 +21553,7 @@
       "Name": "Track Star",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_0015",
@@ -21628,7 +21633,7 @@
       "Name": "Headhunter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_0101",
@@ -21764,7 +21769,7 @@
       "Name": "True Player",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_0450",
@@ -21843,13 +21848,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88874,
+      "Progressed": 88875,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17221,
+      "Progressed": 17222,
       "Completed": 15542
     }
   ],
@@ -21857,8 +21862,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-07T15:03:16.8036595+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:03:51.7212667+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:04:37.9709502+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:59:05.9050074+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:03:51.7213768+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:59:55.0777624+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:04:37.971049+00:00"
 }

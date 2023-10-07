@@ -4,7 +4,7 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 780,
   "Ranking_Popularity": 258,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 402,
@@ -2921,6 +2921,6 @@
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
   "LastChanged": "2023-10-07T01:40:13.421237+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.0683381+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:58:16.2370744+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:05:41.3240691+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:58:46.6503283+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:07:02.3108303+00:00"
 }

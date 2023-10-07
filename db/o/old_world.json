@@ -3,11 +3,11 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 298,
-  "Ranking_Popularity": 266,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1723,11 +1723,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1829,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-10-07T20:01:15.991418+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1830,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1829,
-  "NumberOfAwardsMax": 223,
+  "NumberOfAwards": 1830,
+  "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1776,7 +1782,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1803,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14486,
+  "EOS_Progressed": 14490,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13248,6 +13254,11 @@
       "Time": "2023-10-07T19:03:19.714047+00:00",
       "NumProgressed": 14486,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T20:03:56.1603683+00:00",
+      "NumProgressed": 14490,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13713,9 +13724,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -13777,9 +13788,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -13809,9 +13820,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -13889,9 +13900,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -14721,9 +14732,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -15113,9 +15124,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -15977,9 +15988,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
       "SetID": "9201eeb",
       "Name": "Kushite Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -15994,21 +16005,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14486,
+      "Progressed": 14490,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14486,
+      "Progressed": 14490,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-07T16:00:12.9637429+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:03:19.7140463+00:00",
+  "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:03:56.1603674+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:00:04.7351764+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:03:19.7150494+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:01:15.9914184+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:03:56.1613998+00:00"
 }

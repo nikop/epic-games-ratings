@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,243 |
+| You and what Army? | 88.00% | ~3,244 |
 | Flanked! | 76.00% | ~2,801 |
 | Economics 101 | 61.00% | ~2,248 |
 | Get Rich Quick | 43.00% | ~1,585 |
-| Do the Splits | 38.00% | ~1,400 |
+| Do the Splits | 38.00% | ~1,401 |
 | Maestro | 26.00% | ~958 |
 | Full Employment | 18.00% | ~663 |
 | Clay Fighter | 16.00% | ~590 |
@@ -16,7 +16,7 @@
 | All Ovens Blazing | 13.00% | ~479 |
 | Boulder Clash | 13.00% | ~479 |
 | Held Back by the Roots | 12.00% | ~442 |
-| Well Supplied | 10.00% | ~368 |
+| Well Supplied | 10.00% | ~369 |
 | Sniped | 7.00% | ~258 |
 | Leave Them no Cake | 7.00% | ~258 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~258 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~37 |
 | All Geared Up | 0.90% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,685 (Ranked 179)  
+Progressed: 3,686 (Ranked 179)  
 Completed: 11 (0.30%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 11 (0.30%) (Ranked 199)
 | 2023-10-04 | 3,677 | 11 |
 | 2023-10-05 | 3,679 | 11 |
 | 2023-10-06 | 3,682 | 11 |
-| 2023-10-07 | 3,685 | 11 |
+| 2023-10-07 | 3,686 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

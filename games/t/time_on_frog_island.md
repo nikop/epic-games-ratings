@@ -4,24 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 67.00% | ~8 |
-| Sea Legs | 58.00% | ~7 |
-| Frogs Legs | 25.00% | ~3 |
-| Mad Scientist | 25.00% | ~3 |
-| What?! | 25.00% | ~3 |
-| Who Even Needs Keys | 17.00% | ~2 |
-| Hoist the Sails | 17.00% | ~2 |
-| Replace the Rudder | 17.00% | ~2 |
-| Socialite | 8.00% | ~1 |
-| Shrub-Seeing: Townlife | 8.00% | ~1 |
-| Shrub-Seeing: Silly Birbs | 8.00% | ~1 |
-| Yeet! | 8.00% | ~1 |
-| Couch-surfing | 8.00% | ~1 |
-| Sailor Swift | 8.00% | ~1 |
-| Safe Investment | 8.00% | ~1 |
-| Bank of Me | 8.00% | ~1 |
-| Secure the Sheets | 8.00% | ~1 |
-| The Journey Continues | 8.00% | ~1 |
+| Shipwrecked! | 64.00% | ~9 |
+| Sea Legs | 57.00% | ~8 |
+| Frogs Legs | 21.00% | ~3 |
+| Mad Scientist | 21.00% | ~3 |
+| What?! | 21.00% | ~3 |
+| Who Even Needs Keys | 14.00% | ~2 |
+| Hoist the Sails | 14.00% | ~2 |
+| Replace the Rudder | 14.00% | ~2 |
+| Socialite | 7.00% | ~1 |
+| Shrub-Seeing: Townlife | 7.00% | ~1 |
+| Shrub-Seeing: Silly Birbs | 7.00% | ~1 |
+| Yeet! | 7.00% | ~1 |
+| Couch-surfing | 7.00% | ~1 |
+| Sailor Swift | 7.00% | ~1 |
+| Safe Investment | 7.00% | ~1 |
+| Bank of Me | 7.00% | ~1 |
+| Secure the Sheets | 7.00% | ~1 |
+| Hands on the Helm | 7.00% | ~1 |
+| The Journey Continues | 7.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
@@ -38,9 +39,8 @@
 | Home Sweet Home | 0.00% | ~0 |
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
-| Hands on the Helm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 509)  
+Progressed: 14 (Ranked 498)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 10 | 0 |
 | 2023-10-05 | 11 | 0 |
 | 2023-10-06 | 12 | 0 |
+| 2023-10-07 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

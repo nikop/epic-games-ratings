@@ -20,13 +20,13 @@ Rating: 4.55 (Ranked 488)
 | Khan's Revenge | 1.00% | ~137 |
 | Captain Drummer | 1.00% | ~137 |
 | Celebrations are in Order | 1.00% | ~137 |
+| Miraculous Maya | 0.80% | ~110 |
 | Thorston Mayer | 0.70% | ~96 |
-| Miraculous Maya | 0.70% | ~96 |
 | Doctor Approved | 0.60% | ~82 |
 | Bottoms up! | 0.60% | ~82 |
+| No Belter Left Behind | 0.50% | ~68 |
 | Data Logger | 0.40% | ~55 |
 | Brother's Reaper | 0.40% | ~55 |
-| No Belter Left Behind | 0.40% | ~55 |
 | Data Master | 0.40% | ~55 |
 | Debris Spree | 0.20% | ~27 |
 | Data Recoverer | 0.20% | ~27 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 488)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,694 (Ranked 135)  
+Progressed: 13,698 (Ranked 135)  
 Completed: 17 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 17 (0.12%) (Ranked 234)
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
-| 2023-10-07 | 13,694 | 17 |
+| 2023-10-07 | 13,698 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

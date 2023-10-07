@@ -16,7 +16,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Hard work pays off | 53.00% | ~26,261 |
 | It's never too late to farm | 50.00% | ~24,774 |
 | All out of Land | 44.00% | ~21,802 |
-| Field Trip | 43.00% | ~21,306 |
+| Field Trip | 44.00% | ~21,802 |
 | I like to switch it up | 40.00% | ~19,820 |
 | Help me to help you | 38.00% | ~18,829 |
 | Ultimutt Pawesomeness | 28.00% | ~13,874 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~198 |
 | Raisin the stakes | 0.30% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,549 (Ranked 101)  
+Progressed: 49,549 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |

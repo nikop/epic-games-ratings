@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43413,
+  "EOS_Progressed": 43414,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -16056,6 +16056,11 @@
       "Time": "2023-10-07T07:06:15.9544642+00:00",
       "NumProgressed": 43413,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-10-07T20:05:53.4508842+00:00",
+      "NumProgressed": 43414,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 44,
@@ -16067,7 +16072,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24745
+      "UsersEstimate": 24746
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -16107,7 +16112,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -16187,7 +16192,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34730
+      "UsersEstimate": 34731
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16195,7 +16200,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -16267,7 +16272,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7814
+      "UsersEstimate": 7815
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -16291,7 +16296,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23877
+      "UsersEstimate": 23878
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16307,7 +16312,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -16403,7 +16408,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40374
+      "UsersEstimate": 40375
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -16418,7 +16423,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43413,
+      "Progressed": 43414,
       "Completed": 238
     }
   ],
@@ -16426,8 +16431,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:04:48.7974287+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:05:53.4508837+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.6279901+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:57:37.6179578+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:04:48.7975317+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:57:53.5781473+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:05:53.4509884+00:00"
 }

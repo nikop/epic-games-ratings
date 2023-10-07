@@ -9,6 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,118 |
 | Basic in Bulk | 3.00% | ~4,118 |
 | Titan's First Steps | 3.00% | ~4,118 |
+| One Easy Payment | 2.00% | ~2,745 |
 | Disintermediation | 2.00% | ~2,745 |
 | Another Satisfied Customer | 2.00% | ~2,745 |
 | It's Free Real Estate | 2.00% | ~2,745 |
@@ -17,7 +18,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 2.00% | ~2,745 |
 | Own the Means of Production | 2.00% | ~2,745 |
 | The Daily Grind | 1.00% | ~1,373 |
-| One Easy Payment | 1.00% | ~1,373 |
 | Some Assembly Required | 1.00% | ~1,373 |
 | Bounty Hunters | 1.00% | ~1,373 |
 | Demand for Supplies | 1.00% | ~1,373 |
@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.80% | ~1,098 |
 | Tax not Included | 0.70% | ~961 |
 | Fated Encounters | 0.70% | ~961 |
+| For the Hoard! | 0.70% | ~961 |
 | Power of Love | 0.70% | ~961 |
 | Trash to Treasure | 0.70% | ~961 |
 | Royal Ransom | 0.70% | ~961 |
@@ -51,7 +52,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.60% | ~824 |
 | The King's Caprice | 0.60% | ~824 |
 | Big Game Hunting | 0.60% | ~824 |
-| For the Hoard! | 0.60% | ~824 |
 | Scrapbooker | 0.60% | ~824 |
 | Locally Sourced | 0.60% | ~824 |
 | Flying off the Shelves | 0.60% | ~824 |
@@ -60,7 +60,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.60% | ~824 |
 | Expansion in Session | 0.60% | ~824 |
 | Cranked up to 11 | 0.60% | ~824 |
+| Fit for a King | 0.60% | ~824 |
 | Mammonite | 0.60% | ~824 |
+| Wealth Beyond Measure | 0.60% | ~824 |
 | Miracle Alchemist | 0.60% | ~824 |
 | Laden with Loot | 0.60% | ~824 |
 | Seasoned Journeyman | 0.60% | ~824 |
@@ -81,9 +83,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.50% | ~686 |
 | Supercharged | 0.50% | ~686 |
 | Ritualist | 0.50% | ~686 |
-| Fit for a King | 0.50% | ~686 |
 | By Your Powers Combined... | 0.50% | ~686 |
-| Wealth Beyond Measure | 0.50% | ~686 |
 | Fat Cat Tag Team | 0.50% | ~686 |
 | Necromancer Queen | 0.50% | ~686 |
 | Item of Renown | 0.50% | ~686 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,269 (Ranked 73)  
+Progressed: 137,272 (Ranked 73)  
 Completed: 166 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 166 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,269 | 166 |
+| 2023-10-07 | 137,272 | 166 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,353 (Ranked 50)  

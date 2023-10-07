@@ -876,9 +876,9 @@
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "5K",
@@ -892,9 +892,9 @@
       "ID": "75K",
       "SetID": "1f269fc",
       "Name": "75K",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 150,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "Bit Blaster V2",
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:05:39.5276401+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:06:59.8064341+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:01.4092628+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:02:10.474967+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:05:39.5276543+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:02:20.5403561+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:06:59.8064476+00:00"
 }

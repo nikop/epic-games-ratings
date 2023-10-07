@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.64,
+  "EOS_Completed_Percentage": 6.61,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1207,6 +1207,11 @@
       "Time": "2023-10-07T17:06:06.1889332+00:00",
       "NumProgressed": 256,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-07T20:06:03.7522181+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1417,14 +1422,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-07T19:04:56.899671+00:00",
+  "LastChanged_Achievements": "2023-10-07T20:06:03.7522173+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:57:58.9639345+00:00",
-  "LastUpdate_Achievements": "2023-10-07T19:04:56.8996928+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:58:21.7671534+00:00",
+  "LastUpdate_Achievements": "2023-10-07T20:06:03.7522382+00:00"
 }
