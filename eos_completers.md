@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.28% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.24% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -48,7 +48,7 @@
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.75% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.72% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -94,8 +94,8 @@
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 94 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 95 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.47% |
 | 95 | [Lamentum](games/l/lamentum.md) | 2.47% |
+| 96 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.46% |
 | 97 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.41% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
@@ -103,9 +103,9 @@
 | 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.32% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
-| 103 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.17% |
-| 105 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
+| 105 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.13% |
+| 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
