@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.42% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.38% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -59,14 +59,14 @@
 | 57 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 58 | [JARS](games/j/jars.md) | 5.00% |
 | 59 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
-| 60 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
-| 61 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 60 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.45% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.01% |
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
@@ -655,4 +655,4 @@
 | 307 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 307 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 307 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,358 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,359 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

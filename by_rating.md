@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 527 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 527 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,637 | 121 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,293 | 94 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,296 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 527 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 527 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 527 |
@@ -122,7 +122,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,511 | 24 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 527 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,349 | 92 |
-| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 993 | 147 |
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 997 | 147 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 851 | 157 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,322 | 17 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,652 | 74 |
@@ -212,7 +212,7 @@
 | 203 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,325 | 132 |
 | 203 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 134 | 313 |
 | 203 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,899 | 113 |
-| 203 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 470 |
+| 203 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 471 |
 | 203 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 416 |
 | 203 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 527 |
 | 203 | [The Witness](games/t/the_witness.md) | 4.70 | 181 | 287 |
@@ -372,7 +372,7 @@
 | 355 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 527 |
 | 371 | [20XX](games/2/20xx.md) | 4.61 | 37 | 447 |
 | 371 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 527 |
-| 371 | [Aimlabs](games/a/aimlabs.md) | 4.61 | 30 | 470 |
+| 371 | [Aimlabs](games/a/aimlabs.md) | 4.61 | 32 | 464 |
 | 371 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 133 | 315 |
 | 371 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.61 | 0 | 527 |
 | 371 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 781 | 163 |
@@ -397,7 +397,7 @@
 | 371 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 527 |
 | 371 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 527 |
 | 397 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 495 |
-| 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,130 | 27 |
+| 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,149 | 27 |
 | 397 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 527 |
 | 397 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,711 | 73 |
 | 397 | [Control](games/c/control.md) | 4.60 | 8,571 | 41 |
@@ -486,7 +486,7 @@
 | 471 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,806 | 114 |
 | 471 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 527 |
 | 471 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.56 | 0 | 527 |
-| 471 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 468 |
+| 471 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 469 |
 | 488 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 527 |
 | 488 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 527 |
 | 488 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 527 |
@@ -795,11 +795,11 @@
 | 785 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 513 |
 | 785 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 527 |
 | 795 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 61 | 398 |
-| 795 | [Filament](games/f/filament.md) | 4.32 | 564 | 195 |
+| 795 | [Filament](games/f/filament.md) | 4.32 | 564 | 196 |
 | 795 | [House Party](games/h/house_party.md) | 4.32 | 0 | 527 |
 | 795 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 527 |
 | 795 | [Rogue Company](games/r/rogue_company.md) | 4.32 | 5,498 | 68 |
-| 795 | [Vampyr](games/v/vampyr.md) | 4.32 | 563 | 196 |
+| 795 | [Vampyr](games/v/vampyr.md) | 4.32 | 565 | 195 |
 | 795 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 527 |
 | 795 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 527 |
 | 803 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 527 |
@@ -926,7 +926,7 @@
 | 921 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 527 |
 | 925 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 527 |
 | 925 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 527 |
-| 925 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.13 | 31 | 468 |
+| 925 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.13 | 31 | 469 |
 | 928 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 527 |
 | 929 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.11 | 0 | 527 |
 | 930 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 359 |
