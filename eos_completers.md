@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.85% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.78% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -71,7 +71,7 @@
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
-| 72 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.70% |
+| 72 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.67% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -95,7 +95,7 @@
 | 93 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.60% |
 | 94 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 95 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 96 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.46% |
+| 96 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.45% |
 | 97 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.41% |
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
@@ -133,7 +133,7 @@
 | 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 132 | [Trifox](games/t/trifox.md) | 1.09% |
 | 133 | [Infindustry](games/i/infindustry.md) | 1.08% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 136 | [Adios](games/a/adios.md) | 1.04% |
 | 137 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -145,7 +145,7 @@
 | 143 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.92% |
 | 144 | [Hades](games/h/hades.md) | 0.91% |
 | 145 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 146 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.84% |
+| 146 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.83% |
 | 147 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 148 | [Eternights](games/e/eternights.md) | 0.76% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
