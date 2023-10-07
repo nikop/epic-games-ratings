@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3894,9 +3894,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88842,
+  "EOS_Progressed": 88844,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21444,6 +21444,11 @@
       "Time": "2023-10-07T08:05:48.7302562+00:00",
       "NumProgressed": 88842,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-07T09:05:11.7982581+00:00",
+      "NumProgressed": 88844,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21469,9 +21474,9 @@
       "ID": "ACH_0012",
       "SetID": "3kam13l",
       "Name": "Roid Ranger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_0013",
@@ -21782,13 +21787,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88842,
+      "Progressed": 88844,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17189,
+      "Progressed": 17191,
       "Completed": 15541
     }
   ],
@@ -21796,8 +21801,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-06T18:00:34.5963468+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:05:48.7302557+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:05:11.7982577+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:27.130513+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:01:18.5353728+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:05:48.730379+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:00:47.000902+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:05:11.7983702+00:00"
 }

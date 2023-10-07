@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67181,
+  "EOS_Progressed": 67182,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17154,6 +17154,11 @@
       "Time": "2023-10-07T08:08:04.3429286+00:00",
       "NumProgressed": 67181,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-07T09:07:11.9221234+00:00",
+      "NumProgressed": 67182,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17205,7 +17210,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12764
+      "UsersEstimate": 12765
     },
     {
       "ID": "07",
@@ -17293,7 +17298,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "18",
@@ -17437,7 +17442,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23513
+      "UsersEstimate": 23514
     },
     {
       "ID": "36",
@@ -17501,7 +17506,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12764
+      "UsersEstimate": 12765
     },
     {
       "ID": "44",
@@ -17573,7 +17578,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "53",
@@ -17700,21 +17705,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67181,
+      "Progressed": 67182,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30649,
+      "Progressed": 30650,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:08:04.342928+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:07:11.9221229+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:15.9312138+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:57:23.0675079+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:08:04.3430935+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:57:25.1466663+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:07:11.9222576+00:00"
 }

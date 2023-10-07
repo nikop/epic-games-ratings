@@ -2,12 +2,12 @@
   "ID": "6b753bd045604be89d9779e741c604b1",
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
-  "Ranking_Rating": 416,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 986,
   "RatingHistory": [
     {
@@ -650,6 +650,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-10-07T08:58:54.4347213+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -687,8 +693,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2023-09-20T20:01:06.8229901+00:00",
+  "LastChanged": "2023-10-07T08:58:54.4347211+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:22.2756058+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:59:08.0086565+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:05:59.7744957+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:58:54.434722+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:05:20.5738879+00:00"
 }

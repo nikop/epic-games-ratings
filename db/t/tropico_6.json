@@ -1182,9 +1182,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5468,
+  "EOS_Progressed": 5469,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10867,6 +10867,11 @@
       "Time": "2023-10-06T23:08:14.5809018+00:00",
       "NumProgressed": 5468,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T09:09:07.4217996+00:00",
+      "NumProgressed": 5469,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10894,7 +10899,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -10918,7 +10923,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -10998,7 +11003,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11006,7 +11011,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -11022,7 +11027,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -11038,7 +11043,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11150,7 +11155,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11197,15 +11202,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5468,
+      "Progressed": 5469,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-05T18:01:13.1907097+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:09:36.551365+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:09:07.4217991+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:02:40.9601539+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:09:36.5514439+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:02:19.394969+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:09:07.4218712+00:00"
 }

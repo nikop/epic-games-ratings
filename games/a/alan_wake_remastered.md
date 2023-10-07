@@ -7,13 +7,13 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 42.00% | ~28,216 |
-| Let There Be Light | 35.00% | ~23,513 |
+| Let There Be Light | 35.00% | ~23,514 |
 | Float Like a Butterfly | 33.00% | ~22,170 |
 | Nordic Walking | 27.00% | ~18,139 |
 | Bright Falls' Finest | 26.00% | ~17,467 |
 | Under a Thin Layer of Skin | 23.00% | ~15,452 |
-| Park Ranger | 19.00% | ~12,764 |
-| Paging Mr. Wake | 19.00% | ~12,764 |
+| Park Ranger | 19.00% | ~12,765 |
+| Paging Mr. Wake | 19.00% | ~12,765 |
 | Back! Back, I Say! | 18.00% | ~12,093 |
 | Finders Keepers | 18.00% | ~12,093 |
 | Damn Good Cup of Coffee | 17.00% | ~11,421 |
@@ -36,10 +36,10 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 10.00% | ~6,718 |
 | Right of Way | 10.00% | ~6,718 |
 | Tornado Wrangler | 9.00% | ~6,046 |
-| Departure | 8.00% | ~5,374 |
+| Departure | 8.00% | ~5,375 |
 | A Friend in Need | 8.00% | ~2,452 |
 | Hardboiled Writer | 7.00% | ~4,703 |
-| A Friend Indeed | 7.00% | ~2,145 |
+| A Friend Indeed | 7.00% | ~2,146 |
 | Children of the Elder God | 6.00% | ~4,031 |
 | Drink 'Em Both Up | 6.00% | ~4,031 |
 | Ding! | 6.00% | ~1,839 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,181 (Ranked 93)  
+Progressed: 67,182 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-10-04 | 66,994 | 67 |
 | 2023-10-05 | 67,064 | 67 |
 | 2023-10-06 | 67,139 | 67 |
-| 2023-10-07 | 67,181 | 67 |
+| 2023-10-07 | 67,182 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

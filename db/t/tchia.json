@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7554,
+  "EOS_Progressed": 7555,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7264,6 +7264,11 @@
       "Time": "2023-10-07T08:04:50.3783674+00:00",
       "NumProgressed": 7554,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-07T09:04:25.6567568+00:00",
+      "NumProgressed": 7555,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7275,7 +7280,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ARRR",
@@ -7379,7 +7384,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "LIBERATOR",
@@ -7442,7 +7447,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7554,
+      "Progressed": 7555,
       "Completed": 33
     }
   ],
@@ -7450,8 +7455,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:04:50.3783668+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:04:25.6567563+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.4912999+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:03:34.8032666+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:04:50.3784321+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:03:18.2095663+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:04:25.6568082+00:00"
 }

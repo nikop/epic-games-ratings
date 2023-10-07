@@ -10,20 +10,22 @@
 | The battle of Great Britain | 50.00% | ~6 |
 | Giant | 42.00% | ~5 |
 | The happy farmer girl | 33.00% | ~4 |
+| The artist | 25.00% | ~3 |
 | Pulp! Terror Tales in the Night | 25.00% | ~3 |
 | Pulp! Where Monsters Dwell | 25.00% | ~3 |
 | A continent with chemistry | 25.00% | ~3 |
+| Diagnosis: fear | 25.00% | ~3 |
+| Ambition is... blind | 25.00% | ~3 |
+| You have two wishes left | 25.00% | ~3 |
 | A rival with no options | 17.00% | ~2 |
-| The artist | 17.00% | ~2 |
 | The seer | 17.00% | ~2 |
 | Pulp! Out of this World | 17.00% | ~2 |
+| Pulp! Adventures into the Unknown | 17.00% | ~2 |
 | Kirlian's best disciple | 17.00% | ~2 |
-| Diagnosis: fear | 17.00% | ~2 |
-| Ambition is... blind | 17.00% | ~2 |
-| You have two wishes left | 17.00% | ~2 |
 | You had one wish left | 8.00% | ~1 |
-| Pulp! Adventures into the Unknown | 8.00% | ~1 |
+| Thirst for Oleum | 8.00% | ~1 |
 | The barbarian invasions | 8.00% | ~1 |
+| Vaccine fans | 8.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -44,10 +46,8 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| Thirst for Oleum | 0.00% | ~0 |
 | ECO mode | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
-| Vaccine fans | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |

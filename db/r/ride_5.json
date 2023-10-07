@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2409,6 +2409,11 @@
       "Time": "2023-10-07T06:05:35.393663+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T09:04:54.3449104+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2421,7 +2426,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2437,7 +2442,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2597,7 +2602,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2812,14 +2817,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:05:26.9169246+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:04:54.3449099+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:58:48.260943+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:05:26.9169809+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:58:40.2774244+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:04:54.3449554+00:00"
 }

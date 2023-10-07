@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7669,10 +7669,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14748,
       "NumberOfAwardsMax": 7185
+    },
+    {
+      "Time": "2023-10-07T08:57:37.6963711+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14750,
+      "NumberOfAwardsMax": 7185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14748,
+  "NumberOfAwards": 14750,
   "NumberOfAwardsMax": 7185,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7704,7 +7710,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 995
+      "Count": 997
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7749,9 +7755,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62825,
+  "EOS_Progressed": 62826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25799,6 +25805,11 @@
       "Time": "2023-10-07T08:06:34.4511675+00:00",
       "NumProgressed": 62825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T09:05:48.4105743+00:00",
+      "NumProgressed": 62826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25890,7 +25901,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "Dynasty",
@@ -25898,7 +25909,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "Entrepreneur",
@@ -26034,7 +26045,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20732
+      "UsersEstimate": 20733
     },
     {
       "ID": "Lawbringer",
@@ -26154,7 +26165,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "The king is pleased",
@@ -26210,22 +26221,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62825,
+      "Progressed": 62826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-06T18:57:20.909867+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:06:34.451167+00:00",
+  "LastChanged": "2023-10-07T08:57:37.696371+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:05:48.4105738+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.1994725+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:57:33.7044541+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:06:34.4513192+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:57:37.6963716+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:05:48.4106933+00:00"
 }

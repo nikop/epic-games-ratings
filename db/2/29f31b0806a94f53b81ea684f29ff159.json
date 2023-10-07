@@ -4,7 +4,7 @@
   "ProductSlug": "perimeter-ad2e5b",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-14T15:56:55.9392074+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:13.0237011+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:03:45.0506555+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:04:46.7354137+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:03:25.8947434+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:04:22.736897+00:00"
 }

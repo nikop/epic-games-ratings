@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -154,7 +154,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13662,
+  "EOS_Progressed": 13664,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 15,
@@ -7919,6 +7919,11 @@
       "Time": "2023-10-07T08:08:40.7506696+00:00",
       "NumProgressed": 13662,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-07T09:07:40.8747683+00:00",
+      "NumProgressed": 13664,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8001,9 +8006,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "19",
@@ -8017,9 +8022,9 @@
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "20",
@@ -8041,9 +8046,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "23",
@@ -8170,7 +8175,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13662,
+      "Progressed": 13664,
       "Completed": 15
     }
   ],
@@ -8178,8 +8183,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:08:40.7506691+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:07:40.8747677+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:26.2956543+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:04:03.9488435+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:08:40.7507373+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:03:47.1508734+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:07:40.8748224+00:00"
 }

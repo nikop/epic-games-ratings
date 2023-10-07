@@ -4,7 +4,7 @@
   "ProductSlug": "my-memory-of-us-709675",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-26T14:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.9984625+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.8514494+00:00",
   "LastChanged": "2023-03-31T05:57:25.9984626+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:08:04.5512836+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:07:12.1958056+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:50.3827792+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:00:03.3063178+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:08:04.551287+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:59:42.4826604+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:07:12.1958097+00:00"
 }

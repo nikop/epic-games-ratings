@@ -5,14 +5,14 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,816 |
-| On the Top Step | 88.00% | ~2,636 |
-| Setting up for Success | 77.00% | ~2,307 |
-| Team Orders | 75.00% | ~2,247 |
+| Getting on the Step | 94.00% | ~2,817 |
+| On the Top Step | 88.00% | ~2,637 |
+| Setting up for Success | 77.00% | ~2,308 |
+| Team Orders | 75.00% | ~2,248 |
 | Engineer | 55.00% | ~1,648 |
-| Familiar Faces | 49.00% | ~1,468 |
-| Going the Extra Mile | 43.00% | ~1,288 |
-| Sharing the Love | 41.00% | ~1,228 |
+| Familiar Faces | 49.00% | ~1,469 |
+| Going the Extra Mile | 43.00% | ~1,289 |
+| Sharing the Love | 41.00% | ~1,229 |
 | Hitting a Season | 36.00% | ~1,079 |
 | Challenge Yourself | 34.00% | ~1,019 |
 | Making History | 32.00% | ~959 |
@@ -25,11 +25,11 @@ Rating: 4.66 (Ranked 281)
 | Crucial Combo | 18.00% | ~539 |
 | Reuse | 17.00% | ~509 |
 | One for the Book | 17.00% | ~509 |
-| Proving Them Wrong | 16.00% | ~479 |
-| Gathering Dust | 15.00% | ~449 |
-| Oil and Water | 15.00% | ~449 |
-| Lightning Round the World | 13.00% | ~389 |
-| Hitting a Bullseye | 13.00% | ~389 |
+| Proving Them Wrong | 16.00% | ~480 |
+| Gathering Dust | 15.00% | ~450 |
+| Oil and Water | 15.00% | ~450 |
+| Lightning Round the World | 13.00% | ~390 |
+| Hitting a Bullseye | 13.00% | ~390 |
 | Eagle Eye | 12.00% | ~360 |
 | Recycle | 12.00% | ~360 |
 | All in a Weekend's Work | 11.00% | ~330 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,996 (Ranked 190)  
+Progressed: 2,997 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 2,928 | 0 |
 | 2023-10-05 | 2,950 | 0 |
 | 2023-10-06 | 2,987 | 0 |
-| 2023-10-07 | 2,996 | 0 |
+| 2023-10-07 | 2,997 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

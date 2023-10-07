@@ -4,7 +4,7 @@
   "ProductSlug": "my-pet-hooligan-453949",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-20T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T18:57:37.0162399+00:00",
   "LastUpdate_AppInfo": "2023-10-04T08:57:21.9608048+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:58:32.7540048+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:07:44.9938343+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:58:26.3467054+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:07:04.6007417+00:00"
 }

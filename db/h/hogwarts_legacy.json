@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8634,9 +8634,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297929,
+  "EOS_Progressed": 297931,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26909,6 +26909,11 @@
       "Time": "2023-10-07T07:07:40.3341434+00:00",
       "NumProgressed": 297929,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-07T09:07:35.2422247+00:00",
+      "NumProgressed": 297931,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -26920,7 +26925,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44689
+      "UsersEstimate": 44690
     },
     {
       "ID": "PFA_10",
@@ -27040,7 +27045,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35751
+      "UsersEstimate": 35752
     },
     {
       "ID": "PFA_24",
@@ -27200,7 +27205,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14896
+      "UsersEstimate": 14897
     },
     {
       "ID": "PFA_42",
@@ -27264,7 +27269,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35751
+      "UsersEstimate": 35752
     },
     {
       "ID": "PFA_9",
@@ -27279,7 +27284,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297929,
+      "Progressed": 297931,
       "Completed": 482
     }
   ],
@@ -27287,8 +27292,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T23:57:12.5667474+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:08:33.8366374+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:07:35.2422243+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:57:11.3727865+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:08:33.8367726+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:57:16.6145631+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:07:35.2423438+00:00"
 }

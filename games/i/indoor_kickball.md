@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~79 |
-| Accessory Unlocked | 81.00% | ~78 |
+| Hat Unlocked | 83.00% | ~80 |
+| Accessory Unlocked | 82.00% | ~79 |
 | Character Unlocked | 75.00% | ~72 |
+| Butter Fingers | 75.00% | ~72 |
 | Homer | 74.00% | ~71 |
-| Butter Fingers | 74.00% | ~71 |
 | Have a good trip! | 72.00% | ~69 |
+| Kickball Unlocked | 70.00% | ~67 |
 | Settle Down | 70.00% | ~67 |
-| Kickball Unlocked | 69.00% | ~66 |
 | Stay Hydrated | 64.00% | ~61 |
 | First Win | 63.00% | ~60 |
 | True Story! | 43.00% | ~41 |
 | Bedroom Secret Spot | 40.00% | ~38 |
 | Kick It | 32.00% | ~31 |
 | Classroom Secret Spot | 30.00% | ~29 |
-| At least everyone still had fun | 29.00% | ~28 |
+| At least everyone still had fun | 30.00% | ~29 |
 | Spooky | 27.00% | ~26 |
 | Grand Slam! | 26.00% | ~25 |
 | Angry Dad | 24.00% | ~23 |

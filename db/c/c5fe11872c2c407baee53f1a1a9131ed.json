@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -785,9 +785,9 @@
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_endless_c_60",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-10-07T08:09:21.2776645+00:00",
+  "LastChanged_Achievements": "2023-10-07T09:08:25.7083485+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:29.6005759+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:58:06.5891891+00:00",
-  "LastUpdate_Achievements": "2023-10-07T08:09:21.2776839+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:58:08.7400043+00:00",
+  "LastUpdate_Achievements": "2023-10-07T09:08:25.7083669+00:00"
 }

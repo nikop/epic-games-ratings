@@ -7,22 +7,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.70% | ~6,465 |
-| Zealous | 0.60% | ~5,541 |
-| Skillful | 0.60% | ~5,541 |
+| Zealous | 0.60% | ~5,542 |
+| Skillful | 0.60% | ~5,542 |
 | Handyman | 0.50% | ~4,618 |
 | Not half bad | 0.50% | ~4,618 |
 | Apt Survivor | 0.50% | ~4,618 |
 | Survival Treasures | 0.50% | ~4,618 |
 | Make Some Noise | 0.50% | ~4,618 |
-| The Grand Sacrifice | 0.40% | ~3,694 |
-| No one left behind | 0.40% | ~3,694 |
-| Medic | 0.40% | ~3,694 |
-| Nerves of steel | 0.40% | ~3,694 |
-| Bloody Millionaire | 0.40% | ~3,694 |
-| I | 0.40% | ~3,694 |
-| Sorted | 0.40% | ~3,694 |
-| Healthy Obsession | 0.40% | ~3,694 |
-| Resurgence | 0.40% | ~3,694 |
+| The Grand Sacrifice | 0.40% | ~3,695 |
+| No one left behind | 0.40% | ~3,695 |
+| Medic | 0.40% | ~3,695 |
+| Nerves of steel | 0.40% | ~3,695 |
+| Bloody Millionaire | 0.40% | ~3,695 |
+| I | 0.40% | ~3,695 |
+| Sorted | 0.40% | ~3,695 |
+| Healthy Obsession | 0.40% | ~3,695 |
+| Resurgence | 0.40% | ~3,695 |
 | Agonizing Escape | 0.30% | ~2,771 |
 | Backdoor Escape | 0.30% | ~2,771 |
 | I've got your back | 0.30% | ~2,771 |
@@ -49,6 +49,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Holiday Get-Together | 0.20% | ~1,847 |
 | Near-Death Experience | 0.20% | ~1,847 |
 | Cherish your Life | 0.20% | ~1,847 |
+| Campbell's Chapel Legacy | 0.20% | ~1,847 |
 | Unforgettable Getaway | 0.20% | ~1,847 |
 | Cutting Out | 0.20% | ~1,847 |
 | Outrun Evil | 0.20% | ~1,847 |
@@ -124,7 +125,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.10% | ~924 |
 | Smoked | 0.10% | ~924 |
 | Adept Clown | 0.10% | ~924 |
-| Campbell's Chapel Legacy | 0.10% | ~924 |
 | Whiffing to Success | 0.10% | ~924 |
 | Adept Kate | 0.10% | ~924 |
 | Outrage | 0.10% | ~924 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~924 |
 | Adept Ripley | 0.10% | ~924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,547 (Ranked 14)  
+Progressed: 923,626 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,547 | 49 |
+| 2023-10-07 | 923,626 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,952 (Ranked 13)  

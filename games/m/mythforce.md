@@ -12,8 +12,8 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 21.00% | ~806 |
 | That'll Leave a Mark | 21.00% | ~806 |
 | Mushroom Madness! | 20.00% | ~768 |
+| First Strike | 17.00% | ~652 |
 | Spending Spree | 17.00% | ~652 |
-| First Strike | 16.00% | ~614 |
 | Horder Better Faster Stronger | 16.00% | ~614 |
 | Everything Must Go! | 13.00% | ~499 |
 | Ten Steps from the Grave | 13.00% | ~499 |
