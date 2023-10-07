@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.66% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.53% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.43% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 28.69% |
+| 9 | [Volley Pals](games/v/volley_pals.md) | 28.46% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.55% |
@@ -23,7 +23,7 @@
 | 21 | [Island Cities](games/i/island_cities.md) | 16.55% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.62% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
-| 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
+| 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.28% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 26 | [Remains](games/r/remains.md) | 12.00% |
 | 27 | [Anna's Quest](games/a/anna's_quest.md) | 11.76% |
@@ -42,13 +42,13 @@
 | 40 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.46% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.69% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -63,11 +63,11 @@
 | 60 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
-| 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
+| 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.00% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.87% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
@@ -83,8 +83,8 @@
 | 81 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 82 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
 | 82 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 82 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.12% |
 | 82 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
 | 86 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 87 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 87 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -124,8 +124,8 @@
 | 122 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.40% |
 | 123 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
 | 123 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
-| 125 | [Chorus](games/c/chorus.md) | 1.38% |
 | 125 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
+| 126 | [Chorus](games/c/chorus.md) | 1.37% |
 | 127 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 128 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 128 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
@@ -226,9 +226,9 @@
 | 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 224 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 224 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.16% |
-| 228 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 228 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
+| 227 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.15% |
+| 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 231 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
