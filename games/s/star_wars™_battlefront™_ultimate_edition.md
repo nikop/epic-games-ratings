@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~423 |
+| New Recruit | 90.00% | ~424 |
 | Off to a good start | 68.00% | ~320 |
-| Do... or do not. There is no try | 52.00% | ~244 |
-| A good blaster at your side | 36.00% | ~169 |
-| Scrap collector | 22.00% | ~103 |
+| Do... or do not. There is no try | 52.00% | ~245 |
+| A good blaster at your side | 36.00% | ~170 |
+| Scrap collector | 22.00% | ~104 |
+| All right, I'll give it a try | 20.00% | ~94 |
 | I suggest a new strategy | 20.00% | ~94 |
 | Great shot, kid! | 20.00% | ~94 |
-| All right, I'll give it a try | 19.00% | ~89 |
 | Shoot first | 18.00% | ~85 |
 | The power of the Force | 17.00% | ~80 |
 | Collector | 17.00% | ~80 |
@@ -26,8 +26,8 @@
 | Judge me by my size, do you? | 10.00% | ~47 |
 | "Gonk? Gonk!" | 9.00% | ~42 |
 | A tremor in the Force | 9.00% | ~42 |
-| Support the troops | 9.00% | ~42 |
 | Distinguished | 8.00% | ~38 |
+| Support the troops | 8.00% | ~38 |
 | On the ball | 6.00% | ~28 |
 | Not bad for a little furball | 6.00% | ~28 |
 | Patience you must have | 6.00% | ~28 |
@@ -57,8 +57,8 @@
 | Onwards! | 2.00% | ~9 |
 | A New Hope | 1.00% | ~5 |
 | I’ll take that bet | 1.00% | ~5 |
-| in a galaxy far, far away.... | 0.90% | ~4 |
-| Walker defender | 0.90% | ~4 |
+| in a galaxy far, far away.... | 0.80% | ~4 |
+| Walker defender | 0.80% | ~4 |
 | That got him! | 0.60% | ~3 |
 | Don't get cocky | 0.60% | ~3 |
 | Master | 0.60% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 277)  
+Progressed: 471 (Ranked 277)  
 Completed: 1 (0.21%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.21%) (Ranked 215)
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
-| 2023-10-07 | 470 | 1 |
+| 2023-10-07 | 471 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

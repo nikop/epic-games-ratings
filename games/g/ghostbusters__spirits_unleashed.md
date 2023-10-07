@@ -23,19 +23,19 @@ Rating: 4.50 (Ranked 572)
 | Animated | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
+| Terrifying | 0.70% | ~184 |
 | Ectoplasmic Entity | 0.60% | ~158 |
 | Ghostbuster In Training | 0.60% | ~158 |
 | Right back at ya | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
-| Terrifying | 0.60% | ~158 |
 | Welcome to the Crew | 0.60% | ~158 |
 | Side Hustle | 0.50% | ~131 |
 | Skilled | 0.50% | ~131 |
+| Stunner | 0.50% | ~131 |
 | We have the best insurance | 0.40% | ~105 |
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
-| Stunner | 0.40% | ~105 |
 | Collector | 0.30% | ~79 |
 | Diabolical | 0.30% | ~79 |
 | Escape Artist | 0.30% | ~79 |

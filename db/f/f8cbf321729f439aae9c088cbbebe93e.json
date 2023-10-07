@@ -4,7 +4,7 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "_00",
       "SetID": "670ak8f",
       "Name": "Immunity",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_01",
@@ -108,9 +108,9 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_05",
@@ -171,8 +171,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:05:16.7015839+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:05:33.2449462+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:16.5401504+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:57:49.1905754+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:05:16.7015931+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:57:48.6105744+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:05:33.2449555+00:00"
 }

@@ -2318,7 +2318,7 @@
   ],
   "EOS_Progressed": 26256,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14681,9 +14681,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Stylish",
@@ -14729,9 +14729,9 @@
       "ID": "Terrifying",
       "SetID": "819popo",
       "Name": "Terrifying",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 184
     },
     {
       "ID": "Therapeutic",
@@ -14802,8 +14802,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-06T22:59:32.4326759+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:07:38.4074937+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:08:36.6452533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:59:35.7616602+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:07:38.407751+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:59:58.5859559+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:08:36.6453586+00:00"
 }

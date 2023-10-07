@@ -6,18 +6,19 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~6,463 |
+| It wakes | 0.70% | ~6,464 |
 | Zealous | 0.60% | ~5,540 |
 | Skillful | 0.60% | ~5,540 |
-| Not half bad | 0.50% | ~4,616 |
-| Apt Survivor | 0.50% | ~4,616 |
-| Survival Treasures | 0.50% | ~4,616 |
-| Make Some Noise | 0.50% | ~4,616 |
+| Not half bad | 0.50% | ~4,617 |
+| Apt Survivor | 0.50% | ~4,617 |
+| Survival Treasures | 0.50% | ~4,617 |
+| Make Some Noise | 0.50% | ~4,617 |
 | No one left behind | 0.40% | ~3,693 |
 | Medic | 0.40% | ~3,693 |
 | Handyman | 0.40% | ~3,693 |
 | Nerves of steel | 0.40% | ~3,693 |
 | Bloody Millionaire | 0.40% | ~3,693 |
+| I | 0.40% | ~3,693 |
 | Sorted | 0.40% | ~3,693 |
 | Healthy Obsession | 0.40% | ~3,693 |
 | Resurgence | 0.40% | ~3,693 |
@@ -28,7 +29,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.30% | ~2,770 |
 | Perfect Killing | 0.30% | ~2,770 |
 | Risk it all | 0.30% | ~2,770 |
-| I | 0.30% | ~2,770 |
+| II | 0.30% | ~2,770 |
 | Engineer | 0.30% | ~2,770 |
 | Wounded Healer | 0.30% | ~2,770 |
 | Close Shave | 0.30% | ~2,770 |
@@ -40,7 +41,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.20% | ~1,847 |
 | Apt Killer | 0.20% | ~1,847 |
 | Vulture | 0.20% | ~1,847 |
-| II | 0.20% | ~1,847 |
 | III | 0.20% | ~1,847 |
 | III-50 | 0.20% | ~1,847 |
 | All Aboard | 0.20% | ~1,847 |
@@ -51,6 +51,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cherish your Life | 0.20% | ~1,847 |
 | Unforgettable Getaway | 0.20% | ~1,847 |
 | Cutting Out | 0.20% | ~1,847 |
+| Outrun Evil | 0.20% | ~1,847 |
 | First to the Punch | 0.20% | ~1,847 |
 | Operation: Survival | 0.20% | ~1,847 |
 | Old West Oasis | 0.20% | ~1,847 |
@@ -142,7 +143,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Plague | 0.10% | ~923 |
 | Shrine Apparatus | 0.10% | ~923 |
 | Adept Jane | 0.10% | ~923 |
-| Outrun Evil | 0.10% | ~923 |
 | Adept Ash | 0.10% | ~923 |
 | Silent Approach | 0.10% | ~923 |
 | Totally Vulnerable | 0.10% | ~923 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,300 (Ranked 14)  
+Progressed: 923,360 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,10 +406,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,300 | 49 |
+| 2023-10-07 | 923,360 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
-Sum: 259,916 (Ranked 13)  
+Sum: 259,952 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -419,7 +419,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,364 |
 | This game is Extremely Fun | 29,023 |
 | This game has Challenging Combat | 28,597 |
-| This game has Quickly Understood Controls | 28,528 |
+| This game has Quickly Understood Controls | 28,564 |
 | This game has Amazing Storytelling | 26,639 |
 | This game has a Competitive Community | 25,135 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -683,4 +683,4 @@ Diff (max vs sum): 2
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
-| 2023-10-07 | 4.52 | - | 33,543 | 259,916 |
+| 2023-10-07 | 4.52 | - | 33,543 | 259,952 |

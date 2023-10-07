@@ -4,7 +4,7 @@
   "ProductSlug": "realms-of-alterra-7735a3",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T13:57:17.0176716+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:59:36.6232026+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:05:09.3367211+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:59:59.3226432+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:05:25.7396758+00:00"
 }

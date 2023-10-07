@@ -12,6 +12,7 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 0.50% | ~754 |
 | Ravenous | 0.40% | ~603 |
 | Harmless | 0.30% | ~452 |
+| Feast | 0.30% | ~452 |
 | Silenced Whispers | 0.30% | ~452 |
 | Devourer | 0.30% | ~452 |
 | Yank | 0.30% | ~452 |
@@ -20,7 +21,6 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.20% | ~301 |
 | Jawcrab | 0.20% | ~302 |
 | Jawstag | 0.20% | ~302 |
-| Feast | 0.20% | ~302 |
 | Watcher | 0.20% | ~302 |
 | Sharpened Vessel | 0.20% | ~302 |
 | Spiral Heart | 0.10% | ~151 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,804 (Ranked 69)  
+Progressed: 150,811 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,17 +200,17 @@ Completed: 1 (0.00%) (Ranked 307)
 | 2023-10-04 | 150,205 | 1 |
 | 2023-10-05 | 150,488 | 1 |
 | 2023-10-06 | 150,744 | 1 |
-| 2023-10-07 | 150,804 | 1 |
+| 2023-10-07 | 150,811 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
-Sum: 269 (Ranked 360)  
+Sum: 270 (Ranked 360)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 39 |
 | This game has Unique Visuals | 39 |
-| This game has Challenging Combat | 33 |
+| This game has Challenging Combat | 34 |
 | This game is Extremely Fun | 31 |
 | This game has Amazing Storytelling | 31 |
 | This game has a Creative Community | 30 |
@@ -325,3 +325,4 @@ Diff (max vs sum): 71
 | 2023-10-04 | 4.59 | - | 42 | 267 |
 | 2023-10-05 | 4.59 | - | 42 | 268 |
 | 2023-10-06 | 4.59 | - | 42 | 269 |
+| 2023-10-07 | 4.59 | - | 42 | 270 |

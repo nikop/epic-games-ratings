@@ -673,7 +673,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346621,
+  "EOS_Progressed": 346623,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 0,
@@ -19753,6 +19753,11 @@
       "Time": "2023-10-07T04:04:27.99193+00:00",
       "NumProgressed": 346621,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-07T05:04:55.6941571+00:00",
+      "NumProgressed": 346623,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19972,7 +19977,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159446
+      "UsersEstimate": 159447
     },
     {
       "ID": "ach028",
@@ -19988,7 +19993,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38128
+      "UsersEstimate": 38129
     },
     {
       "ID": "ach030",
@@ -20100,7 +20105,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24263
+      "UsersEstimate": 24264
     },
     {
       "ID": "ach044",
@@ -20124,7 +20129,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24263
+      "UsersEstimate": 24264
     },
     {
       "ID": "ach047",
@@ -20164,7 +20169,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38128
+      "UsersEstimate": 38129
     },
     {
       "ID": "ach052",
@@ -20292,7 +20297,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55459
+      "UsersEstimate": 55460
     },
     {
       "ID": "ach069",
@@ -20372,7 +20377,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24263
+      "UsersEstimate": 24264
     },
     {
       "ID": "ach079",
@@ -20403,7 +20408,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346621,
+      "Progressed": 346623,
       "Completed": 7
     }
   ],
@@ -20411,8 +20416,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:04:27.9919296+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:04:55.6941565+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.1527529+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:57:16.9452049+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:27.992146+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:57:08.1816921+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:04:55.6943717+00:00"
 }

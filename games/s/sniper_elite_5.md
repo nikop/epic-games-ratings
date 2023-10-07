@@ -5,8 +5,8 @@ Rating: 4.45 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,703 |
-| Confirming Suspicions | 41.00% | ~1,518 |
+| Meeting Resistance | 46.00% | ~1,704 |
+| Confirming Suspicions | 41.00% | ~1,519 |
 | The Kraken Wakes | 36.00% | ~1,333 |
 | It's Starting to Crack | 33.00% | ~1,222 |
 | Lord of War | 30.00% | ~1,111 |
@@ -22,18 +22,18 @@ Rating: 4.45 (Ranked 643)
 | Explosive Efficiency | 19.00% | ~704 |
 | Gunslinger | 18.00% | ~667 |
 | Just a Flesh Wound | 17.00% | ~630 |
-| Climbing the Ladder | 16.00% | ~592 |
-| Der Geist | 16.00% | ~592 |
-| Close Quarters | 16.00% | ~592 |
-| Snake in the Grass | 15.00% | ~555 |
-| Brains of the Operation | 15.00% | ~555 |
-| No Stone Unturned | 14.00% | ~518 |
-| Enemy at the Gates | 14.00% | ~518 |
-| Fields of Glory | 14.00% | ~518 |
-| Skirmisher | 14.00% | ~518 |
-| Die Nussknacker Sweet! | 14.00% | ~518 |
-| Opposing Force | 13.00% | ~481 |
-| Set Europe Ablaze | 13.00% | ~481 |
+| Climbing the Ladder | 16.00% | ~593 |
+| Der Geist | 16.00% | ~593 |
+| Close Quarters | 16.00% | ~593 |
+| Snake in the Grass | 15.00% | ~556 |
+| Brains of the Operation | 15.00% | ~556 |
+| No Stone Unturned | 14.00% | ~519 |
+| Enemy at the Gates | 14.00% | ~519 |
+| Fields of Glory | 14.00% | ~519 |
+| Skirmisher | 14.00% | ~519 |
+| Die Nussknacker Sweet! | 14.00% | ~519 |
+| Opposing Force | 13.00% | ~482 |
+| Set Europe Ablaze | 13.00% | ~482 |
 | Precision Is Key | 9.00% | ~333 |
 | My Little Friend | 9.00% | ~333 |
 | Rigged to Blow | 8.00% | ~296 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 643)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,703 (Ranked 178)  
+Progressed: 3,704 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 11 (0.30%) (Ranked 199)
 | 2023-10-04 | 3,697 | 11 |
 | 2023-10-05 | 3,700 | 11 |
 | 2023-10-06 | 3,703 | 11 |
+| 2023-10-07 | 3,704 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

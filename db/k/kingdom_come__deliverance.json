@@ -7612,10 +7612,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27926,
       "NumberOfAwardsMax": 7498
+    },
+    {
+      "Time": "2023-10-07T04:58:58.8459722+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27927,
+      "NumberOfAwardsMax": 7498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27926,
+  "NumberOfAwards": 27927,
   "NumberOfAwardsMax": 7498,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7665,7 +7671,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1646
+      "Count": 1647
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7698,9 +7704,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 803899,
+  "EOS_Progressed": 803900,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26633,6 +26639,11 @@
       "Time": "2023-10-07T04:05:07.0763507+00:00",
       "NumProgressed": 803899,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T05:05:23.6446829+00:00",
+      "NumProgressed": 803900,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26948,7 +26959,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "InfernalJustice",
@@ -27092,7 +27103,7 @@
       "Name": "Perfectionist",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "Pilgrim",
@@ -27299,15 +27310,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 803899,
+      "Progressed": 803900,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-06T11:58:08.1265974+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:05:07.0763502+00:00",
+  "LastChanged": "2023-10-07T04:58:58.8459721+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:05:23.6446826+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:20.9607732+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:58:46.3412654+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:05:07.0765592+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:58:58.8459727+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:05:23.6448706+00:00"
 }

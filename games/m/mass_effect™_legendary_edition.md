@@ -30,20 +30,20 @@
 | Krogan Ally | 45.00% | ~259 |
 | Merciless | 45.00% | ~259 |
 | Head Hunter | 43.00% | ~248 |
+| Operative | 42.00% | ~242 |
 | Veteran | 41.00% | ~236 |
 | Missing in Action | 41.00% | ~236 |
 | Very Elusive | 41.00% | ~236 |
-| Operative | 41.00% | ~236 |
 | Scholar | 41.00% | ~236 |
 | Power Full | 39.00% | ~225 |
 | The Professor | 38.00% | ~219 |
 | The Archangel | 37.00% | ~213 |
 | Completionist | 36.00% | ~207 |
 | The Convict | 36.00% | ~207 |
+| Archivist | 35.00% | ~202 |
 | Colony Defense | 35.00% | ~202 |
 | The Krogan | 35.00% | ~202 |
 | Galactic Explorer | 35.00% | ~202 |
-| Archivist | 34.00% | ~196 |
 | The Quarian | 33.00% | ~190 |
 | Broke, Blind, and Bedlam | 33.00% | ~190 |
 | Ghost Ship | 32.00% | ~184 |
@@ -68,8 +68,8 @@
 | Focused | 28.00% | ~161 |
 | Doppelganger | 28.00% | ~161 |
 | Bringer of War | 28.00% | ~161 |
+| First Aid Specialist | 27.00% | ~156 |
 | Friend or Foe | 27.00% | ~156 |
-| First Aid Specialist | 26.00% | ~150 |
 | Mobilizer | 26.00% | ~150 |
 | Untouchable | 25.00% | ~144 |
 | Mission Accomplished | 25.00% | ~144 |

@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,214 |
-| Photogenic | 86.00% | ~7,937 |
-| Surge Gauntlet Jockey | 83.00% | ~7,660 |
-| Plug It In | 82.00% | ~7,568 |
+| Let's Get This Party Started | 89.00% | ~8,215 |
+| Photogenic | 86.00% | ~7,938 |
+| Surge Gauntlet Jockey | 83.00% | ~7,661 |
+| Plug It In | 82.00% | ~7,569 |
 | Adventure Time | 78.00% | ~7,199 |
-| Playing With Power | 76.00% | ~7,014 |
+| Playing With Power | 76.00% | ~7,015 |
 | Coup d'Etat | 58.00% | ~5,353 |
-| You're Fired | 56.00% | ~5,168 |
+| You're Fired | 56.00% | ~5,169 |
 | Get Furious | 55.00% | ~5,076 |
 | Gunplay And Cosplay | 54.00% | ~4,984 |
 | Hacks In Stacks | 54.00% | ~4,984 |
 | Meching Enemies | 48.00% | ~4,430 |
-| Ticket Toddler | 43.00% | ~3,968 |
-| Booty Bashing | 39.00% | ~3,599 |
+| Ticket Toddler | 43.00% | ~3,969 |
+| Booty Bashing | 39.00% | ~3,600 |
 | Field Medic | 37.00% | ~3,415 |
 | Here Comes a New Challenger | 37.00% | ~3,415 |
 | Rapid Response | 33.00% | ~3,046 |
@@ -32,7 +32,7 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 15.00% | ~1,384 |
 | The Final Blow | 14.00% | ~1,292 |
 | To Be Continued | 13.00% | ~1,200 |
-| Light My Fire | 12.00% | ~1,107 |
+| Light My Fire | 12.00% | ~1,108 |
 | Seasoned Adventurer | 11.00% | ~1,015 |
 | 1.21 Gigawatts | 10.00% | ~923 |
 | Get In The Ring! | 9.00% | ~831 |
@@ -40,8 +40,8 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 8.00% | ~738 |
 | Surge Gauntlet Scholar | 6.00% | ~554 |
 | Ticket Titan | 6.00% | ~554 |
-| Master of Arms | 5.00% | ~461 |
-| Stop Hitting Yourself | 5.00% | ~461 |
+| Master of Arms | 5.00% | ~462 |
+| Stop Hitting Yourself | 5.00% | ~462 |
 | Ground Control | 4.00% | ~369 |
 | No Chill | 4.00% | ~369 |
 | Start Your Collection | 4.00% | ~369 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~37 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,229 (Ranked 149)  
+Progressed: 9,230 (Ranked 149)  
 Completed: 1 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.01%) (Ranked 289)
 | 2023-10-04 | 9,197 | 1 |
 | 2023-10-05 | 9,212 | 1 |
 | 2023-10-06 | 9,226 | 1 |
-| 2023-10-07 | 9,229 | 1 |
+| 2023-10-07 | 9,230 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 395)  
 Sum: 462 (Ranked 318)  

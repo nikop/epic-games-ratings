@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,627 |
 | Saviour | 0.70% | ~5,627 |
 | Edward Kelly | 0.60% | ~4,823 |
-| I Can Quit Anytime | 0.50% | ~4,019 |
-| Perfectionist | 0.50% | ~4,019 |
+| I Can Quit Anytime | 0.50% | ~4,020 |
+| Perfectionist | 0.50% | ~4,020 |
 | Alcoholic | 0.30% | ~2,412 |
 | Sniper | 0.30% | ~2,412 |
 | Angel of Mercy | 0.20% | ~1,608 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,899 (Ranked 17)  
+Progressed: 803,900 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 803,673 | 49 |
 | 2023-10-05 | 803,759 | 49 |
 | 2023-10-06 | 803,884 | 49 |
-| 2023-10-07 | 803,899 | 49 |
+| 2023-10-07 | 803,900 | 49 |
 ## Awards
 Max (Character Customization): 7,498  (Ranked 48)  
-Sum: 27,926 (Ranked 48)  
+Sum: 27,927 (Ranked 48)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 1,673 |
 | This game is Extremely Fun | 1,673 |
 | This game has Realistic Visuals | 1,650 |
-| This game has Amazing Characters | 1,646 |
+| This game has Amazing Characters | 1,647 |
 | This game is Educational | 1,592 |
 | This game is Relaxing | 1,521 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 0
 | 2023-10-04 | 4.71 | - | 7,497 | 27,919 |
 | 2023-10-05 | 4.71 | - | 7,497 | 27,923 |
 | 2023-10-06 | 4.71 | - | 7,498 | 27,926 |
+| 2023-10-07 | 4.71 | - | 7,498 | 27,927 |

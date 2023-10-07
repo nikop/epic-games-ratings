@@ -644,7 +644,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 819,
+  "EOS_Progressed": 820,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
@@ -2384,6 +2384,11 @@
       "Time": "2023-10-07T01:45:27.3224708+00:00",
       "NumProgressed": 819,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T05:04:37.0605449+00:00",
+      "NumProgressed": 820,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2404,15 +2409,15 @@
       "Name": "Keeper of the Faith",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_11",
       "SetID": "222fo9l",
       "Name": "Betrayed",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_12",
@@ -2420,7 +2425,7 @@
       "Name": "Exodus",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_13",
@@ -2484,7 +2489,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "achievement_20",
@@ -2492,7 +2497,7 @@
       "Name": "Autofire",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_21",
@@ -2508,7 +2513,7 @@
       "Name": "A Cut Above",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_23",
@@ -2522,9 +2527,9 @@
       "ID": "achievement_24",
       "SetID": "222fo9l",
       "Name": "Eviscerator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_25",
@@ -2588,7 +2593,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "achievement_32",
@@ -2596,7 +2601,7 @@
       "Name": "Surgeon",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "achievement_33",
@@ -2644,7 +2649,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_39",
@@ -2676,7 +2681,7 @@
       "Name": "Full Clearance",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_42",
@@ -2698,9 +2703,9 @@
       "ID": "achievement_44",
       "SetID": "222fo9l",
       "Name": "Get Off My Ship!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_45",
@@ -2708,7 +2713,7 @@
       "Name": "Mindless Prey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_46",
@@ -2748,7 +2753,7 @@
       "Name": "S.O.S.",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_8",
@@ -2771,7 +2776,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 819,
+      "Progressed": 820,
       "Completed": 4
     }
   ],
@@ -2779,8 +2784,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-06T19:00:16.6194249+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:04:09.3871222+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:04:37.0605442+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.746851+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:00:56.5315983+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:09.3871777+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:01:35.0290706+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:04:37.0605983+00:00"
 }

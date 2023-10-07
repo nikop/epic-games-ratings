@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:08:03.9723921+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:08:42.2910543+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:28.1707106+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:01:59.6341775+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:08:03.9724374+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:02:46.2972008+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:08:42.2910999+00:00"
 }

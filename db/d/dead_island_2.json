@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5136,9 +5136,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 691833,
+  "EOS_Progressed": 691844,
   "EOS_Completed": 2194,
-  "EOS_NewPlayers": 3623,
+  "EOS_NewPlayers": 3618,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24321,6 +24321,11 @@
       "Time": "2023-10-07T04:07:26.7313945+00:00",
       "NumProgressed": 691833,
       "NumCompleted": 2194
+    },
+    {
+      "Time": "2023-10-07T05:08:24.4746047+00:00",
+      "NumProgressed": 691844,
+      "NumCompleted": 2194
     }
   ],
   "TotalAchievements": 45,
@@ -24524,7 +24529,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6227
     },
     {
       "ID": "ach_knock_down",
@@ -24620,7 +24625,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -24674,9 +24679,9 @@
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6918
     },
     {
       "ID": "ach_well_trained",
@@ -24691,22 +24696,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691833,
+      "Progressed": 691844,
       "Completed": 2194
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17375,
-      "Completed": 17375
+      "Progressed": 17386,
+      "Completed": 17386
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-06T20:58:58.699526+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:07:26.731394+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:08:24.4746042+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:58:46.4595971+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:07:26.7315454+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:58:58.9128037+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:08:24.4747467+00:00"
 }

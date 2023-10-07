@@ -737,9 +737,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3829,
+  "EOS_Progressed": 3830,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6737,6 +6737,11 @@
       "Time": "2023-10-07T03:06:14.0507198+00:00",
       "NumProgressed": 3829,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T05:05:11.8196117+00:00",
+      "NumProgressed": 3830,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6795,9 +6800,9 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 881
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -6869,7 +6874,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -6877,7 +6882,7 @@
       "Name": "On this Episode!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -6932,15 +6937,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3829,
+      "Progressed": 3830,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-05T19:57:26.6544273+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:04:43.9218304+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:05:11.8196108+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:04.2024158+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:58:06.1236141+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:43.9218824+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:58:13.0295499+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:05:11.8196662+00:00"
 }

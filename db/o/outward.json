@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3554,
+  "EOS_Progressed": 3555,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5054,6 +5054,11 @@
       "Time": "2023-10-07T04:06:10.1522984+00:00",
       "NumProgressed": 3554,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T05:07:06.8276915+00:00",
+      "NumProgressed": 3555,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5137,7 +5142,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ForAllAurai_8",
@@ -5249,7 +5254,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5257,7 +5262,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5281,7 +5286,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "Tapped_22",
@@ -5321,7 +5326,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5385,7 +5390,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5400,15 +5405,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3554,
+      "Progressed": 3555,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:06:10.1522979+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:07:06.8276911+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:03:04.3975177+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:06:10.1523605+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:03:48.0534529+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:07:06.8277544+00:00"
 }

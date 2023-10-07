@@ -1,24 +1,24 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 333)  
+Rating: 4.63 (Ranked 334)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,498 |
-| A Thorny Situation | 70.00% | ~4,313 |
-| ... And Spit Back Out | 59.00% | ~3,636 |
-| Break-Net Speed | 47.00% | ~2,896 |
-| Bramble Breaker | 45.00% | ~2,773 |
-| Miner 49er | 42.00% | ~2,588 |
-| Humble Collector | 41.00% | ~2,526 |
+| Azoria Beckons | 73.00% | ~4,500 |
+| A Thorny Situation | 70.00% | ~4,315 |
+| ... And Spit Back Out | 59.00% | ~3,637 |
+| Break-Net Speed | 47.00% | ~2,897 |
+| Bramble Breaker | 45.00% | ~2,774 |
+| Miner 49er | 42.00% | ~2,589 |
+| Humble Collector | 41.00% | ~2,527 |
 | Calm Sailing | 35.00% | ~2,157 |
-| Open the Gate! | 31.00% | ~1,910 |
-| Mist Walker | 29.00% | ~1,787 |
-| Lumberjack | 25.00% | ~1,540 |
+| Open the Gate! | 31.00% | ~1,911 |
+| Mist Walker | 29.00% | ~1,788 |
+| Lumberjack | 25.00% | ~1,541 |
 | Oui, Chef! | 22.00% | ~1,356 |
 | Clear the Air | 16.00% | ~986 |
-| Botanical Breakthrough | 15.00% | ~924 |
+| Botanical Breakthrough | 15.00% | ~925 |
 | Beach Comber | 13.00% | ~801 |
 | Search for the Hairy Grell | 11.00% | ~678 |
 | Higher Tax Bracket | 11.00% | ~678 |
@@ -30,7 +30,7 @@ Rating: 4.63 (Ranked 333)
 | Fae Farmer | 5.00% | ~308 |
 | Scattered Scroll Scrounger | 5.00% | ~308 |
 | Azorian Anniversary | 5.00% | ~308 |
-| I Now Pronounce You... | 4.00% | ~246 |
+| I Now Pronounce You... | 4.00% | ~247 |
 | Chatty Neighbor | 3.00% | ~185 |
 | House Proud | 3.00% | ~185 |
 | Right Tool For the Job | 2.00% | ~123 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 333)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,162 (Ranked 163)  
+Progressed: 6,164 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 6,004 | 0 |
 | 2023-10-05 | 6,080 | 0 |
 | 2023-10-06 | 6,152 | 0 |
-| 2023-10-07 | 6,162 | 0 |
+| 2023-10-07 | 6,164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2990,
+  "EOS_Progressed": 2991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2023-10-07T01:45:20.0170647+00:00",
       "NumProgressed": 2990,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T05:04:31.4179973+00:00",
+      "NumProgressed": 2991,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2284,7 +2289,7 @@
       "Name": "Gathering Dust",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_0003",
@@ -2316,7 +2321,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "achievement_0007",
@@ -2324,7 +2329,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "achievement_0008",
@@ -2332,7 +2337,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "achievement_0009",
@@ -2372,7 +2377,7 @@
       "Name": "Oil and Water",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_0014",
@@ -2396,7 +2401,7 @@
       "Name": "Hitting a Season",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "achievement_0017",
@@ -2436,7 +2441,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "achievement_0022",
@@ -2612,7 +2617,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "achievement_0044",
@@ -2660,14 +2665,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2990,
+      "Progressed": 2991,
       "Completed": 0
     }
   ],
@@ -2675,8 +2680,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:04:03.9614426+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:04:31.4179967+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:02:13.7702978+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:03.9614976+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:03:02.2156691+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:04:31.4180544+00:00"
 }

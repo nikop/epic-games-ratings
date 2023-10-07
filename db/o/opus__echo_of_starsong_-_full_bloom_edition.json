@@ -4,7 +4,7 @@
   "ProductSlug": "opus-echo-of-starsong-6209ec",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.444162+00:00",
   "LastChanged": "2023-03-31T05:57:28.4441621+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:59.6214426+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:58:52.5522303+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:13.6288411+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:59:04.402084+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:04:41.2034343+00:00"
 }

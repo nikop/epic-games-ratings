@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 350,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -831,17 +831,17 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 206
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -863,9 +863,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     }
   ],
   "AchievementSets": [
@@ -878,8 +878,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:09:06.3505891+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:09:45.5183754+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:01:22.3941004+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:09:06.3506037+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:01:59.4283717+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:09:45.5183911+00:00"
 }

@@ -468,9 +468,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -644,9 +644,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "bad_ending",
@@ -781,8 +781,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-10-07T04:08:36.4166235+00:00",
+  "LastChanged_Achievements": "2023-10-07T05:09:35.6057582+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:23.8656223+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:59:20.391601+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:08:36.4166591+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:59:34.9149805+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:09:35.6057932+00:00"
 }

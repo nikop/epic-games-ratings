@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Noctuan Champion | 17.00% | ~8 |
 | Stellar Dismantler | 15.00% | ~7 |
 | Apian Champion | 15.00% | ~7 |
 | Lacertian Champion | 15.00% | ~7 |
-| Noctuan Champion | 15.00% | ~7 |
 | Dicesmithing Time! | 13.00% | ~6 |
 | Endless Tricks | 13.00% | ~6 |
 | Loyal Partner | 13.00% | ~6 |

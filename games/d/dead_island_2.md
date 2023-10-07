@@ -35,8 +35,8 @@ Rating: 4.54 (Ranked 507)
 | Down with the Sickness | 1.00% | ~6,918 |
 | Max Headroom | 1.00% | ~6,918 |
 | Go, Bobcats! | 1.00% | ~6,918 |
-| Jumbo Keyring | 0.90% | ~6,226 |
-| Rising Star | 0.90% | ~6,226 |
+| Rising Star | 1.00% | ~6,918 |
+| Jumbo Keyring | 0.90% | ~6,227 |
 | Smorgasbord | 0.80% | ~5,535 |
 | Not Even My Final Form | 0.70% | ~4,843 |
 | Internet Famous | 0.70% | ~4,843 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 507)
 | Sole Survivor | 0.40% | ~2,767 |
 | Gore Horse | 0.40% | ~2,767 |
 | Sharpest Tool in the Box | 0.40% | ~2,767 |
-| Survival Skills | 0.30% | ~2,075 |
+| Survival Skills | 0.30% | ~2,076 |
 | Donk! | 0.10% | ~692 |
 | Bucket List | 0.10% | ~692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,833 (Ranked 22)  
+Progressed: 691,844 (Ranked 22)  
 Completed: 2,194 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 2,194 (0.32%) (Ranked 195)
 | 2023-10-04 | 690,859 | 2,190 |
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
-| 2023-10-07 | 691,833 | 2,194 |
+| 2023-10-07 | 691,844 | 2,194 |
 ## Awards
 Max (Great Boss Battles): 6,339  (Ranked 58)  
 Sum: 9,463 (Ranked 91)  

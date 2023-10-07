@@ -4,7 +4,7 @@
   "ProductSlug": "wife-quest-ed5224",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-03T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.1039088+00:00",
   "LastChanged": "2023-03-31T05:57:14.1039089+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:03.5458169+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:58:11.6414332+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:04:04.4880552+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:58:19.7861208+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:04:31.9762148+00:00"
 }

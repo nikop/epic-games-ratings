@@ -4,7 +4,7 @@
   "ProductSlug": "negaxon-deathmatch-85b992",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-15T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.3229726+00:00",
   "LastChanged": "2023-03-31T05:57:56.3229727+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:14.1019754+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:59:58.742675+00:00",
-  "LastUpdate_Achievements": "2023-10-07T04:08:33.6052596+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:00:33.8856838+00:00",
+  "LastUpdate_Achievements": "2023-10-07T05:09:32.6687031+00:00"
 }
