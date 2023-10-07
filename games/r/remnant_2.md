@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,191 |
-| The Killing Jar | 8.00% | ~15,281 |
-| Expanding Horizons | 7.00% | ~13,371 |
-| Quest for Survival | 7.00% | ~13,371 |
-| Not Your Average Trait | 7.00% | ~13,371 |
+| First of Many | 9.00% | ~17,192 |
+| The Killing Jar | 8.00% | ~15,282 |
+| Expanding Horizons | 7.00% | ~13,372 |
+| Quest for Survival | 7.00% | ~13,372 |
+| Not Your Average Trait | 7.00% | ~13,372 |
 | Gleaming the Cube | 6.00% | ~11,461 |
 | Not a Janitor | 6.00% | ~11,461 |
 | Familiar Face | 6.00% | ~11,461 |
@@ -24,25 +24,25 @@ Rating: 4.76 (Ranked 119)
 | Almost There | 5.00% | ~9,551 |
 | Make Some Room | 5.00% | ~9,551 |
 | Good, But Could Be Better! | 5.00% | ~9,551 |
-| Chaos | 4.00% | ~7,640 |
-| Traitor | 4.00% | ~7,640 |
-| Forever is a Long Time Coming | 4.00% | ~7,640 |
-| Power Surge | 4.00% | ~7,640 |
-| The God Gambit | 4.00% | ~7,640 |
-| Dark Designs | 4.00% | ~7,640 |
-| Madman's Paradise | 4.00% | ~7,640 |
-| Was This Supposed To Happen? | 4.00% | ~7,640 |
-| The Web | 4.00% | ~7,640 |
-| Scrap Collector | 4.00% | ~7,640 |
-| All These Traits� | 4.00% | ~7,640 |
-| Am I Seeing This? | 3.00% | ~5,730 |
-| The Agenda | 3.00% | ~5,730 |
-| Tall Tales | 3.00% | ~5,730 |
-| Bad Moon Rising | 3.00% | ~5,730 |
-| Strapped | 3.00% | ~5,730 |
-| Edgelord | 3.00% | ~5,730 |
-| The Ultimate Weapon | 3.00% | ~5,730 |
-| No One Should Have All That Power | 3.00% | ~5,730 |
+| Chaos | 4.00% | ~7,641 |
+| Traitor | 4.00% | ~7,641 |
+| Forever is a Long Time Coming | 4.00% | ~7,641 |
+| Power Surge | 4.00% | ~7,641 |
+| The God Gambit | 4.00% | ~7,641 |
+| Dark Designs | 4.00% | ~7,641 |
+| Madman's Paradise | 4.00% | ~7,641 |
+| Was This Supposed To Happen? | 4.00% | ~7,641 |
+| The Web | 4.00% | ~7,641 |
+| Scrap Collector | 4.00% | ~7,641 |
+| All These Traits� | 4.00% | ~7,641 |
+| Am I Seeing This? | 3.00% | ~5,731 |
+| The Agenda | 3.00% | ~5,731 |
+| Tall Tales | 3.00% | ~5,731 |
+| Bad Moon Rising | 3.00% | ~5,731 |
+| Strapped | 3.00% | ~5,731 |
+| Edgelord | 3.00% | ~5,731 |
+| The Ultimate Weapon | 3.00% | ~5,731 |
+| No One Should Have All That Power | 3.00% | ~5,731 |
 | Crafty | 2.00% | ~3,820 |
 | Only Human | 2.00% | ~3,820 |
 | Red Room | 2.00% | ~3,820 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Proving Grounds | 1.00% | ~1,910 |
 | Ghost in the Machine | 0.90% | ~1,719 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,012 (Ranked 66)  
+Progressed: 191,022 (Ranked 66)  
 Completed: 368 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 368 (0.19%) (Ranked 218)
 | 2023-10-04 | 190,094 | 359 |
 | 2023-10-05 | 190,476 | 363 |
 | 2023-10-06 | 190,955 | 367 |
-| 2023-10-07 | 191,012 | 368 |
+| 2023-10-07 | 191,022 | 368 |
 ## Awards
 Max (Great Boss Battles): 1,785  (Ranked 116)  
 Sum: 3,783 (Ranked 153)  

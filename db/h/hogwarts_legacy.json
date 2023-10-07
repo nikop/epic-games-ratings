@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8634,10 +8634,10 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297921,
-  "EOS_Completed": 481,
-  "EOS_NewPlayers": 384,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 297922,
+  "EOS_Completed": 482,
+  "EOS_NewPlayers": 382,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -26889,6 +26889,11 @@
       "Time": "2023-10-07T01:48:35.5291083+00:00",
       "NumProgressed": 297921,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-07T03:08:33.0040825+00:00",
+      "NumProgressed": 297922,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -26964,7 +26969,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "PFA_18",
@@ -27259,16 +27264,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297921,
-      "Completed": 481
+      "Progressed": 297922,
+      "Completed": 482
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T23:57:12.5667474+00:00",
-  "LastChanged_Achievements": "2023-10-07T02:22:53.0101854+00:00",
+  "LastChanged_Achievements": "2023-10-07T03:08:33.0040819+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:12:21.6762585+00:00",
-  "LastUpdate_Achievements": "2023-10-07T02:22:53.0105485+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:57:19.7047255+00:00",
+  "LastUpdate_Achievements": "2023-10-07T03:08:33.0043483+00:00"
 }

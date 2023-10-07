@@ -6,28 +6,28 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 1.00% | ~144 |
-| Settler | 1.00% | ~144 |
-| Play a Single Player Game | 1.00% | ~144 |
+| Explorer | 1.00% | ~145 |
+| Settler | 1.00% | ~145 |
+| Play a Single Player Game | 1.00% | ~145 |
+| Intrepid | 0.80% | ~116 |
 | Friendly Family | 0.80% | ~116 |
-| Intrepid | 0.70% | ~101 |
+| Good | 0.70% | ~101 |
+| Strong | 0.70% | ~101 |
 | Hanging Gardens | 0.70% | ~101 |
 | Kushite Paganism | 0.70% | ~101 |
 | Able | 0.60% | ~87 |
 | Architect | 0.60% | ~87 |
-| Good | 0.60% | ~87 |
 | Learned | 0.60% | ~87 |
 | Mason | 0.60% | ~87 |
 | Noble | 0.60% | ~87 |
 | Pioneer | 0.60% | ~87 |
-| Strong | 0.60% | ~87 |
 | Oracle | 0.60% | ~87 |
+| Judaism | 0.60% | ~87 |
 | Trade Caravan | 0.60% | ~87 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
-| Judaism | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
 | Greek Paganism | 0.50% | ~72 |
 | Naming Landmarks | 0.50% | ~72 |
@@ -55,12 +55,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.30% | ~43 |
 | Legendary Cities | 0.30% | ~43 |
 | Able Difficulty | 0.30% | ~43 |
+| Artisans | 0.30% | ~43 |
+| Champions | 0.30% | ~43 |
 | Furious Family | 0.30% | ~43 |
 | Apadana | 0.30% | ~43 |
+| Colossus | 0.30% | ~43 |
 | Mausoleum | 0.30% | ~43 |
 | Musaeum | 0.30% | ~43 |
 | Necropolis | 0.30% | ~43 |
 | Learn to Play 2 | 0.30% | ~43 |
+| Learn to Play 3 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
 | Egyptian Paganism | 0.30% | ~43 |
 | Beloved | 0.20% | ~29 |
@@ -72,20 +76,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
 | Just Difficulty | 0.20% | ~29 |
-| Artisans | 0.20% | ~29 |
-| Champions | 0.20% | ~29 |
 | Patrons | 0.20% | ~29 |
 | Sages | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
 | Hittite Iron | 0.20% | ~29 |
 | Acropolis | 0.20% | ~29 |
 | Circus Maximus | 0.20% | ~29 |
-| Colossus | 0.20% | ~29 |
 | Hagia Sophia | 0.20% | ~29 |
 | Temple of Solomon | 0.20% | ~29 |
 | Pantheon | 0.20% | ~29 |
 | Via Recta Souk | 0.20% | ~29 |
-| Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
 | Power to the People | 0.20% | ~29 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.20% | ~29 |
 | Mythology | 0.20% | ~29 |
 | Redemption | 0.20% | ~29 |
+| Revelation | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cimmerian Archer | 0.20% | ~29 |
 | Legionary | 0.20% | ~29 |
@@ -225,7 +226,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.10% | ~14 |
 | Enlightenment | 0.10% | ~14 |
 | Gnosticism | 0.10% | ~14 |
-| Revelation | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Three Man Chariot | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,448 (Ranked 134)  
+Progressed: 14,452 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,448 | 5 |
+| 2023-10-07 | 14,452 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

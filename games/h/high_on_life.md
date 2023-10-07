@@ -6,6 +6,7 @@ Rating: 4.63 (Ranked 334)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.40% | ~97 |
+| Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Satisfied Gus-tomer | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
@@ -16,7 +17,6 @@ Rating: 4.63 (Ranked 334)
 | Hardest Battle In The Game | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |
 | Who's The Boss? | 0.30% | ~72 |
-| Don't Knife The Hand That Feeds | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Creature Feature | 0.20% | ~48 |

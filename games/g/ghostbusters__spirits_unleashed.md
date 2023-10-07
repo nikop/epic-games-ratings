@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 572)
 | Swift Rift Removers | 0.90% | ~236 |
 | Teamwork | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |
+| Back Off | 0.80% | ~210 |
 | Clutch Capture | 0.80% | ~210 |
 | Cultured | 0.80% | ~210 |
 | There you are! | 0.80% | ~210 |
 | Whoopsie | 0.80% | ~210 |
 | Animated | 0.70% | ~184 |
-| Back Off | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
 | Ectoplasmic Entity | 0.60% | ~158 |

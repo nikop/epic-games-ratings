@@ -6,7 +6,7 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -3380,7 +3380,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73227,
+  "EOS_Progressed": 73228,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 1,
@@ -17830,6 +17830,11 @@
       "Time": "2023-10-07T02:22:41.9975184+00:00",
       "NumProgressed": 73227,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-07T03:08:20.6536966+00:00",
+      "NumProgressed": 73228,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18025,7 +18030,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18145,7 +18150,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25629
+      "UsersEstimate": 25630
     },
     {
       "ID": "HARLEY_2",
@@ -18161,7 +18166,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14645
+      "UsersEstimate": 14646
     },
     {
       "ID": "HARLEY_4",
@@ -18185,7 +18190,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38078
+      "UsersEstimate": 38079
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18209,7 +18214,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14645
+      "UsersEstimate": 14646
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18233,7 +18238,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24897
+      "UsersEstimate": 24898
     },
     {
       "ID": "MYSTERY_02",
@@ -18257,7 +18262,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14645
+      "UsersEstimate": 14646
     },
     {
       "ID": "MYSTERY_05",
@@ -18305,7 +18310,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -18328,13 +18333,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73227,
+      "Progressed": 73228,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43507,
+      "Progressed": 43508,
       "Completed": 2666
     }
   ],
@@ -18342,8 +18347,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-06T10:59:03.8544368+00:00",
-  "LastChanged_Achievements": "2023-10-07T02:22:41.9975176+00:00",
+  "LastChanged_Achievements": "2023-10-07T03:08:20.6536961+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:14:31.3317933+00:00",
-  "LastUpdate_Achievements": "2023-10-07T02:22:41.9976616+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:59:35.780603+00:00",
+  "LastUpdate_Achievements": "2023-10-07T03:08:20.6538513+00:00"
 }

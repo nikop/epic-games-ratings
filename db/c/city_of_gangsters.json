@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346614,
+  "EOS_Progressed": 346617,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19743,6 +19743,11 @@
       "Time": "2023-10-07T02:20:00.7390297+00:00",
       "NumProgressed": 346614,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-07T03:05:50.9934366+00:00",
+      "NumProgressed": 346617,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19754,7 +19759,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach002",
@@ -19786,7 +19791,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach006",
@@ -19858,7 +19863,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51992
+      "UsersEstimate": 51993
     },
     {
       "ID": "ach015",
@@ -19906,7 +19911,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach021",
@@ -19914,7 +19919,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach022",
@@ -19962,7 +19967,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159442
+      "UsersEstimate": 159444
     },
     {
       "ID": "ach028",
@@ -20058,7 +20063,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34661
+      "UsersEstimate": 34662
     },
     {
       "ID": "ach040",
@@ -20170,7 +20175,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach054",
@@ -20178,7 +20183,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach055",
@@ -20210,7 +20215,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10398
+      "UsersEstimate": 10399
     },
     {
       "ID": "ach059",
@@ -20218,7 +20223,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34661
+      "UsersEstimate": 34662
     },
     {
       "ID": "ach060",
@@ -20282,7 +20287,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55458
+      "UsersEstimate": 55459
     },
     {
       "ID": "ach069",
@@ -20393,7 +20398,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346614,
+      "Progressed": 346617,
       "Completed": 7
     }
   ],
@@ -20401,8 +20406,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-07T02:20:00.739029+00:00",
+  "LastChanged_Achievements": "2023-10-07T03:05:50.9934356+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:55.1527529+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:12:16.8392835+00:00",
-  "LastUpdate_Achievements": "2023-10-07T02:20:00.7392439+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:57:12.0719695+00:00",
+  "LastUpdate_Achievements": "2023-10-07T03:05:50.9938206+00:00"
 }

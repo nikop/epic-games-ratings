@@ -5136,9 +5136,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 691809,
+  "EOS_Progressed": 691814,
   "EOS_Completed": 2194,
-  "EOS_NewPlayers": 3627,
+  "EOS_NewPlayers": 3619,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24311,6 +24311,11 @@
       "Time": "2023-10-07T02:23:21.4279166+00:00",
       "NumProgressed": 691809,
       "NumCompleted": 2194
+    },
+    {
+      "Time": "2023-10-07T03:09:03.9937385+00:00",
+      "NumProgressed": 691814,
+      "NumCompleted": 2194
     }
   ],
   "TotalAchievements": 45,
@@ -24426,7 +24431,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -24681,22 +24686,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 691809,
+      "Progressed": 691814,
       "Completed": 2194
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17351,
-      "Completed": 17351
+      "Progressed": 17356,
+      "Completed": 17356
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-06T20:58:58.699526+00:00",
-  "LastChanged_Achievements": "2023-10-07T02:23:21.4279158+00:00",
+  "LastChanged_Achievements": "2023-10-07T03:09:03.9937376+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:14:03.4126791+00:00",
-  "LastUpdate_Achievements": "2023-10-07T02:23:21.4280752+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:59:04.8359233+00:00",
+  "LastUpdate_Achievements": "2023-10-07T03:09:03.9940147+00:00"
 }

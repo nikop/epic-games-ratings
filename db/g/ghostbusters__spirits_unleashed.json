@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -14396,9 +14396,9 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 210
     },
     {
       "ID": "Best_Insurance",
@@ -14797,8 +14797,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-06T22:59:32.4326759+00:00",
-  "LastChanged_Achievements": "2023-10-07T02:23:35.6650994+00:00",
+  "LastChanged_Achievements": "2023-10-07T03:09:20.3755834+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.1681167+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:15:07.9226337+00:00",
-  "LastUpdate_Achievements": "2023-10-07T02:23:35.6652194+00:00"
+  "LastUpdate_Ratings": "2023-10-07T03:00:12.2744082+00:00",
+  "LastUpdate_Achievements": "2023-10-07T03:09:20.3757265+00:00"
 }

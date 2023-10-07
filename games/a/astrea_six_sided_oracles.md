@@ -9,12 +9,12 @@
 | Endless Tricks | 13.00% | ~6 |
 | Loyal Partner | 13.00% | ~6 |
 | Mechanical Buddy | 13.00% | ~6 |
+| Meissa's Savior | 13.00% | ~6 |
 | Purification Pioneer | 13.00% | ~6 |
 | Wild's Keeper | 13.00% | ~6 |
 | Apian Champion | 13.00% | ~6 |
 | Lacertian Champion | 13.00% | ~6 |
 | Noctuan Champion | 13.00% | ~6 |
-| Meissa's Savior | 11.00% | ~5 |
 | Mind Illuminator | 11.00% | ~5 |
 | Sanctuary Guardian | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |

@@ -9,13 +9,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,117 |
 | Basic in Bulk | 3.00% | ~4,117 |
 | Titan's First Steps | 3.00% | ~4,117 |
-| Disintermediation | 2.00% | ~2,744 |
-| Another Satisfied Customer | 2.00% | ~2,744 |
-| It's Free Real Estate | 2.00% | ~2,744 |
-| Tinkle of Coins | 2.00% | ~2,744 |
-| Budding Merchant | 2.00% | ~2,744 |
-| Capitalism Ho! | 2.00% | ~2,744 |
-| Own the Means of Production | 2.00% | ~2,744 |
+| Disintermediation | 2.00% | ~2,745 |
+| Another Satisfied Customer | 2.00% | ~2,745 |
+| It's Free Real Estate | 2.00% | ~2,745 |
+| Tinkle of Coins | 2.00% | ~2,745 |
+| Budding Merchant | 2.00% | ~2,745 |
+| Capitalism Ho! | 2.00% | ~2,745 |
+| Own the Means of Production | 2.00% | ~2,745 |
 | The Daily Grind | 1.00% | ~1,372 |
 | One Easy Payment | 1.00% | ~1,372 |
 | Some Assembly Required | 1.00% | ~1,372 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,222 (Ranked 72)  
+Progressed: 137,227 (Ranked 72)  
 Completed: 163 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 163 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,222 | 163 |
+| 2023-10-07 | 137,227 | 163 |
 ## Awards
 Max (Great for Beginners): 4,771  (Ranked 71)  
 Sum: 27,340 (Ranked 49)  
