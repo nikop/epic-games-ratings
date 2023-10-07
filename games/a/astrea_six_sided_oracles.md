@@ -19,9 +19,9 @@
 | Mind Illuminator | 11.00% | ~5 |
 | Sanctuary Guardian | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |
+| Behenian Champion | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Shard Spender | 9.00% | ~4 |
-| Behenian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
 | Sadistic Plan | 7.00% | ~3 |

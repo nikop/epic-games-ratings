@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12279,
+  "EOS_Progressed": 12284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11436,6 +11436,11 @@
       "Time": "2023-10-07T11:06:25.5507735+00:00",
       "NumProgressed": 12279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T12:06:22.2993849+00:00",
+      "NumProgressed": 12284,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11447,7 +11452,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -11519,7 +11524,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5403
+      "UsersEstimate": 5405
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11535,7 +11540,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -11613,9 +11618,9 @@
       "ID": "ACH_WIN_A_GAME",
       "SetID": "5ck0pmd",
       "Name": "Art Intern",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2457
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -11639,21 +11644,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12279,
+      "Progressed": 12284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:06:25.5507731+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:06:22.2993842+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:03:47.9222615+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:06:25.5508414+00:00"
+  "LastUpdate_Ratings": "2023-10-07T12:03:55.6756917+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:06:22.2995354+00:00"
 }

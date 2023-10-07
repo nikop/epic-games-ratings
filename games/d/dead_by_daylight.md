@@ -14,32 +14,33 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.50% | ~4,619 |
 | Survival Treasures | 0.50% | ~4,619 |
 | Make Some Noise | 0.50% | ~4,619 |
-| The Grand Sacrifice | 0.40% | ~3,695 |
-| No one left behind | 0.40% | ~3,695 |
-| Medic | 0.40% | ~3,695 |
-| Nerves of steel | 0.40% | ~3,695 |
-| Bloody Millionaire | 0.40% | ~3,695 |
-| I | 0.40% | ~3,695 |
-| Sorted | 0.40% | ~3,695 |
-| Healthy Obsession | 0.40% | ~3,695 |
-| Resurgence | 0.40% | ~3,695 |
-| Preemptive Strike | 0.40% | ~3,695 |
-| Agonizing Escape | 0.30% | ~2,771 |
-| Backdoor Escape | 0.30% | ~2,771 |
-| I've got your back | 0.30% | ~2,771 |
-| Perfect Escape | 0.30% | ~2,771 |
-| Perfect Killing | 0.30% | ~2,771 |
-| Apt Killer | 0.30% | ~2,771 |
-| Risk it all | 0.30% | ~2,771 |
-| II | 0.30% | ~2,771 |
-| Engineer | 0.30% | ~2,771 |
-| Wounded Healer | 0.30% | ~2,771 |
-| Close Shave | 0.30% | ~2,771 |
-| Humanitarian | 0.30% | ~2,771 |
-| Second Act | 0.30% | ~2,771 |
+| The Grand Sacrifice | 0.40% | ~3,696 |
+| No one left behind | 0.40% | ~3,696 |
+| Medic | 0.40% | ~3,696 |
+| Nerves of steel | 0.40% | ~3,696 |
+| Bloody Millionaire | 0.40% | ~3,696 |
+| I | 0.40% | ~3,696 |
+| Sorted | 0.40% | ~3,696 |
+| Healthy Obsession | 0.40% | ~3,696 |
+| Resurgence | 0.40% | ~3,696 |
+| Preemptive Strike | 0.40% | ~3,696 |
+| Agonizing Escape | 0.30% | ~2,772 |
+| Backdoor Escape | 0.30% | ~2,772 |
+| I've got your back | 0.30% | ~2,772 |
+| Perfect Escape | 0.30% | ~2,772 |
+| Perfect Killing | 0.30% | ~2,772 |
+| Apt Killer | 0.30% | ~2,772 |
+| Risk it all | 0.30% | ~2,772 |
+| II | 0.30% | ~2,772 |
+| Engineer | 0.30% | ~2,772 |
+| Wounded Healer | 0.30% | ~2,772 |
+| Close Shave | 0.30% | ~2,772 |
+| Humanitarian | 0.30% | ~2,772 |
+| Second Act | 0.30% | ~2,772 |
 | Blood on your hands | 0.20% | ~1,848 |
 | Escape Artist | 0.20% | ~1,848 |
 | Made it out alive! | 0.20% | ~1,848 |
+| Gifts for the Fog | 0.20% | ~1,848 |
 | Vulture | 0.20% | ~1,848 |
 | III | 0.20% | ~1,848 |
 | III-50 | 0.20% | ~1,848 |
@@ -75,7 +76,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.10% | ~924 |
 | The Grind | 0.10% | ~924 |
 | The Key to Escape | 0.10% | ~924 |
-| Gifts for the Fog | 0.10% | ~924 |
 | Adept Jake | 0.10% | ~924 |
 | Adept Dwight | 0.10% | ~924 |
 | Adept Claudette | 0.10% | ~924 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~924 |
 | Adept Ripley | 0.10% | ~924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,793 (Ranked 14)  
+Progressed: 923,894 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,793 | 49 |
+| 2023-10-07 | 923,894 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,977 (Ranked 13)  

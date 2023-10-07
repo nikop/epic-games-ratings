@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250059,
+  "EOS_Progressed": 250061,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15899,6 +15899,11 @@
       "Time": "2023-10-07T10:05:20.5535891+00:00",
       "NumProgressed": 250059,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-07T12:07:45.258169+00:00",
+      "NumProgressed": 250061,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -15934,7 +15939,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52512
+      "UsersEstimate": 52513
     },
     {
       "ID": "blotbuster",
@@ -16086,7 +16091,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132531
+      "UsersEstimate": 132532
     },
     {
       "ID": "indegestible",
@@ -16110,7 +16115,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65015
+      "UsersEstimate": 65016
     },
     {
       "ID": "justABit",
@@ -16270,14 +16275,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40009
+      "UsersEstimate": 40010
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250059,
+      "Progressed": 250061,
       "Completed": 6
     }
   ],
@@ -16285,8 +16290,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:07:36.1302159+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:07:45.2581683+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:00:26.6197029+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:07:36.1303191+00:00"
+  "LastUpdate_Ratings": "2023-10-07T12:00:54.7762673+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:07:45.2583107+00:00"
 }

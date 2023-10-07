@@ -34,24 +34,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.50% | ~72 |
 | Warrior | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
+| Developing Cities | 0.50% | ~72 |
+| Great Ziggurat | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
+| Learn to Play 1 | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Greek Paganism | 0.50% | ~72 |
 | Zoroastrianism | 0.50% | ~72 |
 | Brilliant | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
-| Developing Cities | 0.40% | ~58 |
 | Strong Cities | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
-| Great Ziggurat | 0.40% | ~58 |
+| Furious Family | 0.40% | ~58 |
 | Musaeum | 0.40% | ~58 |
 | Necropolis | 0.40% | ~58 |
-| Learn to Play 1 | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
+| Egyptian Paganism | 0.40% | ~58 |
 | Roman Paganism | 0.40% | ~58 |
 | Kushite Pyramids | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
@@ -59,16 +61,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.30% | ~43 |
 | Intercessor | 0.30% | ~43 |
 | Legendary Cities | 0.30% | ~43 |
+| Just Difficulty | 0.30% | ~43 |
 | Artisans | 0.30% | ~43 |
 | Champions | 0.30% | ~43 |
-| Furious Family | 0.30% | ~43 |
+| Sages | 0.30% | ~43 |
 | Acropolis | 0.30% | ~43 |
 | Apadana | 0.30% | ~43 |
 | Colossus | 0.30% | ~43 |
 | Mausoleum | 0.30% | ~43 |
 | Learn to Play 3 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
-| Egyptian Paganism | 0.30% | ~43 |
+| Mythology | 0.30% | ~43 |
 | Beloved | 0.20% | ~29 |
 | Conqueror | 0.20% | ~29 |
 | Mighty | 0.20% | ~29 |
@@ -76,10 +79,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~29 |
 | Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
-| Just Difficulty | 0.20% | ~29 |
 | Patrons | 0.20% | ~29 |
 | Riders | 0.20% | ~29 |
-| Sages | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
 | Hittite Iron | 0.20% | ~29 |
 | Circus Maximus | 0.20% | ~29 |
@@ -93,12 +94,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.20% | ~29 |
 | Persian Paganism | 0.20% | ~29 |
 | Building Wonders | 0.20% | ~29 |
+| Gnosticism | 0.20% | ~29 |
 | Legalism | 0.20% | ~29 |
-| Mythology | 0.20% | ~29 |
 | Redemption | 0.20% | ~29 |
 | Revelation | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cimmerian Archer | 0.20% | ~29 |
+| Mounted Lancer | 0.20% | ~29 |
 | Legionary | 0.20% | ~29 |
 | Phalangite | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
@@ -131,6 +133,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.10% | ~14 |
 | Carthage - Rise of Rome | 0.10% | ~14 |
 | Bronze Victory (Carthage 3) | 0.10% | ~14 |
+| Gold Victory (Carthage 3) | 0.10% | ~14 |
+| Silver Victory (Carthage 3) | 0.10% | ~14 |
 | Carthage - Seizing Destiny | 0.10% | ~14 |
 | Bronze Victory (Carthage 4) | 0.10% | ~14 |
 | Carthage Campaign | 0.10% | ~14 |
@@ -227,11 +231,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.10% | ~14 |
 | Dualism | 0.10% | ~14 |
 | Enlightenment | 0.10% | ~14 |
-| Gnosticism | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
 | Three Man Chariot | 0.10% | ~14 |
-| Mounted Lancer | 0.10% | ~14 |
 | Siege Tower | 0.10% | ~14 |
 | Turreted Elephant | 0.10% | ~14 |
 | All Nations | 0.10% | ~14 |
@@ -302,8 +304,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
-| Gold Victory (Carthage 3) | 0.00% | ~0 |
-| Silver Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,465 (Ranked 134)  
+Progressed: 14,470 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,465 | 5 |
+| 2023-10-07 | 14,470 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

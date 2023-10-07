@@ -54,11 +54,11 @@
 | Ghost of the Father | 31.00% | ~180 |
 | The Cure | 31.00% | ~180 |
 | Big Game Hunter | 31.00% | ~180 |
+| Heart of Darkness | 31.00% | ~180 |
 | A Personal Touch | 30.00% | ~174 |
 | Catharsis | 30.00% | ~174 |
 | Fade Away | 30.00% | ~174 |
 | Revenge! | 30.00% | ~174 |
-| Heart of Darkness | 30.00% | ~174 |
 | Shopaholic | 30.00% | ~174 |
 | Treason | 29.00% | ~168 |
 | Agent | 29.00% | ~168 |

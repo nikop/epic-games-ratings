@@ -5,25 +5,25 @@ Rating: 4.18 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,085 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,634 |
+| First Step Into the Knight | 52.00% | ~38,086 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,635 |
 | Loose Ends | 34.00% | ~24,902 |
 | To the Victor Go the Spoils | 29.00% | ~21,240 |
-| Knighthood | 28.00% | ~20,507 |
+| Knighthood | 28.00% | ~20,508 |
 | Get ReQ'd | 25.00% | ~18,310 |
 | Whispered Words | 25.00% | ~18,310 |
-| The Batman Family | 23.00% | ~16,845 |
-| Lock and Key | 23.00% | ~16,845 |
-| Something in the Clay | 21.00% | ~15,380 |
-| Quartzer Life Crisis | 21.00% | ~15,380 |
+| The Batman Family | 23.00% | ~16,846 |
+| Lock and Key | 23.00% | ~16,846 |
+| Something in the Clay | 21.00% | ~15,381 |
+| Quartzer Life Crisis | 21.00% | ~15,381 |
 | Working Hard or Harley Working? | 20.00% | ~14,648 |
 | Unstoppable Force | 20.00% | ~14,648 |
 | Bad Apples in Every Orchard | 20.00% | ~14,648 |
 | Snow Problem | 19.00% | ~13,916 |
-| The Show Mud Go On | 18.00% | ~13,183 |
-| From Inside Gotham's Walls | 18.00% | ~13,183 |
+| The Show Mud Go On | 18.00% | ~13,184 |
+| From Inside Gotham's Walls | 18.00% | ~13,184 |
 | Protector of Gotham | 17.00% | ~12,451 |
-| Universal Health Scare | 16.00% | ~11,718 |
+| Universal Health Scare | 16.00% | ~11,719 |
 | In Your Element | 15.00% | ~10,986 |
 | Voiceless | 15.00% | ~10,986 |
 | Rock and a Hard Place | 14.00% | ~10,254 |
@@ -34,13 +34,13 @@ Rating: 4.18 (Ranked 896)
 | End of an Era | 12.00% | ~8,789 |
 | Bulldozed | 12.00% | ~8,789 |
 | Gotham Knight | 12.00% | ~8,789 |
-| Gotham City Confidential | 11.00% | ~8,056 |
+| Gotham City Confidential | 11.00% | ~8,057 |
 | Drone You Out | 10.00% | ~7,324 |
 | Out of Their League | 9.00% | ~6,592 |
 | Solid Alibi | 9.00% | ~6,592 |
 | Fusion Expert | 7.00% | ~5,127 |
-| Family Meeting | 6.00% | ~4,394 |
-| A Worthy Successor | 6.00% | ~4,394 |
+| Family Meeting | 6.00% | ~4,395 |
+| A Worthy Successor | 6.00% | ~4,395 |
 | Expert Crime Fighter | 5.00% | ~3,662 |
 | Dressed to Impress | 4.00% | ~2,930 |
 | A Momentum Occasion | 3.00% | ~2,197 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 896)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,240 (Ranked 90)  
+Progressed: 73,242 (Ranked 90)  
 Completed: 120 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 120 (0.16%) (Ranked 224)
 | 2023-10-04 | 73,139 | 122 |
 | 2023-10-05 | 73,181 | 120 |
 | 2023-10-06 | 73,220 | 120 |
-| 2023-10-07 | 73,240 | 120 |
+| 2023-10-07 | 73,242 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,784  (Ranked 97)  
-Sum: 4,668 (Ranked 140)  
+Sum: 4,670 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -43
 | This game is Relaxing | 242 |
 | This game has Quickly Understood Controls | 239 |
 | This game is Extremely Fun | 238 |
-| This game is Great for Beginners | 234 |
+| This game is Great for Beginners | 236 |
 | This game has Diverse Characters | 234 |
 | This game has Amazing Characters | 233 |
 | This game has Amazing Storytelling | 232 |
@@ -481,4 +481,4 @@ Diff (max vs sum): -43
 | 2023-10-04 | 4.18 | 2,782 | 4,657 |
 | 2023-10-05 | 4.18 | 2,784 | 4,661 |
 | 2023-10-06 | 4.18 | 2,784 | 4,663 |
-| 2023-10-07 | 4.18 | 2,784 | 4,668 |
+| 2023-10-07 | 4.18 | 2,784 | 4,670 |

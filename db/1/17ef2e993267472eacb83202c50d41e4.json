@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6943,
+  "EOS_Progressed": 6944,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -3598,6 +3598,11 @@
       "Time": "2023-10-07T11:11:36.7203428+00:00",
       "NumProgressed": 6943,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T12:11:42.4899013+00:00",
+      "NumProgressed": 6944,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3666,7 +3671,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "DHUpgraded1",
@@ -3818,7 +3823,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "HSPurchased1",
@@ -3922,7 +3927,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MaxDamageDone30000",
@@ -3978,7 +3983,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4106,7 +4111,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "SEUpgraded1",
@@ -4122,7 +4127,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "SOVUpgraded1",
@@ -4170,7 +4175,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "TSUPurchased1",
@@ -4201,7 +4206,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6943,
+      "Progressed": 6944,
       "Completed": 1
     }
   ],
@@ -4209,8 +4214,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:11:36.7203424+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:11:42.4899007+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:03:57.0458682+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:11:36.7204211+00:00"
+  "LastUpdate_Ratings": "2023-10-07T12:04:02.2599594+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:11:42.4900139+00:00"
 }

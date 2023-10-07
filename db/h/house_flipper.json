@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 220,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1932,9 +1932,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 20896,
+  "EOS_Progressed": 20897,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8967,6 +8967,11 @@
       "Time": "2023-10-07T11:08:15.4993687+00:00",
       "NumProgressed": 20896,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-07T12:08:32.5646836+00:00",
+      "NumProgressed": 20897,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -8978,7 +8983,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "CarMechanic",
@@ -9010,7 +9015,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "EstateAgent",
@@ -9026,7 +9031,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 19851
+      "UsersEstimate": 19852
     },
     {
       "ID": "GameOver",
@@ -9066,7 +9071,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "KnockKnock",
@@ -9161,15 +9166,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20896,
+      "Progressed": 20897,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-06T19:57:46.1835868+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:08:15.4993683+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:08:32.5646833+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:05.7418417+00:00",
-  "LastUpdate_Ratings": "2023-10-07T10:57:44.2660798+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:08:15.499415+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:57:57.9512193+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:08:32.564754+00:00"
 }

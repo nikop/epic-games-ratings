@@ -6,32 +6,32 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~951,426 |
-| I Need a Bigger Garage | 63.00% | ~665,998 |
-| Pump my Ride | 47.00% | ~496,856 |
-| Ghostbuster | 33.00% | ~348,856 |
-| Call Roadside Assistance | 18.00% | ~190,285 |
-| That Was Close | 18.00% | ~190,285 |
-| Quickie | 11.00% | ~116,285 |
-| California Dreamer | 7.00% | ~74,000 |
-| Can't Touch This | 5.00% | ~52,857 |
-| Carménère Taster | 4.00% | ~42,286 |
-| Comeback | 4.00% | ~42,286 |
-| Driver from Ipanema | 3.00% | ~31,714 |
-| Supersonic | 3.00% | ~31,714 |
-| Marathonist | 3.00% | ~31,714 |
-| Living Legend | 3.00% | ~31,714 |
+| The First of Many | 90.00% | ~951,448 |
+| I Need a Bigger Garage | 63.00% | ~666,014 |
+| Pump my Ride | 47.00% | ~496,868 |
+| Ghostbuster | 33.00% | ~348,864 |
+| Call Roadside Assistance | 18.00% | ~190,290 |
+| That Was Close | 18.00% | ~190,290 |
+| Quickie | 11.00% | ~116,288 |
+| California Dreamer | 7.00% | ~74,002 |
+| Can't Touch This | 5.00% | ~52,858 |
+| Carménère Taster | 4.00% | ~42,287 |
+| Comeback | 4.00% | ~42,287 |
+| Driver from Ipanema | 3.00% | ~31,715 |
+| Supersonic | 3.00% | ~31,715 |
+| Marathonist | 3.00% | ~31,715 |
+| Living Legend | 3.00% | ~31,715 |
 | God of Roads | 2.00% | ~21,143 |
 | Pathfinder | 2.00% | ~21,143 |
 | Go-Kart Champion | 2.00% | ~21,143 |
 | Completionist | 2.00% | ~21,143 |
 | Harder, Better, Faster, Stronger | 2.00% | ~21,143 |
-| The Iceman | 1.00% | ~10,571 |
-| Bollywood Star | 1.00% | ~10,571 |
-| Oil Tycoon | 1.00% | ~10,571 |
-| Round the Globe | 1.00% | ~10,571 |
-| Golden Passport | 1.00% | ~10,571 |
-| Brave and Bold | 1.00% | ~10,571 |
+| The Iceman | 1.00% | ~10,572 |
+| Bollywood Star | 1.00% | ~10,572 |
+| Oil Tycoon | 1.00% | ~10,572 |
+| Round the Globe | 1.00% | ~10,572 |
+| Golden Passport | 1.00% | ~10,572 |
+| Brave and Bold | 1.00% | ~10,572 |
 | Crocodile Hunter | 0.90% | ~9,514 |
 | Old Master | 0.90% | ~9,514 |
 | Volcano Surfer | 0.80% | ~8,457 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,057 |
 | Look Mom, No Hands! | 0.10% | ~1,057 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,140 (Ranked 13)  
+Progressed: 1,057,165 (Ranked 13)  
 Completed: 449 (0.04%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 449 (0.04%) (Ranked 271)
 | 2023-10-04 | 1,055,836 | 445 |
 | 2023-10-05 | 1,056,317 | 446 |
 | 2023-10-06 | 1,056,865 | 447 |
-| 2023-10-07 | 1,057,140 | 449 |
+| 2023-10-07 | 1,057,165 | 449 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 304)  
 Sum: 1,302 (Ranked 231)  

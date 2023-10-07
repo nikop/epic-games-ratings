@@ -103,6 +103,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.40% | ~549 |
 | The Free Encyclopedia | 0.30% | ~412 |
 | Thank You Tom Nook | 0.30% | ~412 |
+| All or Nothing! | 0.30% | ~412 |
 | Eternal Crusade | 0.30% | ~412 |
 | All Accounted For | 0.30% | ~412 |
 | Bane of Legends | 0.20% | ~274 |
@@ -111,7 +112,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.20% | ~274 |
 | Anything not Nailed Down | 0.20% | ~274 |
 | The Greatest Grind | 0.20% | ~274 |
-| All or Nothing! | 0.20% | ~274 |
 | Marvels from the World Over | 0.20% | ~274 |
 | Oligarch Monarch | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,241 (Ranked 72)  
+Progressed: 137,244 (Ranked 72)  
 Completed: 166 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,14 +289,14 @@ Completed: 166 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,241 | 166 |
+| 2023-10-07 | 137,244 | 166 |
 ## Awards
-Max (Great for Beginners): 4,771  (Ranked 71)  
-Sum: 27,341 (Ranked 49)  
+Max (Great for Beginners): 4,776  (Ranked 71)  
+Sum: 27,346 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,771 |
+| This game is Great for Beginners | 4,776 |
 | This game is Relaxing | 4,019 |
 | This game has Quickly Understood Controls | 4,010 |
 | This game has Diverse Characters | 3,905 |
@@ -559,4 +559,4 @@ Diff (max vs sum): 22
 | 2023-10-04 | 3.99 | - | 4,767 | 27,329 |
 | 2023-10-05 | 3.99 | - | 4,771 | 27,338 |
 | 2023-10-06 | 3.99 | - | 4,771 | 27,340 |
-| 2023-10-07 | 3.99 | - | 4,771 | 27,341 |
+| 2023-10-07 | 3.99 | - | 4,776 | 27,346 |

@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 317)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,136 (Ranked 119)  
+Progressed: 24,137 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 13 (0.05%) (Ranked 265)
 | 2023-10-04 | 24,118 | 12 |
 | 2023-10-05 | 24,122 | 13 |
 | 2023-10-06 | 24,133 | 13 |
-| 2023-10-07 | 24,136 | 13 |
+| 2023-10-07 | 24,137 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

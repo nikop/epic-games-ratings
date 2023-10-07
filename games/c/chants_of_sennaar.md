@@ -21,17 +21,17 @@
 | Champollion | 0.80% | ~2 |
 | Scholar | 0.80% | ~2 |
 | A new dawn | 0.80% | ~2 |
+| The darkness | 0.80% | ~2 |
 | One last step | 0.80% | ~2 |
 | I did it | 0.40% | ~1 |
 | In this together | 0.40% | ~1 |
 | Peace walker | 0.40% | ~1 |
 | A good beginning | 0.40% | ~1 |
-| The darkness | 0.40% | ~1 |
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 327)  
-Completed: 17 (6.72%) (Ranked 49)  
+Progressed: 254 (Ranked 327)  
+Completed: 17 (6.69%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,4 +109,4 @@ Completed: 17 (6.72%) (Ranked 49)
 | 2023-10-04 | 243 | 17 |
 | 2023-10-05 | 244 | 17 |
 | 2023-10-06 | 252 | 17 |
-| 2023-10-07 | 253 | 17 |
+| 2023-10-07 | 254 | 17 |

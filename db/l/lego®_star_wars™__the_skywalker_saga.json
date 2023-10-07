@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3300,18 +3300,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6646,
       "NumberOfAwardsMax": 2421
+    },
+    {
+      "Time": "2023-10-07T12:03:17.707399+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6648,
+      "NumberOfAwardsMax": 2423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6646,
-  "NumberOfAwardsMax": 2421,
+  "NumberOfAwards": 6648,
+  "NumberOfAwardsMax": 2423,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2421
+      "Count": 2423
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3380,9 +3386,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51794,
+  "EOS_Progressed": 51795,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -12710,6 +12716,11 @@
       "Time": "2023-10-07T07:04:46.8041883+00:00",
       "NumProgressed": 51794,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-10-07T12:07:07.4700047+00:00",
+      "NumProgressed": 51795,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 45,
@@ -12745,7 +12756,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40917
+      "UsersEstimate": 40918
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12833,7 +12844,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30558
+      "UsersEstimate": 30559
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12841,7 +12852,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24343
+      "UsersEstimate": 24344
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12857,7 +12868,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24861
+      "UsersEstimate": 24862
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -12881,7 +12892,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13984
+      "UsersEstimate": 13985
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -12985,7 +12996,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50240
+      "UsersEstimate": 50241
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13080,15 +13091,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51794,
+      "Progressed": 51795,
       "Completed": 237
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-10-06T07:00:32.2475156+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:07:03.8125874+00:00",
+  "LastChanged": "2023-10-07T12:03:17.7073988+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:07:07.4700041+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:10.0485089+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:03:08.3173665+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:07:03.8126606+00:00"
+  "LastUpdate_Ratings": "2023-10-07T12:03:17.7073996+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:07:07.4701028+00:00"
 }

@@ -1,7 +1,7 @@
 # KINGDOM HEARTS HD 2.8 Final Chapter Prologue
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-hd-2-8-final-chapter-prologue)  
 [View Rawdata](../../db/k/kingdom_hearts_hd_2.8_final_chapter_prologue.json)  
-Rating: 4.70 (Ranked 203)  
+Rating: 4.69 (Ranked 219)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Character Customization): 134  (Ranked 313)  
@@ -150,3 +150,4 @@ Diff (max vs sum): -65
 | 2023-10-04 | 4.70 | - | 133 | 201 |
 | 2023-10-05 | 4.70 | - | 133 | 202 |
 | 2023-10-06 | 4.70 | - | 134 | 203 |
+| 2023-10-07 | 4.69 | - | 134 | 203 |

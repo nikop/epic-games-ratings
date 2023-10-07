@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 7075,
+  "EOS_Progressed": 7076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3156,6 +3156,11 @@
       "Time": "2023-10-07T11:07:39.8344191+00:00",
       "NumProgressed": 7075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T12:07:49.8637616+00:00",
+      "NumProgressed": 7076,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3208,7 +3213,7 @@
       "Name": "Titan",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "ach07",
@@ -3216,7 +3221,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "ach08",
@@ -3224,7 +3229,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "ach09",
@@ -3248,7 +3253,7 @@
       "Name": "Karnage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach12",
@@ -3280,7 +3285,7 @@
       "Name": "Give A Koin",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ach16",
@@ -3384,7 +3389,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "ach29",
@@ -3432,7 +3437,7 @@
       "Name": "Always Accessorize",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ach35",
@@ -3480,7 +3485,7 @@
       "Name": "Found You",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "ach41",
@@ -3488,7 +3493,7 @@
       "Name": "Stop Hiding",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "ach42",
@@ -3542,9 +3547,9 @@
       "ID": "ach48",
       "SetID": "47in8n6",
       "Name": "Total Disrespect",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1274
     },
     {
       "ID": "ach49",
@@ -3567,7 +3572,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7075,
+      "Progressed": 7076,
       "Completed": 0
     }
   ],
@@ -3575,8 +3580,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-07T06:03:50.5820781+00:00",
-  "LastChanged_Achievements": "2023-10-07T11:07:39.8344187+00:00",
+  "LastChanged_Achievements": "2023-10-07T12:07:49.863761+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:04:29.4891344+00:00",
-  "LastUpdate_Achievements": "2023-10-07T11:07:39.8344598+00:00"
+  "LastUpdate_Ratings": "2023-10-07T12:04:38.0087212+00:00",
+  "LastUpdate_Achievements": "2023-10-07T12:07:49.8638202+00:00"
 }

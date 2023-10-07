@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 119)
 | The Hero of Hogwarts | 10.00% | ~29,794 |
 | Challenge Accepted | 10.00% | ~29,794 |
 | Coasting Along | 10.00% | ~29,794 |
-| Followed the Butterflies | 9.00% | ~26,814 |
-| Rising From the Ashes | 9.00% | ~26,814 |
+| Followed the Butterflies | 9.00% | ~26,815 |
+| Rising From the Ashes | 9.00% | ~26,815 |
 | The Avenging Gazelle | 8.00% | ~23,835 |
 | A Sallow Grave | 8.00% | ~23,835 |
 | Flight the Good Flight | 8.00% | ~23,835 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.60% | ~1,788 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,938 (Ranked 46)  
+Progressed: 297,940 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,16 +221,16 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
-| 2023-10-07 | 297,938 | 482 |
+| 2023-10-07 | 297,940 | 482 |
 ## Awards
 Max (Character Customization): 23,322  (Ranked 17)  
-Sum: 45,205 (Ranked 31)  
+Sum: 45,209 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,322 |
 | This game has Great Boss Battles | 11,614 |
-| This game is Great for Beginners | 1,145 |
+| This game is Great for Beginners | 1,149 |
 | This game has Amazing Storytelling | 1,118 |
 | This game has Diverse Characters | 1,103 |
 | This game is Relaxing | 1,102 |
@@ -440,4 +440,4 @@ Diff (max vs sum): -14
 | 2023-10-04 | 4.76 | 23,277 | 45,048 |
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
-| 2023-10-07 | 4.76 | 23,322 | 45,205 |
+| 2023-10-07 | 4.76 | 23,322 | 45,209 |
