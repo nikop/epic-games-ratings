@@ -5,21 +5,21 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,810 |
-| On the Top Step | 88.00% | ~2,630 |
+| Getting on the Step | 94.00% | ~2,811 |
+| On the Top Step | 88.00% | ~2,631 |
 | Setting up for Success | 77.00% | ~2,302 |
 | Team Orders | 75.00% | ~2,242 |
-| Engineer | 55.00% | ~1,644 |
+| Engineer | 55.00% | ~1,645 |
 | Familiar Faces | 49.00% | ~1,465 |
-| Going the Extra Mile | 43.00% | ~1,285 |
-| Sharing the Love | 41.00% | ~1,225 |
+| Going the Extra Mile | 43.00% | ~1,286 |
+| Sharing the Love | 41.00% | ~1,226 |
 | Hitting a Season | 36.00% | ~1,076 |
-| Challenge Yourself | 34.00% | ~1,016 |
-| Making History | 32.00% | ~956 |
+| Challenge Yourself | 34.00% | ~1,017 |
+| Making History | 32.00% | ~957 |
 | A Dozen Pieces | 31.00% | ~927 |
-| Network Success | 25.00% | ~747 |
-| Writing a new Chapter | 25.00% | ~747 |
-| Spring Cleaning | 24.00% | ~717 |
+| Network Success | 25.00% | ~748 |
+| Writing a new Chapter | 25.00% | ~748 |
+| Spring Cleaning | 24.00% | ~718 |
 | Reduce | 19.00% | ~568 |
 | Ups and Downs | 19.00% | ~568 |
 | Crucial Combo | 18.00% | ~538 |
@@ -41,8 +41,8 @@ Rating: 4.66 (Ranked 281)
 | For all Those Back at the Factory | 6.00% | ~179 |
 | Living up to Expectations | 6.00% | ~179 |
 | Smooth Operator | 6.00% | ~179 |
-| Loyal Bond | 5.00% | ~149 |
-| Peak Performance | 5.00% | ~149 |
+| Loyal Bond | 5.00% | ~150 |
+| Peak Performance | 5.00% | ~150 |
 | Seasoned Rookie | 3.00% | ~90 |
 | Hitting a Century | 3.00% | ~90 |
 | Wait, I know you? | 3.00% | ~90 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,989 (Ranked 190)  
+Progressed: 2,990 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 2,928 | 0 |
 | 2023-10-05 | 2,950 | 0 |
 | 2023-10-06 | 2,987 | 0 |
-| 2023-10-07 | 2,989 | 0 |
+| 2023-10-07 | 2,990 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

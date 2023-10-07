@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3380,10 +3380,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73222,
+  "EOS_Progressed": 73226,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 260,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 261,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -17820,6 +17820,11 @@
       "Time": "2023-10-07T00:08:09.7003376+00:00",
       "NumProgressed": 73222,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-07T01:48:23.2246918+00:00",
+      "NumProgressed": 73226,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17879,7 +17884,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16841
+      "UsersEstimate": 16842
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -17903,7 +17908,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ALL_VILLAIN",
@@ -17919,7 +17924,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "CHALLENGES_1",
@@ -17943,7 +17948,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13180
+      "UsersEstimate": 13181
     },
     {
       "ID": "CLAYFACE_3",
@@ -17951,7 +17956,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18031,7 +18036,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -18047,7 +18052,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "FREEZE_1",
@@ -18055,7 +18060,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21234
+      "UsersEstimate": 21236
     },
     {
       "ID": "FREEZE_1_5",
@@ -18071,7 +18076,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13912
+      "UsersEstimate": 13913
     },
     {
       "ID": "FREEZE_3",
@@ -18079,7 +18084,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18135,7 +18140,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25628
+      "UsersEstimate": 25629
     },
     {
       "ID": "HARLEY_2",
@@ -18151,7 +18156,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14644
+      "UsersEstimate": 14645
     },
     {
       "ID": "HARLEY_4",
@@ -18175,7 +18180,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38075
+      "UsersEstimate": 38078
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18183,7 +18188,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -18199,7 +18204,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14644
+      "UsersEstimate": 14645
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18207,7 +18212,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20503
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18215,7 +18220,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "MYSTERY_01",
@@ -18223,7 +18228,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24895
+      "UsersEstimate": 24897
     },
     {
       "ID": "MYSTERY_02",
@@ -18239,7 +18244,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16841
+      "UsersEstimate": 16842
     },
     {
       "ID": "MYSTERY_04",
@@ -18247,7 +18252,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14644
+      "UsersEstimate": 14645
     },
     {
       "ID": "MYSTERY_05",
@@ -18255,7 +18260,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13180
+      "UsersEstimate": 13181
     },
     {
       "ID": "MYSTERY_06",
@@ -18263,7 +18268,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "MYSTERY_07",
@@ -18271,7 +18276,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "MYSTERY_08",
@@ -18287,7 +18292,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18318,13 +18323,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73222,
+      "Progressed": 73226,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43502,
+      "Progressed": 43506,
       "Completed": 2666
     }
   ],
@@ -18332,8 +18337,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-06T10:59:03.8544368+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:08:09.7003367+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:48:23.2246911+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:59:30.1581217+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:08:09.7005834+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:40:21.1595007+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:48:23.2248009+00:00"
 }

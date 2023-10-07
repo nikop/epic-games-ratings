@@ -13,7 +13,7 @@
 | Arms Mechanic | 61.00% | ~62 |
 | Flower Thief | 58.00% | ~59 |
 | Apostle of Flame | 56.00% | ~57 |
-| Beginner Cook | 54.00% | ~55 |
+| Beginner Cook | 55.00% | ~56 |
 | Beginner Artificer | 54.00% | ~55 |
 | Seal Breaker | 50.00% | ~50 |
 | Handyman | 48.00% | ~48 |
@@ -24,9 +24,9 @@
 | Weapon Boost | 41.00% | ~41 |
 | Flying Kobold Killer | 35.00% | ~35 |
 | Youth Magnet | 35.00% | ~35 |
+| Furious Scorpion Killer | 34.00% | ~34 |
 | Lethal Blade Mantis Killer | 34.00% | ~34 |
 | Squeaky Clean | 34.00% | ~34 |
-| Furious Scorpion Killer | 33.00% | ~33 |
 | Master Artificer | 32.00% | ~32 |
 | Kind Adventurer | 30.00% | ~30 |
 | Mermaid Killer | 28.00% | ~28 |

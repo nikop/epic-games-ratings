@@ -5,12 +5,12 @@ Rating: 4.63 (Ranked 334)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Bounty Down | 0.40% | ~97 |
 | Satisfied Gus-tomer | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | Sweezy Like Sunday Morning | 0.30% | ~72 |
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
-| First Bounty Down | 0.30% | ~72 |
 | G3 Graduation | 0.30% | ~72 |
 | Hardest Battle In The Game | 0.30% | ~72 |
 | Cold-Blooded Driller | 0.30% | ~72 |

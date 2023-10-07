@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~422 |
-| Off to a good start | 68.00% | ~319 |
+| New Recruit | 90.00% | ~423 |
+| Off to a good start | 68.00% | ~320 |
 | Do... or do not. There is no try | 52.00% | ~244 |
 | A good blaster at your side | 36.00% | ~169 |
 | Scrap collector | 22.00% | ~103 |
 | I suggest a new strategy | 20.00% | ~94 |
 | Great shot, kid! | 20.00% | ~94 |
 | All right, I'll give it a try | 19.00% | ~89 |
-| Shoot first | 18.00% | ~84 |
+| Shoot first | 18.00% | ~85 |
 | The power of the Force | 17.00% | ~80 |
 | Collector | 17.00% | ~80 |
 | Together we can rule the galaxy | 17.00% | ~80 |
@@ -32,11 +32,11 @@
 | Not bad for a little furball | 6.00% | ~28 |
 | Patience you must have | 6.00% | ~28 |
 | Don't underestimate the Force | 6.00% | ~28 |
-| I've been waiting for you | 5.00% | ~23 |
-| When 900 years old you reach... | 5.00% | ~23 |
-| Determined | 5.00% | ~23 |
-| Your journey has only started | 5.00% | ~23 |
-| That's no moon | 5.00% | ~23 |
+| I've been waiting for you | 5.00% | ~24 |
+| When 900 years old you reach... | 5.00% | ~24 |
+| Determined | 5.00% | ~24 |
+| Your journey has only started | 5.00% | ~24 |
+| That's no moon | 5.00% | ~24 |
 | Precision shot | 4.00% | ~19 |
 | Safety ain't the point of a joyride | 4.00% | ~19 |
 | City in the Clouds | 4.00% | ~19 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469 (Ranked 278)  
+Progressed: 470 (Ranked 277)  
 Completed: 1 (0.21%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 1 (0.21%) (Ranked 215)
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
+| 2023-10-07 | 470 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

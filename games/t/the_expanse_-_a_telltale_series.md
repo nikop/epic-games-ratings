@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,654 (Ranked 135)  
-Completed: 14 (0.10%) (Ranked 242)  
+Progressed: 13,656 (Ranked 135)  
+Completed: 15 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 14 (0.10%) (Ranked 242)
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
-| 2023-10-07 | 13,654 | 14 |
+| 2023-10-07 | 13,656 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

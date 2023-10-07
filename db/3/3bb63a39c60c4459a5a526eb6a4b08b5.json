@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2856,6 +2856,11 @@
       "Time": "2023-10-06T17:09:18.4690567+00:00",
       "NumProgressed": 771,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T01:50:33.2233192+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2881,9 +2886,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 425
     },
     {
       "ID": "BigPlane",
@@ -2899,7 +2904,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Calculated",
@@ -2907,7 +2912,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Close",
@@ -2915,7 +2920,7 @@
       "Name": "That Was Close!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Creator",
@@ -3081,9 +3086,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 324
     },
     {
       "ID": "NotPlanned",
@@ -3139,7 +3144,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Restructuring",
@@ -3202,14 +3207,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:10:27.5143615+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:50:33.2233188+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:02:39.2824166+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:10:27.514415+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:43:08.22866+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:50:33.2233569+00:00"
 }

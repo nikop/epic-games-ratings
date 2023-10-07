@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -1201,6 +1201,11 @@
       "Time": "2023-10-06T23:06:22.9381298+00:00",
       "NumProgressed": 469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T01:47:52.0898718+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1269,7 +1274,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_17",
@@ -1293,7 +1298,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_2",
@@ -1333,7 +1338,7 @@
       "Name": "Determined",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_24",
@@ -1365,7 +1370,7 @@
       "Name": "Your journey has only started",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_28",
@@ -1437,7 +1442,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_36",
@@ -1453,7 +1458,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_38",
@@ -1565,7 +1570,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_50",
@@ -1605,7 +1610,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_55",
@@ -1716,13 +1721,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 1
     }
   ],
@@ -1730,8 +1735,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:07:36.5033412+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:47:52.089871+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.8138505+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:04:07.2868805+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:07:36.5034463+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:44:23.9313309+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:47:52.0899301+00:00"
 }

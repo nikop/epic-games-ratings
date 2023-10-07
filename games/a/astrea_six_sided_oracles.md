@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dicesmithing Time! | 14.00% | ~6 |
-| Loyal Partner | 14.00% | ~6 |
-| Stellar Dismantler | 14.00% | ~6 |
-| Wild's Keeper | 14.00% | ~6 |
-| Apian Champion | 14.00% | ~6 |
-| Lacertian Champion | 14.00% | ~6 |
-| Noctuan Champion | 14.00% | ~6 |
+| Stellar Dismantler | 16.00% | ~7 |
+| Dicesmithing Time! | 13.00% | ~6 |
+| Loyal Partner | 13.00% | ~6 |
+| Mechanical Buddy | 13.00% | ~6 |
+| Purification Pioneer | 13.00% | ~6 |
+| Wild's Keeper | 13.00% | ~6 |
+| Apian Champion | 13.00% | ~6 |
+| Lacertian Champion | 13.00% | ~6 |
+| Noctuan Champion | 13.00% | ~6 |
 | Endless Tricks | 11.00% | ~5 |
-| Mechanical Buddy | 11.00% | ~5 |
+| Meissa's Savior | 11.00% | ~5 |
 | Mind Illuminator | 11.00% | ~5 |
-| Purification Pioneer | 11.00% | ~5 |
+| Sanctuary Guardian | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |
 | Eridanian Champion | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
-| Meissa's Savior | 9.00% | ~4 |
-| Sanctuary Guardian | 9.00% | ~4 |
 | Shard Spender | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
+| Sadistic Plan | 7.00% | ~3 |
 | Star Killer | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
 | Behenian Champion | 7.00% | ~3 |
-| Anomaly Control | 5.00% | ~2 |
-| Astrarium of Holding | 5.00% | ~2 |
-| Denying Destiny | 5.00% | ~2 |
-| Favored by the Cosmos | 5.00% | ~2 |
-| Heart Gate | 5.00% | ~2 |
-| Heavy Purger | 5.00% | ~2 |
-| Sadistic Plan | 5.00% | ~2 |
-| Sentinelphobic | 5.00% | ~2 |
-| The Corruption Goddess | 5.00% | ~2 |
-| Wave Bender | 5.00% | ~2 |
-| Aquarian Champion | 5.00% | ~2 |
-| Lacertian Mastery | 5.00% | ~2 |
+| Anomaly Control | 4.00% | ~2 |
+| Astrarium of Holding | 4.00% | ~2 |
+| Denying Destiny | 4.00% | ~2 |
+| Favored by the Cosmos | 4.00% | ~2 |
+| Heart Gate | 4.00% | ~2 |
+| Heavy Purger | 4.00% | ~2 |
+| Sentinelphobic | 4.00% | ~2 |
+| The Corruption Goddess | 4.00% | ~2 |
+| Wave Bender | 4.00% | ~2 |
+| Aquarian Champion | 4.00% | ~2 |
+| Lacertian Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 443)  
+Progressed: 45 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,3 +120,4 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 40 | 0 |
 | 2023-10-05 | 41 | 0 |
 | 2023-10-06 | 44 | 0 |
+| 2023-10-07 | 45 | 0 |

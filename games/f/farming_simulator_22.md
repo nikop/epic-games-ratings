@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,130 |
-| I read Shakespeare and stuff | 64.00% | ~31,684 |
-| Just a sprinkle | 63.00% | ~31,189 |
-| I'm stumped | 61.00% | ~30,199 |
-| Plant get enough | 60.00% | ~29,704 |
-| It's just the beginning | 59.00% | ~29,209 |
-| This is just my weekend vehicle | 58.00% | ~28,714 |
+| Own use | 75.00% | ~37,131 |
+| I read Shakespeare and stuff | 64.00% | ~31,685 |
+| Just a sprinkle | 63.00% | ~31,190 |
+| I'm stumped | 61.00% | ~30,200 |
+| Plant get enough | 60.00% | ~29,705 |
+| It's just the beginning | 59.00% | ~29,210 |
+| This is just my weekend vehicle | 58.00% | ~28,715 |
 | Hard work pays off | 53.00% | ~26,239 |
 | It's never too late to farm | 50.00% | ~24,754 |
-| All out of Land | 44.00% | ~21,783 |
+| All out of Land | 44.00% | ~21,784 |
 | Field Trip | 43.00% | ~21,288 |
 | I like to switch it up | 40.00% | ~19,803 |
 | Help me to help you | 38.00% | ~18,813 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 11.00% | ~5,446 |
 | It's sow easy | 11.00% | ~5,446 |
 | Giddy-up! | 10.00% | ~4,951 |
-| Cowherd | 7.00% | ~3,465 |
+| Cowherd | 7.00% | ~3,466 |
 | Fluffyness | 6.00% | ~2,970 |
 | Road Trip | 6.00% | ~2,970 |
 | Helper A does not stop … ever | 6.00% | ~2,970 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~198 |
 | Raisin the stakes | 0.30% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,507 (Ranked 101)  
+Progressed: 49,508 (Ranked 101)  
 Completed: 6 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 6 (0.01%) (Ranked 289)
 | 2023-10-04 | 49,420 | 6 |
 | 2023-10-05 | 49,466 | 6 |
 | 2023-10-06 | 49,506 | 6 |
-| 2023-10-07 | 49,507 | 6 |
+| 2023-10-07 | 49,508 | 6 |
 ## Awards
 Max (Great for Beginners): 5,111  (Ranked 70)  
 Sum: 40,920 (Ranked 33)  

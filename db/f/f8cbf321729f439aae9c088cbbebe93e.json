@@ -4,8 +4,8 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "_02",
@@ -100,9 +100,9 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_04",
@@ -116,17 +116,17 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_07",
@@ -171,8 +171,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:06:34.3333655+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:46:43.2248649+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:16.5401504+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:57:49.9341908+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:06:34.3333817+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:38:51.5507778+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:46:43.2248732+00:00"
 }

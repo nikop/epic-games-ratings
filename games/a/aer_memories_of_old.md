@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~16,607 |
-| Mama? | 28.00% | ~6,039 |
-| People's Haven | 18.00% | ~3,882 |
-| Cartographer | 17.00% | ~3,666 |
-| Antlers of Stone | 15.00% | ~3,235 |
-| Knowledge for Power | 14.00% | ~3,019 |
-| Gaze into the abyss | 13.00% | ~2,804 |
-| Mausoleum of Ice | 13.00% | ~2,804 |
-| Wings of Stone | 12.00% | ~2,588 |
-| Equilibrium | 12.00% | ~2,588 |
-| In the belly of the beast | 11.00% | ~2,372 |
-| Condor condo | 10.00% | ~2,157 |
-| Memorial | 9.00% | ~1,941 |
-| An uninvited guest | 8.00% | ~1,725 |
+| Light at the end of the tunnel | 77.00% | ~16,613 |
+| Mama? | 28.00% | ~6,041 |
+| People's Haven | 18.00% | ~3,884 |
+| Cartographer | 17.00% | ~3,668 |
+| Antlers of Stone | 15.00% | ~3,236 |
+| Knowledge for Power | 14.00% | ~3,021 |
+| Gaze into the abyss | 13.00% | ~2,805 |
+| Mausoleum of Ice | 13.00% | ~2,805 |
+| Wings of Stone | 12.00% | ~2,589 |
+| Equilibrium | 12.00% | ~2,589 |
+| In the belly of the beast | 11.00% | ~2,373 |
+| Condor condo | 10.00% | ~2,158 |
+| Memorial | 9.00% | ~1,942 |
+| An uninvited guest | 8.00% | ~1,726 |
 | Talk to all the spirit animals | 7.00% | ~1,510 |
 | Ripples on the surface | 6.00% | ~1,294 |
 | Tails of Stone | 6.00% | ~1,294 |
 | Baa from the past | 6.00% | ~1,294 |
 | Written in stone | 6.00% | ~1,294 |
-| Hide and Seek | 5.00% | ~1,078 |
+| Hide and Seek | 5.00% | ~1,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,567 (Ranked 121)  
+Progressed: 21,575 (Ranked 121)  
 Completed: 430 (1.99%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 430 (1.99%) (Ranked 106)
 | 2023-10-04 | 21,436 | 427 |
 | 2023-10-05 | 21,500 | 429 |
 | 2023-10-06 | 21,565 | 430 |
-| 2023-10-07 | 21,567 | 430 |
+| 2023-10-07 | 21,575 | 430 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

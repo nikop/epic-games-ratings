@@ -6,12 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 1.00% | ~144 |
 | Settler | 1.00% | ~144 |
 | Play a Single Player Game | 1.00% | ~144 |
-| Explorer | 0.90% | ~130 |
 | Friendly Family | 0.80% | ~116 |
 | Intrepid | 0.70% | ~101 |
 | Hanging Gardens | 0.70% | ~101 |
+| Kushite Paganism | 0.70% | ~101 |
 | Able | 0.60% | ~87 |
 | Architect | 0.60% | ~87 |
 | Good | 0.60% | ~87 |
@@ -20,7 +21,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.60% | ~87 |
 | Pioneer | 0.60% | ~87 |
 | Strong | 0.60% | ~87 |
-| Kushite Paganism | 0.60% | ~87 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
@@ -48,6 +48,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.40% | ~58 |
 | Zoroastrianism | 0.40% | ~58 |
 | Kushite Pyramids | 0.40% | ~58 |
+| Regicide | 0.30% | ~43 |
+| Hanging Gardens in Babylon | 0.30% | ~43 |
 | Brilliant | 0.30% | ~43 |
 | Great | 0.30% | ~43 |
 | Intercessor | 0.30% | ~43 |
@@ -60,8 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
 | Egyptian Paganism | 0.30% | ~43 |
-| Regicide | 0.20% | ~29 |
-| Hanging Gardens in Babylon | 0.20% | ~29 |
 | Beloved | 0.20% | ~29 |
 | Drillmaster | 0.20% | ~29 |
 | Conqueror | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,443 (Ranked 134)  
+Progressed: 14,447 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,443 | 5 |
+| 2023-10-07 | 14,447 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

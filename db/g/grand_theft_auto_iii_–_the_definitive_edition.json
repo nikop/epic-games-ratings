@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -508,7 +508,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8237,
+  "EOS_Progressed": 8238,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -9788,6 +9788,11 @@
       "Time": "2023-10-06T22:04:39.6653039+00:00",
       "NumProgressed": 8237,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-07T01:45:38.6809866+00:00",
+      "NumProgressed": 8238,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9799,7 +9804,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6837
+      "UsersEstimate": 6838
     },
     {
       "ID": "ACH02",
@@ -9871,7 +9876,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "ACH11",
@@ -9911,7 +9916,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH16",
@@ -9919,7 +9924,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH17",
@@ -9983,7 +9988,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH25",
@@ -10030,7 +10035,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8237,
+      "Progressed": 8238,
       "Completed": 53
     }
   ],
@@ -10038,8 +10043,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:05:26.0441363+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:45:38.6809861+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:33.8186883+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:03:53.9783634+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:05:26.0442457+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:44:12.65838+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:45:38.6810452+00:00"
 }

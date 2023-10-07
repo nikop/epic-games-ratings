@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -164,9 +164,9 @@
       "ID": "DEL_V",
       "SetID": "35d3i7a",
       "Name": "Dangerous spider.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_VI",
@@ -196,25 +196,25 @@
       "ID": "DEL_X",
       "SetID": "35d3i7a",
       "Name": "Where is my heir?",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_XI",
       "SetID": "35d3i7a",
       "Name": "You have ruined it.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_XII",
       "SetID": "35d3i7a",
       "Name": "The rope is the key.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_I",
@@ -436,17 +436,17 @@
       "ID": "PART_II",
       "SetID": "35d3i7a",
       "Name": "The Nightmare.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PART_III",
       "SetID": "35d3i7a",
       "Name": "The Truth.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROJ_I",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:08:06.425566+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:48:20.1020556+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:00:53.5161368+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:08:06.4256335+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:41:39.3858298+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:48:20.1020916+00:00"
 }

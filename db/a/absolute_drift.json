@@ -2,13 +2,13 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 700,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543831,
+  "EOS_Progressed": 1543839,
   "EOS_Completed": 700,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19574,6 +19574,11 @@
       "Time": "2023-10-07T00:06:00.6479962+00:00",
       "NumProgressed": 1543831,
       "NumCompleted": 700
+    },
+    {
+      "Time": "2023-10-07T01:46:11.5527228+00:00",
+      "NumProgressed": 1543839,
+      "NumCompleted": 700
     }
   ],
   "TotalAchievements": 20,
@@ -19593,7 +19598,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108068
+      "UsersEstimate": 108069
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -19633,7 +19638,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138945
+      "UsersEstimate": 138946
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -19681,7 +19686,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154383
+      "UsersEstimate": 154384
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -19697,7 +19702,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138945
+      "UsersEstimate": 138946
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -19705,7 +19710,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13894
+      "UsersEstimate": 13895
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -19744,15 +19749,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1543831,
+      "Progressed": 1543839,
       "Completed": 700
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:06:00.6479956+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:46:11.5527223+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:39.8553991+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:00:06.700342+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:06:00.6482303+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:40:53.8070763+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:46:11.5528198+00:00"
 }

@@ -27,7 +27,7 @@
 | Thinning the Horde | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 550)  
-Completed: 1 (20.00%) (Ranked 17)  
+Completed: 1 (20.00%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

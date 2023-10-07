@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1236,9 +1236,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19520,
+  "EOS_Progressed": 19521,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19596,6 +19596,11 @@
       "Time": "2023-10-06T23:07:45.9252386+00:00",
       "NumProgressed": 19520,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-07T01:49:12.7467953+00:00",
+      "NumProgressed": 19521,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19629,9 +19634,9 @@
       "ID": "BackToHell",
       "SetID": "6ce5bmd",
       "Name": "Back to hell",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7028
     },
     {
       "ID": "CantRunCantHide",
@@ -19639,7 +19644,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "DeadInTheAir",
@@ -19743,7 +19748,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14835
+      "UsersEstimate": 14836
     },
     {
       "ID": "MoreThanHuman",
@@ -19751,7 +19756,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "Neuromancer",
@@ -19759,7 +19764,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "ObedientMachine",
@@ -19799,7 +19804,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "PreempativeStrike",
@@ -19839,7 +19844,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "Scrapped",
@@ -19871,7 +19876,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "SwordRunner",
@@ -19879,7 +19884,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11907
+      "UsersEstimate": 11908
     },
     {
       "ID": "SwordToAGunfight",
@@ -19903,7 +19908,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -19935,7 +19940,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "WhereAreMyKeys",
@@ -19966,21 +19971,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19520,
+      "Progressed": 19521,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19520,
+      "Progressed": 19521,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-06T15:03:04.744899+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:09:02.4317744+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:49:12.7467948+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:04:09.7986601+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:09:02.432037+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:44:25.3680638+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:49:12.746905+00:00"
 }

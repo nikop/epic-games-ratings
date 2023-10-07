@@ -30,7 +30,7 @@ Number of Ratings: 425  (23.09.2022)
 | Got to Catch Them All | 32.00% | ~9,096 |
 | Deep Impact | 23.00% | ~6,538 |
 | Grab Bag | 23.00% | ~6,538 |
-| Feeding Frenzy | 18.00% | ~5,116 |
+| Feeding Frenzy | 19.00% | ~5,401 |
 | Clothesline | 17.00% | ~4,832 |
 | Say Cheese! | 15.00% | ~4,264 |
 | Sundae Best | 14.00% | ~3,979 |

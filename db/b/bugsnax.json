@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -5874,9 +5874,9 @@
       "ID": "ACH_ALL_TRANSFORM",
       "SetID": "2m0copd",
       "Name": "Feeding Frenzy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5401
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -6114,8 +6114,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:05:27.9605358+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:45:40.5380012+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:09.9340102+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:59:57.47425+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:05:27.9606075+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:40:45.3321168+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:45:40.5380417+00:00"
 }

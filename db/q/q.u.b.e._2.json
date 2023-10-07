@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2466,6 +2466,11 @@
       "Time": "2023-10-06T22:06:00.4262784+00:00",
       "NumProgressed": 627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T01:47:09.4457215+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2494,7 +2499,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2614,7 +2619,7 @@
       "Name": "Infinity Loop",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_HUB1",
@@ -2630,7 +2635,7 @@
       "Name": "Path to Salvation",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_OASIS",
@@ -2670,7 +2675,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_S4",
@@ -2678,7 +2683,7 @@
       "Name": "Power Glove",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_S5",
@@ -2686,7 +2691,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2709,15 +2714,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:06:51.4146936+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:47:09.445721+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:03:40.2710182+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:06:51.4147431+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:44:02.7180981+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:47:09.445748+00:00"
 }

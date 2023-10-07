@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.60% | ~5,538 |
-| It wakes | 0.60% | ~5,538 |
-| Skillful | 0.60% | ~5,538 |
+| Zealous | 0.60% | ~5,539 |
+| It wakes | 0.60% | ~5,539 |
+| Skillful | 0.60% | ~5,539 |
 | Not half bad | 0.50% | ~4,615 |
+| Survival Treasures | 0.50% | ~4,615 |
 | Make Some Noise | 0.50% | ~4,615 |
 | No one left behind | 0.40% | ~3,692 |
 | Medic | 0.40% | ~3,692 |
 | Handyman | 0.40% | ~3,692 |
 | Nerves of steel | 0.40% | ~3,692 |
 | Apt Survivor | 0.40% | ~3,692 |
-| Survival Treasures | 0.40% | ~3,692 |
 | Sorted | 0.40% | ~3,692 |
 | Resurgence | 0.40% | ~3,692 |
 | The Grand Sacrifice | 0.30% | ~2,769 |
@@ -34,6 +34,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Preemptive Strike | 0.30% | ~2,769 |
 | Humanitarian | 0.30% | ~2,769 |
 | Blood on your hands | 0.20% | ~1,846 |
+| Escape Artist | 0.20% | ~1,846 |
 | Made it out alive! | 0.20% | ~1,846 |
 | Apt Killer | 0.20% | ~1,846 |
 | Vulture | 0.20% | ~1,846 |
@@ -41,6 +42,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 0.20% | ~1,846 |
 | All Aboard | 0.20% | ~1,846 |
 | Item of Obsession | 0.20% | ~1,846 |
+| House of Pain | 0.20% | ~1,846 |
 | Holiday Get-Together | 0.20% | ~1,846 |
 | Near-Death Experience | 0.20% | ~1,846 |
 | Cherish your Life | 0.20% | ~1,846 |
@@ -68,7 +70,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cripple them all | 0.10% | ~923 |
 | Jump Scares | 0.10% | ~923 |
 | The Grind | 0.10% | ~923 |
-| Escape Artist | 0.10% | ~923 |
 | The Key to Escape | 0.10% | ~923 |
 | Gifts for the Fog | 0.10% | ~923 |
 | Adept Jake | 0.10% | ~923 |
@@ -98,7 +99,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | The man behind the bush | 0.10% | ~923 |
 | Evil Incarnate | 0.10% | ~923 |
 | Adept Shape | 0.10% | ~923 |
-| House of Pain | 0.10% | ~923 |
 | Adept Laurie | 0.10% | ~923 |
 | Swirling Death | 0.10% | ~923 |
 | Skilled Huntress | 0.10% | ~923 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922,950 (Ranked 14)  
+Progressed: 923,099 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,14 +406,14 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 922,950 | 49 |
+| 2023-10-07 | 923,099 | 49 |
 ## Awards
-Max (Diverse Characters): 33,500  (Ranked 15)  
-Sum: 259,873 (Ranked 13)  
+Max (Diverse Characters): 33,543  (Ranked 15)  
+Sum: 259,916 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,500 |
+| This game has Diverse Characters | 33,543 |
 | This game is Highly Recommended | 29,691 |
 | This game has Competitive Players | 29,396 |
 | This game has Amazing Characters | 29,364 |
@@ -683,3 +683,4 @@ Diff (max vs sum): 2
 | 2023-10-04 | 4.52 | - | 33,414 | 259,325 |
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
+| 2023-10-07 | 4.52 | - | 33,543 | 259,916 |

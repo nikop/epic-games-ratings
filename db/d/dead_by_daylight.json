@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10953,11 +10953,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 259873,
       "NumberOfAwardsMax": 33500
+    },
+    {
+      "Time": "2023-10-07T01:41:31.00671+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 259916,
+      "NumberOfAwardsMax": 33543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259873,
-  "NumberOfAwardsMax": 33500,
+  "NumberOfAwards": 259916,
+  "NumberOfAwardsMax": 33543,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10970,7 +10976,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33500
+      "Count": 33543
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11027,9 +11033,9 @@
       "Count": 25135
     }
   ],
-  "EOS_Progressed": 922950,
+  "EOS_Progressed": 923099,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13630,
+  "EOS_NewPlayers": 13631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30242,6 +30248,11 @@
       "Time": "2023-10-07T00:04:23.6456658+00:00",
       "NumProgressed": 922950,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T01:44:40.4371147+00:00",
+      "NumProgressed": 923099,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30323,9 +30334,9 @@
       "ID": "ACH_010",
       "SetID": "bdmlp8o",
       "Name": "Escape Artist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACH_011",
@@ -30421,7 +30432,7 @@
       "Name": "Zealous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "ACH_023",
@@ -30429,7 +30440,7 @@
       "Name": "It wakes",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "ACH_024",
@@ -30483,9 +30494,9 @@
       "ID": "ACH_030",
       "SetID": "bdmlp8o",
       "Name": "Survival Treasures",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3692
+      "UsersEstimate": 4615
     },
     {
       "ID": "ACH_031",
@@ -30557,7 +30568,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "ACH_040",
@@ -30771,9 +30782,9 @@
       "ID": "ACH_066",
       "SetID": "16jml5b",
       "Name": "House of Pain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACH_067",
@@ -32084,21 +32095,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 922950,
+      "Progressed": 923099,
       "Completed": 51
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 922950,
+      "Progressed": 923099,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-06T18:59:38.0996822+00:00",
-  "LastChanged_Achievements": "2023-10-07T00:04:23.6456647+00:00",
+  "LastChanged": "2023-10-07T01:41:31.0067099+00:00",
+  "LastChanged_Achievements": "2023-10-07T01:44:40.4371142+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-07T00:00:46.3751783+00:00",
-  "LastUpdate_Achievements": "2023-10-07T00:04:23.6469555+00:00"
+  "LastUpdate_Ratings": "2023-10-07T01:41:31.0067104+00:00",
+  "LastUpdate_Achievements": "2023-10-07T01:44:40.4376756+00:00"
 }
