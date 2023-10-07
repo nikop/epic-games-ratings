@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -956,10 +956,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-07T06:03:30.4016256+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 272,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -991,7 +997,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1018,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150811,
+  "EOS_Progressed": 150814,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10783,6 +10789,11 @@
       "Time": "2023-10-07T05:05:30.7632806+00:00",
       "NumProgressed": 150811,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T06:06:52.3814816+00:00",
+      "NumProgressed": 150814,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10912,9 +10923,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 301
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -11161,21 +11172,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150394,
+      "Progressed": 150397,
       "Completed": 1146
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150811,
+      "Progressed": 150814,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-07T05:02:35.7410196+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:05:30.7632801+00:00",
+  "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:06:52.3814812+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:02:35.7410208+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:05:30.7633817+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:03:30.4016263+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:06:52.3816379+00:00"
 }

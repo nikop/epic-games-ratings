@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 42.00% | ~560 |
-| Clean Race | 40.00% | ~533 |
-| Eat My Dust | 40.00% | ~533 |
+| Clean Race | 40.00% | ~534 |
+| Eat My Dust | 40.00% | ~534 |
 | Hear That Roar! | 38.00% | ~507 |
 | Rivals to the End | 29.00% | ~387 |
 | We're Going to Need a Bigger Garage | 24.00% | ~320 |
@@ -40,21 +40,21 @@
 | I Don't Stop | 1.00% | ~13 |
 | Exhausted but Happy | 0.80% | ~11 |
 | In Search of Perfection | 0.70% | ~9 |
-| Globe-trotter | 0.50% | ~7 |
-| Maximum Endurance | 0.20% | ~3 |
-| All My Own Toys | 0.20% | ~3 |
-| Endless | 0.20% | ~3 |
-| Full Power | 0.20% | ~3 |
-| At the Top | 0.20% | ~3 |
-| There's a Great View up Here | 0.20% | ~3 |
-| Absolute Champion | 0.20% | ~3 |
+| Globe-trotter | 0.40% | ~5 |
+| Maximum Endurance | 0.10% | ~1 |
 | Beyond the Limiter | 0.10% | ~1 |
+| All My Own Toys | 0.10% | ~1 |
+| Endless | 0.10% | ~1 |
+| Full Power | 0.10% | ~1 |
+| At the Top | 0.10% | ~1 |
+| There's a Great View up Here | 0.10% | ~1 |
+| Absolute Champion | 0.10% | ~1 |
 | Dream Chaser | 0.00% | ~0 |
 | Breathtaking Views | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,333 (Ranked 220)  
+Progressed: 1,334 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 1,297 | 0 |
 | 2023-10-05 | 1,315 | 0 |
 | 2023-10-06 | 1,329 | 0 |
-| 2023-10-07 | 1,333 | 0 |
+| 2023-10-07 | 1,334 | 0 |

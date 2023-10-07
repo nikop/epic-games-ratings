@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1537,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -5619,6 +5619,11 @@
       "Time": "2023-10-07T04:07:20.3548641+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T06:09:07.1378696+00:00",
+      "NumProgressed": 1537,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5806,7 +5811,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5886,7 +5891,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5933,7 +5938,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1537,
       "Completed": 1
     }
   ],
@@ -5941,8 +5946,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:08:17.9813036+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:09:07.1378687+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:01:36.4099033+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:08:17.9813697+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:02:31.6742781+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:09:07.1379346+00:00"
 }

@@ -23,22 +23,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.60% | ~87 |
 | Oracle | 0.60% | ~87 |
 | Judaism | 0.60% | ~87 |
+| Naming Landmarks | 0.60% | ~87 |
 | Trade Caravan | 0.60% | ~87 |
+| Enlightened | 0.50% | ~72 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
+| Wise | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Greek Paganism | 0.50% | ~72 |
-| Naming Landmarks | 0.50% | ~72 |
 | Ambitious | 0.40% | ~58 |
 | Brilliant | 0.40% | ~58 |
-| Enlightened | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
 | Magnificent | 0.40% | ~58 |
 | Warrior | 0.40% | ~58 |
-| Wise | 0.40% | ~58 |
 | Developing Cities | 0.40% | ~58 |
 | Strong Cities | 0.40% | ~58 |
 | Great Ziggurat | 0.40% | ~58 |

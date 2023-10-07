@@ -2,13 +2,13 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 215,
-  "Ranking_PopularitySum": 160,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.91,
+  "Rating": 3.9,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -3661,11 +3661,17 @@
       "Rating": 3.91,
       "NumberOfAwards": 3296,
       "NumberOfAwardsMax": 426
+    },
+    {
+      "Time": "2023-10-07T06:02:05.5452888+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 2951,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3296,
-  "NumberOfAwardsMax": 426,
+  "NumberOfAwards": 2951,
+  "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3708,13 +3714,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 426
+      "Count": 427
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 370
+      "Count": 371
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3746,8 +3752,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-10-06T20:01:26.4027715+00:00",
+  "LastChanged": "2023-10-07T06:02:05.545285+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.0684773+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:01:17.8241962+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:04:11.3488082+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:02:05.5452899+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:05:14.6446315+00:00"
 }

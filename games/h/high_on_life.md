@@ -7,6 +7,7 @@ Rating: 4.64 (Ranked 317)
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.40% | ~97 |
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
+| Creature Feature | 0.30% | ~72 |
 | Satisfied Gus-tomer | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
@@ -19,7 +20,6 @@ Rating: 4.64 (Ranked 317)
 | Who's The Boss? | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
-| Creature Feature | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | Legendary Bounty Hunter | 0.20% | ~48 |

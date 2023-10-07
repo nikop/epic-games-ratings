@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,098 |
-| The Blues | 85.00% | ~619,125 |
-| Fast | 66.00% | ~480,732 |
-| Healthbar | 55.00% | ~400,610 |
-| Force Cube | 53.00% | ~386,042 |
-| Double Jump | 48.00% | ~349,623 |
+| Out of bed | 99.00% | ~721,099 |
+| The Blues | 85.00% | ~619,126 |
+| Fast | 66.00% | ~480,733 |
+| Healthbar | 55.00% | ~400,611 |
+| Force Cube | 53.00% | ~386,043 |
+| Double Jump | 48.00% | ~349,624 |
 | Regeneration | 47.00% | ~342,340 |
-| Triple Jump | 43.00% | ~313,204 |
-| Climb the hill | 42.00% | ~305,920 |
+| Triple Jump | 43.00% | ~313,205 |
+| Climb the hill | 42.00% | ~305,921 |
 | Through the fire pipe | 39.00% | ~284,069 |
-| MacGuffin | 38.00% | ~276,785 |
-| Just once | 37.00% | ~269,501 |
+| MacGuffin | 38.00% | ~276,786 |
+| Just once | 37.00% | ~269,502 |
 | Armor | 30.00% | ~218,515 |
 | True holy spirit | 28.00% | ~203,947 |
 | That's how electronics work obviously | 27.00% | ~196,663 |
@@ -31,7 +31,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Green Keycard | 17.00% | ~123,825 |
 | Rattle Hag | 16.00% | ~116,541 |
 | All Shells | 15.00% | ~109,257 |
-| Beam | 14.00% | ~101,973 |
+| Beam | 14.00% | ~101,974 |
 | Health Drink | 13.00% | ~94,690 |
 | Helped a star | 13.00% | ~94,690 |
 | 9 | 13.00% | ~94,690 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~728 |
 | DLC: Top of the world | 0.10% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,382 (Ranked 19)  
+Progressed: 728,383 (Ranked 19)  
 Completed: 744 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 744 (0.10%) (Ranked 243)
 | 2023-10-04 | 728,138 | 744 |
 | 2023-10-05 | 728,232 | 744 |
 | 2023-10-06 | 728,361 | 744 |
-| 2023-10-07 | 728,382 | 744 |
+| 2023-10-07 | 728,383 | 744 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

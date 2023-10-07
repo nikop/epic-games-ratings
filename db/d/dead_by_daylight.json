@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11039,9 +11039,9 @@
       "Count": 25135
     }
   ],
-  "EOS_Progressed": 923360,
+  "EOS_Progressed": 923435,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13647,
+  "EOS_NewPlayers": 13654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30279,6 +30279,11 @@
       "Time": "2023-10-07T05:04:03.1801369+00:00",
       "NumProgressed": 923360,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T06:05:05.087102+00:00",
+      "NumProgressed": 923435,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30410,7 +30415,7 @@
       "Name": "No one left behind",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_017",
@@ -30418,7 +30423,7 @@
       "Name": "Medic",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_018",
@@ -30426,7 +30431,7 @@
       "Name": "Handyman",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_019",
@@ -30434,7 +30439,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_020",
@@ -30458,7 +30463,7 @@
       "Name": "Zealous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "ACH_023",
@@ -30482,7 +30487,7 @@
       "Name": "Bloody Millionaire",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_026",
@@ -30594,7 +30599,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "ACH_040",
@@ -30602,7 +30607,7 @@
       "Name": "I",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_041",
@@ -30858,7 +30863,7 @@
       "Name": "Sorted",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_073",
@@ -31458,7 +31463,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_151",
@@ -31506,7 +31511,7 @@
       "Name": "Resurgence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "ACH_157",
@@ -32121,21 +32126,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 923360,
-      "Completed": 51
+      "Progressed": 923435,
+      "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 923360,
+      "Progressed": 923435,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-07T05:00:39.3786973+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:04:03.1801364+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:05:05.0871013+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:00:39.3786981+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:04:03.1809049+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:01:18.2297975+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:05:05.0877228+00:00"
 }

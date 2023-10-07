@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2404,6 +2404,11 @@
       "Time": "2023-10-07T01:45:14.1472138+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T06:05:35.393663+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2510,9 +2515,9 @@
       "ID": "ML_ACHIEVEMENT_13",
       "SetID": "c7hf6a4",
       "Name": "Maximum Endurance",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -2624,7 +2629,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2646,25 +2651,25 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "c7hf6a4",
       "Name": "Globe-trotter",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "c7hf6a4",
       "Name": "All My Own Toys",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "c7hf6a4",
       "Name": "Endless",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2686,17 +2691,17 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "c7hf6a4",
       "Name": "Full Power",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "c7hf6a4",
       "Name": "At the Top",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2712,7 +2717,7 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2790,31 +2795,31 @@
       "ID": "ML_ACHIEVEMENT_48",
       "SetID": "c7hf6a4",
       "Name": "There\u0027s a Great View up Here",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ML_ACHIEVEMENT_49",
       "SetID": "c7hf6a4",
       "Name": "Absolute Champion",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:04:27.8743977+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:05:35.3936625+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:18.0913599+00:00",
-  "LastUpdate_Ratings": "2023-10-07T04:58:40.8971686+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:04:27.8744588+00:00"
+  "LastUpdate_Ratings": "2023-10-07T05:59:05.0310828+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:05:35.3937423+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18291,
+  "EOS_Progressed": 18292,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11231,6 +11231,11 @@
       "Time": "2023-10-07T04:04:21.6889892+00:00",
       "NumProgressed": 18291,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T06:06:01.6990216+00:00",
+      "NumProgressed": 18292,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11242,7 +11247,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "0002",
@@ -11258,7 +11263,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "0004",
@@ -11266,7 +11271,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "0005",
@@ -11298,7 +11303,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "0009",
@@ -11434,7 +11439,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "0026",
@@ -11474,7 +11479,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "0031",
@@ -11529,7 +11534,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18291,
+      "Progressed": 18292,
       "Completed": 4
     }
   ],
@@ -11537,8 +11542,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:04:49.2159666+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:06:01.6990209+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:00:37.3889392+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:04:49.2160634+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:01:15.0825132+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:06:01.6991341+00:00"
 }

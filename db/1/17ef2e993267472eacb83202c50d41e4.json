@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -40,7 +40,7 @@
   "Tags": [],
   "EOS_Progressed": 6934,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4167,9 +4167,9 @@
       "ID": "WCUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Weaponized Capacitor to Level 3",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 901
     }
   ],
   "AchievementSets": [
@@ -4184,8 +4184,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:09:41.2633828+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:10:42.7139038+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:02:25.1693921+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:09:41.2635874+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:03:23.1451639+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:10:42.7139925+00:00"
 }

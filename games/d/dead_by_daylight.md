@@ -7,21 +7,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.70% | ~6,464 |
-| Zealous | 0.60% | ~5,540 |
-| Skillful | 0.60% | ~5,540 |
+| Zealous | 0.60% | ~5,541 |
+| Skillful | 0.60% | ~5,541 |
 | Not half bad | 0.50% | ~4,617 |
 | Apt Survivor | 0.50% | ~4,617 |
 | Survival Treasures | 0.50% | ~4,617 |
 | Make Some Noise | 0.50% | ~4,617 |
-| No one left behind | 0.40% | ~3,693 |
-| Medic | 0.40% | ~3,693 |
-| Handyman | 0.40% | ~3,693 |
-| Nerves of steel | 0.40% | ~3,693 |
-| Bloody Millionaire | 0.40% | ~3,693 |
-| I | 0.40% | ~3,693 |
-| Sorted | 0.40% | ~3,693 |
-| Healthy Obsession | 0.40% | ~3,693 |
-| Resurgence | 0.40% | ~3,693 |
+| No one left behind | 0.40% | ~3,694 |
+| Medic | 0.40% | ~3,694 |
+| Handyman | 0.40% | ~3,694 |
+| Nerves of steel | 0.40% | ~3,694 |
+| Bloody Millionaire | 0.40% | ~3,694 |
+| I | 0.40% | ~3,694 |
+| Sorted | 0.40% | ~3,694 |
+| Healthy Obsession | 0.40% | ~3,694 |
+| Resurgence | 0.40% | ~3,694 |
 | The Grand Sacrifice | 0.30% | ~2,770 |
 | Agonizing Escape | 0.30% | ~2,770 |
 | Backdoor Escape | 0.30% | ~2,770 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,360 (Ranked 14)  
+Progressed: 923,435 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,360 | 49 |
+| 2023-10-07 | 923,435 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,952 (Ranked 13)  

@@ -3,8 +3,8 @@
   "Name": "Angelfish",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:54.5849949+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:00:20.8700808+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:05:05.8925926+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:00:59.8761238+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:06:21.9293893+00:00"
 }

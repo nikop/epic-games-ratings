@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1799,7 +1799,7 @@
   ],
   "EOS_Progressed": 14454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13615,9 +13615,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -13871,9 +13871,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -15111,9 +15111,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -15941,8 +15941,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T00:02:52.9861823+00:00",
-  "LastChanged_Achievements": "2023-10-07T05:04:10.9049835+00:00",
+  "LastChanged_Achievements": "2023-10-07T06:05:14.2894237+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:02:40.4039502+00:00",
-  "LastUpdate_Achievements": "2023-10-07T05:04:10.9065931+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:03:38.5414664+00:00",
+  "LastUpdate_Achievements": "2023-10-07T06:05:14.2906806+00:00"
 }
