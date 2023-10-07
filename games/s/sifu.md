@@ -18,6 +18,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.30% | ~2,147 |
 | Qi Gong: Essence | 0.30% | ~2,147 |
 | Lightning Hands | 0.30% | ~2,147 |
+| Path of the Prospect | 0.30% | ~2,147 |
 | Rumble in the Hangar | 0.30% | ~2,147 |
 | Project Arena | 0.30% | ~75 |
 | Martial Hub | 0.30% | ~75 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.20% | ~1,431 |
 | Old Child | 0.20% | ~1,431 |
 | Kung-Fu Tussle | 0.20% | ~1,431 |
-| Path of the Prospect | 0.20% | ~1,431 |
 | Take damage to save time | 0.20% | ~1,431 |
 | Bloody Sport | 0.20% | ~50 |
 | Muk Yan Master | 0.10% | ~716 |

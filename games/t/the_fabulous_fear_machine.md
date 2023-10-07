@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 75.00% | ~9 |
+| You have three wishes left | 83.00% | ~10 |
 | Master trainee | 67.00% | ~8 |
-| Jung's dream | 50.00% | ~6 |
-| The battle of Great Britain | 42.00% | ~5 |
+| Jung's dream | 58.00% | ~7 |
+| The battle of Great Britain | 50.00% | ~6 |
 | Giant | 33.00% | ~4 |
+| Pulp! Terror Tales in the Night | 25.00% | ~3 |
 | The happy farmer girl | 25.00% | ~3 |
 | The artist | 17.00% | ~2 |
-| Pulp! Terror Tales in the Night | 17.00% | ~2 |
 | Pulp! Where Monsters Dwell | 17.00% | ~2 |
 | Pulp! Out of this World | 17.00% | ~2 |
 | A continent with chemistry | 17.00% | ~2 |

@@ -6818,7 +6818,7 @@
   ],
   "EOS_Progressed": 715535,
   "EOS_Completed": 12914,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -22425,9 +22425,9 @@
       "ID": "36_Calbot_Trophy",
       "SetID": "adcm20g",
       "Name": "Path of the Prospect",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2147
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -22639,8 +22639,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-07T03:58:04.3514671+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:06:15.4593519+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:05:15.5537649+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:58:32.7721832+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:06:15.459508+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:58:32.5715136+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:05:15.5539074+00:00"
 }

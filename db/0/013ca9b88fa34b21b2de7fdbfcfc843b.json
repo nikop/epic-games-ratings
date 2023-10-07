@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6164,
+  "EOS_Progressed": 6165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3530,6 +3530,11 @@
       "Time": "2023-10-07T05:05:30.9869258+00:00",
       "NumProgressed": 6164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T07:06:05.3765279+00:00",
+      "NumProgressed": 6165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3550,7 +3555,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3558,7 +3563,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3646,7 +3651,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3678,7 +3683,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3708,9 +3713,9 @@
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 432
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -3814,14 +3819,14 @@
       "Name": "Skilled",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6164,
+      "Progressed": 6165,
       "Completed": 0
     }
   ],
@@ -3829,8 +3834,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-06T18:59:22.3209913+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:06:52.6552642+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:06:05.3765275+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:00:52.5493519+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:06:52.6553295+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:00:18.0572106+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:06:05.3765754+00:00"
 }

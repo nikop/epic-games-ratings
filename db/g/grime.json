@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 415,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150814,
+  "EOS_Progressed": 150822,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10794,6 +10794,11 @@
       "Time": "2023-10-07T06:06:52.3814816+00:00",
       "NumProgressed": 150814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T07:06:05.216888+00:00",
+      "NumProgressed": 150822,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10827,9 +10832,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 302
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -10867,9 +10872,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 905
+      "UsersEstimate": 1056
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -11067,9 +11072,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 452
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -11172,21 +11177,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150397,
+      "Progressed": 150405,
       "Completed": 1146
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150814,
+      "Progressed": 150822,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:06:52.3814812+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:06:05.2168876+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:03:30.4016263+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:06:52.3816379+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:02:19.7352751+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:06:05.2169852+00:00"
 }

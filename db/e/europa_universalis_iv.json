@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 307,
@@ -10324,10 +10324,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 52738,
       "NumberOfAwardsMax": 6412
+    },
+    {
+      "Time": "2023-10-07T06:57:46.1449568+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 52752,
+      "NumberOfAwardsMax": 6412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52738,
+  "NumberOfAwards": 52752,
   "NumberOfAwardsMax": 6412,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -10341,7 +10347,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6058
+      "Count": 6072
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10398,9 +10404,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 424262,
+  "EOS_Progressed": 424287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6356,
+  "EOS_NewPlayers": 6342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29633,6 +29639,11 @@
       "Time": "2023-10-07T06:09:35.2747507+00:00",
       "NumProgressed": 424262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T07:08:30.9829481+00:00",
+      "NumProgressed": 424287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30084,7 +30095,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8485
+      "UsersEstimate": 8486
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -30476,7 +30487,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8485
+      "UsersEstimate": 8486
     },
     {
       "ID": "achievement_forever_golden",
@@ -30644,7 +30655,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16970
+      "UsersEstimate": 16971
     },
     {
       "ID": "achievement_grand_coalition",
@@ -30668,7 +30679,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8485
+      "UsersEstimate": 8486
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -30842,9 +30853,9 @@
       "ID": "achievement_italian_ambition",
       "SetID": "67mdiil",
       "Name": "Italian Ambition",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 849
     },
     {
       "ID": "achievement_its_all_about_luck",
@@ -30852,7 +30863,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -31580,7 +31591,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -31644,7 +31655,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8485
+      "UsersEstimate": 8486
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -31924,7 +31935,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12728
+      "UsersEstimate": 12729
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -32308,7 +32319,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16970
+      "UsersEstimate": 16971
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -32340,7 +32351,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12728
+      "UsersEstimate": 12729
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -32475,21 +32486,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 424262,
+      "Progressed": 424287,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 424262,
+      "Progressed": 424287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-06T19:57:25.8320384+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:09:35.2747504+00:00",
+  "LastChanged": "2023-10-07T06:57:46.1449565+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:08:30.9829476+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-10-07T05:57:34.2644843+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:09:35.2758187+00:00"
+  "LastUpdate_Ratings": "2023-10-07T06:57:46.1449574+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:08:30.9843521+00:00"
 }

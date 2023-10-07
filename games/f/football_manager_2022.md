@@ -47,8 +47,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Top Form | 17.00% | ~80,615 |
 | Cash To Burn | 17.00% | ~80,615 |
 | Overachiever! | 16.00% | ~75,873 |
+| Rushed signing | 16.00% | ~75,873 |
 | Beating Expectations | 15.00% | ~71,131 |
-| Rushed signing | 15.00% | ~71,131 |
 | Window Shopping | 15.00% | ~71,131 |
 | Eyes and Ears | 14.00% | ~66,389 |
 | Comeback King! | 14.00% | ~66,389 |

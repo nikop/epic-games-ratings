@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 507)
 | The Pit and the Pirates | 2.00% | ~273 |
 | Drone Dodger | 2.00% | ~273 |
 | Bosmang | 2.00% | ~273 |
+| Impossible Objects | 2.00% | ~273 |
 | Data Archivist | 1.00% | ~137 |
 | Spore Taste | 1.00% | ~137 |
 | Martian Music | 1.00% | ~137 |
@@ -18,8 +19,7 @@ Rating: 4.54 (Ranked 507)
 | Call it Even | 1.00% | ~137 |
 | Captain Drummer | 1.00% | ~137 |
 | Celebrations are in Order | 1.00% | ~137 |
-| Impossible Objects | 1.00% | ~137 |
-| Stogie for Fogey | 0.80% | ~109 |
+| Stogie for Fogey | 0.90% | ~123 |
 | Miraculous Maya | 0.60% | ~82 |
 | Doctor Approved | 0.50% | ~68 |
 | Bottoms up! | 0.50% | ~68 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,659 (Ranked 135)  
+Progressed: 13,661 (Ranked 135)  
 Completed: 15 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 15 (0.11%) (Ranked 239)
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
-| 2023-10-07 | 13,659 | 15 |
+| 2023-10-07 | 13,661 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

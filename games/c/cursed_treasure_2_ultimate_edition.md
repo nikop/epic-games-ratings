@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 98.00% | ~167 |
-| On the Crest of a Wave | 96.00% | ~163 |
-| Foreman of Darkness | 96.00% | ~163 |
-| Brilliant Day | 94.00% | ~160 |
+| Don't Touch My Gems! | 98.00% | ~168 |
+| On the Crest of a Wave | 96.00% | ~164 |
+| Foreman of Darkness | 96.00% | ~164 |
+| Brilliant Day | 94.00% | ~161 |
 | Evil Genius | 88.00% | ~150 |
-| Air Defense | 85.00% | ~144 |
-| Tinned Corpse | 84.00% | ~143 |
-| Your War is Over | 83.00% | ~141 |
-| The Starry Night | 78.00% | ~133 |
-| Go Home! | 76.00% | ~129 |
-| Brilliant: Meadowshire | 75.00% | ~128 |
-| Look After the Pence... | 74.00% | ~126 |
-| Drunken Master | 74.00% | ~126 |
-| Sergeant of the Evil | 74.00% | ~126 |
-| V.I.P. Cemetery | 72.00% | ~122 |
-| Woodcutter | 71.00% | ~121 |
-| Architect of Darkness | 71.00% | ~121 |
-| Top of the World | 70.00% | ~119 |
-| Takeover | 70.00% | ~119 |
-| Sharpshooter | 69.00% | ~117 |
-| The Apotheosis of War | 68.00% | ~116 |
-| Stasis Alcatraz | 68.00% | ~116 |
-| Tastes Like Chicken | 64.00% | ~109 |
-| Brilliant: Holy Mountain | 63.00% | ~107 |
-| Combo Breaker | 63.00% | ~107 |
-| Thunderstorm | 63.00% | ~107 |
+| Air Defense | 85.00% | ~145 |
+| Tinned Corpse | 84.00% | ~144 |
+| Your War is Over | 82.00% | ~140 |
+| The Starry Night | 77.00% | ~132 |
+| Go Home! | 75.00% | ~128 |
+| Brilliant: Meadowshire | 74.00% | ~127 |
+| Sergeant of the Evil | 74.00% | ~127 |
+| Look After the Pence... | 73.00% | ~125 |
+| Drunken Master | 73.00% | ~125 |
+| V.I.P. Cemetery | 71.00% | ~121 |
+| Top of the World | 70.00% | ~120 |
+| Takeover | 70.00% | ~120 |
+| Woodcutter | 70.00% | ~120 |
+| Sharpshooter | 70.00% | ~120 |
+| Architect of Darkness | 70.00% | ~120 |
+| The Apotheosis of War | 67.00% | ~115 |
+| Stasis Alcatraz | 67.00% | ~115 |
+| Brilliant: Holy Mountain | 63.00% | ~108 |
+| Combo Breaker | 63.00% | ~108 |
+| Tastes Like Chicken | 63.00% | ~108 |
+| Thunderstorm | 63.00% | ~108 |
 | Clean Forests | 61.00% | ~104 |
-| Starry: Meadowshire | 58.00% | ~99 |
+| Starry: Meadowshire | 57.00% | ~97 |
 | Lieutenant of the Evil | 57.00% | ~97 |
-| Avada Kedavra | 56.00% | ~95 |
+| Avada Kedavra | 56.00% | ~96 |
 | Brilliant: Tanglewood | 54.00% | ~92 |
-| It's a Trap | 54.00% | ~92 |
-| Starry: Holy Mountain | 53.00% | ~90 |
-| Brilliant: Arcania | 50.00% | ~85 |
-| Deposition | 49.00% | ~83 |
+| Starry: Holy Mountain | 53.00% | ~91 |
+| It's a Trap | 53.00% | ~91 |
+| Brilliant: Arcania | 50.00% | ~86 |
+| Deposition | 49.00% | ~84 |
 | Starry: Tanglewood | 47.00% | ~80 |
-| Starry: Arcania | 44.00% | ~75 |
-| Sing, My Angel | 43.00% | ~73 |
+| Sing, My Angel | 43.00% | ~74 |
+| Starry: Arcania | 43.00% | ~74 |
 | The Coreland | 40.00% | ~68 |
-| Feed the Fishes | 39.00% | ~66 |
-| Starry: The Coreland | 38.00% | ~65 |
+| Feed the Fishes | 39.00% | ~67 |
+| Starry: The Coreland | 37.00% | ~63 |
 | Brilliant: Wasteland | 34.00% | ~58 |
 | Father of Nation | 34.00% | ~58 |
 | Dwarven Countdown | 30.00% | ~51 |
-| Starry: Wasteland | 29.00% | ~49 |
-| Deadman's Chest | 28.00% | ~48 |
+| Starry: Wasteland | 29.00% | ~50 |
+| Deadman's Chest | 27.00% | ~46 |
 | Monument Keeper | 27.00% | ~46 |
 | Brilliant: Free Coast | 26.00% | ~44 |
-| Brilliant: The Deep | 24.00% | ~41 |
-| Starry: Free Coast | 24.00% | ~41 |
-| Starry: The Deep | 22.00% | ~37 |
+| Brilliant: The Deep | 23.00% | ~39 |
+| Starry: Free Coast | 23.00% | ~39 |
+| Starry: The Deep | 22.00% | ~38 |
 | Hostile Waters | 18.00% | ~31 |
 | Loveless | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 349)  
-Completed: 25 (14.71%) (Ranked 22)  
+Progressed: 171 (Ranked 349)  
+Completed: 25 (14.62%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 25 (14.71%) (Ranked 22)
 | 2023-09-04 | 167 | 25 |
 | 2023-09-08 | 169 | 25 |
 | 2023-09-29 | 170 | 25 |
+| 2023-10-07 | 171 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

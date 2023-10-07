@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 110,
@@ -229,9 +229,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37962,
+  "EOS_Progressed": 37964,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18844,6 +18844,11 @@
       "Time": "2023-10-07T05:04:12.1959904+00:00",
       "NumProgressed": 37962,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-07T07:04:18.0440567+00:00",
+      "NumProgressed": 37964,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18855,7 +18860,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5694
+      "UsersEstimate": 5695
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18863,7 +18868,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7592
+      "UsersEstimate": 7593
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -18999,7 +19004,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -19086,7 +19091,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37962,
+      "Progressed": 37964,
       "Completed": 25
     }
   ],
@@ -19094,8 +19099,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:05:15.5575196+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:04:18.0440562+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:00:49.509596+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:05:15.5576813+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:00:15.9650028+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:04:18.0441837+00:00"
 }

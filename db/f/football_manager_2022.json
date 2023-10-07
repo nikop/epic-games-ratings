@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25997,9 +25997,9 @@
       "ID": "achievement_rushed_signing",
       "SetID": "8k91p5b",
       "Name": "Rushed signing",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 71131
+      "UsersEstimate": 75873
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -26277,8 +26277,8 @@
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-06T22:01:47.3446002+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:05:05.8304523+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:04:10.3156717+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:05.7159421+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:02:59.181394+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:05:05.8307585+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:01:52.0278264+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:04:10.3158644+00:00"
 }

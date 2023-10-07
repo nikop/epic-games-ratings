@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12269,
+  "EOS_Progressed": 12270,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
@@ -11416,6 +11416,11 @@
       "Time": "2023-10-07T06:05:12.6028436+00:00",
       "NumProgressed": 12269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T07:04:15.6699071+00:00",
+      "NumProgressed": 12270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11451,7 +11456,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -11499,7 +11504,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11619,21 +11624,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12269,
+      "Progressed": 12270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:05:12.602843+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:04:15.6699066+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:03:15.5673965+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:05:12.6029847+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:02:08.3739389+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:04:15.6699797+00:00"
 }

@@ -1,50 +1,50 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 643)  
+Rating: 4.45 (Ranked 644)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~394,760 |
-| Happy Returns | 78.00% | ~380,139 |
-| Hey! That's mine! | 78.00% | ~380,139 |
-| Field Promotion | 74.00% | ~360,645 |
-| Leadhead | 71.00% | ~346,024 |
-| Eradicator | 67.00% | ~326,530 |
-| Surplus | 65.00% | ~316,783 |
-| I Spy | 64.00% | ~311,909 |
-| Burn Baby Burn | 59.00% | ~287,541 |
-| Yellow Beats Green | 55.00% | ~268,047 |
-| Salvage Rights | 53.00% | ~258,300 |
-| Close Call | 50.00% | ~243,679 |
-| Pew Pew | 50.00% | ~243,679 |
-| What IS that? | 50.00% | ~243,679 |
-| Penny Pincher | 49.00% | ~238,805 |
-| Arsenal | 46.00% | ~224,185 |
-| Boot Camp | 45.00% | ~219,311 |
-| Flawless Victory | 42.00% | ~204,690 |
-| Confident | 41.00% | ~199,817 |
-| Exterminator | 36.00% | ~175,449 |
+| First Blood | 81.00% | ~394,762 |
+| Happy Returns | 78.00% | ~380,141 |
+| Hey! That's mine! | 78.00% | ~380,141 |
+| Field Promotion | 74.00% | ~360,646 |
+| Leadhead | 71.00% | ~346,026 |
+| Eradicator | 67.00% | ~326,531 |
+| Surplus | 65.00% | ~316,784 |
+| I Spy | 64.00% | ~311,910 |
+| Burn Baby Burn | 59.00% | ~287,542 |
+| Yellow Beats Green | 55.00% | ~268,048 |
+| Salvage Rights | 53.00% | ~258,301 |
+| Close Call | 50.00% | ~243,680 |
+| Pew Pew | 50.00% | ~243,680 |
+| What IS that? | 50.00% | ~243,680 |
+| Penny Pincher | 49.00% | ~238,806 |
+| Arsenal | 46.00% | ~224,186 |
+| Boot Camp | 45.00% | ~219,312 |
+| Flawless Victory | 42.00% | ~204,691 |
+| Confident | 41.00% | ~199,818 |
+| Exterminator | 36.00% | ~175,450 |
 | Sharpshooter | 34.00% | ~165,702 |
-| Not So Fast | 33.00% | ~160,828 |
+| Not So Fast | 33.00% | ~160,829 |
 | Great Ball of Fire | 32.00% | ~155,955 |
-| No Sale | 31.00% | ~151,081 |
-| Kaboom! | 30.00% | ~146,207 |
+| No Sale | 31.00% | ~151,082 |
+| Kaboom! | 30.00% | ~146,208 |
 | Liquidator | 29.00% | ~141,334 |
 | High Voltage | 24.00% | ~116,966 |
 | Filthy Rich | 19.00% | ~92,598 |
-| The Not-So-Friendly Skies | 18.00% | ~87,724 |
+| The Not-So-Friendly Skies | 18.00% | ~87,725 |
 | Power Builder | 17.00% | ~82,851 |
 | Pyrrhic Victory | 17.00% | ~82,851 |
-| Death From Above | 16.00% | ~77,977 |
-| Retry | 16.00% | ~77,977 |
+| Death From Above | 16.00% | ~77,978 |
+| Retry | 16.00% | ~77,978 |
 | Head Trauma | 12.00% | ~58,483 |
 | Full Defense | 10.00% | ~48,736 |
 | Overseer | 9.00% | ~43,862 |
 | Annihilator | 8.00% | ~38,989 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,989 |
-| Indecisive | 6.00% | ~29,241 |
+| Indecisive | 6.00% | ~29,242 |
 | Base Defender | 5.00% | ~24,368 |
 | Relay Race | 5.00% | ~24,368 |
 | Diversity | 3.00% | ~14,621 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~487 |
 | You Monster | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,358 (Ranked 35)  
+Progressed: 487,360 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.00%) (Ranked 307)
 | 2023-10-04 | 487,216 | 4 |
 | 2023-10-05 | 487,280 | 4 |
 | 2023-10-06 | 487,347 | 4 |
-| 2023-10-07 | 487,358 | 4 |
+| 2023-10-07 | 487,360 | 4 |
 ## Awards
 Max (Great for Beginners): 251  (Ranked 259)  
 Sum: 1,695 (Ranked 212)  

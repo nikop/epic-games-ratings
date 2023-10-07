@@ -9,14 +9,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 1.00% | ~145 |
 | Settler | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
+| Friendly Family | 0.90% | ~130 |
 | Intrepid | 0.80% | ~116 |
-| Friendly Family | 0.80% | ~116 |
 | Good | 0.70% | ~101 |
 | Strong | 0.70% | ~101 |
 | Hanging Gardens | 0.70% | ~101 |
 | Kushite Paganism | 0.70% | ~101 |
 | Able | 0.60% | ~87 |
 | Architect | 0.60% | ~87 |
+| Glorious | 0.60% | ~87 |
+| Just | 0.60% | ~87 |
 | Learned | 0.60% | ~87 |
 | Mason | 0.60% | ~87 |
 | Noble | 0.60% | ~87 |
@@ -25,24 +27,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.60% | ~87 |
 | Naming Landmarks | 0.60% | ~87 |
 | Trade Caravan | 0.60% | ~87 |
+| Ambitious | 0.50% | ~72 |
 | Enlightened | 0.50% | ~72 |
-| Glorious | 0.50% | ~72 |
-| Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
+| Ishtar Gate | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Greek Paganism | 0.50% | ~72 |
-| Ambitious | 0.40% | ~58 |
 | Brilliant | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
+| Great | 0.40% | ~58 |
 | Magnificent | 0.40% | ~58 |
 | Warrior | 0.40% | ~58 |
 | Developing Cities | 0.40% | ~58 |
 | Strong Cities | 0.40% | ~58 |
+| Able Difficulty | 0.40% | ~58 |
 | Great Ziggurat | 0.40% | ~58 |
-| Ishtar Gate | 0.40% | ~58 |
 | Lighthouse | 0.40% | ~58 |
 | Learn to Play 1 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
@@ -51,10 +53,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
 | Hanging Gardens in Babylon | 0.30% | ~43 |
-| Great | 0.30% | ~43 |
+| Drillmaster | 0.30% | ~43 |
 | Intercessor | 0.30% | ~43 |
 | Legendary Cities | 0.30% | ~43 |
-| Able Difficulty | 0.30% | ~43 |
 | Artisans | 0.30% | ~43 |
 | Champions | 0.30% | ~43 |
 | Furious Family | 0.30% | ~43 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.30% | ~43 |
 | Egyptian Paganism | 0.30% | ~43 |
 | Beloved | 0.20% | ~29 |
-| Drillmaster | 0.20% | ~29 |
 | Conqueror | 0.20% | ~29 |
 | Mighty | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.20% | ~29 |
 | Legionary | 0.20% | ~29 |
 | Phalangite | 0.20% | ~29 |
+| Ambition Victory | 0.20% | ~29 |
 | Double Victory | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.10% | ~14 |
 | Turreted Elephant | 0.10% | ~14 |
 | All Nations | 0.10% | ~14 |
-| Ambition Victory | 0.10% | ~14 |
 | Conquest Victory | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | No Undo | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,454 (Ranked 134)  
+Progressed: 14,458 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,454 | 5 |
+| 2023-10-07 | 14,458 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

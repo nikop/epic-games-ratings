@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110353,
+  "EOS_Progressed": 110355,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 1,
@@ -13501,6 +13501,11 @@
       "Time": "2023-10-07T06:08:18.5653889+00:00",
       "NumProgressed": 110353,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-07T07:07:25.6497292+00:00",
+      "NumProgressed": 110355,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -13520,7 +13525,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 84972
+      "UsersEstimate": 84973
     },
     {
       "ID": "EAwards_10",
@@ -13568,7 +13573,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11035
+      "UsersEstimate": 11036
     },
     {
       "ID": "EAwards_16",
@@ -13584,7 +13589,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39727
+      "UsersEstimate": 39728
     },
     {
       "ID": "EAwards_18",
@@ -13608,7 +13613,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 52969
+      "UsersEstimate": 52970
     },
     {
       "ID": "EAwards_20",
@@ -13616,7 +13621,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11035
+      "UsersEstimate": 11036
     },
     {
       "ID": "EAwards_21",
@@ -13712,7 +13717,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11035
+      "UsersEstimate": 11036
     },
     {
       "ID": "EAwards_32",
@@ -13784,7 +13789,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13242
+      "UsersEstimate": 13243
     },
     {
       "ID": "EAwards_40",
@@ -13888,7 +13893,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13242
+      "UsersEstimate": 13243
     },
     {
       "ID": "EAwards_9",
@@ -13896,14 +13901,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11035
+      "UsersEstimate": 11036
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110353,
+      "Progressed": 110355,
       "Completed": 44
     }
   ],
@@ -13911,8 +13916,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:08:18.5653885+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:07:25.6497288+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:02:40.550374+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:08:18.5655521+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:01:38.6132028+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:07:25.649849+00:00"
 }

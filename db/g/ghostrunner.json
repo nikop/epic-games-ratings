@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1236,9 +1236,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19531,
+  "EOS_Progressed": 19532,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19626,6 +19626,11 @@
       "Time": "2023-10-07T06:09:31.3078258+00:00",
       "NumProgressed": 19531,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-07T07:08:27.5216724+00:00",
+      "NumProgressed": 19532,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19661,7 +19666,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7031
+      "UsersEstimate": 7032
     },
     {
       "ID": "CantRunCantHide",
@@ -19789,7 +19794,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "ObedientMachine",
@@ -19869,7 +19874,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "Scrapped",
@@ -19909,7 +19914,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11914
+      "UsersEstimate": 11915
     },
     {
       "ID": "SwordToAGunfight",
@@ -19957,7 +19962,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10351
+      "UsersEstimate": 10352
     },
     {
       "ID": "WaveOfMutilation",
@@ -19973,7 +19978,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7812
+      "UsersEstimate": 7813
     },
     {
       "ID": "WhereHeStood",
@@ -19989,28 +19994,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19531,
+      "Progressed": 19532,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19531,
+      "Progressed": 19532,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-06T15:03:04.744899+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:09:31.3078253+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:08:27.5216718+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:54.6418011+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:04:42.5017441+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:09:31.3079598+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:03:30.2830204+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:08:27.5218158+00:00"
 }

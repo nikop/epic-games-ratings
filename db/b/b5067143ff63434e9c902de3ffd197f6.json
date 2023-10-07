@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2023-10-07T06:05:56.9662075+00:00",
       "NumProgressed": 812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T07:04:50.6861479+00:00",
+      "NumProgressed": 818,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -869,7 +874,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -893,7 +898,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -917,7 +922,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -933,7 +938,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -964,14 +969,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-07T06:05:56.9662071+00:00",
+  "LastChanged_Achievements": "2023-10-07T07:04:50.6861474+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:02:04.8327746+00:00",
-  "LastUpdate_Achievements": "2023-10-07T06:05:56.9662262+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:01:13.8888731+00:00",
+  "LastUpdate_Achievements": "2023-10-07T07:04:50.6861692+00:00"
 }

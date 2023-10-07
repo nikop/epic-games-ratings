@@ -28,6 +28,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | I've got your back | 0.30% | ~2,770 |
 | Perfect Escape | 0.30% | ~2,770 |
 | Perfect Killing | 0.30% | ~2,770 |
+| Apt Killer | 0.30% | ~2,770 |
 | Risk it all | 0.30% | ~2,770 |
 | II | 0.30% | ~2,770 |
 | Engineer | 0.30% | ~2,770 |
@@ -39,7 +40,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your hands | 0.20% | ~1,847 |
 | Escape Artist | 0.20% | ~1,847 |
 | Made it out alive! | 0.20% | ~1,847 |
-| Apt Killer | 0.20% | ~1,847 |
 | Vulture | 0.20% | ~1,847 |
 | III | 0.20% | ~1,847 |
 | III-50 | 0.20% | ~1,847 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,435 (Ranked 14)  
+Progressed: 923,493 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,435 | 49 |
+| 2023-10-07 | 923,493 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,952 (Ranked 13)  
