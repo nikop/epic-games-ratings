@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.12% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.06% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -70,7 +70,7 @@
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
 | 72 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.70% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -106,7 +106,7 @@
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 105 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.13% |
 | 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
-| 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.92% |
+| 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.90% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
 | 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
@@ -149,7 +149,7 @@
 | 147 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 148 | [Eternights](games/e/eternights.md) | 0.76% |
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
-| 149 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 152 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
@@ -255,15 +255,15 @@
 | 248 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 254 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 255 | [Black Book](games/b/black_book.md) | 0.07% |
-| 255 | [Operation New Earth](games/o/operation_new_earth.md) | 0.07% |
 | 255 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 255 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 255 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 255 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 261 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 261 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 261 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
-| 261 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 260 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 260 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
+| 260 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 260 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
+| 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 265 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 265 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 265 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
@@ -655,4 +655,4 @@
 | 307 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 307 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 307 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,359 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,360 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
