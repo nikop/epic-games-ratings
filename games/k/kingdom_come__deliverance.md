@@ -7,20 +7,20 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~257,259 |
-| Cavalier | 25.00% | ~200,983 |
+| Cavalier | 25.00% | ~200,984 |
 | Fatso | 23.00% | ~184,905 |
 | Awakening | 21.00% | ~168,826 |
 | Ranger | 20.00% | ~160,787 |
 | Scrooge | 20.00% | ~160,787 |
-| Anorectic | 16.00% | ~128,629 |
+| Anorectic | 16.00% | ~128,630 |
 | Bookworm | 15.00% | ~120,590 |
 | Firestarter | 15.00% | ~120,590 |
-| Insomniac | 13.00% | ~104,511 |
+| Insomniac | 13.00% | ~104,512 |
 | Buddy | 12.00% | ~96,472 |
 | Thief | 12.00% | ~96,472 |
 | Sinner | 11.00% | ~88,433 |
 | Traveller | 11.00% | ~88,433 |
-| Convict | 10.00% | ~80,393 |
+| Convict | 10.00% | ~80,394 |
 | Haggler | 9.00% | ~72,354 |
 | McLovin | 7.00% | ~56,275 |
 | Runt | 7.00% | ~56,275 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,933 (Ranked 17)  
+Progressed: 803,935 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,20 +259,20 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 803,673 | 49 |
 | 2023-10-05 | 803,759 | 49 |
 | 2023-10-06 | 803,884 | 49 |
-| 2023-10-07 | 803,933 | 49 |
+| 2023-10-07 | 803,935 | 49 |
 ## Awards
 Max (Character Customization): 7,499  (Ranked 48)  
-Sum: 27,931 (Ranked 48)  
+Sum: 27,934 (Ranked 48)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,499 |
 | This game has Great Boss Battles | 5,518 |
-| This game has Challenging Combat | 1,751 |
+| This game has Challenging Combat | 1,753 |
 | This game has Amazing Storytelling | 1,704 |
 | This game has Diverse Characters | 1,700 |
 | This game is Extremely Fun | 1,675 |
-| This game is Highly Recommended | 1,673 |
+| This game is Highly Recommended | 1,674 |
 | This game has Realistic Visuals | 1,651 |
 | This game has Amazing Characters | 1,647 |
 | This game is Educational | 1,592 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 0
 | 2023-10-04 | 4.71 | - | 7,497 | 27,919 |
 | 2023-10-05 | 4.71 | - | 7,497 | 27,923 |
 | 2023-10-06 | 4.71 | - | 7,498 | 27,926 |
-| 2023-10-07 | 4.71 | - | 7,499 | 27,931 |
+| 2023-10-07 | 4.71 | - | 7,499 | 27,934 |

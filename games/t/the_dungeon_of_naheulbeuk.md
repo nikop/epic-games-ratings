@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 32.00% | ~73,350 |
-| Alt+F4 | 6.00% | ~13,753 |
-| Where's that freaking Dwarf? | 5.00% | ~11,461 |
+| Sowwy! | 32.00% | ~73,355 |
+| Alt+F4 | 6.00% | ~13,754 |
+| Where's that freaking Dwarf? | 5.00% | ~11,462 |
 | Déjà vu | 4.00% | ~9,169 |
 | Sock! SOCK! | 4.00% | ~9,169 |
 | A beer, two curses, three companions | 3.00% | ~6,877 |
@@ -16,19 +16,19 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 3.00% | ~6,877 |
 | Speedrun | 3.00% | ~6,877 |
 | Fireproof Wizardess | 3.00% | ~6,877 |
-| Livin' in a dwarven paradise | 2.00% | ~4,584 |
-| Way of the Wimp | 2.00% | ~4,584 |
-| The plot thickens... At the tavern | 2.00% | ~4,584 |
-| The demons' feast | 2.00% | ~4,584 |
-| The Great Library | 2.00% | ~4,584 |
-| Torture and Sensibility | 2.00% | ~4,584 |
-| Urik's Depths | 2.00% | ~4,584 |
-| The Dungeon Master | 2.00% | ~4,584 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,584 |
-| The Woman in the High Castle | 2.00% | ~4,584 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,584 |
-| Team Building Exercise | 2.00% | ~4,584 |
-| Oh, when I'll be level 10... | 2.00% | ~4,584 |
+| Livin' in a dwarven paradise | 2.00% | ~4,585 |
+| Way of the Wimp | 2.00% | ~4,585 |
+| The plot thickens... At the tavern | 2.00% | ~4,585 |
+| The demons' feast | 2.00% | ~4,585 |
+| The Great Library | 2.00% | ~4,585 |
+| Torture and Sensibility | 2.00% | ~4,585 |
+| Urik's Depths | 2.00% | ~4,585 |
+| The Dungeon Master | 2.00% | ~4,585 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,585 |
+| The Woman in the High Castle | 2.00% | ~4,585 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,585 |
+| Team Building Exercise | 2.00% | ~4,585 |
+| Oh, when I'll be level 10... | 2.00% | ~4,585 |
 | Shiny and Crôm | 1.00% | ~2,292 |
 | Res Judicata | 1.00% | ~2,292 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,292 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,218 (Ranked 59)  
+Progressed: 229,233 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 5 (0.00%) (Ranked 307)
 | 2023-10-04 | 228,696 | 5 |
 | 2023-10-05 | 228,876 | 5 |
 | 2023-10-06 | 229,103 | 5 |
-| 2023-10-07 | 229,218 | 5 |
+| 2023-10-07 | 229,233 | 5 |
 ## Awards
 Max (Character Customization): 208  (Ranked 274)  
 Sum: 407 (Ranked 325)  

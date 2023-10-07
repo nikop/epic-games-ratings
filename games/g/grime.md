@@ -12,6 +12,7 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 0.50% | ~754 |
 | Ravenous | 0.50% | ~754 |
 | Harmless | 0.30% | ~453 |
+| Jawcrab | 0.30% | ~453 |
 | Feast | 0.30% | ~453 |
 | Silenced Whispers | 0.30% | ~453 |
 | Devourer | 0.30% | ~453 |
@@ -22,8 +23,8 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 0.20% | ~301 |
 | Glare | 0.20% | ~301 |
 | Host | 0.20% | ~301 |
-| Jawcrab | 0.20% | ~302 |
 | Jawstag | 0.20% | ~302 |
+| Celebration | 0.20% | ~302 |
 | Watcher | 0.20% | ~302 |
 | Spiral Heart | 0.10% | ~151 |
 | Bloodhunter | 0.10% | ~151 |
@@ -34,7 +35,6 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.10% | ~151 |
 | Artisan | 0.10% | ~151 |
 | Hush | 0.10% | ~151 |
-| Celebration | 0.10% | ~151 |
 | Inevitable | 0.10% | ~151 |
 | All-Seeing | 0.10% | ~151 |
 | Predator | 0.10% | ~151 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~150 |
 | Intensify | 0.10% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,888 (Ranked 69)  
+Progressed: 150,899 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 1 (0.00%) (Ranked 307)
 | 2023-10-04 | 150,205 | 1 |
 | 2023-10-05 | 150,488 | 1 |
 | 2023-10-06 | 150,744 | 1 |
-| 2023-10-07 | 150,888 | 1 |
+| 2023-10-07 | 150,899 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
 Sum: 272 (Ranked 360)  

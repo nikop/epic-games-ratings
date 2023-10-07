@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1879,6 +1879,11 @@
       "Time": "2023-10-06T23:07:11.2212534+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T13:09:16.2743884+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2058,7 +2063,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2098,7 +2103,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2234,7 +2239,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2249,7 +2254,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 0
     }
   ],
@@ -2257,8 +2262,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:10:05.2716247+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:09:16.2743877+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:14.9386431+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:05:30.4922739+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:10:05.2716813+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:04:24.2655092+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:09:16.274444+00:00"
 }

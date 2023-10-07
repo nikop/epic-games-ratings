@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -528,8 +528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:11:19.9834141+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:10:18.7078501+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:43.6753242+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:00:10.852858+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:11:19.9834552+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:01:03.3886137+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:10:18.7078838+00:00"
 }

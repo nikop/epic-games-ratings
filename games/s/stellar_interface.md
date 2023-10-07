@@ -79,6 +79,7 @@
 | Golden BBQ | 3.00% | ~2 |
 | The Healer | 3.00% | ~2 |
 | Usurper III | 3.00% | ~2 |
+| You've drone good! | 3.00% | ~2 |
 | Silver Tovarish | 3.00% | ~2 |
 | Archer's Silver Fate | 3.00% | ~2 |
 | Silver Alchemist | 3.00% | ~2 |
@@ -88,10 +89,10 @@
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
+| Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
-| You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
@@ -125,7 +126,6 @@
 | Completionist | 0.00% | ~0 |
 | Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
-| Usurper IV | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |

@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,086 |
-| A Grove Replanted | 53.00% | ~3,867 |
-| Fields Watered | 41.00% | ~2,991 |
-| Seekers Found | 41.00% | ~2,991 |
-| Settling the Skies | 41.00% | ~2,991 |
-| Wind Powered | 40.00% | ~2,918 |
+| A Small Community | 56.00% | ~4,087 |
+| A Grove Replanted | 53.00% | ~3,868 |
+| Fields Watered | 41.00% | ~2,992 |
+| Seekers Found | 41.00% | ~2,992 |
+| Settling the Skies | 41.00% | ~2,992 |
+| Wind Powered | 40.00% | ~2,919 |
 | It Takes a Village | 34.00% | ~2,481 |
 | On the Town | 28.00% | ~2,043 |
 | Daylight Found | 26.00% | ~1,897 |
 | Irons Scorched | 25.00% | ~1,824 |
 | Islands Connected | 25.00% | ~1,824 |
-| Harp Tuned | 24.00% | ~1,751 |
-| Travelers Returned | 24.00% | ~1,751 |
-| Pyre Ignited | 23.00% | ~1,678 |
-| Hopes Hoisted | 22.00% | ~1,605 |
-| Knowledge Shared | 20.00% | ~1,459 |
-| Relic Finder | 20.00% | ~1,459 |
-| Worthy of the Title | 19.00% | ~1,386 |
-| A Peaceful Respite | 14.00% | ~1,021 |
-| A Learned Scholar | 13.00% | ~948 |
-| Prophecy Fulfilled | 13.00% | ~948 |
+| Travelers Returned | 24.00% | ~1,752 |
+| Harp Tuned | 23.00% | ~1,679 |
+| Pyre Ignited | 23.00% | ~1,679 |
+| Hopes Hoisted | 22.00% | ~1,606 |
+| Knowledge Shared | 20.00% | ~1,460 |
+| Relic Finder | 20.00% | ~1,460 |
+| Worthy of the Title | 19.00% | ~1,387 |
+| A Peaceful Respite | 14.00% | ~1,022 |
+| A Learned Scholar | 13.00% | ~949 |
+| Prophecy Fulfilled | 13.00% | ~949 |
 | A Wanderer’s Guide | 11.00% | ~803 |
 | Knowledge Seeker | 6.00% | ~438 |
 | The Cycle Continues | 3.00% | ~219 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~146 |
 | A True Challenge | 2.00% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,296 (Ranked 155)  
+Progressed: 7,298 (Ranked 155)  
 Completed: 53 (0.73%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 53 (0.73%) (Ranked 149)
 | 2023-10-04 | 7,280 | 53 |
 | 2023-10-05 | 7,286 | 53 |
 | 2023-10-06 | 7,291 | 53 |
-| 2023-10-07 | 7,296 | 53 |
+| 2023-10-07 | 7,298 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

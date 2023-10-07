@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8534,10 +8534,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1839029,
       "NumberOfAwardsMax": 238292
+    },
+    {
+      "Time": "2023-10-07T13:03:18.2380692+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1840253,
+      "NumberOfAwardsMax": 238292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1839029,
+  "NumberOfAwards": 1840253,
   "NumberOfAwardsMax": 238292,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8545,7 +8551,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 208649
+      "Count": 209090
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8581,7 +8587,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 201376
+      "Count": 201764
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8593,7 +8599,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 196592
+      "Count": 196987
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8613,8 +8619,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-10-07T12:03:47.5286564+00:00",
+  "LastChanged": "2023-10-07T13:03:18.2380689+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.5282553+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:03:47.5286572+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:10:01.5482239+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:03:18.2380698+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:09:13.1161221+00:00"
 }

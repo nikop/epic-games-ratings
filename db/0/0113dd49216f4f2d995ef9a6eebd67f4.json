@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:09:14.406943+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:08:32.0243763+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.3447423+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:02:56.6052334+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:09:14.4069783+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:02:48.1447876+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:08:32.0244088+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -11558,10 +11558,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 97634,
       "NumberOfAwardsMax": 11841
+    },
+    {
+      "Time": "2023-10-07T13:01:45.9150801+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 97647,
+      "NumberOfAwardsMax": 11841
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97634,
+  "NumberOfAwards": 97647,
   "NumberOfAwardsMax": 11841,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11617,7 +11623,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8630
+      "Count": 8643
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11651,9 +11657,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-10-07T10:00:17.6690398+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:09:27.5995099+00:00",
+  "LastChanged": "2023-10-07T13:01:45.9150798+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:08:43.7518034+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:37.0554987+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:01:32.7147853+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:09:27.5995144+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:01:45.9150808+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:08:43.7518068+00:00"
 }

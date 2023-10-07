@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468645,
+  "EOS_Progressed": 468648,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18395,6 +18395,11 @@
       "Time": "2023-10-07T12:09:04.1044785+00:00",
       "NumProgressed": 468645,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-07T13:08:23.5247121+00:00",
+      "NumProgressed": 468648,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18422,7 +18427,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112475
+      "UsersEstimate": 112476
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -18430,7 +18435,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103102
+      "UsersEstimate": 103103
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -18446,7 +18451,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46864
+      "UsersEstimate": 46865
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -18494,7 +18499,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309306
+      "UsersEstimate": 309308
     },
     {
       "ID": "achievement_story_landa",
@@ -18526,7 +18531,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117161
+      "UsersEstimate": 117162
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -18582,7 +18587,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93729
+      "UsersEstimate": 93730
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -18590,7 +18595,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159339
+      "UsersEstimate": 159340
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -18830,7 +18835,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206204
+      "UsersEstimate": 206205
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -18862,7 +18867,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182772
+      "UsersEstimate": 182773
     },
     {
       "ID": "achievement_win_run_hard",
@@ -18918,7 +18923,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103102
+      "UsersEstimate": 103103
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -19037,21 +19042,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12579,
+      "Progressed": 12582,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468645,
+      "Progressed": 468648,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:09:04.1044778+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:08:23.5247114+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:25.4640051+00:00",
-  "LastUpdate_Ratings": "2023-10-07T11:59:40.6380184+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:09:04.1047053+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:00:47.1922673+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:08:23.5249107+00:00"
 }

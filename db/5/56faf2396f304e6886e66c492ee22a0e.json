@@ -2,10 +2,10 @@
   "ID": "56faf2396f304e6886e66c492ee22a0e",
   "Name": "Hush Hush",
   "ProductSlug": "hush-hush-5c1fa0",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -136,6 +136,11 @@
       "Time": "2023-09-07T22:07:46.770801+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T13:05:41.9381684+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-12T19:00:59.231295+00:00",
@@ -154,7 +159,7 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -170,7 +175,7 @@
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
       "SetID": "70j9o42",
       "Name": "Not My Potatoes!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -178,7 +183,7 @@
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
       "SetID": "70j9o42",
       "Name": "Speed Run!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -186,7 +191,7 @@
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -194,7 +199,7 @@
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "When The Moon Hits Your Eye",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -210,7 +215,7 @@
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
       "SetID": "70j9o42",
       "Name": "Impressive",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -218,7 +223,7 @@
       "ID": "ACHIEVEMENT_Dorian_Spare_You",
       "SetID": "70j9o42",
       "Name": "Chill Villain",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -226,7 +231,7 @@
       "ID": "ACHIEVEMENT_EasyMode",
       "SetID": "70j9o42",
       "Name": "Easy Peezy Lemon Squeezy",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -242,7 +247,7 @@
       "ID": "ACHIEVEMENT_Elle_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "Inconceiveab-Elle",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "ACHIEVEMENT_Elle_StandUp",
       "SetID": "70j9o42",
       "Name": "Admirab-Elle",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -274,7 +279,7 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -282,7 +287,7 @@
       "ID": "ACHIEVEMENT_Iro_BestEnding",
       "SetID": "70j9o42",
       "Name": "Pain Killer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -290,7 +295,7 @@
       "ID": "ACHIEVEMENT_Iro_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "Slippery When Wet",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "ACHIEVEMENT_Iro_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "Double Dare",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -306,7 +311,7 @@
       "ID": "ACHIEVEMENT_Lilianna_Respect",
       "SetID": "70j9o42",
       "Name": "Find Out What It Means To Me",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -314,7 +319,7 @@
       "ID": "ACHIEVEMENT_Love_Machine",
       "SetID": "70j9o42",
       "Name": "Love Machine",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -322,7 +327,7 @@
       "ID": "ACHIEVEMENT_Lucky",
       "SetID": "70j9o42",
       "Name": "Fortunate Soul",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -338,7 +343,7 @@
       "ID": "ACHIEVEMENT_Mio_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "A Shocking End",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -354,7 +359,7 @@
       "ID": "ACHIEVEMENT_Motivation",
       "SetID": "70j9o42",
       "Name": "Motivational Peaker",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -378,7 +383,7 @@
       "ID": "ACHIEVEMENT_Player_Wins_Marshmallows",
       "SetID": "70j9o42",
       "Name": "Marshm-Elle-ows",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -386,7 +391,7 @@
       "ID": "ACHIEVEMENT_Prodamon_victory",
       "SetID": "70j9o42",
       "Name": "Gotta Capture All Of \u0027Em",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -394,7 +399,7 @@
       "ID": "ACHIEVEMENT_Qpernikiss_Ending",
       "SetID": "70j9o42",
       "Name": "Wreathed In Light",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -402,7 +407,7 @@
       "ID": "ACHIEVEMENT_Quill_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "The Cat\u0027s Meow",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -418,7 +423,7 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -426,7 +431,7 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -434,7 +439,7 @@
       "ID": "ACHIEVEMENT_TechSavvy",
       "SetID": "70j9o42",
       "Name": "Brainiac",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -442,7 +447,7 @@
       "ID": "ACHIEVEMENT_Thelima_Ending",
       "SetID": "70j9o42",
       "Name": "The Shadow\u0027s Embrace",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -450,7 +455,7 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 5
     }
@@ -459,14 +464,14 @@
     {
       "ID": "70j9o42",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:06:27.7505061+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:05:41.9381677+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:56.152659+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:04:43.0976938+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:06:27.7505473+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:03:49.9264904+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:05:41.9381999+00:00"
 }

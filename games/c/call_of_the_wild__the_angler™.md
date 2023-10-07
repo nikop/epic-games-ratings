@@ -6,11 +6,11 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,740 |
-| Hey Good Hookin | 69.00% | ~4,140 |
-| I'm on a Boat! | 60.00% | ~3,600 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,360 |
-| Scaling up | 56.00% | ~3,360 |
+| Fish Just Got Reel | 79.00% | ~4,741 |
+| Hey Good Hookin | 69.00% | ~4,141 |
+| I'm on a Boat! | 60.00% | ~3,601 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,361 |
+| Scaling up | 56.00% | ~3,361 |
 | More Fish in the Sea | 49.00% | ~2,940 |
 | Ready to Rod and Roll | 47.00% | ~2,820 |
 | Fish Out of Water | 36.00% | ~2,160 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,000 (Ranked 165)  
+Progressed: 6,001 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 5,981 | 0 |
 | 2023-10-05 | 5,990 | 0 |
 | 2023-10-06 | 5,996 | 0 |
-| 2023-10-07 | 6,000 | 0 |
+| 2023-10-07 | 6,001 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 450)  
 Sum: 180 (Ranked 390)  

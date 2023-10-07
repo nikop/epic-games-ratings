@@ -5,33 +5,33 @@ Rating: 4.55 (Ranked 488)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~377 |
-| And again, and again, and... | 64.00% | ~274 |
+| Huzza, he's back. | 88.00% | ~378 |
+| And again, and again, and... | 64.00% | ~275 |
 | Burn, Elysium, burn! | 63.00% | ~270 |
-| Kuvaq Minigame-Master | 62.00% | ~265 |
-| FunScore | 55.00% | ~235 |
-| Funtime's over | 53.00% | ~227 |
+| Kuvaq Minigame-Master | 62.00% | ~266 |
+| FunScore | 55.00% | ~236 |
+| Funtime's over | 52.00% | ~223 |
 | Chunky | 50.00% | ~214 |
-| Shall we play a game? | 49.00% | ~210 |
-| Boat of love, boat of love | 49.00% | ~210 |
+| Shall we play a game? | 48.00% | ~206 |
+| Boat of love, boat of love | 48.00% | ~206 |
 | School's out | 43.00% | ~184 |
-| Scaffolding Expert | 37.00% | ~158 |
-| Elysian Minigame-Master | 37.00% | ~158 |
-| Sole Music | 36.00% | ~154 |
-| No man left behind! | 30.00% | ~128 |
-| Portals come in packs | 30.00% | ~128 |
-| Photo Friend | 26.00% | ~111 |
+| Scaffolding Expert | 37.00% | ~159 |
+| Elysian Minigame-Master | 37.00% | ~159 |
+| Sole Music | 35.00% | ~150 |
+| No man left behind! | 30.00% | ~129 |
+| Portals come in packs | 30.00% | ~129 |
+| Photo Friend | 26.00% | ~112 |
 | Brainfreeze | 21.00% | ~90 |
 | Masseltov | 20.00% | ~86 |
 | And everything comes full circle. | 20.00% | ~86 |
-| Quickdraw | 16.00% | ~68 |
+| Quickdraw | 16.00% | ~69 |
 | Thuna...? | 15.00% | ~64 |
 | Monstrous Harassment | 14.00% | ~60 |
 | Heading the inverter | 14.00% | ~60 |
 | Blast from the Past | 13.00% | ~56 |
 | Play it again, Ronny | 12.00% | ~51 |
-| Paradox! | 11.00% | ~47 |
 | Goat Team | 10.00% | ~43 |
+| Paradox! | 10.00% | ~43 |
 | Weapons 101 | 8.00% | ~34 |
 | Sadist | 8.00% | ~34 |
 | The customer is always right | 7.00% | ~30 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 488)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 284)  
+Progressed: 429 (Ranked 283)  
 Completed: 6 (1.40%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 6 (1.40%) (Ranked 122)
 | 2023-10-01 | 425 | 6 |
 | 2023-10-04 | 426 | 6 |
 | 2023-10-06 | 427 | 6 |
-| 2023-10-07 | 428 | 6 |
+| 2023-10-07 | 429 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

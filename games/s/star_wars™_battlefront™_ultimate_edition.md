@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~436 |
-| Off to a good start | 68.00% | ~326 |
-| Do... or do not. There is no try | 53.00% | ~254 |
-| A good blaster at your side | 36.00% | ~172 |
-| Scrap collector | 22.00% | ~105 |
+| New Recruit | 90.00% | ~433 |
+| Off to a good start | 68.00% | ~327 |
+| Do... or do not. There is no try | 53.00% | ~255 |
+| A good blaster at your side | 36.00% | ~173 |
+| Scrap collector | 22.00% | ~106 |
 | I suggest a new strategy | 20.00% | ~96 |
 | Great shot, kid! | 20.00% | ~96 |
 | All right, I'll give it a try | 19.00% | ~91 |
-| Together we can rule the galaxy | 18.00% | ~86 |
-| Shoot first | 18.00% | ~86 |
-| The power of the Force | 17.00% | ~81 |
+| Shoot first | 18.00% | ~87 |
+| The power of the Force | 17.00% | ~82 |
+| Together we can rule the galaxy | 17.00% | ~82 |
 | Collector | 16.00% | ~77 |
-| Tell Jabba that I've got his money | 13.00% | ~62 |
-| Survivor | 13.00% | ~62 |
-| Best star-pilot in the galaxy | 12.00% | ~57 |
+| Survivor | 13.00% | ~63 |
+| Tell Jabba that I've got his money | 12.00% | ~58 |
+| Best star-pilot in the galaxy | 12.00% | ~58 |
 | A cunning warrior | 11.00% | ~53 |
 | What's the cargo? | 10.00% | ~48 |
 | Never tell me the odds! | 10.00% | ~48 |
@@ -42,13 +42,13 @@
 | City in the Clouds | 4.00% | ~19 |
 | What will you become? | 4.00% | ~19 |
 | Disturbed tranquility | 4.00% | ~19 |
-| Hold the line! | 3.00% | ~14 |
-| Playing the objective | 3.00% | ~14 |
 | The Force is strong with this one | 3.00% | ~14 |
 | Ackbar's Elite | 3.00% | ~14 |
 | This is a new day, a new beginning | 3.00% | ~14 |
 | Alternative solution | 3.00% | ~14 |
 | The circle is now complete | 3.00% | ~14 |
+| Hold the line! | 2.00% | ~10 |
+| Playing the objective | 2.00% | ~10 |
 | No such thing as luck | 2.00% | ~10 |
 | Do we take prisoners? | 2.00% | ~10 |
 | You have your moments | 2.00% | ~10 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 277)  
+Progressed: 481 (Ranked 277)  
 Completed: 1 (0.21%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.21%) (Ranked 215)
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
-| 2023-10-07 | 479 | 1 |
+| 2023-10-07 | 481 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 15,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10971,10 +10971,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 259977,
       "NumberOfAwardsMax": 33543
+    },
+    {
+      "Time": "2023-10-07T13:02:07.0787487+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 260008,
+      "NumberOfAwardsMax": 33543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259977,
+  "NumberOfAwards": 260008,
   "NumberOfAwardsMax": 33543,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11018,7 +11024,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29691
+      "Count": 29722
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11045,9 +11051,9 @@
       "Count": 25135
     }
   ],
-  "EOS_Progressed": 923894,
+  "EOS_Progressed": 923983,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13638,
+  "EOS_NewPlayers": 13594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30320,6 +30326,11 @@
       "Time": "2023-10-07T12:06:14.7192312+00:00",
       "NumProgressed": 923894,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T13:05:31.1304324+00:00",
+      "NumProgressed": 923983,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30467,7 +30478,7 @@
       "Name": "Handyman",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_019",
@@ -30499,7 +30510,7 @@
       "Name": "Zealous",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "ACH_023",
@@ -30507,7 +30518,7 @@
       "Name": "It wakes",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6467
+      "UsersEstimate": 6468
     },
     {
       "ID": "ACH_024",
@@ -30515,7 +30526,7 @@
       "Name": "Not half bad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_025",
@@ -30539,7 +30550,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_028",
@@ -30563,15 +30574,15 @@
       "Name": "Survival Treasures",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_031",
       "SetID": "bdmlp8o",
       "Name": "Vulture",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 2772
     },
     {
       "ID": "ACH_032",
@@ -30635,7 +30646,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "ACH_040",
@@ -30889,9 +30900,9 @@
       "ID": "ACH_071",
       "SetID": "bdmlp8o",
       "Name": "Cottage Owner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH_072",
@@ -31737,9 +31748,9 @@
       "ID": "ACH_180",
       "SetID": "16jml5b",
       "Name": "Humanitarian",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2772
+      "UsersEstimate": 3696
     },
     {
       "ID": "ACH_181",
@@ -32099,7 +32110,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ACH_226",
@@ -32162,21 +32173,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 923894,
+      "Progressed": 923983,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 923894,
+      "Progressed": 923983,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-07T10:00:44.7331552+00:00",
-  "LastChanged_Achievements": "2023-10-07T12:06:14.7192306+00:00",
+  "LastChanged": "2023-10-07T13:02:07.0787485+00:00",
+  "LastChanged_Achievements": "2023-10-07T13:05:31.1304318+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:02:01.2619047+00:00",
-  "LastUpdate_Achievements": "2023-10-07T12:06:14.7202071+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:02:07.0787494+00:00",
+  "LastUpdate_Achievements": "2023-10-07T13:05:31.1311617+00:00"
 }
