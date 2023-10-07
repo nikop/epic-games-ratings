@@ -10,18 +10,19 @@
 | The battle of Great Britain | 54.00% | ~7 |
 | Giant | 46.00% | ~6 |
 | The happy farmer girl | 38.00% | ~5 |
+| The artist | 31.00% | ~4 |
 | Pulp! Terror Tales in the Night | 31.00% | ~4 |
 | Pulp! Where Monsters Dwell | 31.00% | ~4 |
 | A continent with chemistry | 31.00% | ~4 |
 | Kirlian's best disciple | 31.00% | ~4 |
-| The artist | 23.00% | ~3 |
 | The seer | 23.00% | ~3 |
+| Pulp! Out of this World | 23.00% | ~3 |
 | Diagnosis: fear | 23.00% | ~3 |
 | Ambition is... blind | 23.00% | ~3 |
 | You have two wishes left | 23.00% | ~3 |
 | A rival with no options | 15.00% | ~2 |
-| Pulp! Out of this World | 15.00% | ~2 |
 | Pulp! Adventures into the Unknown | 15.00% | ~2 |
+| Vaccine fans | 15.00% | ~2 |
 | You've awakened the beast | 8.00% | ~1 |
 | Hate is... addictive | 8.00% | ~1 |
 | You had one wish left | 8.00% | ~1 |
@@ -29,7 +30,6 @@
 | The bully | 8.00% | ~1 |
 | Thirst for Oleum | 8.00% | ~1 |
 | The barbarian invasions | 8.00% | ~1 |
-| Vaccine fans | 8.00% | ~1 |
 | Welcome to Hellville | 8.00% | ~1 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |

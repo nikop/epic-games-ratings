@@ -21,11 +21,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.70% | ~101 |
 | Pioneer | 0.70% | ~101 |
 | Strong | 0.70% | ~101 |
+| Oracle | 0.70% | ~101 |
 | Trade Caravan | 0.70% | ~101 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
-| Oracle | 0.60% | ~87 |
 | Judaism | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
 | Naming Landmarks | 0.60% | ~87 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
+| The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
 | Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~14 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.10% | ~14 |
 | Win a Network Game | 0.10% | ~14 |
 | Win a Play-By-Cloud Game | 0.10% | ~14 |
-| The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
 | Pilgrimage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |

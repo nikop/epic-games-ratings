@@ -5,38 +5,38 @@ Rating: 4.30 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~149 |
-| Bullseye! | 85.00% | ~142 |
+| Level Up! | 88.00% | ~148 |
+| Bullseye! | 85.00% | ~143 |
 | Graduation! | 80.00% | ~134 |
-| Villfir Forest | 77.00% | ~129 |
-| Right in the kisser! | 60.00% | ~100 |
-| The Thrower | 49.00% | ~82 |
-| Duscot Steamcity | 47.00% | ~78 |
+| Villfir Forest | 76.00% | ~128 |
+| Right in the kisser! | 60.00% | ~101 |
+| The Thrower | 48.00% | ~81 |
+| Duscot Steamcity | 47.00% | ~79 |
 | The Shaman | 46.00% | ~77 |
-| The Penguin | 45.00% | ~75 |
-| The Magician | 42.00% | ~70 |
-| The Tunneler | 39.00% | ~65 |
+| The Penguin | 45.00% | ~76 |
+| The Magician | 42.00% | ~71 |
+| The Tunneler | 39.00% | ~66 |
 | Level Up!! | 37.00% | ~62 |
-| The Shield | 37.00% | ~62 |
+| The Shield | 36.00% | ~60 |
 | Kill-streak | 30.00% | ~50 |
-| Topped up | 28.00% | ~47 |
-| The Bird | 28.00% | ~47 |
+| Topped up | 27.00% | ~45 |
+| The Bird | 27.00% | ~45 |
 | The Ninja | 27.00% | ~45 |
-| The Idol | 26.00% | ~43 |
-| Inferno Ruins | 25.00% | ~42 |
-| 1 is all I need | 23.00% | ~38 |
-| I'm Rich | 23.00% | ~38 |
+| The Idol | 26.00% | ~44 |
+| Inferno Ruins | 24.00% | ~40 |
+| 1 is all I need | 23.00% | ~39 |
+| I'm Rich | 23.00% | ~39 |
 | The Slime | 22.00% | ~37 |
 | Untouchable | 21.00% | ~35 |
-| The Blacksmith | 17.00% | ~28 |
-| The Flower | 17.00% | ~28 |
-| The Giant | 17.00% | ~28 |
-| Out of the Frying Pan... | 17.00% | ~28 |
+| The Blacksmith | 17.00% | ~29 |
+| The Flower | 17.00% | ~29 |
+| The Giant | 17.00% | ~29 |
+| Out of the Frying Pan... | 17.00% | ~29 |
 | The Ooze | 16.00% | ~27 |
 | Ember | 16.00% | ~27 |
 | The Assistant | 15.00% | ~25 |
-| The Steampunk | 14.00% | ~23 |
-| Turquoise | 14.00% | ~23 |
+| The Steampunk | 14.00% | ~24 |
+| Turquoise | 14.00% | ~24 |
 | The Droid | 11.00% | ~18 |
 | Verse | 11.00% | ~18 |
 | Iron | 10.00% | ~17 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 812)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 351)  
+Progressed: 168 (Ranked 351)  
 Completed: 1 (0.60%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 1 (0.60%) (Ranked 158)
 | 2023-10-01 | 165 | 1 |
 | 2023-10-04 | 166 | 1 |
 | 2023-10-06 | 167 | 1 |
+| 2023-10-07 | 168 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

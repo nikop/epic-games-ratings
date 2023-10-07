@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,624 |
-| Self-Improvement | 72.00% | ~1,329 |
-| Perky | 66.00% | ~1,218 |
+| Unforgiven | 88.00% | ~1,625 |
+| Self-Improvement | 72.00% | ~1,330 |
+| Perky | 66.00% | ~1,219 |
 | Let’s Ride | 60.00% | ~1,108 |
-| Welcome to the Weird West | 57.00% | ~1,052 |
+| Welcome to the Weird West | 57.00% | ~1,053 |
 | Dead or Alive | 56.00% | ~1,034 |
 | Full House | 37.00% | ~683 |
 | Off the Trail | 34.00% | ~628 |
 | Justice Served | 30.00% | ~554 |
-| Chain Reaction | 27.00% | ~498 |
+| Chain Reaction | 27.00% | ~499 |
 | Through Their Eyes | 26.00% | ~480 |
 | Dishonored | 25.00% | ~462 |
 | Rain of Death | 25.00% | ~462 |
 | Scholar | 25.00% | ~462 |
 | The Great Escape | 24.00% | ~443 |
 | That’s All, Folks | 19.00% | ~351 |
-| Fallen Star | 16.00% | ~295 |
-| For Balance | 16.00% | ~295 |
-| Here Comes Santa Claus | 16.00% | ~295 |
-| Winds of War | 16.00% | ~295 |
+| Fallen Star | 16.00% | ~296 |
+| For Balance | 16.00% | ~296 |
+| Here Comes Santa Claus | 16.00% | ~296 |
+| Winds of War | 16.00% | ~296 |
 | Dog Days | 13.00% | ~240 |
 | Elusive Prey | 13.00% | ~240 |
 | Out on the Ebb Tide | 13.00% | ~240 |
@@ -53,14 +53,14 @@ Number of Ratings: 125  (23.09.2022)
 | 'Ma Barker | 2.00% | ~37 |
 | I Kicked a Bird and I Liked it | 1.00% | ~18 |
 | Hog Wild | 1.00% | ~18 |
-| Explorer | 0.70% | ~13 |
 | End the world | 0.70% | ~13 |
+| Explorer | 0.60% | ~11 |
 | Moon Hunter | 0.60% | ~11 |
 | Dirt and Blame | 0.50% | ~9 |
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,846 (Ranked 205)  
+Progressed: 1,847 (Ranked 205)  
 Completed: 7 (0.38%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 7 (0.38%) (Ranked 183)
 | 2023-10-01 | 1,844 | 7 |
 | 2023-10-02 | 1,845 | 7 |
 | 2023-10-05 | 1,846 | 7 |
+| 2023-10-07 | 1,847 | 7 |
 ## Awards
 Max (Impact the Story): 27  (Ranked 484)  
 Sum: 27 (Ranked 497)  

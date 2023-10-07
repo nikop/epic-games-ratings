@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-10-07T13:08:24.53626+00:00",
       "NumProgressed": 530,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-07T18:05:25.4987549+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1855,9 +1860,9 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "RedSkeleton",
@@ -1865,7 +1870,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "YellowSkeleton",
@@ -1880,14 +1885,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:06:23.1706635+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:05:25.4987542+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:11.9769965+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:29.8374965+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:06:23.1706782+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:22.303984+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:05:25.4987792+00:00"
 }

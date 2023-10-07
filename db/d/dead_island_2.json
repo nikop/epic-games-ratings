@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5148,10 +5148,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 692188,
-  "EOS_Completed": 2199,
-  "EOS_NewPlayers": 3615,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 692218,
+  "EOS_Completed": 2200,
+  "EOS_NewPlayers": 3602,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24398,6 +24398,11 @@
       "Time": "2023-10-07T17:07:30.9391607+00:00",
       "NumProgressed": 692188,
       "NumCompleted": 2199
+    },
+    {
+      "Time": "2023-10-07T18:06:21.4241876+00:00",
+      "NumProgressed": 692218,
+      "NumCompleted": 2200
     }
   ],
   "TotalAchievements": 45,
@@ -24425,7 +24430,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_anger_management",
@@ -24473,7 +24478,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_contender",
@@ -24529,7 +24534,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24545,7 +24550,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4845
+      "UsersEstimate": 4846
     },
     {
       "ID": "ach_hazardous_materials",
@@ -24553,7 +24558,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24569,7 +24574,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_impressive_aim",
@@ -24585,7 +24590,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4845
+      "UsersEstimate": 4846
     },
     {
       "ID": "ach_investigator",
@@ -24689,7 +24694,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_survival_expert",
@@ -24745,7 +24750,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20766
+      "UsersEstimate": 20767
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24768,22 +24773,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 692188,
-      "Completed": 2199
+      "Progressed": 692218,
+      "Completed": 2200
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17730,
-      "Completed": 17730
+      "Progressed": 17760,
+      "Completed": 17760
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-07T15:01:46.3373779+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:07:30.9391602+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:06:21.4241868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:58:47.7989294+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:07:30.9392782+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:58:04.4329251+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:06:21.4244593+00:00"
 }

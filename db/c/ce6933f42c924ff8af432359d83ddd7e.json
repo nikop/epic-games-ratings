@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -781,6 +781,11 @@
       "Time": "2023-10-07T04:09:06.3505895+00:00",
       "NumProgressed": 350,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-07T18:08:26.7474879+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -817,7 +822,7 @@
       "Name": "An apple a day",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -831,9 +836,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 85,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -841,7 +846,7 @@
       "Name": "Good listener",
       "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -863,23 +868,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 193
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:09:08.9156845+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:08:26.7474873+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:53.1214177+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:09:08.9157011+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:41.6438882+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:08:26.7475002+00:00"
 }

@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1460,9 +1460,9 @@
       "ID": "achievement_117",
       "SetID": "d252ncf",
       "Name": "Insanity I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_118",
@@ -1908,9 +1908,9 @@
       "ID": "achievement_53",
       "SetID": "d252ncf",
       "Name": "Cat\u0027s in the Cradle",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_54",
@@ -2212,9 +2212,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_89",
@@ -2260,9 +2260,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_94",
@@ -2292,9 +2292,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_98",
@@ -2328,8 +2328,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:06:16.8498577+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:05:20.5250921+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:01:02.6586378+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:06:16.8500329+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:48.1786505+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:05:20.5253122+00:00"
 }

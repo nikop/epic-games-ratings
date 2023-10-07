@@ -19,9 +19,9 @@
 | Eridanian Champion | 13.00% | ~6 |
 | Mind Illuminator | 11.00% | ~5 |
 | Sanctuary Guardian | 11.00% | ~5 |
+| Shard Spender | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
-| Shard Spender | 9.00% | ~4 |
 | Stellar Haste | 9.00% | ~4 |
 | Aquarian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |

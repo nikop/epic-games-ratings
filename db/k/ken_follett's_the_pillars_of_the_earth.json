@@ -527,7 +527,7 @@
   ],
   "EOS_Progressed": 15596,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11570,9 +11570,9 @@
       "ID": "tpote_achievement_11",
       "SetID": "3jcf6c3",
       "Name": "Wannabe knight",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3587
     },
     {
       "ID": "tpote_achievement_12",
@@ -11890,8 +11890,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:07:47.986548+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:06:35.6193686+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:23.0427402+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:07:47.9866279+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:17.1746663+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:06:35.6195408+00:00"
 }

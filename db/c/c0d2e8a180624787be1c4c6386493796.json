@@ -619,9 +619,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:05:12.3869679+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:04:27.1811762+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:05.8132648+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:05:12.3870325+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:04.146627+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:04:27.181318+00:00"
 }

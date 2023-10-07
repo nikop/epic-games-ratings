@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.80% | ~7,396 |
-| Zealous | 0.70% | ~6,472 |
-| Skillful | 0.70% | ~6,472 |
-| Not half bad | 0.60% | ~5,547 |
-| Make Some Noise | 0.60% | ~5,547 |
+| It wakes | 0.80% | ~7,398 |
+| Zealous | 0.70% | ~6,473 |
+| Skillful | 0.70% | ~6,473 |
+| Not half bad | 0.60% | ~5,548 |
+| Make Some Noise | 0.60% | ~5,548 |
 | Handyman | 0.50% | ~4,623 |
 | Apt Survivor | 0.50% | ~4,623 |
 | Survival Treasures | 0.50% | ~4,623 |
 | Sorted | 0.50% | ~4,623 |
-| The Grand Sacrifice | 0.40% | ~3,698 |
-| Agonizing Escape | 0.40% | ~3,698 |
-| Backdoor Escape | 0.40% | ~3,698 |
-| No one left behind | 0.40% | ~3,698 |
-| Medic | 0.40% | ~3,698 |
-| Nerves of steel | 0.40% | ~3,698 |
-| Perfect Escape | 0.40% | ~3,698 |
-| Bloody Millionaire | 0.40% | ~3,698 |
-| I | 0.40% | ~3,698 |
-| Engineer | 0.40% | ~3,698 |
-| Healthy Obsession | 0.40% | ~3,698 |
-| Resurgence | 0.40% | ~3,698 |
-| Preemptive Strike | 0.40% | ~3,698 |
-| Humanitarian | 0.40% | ~3,698 |
+| The Grand Sacrifice | 0.40% | ~3,699 |
+| Agonizing Escape | 0.40% | ~3,699 |
+| Backdoor Escape | 0.40% | ~3,699 |
+| No one left behind | 0.40% | ~3,699 |
+| Medic | 0.40% | ~3,699 |
+| Nerves of steel | 0.40% | ~3,699 |
+| Perfect Escape | 0.40% | ~3,699 |
+| Bloody Millionaire | 0.40% | ~3,699 |
+| I | 0.40% | ~3,699 |
+| Engineer | 0.40% | ~3,699 |
+| Healthy Obsession | 0.40% | ~3,699 |
+| Resurgence | 0.40% | ~3,699 |
+| Preemptive Strike | 0.40% | ~3,699 |
+| Humanitarian | 0.40% | ~3,699 |
 | I've got your back | 0.30% | ~2,774 |
 | Perfect Killing | 0.30% | ~2,774 |
 | Apt Killer | 0.30% | ~2,774 |
@@ -46,6 +46,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 0.20% | ~1,849 |
 | Shock Therapy | 0.20% | ~1,849 |
 | All Aboard | 0.20% | ~1,849 |
+| Leapfrog | 0.20% | ~1,849 |
 | Item of Obsession | 0.20% | ~1,849 |
 | House of Pain | 0.20% | ~1,849 |
 | Cottage Owner | 0.20% | ~1,849 |
@@ -69,6 +70,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.20% | ~1,849 |
 | Lifting The Fog | 0.20% | ~1,849 |
 | Chorus of Chaos | 0.20% | ~1,849 |
+| Extraterrestrial | 0.20% | ~1,849 |
 | One More Step | 0.20% | ~1,849 |
 | MU/TH/UR Dearest | 0.20% | ~1,849 |
 | A bite for the Entity | 0.10% | ~925 |
@@ -99,7 +101,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shocking Treatment | 0.10% | ~925 |
 | Mad House | 0.10% | ~925 |
 | Adept Doctor | 0.10% | ~925 |
-| Leapfrog | 0.10% | ~925 |
 | Adept Min | 0.10% | ~925 |
 | The man behind the bush | 0.10% | ~925 |
 | Evil Incarnate | 0.10% | ~925 |
@@ -227,7 +228,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Slip Into the Stream | 0.10% | ~925 |
 | Complete the Evolution | 0.10% | ~925 |
 | Adept Singularity | 0.10% | ~925 |
-| Extraterrestrial | 0.10% | ~925 |
 | Adept Gabriel | 0.10% | ~925 |
 | Adept Cage | 0.10% | ~925 |
 | Terror of LV-426 | 0.10% | ~925 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~925 |
 | Adept Ripley | 0.10% | ~925 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 924,544 (Ranked 14)  
+Progressed: 924,693 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 924,544 | 49 |
+| 2023-10-07 | 924,693 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 260,124 (Ranked 13)  

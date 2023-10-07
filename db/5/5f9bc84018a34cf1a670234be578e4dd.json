@@ -1460,9 +1460,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "FirstBox",
@@ -1476,9 +1476,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "Fusses",
@@ -1532,9 +1532,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "Synthesis",
@@ -1555,8 +1555,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:04:46.9634509+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:04:05.87038+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:14.7228421+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:59.6572799+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:04:46.9634663+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:45.7188971+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:04:05.8704117+00:00"
 }

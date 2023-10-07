@@ -2,12 +2,12 @@
   "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
   "Name": "KINGDOM HEARTS III \u002B Re Mind (DLC)",
   "ProductSlug": "kingdom-hearts-iii",
-  "Ranking_Rating": 93,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -2456,6 +2456,6 @@
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
   "LastChanged": "2023-10-07T17:01:07.9545318+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:43.2682303+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:01:07.9545323+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:06:17.8224155+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:52.5157415+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:05:21.1412074+00:00"
 }

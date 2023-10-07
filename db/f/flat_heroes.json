@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1287,9 +1287,9 @@
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "World6Boss",
@@ -1336,8 +1336,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:05:16.3128538+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:04:30.301616+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.7361934+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:57:30.3441233+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:05:16.3128855+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:57:01.7757659+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:04:30.3016828+00:00"
 }

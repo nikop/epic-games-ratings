@@ -494,9 +494,9 @@
       "ID": "dep4_achievement_15",
       "SetID": "5d32b60",
       "Name": "Weapons 101",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "dep4_achievement_16",
@@ -743,8 +743,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:08:31.3041879+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:08:20.7270184+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:00:36.8141702+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:08:31.3042133+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:59:27.9484743+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:08:20.7270865+00:00"
 }

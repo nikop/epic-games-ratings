@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4128,
+  "EOS_Progressed": 4129,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6910,6 +6910,11 @@
       "Time": "2023-10-07T11:07:52.8008347+00:00",
       "NumProgressed": 4128,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-07T18:04:44.4823708+00:00",
+      "NumProgressed": 4129,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7409,7 +7414,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Ach063",
@@ -7488,13 +7493,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4128,
+      "Progressed": 4129,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2649,
+      "Progressed": 2650,
       "Completed": 1930
     }
   ],
@@ -7502,8 +7507,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:05:33.4872128+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:04:44.4823701+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.6690541+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:58:01.9954717+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:05:33.4873024+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:57:26.566538+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:04:44.4825773+00:00"
 }

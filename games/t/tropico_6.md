@@ -8,8 +8,8 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,106 |
 | Un-Lonely Island | 47.00% | ~2,573 |
-| The Beginning of a Servantship | 45.00% | ~2,463 |
-| Trade Is My Trait | 37.00% | ~2,025 |
+| The Beginning of a Servantship | 45.00% | ~2,464 |
+| Trade Is My Trait | 37.00% | ~2,026 |
 | Number 18 | 24.00% | ~1,314 |
 | We Don't Have Time For That | 19.00% | ~1,040 |
 | The Governator | 17.00% | ~931 |
@@ -18,9 +18,9 @@ Number of Ratings: 398  (23.09.2022)
 | The Dreamer of Dreams | 15.00% | ~821 |
 | Go Sovereigns! | 11.00% | ~602 |
 | For Science! | 11.00% | ~602 |
-| Happy Ending? | 10.00% | ~547 |
-| Of Seals And Men | 10.00% | ~547 |
-| Shackadelic | 10.00% | ~547 |
+| Happy Ending? | 10.00% | ~548 |
+| Of Seals And Men | 10.00% | ~548 |
+| Shackadelic | 10.00% | ~548 |
 | Double Trouble | 8.00% | ~438 |
 | Firestarter | 8.00% | ~438 |
 | I Owe You Nothing | 7.00% | ~383 |
@@ -37,17 +37,17 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~164 |
 | Promising Endeavors | 3.00% | ~164 |
 | The Time For Wonders | 3.00% | ~164 |
-| Chain Gang | 2.00% | ~109 |
-| One Does Not Simply Stage A Coup | 2.00% | ~109 |
-| Sublime Subliminal Supreme | 2.00% | ~109 |
-| Teamplayer | 2.00% | ~109 |
-| Terraformer | 2.00% | ~109 |
-| Curse of the Mummy | 2.00% | ~109 |
+| Chain Gang | 2.00% | ~110 |
+| One Does Not Simply Stage A Coup | 2.00% | ~110 |
+| Sublime Subliminal Supreme | 2.00% | ~110 |
+| Teamplayer | 2.00% | ~110 |
+| Terraformer | 2.00% | ~110 |
+| Curse of the Mummy | 2.00% | ~110 |
 | From Knight to Little Duck | 1.00% | ~55 |
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,474 (Ranked 168)  
+Progressed: 5,475 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 2 (0.04%) (Ranked 271)
 | 2023-10-04 | 5,446 | 2 |
 | 2023-10-05 | 5,463 | 2 |
 | 2023-10-06 | 5,468 | 2 |
-| 2023-10-07 | 5,474 | 2 |
+| 2023-10-07 | 5,475 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 346)  
 Sum: 699 (Ranked 283)  

@@ -53,19 +53,19 @@
 | Battlemaster | 31.00% | ~183 |
 | The Cure | 31.00% | ~183 |
 | Big Game Hunter | 31.00% | ~183 |
+| Shopaholic | 31.00% | ~183 |
 | A Personal Touch | 30.00% | ~177 |
 | Catharsis | 30.00% | ~177 |
 | Fade Away | 30.00% | ~177 |
 | Ghost of the Father | 30.00% | ~177 |
 | Revenge! | 30.00% | ~177 |
 | Heart of Darkness | 30.00% | ~177 |
-| Shopaholic | 30.00% | ~177 |
+| Cat's in the Cradle | 29.00% | ~171 |
 | Treason | 29.00% | ~171 |
 | Agent | 29.00% | ~171 |
 | Digital Exorcist | 29.00% | ~171 |
 | Driven | 29.00% | ~171 |
 | Focused | 28.00% | ~165 |
-| Cat's in the Cradle | 28.00% | ~165 |
 | Doppelganger | 28.00% | ~165 |
 | Bringer of War | 28.00% | ~165 |
 | Friend or Foe | 27.00% | ~159 |
@@ -80,11 +80,11 @@
 | A House Divided | 24.00% | ~141 |
 | Weapon Specialist | 24.00% | ~141 |
 | World Shaker | 24.00% | ~141 |
-| Liberator | 23.00% | ~135 |
+| Liberator | 24.00% | ~141 |
 | Pathfinder | 22.00% | ~130 |
 | Tunnel Rat | 22.00% | ~130 |
+| Arbiter | 22.00% | ~130 |
 | Savior | 21.00% | ~124 |
-| Arbiter | 21.00% | ~124 |
 | Paramour II | 20.00% | ~118 |
 | Party Crasher | 20.00% | ~118 |
 | Lost and Found | 20.00% | ~118 |
@@ -118,10 +118,10 @@
 | Paramour III | 9.00% | ~53 |
 | Sky High | 7.00% | ~41 |
 | Damping Specialist | 7.00% | ~41 |
+| Insanity I | 6.00% | ~35 |
 | Incineration Specialist | 6.00% | ~35 |
 | Singularity Mastery | 6.00% | ~35 |
 | Shield Breaker | 5.00% | ~29 |
-| Insanity I | 5.00% | ~29 |
 | Warp Specialist | 4.00% | ~24 |
 | Insanity II | 3.00% | ~18 |
 | Tactician | 3.00% | ~18 |

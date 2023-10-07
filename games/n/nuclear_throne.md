@@ -1,7 +1,7 @@
 # Nuclear Throne
 [Store](https://store.epicgames.com/en-US/p/nuclear-throne)  
 [View Rawdata](../../db/n/nuclear_throne.json)  
-Rating: 4.79 (Ranked 93)  
+Rating: 4.79 (Ranked 92)  
 Number of Ratings: 631  (23.09.2022)  
 ## Awards
 Max (Character Customization): 390  (Ranked 222)  

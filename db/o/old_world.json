@@ -1805,7 +1805,7 @@
   ],
   "EOS_Progressed": 14483,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14700,9 +14700,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -15532,9 +15532,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -16002,8 +16002,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T16:00:12.9637429+00:00",
-  "LastChanged_Achievements": "2023-10-07T17:04:10.233295+00:00",
+  "LastChanged_Achievements": "2023-10-07T18:03:36.2200409+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:01:17.989704+00:00",
-  "LastUpdate_Achievements": "2023-10-07T17:04:10.2342691+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:00:00.4823474+00:00",
+  "LastUpdate_Achievements": "2023-10-07T18:03:36.2213436+00:00"
 }
