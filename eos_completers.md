@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.38% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.34% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -62,7 +62,7 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 60 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 63 | [ZZT!](games/z/zzt!.md) | 4.45% |
+| 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -70,7 +70,7 @@
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.77% |
+| 71 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.74% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.72% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -203,9 +203,9 @@
 | 199 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 202 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 202 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
-| 204 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.28% |
 | 204 | [The Devil's Face](games/t/the_devil's_face.md) | 0.28% |
-| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
+| 205 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.27% |
+| 205 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.27% |
 | 207 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.25% |
 | 207 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 207 | [Filament](games/f/filament.md) | 0.25% |
@@ -222,11 +222,11 @@
 | 218 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 221 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 221 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 223 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 223 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 223 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 223 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.16% |
-| 223 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 223 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 224 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 224 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.16% |
 | 228 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 228 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
