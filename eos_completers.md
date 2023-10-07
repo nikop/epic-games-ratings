@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.85% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.78% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.43% |
@@ -38,10 +38,10 @@
 | 36 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
 | 37 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 38 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
-| 39 | [Sonic Origins](games/s/sonic_origins.md) | 7.88% |
+| 39 | [Sonic Origins](games/s/sonic_origins.md) | 7.85% |
 | 40 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -100,7 +100,7 @@
 | 98 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.34% |
 | 99 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.29% |
+| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.28% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
@@ -231,14 +231,14 @@
 | 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 231 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.13% |
 | 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 234 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 234 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 234 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 234 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 234 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.12% |
+| 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 233 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
+| 233 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 233 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 233 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.12% |
 | 240 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 240 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 240 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
@@ -655,4 +655,4 @@
 | 308 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 308 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 308 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,360 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,361 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
