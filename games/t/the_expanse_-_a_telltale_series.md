@@ -8,11 +8,11 @@ Rating: 4.54 (Ranked 507)
 | Oyedang, Kopengs | 6.00% | ~819 |
 | Drug Gifter | 3.00% | ~410 |
 | The Pit and the Pirates | 2.00% | ~273 |
+| Drone Dodger | 2.00% | ~273 |
 | Bosmang | 2.00% | ~273 |
 | Data Archivist | 1.00% | ~137 |
 | Spore Taste | 1.00% | ~137 |
 | Martian Music | 1.00% | ~137 |
-| Drone Dodger | 1.00% | ~137 |
 | Heal Thy Medic | 1.00% | ~137 |
 | Khan's Revenge | 1.00% | ~137 |
 | Call it Even | 1.00% | ~137 |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,653 (Ranked 135)  
-Completed: 13 (0.10%) (Ranked 242)  
+Progressed: 13,654 (Ranked 135)  
+Completed: 14 (0.10%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,6 +113,7 @@ Completed: 13 (0.10%) (Ranked 242)
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
+| 2023-10-07 | 13,654 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

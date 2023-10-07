@@ -25,17 +25,17 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 47.00% | ~807 |
 | Now what? | 46.00% | ~790 |
 | First ship arrived | 45.00% | ~773 |
+| High speed | 43.00% | ~738 |
 | Exemplary student | 42.00% | ~721 |
-| High speed | 42.00% | ~721 |
 | Transport shark | 41.00% | ~704 |
 | First aircraft arrived | 41.00% | ~704 |
 | Mass production | 35.00% | ~601 |
-| Aircraft entrepreneur | 33.00% | ~567 |
+| Aircraft entrepreneur | 34.00% | ~584 |
 | Crowd in a train | 31.00% | ~532 |
 | The future is now, old man | 31.00% | ~532 |
 | Not in my backyard | 30.00% | ~515 |
+| City | 29.00% | ~498 |
 | The king of the sea | 29.00% | ~498 |
-| City | 28.00% | ~481 |
 | Transport tycoon | 24.00% | ~412 |
 | The ugly smell of success | 23.00% | ~395 |
 | Climate change | 22.00% | ~378 |

@@ -1421,9 +1421,9 @@
       "ID": "achievement_119",
       "SetID": "d252ncf",
       "Name": "Insanity III",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_12",
@@ -1677,9 +1677,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 407
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_34",
@@ -1797,9 +1797,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_48",
@@ -1877,9 +1877,9 @@
       "ID": "achievement_56",
       "SetID": "d252ncf",
       "Name": "Fade Away",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_57",
@@ -1925,9 +1925,9 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_62",
@@ -2229,9 +2229,9 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_97",
@@ -2273,8 +2273,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:05:58.843081+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:07:08.4083264+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.5493815+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:01:19.1670788+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:05:58.8433333+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:02:29.723922+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:07:08.4086369+00:00"
 }

@@ -13,8 +13,11 @@
 | Hoist the Sails | 17.00% | ~2 |
 | Replace the Rudder | 17.00% | ~2 |
 | Socialite | 8.00% | ~1 |
+| Shrub-Seeing: Townlife | 8.00% | ~1 |
+| Shrub-Seeing: Silly Birbs | 8.00% | ~1 |
 | Yeet! | 8.00% | ~1 |
 | Couch-surfing | 8.00% | ~1 |
+| Sailor Swift | 8.00% | ~1 |
 | Safe Investment | 8.00% | ~1 |
 | Bank of Me | 8.00% | ~1 |
 | Secure the Sheets | 8.00% | ~1 |
@@ -22,12 +25,9 @@
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
-| Shrub-Seeing: Townlife | 0.00% | ~0 |
 | Shrub-Seeing: Ruins of old | 0.00% | ~0 |
-| Shrub-Seeing: Silly Birbs | 0.00% | ~0 |
 | Shrub-Seeing: Ancient Extractor | 0.00% | ~0 |
 | Shrub-Seeing: Seen it all! | 0.00% | ~0 |
-| Sailor Swift | 0.00% | ~0 |
 | No Evil | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |

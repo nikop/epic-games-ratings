@@ -4,7 +4,7 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "LastUpdate_AppInfo": "2023-10-03T11:57:08.5257289+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:58:15.7618917+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:04:31.3793501+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:58:35.6349655+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:05:37.5022456+00:00"
 }

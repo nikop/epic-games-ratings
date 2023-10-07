@@ -25,7 +25,7 @@ Rating: 4.47 (Ranked 620)
 | Access granted | 35.00% | ~694 |
 | Going once, going twice, sold | 35.00% | ~694 |
 | Bull and bear | 34.00% | ~674 |
-| Stoker | 32.00% | ~635 |
+| Stoker | 33.00% | ~654 |
 | Full Steam ahead | 32.00% | ~635 |
 | Financial Shark | 31.00% | ~615 |
 | All mine | 30.00% | ~595 |

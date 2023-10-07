@@ -10398,9 +10398,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 424114,
+  "EOS_Progressed": 424124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6405,
+  "EOS_NewPlayers": 6392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29598,6 +29598,11 @@
       "Time": "2023-10-06T23:07:48.0900386+00:00",
       "NumProgressed": 424114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T00:09:05.4422658+00:00",
+      "NumProgressed": 424124,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31889,7 +31894,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12724
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -32305,7 +32310,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12724
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -32440,21 +32445,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 424114,
+      "Progressed": 424124,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 424114,
+      "Progressed": 424124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-06T19:57:25.8320384+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:07:48.0900379+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:09:05.4422647+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:16.8200268+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:57:11.5652239+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:07:48.0915094+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:57:17.2794122+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:09:05.4448428+00:00"
 }

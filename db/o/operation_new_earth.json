@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1535,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -5609,6 +5609,11 @@
       "Time": "2023-10-06T21:07:57.1137046+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T00:08:33.9560273+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5732,7 +5737,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5804,7 +5809,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -5812,7 +5817,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -5828,7 +5833,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -5844,7 +5849,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -5860,7 +5865,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -5923,7 +5928,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 1
     }
   ],
@@ -5931,8 +5936,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:07:21.5912577+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:08:33.9560263+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:00:50.6194936+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:07:21.5913235+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:01:49.3083644+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:08:33.956135+00:00"
 }

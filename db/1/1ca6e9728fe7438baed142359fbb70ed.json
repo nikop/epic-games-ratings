@@ -4,7 +4,7 @@
   "ProductSlug": "beacons-bluff-dc7b2c",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-04T21:57:04.5853735+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:57:27.9079858+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:09:11.5488659+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:57:40.2576165+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:10:28.5364954+00:00"
 }

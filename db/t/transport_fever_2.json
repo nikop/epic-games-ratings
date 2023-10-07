@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4001,9 +4001,9 @@
       "ID": "achAircraftEarnings",
       "SetID": "dgl390n",
       "Name": "Aircraft entrepreneur",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 584
     },
     {
       "ID": "achAllClimates",
@@ -4073,9 +4073,9 @@
       "ID": "achCity",
       "SetID": "dgl390n",
       "Name": "City",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 498
     },
     {
       "ID": "achCollectAllMedals",
@@ -4385,9 +4385,9 @@
       "ID": "achTopSpeed120",
       "SetID": "dgl390n",
       "Name": "High speed",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 738
     },
     {
       "ID": "achTopSpeed300",
@@ -4449,8 +4449,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-03T14:57:57.800964+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:06:12.3907733+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:07:24.242067+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:26.3484503+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:00:17.4729528+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:06:12.3908517+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:01:05.2022572+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:07:24.2422104+00:00"
 }

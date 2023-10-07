@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2987,
+  "EOS_Progressed": 2989,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2254,6 +2254,11 @@
       "Time": "2023-10-06T23:04:04.5763066+00:00",
       "NumProgressed": 2987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T00:05:05.8449659+00:00",
+      "NumProgressed": 2989,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2306,7 +2311,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2302
     },
     {
       "ID": "achievement_0007",
@@ -2314,7 +2319,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2810
     },
     {
       "ID": "achievement_0008",
@@ -2322,7 +2327,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "achievement_0009",
@@ -2330,7 +2335,7 @@
       "Name": "Eagle Eye",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_0010",
@@ -2378,7 +2383,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_0016",
@@ -2386,7 +2391,7 @@
       "Name": "Hitting a Season",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "achievement_0017",
@@ -2394,7 +2399,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_0018",
@@ -2426,7 +2431,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2242
     },
     {
       "ID": "achievement_0022",
@@ -2434,7 +2439,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_0023",
@@ -2464,9 +2469,9 @@
       "ID": "achievement_0026",
       "SetID": "9123ogc",
       "Name": "Friendly Competition",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_0027",
@@ -2506,7 +2511,7 @@
       "Name": "Recycle",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_0032",
@@ -2522,7 +2527,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "achievement_0034",
@@ -2602,7 +2607,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "achievement_0044",
@@ -2610,7 +2615,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "achievement_0045",
@@ -2657,7 +2662,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 2987,
+      "Progressed": 2989,
       "Completed": 0
     }
   ],
@@ -2665,8 +2670,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:04:04.5763061+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:05:05.8449651+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:06.8063222+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:02:00.9676246+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:04:04.5763598+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:03:13.8896643+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:05:05.8450531+00:00"
 }

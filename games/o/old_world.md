@@ -7,10 +7,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 1.00% | ~144 |
+| Play a Single Player Game | 1.00% | ~144 |
 | Explorer | 0.90% | ~130 |
-| Play a Single Player Game | 0.90% | ~130 |
 | Friendly Family | 0.80% | ~116 |
 | Intrepid | 0.70% | ~101 |
+| Hanging Gardens | 0.70% | ~101 |
 | Able | 0.60% | ~87 |
 | Architect | 0.60% | ~87 |
 | Good | 0.60% | ~87 |
@@ -19,12 +20,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.60% | ~87 |
 | Pioneer | 0.60% | ~87 |
 | Strong | 0.60% | ~87 |
-| Hanging Gardens | 0.60% | ~87 |
 | Kushite Paganism | 0.60% | ~87 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
 | Oracle | 0.50% | ~72 |
+| Pyramids | 0.50% | ~72 |
 | Judaism | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
 | Naming Landmarks | 0.50% | ~72 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.40% | ~58 |
 | Ishtar Gate | 0.40% | ~58 |
 | Lighthouse | 0.40% | ~58 |
-| Pyramids | 0.40% | ~58 |
 | Learn to Play 1 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
 | Carthaginian Paganism | 0.40% | ~58 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,441 (Ranked 134)  
+Progressed: 14,443 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,9 +519,10 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
+| 2023-10-07 | 14,443 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
-Sum: 1,827 (Ranked 208)  
+Sum: 1,828 (Ranked 208)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -530,7 +531,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 211 |
 | This game is Extremely Fun | 210 |
 | This game is Educational | 209 |
-| This game has Challenging Combat | 197 |
+| This game has Challenging Combat | 198 |
 | This game has Quickly Understood Controls | 190 |
 | This game has Amazing Characters | 190 |
 | This game has Amazing Storytelling | 186 |
@@ -677,3 +678,4 @@ Diff (max vs sum): 58
 | 2023-09-29 | 4.65 | - | 223 | 1,824 |
 | 2023-10-01 | 4.65 | - | 223 | 1,826 |
 | 2023-10-05 | 4.65 | - | 223 | 1,827 |
+| 2023-10-07 | 4.65 | - | 223 | 1,828 |

@@ -6810,9 +6810,9 @@
       "Count": 395
     }
   ],
-  "EOS_Progressed": 715532,
+  "EOS_Progressed": 715533,
   "EOS_Completed": 12912,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -22110,6 +22110,11 @@
       "Time": "2023-10-06T22:04:59.0368499+00:00",
       "NumProgressed": 715532,
       "NumCompleted": 12912
+    },
+    {
+      "Time": "2023-10-07T00:05:46.8433989+00:00",
+      "NumProgressed": 715533,
+      "NumCompleted": 12912
     }
   ],
   "TotalAchievements": 60,
@@ -22457,7 +22462,7 @@
       "Name": "Project Arena",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -22481,7 +22486,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -22585,7 +22590,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -22600,21 +22605,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24833,
-      "Completed": 10687
+      "Progressed": 24834,
+      "Completed": 10688
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715532,
+      "Progressed": 715533,
       "Completed": 12912
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-06T18:57:44.2690369+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:04:39.3021405+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:05:46.8433983+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:57:51.6569951+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:04:39.3022955+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:58:07.3901837+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:05:46.8435889+00:00"
 }

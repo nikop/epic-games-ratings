@@ -7,10 +7,10 @@ Rating: 4.50 (Ranked 572)
 | ---- | ---------- | ----- |
 | Stylish | 2.00% | ~525 |
 | Advancement | 1.00% | ~263 |
+| I collect Spores, Molds, and Fungi | 1.00% | ~263 |
 | Discovery | 1.00% | ~263 |
 | Meticulously Efficient | 1.00% | ~263 |
 | Fully Upgraded | 1.00% | ~263 |
-| I collect Spores, Molds, and Fungi | 0.90% | ~236 |
 | Solo Capture | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |
 | Clutch Capture | 0.80% | ~210 |

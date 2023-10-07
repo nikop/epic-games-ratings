@@ -124,33 +124,33 @@
       "ID": "DEL_I",
       "SetID": "35d3i7a",
       "Name": "Top secret.",
-      "Percentage": 0,
-      "XP": 30,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "DEL_II",
-      "SetID": "35d3i7a",
-      "Name": "Are you beautiful?",
       "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
     {
+      "ID": "DEL_II",
+      "SetID": "35d3i7a",
+      "Name": "Are you beautiful?",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "DEL_III",
       "SetID": "35d3i7a",
       "Name": "Precious collar.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_IV",
       "SetID": "35d3i7a",
       "Name": "You asked for it.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_IX",
@@ -188,9 +188,9 @@
       "ID": "DEL_VIII",
       "SetID": "35d3i7a",
       "Name": "Crime and punishment.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEL_X",
@@ -276,9 +276,9 @@
       "ID": "MEM_VII",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE F****** MASK!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_VIII",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:06:48.2938228+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:08:06.425566+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:00:10.716466+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:06:48.2938746+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:00:53.5161368+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:08:06.4256335+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-10-01T15:06:44.7606576+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T00:05:21.5357034+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1514,7 +1519,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "06",
@@ -1522,7 +1527,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "07",
@@ -1546,7 +1551,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "10",
@@ -1658,14 +1663,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1120,
       "Completed": 1
     }
   ],
@@ -1673,8 +1678,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-10-05T05:58:37.306188+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:04:17.9390893+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:05:21.5357025+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:15.5009451+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:59:53.4834439+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:04:17.9391141+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:00:31.7359976+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:05:21.5357446+00:00"
 }

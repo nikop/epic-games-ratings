@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8548,10 +8548,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45192,
       "NumberOfAwardsMax": 23322
+    },
+    {
+      "Time": "2023-10-06T23:57:12.5667476+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45198,
+      "NumberOfAwardsMax": 23322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45192,
+  "NumberOfAwards": 45198,
   "NumberOfAwardsMax": 23322,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8613,7 +8619,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1112
+      "Count": 1118
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8628,9 +8634,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297915,
+  "EOS_Progressed": 297917,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26873,6 +26879,11 @@
       "Time": "2023-10-06T23:07:11.8965799+00:00",
       "NumProgressed": 297915,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-10-07T00:08:22.4550731+00:00",
+      "NumProgressed": 297917,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 45,
@@ -26884,7 +26895,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44687
+      "UsersEstimate": 44688
     },
     {
       "ID": "PFA_10",
@@ -27028,7 +27039,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "PFA_27",
@@ -27044,7 +27055,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "PFA_29",
@@ -27060,7 +27071,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "PFA_30",
@@ -27100,7 +27111,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "PFA_35",
@@ -27108,7 +27119,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26812
+      "UsersEstimate": 26813
     },
     {
       "ID": "PFA_36",
@@ -27236,23 +27247,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26812
+      "UsersEstimate": 26813
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297915,
+      "Progressed": 297917,
       "Completed": 481
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-06T21:57:15.4137081+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:07:11.8965793+00:00",
+  "LastChanged": "2023-10-06T23:57:12.5667474+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:08:22.4550726+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-06T22:57:06.6629814+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:07:11.8967289+00:00"
+  "LastUpdate_Ratings": "2023-10-06T23:57:12.5667484+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:08:22.4553158+00:00"
 }

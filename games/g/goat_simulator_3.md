@@ -5,27 +5,27 @@ Rating: 4.84 (Ranked 49)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~224,300 |
-| Private Club | 74.00% | ~182,397 |
-| Rogue Guild | 65.00% | ~160,214 |
-| I Watched the Intro | 57.00% | ~140,495 |
-| Covert Consortium | 55.00% | ~135,566 |
-| Goat Queen | 53.00% | ~130,636 |
+| Forgotten Sorority | 91.00% | ~224,301 |
+| Private Club | 74.00% | ~182,399 |
+| Rogue Guild | 65.00% | ~160,215 |
+| I Watched the Intro | 57.00% | ~140,496 |
+| Covert Consortium | 55.00% | ~135,567 |
+| Goat Queen | 53.00% | ~130,637 |
 | Reach the Stratosphere | 50.00% | ~123,242 |
-| Synchronization Complete | 47.00% | ~115,847 |
-| Secret Society | 45.00% | ~110,917 |
+| Synchronization Complete | 47.00% | ~115,848 |
+| Secret Society | 45.00% | ~110,918 |
 | Shadow Syndicate | 38.00% | ~93,664 |
-| What a Waste of Money | 33.00% | ~81,339 |
-| New Goat Order | 30.00% | ~73,945 |
-| Don't touch the servers | 28.00% | ~69,015 |
-| San Angora: Become Human | 27.00% | ~66,550 |
-| Real Buoy | 27.00% | ~66,550 |
+| What a Waste of Money | 33.00% | ~81,340 |
+| New Goat Order | 30.00% | ~73,946 |
+| Don't touch the servers | 28.00% | ~69,016 |
+| San Angora: Become Human | 27.00% | ~66,551 |
+| Real Buoy | 27.00% | ~66,551 |
 | Raider of the Lost Parking Garage | 26.00% | ~64,086 |
 | Welcome to Earth | 25.00% | ~61,621 |
 | Into the Matrix | 19.00% | ~46,832 |
 | Egg Simulator | 18.00% | ~44,367 |
 | Where is It? | 17.00% | ~41,902 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~36,972 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~36,973 |
 | Black Market | 14.00% | ~34,508 |
 | 401(K.O.) | 14.00% | ~34,508 |
 | Car Cave | 12.00% | ~29,578 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,479 |
 | G.O.A.T | 0.30% | ~739 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,483 (Ranked 52)  
+Progressed: 246,485 (Ranked 52)  
 Completed: 849 (0.34%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 849 (0.34%) (Ranked 191)
 | 2023-10-04 | 246,241 | 845 |
 | 2023-10-05 | 246,348 | 848 |
 | 2023-10-06 | 246,483 | 849 |
+| 2023-10-07 | 246,485 | 849 |
 ## Awards
 Max (Great for Beginners): 413  (Ranked 220)  
 Sum: 3,521 (Ranked 157)  

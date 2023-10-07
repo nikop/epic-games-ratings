@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 270,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -773,8 +773,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-06T23:05:18.0350071+00:00",
+  "LastChanged_Achievements": "2023-10-07T00:06:20.1662407+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:25.6359259+00:00",
-  "LastUpdate_Ratings": "2023-10-06T23:00:12.2501409+00:00",
-  "LastUpdate_Achievements": "2023-10-06T23:05:18.0350285+00:00"
+  "LastUpdate_Ratings": "2023-10-07T00:00:56.1096802+00:00",
+  "LastUpdate_Achievements": "2023-10-07T00:06:20.1662762+00:00"
 }

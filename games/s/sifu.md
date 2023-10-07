@@ -19,9 +19,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.30% | ~2,147 |
 | Lightning Hands | 0.30% | ~2,147 |
 | Rumble in the Hangar | 0.30% | ~2,147 |
-| Project Arena | 0.30% | ~74 |
-| Martial Hub | 0.30% | ~74 |
-| Fight the way you practice | 0.30% | ~74 |
+| Project Arena | 0.30% | ~75 |
+| Martial Hub | 0.30% | ~75 |
+| Fight the way you practice | 0.30% | ~75 |
 | Lady Wing Chun | 0.20% | ~1,431 |
 | Furious Fists | 0.20% | ~1,431 |
 | Scareless | 0.20% | ~1,431 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,532 (Ranked 20)  
+Progressed: 715,533 (Ranked 20)  
 Completed: 12,912 (1.80%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 12,912 (1.80%) (Ranked 113)
 | 2023-10-04 | 715,493 | 12,908 |
 | 2023-10-05 | 715,509 | 12,910 |
 | 2023-10-06 | 715,532 | 12,912 |
+| 2023-10-07 | 715,533 | 12,912 |
 ## Awards
 Max (Great Boss Battles): 6,639  (Ranked 54)  
 Sum: 11,508 (Ranked 83)  
