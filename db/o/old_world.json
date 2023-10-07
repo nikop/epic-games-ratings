@@ -1797,9 +1797,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14447,
+  "EOS_Progressed": 14448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13162,6 +13162,11 @@
       "Time": "2023-10-07T01:44:50.6080435+00:00",
       "NumProgressed": 14447,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T02:19:04.5768747+00:00",
+      "NumProgressed": 14448,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13171,9 +13176,9 @@
       "ID": "ACHIEVEMENT_100_YEARS",
       "SetID": "9201eeb",
       "Name": "Centenarian",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDER_THE_GREAT",
@@ -13827,9 +13832,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -14555,9 +14560,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -14595,9 +14600,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -14619,9 +14624,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -14643,9 +14648,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -15003,9 +15008,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -15203,9 +15208,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -15908,21 +15913,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14447,
+      "Progressed": 14448,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14447,
+      "Progressed": 14448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T00:02:52.9861823+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:44:50.6080431+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:19:04.576874+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:43:21.2715967+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:44:50.6090315+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:17:36.048271+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:19:04.5781703+00:00"
 }

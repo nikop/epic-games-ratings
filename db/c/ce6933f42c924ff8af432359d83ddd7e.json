@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 349,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 4.02,
+  "EOS_Completed_Percentage": 4.01,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -771,6 +771,11 @@
       "Time": "2023-10-07T01:50:26.1172645+00:00",
       "NumProgressed": 348,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-07T02:24:46.8331933+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -781,9 +786,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 140,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_CUBES",
@@ -791,7 +796,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_DONUTS",
@@ -799,7 +804,7 @@
       "Name": "Sweet tooth",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -823,7 +828,7 @@
       "Name": "Evil plan",
       "Percentage": 46,
       "XP": 85,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -831,15 +836,15 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 55,
-      "UsersEstimate": 226
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -862,14 +867,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 349,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:50:26.117264+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:24:46.8331926+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:42:47.6821702+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:50:26.1172747+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:17:00.6190801+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:24:46.8332061+00:00"
 }

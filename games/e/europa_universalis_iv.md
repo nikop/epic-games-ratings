@@ -10,18 +10,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 4.00% | ~16,967 |
 | That is mine! | 3.00% | ~12,725 |
 | Victorious! | 3.00% | ~12,725 |
-| Brothers in Arms | 2.00% | ~8,483 |
-| For the Glory | 2.00% | ~8,483 |
-| That's a Grand Navy | 2.00% | ~8,483 |
-| Seriously?! | 2.00% | ~8,483 |
+| Brothers in Arms | 2.00% | ~8,484 |
+| For the Glory | 2.00% | ~8,484 |
+| That's a Grand Navy | 2.00% | ~8,484 |
+| Seriously?! | 2.00% | ~8,484 |
 | Cold War | 1.00% | ~4,242 |
 | Defender of the Faith | 1.00% | ~4,242 |
 | It's all about the money | 1.00% | ~4,242 |
 | The Princess is in this Castle | 1.00% | ~4,242 |
 | True Catholic | 1.00% | ~4,242 |
 | Truly Divine Ruler | 1.00% | ~4,242 |
-| It's all about luck | 0.90% | ~3,817 |
-| Respected | 0.90% | ~3,817 |
+| It's all about luck | 0.90% | ~3,818 |
+| Respected | 0.90% | ~3,818 |
 | Blockader | 0.80% | ~3,393 |
 | Double the Love | 0.80% | ~3,393 |
 | Total Control | 0.80% | ~3,393 |
@@ -38,13 +38,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,697 |
 | Queen of Conquest | 0.40% | ~1,697 |
 | The Five Colonies | 0.40% | ~1,697 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,272 |
-| Down Under | 0.30% | ~1,272 |
-| The Emperors new clothes | 0.30% | ~1,272 |
-| A Golden Empire | 0.30% | ~1,272 |
-| Market Control | 0.30% | ~1,272 |
-| Populists in Government | 0.30% | ~1,272 |
-| Trustworthy | 0.30% | ~1,272 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,273 |
+| Down Under | 0.30% | ~1,273 |
+| The Emperors new clothes | 0.30% | ~1,273 |
+| A Golden Empire | 0.30% | ~1,273 |
+| Market Control | 0.30% | ~1,273 |
+| Populists in Government | 0.30% | ~1,273 |
+| Trustworthy | 0.30% | ~1,273 |
 | All belongs to Mother Russia | 0.20% | ~848 |
 | At every continent | 0.20% | ~848 |
 | Early-Modern Warfare | 0.20% | ~848 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,163 (Ranked 41)  
+Progressed: 424,177 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 1 (0.00%) (Ranked 307)
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
 | 2023-10-06 | 424,114 | 1 |
-| 2023-10-07 | 424,163 | 1 |
+| 2023-10-07 | 424,177 | 1 |
 ## Awards
 Max (Educational): 6,412  (Ranked 56)  
 Sum: 52,738 (Ranked 24)  

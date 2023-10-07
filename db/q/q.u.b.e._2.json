@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2471,6 +2471,11 @@
       "Time": "2023-10-07T01:47:09.4457215+00:00",
       "NumProgressed": 628,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T02:21:23.1059159+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2483,7 +2488,7 @@
       "Name": "Descendants",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2491,7 +2496,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -2643,7 +2648,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_PEAK",
@@ -2651,7 +2656,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_PROPELL",
@@ -2699,7 +2704,7 @@
       "Name": "Lost in Space",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_STATUE",
@@ -2714,15 +2719,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:47:09.445721+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:21:23.105915+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:14.3589536+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:44:02.7180981+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:47:09.445748+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:18:19.7041864+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:21:23.1059508+00:00"
 }

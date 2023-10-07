@@ -796,9 +796,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5997,
+  "EOS_Progressed": 5998,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8271,6 +8271,11 @@
       "Time": "2023-10-07T00:09:46.5656055+00:00",
       "NumProgressed": 5997,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T02:24:26.7402952+00:00",
+      "NumProgressed": 5998,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8290,7 +8295,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8298,7 +8303,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8322,7 +8327,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8338,7 +8343,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -8442,7 +8447,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -8561,13 +8566,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5997,
+      "Progressed": 5998,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5369,
+      "Progressed": 5370,
       "Completed": 112
     }
   ],
@@ -8575,8 +8580,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-06T17:00:13.7097301+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:50:04.5298184+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:24:26.7402945+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:46.5103284+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:42:05.5267559+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:50:04.5298729+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:16:22.0550955+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:24:26.7403591+00:00"
 }

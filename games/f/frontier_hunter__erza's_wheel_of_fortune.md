@@ -24,10 +24,10 @@
 | Weapon Boost | 41.00% | ~41 |
 | Flying Kobold Killer | 35.00% | ~35 |
 | Youth Magnet | 35.00% | ~35 |
+| Lethal Blade Mantis Killer | 35.00% | ~35 |
+| Squeaky Clean | 35.00% | ~35 |
 | Furious Scorpion Killer | 34.00% | ~34 |
-| Lethal Blade Mantis Killer | 34.00% | ~34 |
-| Squeaky Clean | 34.00% | ~34 |
-| Master Artificer | 32.00% | ~32 |
+| Master Artificer | 33.00% | ~33 |
 | Kind Adventurer | 30.00% | ~30 |
 | Mermaid Killer | 28.00% | ~28 |
 | Face Slapper | 27.00% | ~27 |

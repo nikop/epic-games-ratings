@@ -28,9 +28,9 @@ Number of Ratings: 495  (23.09.2022)
 | Gear up | 4.00% | ~8,257 |
 | Happy little accidents | 4.00% | ~8,257 |
 | Still Rollin' | 4.00% | ~8,257 |
-| Noboru | 3.00% | ~6,192 |
-| Stoned | 3.00% | ~6,192 |
-| The Old Way | 3.00% | ~6,192 |
+| Noboru | 3.00% | ~6,193 |
+| Stoned | 3.00% | ~6,193 |
+| The Old Way | 3.00% | ~6,193 |
 | Atheist Ox | 2.00% | ~4,128 |
 | It's raining men | 2.00% | ~4,128 |
 | No Gimmicks | 2.00% | ~4,128 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~206 |
 | Release the Kraken | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,415 (Ranked 63)  
+Progressed: 206,418 (Ranked 63)  
 Completed: 89 (0.04%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 89 (0.04%) (Ranked 271)
 | 2023-10-04 | 206,028 | 89 |
 | 2023-10-05 | 206,213 | 89 |
 | 2023-10-06 | 206,402 | 89 |
-| 2023-10-07 | 206,415 | 89 |
+| 2023-10-07 | 206,418 | 89 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
 Sum: 4,785 (Ranked 138)  

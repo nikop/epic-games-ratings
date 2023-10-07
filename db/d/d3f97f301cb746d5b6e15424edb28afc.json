@@ -538,9 +538,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -730,9 +730,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -922,9 +922,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1081,8 +1081,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:46:29.1921605+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:20:35.5865559+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:43:49.6936487+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:46:29.192245+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:18:04.2716583+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:20:35.5866506+00:00"
 }

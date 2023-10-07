@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 87.00% | ~9,571 |
-| Struck A Pose | 87.00% | ~9,571 |
-| Look At Him Go | 77.00% | ~8,471 |
-| On Rails Experience | 54.00% | ~5,941 |
-| A Daring Devil | 50.00% | ~5,500 |
-| Break the Bank | 42.00% | ~4,620 |
-| It Took Two | 39.00% | ~4,290 |
-| Bug Sized Relaxation | 19.00% | ~2,090 |
+| Fried Friendship | 87.00% | ~9,573 |
+| Struck A Pose | 87.00% | ~9,573 |
+| Look At Him Go | 77.00% | ~8,472 |
+| On Rails Experience | 54.00% | ~5,942 |
+| A Daring Devil | 50.00% | ~5,502 |
+| Break the Bank | 42.00% | ~4,621 |
+| It Took Two | 39.00% | ~4,291 |
+| Bug Sized Relaxation | 19.00% | ~2,091 |
 | Plastic Prison Breakers | 16.00% | ~1,760 |
 | Terror Of The Seven Seas | 14.00% | ~1,540 |
 | Realize Your Art | 12.00% | ~1,320 |
@@ -25,7 +25,7 @@
 | Faraway Frequencies | 4.00% | ~440 |
 | Minigame Megalomania | 3.00% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,001 (Ranked 141)  
+Progressed: 11,003 (Ranked 141)  
 Completed: 43 (0.39%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,4 +47,4 @@ Completed: 43 (0.39%) (Ranked 181)
 | 2023-10-04 | 10,132 | 40 |
 | 2023-10-05 | 10,564 | 41 |
 | 2023-10-06 | 10,987 | 43 |
-| 2023-10-07 | 11,001 | 43 |
+| 2023-10-07 | 11,003 | 43 |

@@ -14,8 +14,8 @@ Rating: 4.28 (Ranked 826)
 | Family First | 13.00% | ~45,060 |
 | Cleaning House | 12.00% | ~41,594 |
 | Room in the Back | 12.00% | ~41,594 |
-| Beating the Heat | 11.00% | ~38,127 |
-| Booze Baron | 11.00% | ~38,127 |
+| Beating the Heat | 11.00% | ~38,128 |
+| Booze Baron | 11.00% | ~38,128 |
 | Friends on the Force | 10.00% | ~34,661 |
 | Neighborhood Watch | 10.00% | ~34,661 |
 | Core Corps | 8.00% | ~27,729 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 826)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,613 (Ranked 43)  
+Progressed: 346,614 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.00%) (Ranked 307)
 | 2023-10-04 | 346,309 | 7 |
 | 2023-10-05 | 346,451 | 7 |
 | 2023-10-06 | 346,599 | 7 |
-| 2023-10-07 | 346,613 | 7 |
+| 2023-10-07 | 346,614 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 442)  
 Sum: 176 (Ranked 392)  

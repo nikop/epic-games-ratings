@@ -68,8 +68,8 @@
 | Focused | 28.00% | ~161 |
 | Doppelganger | 28.00% | ~161 |
 | Bringer of War | 28.00% | ~161 |
+| Friend or Foe | 27.00% | ~155 |
 | First Aid Specialist | 26.00% | ~150 |
-| Friend or Foe | 26.00% | ~150 |
 | Mobilizer | 26.00% | ~150 |
 | Untouchable | 25.00% | ~144 |
 | Eye of the Hurricane | 25.00% | ~144 |

@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 606047,
+  "EOS_Progressed": 606048,
   "EOS_Completed": 531,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19345,6 +19345,11 @@
       "Time": "2023-10-07T01:50:28.4557153+00:00",
       "NumProgressed": 606047,
       "NumCompleted": 531
+    },
+    {
+      "Time": "2023-10-07T02:24:49.10375+00:00",
+      "NumProgressed": 606048,
+      "NumCompleted": 531
     }
   ],
   "TotalAchievements": 28,
@@ -19484,7 +19489,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 563624
+      "UsersEstimate": 563625
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19492,7 +19497,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145451
+      "UsersEstimate": 145452
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -19516,7 +19521,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 399991
+      "UsersEstimate": 399992
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -19524,7 +19529,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109088
+      "UsersEstimate": 109089
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19579,15 +19584,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 606047,
+      "Progressed": 606048,
       "Completed": 531
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:50:28.4557144+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:24:49.1037494+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:19.2065249+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:39:34.7127817+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:50:28.4558193+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:13:38.3966059+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:24:49.1038825+00:00"
 }

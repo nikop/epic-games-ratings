@@ -229,7 +229,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 37950,
+  "EOS_Progressed": 37951,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
@@ -18824,6 +18824,11 @@
       "Time": "2023-10-07T01:44:53.461434+00:00",
       "NumProgressed": 37950,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-07T02:19:06.8204523+00:00",
+      "NumProgressed": 37951,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -18835,7 +18840,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -18937,9 +18942,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -19066,7 +19071,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 37950,
+      "Progressed": 37951,
       "Completed": 25
     }
   ],
@@ -19074,8 +19079,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-01T23:03:10.2808495+00:00",
-  "LastChanged_Achievements": "2023-10-07T01:44:53.4614335+00:00",
+  "LastChanged_Achievements": "2023-10-07T02:19:06.8204516+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:34.4761194+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:41:03.5320445+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:44:53.4615329+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:15:17.3814963+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:19:06.8205975+00:00"
 }

@@ -21,15 +21,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.60% | ~87 |
 | Pioneer | 0.60% | ~87 |
 | Strong | 0.60% | ~87 |
+| Oracle | 0.60% | ~87 |
+| Trade Caravan | 0.60% | ~87 |
 | Glorious | 0.50% | ~72 |
 | Just | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
-| Oracle | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
 | Judaism | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
+| Greek Paganism | 0.50% | ~72 |
 | Naming Landmarks | 0.50% | ~72 |
-| Trade Caravan | 0.50% | ~72 |
 | Ambitious | 0.40% | ~58 |
 | Enlightened | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
 | Carthaginian Paganism | 0.40% | ~58 |
-| Greek Paganism | 0.40% | ~58 |
 | Roman Paganism | 0.40% | ~58 |
 | Zoroastrianism | 0.40% | ~58 |
 | Kushite Pyramids | 0.40% | ~58 |
@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.30% | ~43 |
 | Furious Family | 0.30% | ~43 |
 | Apadana | 0.30% | ~43 |
+| Mausoleum | 0.30% | ~43 |
 | Musaeum | 0.30% | ~43 |
 | Necropolis | 0.30% | ~43 |
 | Learn to Play 2 | 0.30% | ~43 |
@@ -68,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
 | Valiant | 0.20% | ~29 |
+| Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
 | Just Difficulty | 0.20% | ~29 |
 | Artisans | 0.20% | ~29 |
@@ -80,8 +82,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~29 |
 | Colossus | 0.20% | ~29 |
 | Hagia Sophia | 0.20% | ~29 |
-| Mausoleum | 0.20% | ~29 |
+| Temple of Solomon | 0.20% | ~29 |
 | Pantheon | 0.20% | ~29 |
+| Via Recta Souk | 0.20% | ~29 |
 | Learn to Play 3 | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
@@ -99,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
 | Kmt Unified | 0.20% | ~29 |
+| Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Alliance Victory | 0.10% | ~14 |
 | Bad Heir Day | 0.10% | ~14 |
@@ -137,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
 | Ready | 0.10% | ~14 |
-| Victorious | 0.10% | ~14 |
 | Glorious Difficulty | 0.10% | ~14 |
 | Great Difficulty | 0.10% | ~14 |
 | Magnificent Difficulty | 0.10% | ~14 |
@@ -182,10 +185,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~14 |
 | A Tyresome Siege | 0.10% | ~14 |
 | Church of the Holy Sepulchre | 0.10% | ~14 |
-| Temple of Solomon | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
-| Via Recta Souk | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
 | Learn to Play 5 | 0.10% | ~14 |
@@ -295,7 +296,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~14 |
 | Kush | 0.10% | ~14 |
 | Beja Archer | 0.10% | ~14 |
-| Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,447 (Ranked 134)  
+Progressed: 14,448 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,447 | 5 |
+| 2023-10-07 | 14,448 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

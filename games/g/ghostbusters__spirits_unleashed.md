@@ -12,23 +12,23 @@ Rating: 4.50 (Ranked 572)
 | Meticulously Efficient | 1.00% | ~263 |
 | Fully Upgraded | 1.00% | ~263 |
 | Solo Capture | 0.90% | ~236 |
+| Swift Rift Removers | 0.90% | ~236 |
 | Teamwork | 0.90% | ~236 |
 | Vaporous Expansion | 0.90% | ~236 |
 | Clutch Capture | 0.80% | ~210 |
 | Cultured | 0.80% | ~210 |
-| Swift Rift Removers | 0.80% | ~210 |
 | There you are! | 0.80% | ~210 |
 | Whoopsie | 0.80% | ~210 |
 | Animated | 0.70% | ~184 |
 | Back Off | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
 | Icing on the Cake | 0.70% | ~184 |
+| Ectoplasmic Entity | 0.60% | ~158 |
 | Ghostbuster In Training | 0.60% | ~158 |
 | Right back at ya | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
 | Terrifying | 0.60% | ~158 |
 | Welcome to the Crew | 0.60% | ~158 |
-| Ectoplasmic Entity | 0.50% | ~131 |
 | Side Hustle | 0.50% | ~131 |
 | Skilled | 0.50% | ~131 |
 | We have the best insurance | 0.40% | ~105 |

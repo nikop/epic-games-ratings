@@ -3,8 +3,8 @@
   "Name": "Vampyr",
   "ProductSlug": "vampyr",
   "Ranking_Rating": 795,
-  "Ranking_Popularity": 196,
-  "Ranking_PopularitySum": 276,
+  "Ranking_Popularity": 195,
+  "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 400,
@@ -1262,18 +1262,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-10-07T02:14:24.7143928+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 735,
+      "NumberOfAwardsMax": 565
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
-  "NumberOfAwardsMax": 563,
+  "NumberOfAwards": 735,
+  "NumberOfAwardsMax": 565,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 563
+      "Count": 565
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1335,8 +1341,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2023-10-05T09:58:08.3895871+00:00",
+  "LastChanged": "2023-10-07T02:14:24.7143926+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:28.2287894+00:00",
-  "LastUpdate_Ratings": "2023-10-07T01:40:15.0523449+00:00",
-  "LastUpdate_Achievements": "2023-10-07T01:47:41.0074915+00:00"
+  "LastUpdate_Ratings": "2023-10-07T02:14:24.7143932+00:00",
+  "LastUpdate_Achievements": "2023-10-07T02:21:52.3426905+00:00"
 }
