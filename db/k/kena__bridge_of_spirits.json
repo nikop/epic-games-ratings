@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1266,18 +1266,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1680,
       "NumberOfAwardsMax": 1325
+    },
+    {
+      "Time": "2023-10-07T11:00:06.9931719+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1683,
+      "NumberOfAwardsMax": 1328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1680,
-  "NumberOfAwardsMax": 1325,
+  "NumberOfAwards": 1683,
+  "NumberOfAwardsMax": 1328,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1325
+      "Count": 1328
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1358,7 +1364,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428356,
+  "EOS_Progressed": 428357,
   "EOS_Completed": 535,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
@@ -12768,6 +12774,11 @@
       "Time": "2023-10-07T09:09:32.2275023+00:00",
       "NumProgressed": 428356,
       "NumCompleted": 535
+    },
+    {
+      "Time": "2023-10-07T11:11:32.1967837+00:00",
+      "NumProgressed": 428357,
+      "NumCompleted": 535
     }
   ],
   "TotalAchievements": 41,
@@ -12779,7 +12790,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64253
+      "UsersEstimate": 64254
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -12803,7 +12814,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124223
+      "UsersEstimate": 124224
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -12867,7 +12878,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124223
+      "UsersEstimate": 124224
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -12891,7 +12902,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132790
+      "UsersEstimate": 132791
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12915,7 +12926,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201327
+      "UsersEstimate": 201328
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -12947,7 +12958,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406938
+      "UsersEstimate": 406939
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12963,7 +12974,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308416
+      "UsersEstimate": 308417
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -12995,7 +13006,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342685
+      "UsersEstimate": 342686
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -13011,7 +13022,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34268
+      "UsersEstimate": 34269
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -13035,7 +13046,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141357
+      "UsersEstimate": 141358
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -13059,7 +13070,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239879
+      "UsersEstimate": 239880
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -13067,7 +13078,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184193
+      "UsersEstimate": 184194
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -13091,7 +13102,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132790
+      "UsersEstimate": 132791
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -13106,15 +13117,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428356,
+      "Progressed": 428357,
       "Completed": 535
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-10-07T07:59:49.1843991+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:09:21.4023365+00:00",
+  "LastChanged": "2023-10-07T11:00:06.9931717+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:11:32.1967833+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:38.1163954+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:59:40.1424784+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:09:21.4024358+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:00:06.9931723+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:11:32.1968644+00:00"
 }

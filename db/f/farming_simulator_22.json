@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9843,7 +9843,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49518,
+  "EOS_Progressed": 49519,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -25008,6 +25008,11 @@
       "Time": "2023-10-07T10:04:01.9532304+00:00",
       "NumProgressed": 49518,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-07T11:06:12.3992661+00:00",
+      "NumProgressed": 49519,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -25115,7 +25120,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30206
+      "UsersEstimate": 30207
     },
     {
       "ID": "DeliveryGrapes",
@@ -25171,7 +25176,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37138
+      "UsersEstimate": 37139
     },
     {
       "ID": "HorseJumps",
@@ -25203,7 +25208,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 24759
+      "UsersEstimate": 24760
     },
     {
       "ID": "Mission",
@@ -25243,7 +25248,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19807
+      "UsersEstimate": 19808
     },
     {
       "ID": "NumPlaceables",
@@ -25275,7 +25280,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28720
+      "UsersEstimate": 28721
     },
     {
       "ID": "PetDog",
@@ -25307,7 +25312,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31196
+      "UsersEstimate": 31197
     },
     {
       "ID": "Stones",
@@ -25362,15 +25367,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49518,
+      "Progressed": 49519,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-07T10:00:06.257704+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:04:01.9532297+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:06:12.3992657+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:26.9147877+00:00",
-  "LastUpdate_Ratings": "2023-10-07T10:00:06.2577049+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:04:01.9533684+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:00:53.3865009+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:06:12.3993649+00:00"
 }

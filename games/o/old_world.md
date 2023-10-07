@@ -11,37 +11,38 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~145 |
 | Friendly Family | 0.90% | ~130 |
 | Intrepid | 0.80% | ~116 |
+| Able | 0.70% | ~101 |
+| Architect | 0.70% | ~101 |
 | Good | 0.70% | ~101 |
+| Learned | 0.70% | ~101 |
 | Mason | 0.70% | ~101 |
+| Noble | 0.70% | ~101 |
 | Pioneer | 0.70% | ~101 |
 | Strong | 0.70% | ~101 |
 | Hanging Gardens | 0.70% | ~101 |
 | Kushite Paganism | 0.70% | ~101 |
-| Able | 0.60% | ~87 |
-| Architect | 0.60% | ~87 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
-| Learned | 0.60% | ~87 |
-| Noble | 0.60% | ~87 |
 | Oracle | 0.60% | ~87 |
 | Judaism | 0.60% | ~87 |
+| Babylonian Paganism | 0.60% | ~87 |
 | Naming Landmarks | 0.60% | ~87 |
 | Trade Caravan | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
 | Enlightened | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
 | Magnificent | 0.50% | ~72 |
+| Warrior | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
-| Babylonian Paganism | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Greek Paganism | 0.50% | ~72 |
+| Zoroastrianism | 0.50% | ~72 |
 | Brilliant | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
-| Warrior | 0.40% | ~58 |
 | Developing Cities | 0.40% | ~58 |
 | Strong Cities | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
@@ -49,9 +50,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.40% | ~58 |
 | Necropolis | 0.40% | ~58 |
 | Learn to Play 1 | 0.40% | ~58 |
+| Learn to Play 2 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
 | Roman Paganism | 0.40% | ~58 |
-| Zoroastrianism | 0.40% | ~58 |
 | Kushite Pyramids | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
 | Hanging Gardens in Babylon | 0.30% | ~43 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.30% | ~43 |
 | Colossus | 0.30% | ~43 |
 | Mausoleum | 0.30% | ~43 |
-| Learn to Play 2 | 0.30% | ~43 |
 | Learn to Play 3 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
 | Egyptian Paganism | 0.30% | ~43 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,462 (Ranked 134)  
+Progressed: 14,465 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,462 | 5 |
+| 2023-10-07 | 14,465 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

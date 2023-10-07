@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -3595,9 +3595,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 459755,
+  "EOS_Progressed": 459763,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2157,
+  "EOS_NewPlayers": 2146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22765,6 +22765,11 @@
       "Time": "2023-10-07T10:04:51.776566+00:00",
       "NumProgressed": 459755,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T11:07:13.4231874+00:00",
+      "NumProgressed": 459763,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22832,7 +22837,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18390
+      "UsersEstimate": 18391
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -22880,7 +22885,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18390
+      "UsersEstimate": 18391
     },
     {
       "ID": "ACH_JR_50",
@@ -23048,22 +23053,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18390
+      "UsersEstimate": 18391
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 459755,
+      "Progressed": 459763,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-07T09:58:40.3028706+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:04:51.7765655+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:07:13.423187+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:57.755638+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:58:40.3028713+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:04:51.7767034+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:58:32.2411562+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:13.4232986+00:00"
 }

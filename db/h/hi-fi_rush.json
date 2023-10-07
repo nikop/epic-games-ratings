@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4127,
+  "EOS_Progressed": 4128,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6905,6 +6905,11 @@
       "Time": "2023-10-06T17:04:48.763549+00:00",
       "NumProgressed": 4127,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-07T11:07:52.8008347+00:00",
+      "NumProgressed": 4128,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7044,7 +7049,7 @@
       "Name": "I play my own way!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Ach018",
@@ -7124,7 +7129,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Ach028",
@@ -7196,7 +7201,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Ach037",
@@ -7483,13 +7488,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4127,
+      "Progressed": 4128,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2648,
+      "Progressed": 2649,
       "Completed": 1930
     }
   ],
@@ -7497,8 +7502,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:05:34.1934966+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:07:52.8008343+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:34.8155806+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:58:07.7671645+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:05:34.1935967+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:57:50.1532603+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:52.8009222+00:00"
 }

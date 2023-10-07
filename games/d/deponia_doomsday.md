@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 488)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~376 |
-| And again, and again, and... | 64.00% | ~273 |
-| Burn, Elysium, burn! | 63.00% | ~269 |
+| Huzza, he's back. | 88.00% | ~377 |
+| And again, and again, and... | 64.00% | ~274 |
+| Burn, Elysium, burn! | 63.00% | ~270 |
 | Kuvaq Minigame-Master | 62.00% | ~265 |
 | FunScore | 55.00% | ~235 |
-| Funtime's over | 53.00% | ~226 |
+| Funtime's over | 53.00% | ~227 |
 | Chunky | 50.00% | ~214 |
-| Shall we play a game? | 49.00% | ~209 |
-| Boat of love, boat of love | 49.00% | ~209 |
+| Shall we play a game? | 49.00% | ~210 |
+| Boat of love, boat of love | 49.00% | ~210 |
 | School's out | 43.00% | ~184 |
 | Scaffolding Expert | 37.00% | ~158 |
 | Elysian Minigame-Master | 37.00% | ~158 |
@@ -22,11 +22,11 @@ Rating: 4.55 (Ranked 488)
 | Portals come in packs | 30.00% | ~128 |
 | Photo Friend | 26.00% | ~111 |
 | Brainfreeze | 21.00% | ~90 |
-| Masseltov | 20.00% | ~85 |
-| And everything comes full circle. | 20.00% | ~85 |
+| Masseltov | 20.00% | ~86 |
+| And everything comes full circle. | 20.00% | ~86 |
 | Quickdraw | 16.00% | ~68 |
 | Thuna...? | 15.00% | ~64 |
-| Monstrous Harassment | 15.00% | ~64 |
+| Monstrous Harassment | 14.00% | ~60 |
 | Heading the inverter | 14.00% | ~60 |
 | Blast from the Past | 13.00% | ~56 |
 | Play it again, Ronny | 12.00% | ~51 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 488)
 | Every man for himself! | 5.00% | ~21 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 284)  
-Completed: 6 (1.41%) (Ranked 120)  
+Progressed: 428 (Ranked 284)  
+Completed: 6 (1.40%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 6 (1.41%) (Ranked 120)
 | 2023-10-01 | 425 | 6 |
 | 2023-10-04 | 426 | 6 |
 | 2023-10-06 | 427 | 6 |
+| 2023-10-07 | 428 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

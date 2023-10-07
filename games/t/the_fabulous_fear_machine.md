@@ -22,20 +22,20 @@
 | The seer | 17.00% | ~2 |
 | Pulp! Out of this World | 17.00% | ~2 |
 | Pulp! Adventures into the Unknown | 17.00% | ~2 |
+| You've awakened the beast | 8.00% | ~1 |
+| Hate is... addictive | 8.00% | ~1 |
 | You had one wish left | 8.00% | ~1 |
 | Et in arcadia ego | 8.00% | ~1 |
+| The bully | 8.00% | ~1 |
 | Thirst for Oleum | 8.00% | ~1 |
 | The barbarian invasions | 8.00% | ~1 |
 | Vaccine fans | 8.00% | ~1 |
 | Welcome to Hellville | 8.00% | ~1 |
-| You've awakened the beast | 0.00% | ~0 |
-| Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| The bully | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
 | The adventurer | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |

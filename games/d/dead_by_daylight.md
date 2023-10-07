@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.70% | ~6,466 |
-| Zealous | 0.60% | ~5,542 |
-| Skillful | 0.60% | ~5,542 |
+| It wakes | 0.70% | ~6,467 |
+| Zealous | 0.60% | ~5,543 |
+| Skillful | 0.60% | ~5,543 |
 | Handyman | 0.50% | ~4,619 |
 | Not half bad | 0.50% | ~4,619 |
 | Apt Survivor | 0.50% | ~4,619 |
@@ -23,6 +23,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.40% | ~3,695 |
 | Healthy Obsession | 0.40% | ~3,695 |
 | Resurgence | 0.40% | ~3,695 |
+| Preemptive Strike | 0.40% | ~3,695 |
 | Agonizing Escape | 0.30% | ~2,771 |
 | Backdoor Escape | 0.30% | ~2,771 |
 | I've got your back | 0.30% | ~2,771 |
@@ -34,38 +35,38 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.30% | ~2,771 |
 | Wounded Healer | 0.30% | ~2,771 |
 | Close Shave | 0.30% | ~2,771 |
-| Preemptive Strike | 0.30% | ~2,771 |
 | Humanitarian | 0.30% | ~2,771 |
 | Second Act | 0.30% | ~2,771 |
-| Blood on your hands | 0.20% | ~1,847 |
-| Escape Artist | 0.20% | ~1,847 |
-| Made it out alive! | 0.20% | ~1,847 |
-| Vulture | 0.20% | ~1,847 |
-| III | 0.20% | ~1,847 |
-| III-50 | 0.20% | ~1,847 |
-| All Aboard | 0.20% | ~1,847 |
-| Item of Obsession | 0.20% | ~1,847 |
-| House of Pain | 0.20% | ~1,847 |
-| Holiday Get-Together | 0.20% | ~1,847 |
-| Near-Death Experience | 0.20% | ~1,847 |
-| Cherish your Life | 0.20% | ~1,847 |
-| Campbell's Chapel Legacy | 0.20% | ~1,847 |
-| Unforgettable Getaway | 0.20% | ~1,847 |
-| Cutting Out | 0.20% | ~1,847 |
-| Outrun Evil | 0.20% | ~1,847 |
-| First to the Punch | 0.20% | ~1,847 |
-| Operation: Survival | 0.20% | ~1,847 |
-| Old West Oasis | 0.20% | ~1,847 |
-| Classy Act | 0.20% | ~1,847 |
-| Every Last Drop | 0.20% | ~1,847 |
-| Raccoon City Recruit | 0.20% | ~1,847 |
-| With Scars to Show | 0.20% | ~1,847 |
-| Flight to Freedom | 0.20% | ~1,847 |
-| A Fast Death | 0.20% | ~1,847 |
-| Lifting The Fog | 0.20% | ~1,847 |
-| Chorus of Chaos | 0.20% | ~1,847 |
-| One More Step | 0.20% | ~1,847 |
-| MU/TH/UR Dearest | 0.20% | ~1,847 |
+| Blood on your hands | 0.20% | ~1,848 |
+| Escape Artist | 0.20% | ~1,848 |
+| Made it out alive! | 0.20% | ~1,848 |
+| Vulture | 0.20% | ~1,848 |
+| III | 0.20% | ~1,848 |
+| III-50 | 0.20% | ~1,848 |
+| Shock Therapy | 0.20% | ~1,848 |
+| All Aboard | 0.20% | ~1,848 |
+| Item of Obsession | 0.20% | ~1,848 |
+| House of Pain | 0.20% | ~1,848 |
+| Holiday Get-Together | 0.20% | ~1,848 |
+| Near-Death Experience | 0.20% | ~1,848 |
+| Cherish your Life | 0.20% | ~1,848 |
+| Campbell's Chapel Legacy | 0.20% | ~1,848 |
+| Unforgettable Getaway | 0.20% | ~1,848 |
+| Cutting Out | 0.20% | ~1,848 |
+| Outrun Evil | 0.20% | ~1,848 |
+| First to the Punch | 0.20% | ~1,848 |
+| Operation: Survival | 0.20% | ~1,848 |
+| Old West Oasis | 0.20% | ~1,848 |
+| Classy Act | 0.20% | ~1,848 |
+| Every Last Drop | 0.20% | ~1,848 |
+| Raccoon City Recruit | 0.20% | ~1,848 |
+| With Scars to Show | 0.20% | ~1,848 |
+| Flight to Freedom | 0.20% | ~1,848 |
+| A Fast Death | 0.20% | ~1,848 |
+| Lifting The Fog | 0.20% | ~1,848 |
+| Chorus of Chaos | 0.20% | ~1,848 |
+| One More Step | 0.20% | ~1,848 |
+| MU/TH/UR Dearest | 0.20% | ~1,848 |
 | A bite for the Entity | 0.10% | ~924 |
 | A feast for the Entity | 0.10% | ~924 |
 | Blood on your face | 0.10% | ~924 |
@@ -86,7 +87,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | From the void she kills | 0.10% | ~924 |
 | Adept Nurse | 0.10% | ~924 |
 | Hemophobia | 0.10% | ~924 |
-| Shock Therapy | 0.10% | ~924 |
 | Adept Nea | 0.10% | ~924 |
 | Triggered | 0.10% | ~924 |
 | Even Punishment | 0.10% | ~924 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~924 |
 | Adept Ripley | 0.10% | ~924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,707 (Ranked 14)  
+Progressed: 923,793 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,707 | 49 |
+| 2023-10-07 | 923,793 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,977 (Ranked 13)  

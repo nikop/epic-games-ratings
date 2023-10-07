@@ -52,9 +52,9 @@
       "ID": "ach_50_items",
       "SetID": "c0bphk8",
       "Name": "Sharp-sighted!",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 130,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_50_levels",
@@ -92,25 +92,25 @@
       "ID": "ach_hint_9",
       "SetID": "c0bphk8",
       "Name": "Together is better!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "c0bphk8",
       "Name": "Inquiring mind!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_skip_1",
       "SetID": "c0bphk8",
       "Name": "Keep moving on!",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_skip_3",
@@ -146,8 +146,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:09:08.3812691+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:11:16.5051419+00:00",
   "LastUpdate_AppInfo": "2023-10-04T13:06:45.2918799+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:58:41.3559685+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:09:08.3812799+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:58:34.5849717+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:11:16.5051498+00:00"
 }

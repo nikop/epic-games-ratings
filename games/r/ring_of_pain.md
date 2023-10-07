@@ -6,36 +6,36 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~227,958 |
-| Uncharted Territory | 89.00% | ~211,336 |
-| Getting A Glimpse | 73.00% | ~173,343 |
-| A Quick Escape | 65.00% | ~154,346 |
+| First Steps | 96.00% | ~227,959 |
+| Uncharted Territory | 89.00% | ~211,337 |
+| Getting A Glimpse | 73.00% | ~173,344 |
+| A Quick Escape | 65.00% | ~154,347 |
 | Explorer | 62.00% | ~147,223 |
-| Defeat The Dark | 61.00% | ~144,848 |
-| An Offering | 61.00% | ~144,848 |
-| Colorful Corpse | 58.00% | ~137,724 |
+| Defeat The Dark | 61.00% | ~144,849 |
+| An Offering | 61.00% | ~144,849 |
+| Colorful Corpse | 58.00% | ~137,725 |
 | That Was Quick | 57.00% | ~135,350 |
 | A Donation | 57.00% | ~135,350 |
-| Goodbye, Frog Friend | 54.00% | ~128,226 |
+| Goodbye, Frog Friend | 54.00% | ~128,227 |
 | Heavy Hitter | 53.00% | ~125,852 |
 | Heartless | 46.00% | ~109,230 |
 | Spine Breaker | 46.00% | ~109,230 |
-| Deflection | 45.00% | ~106,855 |
-| Sneaky | 43.00% | ~102,106 |
+| Deflection | 45.00% | ~106,856 |
+| Sneaky | 43.00% | ~102,107 |
 | Ambitious Intent | 42.00% | ~99,732 |
 | Delving Deeper | 42.00% | ~99,732 |
 | C-C-Combo | 42.00% | ~99,732 |
-| Nothing To Lose | 40.00% | ~94,982 |
-| The Bestiary | 40.00% | ~94,982 |
+| Nothing To Lose | 40.00% | ~94,983 |
+| The Bestiary | 40.00% | ~94,983 |
 | What's Yours Is Mine | 39.00% | ~92,608 |
 | R.I.P | 37.00% | ~87,859 |
-| Shootout | 36.00% | ~85,484 |
+| Shootout | 36.00% | ~85,485 |
 | I Am Overburdened | 35.00% | ~83,110 |
 | Cold Hearted | 34.00% | ~80,735 |
-| Dig Your Own Grave | 33.00% | ~78,360 |
-| Toxic | 33.00% | ~78,360 |
+| Dig Your Own Grave | 33.00% | ~78,361 |
+| Toxic | 33.00% | ~78,361 |
 | Who To Trust? | 32.00% | ~75,986 |
-| Flesh Wound | 29.00% | ~68,862 |
+| Flesh Wound | 29.00% | ~68,863 |
 | Walk It Off | 28.00% | ~66,488 |
 | Stone Touch | 28.00% | ~66,488 |
 | Shadow Walker | 28.00% | ~66,488 |
@@ -55,7 +55,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 17.00% | ~40,368 |
 | Illuminate, Eliminate | 17.00% | ~40,368 |
 | Doing Time | 16.00% | ~37,993 |
-| Spreading Plague | 15.00% | ~35,618 |
+| Spreading Plague | 15.00% | ~35,619 |
 | The Long Run | 14.00% | ~33,244 |
 | A Rough Road | 13.00% | ~30,869 |
 | Chain Reaction | 13.00% | ~30,869 |
@@ -65,12 +65,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Barbecue | 10.00% | ~23,746 |
 | Snake Sneak | 10.00% | ~23,746 |
 | Precious | 9.00% | ~21,371 |
-| Challenge Increases | 8.00% | ~18,996 |
-| New Game+ | 8.00% | ~18,996 |
-| Clearing The Room | 8.00% | ~18,996 |
-| Decisions, Decisions | 8.00% | ~18,996 |
-| Fragile Mortality | 8.00% | ~18,996 |
-| Defuser | 8.00% | ~18,996 |
+| Challenge Increases | 8.00% | ~18,997 |
+| New Game+ | 8.00% | ~18,997 |
+| Clearing The Room | 8.00% | ~18,997 |
+| Decisions, Decisions | 8.00% | ~18,997 |
+| Fragile Mortality | 8.00% | ~18,997 |
+| Defuser | 8.00% | ~18,997 |
 | Friend of Vermin | 7.00% | ~16,622 |
 | Juggernaut | 7.00% | ~16,622 |
 | Gigantic | 7.00% | ~16,622 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,187 |
 | Near Death Experience | 0.30% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,456 (Ranked 55)  
+Progressed: 237,457 (Ranked 55)  
 Completed: 278 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,17 +299,17 @@ Completed: 278 (0.12%) (Ranked 234)
 | 2023-10-04 | 237,282 | 277 |
 | 2023-10-05 | 237,344 | 277 |
 | 2023-10-06 | 237,424 | 278 |
-| 2023-10-07 | 237,456 | 278 |
+| 2023-10-07 | 237,457 | 278 |
 ## Awards
 Max (Quickly Understood Controls): 1,497  (Ranked 126)  
-Sum: 11,594 (Ranked 81)  
+Sum: 11,595 (Ranked 81)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,497 |
 | This game is Great for Beginners | 1,496 |
 | This game is Relaxing | 1,428 |
-| This game has Challenging Combat | 1,418 |
+| This game has Challenging Combat | 1,419 |
 | This game is Extremely Fun | 1,405 |
 | This game is Highly Recommended | 1,367 |
 | This game has Amazing Storytelling | 1,315 |
@@ -493,4 +493,4 @@ Diff (max vs sum): 45
 | 2023-10-04 | 4.58 | - | 1,497 | 11,588 |
 | 2023-10-05 | 4.58 | - | 1,497 | 11,591 |
 | 2023-10-06 | 4.58 | - | 1,497 | 11,592 |
-| 2023-10-07 | 4.58 | - | 1,497 | 11,594 |
+| 2023-10-07 | 4.58 | - | 1,497 | 11,595 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -748,9 +748,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 10548,
+  "EOS_Progressed": 10550,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11158,6 +11158,11 @@
       "Time": "2023-10-07T09:05:12.8703526+00:00",
       "NumProgressed": 10548,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-10-07T11:07:09.8153592+00:00",
+      "NumProgressed": 10550,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 34,
@@ -11169,7 +11174,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH02",
@@ -11193,7 +11198,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH05",
@@ -11241,7 +11246,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH11",
@@ -11273,7 +11278,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ACH15",
@@ -11289,7 +11294,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH17",
@@ -11297,7 +11302,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH18",
@@ -11305,7 +11310,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH19",
@@ -11321,7 +11326,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH21",
@@ -11329,7 +11334,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "ACH22",
@@ -11345,7 +11350,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH24",
@@ -11377,7 +11382,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH28",
@@ -11385,7 +11390,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH29",
@@ -11401,7 +11406,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH31",
@@ -11440,7 +11445,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10548,
+      "Progressed": 10550,
       "Completed": 59
     }
   ],
@@ -11448,8 +11453,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-05T15:57:26.4712887+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:04:48.9291446+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:07:09.8153585+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:14.4933741+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:58:09.1400159+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:04:48.9292304+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:57:51.5814924+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:09.8154244+00:00"
 }

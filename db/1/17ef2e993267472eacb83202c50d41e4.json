@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6941,
+  "EOS_Progressed": 6943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3593,6 +3593,11 @@
       "Time": "2023-10-07T10:09:24.7797105+00:00",
       "NumProgressed": 6941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T11:11:36.7203428+00:00",
+      "NumProgressed": 6943,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3645,7 +3650,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "CreditsEarned50000",
@@ -3725,7 +3730,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "GamesPlayed10",
@@ -4133,7 +4138,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -4149,7 +4154,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "TGPurchased1",
@@ -4189,14 +4194,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6941,
+      "Progressed": 6943,
       "Completed": 1
     }
   ],
@@ -4204,8 +4209,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:09:24.77971+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:11:36.7203424+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-07T10:02:23.9071387+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:09:24.7798127+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:03:57.0458682+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:11:36.7204211+00:00"
 }

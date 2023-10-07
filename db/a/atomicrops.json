@@ -2,7 +2,7 @@
   "ID": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "Name": "Atomicrops",
   "ProductSlug": "atomicrops",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 30,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 657,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.86,
   "NumberOfRatings": 157,
   "RatingHistory": [
     {
@@ -384,6 +384,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2023-10-07T11:00:34.9165535+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
@@ -421,8 +427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2023-08-20T22:57:18.1811435+00:00",
+  "LastChanged": "2023-10-07T11:00:34.9165533+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:08.8651655+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:59:57.8042328+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:05:24.4762197+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:00:34.9165538+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:40.8635215+00:00"
 }

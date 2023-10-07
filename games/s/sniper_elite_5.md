@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 644)
 | Die Nussknacker Sweet! | 14.00% | ~519 |
 | Opposing Force | 13.00% | ~482 |
 | Set Europe Ablaze | 13.00% | ~482 |
+| My Little Friend | 10.00% | ~370 |
 | Precision Is Key | 9.00% | ~333 |
-| My Little Friend | 9.00% | ~333 |
 | Rigged to Blow | 8.00% | ~296 |
 | Herr Today, Gone Tomorrow | 6.00% | ~219 |
 | The Long Game | 5.00% | ~185 |

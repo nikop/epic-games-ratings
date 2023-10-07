@@ -6,7 +6,7 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21598,
+  "EOS_Progressed": 21602,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -18650,6 +18650,11 @@
       "Time": "2023-10-07T10:05:03.9132873+00:00",
       "NumProgressed": 21598,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-10-07T11:07:15.7365035+00:00",
+      "NumProgressed": 21602,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 20,
@@ -18781,7 +18786,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16630
+      "UsersEstimate": 16634
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -18789,7 +18794,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6049
     },
     {
       "ID": "NORTH_FINISHED",
@@ -18820,15 +18825,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21598,
+      "Progressed": 21602,
       "Completed": 431
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:05:03.9132869+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:07:15.7365031+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:31.4432959+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:59:21.8824932+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:05:03.9134091+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:59:35.7836169+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:15.7366009+00:00"
 }

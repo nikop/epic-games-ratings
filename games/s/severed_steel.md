@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~201,319 |
-| 50 HEADSHOTS | 28.00% | ~187,897 |
-| SCIENCE AND INDUSTRY | 27.00% | ~181,187 |
-| FINISHED CHAPTER 1 | 26.00% | ~174,476 |
-| FINISHED CHAPTER 2 | 19.00% | ~127,502 |
-| 200 HEADSHOTS | 16.00% | ~107,370 |
-| FINISHED CHAPTER 3 | 16.00% | ~107,370 |
-| FINISHED CHAPTER 4 | 14.00% | ~93,949 |
-| FINISH CHAPTER 5 | 11.00% | ~73,817 |
-| FINISH CHAPTER 6 | 10.00% | ~67,106 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,106 |
-| 1000 KILLS | 8.00% | ~53,685 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,842 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,421 |
-| FIRST BLOOD | 2.00% | ~13,421 |
+| 100 KILLS | 30.00% | ~201,327 |
+| 50 HEADSHOTS | 28.00% | ~187,905 |
+| SCIENCE AND INDUSTRY | 27.00% | ~181,194 |
+| FINISHED CHAPTER 1 | 26.00% | ~174,483 |
+| FINISHED CHAPTER 2 | 19.00% | ~127,507 |
+| 200 HEADSHOTS | 16.00% | ~107,374 |
+| FINISHED CHAPTER 3 | 16.00% | ~107,374 |
+| FINISHED CHAPTER 4 | 14.00% | ~93,952 |
+| FINISH CHAPTER 5 | 11.00% | ~73,820 |
+| FINISH CHAPTER 6 | 10.00% | ~67,109 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,109 |
+| 1000 KILLS | 8.00% | ~53,687 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,844 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,422 |
+| FIRST BLOOD | 2.00% | ~13,422 |
 | PACEMAKER | 1.00% | ~6,711 |
 | OUT OF ORDER | 0.90% | ~6,040 |
 | TIME PARADOX | 0.90% | ~6,040 |
-| FIREFIGHT LEVEL 30 | 0.80% | ~5,368 |
-| PARTYHARD | 0.70% | ~4,697 |
-| NEW GAME PLUS | 0.60% | ~4,026 |
+| FIREFIGHT LEVEL 30 | 0.80% | ~5,369 |
+| PARTYHARD | 0.70% | ~4,698 |
+| NEW GAME PLUS | 0.60% | ~4,027 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,355 |
 | CHURCH | 0.40% | ~2,684 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,013 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 220)
 | THE GAMBLER | 0.10% | ~671 |
 | WARRIOR IN A GARDEN | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,062 (Ranked 23)  
+Progressed: 671,089 (Ranked 23)  
 Completed: 71 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 71 (0.01%) (Ranked 289)
 | 2023-10-04 | 669,974 | 70 |
 | 2023-10-05 | 670,385 | 70 |
 | 2023-10-06 | 670,869 | 71 |
-| 2023-10-07 | 671,062 | 71 |
+| 2023-10-07 | 671,089 | 71 |
 ## Awards
 Max (Great Boss Battles): 327  (Ranked 237)  
 Sum: 327 (Ranked 342)  

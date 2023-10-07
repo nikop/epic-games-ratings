@@ -146,7 +146,7 @@ Completed: 249 (2.35%) (Ranked 99)
 | 2023-10-07 | 10,606 | 249 |
 ## Awards
 Max (Great for Beginners): 997  (Ranked 147)  
-Sum: 7,666 (Ranked 106)  
+Sum: 7,667 (Ranked 106)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -159,7 +159,7 @@ Diff (max vs sum): 41
 | This game is Extremely Fun | 754 |
 | This game has Quickly Understood Controls | 746 |
 | This game has a Creative Community | 637 |
-| This game has Easy Combat | 513 |
+| This game has Easy Combat | 514 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -372,4 +372,4 @@ Diff (max vs sum): 41
 | 2023-10-04 | 4.76 | - | 989 | 7,654 |
 | 2023-10-05 | 4.76 | - | 993 | 7,661 |
 | 2023-10-06 | 4.76 | - | 993 | 7,662 |
-| 2023-10-07 | 4.76 | - | 997 | 7,666 |
+| 2023-10-07 | 4.76 | - | 997 | 7,667 |

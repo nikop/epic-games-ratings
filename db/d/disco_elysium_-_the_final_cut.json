@@ -2,10 +2,10 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 241,
-  "Ranking_EOS_Progress": 74,
+  "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 116,
@@ -1343,9 +1343,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129414,
+  "EOS_Progressed": 129415,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18378,6 +18378,11 @@
       "Time": "2023-10-07T10:04:49.2009169+00:00",
       "NumProgressed": 129414,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-07T11:07:10.0696303+00:00",
+      "NumProgressed": 129415,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18445,7 +18450,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31059
+      "UsersEstimate": 31060
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18708,15 +18713,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129414,
+      "Progressed": 129415,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-06T18:58:57.1340203+00:00",
-  "LastChanged_Achievements": "2023-10-07T10:04:49.2009164+00:00",
+  "LastChanged_Achievements": "2023-10-07T11:07:10.0696296+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:59:45.6046985+00:00",
-  "LastUpdate_Achievements": "2023-10-07T10:04:49.2010538+00:00"
+  "LastUpdate_Ratings": "2023-10-07T11:00:15.2656589+00:00",
+  "LastUpdate_Achievements": "2023-10-07T11:07:10.0697411+00:00"
 }
