@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.64,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1202,6 +1202,11 @@
       "Time": "2023-10-07T15:09:28.9819522+00:00",
       "NumProgressed": 255,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-07T17:06:06.1889332+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 25,
@@ -1211,9 +1216,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "END_GOOD",
@@ -1227,9 +1232,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1307,9 +1312,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1371,9 +1376,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_N2",
@@ -1387,9 +1392,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROGRESS_N4",
@@ -1412,14 +1417,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:05:27.3095712+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:06:06.1889328+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:58:04.0407807+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:05:27.3095936+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:58:40.1610304+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:06:06.1889523+00:00"
 }

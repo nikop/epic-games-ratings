@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -443,9 +443,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:04:42.5419495+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:05:12.3869679+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:59:14.8986275+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:04:42.5420143+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:00:05.8132648+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:05:12.3870325+00:00"
 }

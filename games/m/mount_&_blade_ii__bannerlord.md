@@ -6,31 +6,31 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,514 |
-| Landlord | 33.00% | ~20,742 |
-| Bannerlord | 23.00% | ~14,457 |
-| Horde breaker | 23.00% | ~14,457 |
-| Lawmaker | 23.00% | ~14,457 |
-| Trained | 23.00% | ~14,457 |
-| The king is pleased | 19.00% | ~11,943 |
-| King Solomon | 17.00% | ~10,686 |
-| I can do it | 16.00% | ~10,057 |
-| Apple of my eye | 15.00% | ~9,428 |
-| God of the Arena | 13.00% | ~8,171 |
-| Against all odds | 12.00% | ~7,543 |
-| This Is Our Land | 12.00% | ~7,543 |
+| Lawbringer | 39.00% | ~24,517 |
+| Landlord | 33.00% | ~20,745 |
+| Bannerlord | 23.00% | ~14,458 |
+| Horde breaker | 23.00% | ~14,458 |
+| Lawmaker | 23.00% | ~14,458 |
+| Trained | 23.00% | ~14,458 |
+| The king is pleased | 19.00% | ~11,944 |
+| King Solomon | 17.00% | ~10,687 |
+| I can do it | 16.00% | ~10,058 |
+| Apple of my eye | 15.00% | ~9,429 |
+| God of the Arena | 13.00% | ~8,172 |
+| Against all odds | 12.00% | ~7,544 |
+| This Is Our Land | 12.00% | ~7,544 |
 | Duelist | 10.00% | ~6,286 |
 | Dynasty | 10.00% | ~6,286 |
 | Swordbearer | 10.00% | ~6,286 |
 | What have the Romans ever done for us? | 10.00% | ~6,286 |
-| I spit on your grave | 9.00% | ~5,657 |
-| Butterlord | 8.00% | ~5,028 |
+| I spit on your grave | 9.00% | ~5,658 |
+| Butterlord | 8.00% | ~5,029 |
 | Know your enemy | 7.00% | ~4,400 |
 | Mastery | 7.00% | ~4,400 |
 | Crowdfunded | 5.00% | ~3,143 |
 | Crush your enemies | 5.00% | ~3,143 |
 | My way | 5.00% | ~3,143 |
-| Veni vidi vici | 4.00% | ~2,514 |
+| Veni vidi vici | 4.00% | ~2,515 |
 | Freedom! | 3.00% | ~1,886 |
 | Long live the Empire! | 3.00% | ~1,886 |
 | Real Estate | 3.00% | ~1,886 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,856 (Ranked 96)  
+Progressed: 62,863 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 62,701 | 0 |
 | 2023-10-05 | 62,761 | 0 |
 | 2023-10-06 | 62,814 | 0 |
-| 2023-10-07 | 62,856 | 0 |
+| 2023-10-07 | 62,863 | 0 |
 ## Awards
 Max (Character Customization): 7,194  (Ranked 52)  
 Sum: 14,759 (Ranked 66)  

@@ -5,26 +5,26 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,693 |
-| First Class Student | 13.00% | ~38,734 |
-| Troll with the Punches | 13.00% | ~38,734 |
-| A Keen Sense of Spell | 12.00% | ~35,754 |
-| That's a Keeper | 12.00% | ~35,754 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,694 |
+| First Class Student | 13.00% | ~38,735 |
+| Troll with the Punches | 13.00% | ~38,735 |
+| A Keen Sense of Spell | 12.00% | ~35,755 |
+| That's a Keeper | 12.00% | ~35,755 |
 | The Hallowed Hero | 11.00% | ~32,775 |
 | The Defender of Dragons | 11.00% | ~32,775 |
 | Loom for Improvement | 11.00% | ~32,775 |
 | A Talent for Spending | 11.00% | ~32,775 |
-| Grappling with a Graphorn | 10.00% | ~29,795 |
-| The One Who Mastered Memories | 10.00% | ~29,795 |
-| The Hero of Hogwarts | 10.00% | ~29,795 |
-| Challenge Accepted | 10.00% | ~29,795 |
-| Coasting Along | 10.00% | ~29,795 |
+| Grappling with a Graphorn | 10.00% | ~29,796 |
+| The One Who Mastered Memories | 10.00% | ~29,796 |
+| The Hero of Hogwarts | 10.00% | ~29,796 |
+| Challenge Accepted | 10.00% | ~29,796 |
+| Coasting Along | 10.00% | ~29,796 |
 | Followed the Butterflies | 9.00% | ~26,816 |
 | Rising From the Ashes | 9.00% | ~26,816 |
-| The Avenging Gazelle | 8.00% | ~23,836 |
-| A Sallow Grave | 8.00% | ~23,836 |
-| Flight the Good Flight | 8.00% | ~23,836 |
-| The Spell Master | 8.00% | ~23,836 |
+| The Avenging Gazelle | 8.00% | ~23,837 |
+| A Sallow Grave | 8.00% | ~23,837 |
+| Flight the Good Flight | 8.00% | ~23,837 |
+| The Spell Master | 8.00% | ~23,837 |
 | Beast Friends | 7.00% | ~20,857 |
 | The Seeker of Knowledge | 6.00% | ~17,877 |
 | The Root of the Problem | 6.00% | ~17,877 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,953 (Ranked 46)  
+Progressed: 297,958 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
-| 2023-10-07 | 297,953 | 482 |
+| 2023-10-07 | 297,958 | 482 |
 ## Awards
 Max (Character Customization): 23,347  (Ranked 17)  
-Sum: 45,236 (Ranked 31)  
+Sum: 45,243 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 1,118 |
 | This game has Diverse Characters | 1,103 |
 | This game is Relaxing | 1,102 |
-| This game is Extremely Fun | 1,089 |
+| This game is Extremely Fun | 1,096 |
 | This game has Amazing Characters | 1,066 |
 | This game is Highly Recommended | 1,053 |
 | This game has Quickly Understood Controls | 991 |
@@ -440,4 +440,4 @@ Diff (max vs sum): -14
 | 2023-10-04 | 4.76 | 23,277 | 45,048 |
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
-| 2023-10-07 | 4.76 | 23,347 | 45,236 |
+| 2023-10-07 | 4.76 | 23,347 | 45,243 |

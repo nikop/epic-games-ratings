@@ -1,14 +1,15 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 317)  
+Rating: 4.64 (Ranked 318)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 0.40% | ~97 |
 | First Bounty Down | 0.40% | ~97 |
+| Cold-Blooded Driller | 0.40% | ~97 |
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Creature Feature | 0.30% | ~72 |
-| Satisfied Gus-tomer | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
@@ -16,7 +17,6 @@ Rating: 4.64 (Ranked 317)
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | G3 Graduation | 0.30% | ~72 |
 | Hardest Battle In The Game | 0.30% | ~72 |
-| Cold-Blooded Driller | 0.30% | ~72 |
 | Who's The Boss? | 0.30% | ~72 |
 | Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |

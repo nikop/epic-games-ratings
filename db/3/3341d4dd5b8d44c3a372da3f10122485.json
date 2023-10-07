@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 120,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 47.06,
+  "EOS_NewPlayers": 13,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 46.67,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -831,6 +831,11 @@
       "Time": "2023-10-06T13:10:06.8788149+00:00",
       "NumProgressed": 119,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-07T17:05:01.1804707+00:00",
+      "NumProgressed": 120,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -843,23 +848,23 @@
       "Name": "Budoir",
       "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Intro",
       "SetID": "823jm6g",
       "Name": "Intro",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 75,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Kompotarna",
@@ -867,13 +872,13 @@
       "Name": "Pantry",
       "Percentage": 86,
       "XP": 80,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
       "UsersEstimate": 58
     },
@@ -883,13 +888,13 @@
       "Name": "Woods",
       "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
       "UsersEstimate": 58
     },
@@ -899,7 +904,7 @@
       "Name": "Burrow",
       "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Planina",
@@ -907,7 +912,7 @@
       "Name": "Plain",
       "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Poklop",
@@ -915,7 +920,7 @@
       "Name": "Hatch",
       "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Snekoun",
@@ -923,7 +928,7 @@
       "Name": "Snailman",
       "Percentage": 91,
       "XP": 80,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Sopouch",
@@ -931,7 +936,7 @@
       "Name": "Pit",
       "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Tuleni",
@@ -946,14 +951,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:04:33.2276777+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:05:01.18047+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.2297565+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:59:42.4928389+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:04:33.22769+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:00:40.6799347+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:05:01.1804999+00:00"
 }

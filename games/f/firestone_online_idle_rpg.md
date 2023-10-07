@@ -5,10 +5,10 @@ Rating: 4.06 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,860 |
-| World Map | 79.00% | ~1,580 |
-| Temple of Eternals | 57.00% | ~1,140 |
-| Prestigious | 54.00% | ~1,080 |
+| Victor | 93.00% | ~1,861 |
+| World Map | 79.00% | ~1,581 |
+| Temple of Eternals | 57.00% | ~1,141 |
+| Prestigious | 54.00% | ~1,081 |
 | Fellowship Power | 42.00% | ~840 |
 | Guild Power | 26.00% | ~520 |
 | Prestigious x10 | 23.00% | ~460 |
@@ -54,10 +54,10 @@ Rating: 4.06 (Ranked 947)
 | Lock And Load | 7.00% | ~140 |
 | Missions Dedication | 7.00% | ~140 |
 | Sailor | 7.00% | ~140 |
-| The Alchemist | 7.00% | ~140 |
 | Active Member | 6.00% | ~120 |
 | Ancient Knowledge | 6.00% | ~120 |
 | Legendary | 6.00% | ~120 |
+| The Alchemist | 6.00% | ~120 |
 | Arena Challenger | 5.00% | ~100 |
 | Background Story | 5.00% | ~100 |
 | Ebony Jungle Liberator | 5.00% | ~100 |
@@ -75,13 +75,13 @@ Rating: 4.06 (Ranked 947)
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
 | Conqueror | 0.90% | ~18 |
-| Angel Power | 0.80% | ~16 |
+| Angel Power | 0.70% | ~14 |
 | Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 202)  
+Progressed: 2,001 (Ranked 202)  
 Completed: 2 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,11 +247,11 @@ Completed: 2 (0.10%) (Ranked 243)
 | 2023-10-03 | 1,989 | 2 |
 | 2023-10-05 | 1,990 | 2 |
 | 2023-10-06 | 1,999 | 2 |
-| 2023-10-07 | 2,000 | 2 |
+| 2023-10-07 | 2,001 | 2 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 495)  
-Sum: 67 (Ranked 452)  
-Diff (max vs sum): 43  
+Sum: 67 (Ranked 453)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 25 |

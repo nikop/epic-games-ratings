@@ -8,18 +8,18 @@
 | Master trainee | 69.00% | ~9 |
 | Jung's dream | 54.00% | ~7 |
 | The battle of Great Britain | 54.00% | ~7 |
-| Giant | 38.00% | ~5 |
+| Giant | 46.00% | ~6 |
+| The happy farmer girl | 38.00% | ~5 |
 | Pulp! Terror Tales in the Night | 31.00% | ~4 |
 | Pulp! Where Monsters Dwell | 31.00% | ~4 |
 | A continent with chemistry | 31.00% | ~4 |
-| The happy farmer girl | 31.00% | ~4 |
+| Kirlian's best disciple | 31.00% | ~4 |
 | The artist | 23.00% | ~3 |
-| Kirlian's best disciple | 23.00% | ~3 |
+| The seer | 23.00% | ~3 |
 | Diagnosis: fear | 23.00% | ~3 |
 | Ambition is... blind | 23.00% | ~3 |
 | You have two wishes left | 23.00% | ~3 |
 | A rival with no options | 15.00% | ~2 |
-| The seer | 15.00% | ~2 |
 | Pulp! Out of this World | 15.00% | ~2 |
 | Pulp! Adventures into the Unknown | 15.00% | ~2 |
 | You've awakened the beast | 8.00% | ~1 |

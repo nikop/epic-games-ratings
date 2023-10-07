@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1803,9 +1803,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14482,
+  "EOS_Progressed": 14483,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13238,6 +13238,11 @@
       "Time": "2023-10-07T16:03:50.2942457+00:00",
       "NumProgressed": 14482,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T17:04:10.2332953+00:00",
+      "NumProgressed": 14483,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14159,9 +14164,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -15984,21 +15989,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14482,
+      "Progressed": 14483,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14482,
+      "Progressed": 14483,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T16:00:12.9637429+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:03:50.2942453+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:04:10.233295+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:00:12.9637434+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:03:50.2952427+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:01:17.989704+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:04:10.2342691+00:00"
 }

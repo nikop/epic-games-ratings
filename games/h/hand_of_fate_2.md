@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,369 |
-| Apprentice | 58.00% | ~384,547 |
-| Close Shave | 25.00% | ~165,753 |
-| Mercenary | 23.00% | ~152,493 |
-| Ninja | 23.00% | ~152,493 |
-| Northern Scourge | 17.00% | ~112,712 |
+| The Fool | 72.00% | ~477,372 |
+| Apprentice | 58.00% | ~384,550 |
+| Close Shave | 25.00% | ~165,754 |
+| Mercenary | 23.00% | ~152,494 |
+| Ninja | 23.00% | ~152,494 |
+| Northern Scourge | 17.00% | ~112,713 |
 | Thief Bane | 14.00% | ~92,822 |
-| Master of Arms | 12.00% | ~79,561 |
-| Gambler | 10.00% | ~66,301 |
-| Dice Master | 10.00% | ~66,301 |
-| Swordsman | 9.00% | ~59,671 |
+| Master of Arms | 12.00% | ~79,562 |
+| Gambler | 10.00% | ~66,302 |
+| Dice Master | 10.00% | ~66,302 |
+| Swordsman | 9.00% | ~59,672 |
 | Knight | 8.00% | ~53,041 |
 | Cure for Corruption | 8.00% | ~53,041 |
 | Focused | 8.00% | ~53,041 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,781 |
 | Jack of all Trades | 5.00% | ~33,151 |
 | Smithy | 5.00% | ~33,151 |
-| Leap of Faith | 3.00% | ~19,890 |
-| Combat Ready | 3.00% | ~19,890 |
-| Stuffed Potato | 3.00% | ~19,890 |
+| Leap of Faith | 3.00% | ~19,891 |
+| Combat Ready | 3.00% | ~19,891 |
+| Stuffed Potato | 3.00% | ~19,891 |
 | Card Sharp | 2.00% | ~13,260 |
 | Magician | 2.00% | ~13,260 |
 | Draknar's Bane | 2.00% | ~13,260 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,012 (Ranked 25)  
+Progressed: 663,017 (Ranked 25)  
 Completed: 170 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 170 (0.03%) (Ranked 277)
 | 2023-10-04 | 662,923 | 170 |
 | 2023-10-05 | 662,947 | 170 |
 | 2023-10-06 | 662,991 | 170 |
-| 2023-10-07 | 663,012 | 170 |
+| 2023-10-07 | 663,017 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 452)  
 Sum: 186 (Ranked 386)  

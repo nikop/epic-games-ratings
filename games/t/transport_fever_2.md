@@ -23,8 +23,8 @@ Number of Ratings: 180  (23.09.2022)
 | Sculpturer | 50.00% | ~859 |
 | Settled down | 49.00% | ~842 |
 | First electric train arrived | 47.00% | ~807 |
+| First ship arrived | 46.00% | ~790 |
 | Now what? | 46.00% | ~790 |
-| First ship arrived | 45.00% | ~773 |
 | High speed | 43.00% | ~739 |
 | Exemplary student | 42.00% | ~722 |
 | Transport shark | 41.00% | ~704 |

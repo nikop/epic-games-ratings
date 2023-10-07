@@ -21,6 +21,7 @@
 | Strategist | 5.00% | ~8 |
 | The More the Merrier | 5.00% | ~8 |
 | Harbinger | 5.00% | ~8 |
+| Been There | 5.00% | ~8 |
 | Spiritual Journey | 5.00% | ~8 |
 | Quartermaster | 4.00% | ~6 |
 | Potential Unlocked | 4.00% | ~6 |
@@ -28,7 +29,6 @@
 | Deputized | 4.00% | ~6 |
 | Courier | 4.00% | ~6 |
 | The Voice of Hereafter | 4.00% | ~6 |
-| Been There | 4.00% | ~6 |
 | A Terrible Will | 4.00% | ~6 |
 | Pilgrimage's End | 4.00% | ~6 |
 | Inquisitions of Discord | 4.00% | ~6 |

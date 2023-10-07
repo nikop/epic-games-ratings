@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1016,9 +1016,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8217,
+  "EOS_Progressed": 8218,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4871,6 +4871,11 @@
       "Time": "2023-10-07T16:04:55.4347294+00:00",
       "NumProgressed": 8217,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-07T17:05:28.0200299+00:00",
+      "NumProgressed": 8218,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -4978,7 +4983,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "LeoniasFall_2",
@@ -5002,7 +5007,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "SavedElderEnt",
@@ -5042,7 +5047,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5050,7 +5055,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5066,22 +5071,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8217,
+      "Progressed": 8218,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-06T03:58:18.2786084+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:04:55.434729+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:05:28.0200295+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:58:08.5025099+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:04:55.43476+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:58:45.4446483+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:05:28.0200595+00:00"
 }

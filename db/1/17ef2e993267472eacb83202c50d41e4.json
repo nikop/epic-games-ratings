@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6953,
+  "EOS_Progressed": 6957,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3623,6 +3623,11 @@
       "Time": "2023-10-07T16:08:22.3965355+00:00",
       "NumProgressed": 6953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T17:09:05.3982316+00:00",
+      "NumProgressed": 6957,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3683,7 +3688,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "CreditsSpent50000",
@@ -3691,7 +3696,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "DHUpgraded1",
@@ -3755,7 +3760,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "GamesPlayed10",
@@ -3779,7 +3784,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "GamesWon10",
@@ -3827,7 +3832,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "HAUpgraded1",
@@ -3843,7 +3848,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "HSPurchased1",
@@ -3851,7 +3856,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "HSUPurchased1",
@@ -3899,7 +3904,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "InhibitorKills3",
@@ -3945,9 +3950,9 @@
       "ID": "MaxCreditsSpent25000",
       "SetID": "12d07c7",
       "Name": "Spent 25000 Credits in a single match",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 557
     },
     {
       "ID": "MaxDamageDone30000",
@@ -4003,7 +4008,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4043,7 +4048,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "NeutralKills200",
@@ -4067,7 +4072,7 @@
       "Name": "10 Eliminations",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "PlayerKills100",
@@ -4131,7 +4136,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "SEUpgraded1",
@@ -4147,7 +4152,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "SOVUpgraded1",
@@ -4195,7 +4200,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "TSUPurchased1",
@@ -4219,14 +4224,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6953,
+      "Progressed": 6957,
       "Completed": 1
     }
   ],
@@ -4234,8 +4239,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:08:22.3965348+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:09:05.3982312+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:00:04.9877355+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:08:22.3966139+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:01:08.9583489+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:09:05.3983297+00:00"
 }

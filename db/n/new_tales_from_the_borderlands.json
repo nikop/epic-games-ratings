@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3658,
+  "EOS_Progressed": 3659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1594,6 +1594,11 @@
       "Time": "2023-10-02T18:07:13.8771062+00:00",
       "NumProgressed": 3658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T17:03:27.7554142+00:00",
+      "NumProgressed": 3659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1637,7 +1642,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1645,7 +1650,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1661,7 +1666,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1685,7 +1690,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -1725,15 +1730,15 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Poor Now!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 732
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1805,14 +1810,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3658,
+      "Progressed": 3659,
       "Completed": 0
     }
   ],
@@ -1820,8 +1825,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:03:23.3096234+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:03:27.7554129+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:03:06.4514515+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:03:23.3096551+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:03:05.5829785+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:03:27.7554383+00:00"
 }

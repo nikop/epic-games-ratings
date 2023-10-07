@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~438 |
-| Off to a good start | 67.00% | ~326 |
-| Do... or do not. There is no try | 53.00% | ~258 |
-| A good blaster at your side | 36.00% | ~175 |
-| Scrap collector | 22.00% | ~107 |
-| I suggest a new strategy | 20.00% | ~97 |
-| Great shot, kid! | 20.00% | ~97 |
+| New Recruit | 90.00% | ~441 |
+| Off to a good start | 67.00% | ~328 |
+| Do... or do not. There is no try | 53.00% | ~260 |
+| A good blaster at your side | 36.00% | ~176 |
+| Scrap collector | 22.00% | ~108 |
+| I suggest a new strategy | 20.00% | ~98 |
+| Great shot, kid! | 20.00% | ~98 |
 | All right, I'll give it a try | 19.00% | ~93 |
 | Shoot first | 18.00% | ~88 |
 | The power of the Force | 17.00% | ~83 |
 | Together we can rule the galaxy | 17.00% | ~83 |
 | Collector | 16.00% | ~78 |
-| Best star-pilot in the galaxy | 13.00% | ~63 |
-| Survivor | 13.00% | ~63 |
-| Tell Jabba that I've got his money | 12.00% | ~58 |
+| Best star-pilot in the galaxy | 13.00% | ~64 |
+| Survivor | 13.00% | ~64 |
+| Tell Jabba that I've got his money | 12.00% | ~59 |
 | A cunning warrior | 11.00% | ~54 |
 | What's the cargo? | 10.00% | ~49 |
 | Never tell me the odds! | 10.00% | ~49 |
@@ -33,15 +33,15 @@
 | Patience you must have | 6.00% | ~29 |
 | I've been waiting for you | 5.00% | ~24 |
 | When 900 years old you reach... | 5.00% | ~24 |
-| Determined | 5.00% | ~24 |
-| Your journey has only started | 5.00% | ~24 |
-| That's no moon | 5.00% | ~24 |
 | Don't underestimate the Force | 5.00% | ~24 |
-| Precision shot | 4.00% | ~19 |
-| Safety ain't the point of a joyride | 4.00% | ~19 |
-| City in the Clouds | 4.00% | ~19 |
-| What will you become? | 4.00% | ~19 |
-| Disturbed tranquility | 4.00% | ~19 |
+| Determined | 4.00% | ~20 |
+| Your journey has only started | 4.00% | ~20 |
+| Precision shot | 4.00% | ~20 |
+| Safety ain't the point of a joyride | 4.00% | ~20 |
+| City in the Clouds | 4.00% | ~20 |
+| That's no moon | 4.00% | ~20 |
+| What will you become? | 4.00% | ~20 |
+| Disturbed tranquility | 4.00% | ~20 |
 | The Force is strong with this one | 3.00% | ~15 |
 | Ackbar's Elite | 3.00% | ~15 |
 | This is a new day, a new beginning | 3.00% | ~15 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 275)  
-Completed: 1 (0.21%) (Ranked 215)  
+Progressed: 490 (Ranked 274)  
+Completed: 1 (0.20%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 1 (0.21%) (Ranked 215)
 | 2023-10-04 | 430 | 1 |
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
-| 2023-10-07 | 487 | 1 |
+| 2023-10-07 | 490 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

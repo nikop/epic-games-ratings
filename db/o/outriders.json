@@ -4,11 +4,11 @@
   "ProductSlug": "outriders",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -2705,10 +2705,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 2554,
       "NumberOfAwardsMax": 1219
+    },
+    {
+      "Time": "2023-10-07T17:00:17.3988288+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2555,
+      "NumberOfAwardsMax": 1219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2554,
+  "NumberOfAwards": 2555,
   "NumberOfAwardsMax": 1219,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2740,7 +2746,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2790,8 +2796,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2023-10-06T17:00:08.3297165+00:00",
+  "LastChanged": "2023-10-07T17:00:17.3988287+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.2508565+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:59:24.7616261+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:08:26.0052832+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:00:17.3988291+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:09:09.2837604+00:00"
 }

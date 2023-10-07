@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 318,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5323,9 +5323,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5435,9 +5435,9 @@
       "ID": "ACH_KILL_KRUBIS",
       "SetID": "cdkbb11",
       "Name": "Cold-Blooded Driller",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -5642,8 +5642,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:06:33.313376+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:07:25.158052+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:00:28.1137737+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:06:33.3134306+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:01:37.8253786+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:07:25.1581047+00:00"
 }

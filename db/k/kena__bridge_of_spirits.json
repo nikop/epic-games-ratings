@@ -1364,7 +1364,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428362,
+  "EOS_Progressed": 428363,
   "EOS_Completed": 535,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
@@ -12794,6 +12794,11 @@
       "Time": "2023-10-07T16:08:18.3028092+00:00",
       "NumProgressed": 428362,
       "NumCompleted": 535
+    },
+    {
+      "Time": "2023-10-07T17:08:30.7417618+00:00",
+      "NumProgressed": 428363,
+      "NumCompleted": 535
     }
   ],
   "TotalAchievements": 41,
@@ -12813,7 +12818,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167061
+      "UsersEstimate": 167062
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12821,7 +12826,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257017
+      "UsersEstimate": 257018
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -12837,7 +12842,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107090
+      "UsersEstimate": 107091
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -12885,7 +12890,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257017
+      "UsersEstimate": 257018
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -12917,7 +12922,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132792
+      "UsersEstimate": 132793
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -12941,7 +12946,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201330
+      "UsersEstimate": 201331
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -12965,7 +12970,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17134
+      "UsersEstimate": 17135
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -12973,7 +12978,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406944
+      "UsersEstimate": 406945
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -12981,7 +12986,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17134
+      "UsersEstimate": 17135
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -13061,7 +13066,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141359
+      "UsersEstimate": 141360
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -13117,7 +13122,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132792
+      "UsersEstimate": 132793
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -13125,22 +13130,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17134
+      "UsersEstimate": 17135
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428362,
+      "Progressed": 428363,
       "Completed": 535
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-07T11:00:06.9931717+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:08:18.3028088+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:08:30.7417613+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.9909298+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:58:28.3274973+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:08:18.302888+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:59:11.7176239+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:08:30.7418401+00:00"
 }

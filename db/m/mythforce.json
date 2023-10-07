@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -737,9 +737,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3855,
+  "EOS_Progressed": 3857,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6782,6 +6782,11 @@
       "Time": "2023-10-07T16:04:49.2015992+00:00",
       "NumProgressed": 3855,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T17:05:20.6393309+00:00",
+      "NumProgressed": 3857,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6816,9 +6821,9 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 309
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -6850,7 +6855,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -6946,7 +6951,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -6962,7 +6967,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -6977,15 +6982,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3855,
+      "Progressed": 3857,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-05T19:57:26.6544273+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:04:49.2015987+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:05:20.6393305+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:57:44.5551004+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:04:49.2016421+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:58:17.6800522+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:05:20.6393736+00:00"
 }

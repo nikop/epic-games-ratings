@@ -2,13 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2202,6 +2202,11 @@
       "Time": "2023-10-07T14:03:39.0636903+00:00",
       "NumProgressed": 488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T17:03:38.5661008+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2277,7 +2282,7 @@
       "Name": "Earth Shattering",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2308,7 +2313,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 0
     }
   ],
@@ -2316,8 +2321,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-10-06T21:57:45.6051235+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:03:32.1740357+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:03:38.5661003+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.022471+00:00",
-  "LastUpdate_Ratings": "2023-10-07T15:57:31.5776234+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:03:32.1740642+00:00"
+  "LastUpdate_Ratings": "2023-10-07T16:58:00.8986321+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:03:38.5661189+00:00"
 }

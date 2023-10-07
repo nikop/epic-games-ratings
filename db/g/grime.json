@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150962,
+  "EOS_Progressed": 150978,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10844,6 +10844,11 @@
       "Time": "2023-10-07T16:05:08.4265946+00:00",
       "NumProgressed": 150962,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T17:05:43.9901323+00:00",
+      "NumProgressed": 150978,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11005,9 +11010,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 453
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -11222,21 +11227,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150545,
+      "Progressed": 150561,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150962,
+      "Progressed": 150978,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T16:05:08.4265941+00:00",
+  "LastChanged_Achievements": "2023-10-07T17:05:43.9901318+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-07T16:00:09.315203+00:00",
-  "LastUpdate_Achievements": "2023-10-07T16:05:08.4266741+00:00"
+  "LastUpdate_Ratings": "2023-10-07T17:01:13.9554819+00:00",
+  "LastUpdate_Achievements": "2023-10-07T17:05:43.9902056+00:00"
 }

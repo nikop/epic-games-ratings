@@ -15,6 +15,7 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 0.30% | ~452 |
 | Harmless | 0.30% | ~453 |
 | Jawcrab | 0.30% | ~453 |
+| Jawstag | 0.30% | ~453 |
 | Feast | 0.30% | ~453 |
 | Silenced Whispers | 0.30% | ~453 |
 | Yank | 0.30% | ~453 |
@@ -23,7 +24,6 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.20% | ~302 |
 | Glare | 0.20% | ~301 |
 | Host | 0.20% | ~301 |
-| Jawstag | 0.20% | ~302 |
 | Celebration | 0.20% | ~302 |
 | Watcher | 0.20% | ~302 |
 | Predator | 0.20% | ~302 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,962 (Ranked 69)  
+Progressed: 150,978 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 1 (0.00%) (Ranked 308)
 | 2023-10-04 | 150,205 | 1 |
 | 2023-10-05 | 150,488 | 1 |
 | 2023-10-06 | 150,744 | 1 |
-| 2023-10-07 | 150,962 | 1 |
+| 2023-10-07 | 150,978 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 431)  
 Sum: 272 (Ranked 360)  
