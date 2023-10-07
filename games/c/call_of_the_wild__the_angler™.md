@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,741 |
-| Hey Good Hookin | 69.00% | ~4,141 |
-| I'm on a Boat! | 60.00% | ~3,601 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,361 |
-| Scaling up | 56.00% | ~3,361 |
-| More Fish in the Sea | 49.00% | ~2,940 |
-| Ready to Rod and Roll | 47.00% | ~2,820 |
-| Fish Out of Water | 36.00% | ~2,160 |
-| License to Gill | 33.00% | ~1,980 |
-| Things that go Splash in the Night | 31.00% | ~1,860 |
-| Goldfish? | 29.00% | ~1,740 |
-| Going for Gold | 26.00% | ~1,560 |
-| I'm Hooked! | 20.00% | ~1,200 |
+| Fish Just Got Reel | 79.00% | ~4,742 |
+| Hey Good Hookin | 69.00% | ~4,142 |
+| I'm on a Boat! | 60.00% | ~3,602 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,362 |
+| Scaling up | 56.00% | ~3,362 |
+| More Fish in the Sea | 49.00% | ~2,941 |
+| Ready to Rod and Roll | 47.00% | ~2,821 |
+| Fish Out of Water | 36.00% | ~2,161 |
+| License to Gill | 33.00% | ~1,981 |
+| Things that go Splash in the Night | 31.00% | ~1,861 |
+| Goldfish? | 29.00% | ~1,741 |
+| Going for Gold | 26.00% | ~1,561 |
+| I'm Hooked! | 20.00% | ~1,201 |
 | Diamond in the Rough | 13.00% | ~780 |
 | More than a Tourist | 11.00% | ~660 |
 | School's Out for Summer | 10.00% | ~600 |
@@ -30,20 +30,20 @@ Number of Ratings: 281  (23.09.2022)
 | Gonna Need a Bigger Boat | 3.00% | ~180 |
 | No Fin left to give | 2.00% | ~120 |
 | Taylor Made | 2.00% | ~120 |
-| Rod and Troll | 2.00% | ~107 |
+| Rod and Troll | 2.00% | ~108 |
 | Fish upon a Star | 0.70% | ~38 |
 | Head for Heights | 0.60% | ~36 |
 | Lake Me up Before You Go Go | 0.50% | ~30 |
 | Golden Ridge Ranger | 0.40% | ~24 |
-| Trollsporet Tale Teller | 0.40% | ~21 |
-| Cache and Carry | 0.40% | ~21 |
+| Trollsporet Tale Teller | 0.40% | ~22 |
+| Cache and Carry | 0.40% | ~22 |
 | Buckaroo | 0.30% | ~18 |
 | Lost and Flounder | 0.10% | ~6 |
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,001 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 307)  
+Progressed: 6,003 (Ranked 165)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 307)
 | 2023-10-04 | 5,981 | 0 |
 | 2023-10-05 | 5,990 | 0 |
 | 2023-10-06 | 5,996 | 0 |
-| 2023-10-07 | 6,001 | 0 |
+| 2023-10-07 | 6,003 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 450)  
 Sum: 180 (Ranked 390)  

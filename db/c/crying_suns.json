@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468648,
+  "EOS_Progressed": 468649,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18400,6 +18400,11 @@
       "Time": "2023-10-07T13:08:23.5247121+00:00",
       "NumProgressed": 468648,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-07T14:06:21.8802328+00:00",
+      "NumProgressed": 468649,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18595,7 +18600,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159340
+      "UsersEstimate": 159341
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -18835,7 +18840,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206205
+      "UsersEstimate": 206206
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -18843,7 +18848,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140594
+      "UsersEstimate": 140595
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19042,21 +19047,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12582,
+      "Progressed": 12583,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468648,
+      "Progressed": 468649,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-25T13:57:24.5204115+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:08:23.5247114+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:06:21.8802323+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:25.4640051+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:00:47.1922673+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:08:23.5249107+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:58:51.2836203+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:06:21.88044+00:00"
 }

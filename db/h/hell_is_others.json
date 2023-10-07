@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 715,
+  "Ranking_Rating": 716,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1042,9 +1042,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 257021,
+  "EOS_Progressed": 257025,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17897,6 +17897,11 @@
       "Time": "2023-10-07T13:09:34.4598178+00:00",
       "NumProgressed": 257021,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-07T14:07:31.3963472+00:00",
+      "NumProgressed": 257025,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17908,7 +17913,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17991
+      "UsersEstimate": 17992
     },
     {
       "ID": "Act2",
@@ -17956,7 +17961,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79677
+      "UsersEstimate": 79678
     },
     {
       "ID": "BackHomeNTimes",
@@ -18108,7 +18113,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "GrowPlants2",
@@ -18164,7 +18169,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "KillOtherWithKatana",
@@ -18196,7 +18201,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56545
+      "UsersEstimate": 56546
     },
     {
       "ID": "KillOthers2",
@@ -18355,7 +18360,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257021,
+      "Progressed": 257025,
       "Completed": 3
     }
   ],
@@ -18363,8 +18368,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-06T05:03:18.880052+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:09:34.4598169+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:07:31.3963465+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:15.0363814+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:59:21.1053029+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:09:34.4599713+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:57:39.5962339+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:07:31.3966319+00:00"
 }

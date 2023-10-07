@@ -6,9 +6,9 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2164,
+  "EOS_Progressed": 2165,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
@@ -1849,6 +1849,11 @@
       "Time": "2023-10-07T12:09:11.588126+00:00",
       "NumProgressed": 2164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T14:06:27.8657084+00:00",
+      "NumProgressed": 2165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1877,7 +1882,7 @@
       "Name": "Big Spender",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_12",
@@ -1901,7 +1906,7 @@
       "Name": "ROTY",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "achievement_15",
@@ -1957,7 +1962,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_21",
@@ -2028,7 +2033,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2164,
+      "Progressed": 2165,
       "Completed": 0
     }
   ],
@@ -2036,8 +2041,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-06T20:57:29.5302654+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:08:29.6036076+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:06:27.8657075+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:59:28.5650784+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:08:29.6036339+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:57:45.3763273+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:06:27.8657627+00:00"
 }

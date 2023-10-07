@@ -15,8 +15,8 @@
 | I'm Here Too! | 19.00% | ~255 |
 | Restored and Ready | 18.00% | ~242 |
 | I Want One Too! | 18.00% | ~242 |
+| Legendary!!! | 18.00% | ~242 |
 | Quick Pit Stop | 18.00% | ~242 |
-| Legendary!!! | 17.00% | ~228 |
 | Go-Faster Stripes | 16.00% | ~215 |
 | We've Just Begun | 9.00% | ~121 |
 | Stamina Star | 8.00% | ~107 |
@@ -55,7 +55,7 @@
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,343 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

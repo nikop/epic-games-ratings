@@ -2,20 +2,20 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 550,
-  "Ranking_Popularity": 199,
+  "Ranking_Rating": 571,
+  "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -853,18 +853,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 683,
       "NumberOfAwardsMax": 538
+    },
+    {
+      "Time": "2023-10-07T13:57:43.8853678+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 694,
+      "NumberOfAwardsMax": 549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 683,
-  "NumberOfAwardsMax": 538,
+  "NumberOfAwards": 694,
+  "NumberOfAwardsMax": 549,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 538
+      "Count": 549
     },
     {
       "Text": "This game has Amazing Characters",
@@ -914,8 +920,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-10-07T06:57:39.4740728+00:00",
+  "LastChanged": "2023-10-07T13:57:43.8853676+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:19.9647454+00:00",
-  "LastUpdate_Ratings": "2023-10-07T12:59:27.1349732+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:05:17.3218217+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:57:43.8853685+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:03:37.2590077+00:00"
 }

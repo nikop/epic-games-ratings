@@ -15,35 +15,37 @@
 | Meissa's Savior | 13.00% | ~6 |
 | Purification Pioneer | 13.00% | ~6 |
 | Wild's Keeper | 13.00% | ~6 |
+| Behenian Champion | 13.00% | ~6 |
 | Eridanian Champion | 13.00% | ~6 |
 | Mind Illuminator | 11.00% | ~5 |
 | Sanctuary Guardian | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |
-| Behenian Champion | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Shard Spender | 9.00% | ~4 |
+| Stellar Haste | 9.00% | ~4 |
+| Aquarian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
+| Heart Gate | 7.00% | ~3 |
 | Sadistic Plan | 7.00% | ~3 |
 | Star Killer | 7.00% | ~3 |
-| Stellar Haste | 7.00% | ~3 |
-| Aquarian Champion | 7.00% | ~3 |
+| The Corruption Goddess | 7.00% | ~3 |
 | Anomaly Control | 4.00% | ~2 |
+| Astral Seeker | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | Denying Destiny | 4.00% | ~2 |
 | Favored by the Cosmos | 4.00% | ~2 |
-| Heart Gate | 4.00% | ~2 |
 | Heavy Purger | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
-| The Corruption Goddess | 4.00% | ~2 |
+| The Goddes Avatar | 4.00% | ~2 |
 | Wave Bender | 4.00% | ~2 |
 | Apian Hero | 4.00% | ~2 |
+| Behenian Hero | 4.00% | ~2 |
 | Behenian Mastery | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Artificer | 2.00% | ~1 |
-| Astral Seeker | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
 | If I Had Failed... | 2.00% | ~1 |
@@ -51,14 +53,13 @@
 | Prestidigitation | 2.00% | ~1 |
 | Purification Avatar | 2.00% | ~1 |
 | Reflexive Mind | 2.00% | ~1 |
+| The Abyssal Terror | 2.00% | ~1 |
 | The Chaos Artisan | 2.00% | ~1 |
 | The Dark Moon | 2.00% | ~1 |
-| The Goddes Avatar | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
 | Aquarian Mastery | 2.00% | ~1 |
-| Behenian Hero | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Hero | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
@@ -93,7 +94,6 @@
 | Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
-| The Abyssal Terror | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
 | The Distorted Sage | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46 (Ranked 440)  
-Completed: 0 (0.00%) (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

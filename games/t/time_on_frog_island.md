@@ -7,9 +7,9 @@
 | Shipwrecked! | 67.00% | ~8 |
 | Sea Legs | 58.00% | ~7 |
 | Frogs Legs | 25.00% | ~3 |
+| Mad Scientist | 25.00% | ~3 |
 | What?! | 25.00% | ~3 |
 | Who Even Needs Keys | 17.00% | ~2 |
-| Mad Scientist | 17.00% | ~2 |
 | Hoist the Sails | 17.00% | ~2 |
 | Replace the Rudder | 17.00% | ~2 |
 | Socialite | 8.00% | ~1 |
@@ -41,7 +41,7 @@
 | Hands on the Helm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

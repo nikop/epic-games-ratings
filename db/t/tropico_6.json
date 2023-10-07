@@ -5,10 +5,10 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 283,
-  "Ranking_EOS_Progress": 168,
+  "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1188,9 +1188,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5471,
+  "EOS_Progressed": 5472,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10888,6 +10888,11 @@
       "Time": "2023-10-07T12:05:50.3505055+00:00",
       "NumProgressed": 5471,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-07T14:03:30.6086243+00:00",
+      "NumProgressed": 5472,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -10955,7 +10960,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -11003,15 +11008,15 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH_EP_SHACKLAND",
       "SetID": "1p8ab95",
       "Name": "Shackadelic",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -11059,7 +11064,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4103
+      "UsersEstimate": 4104
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11083,7 +11088,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -11155,7 +11160,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11171,7 +11176,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11218,15 +11223,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5471,
+      "Progressed": 5472,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-07T13:03:17.1697203+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:05:09.7144606+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:03:30.6086237+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:07.3728621+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:03:17.1697209+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:05:09.7151249+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:01:00.3692373+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:03:30.60883+00:00"
 }

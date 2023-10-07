@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.30% | ~43 |
 | Mythology | 0.30% | ~43 |
 | Beloved | 0.20% | ~29 |
+| Invincible | 0.20% | ~29 |
 | Mighty | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
 | Valiant | 0.20% | ~29 |
@@ -85,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.20% | ~29 |
 | Circus Maximus | 0.20% | ~29 |
 | Hagia Sophia | 0.20% | ~29 |
+| Church of the Holy Sepulchre | 0.20% | ~29 |
 | Temple of Solomon | 0.20% | ~29 |
 | Pantheon | 0.20% | ~29 |
 | Via Recta Souk | 0.20% | ~29 |
@@ -147,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~14 |
 | Devout | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
-| Invincible | 0.10% | ~14 |
 | Lion | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
@@ -194,7 +195,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knot So Hard | 0.10% | ~14 |
 | Pharaoh | 0.10% | ~14 |
 | A Tyresome Siege | 0.10% | ~14 |
-| Church of the Holy Sepulchre | 0.10% | ~14 |
 | Cao'an | 0.10% | ~14 |
 | Adur Burzen-Mihr | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,474 (Ranked 134)  
+Progressed: 14,478 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,474 | 5 |
+| 2023-10-07 | 14,478 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5074,10 +5074,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9463,
       "NumberOfAwardsMax": 6339
+    },
+    {
+      "Time": "2023-10-07T13:58:51.7284512+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9464,
+      "NumberOfAwardsMax": 6339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9463,
+  "NumberOfAwards": 9464,
   "NumberOfAwardsMax": 6339,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5103,7 +5109,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 444
+      "Count": 445
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5136,10 +5142,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 692036,
-  "EOS_Completed": 2198,
-  "EOS_NewPlayers": 3619,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 692066,
+  "EOS_Completed": 2199,
+  "EOS_NewPlayers": 3613,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24366,6 +24372,11 @@
       "Time": "2023-10-07T13:09:32.8115037+00:00",
       "NumProgressed": 692036,
       "NumCompleted": 2198
+    },
+    {
+      "Time": "2023-10-07T14:07:29.7117529+00:00",
+      "NumProgressed": 692066,
+      "NumCompleted": 2199
     }
   ],
   "TotalAchievements": 45,
@@ -24385,7 +24396,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_ammo_ran",
@@ -24393,7 +24404,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_anger_management",
@@ -24415,9 +24426,9 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2768
+      "UsersEstimate": 3460
     },
     {
       "ID": "ach_blueprinted",
@@ -24441,7 +24452,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_contender",
@@ -24481,7 +24492,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -24497,7 +24508,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24521,7 +24532,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24537,7 +24548,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_impressive_aim",
@@ -24569,7 +24580,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "ach_knock_down",
@@ -24617,7 +24628,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_revival_tour",
@@ -24633,7 +24644,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_secrets_of_la",
@@ -24657,7 +24668,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_survival_expert",
@@ -24673,7 +24684,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_the_vcla",
@@ -24681,7 +24692,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_thesacrifice",
@@ -24713,7 +24724,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24721,7 +24732,7 @@
       "Name": "Rising Star",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "ach_well_trained",
@@ -24736,22 +24747,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 692036,
-      "Completed": 2198
+      "Progressed": 692066,
+      "Completed": 2199
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17578,
-      "Completed": 17578
+      "Progressed": 17608,
+      "Completed": 17608
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-06T20:58:58.699526+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:09:32.8115031+00:00",
+  "LastChanged": "2023-10-07T13:58:51.7284509+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:07:29.7117522+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:21.6903672+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:00:49.2990072+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:09:32.8116567+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:58:51.7284518+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:07:29.7120598+00:00"
 }

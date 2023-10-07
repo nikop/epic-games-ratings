@@ -9,11 +9,11 @@
 | Jung's dream | 58.00% | ~7 |
 | The battle of Great Britain | 50.00% | ~6 |
 | Giant | 42.00% | ~5 |
+| Pulp! Terror Tales in the Night | 33.00% | ~4 |
+| Pulp! Where Monsters Dwell | 33.00% | ~4 |
+| A continent with chemistry | 33.00% | ~4 |
 | The happy farmer girl | 33.00% | ~4 |
 | The artist | 25.00% | ~3 |
-| Pulp! Terror Tales in the Night | 25.00% | ~3 |
-| Pulp! Where Monsters Dwell | 25.00% | ~3 |
-| A continent with chemistry | 25.00% | ~3 |
 | Kirlian's best disciple | 25.00% | ~3 |
 | Diagnosis: fear | 25.00% | ~3 |
 | Ambition is... blind | 25.00% | ~3 |
@@ -53,7 +53,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

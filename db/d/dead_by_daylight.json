@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -10977,10 +10977,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 260008,
       "NumberOfAwardsMax": 33543
+    },
+    {
+      "Time": "2023-10-07T13:59:59.806126+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 260035,
+      "NumberOfAwardsMax": 33543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260008,
+  "NumberOfAwards": 260035,
   "NumberOfAwardsMax": 33543,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11006,7 +11012,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 29396
+      "Count": 29423
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11051,9 +11057,9 @@
       "Count": 25135
     }
   ],
-  "EOS_Progressed": 923983,
+  "EOS_Progressed": 924110,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13594,
+  "EOS_NewPlayers": 13598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30331,6 +30337,11 @@
       "Time": "2023-10-07T13:05:31.1304324+00:00",
       "NumProgressed": 923983,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T14:03:50.5882955+00:00",
+      "NumProgressed": 924110,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30478,7 +30489,7 @@
       "Name": "Handyman",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_019",
@@ -30492,9 +30503,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2772
+      "UsersEstimate": 3696
     },
     {
       "ID": "ACH_021",
@@ -30508,9 +30519,9 @@
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5544
+      "UsersEstimate": 6469
     },
     {
       "ID": "ACH_023",
@@ -30518,7 +30529,7 @@
       "Name": "It wakes",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6468
+      "UsersEstimate": 6469
     },
     {
       "ID": "ACH_024",
@@ -30526,7 +30537,7 @@
       "Name": "Not half bad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_025",
@@ -30550,7 +30561,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_028",
@@ -30574,7 +30585,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_031",
@@ -30646,7 +30657,7 @@
       "Name": "Skillful",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "ACH_040",
@@ -31140,9 +31151,9 @@
       "ID": "ACH_101",
       "SetID": "16jml5b",
       "Name": "Ancestor\u0027s Rite",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH_102",
@@ -32110,7 +32121,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACH_226",
@@ -32173,21 +32184,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 923983,
+      "Progressed": 924110,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 923983,
+      "Progressed": 924110,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-07T13:02:07.0787485+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:05:31.1304318+00:00",
+  "LastChanged": "2023-10-07T13:59:59.8061257+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:03:50.5882949+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:23.3201703+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:02:07.0787494+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:05:31.1311617+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:59:59.8061268+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:03:50.5897352+00:00"
 }

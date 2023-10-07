@@ -54,10 +54,10 @@ Rating: 4.06 (Ranked 948)
 | Lock And Load | 7.00% | ~140 |
 | Missions Dedication | 7.00% | ~140 |
 | Sailor | 7.00% | ~140 |
+| The Alchemist | 7.00% | ~140 |
 | Active Member | 6.00% | ~120 |
 | Ancient Knowledge | 6.00% | ~120 |
 | Legendary | 6.00% | ~120 |
-| The Alchemist | 6.00% | ~120 |
 | Arena Challenger | 5.00% | ~100 |
 | Background Story | 5.00% | ~100 |
 | Ebony Jungle Liberator | 5.00% | ~100 |

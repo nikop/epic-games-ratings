@@ -2,13 +2,13 @@
   "ID": "72688fa8862442c8867c8b22bd8957b6",
   "Name": "Child of Light: Ultimate Edition",
   "ProductSlug": "child-of-light",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 74,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2014-04-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2022-11-17T15:58:01.6088442+00:00",
@@ -60,6 +60,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-07T13:58:27.7108763+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -78,8 +84,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:36.5547321+00:00",
   "FirstSeenRating": "2022-11-17T15:58:01.6088436+00:00",
-  "LastChanged": "2023-03-31T05:58:09.1674755+00:00",
+  "LastChanged": "2023-10-07T13:58:27.710876+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:09.6718763+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:00:19.1152945+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:08:16.4826062+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:58:27.7108768+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:06:14.5421095+00:00"
 }

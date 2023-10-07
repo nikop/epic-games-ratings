@@ -6,9 +6,9 @@
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150899,
+  "EOS_Progressed": 150922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1250,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10829,6 +10829,11 @@
       "Time": "2023-10-07T13:07:34.9709633+00:00",
       "NumProgressed": 150899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T14:05:43.1567739+00:00",
+      "NumProgressed": 150922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10880,15 +10885,15 @@
       "Name": "Zygote",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 906
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -10912,7 +10917,7 @@
       "Name": "Weeper",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -10942,9 +10947,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 452
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -11112,7 +11117,7 @@
       "Name": "Ravenous",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11136,7 +11141,7 @@
       "Name": "Dream",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "QUEST_CODA",
@@ -11152,7 +11157,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "QUEST_LISTENER",
@@ -11160,7 +11165,7 @@
       "Name": "Listen",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "QUEST_YON",
@@ -11176,7 +11181,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MISC_FINISHNG",
@@ -11184,7 +11189,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -11192,7 +11197,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -11200,28 +11205,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150482,
+      "Progressed": 150505,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150899,
+      "Progressed": 150922,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:07:34.9709626+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:05:43.1567732+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:03:32.6490392+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:07:34.9710643+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:01:15.4209249+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:05:43.1569537+00:00"
 }

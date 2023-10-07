@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -5644,6 +5644,11 @@
       "Time": "2023-10-07T13:09:25.2339462+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T14:07:22.2605424+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5823,7 +5828,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -5958,7 +5963,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 1
     }
   ],
@@ -5966,8 +5971,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:09:25.2339458+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:07:22.2605418+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:18.5041314+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:02:53.2431173+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:09:25.2340091+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:00:37.7937813+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:07:22.2606167+00:00"
 }

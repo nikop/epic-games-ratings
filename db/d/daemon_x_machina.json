@@ -2,13 +2,13 @@
   "ID": "0dc18227b3f14162968d8e7969e454ef",
   "Name": "DAEMON X MACHINA",
   "ProductSlug": "daemon-x-machina",
-  "Ranking_Rating": 715,
+  "Ranking_Rating": 716,
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-01-27T16:00:00+00:00",
     "PcReleaseDate": "2022-01-27T16:00:00+00:00",
@@ -1677,10 +1677,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 1510,
       "NumberOfAwardsMax": 1039
+    },
+    {
+      "Time": "2023-10-07T13:58:46.105383+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1511,
+      "NumberOfAwardsMax": 1039
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1510,
+  "NumberOfAwards": 1511,
   "NumberOfAwardsMax": 1039,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1718,7 +1724,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1756,8 +1762,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2023-10-06T16:58:21.801204+00:00",
+  "LastChanged": "2023-10-07T13:58:46.1053827+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:41.1264128+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:00:40.3975381+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:06:49.1973296+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:58:46.1053836+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:05:07.3589621+00:00"
 }

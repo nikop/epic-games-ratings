@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1797,9 +1797,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14474,
+  "EOS_Progressed": 14478,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13217,6 +13217,11 @@
       "Time": "2023-10-07T13:05:40.5197332+00:00",
       "NumProgressed": 14474,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T14:04:10.242274+00:00",
+      "NumProgressed": 14478,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13722,9 +13727,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -14602,9 +14607,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -15963,21 +15968,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14474,
+      "Progressed": 14478,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14474,
+      "Progressed": 14478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T00:02:52.9861823+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:05:40.5197324+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:04:10.2422731+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:03:36.903931+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:05:40.5210182+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:01:19.6319132+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:04:10.2436881+00:00"
 }

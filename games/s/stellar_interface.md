@@ -75,6 +75,7 @@
 | Rambo V | 3.00% | ~2 |
 | Space Magellan | 3.00% | ~2 |
 | Golden Alchemist | 3.00% | ~2 |
+| System Admiral | 3.00% | ~2 |
 | Sectoral Admiral | 3.00% | ~2 |
 | Golden BBQ | 3.00% | ~2 |
 | The Healer | 3.00% | ~2 |
@@ -88,7 +89,6 @@
 | Merchant Prince III | 3.00% | ~2 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
-| System Admiral | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
@@ -138,7 +138,7 @@
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 415)  
-Completed: 0 (0.00%) (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

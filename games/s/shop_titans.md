@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,117 |
-| Basic in Bulk | 3.00% | ~4,117 |
-| Titan's First Steps | 3.00% | ~4,117 |
+| Sponsored by Argon | 3.00% | ~4,118 |
+| Basic in Bulk | 3.00% | ~4,118 |
+| Titan's First Steps | 3.00% | ~4,118 |
 | Disintermediation | 2.00% | ~2,745 |
 | Another Satisfied Customer | 2.00% | ~2,745 |
 | It's Free Real Estate | 2.00% | ~2,745 |
@@ -47,27 +47,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.70% | ~961 |
 | Royal Ransom | 0.70% | ~961 |
 | Magical Harmony | 0.70% | ~961 |
-| A Notch Above the Rest | 0.60% | ~823 |
-| A Ronin Reborn | 0.60% | ~823 |
-| The King's Caprice | 0.60% | ~823 |
-| Big Game Hunting | 0.60% | ~823 |
-| For the Hoard! | 0.60% | ~823 |
-| Scrapbooker | 0.60% | ~823 |
-| Locally Sourced | 0.60% | ~823 |
-| Flying off the Shelves | 0.60% | ~823 |
-| This Power Level...! | 0.60% | ~823 |
-| Master of Transmutation | 0.60% | ~823 |
-| Hidden Potential | 0.60% | ~823 |
-| Expansion in Session | 0.60% | ~823 |
-| Cranked up to 11 | 0.60% | ~823 |
-| Mammonite | 0.60% | ~823 |
-| Miracle Alchemist | 0.60% | ~823 |
-| Laden with Loot | 0.60% | ~823 |
-| Seasoned Journeyman | 0.60% | ~823 |
-| Scourge of the Seas | 0.60% | ~823 |
-| Black Friday Special | 0.60% | ~823 |
-| Special Ingredient | 0.60% | ~823 |
-| Complete Monopoly | 0.60% | ~823 |
+| A Notch Above the Rest | 0.60% | ~824 |
+| A Ronin Reborn | 0.60% | ~824 |
+| The King's Caprice | 0.60% | ~824 |
+| Big Game Hunting | 0.60% | ~824 |
+| For the Hoard! | 0.60% | ~824 |
+| Scrapbooker | 0.60% | ~824 |
+| Locally Sourced | 0.60% | ~824 |
+| Flying off the Shelves | 0.60% | ~824 |
+| This Power Level...! | 0.60% | ~824 |
+| Master of Transmutation | 0.60% | ~824 |
+| Hidden Potential | 0.60% | ~824 |
+| Expansion in Session | 0.60% | ~824 |
+| Cranked up to 11 | 0.60% | ~824 |
+| Mammonite | 0.60% | ~824 |
+| Miracle Alchemist | 0.60% | ~824 |
+| Laden with Loot | 0.60% | ~824 |
+| Seasoned Journeyman | 0.60% | ~824 |
+| Scourge of the Seas | 0.60% | ~824 |
+| Black Friday Special | 0.60% | ~824 |
+| Special Ingredient | 0.60% | ~824 |
+| Complete Monopoly | 0.60% | ~824 |
 | Cream of the Crop | 0.50% | ~686 |
 | Top of the World | 0.50% | ~686 |
 | Proud Paladin | 0.50% | ~686 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,247 (Ranked 73)  
+Progressed: 137,250 (Ranked 73)  
 Completed: 166 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 166 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,247 | 166 |
+| 2023-10-07 | 137,250 | 166 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,346 (Ranked 49)  

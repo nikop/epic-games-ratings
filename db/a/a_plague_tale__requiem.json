@@ -512,9 +512,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13487,
+  "EOS_Progressed": 13488,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9727,6 +9727,11 @@
       "Time": "2023-10-07T08:06:38.7280791+00:00",
       "NumProgressed": 13487,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-07T14:05:35.6638592+00:00",
+      "NumProgressed": 13488,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9738,7 +9743,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12408
+      "UsersEstimate": 12409
     },
     {
       "ID": "ACH_02",
@@ -9746,7 +9751,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10655
+      "UsersEstimate": 10656
     },
     {
       "ID": "ACH_03",
@@ -9754,7 +9759,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9980
+      "UsersEstimate": 9981
     },
     {
       "ID": "ACH_04",
@@ -9762,7 +9767,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9441
+      "UsersEstimate": 9442
     },
     {
       "ID": "ACH_05",
@@ -9770,7 +9775,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9171
+      "UsersEstimate": 9172
     },
     {
       "ID": "ACH_06",
@@ -9786,7 +9791,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8362
+      "UsersEstimate": 8363
     },
     {
       "ID": "ACH_08",
@@ -9794,7 +9799,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8227
+      "UsersEstimate": 8228
     },
     {
       "ID": "ACH_09",
@@ -9810,7 +9815,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7148
+      "UsersEstimate": 7149
     },
     {
       "ID": "ACH_11",
@@ -9842,7 +9847,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "ACH_15",
@@ -9898,7 +9903,7 @@
       "Name": "Immortal memories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_22",
@@ -9914,7 +9919,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "ACH_24",
@@ -9938,7 +9943,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH_27",
@@ -9946,7 +9951,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5799
+      "UsersEstimate": 5800
     },
     {
       "ID": "ACH_28",
@@ -9954,7 +9959,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9306
+      "UsersEstimate": 9307
     },
     {
       "ID": "ACH_29",
@@ -9962,7 +9967,7 @@
       "Name": "Sneaky",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_30",
@@ -10017,7 +10022,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13487,
+      "Progressed": 13488,
       "Completed": 49
     }
   ],
@@ -10025,8 +10030,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-06T02:59:26.9229795+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:07:27.6247175+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:05:35.6638586+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:02.3030751+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:01:48.8602558+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:07:27.6248007+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:59:45.6778032+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:05:35.6639631+00:00"
 }

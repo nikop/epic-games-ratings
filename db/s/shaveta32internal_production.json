@@ -2,9 +2,9 @@
   "ID": "ea9b3f58e1f14a92846f1194be80feea",
   "Name": "shaveta32internal Production",
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:02.5667838+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:01:27.1774557+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:08:30.4157416+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:59:27.1632599+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:06:28.4154039+00:00"
 }

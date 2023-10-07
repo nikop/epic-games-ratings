@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18294,
+  "EOS_Progressed": 18295,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
@@ -11246,6 +11246,11 @@
       "Time": "2023-10-07T13:06:35.1855455+00:00",
       "NumProgressed": 18294,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T14:04:53.4235282+00:00",
+      "NumProgressed": 18295,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11257,7 +11262,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     },
     {
       "ID": "0002",
@@ -11353,7 +11358,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "0014",
@@ -11393,7 +11398,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "0019",
@@ -11409,7 +11414,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "0021",
@@ -11544,7 +11549,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18294,
+      "Progressed": 18295,
       "Completed": 4
     }
   ],
@@ -11552,8 +11557,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:06:35.1855449+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:04:53.4235273+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:24.9696541+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:02:04.1380933+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:06:35.1856373+00:00"
+  "LastUpdate_Ratings": "2023-10-07T13:59:57.4587209+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:04:53.4237041+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 74,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3044,9 +3044,9 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16841,
+  "EOS_Progressed": 16842,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11634,6 +11634,11 @@
       "Time": "2023-10-07T13:05:21.1245231+00:00",
       "NumProgressed": 16841,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-07T14:03:41.0689945+00:00",
+      "NumProgressed": 16842,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11733,7 +11738,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinHard",
@@ -11925,7 +11930,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinOnMoorlands",
@@ -11981,7 +11986,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinWithResolve",
@@ -12021,7 +12026,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinWithoutOrders",
@@ -12044,15 +12049,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16841,
+      "Progressed": 16842,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-06T03:01:01.009308+00:00",
-  "LastChanged_Achievements": "2023-10-07T13:05:21.1245221+00:00",
+  "LastChanged_Achievements": "2023-10-07T14:03:41.0689937+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.2002266+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:03:18.3958023+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:05:21.1246208+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:01:01.6481431+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:03:41.0691698+00:00"
 }

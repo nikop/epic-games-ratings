@@ -20,11 +20,11 @@
 | Distance Devourer | 58.00% | ~63 |
 | Flawless Crystal | 55.00% | ~60 |
 | Helpful Heart | 55.00% | ~60 |
-| Counter Specialist | 51.00% | ~56 |
+| Counter Specialist | 53.00% | ~58 |
 | Bonds of Enmity | 50.00% | ~54 |
 | Axer of Auspice | 45.00% | ~49 |
+| Mighty Marmelizer | 42.00% | ~46 |
 | Single Minded | 41.00% | ~45 |
-| Mighty Marmelizer | 41.00% | ~45 |
 | Fair Means or Foul | 41.00% | ~45 |
 | Karakuri Trail | 40.00% | ~44 |
 | Kemono at Heart | 40.00% | ~44 |

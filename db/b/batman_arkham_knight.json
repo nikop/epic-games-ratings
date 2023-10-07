@@ -2,13 +2,13 @@
   "ID": "e5e30c728f1947759251eb5283ffa6e3",
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4808,10 +4808,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 9250,
       "NumberOfAwardsMax": 5890
+    },
+    {
+      "Time": "2023-10-07T14:00:40.384206+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9254,
+      "NumberOfAwardsMax": 5890
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9250,
+  "NumberOfAwards": 9254,
   "NumberOfAwardsMax": 5890,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4825,13 +4831,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 377
+      "Count": 379
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 427
+      "Count": 429
     },
     {
       "Text": "This game is Relaxing",
@@ -4893,8 +4899,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2023-10-06T21:01:25.3871641+00:00",
+  "LastChanged": "2023-10-07T14:00:40.3842057+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:02.7485289+00:00",
-  "LastUpdate_Ratings": "2023-10-07T13:02:55.7759092+00:00",
-  "LastUpdate_Achievements": "2023-10-07T13:08:58.5775011+00:00"
+  "LastUpdate_Ratings": "2023-10-07T14:00:40.3842066+00:00",
+  "LastUpdate_Achievements": "2023-10-07T14:06:55.9347347+00:00"
 }
