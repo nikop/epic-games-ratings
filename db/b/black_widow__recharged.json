@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18632,
+  "EOS_Progressed": 18633,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -13917,6 +13917,11 @@
       "Time": "2023-10-07T09:07:28.6779676+00:00",
       "NumProgressed": 18632,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-07T10:07:20.9547052+00:00",
+      "NumProgressed": 18633,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -13928,7 +13933,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14533
+      "UsersEstimate": 14534
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14032,22 +14037,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18632,
+      "Progressed": 18633,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:07:28.6779671+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:07:20.9547047+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:17.1558571+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:01:13.7220809+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:07:28.6780398+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:01:17.1927823+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:07:20.9547963+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3044,7 +3044,7 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16833,
+  "EOS_Progressed": 16834,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -11614,6 +11614,11 @@
       "Time": "2023-10-07T09:04:22.2977751+00:00",
       "NumProgressed": 16833,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-07T10:03:59.5170405+00:00",
+      "NumProgressed": 16834,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11945,7 +11950,7 @@
       "Name": "Treasure",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "WinWithBlight",
@@ -12024,15 +12029,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16833,
+      "Progressed": 16834,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-06T03:01:01.009308+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:04:22.2977746+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:03:59.51704+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:08.2002266+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:02:21.2888125+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:04:22.2978554+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:02:11.3711534+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:03:59.5171385+00:00"
 }

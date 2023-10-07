@@ -5,10 +5,10 @@
   "Ranking_Rating": 149,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7555,
+  "EOS_Progressed": 7557,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7269,6 +7269,11 @@
       "Time": "2023-10-07T09:04:25.6567568+00:00",
       "NumProgressed": 7555,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-07T10:04:02.6047099+00:00",
+      "NumProgressed": 7557,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7296,7 +7301,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -7328,7 +7333,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7447,7 +7452,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7555,
+      "Progressed": 7557,
       "Completed": 33
     }
   ],
@@ -7455,8 +7460,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:04:25.6567563+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:04:02.6047091+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:20.4912999+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:03:18.2095663+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:04:25.6568082+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:02:59.6895451+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:04:02.6047863+00:00"
 }

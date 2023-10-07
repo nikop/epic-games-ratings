@@ -30,8 +30,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.50% | ~72 |
 | Enlightened | 0.50% | ~72 |
 | Keystone | 0.50% | ~72 |
+| Magnificent | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
+| Lighthouse | 0.50% | ~72 |
 | Pyramids | 0.50% | ~72 |
 | Babylonian Paganism | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
@@ -39,13 +41,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.40% | ~58 |
 | Fountainhead | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
-| Magnificent | 0.40% | ~58 |
 | Warrior | 0.40% | ~58 |
 | Developing Cities | 0.40% | ~58 |
 | Strong Cities | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
 | Great Ziggurat | 0.40% | ~58 |
-| Lighthouse | 0.40% | ~58 |
+| Musaeum | 0.40% | ~58 |
+| Necropolis | 0.40% | ~58 |
 | Learn to Play 1 | 0.40% | ~58 |
 | Christianity | 0.40% | ~58 |
 | Roman Paganism | 0.40% | ~58 |
@@ -63,8 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.30% | ~43 |
 | Colossus | 0.30% | ~43 |
 | Mausoleum | 0.30% | ~43 |
-| Musaeum | 0.30% | ~43 |
-| Necropolis | 0.30% | ~43 |
 | Learn to Play 2 | 0.30% | ~43 |
 | Learn to Play 3 | 0.30% | ~43 |
 | Manichaeism | 0.30% | ~43 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
 | Power to the People | 0.20% | ~29 |
+| Assyrian Paganism | 0.20% | ~29 |
 | Persian Paganism | 0.20% | ~29 |
 | Building Wonders | 0.20% | ~29 |
 | Legalism | 0.20% | ~29 |
@@ -104,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
 | Win a Single Player Game | 0.20% | ~29 |
+| The Great Mage | 0.20% | ~29 |
 | Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -214,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~14 |
 | Play a Play-By-Cloud Game | 0.10% | ~14 |
 | Punic Wars | 0.10% | ~14 |
-| Assyrian Paganism | 0.10% | ~14 |
 | Hittite Paganism | 0.10% | ~14 |
 | Roman Papacy | 0.10% | ~14 |
 | Circus Maximus in Roma | 0.10% | ~14 |
@@ -249,7 +250,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~14 |
 | The Clergy | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
-| The Great Mage | 0.10% | ~14 |
 | Pilgrimage | 0.10% | ~14 |
 | Poetic Leader | 0.10% | ~14 |
 | Patriarch St Paul | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,461 (Ranked 134)  
+Progressed: 14,462 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-04 | 14,353 | 5 |
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
-| 2023-10-07 | 14,461 | 5 |
+| 2023-10-07 | 14,462 | 5 |
 ## Awards
 Max (Relaxing): 223  (Ranked 266)  
 Sum: 1,828 (Ranked 208)  

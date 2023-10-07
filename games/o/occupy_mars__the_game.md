@@ -32,7 +32,7 @@ Rating: 4.00 (Ranked 962)
 | Caveman | 1.00% | ~17 |
 | Planetary Defence | 1.00% | ~17 |
 | Thunderstruck | 1.00% | ~17 |
-| 5G Network | 0.70% | ~12 |
+| 5G Network | 0.80% | ~13 |
 | One does not simply... | 0.70% | ~12 |
 | Rover Mechanic | 0.50% | ~8 |
 | Bull’s eye | 0.40% | ~7 |

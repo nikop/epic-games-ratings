@@ -4246,9 +4246,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 246511,
+  "EOS_Progressed": 246512,
   "EOS_Completed": 849,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -22731,6 +22731,11 @@
       "Time": "2023-10-07T09:08:14.2545239+00:00",
       "NumProgressed": 246511,
       "NumCompleted": 849
+    },
+    {
+      "Time": "2023-10-07T10:08:15.2610765+00:00",
+      "NumProgressed": 246512,
+      "NumCompleted": 849
     }
   ],
   "TotalAchievements": 39,
@@ -22790,7 +22795,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73953
+      "UsersEstimate": 73954
     },
     {
       "ID": "AchievementBoulderID",
@@ -22806,7 +22811,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 224325
+      "UsersEstimate": 224326
     },
     {
       "ID": "AchievementClownID",
@@ -22910,7 +22915,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140511
+      "UsersEstimate": 140512
     },
     {
       "ID": "AchievementLootBoxID",
@@ -22942,7 +22947,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 93674
+      "UsersEstimate": 93675
     },
     {
       "ID": "AchievementRampID",
@@ -22974,7 +22979,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182418
+      "UsersEstimate": 182419
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -23014,7 +23019,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 135581
+      "UsersEstimate": 135582
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -23022,7 +23027,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 115860
+      "UsersEstimate": 115861
     },
     {
       "ID": "AchievementTrinketID",
@@ -23038,7 +23043,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 160232
+      "UsersEstimate": 160233
     },
     {
       "ID": "AchievementWhaleID",
@@ -23053,7 +23058,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246511,
+      "Progressed": 246512,
       "Completed": 849
     }
   ],
@@ -23061,8 +23066,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-06T22:01:47.815599+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:08:14.2545234+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:08:15.261076+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:06.2541754+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:02:09.9271894+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:08:14.2546363+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:02:01.3408085+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:08:15.2612131+00:00"
 }

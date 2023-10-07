@@ -14,6 +14,7 @@
 | Pulp! Terror Tales in the Night | 25.00% | ~3 |
 | Pulp! Where Monsters Dwell | 25.00% | ~3 |
 | A continent with chemistry | 25.00% | ~3 |
+| Kirlian's best disciple | 25.00% | ~3 |
 | Diagnosis: fear | 25.00% | ~3 |
 | Ambition is... blind | 25.00% | ~3 |
 | You have two wishes left | 25.00% | ~3 |
@@ -21,11 +22,12 @@
 | The seer | 17.00% | ~2 |
 | Pulp! Out of this World | 17.00% | ~2 |
 | Pulp! Adventures into the Unknown | 17.00% | ~2 |
-| Kirlian's best disciple | 17.00% | ~2 |
 | You had one wish left | 8.00% | ~1 |
+| Et in arcadia ego | 8.00% | ~1 |
 | Thirst for Oleum | 8.00% | ~1 |
 | The barbarian invasions | 8.00% | ~1 |
 | Vaccine fans | 8.00% | ~1 |
+| Welcome to Hellville | 8.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -33,7 +35,6 @@
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| Et in arcadia ego | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
 | The adventurer | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | America had no Faith | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
-| Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 307)  

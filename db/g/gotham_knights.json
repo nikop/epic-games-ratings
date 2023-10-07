@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3392,9 +3392,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73238,
+  "EOS_Progressed": 73240,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17867,6 +17867,11 @@
       "Time": "2023-10-07T09:07:26.8324261+00:00",
       "NumProgressed": 73238,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-07T10:07:19.2465775+00:00",
+      "NumProgressed": 73240,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17974,7 +17979,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     },
     {
       "ID": "CLAYFACE_1",
@@ -17998,7 +18003,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18062,7 +18067,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6591
+      "UsersEstimate": 6592
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18102,7 +18107,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21239
+      "UsersEstimate": 21240
     },
     {
       "ID": "FREEZE_1_5",
@@ -18118,7 +18123,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13915
+      "UsersEstimate": 13916
     },
     {
       "ID": "FREEZE_3",
@@ -18126,7 +18131,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18182,7 +18187,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25633
+      "UsersEstimate": 25634
     },
     {
       "ID": "HARLEY_2",
@@ -18222,7 +18227,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38084
+      "UsersEstimate": 38085
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18270,7 +18275,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24901
+      "UsersEstimate": 24902
     },
     {
       "ID": "MYSTERY_02",
@@ -18318,7 +18323,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10254
     },
     {
       "ID": "MYSTERY_08",
@@ -18342,7 +18347,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6591
+      "UsersEstimate": 6592
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -18365,13 +18370,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73238,
+      "Progressed": 73240,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43518,
+      "Progressed": 43520,
       "Completed": 2666
     }
   ],
@@ -18379,8 +18384,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T06:59:36.5163582+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:07:26.8324253+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:07:19.246577+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:59:28.4117054+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:07:26.832536+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:59:36.3416459+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:07:19.2467234+00:00"
 }

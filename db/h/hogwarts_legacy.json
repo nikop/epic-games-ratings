@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8634,9 +8634,9 @@
       "Count": 686
     }
   ],
-  "EOS_Progressed": 297931,
+  "EOS_Progressed": 297934,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26914,6 +26914,11 @@
       "Time": "2023-10-07T09:07:35.2422247+00:00",
       "NumProgressed": 297931,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-07T10:07:27.3139764+00:00",
+      "NumProgressed": 297934,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -26949,7 +26954,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32772
+      "UsersEstimate": 32773
     },
     {
       "ID": "PFA_13",
@@ -26973,7 +26978,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23834
+      "UsersEstimate": 23835
     },
     {
       "ID": "PFA_16",
@@ -26981,7 +26986,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32772
+      "UsersEstimate": 32773
     },
     {
       "ID": "PFA_17",
@@ -26997,7 +27002,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23834
+      "UsersEstimate": 23835
     },
     {
       "ID": "PFA_19",
@@ -27005,7 +27010,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23834
+      "UsersEstimate": 23835
     },
     {
       "ID": "PFA_2",
@@ -27053,7 +27058,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32772
+      "UsersEstimate": 32773
     },
     {
       "ID": "PFA_25",
@@ -27109,7 +27114,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32772
+      "UsersEstimate": 32773
     },
     {
       "ID": "PFA_31",
@@ -27229,7 +27234,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23834
+      "UsersEstimate": 23835
     },
     {
       "ID": "PFA_45",
@@ -27284,7 +27289,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297931,
+      "Progressed": 297934,
       "Completed": 482
     }
   ],
@@ -27292,8 +27297,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-06T23:57:12.5667474+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:07:35.2422243+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:07:27.3139759+00:00",
   "LastUpdate_AppInfo": "2023-09-30T11:57:13.309991+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:57:16.6145631+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:07:35.2423438+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:57:38.0311503+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:07:27.3141197+00:00"
 }

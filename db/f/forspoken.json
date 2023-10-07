@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 41874,
+  "EOS_Progressed": 41876,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10051,6 +10051,11 @@
       "Time": "2023-10-07T09:08:30.5339304+00:00",
       "NumProgressed": 41874,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-07T10:08:30.95078+00:00",
+      "NumProgressed": 41876,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10110,7 +10115,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4188
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10134,7 +10139,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -10142,7 +10147,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -10150,7 +10155,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -10254,7 +10259,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -10262,7 +10267,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -10310,7 +10315,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -10334,7 +10339,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "MONUMENT_ALL",
@@ -10350,7 +10355,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -10374,7 +10379,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -10414,7 +10419,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "STAYING_AIR",
@@ -10485,22 +10490,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41874,
+      "Progressed": 41876,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6711,
-      "Completed": 6711
+      "Progressed": 6713,
+      "Completed": 6713
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:08:30.5339295+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:08:30.9507793+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:02.0073557+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:58:18.6715513+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:08:30.5340132+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:58:27.2022891+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:08:30.9508842+00:00"
 }

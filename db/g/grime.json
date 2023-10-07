@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150839,
+  "EOS_Progressed": 150857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1190,
+  "EOS_NewPlayers": 1208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10809,6 +10809,11 @@
       "Time": "2023-10-07T09:05:58.1448941+00:00",
       "NumProgressed": 150839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T10:05:42.8090806+00:00",
+      "NumProgressed": 150857,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11090,9 +11095,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 754
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11187,21 +11192,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150422,
+      "Progressed": 150440,
       "Completed": 1146
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 150839,
+      "Progressed": 150857,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:05:58.1448934+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:05:42.8090802+00:00",
   "LastUpdate_AppInfo": "2023-09-30T14:57:10.7169959+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:02:44.5811518+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:05:58.1449688+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:02:28.2496331+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:05:42.8091787+00:00"
 }

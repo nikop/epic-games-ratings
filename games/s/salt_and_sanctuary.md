@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~443,908 |
-| The Three | 64.00% | ~342,291 |
-| The Banquet | 40.00% | ~213,932 |
-| Devara's Light | 31.00% | ~165,797 |
-| The Iron Ones | 18.00% | ~96,269 |
+| Find Sanctuary | 83.00% | ~443,911 |
+| The Three | 64.00% | ~342,292 |
+| The Banquet | 40.00% | ~213,933 |
+| Devara's Light | 31.00% | ~165,798 |
+| The Iron Ones | 18.00% | ~96,270 |
 | The Village | 16.00% | ~85,573 |
-| The Forest | 15.00% | ~80,224 |
+| The Forest | 15.00% | ~80,225 |
 | The Keep | 14.00% | ~74,876 |
 | Branded | 13.00% | ~69,528 |
 | The Imposter | 13.00% | ~69,528 |
-| The Castle | 11.00% | ~58,831 |
+| The Castle | 11.00% | ~58,832 |
 | The Dome | 9.00% | ~48,135 |
 | The Red Hall | 9.00% | ~48,135 |
-| The Sacrifice | 8.00% | ~42,786 |
+| The Sacrifice | 8.00% | ~42,787 |
 | The Cave | 7.00% | ~37,438 |
 | The Mire | 7.00% | ~37,438 |
 | The Stone Roots | 7.00% | ~37,438 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,090 |
 | The Lake | 6.00% | ~32,090 |
 | The Ruins | 6.00% | ~32,090 |
-| The Alkymancery | 5.00% | ~26,741 |
-| The Pitchwoods | 5.00% | ~26,741 |
+| The Alkymancery | 5.00% | ~26,742 |
+| The Pitchwoods | 5.00% | ~26,742 |
 | Honed | 4.00% | ~21,393 |
 | The House of Splendor | 4.00% | ~21,393 |
 | The Crypt | 4.00% | ~21,393 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,697 |
 | Fading Fast | 1.00% | ~5,348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,829 (Ranked 32)  
+Progressed: 534,832 (Ranked 32)  
 Completed: 1,564 (0.29%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 1,564 (0.29%) (Ranked 202)
 | 2023-10-04 | 534,661 | 1,562 |
 | 2023-10-05 | 534,720 | 1,563 |
 | 2023-10-06 | 534,803 | 1,564 |
-| 2023-10-07 | 534,829 | 1,564 |
+| 2023-10-07 | 534,832 | 1,564 |
 ## Awards
 Max (Challenging Combat): 284  (Ranked 246)  
-Sum: 1,964 (Ranked 205)  
+Sum: 1,965 (Ranked 205)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 41
 | This game has Diverse Characters | 243 |
 | This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 231 |
-| This game has Amazing Characters | 227 |
+| This game has Amazing Characters | 228 |
 | This game has Unique Visuals | 221 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -401,3 +401,4 @@ Diff (max vs sum): 41
 | 2023-09-29 | 4.61 | - | 284 | 1,962 |
 | 2023-09-30 | 4.61 | - | 284 | 1,963 |
 | 2023-10-06 | 4.61 | - | 284 | 1,964 |
+| 2023-10-07 | 4.61 | - | 284 | 1,965 |

@@ -18,6 +18,7 @@
 | A Link to the Past | 0.80% | ~2 |
 | Alchemists Express | 0.80% | ~2 |
 | Champollion | 0.80% | ~2 |
+| Scholar | 0.80% | ~2 |
 | A new dawn | 0.80% | ~2 |
 | One last step | 0.80% | ~2 |
 | I did it | 0.40% | ~1 |
@@ -25,7 +26,6 @@
 | Peace walker | 0.40% | ~1 |
 | A good beginning | 0.40% | ~1 |
 | True G3M4R | 0.40% | ~1 |
-| Scholar | 0.40% | ~1 |
 | The darkness | 0.40% | ~1 |
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |

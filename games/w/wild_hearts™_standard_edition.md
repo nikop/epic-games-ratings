@@ -37,10 +37,10 @@
 | Threaded Harmony | 30.00% | ~32 |
 | Style Seeker | 29.00% | ~31 |
 | Human Believer | 29.00% | ~31 |
+| Karakuri Fortress | 28.00% | ~30 |
 | Left Arm Leverager | 28.00% | ~30 |
 | Karakuri Minato | 28.00% | ~30 |
 | Canyon of Karakuri | 27.00% | ~29 |
-| Karakuri Fortress | 27.00% | ~29 |
 | Volatile Vocation | 26.00% | ~28 |
 | Jack of All Trades | 26.00% | ~28 |
 | Superlative View | 24.00% | ~26 |

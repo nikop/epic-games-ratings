@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 772,
+  "EOS_Progressed": 773,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2861,6 +2861,11 @@
       "Time": "2023-10-07T01:50:33.2233192+00:00",
       "NumProgressed": 772,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T10:09:34.0080268+00:00",
+      "NumProgressed": 773,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2936,7 +2941,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -2960,7 +2965,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "First",
@@ -3088,7 +3093,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "NotPlanned",
@@ -3184,7 +3189,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "TimeForManagement",
@@ -3200,21 +3205,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 772,
+      "Progressed": 773,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:10:05.0907297+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:09:34.0080264+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-07T09:02:36.1091689+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:10:05.0907677+00:00"
+  "LastUpdate_Ratings": "2023-10-07T10:02:24.3277732+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:09:34.0080757+00:00"
 }

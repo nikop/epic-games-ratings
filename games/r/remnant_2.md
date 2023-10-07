@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,202 |
-| The Killing Jar | 8.00% | ~15,290 |
-| Expanding Horizons | 7.00% | ~13,379 |
-| Quest for Survival | 7.00% | ~13,379 |
-| Not Your Average Trait | 7.00% | ~13,379 |
-| Gleaming the Cube | 6.00% | ~11,468 |
-| Not a Janitor | 6.00% | ~11,468 |
-| Familiar Face | 6.00% | ~11,468 |
-| Duality | 6.00% | ~11,468 |
-| Boss'n Up | 6.00% | ~11,468 |
-| Trait Chaser | 6.00% | ~11,468 |
-| Not So Special Now | 5.00% | ~9,556 |
-| Equal Measures | 5.00% | ~9,556 |
-| Blue Goddess | 5.00% | ~9,556 |
-| Top Performer | 5.00% | ~9,556 |
-| Shhh...It's a Secret | 5.00% | ~9,556 |
-| Almost There | 5.00% | ~9,556 |
-| Make Some Room | 5.00% | ~9,556 |
-| Good, But Could Be Better! | 5.00% | ~9,556 |
-| Chaos | 4.00% | ~7,645 |
-| Traitor | 4.00% | ~7,645 |
-| Forever is a Long Time Coming | 4.00% | ~7,645 |
-| Power Surge | 4.00% | ~7,645 |
-| The God Gambit | 4.00% | ~7,645 |
-| Dark Designs | 4.00% | ~7,645 |
-| Madman's Paradise | 4.00% | ~7,645 |
-| Was This Supposed To Happen? | 4.00% | ~7,645 |
-| The Web | 4.00% | ~7,645 |
-| Scrap Collector | 4.00% | ~7,645 |
-| All These Traits� | 4.00% | ~7,645 |
-| Am I Seeing This? | 3.00% | ~5,734 |
-| The Agenda | 3.00% | ~5,734 |
-| Tall Tales | 3.00% | ~5,734 |
-| Bad Moon Rising | 3.00% | ~5,734 |
-| Strapped | 3.00% | ~5,734 |
-| Edgelord | 3.00% | ~5,734 |
-| The Ultimate Weapon | 3.00% | ~5,734 |
-| No One Should Have All That Power | 3.00% | ~5,734 |
+| First of Many | 9.00% | ~17,205 |
+| The Killing Jar | 8.00% | ~15,294 |
+| Expanding Horizons | 7.00% | ~13,382 |
+| Quest for Survival | 7.00% | ~13,382 |
+| Not Your Average Trait | 7.00% | ~13,382 |
+| Gleaming the Cube | 6.00% | ~11,470 |
+| Not a Janitor | 6.00% | ~11,470 |
+| Familiar Face | 6.00% | ~11,470 |
+| Duality | 6.00% | ~11,470 |
+| Boss'n Up | 6.00% | ~11,470 |
+| Trait Chaser | 6.00% | ~11,470 |
+| Not So Special Now | 5.00% | ~9,558 |
+| Equal Measures | 5.00% | ~9,558 |
+| Blue Goddess | 5.00% | ~9,558 |
+| Top Performer | 5.00% | ~9,558 |
+| Shhh...It's a Secret | 5.00% | ~9,558 |
+| Almost There | 5.00% | ~9,558 |
+| Make Some Room | 5.00% | ~9,558 |
+| Good, But Could Be Better! | 5.00% | ~9,558 |
+| Chaos | 4.00% | ~7,647 |
+| Traitor | 4.00% | ~7,647 |
+| Forever is a Long Time Coming | 4.00% | ~7,647 |
+| Power Surge | 4.00% | ~7,647 |
+| The God Gambit | 4.00% | ~7,647 |
+| Dark Designs | 4.00% | ~7,647 |
+| Madman's Paradise | 4.00% | ~7,647 |
+| Was This Supposed To Happen? | 4.00% | ~7,647 |
+| The Web | 4.00% | ~7,647 |
+| Scrap Collector | 4.00% | ~7,647 |
+| All These Traits� | 4.00% | ~7,647 |
+| Am I Seeing This? | 3.00% | ~5,735 |
+| The Agenda | 3.00% | ~5,735 |
+| Tall Tales | 3.00% | ~5,735 |
+| Bad Moon Rising | 3.00% | ~5,735 |
+| Strapped | 3.00% | ~5,735 |
+| Edgelord | 3.00% | ~5,735 |
+| The Ultimate Weapon | 3.00% | ~5,735 |
+| No One Should Have All That Power | 3.00% | ~5,735 |
 | Crafty | 2.00% | ~3,823 |
 | Only Human | 2.00% | ~3,823 |
 | Red Room | 2.00% | ~3,823 |
@@ -51,13 +51,13 @@ Rating: 4.76 (Ranked 119)
 | Carnage in C-Minor | 2.00% | ~3,823 |
 | Maxed Out! | 2.00% | ~3,823 |
 | Transmutate | 2.00% | ~3,823 |
-| The Trigger | 1.00% | ~1,911 |
-| Cutting Edge | 1.00% | ~1,911 |
-| Proving Grounds | 1.00% | ~1,911 |
-| Ghost in the Machine | 0.90% | ~1,720 |
+| The Trigger | 1.00% | ~1,912 |
+| Cutting Edge | 1.00% | ~1,912 |
+| Proving Grounds | 1.00% | ~1,912 |
+| Ghost in the Machine | 0.90% | ~1,721 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,130 (Ranked 66)  
-Completed: 369 (0.19%) (Ranked 218)  
+Progressed: 191,169 (Ranked 66)  
+Completed: 370 (0.19%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 369 (0.19%) (Ranked 218)
 | 2023-10-04 | 190,094 | 359 |
 | 2023-10-05 | 190,476 | 363 |
 | 2023-10-06 | 190,955 | 367 |
-| 2023-10-07 | 191,130 | 369 |
+| 2023-10-07 | 191,169 | 370 |
 ## Awards
 Max (Great Boss Battles): 1,794  (Ranked 115)  
 Sum: 3,792 (Ranked 153)  

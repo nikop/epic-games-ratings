@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -1080,9 +1080,9 @@
       "ID": "Statue Collector Intermediate",
       "SetID": "1fffk9d",
       "Name": "10 Suicide Guy statues",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "Statue Collector Master",
@@ -1127,8 +1127,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-10-07T09:09:43.0443521+00:00",
+  "LastChanged_Achievements": "2023-10-07T10:09:32.2505938+00:00",
   "LastUpdate_AppInfo": "2023-10-04T05:57:06.7931855+00:00",
-  "LastUpdate_Ratings": "2023-10-07T08:59:38.1907615+00:00",
-  "LastUpdate_Achievements": "2023-10-07T09:09:43.044366+00:00"
+  "LastUpdate_Ratings": "2023-10-07T09:59:47.4423505+00:00",
+  "LastUpdate_Achievements": "2023-10-07T10:09:32.250609+00:00"
 }
