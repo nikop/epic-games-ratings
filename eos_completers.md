@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.34% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.27% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -26,7 +26,7 @@
 | 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.28% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 26 | [Remains](games/r/remains.md) | 12.00% |
-| 27 | [Anna's Quest](games/a/anna's_quest.md) | 11.76% |
+| 27 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
 | 28 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 30 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
@@ -43,7 +43,7 @@
 | 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
@@ -66,18 +66,18 @@
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.00% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.99% |
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.86% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.73% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.74% |
 | 72 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.67% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.40% |
 | 76 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 77 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 78 | [Doodle God](games/d/doodle_god.md) | 3.32% |
+| 78 | [Doodle God](games/d/doodle_god.md) | 3.31% |
 | 79 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
 | 80 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
 | 81 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
@@ -151,7 +151,7 @@
 | 149 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 150 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 151 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
-| 152 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.66% |
+| 152 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.65% |
 | 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 155 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
