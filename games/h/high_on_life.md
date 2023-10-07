@@ -10,6 +10,7 @@ Rating: 4.64 (Ranked 318)
 | First Bounty Down | 0.40% | ~97 |
 | G3 Graduation | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
+| Who's The Boss? | 0.40% | ~97 |
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Bathe With A Giant Nude Alien | 0.40% | ~6 |
 | Creature Feature | 0.30% | ~72 |
@@ -19,7 +20,6 @@ Rating: 4.64 (Ranked 318)
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |
 | Hardest Battle In The Game | 0.30% | ~72 |
-| Who's The Boss? | 0.30% | ~72 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,139 (Ranked 119)  
+Progressed: 24,141 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 13 (0.05%) (Ranked 265)
 | 2023-10-04 | 24,118 | 12 |
 | 2023-10-05 | 24,122 | 13 |
 | 2023-10-06 | 24,133 | 13 |
-| 2023-10-07 | 24,139 | 13 |
+| 2023-10-07 | 24,141 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

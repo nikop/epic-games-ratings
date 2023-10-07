@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1475,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2975,6 +2975,11 @@
       "Time": "2023-10-07T09:04:56.3532119+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T22:03:38.7078469+00:00",
+      "NumProgressed": 1475,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2986,7 +2991,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Auditor",
@@ -3018,7 +3023,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "Commandos",
@@ -3042,7 +3047,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Defense_Epic",
@@ -3066,7 +3071,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "Everyone_is_here",
@@ -3082,7 +3087,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Game_Over",
@@ -3114,7 +3119,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "High_noon",
@@ -3162,7 +3167,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Miner",
@@ -3170,7 +3175,7 @@
       "Name": "Bomberman",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "MoskitoBite",
@@ -3178,7 +3183,7 @@
       "Name": "Mosquito bite",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Scout",
@@ -3202,7 +3207,7 @@
       "Name": "War Never Changes",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "We_were_not_here",
@@ -3218,22 +3223,22 @@
       "Name": "Your Answer",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1475,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:03:50.3628697+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:03:38.7078462+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:58:40.424445+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:03:50.3629002+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:58:38.7008888+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:03:38.7078769+00:00"
 }

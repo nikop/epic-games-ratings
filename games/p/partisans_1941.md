@@ -6,27 +6,27 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 41.00% | ~604 |
-| War Never Changes | 41.00% | ~604 |
+| E1M1 | 41.00% | ~605 |
+| War Never Changes | 41.00% | ~605 |
 | Grenadier | 40.00% | ~590 |
-| Heroes Never Die | 37.00% | ~545 |
-| Mosquito bite | 34.00% | ~501 |
+| Heroes Never Die | 37.00% | ~546 |
+| Mosquito bite | 34.00% | ~502 |
 | Spice It Up | 31.00% | ~457 |
-| Agent 47 | 26.00% | ~383 |
-| Bomberman | 26.00% | ~383 |
-| You're Gonna Go Far, Kid | 25.00% | ~368 |
+| Agent 47 | 26.00% | ~384 |
+| Bomberman | 26.00% | ~384 |
+| You're Gonna Go Far, Kid | 25.00% | ~369 |
 | Death to the Oppressor! | 19.00% | ~280 |
 | The Gang's All Here | 15.00% | ~221 |
-| One by One | 14.00% | ~206 |
-| Your Answer | 14.00% | ~206 |
+| One by One | 14.00% | ~207 |
+| Your Answer | 14.00% | ~207 |
 | The Big Bertha | 12.00% | ~177 |
 | Game Over | 11.00% | ~162 |
 | Lock, Stock | 8.00% | ~118 |
 | Payback Time | 7.00% | ~103 |
 | No Witness | 5.00% | ~74 |
 | Strategist | 4.00% | ~59 |
-| Unbreakable Wall | 2.00% | ~29 |
-| Experienced Strategist | 2.00% | ~29 |
+| Unbreakable Wall | 2.00% | ~30 |
+| Experienced Strategist | 2.00% | ~30 |
 | Do a Barrel Roll! | 1.00% | ~15 |
 | How?! | 1.00% | ~15 |
 | Tough as Nails | 0.50% | ~7 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~1 |
 | Scout | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,474 (Ranked 217)  
+Progressed: 1,475 (Ranked 217)  
 Completed: 1 (0.07%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 1 (0.07%) (Ranked 255)
 | 2023-10-04 | 1,471 | 1 |
 | 2023-10-05 | 1,472 | 1 |
 | 2023-10-06 | 1,473 | 1 |
-| 2023-10-07 | 1,474 | 1 |
+| 2023-10-07 | 1,475 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 75.00% | ~12 |
 | Master trainee | 69.00% | ~11 |
-| Jung's dream | 44.00% | ~7 |
-| The battle of Great Britain | 44.00% | ~7 |
+| Jung's dream | 50.00% | ~8 |
+| The battle of Great Britain | 50.00% | ~8 |
 | Giant | 38.00% | ~6 |
+| Pulp! Terror Tales in the Night | 31.00% | ~5 |
+| Pulp! Where Monsters Dwell | 31.00% | ~5 |
+| A continent with chemistry | 31.00% | ~5 |
 | The happy farmer girl | 31.00% | ~5 |
 | The artist | 25.00% | ~4 |
-| Pulp! Terror Tales in the Night | 25.00% | ~4 |
-| Pulp! Where Monsters Dwell | 25.00% | ~4 |
-| A continent with chemistry | 25.00% | ~4 |
 | Kirlian's best disciple | 25.00% | ~4 |
 | Diagnosis: fear | 25.00% | ~4 |
 | Ambition is... blind | 25.00% | ~4 |
@@ -28,10 +28,10 @@
 | Et in arcadia ego | 13.00% | ~2 |
 | Vaccine fans | 13.00% | ~2 |
 | Welcome to Hellville | 13.00% | ~2 |
+| Blessed antennas | 6.00% | ~1 |
 | The bully | 6.00% | ~1 |
 | Thirst for Oleum | 6.00% | ~1 |
 | The barbarian invasions | 6.00% | ~1 |
-| Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |

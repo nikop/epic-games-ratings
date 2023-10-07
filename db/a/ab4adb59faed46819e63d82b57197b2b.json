@@ -2,9 +2,9 @@
   "ID": "ab4adb59faed46819e63d82b57197b2b",
   "Name": "The Crackpet Show: Happy Tree Friends Edition",
   "ProductSlug": "the-crackpet-show-0bf5c4",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -80,6 +80,11 @@
     {
       "Time": "2023-10-06T06:06:20.9643816+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T22:06:15.7492599+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -147,7 +152,7 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -195,7 +200,7 @@
       "ID": "DO_N_RUNS_0",
       "SetID": "dcng643",
       "Name": "Newbie",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -203,7 +208,7 @@
       "ID": "DO_N_RUNS_1",
       "SetID": "dcng643",
       "Name": "Rookie",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -251,9 +256,9 @@
       "ID": "FINISH_TUTORIAL",
       "SetID": "dcng643",
       "Name": "Good Student",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FLAWLESS_BOSS_KILL",
@@ -267,7 +272,7 @@
       "ID": "GET_HIT_N_TIMES",
       "SetID": "dcng643",
       "Name": "Meat Shield",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "GET_KILLED_BY_SPIKE",
       "SetID": "dcng643",
       "Name": "Trapper!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -291,7 +296,7 @@
       "ID": "GET_N_LIKES_0",
       "SetID": "dcng643",
       "Name": "Rising Star",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -323,7 +328,7 @@
       "ID": "KILL_999_AUDIENCE",
       "SetID": "dcng643",
       "Name": "I don\u2019t like crowds",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -339,7 +344,7 @@
       "ID": "KILL_BOSS_1",
       "SetID": "dcng643",
       "Name": "Toad Slayer",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -363,7 +368,7 @@
       "ID": "KILL_BOSS_12",
       "SetID": "dcng643",
       "Name": "Dewormed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -411,7 +416,7 @@
       "ID": "KILL_BOSS_2",
       "SetID": "dcng643",
       "Name": "Sludge Cleaner",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -427,7 +432,7 @@
       "ID": "KILL_BOSS_4",
       "SetID": "dcng643",
       "Name": "Holy Moly",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -435,7 +440,7 @@
       "ID": "KILL_BOSS_5",
       "SetID": "dcng643",
       "Name": "Fitless",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -475,7 +480,7 @@
       "ID": "KILL_BOSS_WITHOUT_DASH",
       "SetID": "dcng643",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -491,7 +496,7 @@
       "ID": "KILL_N_ENEMIES",
       "SetID": "dcng643",
       "Name": "Rambo",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -627,7 +632,7 @@
       "ID": "SELL_WEAPON",
       "SetID": "dcng643",
       "Name": "Free Marketer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -699,7 +704,7 @@
       "ID": "UNLOCK_SKIN",
       "SetID": "dcng643",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -723,7 +728,7 @@
       "ID": "USE_N_SPECIALS",
       "SetID": "dcng643",
       "Name": "MacGyver",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 105,
       "UsersEstimate": 2
     },
@@ -739,7 +744,7 @@
       "ID": "WIN_EPISODE_WITH_HALF_HEART",
       "SetID": "dcng643",
       "Name": "Close call",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 2
     }
@@ -748,14 +753,14 @@
     {
       "ID": "dcng643",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:06:17.1043482+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:06:15.7492594+00:00",
   "LastUpdate_AppInfo": "2023-10-05T18:57:12.9442719+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:59:39.0260703+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:06:17.104435+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:59:36.4303173+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:06:15.74933+00:00"
 }

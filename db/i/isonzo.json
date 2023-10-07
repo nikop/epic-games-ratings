@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7033,
+  "EOS_Progressed": 7034,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6043,6 +6043,11 @@
       "Time": "2023-10-07T12:09:08.2825808+00:00",
       "NumProgressed": 7033,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-07T22:05:24.9587192+00:00",
+      "NumProgressed": 7034,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6166,7 +6171,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6382,7 +6387,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6404,16 +6409,16 @@
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
       "SetID": "akchbl3",
       "Name": "You Shall Not Pass",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3728
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7033,
+      "Progressed": 7034,
       "Completed": 8
     }
   ],
@@ -6421,8 +6426,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:05:26.7015741+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:05:24.9587187+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.1752865+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:57:50.6999228+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:05:26.70163+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:57:48.4444802+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:05:24.9587725+00:00"
 }

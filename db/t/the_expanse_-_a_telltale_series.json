@@ -6,8 +6,8 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13699,
+  "EOS_Progressed": 13706,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7984,6 +7984,11 @@
       "Time": "2023-10-07T21:06:12.1410956+00:00",
       "NumProgressed": 13699,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-07T22:06:10.2765859+00:00",
+      "NumProgressed": 13706,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8180,7 +8185,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "4",
@@ -8202,9 +8207,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "7",
@@ -8218,9 +8223,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "9",
@@ -8235,7 +8240,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13699,
+      "Progressed": 13706,
       "Completed": 17
     }
   ],
@@ -8243,8 +8248,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:06:12.141095+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:06:10.2765854+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:57:09.0320881+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:06:12.1411495+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:57:09.4566092+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:06:10.276639+00:00"
 }

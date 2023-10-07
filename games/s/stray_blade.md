@@ -15,8 +15,8 @@
 | Expert | 18.00% | ~16 |
 | Searing Heat | 15.00% | ~14 |
 | Nothing but the Truth | 15.00% | ~14 |
+| The Power of the Mountains | 14.00% | ~13 |
 | The Golden Flash | 13.00% | ~12 |
-| The Power of the Mountains | 13.00% | ~12 |
 | Locked and Loaded | 11.00% | ~10 |
 | Changing the World | 11.00% | ~10 |
 | Witch | 10.00% | ~9 |

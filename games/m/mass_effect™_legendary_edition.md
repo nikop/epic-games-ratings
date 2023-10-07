@@ -10,7 +10,7 @@
 | Recruit | 71.00% | ~423 |
 | Search and Rescue | 71.00% | ~423 |
 | Quarian Ally | 69.00% | ~411 |
-| Medal of Heroism | 66.00% | ~393 |
+| Medal of Heroism | 67.00% | ~399 |
 | Honorarium of Corporate Service | 66.00% | ~393 |
 | Medal of Exploration II | 59.00% | ~352 |
 | Council Legion of Merit | 58.00% | ~346 |
@@ -42,8 +42,8 @@
 | Colony Defense | 35.00% | ~209 |
 | The Convict | 35.00% | ~209 |
 | The Krogan | 35.00% | ~209 |
+| Galactic Explorer | 35.00% | ~209 |
 | Archivist | 34.00% | ~203 |
-| Galactic Explorer | 34.00% | ~203 |
 | Broke, Blind, and Bedlam | 33.00% | ~197 |
 | Ghost Ship | 32.00% | ~191 |
 | The Assassin | 32.00% | ~191 |
@@ -74,13 +74,13 @@
 | Mission Accomplished | 26.00% | ~155 |
 | Suicide Mission | 26.00% | ~155 |
 | Against All Odds | 26.00% | ~155 |
-| Untouchable | 24.00% | ~143 |
+| Untouchable | 25.00% | ~149 |
 | Eye of the Hurricane | 24.00% | ~143 |
 | Giant Killer | 24.00% | ~143 |
 | A House Divided | 24.00% | ~143 |
 | Weapon Specialist | 24.00% | ~143 |
 | World Shaker | 24.00% | ~143 |
-| Liberator | 23.00% | ~137 |
+| Liberator | 24.00% | ~143 |
 | Pathfinder | 22.00% | ~131 |
 | Tunnel Rat | 22.00% | ~131 |
 | Arbiter | 22.00% | ~131 |
@@ -95,9 +95,9 @@
 | Electronics Specialist | 18.00% | ~107 |
 | Sabotage Specialist | 18.00% | ~107 |
 | Hard Target | 18.00% | ~107 |
+| Saboteur | 18.00% | ~107 |
 | Under Pressure | 17.00% | ~101 |
 | Last Resort | 17.00% | ~101 |
-| Saboteur | 17.00% | ~101 |
 | Last Witness | 17.00% | ~101 |
 | Well Connected | 16.00% | ~95 |
 | Throw Mastery | 15.00% | ~89 |

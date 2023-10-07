@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6777,
+  "EOS_Progressed": 6778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6762,6 +6762,11 @@
       "Time": "2023-10-07T17:06:16.3082653+00:00",
       "NumProgressed": 6777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T22:05:16.7172191+00:00",
+      "NumProgressed": 6778,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6877,7 +6882,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5354
+      "UsersEstimate": 5355
     },
     {
       "ID": "First_Race_Met",
@@ -6885,7 +6890,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "First_Ship_Designed",
@@ -6909,7 +6914,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6989,7 +6994,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "Play_1000_Hours",
@@ -7109,7 +7114,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "War_Without_Translator",
@@ -7348,15 +7353,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6777,
+      "Progressed": 6778,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:05:18.5350797+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:05:16.7172187+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:57:39.4708978+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:05:18.5351681+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:57:36.9779016+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:05:16.7173091+00:00"
 }

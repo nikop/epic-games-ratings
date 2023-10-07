@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~22,997 |
-| Wallbanger | 5.00% | ~22,997 |
-| Exploitative | 4.00% | ~18,398 |
-| High Speed Low Drag | 4.00% | ~18,398 |
-| Wet Feet | 4.00% | ~18,398 |
-| Checkpoint Victory | 3.00% | ~13,798 |
-| Lucky | 3.00% | ~13,798 |
-| Stylin' | 3.00% | ~13,798 |
-| Turf War | 3.00% | ~13,798 |
+| Point Shooting | 5.00% | ~22,999 |
+| Wallbanger | 5.00% | ~22,999 |
+| Exploitative | 4.00% | ~18,399 |
+| High Speed Low Drag | 4.00% | ~18,399 |
+| Wet Feet | 4.00% | ~18,399 |
+| Checkpoint Victory | 3.00% | ~13,799 |
+| Lucky | 3.00% | ~13,799 |
+| Stylin' | 3.00% | ~13,799 |
+| Turf War | 3.00% | ~13,799 |
 | Banged | 2.00% | ~9,199 |
 | First Blood | 2.00% | ~9,199 |
 | Flaccid Paralysis | 2.00% | ~9,199 |
 | Push Victory | 2.00% | ~9,199 |
 | Self-destructive | 2.00% | ~9,199 |
-| Blindfire | 1.00% | ~4,599 |
-| Ruthless | 1.00% | ~4,599 |
-| Semper Paratus | 1.00% | ~4,599 |
-| Carrying | 0.90% | ~4,139 |
-| Efficient | 0.90% | ~4,139 |
-| Mount & Gun | 0.90% | ~4,139 |
-| Personal | 0.90% | ~4,139 |
+| Blindfire | 1.00% | ~4,600 |
+| Ruthless | 1.00% | ~4,600 |
+| Semper Paratus | 1.00% | ~4,600 |
+| Carrying | 0.90% | ~4,140 |
+| Efficient | 0.90% | ~4,140 |
+| Mount & Gun | 0.90% | ~4,140 |
+| Personal | 0.90% | ~4,140 |
 | Grounded | 0.80% | ~3,680 |
 | Play to Win | 0.80% | ~3,680 |
 | #1 | 0.70% | ~3,220 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~460 |
 | Road Hazard | 0.10% | ~460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,943 (Ranked 38)  
+Progressed: 459,973 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,10 +212,10 @@ Completed: 2 (0.00%) (Ranked 308)
 | 2023-10-04 | 459,005 | 2 |
 | 2023-10-05 | 459,302 | 2 |
 | 2023-10-06 | 459,607 | 2 |
-| 2023-10-07 | 459,943 | 2 |
+| 2023-10-07 | 459,973 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 386  (Ranked 224)  
-Sum: 3,045 (Ranked 169)  
+Sum: 3,046 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 55
 | This game has Realistic Visuals | 324 |
 | This game has Amazing Characters | 320 |
 | This game has Amazing Storytelling | 318 |
-| This game has a Competitive Community | 287 |
+| This game has a Competitive Community | 288 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -480,4 +480,4 @@ Diff (max vs sum): 55
 | 2023-10-02 | 4.62 | - | 385 | 3,035 |
 | 2023-10-04 | 4.62 | - | 385 | 3,038 |
 | 2023-10-05 | 4.62 | - | 385 | 3,044 |
-| 2023-10-07 | 4.62 | - | 386 | 3,045 |
+| 2023-10-07 | 4.62 | - | 386 | 3,046 |

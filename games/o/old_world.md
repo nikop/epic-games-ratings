@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.70% | ~101 |
 | Naming Landmarks | 0.70% | ~101 |
 | Trade Caravan | 0.70% | ~101 |
+| Enlightened | 0.60% | ~87 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
-| Enlightened | 0.50% | ~72 |
 | Fountainhead | 0.50% | ~72 |
 | Magnificent | 0.50% | ~72 |
 | Warrior | 0.50% | ~72 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
 | Babylonia | 0.20% | ~29 |
+| Carthage | 0.20% | ~29 |
 | Greece | 0.20% | ~29 |
 | Power to the People | 0.20% | ~29 |
 | Assyrian Paganism | 0.20% | ~29 |
@@ -207,7 +208,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
 | Assyria | 0.10% | ~14 |
-| Carthage | 0.10% | ~14 |
 | Egypt | 0.10% | ~14 |
 | Hatti | 0.10% | ~14 |
 | Persia | 0.10% | ~14 |

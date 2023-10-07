@@ -2,12 +2,12 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -256,9 +256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230714,
+  "EOS_Progressed": 230718,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17916,6 +17916,11 @@
       "Time": "2023-10-07T21:04:56.5848198+00:00",
       "NumProgressed": 230714,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T22:04:54.4177212+00:00",
+      "NumProgressed": 230718,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -17991,7 +17996,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83057
+      "UsersEstimate": 83058
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -18071,7 +18076,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78443
+      "UsersEstimate": 78444
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -18087,7 +18092,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50757
+      "UsersEstimate": 50758
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -18095,7 +18100,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6921
+      "UsersEstimate": 6922
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -18135,7 +18140,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39221
+      "UsersEstimate": 39222
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -18150,7 +18155,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230714,
+      "Progressed": 230718,
       "Completed": 5
     }
   ],
@@ -18158,8 +18163,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-07T21:04:56.5848188+00:00",
+  "LastChanged_Achievements": "2023-10-07T22:04:54.4177209+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.3872151+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:59:43.2492437+00:00",
-  "LastUpdate_Achievements": "2023-10-07T21:04:56.5849217+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:59:40.3853767+00:00",
+  "LastUpdate_Achievements": "2023-10-07T22:04:54.4178122+00:00"
 }
