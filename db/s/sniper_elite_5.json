@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3704,
+  "EOS_Progressed": 3705,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7085,6 +7085,11 @@
       "Time": "2023-10-07T05:04:37.3344945+00:00",
       "NumProgressed": 3704,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-07T08:05:38.7706352+00:00",
+      "NumProgressed": 3705,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7304,7 +7309,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7344,7 +7349,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7408,7 +7413,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7432,7 +7437,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7663,13 +7668,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3655,
+      "Progressed": 3656,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3704,
+      "Progressed": 3705,
       "Completed": 11
     }
   ],
@@ -7677,8 +7682,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:04:42.8305047+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:05:38.7706347+00:00",
   "LastUpdate_AppInfo": "2023-09-30T09:57:00.1893099+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:01:57.5309879+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:04:42.8306156+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:02:31.9618116+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:05:38.7707453+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,8 +1042,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:09:25.2317623+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:10:29.5913724+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:41.7617742+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:03:26.3126349+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:09:25.231875+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:04:19.694393+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:10:29.5914866+00:00"
 }

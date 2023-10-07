@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 115,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -762,9 +762,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -1010,9 +1010,9 @@
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "Mining Shaft!",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
@@ -1081,8 +1081,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:05:38.0953893+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:06:37.3116353+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:02:58.5791284+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:05:38.0955029+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:03:42.8380919+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:06:37.3117443+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.14 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~88,502 |
-| May the Torchbearer light our way | 34.00% | ~81,326 |
-| A powerful aura was here | 22.00% | ~52,623 |
-| Let's raise the stakes!! | 9.00% | ~21,528 |
-| Your wounds… They are healing so fast! | 5.00% | ~11,960 |
-| Rumors are true | 4.00% | ~9,568 |
-| Pride is a sin, young Knight | 4.00% | ~9,568 |
-| Bring it on! | 4.00% | ~9,568 |
-| We'll be careful | 3.00% | ~7,176 |
-| Back to your senses | 2.00% | ~4,784 |
-| They tricked me | 1.00% | ~2,392 |
-| We need to talk | 1.00% | ~2,392 |
-| They won't last long | 1.00% | ~2,392 |
-| I took a risk | 1.00% | ~2,392 |
-| I feel drawn to it | 0.80% | ~1,914 |
-| Their fate is sealed | 0.60% | ~1,435 |
-| Here to stay | 0.50% | ~1,196 |
-| Counting on you | 0.50% | ~1,196 |
-| This is the end | 0.40% | ~957 |
-| We can choose to fight | 0.40% | ~957 |
-| You want more? I've got more! | 0.40% | ~957 |
+| The touch of Chaos | 37.00% | ~88,605 |
+| May the Torchbearer light our way | 34.00% | ~81,421 |
+| A powerful aura was here | 22.00% | ~52,684 |
+| Let's raise the stakes!! | 9.00% | ~21,553 |
+| Your wounds… They are healing so fast! | 5.00% | ~11,974 |
+| Rumors are true | 4.00% | ~9,579 |
+| Pride is a sin, young Knight | 4.00% | ~9,579 |
+| Bring it on! | 4.00% | ~9,579 |
+| We'll be careful | 3.00% | ~7,184 |
+| Back to your senses | 2.00% | ~4,789 |
+| They tricked me | 1.00% | ~2,395 |
+| We need to talk | 1.00% | ~2,395 |
+| They won't last long | 1.00% | ~2,395 |
+| I took a risk | 1.00% | ~2,395 |
+| I feel drawn to it | 0.80% | ~1,916 |
+| Here to stay | 0.60% | ~1,437 |
+| Their fate is sealed | 0.60% | ~1,437 |
+| Counting on you | 0.50% | ~1,197 |
+| This is the end | 0.50% | ~1,197 |
+| We can choose to fight | 0.40% | ~958 |
+| You want more? I've got more! | 0.40% | ~958 |
 | Not even from this world | 0.30% | ~718 |
 | No damsels in distress | 0.10% | ~239 |
 | The immortal is bound to reborn | 0.10% | ~239 |
@@ -46,7 +46,7 @@ Rating: 4.14 (Ranked 921)
 | We strike as one | 0.10% | ~239 |
 | Chaos be damned! | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,195 (Ranked 53)  
+Progressed: 239,474 (Ranked 53)  
 Completed: 1 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,14 +60,14 @@ Completed: 1 (0.00%) (Ranked 307)
 | 2023-10-04 | 207,599 | 1 |
 | 2023-10-05 | 227,187 | 1 |
 | 2023-10-06 | 236,994 | 1 |
-| 2023-10-07 | 239,195 | 1 |
+| 2023-10-07 | 239,474 | 1 |
 ## Awards
-Max (Character Customization): 31  (Ranked 469)  
-Sum: 31 (Ranked 487)  
-Diff (max vs sum): -18  
+Max (Character Customization): 37  (Ranked 447)  
+Sum: 37 (Ranked 479)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 31 |
+| This game has Inclusive Character Customization | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -78,4 +78,4 @@ Diff (max vs sum): -18
 | 2023-10-04 | 4.07 | 0 | 0 |
 | 2023-10-05 | 4.10 | 25 | 25 |
 | 2023-10-06 | 4.13 | 31 | 31 |
-| 2023-10-07 | 4.14 | 31 | 31 |
+| 2023-10-07 | 4.14 | 37 | 37 |

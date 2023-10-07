@@ -10,7 +10,7 @@ Rating: 4.47 (Ranked 620)
 | Departure | 73.00% | ~1,449 |
 | From X to Y | 72.00% | ~1,429 |
 | Way of Iron | 70.00% | ~1,390 |
-| Mystery Tour | 68.00% | ~1,350 |
+| Mystery Tour | 69.00% | ~1,370 |
 | We brake for nobody | 67.00% | ~1,330 |
 | Brainstorm | 65.00% | ~1,290 |
 | Mind the Gap | 65.00% | ~1,290 |
@@ -49,8 +49,8 @@ Rating: 4.47 (Ranked 620)
 | Max Power | 14.00% | ~278 |
 | A new Hope | 11.00% | ~218 |
 | Tycoon | 11.00% | ~218 |
-| Unstoppable | 8.00% | ~159 |
-| Track to the Future | 8.00% | ~159 |
+| Unstoppable | 9.00% | ~179 |
+| Track to the Future | 9.00% | ~179 |
 | Call of Duty | 8.00% | ~159 |
 | Conductor | 6.00% | ~119 |
 | Engineer | 4.00% | ~79 |

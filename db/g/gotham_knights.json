@@ -3392,9 +3392,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73233,
+  "EOS_Progressed": 73236,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17857,6 +17857,11 @@
       "Time": "2023-10-07T06:08:26.7816742+00:00",
       "NumProgressed": 73233,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-07T08:08:23.3448943+00:00",
+      "NumProgressed": 73236,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -17972,7 +17977,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15379
+      "UsersEstimate": 15380
     },
     {
       "ID": "CLAYFACE_2",
@@ -18012,7 +18017,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -18028,7 +18033,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9520
+      "UsersEstimate": 9521
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -18076,7 +18081,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9520
+      "UsersEstimate": 9521
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18084,7 +18089,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "FREEZE_1",
@@ -18100,7 +18105,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15379
+      "UsersEstimate": 15380
     },
     {
       "ID": "FREEZE_2",
@@ -18108,7 +18113,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13914
+      "UsersEstimate": 13915
     },
     {
       "ID": "FREEZE_3",
@@ -18172,7 +18177,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25632
+      "UsersEstimate": 25633
     },
     {
       "ID": "HARLEY_2",
@@ -18180,7 +18185,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18308
+      "UsersEstimate": 18309
     },
     {
       "ID": "HARLEY_3",
@@ -18196,7 +18201,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11717
+      "UsersEstimate": 11718
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18212,7 +18217,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38081
+      "UsersEstimate": 38083
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18244,7 +18249,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20505
+      "UsersEstimate": 20506
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18260,7 +18265,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24899
+      "UsersEstimate": 24900
     },
     {
       "ID": "MYSTERY_02",
@@ -18268,7 +18273,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18308
+      "UsersEstimate": 18309
     },
     {
       "ID": "MYSTERY_03",
@@ -18355,13 +18360,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73233,
+      "Progressed": 73236,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43513,
+      "Progressed": 43516,
       "Completed": 2666
     }
   ],
@@ -18369,8 +18374,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T06:59:36.5163582+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:07:32.1965133+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:08:23.3448937+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:45.7071215+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:59:36.5163588+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:07:32.1966526+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:59:39.8527062+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:08:23.3450383+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1152,6 +1152,11 @@
       "Time": "2023-09-28T16:03:29.0580167+00:00",
       "NumProgressed": 362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T08:08:37.4166053+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1379,7 +1384,7 @@
       "Name": "The spiritual world...",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FAITH_2",
@@ -1547,7 +1552,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1683,7 +1688,7 @@
       "Name": "Sport is good for you",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SPORTS_2",
@@ -1794,7 +1799,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
@@ -1802,8 +1807,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:07:43.2450346+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:08:37.4166047+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:08.0473325+00:00",
-  "LastUpdate_Ratings": "2023-10-07T06:59:02.6372772+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:07:43.2451304+00:00"
+  "LastUpdate_Ratings": "2023-10-07T07:58:56.1745942+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:08:37.4166995+00:00"
 }

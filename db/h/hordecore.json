@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "7",
       "SetID": "1530e6b",
       "Name": "Blow \u2018Em Up",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "8",
@@ -413,8 +413,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:09:29.9890782+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:10:35.7424202+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:01.2472558+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:00:11.9352411+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:09:29.9890986+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:00:26.0269984+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:10:35.7424421+00:00"
 }

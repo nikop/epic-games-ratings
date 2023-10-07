@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 507)  
+Rating: 4.55 (Ranked 488)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.54 (Ranked 507)
 | Drug Gifter | 3.00% | ~410 |
 | The Pit and the Pirates | 2.00% | ~273 |
 | Drone Dodger | 2.00% | ~273 |
+| Call it Even | 2.00% | ~273 |
 | Bosmang | 2.00% | ~273 |
 | Impossible Objects | 2.00% | ~273 |
 | Data Archivist | 1.00% | ~137 |
@@ -16,14 +17,13 @@ Rating: 4.54 (Ranked 507)
 | Martian Music | 1.00% | ~137 |
 | Heal Thy Medic | 1.00% | ~137 |
 | Khan's Revenge | 1.00% | ~137 |
-| Call it Even | 1.00% | ~137 |
 | Captain Drummer | 1.00% | ~137 |
 | Celebrations are in Order | 1.00% | ~137 |
 | Stogie for Fogey | 0.90% | ~123 |
+| Thorston Mayer | 0.60% | ~82 |
 | Miraculous Maya | 0.60% | ~82 |
 | Doctor Approved | 0.50% | ~68 |
 | Bottoms up! | 0.50% | ~68 |
-| Thorston Mayer | 0.50% | ~68 |
 | No Belter Left Behind | 0.40% | ~55 |
 | Data Logger | 0.30% | ~41 |
 | Brother's Reaper | 0.30% | ~41 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 507)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,661 (Ranked 135)  
+Progressed: 13,662 (Ranked 135)  
 Completed: 15 (0.11%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 15 (0.11%) (Ranked 239)
 | 2023-10-04 | 13,553 | 4 |
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
-| 2023-10-07 | 13,661 | 15 |
+| 2023-10-07 | 13,662 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -137,3 +137,4 @@ Completed: 15 (0.11%) (Ranked 239)
 | 2023-09-30 | 4.56 | 0 | 0 |
 | 2023-10-01 | 4.53 | 0 | 0 |
 | 2023-10-06 | 4.54 | 0 | 0 |
+| 2023-10-07 | 4.55 | 0 | 0 |

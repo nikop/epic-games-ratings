@@ -3,11 +3,11 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 451,
+  "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3555,
+  "EOS_Progressed": 3556,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5059,6 +5059,11 @@
       "Time": "2023-10-07T05:07:06.8276915+00:00",
       "NumProgressed": 3555,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T08:07:43.4771969+00:00",
+      "NumProgressed": 3556,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5110,7 +5115,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "CrowdPleaser",
@@ -5188,9 +5193,9 @@
       "ID": "LegacyOfaMasterHunter_55",
       "SetID": "c4hee28",
       "Name": "Legacy of a master hunter",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "LetEmEatMagma",
@@ -5278,7 +5283,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5294,7 +5299,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5324,9 +5329,9 @@
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 462
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5334,7 +5339,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5390,7 +5395,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5405,15 +5410,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3555,
+      "Progressed": 3556,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:07:09.2298711+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:07:43.4771964+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:51.4959055+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:03:30.3162676+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:07:09.2299306+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:04:28.6762146+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:07:43.4772577+00:00"
 }

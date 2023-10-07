@@ -1797,9 +1797,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14458,
+  "EOS_Progressed": 14460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13187,6 +13187,11 @@
       "Time": "2023-10-07T07:04:17.2377276+00:00",
       "NumProgressed": 14458,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T08:05:05.912483+00:00",
+      "NumProgressed": 14460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13748,9 +13753,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -13788,9 +13793,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -15933,21 +15938,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14458,
+      "Progressed": 14460,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14458,
+      "Progressed": 14460,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T00:02:52.9861823+00:00",
-  "LastChanged_Achievements": "2023-10-07T07:04:17.2377272+00:00",
+  "LastChanged_Achievements": "2023-10-07T08:05:05.9124823+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-07T07:02:29.2468434+00:00",
-  "LastUpdate_Achievements": "2023-10-07T07:04:17.2388644+00:00"
+  "LastUpdate_Ratings": "2023-10-07T08:03:08.3146733+00:00",
+  "LastUpdate_Achievements": "2023-10-07T08:05:05.9137603+00:00"
 }

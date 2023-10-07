@@ -33,7 +33,7 @@
 | Karakuri Isle | 34.00% | ~37 |
 | Artful Assister | 33.00% | ~36 |
 | Team Hunter | 32.00% | ~35 |
-| Unrivaled in Arms | 30.00% | ~32 |
+| Unrivaled in Arms | 31.00% | ~33 |
 | Threaded Harmony | 30.00% | ~32 |
 | Style Seeker | 29.00% | ~31 |
 | Human Believer | 29.00% | ~31 |
