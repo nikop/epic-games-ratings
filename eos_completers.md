@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.44% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 57.34% |
+| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.67% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
@@ -41,14 +41,14 @@
 | 39 | [Sonic Origins](games/s/sonic_origins.md) | 7.88% |
 | 40 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.58% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.42% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
-| 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.82% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
+| 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.64% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -100,11 +100,11 @@
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
 | 100 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.31% |
+| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.30% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 105 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 106 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.92% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.90% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -215,8 +215,8 @@
 | 213 | [Blanc](games/b/blanc.md) | 0.22% |
 | 213 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 215 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 215 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.21% |
-| 217 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
+| 216 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
+| 216 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.20% |
 | 218 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 218 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
 | 218 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
