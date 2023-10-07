@@ -5,6 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stellar Dismantler | 15.00% | ~7 |
+| Apian Champion | 15.00% | ~7 |
+| Lacertian Champion | 15.00% | ~7 |
+| Noctuan Champion | 15.00% | ~7 |
 | Dicesmithing Time! | 13.00% | ~6 |
 | Endless Tricks | 13.00% | ~6 |
 | Loyal Partner | 13.00% | ~6 |
@@ -12,21 +15,19 @@
 | Meissa's Savior | 13.00% | ~6 |
 | Purification Pioneer | 13.00% | ~6 |
 | Wild's Keeper | 13.00% | ~6 |
-| Apian Champion | 13.00% | ~6 |
-| Lacertian Champion | 13.00% | ~6 |
-| Noctuan Champion | 13.00% | ~6 |
+| Eridanian Champion | 13.00% | ~6 |
 | Mind Illuminator | 11.00% | ~5 |
 | Sanctuary Guardian | 11.00% | ~5 |
 | Unbeatable | 11.00% | ~5 |
-| Eridanian Champion | 11.00% | ~5 |
 | Anomaly Destroyer | 9.00% | ~4 |
 | Shard Spender | 9.00% | ~4 |
+| Behenian Champion | 9.00% | ~4 |
 | Astral Adventurer | 7.00% | ~3 |
 | Can't touch this | 7.00% | ~3 |
 | Sadistic Plan | 7.00% | ~3 |
 | Star Killer | 7.00% | ~3 |
 | Stellar Haste | 7.00% | ~3 |
-| Behenian Champion | 7.00% | ~3 |
+| Aquarian Champion | 7.00% | ~3 |
 | Anomaly Control | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | Denying Destiny | 4.00% | ~2 |
@@ -36,7 +37,8 @@
 | Sentinelphobic | 4.00% | ~2 |
 | The Corruption Goddess | 4.00% | ~2 |
 | Wave Bender | 4.00% | ~2 |
-| Aquarian Champion | 4.00% | ~2 |
+| Apian Hero | 4.00% | ~2 |
+| Behenian Mastery | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
@@ -54,10 +56,9 @@
 | The Goddes Avatar | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
-| Apian Hero | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
 | Aquarian Mastery | 2.00% | ~1 |
-| Behenian Mastery | 2.00% | ~1 |
+| Behenian Hero | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
 | Lacertian Hero | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
@@ -99,7 +100,6 @@
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
-| Behenian Hero | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

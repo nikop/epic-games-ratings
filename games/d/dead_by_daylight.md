@@ -7,8 +7,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It wakes | 0.70% | ~6,463 |
-| Zealous | 0.60% | ~5,539 |
-| Skillful | 0.60% | ~5,539 |
+| Zealous | 0.60% | ~5,540 |
+| Skillful | 0.60% | ~5,540 |
 | Not half bad | 0.50% | ~4,616 |
 | Apt Survivor | 0.50% | ~4,616 |
 | Survival Treasures | 0.50% | ~4,616 |
@@ -34,36 +34,36 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 0.30% | ~2,770 |
 | Preemptive Strike | 0.30% | ~2,770 |
 | Humanitarian | 0.30% | ~2,770 |
-| Blood on your hands | 0.20% | ~1,846 |
-| Escape Artist | 0.20% | ~1,846 |
-| Made it out alive! | 0.20% | ~1,846 |
-| Apt Killer | 0.20% | ~1,846 |
-| Vulture | 0.20% | ~1,846 |
-| II | 0.20% | ~1,846 |
-| III | 0.20% | ~1,846 |
-| III-50 | 0.20% | ~1,846 |
-| All Aboard | 0.20% | ~1,846 |
-| Item of Obsession | 0.20% | ~1,846 |
-| House of Pain | 0.20% | ~1,846 |
-| Holiday Get-Together | 0.20% | ~1,846 |
-| Near-Death Experience | 0.20% | ~1,846 |
-| Cherish your Life | 0.20% | ~1,846 |
-| Unforgettable Getaway | 0.20% | ~1,846 |
-| Cutting Out | 0.20% | ~1,846 |
-| First to the Punch | 0.20% | ~1,846 |
-| Operation: Survival | 0.20% | ~1,846 |
-| Old West Oasis | 0.20% | ~1,846 |
-| Classy Act | 0.20% | ~1,846 |
-| Every Last Drop | 0.20% | ~1,846 |
-| Raccoon City Recruit | 0.20% | ~1,846 |
-| With Scars to Show | 0.20% | ~1,846 |
-| Flight to Freedom | 0.20% | ~1,846 |
-| A Fast Death | 0.20% | ~1,846 |
-| Lifting The Fog | 0.20% | ~1,846 |
-| Chorus of Chaos | 0.20% | ~1,846 |
-| One More Step | 0.20% | ~1,846 |
-| Second Act | 0.20% | ~1,846 |
-| MU/TH/UR Dearest | 0.20% | ~1,846 |
+| Second Act | 0.30% | ~2,770 |
+| Blood on your hands | 0.20% | ~1,847 |
+| Escape Artist | 0.20% | ~1,847 |
+| Made it out alive! | 0.20% | ~1,847 |
+| Apt Killer | 0.20% | ~1,847 |
+| Vulture | 0.20% | ~1,847 |
+| II | 0.20% | ~1,847 |
+| III | 0.20% | ~1,847 |
+| III-50 | 0.20% | ~1,847 |
+| All Aboard | 0.20% | ~1,847 |
+| Item of Obsession | 0.20% | ~1,847 |
+| House of Pain | 0.20% | ~1,847 |
+| Holiday Get-Together | 0.20% | ~1,847 |
+| Near-Death Experience | 0.20% | ~1,847 |
+| Cherish your Life | 0.20% | ~1,847 |
+| Unforgettable Getaway | 0.20% | ~1,847 |
+| Cutting Out | 0.20% | ~1,847 |
+| First to the Punch | 0.20% | ~1,847 |
+| Operation: Survival | 0.20% | ~1,847 |
+| Old West Oasis | 0.20% | ~1,847 |
+| Classy Act | 0.20% | ~1,847 |
+| Every Last Drop | 0.20% | ~1,847 |
+| Raccoon City Recruit | 0.20% | ~1,847 |
+| With Scars to Show | 0.20% | ~1,847 |
+| Flight to Freedom | 0.20% | ~1,847 |
+| A Fast Death | 0.20% | ~1,847 |
+| Lifting The Fog | 0.20% | ~1,847 |
+| Chorus of Chaos | 0.20% | ~1,847 |
+| One More Step | 0.20% | ~1,847 |
+| MU/TH/UR Dearest | 0.20% | ~1,847 |
 | A bite for the Entity | 0.10% | ~923 |
 | A feast for the Entity | 0.10% | ~923 |
 | Blood on your face | 0.10% | ~923 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~923 |
 | Adept Ripley | 0.10% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923,217 (Ranked 14)  
+Progressed: 923,300 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -406,7 +406,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-04 | 919,208 | 49 |
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
-| 2023-10-07 | 923,217 | 49 |
+| 2023-10-07 | 923,300 | 49 |
 ## Awards
 Max (Diverse Characters): 33,543  (Ranked 15)  
 Sum: 259,916 (Ranked 13)  

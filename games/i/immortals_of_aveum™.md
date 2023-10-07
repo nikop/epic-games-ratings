@@ -21,15 +21,15 @@ Rating: 4.03 (Ranked 959)
 | The Means to Save It | 30.00% | ~20 |
 | Resilience to Sin | 25.00% | ~17 |
 | A Familiar Nest | 22.00% | ~15 |
+| Armsman | 22.00% | ~15 |
 | Periapt Alizarin | 22.00% | ~15 |
-| Armsman | 21.00% | ~14 |
-| Geas Aristeya | 19.00% | ~13 |
+| Geas Aristeya | 21.00% | ~14 |
 | A Perfect Cycle | 16.00% | ~11 |
 | Recruit | 16.00% | ~11 |
+| Good Boy | 13.00% | ~9 |
 | Lights Army | 12.00% | ~8 |
 | Periapt Viridian | 12.00% | ~8 |
 | Shroudfane Explorer | 12.00% | ~8 |
-| Good Boy | 12.00% | ~8 |
 | Armaments Gules | 10.00% | ~7 |
 | Periapt Cerulean | 10.00% | ~7 |
 | Scholar | 9.00% | ~6 |

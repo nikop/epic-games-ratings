@@ -986,9 +986,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -1081,8 +1081,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:06:30.5579241+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:05:06.3624381+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:03:31.9753125+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:06:30.5581239+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:02:21.9292504+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:05:06.3625486+00:00"
 }

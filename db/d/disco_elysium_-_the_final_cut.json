@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129406,
+  "EOS_Progressed": 129407,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18348,6 +18348,11 @@
       "Time": "2023-10-07T03:05:37.7234222+00:00",
       "NumProgressed": 129406,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-07T04:04:19.0365828+00:00",
+      "NumProgressed": 129407,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18415,7 +18420,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18423,7 +18428,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10352
+      "UsersEstimate": 10353
     },
     {
       "ID": "ACH_COP_DORK",
@@ -18678,15 +18683,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129406,
+      "Progressed": 129407,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-06T18:58:57.1340203+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:05:37.7234216+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:04:19.0365824+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:51.0811102+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:59:45.1390157+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:05:37.7236517+00:00"
+  "LastUpdate_Ratings": "2023-10-07T03:59:18.3654867+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:04:19.0367151+00:00"
 }

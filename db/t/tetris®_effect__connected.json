@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 31,
   "Ranking_Popularity": 302,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 401,
@@ -691,10 +691,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 502,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2023-10-07T04:02:30.6686315+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 502,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -708,7 +714,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -732,13 +738,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
@@ -756,7 +762,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -774,7 +780,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -788,8 +794,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-09-23T20:59:33.7146099+00:00",
+  "LastChanged": "2023-10-07T04:02:30.6686313+00:00",
   "LastUpdate_AppInfo": "2023-09-30T12:59:11.0388679+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:03:40.4845181+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:10:11.6090271+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:02:30.6686322+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:08:33.3452825+00:00"
 }

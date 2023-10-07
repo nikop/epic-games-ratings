@@ -31,8 +31,8 @@
 | Oh My Gourd | 15.00% | ~39 |
 | Quit Horsin' Around | 12.00% | ~37 |
 | Summers Here | 12.00% | ~31 |
+| Perfect | 11.00% | ~28 |
 | Fresh Pancake | 10.00% | ~31 |
-| Perfect | 10.00% | ~26 |
 | Quadsparagus | 10.00% | ~26 |
 | Expert Survivor | 9.00% | ~23 |
 | Bring Home The Bacon | 8.00% | ~25 |

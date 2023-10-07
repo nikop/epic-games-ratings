@@ -1797,9 +1797,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14452,
+  "EOS_Progressed": 14453,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13172,6 +13172,11 @@
       "Time": "2023-10-07T03:04:46.0199412+00:00",
       "NumProgressed": 14452,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T04:03:23.5133755+00:00",
+      "NumProgressed": 14453,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13565,9 +13570,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -14061,9 +14066,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -14501,9 +14506,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -14997,9 +15002,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -15918,21 +15923,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14452,
+      "Progressed": 14453,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14452,
+      "Progressed": 14453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T00:02:52.9861823+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:04:46.0199407+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:03:23.5133751+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:18.3277208+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:03:02.0144476+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:04:46.0213054+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:01:50.5524625+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:03:23.5145166+00:00"
 }

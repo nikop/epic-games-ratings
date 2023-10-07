@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -181,7 +181,7 @@
   "Tags": [],
   "EOS_Progressed": 250052,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16120,9 +16120,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 35007
+      "UsersEstimate": 37508
     },
     {
       "ID": "myFirstRunbow",
@@ -16265,8 +16265,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:06:09.2005543+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:04:40.559687+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:58:52.0889647+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:59:53.7497245+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:06:09.2007957+00:00"
+  "LastUpdate_Ratings": "2023-10-07T03:59:24.1298561+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:04:40.5598356+00:00"
 }

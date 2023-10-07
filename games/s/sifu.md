@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 0.40% | ~99 |
+| Diligence as a goal | 0.50% | ~124 |
 | The Old Grandmaster | 0.30% | ~2,147 |
 | The Assault | 0.30% | ~2,147 |
 | The Hateful Pole Fighter | 0.30% | ~2,147 |
@@ -239,12 +239,12 @@ Completed: 12,914 (1.80%) (Ranked 113)
 | 2023-10-06 | 715,532 | 12,912 |
 | 2023-10-07 | 715,535 | 12,914 |
 ## Awards
-Max (Great Boss Battles): 6,639  (Ranked 54)  
-Sum: 11,508 (Ranked 83)  
+Max (Great Boss Battles): 6,644  (Ranked 54)  
+Sum: 11,513 (Ranked 83)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,639 |
+| This game has Great Boss Battles | 6,644 |
 | This game has Diverse Characters | 619 |
 | This game has Challenging Combat | 574 |
 | This game has Amazing Storytelling | 560 |
@@ -522,3 +522,4 @@ Diff (max vs sum): -29
 | 2023-10-04 | 4.82 | - | 6,635 | 11,494 |
 | 2023-10-05 | 4.82 | - | 6,639 | 11,504 |
 | 2023-10-06 | 4.82 | - | 6,639 | 11,508 |
+| 2023-10-07 | 4.82 | - | 6,644 | 11,513 |

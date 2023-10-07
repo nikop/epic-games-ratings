@@ -6,13 +6,13 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~536,594 |
-| Every story has a beginning | 36.00% | ~241,467 |
-| The first of many | 31.00% | ~207,930 |
-| Positive word of mouth | 18.00% | ~120,734 |
-| Lawn in the U.S.A. | 15.00% | ~100,611 |
-| Blade Runner | 9.00% | ~60,367 |
-| Credible | 7.00% | ~46,952 |
+| The dream begins | 80.00% | ~536,600 |
+| Every story has a beginning | 36.00% | ~241,470 |
+| The first of many | 31.00% | ~207,932 |
+| Positive word of mouth | 18.00% | ~120,735 |
+| Lawn in the U.S.A. | 15.00% | ~100,612 |
+| Blade Runner | 9.00% | ~60,368 |
+| Credible | 7.00% | ~46,953 |
 | Teamwork makes the dream work | 6.00% | ~40,245 |
 | Where there's muck there's brass | 4.00% | ~26,830 |
 | Bigger and better | 4.00% | ~26,830 |
@@ -38,10 +38,10 @@ Number of Ratings: 5,086  (23.09.2022)
 | Cut Loose | 0.40% | ~2,683 |
 | Esteemed | 0.40% | ~2,683 |
 | Hard times | 0.30% | ~2,012 |
-| Zero to hero | 0.20% | ~1,341 |
-| In it for the long haul | 0.20% | ~1,341 |
-| Centurion | 0.20% | ~1,341 |
-| Distinguished | 0.20% | ~1,341 |
+| Zero to hero | 0.20% | ~1,342 |
+| In it for the long haul | 0.20% | ~1,342 |
+| Centurion | 0.20% | ~1,342 |
+| Distinguished | 0.20% | ~1,342 |
 | Amateur mower | 0.10% | ~671 |
 | Expert mower | 0.10% | ~671 |
 | Professional mower | 0.10% | ~671 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~671 |
 | Mo mowers, mo problems | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,742 (Ranked 24)  
+Progressed: 670,750 (Ranked 24)  
 Completed: 17 (0.00%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 17 (0.00%) (Ranked 307)
 | 2023-10-04 | 670,258 | 17 |
 | 2023-10-05 | 670,484 | 17 |
 | 2023-10-06 | 670,704 | 17 |
-| 2023-10-07 | 670,742 | 17 |
+| 2023-10-07 | 670,750 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 286)  
 Sum: 982 (Ranked 250)  

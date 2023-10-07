@@ -2,12 +2,12 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 333,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -256,7 +256,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230672,
+  "EOS_Progressed": 230673,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
@@ -17846,6 +17846,11 @@
       "Time": "2023-10-07T03:06:48.7033781+00:00",
       "NumProgressed": 230672,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-07T04:05:19.4645597+00:00",
+      "NumProgressed": 230673,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -18001,7 +18006,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78428
+      "UsersEstimate": 78429
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -18080,7 +18085,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230672,
+      "Progressed": 230673,
       "Completed": 5
     }
   ],
@@ -18088,8 +18093,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:06:48.7033774+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:05:19.4645593+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:59:49.6808102+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:01:52.7799099+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:06:48.703558+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:00:55.8036278+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:05:19.4646841+00:00"
 }

@@ -149,9 +149,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 70,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "cold_feet",
@@ -165,9 +165,9 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "drowned_sorrows",
@@ -197,9 +197,9 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "josh_the_saviour",
@@ -356,8 +356,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:10:44.4245763+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:09:15.9008748+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:56:59.9075633+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:01:32.5219732+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:10:44.4246088+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:00:39.6533281+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:09:15.9008947+00:00"
 }

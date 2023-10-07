@@ -103,7 +103,7 @@
 | Throw Mastery | 15.00% | ~86 |
 | Master and Commander | 15.00% | ~86 |
 | Mail Slot | 14.00% | ~81 |
-| Executioner | 13.00% | ~75 |
+| Executioner | 14.00% | ~81 |
 | Patriot | 13.00% | ~75 |
 | Legend | 13.00% | ~75 |
 | Barrier Mastery | 11.00% | ~63 |

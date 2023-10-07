@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "23",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:04:39.9160592+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:03:19.1701731+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.0672584+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:02:39.595287+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:04:39.9162023+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:01:34.0819283+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:03:19.17025+00:00"
 }

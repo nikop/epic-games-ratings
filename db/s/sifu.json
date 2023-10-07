@@ -6730,18 +6730,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11508,
       "NumberOfAwardsMax": 6639
+    },
+    {
+      "Time": "2023-10-07T03:58:04.3514672+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11513,
+      "NumberOfAwardsMax": 6644
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11508,
-  "NumberOfAwardsMax": 6639,
+  "NumberOfAwards": 11513,
+  "NumberOfAwardsMax": 6644,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6639
+      "Count": 6644
     },
     {
       "Text": "This game is Extremely Fun",
@@ -22483,9 +22489,9 @@
       "ID": "44_Arena_3Stamps",
       "SetID": "14c2oii",
       "Name": "Diligence as a goal",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 124
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -22632,9 +22638,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-06T18:57:44.2690369+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:05:57.952566+00:00",
+  "LastChanged": "2023-10-07T03:58:04.3514671+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:04:32.9455333+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:42.751401+00:00",
-  "LastUpdate_Ratings": "2023-10-07T02:58:15.7529507+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:05:57.9528354+00:00"
+  "LastUpdate_Ratings": "2023-10-07T03:58:04.3514677+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:04:32.9456845+00:00"
 }

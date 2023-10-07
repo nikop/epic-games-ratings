@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -414,9 +414,9 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:07:08.8696067+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:05:33.3058106+00:00",
   "LastUpdate_AppInfo": "2023-09-30T13:57:12.405433+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:02:30.0746443+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:07:08.8696228+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:01:25.0182935+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:05:33.305827+00:00"
 }

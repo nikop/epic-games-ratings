@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "MEM_XXI",
       "SetID": "35d3i7a",
       "Name": "Obstetric tenderness.",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEM_XXII",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-07T03:08:17.1588956+00:00",
+  "LastChanged_Achievements": "2023-10-07T04:06:31.3050167+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:10.9934771+00:00",
-  "LastUpdate_Ratings": "2023-10-07T03:00:58.5638288+00:00",
-  "LastUpdate_Achievements": "2023-10-07T03:08:17.1589816+00:00"
+  "LastUpdate_Ratings": "2023-10-07T04:00:18.1958627+00:00",
+  "LastUpdate_Achievements": "2023-10-07T04:06:31.3050683+00:00"
 }
