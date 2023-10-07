@@ -90,7 +90,7 @@
 | 83 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 184 | 284 |
 | 83 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,483 | 103 |
 | 83 | [Sailing Era](games/s/sailing_era.md) | 4.80 | 0 | 527 |
-| 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 344 |
+| 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 345 |
 | 83 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 491 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 527 |
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,528 | 123 |
@@ -177,9 +177,9 @@
 | 163 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 527 |
 | 163 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 527 |
 | 163 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 527 |
-| 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 669 | 182 |
+| 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 670 | 181 |
 | 179 | [Cave Story+](games/c/cave_story+.md) | 4.72 | 109 | 337 |
-| 179 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 101 | 344 |
+| 179 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 102 | 343 |
 | 179 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 502 | 203 |
 | 179 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 437 |
 | 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 375 |
@@ -466,7 +466,7 @@
 | 452 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 527 |
 | 452 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 527 |
 | 452 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,018 | 82 |
-| 452 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,755 | 20 |
+| 452 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,765 | 20 |
 | 452 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,781 | 117 |
 | 452 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 527 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 71 | 384 |
@@ -613,7 +613,7 @@
 | 608 | [MythForce](games/m/mythforce.md) | 4.48 | 34 | 458 |
 | 608 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 442 |
 | 608 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 527 |
-| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 564,905 | 2 |
+| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 565,953 | 2 |
 | 608 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 527 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 527 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 340 |
@@ -907,18 +907,18 @@
 | 902 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 527 |
 | 906 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 527 |
 | 906 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 186 |
-| 906 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 0 | 527 |
 | 906 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 527 |
 | 906 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 23 | 510 |
 | 906 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 290 |
 | 906 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 527 |
-| 913 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 527 |
-| 913 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 527 |
-| 913 | [Forspoken](games/f/forspoken.md) | 4.15 | 28 | 478 |
-| 913 | [Pine](games/p/pine.md) | 4.15 | 0 | 527 |
-| 913 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 277 |
-| 913 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 527 |
-| 913 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 527 |
+| 912 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 527 |
+| 912 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 527 |
+| 912 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.15 | 0 | 527 |
+| 912 | [Forspoken](games/f/forspoken.md) | 4.15 | 28 | 478 |
+| 912 | [Pine](games/p/pine.md) | 4.15 | 0 | 527 |
+| 912 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 277 |
+| 912 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 527 |
+| 912 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 527 |
 | 920 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 527 |
 | 920 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.14 | 0 | 527 |
 | 920 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 484 |
@@ -928,9 +928,9 @@
 | 924 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 527 |
 | 924 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.13 | 31 | 468 |
 | 928 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 527 |
-| 929 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 359 |
-| 929 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
-| 929 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.10 | 0 | 527 |
+| 929 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.11 | 0 | 527 |
+| 930 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 359 |
+| 930 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
 | 932 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 527 |
 | 932 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 527 |
 | 932 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 527 |

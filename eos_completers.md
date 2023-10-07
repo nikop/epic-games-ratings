@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.57% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.52% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -39,7 +39,7 @@
 | 37 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 38 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 39 | [Sonic Origins](games/s/sonic_origins.md) | 7.89% |
-| 40 | [Ravenlok](games/r/ravenlok.md) | 7.71% |
+| 40 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 41 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.46% |
@@ -71,7 +71,7 @@
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.77% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.71% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.72% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.41% |
@@ -133,7 +133,7 @@
 | 131 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 132 | [Infindustry](games/i/infindustry.md) | 1.09% |
 | 132 | [Trifox](games/t/trifox.md) | 1.09% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 136 | [Adios](games/a/adios.md) | 1.04% |
 | 137 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
@@ -169,24 +169,24 @@
 | 167 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 167 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 169 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
-| 170 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
-| 171 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 171 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
-| 171 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 171 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 171 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
-| 171 | [Them and Us](games/t/them_and_us.md) | 0.46% |
-| 177 | [Tchia](games/t/tchia.md) | 0.44% |
-| 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.41% |
-| 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 180 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
-| 180 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 184 | [Dead Space](games/d/dead_space.md) | 0.37% |
-| 184 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 184 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.37% |
+| 170 | [Dead Space](games/d/dead_space.md) | 0.49% |
+| 171 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
+| 172 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 172 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
+| 172 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 172 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 172 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
+| 172 | [Them and Us](games/t/them_and_us.md) | 0.46% |
+| 178 | [Tchia](games/t/tchia.md) | 0.44% |
+| 179 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.41% |
+| 180 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 181 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
+| 181 | [Train Valley](games/t/train_valley.md) | 0.39% |
+| 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 185 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 185 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.37% |
 | 188 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 188 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 190 | [Wildermyth](games/w/wildermyth.md) | 0.35% |
@@ -655,4 +655,4 @@
 | 307 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 307 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 307 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,357 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,358 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
