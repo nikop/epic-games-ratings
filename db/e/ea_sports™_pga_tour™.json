@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1115,9 +1115,9 @@
       "ID": "achievement_3",
       "SetID": "7ldgi7j",
       "Name": "A Passion for Excellence",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_4",
@@ -1177,8 +1177,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:06:01.3242627+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:05:08.2574394+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:15.0584503+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:59:52.2804081+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:06:01.3242788+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:59:17.0376466+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:05:08.2574546+00:00"
 }

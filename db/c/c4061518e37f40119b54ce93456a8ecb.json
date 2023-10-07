@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "ACH_AllZenItems",
       "SetID": "aao9n96",
       "Name": "I\u0027m curious what makes you so curious",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_AllenEnding",
@@ -148,9 +148,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_Beacon",
@@ -220,25 +220,25 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_GraceEnding",
@@ -364,9 +364,9 @@
       "ID": "ACH_TransitWorking",
       "SetID": "aao9n96",
       "Name": "It\u0027s working! It\u0027s working!",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_WeatherStations",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:09:24.706326+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:09:05.7279078+00:00",
   "LastUpdate_AppInfo": "2023-10-04T02:14:34.6241828+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:56:59.8563407+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:09:24.7063491+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:57:11.7675872+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:09:05.7279306+00:00"
 }

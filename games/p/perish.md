@@ -7,7 +7,6 @@
 | To Suffer is to Learn | 6.00% | ~212 |
 | Initiate's Resolve | 6.00% | ~212 |
 | Missilis | 5.00% | ~177 |
-| Modest Earnings | 5.00% | ~177 |
 | Armaments of the Pantheon | 5.00% | ~177 |
 | Persephone's Guidance | 5.00% | ~177 |
 | Lochos | 5.00% | ~177 |
@@ -16,6 +15,7 @@
 | Immolator | 4.00% | ~141 |
 | Go For the Head | 4.00% | ~141 |
 | Spartan Sandal | 4.00% | ~141 |
+| Modest Earnings | 4.00% | ~141 |
 | Symbols of Heresy | 4.00% | ~141 |
 | The Sons of Minos | 4.00% | ~141 |
 | Eidola | 4.00% | ~141 |
@@ -38,7 +38,6 @@
 | The Midas Touch | 2.00% | ~71 |
 | Hapax Legomenon | 2.00% | ~71 |
 | Don't Pay the Ferryman | 2.00% | ~71 |
-| Veneration of Hephaestus | 2.00% | ~71 |
 | Vandili | 2.00% | ~71 |
 | No Scylla in Sight | 2.00% | ~71 |
 | Cloaca Maxima | 2.00% | ~71 |
@@ -48,6 +47,7 @@
 | The Nameless One | 1.00% | ~35 |
 | Rule of Thirds | 1.00% | ~35 |
 | Pyr Demon | 1.00% | ~35 |
+| Veneration of Hephaestus | 1.00% | ~35 |
 | Biotechnology | 1.00% | ~35 |
 | The Archimedes Principle | 1.00% | ~35 |
 | Rites at Sea | 1.00% | ~35 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,533 (Ranked 183)  
+Progressed: 3,534 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 3,527 | 0 |
 | 2023-10-05 | 3,529 | 0 |
 | 2023-10-06 | 3,532 | 0 |
-| 2023-10-07 | 3,533 | 0 |
+| 2023-10-07 | 3,534 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -34,9 +34,9 @@
 | Artful Assister | 34.00% | ~37 |
 | Team Hunter | 33.00% | ~36 |
 | Unrivaled in Arms | 31.00% | ~34 |
+| Left Arm Leverager | 29.00% | ~32 |
 | Threaded Harmony | 29.00% | ~32 |
 | Karakuri Fortress | 28.00% | ~31 |
-| Left Arm Leverager | 28.00% | ~31 |
 | Style Seeker | 28.00% | ~31 |
 | Human Believer | 28.00% | ~31 |
 | Karakuri Minato | 28.00% | ~31 |

@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,002 |
-| Until death do us apart | 4.00% | ~17,002 |
-| That is mine! | 3.00% | ~12,752 |
-| Victorious! | 3.00% | ~12,752 |
-| Brothers in Arms | 2.00% | ~8,501 |
-| For the Glory | 2.00% | ~8,501 |
-| That's a Grand Navy | 2.00% | ~8,501 |
-| Seriously?! | 2.00% | ~8,501 |
+| That's a Grand Army | 4.00% | ~17,005 |
+| Until death do us apart | 4.00% | ~17,005 |
+| That is mine! | 3.00% | ~12,754 |
+| Victorious! | 3.00% | ~12,754 |
+| Brothers in Arms | 2.00% | ~8,503 |
+| For the Glory | 2.00% | ~8,503 |
+| That's a Grand Navy | 2.00% | ~8,503 |
+| Seriously?! | 2.00% | ~8,503 |
 | Cold War | 1.00% | ~4,251 |
 | Defender of the Faith | 1.00% | ~4,251 |
 | It's all about the money | 1.00% | ~4,251 |
@@ -22,22 +22,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Divine Ruler | 1.00% | ~4,251 |
 | It's all about luck | 0.90% | ~3,826 |
 | Respected | 0.90% | ~3,826 |
-| Blockader | 0.80% | ~3,400 |
-| Double the Love | 0.80% | ~3,400 |
-| Total Control | 0.80% | ~3,400 |
-| Royal Authority | 0.70% | ~2,975 |
-| My armies are invincible! | 0.60% | ~2,550 |
-| Agressive Expander | 0.50% | ~2,125 |
-| Azur semé de lis or | 0.50% | ~2,125 |
-| City of Cities | 0.50% | ~2,125 |
-| Combined Arms | 0.50% | ~2,125 |
-| This navy can take it all | 0.50% | ~2,125 |
-| Bright Spark | 0.40% | ~1,700 |
-| Factionalism | 0.40% | ~1,700 |
-| Gentle Persuasion | 0.40% | ~1,700 |
-| Isn't this the way to India? | 0.40% | ~1,700 |
-| Queen of Conquest | 0.40% | ~1,700 |
-| The Five Colonies | 0.40% | ~1,700 |
+| Blockader | 0.80% | ~3,401 |
+| Double the Love | 0.80% | ~3,401 |
+| Total Control | 0.80% | ~3,401 |
+| Royal Authority | 0.70% | ~2,976 |
+| My armies are invincible! | 0.60% | ~2,551 |
+| Agressive Expander | 0.50% | ~2,126 |
+| Azur semé de lis or | 0.50% | ~2,126 |
+| City of Cities | 0.50% | ~2,126 |
+| Combined Arms | 0.50% | ~2,126 |
+| This navy can take it all | 0.50% | ~2,126 |
+| Bright Spark | 0.40% | ~1,701 |
+| Factionalism | 0.40% | ~1,701 |
+| Gentle Persuasion | 0.40% | ~1,701 |
+| Isn't this the way to India? | 0.40% | ~1,701 |
+| Queen of Conquest | 0.40% | ~1,701 |
+| The Five Colonies | 0.40% | ~1,701 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,275 |
 | Down Under | 0.30% | ~1,275 |
 | The Emperors new clothes | 0.30% | ~1,275 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,061 (Ranked 41)  
+Progressed: 425,130 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 1 (0.00%) (Ranked 308)
 | 2023-10-04 | 422,407 | 1 |
 | 2023-10-05 | 423,171 | 1 |
 | 2023-10-06 | 424,114 | 1 |
-| 2023-10-07 | 425,061 | 1 |
+| 2023-10-07 | 425,130 | 1 |
 ## Awards
 Max (Educational): 6,432  (Ranked 56)  
 Sum: 52,874 (Ranked 24)  

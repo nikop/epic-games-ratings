@@ -6,22 +6,22 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~768 |
+| Cabin boy | 81.00% | ~769 |
 | My little farm | 64.00% | ~607 |
-| Every beginning is difficult | 63.00% | ~597 |
-| Gofer | 57.00% | ~540 |
-| 3, 2, 1, mine | 55.00% | ~521 |
+| Every beginning is difficult | 63.00% | ~598 |
+| Gofer | 57.00% | ~541 |
+| 3, 2, 1, mine | 55.00% | ~522 |
 | O Captain! My Captain! | 54.00% | ~512 |
 | Seafarer | 52.00% | ~493 |
 | Greed for gold | 43.00% | ~408 |
-| Intangible | 42.00% | ~398 |
+| Intangible | 42.00% | ~399 |
 | I'm out of here for a while | 41.00% | ~389 |
 | In a mint condition | 37.00% | ~351 |
-| Licence to Kill | 36.00% | ~341 |
-| Pirates! | 34.00% | ~322 |
+| Licence to Kill | 36.00% | ~342 |
+| Pirates! | 34.00% | ~323 |
 | Collectionitis | 29.00% | ~275 |
-| Christening | 28.00% | ~265 |
-| Megalomania | 28.00% | ~265 |
+| Christening | 28.00% | ~266 |
+| Megalomania | 28.00% | ~266 |
 | Groundskeeper | 25.00% | ~237 |
 | Wholesale | 22.00% | ~209 |
 | Walk the plank | 21.00% | ~199 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948 (Ranked 234)  
+Progressed: 949 (Ranked 234)  
 Completed: 1 (0.11%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 1 (0.11%) (Ranked 240)
 | 2023-10-03 | 943 | 1 |
 | 2023-10-04 | 946 | 1 |
 | 2023-10-06 | 948 | 1 |
+| 2023-10-07 | 949 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

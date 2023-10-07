@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 31.00% | ~120 |
+| Brace for impact! | 31.00% | ~121 |
 | Baby's First Car | 29.00% | ~113 |
 | Amateur Mechanic | 29.00% | ~113 |
 | Pushover | 29.00% | ~113 |
 | A Forest Walk | 29.00% | ~113 |
-| C-C-C-Combo! | 27.00% | ~105 |
 | Multiply that! | 27.00% | ~105 |
+| C-C-C-Combo! | 26.00% | ~101 |
 | Fore! | 24.00% | ~93 |
 | Insurance fraud | 24.00% | ~93 |
 | Snow Fun! | 24.00% | ~93 |
@@ -19,13 +19,13 @@
 | Bag of Tricks | 23.00% | ~89 |
 | In the Bag! | 23.00% | ~89 |
 | You're it | 23.00% | ~89 |
-| First Come, First Serve | 22.00% | ~85 |
-| To and Fro | 22.00% | ~85 |
-| Goodbye cruel world | 22.00% | ~85 |
-| I see the light! | 22.00% | ~85 |
-| Disoriented | 21.00% | ~81 |
-| Take that Frosty! | 21.00% | ~81 |
-| Beach Party! | 21.00% | ~81 |
+| First Come, First Serve | 22.00% | ~86 |
+| To and Fro | 22.00% | ~86 |
+| Goodbye cruel world | 22.00% | ~86 |
+| I see the light! | 22.00% | ~86 |
+| Disoriented | 21.00% | ~82 |
+| Take that Frosty! | 21.00% | ~82 |
+| Beach Party! | 21.00% | ~82 |
 | Car-Tapult | 20.00% | ~78 |
 | Anger Issues | 20.00% | ~78 |
 | Your Highness | 20.00% | ~78 |
@@ -37,7 +37,7 @@
 | Assert Dominance | 17.00% | ~66 |
 | Speed of light | 17.00% | ~66 |
 | Out of this League | 14.00% | ~54 |
-| Special Forces | 13.00% | ~50 |
+| Special Forces | 13.00% | ~51 |
 | Toot Toot! | 12.00% | ~47 |
 | Rocketman | 12.00% | ~47 |
 | Blasting away! | 12.00% | ~47 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 290)  
-Completed: 2 (0.52%) (Ranked 169)  
+Progressed: 389 (Ranked 290)  
+Completed: 2 (0.51%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,6 +134,7 @@ Completed: 2 (0.52%) (Ranked 169)
 | 2023-09-30 | 386 | 2 |
 | 2023-10-03 | 387 | 2 |
 | 2023-10-04 | 388 | 2 |
+| 2023-10-07 | 389 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

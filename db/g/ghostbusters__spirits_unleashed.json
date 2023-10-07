@@ -2236,10 +2236,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2367,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-10-07T20:58:52.6272409+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2369,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2367,
+  "NumberOfAwards": 2369,
   "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2295,7 +2301,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game is Relaxing",
@@ -2318,7 +2324,7 @@
   ],
   "EOS_Progressed": 26268,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14793,9 +14799,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 105
     },
     {
       "ID": "Ultimate_Defense",
@@ -14841,9 +14847,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-06T22:59:32.4326759+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:07:53.1856073+00:00",
+  "LastChanged": "2023-10-07T20:58:52.6272407+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:06:32.0479672+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:59:17.9813719+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:07:53.1857027+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:58:52.6272412+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:06:32.0480632+00:00"
 }

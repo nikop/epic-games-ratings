@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5094,9 +5094,9 @@
       "ID": "ACH_ALL_XENO_TECHS",
       "SetID": "816efe",
       "Name": "Perfect Enhancements",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 311
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -5439,8 +5439,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-01T17:02:15.244996+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:05:14.3455254+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:04:32.9463279+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.8958078+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:03:06.3773812+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:05:14.3455755+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:02:17.4978125+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:04:32.9463796+00:00"
 }

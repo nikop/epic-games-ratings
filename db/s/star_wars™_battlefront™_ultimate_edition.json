@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-10-07T20:06:39.0803901+00:00",
       "NumProgressed": 494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T21:05:36.7791542+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1342,7 +1347,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_18",
@@ -1454,7 +1459,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_30",
@@ -1502,7 +1507,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_36",
@@ -1510,7 +1515,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_37",
@@ -1518,7 +1523,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_38",
@@ -1556,9 +1561,9 @@
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_42",
@@ -1781,13 +1786,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 1
     }
   ],
@@ -1795,8 +1800,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:06:39.0803896+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:05:36.7791537+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:03:04.070704+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:06:39.0804496+00:00"
+  "LastUpdate_Ratings": "2023-10-07T21:02:15.6776363+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:05:36.7792159+00:00"
 }

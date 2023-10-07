@@ -7269,9 +7269,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 371
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7692,8 +7692,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:04:28.3869039+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:03:58.1520652+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-07T20:00:49.5642932+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:04:28.3869931+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:59:58.975265+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:03:58.1521565+00:00"
 }

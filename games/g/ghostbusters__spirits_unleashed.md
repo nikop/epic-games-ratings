@@ -37,12 +37,12 @@ Rating: 4.50 (Ranked 571)
 | Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
+| Tobin's Prodigy | 0.40% | ~105 |
 | Collector | 0.30% | ~79 |
 | Escape Artist | 0.30% | ~79 |
 | Reckless | 0.30% | ~79 |
 | Rift Destroyer | 0.30% | ~79 |
 | Rivalry | 0.30% | ~79 |
-| Tobin's Prodigy | 0.30% | ~79 |
 | Fragile Panes | 0.20% | ~53 |
 | Liability | 0.20% | ~53 |
 | Surprise! | 0.20% | ~53 |
@@ -230,7 +230,7 @@ Completed: 58 (0.22%) (Ranked 213)
 | 2023-10-07 | 26,268 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
-Sum: 2,367 (Ranked 188)  
+Sum: 2,369 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 68
 | This game has Competitive Players | 239 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 233 |
-| This game is Highly Recommended | 231 |
+| This game is Highly Recommended | 233 |
 | This game is Relaxing | 231 |
 | This game has Quickly Understood Controls | 221 |
 | This game has Amazing Characters | 220 |
@@ -423,3 +423,4 @@ Diff (max vs sum): 68
 | 2023-10-04 | 4.50 | 259 | 2,363 |
 | 2023-10-05 | 4.50 | 260 | 2,365 |
 | 2023-10-06 | 4.50 | 260 | 2,367 |
+| 2023-10-07 | 4.50 | 260 | 2,369 |

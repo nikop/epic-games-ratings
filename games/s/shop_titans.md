@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 966)  
+Rating: 3.99 (Ranked 965)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,14 +9,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,118 |
 | Basic in Bulk | 3.00% | ~4,118 |
 | Titan's First Steps | 3.00% | ~4,118 |
-| One Easy Payment | 2.00% | ~2,745 |
-| Disintermediation | 2.00% | ~2,745 |
-| Another Satisfied Customer | 2.00% | ~2,745 |
-| It's Free Real Estate | 2.00% | ~2,745 |
-| Tinkle of Coins | 2.00% | ~2,745 |
-| Budding Merchant | 2.00% | ~2,745 |
-| Capitalism Ho! | 2.00% | ~2,745 |
-| Own the Means of Production | 2.00% | ~2,745 |
+| One Easy Payment | 2.00% | ~2,746 |
+| Disintermediation | 2.00% | ~2,746 |
+| Another Satisfied Customer | 2.00% | ~2,746 |
+| It's Free Real Estate | 2.00% | ~2,746 |
+| Tinkle of Coins | 2.00% | ~2,746 |
+| Budding Merchant | 2.00% | ~2,746 |
+| Capitalism Ho! | 2.00% | ~2,746 |
+| Own the Means of Production | 2.00% | ~2,746 |
 | The Daily Grind | 1.00% | ~1,373 |
 | Some Assembly Required | 1.00% | ~1,373 |
 | Bounty Hunters | 1.00% | ~1,373 |
@@ -98,12 +98,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.50% | ~686 |
 | Exotic Commodities | 0.50% | ~686 |
 | King's Blade | 0.50% | ~686 |
+| Thank You Tom Nook | 0.40% | ~549 |
 | A Legend is Born | 0.40% | ~549 |
 | Jackpot! | 0.40% | ~549 |
 | All Accounted For | 0.40% | ~549 |
 | Economy of Scarce | 0.40% | ~549 |
 | The Free Encyclopedia | 0.30% | ~412 |
-| Thank You Tom Nook | 0.30% | ~412 |
 | All or Nothing! | 0.30% | ~412 |
 | Eternal Crusade | 0.30% | ~412 |
 | Bane of Legends | 0.20% | ~275 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,272 (Ranked 73)  
+Progressed: 137,275 (Ranked 73)  
 Completed: 166 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 166 (0.12%) (Ranked 234)
 | 2023-10-04 | 137,116 | 161 |
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
-| 2023-10-07 | 137,272 | 166 |
+| 2023-10-07 | 137,275 | 166 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,353 (Ranked 50)  

@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.70% | ~101 |
 | Pioneer | 0.70% | ~101 |
 | Oracle | 0.70% | ~101 |
+| Naming Landmarks | 0.70% | ~101 |
 | Trade Caravan | 0.70% | ~101 |
 | Glorious | 0.60% | ~87 |
 | Just | 0.60% | ~87 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
-| Naming Landmarks | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
 | Enlightened | 0.50% | ~72 |
 | Fountainhead | 0.50% | ~72 |
@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.50% | ~72 |
 | Roman Paganism | 0.50% | ~72 |
 | Zoroastrianism | 0.50% | ~72 |
+| Kushite Pyramids | 0.50% | ~72 |
 | Brilliant | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.40% | ~58 |
 | Manichaeism | 0.40% | ~58 |
 | Egyptian Paganism | 0.40% | ~58 |
-| Kushite Pyramids | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
 | Hanging Gardens in Babylon | 0.30% | ~43 |
 | Drillmaster | 0.30% | ~43 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.30% | ~43 |
 | Building Wonders | 0.30% | ~43 |
 | Mythology | 0.30% | ~43 |
+| Win a Single Player Game | 0.30% | ~43 |
 | Beloved | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
@@ -84,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~29 |
 | Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
+| Hunters | 0.20% | ~29 |
 | Landowners | 0.20% | ~29 |
 | Riders | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
@@ -114,9 +116,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.20% | ~29 |
 | Double Victory | 0.20% | ~29 |
 | Points Victory | 0.20% | ~29 |
-| Win a Single Player Game | 0.20% | ~29 |
 | The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
+| Poetic Leader | 0.20% | ~29 |
 | Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -165,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
-| Hunters | 0.10% | ~14 |
 | Statesmen | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
@@ -253,7 +254,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~14 |
 | Five Cults | 0.10% | ~14 |
 | Pilgrimage | 0.10% | ~14 |
-| Poetic Leader | 0.10% | ~14 |
 | Patriarch St Paul | 0.10% | ~14 |
 | Hypatia the Teacher | 0.10% | ~14 |
 | Rmt n Kmt Buhen | 0.10% | ~14 |

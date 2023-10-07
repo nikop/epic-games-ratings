@@ -29,10 +29,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 8.00% | ~113 |
 | Let Me Get My Chisel | 7.00% | ~99 |
 | Legends Never Die | 6.00% | ~85 |
+| In Soil, In Smoke | 6.00% | ~85 |
 | Wingknight's Prowess | 6.00% | ~85 |
 | All My Birds, Safely Home | 6.00% | ~85 |
 | Turncoat | 6.00% | ~85 |
-| In Soil, In Smoke | 5.00% | ~70 |
 | A Hunger, Sated | 5.00% | ~70 |
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |

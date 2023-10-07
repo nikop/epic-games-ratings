@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 966,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
@@ -6412,9 +6412,9 @@
       "Count": 3757
     }
   ],
-  "EOS_Progressed": 137272,
+  "EOS_Progressed": 137275,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23872,6 +23872,11 @@
       "Time": "2023-10-07T20:05:43.768387+00:00",
       "NumProgressed": 137272,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-10-07T21:04:55.2544608+00:00",
+      "NumProgressed": 137275,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 112,
@@ -23963,7 +23968,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "bigsale02",
@@ -24147,7 +24152,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "craft02",
@@ -24235,7 +24240,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "energy02",
@@ -24259,7 +24264,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "expansion02",
@@ -24273,9 +24278,9 @@
       "ID": "expansion03",
       "SetID": "anfd17p",
       "Name": "Thank You Tom Nook",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 549
     },
     {
       "ID": "fullmoon",
@@ -24355,7 +24360,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "gold02",
@@ -24467,7 +24472,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "level02",
@@ -24659,7 +24664,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "sell02",
@@ -24747,7 +24752,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "workers02",
@@ -24778,15 +24783,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137272,
+      "Progressed": 137275,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-07T16:58:26.4945127+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:05:43.7683865+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:04:55.2544602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:58:05.2032939+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:05:43.7685948+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:58:01.3100837+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:04:55.2546647+00:00"
 }

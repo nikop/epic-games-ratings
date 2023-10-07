@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -952,9 +952,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "INTERROGATION",
@@ -1008,9 +1008,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
@@ -1025,8 +1025,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-07T20:06:14.1377131+00:00",
+  "LastChanged_Achievements": "2023-10-07T21:05:17.9155951+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:16.8365245+00:00",
-  "LastUpdate_Ratings": "2023-10-07T19:58:34.6395041+00:00",
-  "LastUpdate_Achievements": "2023-10-07T20:06:14.1377298+00:00"
+  "LastUpdate_Ratings": "2023-10-07T20:58:21.2726699+00:00",
+  "LastUpdate_Achievements": "2023-10-07T21:05:17.9156102+00:00"
 }

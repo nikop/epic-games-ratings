@@ -20,7 +20,7 @@
 | Fighting is cool | 70.00% | ~233 |
 | No bullying more | 70.00% | ~233 |
 | Hello, world! | 70.00% | ~233 |
-| Pal of your father? | 67.00% | ~223 |
+| Pal of your father? | 68.00% | ~226 |
 | Employee of the month | 66.00% | ~220 |
 | Spirit of the past | 65.00% | ~216 |
 | Law student | 63.00% | ~210 |
