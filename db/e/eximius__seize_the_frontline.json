@@ -2,9 +2,9 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 902,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Rating": 901,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 109,
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198027,
+  "EOS_Progressed": 198029,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18567,6 +18567,11 @@
       "Time": "2023-10-07T18:03:57.4288268+00:00",
       "NumProgressed": 198027,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-07T19:03:41.4592513+00:00",
+      "NumProgressed": 198029,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18586,7 +18591,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 140599
+      "UsersEstimate": 140601
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -18705,7 +18710,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 198027,
+      "Progressed": 198029,
       "Completed": 4
     }
   ],
@@ -18713,8 +18718,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-09-24T20:58:16.0014057+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:03:57.4288262+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:41.4592508+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.4039+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:59:03.2957938+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:03:57.4289553+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:59:05.4118032+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:41.4593458+00:00"
 }

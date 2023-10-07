@@ -3,8 +3,8 @@
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 167,
@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 43413,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -16426,8 +16426,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:05:03.8833511+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:04:48.7974287+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.6279901+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:38.4389281+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:05:03.8835827+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:37.6179578+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:04:48.7975317+00:00"
 }

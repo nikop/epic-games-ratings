@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "38",
@@ -445,17 +445,17 @@
       "ID": "6",
       "SetID": "d37idgg",
       "Name": "Diagnosis: fear",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "7",
       "SetID": "d37idgg",
       "Name": "Ambition is... blind",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -484,8 +484,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:06:33.6353683+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:06:20.5319884+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:02:12.3389062+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:33.6354315+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:02:13.9610309+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:06:20.5320239+00:00"
 }

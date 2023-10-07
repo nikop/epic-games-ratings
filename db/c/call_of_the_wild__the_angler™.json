@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 165,
@@ -796,7 +796,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6005,
+  "EOS_Progressed": 6006,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -8306,6 +8306,11 @@
       "Time": "2023-10-07T18:08:12.3219159+00:00",
       "NumProgressed": 6005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-07T19:08:19.1898685+00:00",
+      "NumProgressed": 6006,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8317,7 +8322,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8333,7 +8338,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8341,7 +8346,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -8357,7 +8362,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8365,7 +8370,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -8421,7 +8426,7 @@
       "Name": "Goldfish?",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -8429,7 +8434,7 @@
       "Name": "Going for Gold",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -8437,7 +8442,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -8596,13 +8601,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6005,
+      "Progressed": 6006,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5377,
+      "Progressed": 5378,
       "Completed": 112
     }
   ],
@@ -8610,8 +8615,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-06T17:00:13.7097301+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:08:12.3219152+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:08:19.1898679+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.5622324+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:59:16.8224887+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:08:12.322045+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:59:20.0952152+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:08:19.189927+00:00"
 }

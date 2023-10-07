@@ -10,10 +10,10 @@ Rating: 4.76 (Ranked 119)
 | Troll with the Punches | 13.00% | ~38,735 |
 | A Keen Sense of Spell | 12.00% | ~35,755 |
 | That's a Keeper | 12.00% | ~35,755 |
-| The Hallowed Hero | 11.00% | ~32,775 |
-| The Defender of Dragons | 11.00% | ~32,775 |
-| Loom for Improvement | 11.00% | ~32,775 |
-| A Talent for Spending | 11.00% | ~32,775 |
+| The Hallowed Hero | 11.00% | ~32,776 |
+| The Defender of Dragons | 11.00% | ~32,776 |
+| Loom for Improvement | 11.00% | ~32,776 |
+| A Talent for Spending | 11.00% | ~32,776 |
 | Grappling with a Graphorn | 10.00% | ~29,796 |
 | The One Who Mastered Memories | 10.00% | ~29,796 |
 | The Hero of Hogwarts | 10.00% | ~29,796 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 119)
 | Flight the Good Flight | 8.00% | ~23,837 |
 | The Spell Master | 8.00% | ~23,837 |
 | Beast Friends | 7.00% | ~20,857 |
-| The Seeker of Knowledge | 6.00% | ~17,877 |
-| The Root of the Problem | 6.00% | ~17,877 |
-| Third Time's a Charm | 6.00% | ~17,877 |
-| Raising Expectations | 6.00% | ~17,877 |
+| The Seeker of Knowledge | 6.00% | ~17,878 |
+| The Root of the Problem | 6.00% | ~17,878 |
+| Third Time's a Charm | 6.00% | ~17,878 |
+| Raising Expectations | 6.00% | ~17,878 |
 | The Ends Petrify the Means | 5.00% | ~14,898 |
 | The Toast of the Town | 4.00% | ~11,918 |
 | Going Through the Potions | 4.00% | ~11,918 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,958 (Ranked 46)  
+Progressed: 297,961 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,15 +221,15 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-04 | 297,825 | 480 |
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
-| 2023-10-07 | 297,958 | 482 |
+| 2023-10-07 | 297,961 | 482 |
 ## Awards
 Max (Character Customization): 23,347  (Ranked 17)  
-Sum: 45,250 (Ranked 31)  
+Sum: 45,268 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,347 |
-| This game has Great Boss Battles | 11,614 |
+| This game has Great Boss Battles | 11,632 |
 | This game is Great for Beginners | 1,149 |
 | This game has Amazing Storytelling | 1,118 |
 | This game has Diverse Characters | 1,103 |
@@ -440,4 +440,4 @@ Diff (max vs sum): -14
 | 2023-10-04 | 4.76 | 23,277 | 45,048 |
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
-| 2023-10-07 | 4.76 | 23,347 | 45,250 |
+| 2023-10-07 | 4.76 | 23,347 | 45,268 |

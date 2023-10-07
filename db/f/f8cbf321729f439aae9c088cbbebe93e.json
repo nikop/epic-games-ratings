@@ -97,9 +97,9 @@
       "ID": "_02",
       "SetID": "670ak8f",
       "Name": "Only one family",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_03",
@@ -145,9 +145,9 @@
       "ID": "_08",
       "SetID": "670ak8f",
       "Name": "Real Adventurer",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_09",
@@ -176,8 +176,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:55.3023601+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:04:40.0627976+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:16.5401504+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:27.9123452+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:55.3023726+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:27.422694+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:04:40.0628059+00:00"
 }

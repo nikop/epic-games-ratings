@@ -14,7 +14,7 @@
 | Second wall | 39.00% | ~102 |
 | Expert Scavenger | 36.00% | ~94 |
 | Their Rock | 31.00% | ~81 |
-| Yuna's Promise | 29.00% | ~76 |
+| Yuna's Promise | 30.00% | ~79 |
 | Stone Retriever | 27.00% | ~71 |
 | Find myself | 26.00% | ~68 |
 | Truebro | 22.00% | ~58 |
@@ -30,7 +30,7 @@
 | True Player | 1.00% | ~3 |
 | Bond Lord | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 322)  
+Progressed: 262 (Ranked 323)  
 Completed: 2 (0.76%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,27 +6,28 @@ Rating: 4.64 (Ranked 318)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.40% | ~97 |
+| Sweezy Like Sunday Morning | 0.40% | ~97 |
 | First Bounty Down | 0.40% | ~97 |
+| G3 Graduation | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
+| Bathe With A Giant Nude Alien | 0.40% | ~6 |
 | Creature Feature | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
-| Sweezy Like Sunday Morning | 0.30% | ~72 |
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
-| G3 Graduation | 0.30% | ~72 |
+| Legendary Bounty Hunter | 0.30% | ~72 |
 | Hardest Battle In The Game | 0.30% | ~72 |
 | Who's The Boss? | 0.30% | ~72 |
-| Bathe With A Giant Nude Alien | 0.30% | ~4 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
-| Legendary Bounty Hunter | 0.20% | ~48 |
 | Self-Actualization | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |
+| Mux Ado About Shipping | 0.20% | ~3 |
 | We Came, We Chainsaw, We Conquered | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
@@ -40,7 +41,6 @@ Rating: 4.64 (Ranked 318)
 | Playing Favorites | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |
 | Cardbored | 0.10% | ~1 |
-| Mux Ado About Shipping | 0.10% | ~1 |
 | See Salt | 0.10% | ~1 |
 | Porch Pirate | 0.10% | ~1 |
 | Harper? I Barely Know Her! | 0.10% | ~1 |

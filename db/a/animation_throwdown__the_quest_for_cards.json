@@ -2,12 +2,12 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 804,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1931,10 +1931,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2757,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-10-07T19:02:08.6454143+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2758,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2757,
+  "NumberOfAwards": 2758,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1948,7 +1954,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 305
+      "Count": 306
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2010,8 +2016,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-10-07T09:03:53.0251322+00:00",
+  "LastChanged": "2023-10-07T19:02:08.6454142+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:34.0054416+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:02:06.8089729+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:05:53.8861842+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:02:08.6454147+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:05:39.6683729+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 114,
@@ -913,9 +913,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1088,8 +1088,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:03:13.6360899+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:02:26.8852613+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:58:16.1024406+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:03:13.636118+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:58:16.4718017+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:02:26.8853229+00:00"
 }

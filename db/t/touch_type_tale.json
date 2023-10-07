@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3684,
+  "EOS_Progressed": 3685,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4094,6 +4094,11 @@
       "Time": "2023-10-07T15:07:53.8962334+00:00",
       "NumProgressed": 3684,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-07T19:03:48.487569+00:00",
+      "NumProgressed": 3685,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4153,7 +4158,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "campaign10",
@@ -4241,7 +4246,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "campaign20",
@@ -4257,7 +4262,7 @@
       "Name": "Economics 101",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "campaign4",
@@ -4265,7 +4270,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "campaign5",
@@ -4273,7 +4278,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "campaign6",
@@ -4368,7 +4373,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3684,
+      "Progressed": 3685,
       "Completed": 11
     }
   ],
@@ -4376,8 +4381,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:04.4181696+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:48.4875684+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:08.2021033+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:03:06.0965523+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:04.4182172+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:02:17.0920393+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:48.487607+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,238 |
+| Tattletale | 40.00% | ~6,239 |
 | Man of politics | 34.00% | ~5,303 |
 | Friends of sorts | 33.00% | ~5,147 |
 | Yet another secret | 33.00% | ~5,147 |
 | Let there be darkness | 32.00% | ~4,991 |
 | End of Book One | 30.00% | ~4,679 |
-| Garden of Eden | 24.00% | ~3,743 |
-| Full house | 24.00% | ~3,743 |
-| Wannabe knight | 23.00% | ~3,587 |
-| Help an old friend | 22.00% | ~3,431 |
-| Two of us | 20.00% | ~3,119 |
-| Negotiation skills | 18.00% | ~2,807 |
-| Workers' union | 18.00% | ~2,807 |
-| End of Book Two | 18.00% | ~2,807 |
-| Everything's in order | 17.00% | ~2,651 |
-| Twist of Fate | 14.00% | ~2,183 |
-| Jack was here! | 14.00% | ~2,183 |
-| Exterminator | 13.00% | ~2,027 |
+| Garden of Eden | 24.00% | ~3,744 |
+| Full house | 24.00% | ~3,744 |
+| Wannabe knight | 23.00% | ~3,588 |
+| Help an old friend | 22.00% | ~3,432 |
+| Two of us | 20.00% | ~3,120 |
+| Negotiation skills | 18.00% | ~2,808 |
+| Workers' union | 18.00% | ~2,808 |
+| End of Book Two | 18.00% | ~2,808 |
+| Everything's in order | 17.00% | ~2,652 |
+| Twist of Fate | 14.00% | ~2,184 |
+| Jack was here! | 14.00% | ~2,184 |
+| Exterminator | 13.00% | ~2,028 |
 | Whodunnit | 12.00% | ~1,872 |
 | Good midwife | 11.00% | ~1,716 |
 | Friar Tuck | 11.00% | ~1,716 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~468 |
 | Boy of mystery | 2.00% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,596 (Ranked 133)  
+Progressed: 15,598 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 113 (0.72%) (Ranked 150)
 | 2023-10-04 | 15,542 | 112 |
 | 2023-10-05 | 15,557 | 113 |
 | 2023-10-06 | 15,582 | 113 |
-| 2023-10-07 | 15,596 | 113 |
+| 2023-10-07 | 15,598 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 306)  
 Sum: 193 (Ranked 384)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6412,9 +6412,9 @@
       "Count": 3757
     }
   ],
-  "EOS_Progressed": 137263,
+  "EOS_Progressed": 137269,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23862,6 +23862,11 @@
       "Time": "2023-10-07T18:04:56.8710841+00:00",
       "NumProgressed": 137263,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-10-07T19:04:41.6963226+00:00",
+      "NumProgressed": 137269,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 112,
@@ -23951,9 +23956,9 @@
       "ID": "bigsale01",
       "SetID": "anfd17p",
       "Name": "One Easy Payment",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2745
+      "UsersEstimate": 1373
     },
     {
       "ID": "bigsale02",
@@ -24703,9 +24708,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 549
     },
     {
       "ID": "uncommonres01",
@@ -24768,15 +24773,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137263,
+      "Progressed": 137269,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-07T16:58:26.4945127+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:56.8710834+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:04:41.696322+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:46.5308521+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:56.8713571+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:46.742311+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:04:41.6965282+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
   "Ranking_Rating": 571,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-10-04T21:06:54.917481+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-07T19:03:47.070356+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -473,7 +478,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "collect-discounted-items2",
@@ -489,7 +494,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "different-items1",
@@ -497,7 +502,7 @@
       "Name": "Party",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "different-items2",
@@ -513,7 +518,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "finished-quest-cube",
@@ -545,7 +550,7 @@
       "Name": "Feed a God",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-pit",
@@ -553,7 +558,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "finished-quest-rat",
@@ -561,7 +566,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "finished-quest-reaper",
@@ -575,9 +580,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 189
     },
     {
       "ID": "finished-quest-secret",
@@ -617,7 +622,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "save-zombie",
@@ -647,9 +652,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "win-first-biom",
@@ -657,7 +662,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "win-first-level",
@@ -665,7 +670,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "win-koth-fights1",
@@ -697,7 +702,7 @@
       "Name": "Through the Darkness",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "win-with-3-cultists",
@@ -720,7 +725,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:02.9467951+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:47.0703555+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:36.8000109+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:32.3673513+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:02.9468231+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:31.1066647+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:47.0703786+00:00"
 }

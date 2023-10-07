@@ -2,12 +2,12 @@
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
   "ProductSlug": "lego-batman-2",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 354,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2012-06-22T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "NumberOfRatings": 489,
   "RatingHistory": [
     {
@@ -504,6 +504,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-10-07T18:58:55.4080951+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
@@ -529,8 +535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2023-10-01T18:03:12.135791+00:00",
+  "LastChanged": "2023-10-07T18:58:55.4080949+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:06.4488102+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:58:53.6058617+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:09:04.3817417+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:58:55.4080954+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:08:42.1651903+00:00"
 }

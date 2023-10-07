@@ -1,40 +1,40 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.31 (Ranked 804)  
+Rating: 4.31 (Ranked 805)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 43.00% | ~65,840 |
-| FIRST BLOOD | 38.00% | ~58,184 |
-| KEVIN! | 27.00% | ~41,342 |
-| JACK OF ALL TRADES | 20.00% | ~30,623 |
-| CRIMINAL | 16.00% | ~24,499 |
-| GRANDMA WOULD BE PROUD | 7.00% | ~10,718 |
-| WITHOUT BREAKING A SWEAT | 5.00% | ~7,656 |
-| HONORS STUDENT | 4.00% | ~6,125 |
-| BUTCHER | 3.00% | ~4,594 |
-| INDIVIDUAL APPROACH | 3.00% | ~4,594 |
-| RAMBO | 2.00% | ~3,062 |
-| HELL'S KITCHEN | 1.00% | ~1,531 |
-| CELEBRITY | 0.90% | ~1,378 |
-| MARTYR | 0.50% | ~766 |
-| GRATITUDE | 0.30% | ~459 |
-| EXPERIMENTALIST | 0.20% | ~306 |
-| GOURMET | 0.20% | ~306 |
-| PATTY-KILLER | 0.20% | ~306 |
-| PRUDENT | 0.20% | ~306 |
-| CORRUPTIONIST | 0.10% | ~153 |
-| DEBTOR | 0.10% | ~153 |
-| HIGH TECHNOLOGIES | 0.10% | ~153 |
-| I'VE SEEN SOME… | 0.10% | ~153 |
-| LAW-ABIDING CITIZEN | 0.10% | ~153 |
-| MISTER ALL THUMBS | 0.10% | ~153 |
-| SCATTERBRAIN | 0.10% | ~153 |
-| TASTE UNTASTY | 0.10% | ~153 |
-| TRAVELER | 0.10% | ~153 |
+| MASTER CHEF | 43.00% | ~67,005 |
+| FIRST BLOOD | 38.00% | ~59,214 |
+| KEVIN! | 27.00% | ~42,073 |
+| JACK OF ALL TRADES | 20.00% | ~31,165 |
+| CRIMINAL | 16.00% | ~24,932 |
+| GRANDMA WOULD BE PROUD | 7.00% | ~10,908 |
+| WITHOUT BREAKING A SWEAT | 5.00% | ~7,791 |
+| HONORS STUDENT | 4.00% | ~6,233 |
+| BUTCHER | 3.00% | ~4,675 |
+| INDIVIDUAL APPROACH | 3.00% | ~4,675 |
+| RAMBO | 2.00% | ~3,116 |
+| HELL'S KITCHEN | 1.00% | ~1,558 |
+| CELEBRITY | 0.90% | ~1,402 |
+| MARTYR | 0.50% | ~779 |
+| GRATITUDE | 0.30% | ~467 |
+| EXPERIMENTALIST | 0.20% | ~312 |
+| GOURMET | 0.20% | ~312 |
+| PATTY-KILLER | 0.20% | ~312 |
+| PRUDENT | 0.20% | ~312 |
+| CORRUPTIONIST | 0.10% | ~156 |
+| DEBTOR | 0.10% | ~156 |
+| HIGH TECHNOLOGIES | 0.10% | ~156 |
+| I'VE SEEN SOME… | 0.10% | ~156 |
+| LAW-ABIDING CITIZEN | 0.10% | ~156 |
+| MISTER ALL THUMBS | 0.10% | ~156 |
+| SCATTERBRAIN | 0.10% | ~156 |
+| TASTE UNTASTY | 0.10% | ~156 |
+| TRAVELER | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,117 (Ranked 69)  
+Progressed: 155,825 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.00%) (Ranked 308)
 | 2023-10-04 | 476 | 2 |
 | 2023-10-05 | 37,942 | 2 |
 | 2023-10-06 | 108,126 | 2 |
-| 2023-10-07 | 153,117 | 3 |
+| 2023-10-07 | 155,825 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -694,9 +694,9 @@
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_31",
@@ -900,8 +900,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:04.9130941+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:49.0371476+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:00:18.5206828+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:04.9131763+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:00:21.4581449+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:49.037185+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
   "Ranking_Rating": 980,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -216,6 +216,6 @@
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
   "LastChanged": "2023-10-06T20:03:07.7028416+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.770357+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:00:08.5593023+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:05:25.3036127+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:00:12.7958971+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:05:10.7816104+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Wildcat Gun Machine",
   "ProductSlug": "wildcat-gun-machine-c66c4e",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-05-04T17:00:00+00:00",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.7379667+00:00",
   "LastChanged": "2023-10-02T00:00:41.8626334+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:03:25.3889967+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:08.302713+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:26.3053187+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:17.9116268+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:03:25.3890185+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:17.8235542+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:08.3027257+00:00"
 }

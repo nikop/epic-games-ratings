@@ -17,8 +17,8 @@ Rating: 4.45 (Ranked 644)
 | The Kraken Sleeps | 24.00% | ~890 |
 | Liberté | 22.00% | ~816 |
 | Organ Grinder | 22.00% | ~816 |
+| Sharpshooter | 22.00% | ~816 |
 | As Quiet as a Mouse | 22.00% | ~816 |
-| Sharpshooter | 21.00% | ~779 |
 | Explosive Efficiency | 19.00% | ~705 |
 | Gunslinger | 18.00% | ~667 |
 | Just a Flesh Wound | 17.00% | ~630 |

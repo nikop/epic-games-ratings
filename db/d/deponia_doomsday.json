@@ -3,11 +3,11 @@
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
+  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 429,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -534,9 +534,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "dep4_achievement_20",
@@ -743,8 +743,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:08:20.7270184+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:08:27.4569342+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:59:27.9484743+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:08:20.7270865+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:59:31.4462555+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:08:27.4569597+00:00"
 }

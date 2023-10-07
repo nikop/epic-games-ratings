@@ -3,11 +3,11 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 318,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24138,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5363,9 +5363,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5411,17 +5411,17 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -5547,9 +5547,9 @@
       "ID": "ACH_DEFEAT_MUX",
       "SetID": "7fgbhpb",
       "Name": "Mux Ado About Shipping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIND_ALL_LANDMARKS",
@@ -5619,9 +5619,9 @@
       "ID": "ACH_TOXXO_BATH",
       "SetID": "7fgbhpb",
       "Name": "Bathe With A Giant Nude Alien",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -5642,8 +5642,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:06:16.7713164+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:06:02.9367025+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-07T18:00:16.224495+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:16.7714002+00:00"
+  "LastUpdate_Ratings": "2023-10-07T19:00:19.4043485+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:06:02.9367617+00:00"
 }

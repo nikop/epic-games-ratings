@@ -45,8 +45,8 @@
 | Volatile Vocation | 26.00% | ~28 |
 | Superlative View | 24.00% | ~26 |
 | Quintessence of Form | 23.00% | ~25 |
+| Tender Touch | 21.00% | ~23 |
 | Haven Hunter | 21.00% | ~23 |
-| Tender Touch | 20.00% | ~22 |
 | Relentless Kemono Hunter | 19.00% | ~21 |
 | Vanquisher of the Volatile | 17.00% | ~19 |
 | Bewitched by Bathing | 16.00% | ~17 |

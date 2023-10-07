@@ -3,8 +3,8 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 968,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 127,
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36471,
+  "EOS_Progressed": 36474,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -14974,6 +14974,11 @@
       "Time": "2023-10-07T18:04:05.8905397+00:00",
       "NumProgressed": 36471,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-07T19:03:50.0228866+00:00",
+      "NumProgressed": 36474,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -15001,7 +15006,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9482
+      "UsersEstimate": 9483
     },
     {
       "ID": "allItems",
@@ -15033,7 +15038,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "completionist",
@@ -15073,7 +15078,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28083
+      "UsersEstimate": 28085
     },
     {
       "ID": "roots",
@@ -15081,7 +15086,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "secretItem",
@@ -15096,15 +15101,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36471,
+      "Progressed": 36474,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:04:05.890539+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:03:50.0228861+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.0981807+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:58:40.1554082+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:04:05.8907311+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:58:41.8701522+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:50.0229666+00:00"
 }

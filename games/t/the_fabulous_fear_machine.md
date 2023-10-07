@@ -15,13 +15,13 @@
 | Pulp! Where Monsters Dwell | 31.00% | ~4 |
 | A continent with chemistry | 31.00% | ~4 |
 | Kirlian's best disciple | 31.00% | ~4 |
+| Diagnosis: fear | 31.00% | ~4 |
+| Ambition is... blind | 31.00% | ~4 |
 | The seer | 23.00% | ~3 |
 | Pulp! Out of this World | 23.00% | ~3 |
-| Diagnosis: fear | 23.00% | ~3 |
-| Ambition is... blind | 23.00% | ~3 |
+| Pulp! Adventures into the Unknown | 23.00% | ~3 |
 | You have two wishes left | 23.00% | ~3 |
 | A rival with no options | 15.00% | ~2 |
-| Pulp! Adventures into the Unknown | 15.00% | ~2 |
 | Vaccine fans | 15.00% | ~2 |
 | You've awakened the beast | 8.00% | ~1 |
 | Hate is... addictive | 8.00% | ~1 |

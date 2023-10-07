@@ -3,8 +3,8 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 135,
@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18643,
+  "EOS_Progressed": 18644,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
@@ -13947,6 +13947,11 @@
       "Time": "2023-10-07T17:07:06.9927126+00:00",
       "NumProgressed": 18643,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-07T19:05:47.7498245+00:00",
+      "NumProgressed": 18644,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -14069,15 +14074,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18643,
+      "Progressed": 18644,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:06:01.9052947+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:05:47.7498239+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:59:17.4131126+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:01.9054608+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:59:20.5863287+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:05:47.7498971+00:00"
 }

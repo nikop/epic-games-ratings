@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13687,
+  "EOS_Progressed": 13694,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7969,6 +7969,11 @@
       "Time": "2023-10-07T18:06:13.4651339+00:00",
       "NumProgressed": 13687,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-07T19:05:59.5643826+00:00",
+      "NumProgressed": 13694,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8013,7 +8018,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "14",
@@ -8220,7 +8225,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13687,
+      "Progressed": 13694,
       "Completed": 17
     }
   ],
@@ -8228,8 +8233,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:06:13.4651332+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:05:59.5643818+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:03:08.1616631+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:13.4652206+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:56:54.5941188+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:05:59.5644428+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8584,10 +8584,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45250,
       "NumberOfAwardsMax": 23347
+    },
+    {
+      "Time": "2023-10-07T18:57:07.2982747+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45268,
+      "NumberOfAwardsMax": 23347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45250,
+  "NumberOfAwards": 45268,
   "NumberOfAwardsMax": 23347,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8601,7 +8607,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11614
+      "Count": 11632
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8664,9 +8670,9 @@
       "Count": 688
     }
   ],
-  "EOS_Progressed": 297958,
+  "EOS_Progressed": 297961,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -26984,6 +26990,11 @@
       "Time": "2023-10-07T17:07:14.9457091+00:00",
       "NumProgressed": 297958,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-07T19:05:54.683589+00:00",
+      "NumProgressed": 297961,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27019,7 +27030,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "PFA_13",
@@ -27035,7 +27046,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17877
+      "UsersEstimate": 17878
     },
     {
       "ID": "PFA_15",
@@ -27051,7 +27062,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "PFA_17",
@@ -27123,7 +27134,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "PFA_25",
@@ -27131,7 +27142,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17877
+      "UsersEstimate": 17878
     },
     {
       "ID": "PFA_26",
@@ -27163,7 +27174,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17877
+      "UsersEstimate": 17878
     },
     {
       "ID": "PFA_3",
@@ -27179,7 +27190,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "PFA_31",
@@ -27283,7 +27294,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17877
+      "UsersEstimate": 17878
     },
     {
       "ID": "PFA_43",
@@ -27354,16 +27365,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297958,
+      "Progressed": 297961,
       "Completed": 482
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-07T17:57:08.3189044+00:00",
-  "LastChanged_Achievements": "2023-10-07T18:06:08.4603355+00:00",
+  "LastChanged": "2023-10-07T18:57:07.2982745+00:00",
+  "LastChanged_Achievements": "2023-10-07T19:05:54.6835885+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:57:08.3189075+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:08.4605984+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:57:07.2982751+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:05:54.6837022+00:00"
 }

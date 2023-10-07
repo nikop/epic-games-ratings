@@ -4,7 +4,7 @@
   "ProductSlug": "innerspace",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2018-01-16T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.7192229+00:00",
   "LastChanged": "2023-03-31T05:58:18.719223+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:07.4161422+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:58:54.4557038+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:03:30.5233659+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:58:56.1748681+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:03:13.4770928+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Doki Doki Literature Club Plus!",
   "ProductSlug": "doki-doki-literature-club-plus",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-06-30T16:00:00+00:00",
@@ -223,6 +223,6 @@
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
   "LastChanged": "2023-10-06T09:00:31.2168181+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:33.9592524+00:00",
-  "LastUpdate_Ratings": "2023-10-07T17:59:31.4671038+00:00",
-  "LastUpdate_Achievements": "2023-10-07T18:06:52.8936964+00:00"
+  "LastUpdate_Ratings": "2023-10-07T18:59:34.6249258+00:00",
+  "LastUpdate_Achievements": "2023-10-07T19:08:10.5497406+00:00"
 }
