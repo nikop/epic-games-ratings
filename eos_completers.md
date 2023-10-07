@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.52% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 58.42% |
 | 3 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.18% |
@@ -10,13 +10,13 @@
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.69% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 10 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.55% |
-| 14 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 15 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
-| 17 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.55% |
+| 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
+| 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 16 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 19 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
@@ -66,7 +66,7 @@
 | 64 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
 | 65 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 66 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
 | 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
@@ -100,7 +100,7 @@
 | 97 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 99 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
 | 100 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.33% |
+| 101 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.32% |
 | 102 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 103 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 103 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2.17% |
@@ -241,12 +241,12 @@
 | 239 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 239 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 239 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
-| 242 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 242 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 242 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 242 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
-| 242 | [Supraland](games/s/supraland.md) | 0.10% |
-| 242 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.10% |
+| 239 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.11% |
+| 243 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 243 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 243 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 243 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
+| 243 | [Supraland](games/s/supraland.md) | 0.10% |
 | 248 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 248 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 248 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
