@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~454 |
-| Off to a good start | 67.00% | ~338 |
-| Do... or do not. There is no try | 52.00% | ~263 |
+| New Recruit | 90.00% | ~455 |
+| Off to a good start | 67.00% | ~339 |
+| Do... or do not. There is no try | 53.00% | ~268 |
 | A good blaster at your side | 35.00% | ~177 |
 | Scrap collector | 22.00% | ~111 |
 | I suggest a new strategy | 20.00% | ~101 |
@@ -20,11 +20,11 @@
 | Best star-pilot in the galaxy | 13.00% | ~66 |
 | Survivor | 12.00% | ~61 |
 | A cunning warrior | 11.00% | ~56 |
-| What's the cargo? | 10.00% | ~50 |
-| Never tell me the odds! | 10.00% | ~50 |
-| Impressive. Most impressive. | 10.00% | ~50 |
-| Judge me by my size, do you? | 10.00% | ~50 |
-| "Gonk? Gonk!" | 9.00% | ~45 |
+| What's the cargo? | 10.00% | ~51 |
+| Never tell me the odds! | 10.00% | ~51 |
+| Impressive. Most impressive. | 10.00% | ~51 |
+| "Gonk? Gonk!" | 9.00% | ~46 |
+| Judge me by my size, do you? | 9.00% | ~46 |
 | Distinguished | 8.00% | ~40 |
 | A tremor in the Force | 8.00% | ~40 |
 | Support the troops | 8.00% | ~40 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 505 (Ranked 273)  
+Progressed: 506 (Ranked 273)  
 Completed: 1 (0.20%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.20%) (Ranked 216)
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
-| 2023-10-08 | 505 | 1 |
+| 2023-10-08 | 506 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

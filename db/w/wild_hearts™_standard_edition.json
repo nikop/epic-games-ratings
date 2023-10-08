@@ -712,9 +712,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_32",
@@ -784,9 +784,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_40",
@@ -910,8 +910,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:04:55.8027849+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:05:11.5961628+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:03:12.0338112+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:04:55.8028426+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:03:21.3759388+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:05:11.5962108+00:00"
 }

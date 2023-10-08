@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -77,9 +77,9 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
@@ -275,8 +275,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:05:29.5467205+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:05:44.9654528+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:03:15.6507828+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:05:29.5467429+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:03:25.0441175+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:05:44.9654759+00:00"
 }

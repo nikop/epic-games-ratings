@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.70% | ~961 |
 | Magical Harmony | 0.70% | ~961 |
 | A Notch Above the Rest | 0.60% | ~824 |
+| Above the Norm | 0.60% | ~824 |
 | A Ronin Reborn | 0.60% | ~824 |
 | The King's Caprice | 0.60% | ~824 |
 | Big Game Hunting | 0.60% | ~824 |
@@ -63,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.60% | ~824 |
 | Mammonite | 0.60% | ~824 |
 | Wealth Beyond Measure | 0.60% | ~824 |
+| Fat Cat Tag Team | 0.60% | ~824 |
 | Miracle Alchemist | 0.60% | ~824 |
 | Laden with Loot | 0.60% | ~824 |
 | Seasoned Journeyman | 0.60% | ~824 |
@@ -73,7 +75,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.50% | ~686 |
 | Top of the World | 0.50% | ~686 |
 | Proud Paladin | 0.50% | ~686 |
-| Above the Norm | 0.50% | ~686 |
 | Constellated | 0.50% | ~686 |
 | Thirst for Knowledge | 0.50% | ~686 |
 | Booty by the Boatload | 0.50% | ~686 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.50% | ~686 |
 | Ritualist | 0.50% | ~686 |
 | By Your Powers Combined... | 0.50% | ~686 |
-| Fat Cat Tag Team | 0.50% | ~686 |
 | Necromancer Queen | 0.50% | ~686 |
 | Item of Renown | 0.50% | ~686 |
 | Master Merchant | 0.50% | ~686 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,292 (Ranked 73)  
+Progressed: 137,294 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 167 (0.12%) (Ranked 234)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,292 | 167 |
+| 2023-10-08 | 137,294 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,353 (Ranked 50)  

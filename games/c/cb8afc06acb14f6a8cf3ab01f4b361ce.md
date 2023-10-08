@@ -5,28 +5,28 @@ Rating: 4.15 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~91,284 |
-| May the Torchbearer light our way | 35.00% | ~86,350 |
-| A powerful aura was here | 22.00% | ~54,277 |
-| Let's raise the stakes!! | 9.00% | ~22,204 |
-| Your wounds… They are healing so fast! | 5.00% | ~12,336 |
-| Rumors are true | 4.00% | ~9,869 |
-| Pride is a sin, young Knight | 4.00% | ~9,869 |
-| Bring it on! | 4.00% | ~9,869 |
-| We'll be careful | 3.00% | ~7,401 |
-| Back to your senses | 2.00% | ~4,934 |
-| They tricked me | 2.00% | ~4,934 |
-| They won't last long | 2.00% | ~4,934 |
-| We need to talk | 1.00% | ~2,467 |
-| I took a risk | 1.00% | ~2,467 |
-| I feel drawn to it | 0.90% | ~2,220 |
-| Their fate is sealed | 0.70% | ~1,727 |
-| Here to stay | 0.60% | ~1,480 |
-| Counting on you | 0.60% | ~1,480 |
-| This is the end | 0.50% | ~1,234 |
-| We can choose to fight | 0.50% | ~1,234 |
-| You want more? I've got more! | 0.40% | ~987 |
-| Not even from this world | 0.30% | ~740 |
+| The touch of Chaos | 37.00% | ~91,357 |
+| May the Torchbearer light our way | 35.00% | ~86,419 |
+| A powerful aura was here | 22.00% | ~54,320 |
+| Let's raise the stakes!! | 9.00% | ~22,222 |
+| Your wounds… They are healing so fast! | 5.00% | ~12,346 |
+| Rumors are true | 4.00% | ~9,876 |
+| Pride is a sin, young Knight | 4.00% | ~9,876 |
+| Bring it on! | 4.00% | ~9,876 |
+| We'll be careful | 3.00% | ~7,407 |
+| Back to your senses | 2.00% | ~4,938 |
+| They tricked me | 2.00% | ~4,938 |
+| They won't last long | 2.00% | ~4,938 |
+| We need to talk | 1.00% | ~2,469 |
+| I took a risk | 1.00% | ~2,469 |
+| I feel drawn to it | 0.90% | ~2,222 |
+| Their fate is sealed | 0.70% | ~1,728 |
+| Here to stay | 0.60% | ~1,481 |
+| Counting on you | 0.60% | ~1,481 |
+| This is the end | 0.50% | ~1,235 |
+| We can choose to fight | 0.50% | ~1,235 |
+| You want more? I've got more! | 0.40% | ~988 |
+| Not even from this world | 0.30% | ~741 |
 | No damsels in distress | 0.10% | ~247 |
 | The immortal is bound to reborn | 0.10% | ~247 |
 | A legend among Chimeras | 0.10% | ~247 |
@@ -46,7 +46,7 @@ Rating: 4.15 (Ranked 912)
 | We strike as one | 0.10% | ~247 |
 | Chaos be damned! | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,713 (Ranked 52)  
+Progressed: 246,911 (Ranked 52)  
 Completed: 1 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 1 (0.00%) (Ranked 308)
 | 2023-10-05 | 227,187 | 1 |
 | 2023-10-06 | 236,994 | 1 |
 | 2023-10-07 | 245,139 | 1 |
-| 2023-10-08 | 246,713 | 1 |
+| 2023-10-08 | 246,911 | 1 |
 ## Awards
 Max (Character Customization): 37  (Ranked 447)  
 Sum: 37 (Ranked 479)  

@@ -4,8 +4,8 @@
   "ProductSlug": "f1-22",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -435,8 +435,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-24T20:09:32.332907+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:04:23.3356279+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:04:38.3105217+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.871+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:00:30.2402223+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:04:23.3357024+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:00:31.0864559+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:04:38.3105658+00:00"
 }

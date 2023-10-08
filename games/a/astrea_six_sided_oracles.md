@@ -4,32 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Noctuan Champion | 19.00% | ~9 |
+| Dicesmithing Time! | 17.00% | ~8 |
 | Mechanical Buddy | 17.00% | ~8 |
 | Meissa's Savior | 17.00% | ~8 |
 | Purification Pioneer | 17.00% | ~8 |
 | Apian Champion | 17.00% | ~8 |
-| Noctuan Champion | 17.00% | ~8 |
-| Dicesmithing Time! | 15.00% | ~7 |
 | Endless Tricks | 15.00% | ~7 |
 | Stellar Dismantler | 15.00% | ~7 |
 | Wild's Keeper | 15.00% | ~7 |
 | Lacertian Champion | 15.00% | ~7 |
 | Loyal Partner | 13.00% | ~6 |
 | Mind Illuminator | 13.00% | ~6 |
+| Sanctuary Guardian | 13.00% | ~6 |
 | Behenian Champion | 13.00% | ~6 |
 | Eridanian Champion | 13.00% | ~6 |
-| Sanctuary Guardian | 10.00% | ~5 |
 | Shard Spender | 10.00% | ~5 |
 | Unbeatable | 10.00% | ~5 |
 | Anomaly Destroyer | 8.00% | ~4 |
+| Astral Adventurer | 8.00% | ~4 |
 | Sadistic Plan | 8.00% | ~4 |
+| Star Killer | 8.00% | ~4 |
 | Stellar Haste | 8.00% | ~4 |
 | Aquarian Champion | 8.00% | ~4 |
-| Astral Adventurer | 6.00% | ~3 |
 | Can't touch this | 6.00% | ~3 |
 | Heart Gate | 6.00% | ~3 |
-| Star Killer | 6.00% | ~3 |
 | The Corruption Goddess | 6.00% | ~3 |
+| Wave Bender | 6.00% | ~3 |
 | Anomaly Control | 4.00% | ~2 |
 | Astral Seeker | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
@@ -38,7 +39,6 @@
 | Heavy Purger | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
 | The Goddes Avatar | 4.00% | ~2 |
-| Wave Bender | 4.00% | ~2 |
 | Apian Hero | 4.00% | ~2 |
 | Behenian Hero | 4.00% | ~2 |
 | Behenian Mastery | 4.00% | ~2 |

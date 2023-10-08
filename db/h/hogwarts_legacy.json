@@ -8676,9 +8676,9 @@
       "Count": 688
     }
   ],
-  "EOS_Progressed": 297993,
+  "EOS_Progressed": 297995,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27056,6 +27056,11 @@
       "Time": "2023-10-08T06:07:24.4073667+00:00",
       "NumProgressed": 297993,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-08T07:07:39.6712812+00:00",
+      "NumProgressed": 297995,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27075,7 +27080,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29799
+      "UsersEstimate": 29800
     },
     {
       "ID": "PFA_11",
@@ -27083,7 +27088,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29799
+      "UsersEstimate": 29800
     },
     {
       "ID": "PFA_12",
@@ -27099,7 +27104,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29799
+      "UsersEstimate": 29800
     },
     {
       "ID": "PFA_14",
@@ -27115,7 +27120,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23839
+      "UsersEstimate": 23840
     },
     {
       "ID": "PFA_16",
@@ -27139,7 +27144,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23839
+      "UsersEstimate": 23840
     },
     {
       "ID": "PFA_19",
@@ -27147,7 +27152,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23839
+      "UsersEstimate": 23840
     },
     {
       "ID": "PFA_2",
@@ -27171,7 +27176,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29799
+      "UsersEstimate": 29800
     },
     {
       "ID": "PFA_22",
@@ -27291,7 +27296,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26819
+      "UsersEstimate": 26820
     },
     {
       "ID": "PFA_36",
@@ -27323,7 +27328,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29799
+      "UsersEstimate": 29800
     },
     {
       "ID": "PFA_4",
@@ -27371,7 +27376,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23839
+      "UsersEstimate": 23840
     },
     {
       "ID": "PFA_45",
@@ -27419,14 +27424,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26819
+      "UsersEstimate": 26820
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297993,
+      "Progressed": 297995,
       "Completed": 482
     }
   ],
@@ -27434,8 +27439,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-07T19:57:12.8956953+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:07:24.4073663+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:07:39.6712806+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:57:42.0335059+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:07:24.407532+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:57:44.4365814+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:07:39.6714284+00:00"
 }

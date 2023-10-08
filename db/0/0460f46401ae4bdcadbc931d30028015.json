@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2229,
+  "EOS_Progressed": 2230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2023-10-08T06:06:38.1893524+00:00",
       "NumProgressed": 2229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T07:06:53.3745691+00:00",
+      "NumProgressed": 2230,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2088,7 +2093,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_7",
@@ -2119,7 +2124,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2229,
+      "Progressed": 2230,
       "Completed": 0
     }
   ],
@@ -2127,8 +2132,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-07T15:57:14.2140842+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:06:38.189352+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:06:53.3745686+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:57:44.953092+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:06:38.1893813+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:57:47.1719409+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:06:53.3745955+00:00"
 }

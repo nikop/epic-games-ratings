@@ -15,18 +15,18 @@ Rating: 4.50 (Ranked 572)
 | Cultured | 0.90% | ~237 |
 | Swift Rift Removers | 0.90% | ~237 |
 | Teamwork | 0.90% | ~237 |
+| There you are! | 0.90% | ~237 |
 | Vaporous Expansion | 0.90% | ~237 |
 | Back Off | 0.80% | ~210 |
 | Clutch Capture | 0.80% | ~210 |
-| There you are! | 0.80% | ~210 |
+| Icing on the Cake | 0.80% | ~210 |
 | Whoopsie | 0.80% | ~210 |
 | Animated | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
-| Icing on the Cake | 0.70% | ~184 |
+| Right back at ya | 0.70% | ~184 |
 | Terrifying | 0.70% | ~184 |
 | Ectoplasmic Entity | 0.60% | ~158 |
 | Ghostbuster In Training | 0.60% | ~158 |
-| Right back at ya | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
 | Welcome to the Crew | 0.60% | ~158 |
 | Side Hustle | 0.50% | ~131 |

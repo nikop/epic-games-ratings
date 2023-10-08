@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7302,
+  "EOS_Progressed": 7304,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4819,6 +4819,11 @@
       "Time": "2023-10-08T00:08:14.2997208+00:00",
       "NumProgressed": 7302,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-08T07:03:43.2918254+00:00",
+      "NumProgressed": 7304,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4846,7 +4851,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4862,7 +4867,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3870
+      "UsersEstimate": 3871
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4870,7 +4875,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -4878,7 +4883,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4910,7 +4915,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4918,7 +4923,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "AK_ON_TOWN",
@@ -4934,7 +4939,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -4942,7 +4947,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -4950,7 +4955,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -4958,7 +4963,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4966,7 +4971,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4974,7 +4979,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4982,7 +4987,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5004,9 +5009,9 @@
       "ID": "AK_TRAVELERS_RETURNED",
       "SetID": "dfmb89",
       "Name": "Travelers Returned",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1680
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5030,7 +5035,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5038,22 +5043,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7302,
+      "Progressed": 7304,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:03:33.0888209+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:03:43.2918249+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:11.1457517+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:02:12.8475363+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:03:33.0888772+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:03:13.1054998+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:03:43.2918801+00:00"
 }

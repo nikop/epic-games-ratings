@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2023-10-07T15:10:46.5647856+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T07:07:36.5723083+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2251,7 +2256,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Finish5SideMissions",
@@ -2259,7 +2264,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2267,7 +2272,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "GatlingVsArmor",
@@ -2275,7 +2280,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2299,7 +2304,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "MasteryOfCombat",
@@ -2355,7 +2360,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -2363,7 +2368,7 @@
       "Name": "Payback",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2371,7 +2376,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -2419,7 +2424,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2443,7 +2448,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MissionSalvage",
@@ -2451,7 +2456,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "MissionScavengingJob",
@@ -2459,7 +2464,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "MissionShipyard",
@@ -2491,7 +2496,7 @@
       "Name": "Ascension",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "MissionTheiaStep1",
@@ -2531,7 +2536,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "RiteOfTheStar",
@@ -2547,7 +2552,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "UseRepairDrones",
@@ -2563,7 +2568,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "WinARace",
@@ -2578,15 +2583,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:07:21.2787027+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:07:36.5723074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.1216494+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:00:21.8278154+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:07:21.2787866+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:00:22.6790525+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:07:36.5723544+00:00"
 }

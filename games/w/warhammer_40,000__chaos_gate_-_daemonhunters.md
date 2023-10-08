@@ -41,9 +41,9 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.70% | ~23 |
 | For the Machine God | 0.60% | ~20 |
 | Preservationist | 0.60% | ~20 |
+| Harvest No More | 0.60% | ~20 |
 | Death Comes For All | 0.60% | ~20 |
 | Hands-On Research | 0.50% | ~16 |
-| Harvest No More | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
 | Exercise in Restraint | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,254 (Ranked 187)  
+Progressed: 3,255 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-03 | 3,251 | 0 |
 | 2023-10-04 | 3,252 | 0 |
 | 2023-10-05 | 3,254 | 0 |
+| 2023-10-08 | 3,255 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 268)  
 Sum: 474 (Ranked 313)  

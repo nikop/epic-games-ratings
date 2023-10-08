@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
@@ -2038,6 +2038,11 @@
       "Time": "2023-10-07T15:08:33.6409722+00:00",
       "NumProgressed": 707,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-08T07:05:44.0784343+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2082,7 +2087,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2098,7 +2103,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "_08_Completion_10",
@@ -2146,7 +2151,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "_14_Completion_70",
@@ -2184,9 +2189,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 125,
-      "UsersEstimate": 49
+      "UsersEstimate": 42
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2257,7 +2262,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 22
     }
   ],
@@ -2265,8 +2270,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:05:28.5722728+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:05:44.0784338+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:57:48.5196549+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:05:28.5723269+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:57:50.6250182+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:05:44.0784722+00:00"
 }

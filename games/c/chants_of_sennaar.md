@@ -11,6 +11,8 @@
 | Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Open door | 2.00% | ~5 |
+| Feels like springtime | 2.00% | ~5 |
+| A Link to the Past | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
 | True G3M4R | 2.00% | ~5 |
@@ -24,9 +26,7 @@
 | Peace walker | 1.00% | ~3 |
 | A good beginning | 1.00% | ~3 |
 | Free at last | 1.00% | ~3 |
-| Feels like springtime | 1.00% | ~3 |
-| A Link to the Past | 1.00% | ~3 |
-| For its own good | 0.80% | ~2 |
+| For its own good | 1.00% | ~3 |
 | A great audience | 0.40% | ~1 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

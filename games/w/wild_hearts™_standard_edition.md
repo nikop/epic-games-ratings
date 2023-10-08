@@ -22,11 +22,11 @@
 | Helpful Heart | 56.00% | ~63 |
 | Counter Specialist | 54.00% | ~60 |
 | Bonds of Enmity | 52.00% | ~58 |
-| Axer of Auspice | 46.00% | ~52 |
+| Axer of Auspice | 47.00% | ~53 |
 | Mighty Marmelizer | 44.00% | ~49 |
 | Fair Means or Foul | 43.00% | ~48 |
 | Single Minded | 42.00% | ~47 |
-| Snare Specialist | 40.00% | ~45 |
+| Snare Specialist | 41.00% | ~46 |
 | Kemono at Heart | 40.00% | ~45 |
 | Karakuri Trail | 39.00% | ~44 |
 | Reincarnation Cycle Stopper | 36.00% | ~40 |

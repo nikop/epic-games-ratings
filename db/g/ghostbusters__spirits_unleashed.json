@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -14621,9 +14621,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 210
     },
     {
       "ID": "Legions",
@@ -14709,9 +14709,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 184
     },
     {
       "ID": "Rivalry",
@@ -14821,9 +14821,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 237
     },
     {
       "ID": "Tobins_Prodigy",
@@ -14878,8 +14878,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-07T20:58:52.6272407+00:00",
-  "LastChanged_Achievements": "2023-10-08T06:08:14.1136201+00:00",
+  "LastChanged_Achievements": "2023-10-08T07:08:18.9564162+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:59:37.0461858+00:00",
-  "LastUpdate_Achievements": "2023-10-08T06:08:14.113781+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:59:36.6690198+00:00",
+  "LastUpdate_Achievements": "2023-10-08T07:08:18.9565195+00:00"
 }
