@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -683,9 +683,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_60",
@@ -772,8 +772,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:04:53.6969077+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:04:54.6336339+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:57:26.1830165+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:04:53.6969622+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:57:24.648922+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:04:54.6336774+00:00"
 }

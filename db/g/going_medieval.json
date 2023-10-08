@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1310,9 +1310,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6133,
+  "EOS_Progressed": 6134,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -10545,6 +10545,11 @@
       "Time": "2023-10-08T04:04:54.9002813+00:00",
       "NumProgressed": 6133,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-08T05:04:55.6099601+00:00",
+      "NumProgressed": 6134,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -10588,7 +10593,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -10676,7 +10681,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -10684,7 +10689,7 @@
       "Name": "Feast or Famine",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -10700,7 +10705,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -10708,7 +10713,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -10732,7 +10737,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -10756,7 +10761,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -10764,7 +10769,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -10796,22 +10801,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6133,
+      "Progressed": 6134,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-05T19:58:13.7729259+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:04:54.9002809+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:04:55.6099594+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.8053112+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:00.3922801+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:04:54.900366+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:58:35.7941485+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:04:55.610034+00:00"
 }

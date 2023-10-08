@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,332 |
+| It wakes | 0.90% | ~8,333 |
 | Zealous | 0.80% | ~7,407 |
 | Skillful | 0.80% | ~7,407 |
 | Handyman | 0.60% | ~5,555 |
@@ -14,32 +14,32 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.60% | ~5,555 |
 | Survival Treasures | 0.60% | ~5,555 |
 | Make Some Noise | 0.60% | ~5,555 |
-| No one left behind | 0.50% | ~4,629 |
-| Medic | 0.50% | ~4,629 |
-| Nerves of steel | 0.50% | ~4,629 |
-| Bloody Millionaire | 0.50% | ~4,629 |
-| Sorted | 0.50% | ~4,629 |
-| Healthy Obsession | 0.50% | ~4,629 |
-| Resurgence | 0.50% | ~4,629 |
-| The Grand Sacrifice | 0.40% | ~3,703 |
-| Agonizing Escape | 0.40% | ~3,703 |
-| Backdoor Escape | 0.40% | ~3,703 |
-| I've got your back | 0.40% | ~3,703 |
-| Perfect Escape | 0.40% | ~3,703 |
-| Perfect Killing | 0.40% | ~3,703 |
-| I | 0.40% | ~3,703 |
-| Engineer | 0.40% | ~3,703 |
-| Close Shave | 0.40% | ~3,703 |
-| Preemptive Strike | 0.40% | ~3,703 |
-| Humanitarian | 0.40% | ~3,703 |
-| Apt Killer | 0.30% | ~2,777 |
-| Risk it all | 0.30% | ~2,777 |
-| Vulture | 0.30% | ~2,777 |
-| II | 0.30% | ~2,777 |
-| III | 0.30% | ~2,777 |
-| Wounded Healer | 0.30% | ~2,777 |
-| With Scars to Show | 0.30% | ~2,777 |
-| Second Act | 0.30% | ~2,777 |
+| No one left behind | 0.50% | ~4,630 |
+| Medic | 0.50% | ~4,630 |
+| Nerves of steel | 0.50% | ~4,630 |
+| Bloody Millionaire | 0.50% | ~4,630 |
+| Sorted | 0.50% | ~4,630 |
+| Healthy Obsession | 0.50% | ~4,630 |
+| Resurgence | 0.50% | ~4,630 |
+| The Grand Sacrifice | 0.40% | ~3,704 |
+| Agonizing Escape | 0.40% | ~3,704 |
+| Backdoor Escape | 0.40% | ~3,704 |
+| I've got your back | 0.40% | ~3,704 |
+| Perfect Escape | 0.40% | ~3,704 |
+| Perfect Killing | 0.40% | ~3,704 |
+| I | 0.40% | ~3,704 |
+| Engineer | 0.40% | ~3,704 |
+| Close Shave | 0.40% | ~3,704 |
+| Preemptive Strike | 0.40% | ~3,704 |
+| Humanitarian | 0.40% | ~3,704 |
+| Apt Killer | 0.30% | ~2,778 |
+| Risk it all | 0.30% | ~2,778 |
+| Vulture | 0.30% | ~2,778 |
+| II | 0.30% | ~2,778 |
+| III | 0.30% | ~2,778 |
+| Wounded Healer | 0.30% | ~2,778 |
+| With Scars to Show | 0.30% | ~2,778 |
+| Second Act | 0.30% | ~2,778 |
 | A bite for the Entity | 0.20% | ~1,852 |
 | Blood on your hands | 0.20% | ~1,852 |
 | Blood on your face | 0.20% | ~1,852 |
@@ -47,6 +47,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.20% | ~1,852 |
 | Gifts for the Fog | 0.20% | ~1,852 |
 | III-50 | 0.20% | ~1,852 |
+| Hemophobia | 0.20% | ~1,852 |
 | Shock Therapy | 0.20% | ~1,852 |
 | All Aboard | 0.20% | ~1,852 |
 | Leapfrog | 0.20% | ~1,852 |
@@ -93,7 +94,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | In the void she walks | 0.10% | ~926 |
 | From the void she kills | 0.10% | ~926 |
 | Adept Nurse | 0.10% | ~926 |
-| Hemophobia | 0.10% | ~926 |
 | Adept Nea | 0.10% | ~926 |
 | Triggered | 0.10% | ~926 |
 | Even Punishment | 0.10% | ~926 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925,829 (Ranked 14)  
+Progressed: 925,913 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 925,829 | 49 |
+| 2023-10-08 | 925,913 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,210 (Ranked 13)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4735,7 +4735,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 704921,
+  "EOS_Progressed": 704922,
   "EOS_Completed": 6400,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 9,
@@ -22945,6 +22945,11 @@
       "Time": "2023-10-08T04:04:36.1260861+00:00",
       "NumProgressed": 704921,
       "NumCompleted": 6400
+    },
+    {
+      "Time": "2023-10-08T05:04:39.6423728+00:00",
+      "NumProgressed": 704922,
+      "NumCompleted": 6400
     }
   ],
   "TotalAchievements": 49,
@@ -23020,7 +23025,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 563937
+      "UsersEstimate": 563938
     },
     {
       "ID": "AchClearElysium",
@@ -23028,7 +23033,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 465248
+      "UsersEstimate": 465249
     },
     {
       "ID": "AchClearElysiumEM",
@@ -23052,7 +23057,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148033
+      "UsersEstimate": 148034
     },
     {
       "ID": "AchClearTartarus",
@@ -23060,7 +23065,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 627380
+      "UsersEstimate": 627381
     },
     {
       "ID": "AchCrushedThanatos",
@@ -23068,7 +23073,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 317214
+      "UsersEstimate": 317215
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -23124,7 +23129,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 479346
+      "UsersEstimate": 479347
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -23172,7 +23177,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 246722
+      "UsersEstimate": 246723
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -23180,7 +23185,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 444100
+      "UsersEstimate": 444101
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -23236,7 +23241,7 @@
       "Name": "Harsh Conditions",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 49344
+      "UsersEstimate": 49345
     },
     {
       "ID": "AchPickedManyBoons",
@@ -23268,7 +23273,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 183279
+      "UsersEstimate": 183280
     },
     {
       "ID": "AchReachedEpilogue",
@@ -23276,7 +23281,7 @@
       "Name": "One for the Ages",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 49344
+      "UsersEstimate": 49345
     },
     {
       "ID": "AchSilverSkellyTrophy",
@@ -23316,7 +23321,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500494
+      "UsersEstimate": 500495
     },
     {
       "ID": "AchWeaponClears",
@@ -23332,7 +23337,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281968
+      "UsersEstimate": 281969
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -23347,15 +23352,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 704921,
+      "Progressed": 704922,
       "Completed": 6400
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-10-08T02:59:31.8279491+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:04:36.1260854+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:04:39.6423721+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:28.9852152+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:00:15.6620976+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:04:36.126367+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:34.385077+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:04:39.6425161+00:00"
 }

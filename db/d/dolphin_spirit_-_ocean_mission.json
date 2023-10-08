@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -91,6 +91,11 @@
       "Time": "2023-10-02T16:03:33.2814678+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T05:05:45.2741165+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-15T16:02:27.1168778+00:00",
@@ -125,7 +130,7 @@
       "ID": "ID_03",
       "SetID": "2bmd16d",
       "Name": "Recycling newbie",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -213,7 +218,7 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -341,7 +346,7 @@
       "ID": "ID_30",
       "SetID": "2bmd16d",
       "Name": "Welcome to Maupiroa",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -358,14 +363,14 @@
     {
       "ID": "2bmd16d",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:05:54.5796108+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:45.2741158+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.5029359+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:31.1110212+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:05:54.5796402+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:00.1098403+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:45.2741397+00:00"
 }

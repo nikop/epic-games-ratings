@@ -14,8 +14,8 @@
 | Honorarium of Corporate Service | 66.00% | ~398 |
 | Medal of Exploration II | 59.00% | ~356 |
 | Council Legion of Merit | 59.00% | ~356 |
+| Meritorious Service Medal | 57.00% | ~344 |
 | Medal of Honor | 56.00% | ~338 |
-| Meritorious Service Medal | 56.00% | ~338 |
 | Turian Ally | 56.00% | ~338 |
 | Charismatic | 56.00% | ~338 |
 | Soldier | 53.00% | ~320 |
@@ -25,18 +25,18 @@
 | Soldier Ally | 50.00% | ~302 |
 | Colonial Savior | 49.00% | ~295 |
 | Paramour I | 46.00% | ~277 |
+| Scientist | 46.00% | ~277 |
 | Sentinel Ally | 45.00% | ~271 |
 | Krogan Ally | 45.00% | ~271 |
-| Scientist | 45.00% | ~271 |
-| Merciless | 44.00% | ~265 |
+| Merciless | 45.00% | ~271 |
 | Head Hunter | 42.00% | ~253 |
 | Veteran | 41.00% | ~247 |
 | Missing in Action | 41.00% | ~247 |
 | Very Elusive | 41.00% | ~247 |
 | Operative | 41.00% | ~247 |
 | Scholar | 41.00% | ~247 |
-| Power Full | 38.00% | ~229 |
-| The Professor | 37.00% | ~223 |
+| Power Full | 39.00% | ~235 |
+| The Professor | 38.00% | ~229 |
 | Completionist | 36.00% | ~217 |
 | The Archangel | 36.00% | ~217 |
 | Archivist | 35.00% | ~211 |
@@ -60,11 +60,11 @@
 | Fade Away | 30.00% | ~181 |
 | Revenge! | 30.00% | ~181 |
 | Heart of Darkness | 30.00% | ~181 |
+| Focused | 29.00% | ~175 |
 | Treason | 29.00% | ~175 |
 | Agent | 29.00% | ~175 |
 | Digital Exorcist | 29.00% | ~175 |
 | Driven | 29.00% | ~175 |
-| Focused | 28.00% | ~169 |
 | Cat's in the Cradle | 28.00% | ~169 |
 | Doppelganger | 28.00% | ~169 |
 | Bringer of War | 28.00% | ~169 |
@@ -111,10 +111,10 @@
 | Long Service Medal | 11.00% | ~66 |
 | Bruiser | 11.00% | ~66 |
 | Warp Mastery | 11.00% | ~66 |
+| Paramour III | 10.00% | ~60 |
 | Lift Mastery | 10.00% | ~60 |
 | Overload Specialist | 10.00% | ~60 |
 | Hijacker | 9.00% | ~54 |
-| Paramour III | 9.00% | ~54 |
 | Always Prepared | 8.00% | ~48 |
 | Sky High | 7.00% | ~42 |
 | Damping Specialist | 7.00% | ~42 |

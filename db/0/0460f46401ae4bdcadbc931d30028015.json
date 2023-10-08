@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2223,
+  "EOS_Progressed": 2224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1930,6 +1930,11 @@
       "Time": "2023-10-08T04:06:04.2696317+00:00",
       "NumProgressed": 2223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T05:05:53.0807122+00:00",
+      "NumProgressed": 2224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1974,7 +1979,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "achievement_14",
@@ -2070,15 +2075,15 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 556
     },
     {
       "ID": "achievement_7",
@@ -2109,7 +2114,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2223,
+      "Progressed": 2224,
       "Completed": 0
     }
   ],
@@ -2117,8 +2122,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-07T15:57:14.2140842+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:06:04.2696313+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:53.0807115+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:57:31.4163368+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:06:04.2696638+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:57:28.0280697+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:53.0807379+00:00"
 }

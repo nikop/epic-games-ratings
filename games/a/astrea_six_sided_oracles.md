@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Apian Champion | 17.00% | ~8 |
 | Noctuan Champion | 17.00% | ~8 |
+| Mechanical Buddy | 15.00% | ~7 |
 | Meissa's Savior | 15.00% | ~7 |
 | Purification Pioneer | 15.00% | ~7 |
 | Stellar Dismantler | 15.00% | ~7 |
@@ -13,7 +14,6 @@
 | Dicesmithing Time! | 13.00% | ~6 |
 | Endless Tricks | 13.00% | ~6 |
 | Loyal Partner | 13.00% | ~6 |
-| Mechanical Buddy | 13.00% | ~6 |
 | Wild's Keeper | 13.00% | ~6 |
 | Behenian Champion | 13.00% | ~6 |
 | Eridanian Champion | 13.00% | ~6 |

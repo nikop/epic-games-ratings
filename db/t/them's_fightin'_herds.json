@@ -3,7 +3,7 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 336,
-  "Ranking_Popularity": 495,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 308,
@@ -256,9 +256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230734,
+  "EOS_Progressed": 230735,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17946,6 +17946,11 @@
       "Time": "2023-10-08T04:05:26.0462753+00:00",
       "NumProgressed": 230734,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T05:05:21.9178757+00:00",
+      "NumProgressed": 230735,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -18021,7 +18026,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83064
+      "UsersEstimate": 83065
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -18117,7 +18122,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50761
+      "UsersEstimate": 50762
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -18180,7 +18185,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230734,
+      "Progressed": 230735,
       "Completed": 5
     }
   ],
@@ -18188,8 +18193,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:05:26.0462747+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:21.9178751+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.3872151+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:00:24.9496351+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:05:26.0464411+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:42.671286+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:21.9179988+00:00"
 }

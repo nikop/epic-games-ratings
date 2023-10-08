@@ -2176,9 +2176,9 @@
       "ID": "HotGuy",
       "SetID": "5lok9mm",
       "Name": "Too hot",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 453
     },
     {
       "ID": "KneeBending",
@@ -2400,8 +2400,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-10-03T15:58:07.9846198+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:03:33.9518827+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:03:49.5534454+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:17.7773925+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:57.7978149+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:03:33.9519526+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:20.1675509+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:03:49.5535018+00:00"
 }

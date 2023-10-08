@@ -18,8 +18,8 @@ Rating: 3.94 (Ranked 977)
 | Dragonslayer | 0.60% | ~533 |
 | Rockay Rex | 0.60% | ~533 |
 | Hidden Sonata | 0.50% | ~444 |
+| Track Star | 0.50% | ~444 |
 | Case Closed | 0.50% | ~444 |
-| Track Star | 0.40% | ~356 |
 | Headhunter | 0.40% | ~356 |
 | True Player | 0.40% | ~356 |
 | I Like Trains | 0.30% | ~267 |
@@ -221,14 +221,14 @@ Completed: 48 (0.05%) (Ranked 265)
 | 2023-10-08 | 88,887 | 48 |
 ## Awards
 Max (Diverse Characters): 481  (Ranked 205)  
-Sum: 2,294 (Ranked 193)  
-Diff (max vs sum): 12  
+Sum: 2,296 (Ranked 194)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 481 |
 | This game has Quickly Understood Controls | 467 |
+| This game is Highly Recommended | 455 |
 | This game has Challenging Combat | 454 |
-| This game is Highly Recommended | 453 |
 | This game has Amazing Characters | 439 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -426,3 +426,4 @@ Diff (max vs sum): 12
 | 2023-10-05 | 3.94 | 479 | 2,274 |
 | 2023-10-06 | 3.94 | 481 | 2,288 |
 | 2023-10-07 | 3.94 | 481 | 2,294 |
+| 2023-10-08 | 3.94 | 481 | 2,296 |

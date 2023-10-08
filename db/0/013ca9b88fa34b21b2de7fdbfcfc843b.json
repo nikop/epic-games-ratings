@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6273,
+  "EOS_Progressed": 6275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3640,6 +3640,11 @@
       "Time": "2023-10-08T04:05:19.8173346+00:00",
       "NumProgressed": 6273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T05:05:16.9002738+00:00",
+      "NumProgressed": 6275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3652,7 +3657,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4581
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3660,7 +3665,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3740,7 +3745,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3748,7 +3753,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3756,7 +3761,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3764,7 +3769,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -3788,7 +3793,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3802,9 +3807,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3765
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3812,7 +3817,7 @@
       "Name": "Mist Walker",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -3828,7 +3833,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3900,7 +3905,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -3931,7 +3936,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6273,
+      "Progressed": 6275,
       "Completed": 0
     }
   ],
@@ -3939,8 +3944,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-06T18:59:22.3209913+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:05:19.8173339+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:16.9002729+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:31.4400185+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:05:19.8174179+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:00.3437291+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:16.9003194+00:00"
 }

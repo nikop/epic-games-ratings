@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2544,6 +2544,11 @@
       "Time": "2023-10-08T04:07:28.0468619+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T05:07:01.1478025+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2564,7 +2569,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_11",
@@ -2596,7 +2601,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_15",
@@ -2723,7 +2728,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 0
     }
   ],
@@ -2731,8 +2736,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:07:28.0468612+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:07:01.147802+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:58:24.6492656+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:07:28.0468883+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:58:08.5447287+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:07:01.1478273+00:00"
 }

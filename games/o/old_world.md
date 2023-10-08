@@ -10,28 +10,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
-| Intrepid | 0.90% | ~130 |
-| Kushite Paganism | 0.90% | ~130 |
+| Intrepid | 0.90% | ~131 |
+| Kushite Paganism | 0.90% | ~131 |
 | Able | 0.80% | ~116 |
 | Architect | 0.80% | ~116 |
 | Good | 0.80% | ~116 |
 | Learned | 0.80% | ~116 |
 | Mason | 0.80% | ~116 |
+| Noble | 0.80% | ~116 |
 | Pioneer | 0.80% | ~116 |
 | Strong | 0.80% | ~116 |
 | Hanging Gardens | 0.80% | ~116 |
 | Trade Caravan | 0.80% | ~116 |
 | Glorious | 0.70% | ~101 |
 | Just | 0.70% | ~101 |
-| Noble | 0.70% | ~101 |
 | Oracle | 0.70% | ~101 |
 | Judaism | 0.70% | ~101 |
 | Naming Landmarks | 0.70% | ~101 |
 | Enlightened | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
+| Magnificent | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
 | Developing Cities | 0.60% | ~87 |
 | Ishtar Gate | 0.60% | ~87 |
+| Lighthouse | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
@@ -39,12 +41,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.50% | ~72 |
 | Brilliant | 0.50% | ~72 |
 | Fountainhead | 0.50% | ~72 |
-| Magnificent | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
 | Strong Cities | 0.50% | ~72 |
 | Able Difficulty | 0.50% | ~72 |
 | Great Ziggurat | 0.50% | ~72 |
-| Lighthouse | 0.50% | ~72 |
 | Learn to Play 1 | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Roman Paganism | 0.50% | ~72 |
@@ -55,42 +55,44 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.40% | ~58 |
 | Artisans | 0.40% | ~58 |
 | Furious Family | 0.40% | ~58 |
+| Apadana | 0.40% | ~58 |
 | Colossus | 0.40% | ~58 |
 | Musaeum | 0.40% | ~58 |
 | Necropolis | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
 | Manichaeism | 0.40% | ~58 |
 | Egyptian Paganism | 0.40% | ~58 |
-| Regicide | 0.30% | ~43 |
-| Beloved | 0.30% | ~43 |
-| Drillmaster | 0.30% | ~43 |
-| Conqueror | 0.30% | ~43 |
-| Intercessor | 0.30% | ~43 |
-| Mighty | 0.30% | ~43 |
-| Valiant | 0.30% | ~43 |
-| Just Difficulty | 0.30% | ~43 |
-| Champions | 0.30% | ~43 |
-| Patrons | 0.30% | ~43 |
-| Sages | 0.30% | ~43 |
-| Acropolis | 0.30% | ~43 |
-| Apadana | 0.30% | ~43 |
-| Circus Maximus | 0.30% | ~43 |
-| Mausoleum | 0.30% | ~43 |
-| Pantheon | 0.30% | ~43 |
-| Learn to Play 3 | 0.30% | ~43 |
-| Persian Paganism | 0.30% | ~43 |
-| Building Wonders | 0.30% | ~43 |
-| Legalism | 0.30% | ~43 |
-| Mythology | 0.30% | ~43 |
-| Redemption | 0.30% | ~43 |
-| Points Victory | 0.30% | ~43 |
-| Win a Single Player Game | 0.30% | ~43 |
+| Regicide | 0.30% | ~44 |
+| Beloved | 0.30% | ~44 |
+| Drillmaster | 0.30% | ~44 |
+| Conqueror | 0.30% | ~44 |
+| Intercessor | 0.30% | ~44 |
+| Mighty | 0.30% | ~44 |
+| Valiant | 0.30% | ~44 |
+| Just Difficulty | 0.30% | ~44 |
+| Champions | 0.30% | ~44 |
+| Patrons | 0.30% | ~44 |
+| Sages | 0.30% | ~44 |
+| Acropolis | 0.30% | ~44 |
+| Circus Maximus | 0.30% | ~44 |
+| Mausoleum | 0.30% | ~44 |
+| Pantheon | 0.30% | ~44 |
+| Learn to Play 3 | 0.30% | ~44 |
+| Persian Paganism | 0.30% | ~44 |
+| Building Wonders | 0.30% | ~44 |
+| Legalism | 0.30% | ~44 |
+| Mythology | 0.30% | ~44 |
+| Redemption | 0.30% | ~44 |
+| Double Victory | 0.30% | ~44 |
+| Points Victory | 0.30% | ~44 |
+| Win a Single Player Game | 0.30% | ~44 |
 | Devout | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
 | Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
+| Clerics | 0.20% | ~29 |
 | Hunters | 0.20% | ~29 |
 | Landowners | 0.20% | ~29 |
 | Riders | 0.20% | ~29 |
@@ -110,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.20% | ~29 |
 | Assyrian Paganism | 0.20% | ~29 |
 | Economic Reform | 0.20% | ~29 |
+| Industrial Progress | 0.20% | ~29 |
 | Military Prestige | 0.20% | ~29 |
 | Dualism | 0.20% | ~29 |
 | Gnosticism | 0.20% | ~29 |
@@ -121,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.20% | ~29 |
 | Turreted Elephant | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
-| Double Victory | 0.20% | ~29 |
 | The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
@@ -172,7 +174,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.10% | ~14 |
 | Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
-| Clerics | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~14 |
 | Capturing Cities | 0.10% | ~14 |
 | Ten Crowns | 0.10% | ~14 |
-| Industrial Progress | 0.10% | ~14 |
 | Enlightenment | 0.10% | ~14 |
 | Word of God | 0.10% | ~14 |
 | Cataphract Archer | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,497 (Ranked 134)  
+Progressed: 14,500 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,497 | 5 |
+| 2023-10-08 | 14,500 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

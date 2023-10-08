@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 977,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3856,10 +3856,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2294,
       "NumberOfAwardsMax": 481
+    },
+    {
+      "Time": "2023-10-08T04:59:19.3337329+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2296,
+      "NumberOfAwardsMax": 481
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2294,
+  "NumberOfAwards": 2296,
   "NumberOfAwardsMax": 481,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3903,7 +3909,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 453
+      "Count": 455
     },
     {
       "Text": "This game has a Silly Community",
@@ -3914,7 +3920,7 @@
   ],
   "EOS_Progressed": 88887,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21593,9 +21599,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_0015",
@@ -21903,9 +21909,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-07T21:59:17.9091098+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:04:25.6953759+00:00",
+  "LastChanged": "2023-10-08T04:59:19.3337326+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:04:31.2493372+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:56.715291+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:04:25.6955688+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:19.3337334+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:04:31.2494666+00:00"
 }

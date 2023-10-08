@@ -6,8 +6,8 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -77,11 +77,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.4,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -442,6 +442,11 @@
       "Time": "2023-10-07T23:08:15.7094175+00:00",
       "NumProgressed": 430,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T05:09:21.1193237+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -451,17 +456,17 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 375
     },
     {
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 151
     },
     {
       "ID": "dep4_achievement_11",
@@ -493,7 +498,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "dep4_achievement_15",
@@ -509,7 +514,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "dep4_achievement_17",
@@ -525,7 +530,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dep4_achievement_19",
@@ -541,7 +546,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "dep4_achievement_20",
@@ -563,9 +568,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     },
     {
       "ID": "dep4_achievement_23",
@@ -581,7 +586,7 @@
       "Name": "Thuna...?",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "dep4_achievement_25",
@@ -603,9 +608,9 @@
       "ID": "dep4_achievement_27",
       "SetID": "5d32b60",
       "Name": "The customer is always right",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "dep4_achievement_28",
@@ -629,7 +634,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_30",
@@ -691,9 +696,9 @@
       "ID": "dep4_achievement_4",
       "SetID": "5d32b60",
       "Name": "Funtime\u0027s over",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 224
     },
     {
       "ID": "dep4_achievement_5",
@@ -701,7 +706,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "dep4_achievement_6",
@@ -740,7 +745,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 6
     }
   ],
@@ -748,8 +753,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:08:23.8554151+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:09:21.1193231+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:00:26.9797771+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:08:23.8554536+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:59:45.0886623+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:09:21.1193528+00:00"
 }

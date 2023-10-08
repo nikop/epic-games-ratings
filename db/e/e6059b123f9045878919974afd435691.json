@@ -2353,9 +2353,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 300
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2425,9 +2425,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 240
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2600,8 +2600,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:03:38.9596096+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:03:53.7163105+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:57:08.9887245+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:03:38.9597113+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:57:10.7823379+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:03:53.716388+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -345,9 +345,9 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HOPE",
@@ -369,9 +369,9 @@
       "ID": "ACH_JIGSAW",
       "SetID": "88d7anj",
       "Name": "Jigsaw",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LOST",
@@ -449,9 +449,9 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_RAGE",
@@ -465,9 +465,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -481,9 +481,9 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -496,8 +496,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:05:45.4286969+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:37.6076644+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:17.5744783+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:58:43.0164328+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:05:45.4287285+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:58:22.3780544+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:37.6076861+00:00"
 }

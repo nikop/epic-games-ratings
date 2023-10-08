@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1144,9 +1144,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13135,
+  "EOS_Progressed": 13136,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12454,6 +12454,11 @@
       "Time": "2023-10-08T01:54:06.1796963+00:00",
       "NumProgressed": 13135,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-08T05:06:59.4357879+00:00",
+      "NumProgressed": 13136,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12465,7 +12470,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10639
+      "UsersEstimate": 10640
     },
     {
       "ID": "ACH02",
@@ -12473,7 +12478,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH03",
@@ -12744,7 +12749,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13135,
+      "Progressed": 13136,
       "Completed": 49
     }
   ],
@@ -12752,8 +12757,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-07T18:58:31.3668814+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:07:26.2525211+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:06:59.4357873+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:13.151585+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:07:26.2526423+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:58:45.764885+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:06:59.4358664+00:00"
 }

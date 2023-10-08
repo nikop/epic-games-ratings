@@ -306,17 +306,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "beat_c1a_bronze",
@@ -881,8 +881,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:04:26.7036559+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:04:32.1185856+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.4295563+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:59:19.0901449+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:04:26.7037893+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:58:50.4588242+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:04:32.1186832+00:00"
 }

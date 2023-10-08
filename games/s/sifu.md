@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,555 (Ranked 20)  
+Progressed: 715,556 (Ranked 20)  
 Completed: 12,915 (1.80%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 12,915 (1.80%) (Ranked 113)
 | 2023-10-05 | 715,509 | 12,910 |
 | 2023-10-06 | 715,532 | 12,912 |
 | 2023-10-07 | 715,550 | 12,915 |
-| 2023-10-08 | 715,555 | 12,915 |
+| 2023-10-08 | 715,556 | 12,915 |
 ## Awards
 Max (Great Boss Battles): 6,644  (Ranked 54)  
 Sum: 11,520 (Ranked 83)  

@@ -57,7 +57,7 @@ Number of Ratings: 209  (23.09.2022)
 | But wait... ...There's more... | 40.00% | ~906 |
 | So much force | 35.00% | ~793 |
 | You feel fully engaged | 24.00% | ~544 |
-| Too hot | 19.00% | ~431 |
+| Too hot | 20.00% | ~453 |
 | All the chests | 14.00% | ~317 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,266 (Ranked 197)  

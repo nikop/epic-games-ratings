@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6972,
+  "EOS_Progressed": 6975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3668,6 +3668,11 @@
       "Time": "2023-10-08T04:08:28.5499415+00:00",
       "NumProgressed": 6972,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T05:09:24.9487805+00:00",
+      "NumProgressed": 6975,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3680,7 +3685,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ARUpgraded1",
@@ -3696,7 +3701,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BDPurchased1",
@@ -3712,7 +3717,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CEUpgraded1",
@@ -3728,7 +3733,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "CreditsSpent50000",
@@ -3800,7 +3805,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "GamesPlayed10",
@@ -3808,7 +3813,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "GamesPlayed100",
@@ -3864,7 +3869,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "HASPurchased1",
@@ -3896,7 +3901,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "HSUPurchased1",
@@ -3920,7 +3925,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "IGPurchased1",
@@ -3928,7 +3933,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "IHBUpgraded1",
@@ -3944,7 +3949,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "InhibitorKills3",
@@ -4056,7 +4061,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "MinionKills200",
@@ -4088,7 +4093,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "NeutralKills200",
@@ -4112,7 +4117,7 @@
       "Name": "10 Eliminations",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "PlayerKills100",
@@ -4200,7 +4205,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "SPurchased1",
@@ -4271,7 +4276,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6972,
+      "Progressed": 6975,
       "Completed": 1
     }
   ],
@@ -4279,8 +4284,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:08:28.549941+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:09:24.9487799+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:00:59.3771323+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:08:28.5500822+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:00:09.0064728+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:09:24.9489028+00:00"
 }

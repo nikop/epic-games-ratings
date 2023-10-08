@@ -4020,7 +4020,7 @@
       "Count": 514
     }
   ],
-  "EOS_Progressed": 10640,
+  "EOS_Progressed": 10641,
   "EOS_Completed": 250,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 7,
@@ -15235,6 +15235,11 @@
       "Time": "2023-10-08T04:07:03.9909013+00:00",
       "NumProgressed": 10640,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-10-08T05:06:41.3999583+00:00",
+      "NumProgressed": 10641,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 15,
@@ -15286,7 +15291,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "Duty_Bound",
@@ -15302,7 +15307,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "Generous",
@@ -15318,7 +15323,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7448
+      "UsersEstimate": 7449
     },
     {
       "ID": "Miner",
@@ -15342,7 +15347,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "Thorn_Cleaner",
@@ -15365,7 +15370,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10640,
+      "Progressed": 10641,
       "Completed": 250
     }
   ],
@@ -15373,8 +15378,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-07T23:58:10.6998464+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:07:03.9909009+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:06:41.3999577+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:58:03.7945778+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:07:03.9909889+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:57:53.9292389+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:06:41.4000214+00:00"
 }

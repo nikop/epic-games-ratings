@@ -27,7 +27,7 @@
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
 | For its own good | 0.80% | ~2 |
-| A great audience | 0.00% | ~0 |
+| A great audience | 0.40% | ~1 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 260 (Ranked 324)  

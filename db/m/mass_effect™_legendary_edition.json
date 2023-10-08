@@ -1372,9 +1372,9 @@
       "ID": "achievement_102",
       "SetID": "d252ncf",
       "Name": "Focused",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_103",
@@ -1548,9 +1548,9 @@
       "ID": "achievement_122",
       "SetID": "d252ncf",
       "Name": "Paramour III",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_123",
@@ -1636,9 +1636,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_19",
@@ -1908,9 +1908,9 @@
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_5",
@@ -2044,9 +2044,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_65",
@@ -2108,9 +2108,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_72",
@@ -2132,9 +2132,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_75",
@@ -2368,8 +2368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-08T04:05:53.7596807+00:00",
+  "LastChanged_Achievements": "2023-10-08T05:05:44.8461771+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:00:52.983511+00:00",
-  "LastUpdate_Achievements": "2023-10-08T04:05:53.7599638+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:00:04.0744745+00:00",
+  "LastUpdate_Achievements": "2023-10-08T05:05:44.8463891+00:00"
 }
