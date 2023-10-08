@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.11% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.03% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -49,7 +49,7 @@
 | 47 | [Scorn](games/s/scorn.md) | 7.05% |
 | 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.74% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
-| 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
+| 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.35% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 52 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 53 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -64,7 +64,7 @@
 | 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
-| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.31% |
+| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.27% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
@@ -116,8 +116,8 @@
 | 114 | [Sifu](games/s/sifu.md) | 1.80% |
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
-| 116 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.72% |
-| 118 | [Somerville](games/s/somerville.md) | 1.70% |
+| 117 | [Somerville](games/s/somerville.md) | 1.70% |
+| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.69% |
 | 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -158,14 +158,14 @@
 | 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
 | 157 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 157 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.62% |
-| 159 | [Haven](games/h/haven.md) | 0.61% |
-| 160 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
-| 160 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
-| 162 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
-| 162 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 162 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
-| 165 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
-| 166 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
+| 157 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
+| 160 | [Haven](games/h/haven.md) | 0.61% |
+| 161 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 161 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
+| 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
+| 163 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 163 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
+| 166 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 167 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 167 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 169 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
