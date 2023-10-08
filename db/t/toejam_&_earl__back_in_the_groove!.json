@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57224,
+  "EOS_Progressed": 57226,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10443,6 +10443,11 @@
       "Time": "2023-10-08T03:06:16.1259172+00:00",
       "NumProgressed": 57224,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T04:07:04.4024368+00:00",
+      "NumProgressed": 57226,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10462,7 +10467,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "BoomBox",
@@ -10598,7 +10603,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "HarshLove",
@@ -10710,7 +10715,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "RhythmStar",
@@ -10750,7 +10755,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "StruckLove",
@@ -10790,7 +10795,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "TimelySplash",
@@ -10798,7 +10803,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "TotalBummer",
@@ -10845,7 +10850,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57224,
+      "Progressed": 57226,
       "Completed": 6
     }
   ],
@@ -10853,8 +10858,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:06:16.1259165+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:07:04.4024361+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0987806+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:04.3520692+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:06:16.1260168+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:01.1639694+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:07:04.4026305+00:00"
 }

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to the Tower | 5.00% | ~13 |
+| The Preacher's fate | 4.00% | ~10 |
 | That's the spirit | 4.00% | ~10 |
-| The Preacher's fate | 3.00% | ~8 |
-| The great escape | 3.00% | ~8 |
+| The great escape | 4.00% | ~10 |
 | Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Open door | 2.00% | ~5 |
@@ -17,16 +17,16 @@
 | Champollion | 2.00% | ~5 |
 | Scholar | 2.00% | ~5 |
 | A new dawn | 2.00% | ~5 |
+| The darkness | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
 | I did it | 1.00% | ~3 |
 | In this together | 1.00% | ~3 |
 | Peace walker | 1.00% | ~3 |
 | A good beginning | 1.00% | ~3 |
+| Free at last | 1.00% | ~3 |
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
-| Free at last | 0.80% | ~2 |
 | For its own good | 0.80% | ~2 |
-| The darkness | 0.80% | ~2 |
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

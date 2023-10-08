@@ -5364,9 +5364,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -5667,8 +5667,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:06:13.0556774+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:07:00.8149527+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:10.6335037+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:06:13.055757+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:09.0837043+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:07:00.815074+00:00"
 }

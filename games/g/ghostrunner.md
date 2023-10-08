@@ -8,13 +8,13 @@ Number of Ratings: 1,047  (23.09.2022)
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~14,891 |
 | Sword Runner | 61.00% | ~11,952 |
-| Running out of breath | 54.00% | ~10,580 |
-| Wallrunner | 53.00% | ~10,384 |
+| Running out of breath | 54.00% | ~10,581 |
+| Wallrunner | 53.00% | ~10,385 |
 | Homerunner | 45.00% | ~8,817 |
 | Out of order | 44.00% | ~8,621 |
 | I call it luck | 43.00% | ~8,425 |
-| Where are my Keys? | 40.00% | ~7,837 |
-| Back to hell | 36.00% | ~7,053 |
+| Where are my Keys? | 40.00% | ~7,838 |
+| Back to hell | 37.00% | ~7,250 |
 | Perfection | 32.00% | ~6,270 |
 | Why not both | 30.00% | ~5,878 |
 | Sword to a gunfight | 29.00% | ~5,682 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Control freak | 27.00% | ~5,290 |
 | Running Wild | 27.00% | ~5,290 |
 | Finish line | 26.00% | ~5,094 |
-| Unstoppable force | 22.00% | ~4,310 |
-| Wave of mutilation | 22.00% | ~4,310 |
+| Unstoppable force | 22.00% | ~4,311 |
+| Wave of mutilation | 22.00% | ~4,311 |
 | Can't Run Can't Hide | 17.00% | ~3,331 |
 | R is for Running | 16.00% | ~3,135 |
 | Dead in the air | 15.00% | ~2,939 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~78 |
 | Up Close And Personal | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,593 (Ranked 125)  
+Progressed: 19,594 (Ranked 125)  
 Completed: 73 (0.37%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 73 (0.37%) (Ranked 186)
 | 2023-10-05 | 19,471 | 73 |
 | 2023-10-06 | 19,520 | 73 |
 | 2023-10-07 | 19,589 | 73 |
-| 2023-10-08 | 19,593 | 73 |
+| 2023-10-08 | 19,594 | 73 |
 ## Awards
 Max (Great Boss Battles): 502  (Ranked 203)  
 Sum: 719 (Ranked 281)  

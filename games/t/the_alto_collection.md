@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,316 |
-| Finding Your Footing | 26.00% | ~10,897 |
-| Nomad | 17.00% | ~7,125 |
-| Picking Up Speed | 16.00% | ~6,706 |
-| Welcome Maya | 15.00% | ~6,287 |
-| Scout | 11.00% | ~4,610 |
-| Sightseer | 11.00% | ~4,610 |
-| Amateur | 9.00% | ~3,772 |
+| Rookie | 27.00% | ~11,318 |
+| Finding Your Footing | 26.00% | ~10,899 |
+| Nomad | 17.00% | ~7,126 |
+| Picking Up Speed | 16.00% | ~6,707 |
+| Welcome Maya | 15.00% | ~6,288 |
+| Scout | 11.00% | ~4,611 |
+| Sightseer | 11.00% | ~4,611 |
+| Amateur | 9.00% | ~3,773 |
 | Unlock Maya | 8.00% | ~3,353 |
 | Enter Paz | 8.00% | ~3,353 |
 | Wanderer | 8.00% | ~3,353 |
@@ -21,13 +21,13 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,096 |
 | One With The Board | 5.00% | ~2,096 |
 | Voyager | 5.00% | ~2,096 |
-| Izel Has Arrived | 4.00% | ~1,676 |
-| Junkie | 3.00% | ~1,257 |
-| Traveler | 3.00% | ~1,257 |
-| Journeyer | 3.00% | ~1,257 |
-| Unlock Paz | 3.00% | ~1,257 |
-| Human Flight | 3.00% | ~1,257 |
-| Sandboarder | 3.00% | ~1,257 |
+| Izel Has Arrived | 4.00% | ~1,677 |
+| Junkie | 3.00% | ~1,258 |
+| Traveler | 3.00% | ~1,258 |
+| Journeyer | 3.00% | ~1,258 |
+| Unlock Paz | 3.00% | ~1,258 |
+| Human Flight | 3.00% | ~1,258 |
+| Sandboarder | 3.00% | ~1,258 |
 | Explorer | 2.00% | ~838 |
 | Pro | 2.00% | ~838 |
 | Unlock Izel | 2.00% | ~838 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~42 |
 | Windswept | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,912 (Ranked 105)  
+Progressed: 41,918 (Ranked 105)  
 Completed: 5 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 5 (0.01%) (Ranked 289)
 | 2023-10-05 | 41,632 | 5 |
 | 2023-10-06 | 41,759 | 5 |
 | 2023-10-07 | 41,899 | 5 |
-| 2023-10-08 | 41,912 | 5 |
+| 2023-10-08 | 41,918 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 416)  
 Sum: 364 (Ranked 334)  

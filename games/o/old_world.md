@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
 | Developing Cities | 0.60% | ~87 |
+| Ishtar Gate | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.50% | ~72 |
 | Able Difficulty | 0.50% | ~72 |
 | Great Ziggurat | 0.50% | ~72 |
-| Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
 | Learn to Play 1 | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.30% | ~43 |
 | Legalism | 0.30% | ~43 |
 | Mythology | 0.30% | ~43 |
+| Redemption | 0.30% | ~43 |
 | Points Victory | 0.30% | ~43 |
 | Win a Single Player Game | 0.30% | ~43 |
 | Devout | 0.20% | ~29 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.20% | ~29 |
 | Dualism | 0.20% | ~29 |
 | Gnosticism | 0.20% | ~29 |
-| Redemption | 0.20% | ~29 |
 | Revelation | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cimmerian Archer | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,496 (Ranked 134)  
+Progressed: 14,497 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,496 | 5 |
+| 2023-10-08 | 14,497 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

@@ -10,23 +10,23 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 60.00% | ~319 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~266 |
 | Eat Lead! | 48.00% | ~255 |
-| The Breaking Point | 46.00% | ~244 |
+| The Breaking Point | 46.00% | ~245 |
 | Prospector | 44.00% | ~234 |
 | Here Comes the Boom | 44.00% | ~234 |
 | Treasure Hunter | 41.00% | ~218 |
 | Sniper Wolf | 41.00% | ~218 |
-| The Motivation | 40.00% | ~212 |
+| The Motivation | 40.00% | ~213 |
 | Heroism | 38.00% | ~202 |
-| Missing in Action | 37.00% | ~196 |
+| Missing in Action | 36.00% | ~192 |
 | Collectibles of Chapter I | 35.00% | ~186 |
 | Consequences | 34.00% | ~181 |
 | King of Knives | 34.00% | ~181 |
-| Opportunities | 33.00% | ~175 |
+| Opportunities | 33.00% | ~176 |
 | The Horror | 31.00% | ~165 |
 | The Difference | 28.00% | ~149 |
-| Vengeance | 27.00% | ~143 |
-| Collectibles of Chapter II | 24.00% | ~127 |
-| Broken Hopes | 24.00% | ~127 |
+| Vengeance | 27.00% | ~144 |
+| Collectibles of Chapter II | 24.00% | ~128 |
+| Broken Hopes | 24.00% | ~128 |
 | Bullseye! | 23.00% | ~122 |
 | It's Just an Accident | 22.00% | ~117 |
 | Sorrow | 21.00% | ~112 |
@@ -36,7 +36,7 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 16.00% | ~85 |
 | Collectibles of Chapter III | 15.00% | ~80 |
 | Collectibles of Chapter IV | 15.00% | ~80 |
-| Collectibles of Chapter V | 11.00% | ~58 |
+| Collectibles of Chapter V | 11.00% | ~59 |
 | Such is War! | 9.00% | ~48 |
 | Tiptoe Around | 9.00% | ~48 |
 | Collectibles of Chapter XII | 7.00% | ~37 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531 (Ranked 268)  
+Progressed: 532 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 527 | 0 |
 | 2023-10-05 | 528 | 0 |
 | 2023-10-07 | 531 | 0 |
+| 2023-10-08 | 532 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

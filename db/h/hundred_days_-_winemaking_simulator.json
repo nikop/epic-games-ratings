@@ -1012,7 +1012,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 6981,
+  "EOS_Progressed": 6986,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 0,
@@ -5592,6 +5592,11 @@
       "Time": "2023-10-08T03:06:18.0128169+00:00",
       "NumProgressed": 6981,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-08T04:07:06.8235286+00:00",
+      "NumProgressed": 6986,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5604,7 +5609,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "a_10",
@@ -5636,7 +5641,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "a_16",
@@ -5652,7 +5657,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2655
     },
     {
       "ID": "a_19",
@@ -5724,7 +5729,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "a_28",
@@ -5740,7 +5745,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "a_30",
@@ -5836,7 +5841,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "a_9",
@@ -5851,7 +5856,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 6981,
+      "Progressed": 6986,
       "Completed": 7
     }
   ],
@@ -5859,8 +5864,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:06:18.0128163+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:07:06.823528+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:17.3335345+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:06:18.0128651+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:17.6820435+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:07:06.8236202+00:00"
 }

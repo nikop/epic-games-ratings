@@ -608,9 +608,9 @@
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MindIlluminator",
@@ -680,9 +680,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ReflexiveMind",
@@ -1047,8 +1047,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:08:35.8061283+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:08:34.524118+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:02:13.6692871+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:08:35.8062413+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:02:21.7623439+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:08:34.5242631+00:00"
 }

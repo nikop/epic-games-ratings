@@ -8,6 +8,7 @@ Rating: 4.64 (Ranked 318)
 | First Bounty Down | 0.50% | ~121 |
 | Satisfied Gus-tomer | 0.40% | ~97 |
 | Are You Packin'? | 0.40% | ~97 |
+| Bring A Knife to a Gun Fight | 0.40% | ~97 |
 | Sweezy Like Sunday Morning | 0.40% | ~97 |
 | G3 Graduation | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
@@ -15,7 +16,6 @@ Rating: 4.64 (Ranked 318)
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Bathe With A Giant Nude Alien | 0.40% | ~6 |
 | Creature Feature | 0.30% | ~72 |
-| Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | Lezduit! | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |

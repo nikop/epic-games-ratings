@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1662,6 +1662,11 @@
       "Time": "2023-10-07T22:02:29.2035532+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T04:03:21.943582+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1809,7 +1814,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -1833,7 +1838,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -1905,7 +1910,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1913,7 +1918,7 @@
       "Name": "The Motivation",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1937,7 +1942,7 @@
       "Name": "Opportunities",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1961,7 +1966,7 @@
       "Name": "Vengeance",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1969,7 +1974,7 @@
       "Name": "Broken Hopes",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2015,9 +2020,9 @@
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2144,15 +2149,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:03:15.6896246+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:03:21.9435815+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.9487079+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:29.023678+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:03:15.6896871+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:32.3698028+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:03:21.9436769+00:00"
 }

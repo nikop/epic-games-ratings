@@ -35,9 +35,9 @@ Rating: 4.47 (Ranked 620)
 | General Manager | 27.00% | ~538 |
 | Hostile Takeover | 25.00% | ~498 |
 | Seven at one stroke | 24.00% | ~478 |
+| Breaking Ground | 22.00% | ~438 |
 | Trailblazer | 21.00% | ~418 |
 | Traffic Junction | 21.00% | ~418 |
-| Breaking Ground | 21.00% | ~418 |
 | Traffic Jam | 20.00% | ~398 |
 | Resistance is futile | 17.00% | ~338 |
 | Networker | 17.00% | ~338 |
@@ -52,7 +52,7 @@ Rating: 4.47 (Ranked 620)
 | Unstoppable | 9.00% | ~179 |
 | Track to the Future | 9.00% | ~179 |
 | Call of Duty | 8.00% | ~159 |
-| Conductor | 6.00% | ~119 |
+| Conductor | 7.00% | ~139 |
 | Engineer | 4.00% | ~80 |
 | Let off some steam | 4.00% | ~80 |
 | Accurate | 4.00% | ~80 |

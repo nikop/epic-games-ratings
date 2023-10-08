@@ -4,10 +4,10 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 434,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -715,9 +715,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38486,
+  "EOS_Progressed": 38489,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18105,6 +18105,11 @@
       "Time": "2023-10-08T03:04:12.8111918+00:00",
       "NumProgressed": 38486,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T04:04:32.5129498+00:00",
+      "NumProgressed": 38489,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -18140,7 +18145,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ach_combuoy",
@@ -18180,7 +18185,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ach_cursestone",
@@ -18204,7 +18209,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ach_deathofermod",
@@ -18236,7 +18241,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13855
+      "UsersEstimate": 13856
     },
     {
       "ID": "ach_die10",
@@ -18252,7 +18257,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ach_dive",
@@ -18284,7 +18289,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ach_invictus",
@@ -18308,7 +18313,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ach_legacypupil",
@@ -18340,7 +18345,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ach_newstories",
@@ -18468,7 +18473,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6927
+      "UsersEstimate": 6928
     },
     {
       "ID": "ach_terror100",
@@ -18476,7 +18481,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ach_terror90",
@@ -18516,7 +18521,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ach_year1",
@@ -18547,15 +18552,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38486,
+      "Progressed": 38489,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:04:12.8111912+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:04:32.5129491+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:58:54.1695097+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:04:12.8113195+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:59:25.5710553+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:04:32.5132166+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2065,9 +2065,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 418
     },
     {
       "ID": "AC11",
@@ -2362,8 +2362,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:06:32.0140184+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:07:24.3285154+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-08T03:00:04.7730819+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:06:32.0140607+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:00:56.5925758+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:07:24.3467761+00:00"
 }

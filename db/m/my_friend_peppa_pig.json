@@ -3,8 +3,8 @@
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
   "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.82,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -128,6 +128,11 @@
       "Time": "2023-09-28T14:06:22.4258335+00:00",
       "NumProgressed": 83,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-08T04:04:08.385076+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -137,7 +142,7 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 80,
       "UsersEstimate": 43
     },
@@ -153,7 +158,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 80,
       "UsersEstimate": 44
     },
@@ -169,7 +174,7 @@
       "ID": "3",
       "SetID": "5jd5jfm",
       "Name": "Whose tracks are these?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
       "UsersEstimate": 39
     },
@@ -177,7 +182,7 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
       "UsersEstimate": 39
     },
@@ -193,7 +198,7 @@
       "ID": "6",
       "SetID": "5jd5jfm",
       "Name": "Rounding Up the Chickens.",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 38
     },
@@ -226,7 +231,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 4
     }
   ],
@@ -234,8 +239,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:03:53.2035653+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:04:08.3850757+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:08.837836+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:59:09.5126398+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:03:53.2035753+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:59:45.5663645+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:04:08.3850869+00:00"
 }

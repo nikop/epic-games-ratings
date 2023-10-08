@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13717,
+  "EOS_Progressed": 13718,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8009,6 +8009,11 @@
       "Time": "2023-10-08T02:25:43.9998503+00:00",
       "NumProgressed": 13717,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T04:06:56.384864+00:00",
+      "NumProgressed": 13718,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8171,9 +8176,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 274
+      "UsersEstimate": 412
     },
     {
       "ID": "28",
@@ -8260,7 +8265,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13717,
+      "Progressed": 13718,
       "Completed": 17
     }
   ],
@@ -8268,8 +8273,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:06:09.5297819+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:06:56.3848633+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:13.9106033+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:06:09.5298496+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:13.1994021+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:06:56.3849897+00:00"
 }

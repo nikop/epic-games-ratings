@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2464,6 +2464,11 @@
       "Time": "2023-10-08T00:04:21.9331847+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T04:04:05.9331057+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2476,7 +2481,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2508,7 +2513,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2532,7 +2537,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2564,7 +2569,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2580,7 +2585,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2676,7 +2681,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2684,7 +2689,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2762,9 +2767,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 340
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2772,15 +2777,15 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 285
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2804,7 +2809,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -2867,14 +2872,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:03:51.2096377+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:04:05.9331051+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:58:11.000873+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:03:51.2096945+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:58:27.0460128+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:04:05.9331775+00:00"
 }

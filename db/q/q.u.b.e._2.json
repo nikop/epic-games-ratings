@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2571,6 +2571,11 @@
       "Time": "2023-10-08T03:05:04.7429433+00:00",
       "NumProgressed": 663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T04:05:36.4469094+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2599,7 +2604,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2733,9 +2738,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_OASIS",
@@ -2773,17 +2778,17 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 418
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_S5",
@@ -2814,15 +2819,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:05:04.7429425+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:05:36.4469089+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:57:13.245459+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:05:04.7429782+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:57:12.4272974+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:05:36.4469458+00:00"
 }

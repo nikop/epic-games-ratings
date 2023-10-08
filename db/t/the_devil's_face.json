@@ -1660,25 +1660,25 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "296pn27",
       "Name": "Holy Nails",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1699,8 +1699,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-08T03:05:38.3777738+00:00",
+  "LastChanged_Achievements": "2023-10-08T04:06:18.0703275+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:59:53.9154565+00:00",
-  "LastUpdate_Achievements": "2023-10-08T03:05:38.3777952+00:00"
+  "LastUpdate_Ratings": "2023-10-08T04:00:43.2722263+00:00",
+  "LastUpdate_Achievements": "2023-10-08T04:06:18.070359+00:00"
 }
