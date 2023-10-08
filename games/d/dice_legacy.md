@@ -15,12 +15,12 @@ Rating: 4.27 (Ranked 834)
 | The Penitent Ones | 5.00% | ~56 |
 | Hidden Secrets | 5.00% | ~56 |
 | Accepting the Prophecy | 5.00% | ~56 |
-| Just Chilling | 4.00% | ~44 |
-| Ascended | 4.00% | ~44 |
-| Incredible Strength | 4.00% | ~44 |
-| Greedy | 4.00% | ~44 |
-| The Stranded King | 4.00% | ~44 |
-| Prophecy Fulfilled | 4.00% | ~44 |
+| Just Chilling | 4.00% | ~45 |
+| Ascended | 4.00% | ~45 |
+| Incredible Strength | 4.00% | ~45 |
+| Greedy | 4.00% | ~45 |
+| The Stranded King | 4.00% | ~45 |
+| Prophecy Fulfilled | 4.00% | ~45 |
 | The Greedy Ones | 3.00% | ~33 |
 | The First King | 2.00% | ~22 |
 | The Unruly Ones | 2.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 834)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 228)  
+Progressed: 1,113 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 1,108 | 0 |
 | 2023-10-06 | 1,109 | 0 |
 | 2023-10-07 | 1,110 | 0 |
-| 2023-10-08 | 1,112 | 0 |
+| 2023-10-08 | 1,113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

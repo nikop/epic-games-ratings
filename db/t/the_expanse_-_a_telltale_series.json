@@ -160,7 +160,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13736,
+  "EOS_Progressed": 13737,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 17,
@@ -8055,6 +8055,11 @@
       "Time": "2023-10-08T12:06:49.3880882+00:00",
       "NumProgressed": 13736,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T13:10:33.7301954+00:00",
+      "NumProgressed": 13737,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8161,9 +8166,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "21",
@@ -8241,9 +8246,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 275
     },
     {
       "ID": "30",
@@ -8306,7 +8311,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13736,
+      "Progressed": 13737,
       "Completed": 17
     }
   ],
@@ -8314,8 +8319,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:06:49.3880876+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:10:33.7301946+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:57:35.9226155+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:06:49.3881569+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:59:53.1752668+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:10:33.7302676+00:00"
 }

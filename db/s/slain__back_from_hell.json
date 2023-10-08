@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38051,
+  "EOS_Progressed": 38053,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18985,6 +18985,11 @@
       "Time": "2023-10-08T12:04:10.7131177+00:00",
       "NumProgressed": 38051,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-08T13:06:46.3033703+00:00",
+      "NumProgressed": 38053,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -19004,7 +19009,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7610
+      "UsersEstimate": 7611
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -19098,9 +19103,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -19227,7 +19232,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38051,
+      "Progressed": 38053,
       "Completed": 25
     }
   ],
@@ -19235,8 +19240,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:04:10.7131173+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:06:46.3033698+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:54.3418872+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:59:27.9585763+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:04:10.71327+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:02:36.8191464+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:06:46.3035135+00:00"
 }

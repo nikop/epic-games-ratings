@@ -6,13 +6,13 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,857 |
-| keep it tidy | 77.00% | ~7,906 |
-| podium | 72.00% | ~7,393 |
+| light attack | 96.00% | ~9,858 |
+| keep it tidy | 77.00% | ~7,907 |
+| podium | 72.00% | ~7,394 |
 | medium attack | 60.00% | ~6,161 |
 | brail | 57.00% | ~5,853 |
-| good drivers have dead flies on the side windows | 43.00% | ~4,415 |
-| grocery-getter | 40.00% | ~4,107 |
+| good drivers have dead flies on the side windows | 43.00% | ~4,416 |
+| grocery-getter | 40.00% | ~4,108 |
 | rwd only | 26.00% | ~2,670 |
 | food tour: pasta | 26.00% | ~2,670 |
 | to finish first, first you must finish | 21.00% | ~2,156 |
@@ -28,11 +28,11 @@ Number of Ratings: 56  (23.09.2022)
 | perkele | 13.00% | ~1,335 |
 | snorkel | 13.00% | ~1,335 |
 | where is the stage? | 12.00% | ~1,232 |
-| maximum attack | 11.00% | ~1,129 |
+| maximum attack | 11.00% | ~1,130 |
 | espresso | 10.00% | ~1,027 |
 | parallel universe | 10.00% | ~1,027 |
-| mittens | 8.00% | ~821 |
-| samir | 8.00% | ~821 |
+| mittens | 8.00% | ~822 |
+| samir | 8.00% | ~822 |
 | eurobeat | 7.00% | ~719 |
 | viking | 7.00% | ~719 |
 | master of rally | 7.00% | ~719 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,268 (Ranked 146)  
+Progressed: 10,269 (Ranked 146)  
 Completed: 9 (0.09%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 9 (0.09%) (Ranked 250)
 | 2023-10-02 | 10,266 | 9 |
 | 2023-10-04 | 10,267 | 9 |
 | 2023-10-06 | 10,268 | 9 |
+| 2023-10-08 | 10,269 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5159,
+  "EOS_Progressed": 5160,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -795,6 +795,11 @@
       "Time": "2023-10-03T00:09:26.1580833+00:00",
       "NumProgressed": 5159,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-08T13:08:15.2741969+00:00",
+      "NumProgressed": 5160,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -830,7 +835,7 @@
       "Name": "Bone Collector",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -862,7 +867,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -886,7 +891,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -910,7 +915,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3096
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -918,7 +923,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -934,7 +939,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -942,7 +947,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1014,7 +1019,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1022,7 +1027,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1094,7 +1099,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1148,9 +1153,9 @@
       "ID": "ACHIEVE_ONE_HEART_START",
       "SetID": "b8l3p0g",
       "Name": "Death Defied",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2786
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1166,7 +1171,7 @@
       "Name": "That Was Quick",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1190,22 +1195,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5159,
+      "Progressed": 5160,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:05:12.9684277+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:08:15.2741962+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:18.5420801+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:59:50.9923975+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:05:12.9684735+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:03:12.0978758+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:08:15.2742706+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2980,6 +2980,11 @@
       "Time": "2023-10-07T22:03:38.7078469+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T13:07:13.207017+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3077,9 +3082,9 @@
       "ID": "Everyone_is_here",
       "SetID": "85nb4h3",
       "Name": "The Gang\u0027s All Here",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 236
     },
     {
       "ID": "Experienced_strategist",
@@ -3143,7 +3148,7 @@
       "Name": "Spice It Up",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "KillAllM2",
@@ -3230,15 +3235,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1476,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:04:29.4246992+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:07:13.2070166+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:59:09.8916684+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:04:29.4247361+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:02:09.8721601+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:07:13.2070571+00:00"
 }

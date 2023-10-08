@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -4048,9 +4048,9 @@
       "ID": "ReaperDefeated_Tentarus",
       "SetID": "3jha1np",
       "Name": "Death Comes For All",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "SacristaCompleted",
@@ -4174,8 +4174,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:03:49.6433021+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:06:16.1338297+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:58:39.0722957+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:03:49.6433861+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:01:23.5057975+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:06:16.1339849+00:00"
 }

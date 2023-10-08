@@ -13,8 +13,8 @@ Rating: 4.03 (Ranked 958)
 | Initiate | 67.00% | ~46 |
 | Thrada-Kul | 61.00% | ~42 |
 | Gravity-Challenged Rocks | 49.00% | ~34 |
-| Soldier | 43.00% | ~30 |
-| All the Major Food Groups | 42.00% | ~29 |
+| Soldier | 45.00% | ~31 |
+| All the Major Food Groups | 43.00% | ~30 |
 | Socialite | 36.00% | ~25 |
 | Beggars Would Ride | 36.00% | ~25 |
 | Control is an Illusion | 35.00% | ~24 |

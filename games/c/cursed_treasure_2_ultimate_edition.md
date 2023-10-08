@@ -19,11 +19,11 @@
 | Look After the Pence... | 73.00% | ~126 |
 | Drunken Master | 73.00% | ~126 |
 | V.I.P. Cemetery | 71.00% | ~122 |
+| Takeover | 70.00% | ~120 |
 | Woodcutter | 70.00% | ~120 |
 | Sharpshooter | 70.00% | ~120 |
 | Architect of Darkness | 70.00% | ~120 |
 | Top of the World | 69.00% | ~119 |
-| Takeover | 69.00% | ~119 |
 | The Apotheosis of War | 67.00% | ~115 |
 | Stasis Alcatraz | 67.00% | ~115 |
 | Tastes Like Chicken | 63.00% | ~108 |
@@ -52,8 +52,8 @@
 | Brilliant: Free Coast | 27.00% | ~46 |
 | Deadman's Chest | 27.00% | ~46 |
 | Monument Keeper | 27.00% | ~46 |
+| Brilliant: The Deep | 24.00% | ~41 |
 | Starry: Free Coast | 24.00% | ~41 |
-| Brilliant: The Deep | 23.00% | ~40 |
 | Starry: The Deep | 22.00% | ~38 |
 | Hostile Waters | 18.00% | ~31 |
 | Loveless | 18.00% | ~31 |

@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -647,9 +647,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -695,9 +695,9 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
@@ -838,8 +838,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:05:48.5603443+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:09:06.0787743+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.6289283+00:00",
-  "LastUpdate_Ratings": "2023-10-08T12:00:33.3538705+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:05:48.5603957+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:04:11.3604497+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:09:06.0788255+00:00"
 }

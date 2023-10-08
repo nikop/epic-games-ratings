@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 71.00% | ~10 |
-| Sea Legs | 64.00% | ~9 |
-| Frogs Legs | 21.00% | ~3 |
-| Mad Scientist | 21.00% | ~3 |
-| What?! | 21.00% | ~3 |
-| Who Even Needs Keys | 14.00% | ~2 |
-| Hoist the Sails | 14.00% | ~2 |
-| Replace the Rudder | 14.00% | ~2 |
+| Shipwrecked! | 73.00% | ~11 |
+| Sea Legs | 67.00% | ~10 |
+| What?! | 27.00% | ~4 |
+| Frogs Legs | 20.00% | ~3 |
+| Mad Scientist | 20.00% | ~3 |
+| Who Even Needs Keys | 13.00% | ~2 |
+| Hoist the Sails | 13.00% | ~2 |
+| Replace the Rudder | 13.00% | ~2 |
 | Socialite | 7.00% | ~1 |
 | Shrub-Seeing: Townlife | 7.00% | ~1 |
 | Shrub-Seeing: Silly Birbs | 7.00% | ~1 |
@@ -40,7 +40,7 @@
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 500)  
+Progressed: 15 (Ranked 499)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,6 +56,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 11 | 0 |
 | 2023-10-06 | 12 | 0 |
 | 2023-10-07 | 14 | 0 |
+| 2023-10-08 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

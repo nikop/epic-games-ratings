@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 515,
+  "EOS_Progressed": 517,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -1326,6 +1326,11 @@
       "Time": "2023-10-08T12:06:15.4933149+00:00",
       "NumProgressed": 515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T13:09:44.7069608+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1354,7 +1359,7 @@
       "Name": "Hold the line!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_12",
@@ -1386,7 +1391,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_16",
@@ -1402,7 +1407,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_18",
@@ -1434,7 +1439,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_21",
@@ -1528,9 +1533,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_32",
@@ -1562,7 +1567,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_36",
@@ -1576,9 +1581,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_38",
@@ -1594,7 +1599,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_4",
@@ -1610,15 +1615,15 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_42",
@@ -1642,7 +1647,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_45",
@@ -1650,7 +1655,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_46",
@@ -1762,7 +1767,7 @@
       "Name": "Alternative solution",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_59",
@@ -1786,7 +1791,7 @@
       "Name": "What will you become?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_61",
@@ -1794,7 +1799,7 @@
       "Name": "The circle is now complete",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_62",
@@ -1841,13 +1846,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 515,
+      "Progressed": 517,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 515,
+      "Progressed": 517,
       "Completed": 1
     }
   ],
@@ -1855,8 +1860,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:06:15.4933137+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:09:44.7069602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T12:03:21.0815364+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:06:15.4933957+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:05:11.0528748+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:09:44.7070419+00:00"
 }

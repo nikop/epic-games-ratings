@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: The Deep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT",
@@ -437,9 +437,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -654,8 +654,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:09:35.9798413+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:11:37.621088+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:56.4749461+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:58:33.710292+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:09:35.9798857+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:01:16.968193+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:11:37.6211382+00:00"
 }

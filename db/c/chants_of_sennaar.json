@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 265,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 6.87,
+  "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1232,6 +1232,11 @@
       "Time": "2023-10-08T10:06:57.9885295+00:00",
       "NumProgressed": 262,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-08T13:09:05.3905248+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 25,
@@ -1385,9 +1390,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1417,9 +1422,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_N4",
@@ -1442,14 +1447,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 265,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:05:48.1027809+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:09:05.3905242+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:58:41.4089633+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:05:48.1028366+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:01:26.9730244+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:09:05.3905562+00:00"
 }

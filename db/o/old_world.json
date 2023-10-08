@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1809,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14516,
+  "EOS_Progressed": 14517,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13319,6 +13319,11 @@
       "Time": "2023-10-08T12:04:16.1988066+00:00",
       "NumProgressed": 14516,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T13:06:54.3378316+00:00",
+      "NumProgressed": 14517,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13360,9 +13365,9 @@
       "ID": "ACHIEVEMENT_ALEXANDRIA_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum in Alexandria",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ALLIANCE_VICTORY",
@@ -16032,9 +16037,9 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -16065,21 +16070,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14516,
+      "Progressed": 14517,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14516,
+      "Progressed": 14517,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:04:16.1988061+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:06:54.3378309+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T12:03:06.7159588+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:04:16.1998938+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:04:29.771584+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:06:54.3392008+00:00"
 }

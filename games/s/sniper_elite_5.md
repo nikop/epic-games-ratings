@@ -8,7 +8,7 @@ Rating: 4.45 (Ranked 644)
 | Meeting Resistance | 46.00% | ~1,707 |
 | Confirming Suspicions | 41.00% | ~1,522 |
 | The Kraken Wakes | 37.00% | ~1,373 |
-| It's Starting to Crack | 33.00% | ~1,225 |
+| It's Starting to Crack | 34.00% | ~1,262 |
 | Lord of War | 30.00% | ~1,113 |
 | Change the Channel | 30.00% | ~1,113 |
 | Taking it back | 28.00% | ~1,039 |

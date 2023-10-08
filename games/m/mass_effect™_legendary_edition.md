@@ -9,7 +9,7 @@
 | Medal of Exploration I | 76.00% | ~461 |
 | Recruit | 72.00% | ~437 |
 | Search and Rescue | 72.00% | ~437 |
-| Quarian Ally | 69.00% | ~419 |
+| Quarian Ally | 70.00% | ~425 |
 | Medal of Heroism | 67.00% | ~407 |
 | Honorarium of Corporate Service | 66.00% | ~401 |
 | Medal of Exploration II | 59.00% | ~358 |
@@ -41,9 +41,9 @@
 | The Archangel | 36.00% | ~219 |
 | Colony Defense | 35.00% | ~212 |
 | The Convict | 35.00% | ~212 |
+| The Krogan | 35.00% | ~212 |
 | Galactic Explorer | 35.00% | ~212 |
 | Archivist | 34.00% | ~206 |
-| The Krogan | 34.00% | ~206 |
 | Broke, Blind, and Bedlam | 33.00% | ~200 |
 | Ghost Ship | 32.00% | ~194 |
 | The Assassin | 32.00% | ~194 |
@@ -59,15 +59,15 @@
 | Catharsis | 30.00% | ~182 |
 | Revenge! | 30.00% | ~182 |
 | Heart of Darkness | 30.00% | ~182 |
+| Driven | 30.00% | ~182 |
 | Focused | 29.00% | ~176 |
 | Cat's in the Cradle | 29.00% | ~176 |
 | Fade Away | 29.00% | ~176 |
 | Treason | 29.00% | ~176 |
 | Agent | 29.00% | ~176 |
 | Digital Exorcist | 29.00% | ~176 |
-| Driven | 29.00% | ~176 |
+| Bringer of War | 29.00% | ~176 |
 | Doppelganger | 28.00% | ~170 |
-| Bringer of War | 28.00% | ~170 |
 | Friend or Foe | 27.00% | ~164 |
 | Mobilizer | 27.00% | ~164 |
 | First Aid Specialist | 26.00% | ~158 |

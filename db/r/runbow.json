@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250105,
+  "EOS_Progressed": 250107,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15999,6 +15999,11 @@
       "Time": "2023-10-08T11:05:37.8108949+00:00",
       "NumProgressed": 250105,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T13:08:05.6798496+00:00",
+      "NumProgressed": 250107,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16186,7 +16191,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132556
+      "UsersEstimate": 132557
     },
     {
       "ID": "indegestible",
@@ -16210,7 +16215,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65027
+      "UsersEstimate": 65028
     },
     {
       "ID": "justABit",
@@ -16226,7 +16231,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20008
+      "UsersEstimate": 20009
     },
     {
       "ID": "lockupLockdown",
@@ -16250,7 +16255,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125052
+      "UsersEstimate": 125054
     },
     {
       "ID": "notScared",
@@ -16314,7 +16319,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55023
+      "UsersEstimate": 55024
     },
     {
       "ID": "thunderstruck",
@@ -16377,7 +16382,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250105,
+      "Progressed": 250107,
       "Completed": 6
     }
   ],
@@ -16385,8 +16390,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-08T12:05:06.1628612+00:00",
+  "LastChanged_Achievements": "2023-10-08T13:08:05.679849+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:59:12.4726433+00:00",
-  "LastUpdate_Achievements": "2023-10-08T12:05:06.1629957+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:02:14.5007876+00:00",
+  "LastUpdate_Achievements": "2023-10-08T13:08:05.6800211+00:00"
 }

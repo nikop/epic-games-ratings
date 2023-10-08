@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
 | Zoroastrianism | 0.60% | ~87 |
+| Kushite Pyramids | 0.60% | ~87 |
 | Brilliant | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.50% | ~73 |
 | Egyptian Paganism | 0.50% | ~73 |
 | Roman Paganism | 0.50% | ~73 |
-| Kushite Pyramids | 0.50% | ~73 |
 | Regicide | 0.40% | ~58 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
+| Musaeum in Alexandria | 0.10% | ~15 |
 | Alliance Victory | 0.10% | ~15 |
 | Future Regicide | 0.10% | ~15 |
 | Acropolis in Athenai | 0.10% | ~15 |
@@ -301,7 +302,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Musaeum in Alexandria | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 3) | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,516 (Ranked 134)  
+Progressed: 14,517 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,516 | 5 |
+| 2023-10-08 | 14,517 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  
