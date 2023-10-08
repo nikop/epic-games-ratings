@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2496,
+  "EOS_Progressed": 2497,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
@@ -6488,6 +6488,11 @@
       "Time": "2023-10-06T23:07:42.2151648+00:00",
       "NumProgressed": 2496,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-10-08T08:08:06.1366091+00:00",
+      "NumProgressed": 2497,
+      "NumCompleted": 227
     }
   ],
   "TotalAchievements": 12,
@@ -6499,7 +6504,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Bernard",
@@ -6539,7 +6544,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Jude",
@@ -6547,7 +6552,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Le Juif et la France",
@@ -6555,7 +6560,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Little Helper",
@@ -6594,7 +6599,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2496,
+      "Progressed": 2497,
       "Completed": 227
     }
   ],
@@ -6602,8 +6607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:08:15.6594589+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:08:06.136608+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.6994669+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:58:20.662144+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:08:15.6595075+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:58:05.8877819+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:08:06.1366576+00:00"
 }

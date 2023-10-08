@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
+| Wise | 0.60% | ~87 |
 | Developing Cities | 0.60% | ~87 |
 | Strong Cities | 0.60% | ~87 |
 | Ishtar Gate | 0.60% | ~87 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.50% | ~73 |
 | Brilliant | 0.50% | ~73 |
 | Fountainhead | 0.50% | ~73 |
-| Wise | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
 | Great Ziggurat | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,502 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 277)  
+Progressed: 14,503 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,502 | 5 |
+| 2023-10-08 | 14,503 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

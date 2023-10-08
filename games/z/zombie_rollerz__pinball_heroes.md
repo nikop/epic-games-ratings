@@ -10,16 +10,16 @@ Rating: 4.30 (Ranked 810)
 | Graduation! | 80.00% | ~134 |
 | Villfir Forest | 76.00% | ~128 |
 | Right in the kisser! | 60.00% | ~101 |
-| The Thrower | 48.00% | ~81 |
-| Duscot Steamcity | 47.00% | ~79 |
+| The Thrower | 49.00% | ~82 |
+| Duscot Steamcity | 48.00% | ~81 |
 | The Shaman | 46.00% | ~77 |
 | The Penguin | 45.00% | ~76 |
 | The Magician | 42.00% | ~71 |
 | The Tunneler | 39.00% | ~66 |
-| Level Up!! | 37.00% | ~62 |
+| Level Up!! | 38.00% | ~64 |
 | The Shield | 36.00% | ~60 |
 | Kill-streak | 30.00% | ~50 |
-| Topped up | 27.00% | ~45 |
+| Topped up | 28.00% | ~47 |
 | The Bird | 27.00% | ~45 |
 | The Ninja | 27.00% | ~45 |
 | The Idol | 26.00% | ~44 |
@@ -80,7 +80,7 @@ Rating: 4.30 (Ranked 810)
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 168 (Ranked 351)  
-Completed: 1 (0.60%) (Ranked 158)  
+Completed: 1 (0.60%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

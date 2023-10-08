@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,334 |
-| Zealous | 0.80% | ~7,408 |
-| Skillful | 0.80% | ~7,408 |
-| Handyman | 0.60% | ~5,556 |
-| Not half bad | 0.60% | ~5,556 |
-| Apt Survivor | 0.60% | ~5,556 |
-| Survival Treasures | 0.60% | ~5,556 |
-| Make Some Noise | 0.60% | ~5,556 |
-| No one left behind | 0.50% | ~4,630 |
-| Medic | 0.50% | ~4,630 |
-| Nerves of steel | 0.50% | ~4,630 |
-| Bloody Millionaire | 0.50% | ~4,630 |
-| Sorted | 0.50% | ~4,630 |
-| Healthy Obsession | 0.50% | ~4,630 |
-| Resurgence | 0.50% | ~4,630 |
+| It wakes | 0.90% | ~8,335 |
+| Zealous | 0.80% | ~7,409 |
+| Skillful | 0.80% | ~7,409 |
+| Handyman | 0.60% | ~5,557 |
+| Not half bad | 0.60% | ~5,557 |
+| Apt Survivor | 0.60% | ~5,557 |
+| Survival Treasures | 0.60% | ~5,557 |
+| Make Some Noise | 0.60% | ~5,557 |
+| No one left behind | 0.50% | ~4,631 |
+| Medic | 0.50% | ~4,631 |
+| Nerves of steel | 0.50% | ~4,631 |
+| Bloody Millionaire | 0.50% | ~4,631 |
+| I | 0.50% | ~4,631 |
+| Sorted | 0.50% | ~4,631 |
+| Healthy Obsession | 0.50% | ~4,631 |
+| Resurgence | 0.50% | ~4,631 |
 | The Grand Sacrifice | 0.40% | ~3,704 |
 | Agonizing Escape | 0.40% | ~3,704 |
 | Backdoor Escape | 0.40% | ~3,704 |
 | I've got your back | 0.40% | ~3,704 |
 | Perfect Escape | 0.40% | ~3,704 |
 | Perfect Killing | 0.40% | ~3,704 |
-| I | 0.40% | ~3,704 |
 | Engineer | 0.40% | ~3,704 |
 | Close Shave | 0.40% | ~3,704 |
 | Preemptive Strike | 0.40% | ~3,704 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,049 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 289)  
+Progressed: 926,117 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,049 | 49 |
+| 2023-10-08 | 926,117 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,239 (Ranked 13)  

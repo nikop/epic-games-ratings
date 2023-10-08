@@ -6,9 +6,9 @@
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 10558,
+  "EOS_Progressed": 10559,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11204,6 +11204,11 @@
       "Time": "2023-10-08T06:05:00.8082834+00:00",
       "NumProgressed": 10558,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-08T08:04:23.6590286+00:00",
+      "NumProgressed": 10559,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11303,7 +11308,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH13",
@@ -11319,7 +11324,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "ACH15",
@@ -11486,7 +11491,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10558,
+      "Progressed": 10559,
       "Completed": 60
     }
   ],
@@ -11494,8 +11499,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-07T12:59:54.5914419+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:05:16.1079322+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:04:23.6590279+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:58:09.9056511+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:05:16.1080467+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:57:57.022843+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:04:23.6591183+00:00"
 }

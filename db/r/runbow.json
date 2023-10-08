@@ -6,9 +6,9 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250100,
+  "EOS_Progressed": 250101,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
@@ -15984,6 +15984,11 @@
       "Time": "2023-10-08T07:05:40.3967885+00:00",
       "NumProgressed": 250100,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T08:04:44.1147763+00:00",
+      "NumProgressed": 250101,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16075,7 +16080,7 @@
       "Name": "Clear-Cut",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "completionist",
@@ -16171,7 +16176,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132553
+      "UsersEstimate": 132554
     },
     {
       "ID": "indegestible",
@@ -16362,7 +16367,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250100,
+      "Progressed": 250101,
       "Completed": 6
     }
   ],
@@ -16370,8 +16375,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:05:40.396788+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:04:44.1147754+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:59:25.9015913+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:05:40.3969044+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:59:00.307403+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:04:44.1149102+00:00"
 }

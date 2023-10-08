@@ -3,9 +3,9 @@
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:05:41.7957271+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:04:45.2877446+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.7361934+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:57:36.4137759+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:05:41.7957671+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:57:28.6147198+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:04:45.2877879+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15608,
+  "EOS_Progressed": 15609,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11580,6 +11580,11 @@
       "Time": "2023-10-08T05:06:56.5497135+00:00",
       "NumProgressed": 15608,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-08T08:08:10.6076657+00:00",
+      "NumProgressed": 15609,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11599,7 +11604,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "tpote_achievement_11",
@@ -11655,7 +11660,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "tpote_achievement_18",
@@ -11671,7 +11676,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "tpote_achievement_2",
@@ -11695,7 +11700,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "tpote_achievement_22",
@@ -11743,7 +11748,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "tpote_achievement_28",
@@ -11783,7 +11788,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "tpote_achievement_32",
@@ -11855,7 +11860,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6243
+      "UsersEstimate": 6244
     },
     {
       "ID": "tpote_achievement_40",
@@ -11918,15 +11923,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15608,
+      "Progressed": 15609,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:08:20.9865773+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:08:10.607665+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:00:28.1254204+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:08:20.9866768+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:59:52.3574411+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:08:10.6077549+00:00"
 }

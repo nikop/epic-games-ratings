@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1097,
+  "EOS_Progressed": 1101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-10-08T07:05:13.9005064+00:00",
       "NumProgressed": 1097,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T08:04:21.7859051+00:00",
+      "NumProgressed": 1101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -938,7 +943,7 @@
       "Name": "MEG",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -978,7 +983,7 @@
       "Name": "End?",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -994,7 +999,7 @@
       "Name": "Level 0",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1089,14 +1094,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 1097,
+      "Progressed": 1101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:05:13.9005058+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:04:21.7859041+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:00:27.9852253+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:05:13.9005299+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:59:52.2374816+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:04:21.785927+00:00"
 }

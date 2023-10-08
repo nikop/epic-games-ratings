@@ -94,7 +94,7 @@ Number of Ratings: 82  (23.09.2022)
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,734 (Ranked 147)  
-Completed: 0 (0.00%) (Ranked 308)  
+Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

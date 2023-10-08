@@ -21,10 +21,10 @@
 | Flawless Crystal | 56.00% | ~63 |
 | Helpful Heart | 56.00% | ~63 |
 | Counter Specialist | 54.00% | ~60 |
-| Bonds of Enmity | 52.00% | ~58 |
+| Bonds of Enmity | 54.00% | ~60 |
 | Axer of Auspice | 47.00% | ~53 |
+| Fair Means or Foul | 45.00% | ~50 |
 | Mighty Marmelizer | 44.00% | ~49 |
-| Fair Means or Foul | 43.00% | ~48 |
 | Single Minded | 42.00% | ~47 |
 | Snare Specialist | 41.00% | ~46 |
 | Kemono at Heart | 40.00% | ~45 |

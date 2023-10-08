@@ -14,7 +14,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Trained | 23.00% | ~14,465 |
 | The king is pleased | 19.00% | ~11,949 |
 | King Solomon | 17.00% | ~10,691 |
-| I can do it | 16.00% | ~10,062 |
+| I can do it | 16.00% | ~10,063 |
 | Apple of my eye | 15.00% | ~9,434 |
 | God of the Arena | 13.00% | ~8,176 |
 | Against all odds | 12.00% | ~7,547 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~5,031 |
 | Know your enemy | 7.00% | ~4,402 |
 | Mastery | 7.00% | ~4,402 |
-| Crowdfunded | 5.00% | ~3,144 |
-| Crush your enemies | 5.00% | ~3,144 |
-| My way | 5.00% | ~3,144 |
+| Crowdfunded | 5.00% | ~3,145 |
+| Crush your enemies | 5.00% | ~3,145 |
+| My way | 5.00% | ~3,145 |
 | Veni vidi vici | 4.00% | ~2,516 |
 | Freedom! | 3.00% | ~1,887 |
 | Long live the Empire! | 3.00% | ~1,887 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,890 (Ranked 96)  
-Completed: 0 (0.00%) (Ranked 308)  
+Progressed: 62,891 (Ranked 96)  
+Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,10 +229,10 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 62,761 | 0 |
 | 2023-10-06 | 62,814 | 0 |
 | 2023-10-07 | 62,881 | 0 |
-| 2023-10-08 | 62,890 | 0 |
+| 2023-10-08 | 62,891 | 0 |
 ## Awards
 Max (Character Customization): 7,194  (Ranked 52)  
-Sum: 14,760 (Ranked 66)  
+Sum: 14,761 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 885 |
 | This game is Extremely Fun | 844 |
 | This game has Amazing Storytelling | 833 |
-| This game has Amazing Characters | 828 |
+| This game has Amazing Characters | 829 |
 | This game is Relaxing | 825 |
 | This game has Quickly Understood Controls | 808 |
 | This game has a Creative Community | 601 |
@@ -517,3 +517,4 @@ Diff (max vs sum): -14
 | 2023-10-05 | 4.74 | - | 7,176 | 14,724 |
 | 2023-10-06 | 4.74 | - | 7,185 | 14,748 |
 | 2023-10-07 | 4.74 | - | 7,194 | 14,760 |
+| 2023-10-08 | 4.74 | - | 7,194 | 14,761 |

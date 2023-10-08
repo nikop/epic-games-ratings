@@ -17,7 +17,7 @@ Number of Ratings: 58  (23.09.2022)
 | Paragon | 62.00% | ~768 |
 | Old Days Born Anew | 61.00% | ~755 |
 | Full Arsenal | 56.00% | ~693 |
-| Controlled Demolition | 54.00% | ~669 |
+| Controlled Demolition | 55.00% | ~681 |
 | Payback | 52.00% | ~644 |
 | Huntress | 52.00% | ~644 |
 | Born to Drift | 51.00% | ~631 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,238 (Ranked 224)  
-Completed: 17 (1.37%) (Ranked 126)  
+Completed: 17 (1.37%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -18,8 +18,8 @@ Number of Ratings: 836  (23.09.2022)
 | New Opportunities | 34.00% | ~3,220 |
 | Energized | 33.00% | ~3,125 |
 | The Long Haul | 33.00% | ~3,125 |
+| Survivor | 32.00% | ~3,030 |
 | The Great Healer | 31.00% | ~2,936 |
-| Survivor | 31.00% | ~2,936 |
 | Legendary Explorer | 28.00% | ~2,652 |
 | Cleaner | 28.00% | ~2,652 |
 | Catastrofan | 28.00% | ~2,652 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,470 (Ranked 148)  
-Completed: 0 (0.00%) (Ranked 308)  
+Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

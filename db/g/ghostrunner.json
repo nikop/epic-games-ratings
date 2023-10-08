@@ -6,7 +6,7 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -1236,7 +1236,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19606,
+  "EOS_Progressed": 19608,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 1,
@@ -19751,6 +19751,11 @@
       "Time": "2023-10-08T07:08:20.7758016+00:00",
       "NumProgressed": 19606,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-08T08:08:10.4061024+00:00",
+      "NumProgressed": 19608,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19786,7 +19791,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 7254
+      "UsersEstimate": 7255
     },
     {
       "ID": "CantRunCantHide",
@@ -19850,7 +19855,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8823
+      "UsersEstimate": 8824
     },
     {
       "ID": "ICallItLuck",
@@ -19898,7 +19903,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14901
+      "UsersEstimate": 14902
     },
     {
       "ID": "MoreThanHuman",
@@ -19938,7 +19943,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "OutOfOrder",
@@ -19946,7 +19951,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "Perfection",
@@ -19954,7 +19959,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6274
+      "UsersEstimate": 6275
     },
     {
       "ID": "PreempativeStrike",
@@ -19986,7 +19991,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10587
+      "UsersEstimate": 10588
     },
     {
       "ID": "RunningWild",
@@ -20034,7 +20039,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 11960
+      "UsersEstimate": 11961
     },
     {
       "ID": "SwordToAGunfight",
@@ -20058,7 +20063,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -20082,7 +20087,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10391
+      "UsersEstimate": 10392
     },
     {
       "ID": "WaveOfMutilation",
@@ -20090,7 +20095,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "WhereAreMyKeys",
@@ -20098,7 +20103,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "WhereHeStood",
@@ -20121,21 +20126,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19606,
+      "Progressed": 19608,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19606,
+      "Progressed": 19608,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-06T15:03:04.744899+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:08:20.7758011+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:08:10.4061017+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:57:22.597825+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:08:20.7759477+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:57:16.57235+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:08:10.4062489+00:00"
 }

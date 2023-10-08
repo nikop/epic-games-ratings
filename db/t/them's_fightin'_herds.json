@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 58,
-  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -256,7 +256,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 230737,
+  "EOS_Progressed": 230738,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
@@ -17961,6 +17961,11 @@
       "Time": "2023-10-08T07:06:15.1145543+00:00",
       "NumProgressed": 230737,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T08:05:12.8282943+00:00",
+      "NumProgressed": 230738,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -18036,7 +18041,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83065
+      "UsersEstimate": 83066
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -18172,7 +18177,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9229
+      "UsersEstimate": 9230
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -18195,7 +18200,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 230737,
+      "Progressed": 230738,
       "Completed": 5
     }
   ],
@@ -18203,8 +18208,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-04T16:59:35.8231734+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:06:15.1145539+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:05:12.8282934+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.3872151+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:00:39.6242638+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:06:15.1146808+00:00"
+  "LastUpdate_Ratings": "2023-10-08T08:00:01.5503835+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:05:12.8284195+00:00"
 }

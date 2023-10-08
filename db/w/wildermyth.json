@@ -6,9 +6,9 @@
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -157,9 +157,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1409,
+  "EOS_Progressed": 1410,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1547,6 +1547,11 @@
       "Time": "2023-10-05T20:03:50.4221193+00:00",
       "NumProgressed": 1409,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T08:04:46.8612045+00:00",
+      "NumProgressed": 1410,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1574,7 +1579,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1622,7 +1627,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1646,7 +1651,7 @@
       "Name": "Completing the Look",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1798,7 +1803,7 @@
       "Name": "War Endured",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "completedStory_legacy",
@@ -2005,15 +2010,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1409,
+      "Progressed": 1410,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:05:43.6577664+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:04:46.8612039+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.0384854+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:59:23.1067218+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:05:43.6578243+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:58:57.8108896+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:04:46.8612644+00:00"
 }

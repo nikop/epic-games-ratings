@@ -28,18 +28,18 @@ Rating: 4.03 (Ranked 958)
 | Recruit | 19.00% | ~13 |
 | Good Boy | 13.00% | ~9 |
 | Lights Army | 12.00% | ~8 |
+| Periapt Cerulean | 12.00% | ~8 |
 | Periapt Viridian | 12.00% | ~8 |
 | Shroudfane Explorer | 12.00% | ~8 |
 | Armaments Gules | 10.00% | ~7 |
-| Periapt Cerulean | 10.00% | ~7 |
 | Scholar | 9.00% | ~6 |
 | Veteran | 9.00% | ~6 |
 | Armaments Azure | 7.00% | ~5 |
 | Kitted Out | 6.00% | ~4 |
+| Best Dressed | 6.00% | ~4 |
 | Armaments Vert | 6.00% | ~4 |
 | Shroudfane Surveyor | 6.00% | ~4 |
 | Treasure Hunter | 6.00% | ~4 |
-| Best Dressed | 4.00% | ~3 |
 | Master of Ultramarine | 4.00% | ~3 |
 | Grand Magnus | 3.00% | ~2 |
 | Master of Carmine | 3.00% | ~2 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 958)
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69 (Ranked 409)  
-Completed: 0 (0.00%) (Ranked 308)  
+Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

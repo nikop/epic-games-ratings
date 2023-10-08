@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
-  "EOS_Completed": 17,
-  "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.54,
+  "EOS_Progressed": 261,
+  "EOS_Completed": 18,
+  "EOS_NewPlayers": 23,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1222,6 +1222,11 @@
       "Time": "2023-10-08T01:51:36.5711045+00:00",
       "NumProgressed": 260,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T08:05:26.3753865+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 25,
@@ -1231,25 +1236,25 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1359,9 +1364,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1375,9 +1380,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1432,14 +1437,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 260,
-      "Completed": 17
+      "Progressed": 261,
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:06:31.4681424+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:05:26.3753855+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:58:47.1950516+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:06:31.4681691+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:58:27.3490935+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:05:26.3754137+00:00"
 }

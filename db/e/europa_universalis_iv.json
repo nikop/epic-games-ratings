@@ -6,9 +6,9 @@
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 308,
+  "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10440,9 +10440,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 425377,
+  "EOS_Progressed": 425413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6215,
+  "EOS_NewPlayers": 6206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29800,6 +29800,11 @@
       "Time": "2023-10-08T07:09:08.0236837+00:00",
       "NumProgressed": 425377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T08:08:16.3584144+00:00",
+      "NumProgressed": 425413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30811,7 +30816,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17015
+      "UsersEstimate": 17017
     },
     {
       "ID": "achievement_grand_coalition",
@@ -31019,7 +31024,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -32091,7 +32096,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12761
+      "UsersEstimate": 12762
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -32475,7 +32480,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17015
+      "UsersEstimate": 17017
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -32507,7 +32512,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12761
+      "UsersEstimate": 12762
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -32642,21 +32647,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 425377,
+      "Progressed": 425413,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 425377,
+      "Progressed": 425413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-07T19:57:17.9689228+00:00",
-  "LastChanged_Achievements": "2023-10-08T07:09:08.0236832+00:00",
+  "LastChanged_Achievements": "2023-10-08T08:08:16.358414+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-08T06:57:48.9173287+00:00",
-  "LastUpdate_Achievements": "2023-10-08T07:09:08.0249223+00:00"
+  "LastUpdate_Ratings": "2023-10-08T07:57:39.8999351+00:00",
+  "LastUpdate_Achievements": "2023-10-08T08:08:16.3597576+00:00"
 }
