@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17675,
+  "EOS_Progressed": 17676,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 4,
@@ -13362,6 +13362,11 @@
       "Time": "2023-10-08T19:05:35.8971322+00:00",
       "NumProgressed": 17675,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-10-08T21:05:09.4987871+00:00",
+      "NumProgressed": 17676,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 16,
@@ -13373,7 +13378,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4772
+      "UsersEstimate": 4773
     },
     {
       "ID": "Burning_For_You",
@@ -13413,7 +13418,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "Fireworks",
@@ -13500,15 +13505,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17675,
+      "Progressed": 17676,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:05:28.0393724+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:05:09.4987866+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.0224747+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:59:17.8538726+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:05:28.0394408+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:59:09.0598377+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:05:09.4988805+00:00"
 }

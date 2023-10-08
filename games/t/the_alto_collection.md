@@ -6,28 +6,28 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,344 |
-| Finding Your Footing | 26.00% | ~10,924 |
+| Rookie | 27.00% | ~11,345 |
+| Finding Your Footing | 26.00% | ~10,925 |
 | Nomad | 17.00% | ~7,143 |
-| Picking Up Speed | 16.00% | ~6,722 |
-| Welcome Maya | 15.00% | ~6,302 |
+| Picking Up Speed | 16.00% | ~6,723 |
+| Welcome Maya | 15.00% | ~6,303 |
 | Scout | 11.00% | ~4,622 |
 | Sightseer | 11.00% | ~4,622 |
-| Amateur | 9.00% | ~3,781 |
-| Unlock Maya | 8.00% | ~3,361 |
-| Enter Paz | 8.00% | ~3,361 |
-| Wanderer | 8.00% | ~3,361 |
+| Amateur | 9.00% | ~3,782 |
+| Unlock Maya | 8.00% | ~3,362 |
+| Enter Paz | 8.00% | ~3,362 |
+| Wanderer | 8.00% | ~3,362 |
 | Aviator | 6.00% | ~2,521 |
 | My Little Friend | 5.00% | ~2,101 |
 | One With The Board | 5.00% | ~2,101 |
 | Voyager | 5.00% | ~2,101 |
 | Izel Has Arrived | 4.00% | ~1,681 |
-| Junkie | 3.00% | ~1,260 |
-| Traveler | 3.00% | ~1,260 |
-| Journeyer | 3.00% | ~1,260 |
-| Unlock Paz | 3.00% | ~1,260 |
-| Human Flight | 3.00% | ~1,260 |
-| Sandboarder | 3.00% | ~1,260 |
+| Junkie | 3.00% | ~1,261 |
+| Traveler | 3.00% | ~1,261 |
+| Journeyer | 3.00% | ~1,261 |
+| Unlock Paz | 3.00% | ~1,261 |
+| Human Flight | 3.00% | ~1,261 |
+| Sandboarder | 3.00% | ~1,261 |
 | Explorer | 2.00% | ~840 |
 | Pro | 2.00% | ~840 |
 | Unlock Izel | 2.00% | ~840 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~42 |
 | Windswept | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,015 (Ranked 105)  
+Progressed: 42,020 (Ranked 105)  
 Completed: 5 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 5 (0.01%) (Ranked 291)
 | 2023-10-05 | 41,632 | 5 |
 | 2023-10-06 | 41,759 | 5 |
 | 2023-10-07 | 41,899 | 5 |
-| 2023-10-08 | 42,015 | 5 |
+| 2023-10-08 | 42,020 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 417)  
 Sum: 365 (Ranked 334)  

@@ -11,12 +11,12 @@ Rating: 4.30 (Ranked 810)
 | Villfir Forest | 76.00% | ~128 |
 | Right in the kisser! | 60.00% | ~101 |
 | The Thrower | 49.00% | ~83 |
-| Duscot Steamcity | 47.00% | ~79 |
+| Duscot Steamcity | 48.00% | ~81 |
 | The Shaman | 46.00% | ~78 |
 | The Penguin | 45.00% | ~76 |
 | The Magician | 42.00% | ~71 |
 | The Tunneler | 40.00% | ~68 |
-| Level Up!! | 37.00% | ~63 |
+| Level Up!! | 38.00% | ~64 |
 | The Shield | 36.00% | ~61 |
 | Kill-streak | 30.00% | ~51 |
 | Topped up | 28.00% | ~47 |

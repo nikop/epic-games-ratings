@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1553,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -5699,6 +5699,11 @@
       "Time": "2023-10-08T20:06:59.9200745+00:00",
       "NumProgressed": 1553,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T21:06:37.6424116+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5822,7 +5827,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5886,7 +5891,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6013,7 +6018,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1553,
+      "Progressed": 1554,
       "Completed": 1
     }
   ],
@@ -6021,8 +6026,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:06:59.9200738+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:06:37.6424107+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:00:21.4019205+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:59.9201219+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:00:11.5847209+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:37.6424879+00:00"
 }

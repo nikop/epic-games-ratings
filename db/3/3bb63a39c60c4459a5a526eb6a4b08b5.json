@@ -2988,9 +2988,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "First",
@@ -3243,8 +3243,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:09:14.5739829+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:08:41.0941032+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.6888449+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:57:14.815166+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:09:14.5740217+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:57:05.6290462+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:08:41.094156+00:00"
 }

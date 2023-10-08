@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~222 |
+| First Shard | 81.00% | ~223 |
 | Found the Healer | 36.00% | ~99 |
 | Second Shard | 9.00% | ~25 |
 | Champion of Kalevala | 8.00% | ~22 |
@@ -23,13 +23,13 @@
 | Good Stew | 3.00% | ~8 |
 | Avian Veterinarian | 3.00% | ~8 |
 | Bird Butcherer | 3.00% | ~8 |
-| Natural Selection | 2.00% | ~5 |
+| Natural Selection | 2.00% | ~6 |
 | Knock, Knock! | 1.00% | ~3 |
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 318)  
-Completed: 4 (1.46%) (Ranked 122)  
+Progressed: 275 (Ranked 318)  
+Completed: 4 (1.45%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 4 (1.46%) (Ranked 122)
 | 2023-10-03 | 269 | 4 |
 | 2023-10-04 | 270 | 4 |
 | 2023-10-07 | 272 | 4 |
-| 2023-10-08 | 274 | 4 |
+| 2023-10-08 | 275 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

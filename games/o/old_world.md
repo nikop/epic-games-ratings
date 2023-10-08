@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 1.00% | ~145 |
 | Intrepid | 1.00% | ~145 |
 | Settler | 1.00% | ~145 |
+| Strong | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Hanging Gardens | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
@@ -20,12 +21,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
 | Pioneer | 0.90% | ~131 |
-| Strong | 0.90% | ~131 |
 | Oracle | 0.90% | ~131 |
 | Trade Caravan | 0.90% | ~131 |
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
+| Babylonian Paganism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
-| Babylonian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.40% | ~58 |
 | Win a Single Player Game | 0.40% | ~58 |
 | Beloved | 0.30% | ~44 |
+| Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
@@ -94,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.30% | ~44 |
 | Power to the People | 0.30% | ~44 |
 | Persian Paganism | 0.30% | ~44 |
+| Military Prestige | 0.30% | ~44 |
 | Legalism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Revelation | 0.30% | ~44 |
@@ -108,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.20% | ~29 |
 | Devout | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
-| Lion | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
 | Strong Difficulty | 0.20% | ~29 |
@@ -117,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.20% | ~29 |
 | Statesmen | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
+| Adur Burzen-Mihr | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
@@ -127,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.20% | ~29 |
 | Economic Reform | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
-| Military Prestige | 0.20% | ~29 |
 | Dualism | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Gnosticism | 0.20% | ~29 |
@@ -215,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~15 |
 | A Tyresome Siege | 0.10% | ~15 |
 | Cao'an | 0.10% | ~15 |
-| Adur Burzen-Mihr | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,532 (Ranked 134)  
+Progressed: 14,533 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,532 | 5 |
+| 2023-10-08 | 14,533 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

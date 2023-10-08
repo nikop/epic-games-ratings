@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 1999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5136,6 +5136,11 @@
       "Time": "2023-10-08T19:03:55.715346+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T21:03:35.6147364+00:00",
+      "NumProgressed": 1999,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5147,7 +5152,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "A01",
@@ -5155,7 +5160,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "A02",
@@ -5267,7 +5272,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "A16",
@@ -5291,7 +5296,7 @@
       "Name": "General Manager",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "A19",
@@ -5307,7 +5312,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "A21",
@@ -5315,7 +5320,7 @@
       "Name": "Country Life",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "A22",
@@ -5339,7 +5344,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "A25",
@@ -5379,7 +5384,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "A30",
@@ -5387,7 +5392,7 @@
       "Name": "All mine",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "A31",
@@ -5419,7 +5424,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "A35",
@@ -5483,7 +5488,7 @@
       "Name": "Bridge Builder",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "A43",
@@ -5491,7 +5496,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "A44",
@@ -5531,7 +5536,7 @@
       "Name": "Bull and bear",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "A49",
@@ -5539,7 +5544,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "A50",
@@ -5563,7 +5568,7 @@
       "Name": "Socializer",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "A53",
@@ -5586,7 +5591,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 1999,
       "Completed": 0
     }
   ],
@@ -5594,8 +5599,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:04:04.2720746+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:03:35.6147359+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.8210559+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:58:28.7266059+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:04:04.2721336+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:58:18.5214276+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:03:35.6148171+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3f97c780915242898209d0e7edf9b1ec",
   "Name": "FAR: Changing Tides",
   "ProductSlug": "far-changing-tides",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 115,
@@ -190,6 +190,6 @@
   "FirstSeen": "2022-07-22T20:17:44.5991869+00:00",
   "LastChanged": "2023-10-05T01:42:43.0016391+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.9122806+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:59:08.7656629+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:52.5909565+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:59:00.2227171+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:30.1853735+00:00"
 }

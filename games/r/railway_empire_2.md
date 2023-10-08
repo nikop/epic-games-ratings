@@ -5,7 +5,7 @@ Rating: 4.47 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,498 |
+| Country Bumpkin | 75.00% | ~1,499 |
 | A new Journey | 74.00% | ~1,479 |
 | Departure | 73.00% | ~1,459 |
 | From X to Y | 72.00% | ~1,439 |
@@ -19,20 +19,20 @@ Rating: 4.47 (Ranked 620)
 | Right through the middle | 58.00% | ~1,159 |
 | Poor Devil | 54.00% | ~1,079 |
 | Facility Manager | 53.00% | ~1,059 |
-| Producer | 50.00% | ~999 |
-| Apprentice | 41.00% | ~819 |
-| Bridge Builder | 41.00% | ~819 |
-| Access granted | 35.00% | ~699 |
-| Going once, going twice, sold | 35.00% | ~699 |
-| Stoker | 33.00% | ~659 |
-| Bull and bear | 33.00% | ~659 |
-| Full Steam ahead | 32.00% | ~639 |
-| Financial Shark | 31.00% | ~619 |
-| All mine | 30.00% | ~599 |
-| Mole | 30.00% | ~599 |
-| Socializer | 30.00% | ~599 |
-| General Manager | 27.00% | ~539 |
-| Country Life | 27.00% | ~539 |
+| Producer | 50.00% | ~1,000 |
+| Apprentice | 41.00% | ~820 |
+| Bridge Builder | 41.00% | ~820 |
+| Access granted | 35.00% | ~700 |
+| Going once, going twice, sold | 35.00% | ~700 |
+| Stoker | 33.00% | ~660 |
+| Bull and bear | 33.00% | ~660 |
+| Full Steam ahead | 32.00% | ~640 |
+| Financial Shark | 31.00% | ~620 |
+| All mine | 30.00% | ~600 |
+| Mole | 30.00% | ~600 |
+| Socializer | 30.00% | ~600 |
+| General Manager | 27.00% | ~540 |
+| Country Life | 27.00% | ~540 |
 | Hostile Takeover | 25.00% | ~500 |
 | Seven at one stroke | 24.00% | ~480 |
 | Trailblazer | 21.00% | ~420 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 620)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,998 (Ranked 203)  
+Progressed: 1,999 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-04 | 1,979 | 0 |
 | 2023-10-06 | 1,983 | 0 |
 | 2023-10-07 | 1,990 | 0 |
-| 2023-10-08 | 1,998 | 0 |
+| 2023-10-08 | 1,999 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

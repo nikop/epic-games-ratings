@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24150,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5403,9 +5403,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5451,9 +5451,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5682,8 +5682,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:07:01.5730529+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:06:39.2845773+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:57:39.2286005+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:07:01.5731055+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:57:31.9599532+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:39.2846568+00:00"
 }

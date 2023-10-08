@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2056,6 +2056,11 @@
       "Time": "2023-10-08T04:03:38.9596102+00:00",
       "NumProgressed": 857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T21:03:39.8629724+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2067,7 +2072,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2075,7 +2080,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2107,7 +2112,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2115,7 +2120,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2139,7 +2144,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2153,7 +2158,7 @@
       "ID": "BARK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Arrest Warrant",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2195,7 +2200,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2363,7 +2368,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2387,7 +2392,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2449,9 +2454,9 @@
       "ID": "MARY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "10 Hugs from Grandma",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 26
     },
     {
       "ID": "MEAT_ACHIEVEMENT_1",
@@ -2594,14 +2599,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:04:08.4599756+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:03:39.8629719+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:57:38.9876059+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:04:08.4600386+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:57:31.7512445+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:03:39.8630496+00:00"
 }

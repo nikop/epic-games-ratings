@@ -21,10 +21,10 @@
 | Changing the World | 11.00% | ~10 |
 | Witch | 10.00% | ~9 |
 | The A-Team | 10.00% | ~9 |
+| Defeat Uskol | 9.00% | ~8 |
 | Finally! | 9.00% | ~8 |
 | Craftsmen | 8.00% | ~7 |
 | Defeat Tezuth | 8.00% | ~7 |
-| Defeat Uskol | 8.00% | ~7 |
 | Through Dangers Untold | 8.00% | ~7 |
 | Mirror, Mirror on the Wall | 7.00% | ~6 |
 | A Deceiving Gift | 7.00% | ~6 |

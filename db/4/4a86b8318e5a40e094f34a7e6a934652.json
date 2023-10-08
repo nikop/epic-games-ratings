@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -856,9 +856,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -903,8 +903,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:04:59.0532794+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:04:40.5451575+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:03:09.5839046+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:04:59.0532952+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:02:09.0077434+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:04:40.5451786+00:00"
 }

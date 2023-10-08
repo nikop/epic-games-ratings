@@ -5,29 +5,29 @@ Rating: 4.27 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 57.00% | ~1,282 |
-| MVP | 55.00% | ~1,237 |
-| Big Spender | 54.00% | ~1,214 |
-| Stud Finder | 43.00% | ~967 |
-| Dealmaker | 41.00% | ~922 |
-| ROTY | 34.00% | ~765 |
-| Roster Reshuffle | 32.00% | ~720 |
-| Future of the Franchise | 20.00% | ~450 |
-| Change of Scenery | 18.00% | ~405 |
-| Throwin’ Dots | 17.00% | ~382 |
-| Primetime | 16.00% | ~360 |
-| Already in Progress | 16.00% | ~360 |
-| Pro Bowler | 16.00% | ~360 |
-| Unblockable | 10.00% | ~225 |
-| Pocket Ace | 5.00% | ~112 |
-| Head-to-Head | 5.00% | ~112 |
-| Lockdown Corner | 4.00% | ~90 |
-| Gain Train | 1.00% | ~22 |
+| Bragging Rights | 56.00% | ~1,267 |
+| Big Spender | 54.00% | ~1,221 |
+| MVP | 54.00% | ~1,221 |
+| Stud Finder | 43.00% | ~973 |
+| Dealmaker | 41.00% | ~927 |
+| ROTY | 34.00% | ~769 |
+| Roster Reshuffle | 32.00% | ~724 |
+| Future of the Franchise | 20.00% | ~452 |
+| Change of Scenery | 18.00% | ~407 |
+| Throwin’ Dots | 17.00% | ~385 |
+| Primetime | 16.00% | ~362 |
+| Already in Progress | 16.00% | ~362 |
+| Pro Bowler | 16.00% | ~362 |
+| Unblockable | 10.00% | ~226 |
+| Pocket Ace | 5.00% | ~113 |
+| Lockdown Corner | 5.00% | ~113 |
+| Head-to-Head | 5.00% | ~113 |
+| Gain Train | 1.00% | ~23 |
 | Ol' Reliable | 0.70% | ~16 |
 | Lockdown Leader | 0.50% | ~11 |
 | The Fortress | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 200)  
+Progressed: 2,262 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,11 +50,11 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 2,066 | 0 |
 | 2023-10-06 | 2,113 | 0 |
 | 2023-10-07 | 2,199 | 0 |
-| 2023-10-08 | 2,249 | 0 |
+| 2023-10-08 | 2,262 | 0 |
 ## Awards
 Max (Diverse Characters): 27  (Ranked 486)  
-Sum: 72 (Ranked 446)  
-Diff (max vs sum): 40  
+Sum: 72 (Ranked 447)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 27 |

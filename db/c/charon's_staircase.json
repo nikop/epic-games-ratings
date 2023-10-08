@@ -122,9 +122,9 @@
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_12",
@@ -138,17 +138,17 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_15",
@@ -162,17 +162,17 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_17",
       "SetID": "1g3d1lg",
       "Name": "Until death do us part",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_18",
@@ -218,9 +218,9 @@
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_5",
@@ -275,8 +275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:06:54.6441912+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:06:32.3718254+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.8411616+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:03:13.408106+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:54.6442022+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:02:12.7545629+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:32.3718404+00:00"
 }

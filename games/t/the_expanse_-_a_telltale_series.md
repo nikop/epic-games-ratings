@@ -6,7 +6,7 @@ Rating: 4.56 (Ranked 471)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 9.00% | ~1,239 |
-| Drug Gifter | 4.00% | ~550 |
+| Drug Gifter | 4.00% | ~551 |
 | Bosmang | 3.00% | ~413 |
 | The Pit and the Pirates | 2.00% | ~275 |
 | Data Archivist | 2.00% | ~275 |
@@ -26,8 +26,8 @@ Rating: 4.56 (Ranked 471)
 | Bottoms up! | 0.80% | ~110 |
 | No Belter Left Behind | 0.60% | ~83 |
 | Brother's Reaper | 0.50% | ~69 |
+| Data Master | 0.50% | ~69 |
 | Data Logger | 0.40% | ~55 |
-| Data Master | 0.40% | ~55 |
 | Debris Spree | 0.30% | ~41 |
 | Data Recoverer | 0.30% | ~41 |
 | Urshanabi Hoarder | 0.20% | ~28 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 471)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,762 (Ranked 135)  
+Progressed: 13,768 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,762 | 18 |
+| 2023-10-08 | 13,768 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,30 +6,30 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 81.00% | ~17 |
 | Master trainee | 76.00% | ~16 |
-| Jung's dream | 57.00% | ~12 |
+| Jung's dream | 62.00% | ~13 |
 | Giant | 52.00% | ~11 |
 | The battle of Great Britain | 52.00% | ~11 |
 | Pulp! Where Monsters Dwell | 38.00% | ~8 |
 | A continent with chemistry | 38.00% | ~8 |
 | The happy farmer girl | 38.00% | ~8 |
+| A rival with no options | 33.00% | ~7 |
 | Pulp! Terror Tales in the Night | 33.00% | ~7 |
-| A rival with no options | 29.00% | ~6 |
+| Diagnosis: fear | 33.00% | ~7 |
+| Ambition is... blind | 33.00% | ~7 |
+| You have two wishes left | 33.00% | ~7 |
 | The artist | 29.00% | ~6 |
 | Pulp! Out of this World | 29.00% | ~6 |
 | Pulp! Adventures into the Unknown | 29.00% | ~6 |
-| Diagnosis: fear | 29.00% | ~6 |
-| Ambition is... blind | 29.00% | ~6 |
-| You have two wishes left | 29.00% | ~6 |
+| Et in arcadia ego | 24.00% | ~5 |
 | The seer | 24.00% | ~5 |
 | Kirlian's best disciple | 24.00% | ~5 |
-| Et in arcadia ego | 19.00% | ~4 |
 | The barbarian invasions | 19.00% | ~4 |
 | You've awakened the beast | 14.00% | ~3 |
 | Hate is... addictive | 14.00% | ~3 |
+| Welcome to Hellville | 14.00% | ~3 |
 | You had one wish left | 10.00% | ~2 |
 | The bully | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
-| Welcome to Hellville | 10.00% | ~2 |
 | Blessed antennas | 5.00% | ~1 |
 | The beast in the Oval Office | 5.00% | ~1 |
 | Blood Red Island | 5.00% | ~1 |

@@ -4,8 +4,8 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 834,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 446,
-  "Ranking_EOS_Progress": 200,
+  "Ranking_PopularitySum": 447,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 115,
@@ -694,9 +694,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2249,
+  "EOS_Progressed": 2262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2023-10-08T20:03:24.0127852+00:00",
       "NumProgressed": 2249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T21:02:25.115767+00:00",
+      "NumProgressed": 2262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2611,15 +2616,15 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1267
     },
     {
       "ID": "achievement_11",
@@ -2627,7 +2632,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_12",
@@ -2635,7 +2640,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 967
+      "UsersEstimate": 973
     },
     {
       "ID": "achievement_13",
@@ -2643,7 +2648,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1221
     },
     {
       "ID": "achievement_14",
@@ -2651,15 +2656,15 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 922
+      "UsersEstimate": 927
     },
     {
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1221
     },
     {
       "ID": "achievement_16",
@@ -2667,7 +2672,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 765
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_17",
@@ -2675,7 +2680,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_18",
@@ -2683,7 +2688,7 @@
       "Name": "Gain Train",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_19",
@@ -2699,7 +2704,7 @@
       "Name": "Unblockable",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_20",
@@ -2723,15 +2728,15 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_4",
       "SetID": "c8fif6p",
       "Name": "Lockdown Corner",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_5",
@@ -2739,7 +2744,7 @@
       "Name": "Already in Progress",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_6",
@@ -2747,7 +2752,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_7",
@@ -2755,7 +2760,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 720
+      "UsersEstimate": 724
     },
     {
       "ID": "achievement_8",
@@ -2763,7 +2768,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_9",
@@ -2771,14 +2776,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2249,
+      "Progressed": 2262,
       "Completed": 0
     }
   ],
@@ -2786,8 +2791,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:03:24.0127847+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:02:25.1157663+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:58:41.6500368+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:03:24.0128099+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:58:33.877793+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:02:25.1158019+00:00"
 }

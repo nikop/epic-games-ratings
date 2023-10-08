@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 263,
-  "EOS_Completed": 122,
+  "EOS_Completed": 123,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 46.39,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 46.77,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1491,6 +1491,11 @@
       "Time": "2023-10-07T20:05:35.3576049+00:00",
       "NumProgressed": 263,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-08T21:05:11.7062593+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 123
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1573,17 +1578,17 @@
       "ID": "PORTRAIT_18",
       "SetID": "2fge00i",
       "Name": "Portrait 18",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "PORTRAIT_2",
@@ -1663,13 +1668,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 263,
-      "Completed": 122
+      "Completed": 123
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:05:30.1338552+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:05:11.7062585+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.2635957+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:00:12.830713+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:05:30.1338736+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:00:02.5155808+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:05:11.7062835+00:00"
 }

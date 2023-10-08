@@ -2,7 +2,7 @@
   "ID": "dd1a1179103041a19c85cee2ca43cd99",
   "Name": "The Count Lucanor",
   "ProductSlug": "the-count-lucanor",
-  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 115,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.3646833+00:00",
   "LastChanged": "2023-03-31T05:58:19.3646835+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.5339367+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:59:12.8223914+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:43.8176621+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:59:04.1838476+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:21.379668+00:00"
 }

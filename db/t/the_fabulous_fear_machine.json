@@ -203,9 +203,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 57,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "19",
@@ -227,17 +227,17 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "22",
@@ -475,33 +475,33 @@
       "ID": "6",
       "SetID": "d37idgg",
       "Name": "Diagnosis: fear",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
       "SetID": "d37idgg",
       "Name": "Ambition is... blind",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
       "SetID": "d37idgg",
       "Name": "You have two wishes left",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "9",
       "SetID": "d37idgg",
       "Name": "Welcome to Hellville",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:08:13.9008675+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:08:10.8065384+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:57:36.0740087+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:08:13.9009002+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:57:29.4399366+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:08:10.8065809+00:00"
 }

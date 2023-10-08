@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13762,
+  "EOS_Progressed": 13768,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -8095,6 +8095,11 @@
       "Time": "2023-10-08T20:06:57.9444528+00:00",
       "NumProgressed": 13762,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-08T21:06:35.7092268+00:00",
+      "NumProgressed": 13768,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8163,7 +8168,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "17",
@@ -8305,9 +8310,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 69
     },
     {
       "ID": "6",
@@ -8346,7 +8351,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13762,
+      "Progressed": 13768,
       "Completed": 18
     }
   ],
@@ -8354,8 +8359,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:06:57.9444523+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:06:35.7092263+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:57:42.7788849+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:57.9445054+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:57:35.2670562+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:35.7093008+00:00"
 }

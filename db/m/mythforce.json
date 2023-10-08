@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3938,
+  "EOS_Progressed": 3939,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6913,6 +6913,11 @@
       "Time": "2023-10-08T20:05:13.3706458+00:00",
       "NumProgressed": 3938,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-08T21:04:55.1088175+00:00",
+      "NumProgressed": 3939,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6981,7 +6986,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7077,23 +7082,23 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 551
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 827
+      "UsersEstimate": 867
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -7108,15 +7113,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3938,
+      "Progressed": 3939,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:05:13.3706448+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:04:55.1088164+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:58:28.4869588+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:05:13.3706888+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:58:18.2790384+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:04:55.1088709+00:00"
 }

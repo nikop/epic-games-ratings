@@ -6,45 +6,45 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,368 |
-| Jeef Skeejj | 44.00% | ~206,246 |
-| Careful planning | 39.00% | ~182,809 |
-| Second Coming | 34.00% | ~159,372 |
-| Jeef Skagg | 30.00% | ~140,622 |
-| Mother | 25.00% | ~117,185 |
-| In space, no one can hear you scream | 24.00% | ~112,498 |
-| Chapter I: Echoes | 22.00% | ~103,123 |
-| Excelsior Rule | 22.00% | ~103,123 |
-| Things persisted in not being what they seemed | 20.00% | ~93,748 |
-| Knightmare Frames | 15.00% | ~70,311 |
-| May His passing cleanse the world | 15.00% | ~70,311 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,311 |
-| Pope Zenon | 15.00% | ~70,311 |
-| Tetsuo | 11.00% | ~51,561 |
-| Plan for the worst | 11.00% | ~51,561 |
+| The Shutdown | 66.00% | ~309,371 |
+| Jeef Skeejj | 44.00% | ~206,247 |
+| Careful planning | 39.00% | ~182,810 |
+| Second Coming | 34.00% | ~159,373 |
+| Jeef Skagg | 30.00% | ~140,623 |
+| Mother | 25.00% | ~117,186 |
+| In space, no one can hear you scream | 24.00% | ~112,499 |
+| Chapter I: Echoes | 22.00% | ~103,124 |
+| Excelsior Rule | 22.00% | ~103,124 |
+| Things persisted in not being what they seemed | 20.00% | ~93,749 |
+| Knightmare Frames | 15.00% | ~70,312 |
+| May His passing cleanse the world | 15.00% | ~70,312 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,312 |
+| Pope Zenon | 15.00% | ~70,312 |
+| Tetsuo | 11.00% | ~51,562 |
+| Plan for the worst | 11.00% | ~51,562 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,874 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,499 |
-| Through the mirror | 8.00% | ~37,499 |
-| General Vivar | 8.00% | ~37,499 |
-| Back to Ganyma | 8.00% | ~37,499 |
-| Kaos Rule | 8.00% | ~37,499 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,500 |
+| Through the mirror | 8.00% | ~37,500 |
+| General Vivar | 8.00% | ~37,500 |
+| Back to Ganyma | 8.00% | ~37,500 |
+| Kaos Rule | 8.00% | ~37,500 |
 | Admiral Okonkwo | 7.00% | ~32,812 |
 | The Survivalists | 7.00% | ~32,812 |
 | The Tech Specialist | 7.00% | ~32,812 |
-| Chapter V: Memories of None | 6.00% | ~28,124 |
-| Meet your maker | 6.00% | ~28,124 |
-| The Impersonator | 6.00% | ~28,124 |
-| The Kid | 6.00% | ~28,124 |
-| The Evangelist | 6.00% | ~28,124 |
-| The Inquisitor | 6.00% | ~28,124 |
-| The Ace Pilot | 6.00% | ~28,124 |
-| The Tech Med | 6.00% | ~28,124 |
-| The Mech Soldier | 6.00% | ~28,124 |
-| The lucky charm | 6.00% | ~28,124 |
-| The Anonymous | 6.00% | ~28,124 |
-| The Smuggler | 6.00% | ~28,124 |
-| The Crazy Repairman | 6.00% | ~28,124 |
-| The Weasel | 6.00% | ~28,124 |
+| Chapter V: Memories of None | 6.00% | ~28,125 |
+| Meet your maker | 6.00% | ~28,125 |
+| The Impersonator | 6.00% | ~28,125 |
+| The Kid | 6.00% | ~28,125 |
+| The Evangelist | 6.00% | ~28,125 |
+| The Inquisitor | 6.00% | ~28,125 |
+| The Ace Pilot | 6.00% | ~28,125 |
+| The Tech Med | 6.00% | ~28,125 |
+| The Mech Soldier | 6.00% | ~28,125 |
+| The lucky charm | 6.00% | ~28,125 |
+| The Anonymous | 6.00% | ~28,125 |
+| The Smuggler | 6.00% | ~28,125 |
+| The Crazy Repairman | 6.00% | ~28,125 |
+| The Weasel | 6.00% | ~28,125 |
 | Kill the Doctor | 5.00% | ~23,437 |
 | Forsaken | 5.00% | ~23,437 |
 | Mercy | 5.00% | ~23,437 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,740 (Ranked 37)  
+Progressed: 468,744 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,14 +257,14 @@ Completed: 18 (0.00%) (Ranked 310)
 | 2023-10-05 | 468,549 | 18 |
 | 2023-10-06 | 468,608 | 18 |
 | 2023-10-07 | 468,687 | 18 |
-| 2023-10-08 | 468,740 | 18 |
+| 2023-10-08 | 468,744 | 18 |
 ## Awards
-Max (Character Customization): 220  (Ranked 268)  
-Sum: 240 (Ranked 365)  
+Max (Character Customization): 221  (Ranked 268)  
+Sum: 241 (Ranked 365)  
 Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 220 |
+| This game has Inclusive Character Customization | 221 |
 | This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -350,3 +350,4 @@ Diff (max vs sum): -97
 | 2023-08-24 | 4.50 | - | 218 | 238 |
 | 2023-09-15 | 4.50 | - | 219 | 239 |
 | 2023-09-25 | 4.50 | - | 220 | 240 |
+| 2023-10-08 | 4.50 | - | 221 | 241 |

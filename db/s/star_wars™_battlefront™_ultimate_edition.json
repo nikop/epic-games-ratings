@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 115,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1366,6 +1366,11 @@
       "Time": "2023-10-08T20:06:20.5776404+00:00",
       "NumProgressed": 536,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T21:06:01.3688494+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1480,9 +1485,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_22",
@@ -1578,7 +1583,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_33",
@@ -1602,15 +1607,15 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_37",
@@ -1618,7 +1623,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_38",
@@ -1650,7 +1655,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_41",
@@ -1730,7 +1735,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_50",
@@ -1881,13 +1886,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 1
     }
   ],
@@ -1895,8 +1900,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:06:20.57764+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:06:01.3688486+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:03:16.9334135+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:06:20.5776981+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:02:15.4883782+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:06:01.3689143+00:00"
 }

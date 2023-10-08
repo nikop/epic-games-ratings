@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 671300,
+  "EOS_Progressed": 671313,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1799,
+  "EOS_NewPlayers": 1791,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21504,6 +21504,11 @@
       "Time": "2023-10-08T20:03:57.7252347+00:00",
       "NumProgressed": 671300,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T21:03:29.1694745+00:00",
+      "NumProgressed": 671313,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21515,7 +21520,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 537040
+      "UsersEstimate": 537050
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21595,7 +21600,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26852
+      "UsersEstimate": 26853
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -21603,7 +21608,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241668
+      "UsersEstimate": 241673
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -21755,7 +21760,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 208103
+      "UsersEstimate": 208107
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -21787,7 +21792,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40278
+      "UsersEstimate": 40279
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -21795,7 +21800,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5370
+      "UsersEstimate": 5371
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -21819,7 +21824,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100695
+      "UsersEstimate": 100697
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -21835,7 +21840,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26852
+      "UsersEstimate": 26853
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -21867,7 +21872,7 @@
       "Name": "Worked your grass off",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5370
+      "UsersEstimate": 5371
     },
     {
       "ID": "RP_CREDIBLE",
@@ -21875,7 +21880,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46991
+      "UsersEstimate": 46992
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -21915,7 +21920,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120834
+      "UsersEstimate": 120836
     },
     {
       "ID": "RP_TRUSTED",
@@ -21931,7 +21936,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 60417
+      "UsersEstimate": 60418
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -21939,22 +21944,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26852
+      "UsersEstimate": 26853
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 671300,
+      "Progressed": 671313,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:03:57.7252341+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:03:29.1694732+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:45.928373+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:58:30.192848+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:03:57.7253598+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:58:19.8790845+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:03:29.1696439+00:00"
 }

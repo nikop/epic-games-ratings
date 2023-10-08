@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -701,9 +701,9 @@
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -925,9 +925,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-10-08T20:05:10.1815921+00:00",
+  "LastChanged_Achievements": "2023-10-08T21:04:51.908015+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7022117+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:00:09.6747285+00:00",
-  "LastUpdate_Achievements": "2023-10-08T20:05:10.1816562+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:59:59.0190999+00:00",
+  "LastUpdate_Achievements": "2023-10-08T21:04:51.9080938+00:00"
 }

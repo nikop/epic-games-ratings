@@ -13,7 +13,7 @@
 | Medal of Heroism | 67.00% | ~410 |
 | Honorarium of Corporate Service | 66.00% | ~404 |
 | Medal of Exploration II | 60.00% | ~367 |
-| Council Legion of Merit | 59.00% | ~361 |
+| Council Legion of Merit | 60.00% | ~367 |
 | Medal of Honor | 57.00% | ~349 |
 | Turian Ally | 57.00% | ~349 |
 | Charismatic | 57.00% | ~349 |
@@ -23,13 +23,13 @@
 | Asari Ally | 52.00% | ~318 |
 | Principled | 52.00% | ~318 |
 | Soldier Ally | 50.00% | ~306 |
-| Colonial Savior | 48.00% | ~294 |
+| Colonial Savior | 49.00% | ~300 |
 | Paramour I | 46.00% | ~282 |
 | Scientist | 46.00% | ~282 |
 | Sentinel Ally | 45.00% | ~275 |
 | Krogan Ally | 45.00% | ~275 |
 | Merciless | 45.00% | ~275 |
-| Head Hunter | 42.00% | ~257 |
+| Head Hunter | 43.00% | ~263 |
 | Operative | 42.00% | ~257 |
 | Veteran | 41.00% | ~251 |
 | Missing in Action | 41.00% | ~251 |
@@ -77,8 +77,8 @@
 | Untouchable | 25.00% | ~153 |
 | Eye of the Hurricane | 25.00% | ~153 |
 | A House Divided | 25.00% | ~153 |
+| Weapon Specialist | 25.00% | ~153 |
 | Giant Killer | 24.00% | ~147 |
-| Weapon Specialist | 24.00% | ~147 |
 | World Shaker | 24.00% | ~147 |
 | Liberator | 24.00% | ~147 |
 | Pathfinder | 22.00% | ~135 |
