@@ -7729,18 +7729,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14778,
       "NumberOfAwardsMax": 7194
+    },
+    {
+      "Time": "2023-10-08T18:57:58.4445021+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14792,
+      "NumberOfAwardsMax": 7202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14778,
-  "NumberOfAwardsMax": 7194,
+  "NumberOfAwards": 14792,
+  "NumberOfAwardsMax": 7202,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7194
+      "Count": 7202
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7788,7 +7794,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 945
+      "Count": 951
     },
     {
       "Text": "This game is Relaxing",
@@ -7809,9 +7815,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62921,
+  "EOS_Progressed": 62922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25999,6 +26005,11 @@
       "Time": "2023-10-08T17:05:06.6231783+00:00",
       "NumProgressed": 62921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T19:05:30.8004455+00:00",
+      "NumProgressed": 62922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26178,7 +26189,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10067
+      "UsersEstimate": 10068
     },
     {
       "ID": "I spit on your grave",
@@ -26218,7 +26229,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "Lance-a-lot",
@@ -26242,7 +26253,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24539
+      "UsersEstimate": 24540
     },
     {
       "ID": "Lawmaker",
@@ -26266,7 +26277,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4405
     },
     {
       "ID": "Minor Clan",
@@ -26417,15 +26428,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62921,
+      "Progressed": 62922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-08T17:58:09.961174+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:06:00.2401377+00:00",
+  "LastChanged": "2023-10-08T18:57:58.4445019+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:05:30.8004446+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:58:09.9611749+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:06:00.2403063+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:57:58.4445027+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:05:30.8007197+00:00"
 }

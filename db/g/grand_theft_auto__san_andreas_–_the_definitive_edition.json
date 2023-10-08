@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1150,9 +1150,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13141,
+  "EOS_Progressed": 13142,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12490,6 +12490,11 @@
       "Time": "2023-10-08T15:08:44.9821942+00:00",
       "NumProgressed": 13141,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-08T19:08:11.6477744+00:00",
+      "NumProgressed": 13142,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12501,7 +12506,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "ACH02",
@@ -12637,7 +12642,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH19",
@@ -12780,7 +12785,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13141,
+      "Progressed": 13142,
       "Completed": 49
     }
   ],
@@ -12788,8 +12793,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-08T15:00:08.9585614+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:08:12.6405+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:08:11.6477739+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:59:41.1704879+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:08:12.6406405+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:59:28.8343763+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:08:11.6478762+00:00"
 }

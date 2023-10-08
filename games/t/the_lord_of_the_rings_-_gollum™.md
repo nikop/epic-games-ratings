@@ -35,14 +35,14 @@
 | We wants it! We needs it | 0.80% | ~4 |
 | Elf-Friend | 0.60% | ~3 |
 | Scout | 0.60% | ~3 |
+| Good Sméagol! | 0.60% | ~3 |
 | We Hates Them! | 0.40% | ~2 |
-| Good Sméagol! | 0.40% | ~2 |
 | Rule them all! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 528 (Ranked 271)  
-Completed: 1 (0.19%) (Ranked 220)  
+Completed: 1 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

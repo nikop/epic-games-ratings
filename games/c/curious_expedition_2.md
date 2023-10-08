@@ -7,23 +7,23 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 61.00% | ~198 |
-| Cartographer | 54.00% | ~175 |
+| Cartographer | 54.00% | ~176 |
 | A Strange Artefact | 50.00% | ~162 |
-| Insomnia | 46.00% | ~149 |
+| Insomnia | 46.00% | ~150 |
 | From Whence we Came | 41.00% | ~133 |
 | Lost & Found & Lost Again | 40.00% | ~130 |
-| Fire and Flood | 39.00% | ~126 |
+| Fire and Flood | 38.00% | ~124 |
 | Spooky! | 36.00% | ~117 |
 | Shennong Herbalist | 33.00% | ~107 |
 | Treasure Hunt | 32.00% | ~104 |
-| Good Mama | 31.00% | ~100 |
-| O Captain My Captain | 30.00% | ~97 |
-| Taxonomist | 27.00% | ~87 |
-| Plunderer | 27.00% | ~87 |
+| Good Mama | 31.00% | ~101 |
+| O Captain My Captain | 30.00% | ~98 |
+| Taxonomist | 27.00% | ~88 |
+| Plunderer | 27.00% | ~88 |
 | Uncertain Loyalties | 25.00% | ~81 |
 | Traveller | 24.00% | ~78 |
 | Nahua Seeker | 24.00% | ~78 |
-| Roll to Save | 22.00% | ~71 |
+| Roll to Save | 22.00% | ~72 |
 | Veteran Explorer | 20.00% | ~65 |
 | Red Flag Pirate | 19.00% | ~62 |
 | Iron Man | 17.00% | ~55 |
@@ -32,9 +32,9 @@ Number of Ratings: 20  (23.09.2022)
 | For the Club! | 15.00% | ~49 |
 | Shortening of the Way | 15.00% | ~49 |
 | Dapper | 15.00% | ~49 |
-| The New Director | 14.00% | ~45 |
-| The Director is Dead | 14.00% | ~45 |
-| Adventurer | 14.00% | ~45 |
+| The New Director | 14.00% | ~46 |
+| The Director is Dead | 14.00% | ~46 |
+| Adventurer | 14.00% | ~46 |
 | And Here Is Your Statue | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
@@ -47,9 +47,9 @@ Number of Ratings: 20  (23.09.2022)
 | SCHMETTERLING | 8.00% | ~26 |
 | The Great Library | 8.00% | ~26 |
 | Level Up | 8.00% | ~26 |
-| Zookeeper | 6.00% | ~19 |
-| A Paris Sunset | 6.00% | ~19 |
-| The Workshop | 6.00% | ~19 |
+| Zookeeper | 6.00% | ~20 |
+| A Paris Sunset | 6.00% | ~20 |
+| The Workshop | 6.00% | ~20 |
 | Islander Understanding | 5.00% | ~16 |
 | The Director Perseveres | 5.00% | ~16 |
 | The Round Table | 5.00% | ~16 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 305)  
+Progressed: 325 (Ranked 305)  
 Completed: 1 (0.31%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 1 (0.31%) (Ranked 198)
 | 2023-08-26 | 322 | 1 |
 | 2023-09-17 | 323 | 1 |
 | 2023-09-30 | 324 | 1 |
+| 2023-10-08 | 325 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

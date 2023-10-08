@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7561,
+  "EOS_Progressed": 7564,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7294,6 +7294,11 @@
       "Time": "2023-10-08T11:04:01.898133+00:00",
       "NumProgressed": 7561,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-08T19:03:53.280189+00:00",
+      "NumProgressed": 7564,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7353,7 +7358,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7425,7 +7430,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "SHREDDER",
@@ -7472,7 +7477,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7561,
+      "Progressed": 7564,
       "Completed": 33
     }
   ],
@@ -7480,8 +7485,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:04:22.0826641+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:03:53.2801883+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:50.7439963+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:57:27.7987633+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:04:22.0827253+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:57:16.2790106+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:03:53.2802834+00:00"
 }

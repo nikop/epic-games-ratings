@@ -9,15 +9,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,120 |
 | Basic in Bulk | 3.00% | ~4,120 |
 | Titan's First Steps | 3.00% | ~4,120 |
-| One Easy Payment | 2.00% | ~2,746 |
-| Some Assembly Required | 2.00% | ~2,746 |
-| Disintermediation | 2.00% | ~2,746 |
-| Another Satisfied Customer | 2.00% | ~2,746 |
-| It's Free Real Estate | 2.00% | ~2,746 |
-| Tinkle of Coins | 2.00% | ~2,746 |
-| Budding Merchant | 2.00% | ~2,746 |
-| Capitalism Ho! | 2.00% | ~2,746 |
-| Own the Means of Production | 2.00% | ~2,746 |
+| One Easy Payment | 2.00% | ~2,747 |
+| Some Assembly Required | 2.00% | ~2,747 |
+| Disintermediation | 2.00% | ~2,747 |
+| Another Satisfied Customer | 2.00% | ~2,747 |
+| It's Free Real Estate | 2.00% | ~2,747 |
+| Tinkle of Coins | 2.00% | ~2,747 |
+| Budding Merchant | 2.00% | ~2,747 |
+| Capitalism Ho! | 2.00% | ~2,747 |
+| Own the Means of Production | 2.00% | ~2,747 |
 | The Daily Grind | 1.00% | ~1,373 |
 | Bounty Hunters | 1.00% | ~1,373 |
 | Demand for Supplies | 1.00% | ~1,373 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,321 (Ranked 73)  
+Progressed: 137,328 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,321 | 167 |
+| 2023-10-08 | 137,328 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
-Sum: 27,359 (Ranked 50)  
+Sum: 27,360 (Ranked 50)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 21
 | This game has Diverse Characters | 3,910 |
 | This game is Highly Recommended | 3,758 |
 | This game has Easy Combat | 3,699 |
-| This game has Playful Visuals | 3,183 |
+| This game has Playful Visuals | 3,184 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -561,4 +561,4 @@ Diff (max vs sum): 21
 | 2023-10-05 | 3.99 | - | 4,771 | 27,338 |
 | 2023-10-06 | 3.99 | - | 4,771 | 27,340 |
 | 2023-10-07 | 3.99 | - | 4,776 | 27,353 |
-| 2023-10-08 | 3.99 | - | 4,776 | 27,359 |
+| 2023-10-08 | 3.99 | - | 4,776 | 27,360 |

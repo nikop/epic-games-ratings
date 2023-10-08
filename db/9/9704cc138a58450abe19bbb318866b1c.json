@@ -4,7 +4,7 @@
   "ProductSlug": "gray-dawn-a0cc44",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -25,9 +25,155 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-08T19:05:42.3518159+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "audio1",
+      "SetID": "5nfgfcj",
+      "Name": "Memories...",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "audio2",
+      "SetID": "5nfgfcj",
+      "Name": "A difficult decision",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "audio3",
+      "SetID": "5nfgfcj",
+      "Name": "A woman\u0027s rage!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "audio4",
+      "SetID": "5nfgfcj",
+      "Name": "This has to end now!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "audio5",
+      "SetID": "5nfgfcj",
+      "Name": "We finally did it!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "callgirl",
+      "SetID": "5nfgfcj",
+      "Name": "Visitor from beyond the grave",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "endbad",
+      "SetID": "5nfgfcj",
+      "Name": "Stuck in Limbo",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "endgood",
+      "SetID": "5nfgfcj",
+      "Name": "Walking with the Angels",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "exorcism",
+      "SetID": "5nfgfcj",
+      "Name": "The Exorcist remastered",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon1",
+      "SetID": "5nfgfcj",
+      "Name": "Our Savior",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon2",
+      "SetID": "5nfgfcj",
+      "Name": "Virgin Mary",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon3",
+      "SetID": "5nfgfcj",
+      "Name": "The Shroud",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon4",
+      "SetID": "5nfgfcj",
+      "Name": "Emmanuel",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon5",
+      "SetID": "5nfgfcj",
+      "Name": "Archangel Gabriel",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon6",
+      "SetID": "5nfgfcj",
+      "Name": "St. George",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon7",
+      "SetID": "5nfgfcj",
+      "Name": "Archangel Raphael",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "icon8",
+      "SetID": "5nfgfcj",
+      "Name": "St. Andrew",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "listenall",
+      "SetID": "5nfgfcj",
+      "Name": "Now everybody knows our story!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5nfgfcj",
@@ -37,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-07T11:01:54.2593242+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:06:12.3191013+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:05:42.3518135+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.1679+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:03:15.7885464+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:06:12.3191049+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:02:08.1485008+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:05:42.3559199+00:00"
 }

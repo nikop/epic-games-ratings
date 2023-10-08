@@ -1,34 +1,34 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.46 (Ranked 629)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~16,725 |
-| Mama? | 27.00% | ~5,865 |
+| Light at the end of the tunnel | 77.00% | ~16,728 |
+| Mama? | 27.00% | ~5,866 |
 | People's Haven | 18.00% | ~3,910 |
 | Cartographer | 17.00% | ~3,693 |
-| Antlers of Stone | 15.00% | ~3,258 |
-| Knowledge for Power | 14.00% | ~3,041 |
+| Antlers of Stone | 15.00% | ~3,259 |
+| Knowledge for Power | 14.00% | ~3,042 |
 | Gaze into the abyss | 13.00% | ~2,824 |
 | Mausoleum of Ice | 13.00% | ~2,824 |
 | Wings of Stone | 12.00% | ~2,607 |
 | Equilibrium | 12.00% | ~2,607 |
-| In the belly of the beast | 11.00% | ~2,389 |
+| In the belly of the beast | 11.00% | ~2,390 |
 | Condor condo | 10.00% | ~2,172 |
 | Memorial | 9.00% | ~1,955 |
 | An uninvited guest | 8.00% | ~1,738 |
-| Talk to all the spirit animals | 7.00% | ~1,520 |
-| Ripples on the surface | 6.00% | ~1,303 |
-| Tails of Stone | 6.00% | ~1,303 |
-| Baa from the past | 6.00% | ~1,303 |
-| Written in stone | 6.00% | ~1,303 |
+| Talk to all the spirit animals | 7.00% | ~1,521 |
+| Ripples on the surface | 6.00% | ~1,304 |
+| Tails of Stone | 6.00% | ~1,304 |
+| Baa from the past | 6.00% | ~1,304 |
+| Written in stone | 6.00% | ~1,304 |
 | Hide and Seek | 5.00% | ~1,086 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,721 (Ranked 121)  
-Completed: 432 (1.99%) (Ranked 107)  
+Progressed: 21,725 (Ranked 121)  
+Completed: 432 (1.99%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,7 +198,7 @@ Completed: 432 (1.99%) (Ranked 107)
 | 2023-10-05 | 21,500 | 429 |
 | 2023-10-06 | 21,565 | 430 |
 | 2023-10-07 | 21,658 | 432 |
-| 2023-10-08 | 21,721 | 432 |
+| 2023-10-08 | 21,725 | 432 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

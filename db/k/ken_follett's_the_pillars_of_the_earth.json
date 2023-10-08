@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15625,
+  "EOS_Progressed": 15627,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
@@ -11630,6 +11630,11 @@
       "Time": "2023-10-08T18:08:10.3900422+00:00",
       "NumProgressed": 15625,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-08T19:08:09.3175578+00:00",
+      "NumProgressed": 15627,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11681,7 +11686,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5156
+      "UsersEstimate": 5157
     },
     {
       "ID": "tpote_achievement_15",
@@ -11705,7 +11710,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "tpote_achievement_18",
@@ -11713,7 +11718,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "tpote_achievement_19",
@@ -11721,7 +11726,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "tpote_achievement_2",
@@ -11729,7 +11734,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5156
+      "UsersEstimate": 5157
     },
     {
       "ID": "tpote_achievement_20",
@@ -11737,7 +11742,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "tpote_achievement_21",
@@ -11785,7 +11790,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "tpote_achievement_27",
@@ -11793,7 +11798,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "tpote_achievement_28",
@@ -11817,7 +11822,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5000
+      "UsersEstimate": 5001
     },
     {
       "ID": "tpote_achievement_30",
@@ -11825,7 +11830,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "tpote_achievement_31",
@@ -11833,7 +11838,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "tpote_achievement_32",
@@ -11905,7 +11910,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "tpote_achievement_40",
@@ -11961,22 +11966,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15625,
+      "Progressed": 15627,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:08:10.3900416+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:08:09.3175571+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:00:44.2110027+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:08:10.3901459+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:00:29.115669+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:08:09.317715+00:00"
 }

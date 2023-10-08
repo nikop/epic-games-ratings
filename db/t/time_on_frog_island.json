@@ -112,9 +112,9 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a10",
@@ -128,9 +128,9 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a12",
@@ -224,9 +224,9 @@
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a23",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:04:12.6472282+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:03:44.0555908+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:01:17.808052+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:04:12.6472585+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:01:02.7783435+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:03:44.0556283+00:00"
 }

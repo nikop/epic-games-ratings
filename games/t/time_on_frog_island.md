@@ -6,18 +6,19 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 73.00% | ~11 |
 | Sea Legs | 67.00% | ~10 |
+| Frogs Legs | 27.00% | ~4 |
 | What?! | 27.00% | ~4 |
-| Frogs Legs | 20.00% | ~3 |
 | Mad Scientist | 20.00% | ~3 |
+| Socialite | 13.00% | ~2 |
 | Who Even Needs Keys | 13.00% | ~2 |
 | Couch-surfing | 13.00% | ~2 |
 | Hoist the Sails | 13.00% | ~2 |
 | Replace the Rudder | 13.00% | ~2 |
-| Socialite | 7.00% | ~1 |
 | Shrub-Seeing: Townlife | 7.00% | ~1 |
 | Shrub-Seeing: Silly Birbs | 7.00% | ~1 |
 | Yeet! | 7.00% | ~1 |
 | Sailor Swift | 7.00% | ~1 |
+| No Evil | 7.00% | ~1 |
 | Safe Investment | 7.00% | ~1 |
 | Bank of Me | 7.00% | ~1 |
 | Secure the Sheets | 7.00% | ~1 |
@@ -29,7 +30,6 @@
 | Shrub-Seeing: Ruins of old | 0.00% | ~0 |
 | Shrub-Seeing: Ancient Extractor | 0.00% | ~0 |
 | Shrub-Seeing: Seen it all! | 0.00% | ~0 |
-| No Evil | 0.00% | ~0 |
 | Caught Ya! | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
 | Return to sender | 0.00% | ~0 |

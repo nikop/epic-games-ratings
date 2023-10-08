@@ -6,20 +6,20 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~31,692 |
-| Just The Two of Us | 32.00% | ~29,828 |
-| Up On High | 25.00% | ~23,303 |
-| Under The Hood | 25.00% | ~23,303 |
-| Got Your Nose | 24.00% | ~22,371 |
-| The Gift of Gab | 24.00% | ~22,371 |
-| Wrapping Up | 22.00% | ~20,507 |
-| More Than A Box Of Sand | 18.00% | ~16,778 |
-| The Dunboyne | 17.00% | ~15,846 |
-| Badge Hobbyist | 17.00% | ~15,846 |
-| Chum Novice | 16.00% | ~14,914 |
-| Silver-Tongued Sable | 16.00% | ~14,914 |
-| Sticky Paws | 16.00% | ~14,914 |
-| Bubble Up | 16.00% | ~14,914 |
+| Simoon | 34.00% | ~31,693 |
+| Just The Two of Us | 32.00% | ~29,829 |
+| Up On High | 25.00% | ~23,304 |
+| Under The Hood | 25.00% | ~23,304 |
+| Got Your Nose | 24.00% | ~22,372 |
+| The Gift of Gab | 24.00% | ~22,372 |
+| Wrapping Up | 22.00% | ~20,508 |
+| More Than A Box Of Sand | 18.00% | ~16,779 |
+| The Dunboyne | 17.00% | ~15,847 |
+| Badge Hobbyist | 17.00% | ~15,847 |
+| Chum Novice | 16.00% | ~14,915 |
+| Silver-Tongued Sable | 16.00% | ~14,915 |
+| Sticky Paws | 16.00% | ~14,915 |
+| Bubble Up | 16.00% | ~14,915 |
 | Thread The Needle | 15.00% | ~13,982 |
 | Power to the People | 14.00% | ~13,050 |
 | Take That! | 13.00% | ~12,118 |
@@ -28,12 +28,12 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~12,118 |
 | Badge Collector | 12.00% | ~11,186 |
 | Quite The Catch | 12.00% | ~11,186 |
-| Rowleys Way | 11.00% | ~10,253 |
-| The Machinist Mask | 10.00% | ~9,321 |
-| The Cartographer Mask | 10.00% | ~9,321 |
-| Balfron Connection | 10.00% | ~9,321 |
-| Ceiling Of Stars | 10.00% | ~9,321 |
-| Playing Dress Up | 10.00% | ~9,321 |
+| Rowleys Way | 11.00% | ~10,254 |
+| The Machinist Mask | 10.00% | ~9,322 |
+| The Cartographer Mask | 10.00% | ~9,322 |
+| Balfron Connection | 10.00% | ~9,322 |
+| Ceiling Of Stars | 10.00% | ~9,322 |
+| Playing Dress Up | 10.00% | ~9,322 |
 | Many Different Faces | 9.00% | ~8,389 |
 | Trellick's Pillar | 9.00% | ~8,389 |
 | Centre Of Brunswick | 9.00% | ~8,389 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,796 |
 | Vivacious Vivarium | 2.00% | ~1,864 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,213 (Ranked 80)  
+Progressed: 93,216 (Ranked 80)  
 Completed: 937 (1.01%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 937 (1.01%) (Ranked 139)
 | 2023-10-05 | 92,708 | 934 |
 | 2023-10-06 | 92,870 | 935 |
 | 2023-10-07 | 93,055 | 936 |
-| 2023-10-08 | 93,213 | 937 |
+| 2023-10-08 | 93,216 | 937 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 504)  
 Sum: 88 (Ranked 434)  

@@ -1,40 +1,40 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 628)  
+Rating: 4.46 (Ranked 629)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,564 |
-| My First Runbow | 50.00% | ~125,060 |
-| It's The Fall | 26.00% | ~65,031 |
-| The Stunner | 22.00% | ~55,026 |
-| Be Aggressive | 21.00% | ~52,525 |
-| Curator | 20.00% | ~50,024 |
-| Crowning Around | 18.00% | ~45,022 |
-| Can You Dig It? | 17.00% | ~42,520 |
-| You Juan-A-Go? | 16.00% | ~40,019 |
-| Chan-tastic | 15.00% | ~37,518 |
-| Muddy Waters | 15.00% | ~37,518 |
-| Toasty! | 13.00% | ~32,516 |
+| In The Zone | 53.00% | ~132,567 |
+| My First Runbow | 50.00% | ~125,064 |
+| It's The Fall | 26.00% | ~65,033 |
+| The Stunner | 22.00% | ~55,028 |
+| Be Aggressive | 21.00% | ~52,527 |
+| Curator | 20.00% | ~50,025 |
+| Crowning Around | 18.00% | ~45,023 |
+| Can You Dig It? | 17.00% | ~42,522 |
+| You Juan-A-Go? | 16.00% | ~40,020 |
+| Chan-tastic | 15.00% | ~37,519 |
+| Muddy Waters | 15.00% | ~37,519 |
+| Toasty! | 13.00% | ~32,517 |
 | Lazy Laser | 8.00% | ~20,010 |
-| Just A Phaze | 7.00% | ~17,508 |
-| Into The Drift | 7.00% | ~17,508 |
-| Ready? Fight! | 7.00% | ~17,508 |
-| Butt Butt | 6.00% | ~15,007 |
+| Just A Phaze | 7.00% | ~17,509 |
+| Into The Drift | 7.00% | ~17,509 |
+| Ready? Fight! | 7.00% | ~17,509 |
+| Butt Butt | 6.00% | ~15,008 |
 | He Who Laughs Last | 3.00% | ~7,504 |
 | Shoo, Cat! | 3.00% | ~7,504 |
-| And You're Okay | 2.00% | ~5,002 |
-| Blotbuster | 2.00% | ~5,002 |
-| Thunderstruck | 2.00% | ~5,002 |
+| And You're Okay | 2.00% | ~5,003 |
+| Blotbuster | 2.00% | ~5,003 |
+| Thunderstruck | 2.00% | ~5,003 |
 | Just A Bit | 1.00% | ~2,501 |
 | Tubular, Dude | 1.00% | ~2,501 |
 | What A Trip | 1.00% | ~2,501 |
 | Please The King | 0.90% | ~2,251 |
 | Here We Go! | 0.80% | ~2,001 |
 | Clear-Cut | 0.50% | ~1,251 |
-| Breaking Out | 0.40% | ~1,000 |
-| Disposable | 0.40% | ~1,000 |
+| Breaking Out | 0.40% | ~1,001 |
+| Disposable | 0.40% | ~1,001 |
 | A Winner Is You | 0.20% | ~500 |
 | Final Nightmare | 0.20% | ~500 |
 | I'm Here All Night | 0.20% | ~500 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 628)
 | Talent Scout | 0.10% | ~250 |
 | True Completionist | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,120 (Ranked 51)  
+Progressed: 250,127 (Ranked 51)  
 Completed: 6 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.00%) (Ranked 310)
 | 2023-10-05 | 250,002 | 6 |
 | 2023-10-06 | 250,046 | 6 |
 | 2023-10-07 | 250,089 | 6 |
-| 2023-10-08 | 250,120 | 6 |
+| 2023-10-08 | 250,127 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

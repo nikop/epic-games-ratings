@@ -12,13 +12,13 @@
 | Quarian Ally | 69.00% | ~422 |
 | Medal of Heroism | 67.00% | ~409 |
 | Honorarium of Corporate Service | 66.00% | ~403 |
-| Medal of Exploration II | 59.00% | ~360 |
+| Medal of Exploration II | 60.00% | ~367 |
 | Council Legion of Merit | 59.00% | ~360 |
 | Medal of Honor | 57.00% | ~348 |
 | Turian Ally | 57.00% | ~348 |
 | Charismatic | 57.00% | ~348 |
 | Meritorious Service Medal | 56.00% | ~342 |
-| Soldier | 53.00% | ~324 |
+| Soldier | 54.00% | ~330 |
 | Medal of Exploration III | 53.00% | ~324 |
 | Asari Ally | 52.00% | ~318 |
 | Principled | 52.00% | ~318 |
@@ -30,10 +30,10 @@
 | Krogan Ally | 45.00% | ~275 |
 | Merciless | 45.00% | ~275 |
 | Head Hunter | 42.00% | ~257 |
+| Operative | 42.00% | ~257 |
 | Veteran | 41.00% | ~251 |
 | Missing in Action | 41.00% | ~251 |
 | Very Elusive | 41.00% | ~251 |
-| Operative | 41.00% | ~251 |
 | Scholar | 41.00% | ~251 |
 | Power Full | 39.00% | ~238 |
 | The Professor | 38.00% | ~232 |
@@ -58,11 +58,11 @@
 | Shopaholic | 31.00% | ~189 |
 | A Personal Touch | 30.00% | ~183 |
 | Catharsis | 30.00% | ~183 |
+| Fade Away | 30.00% | ~183 |
 | Agent | 30.00% | ~183 |
 | Revenge! | 30.00% | ~183 |
 | Driven | 30.00% | ~183 |
 | Focused | 29.00% | ~177 |
-| Fade Away | 29.00% | ~177 |
 | Treason | 29.00% | ~177 |
 | Digital Exorcist | 29.00% | ~177 |
 | Bringer of War | 29.00% | ~177 |
@@ -75,8 +75,8 @@
 | Mission Accomplished | 26.00% | ~159 |
 | Against All Odds | 26.00% | ~159 |
 | Untouchable | 25.00% | ~153 |
+| Eye of the Hurricane | 25.00% | ~153 |
 | A House Divided | 25.00% | ~153 |
-| Eye of the Hurricane | 24.00% | ~147 |
 | Giant Killer | 24.00% | ~147 |
 | Weapon Specialist | 24.00% | ~147 |
 | World Shaker | 24.00% | ~147 |
@@ -84,8 +84,8 @@
 | Pathfinder | 22.00% | ~134 |
 | Tunnel Rat | 22.00% | ~134 |
 | Savior | 21.00% | ~128 |
+| Paramour II | 21.00% | ~128 |
 | Arbiter | 21.00% | ~128 |
-| Paramour II | 20.00% | ~122 |
 | Party Crasher | 20.00% | ~122 |
 | Lost and Found | 20.00% | ~122 |
 | No One Left Behind | 19.00% | ~116 |
@@ -130,7 +130,7 @@
 | AI Hacking Specialist | 2.00% | ~12 |
 | Insanity III | 1.00% | ~6 |
 | Neural Shock Specialist | 1.00% | ~6 |
-| The One and Only | 0.50% | ~3 |
+| The One and Only | 0.70% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 611 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 310)  

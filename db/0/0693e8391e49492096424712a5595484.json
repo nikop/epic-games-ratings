@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2000,9 +2000,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 351
     },
     {
       "ID": "BroomAmanita",
@@ -2287,8 +2287,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:04:15.7703605+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:03:47.309994+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.4622609+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:57:12.3483284+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:04:15.7704459+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:57:04.0394406+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:03:47.3100573+00:00"
 }

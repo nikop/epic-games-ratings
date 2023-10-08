@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 41924,
+  "EOS_Progressed": 41926,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10171,6 +10171,11 @@
       "Time": "2023-10-08T18:08:13.7560192+00:00",
       "NumProgressed": 41924,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T19:08:12.8159824+00:00",
+      "NumProgressed": 41926,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10230,7 +10235,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10254,7 +10259,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -10262,7 +10267,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -10270,7 +10275,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -10374,7 +10379,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -10382,7 +10387,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -10430,7 +10435,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -10454,7 +10459,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "MONUMENT_ALL",
@@ -10470,7 +10475,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -10494,7 +10499,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -10534,7 +10539,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "STAYING_AIR",
@@ -10605,22 +10610,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41924,
+      "Progressed": 41926,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6761,
-      "Completed": 6761
+      "Progressed": 6763,
+      "Completed": 6763
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-08T18:08:13.7560187+00:00",
+  "LastChanged_Achievements": "2023-10-08T19:08:12.8159818+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:58:37.8664044+00:00",
-  "LastUpdate_Achievements": "2023-10-08T18:08:13.7858725+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:58:26.6576679+00:00",
+  "LastUpdate_Achievements": "2023-10-08T19:08:12.8160913+00:00"
 }

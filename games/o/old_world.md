@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.70% | ~102 |
 | Warrior | 0.70% | ~102 |
 | Developing Cities | 0.70% | ~102 |
+| Lighthouse | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
 | Ishtar Gate | 0.60% | ~87 |
-| Lighthouse | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Roman Paganism | 0.60% | ~87 |
@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.50% | ~73 |
 | Artisans | 0.50% | ~73 |
 | Furious Family | 0.50% | ~73 |
+| Colossus | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.40% | ~58 |
 | Acropolis | 0.40% | ~58 |
 | Apadana | 0.40% | ~58 |
-| Colossus | 0.40% | ~58 |
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
