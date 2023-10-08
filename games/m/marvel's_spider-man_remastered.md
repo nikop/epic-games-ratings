@@ -1,7 +1,7 @@
 # Marvel's Spider-Man Remastered
 [Store](https://store.epicgames.com/en-US/p/marvels-spider-man-remastered)  
 [View Rawdata](../../db/m/marvel's_spider-man_remastered.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 14,015  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 12,598  (Ranked 32)  

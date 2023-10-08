@@ -2,12 +2,12 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
@@ -10652,6 +10652,6 @@
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
   "LastChanged": "2023-10-08T17:00:21.9988751+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:06.7438979+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:00:21.9988759+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:03:32.5527722+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:01:04.7476705+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:04:05.5256708+00:00"
 }

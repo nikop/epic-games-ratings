@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "all_promotion_6",
@@ -1826,8 +1826,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:06:42.6231233+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:07:57.8368531+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:00:45.2619861+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:06:42.6231889+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:03:18.2860482+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:07:57.8369259+00:00"
 }

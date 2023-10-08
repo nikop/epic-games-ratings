@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21157,
+  "EOS_Progressed": 21206,
   "EOS_Completed": 11759,
   "EOS_NewPlayers": 3635,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 55.58,
+  "EOS_Completed_Percentage": 55.45,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -4746,6 +4746,11 @@
       "Time": "2023-10-08T17:04:42.1470094+00:00",
       "NumProgressed": 21157,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-08T18:05:30.3108658+00:00",
+      "NumProgressed": 21206,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -4766,7 +4771,7 @@
       "Name": "First blood",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 11636
+      "UsersEstimate": 11663
     },
     {
       "ID": "grenadeKills",
@@ -4782,7 +4787,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 846
+      "UsersEstimate": 848
     },
     {
       "ID": "headshots1000",
@@ -4822,7 +4827,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "revengeMedal",
@@ -4869,14 +4874,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 21157,
+      "Progressed": 21206,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:04:42.147009+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:05:30.3108652+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:22.1549513+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:58:53.5423187+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:42.1470465+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:59:12.8346369+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:05:30.3111107+00:00"
 }

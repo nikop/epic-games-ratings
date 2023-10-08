@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 115,
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 531,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -1351,6 +1351,11 @@
       "Time": "2023-10-08T17:06:01.2295978+00:00",
       "NumProgressed": 528,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T18:07:07.1000841+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1419,7 +1424,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_17",
@@ -1443,7 +1448,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_2",
@@ -1459,7 +1464,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_21",
@@ -1515,7 +1520,7 @@
       "Name": "Your journey has only started",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_28",
@@ -1531,7 +1536,7 @@
       "Name": "On the ball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_3",
@@ -1555,7 +1560,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_32",
@@ -1563,7 +1568,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_33",
@@ -1571,7 +1576,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_34",
@@ -1587,7 +1592,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_36",
@@ -1603,7 +1608,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_38",
@@ -1611,7 +1616,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_39",
@@ -1635,7 +1640,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_41",
@@ -1667,7 +1672,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_45",
@@ -1715,7 +1720,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_50",
@@ -1755,7 +1760,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_55",
@@ -1851,7 +1856,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_9",
@@ -1866,13 +1871,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 531,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 528,
+      "Progressed": 531,
       "Completed": 1
     }
   ],
@@ -1880,8 +1885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:06:01.2295972+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:07:07.1000835+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:03:04.6374588+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:06:01.2296816+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:03:27.6369429+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:07:07.1001614+00:00"
 }

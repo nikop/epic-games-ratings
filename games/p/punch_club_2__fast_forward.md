@@ -53,9 +53,9 @@
 | Seashell hunter | 38.00% | ~127 |
 | Gang wrangler | 37.00% | ~123 |
 | Undercover robot | 37.00% | ~123 |
+| Problems of cyborgs | 36.00% | ~120 |
 | Absolute Champion! | 36.00% | ~120 |
 | Your own way | 36.00% | ~120 |
-| Problems of cyborgs | 35.00% | ~117 |
 | The lonesome road | 35.00% | ~117 |
 | Key memories | 35.00% | ~117 |
 | Not little hacker | 35.00% | ~117 |

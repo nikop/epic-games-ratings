@@ -26,9 +26,9 @@ Rating: 4.64 (Ranked 318)
 | Fallout Doesn't Let You Do This | 0.30% | ~72 |
 | Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Series Wrap on Suit-O | 0.30% | ~72 |
+| We Came, We Chainsaw, We Conquered | 0.30% | ~4 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |
-| We Came, We Chainsaw, We Conquered | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Mods Please Ban | 0.10% | ~24 |

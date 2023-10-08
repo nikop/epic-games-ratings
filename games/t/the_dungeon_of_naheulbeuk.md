@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,761 |
+| Sowwy! | 33.00% | ~75,764 |
 | Alt+F4 | 6.00% | ~13,775 |
 | Where's that freaking Dwarf? | 5.00% | ~11,479 |
-| Déjà vu | 4.00% | ~9,183 |
-| Sock! SOCK! | 4.00% | ~9,183 |
-| A beer, two curses, three companions | 3.00% | ~6,887 |
-| GG EZ | 3.00% | ~6,887 |
-| DM intervention | 3.00% | ~6,887 |
-| Speedrun | 3.00% | ~6,887 |
-| Fireproof Wizardess | 3.00% | ~6,887 |
+| Déjà vu | 4.00% | ~9,184 |
+| Sock! SOCK! | 4.00% | ~9,184 |
+| A beer, two curses, three companions | 3.00% | ~6,888 |
+| GG EZ | 3.00% | ~6,888 |
+| DM intervention | 3.00% | ~6,888 |
+| Speedrun | 3.00% | ~6,888 |
+| Fireproof Wizardess | 3.00% | ~6,888 |
 | Livin' in a dwarven paradise | 2.00% | ~4,592 |
 | Way of the Wimp | 2.00% | ~4,592 |
 | The plot thickens... At the tavern | 2.00% | ~4,592 |
@@ -45,10 +45,10 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.80% | ~1,837 |
 | Material Girl | 0.80% | ~1,837 |
 | In Navalu's footsteps | 0.70% | ~1,607 |
-| Lëgal Legend | 0.60% | ~1,377 |
+| Lëgal Legend | 0.60% | ~1,378 |
+| Holistic Adventuring Party | 0.50% | ~1,148 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,148 |
 | We come in peace | 0.50% | ~1,148 |
-| Holistic Adventuring Party | 0.40% | ~918 |
 | Scholar of the Lands of Fangh | 0.40% | ~918 |
 | Law and Order | 0.40% | ~918 |
 | Friendly fire | 0.30% | ~689 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~230 |
 | Dwarf Candy | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,578 (Ranked 59)  
+Progressed: 229,589 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 5 (0.00%) (Ranked 310)
 | 2023-10-05 | 228,876 | 5 |
 | 2023-10-06 | 229,103 | 5 |
 | 2023-10-07 | 229,368 | 5 |
-| 2023-10-08 | 229,578 | 5 |
+| 2023-10-08 | 229,589 | 5 |
 ## Awards
 Max (Character Customization): 210  (Ranked 274)  
 Sum: 412 (Ranked 323)  

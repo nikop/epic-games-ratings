@@ -7,25 +7,25 @@ Rating: 3.36 (Ranked 1,010)
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 29.00% | ~449 |
 | Defenses Online | 26.00% | ~403 |
-| Facility Online | 21.00% | ~325 |
+| Facility Online | 21.00% | ~326 |
 | Corporal | 16.00% | ~248 |
-| Covert Operative | 13.00% | ~201 |
+| Covert Operative | 13.00% | ~202 |
 | Sergeant | 12.00% | ~186 |
 | Lieutenant | 11.00% | ~170 |
 | Getting Deployment | 10.00% | ~155 |
 | Stocking Up | 10.00% | ~155 |
 | On Target | 10.00% | ~155 |
 | Infantry Reporting | 10.00% | ~155 |
-| Keeping Busy | 9.00% | ~139 |
+| Keeping Busy | 9.00% | ~140 |
 | Fighting for Survival | 8.00% | ~124 |
 | Silver Competitor | 8.00% | ~124 |
 | Captain | 8.00% | ~124 |
 | Factory Expansion | 8.00% | ~124 |
-| Exterminator | 7.00% | ~108 |
+| Exterminator | 7.00% | ~109 |
 | Brothers in Arms | 6.00% | ~93 |
-| Know The Enemy | 5.00% | ~77 |
-| Silver Achiever | 5.00% | ~77 |
-| Moving On Up | 5.00% | ~77 |
+| Know The Enemy | 5.00% | ~78 |
+| Silver Achiever | 5.00% | ~78 |
+| Moving On Up | 5.00% | ~78 |
 | Player Betrayer | 4.00% | ~62 |
 | Major | 4.00% | ~62 |
 | Gold Achiever | 3.00% | ~46 |
@@ -34,9 +34,9 @@ Rating: 3.36 (Ranked 1,010)
 | Colonel | 2.00% | ~31 |
 | Battle Ready | 2.00% | ~31 |
 | Control the Skies | 2.00% | ~31 |
-| General | 1.00% | ~15 |
-| Seek & Destroy | 1.00% | ~15 |
-| Titan Tanks | 1.00% | ~15 |
+| General | 1.00% | ~16 |
+| Seek & Destroy | 1.00% | ~16 |
+| Titan Tanks | 1.00% | ~16 |
 | Shock Troops | 0.90% | ~14 |
 | Advanced Interceptors | 0.70% | ~11 |
 | Jet Troops | 0.60% | ~9 |
@@ -44,7 +44,7 @@ Rating: 3.36 (Ranked 1,010)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 213)  
+Progressed: 1,550 (Ranked 213)  
 Completed: 1 (0.06%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.06%) (Ranked 262)
 | 2023-10-05 | 1,528 | 1 |
 | 2023-10-06 | 1,534 | 1 |
 | 2023-10-07 | 1,546 | 1 |
-| 2023-10-08 | 1,549 | 1 |
+| 2023-10-08 | 1,550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

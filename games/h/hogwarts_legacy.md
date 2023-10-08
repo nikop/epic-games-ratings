@@ -5,27 +5,27 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,705 |
-| First Class Student | 13.00% | ~38,744 |
-| Troll with the Punches | 13.00% | ~38,744 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,706 |
+| First Class Student | 13.00% | ~38,745 |
+| Troll with the Punches | 13.00% | ~38,745 |
 | A Keen Sense of Spell | 12.00% | ~35,764 |
 | That's a Keeper | 12.00% | ~35,764 |
 | The Hallowed Hero | 11.00% | ~32,784 |
 | The Defender of Dragons | 11.00% | ~32,784 |
 | Loom for Improvement | 11.00% | ~32,784 |
 | A Talent for Spending | 11.00% | ~32,784 |
-| Grappling with a Graphorn | 10.00% | ~29,803 |
-| The One Who Mastered Memories | 10.00% | ~29,803 |
-| The Hero of Hogwarts | 10.00% | ~29,803 |
-| Challenge Accepted | 10.00% | ~29,803 |
-| Coasting Along | 10.00% | ~29,803 |
+| Grappling with a Graphorn | 10.00% | ~29,804 |
+| The One Who Mastered Memories | 10.00% | ~29,804 |
+| The Hero of Hogwarts | 10.00% | ~29,804 |
+| Challenge Accepted | 10.00% | ~29,804 |
+| Coasting Along | 10.00% | ~29,804 |
 | Followed the Butterflies | 9.00% | ~26,823 |
 | Rising From the Ashes | 9.00% | ~26,823 |
 | The Avenging Gazelle | 8.00% | ~23,843 |
 | A Sallow Grave | 8.00% | ~23,843 |
 | Flight the Good Flight | 8.00% | ~23,843 |
 | The Spell Master | 8.00% | ~23,843 |
-| Beast Friends | 7.00% | ~20,862 |
+| Beast Friends | 7.00% | ~20,863 |
 | The Seeker of Knowledge | 6.00% | ~17,882 |
 | The Root of the Problem | 6.00% | ~17,882 |
 | Third Time's a Charm | 6.00% | ~17,882 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,034 (Ranked 46)  
+Progressed: 298,037 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,20 +222,20 @@ Completed: 482 (0.16%) (Ranked 226)
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
-| 2023-10-08 | 298,034 | 482 |
+| 2023-10-08 | 298,037 | 482 |
 ## Awards
 Max (Character Customization): 23,384  (Ranked 17)  
-Sum: 45,332 (Ranked 31)  
+Sum: 45,347 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,384 |
 | This game has Great Boss Battles | 11,632 |
-| This game is Great for Beginners | 1,149 |
+| This game is Great for Beginners | 1,156 |
 | This game has Amazing Storytelling | 1,123 |
 | This game has Diverse Characters | 1,112 |
 | This game is Relaxing | 1,110 |
-| This game is Extremely Fun | 1,096 |
+| This game is Extremely Fun | 1,104 |
 | This game has Amazing Characters | 1,069 |
 | This game is Highly Recommended | 1,055 |
 | This game has Quickly Understood Controls | 993 |
@@ -442,4 +442,4 @@ Diff (max vs sum): -14
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
 | 2023-10-07 | 4.76 | 23,347 | 45,276 |
-| 2023-10-08 | 4.76 | 23,384 | 45,332 |
+| 2023-10-08 | 4.76 | 23,384 | 45,347 |

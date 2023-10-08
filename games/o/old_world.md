@@ -18,39 +18,40 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.90% | ~131 |
 | Learned | 0.90% | ~131 |
 | Mason | 0.90% | ~131 |
+| Noble | 0.90% | ~131 |
 | Pioneer | 0.90% | ~131 |
 | Strong | 0.90% | ~131 |
+| Oracle | 0.90% | ~131 |
+| Trade Caravan | 0.90% | ~131 |
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
-| Noble | 0.80% | ~116 |
-| Oracle | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
-| Trade Caravan | 0.80% | ~116 |
 | Enlightened | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
 | Warrior | 0.70% | ~102 |
+| Developing Cities | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
+| Christianity | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Ambitious | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
-| Developing Cities | 0.60% | ~87 |
 | Strong Cities | 0.60% | ~87 |
+| Able Difficulty | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
 | Ishtar Gate | 0.60% | ~87 |
 | Lighthouse | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
-| Christianity | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Roman Paganism | 0.60% | ~87 |
 | Zoroastrianism | 0.60% | ~87 |
 | Kushite Pyramids | 0.60% | ~87 |
 | Brilliant | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
-| Able Difficulty | 0.50% | ~73 |
+| Artisans | 0.50% | ~73 |
 | Furious Family | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
@@ -61,10 +62,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
+| Mighty | 0.40% | ~58 |
 | Valiant | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
 | Just Difficulty | 0.40% | ~58 |
-| Artisans | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
 | Sages | 0.40% | ~58 |
 | Acropolis | 0.40% | ~58 |
@@ -77,7 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.40% | ~58 |
 | Beloved | 0.30% | ~44 |
 | Intercessor | 0.30% | ~44 |
-| Mighty | 0.30% | ~44 |
+| Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
 | Patrons | 0.30% | ~44 |
@@ -85,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~44 |
 | Circus Maximus | 0.30% | ~44 |
 | Hagia Sophia | 0.30% | ~44 |
+| Temple of Solomon | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
 | Via Recta Souk | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
@@ -107,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
-| Subjugator | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
 | Strong Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
-| Temple of Solomon | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.20% | ~29 |
 | Military Prestige | 0.20% | ~29 |
 | Dualism | 0.20% | ~29 |
+| Enlightenment | 0.20% | ~29 |
 | Gnosticism | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
@@ -241,7 +242,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~15 |
 | Capturing Cities | 0.10% | ~15 |
 | Ten Crowns | 0.10% | ~15 |
-| Enlightenment | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Three Man Chariot | 0.10% | ~15 |
 | Siege Tower | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,525 (Ranked 134)  
+Progressed: 14,530 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,525 | 5 |
+| 2023-10-08 | 14,530 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 208)  

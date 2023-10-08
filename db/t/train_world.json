@@ -2,9 +2,9 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35,6 +35,11 @@
     {
       "Time": "2023-10-08T12:09:46.7076422+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T18:09:32.9812669+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -70,7 +75,7 @@
       "ID": "company_billion",
       "SetID": "5ia1dkp",
       "Name": "Billionaire Club",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -182,9 +187,9 @@
       "ID": "hundred_passengers",
       "SetID": "5ia1dkp",
       "Name": "Full House",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hundred_trains_active",
@@ -198,7 +203,7 @@
       "ID": "hundred_twenty_speed",
       "SetID": "5ia1dkp",
       "Name": "Speed Demon",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "region_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "Regional Express",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -310,7 +315,7 @@
       "ID": "region_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Giant",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -326,15 +331,15 @@
       "ID": "task_complete",
       "SetID": "5ia1dkp",
       "Name": "Task Apprentice",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ten_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "Urban Network",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -342,7 +347,7 @@
       "ID": "ten_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Supply Chain",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -366,7 +371,7 @@
       "ID": "thousand_freight_train",
       "SetID": "5ia1dkp",
       "Name": "Mega Train",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -374,7 +379,7 @@
       "ID": "three_hundred_freight_train",
       "SetID": "5ia1dkp",
       "Name": "Heavy Load",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -414,7 +419,7 @@
       "ID": "twenty_lines",
       "SetID": "5ia1dkp",
       "Name": "Line Master",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -422,15 +427,15 @@
       "ID": "two_cities_connected",
       "SetID": "5ia1dkp",
       "Name": "City Link",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "two_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Revolution",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -438,7 +443,7 @@
       "ID": "two_trains_line",
       "SetID": "5ia1dkp",
       "Name": "Double Trouble",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -447,14 +452,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:09:19.3662118+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:09:32.9812663+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.4657844+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:58:46.1409212+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:09:19.3662526+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:59:03.5758776+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:09:32.9813121+00:00"
 }

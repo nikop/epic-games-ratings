@@ -644,7 +644,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 860,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 1,
@@ -2494,6 +2494,11 @@
       "Time": "2023-10-08T17:04:23.6158483+00:00",
       "NumProgressed": 859,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-08T18:05:07.7671722+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -2506,7 +2511,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "achievement_10",
@@ -2578,7 +2583,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_19",
@@ -2594,7 +2599,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_20",
@@ -2602,7 +2607,7 @@
       "Name": "Autofire",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_21",
@@ -2674,7 +2679,7 @@
       "Name": "Legend Teller",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_3",
@@ -2698,7 +2703,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_32",
@@ -2706,7 +2711,7 @@
       "Name": "Surgeon",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_33",
@@ -2722,7 +2727,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_35",
@@ -2730,7 +2735,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_36",
@@ -2754,7 +2759,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_39",
@@ -2762,7 +2767,7 @@
       "Name": "Z-Baller",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_4",
@@ -2778,7 +2783,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_41",
@@ -2794,7 +2799,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_43",
@@ -2810,7 +2815,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_45",
@@ -2866,7 +2871,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_9",
@@ -2874,14 +2879,14 @@
       "Name": "Wreckage",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 860,
       "Completed": 4
     }
   ],
@@ -2889,8 +2894,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-06T19:00:16.6194249+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:04:23.6158474+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:05:07.7671716+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:00:14.7507947+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:23.615905+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:00:56.1301097+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:05:07.7672701+00:00"
 }

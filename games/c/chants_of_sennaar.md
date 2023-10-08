@@ -12,6 +12,8 @@
 | Cable guy | 3.00% | ~8 |
 | True G3M4R | 3.00% | ~8 |
 | Scholar | 3.00% | ~8 |
+| The darkness | 3.00% | ~8 |
+| One last step | 3.00% | ~8 |
 | I did it | 2.00% | ~5 |
 | In this together | 2.00% | ~5 |
 | Peace walker | 2.00% | ~5 |
@@ -25,8 +27,6 @@
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
-| The darkness | 2.00% | ~5 |
-| One last step | 2.00% | ~5 |
 | A great audience | 0.80% | ~2 |
 | Fashion victim | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)

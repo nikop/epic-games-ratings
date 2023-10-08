@@ -4,10 +4,10 @@
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 571,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -877,10 +877,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-10-08T17:57:57.9366858+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 729,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 729,
   "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -925,6 +931,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -938,8 +950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-10-08T15:57:44.930863+00:00",
+  "LastChanged": "2023-10-08T17:57:57.9366855+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:19.4057078+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:57:54.8751929+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:03:40.3042047+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:57:57.936686+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:04:14.7789443+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5684,6 +5684,11 @@
       "Time": "2023-10-08T14:08:16.2959642+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T18:07:51.122053+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5695,7 +5700,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -5703,7 +5708,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_defeat_players_10",
@@ -5767,7 +5772,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_headquarters_10",
@@ -5775,7 +5780,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "objective_headquarters_15",
@@ -5783,7 +5788,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_headquarters_20",
@@ -5799,7 +5804,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5855,7 +5860,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -5879,7 +5884,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -5895,7 +5900,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -5967,7 +5972,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -5998,7 +6003,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 1
     }
   ],
@@ -6006,8 +6011,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:06:37.1197916+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:07:51.1220524+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:00:16.6378173+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:06:37.1198576+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:00:57.778299+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:07:51.1221317+00:00"
 }

@@ -16,8 +16,8 @@
 | A gift horse | 24.00% | ~67 |
 | You sssaved me | 24.00% | ~67 |
 | Say hello to my little friends | 22.00% | ~61 |
+| Gotcha | 19.00% | ~53 |
 | Heal thyself | 19.00% | ~53 |
-| Gotcha | 18.00% | ~50 |
 | Double trouble | 16.00% | ~44 |
 | It's not cheating | 16.00% | ~44 |
 | Stronk | 15.00% | ~42 |

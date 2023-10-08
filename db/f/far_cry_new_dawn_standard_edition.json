@@ -2,12 +2,12 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-02-15T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 338,
   "RatingHistory": [
     {
@@ -883,18 +883,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2023-10-08T18:00:22.6172129+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 237,
-  "NumberOfAwardsMax": 237,
+  "NumberOfAwards": 238,
+  "NumberOfAwardsMax": 238,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 237
+      "Count": 238
     }
   ],
   "EOS_Progressed": 0,
@@ -908,8 +914,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-10-03T16:59:21.9857082+00:00",
+  "LastChanged": "2023-10-08T18:00:22.6172126+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:13.8651219+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:59:46.1456505+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:43.1904993+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:00:22.6172136+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:05:31.3799303+00:00"
 }

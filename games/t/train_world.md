@@ -4,18 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Billionaire Club | 50.00% | ~1 |
-| Speed Demon | 50.00% | ~1 |
-| Regional Express | 50.00% | ~1 |
-| Industrial Giant | 50.00% | ~1 |
-| Urban Network | 50.00% | ~1 |
-| Supply Chain | 50.00% | ~1 |
-| Mega Train | 50.00% | ~1 |
-| Heavy Load | 50.00% | ~1 |
-| Line Master | 50.00% | ~1 |
-| City Link | 50.00% | ~1 |
-| Industrial Revolution | 50.00% | ~1 |
-| Double Trouble | 50.00% | ~1 |
+| City Link | 67.00% | ~2 |
+| Billionaire Club | 33.00% | ~1 |
+| Full House | 33.00% | ~1 |
+| Speed Demon | 33.00% | ~1 |
+| Regional Express | 33.00% | ~1 |
+| Industrial Giant | 33.00% | ~1 |
+| Task Apprentice | 33.00% | ~1 |
+| Urban Network | 33.00% | ~1 |
+| Supply Chain | 33.00% | ~1 |
+| Mega Train | 33.00% | ~1 |
+| Heavy Load | 33.00% | ~1 |
+| Line Master | 33.00% | ~1 |
+| Industrial Revolution | 33.00% | ~1 |
+| Double Trouble | 33.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -32,7 +34,6 @@
 | Future Proof | 0.00% | ~0 |
 | Ultra Long Train | 0.00% | ~0 |
 | Money Train | 0.00% | ~0 |
-| Full House | 0.00% | ~0 |
 | Train Tycoon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Steam Punk | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |
 | Steam Power | 0.00% | ~0 |
-| Task Apprentice | 0.00% | ~0 |
 | Task Master | 0.00% | ~0 |
 | Train Spotter | 0.00% | ~0 |
 | Crowd Pleaser | 0.00% | ~0 |
@@ -55,10 +55,10 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 579)  
+Progressed: 3 (Ranked 569)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-15 | 1 | 0 |
-| 2023-10-08 | 2 | 0 |
+| 2023-10-08 | 3 | 0 |

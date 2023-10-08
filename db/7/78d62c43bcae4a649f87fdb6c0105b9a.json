@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -114,9 +114,9 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "forest",
@@ -154,9 +154,9 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "mafia",
@@ -226,9 +226,9 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 85,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "world3insane",
@@ -289,8 +289,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:03:16.8925685+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:03:45.9086185+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.6716733+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:57:40.0502565+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:03:16.8926367+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:57:39.9489422+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:03:45.9086869+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_05_HERDS_OF_HORSES",
@@ -218,17 +218,17 @@
       "ID": "ACH_10_DOG_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Dog friends",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_11_GOOD_BOY",
       "SetID": "9loam6m",
       "Name": "Good boy!",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_12_PHOTO_SERIES",
@@ -434,9 +434,9 @@
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_38_WELL_HIDDEN",
@@ -450,17 +450,17 @@
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:04:50.9901095+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:05:40.8596576+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-08T17:00:44.5418791+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:50.9901414+00:00"
+  "LastUpdate_Ratings": "2023-10-08T18:03:17.2281199+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:05:40.8597496+00:00"
 }

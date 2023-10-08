@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 8.00% | ~1,100 |
+| Oyedang, Kopengs | 9.00% | ~1,238 |
 | Drug Gifter | 4.00% | ~550 |
-| Bosmang | 3.00% | ~412 |
+| Bosmang | 3.00% | ~413 |
 | The Pit and the Pirates | 2.00% | ~275 |
 | Data Archivist | 2.00% | ~275 |
 | Drone Dodger | 2.00% | ~275 |
@@ -17,27 +17,27 @@ Rating: 4.56 (Ranked 471)
 | Captain Drummer | 2.00% | ~275 |
 | Celebrations are in Order | 2.00% | ~275 |
 | Impossible Objects | 2.00% | ~275 |
-| Stogie for Fogey | 1.00% | ~137 |
-| Spore Taste | 1.00% | ~137 |
-| Martian Music | 1.00% | ~137 |
-| Miraculous Maya | 1.00% | ~137 |
+| Stogie for Fogey | 1.00% | ~138 |
+| Spore Taste | 1.00% | ~138 |
+| Martian Music | 1.00% | ~138 |
+| Miraculous Maya | 1.00% | ~138 |
 | Bottoms up! | 0.80% | ~110 |
 | Thorston Mayer | 0.80% | ~110 |
 | Doctor Approved | 0.70% | ~96 |
+| No Belter Left Behind | 0.60% | ~83 |
 | Brother's Reaper | 0.50% | ~69 |
-| No Belter Left Behind | 0.50% | ~69 |
 | Data Logger | 0.40% | ~55 |
 | Data Master | 0.40% | ~55 |
 | Debris Spree | 0.30% | ~41 |
 | Data Recoverer | 0.30% | ~41 |
-| Urshanabi Hoarder | 0.20% | ~27 |
+| Urshanabi Hoarder | 0.20% | ~28 |
 | Data Miner | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,749 (Ranked 135)  
-Completed: 17 (0.12%) (Ranked 236)  
+Progressed: 13,753 (Ranked 135)  
+Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 17 (0.12%) (Ranked 236)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,749 | 17 |
+| 2023-10-08 | 13,753 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

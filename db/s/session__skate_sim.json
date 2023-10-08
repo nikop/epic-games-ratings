@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1012,9 +1012,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3003,
+  "EOS_Progressed": 3005,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5252,6 +5252,11 @@
       "Time": "2023-10-08T06:04:32.4517325+00:00",
       "NumProgressed": 3003,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T18:04:50.1655269+00:00",
+      "NumProgressed": 3005,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5263,7 +5268,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5367,7 +5372,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -5639,22 +5644,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3003,
+      "Progressed": 3005,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-08T02:58:47.2592029+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:04:09.4786767+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:04:50.1655264+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9466799+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:59:18.014464+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:09.4787507+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:59:44.1474905+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:04:50.1656405+00:00"
 }

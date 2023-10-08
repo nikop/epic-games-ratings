@@ -1,7 +1,7 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,7 +38,7 @@ Number of Ratings: 425  (23.09.2022)
 | Dapper Capper | 7.00% | ~1,990 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28,435 (Ranked 116)  
-Completed: 1,359 (4.78%) (Ranked 60)  
+Completed: 1,360 (4.78%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 1,359 (4.78%) (Ranked 60)
 | 2023-10-05 | 28,417 | 1,358 |
 | 2023-10-06 | 28,424 | 1,358 |
 | 2023-10-07 | 28,429 | 1,359 |
-| 2023-10-08 | 28,435 | 1,359 |
+| 2023-10-08 | 28,435 | 1,360 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 440)  
 Sum: 343 (Ranked 338)  

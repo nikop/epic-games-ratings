@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 690)  
+Rating: 4.42 (Ranked 691)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 67.00% | ~458 |
-| Quick Understanding of Block Extrusion | 64.00% | ~437 |
-| Nature or Nurture | 55.00% | ~376 |
-| Power Glove | 53.00% | ~362 |
-| Forgotten Memories | 50.00% | ~342 |
-| Cogs in the Machine | 45.00% | ~307 |
-| Mission Success | 28.00% | ~191 |
-| There's No Place Like Home | 26.00% | ~178 |
-| Green Cube Killer | 23.00% | ~157 |
+| Lost in Space | 67.00% | ~460 |
+| Quick Understanding of Block Extrusion | 64.00% | ~439 |
+| Nature or Nurture | 56.00% | ~384 |
+| Power Glove | 53.00% | ~364 |
+| Forgotten Memories | 50.00% | ~343 |
+| Cogs in the Machine | 45.00% | ~309 |
+| Mission Success | 28.00% | ~192 |
+| There's No Place Like Home | 27.00% | ~185 |
+| Green Cube Killer | 23.00% | ~158 |
 | Infinity Loop | 20.00% | ~137 |
 | Path to Salvation | 20.00% | ~137 |
 | Descendants | 19.00% | ~130 |
-| The Flawed Teacher | 16.00% | ~109 |
+| The Flawed Teacher | 16.00% | ~110 |
 | The Truthful Enemy | 8.00% | ~55 |
 | To Infinity and Beyond | 7.00% | ~48 |
 | True collector | 0.40% | ~3 |
@@ -27,16 +27,16 @@ Number of Ratings: 94  (23.09.2022)
 | Gold collector | 0.40% | ~3 |
 | Silver collector | 0.40% | ~3 |
 | Get me out of here | 0.40% | ~3 |
+| Laser Sharp | 0.40% | ~3 |
 | Puzzle Master | 0.30% | ~2 |
 | Coming Home | 0.30% | ~2 |
-| Laser Sharp | 0.30% | ~2 |
 | King of the Collectables | 0.10% | ~1 |
 | Competent Collector | 0.10% | ~1 |
 | Master Collector | 0.10% | ~1 |
 | QUBE Master | 0.10% | ~1 |
 | Expert Collector | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 253)  
+Progressed: 686 (Ranked 253)  
 Completed: 1 (0.15%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.15%) (Ranked 230)
 | 2023-10-05 | 595 | 1 |
 | 2023-10-06 | 627 | 1 |
 | 2023-10-07 | 660 | 1 |
-| 2023-10-08 | 683 | 1 |
+| 2023-10-08 | 686 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1373,
+  "EOS_Progressed": 1375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2499,6 +2499,11 @@
       "Time": "2023-10-08T17:04:14.9731141+00:00",
       "NumProgressed": 1373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T18:04:56.9006141+00:00",
+      "NumProgressed": 1375,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2511,7 +2516,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2543,7 +2548,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2559,7 +2564,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2567,7 +2572,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2599,7 +2604,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2615,7 +2620,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2655,7 +2660,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2719,7 +2724,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2743,7 +2748,7 @@
       "Name": "Globe-trotter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -2797,9 +2802,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2807,7 +2812,7 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2815,7 +2820,7 @@
       "Name": "Champagne Spray",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2823,7 +2828,7 @@
       "Name": "Rounding Off",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -2831,7 +2836,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -2855,7 +2860,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -2863,7 +2868,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2902,14 +2907,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1373,
+      "Progressed": 1375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:04:14.9731133+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:04:56.9006136+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:58:39.9840013+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:04:14.9731745+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:58:56.1463632+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:04:56.9006727+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 152,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -222,6 +222,11 @@
       "Time": "2023-09-30T07:07:47.231029+00:00",
       "NumProgressed": 151,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-08T18:06:53.2418263+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -233,7 +238,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LC-02",
@@ -241,7 +246,7 @@
       "Name": "Bakery Startup",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LC-03",
@@ -265,7 +270,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LC-06",
@@ -368,7 +373,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 152,
       "Completed": 2
     }
   ],
@@ -376,8 +381,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-10-08T17:05:50.2171111+00:00",
+  "LastChanged_Achievements": "2023-10-08T18:06:53.2418258+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:52.1405748+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:59:26.5982419+00:00",
-  "LastUpdate_Achievements": "2023-10-08T17:05:50.2171268+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:59:56.0077818+00:00",
+  "LastUpdate_Achievements": "2023-10-08T18:06:53.2418414+00:00"
 }
