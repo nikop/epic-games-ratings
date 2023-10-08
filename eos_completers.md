@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.58% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.45% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -44,7 +44,7 @@
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.39% |
+| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.38% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 47 | [Scorn](games/s/scorn.md) | 7.05% |
 | 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
@@ -60,8 +60,8 @@
 | 58 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 59 | [JARS](games/j/jars.md) | 4.94% |
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
-| 62 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
+| 61 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
+| 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.35% |
@@ -103,7 +103,7 @@
 | 101 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
 | 102 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 103 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 104 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.25% |
+| 104 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.23% |
 | 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 106 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 107 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -235,12 +235,12 @@
 | 233 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 233 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
 | 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 236 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 236 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
-| 236 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 236 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 236 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 236 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.12% |
+| 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.13% |
+| 237 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 237 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
+| 237 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 237 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 237 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 242 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 242 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 242 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
