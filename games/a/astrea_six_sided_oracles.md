@@ -12,11 +12,11 @@
 | Purification Pioneer | 17.00% | ~8 |
 | Apian Champion | 17.00% | ~8 |
 | Mind Illuminator | 15.00% | ~7 |
+| Sanctuary Guardian | 15.00% | ~7 |
 | Stellar Dismantler | 15.00% | ~7 |
 | Wild's Keeper | 15.00% | ~7 |
 | Lacertian Champion | 15.00% | ~7 |
 | Loyal Partner | 13.00% | ~6 |
-| Sanctuary Guardian | 13.00% | ~6 |
 | Behenian Champion | 13.00% | ~6 |
 | Eridanian Champion | 13.00% | ~6 |
 | Shard Spender | 10.00% | ~5 |

@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.60% | ~87 |
 | Developing Cities | 0.60% | ~87 |
 | Strong Cities | 0.60% | ~87 |
+| Great Ziggurat | 0.60% | ~87 |
 | Ishtar Gate | 0.60% | ~87 |
 | Lighthouse | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
-| Great Ziggurat | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
 | Learn to Play 1 | 0.50% | ~73 |
@@ -211,6 +211,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.10% | ~15 |
 | Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
+| Learn By Playing 3 - Good | 0.10% | ~15 |
 | Macedonian Wars | 0.10% | ~15 |
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
@@ -334,7 +335,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,505 (Ranked 134)  
+Progressed: 14,510 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 278)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,505 | 5 |
+| 2023-10-08 | 14,510 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

@@ -2,13 +2,13 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 7,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-05-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -522,6 +522,6 @@
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
   "LastChanged": "2023-03-31T05:57:29.0121754+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:55.4933754+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:58:30.6777039+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:06:34.9498395+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:59:13.1293319+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:08:25.5145583+00:00"
 }

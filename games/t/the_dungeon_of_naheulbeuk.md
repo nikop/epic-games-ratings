@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,717 |
+| Sowwy! | 33.00% | ~75,721 |
 | Alt+F4 | 6.00% | ~13,767 |
-| Where's that freaking Dwarf? | 5.00% | ~11,472 |
+| Where's that freaking Dwarf? | 5.00% | ~11,473 |
 | Déjà vu | 4.00% | ~9,178 |
 | Sock! SOCK! | 4.00% | ~9,178 |
-| A beer, two curses, three companions | 3.00% | ~6,883 |
-| GG EZ | 3.00% | ~6,883 |
-| DM intervention | 3.00% | ~6,883 |
-| Speedrun | 3.00% | ~6,883 |
-| Fireproof Wizardess | 3.00% | ~6,883 |
+| A beer, two curses, three companions | 3.00% | ~6,884 |
+| GG EZ | 3.00% | ~6,884 |
+| DM intervention | 3.00% | ~6,884 |
+| Speedrun | 3.00% | ~6,884 |
+| Fireproof Wizardess | 3.00% | ~6,884 |
 | Livin' in a dwarven paradise | 2.00% | ~4,589 |
 | Way of the Wimp | 2.00% | ~4,589 |
 | The plot thickens... At the tavern | 2.00% | ~4,589 |
@@ -29,17 +29,17 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 2.00% | ~4,589 |
 | Team Building Exercise | 2.00% | ~4,589 |
 | Oh, when I'll be level 10... | 2.00% | ~4,589 |
-| Shiny and Crôm | 1.00% | ~2,294 |
-| Res Judicata | 1.00% | ~2,294 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,294 |
-| Dwarf Fortress | 1.00% | ~2,294 |
-| %#*!$*! | 1.00% | ~2,294 |
-| Look but don't touch | 1.00% | ~2,294 |
-| The beards of change | 1.00% | ~2,294 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,294 |
-| The Ranger of Chaos | 1.00% | ~2,294 |
-| I am the night | 1.00% | ~2,294 |
-| Thieves' Guild Accreditation | 1.00% | ~2,294 |
+| Shiny and Crôm | 1.00% | ~2,295 |
+| Res Judicata | 1.00% | ~2,295 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,295 |
+| Dwarf Fortress | 1.00% | ~2,295 |
+| %#*!$*! | 1.00% | ~2,295 |
+| Look but don't touch | 1.00% | ~2,295 |
+| The beards of change | 1.00% | ~2,295 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,295 |
+| The Ranger of Chaos | 1.00% | ~2,295 |
+| I am the night | 1.00% | ~2,295 |
+| Thieves' Guild Accreditation | 1.00% | ~2,295 |
 | Lust and Debauchery | 0.90% | ~2,065 |
 | Dead for good | 0.80% | ~1,836 |
 | Gargantua | 0.80% | ~1,836 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~229 |
 | Dwarf Candy | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,446 (Ranked 59)  
+Progressed: 229,458 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,21 +225,21 @@ Completed: 5 (0.00%) (Ranked 309)
 | 2023-10-05 | 228,876 | 5 |
 | 2023-10-06 | 229,103 | 5 |
 | 2023-10-07 | 229,368 | 5 |
-| 2023-10-08 | 229,446 | 5 |
+| 2023-10-08 | 229,458 | 5 |
 ## Awards
 Max (Character Customization): 210  (Ranked 274)  
-Sum: 410 (Ranked 325)  
-Diff (max vs sum): -51  
+Sum: 412 (Ranked 323)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 210 |
 | This game is Relaxing | 32 |
 | This game is Great for Beginners | 30 |
+| This game is Highly Recommended | 26 |
 | This game has Amazing Characters | 25 |
-| This game is Highly Recommended | 25 |
+| This game has Amazing Storytelling | 23 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 23 |
-| This game has Amazing Storytelling | 22 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -395,4 +395,4 @@ Diff (max vs sum): -51
 | 2023-10-05 | 4.59 | - | 207 | 405 |
 | 2023-10-06 | 4.59 | - | 208 | 407 |
 | 2023-10-07 | 4.59 | - | 208 | 408 |
-| 2023-10-08 | 4.59 | - | 210 | 410 |
+| 2023-10-08 | 4.59 | - | 210 | 412 |

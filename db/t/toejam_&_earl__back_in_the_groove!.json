@@ -5,10 +5,10 @@
   "Ranking_Rating": 786,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 99,
+  "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57227,
+  "EOS_Progressed": 57229,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10453,6 +10453,11 @@
       "Time": "2023-10-08T06:07:37.7863508+00:00",
       "NumProgressed": 57227,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T10:03:26.1718583+00:00",
+      "NumProgressed": 57229,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10552,7 +10557,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "FoolMeTwice",
@@ -10855,7 +10860,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57227,
+      "Progressed": 57229,
       "Completed": 6
     }
   ],
@@ -10863,8 +10868,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:03:17.6090754+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:03:26.1718579+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0987806+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:57:24.9788512+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:03:17.6096163+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:57:34.0149389+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:03:26.1720019+00:00"
 }

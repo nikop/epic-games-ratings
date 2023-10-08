@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,941 |
+| Follow the Light | 43.00% | ~28,942 |
 | Let There Be Light | 35.00% | ~23,557 |
 | Float Like a Butterfly | 33.00% | ~22,211 |
-| Nordic Walking | 27.00% | ~18,172 |
-| Bright Falls' Finest | 26.00% | ~17,499 |
+| Nordic Walking | 27.00% | ~18,173 |
+| Bright Falls' Finest | 26.00% | ~17,500 |
 | Under a Thin Layer of Skin | 23.00% | ~15,480 |
 | Park Ranger | 19.00% | ~12,788 |
 | Paging Mr. Wake | 19.00% | ~12,788 |
@@ -33,9 +33,9 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~8,077 |
 | Energized! | 12.00% | ~8,077 |
 | The Lady of the Light | 11.00% | ~7,404 |
-| What Light Through Yonder Window | 10.00% | ~6,730 |
-| Right of Way | 10.00% | ~6,730 |
-| Tornado Wrangler | 9.00% | ~6,057 |
+| What Light Through Yonder Window | 10.00% | ~6,731 |
+| Right of Way | 10.00% | ~6,731 |
+| Tornado Wrangler | 9.00% | ~6,058 |
 | A Friend in Need | 9.00% | ~2,770 |
 | Departure | 8.00% | ~5,384 |
 | Hardboiled Writer | 7.00% | ~4,711 |
@@ -70,11 +70,11 @@ Number of Ratings: 524  (23.09.2022)
 | Gunless Wonder | 0.20% | ~135 |
 | Every Nook and Cranny | 0.20% | ~135 |
 | Collector's Edition | 0.20% | ~135 |
+| No Punctuation | 0.20% | ~62 |
 | Licensed Properties | 0.20% | ~62 |
 | Hypercaffeinated | 0.10% | ~67 |
-| No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,305 (Ranked 93)  
+Progressed: 67,306 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 67 (0.10%) (Ranked 244)
 | 2023-10-05 | 67,064 | 67 |
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
-| 2023-10-08 | 67,305 | 67 |
+| 2023-10-08 | 67,306 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

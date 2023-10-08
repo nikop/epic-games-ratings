@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1809,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14505,
+  "EOS_Progressed": 14510,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13304,6 +13304,11 @@
       "Time": "2023-10-08T09:04:05.5979157+00:00",
       "NumProgressed": 14505,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T10:04:46.2337941+00:00",
+      "NumProgressed": 14510,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14665,9 +14670,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -14817,9 +14822,9 @@
       "ID": "ACHIEVEMENT_LBP3",
       "SetID": "7l38kb8",
       "Name": "Learn By Playing 3 - Good",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_LBP4",
@@ -16050,21 +16055,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14505,
+      "Progressed": 14510,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14505,
+      "Progressed": 14510,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:04:05.5979151+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:04:46.2337935+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:00:46.7363479+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:04:05.5990492+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:02:34.2433105+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:04:46.2362014+00:00"
 }

@@ -22,8 +22,8 @@ Rating: 4.61 (Ranked 371)
 | Full Arsenal | 45.00% | ~381 |
 | S.O.S. | 45.00% | ~381 |
 | Get Off My Ship! | 43.00% | ~364 |
+| Strange Transmissions | 43.00% | ~364 |
 | Live with the Hot Ones | 42.00% | ~355 |
-| Strange Transmissions | 42.00% | ~355 |
 | Wreckage | 41.00% | ~347 |
 | Keeper of the Faith | 39.00% | ~330 |
 | Betrayed | 37.00% | ~313 |

@@ -28,10 +28,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 1.00% | ~1,373 |
 | Dungeon Imports | 1.00% | ~1,373 |
 | Through Repetition, Perfection | 1.00% | ~1,373 |
+| Did we pack lunch? | 1.00% | ~1,373 |
 | Ascended | 0.90% | ~1,236 |
 | Blank Page Syndrome | 0.90% | ~1,236 |
 | Accomplished Merchant | 0.90% | ~1,236 |
-| Did we pack lunch? | 0.90% | ~1,236 |
 | Arcane Industries | 0.90% | ~1,236 |
 | On the Path to Greatness | 0.80% | ~1,098 |
 | Research & Development | 0.80% | ~1,098 |
@@ -97,12 +97,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.50% | ~686 |
 | Master Recycler | 0.50% | ~686 |
 | Exotic Commodities | 0.50% | ~686 |
+| Economy of Scarce | 0.50% | ~686 |
 | King's Blade | 0.50% | ~686 |
 | Thank You Tom Nook | 0.40% | ~549 |
 | A Legend is Born | 0.40% | ~549 |
 | Jackpot! | 0.40% | ~549 |
 | All Accounted For | 0.40% | ~549 |
-| Economy of Scarce | 0.40% | ~549 |
 | The Free Encyclopedia | 0.30% | ~412 |
 | All or Nothing! | 0.30% | ~412 |
 | Eternal Crusade | 0.30% | ~412 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,298 (Ranked 73)  
+Progressed: 137,299 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 167 (0.12%) (Ranked 235)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,298 | 167 |
+| 2023-10-08 | 137,299 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,356 (Ranked 50)  

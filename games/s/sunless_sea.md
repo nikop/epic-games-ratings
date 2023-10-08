@@ -41,15 +41,15 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~385 |
 | Under the zee | 1.00% | ~385 |
 | A current under zee | 1.00% | ~385 |
-| Never Stop Sinking... | 0.90% | ~346 |
-| The beauty of the deep | 0.90% | ~346 |
-| The dragon in the zee | 0.90% | ~346 |
-| Leviathan | 0.90% | ~346 |
-| No regrets | 0.90% | ~346 |
-| Depth charge | 0.90% | ~346 |
+| Never Stop Sinking... | 0.90% | ~347 |
+| The beauty of the deep | 0.90% | ~347 |
+| The dragon in the zee | 0.90% | ~347 |
+| Leviathan | 0.90% | ~347 |
+| No regrets | 0.90% | ~347 |
+| Depth charge | 0.90% | ~347 |
 | A zee-change | 0.80% | ~308 |
-| What lies beneath | 0.70% | ~269 |
-| Stone's Curse | 0.70% | ~269 |
+| What lies beneath | 0.70% | ~270 |
+| Stone's Curse | 0.70% | ~270 |
 | Five Years at Zee | 0.50% | ~192 |
 | The Lady's Parlour | 0.20% | ~77 |
 | A Past Wreathed in Shadows | 0.20% | ~77 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~38 |
 | Ten Years at Zee | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,499 (Ranked 110)  
+Progressed: 38,500 (Ranked 110)  
 Completed: 3 (0.01%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 3 (0.01%) (Ranked 290)
 | 2023-10-05 | 38,364 | 3 |
 | 2023-10-06 | 38,412 | 3 |
 | 2023-10-07 | 38,470 | 3 |
-| 2023-10-08 | 38,499 | 3 |
+| 2023-10-08 | 38,500 | 3 |
 ## Awards
 Max (Character Customization): 215  (Ranked 272)  
 Sum: 286 (Ranked 352)  

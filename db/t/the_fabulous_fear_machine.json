@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -116,9 +116,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "10",
@@ -188,25 +188,25 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 72,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "20",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:06:54.9436109+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:08:55.0196937+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:57:29.9463282+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:06:54.9436457+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:57:39.9816268+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:08:55.0197611+00:00"
 }

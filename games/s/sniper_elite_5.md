@@ -28,11 +28,11 @@ Rating: 4.45 (Ranked 644)
 | Snake in the Grass | 15.00% | ~556 |
 | Brains of the Operation | 15.00% | ~556 |
 | No Stone Unturned | 14.00% | ~519 |
+| Opposing Force | 14.00% | ~519 |
 | Enemy at the Gates | 14.00% | ~519 |
 | Fields of Glory | 14.00% | ~519 |
 | Skirmisher | 14.00% | ~519 |
 | Die Nussknacker Sweet! | 14.00% | ~519 |
-| Opposing Force | 13.00% | ~482 |
 | Set Europe Ablaze | 13.00% | ~482 |
 | Precision Is Key | 10.00% | ~371 |
 | My Little Friend | 10.00% | ~371 |

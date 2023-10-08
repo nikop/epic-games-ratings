@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6418,10 +6418,10 @@
       "Count": 3757
     }
   ],
-  "EOS_Progressed": 137298,
+  "EOS_Progressed": 137299,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 362,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 359,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -23938,6 +23938,11 @@
       "Time": "2023-10-08T09:05:22.3360644+00:00",
       "NumProgressed": 137298,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-08T10:06:38.426272+00:00",
+      "NumProgressed": 137299,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -24659,9 +24664,9 @@
       "ID": "quest01",
       "SetID": "anfd17p",
       "Name": "Did we pack lunch?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1373
     },
     {
       "ID": "quest02",
@@ -24803,9 +24808,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 686
     },
     {
       "ID": "workers01",
@@ -24844,15 +24849,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137298,
+      "Progressed": 137299,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-08T07:58:14.9494622+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:05:22.3360639+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:06:38.4262716+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:58:27.0684364+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:05:22.3362893+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:59:07.438226+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:06:38.4265333+00:00"
 }

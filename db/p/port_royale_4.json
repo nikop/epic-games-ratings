@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2546,9 +2546,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH030",
@@ -2722,8 +2722,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:03:39.3940355+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:04:08.0225888+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.9232291+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:58:05.2911539+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:03:39.3940924+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:58:34.1559455+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:04:08.0226495+00:00"
 }

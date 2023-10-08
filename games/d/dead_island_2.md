@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,777 |
-| Break A Leg | 3.00% | ~20,777 |
-| Coup de Grâce | 3.00% | ~20,777 |
-| Hazardous Materials | 3.00% | ~20,777 |
-| Friends Like These | 3.00% | ~20,777 |
-| Hotel California | 3.00% | ~20,777 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,777 |
-| Welcome To Hell-A | 3.00% | ~20,777 |
+| Git Gutte! | 3.00% | ~20,778 |
+| Break A Leg | 3.00% | ~20,778 |
+| Coup de Grâce | 3.00% | ~20,778 |
+| Hazardous Materials | 3.00% | ~20,778 |
+| Friends Like These | 3.00% | ~20,778 |
+| Hotel California | 3.00% | ~20,778 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,778 |
+| Welcome To Hell-A | 3.00% | ~20,778 |
 | Dr. Reed, I Presume? | 2.00% | ~13,852 |
 | Anger Management | 2.00% | ~13,852 |
 | Perks of the Job | 2.00% | ~13,852 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 508)
 | Smorgasbord | 0.80% | ~5,541 |
 | Not Even My Final Form | 0.70% | ~4,848 |
 | Internet Famous | 0.70% | ~4,848 |
-| Make it So | 0.60% | ~4,155 |
-| On Safari | 0.60% | ~4,155 |
-| Variety is the Spice of Death | 0.60% | ~4,155 |
+| Make it So | 0.60% | ~4,156 |
+| On Safari | 0.60% | ~4,156 |
+| Variety is the Spice of Death | 0.60% | ~4,156 |
 | LA Influential | 0.50% | ~3,463 |
 | Gore Horse | 0.50% | ~3,463 |
 | Sole Survivor | 0.40% | ~2,770 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~693 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,575 (Ranked 22)  
+Progressed: 692,606 (Ranked 22)  
 Completed: 2,202 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 2,202 (0.32%) (Ranked 195)
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
-| 2023-10-08 | 692,575 | 2,202 |
+| 2023-10-08 | 692,606 | 2,202 |
 ## Awards
 Max (Great Boss Battles): 6,348  (Ranked 58)  
 Sum: 9,478 (Ranked 91)  

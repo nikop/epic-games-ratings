@@ -454,9 +454,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
@@ -469,8 +469,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:06:39.979621+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:08:32.9398792+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:11.1249179+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:03:10.7784464+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:06:39.9796364+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:03:12.6302748+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:08:32.9399014+00:00"
 }

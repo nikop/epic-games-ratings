@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3660,
+  "EOS_Progressed": 3661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1604,6 +1604,11 @@
       "Time": "2023-10-08T01:49:34.6475865+00:00",
       "NumProgressed": 3660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T10:04:06.0366481+00:00",
+      "NumProgressed": 3661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1615,7 +1620,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1655,7 +1660,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1663,7 +1668,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1687,7 +1692,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1711,7 +1716,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1783,7 +1788,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1791,7 +1796,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -1822,7 +1827,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3660,
+      "Progressed": 3661,
       "Completed": 0
     }
   ],
@@ -1830,8 +1835,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:03:37.8889429+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:04:06.0366475+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:57:31.5370489+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:03:37.8889688+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:57:42.5643737+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:04:06.0366925+00:00"
 }

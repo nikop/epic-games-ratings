@@ -3422,7 +3422,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73286,
+  "EOS_Progressed": 73287,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 281,
   "EOS_NewCompleters": -1,
@@ -17992,6 +17992,11 @@
       "Time": "2023-10-08T08:06:16.3105916+00:00",
       "NumProgressed": 73286,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-08T10:08:09.5761137+00:00",
+      "NumProgressed": 73287,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18115,7 +18120,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13192
     },
     {
       "ID": "CLAYFACE_3",
@@ -18243,7 +18248,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13924
+      "UsersEstimate": 13925
     },
     {
       "ID": "FREEZE_3",
@@ -18395,7 +18400,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24917
+      "UsersEstimate": 24918
     },
     {
       "ID": "MYSTERY_02",
@@ -18427,7 +18432,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13192
     },
     {
       "ID": "MYSTERY_06",
@@ -18459,7 +18464,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8061
+      "UsersEstimate": 8062
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18490,13 +18495,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73286,
+      "Progressed": 73287,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43566,
+      "Progressed": 43567,
       "Completed": 2666
     }
   ],
@@ -18504,8 +18509,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T22:58:24.4276685+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:06:23.8962608+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:08:09.5761132+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:58:59.8519742+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:06:23.8964069+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:59:59.465479+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:08:09.5763673+00:00"
 }

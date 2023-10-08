@@ -18,7 +18,7 @@
 | Master of the Skies | 60.00% | ~67 |
 | Expert Conjuror | 60.00% | ~67 |
 | Distance Devourer | 59.00% | ~66 |
-| Flawless Crystal | 56.00% | ~63 |
+| Flawless Crystal | 57.00% | ~64 |
 | Helpful Heart | 56.00% | ~63 |
 | Counter Specialist | 54.00% | ~60 |
 | Bonds of Enmity | 54.00% | ~60 |
@@ -27,8 +27,8 @@
 | Mighty Marmelizer | 44.00% | ~49 |
 | Single Minded | 42.00% | ~47 |
 | Snare Specialist | 41.00% | ~46 |
+| Karakuri Trail | 40.00% | ~45 |
 | Kemono at Heart | 40.00% | ~45 |
-| Karakuri Trail | 39.00% | ~44 |
 | Reincarnation Cycle Stopper | 36.00% | ~40 |
 | Team Hunter | 35.00% | ~39 |
 | Artful Assister | 34.00% | ~38 |
@@ -43,8 +43,8 @@
 | Canyon of Karakuri | 26.00% | ~29 |
 | Jack of All Trades | 26.00% | ~29 |
 | Volatile Vocation | 25.00% | ~28 |
+| Quintessence of Form | 24.00% | ~27 |
 | Superlative View | 23.00% | ~26 |
-| Quintessence of Form | 23.00% | ~26 |
 | Tender Touch | 21.00% | ~24 |
 | Haven Hunter | 21.00% | ~24 |
 | Relentless Kemono Hunter | 19.00% | ~21 |

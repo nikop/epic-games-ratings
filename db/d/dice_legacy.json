@@ -5,10 +5,10 @@
   "Ranking_Rating": 834,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2023-10-08T00:07:23.4850692+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T10:08:20.7111916+00:00",
+      "NumProgressed": 1112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1930,17 +1935,17 @@
       "ID": "CHALLENGE_GREATWINTER",
       "SetID": "6ohhfoc",
       "Name": "The Great Winter",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
@@ -2124,7 +2129,7 @@
       "Name": "We made it",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2259,7 +2264,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 0
     }
   ],
@@ -2267,8 +2272,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:06:31.5720733+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:08:20.711191+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:34.3329425+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:57:29.6224937+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:06:31.5721227+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:57:39.4260943+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:08:20.71126+00:00"
 }

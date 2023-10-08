@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -361,7 +361,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4716,
+  "EOS_Progressed": 4717,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -2696,6 +2696,11 @@
       "Time": "2023-10-07T10:09:28.1991143+00:00",
       "NumProgressed": 4716,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-08T10:09:34.3598873+00:00",
+      "NumProgressed": 4717,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2715,7 +2720,7 @@
       "Name": "Firebug",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2763,7 +2768,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2771,7 +2776,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2795,7 +2800,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -2819,7 +2824,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -2851,7 +2856,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -2859,7 +2864,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -2923,7 +2928,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2939,7 +2944,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -2947,7 +2952,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -2971,7 +2976,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2987,7 +2992,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3035,7 +3040,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -3043,7 +3048,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3123,7 +3128,7 @@
       "Name": "No More Marching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -3155,7 +3160,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -3242,15 +3247,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4716,
+      "Progressed": 4717,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:09:13.5091296+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:09:34.3598868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.3390771+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:03:11.5418034+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:09:13.5092469+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:03:13.9136367+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:09:34.3600004+00:00"
 }

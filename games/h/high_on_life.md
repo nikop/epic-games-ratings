@@ -23,10 +23,10 @@ Rating: 4.64 (Ranked 318)
 | RIP Davey Glutes | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |
 | Self-Actualization | 0.30% | ~72 |
+| Fallout Doesn't Let You Do This | 0.30% | ~72 |
 | Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Series Wrap on Suit-O | 0.30% | ~72 |
 | Eye Scream, You Scream | 0.20% | ~48 |
-| Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |
 | We Came, We Chainsaw, We Conquered | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |

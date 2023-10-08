@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Minimalist lifestyle | 6.00% | ~3 |
-| I deliver the presents! | 6.00% | ~3 |
+| Minimalist lifestyle | 5.00% | ~3 |
+| I deliver the presents! | 5.00% | ~3 |
 | A new HOME | 4.00% | ~2 |
 | Lost forever | 4.00% | ~2 |
 | Lesson learned | 4.00% | ~2 |
@@ -23,8 +23,8 @@
 | Silver Scarf | 2.00% | ~1 |
 | So close! | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 429)  
-Completed: 1 (1.85%) (Ranked 109)  
+Progressed: 55 (Ranked 426)  
+Completed: 1 (1.82%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,4 +42,4 @@ Completed: 1 (1.85%) (Ranked 109)
 | 2023-10-05 | 42 | 1 |
 | 2023-10-06 | 46 | 1 |
 | 2023-10-07 | 53 | 1 |
-| 2023-10-08 | 54 | 1 |
+| 2023-10-08 | 55 | 1 |

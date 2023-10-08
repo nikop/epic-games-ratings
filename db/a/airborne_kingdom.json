@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7305,
+  "EOS_Progressed": 7306,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4829,6 +4829,11 @@
       "Time": "2023-10-08T09:03:23.4742469+00:00",
       "NumProgressed": 7305,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-08T10:03:34.8007661+00:00",
+      "NumProgressed": 7306,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4848,7 +4853,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4936,7 +4941,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5055,15 +5060,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7305,
+      "Progressed": 7306,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-08T09:03:23.4742464+00:00",
+  "LastChanged_Achievements": "2023-10-08T10:03:34.8007652+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:11.1457517+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:00:47.359343+00:00",
-  "LastUpdate_Achievements": "2023-10-08T09:03:23.474299+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:02:35.1786222+00:00",
+  "LastUpdate_Achievements": "2023-10-08T10:03:34.8008397+00:00"
 }
