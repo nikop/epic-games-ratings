@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.28% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.25% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -20,8 +20,8 @@
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.75% |
 | 19 | [Seven Doors](games/s/seven_doors.md) | 18.18% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 21 | [Island Cities](games/i/island_cities.md) | 16.55% |
-| 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.62% |
+| 21 | [Island Cities](games/i/island_cities.md) | 16.53% |
+| 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.53% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 24 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.28% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
@@ -71,7 +71,7 @@
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.79% |
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 74 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 3.42% |
@@ -119,7 +119,7 @@
 | 117 | [Somerville](games/s/somerville.md) | 1.71% |
 | 118 | [Five Dates](games/f/five_dates.md) | 1.63% |
 | 119 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 120 | [Iron Danger](games/i/iron_danger.md) | 1.47% |
+| 120 | [Iron Danger](games/i/iron_danger.md) | 1.46% |
 | 121 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 122 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.40% |
 | 123 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
@@ -179,18 +179,18 @@
 | 173 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 173 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 179 | [Tchia](games/t/tchia.md) | 0.44% |
-| 180 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 180 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 182 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.38% |
-| 183 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 187 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 187 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 189 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 189 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
-| 191 | [Wildermyth](games/w/wildermyth.md) | 0.35% |
+| 180 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
+| 181 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 181 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
+| 183 | [Train Valley](games/t/train_valley.md) | 0.39% |
+| 184 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.38% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
+| 184 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 188 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 188 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 190 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
+| 190 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 192 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.34% |
 | 192 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 192 | [The Surge](games/t/the_surge.md) | 0.34% |
