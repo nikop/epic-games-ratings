@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.29% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.20% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
@@ -42,7 +42,7 @@
 | 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.82% |
 | 41 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
+| 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
 | 45 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -64,7 +64,7 @@
 | 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
-| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.35% |
+| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.31% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
@@ -101,7 +101,7 @@
 | 99 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
 | 100 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 101 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
+| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.23% |
@@ -117,11 +117,11 @@
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 116 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.72% |
-| 118 | [Somerville](games/s/somerville.md) | 1.71% |
+| 118 | [Somerville](games/s/somerville.md) | 1.70% |
 | 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 122 | [Iron Danger](games/i/iron_danger.md) | 1.46% |
+| 122 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
 | 123 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 124 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
 | 124 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
@@ -434,6 +434,7 @@
 | 310 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 0.00% |
 | 310 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
 | 310 | [Gravity Oddity](games/b/bd49e68e53fc4da0b14d054354575cea.md) | 0.00% |
+| 310 | [Gray Dawn](games/9/9704cc138a58450abe19bbb318866b1c.md) | 0.00% |
 | 310 | [greensheen Production](games/g/greensheen_production.md) | 0.00% |
 | 310 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
 | 310 | [GRIME](games/g/grime.md) | 0.00% |
