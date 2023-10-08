@@ -3,8 +3,8 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 988,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 128,
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6993,
+  "EOS_Progressed": 6994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3718,6 +3718,11 @@
       "Time": "2023-10-08T15:09:16.1353419+00:00",
       "NumProgressed": 6993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T16:08:30.18706+00:00",
+      "NumProgressed": 6994,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3786,7 +3791,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "DHUpgraded1",
@@ -3938,7 +3943,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "HSPurchased1",
@@ -4098,7 +4103,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "MaxTowersKilled6",
@@ -4242,7 +4247,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "SOVUpgraded1",
@@ -4290,7 +4295,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "TSUPurchased1",
@@ -4321,7 +4326,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 6993,
+      "Progressed": 6994,
       "Completed": 1
     }
   ],
@@ -4329,8 +4334,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:09:16.1353416+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:08:30.1870594+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:57:29.6923131+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:09:16.1354428+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:57:05.9117267+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:08:30.1871777+00:00"
 }

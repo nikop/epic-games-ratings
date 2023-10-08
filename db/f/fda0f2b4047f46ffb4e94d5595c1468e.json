@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -954,9 +954,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 7199,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3344,6 +3344,11 @@
       "Time": "2023-10-08T15:06:02.8755613+00:00",
       "NumProgressed": 7199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T16:05:23.274163+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3396,15 +3401,15 @@
       "Name": "Titan",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5257
     },
     {
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3671
+      "UsersEstimate": 3745
     },
     {
       "ID": "ach08",
@@ -3466,9 +3471,9 @@
       "ID": "ach15",
       "SetID": "47in8n6",
       "Name": "Give A Koin",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1656
     },
     {
       "ID": "ach16",
@@ -3644,15 +3649,15 @@
       "Name": "ABACABB",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "ach38",
       "SetID": "47in8n6",
       "Name": "Made It Out Alive",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2952
+      "UsersEstimate": 3024
     },
     {
       "ID": "ach39",
@@ -3755,7 +3760,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7199,
+      "Progressed": 7201,
       "Completed": 0
     }
   ],
@@ -3763,8 +3768,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-08T15:03:06.668049+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:06:02.8755609+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:05:23.2741623+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:03:06.6680499+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:06:02.8756195+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:02:10.7386214+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:05:23.2742201+00:00"
 }

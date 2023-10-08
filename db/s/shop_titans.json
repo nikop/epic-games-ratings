@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6362,10 +6362,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27356,
       "NumberOfAwardsMax": 4776
+    },
+    {
+      "Time": "2023-10-08T15:58:33.863518+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27357,
+      "NumberOfAwardsMax": 4776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27356,
+  "NumberOfAwards": 27357,
   "NumberOfAwardsMax": 4776,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6415,12 +6421,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3757
+      "Count": 3758
     }
   ],
-  "EOS_Progressed": 137309,
+  "EOS_Progressed": 137315,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23968,6 +23974,11 @@
       "Time": "2023-10-08T15:06:35.3246256+00:00",
       "NumProgressed": 137309,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-08T16:05:53.1724158+00:00",
+      "NumProgressed": 137315,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -23987,7 +23998,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "advlevel03",
@@ -24081,9 +24092,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1373
+      "UsersEstimate": 2746
     },
     {
       "ID": "blueprint02",
@@ -24091,7 +24102,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "blueprint03",
@@ -24107,7 +24118,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "boss01",
@@ -24387,7 +24398,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "furniture02",
@@ -24419,7 +24430,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "fuselegendary",
@@ -24499,7 +24510,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "help02",
@@ -24643,7 +24654,7 @@
       "Name": "Natural 20",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "master03",
@@ -24874,15 +24885,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137309,
+      "Progressed": 137315,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-08T07:58:14.9494622+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:06:35.3246252+00:00",
+  "LastChanged": "2023-10-08T15:58:33.8635178+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:05:53.1724152+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:59:06.2321166+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:06:35.3248888+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:58:33.8635186+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:05:53.1726826+00:00"
 }

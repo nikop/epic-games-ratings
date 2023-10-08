@@ -9,14 +9,14 @@
 | Good Person Chip | 86.00% | ~286 |
 | First winning | 85.00% | ~283 |
 | Your first job | 84.00% | ~280 |
+| Old movies enjoyer | 81.00% | ~270 |
 | Fitness professional | 80.00% | ~266 |
-| Old movies enjoyer | 80.00% | ~266 |
 | Depressed visitor | 80.00% | ~266 |
 | Employee of the week | 79.00% | ~263 |
 | Neurotrainer – power gainer! | 78.00% | ~260 |
 | Your own amateur gym | 75.00% | ~250 |
+| First defeat | 74.00% | ~246 |
 | Run K, run! | 74.00% | ~246 |
-| First defeat | 73.00% | ~243 |
 | No bullying more | 71.00% | ~236 |
 | Hello, world! | 71.00% | ~236 |
 | Fighting is cool | 70.00% | ~233 |
@@ -44,12 +44,12 @@
 | Champion – no way back | 44.00% | ~147 |
 | Underground dwellers | 42.00% | ~140 |
 | Responsible approach | 42.00% | ~140 |
+| Mom got better | 41.00% | ~137 |
 | Deal with life | 41.00% | ~137 |
 | GYM professional | 41.00% | ~137 |
 | Poisoned fighter | 41.00% | ~137 |
-| Mom got better | 40.00% | ~133 |
+| The die is cast | 41.00% | ~137 |
 | Get out of my apartment! | 40.00% | ~133 |
-| The die is cast | 40.00% | ~133 |
 | Seashell hunter | 38.00% | ~127 |
 | Gang wrangler | 37.00% | ~123 |
 | Undercover robot | 37.00% | ~123 |

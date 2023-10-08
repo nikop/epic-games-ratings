@@ -1,4 +1,4 @@
-# A Hero's Rest
+# A Hero's Rest: An RPG Town Simulator
 [Store](https://store.epicgames.com/en-US/p/a-heros-rest-67f117)  
 [View Rawdata](../../db/a/a_hero's_rest.json)  
 ## Ratings History

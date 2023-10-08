@@ -1735,9 +1735,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 206762,
+  "EOS_Progressed": 206770,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21120,6 +21120,11 @@
       "Time": "2023-10-08T15:03:48.8855218+00:00",
       "NumProgressed": 206762,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-08T16:03:20.4287362+00:00",
+      "NumProgressed": 206770,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21131,7 +21136,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20676
+      "UsersEstimate": 20677
     },
     {
       "ID": "AtheistOx",
@@ -21171,7 +21176,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16541
+      "UsersEstimate": 16542
     },
     {
       "ID": "FiveShadows",
@@ -21195,7 +21200,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8270
+      "UsersEstimate": 8271
     },
     {
       "ID": "Genin",
@@ -21203,7 +21208,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24811
+      "UsersEstimate": 24812
     },
     {
       "ID": "HappyLittleAccidents",
@@ -21211,7 +21216,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8270
+      "UsersEstimate": 8271
     },
     {
       "ID": "HappyPlanning",
@@ -21235,7 +21240,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "ItsRainingMen",
@@ -21251,7 +21256,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "Mercyful",
@@ -21347,7 +21352,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16541
+      "UsersEstimate": 16542
     },
     {
       "ID": "Rollin",
@@ -21355,7 +21360,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16541
+      "UsersEstimate": 16542
     },
     {
       "ID": "StillRollin",
@@ -21363,7 +21368,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8270
+      "UsersEstimate": 8271
     },
     {
       "ID": "Stoned",
@@ -21379,7 +21384,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "TanukiTime",
@@ -21387,7 +21392,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16541
+      "UsersEstimate": 16542
     },
     {
       "ID": "TheCave",
@@ -21419,7 +21424,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20676
+      "UsersEstimate": 20677
     },
     {
       "ID": "TimeParadox",
@@ -21475,22 +21480,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 206762,
+      "Progressed": 206770,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-08T14:58:01.2052959+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:03:48.8855213+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:03:20.4287352+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:58:01.2052966+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:03:48.8856825+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:57:33.5056123+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:03:20.4288912+00:00"
 }

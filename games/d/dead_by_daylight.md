@@ -6,32 +6,32 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,342 |
-| Zealous | 0.80% | ~7,415 |
-| Skillful | 0.80% | ~7,415 |
-| Not half bad | 0.70% | ~6,488 |
-| Survival Treasures | 0.70% | ~6,488 |
-| Make Some Noise | 0.70% | ~6,488 |
-| Handyman | 0.60% | ~5,561 |
-| Apt Survivor | 0.60% | ~5,561 |
-| Sorted | 0.60% | ~5,561 |
-| The Grand Sacrifice | 0.50% | ~4,634 |
-| No one left behind | 0.50% | ~4,634 |
-| Medic | 0.50% | ~4,634 |
-| Nerves of steel | 0.50% | ~4,634 |
-| Bloody Millionaire | 0.50% | ~4,634 |
-| I | 0.50% | ~4,634 |
-| Healthy Obsession | 0.50% | ~4,634 |
-| Resurgence | 0.50% | ~4,634 |
-| Preemptive Strike | 0.50% | ~4,634 |
-| Humanitarian | 0.50% | ~4,634 |
+| It wakes | 1.00% | ~9,270 |
+| Zealous | 0.90% | ~8,343 |
+| Skillful | 0.80% | ~7,416 |
+| Not half bad | 0.70% | ~6,489 |
+| Apt Survivor | 0.70% | ~6,489 |
+| Survival Treasures | 0.70% | ~6,489 |
+| Make Some Noise | 0.70% | ~6,489 |
+| Handyman | 0.60% | ~5,562 |
+| Sorted | 0.60% | ~5,562 |
+| The Grand Sacrifice | 0.50% | ~4,635 |
+| No one left behind | 0.50% | ~4,635 |
+| Medic | 0.50% | ~4,635 |
+| Nerves of steel | 0.50% | ~4,635 |
+| Perfect Escape | 0.50% | ~4,635 |
+| Bloody Millionaire | 0.50% | ~4,635 |
+| I | 0.50% | ~4,635 |
+| Engineer | 0.50% | ~4,635 |
+| Healthy Obsession | 0.50% | ~4,635 |
+| Resurgence | 0.50% | ~4,635 |
+| Preemptive Strike | 0.50% | ~4,635 |
+| Humanitarian | 0.50% | ~4,635 |
 | Agonizing Escape | 0.40% | ~3,708 |
 | Backdoor Escape | 0.40% | ~3,708 |
 | I've got your back | 0.40% | ~3,708 |
-| Perfect Escape | 0.40% | ~3,708 |
 | Perfect Killing | 0.40% | ~3,708 |
 | Risk it all | 0.40% | ~3,708 |
-| Engineer | 0.40% | ~3,708 |
 | Wounded Healer | 0.40% | ~3,708 |
 | Close Shave | 0.40% | ~3,708 |
 | Apt Killer | 0.30% | ~2,781 |
@@ -84,6 +84,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 0.20% | ~1,854 |
 | One More Step | 0.20% | ~1,854 |
 | MU/TH/UR Dearest | 0.20% | ~1,854 |
+| Kitted Out | 0.20% | ~1,854 |
 | A feast for the Entity | 0.10% | ~927 |
 | Blood in your mouth | 0.10% | ~927 |
 | Cripple them all | 0.10% | ~927 |
@@ -233,10 +234,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Terror of LV-426 | 0.10% | ~927 |
 | Disarm and Dismember | 0.10% | ~927 |
 | Adept Xenomorph | 0.10% | ~927 |
-| Kitted Out | 0.10% | ~927 |
 | Adept Ripley | 0.10% | ~927 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,887 (Ranked 14)  
+Progressed: 927,046 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,10 +407,10 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,887 | 49 |
+| 2023-10-08 | 927,046 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
-Sum: 260,368 (Ranked 13)  
+Sum: 260,412 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -422,7 +422,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 28,652 |
 | This game has Quickly Understood Controls | 28,593 |
 | This game has Amazing Storytelling | 26,672 |
-| This game has a Competitive Community | 25,168 |
+| This game has a Competitive Community | 25,212 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -685,4 +685,4 @@ Diff (max vs sum): 2
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
-| 2023-10-08 | 4.52 | - | 33,596 | 260,368 |
+| 2023-10-08 | 4.52 | - | 33,596 | 260,412 |

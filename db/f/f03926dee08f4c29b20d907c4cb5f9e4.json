@@ -298,9 +298,9 @@
       "ID": "ACH_20_HORSE_LANGUAGE",
       "SetID": "9loam6m",
       "Name": "Horse language",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_21_FIRST_RACE",
@@ -394,9 +394,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -418,17 +418,17 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
       "SetID": "9loam6m",
       "Name": "Life in the countryside",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
@@ -442,9 +442,9 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:05:54.0736153+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:05:15.1460848+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:03:05.0427465+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:05:54.0736501+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:02:09.1745058+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:05:15.1461201+00:00"
 }

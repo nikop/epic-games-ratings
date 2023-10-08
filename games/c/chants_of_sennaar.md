@@ -8,7 +8,8 @@
 | That's the spirit | 6.00% | ~16 |
 | Welcome to the Tower | 6.00% | ~16 |
 | The great escape | 6.00% | ~16 |
-| A new dawn | 3.00% | ~8 |
+| A new dawn | 4.00% | ~11 |
+| True G3M4R | 3.00% | ~8 |
 | I did it | 2.00% | ~5 |
 | In this together | 2.00% | ~5 |
 | Peace walker | 2.00% | ~5 |
@@ -20,7 +21,6 @@
 | A Link to the Past | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
-| True G3M4R | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
 | Scholar | 2.00% | ~5 |
 | The darkness | 2.00% | ~5 |

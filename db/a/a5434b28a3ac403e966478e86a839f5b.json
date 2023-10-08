@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -917,6 +917,11 @@
       "Time": "2023-10-08T14:08:50.3595943+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T16:08:10.0267615+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -943,9 +948,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_eou3",
@@ -961,7 +966,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_eou5",
@@ -985,7 +990,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_eou8",
@@ -1032,14 +1037,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:08:54.1222354+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:08:10.0267609+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:01:14.0986259+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:08:54.1222551+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:00:31.7369696+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:08:10.0267785+00:00"
 }

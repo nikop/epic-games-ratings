@@ -25,12 +25,12 @@
 | Axer of Auspice | 47.00% | ~54 |
 | Fair Means or Foul | 44.00% | ~51 |
 | Mighty Marmelizer | 43.00% | ~49 |
-| Single Minded | 41.00% | ~47 |
+| Single Minded | 42.00% | ~48 |
 | Snare Specialist | 41.00% | ~47 |
 | Karakuri Trail | 39.00% | ~45 |
 | Kemono at Heart | 39.00% | ~45 |
 | Team Hunter | 37.00% | ~43 |
-| Reincarnation Cycle Stopper | 35.00% | ~40 |
+| Reincarnation Cycle Stopper | 36.00% | ~41 |
 | Artful Assister | 33.00% | ~38 |
 | Karakuri Isle | 32.00% | ~37 |
 | Left Arm Leverager | 31.00% | ~36 |
@@ -53,7 +53,7 @@
 | Big Spender | 13.00% | ~15 |
 | Tsukumo Whisperer | 10.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 370)  
+Progressed: 115 (Ranked 371)  
 Completed: 5 (4.35%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |

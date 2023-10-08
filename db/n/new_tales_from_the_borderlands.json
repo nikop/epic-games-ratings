@@ -3,8 +3,8 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 269,
@@ -1727,9 +1727,9 @@
       "ID": "GET_MONEY_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Rich Now!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 842
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1840,8 +1840,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:04:10.5226181+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:03:30.593534+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:57:47.3898578+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:04:10.5226434+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:57:22.1875622+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:03:30.5935655+00:00"
 }

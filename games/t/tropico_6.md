@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,113 |
-| Un-Lonely Island | 47.00% | ~2,577 |
-| The Beginning of a Servantship | 45.00% | ~2,468 |
-| Trade Is My Trait | 37.00% | ~2,029 |
-| Number 18 | 24.00% | ~1,316 |
+| Just One...More...Term... | 75.00% | ~4,114 |
+| Un-Lonely Island | 47.00% | ~2,578 |
+| The Beginning of a Servantship | 45.00% | ~2,469 |
+| Trade Is My Trait | 37.00% | ~2,030 |
+| Number 18 | 24.00% | ~1,317 |
 | We Don't Have Time For That | 19.00% | ~1,042 |
-| The Governator | 17.00% | ~932 |
-| Caribbean Comrade | 16.00% | ~877 |
-| The Legend of Langostino | 16.00% | ~877 |
+| The Governator | 17.00% | ~933 |
+| Caribbean Comrade | 16.00% | ~878 |
+| The Legend of Langostino | 16.00% | ~878 |
 | The Dreamer of Dreams | 15.00% | ~823 |
 | Go Sovereigns! | 11.00% | ~603 |
 | For Science! | 11.00% | ~603 |
-| Happy Ending? | 10.00% | ~548 |
-| Of Seals And Men | 10.00% | ~548 |
-| Shackadelic | 10.00% | ~548 |
+| Happy Ending? | 10.00% | ~549 |
+| Of Seals And Men | 10.00% | ~549 |
+| Shackadelic | 10.00% | ~549 |
 | Double Trouble | 8.00% | ~439 |
 | Firestarter | 8.00% | ~439 |
 | I Owe You Nothing | 7.00% | ~384 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,484 (Ranked 168)  
+Progressed: 5,486 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,11 +218,11 @@ Completed: 2 (0.04%) (Ranked 273)
 | 2023-10-05 | 5,463 | 2 |
 | 2023-10-06 | 5,468 | 2 |
 | 2023-10-07 | 5,481 | 2 |
-| 2023-10-08 | 5,484 | 2 |
+| 2023-10-08 | 5,486 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 99  (Ranked 346)  
+Max (Quickly Understood Controls): 99  (Ranked 347)  
 Sum: 699 (Ranked 284)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

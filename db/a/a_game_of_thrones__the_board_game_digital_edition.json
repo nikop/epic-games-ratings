@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 322,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 209,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25637,
+  "EOS_Progressed": 25642,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19650,6 +19650,11 @@
       "Time": "2023-10-08T15:06:33.6277698+00:00",
       "NumProgressed": 25637,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-08T16:05:51.5383426+00:00",
+      "NumProgressed": 25642,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 22,
@@ -19677,7 +19682,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "1018",
@@ -19709,7 +19714,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "1022",
@@ -19717,7 +19722,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "1023",
@@ -19757,7 +19762,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "1028",
@@ -19765,7 +19770,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "1029",
@@ -19781,7 +19786,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "1031",
@@ -19789,7 +19794,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "1032",
@@ -19797,7 +19802,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10257
     },
     {
       "ID": "1033",
@@ -19836,15 +19841,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25637,
+      "Progressed": 25642,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:06:33.6277694+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:05:51.538342+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:01:49.3529246+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:06:33.6278992+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:01:04.6871376+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:05:51.538471+00:00"
 }

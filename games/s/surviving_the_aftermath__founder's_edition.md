@@ -6,31 +6,31 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,823 |
-| Leader | 60.00% | ~5,686 |
+| First Step | 72.00% | ~6,824 |
+| Leader | 60.00% | ~5,687 |
 | Explorer | 53.00% | ~5,023 |
-| Healer | 52.00% | ~4,928 |
+| Healer | 52.00% | ~4,929 |
 | Aspiring Inventor | 44.00% | ~4,170 |
 | Adventurer | 41.00% | ~3,886 |
-| Famous Healer | 38.00% | ~3,601 |
+| Famous Healer | 38.00% | ~3,602 |
 | Local Leader | 35.00% | ~3,317 |
-| Famous Explorer | 34.00% | ~3,222 |
-| New Opportunities | 34.00% | ~3,222 |
-| Energized | 33.00% | ~3,127 |
-| The Long Haul | 33.00% | ~3,127 |
+| Famous Explorer | 34.00% | ~3,223 |
+| New Opportunities | 34.00% | ~3,223 |
+| Energized | 33.00% | ~3,128 |
+| The Long Haul | 33.00% | ~3,128 |
 | Survivor | 32.00% | ~3,033 |
 | The Great Healer | 31.00% | ~2,938 |
 | Legendary Explorer | 28.00% | ~2,654 |
 | Cleaner | 28.00% | ~2,654 |
 | Catastrofan | 28.00% | ~2,654 |
 | Finders, Keepers | 26.00% | ~2,464 |
-| Top Notch | 25.00% | ~2,369 |
+| Top Notch | 25.00% | ~2,370 |
 | Great Leader | 23.00% | ~2,180 |
 | Mentor | 23.00% | ~2,180 |
 | Merchant | 22.00% | ~2,085 |
 | Ice Lakes | 22.00% | ~2,085 |
 | Real Survivor | 22.00% | ~2,085 |
-| Rocket Surgeon | 20.00% | ~1,895 |
+| Rocket Surgeon | 20.00% | ~1,896 |
 | War Never Changes | 19.00% | ~1,801 |
 | Friendly | 17.00% | ~1,611 |
 | Big Game Hunter | 17.00% | ~1,611 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,477 (Ranked 148)  
+Progressed: 9,478 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 9,412 | 0 |
 | 2023-10-06 | 9,437 | 0 |
 | 2023-10-07 | 9,463 | 0 |
-| 2023-10-08 | 9,477 | 0 |
+| 2023-10-08 | 9,478 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 340)  
+Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 707 (Ranked 283)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

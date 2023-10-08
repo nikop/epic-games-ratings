@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.54 (Ranked 1,009)  
+Rating: 3.51 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -200,3 +200,4 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-08-08 | 3.50 | 0 | 0 |
 | 2023-08-30 | 3.52 | 0 | 0 |
 | 2023-09-23 | 3.54 | 0 | 0 |
+| 2023-10-08 | 3.51 | 0 | 0 |

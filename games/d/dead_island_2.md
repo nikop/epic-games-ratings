@@ -5,39 +5,39 @@ Rating: 4.54 (Ranked 508)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,784 |
-| Break A Leg | 3.00% | ~20,784 |
-| Coup de Grâce | 3.00% | ~20,784 |
-| Hazardous Materials | 3.00% | ~20,784 |
-| Friends Like These | 3.00% | ~20,784 |
-| Hotel California | 3.00% | ~20,784 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,784 |
-| Welcome To Hell-A | 3.00% | ~20,784 |
-| Dr. Reed, I Presume? | 2.00% | ~13,856 |
-| Anger Management | 2.00% | ~13,856 |
-| Perks of the Job | 2.00% | ~13,856 |
-| Bookworm | 2.00% | ~13,856 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,856 |
-| But Doctor, I am Butcho | 2.00% | ~13,856 |
-| Slayer Squad | 2.00% | ~13,856 |
-| Can't Handle the Truth | 2.00% | ~13,856 |
-| Like Riding a Bike | 2.00% | ~13,856 |
-| Apex Predator | 2.00% | ~13,856 |
-| Zombologist | 2.00% | ~13,856 |
-| Ooh, Shiny! | 2.00% | ~13,856 |
-| A Patton Emerges | 2.00% | ~13,856 |
-| I Am the Resurrection | 2.00% | ~13,856 |
-| Stacking the Deck | 2.00% | ~13,856 |
-| Our True Nature | 2.00% | ~13,856 |
-| This is My Weapon | 2.00% | ~13,856 |
+| Git Gutte! | 3.00% | ~20,786 |
+| Break A Leg | 3.00% | ~20,786 |
+| Coup de Grâce | 3.00% | ~20,786 |
+| Hazardous Materials | 3.00% | ~20,786 |
+| Friends Like These | 3.00% | ~20,786 |
+| Hotel California | 3.00% | ~20,786 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,786 |
+| Welcome To Hell-A | 3.00% | ~20,786 |
+| Dr. Reed, I Presume? | 2.00% | ~13,857 |
+| Anger Management | 2.00% | ~13,857 |
+| Perks of the Job | 2.00% | ~13,857 |
+| Bookworm | 2.00% | ~13,857 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,857 |
+| But Doctor, I am Butcho | 2.00% | ~13,857 |
+| Slayer Squad | 2.00% | ~13,857 |
+| Can't Handle the Truth | 2.00% | ~13,857 |
+| Like Riding a Bike | 2.00% | ~13,857 |
+| Apex Predator | 2.00% | ~13,857 |
+| Zombologist | 2.00% | ~13,857 |
+| Ooh, Shiny! | 2.00% | ~13,857 |
+| A Patton Emerges | 2.00% | ~13,857 |
+| I Am the Resurrection | 2.00% | ~13,857 |
+| Stacking the Deck | 2.00% | ~13,857 |
+| Our True Nature | 2.00% | ~13,857 |
+| This is My Weapon | 2.00% | ~13,857 |
 | Making Your Mark | 1.00% | ~6,928 |
 | Humanity Distilled | 1.00% | ~6,928 |
 | Down with the Sickness | 1.00% | ~6,928 |
 | Max Headroom | 1.00% | ~6,928 |
 | Go, Bobcats! | 1.00% | ~6,928 |
 | Rising Star | 1.00% | ~6,928 |
-| Jumbo Keyring | 0.90% | ~6,235 |
-| Smorgasbord | 0.80% | ~5,542 |
+| Jumbo Keyring | 0.90% | ~6,236 |
+| Smorgasbord | 0.80% | ~5,543 |
 | Not Even My Final Form | 0.70% | ~4,850 |
 | Internet Famous | 0.70% | ~4,850 |
 | Make it So | 0.60% | ~4,157 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 508)
 | Gore Horse | 0.50% | ~3,464 |
 | Sole Survivor | 0.40% | ~2,771 |
 | Sharpest Tool in the Box | 0.40% | ~2,771 |
-| Survival Skills | 0.30% | ~2,078 |
-| Donk! | 0.10% | ~693 |
+| Survival Skills | 0.30% | ~2,079 |
+| Donk! | 0.20% | ~1,386 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,797 (Ranked 22)  
+Progressed: 692,850 (Ranked 22)  
 Completed: 2,204 (0.32%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,14 +222,14 @@ Completed: 2,204 (0.32%) (Ranked 196)
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
-| 2023-10-08 | 692,797 | 2,204 |
+| 2023-10-08 | 692,850 | 2,204 |
 ## Awards
-Max (Great Boss Battles): 6,348  (Ranked 58)  
-Sum: 9,478 (Ranked 91)  
+Max (Great Boss Battles): 6,366  (Ranked 58)  
+Sum: 9,496 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,348 |
+| This game has Great Boss Battles | 6,366 |
 | This game is Great for Beginners | 445 |
 | This game has Diverse Characters | 441 |
 | This game has Quickly Understood Controls | 417 |
@@ -411,4 +411,4 @@ Diff (max vs sum): -33
 | 2023-10-05 | 4.54 | 6,327 | 9,439 |
 | 2023-10-06 | 4.54 | 6,339 | 9,463 |
 | 2023-10-07 | 4.54 | 6,348 | 9,476 |
-| 2023-10-08 | 4.54 | 6,348 | 9,478 |
+| 2023-10-08 | 4.54 | 6,366 | 9,496 |

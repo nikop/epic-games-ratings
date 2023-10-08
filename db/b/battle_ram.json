@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1146,6 +1146,11 @@
       "Time": "2023-09-28T09:04:44.5481365+00:00",
       "NumProgressed": 271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T16:08:10.8612225+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1157,7 +1162,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ach_10",
@@ -1181,7 +1186,7 @@
       "Name": "Junior Lieutenant Baran",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_13",
@@ -1189,7 +1194,7 @@
       "Name": "Baran Senior Warrant Officer Grade 5",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_14",
@@ -1245,7 +1250,7 @@
       "Name": "Ram Corporal",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_20",
@@ -1275,9 +1280,9 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_4",
@@ -1285,7 +1290,7 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_5",
@@ -1301,7 +1306,7 @@
       "Name": "Senior Sergeant Baran",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_7",
@@ -1317,7 +1322,7 @@
       "Name": "Senior warrant officer Baran 1st class",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_9",
@@ -1325,21 +1330,21 @@
       "Name": "Senior warrant officer Baran 2nd class",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:08:55.0932403+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:08:10.8612219+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:52.5657749+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:57:59.6110124+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:08:55.0932642+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:57:32.2037392+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:08:10.8612475+00:00"
 }

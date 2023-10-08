@@ -3,11 +3,11 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 371,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2985,6 +2985,11 @@
       "Time": "2023-10-08T13:07:13.207017+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T16:04:31.4023716+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3044,7 +3049,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "Defense_Common",
@@ -3076,7 +3081,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Everyone_is_here",
@@ -3108,7 +3113,7 @@
       "Name": "Grenadier",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "Hard_Serpent",
@@ -3212,7 +3217,7 @@
       "Name": "War Never Changes",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "We_were_not_here",
@@ -3235,15 +3240,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:05:07.3482817+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:04:31.402371+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:00:02.8671273+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:05:07.3483209+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:59:25.5122613+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:04:31.4024117+00:00"
 }

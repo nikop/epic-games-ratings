@@ -5,22 +5,22 @@ Rating: 4.44 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 77.00% | ~2,254 |
+| Welcome to Raven Brooks | 77.00% | ~2,255 |
 | Case Closed | 37.00% | ~1,083 |
 | Shovel Night | 37.00% | ~1,083 |
-| Easy As Pie | 34.00% | ~995 |
+| Easy As Pie | 34.00% | ~996 |
 | Family Lost | 33.00% | ~966 |
-| Treasure Hunt | 31.00% | ~907 |
+| Treasure Hunt | 31.00% | ~908 |
 | Ancient Curse | 29.00% | ~849 |
-| Cat Person | 27.00% | ~790 |
+| Cat Person | 27.00% | ~791 |
 | Climber | 25.00% | ~732 |
 | Hidden Secrets | 25.00% | ~732 |
 | Reunion | 25.00% | ~732 |
-| Imprisonment | 24.00% | ~702 |
-| Mad Scientist | 24.00% | ~702 |
-| Dog Person | 20.00% | ~585 |
+| Imprisonment | 24.00% | ~703 |
+| Mad Scientist | 24.00% | ~703 |
+| Dog Person | 20.00% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,927 (Ranked 191)  
+Progressed: 2,928 (Ranked 191)  
 Completed: 121 (4.13%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 121 (4.13%) (Ranked 68)
 | 2023-10-05 | 2,919 | 119 |
 | 2023-10-06 | 2,920 | 120 |
 | 2023-10-07 | 2,923 | 121 |
-| 2023-10-08 | 2,927 | 121 |
+| 2023-10-08 | 2,928 | 121 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

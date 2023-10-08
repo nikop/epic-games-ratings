@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 60.00% | ~1,802 |
+| You're free now! | 61.00% | ~1,832 |
 | Keeping it classy | 27.00% | ~811 |
 | Welcome to the family | 22.00% | ~661 |
 | The finer things in life | 19.00% | ~571 |
@@ -218,9 +218,9 @@ Completed: 1 (0.03%) (Ranked 279)
 | 2023-10-07 | 3,000 | 1 |
 | 2023-10-08 | 3,003 | 1 |
 ## Awards
-Max (Highly Recommended): 54  (Ranked 403)  
+Max (Highly Recommended): 54  (Ranked 404)  
 Sum: 513 (Ranked 306)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 54 |

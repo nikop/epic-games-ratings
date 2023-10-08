@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2786,
+  "EOS_Progressed": 2788,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3638,6 +3638,11 @@
       "Time": "2023-10-08T03:04:00.9852874+00:00",
       "NumProgressed": 2786,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T16:04:41.0632874+00:00",
+      "NumProgressed": 2788,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3657,7 +3662,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "FALLEN_TREE",
@@ -3673,7 +3678,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "MOVE_ON",
@@ -3745,14 +3750,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2786,
+      "Progressed": 2788,
       "Completed": 6
     }
   ],
@@ -3760,8 +3765,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:05:17.9300151+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:04:41.0632868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:45.4721642+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:00:14.2929556+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:05:17.930049+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:59:36.9960245+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:04:41.0633217+00:00"
 }

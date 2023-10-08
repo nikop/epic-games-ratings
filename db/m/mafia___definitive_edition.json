@@ -2,7 +2,7 @@
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia: Definitive Edition",
   "ProductSlug": "mafia-definitive-edition",
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 188,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 657,
@@ -1005,10 +1005,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 612
+    },
+    {
+      "Time": "2023-10-08T15:58:47.4884988+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 736,
+      "NumberOfAwardsMax": 612
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 736,
   "NumberOfAwardsMax": 612,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1028,7 +1034,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1060,8 +1066,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2023-09-30T15:58:46.7363916+00:00",
+  "LastChanged": "2023-10-08T15:58:47.4884986+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.3385785+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:59:22.1994893+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:06:23.9494649+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:58:47.4884992+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:05:42.1187783+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,291 |
+| Colonize a Planet | 79.00% | ~5,359 |
 | Worker Specialization | 78.00% | ~5,291 |
 | First Contact | 73.00% | ~4,952 |
 | Win a Battle | 66.00% | ~4,477 |
@@ -252,9 +252,9 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-07 | 6,779 | 0 |
 | 2023-10-08 | 6,783 | 0 |
 ## Awards
-Max (Diverse Characters): 94  (Ranked 355)  
+Max (Diverse Characters): 94  (Ranked 356)  
 Sum: 681 (Ranked 285)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-10-06T18:03:50.580455+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T16:04:26.816839+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -372,7 +377,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 55,
       "UsersEstimate": 56
     },
@@ -380,7 +385,7 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 55,
       "UsersEstimate": 26
     },
@@ -404,9 +409,9 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -436,9 +441,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 55,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -462,23 +467,23 @@
       "Name": "Skilled rider",
       "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -493,7 +498,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     }
   ],
@@ -501,8 +506,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:05:02.3959284+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:04:26.8168386+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:34.2055382+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:58:40.9246916+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:05:02.3959399+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:58:10.2194825+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:04:26.8168539+00:00"
 }

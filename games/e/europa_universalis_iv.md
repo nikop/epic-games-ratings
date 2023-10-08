@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,033 |
-| Until death do us apart | 4.00% | ~17,033 |
-| That is mine! | 3.00% | ~12,774 |
-| Victorious! | 3.00% | ~12,774 |
-| Brothers in Arms | 2.00% | ~8,516 |
-| For the Glory | 2.00% | ~8,516 |
-| That's a Grand Navy | 2.00% | ~8,516 |
-| Seriously?! | 2.00% | ~8,516 |
-| Cold War | 1.00% | ~4,258 |
-| Defender of the Faith | 1.00% | ~4,258 |
-| It's all about the money | 1.00% | ~4,258 |
-| Respected | 1.00% | ~4,258 |
-| The Princess is in this Castle | 1.00% | ~4,258 |
-| True Catholic | 1.00% | ~4,258 |
-| Truly Divine Ruler | 1.00% | ~4,258 |
-| It's all about luck | 0.90% | ~3,832 |
+| That's a Grand Army | 4.00% | ~17,035 |
+| Until death do us apart | 4.00% | ~17,035 |
+| That is mine! | 3.00% | ~12,777 |
+| Victorious! | 3.00% | ~12,777 |
+| Brothers in Arms | 2.00% | ~8,518 |
+| For the Glory | 2.00% | ~8,518 |
+| That's a Grand Navy | 2.00% | ~8,518 |
+| Seriously?! | 2.00% | ~8,518 |
+| Cold War | 1.00% | ~4,259 |
+| Defender of the Faith | 1.00% | ~4,259 |
+| It's all about the money | 1.00% | ~4,259 |
+| Respected | 1.00% | ~4,259 |
+| The Princess is in this Castle | 1.00% | ~4,259 |
+| True Catholic | 1.00% | ~4,259 |
+| Truly Divine Ruler | 1.00% | ~4,259 |
+| It's all about luck | 0.90% | ~3,833 |
 | Blockader | 0.80% | ~3,407 |
 | Double the Love | 0.80% | ~3,407 |
 | Total Control | 0.80% | ~3,407 |
@@ -32,19 +32,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,129 |
 | Combined Arms | 0.50% | ~2,129 |
 | This navy can take it all | 0.50% | ~2,129 |
-| Bright Spark | 0.40% | ~1,703 |
-| Factionalism | 0.40% | ~1,703 |
-| Gentle Persuasion | 0.40% | ~1,703 |
-| Isn't this the way to India? | 0.40% | ~1,703 |
-| Queen of Conquest | 0.40% | ~1,703 |
-| The Five Colonies | 0.40% | ~1,703 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,277 |
-| Down Under | 0.30% | ~1,277 |
-| The Emperors new clothes | 0.30% | ~1,277 |
-| A Golden Empire | 0.30% | ~1,277 |
-| Market Control | 0.30% | ~1,277 |
-| Populists in Government | 0.30% | ~1,277 |
-| Trustworthy | 0.30% | ~1,277 |
+| Bright Spark | 0.40% | ~1,704 |
+| Factionalism | 0.40% | ~1,704 |
+| Gentle Persuasion | 0.40% | ~1,704 |
+| Isn't this the way to India? | 0.40% | ~1,704 |
+| Queen of Conquest | 0.40% | ~1,704 |
+| The Five Colonies | 0.40% | ~1,704 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,278 |
+| Down Under | 0.30% | ~1,278 |
+| The Emperors new clothes | 0.30% | ~1,278 |
+| A Golden Empire | 0.30% | ~1,278 |
+| Market Control | 0.30% | ~1,278 |
+| Populists in Government | 0.30% | ~1,278 |
+| Trustworthy | 0.30% | ~1,278 |
 | All belongs to Mother Russia | 0.20% | ~852 |
 | At every continent | 0.20% | ~852 |
 | Early-Modern Warfare | 0.20% | ~852 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,814 (Ranked 41)  
+Progressed: 425,886 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,14 +532,14 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-05 | 423,171 | 1 |
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
-| 2023-10-08 | 425,814 | 1 |
+| 2023-10-08 | 425,886 | 1 |
 ## Awards
-Max (Educational): 6,432  (Ranked 56)  
-Sum: 52,923 (Ranked 24)  
+Max (Educational): 6,445  (Ranked 56)  
+Sum: 52,936 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,432 |
+| This game is Educational | 6,445 |
 | This game is Highly Recommended | 6,140 |
 | This game has Diverse Characters | 6,102 |
 | This game has Challenging Combat | 6,086 |
@@ -816,4 +816,4 @@ Diff (max vs sum): 32
 | 2023-10-05 | 4.69 | - | 6,400 | 52,626 |
 | 2023-10-06 | 4.69 | - | 6,412 | 52,738 |
 | 2023-10-07 | 4.69 | - | 6,432 | 52,874 |
-| 2023-10-08 | 4.69 | - | 6,432 | 52,923 |
+| 2023-10-08 | 4.69 | - | 6,445 | 52,936 |

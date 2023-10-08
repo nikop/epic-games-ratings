@@ -3,9 +3,9 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 690,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 115,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2616,6 +2616,11 @@
       "Time": "2023-10-08T15:06:46.5900805+00:00",
       "NumProgressed": 679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T16:06:03.4796743+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2644,7 +2649,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2772,7 +2777,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_HUB2",
@@ -2786,9 +2791,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_PEAK",
@@ -2820,7 +2825,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_S4",
@@ -2828,7 +2833,7 @@
       "Name": "Power Glove",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_S5",
@@ -2842,9 +2847,9 @@
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_STATUE",
@@ -2859,15 +2864,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 681,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-08T15:06:46.5900801+00:00",
+  "LastChanged_Achievements": "2023-10-08T16:06:03.4796737+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:57:53.5552475+00:00",
-  "LastUpdate_Achievements": "2023-10-08T15:06:46.5901178+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:57:27.1243356+00:00",
+  "LastUpdate_Achievements": "2023-10-08T16:06:03.4797109+00:00"
 }

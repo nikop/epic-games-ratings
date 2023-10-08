@@ -6,35 +6,35 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~4,923 |
-| A normal day in Gloomhaven | 34.00% | ~3,893 |
-| Overkill | 33.00% | ~3,778 |
-| Vaccine Incoming | 32.00% | ~3,664 |
-| Spread the plague | 30.00% | ~3,435 |
-| Get over here! | 23.00% | ~2,633 |
-| Just when I thought I was out... | 19.00% | ~2,175 |
-| Mine... All Mine... | 17.00% | ~1,946 |
-| Light of my life | 15.00% | ~1,717 |
-| Anatomy Lesson | 15.00% | ~1,717 |
-| Precious! | 14.00% | ~1,603 |
-| You activated my trap card! | 13.00% | ~1,488 |
-| Augmented rat | 13.00% | ~1,488 |
-| Obstacle race | 13.00% | ~1,488 |
-| Grizzled veteran | 12.00% | ~1,374 |
-| Doom and gloom | 12.00% | ~1,374 |
-| Pack leader | 8.00% | ~916 |
-| Pain is your friend | 8.00% | ~916 |
-| Black death | 8.00% | ~916 |
-| Play it again, Sam | 8.00% | ~916 |
-| Dungeon Veteran | 7.00% | ~801 |
-| Who's the Boss? | 7.00% | ~801 |
-| Quad damage | 6.00% | ~687 |
-| The Pro from Dover | 5.00% | ~572 |
-| Pretty lights! | 5.00% | ~572 |
-| Now you see me... | 5.00% | ~572 |
-| Power Up! | 4.00% | ~458 |
-| Caught off guard | 3.00% | ~343 |
-| Grin and bear it | 3.00% | ~343 |
+| I'm not dead yet | 43.00% | ~4,930 |
+| A normal day in Gloomhaven | 34.00% | ~3,898 |
+| Overkill | 33.00% | ~3,783 |
+| Vaccine Incoming | 32.00% | ~3,669 |
+| Spread the plague | 30.00% | ~3,440 |
+| Get over here! | 23.00% | ~2,637 |
+| Just when I thought I was out... | 19.00% | ~2,178 |
+| Mine... All Mine... | 17.00% | ~1,949 |
+| Light of my life | 15.00% | ~1,720 |
+| Anatomy Lesson | 15.00% | ~1,720 |
+| Precious! | 14.00% | ~1,605 |
+| You activated my trap card! | 13.00% | ~1,490 |
+| Augmented rat | 13.00% | ~1,490 |
+| Obstacle race | 13.00% | ~1,490 |
+| Grizzled veteran | 12.00% | ~1,376 |
+| Doom and gloom | 12.00% | ~1,376 |
+| Pack leader | 8.00% | ~917 |
+| Pain is your friend | 8.00% | ~917 |
+| Black death | 8.00% | ~917 |
+| Play it again, Sam | 8.00% | ~917 |
+| Dungeon Veteran | 7.00% | ~803 |
+| Who's the Boss? | 7.00% | ~803 |
+| Quad damage | 6.00% | ~688 |
+| The Pro from Dover | 5.00% | ~573 |
+| Pretty lights! | 5.00% | ~573 |
+| Now you see me... | 5.00% | ~573 |
+| Power Up! | 4.00% | ~459 |
+| Caught off guard | 3.00% | ~344 |
+| Grin and bear it | 3.00% | ~344 |
 | I hate portals | 2.00% | ~229 |
 | Merchant of doom | 2.00% | ~229 |
 | Down the hatch | 2.00% | ~229 |
@@ -42,18 +42,18 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 2.00% | ~229 |
 | The Sniper | 2.00% | ~229 |
 | An axe to grind | 2.00% | ~229 |
-| From Gloom, only greed and death emerges | 1.00% | ~114 |
-| Add a bit of colour | 1.00% | ~114 |
-| The Rat King | 1.00% | ~114 |
-| How to train your Drake | 1.00% | ~114 |
-| The Cephalophore | 1.00% | ~114 |
-| New Blood | 1.00% | ~114 |
+| From Gloom, only greed and death emerges | 1.00% | ~115 |
+| Add a bit of colour | 1.00% | ~115 |
+| The Rat King | 1.00% | ~115 |
+| How to train your Drake | 1.00% | ~115 |
+| The Cephalophore | 1.00% | ~115 |
+| New Blood | 1.00% | ~115 |
 | Captain hooked | 0.70% | ~80 |
 | Spoiler police! | 0.60% | ~69 |
 | Betray this | 0.50% | ~57 |
+| Born Support | 0.50% | ~57 |
 | A tough job | 0.40% | ~46 |
 | The Pacifist | 0.40% | ~46 |
-| Born Support | 0.40% | ~46 |
 | The evil that men do | 0.30% | ~34 |
 | MacReady Steady.. Go! | 0.30% | ~34 |
 | Pull out the big guns | 0.30% | ~34 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~11 |
 | Murder Death Kill | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,449 (Ranked 142)  
+Progressed: 11,465 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.01%) (Ranked 291)
 | 2023-10-05 | 10,531 | 1 |
 | 2023-10-06 | 10,827 | 1 |
 | 2023-10-07 | 11,229 | 1 |
-| 2023-10-08 | 11,449 | 1 |
+| 2023-10-08 | 11,465 | 1 |
 ## Awards
 Max (Character Customization): 3,545  (Ranked 90)  
 Sum: 8,268 (Ranked 98)  

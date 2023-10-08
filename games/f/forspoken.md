@@ -6,7 +6,7 @@ Rating: 4.15 (Ranked 912)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,192 |
-| Unlocked Potential | 9.00% | ~3,772 |
+| Unlocked Potential | 9.00% | ~3,773 |
 | Tinkerer | 7.00% | ~2,934 |
 | Knock 'Em Dead | 7.00% | ~2,934 |
 | Leapfrogger | 6.00% | ~2,515 |
@@ -18,10 +18,10 @@ Rating: 4.15 (Ranked 912)
 | Through the Eyes of Another: Empath | 4.00% | ~1,677 |
 | Stuck | 4.00% | ~1,677 |
 | Help Me Out Here | 4.00% | ~1,677 |
-| Outdoorsperson | 3.00% | ~1,257 |
-| The Interloper | 3.00% | ~1,257 |
-| Hop, Step, Jump | 3.00% | ~1,257 |
-| Endless Runner | 3.00% | ~1,257 |
+| Outdoorsperson | 3.00% | ~1,258 |
+| The Interloper | 3.00% | ~1,258 |
+| Hop, Step, Jump | 3.00% | ~1,258 |
+| Endless Runner | 3.00% | ~1,258 |
 | What Must Be Done | 2.00% | ~838 |
 | Might and Main | 2.00% | ~838 |
 | Damned If You Do... | 2.00% | ~838 |
@@ -36,8 +36,8 @@ Rating: 4.15 (Ranked 912)
 | Pilgrimage: Novice | 1.00% | ~419 |
 | Wildfire | 0.70% | ~293 |
 | Realized Potential | 0.70% | ~293 |
-| Awakening | 0.60% | ~251 |
-| Explorer: Trailblazer | 0.60% | ~251 |
+| Awakening | 0.60% | ~252 |
+| Explorer: Trailblazer | 0.60% | ~252 |
 | Through the Eyes of Another: Seer | 0.50% | ~210 |
 | Archivist | 0.30% | ~126 |
 | Craftsperson | 0.30% | ~126 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 912)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,916 (Ranked 106)  
+Progressed: 41,919 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 3 (0.01%) (Ranked 291)
 | 2023-10-05 | 41,816 | 3 |
 | 2023-10-06 | 41,858 | 3 |
 | 2023-10-07 | 41,898 | 3 |
-| 2023-10-08 | 41,916 | 3 |
+| 2023-10-08 | 41,919 | 3 |
 ## Awards
-Max (Character Customization): 28  (Ranked 479)  
-Sum: 28 (Ranked 494)  
+Max (Character Customization): 28  (Ranked 480)  
+Sum: 28 (Ranked 495)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
