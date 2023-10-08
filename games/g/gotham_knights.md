@@ -1,15 +1,15 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 896)  
+Rating: 4.18 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,113 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,653 |
-| Loose Ends | 34.00% | ~24,920 |
-| To the Victor Go the Spoils | 29.00% | ~21,255 |
-| Knighthood | 28.00% | ~20,522 |
+| First Step Into the Knight | 52.00% | ~38,114 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,654 |
+| Loose Ends | 34.00% | ~24,921 |
+| To the Victor Go the Spoils | 29.00% | ~21,256 |
+| Knighthood | 28.00% | ~20,523 |
 | Get ReQ'd | 25.00% | ~18,324 |
 | Whispered Words | 25.00% | ~18,324 |
 | The Batman Family | 23.00% | ~16,858 |
@@ -31,13 +31,13 @@ Rating: 4.18 (Ranked 896)
 | Seeking Asylum | 14.00% | ~10,261 |
 | Not On My Watch | 13.00% | ~9,528 |
 | Shock Til They Drop | 13.00% | ~9,528 |
-| End of an Era | 12.00% | ~8,795 |
-| Bulldozed | 12.00% | ~8,795 |
-| Gotham Knight | 12.00% | ~8,795 |
-| Gotham City Confidential | 11.00% | ~8,062 |
-| Drone You Out | 10.00% | ~7,329 |
-| Out of Their League | 9.00% | ~6,596 |
-| Solid Alibi | 9.00% | ~6,596 |
+| End of an Era | 12.00% | ~8,796 |
+| Bulldozed | 12.00% | ~8,796 |
+| Gotham Knight | 12.00% | ~8,796 |
+| Gotham City Confidential | 11.00% | ~8,063 |
+| Drone You Out | 10.00% | ~7,330 |
+| Out of Their League | 9.00% | ~6,597 |
+| Solid Alibi | 9.00% | ~6,597 |
 | Fusion Expert | 7.00% | ~5,131 |
 | Family Meeting | 6.00% | ~4,398 |
 | A Worthy Successor | 6.00% | ~4,398 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 896)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,294 (Ranked 90)  
+Progressed: 73,296 (Ranked 90)  
 Completed: 120 (0.16%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 120 (0.16%) (Ranked 226)
 | 2023-10-05 | 73,181 | 120 |
 | 2023-10-06 | 73,220 | 120 |
 | 2023-10-07 | 73,267 | 120 |
-| 2023-10-08 | 73,294 | 120 |
+| 2023-10-08 | 73,296 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,795  (Ranked 97)  
 Sum: 4,686 (Ranked 140)  

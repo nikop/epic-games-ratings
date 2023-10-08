@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1336,6 +1336,11 @@
       "Time": "2023-10-08T14:07:26.7490651+00:00",
       "NumProgressed": 520,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T15:07:30.4582886+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1362,9 +1367,9 @@
       "ID": "achievement_11",
       "SetID": "271ol84",
       "Name": "Hold the line!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_12",
@@ -1420,7 +1425,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_19",
@@ -1444,7 +1449,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_21",
@@ -1492,7 +1497,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_27",
@@ -1540,7 +1545,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_32",
@@ -1572,7 +1577,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_36",
@@ -1588,7 +1593,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_38",
@@ -1596,7 +1601,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_39",
@@ -1620,7 +1625,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_41",
@@ -1652,7 +1657,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_45",
@@ -1851,13 +1856,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 522,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 520,
+      "Progressed": 522,
       "Completed": 1
     }
   ],
@@ -1865,8 +1870,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:07:26.7490647+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:07:30.4582882+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:03:13.5715278+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:07:26.7491225+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:03:20.0416145+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:07:30.4583703+00:00"
 }

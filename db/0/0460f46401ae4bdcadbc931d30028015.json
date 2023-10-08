@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2236,
+  "EOS_Progressed": 2237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1965,6 +1965,11 @@
       "Time": "2023-10-08T14:07:13.7101061+00:00",
       "NumProgressed": 2236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T15:07:17.8324042+00:00",
+      "NumProgressed": 2237,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -1993,7 +1998,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_12",
@@ -2001,7 +2006,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "achievement_13",
@@ -2129,7 +2134,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "achievement_9",
@@ -2144,7 +2149,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2236,
+      "Progressed": 2237,
       "Completed": 0
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-07T15:57:14.2140842+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:07:13.7101057+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:07:17.8324038+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:58:03.7057175+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:07:13.7101557+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:58:15.5267738+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:07:17.8324301+00:00"
 }

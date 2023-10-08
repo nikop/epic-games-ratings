@@ -458,9 +458,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:09:15.4190446+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:09:18.7872768+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:56.4749461+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:59:04.3032207+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:09:15.4190896+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:59:12.577327+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:09:18.7873231+00:00"
 }

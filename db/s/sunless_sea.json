@@ -715,9 +715,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38510,
+  "EOS_Progressed": 38512,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18160,6 +18160,11 @@
       "Time": "2023-10-08T14:05:29.0283231+00:00",
       "NumProgressed": 38510,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T15:05:34.4075267+00:00",
+      "NumProgressed": 38512,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -18379,7 +18384,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     },
     {
       "ID": "ach_legacysalvager",
@@ -18539,7 +18544,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5776
+      "UsersEstimate": 5777
     },
     {
       "ID": "ach_undercurrent",
@@ -18602,15 +18607,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38510,
+      "Progressed": 38512,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:05:29.0283227+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:05:34.4075263+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:00:21.3794437+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:05:29.0284418+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:00:23.2600161+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:05:34.4076859+00:00"
 }

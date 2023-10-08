@@ -1363,9 +1363,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 266
     },
     {
       "ID": "buy_trainer",
@@ -1523,9 +1523,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 236
     },
     {
       "ID": "intro_dream",
@@ -1747,9 +1747,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 236
     },
     {
       "ID": "trainer_promotion_1",
@@ -1826,8 +1826,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:08:23.3251396+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:08:27.1138561+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:13.456228+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:02:17.480399+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:08:23.3251989+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:03:05.9794556+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:08:27.1139266+00:00"
 }

@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 571)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,282 (Ranked 117)  
+Progressed: 26,285 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-10-05 | 26,225 | 58 |
 | 2023-10-06 | 26,251 | 58 |
 | 2023-10-07 | 26,270 | 58 |
-| 2023-10-08 | 26,282 | 58 |
+| 2023-10-08 | 26,285 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,370 (Ranked 188)  

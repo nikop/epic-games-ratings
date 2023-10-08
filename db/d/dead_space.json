@@ -646,7 +646,7 @@
   ],
   "EOS_Progressed": 852,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2774,9 +2774,9 @@
       "ID": "achievement_41",
       "SetID": "222fo9l",
       "Name": "Full Clearance",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 196
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_42",
@@ -2879,8 +2879,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-06T19:00:16.6194249+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:05:11.1681417+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:05:17.0911222+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:01:29.8578216+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:05:11.1681841+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:01:30.9410991+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:05:17.0911791+00:00"
 }

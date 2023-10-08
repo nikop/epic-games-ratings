@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 60.00% | ~3 |
-| I Challenge You To Save More Money! | 60.00% | ~3 |
-| Doesn't Matter I'll Handle It | 60.00% | ~3 |
-| A Slap In The Face! | 60.00% | ~3 |
-| I Love How Tough You Are | 60.00% | ~3 |
-| Love Actually | 60.00% | ~3 |
-| Wanna Come To My Place For Dinner? | 60.00% | ~3 |
-| What I Want Is You | 60.00% | ~3 |
-| To Be Or Not To Be | 60.00% | ~3 |
-| FIRST LOVE | 60.00% | ~3 |
-| Are You Alright? | 60.00% | ~3 |
-| You're Really Something Else | 60.00% | ~3 |
-| Boys Need To Protect Themselves | 40.00% | ~2 |
-| Days Of Innocence | 40.00% | ~2 |
-| Hurrah! | 40.00% | ~2 |
-| The Flash | 40.00% | ~2 |
-| ONE PUNCH | 40.00% | ~2 |
-| My Dear Love! | 20.00% | ~1 |
-| All I Have Is Money | 20.00% | ~1 |
-| Life Is A Rollercoaster | 20.00% | ~1 |
-| Lover In Dark Alley | 20.00% | ~1 |
-| Love You Three Thousand | 20.00% | ~1 |
-| Can You Do This Or Not? | 20.00% | ~1 |
-| Go Clean up In Your Own Way | 20.00% | ~1 |
-| Drama CP: Reel to Real | 20.00% | ~1 |
-| That's So You | 20.00% | ~1 |
-| Worthless Speech | 20.00% | ~1 |
-| Drama King | 20.00% | ~1 |
+| Last Night...Did We... | 50.00% | ~3 |
+| I Challenge You To Save More Money! | 50.00% | ~3 |
+| Doesn't Matter I'll Handle It | 50.00% | ~3 |
+| A Slap In The Face! | 50.00% | ~3 |
+| I Love How Tough You Are | 50.00% | ~3 |
+| Love Actually | 50.00% | ~3 |
+| Wanna Come To My Place For Dinner? | 50.00% | ~3 |
+| What I Want Is You | 50.00% | ~3 |
+| To Be Or Not To Be | 50.00% | ~3 |
+| FIRST LOVE | 50.00% | ~3 |
+| Are You Alright? | 50.00% | ~3 |
+| You're Really Something Else | 50.00% | ~3 |
+| Boys Need To Protect Themselves | 33.00% | ~2 |
+| Days Of Innocence | 33.00% | ~2 |
+| Hurrah! | 33.00% | ~2 |
+| The Flash | 33.00% | ~2 |
+| ONE PUNCH | 33.00% | ~2 |
+| My Dear Love! | 17.00% | ~1 |
+| All I Have Is Money | 17.00% | ~1 |
+| Life Is A Rollercoaster | 17.00% | ~1 |
+| Lover In Dark Alley | 17.00% | ~1 |
+| Love You Three Thousand | 17.00% | ~1 |
+| Can You Do This Or Not? | 17.00% | ~1 |
+| Go Clean up In Your Own Way | 17.00% | ~1 |
+| Drama CP: Reel to Real | 17.00% | ~1 |
+| That's So You | 17.00% | ~1 |
+| Worthless Speech | 17.00% | ~1 |
+| Drama King | 17.00% | ~1 |
 | Off We Sail Tonight | 0.00% | ~0 |
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
 | Happy Family | 0.00% | ~0 |
@@ -47,7 +47,7 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 550)  
+Progressed: 6 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,3 +56,4 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-08-02 | 3 | 0 |
 | 2023-08-10 | 4 | 0 |
 | 2023-09-12 | 5 | 0 |
+| 2023-10-08 | 6 | 0 |

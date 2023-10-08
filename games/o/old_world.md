@@ -15,21 +15,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.90% | ~131 |
 | Architect | 0.90% | ~131 |
 | Good | 0.90% | ~131 |
+| Mason | 0.90% | ~131 |
 | Strong | 0.90% | ~131 |
 | Hanging Gardens | 0.90% | ~131 |
 | Just | 0.80% | ~116 |
 | Learned | 0.80% | ~116 |
-| Mason | 0.80% | ~116 |
 | Noble | 0.80% | ~116 |
 | Pioneer | 0.80% | ~116 |
 | Oracle | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
+| Naming Landmarks | 0.80% | ~116 |
 | Trade Caravan | 0.80% | ~116 |
 | Enlightened | 0.70% | ~102 |
 | Glorious | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
-| Naming Landmarks | 0.70% | ~102 |
 | Ambitious | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.30% | ~44 |
 | Acropolis | 0.30% | ~44 |
 | Circus Maximus | 0.30% | ~44 |
+| Hagia Sophia | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
 | Learn to Play 3 | 0.30% | ~44 |
 | Greece | 0.30% | ~44 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
 | Hittite Iron | 0.20% | ~29 |
-| Hagia Sophia | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Temple of Solomon | 0.20% | ~29 |
 | Via Recta Souk | 0.20% | ~29 |

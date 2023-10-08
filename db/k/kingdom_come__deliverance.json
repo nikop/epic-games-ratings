@@ -2,12 +2,12 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -7740,9 +7740,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804102,
+  "EOS_Progressed": 804112,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26835,6 +26835,11 @@
       "Time": "2023-10-08T14:06:15.5817634+00:00",
       "NumProgressed": 804102,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-08T15:06:20.4205504+00:00",
+      "NumProgressed": 804112,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -26870,7 +26875,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128656
+      "UsersEstimate": 128658
     },
     {
       "ID": "Awakening",
@@ -26878,7 +26883,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168861
+      "UsersEstimate": 168864
     },
     {
       "ID": "BadGirl",
@@ -26894,7 +26899,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40205
+      "UsersEstimate": 40206
     },
     {
       "ID": "Bailiff",
@@ -26926,7 +26931,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257313
+      "UsersEstimate": 257316
     },
     {
       "ID": "Bookworm",
@@ -26934,7 +26939,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120615
+      "UsersEstimate": 120617
     },
     {
       "ID": "Buddy",
@@ -26942,7 +26947,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96492
+      "UsersEstimate": 96493
     },
     {
       "ID": "Casanova",
@@ -26950,7 +26955,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48246
+      "UsersEstimate": 48247
     },
     {
       "ID": "Cavalier",
@@ -26958,7 +26963,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201026
+      "UsersEstimate": 201028
     },
     {
       "ID": "Chivalrous",
@@ -27006,7 +27011,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80410
+      "UsersEstimate": 80411
     },
     {
       "ID": "DavidHorak",
@@ -27046,7 +27051,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184943
+      "UsersEstimate": 184946
     },
     {
       "ID": "Fighter",
@@ -27062,7 +27067,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120615
+      "UsersEstimate": 120617
     },
     {
       "ID": "Freud",
@@ -27126,7 +27131,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72369
+      "UsersEstimate": 72370
     },
     {
       "ID": "HardcoreHenry",
@@ -27166,7 +27171,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104533
+      "UsersEstimate": 104535
     },
     {
       "ID": "Judas",
@@ -27246,7 +27251,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56287
+      "UsersEstimate": 56288
     },
     {
       "ID": "MercenarysHonor",
@@ -27270,7 +27275,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40205
+      "UsersEstimate": 40206
     },
     {
       "ID": "NotSoChristianBurial",
@@ -27326,7 +27331,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160820
+      "UsersEstimate": 160822
     },
     {
       "ID": "RevenantOfLedechko",
@@ -27350,7 +27355,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56287
+      "UsersEstimate": 56288
     },
     {
       "ID": "Saviour",
@@ -27366,7 +27371,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160820
+      "UsersEstimate": 160822
     },
     {
       "ID": "SerialKiller",
@@ -27374,7 +27379,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40205
+      "UsersEstimate": 40206
     },
     {
       "ID": "Sinner",
@@ -27382,7 +27387,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88451
+      "UsersEstimate": 88452
     },
     {
       "ID": "Sniper",
@@ -27422,7 +27427,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96492
+      "UsersEstimate": 96493
     },
     {
       "ID": "TisButAScratch",
@@ -27454,7 +27459,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88451
+      "UsersEstimate": 88452
     },
     {
       "ID": "TrialAndError",
@@ -27501,15 +27506,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804102,
+      "Progressed": 804112,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-08T10:59:17.7553319+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:06:15.581763+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:06:20.4205501+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:59:24.1582541+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:06:15.5819213+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:59:30.6258918+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:06:20.4207566+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 3360,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3428,9 +3428,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73294,
+  "EOS_Progressed": 73296,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18023,6 +18023,11 @@
       "Time": "2023-10-08T14:07:55.6768922+00:00",
       "NumProgressed": 73294,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-08T15:07:59.8157727+00:00",
+      "NumProgressed": 73296,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18114,7 +18119,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "APPLY_STATUS",
@@ -18210,7 +18215,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18218,7 +18223,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -18250,7 +18255,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7329
+      "UsersEstimate": 7330
     },
     {
       "ID": "FREEZE_1",
@@ -18258,7 +18263,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21255
+      "UsersEstimate": 21256
     },
     {
       "ID": "FREEZE_1_5",
@@ -18338,7 +18343,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25653
+      "UsersEstimate": 25654
     },
     {
       "ID": "HARLEY_2",
@@ -18378,7 +18383,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38113
+      "UsersEstimate": 38114
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18410,7 +18415,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20522
+      "UsersEstimate": 20523
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18426,7 +18431,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24920
+      "UsersEstimate": 24921
     },
     {
       "ID": "MYSTERY_02",
@@ -18482,7 +18487,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "SECRET_CACHE",
@@ -18490,7 +18495,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8062
+      "UsersEstimate": 8063
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -18498,7 +18503,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6597
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -18521,13 +18526,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73294,
+      "Progressed": 73296,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43574,
+      "Progressed": 43576,
       "Completed": 2666
     }
   ],
@@ -18535,8 +18540,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-08T13:59:48.744249+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:07:55.6768918+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:07:59.8157723+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:59:48.7442496+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:07:55.6770063+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:59:53.3518312+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:07:59.8159201+00:00"
 }

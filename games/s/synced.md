@@ -5,24 +5,24 @@ Rating: 4.17 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 28.00% | ~17,358 |
-| As Far Away As Possible | 16.00% | ~9,919 |
-| A Most Unstable Organism | 12.00% | ~7,439 |
-| No Time to Follow Protocol | 9.00% | ~5,579 |
-| Float Like a Butterfly... | 8.00% | ~4,959 |
-| Nano Connoisseur | 6.00% | ~3,720 |
-| In Two Places At Once | 6.00% | ~3,720 |
+| Your Lucky Day | 28.00% | ~17,363 |
+| As Far Away As Possible | 16.00% | ~9,921 |
+| A Most Unstable Organism | 12.00% | ~7,441 |
+| No Time to Follow Protocol | 9.00% | ~5,581 |
+| Float Like a Butterfly... | 8.00% | ~4,961 |
+| Nano Connoisseur | 6.00% | ~3,721 |
+| In Two Places At Once | 6.00% | ~3,721 |
 | Pulling Your Weight | 3.00% | ~1,860 |
 | Reaping Rivals | 3.00% | ~1,860 |
 | fifteenth Time's the Charm | 0.90% | ~558 |
-| More Power to You | 0.70% | ~434 |
+| More Power to You | 0.60% | ~372 |
 | Memory Keeper | 0.20% | ~124 |
 | Gone Rogue | 0.20% | ~124 |
 | Completely Customizable | 0.20% | ~124 |
 | Runs for Your Money | 0.10% | ~62 |
 | Past Master | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,993 (Ranked 97)  
+Progressed: 62,009 (Ranked 97)  
 Completed: 9 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,16 +64,16 @@ Completed: 9 (0.01%) (Ranked 291)
 | 2023-10-05 | 61,160 | 3 |
 | 2023-10-06 | 61,484 | 7 |
 | 2023-10-07 | 61,839 | 7 |
-| 2023-10-08 | 61,993 | 9 |
+| 2023-10-08 | 62,009 | 9 |
 ## Awards
-Max (Great for Beginners): 53  (Ranked 404)  
-Sum: 192 (Ranked 385)  
+Max (Great for Beginners): 56  (Ranked 400)  
+Sum: 198 (Ranked 381)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 53 |
+| This game is Great for Beginners | 56 |
 | This game has Diverse Characters | 36 |
-| This game is Highly Recommended | 30 |
+| This game is Highly Recommended | 33 |
 | This game has a Competitive Community | 27 |
 | This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 22 |
@@ -110,4 +110,4 @@ Diff (max vs sum): 19
 | 2023-10-05 | 4.19 | 51 | 182 |
 | 2023-10-06 | 4.18 | 53 | 186 |
 | 2023-10-07 | 4.18 | 53 | 189 |
-| 2023-10-08 | 4.17 | 53 | 192 |
+| 2023-10-08 | 4.17 | 56 | 198 |

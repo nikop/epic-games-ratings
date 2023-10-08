@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 892,
+  "EOS_Progressed": 893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-10-08T11:08:37.2420472+00:00",
       "NumProgressed": 892,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T15:08:44.0006774+00:00",
+      "NumProgressed": 893,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2005,7 +2010,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "AC02",
@@ -2013,7 +2018,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "AC03",
@@ -2021,7 +2026,7 @@
       "Name": "Blood and Gold",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "AC04",
@@ -2029,7 +2034,7 @@
       "Name": "Blood and Iron",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "AC05",
@@ -2045,7 +2050,7 @@
       "Name": "The Last Ascension",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "AC07",
@@ -2053,7 +2058,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "AC08",
@@ -2061,7 +2066,7 @@
       "Name": "Forged in Fire",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "AC09",
@@ -2069,7 +2074,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AC10",
@@ -2077,7 +2082,7 @@
       "Name": "The Wait is Over",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AC11",
@@ -2085,7 +2090,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "AC12",
@@ -2125,7 +2130,7 @@
       "Name": "Weight of Penance",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AC17",
@@ -2133,7 +2138,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AC18",
@@ -2147,9 +2152,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 473
     },
     {
       "ID": "AC20",
@@ -2165,7 +2170,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "AC22",
@@ -2219,9 +2224,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 438
     },
     {
       "ID": "AC29",
@@ -2261,7 +2266,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "AC34",
@@ -2285,7 +2290,7 @@
       "Name": "Blessed Incense",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "AC37",
@@ -2317,7 +2322,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "AC41",
@@ -2364,7 +2369,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 892,
+      "Progressed": 893,
       "Completed": 0
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:08:40.1526432+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:08:44.0006766+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:02:05.0456685+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:08:40.1526831+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:02:03.9157804+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:08:44.0007277+00:00"
 }

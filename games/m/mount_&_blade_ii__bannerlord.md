@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,535 |
-| Landlord | 33.00% | ~20,761 |
+| Lawbringer | 39.00% | ~24,536 |
+| Landlord | 33.00% | ~20,762 |
 | Bannerlord | 23.00% | ~14,470 |
 | Horde breaker | 23.00% | ~14,470 |
 | Lawmaker | 23.00% | ~14,470 |
 | Trained | 23.00% | ~14,470 |
-| The king is pleased | 19.00% | ~11,953 |
+| The king is pleased | 19.00% | ~11,954 |
 | King Solomon | 17.00% | ~10,695 |
 | I can do it | 16.00% | ~10,066 |
 | Apple of my eye | 15.00% | ~9,437 |
-| God of the Arena | 13.00% | ~8,178 |
-| Against all odds | 12.00% | ~7,549 |
-| This Is Our Land | 12.00% | ~7,549 |
+| God of the Arena | 13.00% | ~8,179 |
+| Against all odds | 12.00% | ~7,550 |
+| This Is Our Land | 12.00% | ~7,550 |
 | Duelist | 10.00% | ~6,291 |
 | Dynasty | 10.00% | ~6,291 |
 | Swordbearer | 10.00% | ~6,291 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,146 |
 | Crush your enemies | 5.00% | ~3,146 |
 | My way | 5.00% | ~3,146 |
-| Veni vidi vici | 4.00% | ~2,516 |
+| Veni vidi vici | 4.00% | ~2,517 |
 | Freedom! | 3.00% | ~1,887 |
 | Long live the Empire! | 3.00% | ~1,887 |
 | Real Estate | 3.00% | ~1,887 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,911 (Ranked 96)  
+Progressed: 62,914 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 62,761 | 0 |
 | 2023-10-06 | 62,814 | 0 |
 | 2023-10-07 | 62,881 | 0 |
-| 2023-10-08 | 62,911 | 0 |
+| 2023-10-08 | 62,914 | 0 |
 ## Awards
 Max (Character Customization): 7,194  (Ranked 52)  
-Sum: 14,765 (Ranked 66)  
+Sum: 14,768 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 833 |
 | This game has Amazing Characters | 829 |
 | This game is Relaxing | 825 |
-| This game has Quickly Understood Controls | 808 |
+| This game has Quickly Understood Controls | 811 |
 | This game has a Creative Community | 603 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -517,4 +517,4 @@ Diff (max vs sum): -14
 | 2023-10-05 | 4.74 | - | 7,176 | 14,724 |
 | 2023-10-06 | 4.74 | - | 7,185 | 14,748 |
 | 2023-10-07 | 4.74 | - | 7,194 | 14,760 |
-| 2023-10-08 | 4.74 | - | 7,194 | 14,765 |
+| 2023-10-08 | 4.74 | - | 7,194 | 14,768 |

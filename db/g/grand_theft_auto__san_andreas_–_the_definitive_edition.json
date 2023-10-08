@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 315,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 156,
@@ -1100,18 +1100,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-10-08T15:00:08.9585616+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 472,
+      "NumberOfAwardsMax": 338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 470,
-  "NumberOfAwardsMax": 336,
+  "NumberOfAwards": 472,
+  "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 336
+      "Count": 338
     },
     {
       "Text": "This game is Relaxing",
@@ -1144,7 +1150,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13140,
+  "EOS_Progressed": 13141,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
@@ -12479,6 +12485,11 @@
       "Time": "2023-10-08T14:08:41.0854064+00:00",
       "NumProgressed": 13140,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-08T15:08:44.9821942+00:00",
+      "NumProgressed": 13141,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12490,7 +12501,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10643
+      "UsersEstimate": 10644
     },
     {
       "ID": "ACH02",
@@ -12546,7 +12557,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6701
+      "UsersEstimate": 6702
     },
     {
       "ID": "ACH09",
@@ -12594,7 +12605,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH15",
@@ -12666,7 +12677,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "ACH24",
@@ -12769,16 +12780,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13140,
+      "Progressed": 13141,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-07T18:58:31.3668814+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:08:41.085406+00:00",
+  "LastChanged": "2023-10-08T15:00:08.9585614+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:08:44.9821938+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-08T14:00:07.0002059+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:08:41.0854772+00:00"
+  "LastUpdate_Ratings": "2023-10-08T15:00:08.9585619+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:08:44.9822955+00:00"
 }

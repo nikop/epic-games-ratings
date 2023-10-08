@@ -1278,9 +1278,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "META_HALF_LINK",
@@ -1366,9 +1366,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1414,9 +1414,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "PROGRESS_N3",
@@ -1453,8 +1453,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:06:48.8205327+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:06:53.288963+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:59:15.0922788+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:06:48.8205538+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:59:22.0101924+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:06:53.2889897+00:00"
 }

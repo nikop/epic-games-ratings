@@ -99,9 +99,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FirstTry",
@@ -123,9 +123,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HideAndSeek",
@@ -179,9 +179,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MortuaryMarkup",
@@ -243,9 +243,9 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WaitingForSalvation",
@@ -259,9 +259,9 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -274,8 +274,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:06:16.1927398+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:06:21.0217551+00:00",
   "LastUpdate_AppInfo": "2023-10-02T06:56:58.9049394+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:59:26.1213731+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:06:16.1927533+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:59:32.2578477+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:06:21.0217803+00:00"
 }

@@ -4,15 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Preacher's fate | 6.00% | ~16 |
 | That's the spirit | 6.00% | ~16 |
 | Welcome to the Tower | 6.00% | ~16 |
-| The Preacher's fate | 5.00% | ~13 |
-| The great escape | 5.00% | ~13 |
+| The great escape | 6.00% | ~16 |
 | A new dawn | 3.00% | ~8 |
 | I did it | 2.00% | ~5 |
 | In this together | 2.00% | ~5 |
 | Peace walker | 2.00% | ~5 |
 | Cable guy | 2.00% | ~5 |
+| A good beginning | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Open door | 2.00% | ~5 |
 | Feels like springtime | 2.00% | ~5 |
@@ -24,7 +25,6 @@
 | Scholar | 2.00% | ~5 |
 | The darkness | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
-| A good beginning | 1.00% | ~3 |
 | Free at last | 1.00% | ~3 |
 | For its own good | 1.00% | ~3 |
 | A great audience | 0.40% | ~1 |

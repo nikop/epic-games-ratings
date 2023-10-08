@@ -76,9 +76,9 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AspirationOfYuanchu",
@@ -116,17 +116,17 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Chapter03_DangerousDeal",
@@ -324,9 +324,9 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RareFindings",
@@ -340,9 +340,9 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ScrollToWin",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-08T14:06:39.181741+00:00",
+  "LastChanged_Achievements": "2023-10-08T15:06:43.9015758+00:00",
   "LastUpdate_AppInfo": "2023-10-02T10:57:11.2778371+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:58:47.2352357+00:00",
-  "LastUpdate_Achievements": "2023-10-08T14:06:39.1817676+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:58:56.4461781+00:00",
+  "LastUpdate_Achievements": "2023-10-08T15:06:43.9016107+00:00"
 }
