@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.20% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.15% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -65,7 +65,7 @@
 | 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 64 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.46% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.23% |
+| 66 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
@@ -138,7 +138,7 @@
 | 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 137 | [Adios](games/a/adios.md) | 1.04% |
 | 138 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
-| 138 | [Sable](games/s/sable.md) | 1.01% |
+| 139 | [Sable](games/s/sable.md) | 1.00% |
 | 140 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
 | 140 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 142 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.98% |
@@ -154,9 +154,9 @@
 | 152 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 153 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
 | 153 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
+| 153 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.64% |
 | 153 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 156 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.62% |
+| 157 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 158 | [Haven](games/h/haven.md) | 0.61% |
 | 159 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
 | 160 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
@@ -217,10 +217,10 @@
 | 214 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 216 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 217 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
-| 217 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.20% |
-| 219 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 219 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
-| 219 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 218 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 218 | [Remnant 2](games/r/remnant_2.md) | 0.19% |
+| 218 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.19% |
+| 218 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 222 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 222 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 224 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
