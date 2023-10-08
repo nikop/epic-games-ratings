@@ -24,12 +24,12 @@
 | Anomaly Destroyer | 9.00% | ~4 |
 | Stellar Haste | 9.00% | ~4 |
 | Aquarian Champion | 9.00% | ~4 |
-| Astral Adventurer | 7.00% | ~3 |
-| Can't touch this | 7.00% | ~3 |
-| Heart Gate | 7.00% | ~3 |
-| Sadistic Plan | 7.00% | ~3 |
-| Star Killer | 7.00% | ~3 |
-| The Corruption Goddess | 7.00% | ~3 |
+| Astral Adventurer | 6.00% | ~3 |
+| Can't touch this | 6.00% | ~3 |
+| Heart Gate | 6.00% | ~3 |
+| Sadistic Plan | 6.00% | ~3 |
+| Star Killer | 6.00% | ~3 |
+| The Corruption Goddess | 6.00% | ~3 |
 | Anomaly Control | 4.00% | ~2 |
 | Astral Seeker | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 440)  
+Progressed: 47 (Ranked 439)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 41 | 0 |
 | 2023-10-06 | 44 | 0 |
 | 2023-10-07 | 46 | 0 |
+| 2023-10-08 | 47 | 0 |

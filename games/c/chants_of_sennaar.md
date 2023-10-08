@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to the Tower | 5.00% | ~13 |
 | That's the spirit | 4.00% | ~10 |
-| Welcome to the Tower | 4.00% | ~10 |
 | The Preacher's fate | 3.00% | ~8 |
 | The great escape | 3.00% | ~8 |
 | Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
+| Open door | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
@@ -18,10 +19,9 @@
 | I did it | 1.00% | ~3 |
 | In this together | 1.00% | ~3 |
 | Peace walker | 1.00% | ~3 |
-| Open door | 1.00% | ~3 |
+| A good beginning | 1.00% | ~3 |
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
-| A good beginning | 0.80% | ~2 |
 | Free at last | 0.80% | ~2 |
 | For its own good | 0.80% | ~2 |
 | True G3M4R | 0.80% | ~2 |

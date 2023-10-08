@@ -1263,9 +1263,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "META_HALF_LINK",
@@ -1279,9 +1279,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1391,9 +1391,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_N2",
@@ -1438,8 +1438,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:51:36.5711039+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:24:28.5335876+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:44:28.0588128+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:51:36.5711253+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:17:00.2093425+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:24:28.5336151+00:00"
 }

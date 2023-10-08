@@ -16,6 +16,7 @@ Rating: 4.64 (Ranked 318)
 | Creature Feature | 0.30% | ~72 |
 | Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
+| Lezduit! | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |
@@ -23,7 +24,6 @@ Rating: 4.64 (Ranked 318)
 | Self-Actualization | 0.30% | ~72 |
 | Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
-| Lezduit! | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |

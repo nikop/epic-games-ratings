@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5154,9 +5154,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 692429,
+  "EOS_Progressed": 692444,
   "EOS_Completed": 2201,
-  "EOS_NewPlayers": 3577,
+  "EOS_NewPlayers": 3584,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24444,6 +24444,11 @@
       "Time": "2023-10-08T01:52:47.3541258+00:00",
       "NumProgressed": 692429,
       "NumCompleted": 2201
+    },
+    {
+      "Time": "2023-10-08T02:25:54.121674+00:00",
+      "NumProgressed": 692444,
+      "NumCompleted": 2201
     }
   ],
   "TotalAchievements": 45,
@@ -24559,7 +24564,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -24814,22 +24819,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 692429,
+      "Progressed": 692444,
       "Completed": 2201
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17971,
-      "Completed": 17971
+      "Progressed": 17986,
+      "Completed": 17986
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-07T20:58:18.2616408+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:52:47.3541251+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:25:54.1216731+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:44:33.6102857+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:52:47.354245+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:17:07.3081183+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:25:54.1218383+00:00"
 }

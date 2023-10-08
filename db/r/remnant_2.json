@@ -2844,9 +2844,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 191710,
+  "EOS_Progressed": 191715,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 3238,
+  "EOS_NewPlayers": 3235,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -12174,6 +12174,11 @@
       "Time": "2023-10-08T01:55:25.7167891+00:00",
       "NumProgressed": 191710,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-10-08T02:27:42.7991112+00:00",
+      "NumProgressed": 191715,
+      "NumCompleted": 371
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -12226,7 +12231,7 @@
       "Name": "Chaos",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Cube",
@@ -12242,7 +12247,7 @@
       "Name": "Traitor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -12250,7 +12255,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Guardian",
@@ -12258,7 +12263,7 @@
       "Name": "Power Surge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Mantis",
@@ -12274,7 +12279,7 @@
       "Name": "The God Gambit",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -12282,7 +12287,7 @@
       "Name": "Dark Designs",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -12298,7 +12303,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Defeat_World_Boss",
@@ -12410,7 +12415,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -12458,7 +12463,7 @@
       "Name": "The Web",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Obtain_Relics",
@@ -12474,7 +12479,7 @@
       "Name": "Scrap Collector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -12498,7 +12503,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "Obtain_Traits_C",
@@ -12585,7 +12590,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 191710,
+      "Progressed": 191715,
       "Completed": 371
     }
   ],
@@ -12593,8 +12598,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-10-07T21:59:53.3572257+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:55:25.7167885+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:27:42.7991102+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:36.520005+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:46:11.2950506+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:55:25.716864+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:19:10.7486398+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:27:42.7992163+00:00"
 }

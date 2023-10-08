@@ -5858,9 +5858,9 @@
       "Count": 926
     }
   ],
-  "EOS_Progressed": 811263,
+  "EOS_Progressed": 811274,
   "EOS_Completed": 177,
-  "EOS_NewPlayers": 5368,
+  "EOS_NewPlayers": 5347,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21698,6 +21698,11 @@
       "Time": "2023-10-08T01:55:24.5272137+00:00",
       "NumProgressed": 811263,
       "NumCompleted": 177
+    },
+    {
+      "Time": "2023-10-08T02:27:41.2771772+00:00",
+      "NumProgressed": 811274,
+      "NumCompleted": 177
     }
   ],
   "TotalAchievements": 75,
@@ -21709,7 +21714,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186590
+      "UsersEstimate": 186593
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -21789,7 +21794,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 40563
+      "UsersEstimate": 40564
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -21805,7 +21810,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40563
+      "UsersEstimate": 40564
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -22045,7 +22050,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40563
+      "UsersEstimate": 40564
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -22117,7 +22122,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 40563
+      "UsersEstimate": 40564
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -22308,13 +22313,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 811263,
+      "Progressed": 811274,
       "Completed": 212
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 811263,
+      "Progressed": 811274,
       "Completed": 177
     }
   ],
@@ -22322,8 +22327,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-08T00:02:10.6586407+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:55:24.5272132+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:27:41.2771767+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.672949+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:49:05.8572512+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:55:24.5273457+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:21:11.4647852+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:27:41.2773382+00:00"
 }

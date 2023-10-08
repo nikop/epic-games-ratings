@@ -1287,9 +1287,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9466,
+  "EOS_Progressed": 9467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14337,6 +14337,11 @@
       "Time": "2023-10-08T01:49:36.9633994+00:00",
       "NumProgressed": 9466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T02:22:03.506051+00:00",
+      "NumProgressed": 9467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14380,7 +14385,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "14",
@@ -14388,7 +14393,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "15",
@@ -14396,7 +14401,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "16",
@@ -14428,7 +14433,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "2",
@@ -14452,7 +14457,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "22",
@@ -14468,7 +14473,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "24",
@@ -14484,7 +14489,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "26",
@@ -14612,7 +14617,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "40",
@@ -14740,7 +14745,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "55",
@@ -14794,9 +14799,9 @@
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3029
+      "UsersEstimate": 2935
     },
     {
       "ID": "8",
@@ -14819,15 +14824,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9466,
+      "Progressed": 9467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-04T07:57:53.8002058+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:49:36.9633988+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:22:03.50605+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:45:09.9823822+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:49:36.9635068+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:17:54.2594047+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:22:03.5061797+00:00"
 }

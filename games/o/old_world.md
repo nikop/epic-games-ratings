@@ -17,16 +17,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.80% | ~116 |
 | Learned | 0.80% | ~116 |
 | Mason | 0.80% | ~116 |
+| Pioneer | 0.80% | ~116 |
 | Strong | 0.80% | ~116 |
 | Hanging Gardens | 0.80% | ~116 |
+| Trade Caravan | 0.80% | ~116 |
 | Glorious | 0.70% | ~101 |
 | Just | 0.70% | ~101 |
 | Noble | 0.70% | ~101 |
-| Pioneer | 0.70% | ~101 |
 | Oracle | 0.70% | ~101 |
 | Judaism | 0.70% | ~101 |
 | Naming Landmarks | 0.70% | ~101 |
-| Trade Caravan | 0.70% | ~101 |
 | Enlightened | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
+| Brilliant | 0.50% | ~72 |
 | Fountainhead | 0.50% | ~72 |
 | Magnificent | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.50% | ~72 |
 | Zoroastrianism | 0.50% | ~72 |
 | Kushite Pyramids | 0.50% | ~72 |
-| Brilliant | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
 | Able Difficulty | 0.40% | ~58 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.30% | ~43 |
 | Circus Maximus | 0.30% | ~43 |
 | Mausoleum | 0.30% | ~43 |
+| Pantheon | 0.30% | ~43 |
 | Learn to Play 3 | 0.30% | ~43 |
 | Persian Paganism | 0.30% | ~43 |
 | Building Wonders | 0.30% | ~43 |
@@ -91,12 +92,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.20% | ~29 |
 | Landowners | 0.20% | ~29 |
 | Riders | 0.20% | ~29 |
+| Statesmen | 0.20% | ~29 |
 | Traders | 0.20% | ~29 |
 | Hittite Iron | 0.20% | ~29 |
 | Hagia Sophia | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Temple of Solomon | 0.20% | ~29 |
-| Pantheon | 0.20% | ~29 |
 | Via Recta Souk | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.10% | ~14 |
 | Event Level High | 0.10% | ~14 |
 | Clerics | 0.10% | ~14 |
-| Statesmen | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
 | The Eternal Treaty | 0.10% | ~14 |
 | Five Routs | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,494 (Ranked 134)  
+Progressed: 14,495 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,494 | 5 |
+| 2023-10-08 | 14,495 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

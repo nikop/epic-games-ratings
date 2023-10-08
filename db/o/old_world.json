@@ -1809,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14494,
+  "EOS_Progressed": 14495,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13269,6 +13269,11 @@
       "Time": "2023-10-08T00:04:03.6832485+00:00",
       "NumProgressed": 14494,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T02:22:34.1655099+00:00",
+      "NumProgressed": 14495,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13662,9 +13667,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -13870,9 +13875,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -14174,9 +14179,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -14734,9 +14739,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -15310,9 +15315,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -16015,21 +16020,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14494,
+      "Progressed": 14495,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14494,
+      "Progressed": 14495,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:50:02.0652958+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:22:34.1655095+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:46:33.4876582+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:50:02.0663786+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:19:38.7047084+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:22:34.166669+00:00"
 }

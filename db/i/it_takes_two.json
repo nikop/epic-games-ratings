@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11401,
+  "EOS_Progressed": 11405,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 3578,
+  "EOS_NewPlayers": 3568,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2075,6 +2075,11 @@
       "Time": "2023-10-08T01:49:59.2048769+00:00",
       "NumProgressed": 11401,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-08T02:22:30.5063987+00:00",
+      "NumProgressed": 11405,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2087,7 +2092,7 @@
       "Name": "It Took Two",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4448
     },
     {
       "ID": "achievement_10",
@@ -2103,7 +2108,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "achievement_12",
@@ -2111,7 +2116,7 @@
       "Name": "On Rails Experience",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6273
     },
     {
       "ID": "achievement_13",
@@ -2127,7 +2132,7 @@
       "Name": "Force Triangulated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_15",
@@ -2159,7 +2164,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "achievement_19",
@@ -2167,7 +2172,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "achievement_2",
@@ -2183,7 +2188,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_3",
@@ -2191,7 +2196,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 9919
+      "UsersEstimate": 9922
     },
     {
       "ID": "achievement_4",
@@ -2199,7 +2204,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 10033
+      "UsersEstimate": 10036
     },
     {
       "ID": "achievement_5",
@@ -2207,7 +2212,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "achievement_6",
@@ -2223,7 +2228,7 @@
       "Name": "Look At Him Go",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 8779
+      "UsersEstimate": 8782
     },
     {
       "ID": "achievement_8",
@@ -2231,7 +2236,7 @@
       "Name": "Break the Bank",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4790
     },
     {
       "ID": "achievement_9",
@@ -2239,20 +2244,20 @@
       "Name": "A Daring Devil",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5817
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 11401,
+      "Progressed": 11405,
       "Completed": 44
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:49:59.2048763+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:22:30.5063982+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:46:03.0849273+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:49:59.2049254+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:19:00.2734054+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:22:30.5064298+00:00"
 }

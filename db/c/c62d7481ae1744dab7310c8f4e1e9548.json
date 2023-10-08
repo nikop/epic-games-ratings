@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:54:18.3877992+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:27:10.1208063+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.6075217+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:46:18.5000132+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:54:18.3878201+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:19:19.8229041+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:27:10.120833+00:00"
 }

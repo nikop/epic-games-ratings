@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346792,
+  "EOS_Progressed": 346794,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19858,6 +19858,11 @@
       "Time": "2023-10-08T01:50:42.0484967+00:00",
       "NumProgressed": 346792,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-08T02:23:22.6067039+00:00",
+      "NumProgressed": 346794,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -19957,7 +19962,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27743
+      "UsersEstimate": 27744
     },
     {
       "ID": "ach013",
@@ -20005,7 +20010,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27743
+      "UsersEstimate": 27744
     },
     {
       "ID": "ach019",
@@ -20077,7 +20082,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159524
+      "UsersEstimate": 159525
     },
     {
       "ID": "ach028",
@@ -20205,7 +20210,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24275
+      "UsersEstimate": 24276
     },
     {
       "ID": "ach044",
@@ -20229,7 +20234,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24275
+      "UsersEstimate": 24276
     },
     {
       "ID": "ach047",
@@ -20477,7 +20482,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24275
+      "UsersEstimate": 24276
     },
     {
       "ID": "ach079",
@@ -20508,7 +20513,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346792,
+      "Progressed": 346794,
       "Completed": 7
     }
   ],
@@ -20516,8 +20521,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:50:42.0484959+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:23:22.6067034+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:43:35.4309865+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:50:42.048658+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:15:54.9918055+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:23:22.6069254+00:00"
 }

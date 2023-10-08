@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1291,6 +1291,11 @@
       "Time": "2023-10-08T01:52:03.9224844+00:00",
       "NumProgressed": 504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T02:25:01.5787821+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1333,9 +1338,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_14",
@@ -1549,9 +1554,9 @@
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_39",
@@ -1575,7 +1580,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_41",
@@ -1607,7 +1612,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_45",
@@ -1783,7 +1788,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_8",
@@ -1806,13 +1811,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 1
     }
   ],
@@ -1820,8 +1825,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:52:03.9224837+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:25:01.5787816+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:49:17.277302+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:52:03.922544+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:21:27.9812824+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:25:01.5788633+00:00"
 }

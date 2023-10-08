@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13716,
+  "EOS_Progressed": 13717,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8004,6 +8004,11 @@
       "Time": "2023-10-08T01:52:39.1438847+00:00",
       "NumProgressed": 13716,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T02:25:43.9998503+00:00",
+      "NumProgressed": 13717,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8072,7 +8077,7 @@
       "Name": "Drug Gifter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "17",
@@ -8255,7 +8260,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13716,
+      "Progressed": 13717,
       "Completed": 17
     }
   ],
@@ -8263,8 +8268,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:52:39.143884+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:25:43.9998498+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:43:25.2520563+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:52:39.1439326+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:15:42.7599447+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:25:43.9999253+00:00"
 }

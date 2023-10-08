@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 5781,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2766,9 +2766,9 @@
       "ID": "achievement_01_01_arcadeFTUX",
       "SetID": "4f1m94d",
       "Name": "First of Many",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4914
     },
     {
       "ID": "achievement_01_02",
@@ -2902,9 +2902,9 @@
       "ID": "achievement_02_08",
       "SetID": "4f1m94d",
       "Name": "Car Specialist",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_03_01",
@@ -3079,8 +3079,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:49:34.0072733+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:21:50.1211027+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:43:31.7944292+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:49:34.0073147+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:15:51.4841894+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:21:50.1211567+00:00"
 }

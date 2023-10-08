@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2776,9 +2776,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 32708,
+  "EOS_Progressed": 32709,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -21391,6 +21391,11 @@
       "Time": "2023-10-08T01:49:59.7505187+00:00",
       "NumProgressed": 32708,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-08T02:22:31.1369824+00:00",
+      "NumProgressed": 32709,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 60,
@@ -21498,7 +21503,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5888
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -21522,7 +21527,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -21538,7 +21543,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10139
+      "UsersEstimate": 10140
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -21610,7 +21615,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14064
+      "UsersEstimate": 14065
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -21618,7 +21623,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 13083
+      "UsersEstimate": 13084
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -21634,7 +21639,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 13410
+      "UsersEstimate": 13411
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -21714,7 +21719,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5560
+      "UsersEstimate": 5561
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -21730,7 +21735,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -21762,7 +21767,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10139
+      "UsersEstimate": 10140
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -21770,7 +21775,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -21794,7 +21799,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9485
+      "UsersEstimate": 9486
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -21810,7 +21815,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -21850,7 +21855,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -21858,7 +21863,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5560
+      "UsersEstimate": 5561
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -21881,15 +21886,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 32708,
+      "Progressed": 32709,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-07T06:59:05.8017116+00:00",
-  "LastChanged_Achievements": "2023-10-08T01:49:59.7505179+00:00",
+  "LastChanged_Achievements": "2023-10-08T02:22:31.1369815+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.7087735+00:00",
-  "LastUpdate_Ratings": "2023-10-08T01:44:30.6435134+00:00",
-  "LastUpdate_Achievements": "2023-10-08T01:49:59.7506512+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:17:03.4901746+00:00",
+  "LastUpdate_Achievements": "2023-10-08T02:22:31.1371578+00:00"
 }

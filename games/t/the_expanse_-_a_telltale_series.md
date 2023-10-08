@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 489)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,097 |
-| Drug Gifter | 3.00% | ~411 |
+| Drug Gifter | 3.00% | ~412 |
 | The Pit and the Pirates | 2.00% | ~274 |
 | Data Archivist | 2.00% | ~274 |
 | Drone Dodger | 2.00% | ~274 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 489)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,716 (Ranked 135)  
+Progressed: 13,717 (Ranked 135)  
 Completed: 17 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 17 (0.12%) (Ranked 234)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,716 | 17 |
+| 2023-10-08 | 13,717 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
