@@ -73,7 +73,7 @@
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,776 | 3.99 | 965 |
 | 72 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 471 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,712 | 4.60 | 397 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,657 | 4.76 | 119 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,668 | 4.76 | 119 |
 | 75 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,651 | 4.68 | 243 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,601 | 4.55 | 490 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,586 | 4.70 | 203 |
@@ -91,7 +91,7 @@
 | 89 | [Trackmania](games/t/trackmania.md) | 3,548 | 4.67 | 260 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,545 | 4.47 | 620 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,363 | 4.68 | 243 |
-| 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,352 | 4.76 | 119 |
+| 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,353 | 4.76 | 119 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,305 | 4.57 | 453 |
 | 94 | [Hades](games/h/hades.md) | 3,300 | 4.92 | 4 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,892 | 4.49 | 590 |
@@ -373,10 +373,10 @@
 | 370 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 81 | 3.80 | 997 |
 | 372 | [Carcassonne](games/c/carcassonne.md) | 79 | 4.66 | 281 |
 | 372 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 79 | 4.55 | 490 |
+| 374 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 78 | 4.19 | 889 |
 | 374 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 78 | 4.21 | 872 |
-| 375 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 77 | 4.19 | 889 |
-| 375 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 77 | 4.72 | 179 |
-| 375 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 77 | 4.59 | 419 |
+| 376 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 77 | 4.72 | 179 |
+| 376 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 77 | 4.59 | 419 |
 | 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 75 | 4.59 | 419 |
 | 379 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 698 |
 | 379 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 74 | 4.38 | 739 |
@@ -487,7 +487,7 @@
 | 484 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.90 | 986 |
 | 484 | [DOOM II](games/d/doom_ii.md) | 27 | 4.65 | 298 |
 | 484 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 471 |
-| 484 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 921 |
+| 484 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 920 |
 | 484 | [Madden NFL 23](games/m/madden_nfl_23.md) | 27 | 4.27 | 834 |
 | 484 | [Rayman Origins](games/r/rayman_origins.md) | 27 | 4.86 | 29 |
 | 484 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 220 |

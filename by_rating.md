@@ -121,11 +121,11 @@
 | 119 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 28 | 478 |
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,529 | 24 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 529 |
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,352 | 92 |
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,353 | 92 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 997 | 147 |
 | 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 856 | 157 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,347 | 17 |
-| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,657 | 74 |
+| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,668 | 74 |
 | 119 | [Journey](games/j/journey.md) | 4.76 | 0 | 529 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 529 |
 | 119 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 529 |
@@ -182,7 +182,7 @@
 | 179 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 102 | 343 |
 | 179 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 502 | 203 |
 | 179 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 439 |
-| 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 375 |
+| 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 376 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 127 | 318 |
 | 179 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 529 |
 | 179 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 334 | 235 |
@@ -427,7 +427,7 @@
 | 419 | [NORCO](games/n/norco.md) | 4.59 | 0 | 529 |
 | 419 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 529 |
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.59 | 128 | 317 |
-| 419 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 77 | 375 |
+| 419 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 77 | 376 |
 | 419 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 210 | 274 |
 | 419 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 347 | 231 |
 | 419 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,038 | 144 |
@@ -890,7 +890,7 @@
 | 879 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 529 |
 | 889 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 410 |
 | 889 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 529 |
-| 889 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 77 | 375 |
+| 889 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 78 | 374 |
 | 889 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 205,496 | 5 |
 | 889 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 529 |
 | 889 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 74 | 379 |
@@ -914,21 +914,21 @@
 | 912 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 529 |
 | 912 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 529 |
 | 912 | [Forspoken](games/f/forspoken.md) | 4.15 | 28 | 478 |
-| 912 | [Model Builder](games/m/model_builder.md) | 4.15 | 0 | 529 |
 | 912 | [Pine](games/p/pine.md) | 4.15 | 0 | 529 |
 | 912 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 277 |
 | 912 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.15 | 41 | 435 |
 | 912 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 529 |
 | 912 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 529 |
-| 921 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 529 |
-| 921 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.14 | 0 | 529 |
-| 921 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 484 |
-| 921 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 529 |
-| 925 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 529 |
-| 925 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 529 |
-| 927 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 0 | 529 |
-| 927 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.12 | 0 | 529 |
-| 927 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 529 |
+| 920 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 529 |
+| 920 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.14 | 0 | 529 |
+| 920 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 484 |
+| 920 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 529 |
+| 924 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 529 |
+| 924 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 529 |
+| 926 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 0 | 529 |
+| 926 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 529 |
+| 926 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.12 | 0 | 529 |
+| 926 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 529 |
 | 930 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.11 | 0 | 529 |
 | 931 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 359 |
 | 931 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
