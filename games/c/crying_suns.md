@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 572)  
+Rating: 4.50 (Ranked 571)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 66.00% | ~309,351 |
 | Jeef Skeejj | 44.00% | ~206,234 |
 | Careful planning | 39.00% | ~182,798 |
-| Second Coming | 34.00% | ~159,362 |
+| Second Coming | 34.00% | ~159,363 |
 | Jeef Skagg | 30.00% | ~140,614 |
 | Mother | 25.00% | ~117,178 |
 | In space, no one can hear you scream | 24.00% | ~112,491 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~70,307 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,307 |
 | Pope Zenon | 15.00% | ~70,307 |
-| Tetsuo | 11.00% | ~51,558 |
-| Plan for the worst | 11.00% | ~51,558 |
+| Tetsuo | 11.00% | ~51,559 |
+| Plan for the worst | 11.00% | ~51,559 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,871 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,497 |
 | Through the mirror | 8.00% | ~37,497 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,713 (Ranked 37)  
+Progressed: 468,714 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 18 (0.00%) (Ranked 310)
 | 2023-10-05 | 468,549 | 18 |
 | 2023-10-06 | 468,608 | 18 |
 | 2023-10-07 | 468,687 | 18 |
-| 2023-10-08 | 468,713 | 18 |
+| 2023-10-08 | 468,714 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 268)  
 Sum: 240 (Ranked 365)  

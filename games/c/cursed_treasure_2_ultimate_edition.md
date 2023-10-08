@@ -19,11 +19,11 @@
 | Look After the Pence... | 73.00% | ~126 |
 | Drunken Master | 73.00% | ~126 |
 | V.I.P. Cemetery | 71.00% | ~122 |
+| Top of the World | 70.00% | ~120 |
 | Takeover | 70.00% | ~120 |
 | Woodcutter | 70.00% | ~120 |
 | Sharpshooter | 70.00% | ~120 |
 | Architect of Darkness | 70.00% | ~120 |
-| Top of the World | 69.00% | ~119 |
 | The Apotheosis of War | 67.00% | ~115 |
 | Stasis Alcatraz | 67.00% | ~115 |
 | Tastes Like Chicken | 63.00% | ~108 |
@@ -59,7 +59,7 @@
 | Loveless | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 172 (Ranked 348)  
-Completed: 25 (14.53%) (Ranked 22)  
+Completed: 26 (15.12%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 25 (14.53%) (Ranked 22)
 | 2023-09-08 | 169 | 25 |
 | 2023-09-29 | 170 | 25 |
 | 2023-10-07 | 171 | 25 |
-| 2023-10-08 | 172 | 25 |
+| 2023-10-08 | 172 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

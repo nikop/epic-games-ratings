@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38053,
+  "EOS_Progressed": 38057,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18990,6 +18990,11 @@
       "Time": "2023-10-08T13:06:46.3033703+00:00",
       "NumProgressed": 38053,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-08T14:04:35.6013134+00:00",
+      "NumProgressed": 38057,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 29,
@@ -19001,7 +19006,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -19033,7 +19038,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -19049,7 +19054,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -19232,7 +19237,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38053,
+      "Progressed": 38057,
       "Completed": 25
     }
   ],
@@ -19240,8 +19245,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:06:46.3033698+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:04:35.601313+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:54.3418872+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:02:36.8191464+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:06:46.3035135+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:00:25.1028115+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:04:35.6014172+00:00"
 }

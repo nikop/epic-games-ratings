@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1809,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14517,
+  "EOS_Progressed": 14521,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13324,6 +13324,11 @@
       "Time": "2023-10-08T13:06:54.3378316+00:00",
       "NumProgressed": 14517,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T14:04:43.9863536+00:00",
+      "NumProgressed": 14521,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13757,9 +13762,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -15405,9 +15410,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -16070,21 +16075,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14517,
+      "Progressed": 14521,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14517,
+      "Progressed": 14521,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:06:54.3378309+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:04:43.9863531+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:04:29.771584+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:06:54.3392008+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:02:11.6381585+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:04:43.9873452+00:00"
 }

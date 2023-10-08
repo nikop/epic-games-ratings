@@ -3,9 +3,9 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -989,9 +989,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "SABOTAGE",
@@ -1030,8 +1030,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:09:15.7199939+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:06:58.7288726+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:16.8365245+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:01:39.7603172+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:09:15.7200154+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:59:27.9991294+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:06:58.7288878+00:00"
 }

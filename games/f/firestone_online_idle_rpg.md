@@ -67,6 +67,7 @@ Rating: 4.06 (Ranked 947)
 | Cauldron Liberator | 2.00% | ~40 |
 | Enchanting skill x5 | 2.00% | ~40 |
 | Guardian Master | 2.00% | ~40 |
+| Conqueror | 1.00% | ~20 |
 | Enhanced War Machines | 1.00% | ~20 |
 | Pokerface | 1.00% | ~20 |
 | Titan Power | 1.00% | ~20 |
@@ -74,7 +75,6 @@ Rating: 4.06 (Ranked 947)
 | Transmute | 1.00% | ~20 |
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
-| Conqueror | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
 | Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |

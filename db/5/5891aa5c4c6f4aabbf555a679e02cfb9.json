@@ -2,10 +2,10 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -337,6 +337,11 @@
       "Time": "2023-10-03T19:03:09.4827495+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T14:04:36.9212638+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -347,7 +352,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "b36c5kb",
       "Name": "Rookie",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -379,7 +384,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
       "UsersEstimate": 56
     },
@@ -395,7 +400,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -427,7 +432,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "b36c5kb",
       "Name": "Crossing to the Other Side",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -435,7 +440,7 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "b36c5kb",
       "Name": "Spiritual Awakening",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -443,7 +448,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -467,7 +472,7 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "b36c5kb",
       "Name": "Unfortunate Consequence",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -491,7 +496,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "b36c5kb",
       "Name": "Finally Free",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -499,7 +504,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -531,7 +536,7 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "b36c5kb",
       "Name": "A Little Extra Kick to it",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -547,7 +552,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -571,7 +576,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -603,7 +608,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -643,7 +648,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -651,7 +656,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -699,7 +704,7 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "b36c5kb",
       "Name": "I Am The Night",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 27
     },
@@ -731,7 +736,7 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "b36c5kb",
       "Name": "Melancholy Memories",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -756,14 +761,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:06:47.3022824+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:04:36.9212635+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:02.1155253+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:03:47.0786488+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:06:47.3023475+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:01:31.6383334+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:04:36.9213055+00:00"
 }

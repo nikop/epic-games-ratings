@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1817,9 +1817,9 @@
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
       "SetID": "108h92c",
       "Name": "Always Finding Your Mark",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 268
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2018,8 +2018,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:08:58.2730534+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:06:42.1178339+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:09.0252852+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:03:37.6716036+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:08:58.273083+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:01:22.2696542+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:06:42.1178564+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 298,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -11275,8 +11275,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-07T13:03:17.1697203+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:05:34.169974+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:03:35.6064833+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:04:14.5143421+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:05:34.1701329+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:01:57.9578053+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:03:35.6065519+00:00"
 }

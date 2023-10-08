@@ -5,13 +5,13 @@ Rating: 4.60 (Ranked 397)
 Number of Ratings: 986  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 22  (Ranked 513)  
-Sum: 65 (Ranked 455)  
+Sum: 66 (Ranked 455)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game has Amazing Characters | 22 |
-| This game is Great for Quick Sessions | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -93,3 +93,4 @@ Diff (max vs sum): 58
 | 2023-08-13 | 4.60 | - | 22 | 65 |
 | 2023-09-20 | 4.59 | - | 22 | 65 |
 | 2023-10-07 | 4.60 | - | 22 | 65 |
+| 2023-10-08 | 4.60 | - | 22 | 66 |

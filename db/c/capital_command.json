@@ -4,8 +4,8 @@
   "ProductSlug": "capital-command-248527",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.9287439+00:00",
-  "LastUpdate_Ratings": "2023-10-08T12:59:46.5206076+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:08:14.1626119+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:57:37.3361272+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:06:00.1279529+00:00"
 }

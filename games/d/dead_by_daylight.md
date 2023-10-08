@@ -6,38 +6,39 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,340 |
-| Zealous | 0.80% | ~7,413 |
-| Skillful | 0.80% | ~7,413 |
-| Not half bad | 0.70% | ~6,486 |
-| Make Some Noise | 0.70% | ~6,486 |
+| It wakes | 0.90% | ~8,341 |
+| Zealous | 0.80% | ~7,414 |
+| Skillful | 0.80% | ~7,414 |
+| Not half bad | 0.70% | ~6,487 |
+| Make Some Noise | 0.70% | ~6,487 |
 | Handyman | 0.60% | ~5,560 |
 | Apt Survivor | 0.60% | ~5,560 |
 | Survival Treasures | 0.60% | ~5,560 |
 | Sorted | 0.60% | ~5,560 |
-| The Grand Sacrifice | 0.50% | ~4,633 |
-| No one left behind | 0.50% | ~4,633 |
-| Medic | 0.50% | ~4,633 |
-| Nerves of steel | 0.50% | ~4,633 |
-| Bloody Millionaire | 0.50% | ~4,633 |
-| I | 0.50% | ~4,633 |
-| Healthy Obsession | 0.50% | ~4,633 |
-| Resurgence | 0.50% | ~4,633 |
-| Preemptive Strike | 0.50% | ~4,633 |
-| Agonizing Escape | 0.40% | ~3,706 |
-| Backdoor Escape | 0.40% | ~3,706 |
-| I've got your back | 0.40% | ~3,706 |
-| Perfect Escape | 0.40% | ~3,706 |
-| Perfect Killing | 0.40% | ~3,706 |
-| Risk it all | 0.40% | ~3,706 |
-| Engineer | 0.40% | ~3,706 |
-| Wounded Healer | 0.40% | ~3,706 |
-| Close Shave | 0.40% | ~3,706 |
-| Humanitarian | 0.40% | ~3,706 |
+| The Grand Sacrifice | 0.50% | ~4,634 |
+| No one left behind | 0.50% | ~4,634 |
+| Medic | 0.50% | ~4,634 |
+| Nerves of steel | 0.50% | ~4,634 |
+| Bloody Millionaire | 0.50% | ~4,634 |
+| I | 0.50% | ~4,634 |
+| Healthy Obsession | 0.50% | ~4,634 |
+| Resurgence | 0.50% | ~4,634 |
+| Preemptive Strike | 0.50% | ~4,634 |
+| Humanitarian | 0.50% | ~4,634 |
+| Agonizing Escape | 0.40% | ~3,707 |
+| Backdoor Escape | 0.40% | ~3,707 |
+| I've got your back | 0.40% | ~3,707 |
+| Perfect Escape | 0.40% | ~3,707 |
+| Perfect Killing | 0.40% | ~3,707 |
+| Risk it all | 0.40% | ~3,707 |
+| Engineer | 0.40% | ~3,707 |
+| Wounded Healer | 0.40% | ~3,707 |
+| Close Shave | 0.40% | ~3,707 |
 | Apt Killer | 0.30% | ~2,780 |
 | Vulture | 0.30% | ~2,780 |
 | II | 0.30% | ~2,780 |
 | III | 0.30% | ~2,780 |
+| Cherish your Life | 0.30% | ~2,780 |
 | First to the Punch | 0.30% | ~2,780 |
 | Every Last Drop | 0.30% | ~2,780 |
 | With Scars to Show | 0.30% | ~2,780 |
@@ -61,7 +62,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.20% | ~1,853 |
 | Holiday Get-Together | 0.20% | ~1,853 |
 | Near-Death Experience | 0.20% | ~1,853 |
-| Cherish your Life | 0.20% | ~1,853 |
 | Campbell's Chapel Legacy | 0.20% | ~1,853 |
 | Ancestor's Rite | 0.20% | ~1,853 |
 | Unforgettable Getaway | 0.20% | ~1,853 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~927 |
 | Adept Ripley | 0.10% | ~927 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,615 (Ranked 14)  
+Progressed: 926,748 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,16 +407,16 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,615 | 49 |
+| 2023-10-08 | 926,748 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
-Sum: 260,303 (Ranked 13)  
+Sum: 260,335 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,596 |
 | This game is Highly Recommended | 29,756 |
-| This game has Competitive Players | 29,423 |
+| This game has Competitive Players | 29,455 |
 | This game has Amazing Characters | 29,398 |
 | This game is Extremely Fun | 29,045 |
 | This game has Challenging Combat | 28,652 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 2
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
-| 2023-10-08 | 4.52 | - | 33,596 | 260,303 |
+| 2023-10-08 | 4.52 | - | 33,596 | 260,335 |

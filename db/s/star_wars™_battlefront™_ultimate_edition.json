@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 520,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2023-10-08T13:09:44.7069608+00:00",
       "NumProgressed": 517,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T14:07:26.7490651+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1373,9 +1378,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_14",
@@ -1447,7 +1452,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_22",
@@ -1455,7 +1460,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_23",
@@ -1479,7 +1484,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_26",
@@ -1543,7 +1548,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_33",
@@ -1559,7 +1564,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_35",
@@ -1567,7 +1572,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_36",
@@ -1583,7 +1588,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_38",
@@ -1607,7 +1612,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_40",
@@ -1615,15 +1620,15 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_42",
@@ -1647,7 +1652,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_45",
@@ -1695,7 +1700,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_50",
@@ -1751,7 +1756,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_57",
@@ -1783,7 +1788,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_60",
@@ -1846,13 +1851,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 520,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 517,
+      "Progressed": 520,
       "Completed": 1
     }
   ],
@@ -1860,8 +1865,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:09:44.7069602+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:07:26.7490647+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:05:11.0528748+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:09:44.7070419+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:03:13.5715278+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:07:26.7491225+00:00"
 }

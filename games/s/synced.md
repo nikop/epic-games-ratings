@@ -5,15 +5,15 @@ Rating: 4.17 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 28.00% | ~17,355 |
-| As Far Away As Possible | 16.00% | ~9,917 |
-| A Most Unstable Organism | 12.00% | ~7,438 |
-| No Time to Follow Protocol | 9.00% | ~5,578 |
-| Float Like a Butterfly... | 8.00% | ~4,958 |
-| Nano Connoisseur | 6.00% | ~3,719 |
-| In Two Places At Once | 6.00% | ~3,719 |
-| Pulling Your Weight | 3.00% | ~1,859 |
-| Reaping Rivals | 3.00% | ~1,859 |
+| Your Lucky Day | 28.00% | ~17,358 |
+| As Far Away As Possible | 16.00% | ~9,919 |
+| A Most Unstable Organism | 12.00% | ~7,439 |
+| No Time to Follow Protocol | 9.00% | ~5,579 |
+| Float Like a Butterfly... | 8.00% | ~4,959 |
+| Nano Connoisseur | 6.00% | ~3,720 |
+| In Two Places At Once | 6.00% | ~3,720 |
+| Pulling Your Weight | 3.00% | ~1,860 |
+| Reaping Rivals | 3.00% | ~1,860 |
 | fifteenth Time's the Charm | 0.90% | ~558 |
 | More Power to You | 0.70% | ~434 |
 | Memory Keeper | 0.20% | ~124 |
@@ -22,8 +22,8 @@ Rating: 4.17 (Ranked 901)
 | Runs for Your Money | 0.10% | ~62 |
 | Past Master | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,981 (Ranked 97)  
-Completed: 7 (0.01%) (Ranked 291)  
+Progressed: 61,993 (Ranked 97)  
+Completed: 9 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,10 +64,10 @@ Completed: 7 (0.01%) (Ranked 291)
 | 2023-10-05 | 61,160 | 3 |
 | 2023-10-06 | 61,484 | 7 |
 | 2023-10-07 | 61,839 | 7 |
-| 2023-10-08 | 61,981 | 7 |
+| 2023-10-08 | 61,993 | 9 |
 ## Awards
 Max (Great for Beginners): 53  (Ranked 404)  
-Sum: 189 (Ranked 385)  
+Sum: 192 (Ranked 385)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
@@ -75,8 +75,8 @@ Diff (max vs sum): 19
 | This game has Diverse Characters | 36 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 27 |
+| This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 22 |
-| This game has Amazing Storytelling | 21 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -110,3 +110,4 @@ Diff (max vs sum): 19
 | 2023-10-05 | 4.19 | 51 | 182 |
 | 2023-10-06 | 4.18 | 53 | 186 |
 | 2023-10-07 | 4.18 | 53 | 189 |
+| 2023-10-08 | 4.17 | 53 | 192 |

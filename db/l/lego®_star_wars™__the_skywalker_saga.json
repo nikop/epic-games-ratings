@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3386,9 +3386,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51803,
+  "EOS_Progressed": 51804,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -12756,6 +12756,11 @@
       "Time": "2023-10-08T12:04:41.5040619+00:00",
       "NumProgressed": 51803,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-10-08T14:05:17.4986612+00:00",
+      "NumProgressed": 51804,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 45,
@@ -12791,7 +12796,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40924
+      "UsersEstimate": 40925
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -12887,7 +12892,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24347
+      "UsersEstimate": 24348
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -12895,7 +12900,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -12903,7 +12908,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24865
+      "UsersEstimate": 24866
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -13031,7 +13036,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50249
+      "UsersEstimate": 50250
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13071,7 +13076,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36780
+      "UsersEstimate": 36781
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13119,22 +13124,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37298
+      "UsersEstimate": 37299
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51803,
+      "Progressed": 51804,
       "Completed": 237
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-07T12:03:17.7073988+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:07:29.601275+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:05:17.4986607+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:29.5593708+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:03:57.8326277+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:07:29.601369+00:00"
+  "LastUpdate_Ratings": "2023-10-08T14:01:42.7208544+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:05:17.4987316+00:00"
 }

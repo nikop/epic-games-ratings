@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 172,
-  "EOS_Completed": 25,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 14.53,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 15.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -212,6 +212,11 @@
       "Time": "2023-10-08T09:09:14.635075+00:00",
       "NumProgressed": 172,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-08T14:09:15.4190451+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 53,
@@ -237,9 +242,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -647,15 +652,15 @@
       "ID": "ak6pfjk",
       "IsBase": true,
       "Progressed": 172,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:11:37.621088+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:09:15.4190446+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:56.4749461+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:01:16.968193+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:11:37.6211382+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:59:04.3032207+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:09:15.4190896+00:00"
 }

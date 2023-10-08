@@ -10,13 +10,13 @@
 | Frogs Legs | 20.00% | ~3 |
 | Mad Scientist | 20.00% | ~3 |
 | Who Even Needs Keys | 13.00% | ~2 |
+| Couch-surfing | 13.00% | ~2 |
 | Hoist the Sails | 13.00% | ~2 |
 | Replace the Rudder | 13.00% | ~2 |
 | Socialite | 7.00% | ~1 |
 | Shrub-Seeing: Townlife | 7.00% | ~1 |
 | Shrub-Seeing: Silly Birbs | 7.00% | ~1 |
 | Yeet! | 7.00% | ~1 |
-| Couch-surfing | 7.00% | ~1 |
 | Sailor Swift | 7.00% | ~1 |
 | Safe Investment | 7.00% | ~1 |
 | Bank of Me | 7.00% | ~1 |

@@ -25,12 +25,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
 | Trade Caravan | 0.80% | ~116 |
+| Enlightened | 0.70% | ~102 |
 | Glorious | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
 | Naming Landmarks | 0.70% | ~102 |
 | Ambitious | 0.60% | ~87 |
-| Enlightened | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Cimmerian Archer | 0.30% | ~44 |
+| Legionary | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
 | Double Victory | 0.30% | ~44 |
 | Points Victory | 0.30% | ~44 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Mounted Lancer | 0.20% | ~29 |
-| Legionary | 0.20% | ~29 |
 | Turreted Elephant | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,517 (Ranked 134)  
+Progressed: 14,521 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,517 | 5 |
+| 2023-10-08 | 14,521 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

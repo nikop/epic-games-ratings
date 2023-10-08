@@ -23,7 +23,7 @@
 | Asari Ally | 52.00% | ~316 |
 | Principled | 52.00% | ~316 |
 | Soldier Ally | 50.00% | ~304 |
-| Colonial Savior | 48.00% | ~291 |
+| Colonial Savior | 49.00% | ~297 |
 | Paramour I | 46.00% | ~279 |
 | Sentinel Ally | 45.00% | ~273 |
 | Krogan Ally | 45.00% | ~273 |

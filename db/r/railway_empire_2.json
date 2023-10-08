@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 1995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5121,6 +5121,11 @@
       "Time": "2023-10-08T12:04:01.0778491+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T14:04:22.1119668+00:00",
+      "NumProgressed": 1995,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5130,9 +5135,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 838
     },
     {
       "ID": "A01",
@@ -5180,7 +5185,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "A07",
@@ -5188,7 +5193,7 @@
       "Name": "Track to the Future",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "A08",
@@ -5258,9 +5263,9 @@
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 379
     },
     {
       "ID": "A17",
@@ -5276,7 +5281,7 @@
       "Name": "General Manager",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "A19",
@@ -5300,7 +5305,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "A22",
@@ -5308,7 +5313,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "A23",
@@ -5356,7 +5361,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "A29",
@@ -5380,7 +5385,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "A32",
@@ -5404,7 +5409,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "A35",
@@ -5428,15 +5433,15 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1057
     },
     {
       "ID": "A39",
@@ -5452,7 +5457,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "A41",
@@ -5500,7 +5505,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "A47",
@@ -5508,7 +5513,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "A48",
@@ -5571,7 +5576,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 0
     }
   ],
@@ -5579,8 +5584,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-01T08:59:20.9835547+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:06:32.4619396+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:04:22.1119665+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.8210559+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:00:59.9727993+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:06:32.4620202+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:58:48.0042063+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:04:22.11203+00:00"
 }

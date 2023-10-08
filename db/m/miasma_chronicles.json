@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3492,9 +3492,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 707
     },
     {
       "ID": "ENDGAME",
@@ -3765,8 +3765,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-08T13:09:11.6381554+00:00",
+  "LastChanged_Achievements": "2023-10-08T14:06:54.9693607+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.6393775+00:00",
-  "LastUpdate_Ratings": "2023-10-08T13:01:27.3919499+00:00",
-  "LastUpdate_Achievements": "2023-10-08T13:09:11.6382247+00:00"
+  "LastUpdate_Ratings": "2023-10-08T13:59:15.6167877+00:00",
+  "LastUpdate_Achievements": "2023-10-08T14:06:54.9694112+00:00"
 }
