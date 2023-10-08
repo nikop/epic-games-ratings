@@ -177,7 +177,7 @@
 | 163 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 528 |
 | 163 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 528 |
 | 163 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 528 |
-| 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 670 | 182 |
+| 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 673 | 181 |
 | 179 | [Cave Story+](games/c/cave_story+.md) | 4.72 | 109 | 337 |
 | 179 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 102 | 343 |
 | 179 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 502 | 203 |
@@ -263,11 +263,11 @@
 | 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 678 | 179 |
 | 260 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 528 |
 | 260 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 48 | 416 |
-| 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 671 | 181 |
+| 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 671 | 182 |
 | 260 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 528 |
 | 260 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 528 |
 | 260 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 464 | 209 |
-| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,255 | 105 |
+| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,257 | 105 |
 | 260 | [Overcooked](games/o/overcooked.md) | 4.67 | 117 | 330 |
 | 260 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 566 | 194 |
 | 260 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.67 | 0 | 528 |
@@ -401,7 +401,7 @@
 | 397 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,149 | 27 |
 | 397 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 528 |
 | 397 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,712 | 73 |
-| 397 | [Control](games/c/control.md) | 4.60 | 8,571 | 41 |
+| 397 | [Control](games/c/control.md) | 4.60 | 8,576 | 41 |
 | 397 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 528 |
 | 397 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 268 |
 | 397 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,811 | 28 |
@@ -460,7 +460,7 @@
 | 453 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 528 |
 | 453 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 528 |
 | 453 | [Minit](games/m/minit.md) | 4.57 | 0 | 528 |
-| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,977 | 45 |
+| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,984 | 45 |
 | 453 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,304 | 93 |
 | 453 | [Risen](games/r/risen.md) | 4.57 | 0 | 528 |
 | 453 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 528 |
@@ -616,7 +616,7 @@
 | 608 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 528 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 528 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 340 |
-| 608 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,167 | 44 |
+| 608 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 8,185 | 44 |
 | 608 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 528 |
 | 608 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 528 |
 | 620 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 528 |

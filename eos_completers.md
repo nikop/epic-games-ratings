@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.51% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.48% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -62,8 +62,8 @@
 | 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 63 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.50% |
-| 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
+| 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
+| 64 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.46% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 67 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
@@ -71,7 +71,7 @@
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.76% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.77% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
