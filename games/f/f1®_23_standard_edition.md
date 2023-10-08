@@ -5,22 +5,22 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,855 |
+| Getting on the Step | 94.00% | ~2,856 |
 | On the Top Step | 88.00% | ~2,673 |
-| Setting up for Success | 77.00% | ~2,338 |
+| Setting up for Success | 77.00% | ~2,339 |
 | Team Orders | 75.00% | ~2,278 |
-| Engineer | 55.00% | ~1,670 |
-| Familiar Faces | 49.00% | ~1,488 |
-| Going the Extra Mile | 44.00% | ~1,336 |
-| Sharing the Love | 41.00% | ~1,245 |
-| Hitting a Season | 36.00% | ~1,093 |
+| Engineer | 55.00% | ~1,671 |
+| Familiar Faces | 49.00% | ~1,489 |
+| Going the Extra Mile | 44.00% | ~1,337 |
+| Sharing the Love | 41.00% | ~1,246 |
+| Hitting a Season | 36.00% | ~1,094 |
 | Challenge Yourself | 34.00% | ~1,033 |
 | Making History | 32.00% | ~972 |
-| A Dozen Pieces | 31.00% | ~941 |
-| Network Success | 25.00% | ~759 |
-| Writing a new Chapter | 25.00% | ~759 |
+| A Dozen Pieces | 31.00% | ~942 |
+| Network Success | 25.00% | ~760 |
+| Writing a new Chapter | 25.00% | ~760 |
 | Spring Cleaning | 24.00% | ~729 |
-| Ups and Downs | 20.00% | ~607 |
+| Ups and Downs | 20.00% | ~608 |
 | Reduce | 19.00% | ~577 |
 | Crucial Combo | 18.00% | ~547 |
 | Reuse | 17.00% | ~516 |
@@ -30,9 +30,9 @@ Rating: 4.66 (Ranked 281)
 | Oil and Water | 15.00% | ~456 |
 | Lightning Round the World | 13.00% | ~395 |
 | Hitting a Bullseye | 13.00% | ~395 |
-| Eagle Eye | 12.00% | ~364 |
-| Spinning Around | 12.00% | ~364 |
-| Recycle | 12.00% | ~364 |
+| Eagle Eye | 12.00% | ~365 |
+| Spinning Around | 12.00% | ~365 |
+| Recycle | 12.00% | ~365 |
 | All in a Weekend's Work | 11.00% | ~334 |
 | Switcheroo | 11.00% | ~334 |
 | Tinkerer | 11.00% | ~334 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,037 (Ranked 189)  
+Progressed: 3,038 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 2,950 | 0 |
 | 2023-10-06 | 2,987 | 0 |
 | 2023-10-07 | 3,037 | 0 |
+| 2023-10-08 | 3,038 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13709,
+  "EOS_Progressed": 13711,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7994,6 +7994,11 @@
       "Time": "2023-10-07T23:06:01.7586996+00:00",
       "NumProgressed": 13709,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T00:07:30.4368939+00:00",
+      "NumProgressed": 13711,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8028,17 +8033,17 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 1097
     },
     {
       "ID": "14",
@@ -8245,7 +8250,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13709,
+      "Progressed": 13711,
       "Completed": 17
     }
   ],
@@ -8253,8 +8258,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:06:01.7586992+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:07:30.4368929+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:00.5112168+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:06:01.7587519+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:57:13.5804043+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:07:30.4369462+00:00"
 }

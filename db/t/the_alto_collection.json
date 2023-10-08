@@ -4,11 +4,11 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 203,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 41899,
+  "EOS_Progressed": 41902,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19869,6 +19869,11 @@
       "Time": "2023-10-07T23:05:12.3370671+00:00",
       "NumProgressed": 41899,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T00:06:25.9317679+00:00",
+      "NumProgressed": 41902,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -19920,7 +19925,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11313
+      "UsersEstimate": 11314
     },
     {
       "ID": "goals180",
@@ -20056,7 +20061,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "playerWingsuit",
@@ -20088,7 +20093,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10894
+      "UsersEstimate": 10895
     },
     {
       "ID": "sandboarder",
@@ -20191,15 +20196,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 41899,
+      "Progressed": 41902,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-23T19:02:42.7463813+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:05:12.3370666+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:06:25.9317674+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.5787714+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:58:26.7619503+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:05:12.3371759+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:59:13.4405343+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:06:25.9318799+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "15",
@@ -363,8 +363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:05:03.7891225+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:06:14.5637734+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:19.899861+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:58:13.6982947+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:05:03.7891348+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:58:55.7775668+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:06:14.5637856+00:00"
 }

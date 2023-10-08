@@ -1,7 +1,7 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 687)  
+Rating: 4.42 (Ranked 688)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 94  (23.09.2022)
 | Forgotten Memories | 49.00% | ~323 |
 | Cogs in the Machine | 44.00% | ~290 |
 | Mission Success | 28.00% | ~185 |
-| There's No Place Like Home | 26.00% | ~172 |
+| There's No Place Like Home | 27.00% | ~178 |
 | Green Cube Killer | 23.00% | ~152 |
 | Infinity Loop | 20.00% | ~132 |
 | Path to Salvation | 20.00% | ~132 |

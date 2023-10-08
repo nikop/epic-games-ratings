@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -249,17 +249,17 @@
       "ID": "ACH_14_HORSECLUB",
       "SetID": "9dl0ei6",
       "Name": "I\u0027m part of the action!",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_15_CLUBHOUSE",
       "SetID": "9dl0ei6",
       "Name": "Clubhouse",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_16_APPLES",
@@ -305,9 +305,9 @@
       "ID": "ACH_21_EXPLORER",
       "SetID": "9dl0ei6",
       "Name": "Explorer",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_22_QUARRY",
@@ -368,8 +368,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:03:13.4236437+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:03:48.9466641+00:00",
   "LastUpdate_AppInfo": "2023-10-01T18:57:35.4891319+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:59:53.2673593+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:03:13.4236605+00:00"
+  "LastUpdate_Ratings": "2023-10-08T00:01:13.910695+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:03:48.9466808+00:00"
 }

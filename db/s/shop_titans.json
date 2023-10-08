@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6412,9 +6412,9 @@
       "Count": 3757
     }
   ],
-  "EOS_Progressed": 137277,
+  "EOS_Progressed": 137279,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23887,6 +23887,11 @@
       "Time": "2023-10-07T23:04:44.6970004+00:00",
       "NumProgressed": 137277,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-08T00:05:49.3365453+00:00",
+      "NumProgressed": 137279,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -24090,7 +24095,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "collection02",
@@ -24490,7 +24495,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "level03",
@@ -24610,7 +24615,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "quest02",
@@ -24770,7 +24775,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "workers03",
@@ -24793,15 +24798,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137277,
+      "Progressed": 137279,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-07T16:58:26.4945127+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:04:44.6969999+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:05:49.3365446+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:51.687757+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:04:44.6972092+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:58:24.4183649+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:05:49.3367467+00:00"
 }

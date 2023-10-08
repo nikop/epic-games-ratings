@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 508)
 | Max Headroom | 1.00% | ~6,924 |
 | Go, Bobcats! | 1.00% | ~6,924 |
 | Rising Star | 1.00% | ~6,924 |
-| Jumbo Keyring | 0.90% | ~6,231 |
+| Jumbo Keyring | 0.90% | ~6,232 |
 | Smorgasbord | 0.80% | ~5,539 |
 | Not Even My Final Form | 0.70% | ~4,847 |
 | Internet Famous | 0.70% | ~4,847 |
@@ -44,15 +44,15 @@ Rating: 4.54 (Ranked 508)
 | On Safari | 0.60% | ~4,154 |
 | Variety is the Spice of Death | 0.60% | ~4,154 |
 | LA Influential | 0.50% | ~3,462 |
+| Gore Horse | 0.50% | ~3,462 |
 | Sole Survivor | 0.40% | ~2,770 |
-| Gore Horse | 0.40% | ~2,770 |
 | Sharpest Tool in the Box | 0.40% | ~2,770 |
 | Survival Skills | 0.30% | ~2,077 |
 | Donk! | 0.10% | ~692 |
 | Bucket List | 0.10% | ~692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,386 (Ranked 22)  
-Completed: 2,200 (0.32%) (Ranked 194)  
+Progressed: 692,403 (Ranked 22)  
+Completed: 2,201 (0.32%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,6 +222,7 @@ Completed: 2,200 (0.32%) (Ranked 194)
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
+| 2023-10-08 | 692,403 | 2,201 |
 ## Awards
 Max (Great Boss Battles): 6,348  (Ranked 58)  
 Sum: 9,476 (Ranked 91)  

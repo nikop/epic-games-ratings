@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5154,10 +5154,10 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 692386,
-  "EOS_Completed": 2200,
-  "EOS_NewPlayers": 3585,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 692403,
+  "EOS_Completed": 2201,
+  "EOS_NewPlayers": 3572,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24434,6 +24434,11 @@
       "Time": "2023-10-07T23:06:09.6983831+00:00",
       "NumProgressed": 692386,
       "NumCompleted": 2200
+    },
+    {
+      "Time": "2023-10-08T00:07:40.8119776+00:00",
+      "NumProgressed": 692403,
+      "NumCompleted": 2201
     }
   ],
   "TotalAchievements": 45,
@@ -24637,7 +24642,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     },
     {
       "ID": "ach_knock_down",
@@ -24667,9 +24672,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 3462
     },
     {
       "ID": "ach_metropolitan",
@@ -24804,22 +24809,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 692386,
-      "Completed": 2200
+      "Progressed": 692403,
+      "Completed": 2201
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 17928,
-      "Completed": 17928
+      "Progressed": 17945,
+      "Completed": 17945
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-07T20:58:18.2616408+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:06:09.6983825+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:07:40.8119771+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:58:08.1363523+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:06:09.6986901+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:58:47.8931087+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:07:40.8120941+00:00"
 }

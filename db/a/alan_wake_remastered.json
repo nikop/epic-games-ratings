@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67272,
+  "EOS_Progressed": 67274,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17229,6 +17229,11 @@
       "Time": "2023-10-07T23:05:33.3423015+00:00",
       "NumProgressed": 67272,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-08T00:06:52.5975836+00:00",
+      "NumProgressed": 67274,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17240,7 +17245,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28927
+      "UsersEstimate": 28928
     },
     {
       "ID": "02",
@@ -17248,7 +17253,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18163
+      "UsersEstimate": 18164
     },
     {
       "ID": "03",
@@ -17328,7 +17333,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8745
+      "UsersEstimate": 8746
     },
     {
       "ID": "13",
@@ -17360,7 +17365,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "17",
@@ -17424,7 +17429,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8745
+      "UsersEstimate": 8746
     },
     {
       "ID": "25",
@@ -17440,7 +17445,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8745
+      "UsersEstimate": 8746
     },
     {
       "ID": "27",
@@ -17512,7 +17517,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23545
+      "UsersEstimate": 23546
     },
     {
       "ID": "36",
@@ -17600,7 +17605,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11436
+      "UsersEstimate": 11437
     },
     {
       "ID": "47",
@@ -17704,7 +17709,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "60",
@@ -17775,21 +17780,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67272,
+      "Progressed": 67274,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30740,
+      "Progressed": 30742,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:05:33.3423009+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:06:52.5975831+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:20.4353681+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:05:33.342432+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:57:39.1260819+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:06:52.597723+00:00"
 }

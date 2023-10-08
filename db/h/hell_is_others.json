@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1048,7 +1048,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 257049,
+  "EOS_Progressed": 257050,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
@@ -17943,6 +17943,11 @@
       "Time": "2023-10-07T23:06:11.5907584+00:00",
       "NumProgressed": 257049,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T00:07:42.9663936+00:00",
+      "NumProgressed": 257050,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -17954,7 +17959,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17993
+      "UsersEstimate": 17994
     },
     {
       "ID": "Act2",
@@ -18002,7 +18007,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79685
+      "UsersEstimate": 79686
     },
     {
       "ID": "BackHomeNTimes",
@@ -18066,7 +18071,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7711
+      "UsersEstimate": 7712
     },
     {
       "ID": "CreditLevel3",
@@ -18226,7 +18231,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7711
+      "UsersEstimate": 7712
     },
     {
       "ID": "KillOtherWithMine",
@@ -18401,7 +18406,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257049,
+      "Progressed": 257050,
       "Completed": 3
     }
   ],
@@ -18409,8 +18414,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-07T20:57:18.3942481+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:06:11.590758+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:07:42.9663929+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:10.9655749+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:06:11.590871+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:57:26.4231091+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:07:42.9665089+00:00"
 }

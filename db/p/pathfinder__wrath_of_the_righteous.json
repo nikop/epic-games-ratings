@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3878,9 +3878,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11486,
+  "EOS_Progressed": 11487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13308,6 +13308,11 @@
       "Time": "2023-10-07T16:06:59.9193408+00:00",
       "NumProgressed": 11486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T00:08:20.1081424+00:00",
+      "NumProgressed": 11487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13687,7 +13692,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "49_Flame",
@@ -14246,21 +14251,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10268,
+      "Progressed": 10269,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11486,
+      "Progressed": 11487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-06T17:57:31.7123709+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:06:33.4313447+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:08:20.1081419+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:20.1937909+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:06:33.4315106+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:57:38.7752216+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:08:20.1083115+00:00"
 }

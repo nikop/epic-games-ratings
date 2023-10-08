@@ -13,24 +13,26 @@
 | Pulp! Terror Tales in the Night | 31.00% | ~5 |
 | Pulp! Where Monsters Dwell | 31.00% | ~5 |
 | A continent with chemistry | 31.00% | ~5 |
+| Diagnosis: fear | 31.00% | ~5 |
+| Ambition is... blind | 31.00% | ~5 |
+| You have two wishes left | 31.00% | ~5 |
 | The artist | 25.00% | ~4 |
+| Pulp! Out of this World | 25.00% | ~4 |
+| Pulp! Adventures into the Unknown | 25.00% | ~4 |
 | Kirlian's best disciple | 25.00% | ~4 |
-| Diagnosis: fear | 25.00% | ~4 |
-| Ambition is... blind | 25.00% | ~4 |
-| You have two wishes left | 25.00% | ~4 |
+| A rival with no options | 19.00% | ~3 |
 | The seer | 19.00% | ~3 |
-| Pulp! Out of this World | 19.00% | ~3 |
-| Pulp! Adventures into the Unknown | 19.00% | ~3 |
 | You've awakened the beast | 13.00% | ~2 |
 | Hate is... addictive | 13.00% | ~2 |
 | You had one wish left | 13.00% | ~2 |
-| A rival with no options | 13.00% | ~2 |
 | Et in arcadia ego | 13.00% | ~2 |
 | The barbarian invasions | 13.00% | ~2 |
 | Vaccine fans | 13.00% | ~2 |
 | Welcome to Hellville | 13.00% | ~2 |
 | Blessed antennas | 6.00% | ~1 |
 | The bully | 6.00% | ~1 |
+| Pulp! True Adventures | 6.00% | ~1 |
+| Pulp! The Beyond | 6.00% | ~1 |
 | Thirst for Oleum | 6.00% | ~1 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
@@ -45,8 +47,6 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! True Adventures | 0.00% | ~0 |
-| Pulp! The Beyond | 0.00% | ~0 |
 | ECO mode | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |

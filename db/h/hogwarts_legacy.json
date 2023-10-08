@@ -8676,9 +8676,9 @@
       "Count": 688
     }
   ],
-  "EOS_Progressed": 297974,
+  "EOS_Progressed": 297976,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27021,6 +27021,11 @@
       "Time": "2023-10-07T23:05:56.7593856+00:00",
       "NumProgressed": 297974,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-08T00:07:24.0297899+00:00",
+      "NumProgressed": 297976,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27040,7 +27045,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29797
+      "UsersEstimate": 29798
     },
     {
       "ID": "PFA_11",
@@ -27048,7 +27053,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29797
+      "UsersEstimate": 29798
     },
     {
       "ID": "PFA_12",
@@ -27064,7 +27069,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29797
+      "UsersEstimate": 29798
     },
     {
       "ID": "PFA_14",
@@ -27072,7 +27077,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17878
+      "UsersEstimate": 17879
     },
     {
       "ID": "PFA_15",
@@ -27128,7 +27133,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "PFA_21",
@@ -27136,7 +27141,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29797
+      "UsersEstimate": 29798
     },
     {
       "ID": "PFA_22",
@@ -27168,7 +27173,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17878
+      "UsersEstimate": 17879
     },
     {
       "ID": "PFA_26",
@@ -27200,7 +27205,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17878
+      "UsersEstimate": 17879
     },
     {
       "ID": "PFA_3",
@@ -27264,7 +27269,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "PFA_37",
@@ -27288,7 +27293,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29797
+      "UsersEstimate": 29798
     },
     {
       "ID": "PFA_4",
@@ -27320,7 +27325,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17878
+      "UsersEstimate": 17879
     },
     {
       "ID": "PFA_43",
@@ -27328,7 +27333,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "PFA_44",
@@ -27391,7 +27396,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 297974,
+      "Progressed": 297976,
       "Completed": 482
     }
   ],
@@ -27399,8 +27404,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-07T19:57:12.8956953+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:05:56.7593852+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:07:24.0297893+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:57:13.5869848+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:05:56.7595017+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:57:30.0798783+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:07:24.0299055+00:00"
 }

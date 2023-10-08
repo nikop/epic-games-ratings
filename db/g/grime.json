@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151066,
+  "EOS_Progressed": 151076,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1417,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10879,6 +10879,11 @@
       "Time": "2023-10-07T23:04:40.5568217+00:00",
       "NumProgressed": 151066,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T00:05:43.6651029+00:00",
+      "NumProgressed": 151076,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10960,9 +10965,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 906
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -11257,21 +11262,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150649,
+      "Progressed": 150659,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151066,
+      "Progressed": 151076,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:04:40.5568212+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:05:43.6651023+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:00:04.1573086+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:04:40.5569298+00:00"
+  "LastUpdate_Ratings": "2023-10-08T00:01:29.2616294+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:05:43.6651798+00:00"
 }

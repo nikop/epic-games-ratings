@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2766,6 +2766,11 @@
       "Time": "2023-10-07T15:09:04.4107709+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T00:05:45.2121679+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2833,7 +2838,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "EXPERT_1",
@@ -3049,7 +3054,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "WISHMASTER_1",
@@ -3064,15 +3069,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-07T23:04:41.6678915+00:00",
+  "LastChanged_Achievements": "2023-10-08T00:05:45.2121677+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-07T22:58:42.935688+00:00",
-  "LastUpdate_Achievements": "2023-10-07T23:04:41.6679297+00:00"
+  "LastUpdate_Ratings": "2023-10-07T23:59:35.2763189+00:00",
+  "LastUpdate_Achievements": "2023-10-08T00:05:45.2121988+00:00"
 }

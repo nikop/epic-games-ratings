@@ -14,11 +14,11 @@ Rating: 4.76 (Ranked 119)
 | The Defender of Dragons | 11.00% | ~32,777 |
 | Loom for Improvement | 11.00% | ~32,777 |
 | A Talent for Spending | 11.00% | ~32,777 |
-| Grappling with a Graphorn | 10.00% | ~29,797 |
-| The One Who Mastered Memories | 10.00% | ~29,797 |
-| The Hero of Hogwarts | 10.00% | ~29,797 |
-| Challenge Accepted | 10.00% | ~29,797 |
-| Coasting Along | 10.00% | ~29,797 |
+| Grappling with a Graphorn | 10.00% | ~29,798 |
+| The One Who Mastered Memories | 10.00% | ~29,798 |
+| The Hero of Hogwarts | 10.00% | ~29,798 |
+| Challenge Accepted | 10.00% | ~29,798 |
+| Coasting Along | 10.00% | ~29,798 |
 | Followed the Butterflies | 9.00% | ~26,818 |
 | Rising From the Ashes | 9.00% | ~26,818 |
 | The Avenging Gazelle | 8.00% | ~23,838 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 119)
 | Flight the Good Flight | 8.00% | ~23,838 |
 | The Spell Master | 8.00% | ~23,838 |
 | Beast Friends | 7.00% | ~20,858 |
-| The Seeker of Knowledge | 6.00% | ~17,878 |
-| The Root of the Problem | 6.00% | ~17,878 |
-| Third Time's a Charm | 6.00% | ~17,878 |
-| Raising Expectations | 6.00% | ~17,878 |
+| The Seeker of Knowledge | 6.00% | ~17,879 |
+| The Root of the Problem | 6.00% | ~17,879 |
+| Third Time's a Charm | 6.00% | ~17,879 |
+| Raising Expectations | 6.00% | ~17,879 |
 | The Ends Petrify the Means | 5.00% | ~14,899 |
 | The Toast of the Town | 4.00% | ~11,919 |
 | Going Through the Potions | 4.00% | ~11,919 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 119)
 | Put Down Roots | 3.00% | ~8,939 |
 | The Auror's Apprentice | 3.00% | ~8,939 |
 | Floo Around the World | 3.00% | ~8,939 |
-| The Good Samaritan | 2.00% | ~5,959 |
-| Rise to the Challenges | 2.00% | ~5,959 |
-| Finishing Touches | 2.00% | ~5,959 |
+| The Good Samaritan | 2.00% | ~5,960 |
+| Rise to the Challenges | 2.00% | ~5,960 |
+| Finishing Touches | 2.00% | ~5,960 |
 | Savvy Spender | 1.00% | ~2,980 |
 | Merlin's Beard! | 1.00% | ~2,980 |
 | Demiguise Dread | 1.00% | ~2,980 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,974 (Ranked 46)  
+Progressed: 297,976 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
+| 2023-10-08 | 297,976 | 482 |
 ## Awards
 Max (Character Customization): 23,347  (Ranked 17)  
 Sum: 45,276 (Ranked 31)  

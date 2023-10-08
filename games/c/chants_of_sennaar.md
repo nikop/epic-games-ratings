@@ -6,12 +6,13 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 4.00% | ~10 |
 | Welcome to the Tower | 4.00% | ~10 |
+| The Preacher's fate | 3.00% | ~8 |
+| The great escape | 3.00% | ~8 |
 | Cable guy | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
-| The Preacher's fate | 2.00% | ~5 |
+| Rascal | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
-| The great escape | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
 | I did it | 1.00% | ~3 |
 | In this together | 1.00% | ~3 |
@@ -19,7 +20,6 @@
 | Open door | 1.00% | ~3 |
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
-| Rascal | 1.00% | ~3 |
 | A new dawn | 1.00% | ~3 |
 | A good beginning | 0.80% | ~2 |
 | Free at last | 0.80% | ~2 |
