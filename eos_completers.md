@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.25% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.20% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -46,8 +46,8 @@
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 45 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
-| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
-| 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
+| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.87% |
+| 48 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.78% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -85,7 +85,7 @@
 | 83 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
 | 83 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 83 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.11% |
+| 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.10% |
 | 87 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 88 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 88 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -108,11 +108,11 @@
 | 106 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 107 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.90% |
 | 108 | [Night Book](games/n/night_book.md) | 1.86% |
-| 109 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.85% |
-| 110 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 111 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
-| 111 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.82% |
-| 111 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
+| 109 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
+| 110 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.82% |
+| 110 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.82% |
+| 110 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
 | 114 | [Sifu](games/s/sifu.md) | 1.80% |
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
@@ -133,7 +133,7 @@
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.23% |
 | 132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 133 | [Trifox](games/t/trifox.md) | 1.09% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 135 | [Infindustry](games/i/infindustry.md) | 1.06% |
 | 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 137 | [Adios](games/a/adios.md) | 1.04% |
@@ -181,8 +181,8 @@
 | 179 | [Tchia](games/t/tchia.md) | 0.44% |
 | 180 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
 | 181 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 181 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 183 | [Train Valley](games/t/train_valley.md) | 0.39% |
+| 182 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |
+| 182 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 184 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.38% |
 | 184 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
