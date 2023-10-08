@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.43% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.38% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -64,14 +64,14 @@
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 64 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.46% |
+| 65 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
-| 67 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 68 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
+| 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
+| 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.77% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.78% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
@@ -120,10 +120,10 @@
 | 118 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 119 | [Iron Danger](games/i/iron_danger.md) | 1.47% |
 | 120 | [Late Shift](games/l/late_shift.md) | 1.41% |
-| 121 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.40% |
 | 121 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.40% |
-| 123 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
-| 123 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
+| 122 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
+| 122 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
+| 122 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
 | 125 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 126 | [Chorus](games/c/chorus.md) | 1.37% |
 | 127 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
@@ -162,15 +162,15 @@
 | 160 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 160 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 160 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
-| 163 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 163 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
+| 163 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
+| 164 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 165 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 165 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 167 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 167 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 169 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 170 | [Dead Space](games/d/dead_space.md) | 0.48% |
-| 171 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
+| 170 | [Dead Space](games/d/dead_space.md) | 0.47% |
+| 170 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.47% |
 | 172 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 172 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 172 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
@@ -180,11 +180,11 @@
 | 178 | [Tchia](games/t/tchia.md) | 0.44% |
 | 179 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 179 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.40% |
-| 181 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 181 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 183 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.38% |
-| 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 182 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 182 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.38% |
+| 182 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
+| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 186 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 188 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
