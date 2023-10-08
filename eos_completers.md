@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.77% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.69% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -39,7 +39,7 @@
 | 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 38 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 39 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
-| 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.85% |
+| 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.84% |
 | 41 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
@@ -66,7 +66,7 @@
 | 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.35% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.19% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -153,14 +153,14 @@
 | 151 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.73% |
 | 152 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 153 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
-| 154 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.64% |
 | 154 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 154 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 157 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
+| 156 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.63% |
+| 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.63% |
 | 158 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 159 | [Haven](games/h/haven.md) | 0.61% |
-| 160 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.60% |
-| 161 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 160 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 160 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
 | 162 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 162 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 162 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
