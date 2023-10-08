@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.07% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.98% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -36,7 +36,7 @@
 | 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
 | 35 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
+| 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 38 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 39 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.85% |
@@ -47,9 +47,9 @@
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.41% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 47 | [Scorn](games/s/scorn.md) | 7.06% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.87% |
-| 49 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.78% |
-| 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
+| 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
+| 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.67% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 52 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 53 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -80,7 +80,7 @@
 | 78 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 79 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 80 | [Doodle God](games/d/doodle_god.md) | 3.31% |
-| 81 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.28% |
+| 81 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
 | 82 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
 | 83 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 84 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
@@ -112,10 +112,10 @@
 | 110 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 111 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
 | 111 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 1.82% |
-| 111 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.82% |
 | 111 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
-| 115 | [Sifu](games/s/sifu.md) | 1.80% |
-| 116 | [Frogun](games/f/frogun.md) | 1.79% |
+| 114 | [Sifu](games/s/sifu.md) | 1.80% |
+| 115 | [Frogun](games/f/frogun.md) | 1.79% |
+| 115 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.79% |
 | 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 118 | [Somerville](games/s/somerville.md) | 1.71% |
 | 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
