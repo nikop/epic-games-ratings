@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,373 |
 | Ascended | 0.90% | ~1,236 |
 | Blank Page Syndrome | 0.90% | ~1,236 |
+| Gem Expert | 0.90% | ~1,236 |
 | Accomplished Merchant | 0.90% | ~1,236 |
 | Arcane Industries | 0.90% | ~1,236 |
 | On the Path to Greatness | 0.80% | ~1,098 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.80% | ~1,098 |
 | Efficient Floor Space | 0.80% | ~1,098 |
 | Flawless Fusion | 0.80% | ~1,098 |
-| Gem Expert | 0.80% | ~1,098 |
 | Helping Hand | 0.80% | ~1,098 |
 | Natural 20 | 0.80% | ~1,098 |
 | Tax not Included | 0.70% | ~961 |
@@ -69,36 +69,36 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.60% | ~824 |
 | Seasoned Journeyman | 0.60% | ~824 |
 | Scourge of the Seas | 0.60% | ~824 |
+| Moment of Respite | 0.60% | ~824 |
 | Black Friday Special | 0.60% | ~824 |
 | Special Ingredient | 0.60% | ~824 |
 | Complete Monopoly | 0.60% | ~824 |
-| Cream of the Crop | 0.50% | ~686 |
-| Top of the World | 0.50% | ~686 |
-| Proud Paladin | 0.50% | ~686 |
-| Constellated | 0.50% | ~686 |
-| Thirst for Knowledge | 0.50% | ~686 |
-| Booty by the Boatload | 0.50% | ~686 |
-| Archivist | 0.50% | ~686 |
-| Fillin' the Bin | 0.50% | ~686 |
-| Industrial Evolution | 0.50% | ~686 |
-| Omae wa Mou Shindeiru | 0.50% | ~686 |
-| Supercharged | 0.50% | ~686 |
-| Ritualist | 0.50% | ~686 |
-| By Your Powers Combined... | 0.50% | ~686 |
-| Necromancer Queen | 0.50% | ~686 |
-| Item of Renown | 0.50% | ~686 |
-| Master Merchant | 0.50% | ~686 |
-| Bountiful Harvest | 0.50% | ~686 |
-| Precision Engineering | 0.50% | ~686 |
-| Attrition Mission | 0.50% | ~686 |
-| Glittering Collection | 0.50% | ~686 |
-| Treasure Trove | 0.50% | ~686 |
-| Moment of Respite | 0.50% | ~686 |
-| King's Shadow | 0.50% | ~686 |
-| Master Recycler | 0.50% | ~686 |
-| Exotic Commodities | 0.50% | ~686 |
-| Economy of Scarce | 0.50% | ~686 |
-| King's Blade | 0.50% | ~686 |
+| Cream of the Crop | 0.50% | ~687 |
+| Top of the World | 0.50% | ~687 |
+| Proud Paladin | 0.50% | ~687 |
+| Constellated | 0.50% | ~687 |
+| Thirst for Knowledge | 0.50% | ~687 |
+| Booty by the Boatload | 0.50% | ~687 |
+| Archivist | 0.50% | ~687 |
+| Fillin' the Bin | 0.50% | ~687 |
+| Industrial Evolution | 0.50% | ~687 |
+| Omae wa Mou Shindeiru | 0.50% | ~687 |
+| Supercharged | 0.50% | ~687 |
+| Ritualist | 0.50% | ~687 |
+| By Your Powers Combined... | 0.50% | ~687 |
+| Necromancer Queen | 0.50% | ~687 |
+| Item of Renown | 0.50% | ~687 |
+| Master Merchant | 0.50% | ~687 |
+| Bountiful Harvest | 0.50% | ~687 |
+| Precision Engineering | 0.50% | ~687 |
+| Attrition Mission | 0.50% | ~687 |
+| Glittering Collection | 0.50% | ~687 |
+| Treasure Trove | 0.50% | ~687 |
+| King's Shadow | 0.50% | ~687 |
+| Master Recycler | 0.50% | ~687 |
+| Exotic Commodities | 0.50% | ~687 |
+| Economy of Scarce | 0.50% | ~687 |
+| King's Blade | 0.50% | ~687 |
 | Thank You Tom Nook | 0.40% | ~549 |
 | A Legend is Born | 0.40% | ~549 |
 | Jackpot! | 0.40% | ~549 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,299 (Ranked 73)  
+Progressed: 137,303 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 167 (0.12%) (Ranked 235)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,299 | 167 |
+| 2023-10-08 | 137,303 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,356 (Ranked 50)  

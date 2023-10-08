@@ -2,7 +2,7 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 26,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -806,6 +806,11 @@
       "Time": "2023-10-08T08:08:38.5594921+00:00",
       "NumProgressed": 355,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-08T11:09:12.6046295+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -826,7 +831,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_DONUTS",
@@ -834,7 +839,7 @@
       "Name": "Sweet tooth",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -858,7 +863,7 @@
       "Name": "Evil plan",
       "Percentage": 46,
       "XP": 85,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -866,7 +871,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -897,14 +902,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:09:34.1369266+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:09:12.6046293+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:02:07.8144175+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:09:34.1369403+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:01:50.7231899+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:09:12.6046447+00:00"
 }

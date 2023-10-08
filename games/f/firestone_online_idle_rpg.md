@@ -5,11 +5,11 @@ Rating: 4.06 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,863 |
-| World Map | 79.00% | ~1,582 |
+| Victor | 93.00% | ~1,864 |
+| World Map | 79.00% | ~1,583 |
 | Temple of Eternals | 57.00% | ~1,142 |
 | Prestigious | 54.00% | ~1,082 |
-| Fellowship Power | 42.00% | ~841 |
+| Fellowship Power | 42.00% | ~842 |
 | Guild Power | 26.00% | ~521 |
 | Prestigious x10 | 23.00% | ~461 |
 | The game is on | 21.00% | ~421 |
@@ -18,16 +18,16 @@ Rating: 4.06 (Ranked 947)
 | Full Party | 17.00% | ~341 |
 | Inspection | 17.00% | ~341 |
 | Miner Clicker | 17.00% | ~341 |
-| Dragon Master | 16.00% | ~320 |
-| Enlightenment | 16.00% | ~320 |
-| Lieutenant | 16.00% | ~320 |
-| Hero inspection | 15.00% | ~300 |
-| Milestone collector | 14.00% | ~280 |
-| Mysterious Rock | 14.00% | ~280 |
-| Natural Talent | 14.00% | ~280 |
-| Superior | 14.00% | ~280 |
-| The Unstoppable | 14.00% | ~280 |
-| Scientist | 13.00% | ~260 |
+| Dragon Master | 16.00% | ~321 |
+| Enlightenment | 16.00% | ~321 |
+| Lieutenant | 16.00% | ~321 |
+| Hero inspection | 15.00% | ~301 |
+| Milestone collector | 14.00% | ~281 |
+| Mysterious Rock | 14.00% | ~281 |
+| Natural Talent | 14.00% | ~281 |
+| Superior | 14.00% | ~281 |
+| The Unstoppable | 14.00% | ~281 |
+| Scientist | 13.00% | ~261 |
 | The power of Awakening | 12.00% | ~240 |
 | Challenger | 11.00% | ~220 |
 | Daily Quest Completionist | 11.00% | ~220 |
@@ -75,13 +75,13 @@ Rating: 4.06 (Ranked 947)
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
 | Conqueror | 0.90% | ~18 |
-| Angel Power | 0.70% | ~14 |
+| Angel Power | 0.80% | ~16 |
 | Silverwood liberator | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,003 (Ranked 202)  
+Progressed: 2,004 (Ranked 202)  
 Completed: 2 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 2 (0.10%) (Ranked 244)
 | 2023-10-05 | 1,990 | 2 |
 | 2023-10-06 | 1,999 | 2 |
 | 2023-10-07 | 2,003 | 2 |
+| 2023-10-08 | 2,004 | 2 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 496)  
 Sum: 67 (Ranked 453)  

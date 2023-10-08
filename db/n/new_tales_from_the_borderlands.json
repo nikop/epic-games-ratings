@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3661,
+  "EOS_Progressed": 3662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1609,6 +1609,11 @@
       "Time": "2023-10-08T10:04:06.0366481+00:00",
       "NumProgressed": 3661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T11:03:45.2723451+00:00",
+      "NumProgressed": 3662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1652,7 +1657,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1676,7 +1681,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1724,7 +1729,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1740,7 +1745,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1764,7 +1769,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -1804,7 +1809,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1827,7 +1832,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3661,
+      "Progressed": 3662,
       "Completed": 0
     }
   ],
@@ -1835,8 +1840,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:04:06.0366475+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:03:45.2723445+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:57:42.5643737+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:04:06.0366925+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:57:27.2481897+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:03:45.272392+00:00"
 }

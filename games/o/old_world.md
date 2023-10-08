@@ -12,15 +12,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
+| Good | 0.90% | ~131 |
+| Strong | 0.90% | ~131 |
 | Hanging Gardens | 0.90% | ~131 |
 | Able | 0.80% | ~116 |
 | Architect | 0.80% | ~116 |
-| Good | 0.80% | ~116 |
 | Learned | 0.80% | ~116 |
 | Mason | 0.80% | ~116 |
 | Noble | 0.80% | ~116 |
 | Pioneer | 0.80% | ~116 |
-| Strong | 0.80% | ~116 |
 | Oracle | 0.80% | ~116 |
 | Trade Caravan | 0.80% | ~116 |
 | Glorious | 0.70% | ~102 |
@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.70% | ~102 |
 | Ambitious | 0.60% | ~87 |
 | Enlightened | 0.60% | ~87 |
+| Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
@@ -40,31 +41,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.60% | ~87 |
 | Lighthouse | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
+| Learn to Play 1 | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
 | Zoroastrianism | 0.60% | ~87 |
 | Brilliant | 0.50% | ~73 |
-| Fountainhead | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
-| Learn to Play 1 | 0.50% | ~73 |
+| Manichaeism | 0.50% | ~73 |
 | Egyptian Paganism | 0.50% | ~73 |
 | Roman Paganism | 0.50% | ~73 |
 | Kushite Pyramids | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
+| Just Difficulty | 0.40% | ~58 |
 | Artisans | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
+| Sages | 0.40% | ~58 |
 | Furious Family | 0.40% | ~58 |
 | Apadana | 0.40% | ~58 |
 | Colossus | 0.40% | ~58 |
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
-| Manichaeism | 0.40% | ~58 |
 | Mythology | 0.40% | ~58 |
 | Regicide | 0.30% | ~44 |
 | Beloved | 0.30% | ~44 |
@@ -72,9 +74,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.30% | ~44 |
 | Mighty | 0.30% | ~44 |
 | Valiant | 0.30% | ~44 |
-| Just Difficulty | 0.30% | ~44 |
+| Victorious | 0.30% | ~44 |
+| Good Difficulty | 0.30% | ~44 |
 | Patrons | 0.30% | ~44 |
-| Sages | 0.30% | ~44 |
 | Acropolis | 0.30% | ~44 |
 | Circus Maximus | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
@@ -97,8 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
-| Victorious | 0.20% | ~29 |
-| Good Difficulty | 0.20% | ~29 |
 | Strong Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
 | Hunters | 0.20% | ~29 |
@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.20% | ~29 |
 | Babylonia | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
+| Egypt | 0.20% | ~29 |
 | One True Faith | 0.20% | ~29 |
 | Assyrian Paganism | 0.20% | ~29 |
 | Hittite Paganism | 0.20% | ~29 |
@@ -216,7 +217,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
 | Assyria | 0.10% | ~15 |
-| Egypt | 0.10% | ~15 |
 | Hatti | 0.10% | ~15 |
 | Persia | 0.10% | ~15 |
 | Rome | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,510 (Ranked 134)  
+Progressed: 14,513 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 278)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,510 | 5 |
+| 2023-10-08 | 14,513 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

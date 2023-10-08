@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -9830,9 +9830,9 @@
       "ID": "ACH_09",
       "SetID": "9d4cf4c",
       "Name": "Tales and Revelations",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7827
     },
     {
       "ID": "ACH_10",
@@ -10055,8 +10055,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-06T02:59:26.9229795+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:06:22.8743129+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:06:02.3243298+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:00:42.8311459+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:06:22.8744466+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:00:23.7177932+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:06:02.3244493+00:00"
 }

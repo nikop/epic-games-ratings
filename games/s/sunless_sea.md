@@ -1,12 +1,12 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 434)  
+Rating: 4.58 (Ranked 435)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,860 |
+| Sink Beneath the Waves | 36.00% | ~13,861 |
 | Sweet Sorrow | 18.00% | ~6,930 |
 | Rules the Waves | 17.00% | ~6,545 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,775 |
@@ -50,18 +50,18 @@ Number of Ratings: 401  (23.09.2022)
 | A zee-change | 0.80% | ~308 |
 | What lies beneath | 0.70% | ~270 |
 | Stone's Curse | 0.70% | ~270 |
-| Five Years at Zee | 0.50% | ~192 |
+| Five Years at Zee | 0.50% | ~193 |
 | The Lady's Parlour | 0.20% | ~77 |
 | A Past Wreathed in Shadows | 0.20% | ~77 |
 | Under pressure | 0.20% | ~77 |
-| A Drownie devotee | 0.10% | ~38 |
-| Romans 6:9 | 0.10% | ~38 |
-| Ofermod | 0.10% | ~38 |
-| Consider Phlebas | 0.10% | ~38 |
-| Death By Water | 0.10% | ~38 |
-| Ten Years at Zee | 0.10% | ~38 |
+| A Drownie devotee | 0.10% | ~39 |
+| Romans 6:9 | 0.10% | ~39 |
+| Ofermod | 0.10% | ~39 |
+| Consider Phlebas | 0.10% | ~39 |
+| Death By Water | 0.10% | ~39 |
+| Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,500 (Ranked 110)  
+Progressed: 38,502 (Ranked 110)  
 Completed: 3 (0.01%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 3 (0.01%) (Ranked 290)
 | 2023-10-05 | 38,364 | 3 |
 | 2023-10-06 | 38,412 | 3 |
 | 2023-10-07 | 38,470 | 3 |
-| 2023-10-08 | 38,500 | 3 |
+| 2023-10-08 | 38,502 | 3 |
 ## Awards
 Max (Character Customization): 215  (Ranked 272)  
 Sum: 286 (Ranked 352)  

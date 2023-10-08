@@ -5,18 +5,18 @@ Rating: 4.24 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,664 |
+| Rigged And Ready | 80.00% | ~1,665 |
 | Don't I Know You...? | 77.00% | ~1,602 |
 | Jailbreak | 66.00% | ~1,373 |
-| Suited and Booted | 39.00% | ~811 |
-| HEADSHOT! | 38.00% | ~790 |
+| Suited and Booted | 39.00% | ~812 |
+| HEADSHOT! | 38.00% | ~791 |
 | Sleeping With The Fishes | 36.00% | ~749 |
 | Overheated | 30.00% | ~624 |
 | High Performance | 30.00% | ~624 |
-| Powered Up | 28.00% | ~582 |
+| Powered Up | 28.00% | ~583 |
 | Studied The Blade | 25.00% | ~520 |
-| Home Invasion | 23.00% | ~478 |
-| Luminary | 23.00% | ~478 |
+| Home Invasion | 23.00% | ~479 |
+| Luminary | 23.00% | ~479 |
 | It's a Trap | 22.00% | ~458 |
 | True Survivor | 21.00% | ~437 |
 | Offensive Defense | 20.00% | ~416 |
@@ -24,14 +24,14 @@ Rating: 4.24 (Ranked 855)
 | Court Martial | 19.00% | ~395 |
 | Clean Cut | 19.00% | ~395 |
 | Unforeseeable Consequences | 19.00% | ~395 |
-| Dead Again | 18.00% | ~374 |
+| Dead Again | 18.00% | ~375 |
 | Full Arsenal | 17.00% | ~354 |
 | Can't Trust Banks | 15.00% | ~312 |
 | Mommy Dearest | 14.00% | ~291 |
-| Bad Dog | 13.00% | ~270 |
-| Where It All Began | 13.00% | ~270 |
-| Risk Tolerant | 13.00% | ~270 |
-| What A Catchy Song | 13.00% | ~270 |
+| Bad Dog | 13.00% | ~271 |
+| Where It All Began | 13.00% | ~271 |
+| Risk Tolerant | 13.00% | ~271 |
+| What A Catchy Song | 13.00% | ~271 |
 | Corrupted Beauty | 12.00% | ~250 |
 | Marked For Success | 12.00% | ~250 |
 | Sorry, Didn't See You There | 12.00% | ~250 |
@@ -53,9 +53,9 @@ Rating: 4.24 (Ranked 855)
 | Geronimo! | 4.00% | ~83 |
 | Homewrecker | 4.00% | ~83 |
 | Plank of Wood | 4.00% | ~83 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~62 |
 | Gotta Craft 'em All | 3.00% | ~62 |
 | Own Medicine | 2.00% | ~42 |
+| It Lives! It Sniffs! It Conquers! | 2.00% | ~42 |
 | Three Birds With One Stone | 2.00% | ~42 |
 | Box Office Smash | 2.00% | ~42 |
 | Going Postal | 2.00% | ~42 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 855)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,080 (Ranked 201)  
+Progressed: 2,081 (Ranked 201)  
 Completed: 12 (0.58%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 12 (0.58%) (Ranked 161)
 | 2023-10-02 | 2,075 | 12 |
 | 2023-10-03 | 2,076 | 12 |
 | 2023-10-04 | 2,079 | 12 |
-| 2023-10-08 | 2,080 | 12 |
+| 2023-10-08 | 2,081 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -29,12 +29,12 @@
 | Snare Specialist | 41.00% | ~46 |
 | Karakuri Trail | 40.00% | ~45 |
 | Kemono at Heart | 40.00% | ~45 |
+| Team Hunter | 37.00% | ~41 |
 | Reincarnation Cycle Stopper | 36.00% | ~40 |
-| Team Hunter | 35.00% | ~39 |
 | Artful Assister | 34.00% | ~38 |
 | Karakuri Isle | 33.00% | ~37 |
+| Left Arm Leverager | 31.00% | ~35 |
 | Unrivaled in Arms | 31.00% | ~35 |
-| Left Arm Leverager | 30.00% | ~34 |
 | Style Seeker | 29.00% | ~32 |
 | Human Believer | 29.00% | ~32 |
 | Threaded Harmony | 29.00% | ~32 |
@@ -45,7 +45,7 @@
 | Volatile Vocation | 25.00% | ~28 |
 | Quintessence of Form | 24.00% | ~27 |
 | Superlative View | 23.00% | ~26 |
-| Tender Touch | 21.00% | ~24 |
+| Tender Touch | 22.00% | ~25 |
 | Haven Hunter | 21.00% | ~24 |
 | Relentless Kemono Hunter | 19.00% | ~21 |
 | Vanquisher of the Volatile | 16.00% | ~18 |

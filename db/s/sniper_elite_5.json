@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3709,
+  "EOS_Progressed": 3710,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7105,6 +7105,11 @@
       "Time": "2023-10-08T01:50:25.2111801+00:00",
       "NumProgressed": 3709,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-08T11:04:56.7099445+00:00",
+      "NumProgressed": 3710,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7116,7 +7121,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7196,7 +7201,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7260,7 +7265,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -7340,7 +7345,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7348,7 +7353,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7364,7 +7369,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7372,7 +7377,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7420,7 +7425,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -7436,7 +7441,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -7476,7 +7481,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -7508,7 +7513,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7683,13 +7688,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3660,
+      "Progressed": 3661,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3709,
+      "Progressed": 3710,
       "Completed": 11
     }
   ],
@@ -7697,8 +7702,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:05:16.8902858+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:04:56.7099439+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:02:09.7050611+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:05:16.8903993+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:01:52.4194358+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:04:56.7100791+00:00"
 }

@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13729,
+  "EOS_Progressed": 13732,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8045,6 +8045,11 @@
       "Time": "2023-10-08T10:08:27.8278203+00:00",
       "NumProgressed": 13729,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T11:08:06.5203654+00:00",
+      "NumProgressed": 13732,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8089,7 +8094,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "14",
@@ -8167,9 +8172,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 69
     },
     {
       "ID": "23",
@@ -8296,7 +8301,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13729,
+      "Progressed": 13732,
       "Completed": 17
     }
   ],
@@ -8304,8 +8309,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:08:27.8278198+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:08:06.5203648+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:57:50.2788385+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:08:27.8278892+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:57:34.3337101+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:08:06.5205193+00:00"
 }

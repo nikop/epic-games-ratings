@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1980,6 +1980,11 @@
       "Time": "2023-10-08T06:08:17.6954319+00:00",
       "NumProgressed": 891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T11:08:37.2420472+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2000,7 +2005,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "AC02",
@@ -2008,7 +2013,7 @@
       "Name": "Blood and Dust",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "AC03",
@@ -2032,7 +2037,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "AC06",
@@ -2040,7 +2045,7 @@
       "Name": "The Last Ascension",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "AC07",
@@ -2088,7 +2093,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "AC13",
@@ -2096,7 +2101,7 @@
       "Name": "Second Psalm.",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "AC14",
@@ -2136,15 +2141,15 @@
       "Name": "Acquired Taste",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 464
     },
     {
       "ID": "AC20",
@@ -2152,7 +2157,7 @@
       "Name": "Still Among Us",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "AC21",
@@ -2166,9 +2171,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 375
     },
     {
       "ID": "AC23",
@@ -2200,7 +2205,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "AC27",
@@ -2224,7 +2229,7 @@
       "Name": "The Veteran One",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AC30",
@@ -2232,7 +2237,7 @@
       "Name": "The Anointed One",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "AC31",
@@ -2240,7 +2245,7 @@
       "Name": "The Merciless One",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "AC32",
@@ -2248,7 +2253,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "AC33",
@@ -2296,7 +2301,7 @@
       "Name": "Edge of Orison",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "AC39",
@@ -2312,7 +2317,7 @@
       "Name": "Welcome Back!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "AC41",
@@ -2336,7 +2341,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "AC44",
@@ -2359,7 +2364,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 0
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:08:58.8129957+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:08:37.2420467+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:02:24.0419588+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:08:58.8130816+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:02:06.412492+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:08:37.2420995+00:00"
 }

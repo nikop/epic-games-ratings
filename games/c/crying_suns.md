@@ -6,22 +6,22 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,343 |
-| Jeef Skeejj | 44.00% | ~206,229 |
-| Careful planning | 39.00% | ~182,794 |
-| Second Coming | 34.00% | ~159,359 |
-| Jeef Skagg | 30.00% | ~140,611 |
+| The Shutdown | 66.00% | ~309,345 |
+| Jeef Skeejj | 44.00% | ~206,230 |
+| Careful planning | 39.00% | ~182,795 |
+| Second Coming | 34.00% | ~159,360 |
+| Jeef Skagg | 30.00% | ~140,612 |
 | Mother | 25.00% | ~117,176 |
-| In space, no one can hear you scream | 24.00% | ~112,488 |
-| Chapter I: Echoes | 22.00% | ~103,114 |
-| Excelsior Rule | 22.00% | ~103,114 |
-| Things persisted in not being what they seemed | 20.00% | ~93,740 |
-| Knightmare Frames | 15.00% | ~70,305 |
-| May His passing cleanse the world | 15.00% | ~70,305 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,305 |
-| Pope Zenon | 15.00% | ~70,305 |
-| Tetsuo | 11.00% | ~51,557 |
-| Plan for the worst | 11.00% | ~51,557 |
+| In space, no one can hear you scream | 24.00% | ~112,489 |
+| Chapter I: Echoes | 22.00% | ~103,115 |
+| Excelsior Rule | 22.00% | ~103,115 |
+| Things persisted in not being what they seemed | 20.00% | ~93,741 |
+| Knightmare Frames | 15.00% | ~70,306 |
+| May His passing cleanse the world | 15.00% | ~70,306 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,306 |
+| Pope Zenon | 15.00% | ~70,306 |
+| Tetsuo | 11.00% | ~51,558 |
+| Plan for the worst | 11.00% | ~51,558 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,870 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,496 |
 | Through the mirror | 8.00% | ~37,496 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,702 (Ranked 37)  
+Progressed: 468,705 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 18 (0.00%) (Ranked 309)
 | 2023-10-05 | 468,549 | 18 |
 | 2023-10-06 | 468,608 | 18 |
 | 2023-10-07 | 468,687 | 18 |
-| 2023-10-08 | 468,702 | 18 |
+| 2023-10-08 | 468,705 | 18 |
 ## Awards
 Max (Character Customization): 220  (Ranked 268)  
 Sum: 240 (Ranked 365)  

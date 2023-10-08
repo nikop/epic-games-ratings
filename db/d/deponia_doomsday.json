@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "dep4_achievement_4",
       "SetID": "5d32b60",
       "Name": "Funtime\u0027s over",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "dep4_achievement_5",
@@ -753,8 +753,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:09:26.686586+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:09:05.1566391+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:01:47.1902022+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:09:26.6866382+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:01:30.1953511+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:09:05.1566697+00:00"
 }

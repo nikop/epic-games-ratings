@@ -6,23 +6,24 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,336 |
-| Zealous | 0.80% | ~7,410 |
-| Skillful | 0.80% | ~7,410 |
-| Make Some Noise | 0.70% | ~6,484 |
+| It wakes | 0.90% | ~8,337 |
+| Zealous | 0.80% | ~7,411 |
+| Skillful | 0.80% | ~7,411 |
+| Not half bad | 0.70% | ~6,485 |
+| Make Some Noise | 0.70% | ~6,485 |
 | Handyman | 0.60% | ~5,558 |
-| Not half bad | 0.60% | ~5,558 |
 | Apt Survivor | 0.60% | ~5,558 |
 | Survival Treasures | 0.60% | ~5,558 |
 | Sorted | 0.60% | ~5,558 |
-| The Grand Sacrifice | 0.50% | ~4,631 |
-| No one left behind | 0.50% | ~4,631 |
-| Medic | 0.50% | ~4,631 |
-| Nerves of steel | 0.50% | ~4,631 |
-| Bloody Millionaire | 0.50% | ~4,631 |
-| I | 0.50% | ~4,631 |
-| Healthy Obsession | 0.50% | ~4,631 |
-| Resurgence | 0.50% | ~4,631 |
+| The Grand Sacrifice | 0.50% | ~4,632 |
+| No one left behind | 0.50% | ~4,632 |
+| Medic | 0.50% | ~4,632 |
+| Nerves of steel | 0.50% | ~4,632 |
+| Bloody Millionaire | 0.50% | ~4,632 |
+| I | 0.50% | ~4,632 |
+| Healthy Obsession | 0.50% | ~4,632 |
+| Resurgence | 0.50% | ~4,632 |
+| Preemptive Strike | 0.50% | ~4,632 |
 | Agonizing Escape | 0.40% | ~3,705 |
 | Backdoor Escape | 0.40% | ~3,705 |
 | I've got your back | 0.40% | ~3,705 |
@@ -30,7 +31,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.40% | ~3,705 |
 | Engineer | 0.40% | ~3,705 |
 | Close Shave | 0.40% | ~3,705 |
-| Preemptive Strike | 0.40% | ~3,705 |
 | Humanitarian | 0.40% | ~3,705 |
 | Apt Killer | 0.30% | ~2,779 |
 | Risk it all | 0.30% | ~2,779 |
@@ -63,6 +63,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Campbell's Chapel Legacy | 0.20% | ~1,853 |
 | Ancestor's Rite | 0.20% | ~1,853 |
 | Unforgettable Getaway | 0.20% | ~1,853 |
+| Shrine Apparatus | 0.20% | ~1,853 |
 | Cutting Out | 0.20% | ~1,853 |
 | Outrun Evil | 0.20% | ~1,853 |
 | Operation: Survival | 0.20% | ~1,853 |
@@ -145,7 +146,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.10% | ~926 |
 | Terminal Illness | 0.10% | ~926 |
 | Adept Plague | 0.10% | ~926 |
-| Shrine Apparatus | 0.10% | ~926 |
 | Adept Jane | 0.10% | ~926 |
 | Adept Ash | 0.10% | ~926 |
 | Silent Approach | 0.10% | ~926 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,267 (Ranked 14)  
+Progressed: 926,360 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,10 +407,10 @@ Completed: 49 (0.01%) (Ranked 290)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,267 | 49 |
+| 2023-10-08 | 926,360 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
-Sum: 260,239 (Ranked 13)  
+Sum: 260,269 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -419,7 +419,7 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 29,423 |
 | This game has Amazing Characters | 29,398 |
 | This game is Extremely Fun | 29,045 |
-| This game has Challenging Combat | 28,622 |
+| This game has Challenging Combat | 28,652 |
 | This game has Quickly Understood Controls | 28,593 |
 | This game has Amazing Storytelling | 26,672 |
 | This game has a Competitive Community | 25,168 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 2
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
-| 2023-10-08 | 4.52 | - | 33,596 | 260,239 |
+| 2023-10-08 | 4.52 | - | 33,596 | 260,269 |

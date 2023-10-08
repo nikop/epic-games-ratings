@@ -9,9 +9,9 @@
 | Foreman of Darkness | 96.00% | ~165 |
 | Brilliant Day | 94.00% | ~162 |
 | Evil Genius | 88.00% | ~151 |
+| Air Defense | 85.00% | ~146 |
 | Tinned Corpse | 84.00% | ~144 |
-| Air Defense | 84.00% | ~144 |
-| Your War is Over | 82.00% | ~141 |
+| Your War is Over | 83.00% | ~143 |
 | The Starry Night | 77.00% | ~132 |
 | Go Home! | 75.00% | ~129 |
 | Brilliant: Meadowshire | 74.00% | ~127 |
@@ -20,10 +20,10 @@
 | Sergeant of the Evil | 73.00% | ~126 |
 | V.I.P. Cemetery | 71.00% | ~122 |
 | Woodcutter | 70.00% | ~120 |
+| Sharpshooter | 70.00% | ~120 |
 | Architect of Darkness | 70.00% | ~120 |
 | Top of the World | 69.00% | ~119 |
 | Takeover | 69.00% | ~119 |
-| Sharpshooter | 69.00% | ~119 |
 | The Apotheosis of War | 67.00% | ~115 |
 | Stasis Alcatraz | 67.00% | ~115 |
 | Tastes Like Chicken | 63.00% | ~108 |
@@ -49,11 +49,11 @@
 | Father of Nation | 34.00% | ~58 |
 | Dwarven Countdown | 30.00% | ~52 |
 | Starry: Wasteland | 29.00% | ~50 |
+| Brilliant: Free Coast | 27.00% | ~46 |
 | Deadman's Chest | 27.00% | ~46 |
 | Monument Keeper | 27.00% | ~46 |
-| Brilliant: Free Coast | 26.00% | ~45 |
+| Starry: Free Coast | 24.00% | ~41 |
 | Brilliant: The Deep | 23.00% | ~40 |
-| Starry: Free Coast | 23.00% | ~40 |
 | Starry: The Deep | 22.00% | ~38 |
 | Hostile Waters | 18.00% | ~31 |
 | Loveless | 18.00% | ~31 |

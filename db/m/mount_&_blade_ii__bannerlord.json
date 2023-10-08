@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7779,9 +7779,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62897,
+  "EOS_Progressed": 62901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25934,6 +25934,11 @@
       "Time": "2023-10-08T10:06:18.917148+00:00",
       "NumProgressed": 62897,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T11:05:58.2983945+00:00",
+      "NumProgressed": 62901,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -25961,7 +25966,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "Best served cold",
@@ -26105,7 +26110,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "I can do it",
@@ -26137,7 +26142,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10692
+      "UsersEstimate": 10693
     },
     {
       "ID": "Kingslayer",
@@ -26169,7 +26174,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20756
+      "UsersEstimate": 20757
     },
     {
       "ID": "Lawbringer",
@@ -26177,7 +26182,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24530
+      "UsersEstimate": 24531
     },
     {
       "ID": "Lawmaker",
@@ -26185,7 +26190,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "Long live the Empire",
@@ -26265,7 +26270,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Strike",
@@ -26297,7 +26302,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "This Is Our Land",
@@ -26321,7 +26326,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "Undercover",
@@ -26352,15 +26357,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62897,
+      "Progressed": 62901,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-08T09:58:25.6225323+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:06:18.9171473+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:05:58.2983936+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:58:25.622533+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:06:18.917302+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:58:08.5240774+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:05:58.2986268+00:00"
 }

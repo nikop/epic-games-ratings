@@ -20,7 +20,7 @@ Rating: 4.30 (Ranked 810)
 | The Shield | 36.00% | ~60 |
 | Kill-streak | 30.00% | ~50 |
 | Topped up | 28.00% | ~47 |
-| The Bird | 27.00% | ~45 |
+| The Bird | 28.00% | ~47 |
 | The Ninja | 27.00% | ~45 |
 | The Idol | 26.00% | ~44 |
 | Inferno Ruins | 25.00% | ~42 |

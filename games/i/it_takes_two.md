@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~10,124 |
-| Fried Friendship | 87.00% | ~10,008 |
-| Look At Him Go | 77.00% | ~8,858 |
-| On Rails Experience | 55.00% | ~6,327 |
-| A Daring Devil | 51.00% | ~5,867 |
-| Break the Bank | 42.00% | ~4,832 |
-| It Took Two | 39.00% | ~4,487 |
-| Bug Sized Relaxation | 19.00% | ~2,186 |
-| Plastic Prison Breakers | 16.00% | ~1,841 |
-| Terror Of The Seven Seas | 14.00% | ~1,611 |
-| Realize Your Art | 12.00% | ~1,380 |
-| Force Triangulated | 11.00% | ~1,265 |
-| Meditation Maestro | 11.00% | ~1,265 |
-| Lost And Found | 10.00% | ~1,150 |
-| Platforming Prodigy | 9.00% | ~1,035 |
-| Something Fishy | 9.00% | ~1,035 |
-| Snackosaurus | 8.00% | ~920 |
-| Mood Swing | 7.00% | ~805 |
-| Faraway Frequencies | 4.00% | ~460 |
-| Minigame Megalomania | 3.00% | ~345 |
+| Struck A Pose | 88.00% | ~10,149 |
+| Fried Friendship | 87.00% | ~10,034 |
+| Look At Him Go | 77.00% | ~8,880 |
+| On Rails Experience | 55.00% | ~6,343 |
+| A Daring Devil | 51.00% | ~5,882 |
+| Break the Bank | 42.00% | ~4,844 |
+| It Took Two | 39.00% | ~4,498 |
+| Bug Sized Relaxation | 19.00% | ~2,191 |
+| Plastic Prison Breakers | 16.00% | ~1,845 |
+| Terror Of The Seven Seas | 14.00% | ~1,615 |
+| Realize Your Art | 12.00% | ~1,384 |
+| Force Triangulated | 11.00% | ~1,269 |
+| Meditation Maestro | 11.00% | ~1,269 |
+| Lost And Found | 10.00% | ~1,153 |
+| Platforming Prodigy | 9.00% | ~1,038 |
+| Something Fishy | 9.00% | ~1,038 |
+| Snackosaurus | 8.00% | ~923 |
+| Mood Swing | 7.00% | ~807 |
+| Faraway Frequencies | 4.00% | ~461 |
+| Minigame Megalomania | 3.00% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,504 (Ranked 140)  
+Progressed: 11,533 (Ranked 140)  
 Completed: 44 (0.38%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,4 +48,4 @@ Completed: 44 (0.38%) (Ranked 184)
 | 2023-10-05 | 10,564 | 41 |
 | 2023-10-06 | 10,987 | 43 |
 | 2023-10-07 | 11,380 | 44 |
-| 2023-10-08 | 11,504 | 44 |
+| 2023-10-08 | 11,533 | 44 |

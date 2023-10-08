@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12327,
+  "EOS_Progressed": 12328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11536,6 +11536,11 @@
       "Time": "2023-10-08T10:04:36.0313673+00:00",
       "NumProgressed": 12327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T11:04:15.5835793+00:00",
+      "NumProgressed": 12328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11633,9 +11638,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -11715,7 +11720,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -11746,14 +11751,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12327,
+      "Progressed": 12328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:04:36.0313669+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:04:15.583579+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:02:22.1240181+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:04:36.0314521+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:02:04.5015456+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:04:15.5837211+00:00"
 }

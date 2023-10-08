@@ -3422,9 +3422,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73287,
+  "EOS_Progressed": 73289,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -17997,6 +17997,11 @@
       "Time": "2023-10-08T10:08:09.5761137+00:00",
       "NumProgressed": 73287,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-08T11:07:48.2564373+00:00",
+      "NumProgressed": 73289,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18088,7 +18093,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "APPLY_STATUS",
@@ -18112,7 +18117,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15390
+      "UsersEstimate": 15391
     },
     {
       "ID": "CLAYFACE_2",
@@ -18144,7 +18149,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -18168,7 +18173,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9527
+      "UsersEstimate": 9528
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -18184,7 +18189,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -18216,7 +18221,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9527
+      "UsersEstimate": 9528
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18232,7 +18237,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21253
+      "UsersEstimate": 21254
     },
     {
       "ID": "FREEZE_1_5",
@@ -18240,7 +18245,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15390
+      "UsersEstimate": 15391
     },
     {
       "ID": "FREEZE_2",
@@ -18312,7 +18317,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25650
+      "UsersEstimate": 25651
     },
     {
       "ID": "HARLEY_2",
@@ -18328,7 +18333,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "HARLEY_4",
@@ -18352,7 +18357,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38109
+      "UsersEstimate": 38110
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18376,7 +18381,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18384,7 +18389,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20520
+      "UsersEstimate": 20521
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18424,7 +18429,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "MYSTERY_05",
@@ -18456,7 +18461,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8794
+      "UsersEstimate": 8795
     },
     {
       "ID": "SECRET_CACHE",
@@ -18495,13 +18500,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73287,
+      "Progressed": 73289,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43567,
+      "Progressed": 43569,
       "Completed": 2666
     }
   ],
@@ -18509,8 +18514,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T22:58:24.4276685+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:08:09.5761132+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:07:48.2564368+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-08T09:59:59.465479+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:08:09.5763673+00:00"
+  "LastUpdate_Ratings": "2023-10-08T10:59:42.293517+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:07:48.2566513+00:00"
 }

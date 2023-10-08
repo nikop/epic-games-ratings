@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~94 |
-| Training Simulation | 80.00% | ~81 |
+| Travel Streamer | 92.00% | ~94 |
+| Training Simulation | 79.00% | ~81 |
 | Kuku Bird Hunter | 72.00% | ~73 |
 | Fashion Connoisseur | 68.00% | ~69 |
 | Storm Traveller | 68.00% | ~69 |
@@ -15,23 +15,23 @@
 | Apostle of Flame | 56.00% | ~57 |
 | Beginner Cook | 55.00% | ~56 |
 | Beginner Artificer | 54.00% | ~55 |
-| Seal Breaker | 50.00% | ~50 |
-| Handyman | 48.00% | ~48 |
-| Giant Lizard Killer | 47.00% | ~47 |
-| Nosebleeder | 46.00% | ~46 |
-| Guardian | 45.00% | ~45 |
-| Trader | 41.00% | ~41 |
-| Weapon Boost | 41.00% | ~41 |
-| Flying Kobold Killer | 35.00% | ~35 |
-| Youth Magnet | 35.00% | ~35 |
-| Lethal Blade Mantis Killer | 35.00% | ~35 |
-| Squeaky Clean | 35.00% | ~35 |
-| Furious Scorpion Killer | 34.00% | ~34 |
-| Master Artificer | 33.00% | ~33 |
-| Kind Adventurer | 30.00% | ~30 |
-| Mermaid Killer | 28.00% | ~28 |
-| Face Slapper | 27.00% | ~27 |
-| Cave Master | 26.00% | ~26 |
+| Seal Breaker | 49.00% | ~50 |
+| Handyman | 47.00% | ~48 |
+| Giant Lizard Killer | 46.00% | ~47 |
+| Nosebleeder | 45.00% | ~46 |
+| Guardian | 44.00% | ~45 |
+| Trader | 40.00% | ~41 |
+| Weapon Boost | 40.00% | ~41 |
+| Flying Kobold Killer | 34.00% | ~35 |
+| Youth Magnet | 34.00% | ~35 |
+| Lethal Blade Mantis Killer | 34.00% | ~35 |
+| Squeaky Clean | 34.00% | ~35 |
+| Furious Scorpion Killer | 33.00% | ~34 |
+| Master Artificer | 32.00% | ~33 |
+| Kind Adventurer | 29.00% | ~30 |
+| Mermaid Killer | 27.00% | ~28 |
+| Face Slapper | 26.00% | ~27 |
+| Cave Master | 25.00% | ~26 |
 | Master Cook | 20.00% | ~20 |
 | Berserker Slayer | 15.00% | ~15 |
 | Warden Slayer | 14.00% | ~14 |
@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 386)  
+Progressed: 102 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 0 (0.00%) (Ranked 309)
 | 2023-09-28 | 98 | 0 |
 | 2023-10-03 | 100 | 0 |
 | 2023-10-04 | 101 | 0 |
+| 2023-10-08 | 102 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

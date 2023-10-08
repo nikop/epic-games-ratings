@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,803 |
-| A thief's beginning | 10.00% | ~20,669 |
-| Thorough | 10.00% | ~20,669 |
-| Disguised | 8.00% | ~16,535 |
-| Rescue Takuma | 8.00% | ~16,535 |
-| Rollin' | 8.00% | ~16,535 |
-| Tanuki Time | 8.00% | ~16,535 |
+| Genin | 12.00% | ~24,805 |
+| A thief's beginning | 10.00% | ~20,670 |
+| Thorough | 10.00% | ~20,670 |
+| Disguised | 8.00% | ~16,536 |
+| Rescue Takuma | 8.00% | ~16,536 |
+| Rollin' | 8.00% | ~16,536 |
+| Tanuki Time | 8.00% | ~16,536 |
 | Ice Ice Yuki | 7.00% | ~14,469 |
 | Jonin | 7.00% | ~14,469 |
 | Stoned Ox | 7.00% | ~14,469 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,860 |
 | High Five the Moon | 0.80% | ~1,654 |
 | The Cave | 0.80% | ~1,654 |
-| Merciful | 0.50% | ~1,033 |
-| Time Paradox | 0.50% | ~1,033 |
+| Merciful | 0.50% | ~1,034 |
+| Time Paradox | 0.50% | ~1,034 |
 | Five Shadows | 0.30% | ~620 |
 | Chicken Dinner | 0.10% | ~207 |
 | Complete Mastery | 0.10% | ~207 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~207 |
 | Release the Kraken | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,693 (Ranked 63)  
+Progressed: 206,705 (Ranked 63)  
 Completed: 90 (0.04%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,15 +222,15 @@ Completed: 90 (0.04%) (Ranked 272)
 | 2023-10-05 | 206,213 | 89 |
 | 2023-10-06 | 206,402 | 89 |
 | 2023-10-07 | 206,614 | 90 |
-| 2023-10-08 | 206,693 | 90 |
+| 2023-10-08 | 206,705 | 90 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
-Sum: 4,785 (Ranked 138)  
+Sum: 4,786 (Ranked 138)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 566 |
-| This game has Diverse Characters | 531 |
+| This game has Diverse Characters | 532 |
 | This game is Extremely Fun | 529 |
 | This game has Amazing Storytelling | 512 |
 | This game has Amazing Characters | 492 |
@@ -427,3 +427,4 @@ Diff (max vs sum): 56
 | 2023-10-01 | 4.67 | - | 566 | 4,779 |
 | 2023-10-05 | 4.67 | - | 566 | 4,781 |
 | 2023-10-06 | 4.67 | - | 566 | 4,785 |
+| 2023-10-08 | 4.67 | - | 566 | 4,786 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3918,9 +3918,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88893,
+  "EOS_Progressed": 88895,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21578,6 +21578,11 @@
       "Time": "2023-10-08T10:05:26.6501474+00:00",
       "NumProgressed": 88893,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-08T11:05:05.6083334+00:00",
+      "NumProgressed": 88895,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21619,9 +21624,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_0015",
@@ -21916,13 +21921,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88893,
+      "Progressed": 88895,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17240,
+      "Progressed": 17242,
       "Completed": 15542
     }
   ],
@@ -21930,8 +21935,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-08T04:59:19.3337326+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:05:26.6501469+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:05:05.608333+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:01:09.6005587+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:05:26.6503058+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:00:51.1125028+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:05:05.6085703+00:00"
 }

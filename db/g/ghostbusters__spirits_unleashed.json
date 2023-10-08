@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2322,9 +2322,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26279,
+  "EOS_Progressed": 26281,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14452,6 +14452,11 @@
       "Time": "2023-10-08T06:08:14.1136208+00:00",
       "NumProgressed": 26279,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-08T11:08:33.2444709+00:00",
+      "NumProgressed": 26281,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14605,9 +14610,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 184
     },
     {
       "ID": "Ghost_Expert",
@@ -14733,9 +14738,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 158
     },
     {
       "ID": "Skilled",
@@ -14845,9 +14850,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 263
     },
     {
       "ID": "Welcome_Crew",
@@ -14870,7 +14875,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26279,
+      "Progressed": 26281,
       "Completed": 58
     }
   ],
@@ -14878,8 +14883,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-07T20:58:52.6272407+00:00",
-  "LastChanged_Achievements": "2023-10-08T10:08:54.7365796+00:00",
+  "LastChanged_Achievements": "2023-10-08T11:08:33.2444704+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:00:27.7058661+00:00",
-  "LastUpdate_Achievements": "2023-10-08T10:08:54.7367815+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:00:09.8291941+00:00",
+  "LastUpdate_Achievements": "2023-10-08T11:08:33.2446498+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,942 |
-| Let There Be Light | 35.00% | ~23,557 |
-| Float Like a Butterfly | 33.00% | ~22,211 |
+| Follow the Light | 43.00% | ~28,943 |
+| Let There Be Light | 35.00% | ~23,558 |
+| Float Like a Butterfly | 33.00% | ~22,212 |
 | Nordic Walking | 27.00% | ~18,173 |
 | Bright Falls' Finest | 26.00% | ~17,500 |
-| Under a Thin Layer of Skin | 23.00% | ~15,480 |
-| Park Ranger | 19.00% | ~12,788 |
-| Paging Mr. Wake | 19.00% | ~12,788 |
-| Back! Back, I Say! | 18.00% | ~12,115 |
-| Finders Keepers | 18.00% | ~12,115 |
-| Damn Good Cup of Coffee | 17.00% | ~11,442 |
+| Under a Thin Layer of Skin | 23.00% | ~15,481 |
+| Park Ranger | 19.00% | ~12,789 |
+| Paging Mr. Wake | 19.00% | ~12,789 |
+| Back! Back, I Say! | 18.00% | ~12,116 |
+| Finders Keepers | 18.00% | ~12,116 |
+| Damn Good Cup of Coffee | 17.00% | ~11,443 |
 | They're Heeeeeere! | 16.00% | ~10,769 |
 | Sound and Fury | 16.00% | ~10,769 |
 | Missed by a Mile | 16.00% | ~10,769 |
@@ -37,12 +37,12 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 10.00% | ~6,731 |
 | Tornado Wrangler | 9.00% | ~6,058 |
 | A Friend in Need | 9.00% | ~2,770 |
-| Departure | 8.00% | ~5,384 |
-| Hardboiled Writer | 7.00% | ~4,711 |
+| Departure | 8.00% | ~5,385 |
+| Hardboiled Writer | 7.00% | ~4,712 |
 | A Friend Indeed | 7.00% | ~2,154 |
-| Children of the Elder God | 6.00% | ~4,038 |
-| Drink 'Em Both Up | 6.00% | ~4,038 |
-| Ding! | 6.00% | ~1,846 |
+| Children of the Elder God | 6.00% | ~4,039 |
+| Drink 'Em Both Up | 6.00% | ~4,039 |
+| Ding! | 6.00% | ~1,847 |
 | Boob Tube | 5.00% | ~3,365 |
 | If It Flies, It Burns | 5.00% | ~3,365 |
 | KBF-FM | 5.00% | ~3,365 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,346 |
 | An Idyllic Small Town | 2.00% | ~1,346 |
 | Couch Potato | 2.00% | ~1,346 |
-| Iron Will | 2.00% | ~615 |
+| Iron Will | 2.00% | ~616 |
 | Go Gentle Into That Good Light | 1.00% | ~308 |
 | Words Will Never Harm You | 0.70% | ~215 |
 | Cardboard Companions | 0.60% | ~185 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~62 |
 | Hypercaffeinated | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,306 (Ranked 93)  
+Progressed: 67,309 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 67 (0.10%) (Ranked 244)
 | 2023-10-05 | 67,064 | 67 |
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
-| 2023-10-08 | 67,306 | 67 |
+| 2023-10-08 | 67,309 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
