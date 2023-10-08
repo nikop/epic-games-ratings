@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 528 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 528 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 528 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,637 | 121 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,640 | 121 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,296 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 528 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 528 |
@@ -155,7 +155,7 @@
 | 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 528 |
 | 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,194 | 52 |
 | 149 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 528 |
-| 149 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,302 | 13 |
+| 149 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 39,383 | 13 |
 | 149 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 528 |
 | 149 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 528 |
 | 149 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 528 |
@@ -603,7 +603,7 @@
 | 590 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 459 |
 | 590 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 24 | 502 |
 | 590 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 528 |
-| 590 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 828 | 159 |
+| 590 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 831 | 159 |
 | 590 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,892 | 95 |
 | 590 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 528 |
 | 590 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 442 |
@@ -612,7 +612,7 @@
 | 608 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 528 |
 | 608 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 442 |
 | 608 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 528 |
-| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 565,953 | 2 |
+| 608 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 567,146 | 2 |
 | 608 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 528 |
 | 608 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 528 |
 | 608 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 340 |
@@ -677,6 +677,7 @@
 | 674 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 44 | 429 |
 | 674 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,175 | 30 |
 | 674 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 528 |
+| 674 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 528 |
 | 674 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 528 |
 | 674 | [Predecessor](games/p/predecessor.md) | 4.43 | 185 | 283 |
 | 674 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 528 |
@@ -686,17 +687,16 @@
 | 674 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 423 |
 | 674 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 472 |
 | 674 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 285 | 245 |
-| 687 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.42 | 0 | 528 |
-| 687 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 237 | 263 |
-| 687 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 528 |
-| 687 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 528 |
-| 687 | [Othercide](games/o/othercide.md) | 4.42 | 0 | 528 |
-| 687 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,224 | 136 |
-| 687 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 0 | 528 |
-| 687 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 442 |
-| 687 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 53 |
-| 687 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 165 | 299 |
-| 687 | [Warpips](games/w/warpips.md) | 4.42 | 29 | 472 |
+| 688 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.42 | 0 | 528 |
+| 688 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 237 | 263 |
+| 688 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 528 |
+| 688 | [Othercide](games/o/othercide.md) | 4.42 | 0 | 528 |
+| 688 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,224 | 136 |
+| 688 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 0 | 528 |
+| 688 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 38 | 442 |
+| 688 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 53 |
+| 688 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 165 | 299 |
+| 688 | [Warpips](games/w/warpips.md) | 4.42 | 29 | 472 |
 | 698 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 528 |
 | 698 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 528 |
 | 698 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 528 |
