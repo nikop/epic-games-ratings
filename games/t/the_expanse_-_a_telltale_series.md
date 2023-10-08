@@ -10,6 +10,7 @@ Rating: 4.55 (Ranked 489)
 | The Pit and the Pirates | 2.00% | ~274 |
 | Data Archivist | 2.00% | ~274 |
 | Drone Dodger | 2.00% | ~274 |
+| Heal Thy Medic | 2.00% | ~274 |
 | Call it Even | 2.00% | ~274 |
 | Bosmang | 2.00% | ~274 |
 | Celebrations are in Order | 2.00% | ~274 |
@@ -17,7 +18,6 @@ Rating: 4.55 (Ranked 489)
 | Stogie for Fogey | 1.00% | ~137 |
 | Spore Taste | 1.00% | ~137 |
 | Martian Music | 1.00% | ~137 |
-| Heal Thy Medic | 1.00% | ~137 |
 | Khan's Revenge | 1.00% | ~137 |
 | Captain Drummer | 1.00% | ~137 |
 | Miraculous Maya | 0.80% | ~110 |
@@ -28,16 +28,16 @@ Rating: 4.55 (Ranked 489)
 | Data Logger | 0.40% | ~55 |
 | Brother's Reaper | 0.40% | ~55 |
 | Data Master | 0.40% | ~55 |
+| Debris Spree | 0.30% | ~41 |
 | Data Recoverer | 0.30% | ~41 |
-| Debris Spree | 0.20% | ~27 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,711 (Ranked 135)  
-Completed: 17 (0.12%) (Ranked 233)  
+Progressed: 13,716 (Ranked 135)  
+Completed: 17 (0.12%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 17 (0.12%) (Ranked 233)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,711 | 17 |
+| 2023-10-08 | 13,716 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
+| Rmt n Kmt Buhen | 0.20% | ~29 |
 | Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -256,7 +257,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.10% | ~14 |
 | Patriarch St Paul | 0.10% | ~14 |
 | Hypatia the Teacher | 0.10% | ~14 |
-| Rmt n Kmt Buhen | 0.10% | ~14 |
 | Only Kem | 0.10% | ~14 |
 | Sepat Wase Forever | 0.10% | ~14 |
 | Greater Kmt Unified | 0.10% | ~14 |

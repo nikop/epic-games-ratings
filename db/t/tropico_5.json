@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 644,
   "Ranking_Popularity": 327,
-  "Ranking_PopularitySum": 257,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 398,
@@ -1911,10 +1911,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 933,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-10-08T01:45:22.9843106+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 933,
+  "NumberOfAwards": 934,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1970,7 +1976,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1996,8 +2002,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-10-07T19:59:36.027308+00:00",
+  "LastChanged": "2023-10-08T01:45:22.9843105+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:02.7963169+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:59:53.5356171+00:00",
+  "LastUpdate_Ratings": "2023-10-08T01:45:22.984311+00:00",
   "LastUpdate_Achievements": "2023-10-08T00:08:38.7156225+00:00"
 }

@@ -298,9 +298,9 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c1_gold",
@@ -762,9 +762,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "rolldist_short",
@@ -881,8 +881,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:04:44.2102207+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:50:32.7182664+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.4295563+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:59:32.1665554+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:04:44.2103007+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:45:06.4801039+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:50:32.7183476+00:00"
 }

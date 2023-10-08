@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,242 |
-| Hit Rock Bottom | 97.00% | ~2,197 |
-| Rocket Launched | 97.00% | ~2,197 |
-| Speed | 97.00% | ~2,197 |
-| High Jump | 96.00% | ~2,174 |
-| Knee bending | 96.00% | ~2,174 |
-| Pickaxe | 94.00% | ~2,129 |
-| Cage Town | 94.00% | ~2,129 |
-| Force Beam | 93.00% | ~2,106 |
-| Entered Cage Town | 93.00% | ~2,106 |
-| Stone Pickaxe | 93.00% | ~2,106 |
-| Revenge | 93.00% | ~2,106 |
-| Surprise | 93.00% | ~2,106 |
-| Magnet | 91.00% | ~2,061 |
-| Industrial Area | 90.00% | ~2,038 |
-| Magnet Repel | 88.00% | ~1,993 |
+| Good Morning | 99.00% | ~2,243 |
+| Hit Rock Bottom | 97.00% | ~2,198 |
+| Rocket Launched | 97.00% | ~2,198 |
+| Speed | 97.00% | ~2,198 |
+| High Jump | 96.00% | ~2,175 |
+| Knee bending | 96.00% | ~2,175 |
+| Pickaxe | 94.00% | ~2,130 |
+| Cage Town | 94.00% | ~2,130 |
+| Force Beam | 93.00% | ~2,107 |
+| Entered Cage Town | 93.00% | ~2,107 |
+| Stone Pickaxe | 93.00% | ~2,107 |
+| Revenge | 93.00% | ~2,107 |
+| Surprise | 93.00% | ~2,107 |
+| Magnet | 91.00% | ~2,062 |
+| Industrial Area | 90.00% | ~2,039 |
+| Magnet Repel | 88.00% | ~1,994 |
 | You feel middle classy | 87.00% | ~1,971 |
 | Boomeraxe | 87.00% | ~1,971 |
 | Iron Pickaxe | 87.00% | ~1,971 |
-| Banking District | 86.00% | ~1,948 |
-| Arrested | 86.00% | ~1,948 |
-| Zappy Gun | 86.00% | ~1,948 |
-| Got your own one now | 86.00% | ~1,948 |
-| Mission Unlikely | 86.00% | ~1,948 |
-| Don't draw dicks pls | 85.00% | ~1,925 |
-| Ripped | 85.00% | ~1,925 |
-| Beat the big arena | 83.00% | ~1,880 |
-| Force Cube | 82.00% | ~1,857 |
+| Banking District | 86.00% | ~1,949 |
+| Arrested | 86.00% | ~1,949 |
+| Zappy Gun | 86.00% | ~1,949 |
+| Got your own one now | 86.00% | ~1,949 |
+| Mission Unlikely | 86.00% | ~1,949 |
+| Don't draw dicks pls | 85.00% | ~1,926 |
+| Ripped | 85.00% | ~1,926 |
+| Beat the big arena | 83.00% | ~1,881 |
+| Force Cube | 82.00% | ~1,858 |
 | Got Battery | 81.00% | ~1,835 |
 | Guard Distracted | 81.00% | ~1,835 |
-| Translocator | 80.00% | ~1,812 |
+| Translocator | 80.00% | ~1,813 |
 | Inner Peace | 78.00% | ~1,767 |
-| Diamond Pickaxe | 77.00% | ~1,744 |
-| Killed them all | 77.00% | ~1,744 |
-| Trickle Down Economy | 77.00% | ~1,744 |
-| Win | 76.00% | ~1,721 |
-| Greenhouse | 72.00% | ~1,631 |
-| Played with fire | 71.00% | ~1,608 |
+| Diamond Pickaxe | 77.00% | ~1,745 |
+| Killed them all | 77.00% | ~1,745 |
+| Trickle Down Economy | 77.00% | ~1,745 |
+| Win | 76.00% | ~1,722 |
+| Greenhouse | 72.00% | ~1,632 |
+| Played with fire | 71.00% | ~1,609 |
 | You feel very sorry | 70.00% | ~1,586 |
-| No Match for you | 65.00% | ~1,472 |
-| Bouncy | 62.00% | ~1,404 |
+| No Match for you | 65.00% | ~1,473 |
+| Bouncy | 62.00% | ~1,405 |
 | Plumbster | 61.00% | ~1,382 |
-| Faster | 60.00% | ~1,359 |
+| Faster | 60.00% | ~1,360 |
 | Much Magic | 58.00% | ~1,314 |
-| Chest Detector | 56.00% | ~1,268 |
-| Flames | 53.00% | ~1,200 |
+| Chest Detector | 56.00% | ~1,269 |
+| Flames | 53.00% | ~1,201 |
 | Momentum | 46.00% | ~1,042 |
 | You're unsure if you broke the game or not | 43.00% | ~974 |
 | But wait... ...There's more... | 40.00% | ~906 |
 | So much force | 35.00% | ~793 |
 | You feel fully engaged | 24.00% | ~544 |
-| Too hot | 19.00% | ~430 |
+| Too hot | 19.00% | ~431 |
 | All the chests | 14.00% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,265 (Ranked 197)  
+Progressed: 2,266 (Ranked 197)  
 Completed: 278 (12.27%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 278 (12.27%) (Ranked 25)
 | 2023-10-05 | 2,262 | 278 |
 | 2023-10-06 | 2,263 | 278 |
 | 2023-10-07 | 2,265 | 278 |
+| 2023-10-08 | 2,266 | 278 |
 ## Awards
 Max (Challenging Puzzles): 103  (Ranked 340)  
 Sum: 103 (Ranked 425)  

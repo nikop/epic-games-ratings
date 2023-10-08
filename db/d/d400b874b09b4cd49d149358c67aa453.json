@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -1143,9 +1143,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:06:23.8080554+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:51:48.4788079+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.8227266+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:01:41.3656099+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:06:23.808075+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:39.2409465+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:51:48.4788283+00:00"
 }

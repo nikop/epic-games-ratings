@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151076,
+  "EOS_Progressed": 151094,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1427,
+  "EOS_NewPlayers": 1445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10884,6 +10884,11 @@
       "Time": "2023-10-08T00:05:43.6651029+00:00",
       "NumProgressed": 151076,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T01:51:17.2932725+00:00",
+      "NumProgressed": 151094,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10943,7 +10948,7 @@
       "Name": "The Hunt",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -10967,15 +10972,15 @@
       "Name": "Weeper",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 302
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -11165,9 +11170,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 907
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11262,21 +11267,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150659,
+      "Progressed": 150677,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151076,
+      "Progressed": 151094,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:05:43.6651023+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:51:17.2932717+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:01:29.2616294+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:05:43.6651798+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:30.2285414+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:51:17.293347+00:00"
 }

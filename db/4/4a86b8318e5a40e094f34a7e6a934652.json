@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "BRING_PROSPERO",
@@ -758,9 +758,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CATCH_30_FISH",
@@ -822,9 +822,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -893,8 +893,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:05:00.1187864+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:50:44.7107072+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:02:04.0489545+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:05:00.1188019+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:41.5004891+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:50:44.710722+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.03 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Battlefields Have Memories | 90.00% | ~61 |
-| Unforeseen | 88.00% | ~60 |
-| Enlisted | 87.00% | ~59 |
-| Maybe Engage a Little | 85.00% | ~58 |
-| No More Names | 71.00% | ~48 |
-| Initiate | 63.00% | ~43 |
-| Thrada-Kul | 60.00% | ~41 |
-| Gravity-Challenged Rocks | 50.00% | ~34 |
-| Soldier | 44.00% | ~30 |
-| All the Major Food Groups | 43.00% | ~29 |
-| Beggars Would Ride | 37.00% | ~25 |
+| Battlefields Have Memories | 90.00% | ~62 |
+| Unforeseen | 88.00% | ~61 |
+| Enlisted | 87.00% | ~60 |
+| Maybe Engage a Little | 86.00% | ~59 |
+| No More Names | 72.00% | ~50 |
+| Initiate | 65.00% | ~45 |
+| Thrada-Kul | 59.00% | ~41 |
+| Gravity-Challenged Rocks | 49.00% | ~34 |
+| Soldier | 43.00% | ~30 |
+| All the Major Food Groups | 42.00% | ~29 |
+| Beggars Would Ride | 36.00% | ~25 |
 | Control is an Illusion | 35.00% | ~24 |
 | Socialite | 35.00% | ~24 |
 | The Means to Save It | 29.00% | ~20 |
@@ -43,17 +43,17 @@ Rating: 4.03 (Ranked 958)
 | Treasure Hunter | 4.00% | ~3 |
 | Grand Magnus | 3.00% | ~2 |
 | Master of Carmine | 3.00% | ~2 |
+| Master of Malachite | 3.00% | ~2 |
 | Tip of the Spear | 3.00% | ~2 |
 | Backtracker | 3.00% | ~2 |
 | Witch-Taker | 1.00% | ~1 |
-| Master of Malachite | 1.00% | ~1 |
 | Family Business | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Petite Bourgeoisie | 0.00% | ~0 |
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 409)  
+Progressed: 69 (Ranked 409)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-04 | 66 | 0 |
 | 2023-10-06 | 67 | 0 |
 | 2023-10-07 | 68 | 0 |
+| 2023-10-08 | 69 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

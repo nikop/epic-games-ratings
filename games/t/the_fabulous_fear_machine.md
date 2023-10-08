@@ -20,26 +20,27 @@
 | Pulp! Out of this World | 25.00% | ~4 |
 | Pulp! Adventures into the Unknown | 25.00% | ~4 |
 | Kirlian's best disciple | 25.00% | ~4 |
+| You've awakened the beast | 19.00% | ~3 |
+| Hate is... addictive | 19.00% | ~3 |
 | A rival with no options | 19.00% | ~3 |
+| Et in arcadia ego | 19.00% | ~3 |
 | The seer | 19.00% | ~3 |
-| You've awakened the beast | 13.00% | ~2 |
-| Hate is... addictive | 13.00% | ~2 |
 | You had one wish left | 13.00% | ~2 |
-| Et in arcadia ego | 13.00% | ~2 |
+| The bully | 13.00% | ~2 |
 | The barbarian invasions | 13.00% | ~2 |
 | Vaccine fans | 13.00% | ~2 |
 | Welcome to Hellville | 13.00% | ~2 |
 | Blessed antennas | 6.00% | ~1 |
-| The bully | 6.00% | ~1 |
+| The beast in the Oval Office | 6.00% | ~1 |
+| Blood Red Island | 6.00% | ~1 |
+| Bread and bocaua | 6.00% | ~1 |
+| Fanatacism is... poisonous | 6.00% | ~1 |
+| The scholar | 6.00% | ~1 |
+| The adventurer | 6.00% | ~1 |
 | Pulp! True Adventures | 6.00% | ~1 |
 | Pulp! The Beyond | 6.00% | ~1 |
 | Thirst for Oleum | 6.00% | ~1 |
-| The beast in the Oval Office | 0.00% | ~0 |
-| Blood Red Island | 0.00% | ~0 |
-| Bread and bocaua | 0.00% | ~0 |
-| Fanatacism is... poisonous | 0.00% | ~0 |
-| The scholar | 0.00% | ~0 |
-| The adventurer | 0.00% | ~0 |
+| America had no Faith | 6.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | ECO mode | 0.00% | ~0 |
-| America had no Faith | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

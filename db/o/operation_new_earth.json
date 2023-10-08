@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546,
+  "EOS_Progressed": 1547,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5669,6 +5669,11 @@
       "Time": "2023-10-07T23:06:03.6535883+00:00",
       "NumProgressed": 1546,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T01:52:41.0473867+00:00",
+      "NumProgressed": 1547,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5792,7 +5797,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5856,7 +5861,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5983,7 +5988,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1546,
+      "Progressed": 1547,
       "Completed": 1
     }
   ],
@@ -5991,8 +5996,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:07:32.9536889+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:52:41.0473862+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:00:47.16798+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:07:32.9537383+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:01.2036946+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:52:41.0474355+00:00"
 }

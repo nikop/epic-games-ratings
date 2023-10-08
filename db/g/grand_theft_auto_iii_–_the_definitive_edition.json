@@ -508,7 +508,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8246,
+  "EOS_Progressed": 8247,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -9823,6 +9823,11 @@
       "Time": "2023-10-08T00:04:44.8338641+00:00",
       "NumProgressed": 8246,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-08T01:50:33.1953099+00:00",
+      "NumProgressed": 8247,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 29,
@@ -9834,7 +9839,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6844
+      "UsersEstimate": 6845
     },
     {
       "ID": "ACH02",
@@ -9858,7 +9863,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH05",
@@ -9962,7 +9967,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH18",
@@ -10065,7 +10070,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8246,
+      "Progressed": 8247,
       "Completed": 53
     }
   ],
@@ -10073,8 +10078,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:04:44.8338633+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:50:33.1953093+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:58.9824672+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:02:22.9582484+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:04:44.8339241+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:49:14.1739907+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:50:33.1953649+00:00"
 }

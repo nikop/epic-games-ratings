@@ -27,7 +27,7 @@
 | Workout professional | 62.00% | ~206 |
 | Handyman | 61.00% | ~203 |
 | Champion – starter pack | 61.00% | ~203 |
-| It's good to be alive | 60.00% | ~200 |
+| It's good to be alive | 61.00% | ~203 |
 | Own four walls | 60.00% | ~200 |
 | Employee of the year | 60.00% | ~200 |
 | Fight for life | 59.00% | ~196 |

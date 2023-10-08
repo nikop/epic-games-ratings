@@ -8,14 +8,14 @@ Rating: 4.08 (Ranked 938)
 | Who Needs Keys? | 50.00% | ~1,830 |
 | Totally Intentional | 45.00% | ~1,647 |
 | Each Sold Separately | 37.00% | ~1,354 |
-| We're In | 33.00% | ~1,207 |
+| We're In | 33.00% | ~1,208 |
 | You're Not Naked | 29.00% | ~1,061 |
 | From Zeroes... | 29.00% | ~1,061 |
 | Tale in the Toilet | 29.00% | ~1,061 |
 | Don't Get Cocky | 27.00% | ~988 |
 | Shard Snatchers | 25.00% | ~915 |
 | You Rich Now! | 22.00% | ~805 |
-| Our Lucky Winner | 21.00% | ~768 |
+| Our Lucky Winner | 21.00% | ~769 |
 | You Poor Now! | 20.00% | ~732 |
 | You Got the Goods, Kid | 20.00% | ~732 |
 | The Shardmenstration | 19.00% | ~695 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 938)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,659 (Ranked 180)  
+Progressed: 3,660 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-01 | 3,657 | 0 |
 | 2023-10-02 | 3,658 | 0 |
 | 2023-10-07 | 3,659 | 0 |
+| 2023-10-08 | 3,660 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

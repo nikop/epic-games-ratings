@@ -6,7 +6,7 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -154,7 +154,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13711,
+  "EOS_Progressed": 13716,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 17,
@@ -7999,6 +7999,11 @@
       "Time": "2023-10-08T00:07:30.4368939+00:00",
       "NumProgressed": 13711,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-08T01:52:39.1438847+00:00",
+      "NumProgressed": 13716,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8129,9 +8134,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 274
     },
     {
       "ID": "24",
@@ -8201,9 +8206,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "5",
@@ -8250,7 +8255,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13711,
+      "Progressed": 13716,
       "Completed": 17
     }
   ],
@@ -8258,8 +8263,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-07T08:04:03.9488429+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:07:30.4368929+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:52:39.143884+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:57:13.5804043+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:07:30.4369462+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:43:25.2520563+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:52:39.1439326+00:00"
 }

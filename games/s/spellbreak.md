@@ -1,7 +1,7 @@
 # Spellbreak
 [Store](https://store.epicgames.com/en-US/p/spellbreak)  
 [View Rawdata](../../db/s/spellbreak.json)  
-Rating: 4.63 (Ranked 335)  
+Rating: 4.63 (Ranked 336)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Awards
 Max (Character Customization): 304  (Ranked 241)  

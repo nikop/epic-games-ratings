@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24143,
+  "EOS_Progressed": 24144,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5281,6 +5281,11 @@
       "Time": "2023-10-08T00:07:34.7919582+00:00",
       "NumProgressed": 24143,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-08T01:52:42.6773207+00:00",
+      "NumProgressed": 24144,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5418,9 +5423,9 @@
       "ID": "ACH_KILL_9TORG",
       "SetID": "cdkbb11",
       "Name": "First Bounty Down",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -5458,9 +5463,9 @@
       "ID": "ACH_KILL_NIPULON",
       "SetID": "cdkbb11",
       "Name": "Self-Actualization",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 45,
-      "UsersEstimate": 48
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -5514,9 +5519,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5643,13 +5648,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24143,
+      "Progressed": 24144,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1436,
+      "Progressed": 1437,
       "Completed": 1373
     }
   ],
@@ -5657,8 +5662,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:07:34.7919577+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:52:42.6773201+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:57:08.9914329+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:07:34.7920116+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:43:21.9289683+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:52:42.6773729+00:00"
 }

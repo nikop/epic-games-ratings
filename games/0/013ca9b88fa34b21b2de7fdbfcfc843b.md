@@ -1,26 +1,26 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 335)  
+Rating: 4.63 (Ranked 336)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,570 |
-| A Thorny Situation | 70.00% | ~4,382 |
-| ... And Spit Back Out | 59.00% | ~3,693 |
-| Break-Net Speed | 47.00% | ~2,942 |
-| Bramble Breaker | 45.00% | ~2,817 |
-| Miner 49er | 42.00% | ~2,629 |
-| Humble Collector | 41.00% | ~2,567 |
-| Calm Sailing | 35.00% | ~2,191 |
-| Open the Gate! | 31.00% | ~1,941 |
-| Mist Walker | 29.00% | ~1,815 |
-| Lumberjack | 25.00% | ~1,565 |
-| Oui, Chef! | 22.00% | ~1,377 |
+| Azoria Beckons | 73.00% | ~4,573 |
+| A Thorny Situation | 70.00% | ~4,385 |
+| ... And Spit Back Out | 59.00% | ~3,696 |
+| Break-Net Speed | 47.00% | ~2,944 |
+| Bramble Breaker | 45.00% | ~2,819 |
+| Miner 49er | 42.00% | ~2,631 |
+| Humble Collector | 41.00% | ~2,568 |
+| Calm Sailing | 35.00% | ~2,192 |
+| Open the Gate! | 31.00% | ~1,942 |
+| Mist Walker | 29.00% | ~1,817 |
+| Lumberjack | 25.00% | ~1,566 |
+| Oui, Chef! | 22.00% | ~1,378 |
 | Clear the Air | 16.00% | ~1,002 |
-| Botanical Breakthrough | 15.00% | ~939 |
+| Botanical Breakthrough | 15.00% | ~940 |
 | Beach Comber | 13.00% | ~814 |
-| Higher Tax Bracket | 12.00% | ~751 |
+| Higher Tax Bracket | 12.00% | ~752 |
 | Search for the Hairy Grell | 11.00% | ~689 |
 | Rumble in the Jumble | 7.00% | ~438 |
 | Skilled | 7.00% | ~438 |
@@ -30,7 +30,7 @@ Rating: 4.63 (Ranked 335)
 | Fae Farmer | 5.00% | ~313 |
 | Scattered Scroll Scrounger | 5.00% | ~313 |
 | Azorian Anniversary | 5.00% | ~313 |
-| I Now Pronounce You... | 4.00% | ~250 |
+| I Now Pronounce You... | 4.00% | ~251 |
 | Chatty Neighbor | 3.00% | ~188 |
 | House Proud | 3.00% | ~188 |
 | Right Tool For the Job | 2.00% | ~125 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 335)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,260 (Ranked 163)  
+Progressed: 6,264 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 6,080 | 0 |
 | 2023-10-06 | 6,152 | 0 |
 | 2023-10-07 | 6,255 | 0 |
-| 2023-10-08 | 6,260 | 0 |
+| 2023-10-08 | 6,264 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1746,6 +1746,11 @@
       "Time": "2023-10-07T23:04:33.6020415+00:00",
       "NumProgressed": 774,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T01:51:10.4745216+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1774,7 +1779,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Cartographer",
@@ -1838,7 +1843,7 @@
       "Name": "Lights Out",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1854,7 +1859,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Outpatient",
@@ -1862,7 +1867,7 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "Relic",
@@ -1878,7 +1883,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "TerraTourGuide",
@@ -1902,7 +1907,7 @@
       "Name": "Tragedy Documented",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WelcomeToFortSolis",
@@ -1910,21 +1915,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:05:34.2490489+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:51:10.474521+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:59:49.6436294+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:05:34.2490686+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:45:20.0103528+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:51:10.4745411+00:00"
 }

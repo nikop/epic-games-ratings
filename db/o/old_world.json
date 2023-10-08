@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1811,7 +1811,7 @@
   ],
   "EOS_Progressed": 14494,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15646,9 +15646,9 @@
       "ID": "ACHIEVEMENT_EGYPT1_BUHEN",
       "SetID": "9201eeb",
       "Name": "Rmt n Kmt Buhen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_DEFEAT",
@@ -16028,8 +16028,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:04:03.683248+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:50:02.0652958+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:01:33.827333+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:04:03.6842616+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:33.4876582+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:50:02.0663786+00:00"
 }

@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.40 (Ranked 718)  
+Rating: 4.41 (Ranked 698)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.40 (Ranked 718)
 | The Wait | 7.00% | ~17,994 |
 | Green thumb I | 6.00% | ~15,423 |
 | Cleaning Company | 6.00% | ~15,423 |
-| Well-oiled machine | 5.00% | ~12,852 |
-| Saver I | 5.00% | ~12,852 |
+| Well-oiled machine | 5.00% | ~12,853 |
+| Saver I | 5.00% | ~12,853 |
 | The Ascent | 4.00% | ~10,282 |
 | Pacifist | 4.00% | ~10,282 |
 | Vandalism | 4.00% | ~10,282 |
@@ -27,14 +27,14 @@ Rating: 4.40 (Ranked 718)
 | Predator II | 2.00% | ~5,141 |
 | Truffle Dog | 2.00% | ~5,141 |
 | A month in Century City | 2.00% | ~5,141 |
-| The Strengthening | 1.00% | ~2,570 |
-| Saver II | 1.00% | ~2,570 |
-| It's the last one, I swear | 1.00% | ~2,570 |
-| Botanist | 1.00% | ~2,570 |
-| Green thumb II | 1.00% | ~2,570 |
-| Don't try this at home | 1.00% | ~2,570 |
-| Bricklayer | 1.00% | ~2,570 |
-| Run the Economy | 1.00% | ~2,570 |
+| The Strengthening | 1.00% | ~2,571 |
+| Saver II | 1.00% | ~2,571 |
+| It's the last one, I swear | 1.00% | ~2,571 |
+| Botanist | 1.00% | ~2,571 |
+| Green thumb II | 1.00% | ~2,571 |
+| Don't try this at home | 1.00% | ~2,571 |
+| Bricklayer | 1.00% | ~2,571 |
+| Run the Economy | 1.00% | ~2,571 |
 | Committed Relationship | 0.80% | ~2,056 |
 | Number 1 | 0.80% | ~2,056 |
 | Interior designer | 0.60% | ~1,542 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 718)
 | Capitalist III | 0.10% | ~257 |
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,050 (Ranked 49)  
+Progressed: 257,051 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 3 (0.00%) (Ranked 308)
 | 2023-10-05 | 256,969 | 3 |
 | 2023-10-06 | 256,999 | 3 |
 | 2023-10-07 | 257,049 | 3 |
-| 2023-10-08 | 257,050 | 3 |
+| 2023-10-08 | 257,051 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 423)  
 Sum: 286 (Ranked 351)  
@@ -395,3 +395,4 @@ Diff (max vs sum): 72
 | 2023-10-05 | 4.40 | 45 | 282 |
 | 2023-10-06 | 4.40 | 45 | 285 |
 | 2023-10-07 | 4.40 | 45 | 286 |
+| 2023-10-08 | 4.41 | 45 | 286 |

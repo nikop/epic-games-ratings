@@ -4070,9 +4070,9 @@
       "ID": "UnlockedAllStratagems",
       "SetID": "3jha1np",
       "Name": "Tactical Flexibility",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -4164,8 +4164,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:03:30.8092969+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:49:36.1977381+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:58:35.8536941+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:03:30.8093659+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:44:25.5828389+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:49:36.1978074+00:00"
 }

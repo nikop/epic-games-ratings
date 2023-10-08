@@ -2,7 +2,7 @@
   "ID": "53ec6d9f552241549c4d8aa1a42bcb3b",
   "Name": "Deliver Us Mars",
   "ProductSlug": "deliver-us-mars",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 537,
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
   "LastChanged": "2023-10-03T18:57:19.2460646+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:07:03.1543282+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:52:18.3671727+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:38.7284237+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:59:21.6823729+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:07:03.1543471+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:44:58.899043+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:52:18.3671941+00:00"
 }

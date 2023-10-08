@@ -6,35 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.80% | ~7,404 |
-| Zealous | 0.70% | ~6,479 |
+| Zealous | 0.80% | ~7,405 |
+| It wakes | 0.80% | ~7,405 |
 | Skillful | 0.70% | ~6,479 |
-| Handyman | 0.60% | ~5,553 |
-| Not half bad | 0.60% | ~5,553 |
-| Apt Survivor | 0.60% | ~5,553 |
-| Survival Treasures | 0.60% | ~5,553 |
-| Make Some Noise | 0.60% | ~5,553 |
+| Handyman | 0.60% | ~5,554 |
+| Not half bad | 0.60% | ~5,554 |
+| Apt Survivor | 0.60% | ~5,554 |
+| Survival Treasures | 0.60% | ~5,554 |
+| Make Some Noise | 0.60% | ~5,554 |
 | No one left behind | 0.50% | ~4,628 |
 | Medic | 0.50% | ~4,628 |
 | Nerves of steel | 0.50% | ~4,628 |
 | Sorted | 0.50% | ~4,628 |
+| Healthy Obsession | 0.50% | ~4,628 |
 | Resurgence | 0.50% | ~4,628 |
-| The Grand Sacrifice | 0.40% | ~3,702 |
-| Agonizing Escape | 0.40% | ~3,702 |
-| Backdoor Escape | 0.40% | ~3,702 |
-| I've got your back | 0.40% | ~3,702 |
-| Perfect Escape | 0.40% | ~3,702 |
-| Bloody Millionaire | 0.40% | ~3,702 |
-| I | 0.40% | ~3,702 |
-| Engineer | 0.40% | ~3,702 |
-| Healthy Obsession | 0.40% | ~3,702 |
-| Preemptive Strike | 0.40% | ~3,702 |
-| Humanitarian | 0.40% | ~3,702 |
-| Perfect Killing | 0.30% | ~2,777 |
+| The Grand Sacrifice | 0.40% | ~3,703 |
+| Agonizing Escape | 0.40% | ~3,703 |
+| Backdoor Escape | 0.40% | ~3,703 |
+| I've got your back | 0.40% | ~3,703 |
+| Perfect Escape | 0.40% | ~3,703 |
+| Perfect Killing | 0.40% | ~3,703 |
+| Bloody Millionaire | 0.40% | ~3,703 |
+| I | 0.40% | ~3,703 |
+| Engineer | 0.40% | ~3,703 |
+| Preemptive Strike | 0.40% | ~3,703 |
+| Humanitarian | 0.40% | ~3,703 |
 | Apt Killer | 0.30% | ~2,777 |
 | Risk it all | 0.30% | ~2,777 |
 | Vulture | 0.30% | ~2,777 |
 | II | 0.30% | ~2,777 |
+| III | 0.30% | ~2,777 |
 | Wounded Healer | 0.30% | ~2,777 |
 | Close Shave | 0.30% | ~2,777 |
 | With Scars to Show | 0.30% | ~2,777 |
@@ -44,7 +45,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escape Artist | 0.20% | ~1,851 |
 | Made it out alive! | 0.20% | ~1,851 |
 | Gifts for the Fog | 0.20% | ~1,851 |
-| III | 0.20% | ~1,851 |
 | III-50 | 0.20% | ~1,851 |
 | Shock Therapy | 0.20% | ~1,851 |
 | All Aboard | 0.20% | ~1,851 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925,502 (Ranked 14)  
+Progressed: 925,635 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,14 +407,14 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 925,502 | 49 |
+| 2023-10-08 | 925,635 | 49 |
 ## Awards
-Max (Diverse Characters): 33,543  (Ranked 15)  
-Sum: 260,157 (Ranked 13)  
+Max (Diverse Characters): 33,596  (Ranked 15)  
+Sum: 260,210 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,543 |
+| This game has Diverse Characters | 33,596 |
 | This game is Highly Recommended | 29,722 |
 | This game has Competitive Players | 29,423 |
 | This game has Amazing Characters | 29,398 |
@@ -685,3 +685,4 @@ Diff (max vs sum): 2
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
+| 2023-10-08 | 4.52 | - | 33,596 | 260,210 |

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~563 |
-| Spectre Inductee | 83.00% | ~497 |
-| Medal of Exploration I | 76.00% | ~455 |
-| Search and Rescue | 72.00% | ~431 |
-| Recruit | 71.00% | ~425 |
-| Quarian Ally | 69.00% | ~413 |
-| Medal of Heroism | 67.00% | ~401 |
-| Honorarium of Corporate Service | 66.00% | ~395 |
-| Medal of Exploration II | 59.00% | ~353 |
-| Council Legion of Merit | 59.00% | ~353 |
-| Medal of Honor | 56.00% | ~335 |
-| Meritorious Service Medal | 56.00% | ~335 |
-| Turian Ally | 56.00% | ~335 |
-| Charismatic | 56.00% | ~335 |
-| Soldier | 53.00% | ~317 |
-| Medal of Exploration III | 52.00% | ~311 |
-| Principled | 52.00% | ~311 |
-| Asari Ally | 51.00% | ~305 |
+| Distinguished Service Medal | 94.00% | ~564 |
+| Spectre Inductee | 84.00% | ~504 |
+| Medal of Exploration I | 76.00% | ~456 |
+| Recruit | 72.00% | ~432 |
+| Search and Rescue | 72.00% | ~432 |
+| Quarian Ally | 69.00% | ~414 |
+| Medal of Heroism | 67.00% | ~402 |
+| Honorarium of Corporate Service | 66.00% | ~396 |
+| Medal of Exploration II | 59.00% | ~354 |
+| Council Legion of Merit | 59.00% | ~354 |
+| Medal of Honor | 56.00% | ~336 |
+| Meritorious Service Medal | 56.00% | ~336 |
+| Turian Ally | 56.00% | ~336 |
+| Charismatic | 56.00% | ~336 |
+| Soldier | 53.00% | ~318 |
+| Medal of Exploration III | 52.00% | ~312 |
+| Principled | 52.00% | ~312 |
+| Asari Ally | 51.00% | ~306 |
 | Soldier Ally | 49.00% | ~294 |
-| Colonial Savior | 48.00% | ~288 |
+| Colonial Savior | 49.00% | ~294 |
 | Paramour I | 46.00% | ~276 |
 | Sentinel Ally | 45.00% | ~270 |
 | Krogan Ally | 45.00% | ~270 |
@@ -54,12 +54,12 @@
 | Ghost of the Father | 31.00% | ~186 |
 | The Cure | 31.00% | ~186 |
 | Big Game Hunter | 31.00% | ~186 |
+| Shopaholic | 31.00% | ~186 |
 | A Personal Touch | 30.00% | ~180 |
 | Catharsis | 30.00% | ~180 |
 | Fade Away | 30.00% | ~180 |
 | Revenge! | 30.00% | ~180 |
 | Heart of Darkness | 30.00% | ~180 |
-| Shopaholic | 30.00% | ~180 |
 | Treason | 29.00% | ~174 |
 | Agent | 29.00% | ~174 |
 | Digital Exorcist | 29.00% | ~174 |
@@ -84,8 +84,8 @@
 | Pathfinder | 22.00% | ~132 |
 | Tunnel Rat | 22.00% | ~132 |
 | Arbiter | 22.00% | ~132 |
+| Savior | 21.00% | ~126 |
 | Paramour II | 21.00% | ~126 |
-| Savior | 20.00% | ~120 |
 | Party Crasher | 20.00% | ~120 |
 | Lost and Found | 20.00% | ~120 |
 | No One Left Behind | 19.00% | ~114 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~6 |
 | The One and Only | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 261)  
+Progressed: 600 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 563 | 0 |
 | 2023-10-06 | 573 | 0 |
 | 2023-10-07 | 597 | 0 |
-| 2023-10-08 | 599 | 0 |
+| 2023-10-08 | 600 | 0 |

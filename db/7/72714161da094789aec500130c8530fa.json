@@ -2,10 +2,10 @@
   "ID": "72714161da094789aec500130c8530fa",
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 68,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 10.29,
   "EosHistory": [
@@ -364,9 +364,9 @@
       "ID": "_armor_v3",
       "SetID": "2d5739o",
       "Name": "Armor v3",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_battlecruiser",
@@ -396,17 +396,17 @@
       "ID": "_bomb_m2",
       "SetID": "2d5739o",
       "Name": "Bomb m2",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_bomb_m3",
       "SetID": "2d5739o",
       "Name": "Bomb m3",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_cannon",
@@ -428,9 +428,9 @@
       "ID": "_destroyer",
       "SetID": "2d5739o",
       "Name": "Destroyer",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_double_item",
@@ -572,9 +572,9 @@
       "ID": "_orbpack",
       "SetID": "2d5739o",
       "Name": "Orb pack",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_plasma",
@@ -612,9 +612,9 @@
       "ID": "_sentinel",
       "SetID": "2d5739o",
       "Name": "Sentinel",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_shield",
@@ -707,8 +707,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:05:22.1362437+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:51:01.3559248+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:00:20.5602119+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:05:22.1362804+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:45:42.4291185+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:51:01.3559537+00:00"
 }

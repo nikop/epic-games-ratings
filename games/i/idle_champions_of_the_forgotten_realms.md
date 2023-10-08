@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,230 (Ranked 57)  
+Progressed: 231,238 (Ranked 57)  
 Completed: 2,341 (1.01%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -706,14 +706,14 @@ Completed: 2,341 (1.01%) (Ranked 137)
 | 2023-10-05 | 231,008 | 2,332 |
 | 2023-10-06 | 231,109 | 2,336 |
 | 2023-10-07 | 231,225 | 2,341 |
-| 2023-10-08 | 231,230 | 2,341 |
+| 2023-10-08 | 231,238 | 2,341 |
 ## Awards
-Max (Diverse Characters): 5,369  (Ranked 69)  
-Sum: 31,943 (Ranked 41)  
+Max (Diverse Characters): 5,373  (Ranked 69)  
+Sum: 31,947 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,369 |
+| This game has Diverse Characters | 5,373 |
 | This game is Great for Beginners | 5,367 |
 | This game has Quickly Understood Controls | 4,785 |
 | This game is Relaxing | 4,672 |
@@ -978,3 +978,4 @@ Diff (max vs sum): 28
 | 2023-10-05 | 4.06 | - | 5,363 | 31,906 |
 | 2023-10-06 | 4.06 | - | 5,369 | 31,931 |
 | 2023-10-07 | 4.06 | - | 5,369 | 31,943 |
+| 2023-10-08 | 4.06 | - | 5,373 | 31,947 |

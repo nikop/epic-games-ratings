@@ -10,8 +10,8 @@
 | Merchant Prince I | 53.00% | ~34 |
 | Dominating | 34.00% | ~22 |
 | Fighting Fit I | 33.00% | ~21 |
-| Rambo I | 28.00% | ~18 |
-| 10Gb HDD | 28.00% | ~18 |
+| Rambo I | 30.00% | ~19 |
+| 10Gb HDD | 30.00% | ~19 |
 | The Vette | 27.00% | ~17 |
 | Mega Kill | 23.00% | ~15 |
 | Almost There I | 19.00% | ~12 |

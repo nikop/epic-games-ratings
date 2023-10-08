@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~14,888 |
-| Sword Runner | 61.00% | ~11,950 |
+| Longrunner | 76.00% | ~14,889 |
+| Sword Runner | 61.00% | ~11,951 |
 | Running out of breath | 54.00% | ~10,579 |
 | Wallrunner | 53.00% | ~10,383 |
 | Homerunner | 45.00% | ~8,816 |
 | Out of order | 44.00% | ~8,620 |
 | I call it luck | 43.00% | ~8,424 |
 | Where are my Keys? | 40.00% | ~7,836 |
-| Back to hell | 36.00% | ~7,052 |
+| Back to hell | 36.00% | ~7,053 |
 | Perfection | 32.00% | ~6,269 |
 | Why not both | 30.00% | ~5,877 |
 | Sword to a gunfight | 29.00% | ~5,681 |
 | Upgrades not mandatory | 29.00% | ~5,681 |
 | Artificial selection | 28.00% | ~5,485 |
-| Control freak | 27.00% | ~5,289 |
-| Running Wild | 27.00% | ~5,289 |
-| Finish line | 26.00% | ~5,093 |
+| Control freak | 27.00% | ~5,290 |
+| Running Wild | 27.00% | ~5,290 |
+| Finish line | 26.00% | ~5,094 |
 | Unstoppable force | 22.00% | ~4,310 |
 | Wave of mutilation | 22.00% | ~4,310 |
 | Can't Run Can't Hide | 17.00% | ~3,330 |
-| R is for Running | 16.00% | ~3,134 |
-| Dead in the air | 15.00% | ~2,938 |
+| R is for Running | 16.00% | ~3,135 |
+| Dead in the air | 15.00% | ~2,939 |
 | Improvise, adapt, overrun | 13.00% | ~2,547 |
 | More than human | 12.00% | ~2,351 |
 | Pre-empative strike | 12.00% | ~2,351 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~78 |
 | Up Close And Personal | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,590 (Ranked 125)  
+Progressed: 19,591 (Ranked 125)  
 Completed: 73 (0.37%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 73 (0.37%) (Ranked 186)
 | 2023-10-05 | 19,471 | 73 |
 | 2023-10-06 | 19,520 | 73 |
 | 2023-10-07 | 19,589 | 73 |
-| 2023-10-08 | 19,590 | 73 |
+| 2023-10-08 | 19,591 | 73 |
 ## Awards
 Max (Great Boss Battles): 502  (Ranked 203)  
 Sum: 719 (Ranked 281)  

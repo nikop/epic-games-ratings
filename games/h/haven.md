@@ -15,13 +15,13 @@ Number of Ratings: 38  (23.09.2022)
 | My little pony | 20.00% | ~296 |
 | Strike! | 19.00% | ~281 |
 | A love supreme | 18.00% | ~266 |
-| In my shoes | 17.00% | ~251 |
+| In my shoes | 17.00% | ~252 |
 | Like new! | 15.00% | ~222 |
 | Heartstrings | 14.00% | ~207 |
 | Don't look back | 13.00% | ~192 |
 | Head in the clouds | 13.00% | ~192 |
-| Back to rust | 12.00% | ~177 |
-| Flower Powered | 12.00% | ~177 |
+| Back to rust | 12.00% | ~178 |
+| Flower Powered | 12.00% | ~178 |
 | Unstoppable | 10.00% | ~148 |
 | Perfect timing | 9.00% | ~133 |
 | Self-sustainability | 8.00% | ~118 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~30 |
 | À la carte | 2.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,479 (Ranked 216)  
+Progressed: 1,480 (Ranked 216)  
 Completed: 9 (0.61%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 9 (0.61%) (Ranked 157)
 | 2023-10-02 | 1,475 | 9 |
 | 2023-10-03 | 1,477 | 9 |
 | 2023-10-06 | 1,479 | 9 |
+| 2023-10-08 | 1,480 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

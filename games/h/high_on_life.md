@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Bounty Down | 0.50% | ~121 |
 | Satisfied Gus-tomer | 0.40% | ~97 |
 | Sweezy Like Sunday Morning | 0.40% | ~97 |
-| First Bounty Down | 0.40% | ~97 |
 | G3 Graduation | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
 | Who's The Boss? | 0.40% | ~97 |
@@ -20,12 +20,12 @@ Rating: 4.64 (Ranked 318)
 | We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |
 | Hardest Battle In The Game | 0.30% | ~72 |
+| Self-Actualization | 0.30% | ~72 |
+| Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Lezduit! | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
-| Self-Actualization | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
-| Spent 15 Hours At The Alien Strip Club | 0.20% | ~48 |
 | Series Wrap on Suit-O | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |
 | We Came, We Chainsaw, We Conquered | 0.20% | ~3 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,143 (Ranked 119)  
+Progressed: 24,144 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 13 (0.05%) (Ranked 265)
 | 2023-10-05 | 24,122 | 13 |
 | 2023-10-06 | 24,133 | 13 |
 | 2023-10-07 | 24,141 | 13 |
-| 2023-10-08 | 24,143 | 13 |
+| 2023-10-08 | 24,144 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1315,6 +1315,11 @@
       "Time": "2023-10-08T00:06:21.1945559+00:00",
       "NumProgressed": 599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T01:51:46.4000141+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -1327,7 +1332,7 @@
       "Name": "Medal of Honor",
       "Percentage": 56,
       "XP": 125,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_10",
@@ -1461,9 +1466,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_115",
@@ -1549,9 +1554,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_125",
@@ -1559,7 +1564,7 @@
       "Name": "Soldier",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_126",
@@ -1623,7 +1628,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_19",
@@ -1639,7 +1644,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_20",
@@ -1655,7 +1660,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_22",
@@ -1663,7 +1668,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_23",
@@ -1671,7 +1676,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_24",
@@ -1703,7 +1708,7 @@
       "Name": "Turian Ally",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_28",
@@ -1711,7 +1716,7 @@
       "Name": "Quarian Ally",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_29",
@@ -1719,7 +1724,7 @@
       "Name": "Asari Ally",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_3",
@@ -1727,7 +1732,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 94,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "achievement_30",
@@ -1735,15 +1740,15 @@
       "Name": "Principled",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_32",
@@ -1751,7 +1756,7 @@
       "Name": "Charismatic",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_33",
@@ -1759,15 +1764,15 @@
       "Name": "Search and Rescue",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_34",
       "SetID": "b9pe172",
       "Name": "Colonial Savior",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 288
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_35",
@@ -1815,7 +1820,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_40",
@@ -1903,7 +1908,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_50",
@@ -2317,9 +2322,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_98",
@@ -2342,19 +2347,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 0
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:06:21.1945554+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:51:46.4000135+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-08T00:01:15.2266606+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:06:21.1947411+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:46:20.1657787+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:51:46.4001896+00:00"
 }

@@ -13,6 +13,7 @@
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
+| A new dawn | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
 | I did it | 1.00% | ~3 |
 | In this together | 1.00% | ~3 |
@@ -20,7 +21,6 @@
 | Open door | 1.00% | ~3 |
 | Feels like springtime | 1.00% | ~3 |
 | A Link to the Past | 1.00% | ~3 |
-| A new dawn | 1.00% | ~3 |
 | A good beginning | 0.80% | ~2 |
 | Free at last | 0.80% | ~2 |
 | For its own good | 0.80% | ~2 |
@@ -30,8 +30,8 @@
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 324)  
-Completed: 17 (6.56%) (Ranked 49)  
+Progressed: 260 (Ranked 324)  
+Completed: 17 (6.54%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,3 +110,4 @@ Completed: 17 (6.56%) (Ranked 49)
 | 2023-10-05 | 244 | 17 |
 | 2023-10-06 | 252 | 17 |
 | 2023-10-07 | 259 | 17 |
+| 2023-10-08 | 260 | 17 |

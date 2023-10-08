@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2322,9 +2322,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26272,
+  "EOS_Progressed": 26276,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14432,6 +14432,11 @@
       "Time": "2023-10-08T00:08:06.5821822+00:00",
       "NumProgressed": 26272,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-08T01:52:59.3183567+00:00",
+      "NumProgressed": 26276,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14505,9 +14510,9 @@
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 236
     },
     {
       "ID": "Daily_Dose",
@@ -14747,7 +14752,7 @@
       "Name": "Stylish",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "Summoner",
@@ -14850,7 +14855,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26272,
+      "Progressed": 26276,
       "Completed": 58
     }
   ],
@@ -14858,8 +14863,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-07T20:58:52.6272407+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:08:06.5821816+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:52:59.3183561+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:59:35.3191583+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:08:06.5822737+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:45:08.7766036+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:52:59.3184525+00:00"
 }

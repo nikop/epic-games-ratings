@@ -476,9 +476,9 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Cleared2001LevelsAchievement",
@@ -1044,9 +1044,9 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-08T00:09:09.842397+00:00",
+  "LastChanged_Achievements": "2023-10-08T01:55:11.7665017+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:02.1415967+00:00",
-  "LastUpdate_Ratings": "2023-10-07T23:58:36.8272644+00:00",
-  "LastUpdate_Achievements": "2023-10-08T00:09:09.8425588+00:00"
+  "LastUpdate_Ratings": "2023-10-08T01:44:26.2162047+00:00",
+  "LastUpdate_Achievements": "2023-10-08T01:55:11.7666639+00:00"
 }
