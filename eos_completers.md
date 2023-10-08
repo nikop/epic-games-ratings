@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.45% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.43% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -58,9 +58,9 @@
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 57 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.08% |
 | 58 | [JARS](games/j/jars.md) | 5.00% |
-| 59 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.82% |
-| 60 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
+| 59 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 60 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
+| 61 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 62 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 63 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 64 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.46% |
