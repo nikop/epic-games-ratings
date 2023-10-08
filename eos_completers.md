@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.62% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 56.51% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.39% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -48,7 +48,7 @@
 | 46 | [Scorn](games/s/scorn.md) | 7.06% |
 | 47 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.90% |
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.74% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.56% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.54% |
 | 50 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
 | 51 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -67,14 +67,14 @@
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 67 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 68 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.98% |
+| 68 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
 | 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.85% |
 | 69 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 69 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.76% |
 | 73 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 3.42% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.40% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
 | 76 | [The Complex](games/t/the_complex.md) | 3.37% |
 | 77 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 78 | [Doodle God](games/d/doodle_god.md) | 3.31% |
@@ -226,19 +226,19 @@
 | 224 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 224 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 224 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 227 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.15% |
-| 227 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.15% |
+| 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.16% |
+| 228 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.15% |
+| 228 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 230 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 231 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 231 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 233 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 233 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
-| 233 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 233 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 233 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.12% |
+| 231 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 234 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
+| 234 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
+| 234 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 234 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 234 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
+| 234 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.12% |
 | 240 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 240 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 240 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
