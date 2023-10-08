@@ -14,8 +14,8 @@
 | Honorarium of Corporate Service | 66.00% | ~398 |
 | Medal of Exploration II | 59.00% | ~356 |
 | Council Legion of Merit | 59.00% | ~356 |
+| Medal of Honor | 57.00% | ~344 |
 | Meritorious Service Medal | 57.00% | ~344 |
-| Medal of Honor | 56.00% | ~338 |
 | Turian Ally | 56.00% | ~338 |
 | Charismatic | 56.00% | ~338 |
 | Soldier | 53.00% | ~320 |
@@ -60,11 +60,11 @@
 | Fade Away | 30.00% | ~181 |
 | Revenge! | 30.00% | ~181 |
 | Heart of Darkness | 30.00% | ~181 |
+| Driven | 30.00% | ~181 |
 | Focused | 29.00% | ~175 |
 | Treason | 29.00% | ~175 |
 | Agent | 29.00% | ~175 |
 | Digital Exorcist | 29.00% | ~175 |
-| Driven | 29.00% | ~175 |
 | Cat's in the Cradle | 28.00% | ~169 |
 | Doppelganger | 28.00% | ~169 |
 | Bringer of War | 28.00% | ~169 |

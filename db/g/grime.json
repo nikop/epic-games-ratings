@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 418,
-  "Ranking_Popularity": 431,
+  "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 308,
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151141,
+  "EOS_Progressed": 151151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1492,
+  "EOS_NewPlayers": 1502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10909,6 +10909,11 @@
       "Time": "2023-10-08T05:05:16.8147913+00:00",
       "NumProgressed": 151141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T06:05:53.3575959+00:00",
+      "NumProgressed": 151151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -10966,9 +10971,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 907
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -11102,9 +11107,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 453
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -11287,21 +11292,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150724,
+      "Progressed": 150734,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151141,
+      "Progressed": 151151,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:05:16.8147908+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:05:53.3575949+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:00:12.943536+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:05:16.8148811+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:02:07.8955814+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:05:53.3577099+00:00"
 }

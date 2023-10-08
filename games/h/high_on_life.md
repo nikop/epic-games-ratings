@@ -6,25 +6,25 @@ Rating: 4.64 (Ranked 318)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.50% | ~121 |
+| Don't Knife The Hand That Feeds | 0.50% | ~121 |
 | Satisfied Gus-tomer | 0.40% | ~97 |
 | Are You Packin'? | 0.40% | ~97 |
 | Bring A Knife to a Gun Fight | 0.40% | ~97 |
 | Sweezy Like Sunday Morning | 0.40% | ~97 |
+| We're All Very Impressed, Trust Me | 0.40% | ~97 |
 | G3 Graduation | 0.40% | ~97 |
+| Hardest Battle In The Game | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
 | Who's The Boss? | 0.40% | ~97 |
-| Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Bathe With A Giant Nude Alien | 0.40% | ~6 |
+| Eatin' Good in the Neighborhood | 0.30% | ~72 |
 | Creature Feature | 0.30% | ~72 |
 | Lezduit! | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
-| We're All Very Impressed, Trust Me | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |
-| Hardest Battle In The Game | 0.30% | ~72 |
 | Self-Actualization | 0.30% | ~72 |
 | Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Series Wrap on Suit-O | 0.30% | ~72 |
-| Eatin' Good in the Neighborhood | 0.20% | ~48 |
 | Eye Scream, You Scream | 0.20% | ~48 |
 | Fallout Doesn't Let You Do This | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |

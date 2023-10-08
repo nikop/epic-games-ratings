@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 77,
@@ -8073,9 +8073,9 @@
       "Count": 947
     }
   ],
-  "EOS_Progressed": 119891,
+  "EOS_Progressed": 119892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25603,6 +25603,11 @@
       "Time": "2023-10-08T05:06:06.7861484+00:00",
       "NumProgressed": 119891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T06:06:55.1977382+00:00",
+      "NumProgressed": 119892,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -25622,7 +25627,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 63542
+      "UsersEstimate": 63543
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -25646,7 +25651,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74332
+      "UsersEstimate": 74333
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -25654,7 +25659,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81526
+      "UsersEstimate": 81527
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -25662,7 +25667,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 80327
+      "UsersEstimate": 80328
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -25670,7 +25675,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 79128
+      "UsersEstimate": 79129
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -25678,7 +25683,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74332
+      "UsersEstimate": 74333
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -25694,7 +25699,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 81526
+      "UsersEstimate": 81527
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -25750,7 +25755,7 @@
       "Name": "Dissector",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20381
+      "UsersEstimate": 20382
     },
     {
       "ID": "combat_kill_cosmic",
@@ -25758,7 +25763,7 @@
       "Name": "Banishment",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 37166
+      "UsersEstimate": 37167
     },
     {
       "ID": "combat_kill_death",
@@ -25790,7 +25795,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "combat_kill_gaunts",
@@ -25806,7 +25811,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7193
+      "UsersEstimate": 7194
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -25854,7 +25859,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21580
+      "UsersEstimate": 21581
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -25886,7 +25891,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20381
+      "UsersEstimate": 20382
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -25990,7 +25995,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 37166
+      "UsersEstimate": 37167
     },
     {
       "ID": "hospital_full_service",
@@ -26006,7 +26011,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 111499
+      "UsersEstimate": 111500
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -26022,7 +26027,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 34768
+      "UsersEstimate": 34769
     },
     {
       "ID": "inn_visit_all_variants",
@@ -26070,7 +26075,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 80327
+      "UsersEstimate": 80328
     },
     {
       "ID": "run_victory_act02",
@@ -26133,15 +26138,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 119891,
+      "Progressed": 119892,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-08T04:58:41.9286012+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:06:06.7861478+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:06:55.197738+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.9819842+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:58:41.9286021+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:06:06.7863074+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:59:23.4254593+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:06:55.1980404+00:00"
 }

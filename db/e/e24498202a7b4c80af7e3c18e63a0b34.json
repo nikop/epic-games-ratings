@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5787,
+  "EOS_Progressed": 5788,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2766,6 +2766,11 @@
       "Time": "2023-10-08T05:03:35.9478289+00:00",
       "NumProgressed": 5787,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-08T06:03:49.8599496+00:00",
+      "NumProgressed": 5788,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2778,7 +2783,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "achievement_01_02",
@@ -2794,7 +2799,7 @@
       "Name": "Brand New Ride",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "achievement_01_04",
@@ -2802,7 +2807,7 @@
       "Name": "Bzzzt",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "achievement_01_05",
@@ -2810,7 +2815,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "achievement_01_06",
@@ -2850,7 +2855,7 @@
       "Name": "Beat the Clock",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "achievement_02_01",
@@ -2874,7 +2879,7 @@
       "Name": "Professional Champion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_02_04",
@@ -2978,7 +2983,7 @@
       "Name": "Golden Professional Champion",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_03_09",
@@ -3042,7 +3047,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "achievement_04_06",
@@ -3066,7 +3071,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "achievement_04_09",
@@ -3081,7 +3086,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5787,
+      "Progressed": 5788,
       "Completed": 22
     }
   ],
@@ -3089,8 +3094,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:03:35.9478284+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:03:49.8599485+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:57:20.3899911+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:03:35.948125+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:57:34.9436971+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:03:49.8600012+00:00"
 }

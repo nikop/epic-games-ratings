@@ -9,16 +9,16 @@ Rating: 4.03 (Ranked 958)
 | Unforeseen | 88.00% | ~61 |
 | Enlisted | 88.00% | ~61 |
 | Maybe Engage a Little | 86.00% | ~59 |
-| No More Names | 72.00% | ~50 |
+| No More Names | 74.00% | ~51 |
 | Initiate | 65.00% | ~45 |
 | Thrada-Kul | 61.00% | ~42 |
 | Gravity-Challenged Rocks | 49.00% | ~34 |
 | Soldier | 43.00% | ~30 |
 | All the Major Food Groups | 42.00% | ~29 |
+| Socialite | 36.00% | ~25 |
 | Beggars Would Ride | 36.00% | ~25 |
 | Control is an Illusion | 35.00% | ~24 |
-| Socialite | 35.00% | ~24 |
-| The Means to Save It | 29.00% | ~20 |
+| The Means to Save It | 30.00% | ~21 |
 | Resilience to Sin | 25.00% | ~17 |
 | A Familiar Nest | 22.00% | ~15 |
 | Geas Aristeya | 22.00% | ~15 |
@@ -37,10 +37,10 @@ Rating: 4.03 (Ranked 958)
 | Armaments Azure | 7.00% | ~5 |
 | Kitted Out | 6.00% | ~4 |
 | Armaments Vert | 6.00% | ~4 |
+| Shroudfane Surveyor | 6.00% | ~4 |
+| Treasure Hunter | 6.00% | ~4 |
 | Best Dressed | 4.00% | ~3 |
 | Master of Ultramarine | 4.00% | ~3 |
-| Shroudfane Surveyor | 4.00% | ~3 |
-| Treasure Hunter | 4.00% | ~3 |
 | Grand Magnus | 3.00% | ~2 |
 | Master of Carmine | 3.00% | ~2 |
 | Master of Malachite | 3.00% | ~2 |

@@ -8,7 +8,7 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 0.80% | ~1,209 |
 | Imprint | 0.80% | ~1,209 |
-| The Hunt | 0.60% | ~907 |
+| The Hunt | 0.70% | ~1,058 |
 | Weeper | 0.60% | ~907 |
 | Ravenous | 0.60% | ~907 |
 | Silenced Whispers | 0.40% | ~605 |
@@ -18,6 +18,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.30% | ~453 |
 | Jawstag | 0.30% | ~453 |
 | Feast | 0.30% | ~453 |
+| Watcher | 0.30% | ~453 |
 | Yank | 0.30% | ~453 |
 | Sharpened Vessel | 0.30% | ~453 |
 | Assimilation | 0.20% | ~302 |
@@ -26,7 +27,6 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.20% | ~301 |
 | Host | 0.20% | ~301 |
 | Celebration | 0.20% | ~302 |
-| Watcher | 0.20% | ~302 |
 | Predator | 0.20% | ~302 |
 | Spiral Heart | 0.10% | ~151 |
 | Bloodhunter | 0.10% | ~151 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,141 (Ranked 70)  
+Progressed: 151,151 (Ranked 70)  
 Completed: 1 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,11 +201,11 @@ Completed: 1 (0.00%) (Ranked 308)
 | 2023-10-05 | 150,488 | 1 |
 | 2023-10-06 | 150,744 | 1 |
 | 2023-10-07 | 151,066 | 1 |
-| 2023-10-08 | 151,141 | 1 |
+| 2023-10-08 | 151,151 | 1 |
 ## Awards
-Max (Highly Recommended): 42  (Ranked 431)  
+Max (Highly Recommended): 42  (Ranked 432)  
 Sum: 272 (Ranked 360)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |

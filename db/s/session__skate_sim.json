@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1012,9 +1012,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3002,
+  "EOS_Progressed": 3003,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5247,6 +5247,11 @@
       "Time": "2023-10-08T00:04:14.687927+00:00",
       "NumProgressed": 3002,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T06:04:32.4517325+00:00",
+      "NumProgressed": 3003,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5562,7 +5567,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5626,7 +5631,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5634,22 +5639,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3002,
+      "Progressed": 3003,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-08T02:58:47.2592029+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:04:10.1206263+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:04:32.4517319+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9466799+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:58:47.9695983+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:04:10.1206879+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:59:31.2825583+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:04:32.4518441+00:00"
 }

@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.70% | ~101 |
 | Oracle | 0.70% | ~101 |
 | Judaism | 0.70% | ~101 |
+| Babylonian Paganism | 0.70% | ~101 |
 | Naming Landmarks | 0.70% | ~101 |
 | Enlightened | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
@@ -36,8 +37,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
-| Babylonian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
+| Zoroastrianism | 0.60% | ~87 |
 | Ambitious | 0.50% | ~72 |
 | Brilliant | 0.50% | ~72 |
 | Fountainhead | 0.50% | ~72 |
@@ -45,10 +46,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.50% | ~72 |
 | Able Difficulty | 0.50% | ~72 |
 | Great Ziggurat | 0.50% | ~72 |
+| Musaeum | 0.50% | ~72 |
 | Learn to Play 1 | 0.50% | ~72 |
 | Carthaginian Paganism | 0.50% | ~72 |
 | Roman Paganism | 0.50% | ~72 |
-| Zoroastrianism | 0.50% | ~72 |
 | Kushite Pyramids | 0.50% | ~72 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.40% | ~58 |
 | Apadana | 0.40% | ~58 |
 | Colossus | 0.40% | ~58 |
-| Musaeum | 0.40% | ~58 |
 | Necropolis | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
 | Manichaeism | 0.40% | ~58 |

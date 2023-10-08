@@ -360,9 +360,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 75,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -640,9 +640,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:04:51.5564162+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:05:22.9137691+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:59:19.6784157+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:04:51.5564971+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:00:10.7763294+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:05:22.913857+00:00"
 }

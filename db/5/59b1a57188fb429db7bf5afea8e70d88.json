@@ -101,9 +101,9 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DINO_HUNTER_ACH",
@@ -181,9 +181,9 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
@@ -229,9 +229,9 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -275,8 +275,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:04:57.0277524+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:05:29.5467205+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-08T05:03:09.9436309+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:04:57.027771+00:00"
+  "LastUpdate_Ratings": "2023-10-08T06:03:15.6507828+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:05:29.5467429+00:00"
 }

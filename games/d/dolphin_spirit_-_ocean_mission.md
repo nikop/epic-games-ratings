@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 33.00% | ~5 |
+| Welcome to Maupiroa | 40.00% | ~6 |
 | Recycling newbie | 27.00% | ~4 |
-| New recruit | 13.00% | ~2 |
-| Amateur photographer | 7.00% | ~1 |
-| Interesting | 7.00% | ~1 |
+| New recruit | 20.00% | ~3 |
+| Amateur photographer | 13.00% | ~2 |
+| Interesting | 13.00% | ~2 |
 | Power of the turtle | 7.00% | ~1 |
 | Pro Photographer | 0.00% | ~0 |
 | Animal reporter | 0.00% | ~0 |

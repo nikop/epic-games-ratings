@@ -3990,9 +3990,9 @@
       "ID": "OnlyInDeath",
       "SetID": "2im8phi",
       "Name": "Only in Death",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Preservationist",
@@ -4164,8 +4164,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:03:38.2482412+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:03:52.8020406+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:58:10.8437873+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:03:38.2483311+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:58:42.2176035+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:03:52.8021497+00:00"
 }

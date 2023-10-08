@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~10,058 |
-| Fried Friendship | 87.00% | ~9,944 |
-| Look At Him Go | 77.00% | ~8,801 |
-| On Rails Experience | 55.00% | ~6,287 |
-| A Daring Devil | 51.00% | ~5,829 |
-| Break the Bank | 42.00% | ~4,801 |
-| It Took Two | 39.00% | ~4,458 |
-| Bug Sized Relaxation | 19.00% | ~2,172 |
-| Plastic Prison Breakers | 16.00% | ~1,829 |
-| Terror Of The Seven Seas | 14.00% | ~1,600 |
-| Realize Your Art | 12.00% | ~1,372 |
-| Force Triangulated | 11.00% | ~1,257 |
-| Meditation Maestro | 11.00% | ~1,257 |
-| Lost And Found | 10.00% | ~1,143 |
-| Platforming Prodigy | 9.00% | ~1,029 |
-| Something Fishy | 9.00% | ~1,029 |
-| Snackosaurus | 8.00% | ~914 |
-| Mood Swing | 7.00% | ~800 |
-| Faraway Frequencies | 4.00% | ~457 |
+| Struck A Pose | 88.00% | ~10,072 |
+| Fried Friendship | 87.00% | ~9,957 |
+| Look At Him Go | 77.00% | ~8,813 |
+| On Rails Experience | 55.00% | ~6,295 |
+| A Daring Devil | 51.00% | ~5,837 |
+| Break the Bank | 42.00% | ~4,807 |
+| It Took Two | 39.00% | ~4,464 |
+| Bug Sized Relaxation | 19.00% | ~2,175 |
+| Plastic Prison Breakers | 16.00% | ~1,831 |
+| Terror Of The Seven Seas | 14.00% | ~1,602 |
+| Realize Your Art | 12.00% | ~1,373 |
+| Force Triangulated | 11.00% | ~1,259 |
+| Meditation Maestro | 11.00% | ~1,259 |
+| Lost And Found | 10.00% | ~1,144 |
+| Platforming Prodigy | 9.00% | ~1,030 |
+| Something Fishy | 9.00% | ~1,030 |
+| Snackosaurus | 8.00% | ~916 |
+| Mood Swing | 7.00% | ~801 |
+| Faraway Frequencies | 4.00% | ~458 |
 | Minigame Megalomania | 3.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,430 (Ranked 141)  
+Progressed: 11,445 (Ranked 141)  
 Completed: 44 (0.38%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,4 +48,4 @@ Completed: 44 (0.38%) (Ranked 182)
 | 2023-10-05 | 10,564 | 41 |
 | 2023-10-06 | 10,987 | 43 |
 | 2023-10-07 | 11,380 | 44 |
-| 2023-10-08 | 11,430 | 44 |
+| 2023-10-08 | 11,445 | 44 |

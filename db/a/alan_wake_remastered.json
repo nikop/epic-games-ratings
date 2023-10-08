@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67294,
+  "EOS_Progressed": 67296,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17259,6 +17259,11 @@
       "Time": "2023-10-08T05:06:07.9826802+00:00",
       "NumProgressed": 67294,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-08T06:06:56.6140594+00:00",
+      "NumProgressed": 67296,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17270,7 +17275,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28936
+      "UsersEstimate": 28937
     },
     {
       "ID": "02",
@@ -17278,7 +17283,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18169
+      "UsersEstimate": 18170
     },
     {
       "ID": "03",
@@ -17286,7 +17291,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "04",
@@ -17374,7 +17379,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     },
     {
       "ID": "15",
@@ -17382,7 +17387,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7402
+      "UsersEstimate": 7403
     },
     {
       "ID": "16",
@@ -17390,7 +17395,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6056
+      "UsersEstimate": 6057
     },
     {
       "ID": "17",
@@ -17462,7 +17467,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "26",
@@ -17502,7 +17507,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     },
     {
       "ID": "31",
@@ -17518,7 +17523,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22207
+      "UsersEstimate": 22208
     },
     {
       "ID": "33",
@@ -17534,7 +17539,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8075
+      "UsersEstimate": 8076
     },
     {
       "ID": "35",
@@ -17542,7 +17547,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23553
+      "UsersEstimate": 23554
     },
     {
       "ID": "36",
@@ -17582,7 +17587,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "41",
@@ -17742,7 +17747,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "61",
@@ -17798,28 +17803,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67294,
+      "Progressed": 67296,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30762,
+      "Progressed": 30764,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-08T05:06:07.9826798+00:00",
+  "LastChanged_Achievements": "2023-10-08T06:06:56.6140588+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-08T04:57:32.0306212+00:00",
-  "LastUpdate_Achievements": "2023-10-08T05:06:07.982838+00:00"
+  "LastUpdate_Ratings": "2023-10-08T05:57:49.9315824+00:00",
+  "LastUpdate_Achievements": "2023-10-08T06:06:56.6143724+00:00"
 }
