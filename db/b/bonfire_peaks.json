@@ -3,7 +3,7 @@
   "Name": "Bonfire Peaks",
   "ProductSlug": "bonfire-peaks",
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:38.6198164+00:00",
   "LastChanged": "2023-03-31T05:57:38.6198165+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:38.7796074+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:58:30.7909749+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:03:48.525285+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:58:16.0487288+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:03:50.0694132+00:00"
 }

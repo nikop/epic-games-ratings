@@ -29,9 +29,9 @@ Rating: 4.82 (Ranked 62)
 | Sacred Woods | 24.00% | ~624 |
 | Capelworth | 23.00% | ~598 |
 | Little light | 22.00% | ~572 |
+| Glyndemere | 22.00% | ~572 |
 | Iffighain Headquarters | 22.00% | ~572 |
 | Full equipped | 22.00% | ~572 |
-| Glyndemere | 21.00% | ~546 |
 | Whispers in the Woods II | 18.00% | ~468 |
 | No more holding back | 18.00% | ~468 |
 | Quickmoore Headquarters | 18.00% | ~468 |
@@ -60,7 +60,7 @@ Rating: 4.82 (Ranked 62)
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,598 (Ranked 194)  
-Completed: 12 (0.46%) (Ranked 173)  
+Completed: 12 (0.46%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3908,
+  "EOS_Progressed": 3909,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6868,6 +6868,11 @@
       "Time": "2023-10-08T10:06:04.8510876+00:00",
       "NumProgressed": 3908,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-08T12:05:10.4855964+00:00",
+      "NumProgressed": 3909,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6936,7 +6941,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -6944,7 +6949,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -6960,7 +6965,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -7032,7 +7037,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7063,15 +7068,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3908,
+      "Progressed": 3909,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:05:44.0048417+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:05:10.4855957+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:58:38.8805786+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:05:44.0049464+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:58:21.85461+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:05:10.4856494+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3215,
+  "EOS_Progressed": 3216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5229,6 +5229,11 @@
       "Time": "2023-10-06T10:04:14.8133659+00:00",
       "NumProgressed": 3215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T12:04:47.8931978+00:00",
+      "NumProgressed": 3216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5240,7 +5245,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_BASE_10",
@@ -5304,7 +5309,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH_BASE_19",
@@ -5344,7 +5349,7 @@
       "Name": "Space Society",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_BASE_24",
@@ -5392,7 +5397,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_BASE_3",
@@ -5440,7 +5445,7 @@
       "Name": "Ready for a New World",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_BASE_35",
@@ -5695,13 +5700,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1397,
+      "Progressed": 1398,
       "Completed": 7
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3215,
+      "Progressed": 3216,
       "Completed": 0
     }
   ],
@@ -5709,8 +5714,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:05:11.3270326+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:04:47.8931973+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.7366735+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:57:27.2886659+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:05:11.3271366+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:57:31.5404597+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:04:47.8932995+00:00"
 }

@@ -11,10 +11,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Exploitative | 4.00% | ~18,407 |
 | High Speed Low Drag | 4.00% | ~18,407 |
 | Wet Feet | 4.00% | ~18,407 |
-| Checkpoint Victory | 3.00% | ~13,805 |
-| Lucky | 3.00% | ~13,805 |
-| Stylin' | 3.00% | ~13,805 |
-| Turf War | 3.00% | ~13,805 |
+| Checkpoint Victory | 3.00% | ~13,806 |
+| Lucky | 3.00% | ~13,806 |
+| Stylin' | 3.00% | ~13,806 |
+| Turf War | 3.00% | ~13,806 |
 | Banged | 2.00% | ~9,204 |
 | First Blood | 2.00% | ~9,204 |
 | Flaccid Paralysis | 2.00% | ~9,204 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~460 |
 | Road Hazard | 0.10% | ~460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,176 (Ranked 38)  
-Completed: 2 (0.00%) (Ranked 309)  
+Progressed: 460,187 (Ranked 38)  
+Completed: 2 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,10 +213,10 @@ Completed: 2 (0.00%) (Ranked 309)
 | 2023-10-05 | 459,302 | 2 |
 | 2023-10-06 | 459,607 | 2 |
 | 2023-10-07 | 460,001 | 2 |
-| 2023-10-08 | 460,176 | 2 |
+| 2023-10-08 | 460,187 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 386  (Ranked 224)  
-Sum: 3,046 (Ranked 169)  
+Sum: 3,047 (Ranked 169)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -226,7 +226,7 @@ Diff (max vs sum): 55
 | This game has Competitive Players | 347 |
 | This game is Highly Recommended | 336 |
 | This game has Realistic Visuals | 324 |
-| This game has Amazing Characters | 320 |
+| This game has Amazing Characters | 321 |
 | This game has Amazing Storytelling | 318 |
 | This game has a Competitive Community | 288 |
 | This game has Obsessive Gameplay | 156 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 55
 | 2023-10-04 | 4.62 | - | 385 | 3,038 |
 | 2023-10-05 | 4.62 | - | 385 | 3,044 |
 | 2023-10-07 | 4.62 | - | 386 | 3,046 |
+| 2023-10-08 | 4.62 | - | 386 | 3,047 |

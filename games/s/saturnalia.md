@@ -8,9 +8,9 @@ Rating: 4.26 (Ranked 843)
 | Out of Shape | 4.00% | ~2,681 |
 | Bonfire Lit | 3.00% | ~2,011 |
 | Survival Expert | 3.00% | ~2,011 |
-| Denial | 2.00% | ~1,340 |
-| Acceptance | 2.00% | ~1,340 |
-| Bargaining | 2.00% | ~1,340 |
+| Denial | 2.00% | ~1,341 |
+| Acceptance | 2.00% | ~1,341 |
+| Bargaining | 2.00% | ~1,341 |
 | Anger | 1.00% | ~670 |
 | Fear Of The Dark | 1.00% | ~670 |
 | Detective of the occult | 1.00% | ~670 |
@@ -26,8 +26,8 @@ Rating: 4.26 (Ranked 843)
 | Are you still there? | 0.40% | ~268 |
 | Ear Ringing | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,025 (Ranked 94)  
-Completed: 16 (0.02%) (Ranked 282)  
+Progressed: 67,027 (Ranked 94)  
+Completed: 16 (0.02%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 16 (0.02%) (Ranked 282)
 | 2023-10-05 | 66,935 | 16 |
 | 2023-10-06 | 66,964 | 16 |
 | 2023-10-07 | 67,004 | 16 |
-| 2023-10-08 | 67,025 | 16 |
+| 2023-10-08 | 67,027 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

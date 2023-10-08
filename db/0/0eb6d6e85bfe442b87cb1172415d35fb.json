@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 461,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "OrACEO",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:07:03.4242878+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:05.8672364+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.8106372+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:01:32.6844783+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:03.4243125+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:00:19.7393043+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:05.8672619+00:00"
 }

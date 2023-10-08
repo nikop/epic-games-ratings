@@ -10,7 +10,7 @@ Number of Ratings: 28  (23.09.2022)
 | Close call! | 71.00% | ~361 |
 | Builder | 51.00% | ~260 |
 | Pangs of conscience | 45.00% | ~229 |
-| Living it large! | 43.00% | ~219 |
+| Living it large! | 44.00% | ~224 |
 | Collector | 42.00% | ~214 |
 | Need to think | 41.00% | ~209 |
 | Completely nuts! | 39.00% | ~199 |
@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 11.00% | ~56 |
 | Engineer | 10.00% | ~51 |
 | Tycoon | 9.00% | ~46 |
-| Germany | 6.00% | ~31 |
+| Germany | 7.00% | ~36 |
 | Supercrash! | 5.00% | ~25 |
 | Chuck Norris | 5.00% | ~25 |
 | Сhancellor | 4.00% | ~20 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 509 (Ranked 273)  
-Completed: 2 (0.39%) (Ranked 182)  
+Completed: 2 (0.39%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

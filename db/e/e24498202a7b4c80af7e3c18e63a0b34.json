@@ -6,7 +6,7 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5804,
+  "EOS_Progressed": 5806,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2796,6 +2796,11 @@
       "Time": "2023-10-08T11:03:44.13562+00:00",
       "NumProgressed": 5804,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-08T12:03:46.9572748+00:00",
+      "NumProgressed": 5806,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2808,7 +2813,7 @@
       "Name": "First of Many",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4877
     },
     {
       "ID": "achievement_01_02",
@@ -2824,7 +2829,7 @@
       "Name": "Brand New Ride",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3484
     },
     {
       "ID": "achievement_01_04",
@@ -2832,7 +2837,7 @@
       "Name": "Bzzzt",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "achievement_01_05",
@@ -2840,7 +2845,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "achievement_01_06",
@@ -2848,7 +2853,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "achievement_01_07",
@@ -2864,7 +2869,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "achievement_01_09",
@@ -2872,7 +2877,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_01_10",
@@ -2880,7 +2885,7 @@
       "Name": "Beat the Clock",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "achievement_02_01",
@@ -2936,7 +2941,7 @@
       "Name": "Whale of a Time",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "achievement_02_08",
@@ -2952,7 +2957,7 @@
       "Name": "USA - Check!",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_03_02",
@@ -3040,7 +3045,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "achievement_04_02",
@@ -3048,7 +3053,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_04_03",
@@ -3056,7 +3061,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "achievement_04_04",
@@ -3072,7 +3077,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "achievement_04_06",
@@ -3088,7 +3093,7 @@
       "Name": "Nitro Saver",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "achievement_04_08",
@@ -3096,7 +3101,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4819
     },
     {
       "ID": "achievement_04_09",
@@ -3104,14 +3109,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5804,
+      "Progressed": 5806,
       "Completed": 22
     }
   ],
@@ -3119,8 +3124,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:03:44.1356198+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:03:46.9572743+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:57:44.2723474+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:03:44.1356737+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:57:42.4464439+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:03:46.9573207+00:00"
 }

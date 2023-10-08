@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8608,10 +8608,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45283,
       "NumberOfAwardsMax": 23347
+    },
+    {
+      "Time": "2023-10-08T11:57:47.8120925+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45286,
+      "NumberOfAwardsMax": 23347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45283,
+  "NumberOfAwards": 45286,
   "NumberOfAwardsMax": 23347,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8637,7 +8643,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1066
+      "Count": 1069
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8688,7 +8694,7 @@
       "Count": 688
     }
   ],
-  "EOS_Progressed": 298007,
+  "EOS_Progressed": 298012,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 3,
@@ -27093,6 +27099,11 @@
       "Time": "2023-10-08T11:08:00.0847408+00:00",
       "NumProgressed": 298007,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-08T12:06:44.9036234+00:00",
+      "NumProgressed": 298012,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27104,7 +27115,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44701
+      "UsersEstimate": 44702
     },
     {
       "ID": "PFA_10",
@@ -27144,7 +27155,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "PFA_15",
@@ -27168,7 +27179,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20860
+      "UsersEstimate": 20861
     },
     {
       "ID": "PFA_18",
@@ -27240,7 +27251,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "PFA_26",
@@ -27272,7 +27283,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "PFA_3",
@@ -27384,7 +27395,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14900
+      "UsersEstimate": 14901
     },
     {
       "ID": "PFA_42",
@@ -27392,7 +27403,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "PFA_43",
@@ -27432,7 +27443,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38741
+      "UsersEstimate": 38742
     },
     {
       "ID": "PFA_7",
@@ -27440,7 +27451,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38741
+      "UsersEstimate": 38742
     },
     {
       "ID": "PFA_8",
@@ -27463,16 +27474,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298007,
+      "Progressed": 298012,
       "Completed": 482
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-08T10:57:52.2840207+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:08:00.0847402+00:00",
+  "LastChanged": "2023-10-08T11:57:47.8120923+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:44.9036225+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:57:52.2840215+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:08:00.0849735+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:57:47.8120929+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:44.9037678+00:00"
 }

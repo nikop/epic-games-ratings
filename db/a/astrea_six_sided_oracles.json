@@ -3,8 +3,8 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 437,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -717,9 +717,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Sentinelphobic",
@@ -733,9 +733,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SixSidedMastery",
@@ -901,9 +901,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ApianHero",
@@ -1052,8 +1052,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:09:17.8186132+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:09:38.4891028+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:02:37.3280246+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:09:17.8186993+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:03:19.6488559+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:09:38.489213+00:00"
 }

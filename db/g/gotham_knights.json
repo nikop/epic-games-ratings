@@ -6,7 +6,7 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 3360,
   "Store": {
@@ -3422,7 +3422,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73289,
+  "EOS_Progressed": 73290,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 282,
   "EOS_NewCompleters": -1,
@@ -18002,6 +18002,11 @@
       "Time": "2023-10-08T11:07:48.2564373+00:00",
       "NumProgressed": 73289,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-08T12:06:36.9067202+00:00",
+      "NumProgressed": 73290,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18061,7 +18066,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16856
+      "UsersEstimate": 16857
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18101,7 +18106,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "CHALLENGES_1",
@@ -18133,7 +18138,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18261,7 +18266,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18317,7 +18322,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25651
+      "UsersEstimate": 25652
     },
     {
       "ID": "HARLEY_2",
@@ -18357,7 +18362,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38110
+      "UsersEstimate": 38111
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18405,7 +18410,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24918
+      "UsersEstimate": 24919
     },
     {
       "ID": "MYSTERY_02",
@@ -18421,7 +18426,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16856
+      "UsersEstimate": 16857
     },
     {
       "ID": "MYSTERY_04",
@@ -18445,7 +18450,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "MYSTERY_07",
@@ -18453,7 +18458,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "MYSTERY_08",
@@ -18500,13 +18505,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73289,
+      "Progressed": 73290,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43569,
+      "Progressed": 43570,
       "Completed": 2666
     }
   ],
@@ -18514,8 +18519,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-07T22:58:24.4276685+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:07:48.2564368+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:36.9067195+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:59:42.293517+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:48.2566513+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:59:02.7330791+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:36.9068874+00:00"
 }

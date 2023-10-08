@@ -30,11 +30,11 @@ Rating: 4.50 (Ranked 572)
 | Side Hustle | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
 | Welcome to the Crew | 0.60% | ~158 |
+| Legions | 0.50% | ~131 |
 | Skilled | 0.50% | ~131 |
 | Stunner | 0.50% | ~131 |
 | We have the best insurance | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
-| Legions | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
 | Tobin's Prodigy | 0.40% | ~105 |
@@ -58,7 +58,7 @@ Rating: 4.50 (Ranked 572)
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26,281 (Ranked 117)  
-Completed: 58 (0.22%) (Ranked 214)  
+Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,14 +231,14 @@ Completed: 58 (0.22%) (Ranked 214)
 | 2023-10-08 | 26,281 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
-Sum: 2,369 (Ranked 188)  
+Sum: 2,370 (Ranked 188)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 260 |
 | This game is Great for Beginners | 258 |
+| This game has Competitive Players | 240 |
 | This game has Amazing Storytelling | 239 |
-| This game has Competitive Players | 239 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 233 |
 | This game is Highly Recommended | 233 |
@@ -425,3 +425,4 @@ Diff (max vs sum): 68
 | 2023-10-05 | 4.50 | 260 | 2,365 |
 | 2023-10-06 | 4.50 | 260 | 2,367 |
 | 2023-10-07 | 4.50 | 260 | 2,369 |
+| 2023-10-08 | 4.50 | 260 | 2,370 |

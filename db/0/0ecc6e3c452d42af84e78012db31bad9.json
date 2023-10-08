@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3397,
+  "EOS_Progressed": 3398,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -7686,6 +7686,11 @@
       "Time": "2023-10-08T10:07:57.2600415+00:00",
       "NumProgressed": 3397,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-08T12:06:28.2134369+00:00",
+      "NumProgressed": 3398,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 16,
@@ -7824,14 +7829,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3397,
+      "Progressed": 3398,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:07:35.9830656+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:28.2134364+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:01:28.0699125+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:35.983162+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:00:17.0769835+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:28.2134954+00:00"
 }

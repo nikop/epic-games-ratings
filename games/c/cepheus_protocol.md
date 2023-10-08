@@ -10,8 +10,8 @@
 | And so it begins.... | 0.00% | ~0 |
 | Avid Listener | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 605)  
-Completed: 0 (0.00%) (Ranked 309)  
+Progressed: 1 (Ranked 606)  
+Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

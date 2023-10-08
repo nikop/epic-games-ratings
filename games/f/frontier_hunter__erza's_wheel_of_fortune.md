@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~94 |
-| Training Simulation | 79.00% | ~81 |
+| Travel Streamer | 93.00% | ~95 |
+| Training Simulation | 80.00% | ~82 |
 | Kuku Bird Hunter | 72.00% | ~73 |
 | Fashion Connoisseur | 68.00% | ~69 |
 | Storm Traveller | 68.00% | ~69 |
@@ -51,7 +51,7 @@
 | Berserker Challenge | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 102 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 309)  
+Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

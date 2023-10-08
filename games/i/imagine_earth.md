@@ -8,7 +8,7 @@ Number of Ratings: 22  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tuto | 60.00% | ~251 |
 | Joma | 43.00% | ~180 |
-| Campaign Bronze | 35.00% | ~147 |
+| Campaign Bronze | 36.00% | ~151 |
 | Lorian | 31.00% | ~130 |
 | Metropolis | 27.00% | ~113 |
 | Rounos | 24.00% | ~101 |
@@ -21,7 +21,7 @@ Number of Ratings: 22  (23.09.2022)
 | Environmentalist | 12.00% | ~50 |
 | Iqunox | 9.00% | ~38 |
 | Udion Torix | 9.00% | ~38 |
-| Forester | 6.00% | ~25 |
+| Forester | 7.00% | ~29 |
 | Thera | 6.00% | ~25 |
 | Campaign Titanium | 5.00% | ~21 |
 | Builder | 4.00% | ~17 |
@@ -32,7 +32,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419 (Ranked 285)  
-Completed: 0 (0.00%) (Ranked 309)  
+Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

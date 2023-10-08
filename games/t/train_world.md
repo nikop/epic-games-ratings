@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Billionaire Club | 100.00% | ~1 |
+| Billionaire Club | 50.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -55,9 +55,10 @@
 | Industrial Revolution | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 605)  
-Completed: 0 (0.00%) (Ranked 309)  
+Progressed: 2 (Ranked 579)  
+Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-15 | 1 | 0 |
+| 2023-10-08 | 2 | 0 |

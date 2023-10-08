@@ -6,7 +6,7 @@
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -2242,10 +2242,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2369,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-10-08T11:59:22.2607378+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2370,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2369,
+  "NumberOfAwards": 2370,
   "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2313,7 +2319,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has Playful Visuals",
@@ -14634,9 +14640,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "Liability",
@@ -14882,9 +14888,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-07T20:58:52.6272407+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:08:33.2444704+00:00",
+  "LastChanged": "2023-10-08T11:59:22.2607376+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:09:07.3293615+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:00:09.8291941+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:08:33.2446498+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:59:22.2607382+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:09:07.3294794+00:00"
 }

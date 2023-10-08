@@ -73,6 +73,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.60% | ~824 |
 | Special Ingredient | 0.60% | ~824 |
 | Complete Monopoly | 0.60% | ~824 |
+| King's Blade | 0.60% | ~824 |
 | Cream of the Crop | 0.50% | ~687 |
 | Top of the World | 0.50% | ~687 |
 | Proud Paladin | 0.50% | ~687 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.50% | ~687 |
 | Exotic Commodities | 0.50% | ~687 |
 | Economy of Scarce | 0.50% | ~687 |
-| King's Blade | 0.50% | ~687 |
 | Thank You Tom Nook | 0.40% | ~549 |
 | A Legend is Born | 0.40% | ~549 |
 | Jackpot! | 0.40% | ~549 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,303 (Ranked 73)  
-Completed: 167 (0.12%) (Ranked 235)  
+Progressed: 137,304 (Ranked 73)  
+Completed: 167 (0.12%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,7 +290,7 @@ Completed: 167 (0.12%) (Ranked 235)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,303 | 167 |
+| 2023-10-08 | 137,304 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
 Sum: 27,356 (Ranked 50)  

@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,337 |
-| Zealous | 0.80% | ~7,411 |
-| Skillful | 0.80% | ~7,411 |
+| It wakes | 0.90% | ~8,338 |
+| Zealous | 0.80% | ~7,412 |
+| Skillful | 0.80% | ~7,412 |
 | Not half bad | 0.70% | ~6,485 |
 | Make Some Noise | 0.70% | ~6,485 |
-| Handyman | 0.60% | ~5,558 |
-| Apt Survivor | 0.60% | ~5,558 |
-| Survival Treasures | 0.60% | ~5,558 |
-| Sorted | 0.60% | ~5,558 |
+| Handyman | 0.60% | ~5,559 |
+| Apt Survivor | 0.60% | ~5,559 |
+| Survival Treasures | 0.60% | ~5,559 |
+| Sorted | 0.60% | ~5,559 |
 | The Grand Sacrifice | 0.50% | ~4,632 |
 | No one left behind | 0.50% | ~4,632 |
 | Medic | 0.50% | ~4,632 |
@@ -24,22 +24,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.50% | ~4,632 |
 | Resurgence | 0.50% | ~4,632 |
 | Preemptive Strike | 0.50% | ~4,632 |
-| Agonizing Escape | 0.40% | ~3,705 |
-| Backdoor Escape | 0.40% | ~3,705 |
-| I've got your back | 0.40% | ~3,705 |
-| Perfect Escape | 0.40% | ~3,705 |
-| Perfect Killing | 0.40% | ~3,705 |
-| Engineer | 0.40% | ~3,705 |
-| Close Shave | 0.40% | ~3,705 |
-| Humanitarian | 0.40% | ~3,705 |
+| Agonizing Escape | 0.40% | ~3,706 |
+| Backdoor Escape | 0.40% | ~3,706 |
+| I've got your back | 0.40% | ~3,706 |
+| Perfect Escape | 0.40% | ~3,706 |
+| Perfect Killing | 0.40% | ~3,706 |
+| Risk it all | 0.40% | ~3,706 |
+| Engineer | 0.40% | ~3,706 |
+| Wounded Healer | 0.40% | ~3,706 |
+| Close Shave | 0.40% | ~3,706 |
+| Humanitarian | 0.40% | ~3,706 |
 | Apt Killer | 0.30% | ~2,779 |
-| Risk it all | 0.30% | ~2,779 |
 | Vulture | 0.30% | ~2,779 |
 | II | 0.30% | ~2,779 |
 | III | 0.30% | ~2,779 |
-| Wounded Healer | 0.30% | ~2,779 |
 | First to the Punch | 0.30% | ~2,779 |
 | With Scars to Show | 0.30% | ~2,779 |
+| Flight to Freedom | 0.30% | ~2,779 |
 | Second Act | 0.30% | ~2,779 |
 | A bite for the Entity | 0.20% | ~1,853 |
 | Blood on your hands | 0.20% | ~1,853 |
@@ -73,7 +74,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Classy Act | 0.20% | ~1,853 |
 | Every Last Drop | 0.20% | ~1,853 |
 | Raccoon City Recruit | 0.20% | ~1,853 |
-| Flight to Freedom | 0.20% | ~1,853 |
 | Outrun the Overlap | 0.20% | ~1,853 |
 | A Fast Death | 0.20% | ~1,853 |
 | Lifting The Fog | 0.20% | ~1,853 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,360 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 290)  
+Progressed: 926,472 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 290)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,360 | 49 |
+| 2023-10-08 | 926,472 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,269 (Ranked 13)  

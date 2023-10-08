@@ -6,8 +6,8 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 250,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
@@ -2048,6 +2048,11 @@
       "Time": "2023-10-08T10:06:02.9330741+00:00",
       "NumProgressed": 709,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-08T12:05:09.2080626+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2068,7 +2073,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "_03_FinishAct1",
@@ -2084,7 +2089,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "_05_FinishAct2",
@@ -2132,7 +2137,7 @@
       "Name": "Buccaneer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "_11_Completion_40",
@@ -2164,7 +2169,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "_15_Completion_80",
@@ -2180,7 +2185,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2267,7 +2272,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 22
     }
   ],
@@ -2275,8 +2280,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:05:42.0570592+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:05:09.2080619+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:57:59.7832666+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:05:42.0570998+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:57:53.0391139+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:05:09.2080929+00:00"
 }

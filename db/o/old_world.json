@@ -6,7 +6,7 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -1809,9 +1809,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14513,
+  "EOS_Progressed": 14516,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13314,6 +13314,11 @@
       "Time": "2023-10-08T11:04:25.9725696+00:00",
       "NumProgressed": 14513,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T12:04:16.1988066+00:00",
+      "NumProgressed": 14516,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13371,9 +13376,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -13651,9 +13656,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -13675,9 +13680,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -13827,9 +13832,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -13971,9 +13976,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -14243,9 +14248,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -15107,9 +15112,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -15435,9 +15440,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -16060,21 +16065,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14513,
+      "Progressed": 14516,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14513,
+      "Progressed": 14516,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:04:25.9725692+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:04:16.1988061+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:02:16.1625228+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:04:25.9735429+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:03:06.7159588+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:04:16.1998938+00:00"
 }

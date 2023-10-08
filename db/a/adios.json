@@ -6,7 +6,7 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75297,
+  "EOS_Progressed": 75303,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -19184,6 +19184,11 @@
       "Time": "2023-10-08T11:04:58.4580959+00:00",
       "NumProgressed": 75297,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2023-10-08T12:04:39.0287016+00:00",
+      "NumProgressed": 75303,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 25,
@@ -19211,7 +19216,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13553
+      "UsersEstimate": 13555
     },
     {
       "ID": "Audiophile",
@@ -19227,7 +19232,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16565
+      "UsersEstimate": 16567
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19235,7 +19240,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13553
+      "UsersEstimate": 13555
     },
     {
       "ID": "Butcher",
@@ -19267,7 +19272,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15059
+      "UsersEstimate": 15061
     },
     {
       "ID": "Hearty",
@@ -19299,7 +19304,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15059
+      "UsersEstimate": 15061
     },
     {
       "ID": "Meaty",
@@ -19315,7 +19320,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14306
+      "UsersEstimate": 14308
     },
     {
       "ID": "Nice Try",
@@ -19394,7 +19399,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75297,
+      "Progressed": 75303,
       "Completed": 784
     }
   ],
@@ -19402,8 +19407,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:04:58.4580957+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:04:39.0287009+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:01:32.3558008+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:04:58.4583408+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:00:19.5121868+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:04:39.0288362+00:00"
 }

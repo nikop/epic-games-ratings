@@ -22,7 +22,7 @@
 | BOSS 14 | 0.00% | ~0 |
 | BOSS 15 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 605)  
+Progressed: 1 (Ranked 606)  
 Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

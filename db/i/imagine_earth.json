@@ -6,7 +6,7 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -381,9 +381,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 151
     },
     {
       "ID": "CampaignStars2",
@@ -445,9 +445,9 @@
       "ID": "Forester",
       "SetID": "c2k469b",
       "Name": "Forester",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "Metropolis",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:07:32.7983608+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:26.0553217+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:53.0652378+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:00:16.6383097+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:32.7983939+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:59:26.8402605+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:26.0553383+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Liberated",
   "ProductSlug": "liberated-f13008",
   "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.2817221+00:00",
   "LastChanged": "2023-03-31T05:58:19.2817221+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:55.9221463+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:00:20.2018384+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:59.4637089+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:59:29.1707925+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:44.3698237+00:00"
 }

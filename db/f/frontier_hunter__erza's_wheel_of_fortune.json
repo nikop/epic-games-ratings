@@ -3,8 +3,8 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 383,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -533,9 +533,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -621,9 +621,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -902,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:09:29.4765106+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:09:46.245173+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.3139167+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:00:38.4642738+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:09:29.476549+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:59:41.1873706+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:09:46.2452169+00:00"
 }

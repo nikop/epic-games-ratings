@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Preacher's fate | 5.00% | ~13 |
 | That's the spirit | 5.00% | ~13 |
 | Welcome to the Tower | 5.00% | ~13 |
-| The Preacher's fate | 4.00% | ~10 |
-| The great escape | 4.00% | ~10 |
+| The great escape | 5.00% | ~13 |
 | I did it | 2.00% | ~5 |
 | In this together | 2.00% | ~5 |
 | Peace walker | 2.00% | ~5 |
@@ -31,7 +31,7 @@
 | Fashion victim | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 262 (Ranked 324)  
-Completed: 18 (6.87%) (Ranked 47)  
+Completed: 18 (6.87%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

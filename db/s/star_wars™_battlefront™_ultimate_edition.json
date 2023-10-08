@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 515,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1321,6 +1321,11 @@
       "Time": "2023-10-08T11:07:17.421858+00:00",
       "NumProgressed": 514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T12:06:15.4933149+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1363,9 +1368,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_14",
@@ -1405,7 +1410,7 @@
       "Name": "The power of the Force",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_19",
@@ -1477,7 +1482,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_27",
@@ -1509,7 +1514,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_30",
@@ -1557,7 +1562,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_36",
@@ -1565,7 +1570,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_37",
@@ -1605,7 +1610,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_41",
@@ -1613,7 +1618,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_42",
@@ -1779,9 +1784,9 @@
       "ID": "achievement_60",
       "SetID": "cemm4l8",
       "Name": "What will you become?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_61",
@@ -1836,13 +1841,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 1
     }
   ],
@@ -1850,8 +1855,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:07:17.4218572+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:06:15.4933137+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-08T11:02:39.6842497+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:07:17.4219263+00:00"
+  "LastUpdate_Ratings": "2023-10-08T12:03:21.0815364+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:06:15.4933957+00:00"
 }

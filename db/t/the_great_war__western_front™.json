@@ -6,8 +6,8 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -2293,9 +2293,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -2326,8 +2326,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-10-06T21:57:45.6051235+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:03:55.6779785+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:03:55.1495179+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.022471+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:58:18.6258738+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:03:55.6780134+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:58:07.7115056+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:03:55.1495404+00:00"
 }

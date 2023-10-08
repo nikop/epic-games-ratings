@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 715,561 (Ranked 20)  
-Completed: 12,915 (1.80%) (Ranked 114)  
+Completed: 12,915 (1.80%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -1950,9 +1950,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "BearRum",
@@ -2126,9 +2126,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "PriestPistol",
@@ -2158,9 +2158,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "Priestess",
@@ -2277,8 +2277,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:03:54.129508+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:03:54.073261+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.4622609+00:00",
   "LastUpdate_Ratings": "2023-10-08T11:02:13.4910349+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:03:54.1295609+00:00"
+  "LastUpdate_Achievements": "2023-10-08T12:03:54.0733082+00:00"
 }

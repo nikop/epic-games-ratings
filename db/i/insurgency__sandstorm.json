@@ -6,7 +6,7 @@
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
@@ -3527,10 +3527,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3046,
       "NumberOfAwardsMax": 386
+    },
+    {
+      "Time": "2023-10-08T11:58:29.6723745+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3047,
+      "NumberOfAwardsMax": 386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3046,
+  "NumberOfAwards": 3047,
   "NumberOfAwardsMax": 386,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3544,7 +3550,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 320
+      "Count": 321
     },
     {
       "Text": "This game has Competitive Players",
@@ -3601,9 +3607,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 460176,
+  "EOS_Progressed": 460187,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2196,
+  "EOS_NewPlayers": 2190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22896,6 +22902,11 @@
       "Time": "2023-10-08T11:05:11.8208534+00:00",
       "NumProgressed": 460176,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-08T12:04:48.2447858+00:00",
+      "NumProgressed": 460187,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -22931,7 +22942,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -23035,7 +23046,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -23139,7 +23150,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -23163,7 +23174,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -23186,15 +23197,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 460176,
+      "Progressed": 460187,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-07T21:57:59.8934668+00:00",
-  "LastChanged_Achievements": "2023-10-08T11:05:11.8208531+00:00",
+  "LastChanged": "2023-10-08T11:58:29.6723742+00:00",
+  "LastChanged_Achievements": "2023-10-08T12:04:48.2447853+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:53.2662514+00:00",
-  "LastUpdate_Ratings": "2023-10-08T10:58:51.3497459+00:00",
-  "LastUpdate_Achievements": "2023-10-08T11:05:11.8210858+00:00"
+  "LastUpdate_Ratings": "2023-10-08T11:58:29.6723748+00:00",
+  "LastUpdate_Achievements": "2023-10-08T12:04:48.2449303+00:00"
 }

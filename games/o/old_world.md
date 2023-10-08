@@ -12,21 +12,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
+| Able | 0.90% | ~131 |
+| Architect | 0.90% | ~131 |
 | Good | 0.90% | ~131 |
 | Strong | 0.90% | ~131 |
 | Hanging Gardens | 0.90% | ~131 |
-| Able | 0.80% | ~116 |
-| Architect | 0.80% | ~116 |
+| Just | 0.80% | ~116 |
 | Learned | 0.80% | ~116 |
 | Mason | 0.80% | ~116 |
 | Noble | 0.80% | ~116 |
 | Pioneer | 0.80% | ~116 |
 | Oracle | 0.80% | ~116 |
+| Judaism | 0.80% | ~116 |
 | Trade Caravan | 0.80% | ~116 |
 | Glorious | 0.70% | ~102 |
-| Just | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
-| Judaism | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
 | Naming Landmarks | 0.70% | ~102 |
 | Ambitious | 0.60% | ~87 |
@@ -49,31 +49,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
+| Furious Family | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
 | Manichaeism | 0.50% | ~73 |
 | Egyptian Paganism | 0.50% | ~73 |
 | Roman Paganism | 0.50% | ~73 |
 | Kushite Pyramids | 0.50% | ~73 |
+| Regicide | 0.40% | ~58 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
+| Valiant | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
 | Just Difficulty | 0.40% | ~58 |
 | Artisans | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
 | Sages | 0.40% | ~58 |
-| Furious Family | 0.40% | ~58 |
 | Apadana | 0.40% | ~58 |
 | Colossus | 0.40% | ~58 |
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
 | Mythology | 0.40% | ~58 |
-| Regicide | 0.30% | ~44 |
 | Beloved | 0.30% | ~44 |
 | Conqueror | 0.30% | ~44 |
 | Intercessor | 0.30% | ~44 |
 | Mighty | 0.30% | ~44 |
-| Valiant | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
 | Patrons | 0.30% | ~44 |
@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.20% | ~29 |
 | Legionary | 0.20% | ~29 |
 | Turreted Elephant | 0.20% | ~29 |
+| All Nations | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
 | The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
@@ -241,7 +242,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~15 |
 | Three Man Chariot | 0.10% | ~15 |
 | Siege Tower | 0.10% | ~15 |
-| All Nations | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
 | No Undo | 0.10% | ~15 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,513 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 278)  
+Progressed: 14,516 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 278)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,513 | 5 |
+| 2023-10-08 | 14,516 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

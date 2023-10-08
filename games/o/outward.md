@@ -6,15 +6,15 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,704 |
+| Venture Outward | 76.00% | ~2,705 |
 | Ready for Winter | 65.00% | ~2,313 |
-| Ready for Summer | 52.00% | ~1,850 |
+| Ready for Summer | 52.00% | ~1,851 |
 | Cordon Bleu | 44.00% | ~1,566 |
 | Tapped! | 38.00% | ~1,352 |
 | Eureka | 33.00% | ~1,174 |
 | Scourge Slayer | 26.00% | ~925 |
 | Science, Troglodyte! | 24.00% | ~854 |
-| Exceptional Skill | 23.00% | ~818 |
+| Exceptional Skill | 23.00% | ~819 |
 | Home Sweet Home | 22.00% | ~783 |
 | Encyclopedic! | 20.00% | ~712 |
 | The Power of Family | 17.00% | ~605 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~249 |
 | Let ‘em eat magma! | 7.00% | ~249 |
 | The power of ambition | 7.00% | ~249 |
-| Blood and justice | 6.00% | ~213 |
-| Hold my Mead and Watch This | 6.00% | ~213 |
-| The stuff of legends. | 6.00% | ~213 |
+| Blood and justice | 6.00% | ~214 |
+| Hold my Mead and Watch This | 6.00% | ~214 |
+| The stuff of legends. | 6.00% | ~214 |
 | Ancestor's Pride | 4.00% | ~142 |
 | For All Aurai | 4.00% | ~142 |
 | Memory of a legend | 4.00% | ~142 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,558 (Ranked 182)  
-Completed: 4 (0.11%) (Ranked 241)  
+Progressed: 3,559 (Ranked 182)  
+Completed: 4 (0.11%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,6 +210,7 @@ Completed: 4 (0.11%) (Ranked 241)
 | 2023-10-05 | 3,549 | 4 |
 | 2023-10-06 | 3,553 | 4 |
 | 2023-10-07 | 3,558 | 4 |
+| 2023-10-08 | 3,559 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 452)  
 Sum: 244 (Ranked 364)  

@@ -10,11 +10,11 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 3.00% | ~699 |
 | Harvest and Home | 2.00% | ~466 |
 | Poise and Poisons | 2.00% | ~466 |
+| No Harm in Looking | 2.00% | ~466 |
 | Hands and Hammers | 1.00% | ~233 |
 | King and Kin | 1.00% | ~233 |
 | Progenitor and Protégé | 1.00% | ~233 |
 | Suns and Soldiers | 1.00% | ~233 |
-| No Harm in Looking | 1.00% | ~233 |
 | Prequel to the Sequel | 1.00% | ~233 |
 | For Glory | 0.70% | ~163 |
 | Truly Blessed | 0.60% | ~140 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,305 (Ranked 120)  
-Completed: 35 (0.15%) (Ranked 229)  
+Completed: 35 (0.15%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
