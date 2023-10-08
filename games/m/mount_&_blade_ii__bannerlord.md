@@ -7,15 +7,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,540 |
-| Landlord | 33.00% | ~20,764 |
-| Bannerlord | 23.00% | ~14,472 |
-| Horde breaker | 23.00% | ~14,472 |
-| Lawmaker | 23.00% | ~14,472 |
-| Trained | 23.00% | ~14,472 |
-| The king is pleased | 19.00% | ~11,955 |
+| Landlord | 33.00% | ~20,765 |
+| Bannerlord | 23.00% | ~14,473 |
+| Horde breaker | 23.00% | ~14,473 |
+| Lawmaker | 23.00% | ~14,473 |
+| Trained | 23.00% | ~14,473 |
+| The king is pleased | 19.00% | ~11,956 |
 | King Solomon | 17.00% | ~10,697 |
 | I can do it | 16.00% | ~10,068 |
-| Apple of my eye | 15.00% | ~9,438 |
+| Apple of my eye | 15.00% | ~9,439 |
 | God of the Arena | 13.00% | ~8,180 |
 | Against all odds | 12.00% | ~7,551 |
 | This Is Our Land | 12.00% | ~7,551 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,922 (Ranked 96)  
+Progressed: 62,924 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 62,761 | 0 |
 | 2023-10-06 | 62,814 | 0 |
 | 2023-10-07 | 62,881 | 0 |
-| 2023-10-08 | 62,922 | 0 |
+| 2023-10-08 | 62,924 | 0 |
 ## Awards
 Max (Character Customization): 7,202  (Ranked 52)  
-Sum: 14,792 (Ranked 66)  
+Sum: 14,795 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): -14
 | This game is Extremely Fun | 846 |
 | This game has Amazing Storytelling | 835 |
 | This game has Amazing Characters | 829 |
-| This game is Relaxing | 825 |
+| This game is Relaxing | 828 |
 | This game has Quickly Understood Controls | 811 |
 | This game has a Creative Community | 603 |
 | This game has Obsessive Gameplay | 376 |
@@ -517,4 +517,4 @@ Diff (max vs sum): -14
 | 2023-10-05 | 4.74 | - | 7,176 | 14,724 |
 | 2023-10-06 | 4.74 | - | 7,185 | 14,748 |
 | 2023-10-07 | 4.74 | - | 7,194 | 14,760 |
-| 2023-10-08 | 4.74 | - | 7,202 | 14,792 |
+| 2023-10-08 | 4.74 | - | 7,202 | 14,795 |

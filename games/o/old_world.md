@@ -6,16 +6,16 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 2.00% | ~291 |
 | Explorer | 1.00% | ~145 |
+| Good | 1.00% | ~145 |
 | Intrepid | 1.00% | ~145 |
 | Settler | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Hanging Gardens | 1.00% | ~145 |
-| Play a Single Player Game | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
 | Able | 0.90% | ~131 |
 | Architect | 0.90% | ~131 |
-| Good | 0.90% | ~131 |
 | Learned | 0.90% | ~131 |
 | Mason | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
@@ -27,23 +27,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
+| Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
 | Warrior | 0.70% | ~102 |
 | Developing Cities | 0.70% | ~102 |
+| Strong Cities | 0.70% | ~102 |
+| Ishtar Gate | 0.70% | ~102 |
 | Lighthouse | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
-| Ambitious | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
-| Strong Cities | 0.60% | ~87 |
 | Able Difficulty | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
-| Ishtar Gate | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Roman Paganism | 0.60% | ~87 |
@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.60% | ~87 |
 | Brilliant | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
+| Legendary Cities | 0.50% | ~73 |
 | Artisans | 0.50% | ~73 |
 | Furious Family | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
@@ -63,9 +64,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
+| Intercessor | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |
 | Valiant | 0.40% | ~58 |
-| Legendary Cities | 0.40% | ~58 |
 | Just Difficulty | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
 | Sages | 0.40% | ~58 |
@@ -77,12 +78,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.40% | ~58 |
 | Win a Single Player Game | 0.40% | ~58 |
 | Beloved | 0.30% | ~44 |
-| Intercessor | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
 | Patrons | 0.30% | ~44 |
 | Riders | 0.30% | ~44 |
+| Traders | 0.30% | ~44 |
 | Hittite Iron | 0.30% | ~44 |
 | Circus Maximus | 0.30% | ~44 |
 | Hagia Sophia | 0.30% | ~44 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.20% | ~29 |
 | Landowners | 0.20% | ~29 |
 | Statesmen | 0.20% | ~29 |
-| Traders | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,530 (Ranked 134)  
+Progressed: 14,532 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,11 +520,11 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,530 | 5 |
+| 2023-10-08 | 14,532 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
-Sum: 1,831 (Ranked 208)  
-Diff (max vs sum): 57  
+Sum: 1,831 (Ranked 209)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |

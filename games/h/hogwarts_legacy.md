@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,706 |
-| First Class Student | 13.00% | ~38,745 |
-| Troll with the Punches | 13.00% | ~38,745 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,707 |
+| First Class Student | 13.00% | ~38,746 |
+| Troll with the Punches | 13.00% | ~38,746 |
 | A Keen Sense of Spell | 12.00% | ~35,765 |
 | That's a Keeper | 12.00% | ~35,765 |
 | The Hallowed Hero | 11.00% | ~32,785 |
@@ -22,9 +22,9 @@ Rating: 4.76 (Ranked 120)
 | Followed the Butterflies | 9.00% | ~26,824 |
 | The Spell Master | 9.00% | ~26,824 |
 | Rising From the Ashes | 9.00% | ~26,824 |
-| The Avenging Gazelle | 8.00% | ~23,843 |
-| A Sallow Grave | 8.00% | ~23,843 |
-| Flight the Good Flight | 8.00% | ~23,843 |
+| The Avenging Gazelle | 8.00% | ~23,844 |
+| A Sallow Grave | 8.00% | ~23,844 |
+| Flight the Good Flight | 8.00% | ~23,844 |
 | Beast Friends | 7.00% | ~20,863 |
 | The Seeker of Knowledge | 6.00% | ~17,883 |
 | The Root of the Problem | 6.00% | ~17,883 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,042 (Ranked 46)  
-Completed: 482 (0.16%) (Ranked 226)  
+Progressed: 298,045 (Ranked 46)  
+Completed: 482 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,10 +222,10 @@ Completed: 482 (0.16%) (Ranked 226)
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
-| 2023-10-08 | 298,042 | 482 |
+| 2023-10-08 | 298,045 | 482 |
 ## Awards
 Max (Character Customization): 23,384  (Ranked 17)  
-Sum: 45,380 (Ranked 31)  
+Sum: 45,386 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +237,7 @@ Diff (max vs sum): -14
 | This game is Relaxing | 1,110 |
 | This game is Extremely Fun | 1,104 |
 | This game has Amazing Characters | 1,069 |
-| This game is Highly Recommended | 1,055 |
+| This game is Highly Recommended | 1,061 |
 | This game has Quickly Understood Controls | 993 |
 | This game has Beautiful Visuals | 921 |
 | This game has a Creative Community | 698 |
@@ -442,4 +442,4 @@ Diff (max vs sum): -14
 | 2023-10-05 | 4.76 | 23,300 | 45,129 |
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
 | 2023-10-07 | 4.76 | 23,347 | 45,276 |
-| 2023-10-08 | 4.76 | 23,384 | 45,380 |
+| 2023-10-08 | 4.76 | 23,384 | 45,386 |

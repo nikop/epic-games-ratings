@@ -6,18 +6,18 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,858 |
-| keep it tidy | 77.00% | ~7,907 |
+| light attack | 96.00% | ~9,859 |
+| keep it tidy | 77.00% | ~7,908 |
 | podium | 72.00% | ~7,394 |
-| medium attack | 60.00% | ~6,161 |
-| brail | 57.00% | ~5,853 |
+| medium attack | 60.00% | ~6,162 |
+| brail | 57.00% | ~5,854 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,416 |
 | grocery-getter | 40.00% | ~4,108 |
 | rwd only | 26.00% | ~2,670 |
 | food tour: pasta | 26.00% | ~2,670 |
-| to finish first, first you must finish | 21.00% | ~2,156 |
-| autopilot | 21.00% | ~2,156 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,156 |
+| to finish first, first you must finish | 21.00% | ~2,157 |
+| autopilot | 21.00% | ~2,157 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,157 |
 | turbo | 20.00% | ~2,054 |
 | food tour: pretzel | 19.00% | ~1,951 |
 | bicycle race | 15.00% | ~1,540 |
@@ -40,8 +40,8 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~616 |
 | oktoberfest | 6.00% | ~616 |
 | in like a lamb, out like a lion | 6.00% | ~616 |
-| group b | 5.00% | ~513 |
-| if in doubt, flat out! | 5.00% | ~513 |
+| if in doubt, flat out! | 6.00% | ~616 |
+| group b | 5.00% | ~514 |
 | comfy seats | 4.00% | ~411 |
 | simulator | 3.00% | ~308 |
 | real roads, real fast | 3.00% | ~308 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,269 (Ranked 146)  
+Progressed: 10,270 (Ranked 146)  
 Completed: 9 (0.09%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 9 (0.09%) (Ranked 250)
 | 2023-10-02 | 10,266 | 9 |
 | 2023-10-04 | 10,267 | 9 |
 | 2023-10-06 | 10,268 | 9 |
-| 2023-10-08 | 10,269 | 9 |
+| 2023-10-08 | 10,270 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

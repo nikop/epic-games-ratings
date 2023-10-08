@@ -6,18 +6,18 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~9,275 |
-| Zealous | 0.90% | ~8,348 |
-| Skillful | 0.90% | ~8,348 |
-| Handyman | 0.70% | ~6,493 |
-| Not half bad | 0.70% | ~6,493 |
-| Apt Survivor | 0.70% | ~6,493 |
-| Survival Treasures | 0.70% | ~6,493 |
-| Make Some Noise | 0.70% | ~6,493 |
-| No one left behind | 0.60% | ~5,565 |
-| Medic | 0.60% | ~5,565 |
-| Sorted | 0.60% | ~5,565 |
-| Resurgence | 0.60% | ~5,565 |
+| It wakes | 1.00% | ~9,277 |
+| Zealous | 0.90% | ~8,349 |
+| Skillful | 0.90% | ~8,349 |
+| Handyman | 0.70% | ~6,494 |
+| Not half bad | 0.70% | ~6,494 |
+| Apt Survivor | 0.70% | ~6,494 |
+| Survival Treasures | 0.70% | ~6,494 |
+| Make Some Noise | 0.70% | ~6,494 |
+| No one left behind | 0.60% | ~5,566 |
+| Medic | 0.60% | ~5,566 |
+| Sorted | 0.60% | ~5,566 |
+| Resurgence | 0.60% | ~5,566 |
 | The Grand Sacrifice | 0.50% | ~4,638 |
 | Agonizing Escape | 0.50% | ~4,638 |
 | Backdoor Escape | 0.50% | ~4,638 |
@@ -29,13 +29,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.50% | ~4,638 |
 | Preemptive Strike | 0.50% | ~4,638 |
 | Humanitarian | 0.50% | ~4,638 |
-| I've got your back | 0.40% | ~3,710 |
-| Perfect Killing | 0.40% | ~3,710 |
-| Apt Killer | 0.40% | ~3,710 |
-| Risk it all | 0.40% | ~3,710 |
-| II | 0.40% | ~3,710 |
-| Wounded Healer | 0.40% | ~3,710 |
-| Close Shave | 0.40% | ~3,710 |
+| I've got your back | 0.40% | ~3,711 |
+| Perfect Killing | 0.40% | ~3,711 |
+| Apt Killer | 0.40% | ~3,711 |
+| Risk it all | 0.40% | ~3,711 |
+| II | 0.40% | ~3,711 |
+| Wounded Healer | 0.40% | ~3,711 |
+| Close Shave | 0.40% | ~3,711 |
+| Second Act | 0.40% | ~3,711 |
 | Made it out alive! | 0.30% | ~2,783 |
 | Vulture | 0.30% | ~2,783 |
 | III | 0.30% | ~2,783 |
@@ -45,7 +46,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.30% | ~2,783 |
 | With Scars to Show | 0.30% | ~2,783 |
 | Flight to Freedom | 0.30% | ~2,783 |
-| Second Act | 0.30% | ~2,783 |
 | A bite for the Entity | 0.20% | ~1,855 |
 | Blood on your hands | 0.20% | ~1,855 |
 | Blood on your face | 0.20% | ~1,855 |
@@ -81,6 +81,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.20% | ~1,855 |
 | Outrun the Overlap | 0.20% | ~1,855 |
 | A Fast Death | 0.20% | ~1,855 |
+| Rebuilding The Borgo | 0.20% | ~1,855 |
 | Lifting The Fog | 0.20% | ~1,855 |
 | Chorus of Chaos | 0.20% | ~1,855 |
 | Extraterrestrial | 0.20% | ~1,855 |
@@ -219,7 +220,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Rebecca | 0.10% | ~928 |
 | Cruelty Loves Company | 0.10% | ~928 |
 | Adept Knight | 0.10% | ~928 |
-| Rebuilding The Borgo | 0.10% | ~928 |
 | Adept Vittorio | 0.10% | ~928 |
 | Thrill of the Chase | 0.10% | ~928 |
 | Adept Skull Merchant | 0.10% | ~928 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927,529 (Ranked 14)  
+Progressed: 927,676 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,10 +407,10 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 927,529 | 49 |
+| 2023-10-08 | 927,676 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
-Sum: 260,443 (Ranked 13)  
+Sum: 260,474 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -421,7 +421,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 29,076 |
 | This game has Challenging Combat | 28,652 |
 | This game has Quickly Understood Controls | 28,593 |
-| This game has Amazing Storytelling | 26,672 |
+| This game has Amazing Storytelling | 26,703 |
 | This game has a Competitive Community | 25,212 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 2
 | 2023-10-05 | 4.52 | - | 33,450 | 259,598 |
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
-| 2023-10-08 | 4.52 | - | 33,596 | 260,443 |
+| 2023-10-08 | 4.52 | - | 33,596 | 260,474 |

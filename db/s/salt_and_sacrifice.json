@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1666,9 +1666,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 66583,
+  "EOS_Progressed": 66586,
   "EOS_Completed": 1228,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -11456,6 +11456,11 @@
       "Time": "2023-10-08T19:04:13.9490362+00:00",
       "NumProgressed": 66583,
       "NumCompleted": 1228
+    },
+    {
+      "Time": "2023-10-08T20:04:19.5686977+00:00",
+      "NumProgressed": 66586,
+      "NumCompleted": 1228
     }
   ],
   "TotalAchievements": 53,
@@ -11467,7 +11472,7 @@
       "Name": "The Aeromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 43945
+      "UsersEstimate": 43947
     },
     {
       "ID": "area_copse",
@@ -11475,7 +11480,7 @@
       "Name": "The Copse",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     },
     {
       "ID": "area_mountain",
@@ -11483,7 +11488,7 @@
       "Name": "The Mountain",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26633
+      "UsersEstimate": 26634
     },
     {
       "ID": "area_swamp",
@@ -11491,7 +11496,7 @@
       "Name": "The Swamp",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33292
+      "UsersEstimate": 33293
     },
     {
       "ID": "area_wastes",
@@ -11499,7 +11504,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 55264
+      "UsersEstimate": 55266
     },
     {
       "ID": "bibliomancer",
@@ -11515,7 +11520,7 @@
       "Name": "The Dragon",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     },
     {
       "ID": "chronomancer",
@@ -11523,7 +11528,7 @@
       "Name": "The Chronomancer",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21307
+      "UsersEstimate": 21308
     },
     {
       "ID": "corpumancer",
@@ -11531,7 +11536,7 @@
       "Name": "The Corpumancer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 27965
+      "UsersEstimate": 27966
     },
     {
       "ID": "crafting_all_replenish_found",
@@ -11539,7 +11544,7 @@
       "Name": "Well Stocked",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 18643
+      "UsersEstimate": 18644
     },
     {
       "ID": "crafting_all_replenish_upgrade",
@@ -11555,7 +11560,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 53266
+      "UsersEstimate": 53269
     },
     {
       "ID": "crafting_first_replenish",
@@ -11563,7 +11568,7 @@
       "Name": "Stock Up",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 49937
+      "UsersEstimate": 49940
     },
     {
       "ID": "crafting_max_upgrade",
@@ -11571,7 +11576,7 @@
       "Name": "Want Not",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 13982
+      "UsersEstimate": 13983
     },
     {
       "ID": "cryomancer",
@@ -11579,7 +11584,7 @@
       "Name": "The Cryomancer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 50603
+      "UsersEstimate": 50605
     },
     {
       "ID": "diablomancer",
@@ -11587,7 +11592,7 @@
       "Name": "The Diablomancer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14648
+      "UsersEstimate": 14649
     },
     {
       "ID": "dracomancer",
@@ -11595,7 +11600,7 @@
       "Name": "The Dracomancer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     },
     {
       "ID": "electromancer",
@@ -11603,7 +11608,7 @@
       "Name": "The Electromancer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 40616
+      "UsersEstimate": 40617
     },
     {
       "ID": "elfslayer",
@@ -11611,7 +11616,7 @@
       "Name": "The Champion",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 59925
+      "UsersEstimate": 59927
     },
     {
       "ID": "end_climb",
@@ -11619,7 +11624,7 @@
       "Name": "Make The Climb",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6659
     },
     {
       "ID": "end_devour",
@@ -11635,7 +11640,7 @@
       "Name": "Blueheart Runners",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 36621
+      "UsersEstimate": 36622
     },
     {
       "ID": "faction_chaos",
@@ -11643,7 +11648,7 @@
       "Name": "Chaos Hunger",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 17977
+      "UsersEstimate": 17978
     },
     {
       "ID": "faction_dawnlight",
@@ -11651,15 +11656,15 @@
       "Name": "Dawnlight Order",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 42613
+      "UsersEstimate": 42615
     },
     {
       "ID": "faction_oath",
       "SetID": "2jelldm",
       "Name": "Oathbound Watchers",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 22638
+      "UsersEstimate": 21973
     },
     {
       "ID": "faction_sheriff",
@@ -11667,7 +11672,7 @@
       "Name": "Sheriff Inquisitors",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 36621
+      "UsersEstimate": 36622
     },
     {
       "ID": "faction_shroud",
@@ -11675,7 +11680,7 @@
       "Name": "Shroud Alliance",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 25967
+      "UsersEstimate": 25969
     },
     {
       "ID": "firelord",
@@ -11683,7 +11688,7 @@
       "Name": "The Firelord",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 15980
+      "UsersEstimate": 15981
     },
     {
       "ID": "fungalmancer",
@@ -11691,7 +11696,7 @@
       "Name": "The Fungalmancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31294
+      "UsersEstimate": 31295
     },
     {
       "ID": "hag",
@@ -11699,7 +11704,7 @@
       "Name": "The Hag",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 29962
+      "UsersEstimate": 29964
     },
     {
       "ID": "huntsman",
@@ -11707,7 +11712,7 @@
       "Name": "The Huntsman",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 43279
+      "UsersEstimate": 43281
     },
     {
       "ID": "hydromancer",
@@ -11715,7 +11720,7 @@
       "Name": "The Hydromancer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 48606
+      "UsersEstimate": 48608
     },
     {
       "ID": "kinetomancer",
@@ -11723,7 +11728,7 @@
       "Name": "The Kinetomancer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17977
+      "UsersEstimate": 17978
     },
     {
       "ID": "luminimancer",
@@ -11739,7 +11744,7 @@
       "Name": "The Mechanomancer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21972
+      "UsersEstimate": 21973
     },
     {
       "ID": "messiah",
@@ -11747,7 +11752,7 @@
       "Name": "The Sacrifice",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 13982
+      "UsersEstimate": 13983
     },
     {
       "ID": "mummy",
@@ -11755,7 +11760,7 @@
       "Name": "The Exalted",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 37952
+      "UsersEstimate": 37954
     },
     {
       "ID": "necromancer",
@@ -11763,7 +11768,7 @@
       "Name": "The Necromancer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 34623
+      "UsersEstimate": 34625
     },
     {
       "ID": "neuromancer",
@@ -11771,7 +11776,7 @@
       "Name": "The Neuromancer",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23304
+      "UsersEstimate": 23305
     },
     {
       "ID": "npc_blue_nomad",
@@ -11795,7 +11800,7 @@
       "Name": "The Scholar",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6659
     },
     {
       "ID": "npc_soldier",
@@ -11811,7 +11816,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 57261
+      "UsersEstimate": 57264
     },
     {
       "ID": "queen",
@@ -11819,7 +11824,7 @@
       "Name": "The Matriarch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 46608
+      "UsersEstimate": 46610
     },
     {
       "ID": "sanguimancer",
@@ -11827,7 +11832,7 @@
       "Name": "The Sanguimancer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17977
+      "UsersEstimate": 17978
     },
     {
       "ID": "skylord",
@@ -11843,7 +11848,7 @@
       "Name": "The Terramancer",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 39284
+      "UsersEstimate": 39286
     },
     {
       "ID": "thaumamancer",
@@ -11851,7 +11856,7 @@
       "Name": "The Thaumamancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31294
+      "UsersEstimate": 31295
     },
     {
       "ID": "treeheart",
@@ -11859,7 +11864,7 @@
       "Name": "The Treeheart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 26633
+      "UsersEstimate": 26634
     },
     {
       "ID": "two_monks",
@@ -11867,7 +11872,7 @@
       "Name": "The Two Monks",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 24636
+      "UsersEstimate": 24637
     },
     {
       "ID": "umbramancer",
@@ -11875,7 +11880,7 @@
       "Name": "The Umbramancer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 18643
+      "UsersEstimate": 18644
     },
     {
       "ID": "venomancer",
@@ -11883,22 +11888,22 @@
       "Name": "The Venomancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 43945
+      "UsersEstimate": 43947
     }
   ],
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 66583,
+      "Progressed": 66586,
       "Completed": 1228
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-10-06T12:00:19.5140176+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:04:13.9490353+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:04:19.5686972+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:42.7224239+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:01:11.7332963+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:04:13.9491437+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:00:42.4213454+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:04:19.5687788+00:00"
 }

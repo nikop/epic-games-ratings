@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-10-08T19:08:19.9746965+00:00",
       "NumProgressed": 373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T20:08:24.0667501+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -953,9 +958,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_eou3",
@@ -987,15 +992,15 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou8",
@@ -1003,7 +1008,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_mg2",
@@ -1042,14 +1047,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:08:19.9746959+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:08:24.0667495+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-08T19:00:26.7765043+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:08:19.9747162+00:00"
+  "LastUpdate_Ratings": "2023-10-08T20:00:08.2755365+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:08:24.0667626+00:00"
 }

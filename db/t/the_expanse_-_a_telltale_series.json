@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13760,
+  "EOS_Progressed": 13762,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -8090,6 +8090,11 @@
       "Time": "2023-10-08T19:07:17.7171641+00:00",
       "NumProgressed": 13760,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-08T20:06:57.9444528+00:00",
+      "NumProgressed": 13762,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8134,15 +8139,15 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "15",
@@ -8196,9 +8201,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "21",
@@ -8316,9 +8321,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "8",
@@ -8341,7 +8346,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13760,
+      "Progressed": 13762,
       "Completed": 18
     }
   ],
@@ -8349,8 +8354,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:07:17.7171636+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:06:57.9444523+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:57:29.7422571+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:07:17.7172366+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:57:42.7788849+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:06:57.9445054+00:00"
 }

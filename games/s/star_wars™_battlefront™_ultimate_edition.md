@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~481 |
-| Off to a good start | 67.00% | ~358 |
-| Do... or do not. There is no try | 53.00% | ~283 |
-| A good blaster at your side | 35.00% | ~187 |
-| Scrap collector | 22.00% | ~117 |
+| New Recruit | 90.00% | ~482 |
+| Off to a good start | 67.00% | ~359 |
+| Do... or do not. There is no try | 53.00% | ~284 |
+| A good blaster at your side | 35.00% | ~188 |
+| Scrap collector | 21.00% | ~113 |
 | I suggest a new strategy | 20.00% | ~107 |
 | Great shot, kid! | 20.00% | ~107 |
-| All right, I'll give it a try | 19.00% | ~101 |
+| All right, I'll give it a try | 18.00% | ~96 |
 | Shoot first | 18.00% | ~96 |
 | The power of the Force | 17.00% | ~91 |
 | Together we can rule the galaxy | 17.00% | ~91 |
-| Collector | 16.00% | ~85 |
-| Tell Jabba that I've got his money | 13.00% | ~69 |
-| Best star-pilot in the galaxy | 13.00% | ~69 |
+| Collector | 16.00% | ~86 |
+| Tell Jabba that I've got his money | 13.00% | ~70 |
+| Best star-pilot in the galaxy | 13.00% | ~70 |
 | Survivor | 12.00% | ~64 |
 | A cunning warrior | 11.00% | ~59 |
-| What's the cargo? | 10.00% | ~53 |
-| Never tell me the odds! | 10.00% | ~53 |
-| Impressive. Most impressive. | 10.00% | ~53 |
+| What's the cargo? | 10.00% | ~54 |
+| Never tell me the odds! | 10.00% | ~54 |
+| Impressive. Most impressive. | 10.00% | ~54 |
 | "Gonk? Gonk!" | 9.00% | ~48 |
 | Judge me by my size, do you? | 9.00% | ~48 |
 | Distinguished | 8.00% | ~43 |
@@ -39,11 +39,11 @@
 | Determined | 4.00% | ~21 |
 | Your journey has only started | 4.00% | ~21 |
 | Precision shot | 4.00% | ~21 |
+| This is a new day, a new beginning | 4.00% | ~21 |
 | City in the Clouds | 4.00% | ~21 |
 | Disturbed tranquility | 4.00% | ~21 |
 | The Force is strong with this one | 3.00% | ~16 |
 | Ackbar's Elite | 3.00% | ~16 |
-| This is a new day, a new beginning | 3.00% | ~16 |
 | Alternative solution | 3.00% | ~16 |
 | What will you become? | 3.00% | ~16 |
 | The circle is now complete | 3.00% | ~16 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534 (Ranked 268)  
+Progressed: 536 (Ranked 267)  
 Completed: 1 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.19%) (Ranked 219)
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
-| 2023-10-08 | 534 | 1 |
+| 2023-10-08 | 536 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

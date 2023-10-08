@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151321,
+  "EOS_Progressed": 151338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1671,
+  "EOS_NewPlayers": 1688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10979,6 +10979,11 @@
       "Time": "2023-10-08T19:05:40.4392262+00:00",
       "NumProgressed": 151321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T20:05:31.8100063+00:00",
+      "NumProgressed": 151338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11196,9 +11201,9 @@
       "ID": "MISC_ACTIVATEALLBEACONS",
       "SetID": "ccc0dlh",
       "Name": "All-Seeing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 303
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -11260,9 +11265,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 1059
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11357,21 +11362,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150904,
+      "Progressed": 150921,
       "Completed": 1147
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151321,
+      "Progressed": 151338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:05:40.4392254+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:05:31.8100058+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:57:04.145349+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:05:40.4393303+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:57:21.5933744+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:05:31.8100816+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 41926,
+  "EOS_Progressed": 41931,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 884,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10176,6 +10176,11 @@
       "Time": "2023-10-08T19:08:12.8159824+00:00",
       "NumProgressed": 41926,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T20:08:18.2263526+00:00",
+      "NumProgressed": 41931,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10347,7 +10352,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -10403,7 +10408,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -10451,7 +10456,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "MAGIC_TANTA",
@@ -10515,7 +10520,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -10523,7 +10528,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "SPRING_ALL",
@@ -10610,22 +10615,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41926,
+      "Progressed": 41931,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6763,
-      "Completed": 6763
+      "Progressed": 6768,
+      "Completed": 6768
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:08:12.8159818+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:08:18.2263523+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:58:26.6576679+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:08:12.8160913+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:58:29.7665272+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:08:18.2264326+00:00"
 }

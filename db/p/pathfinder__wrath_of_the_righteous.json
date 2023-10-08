@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3884,9 +3884,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11490,
+  "EOS_Progressed": 11491,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13329,6 +13329,11 @@
       "Time": "2023-10-08T19:08:16.5223374+00:00",
       "NumProgressed": 11490,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T20:08:21.3662566+00:00",
+      "NumProgressed": 11491,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13340,7 +13345,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "02_BurningCity",
@@ -13412,7 +13417,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "11_PathOfAeon",
@@ -13468,7 +13473,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "18_MythicChoices",
@@ -13548,7 +13553,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "29_StrategicVictory",
@@ -13684,7 +13689,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "46_AllPathsOpen",
@@ -13692,7 +13697,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13764,7 +13769,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "56_GetToad",
@@ -14267,21 +14272,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10272,
+      "Progressed": 10273,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11490,
+      "Progressed": 11491,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-08T13:58:09.0491727+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:08:16.5223368+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:08:21.366256+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:57:52.7982918+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:08:16.5226539+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:58:01.1958043+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:08:21.366433+00:00"
 }

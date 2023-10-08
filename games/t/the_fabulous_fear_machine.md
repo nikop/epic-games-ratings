@@ -14,18 +14,18 @@
 | The happy farmer girl | 38.00% | ~8 |
 | Pulp! Terror Tales in the Night | 33.00% | ~7 |
 | A rival with no options | 29.00% | ~6 |
-| Pulp! Out of this World | 24.00% | ~5 |
-| Pulp! Adventures into the Unknown | 24.00% | ~5 |
-| Diagnosis: fear | 24.00% | ~5 |
-| Ambition is... blind | 24.00% | ~5 |
-| You have two wishes left | 24.00% | ~5 |
-| The artist | 19.00% | ~4 |
-| The seer | 19.00% | ~4 |
-| Kirlian's best disciple | 19.00% | ~4 |
+| The artist | 29.00% | ~6 |
+| Pulp! Out of this World | 29.00% | ~6 |
+| Pulp! Adventures into the Unknown | 29.00% | ~6 |
+| Diagnosis: fear | 29.00% | ~6 |
+| Ambition is... blind | 29.00% | ~6 |
+| You have two wishes left | 29.00% | ~6 |
+| The seer | 24.00% | ~5 |
+| Kirlian's best disciple | 24.00% | ~5 |
+| Et in arcadia ego | 19.00% | ~4 |
 | The barbarian invasions | 19.00% | ~4 |
 | You've awakened the beast | 14.00% | ~3 |
 | Hate is... addictive | 14.00% | ~3 |
-| Et in arcadia ego | 14.00% | ~3 |
 | You had one wish left | 10.00% | ~2 |
 | The bully | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |

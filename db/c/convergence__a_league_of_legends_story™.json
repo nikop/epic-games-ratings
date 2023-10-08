@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 903,
+  "EOS_Progressed": 904,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2325,6 +2325,11 @@
       "Time": "2023-10-02T20:08:15.7769949+00:00",
       "NumProgressed": 903,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T20:09:13.2122282+00:00",
+      "NumProgressed": 904,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2360,7 +2365,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2408,7 +2413,7 @@
       "Name": "Street Style",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CultivairChests1",
@@ -2488,7 +2493,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "GrindingTime1",
@@ -2536,7 +2541,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NoCritterSump",
@@ -2736,7 +2741,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2759,7 +2764,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 903,
+      "Progressed": 904,
       "Completed": 5
     }
   ],
@@ -2767,8 +2772,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:09:13.2312737+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:09:13.2122279+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:01.3536857+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:59:53.5089313+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:09:13.2313462+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:59:40.0711969+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:09:13.2122754+00:00"
 }

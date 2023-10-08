@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-10-08T16:05:20.9579343+00:00",
       "NumProgressed": 712,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-08T20:05:11.8843377+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2083,7 +2088,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "_03_FinishAct1",
@@ -2091,7 +2096,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2115,7 +2120,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_07_FinishAct3",
@@ -2123,7 +2128,7 @@
       "Name": "All Good Things",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "_08_Completion_10",
@@ -2131,7 +2136,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "_09_Completion_20",
@@ -2163,7 +2168,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_13_Completion_60",
@@ -2187,7 +2192,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2195,15 +2200,15 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2267,7 +2272,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2275,14 +2280,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 22
     }
   ],
@@ -2290,8 +2295,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-08T19:05:16.5667635+00:00",
+  "LastChanged_Achievements": "2023-10-08T20:05:11.8843373+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-08T18:57:50.9213198+00:00",
-  "LastUpdate_Achievements": "2023-10-08T19:05:16.5668019+00:00"
+  "LastUpdate_Ratings": "2023-10-08T19:58:00.0864952+00:00",
+  "LastUpdate_Achievements": "2023-10-08T20:05:11.8843615+00:00"
 }
