@@ -2,10 +2,10 @@
   "ID": "cee9bc2ddce74023a7327f7e71d144c6",
   "Name": "Asemblance: Oversight",
   "ProductSlug": "asemblance-oversight",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-03T15:00:00+00:00",
     "PcReleaseDate": "2021-05-15T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.3746064+00:00",
   "LastChanged": "2023-03-31T05:58:11.3746065+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.4323697+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:58:35.125137+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:06:13.780767+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:58:28.6012632+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:06:07.7453685+00:00"
 }

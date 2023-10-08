@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8724,7 +8724,7 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298050,
+  "EOS_Progressed": 298051,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 3,
@@ -27174,6 +27174,11 @@
       "Time": "2023-10-08T21:06:31.4141329+00:00",
       "NumProgressed": 298050,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-08T22:07:05.0520673+00:00",
+      "NumProgressed": 298051,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27273,7 +27278,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14903
     },
     {
       "ID": "PFA_20",
@@ -27377,7 +27382,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "PFA_32",
@@ -27409,7 +27414,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26824
+      "UsersEstimate": 26825
     },
     {
       "ID": "PFA_36",
@@ -27425,7 +27430,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "PFA_38",
@@ -27457,7 +27462,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "PFA_41",
@@ -27465,7 +27470,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14903
     },
     {
       "ID": "PFA_42",
@@ -27489,7 +27494,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26824
+      "UsersEstimate": 26825
     },
     {
       "ID": "PFA_45",
@@ -27497,7 +27502,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "PFA_5",
@@ -27513,7 +27518,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38746
+      "UsersEstimate": 38747
     },
     {
       "ID": "PFA_7",
@@ -27521,7 +27526,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38746
+      "UsersEstimate": 38747
     },
     {
       "ID": "PFA_8",
@@ -27537,14 +27542,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26824
+      "UsersEstimate": 26825
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298050,
+      "Progressed": 298051,
       "Completed": 482
     }
   ],
@@ -27552,8 +27557,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-08T19:57:55.3590672+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:06:31.4141322+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:07:05.0520669+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:57:47.1760491+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:06:31.4142979+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:57:40.9615678+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:07:05.052198+00:00"
 }

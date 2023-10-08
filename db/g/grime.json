@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151356,
+  "EOS_Progressed": 151364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1706,
+  "EOS_NewPlayers": 1714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10989,6 +10989,11 @@
       "Time": "2023-10-08T21:05:13.3640302+00:00",
       "NumProgressed": 151356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T22:05:07.8355648+00:00",
+      "NumProgressed": 151364,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11048,7 +11053,7 @@
       "Name": "The Hunt",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -11062,9 +11067,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1514
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -11272,7 +11277,7 @@
       "Name": "Ravenous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -11367,21 +11372,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150939,
+      "Progressed": 150947,
       "Completed": 1148
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151356,
+      "Progressed": 151364,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:05:13.3640297+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:05:07.8355643+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:57:13.0256706+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:05:13.3641323+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:57:07.0673921+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:05:07.835642+00:00"
 }

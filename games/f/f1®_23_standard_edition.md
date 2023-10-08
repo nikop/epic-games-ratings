@@ -5,26 +5,26 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,928 |
-| On the Top Step | 89.00% | ~2,743 |
-| Setting up for Success | 78.00% | ~2,404 |
+| Getting on the Step | 95.00% | ~2,929 |
+| On the Top Step | 89.00% | ~2,744 |
+| Setting up for Success | 78.00% | ~2,405 |
 | Team Orders | 75.00% | ~2,312 |
-| Engineer | 55.00% | ~1,695 |
-| Familiar Faces | 49.00% | ~1,510 |
-| Going the Extra Mile | 44.00% | ~1,356 |
+| Engineer | 55.00% | ~1,696 |
+| Familiar Faces | 49.00% | ~1,511 |
+| Going the Extra Mile | 44.00% | ~1,357 |
 | Sharing the Love | 41.00% | ~1,264 |
-| Hitting a Season | 37.00% | ~1,140 |
+| Hitting a Season | 37.00% | ~1,141 |
 | Challenge Yourself | 34.00% | ~1,048 |
-| A Dozen Pieces | 32.00% | ~986 |
-| Making History | 32.00% | ~986 |
-| Writing a new Chapter | 26.00% | ~801 |
-| Network Success | 25.00% | ~770 |
+| A Dozen Pieces | 32.00% | ~987 |
+| Making History | 32.00% | ~987 |
+| Writing a new Chapter | 26.00% | ~802 |
+| Network Success | 25.00% | ~771 |
 | Spring Cleaning | 24.00% | ~740 |
-| Reduce | 20.00% | ~616 |
-| Ups and Downs | 20.00% | ~616 |
+| Reduce | 20.00% | ~617 |
+| Ups and Downs | 20.00% | ~617 |
 | Crucial Combo | 18.00% | ~555 |
+| One for the Book | 18.00% | ~555 |
 | Reuse | 17.00% | ~524 |
-| One for the Book | 17.00% | ~524 |
 | Gathering Dust | 16.00% | ~493 |
 | Proving Them Wrong | 16.00% | ~493 |
 | Oil and Water | 15.00% | ~462 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,082 (Ranked 189)  
+Progressed: 3,083 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 2,950 | 0 |
 | 2023-10-06 | 2,987 | 0 |
 | 2023-10-07 | 3,037 | 0 |
-| 2023-10-08 | 3,082 | 0 |
+| 2023-10-08 | 3,083 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

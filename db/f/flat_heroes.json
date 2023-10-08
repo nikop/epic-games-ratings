@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1009,9 +1009,9 @@
       "ID": "DashDashDash",
       "SetID": "d9ekhim",
       "Name": "Be water, my friend",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 339
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:04:51.6215083+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:04:46.2259155+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.7361934+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:57:40.4824419+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:04:51.6215487+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:57:33.8526885+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:04:46.2259543+00:00"
 }

@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 2.00% | ~291 |
+| Architect | 1.00% | ~145 |
 | Explorer | 1.00% | ~145 |
 | Good | 1.00% | ~145 |
 | Intrepid | 1.00% | ~145 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
 | Able | 0.90% | ~131 |
-| Architect | 0.90% | ~131 |
 | Learned | 0.90% | ~131 |
 | Mason | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
@@ -26,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
-| Babylonian Paganism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
@@ -38,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
+| Babylonian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
 | Via Recta Souk | 0.30% | ~44 |
+| Learn to Play 4 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
 | Greece | 0.30% | ~44 |
 | Power to the People | 0.30% | ~44 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
-| Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
 | Egypt | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,533 (Ranked 134)  
+Progressed: 14,534 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,533 | 5 |
+| 2023-10-08 | 14,534 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

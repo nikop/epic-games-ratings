@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12355,
+  "EOS_Progressed": 12357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11591,6 +11591,11 @@
       "Time": "2023-10-08T21:03:42.3748327+00:00",
       "NumProgressed": 12355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T22:03:47.1820767+00:00",
+      "NumProgressed": 12357,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11674,7 +11679,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11690,7 +11695,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -11801,14 +11806,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12355,
+      "Progressed": 12357,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:03:42.374832+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:03:47.1820763+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:00:31.7838818+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:03:42.3749258+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:02:07.6318054+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:03:47.182147+00:00"
 }

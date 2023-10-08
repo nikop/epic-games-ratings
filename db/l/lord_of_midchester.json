@@ -2,10 +2,10 @@
   "ID": "ffc73ba3318048989268828fdd43ff2b",
   "Name": "Lord of Midchester",
   "ProductSlug": "lord-of-midchester-941d6d",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-06T00:00:00+00:00",
     "PcReleaseDate": "2022-12-16T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:02.61591+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:59:32.9438124+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:08:08.7391794+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:59:28.6129139+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:07:21.3051259+00:00"
 }

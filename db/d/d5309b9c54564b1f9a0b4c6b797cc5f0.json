@@ -2,10 +2,10 @@
   "ID": "d5309b9c54564b1f9a0b4c6b797cc5f0",
   "Name": "Under The Waves",
   "ProductSlug": "under-the-waves-submarine-c88c1e",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-28T22:00:00+00:00",
     "PcReleaseDate": "2023-08-28T22:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-08-29T13:02:27.4938546+00:00",
   "FirstSeenAchievements": "2023-08-29T07:03:06.2687556+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:03:33.9993302+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:03:38.8489336+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:13.1014743+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:58:13.5064256+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:03:33.9993333+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:58:08.7609453+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:03:38.8489363+00:00"
 }

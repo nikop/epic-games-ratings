@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~9,278 |
-| Zealous | 0.90% | ~8,350 |
-| Skillful | 0.90% | ~8,350 |
+| It wakes | 1.00% | ~9,279 |
+| Zealous | 0.90% | ~8,351 |
+| Skillful | 0.90% | ~8,351 |
 | Handyman | 0.70% | ~6,495 |
 | Not half bad | 0.70% | ~6,495 |
 | Apt Survivor | 0.70% | ~6,495 |
@@ -18,6 +18,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Medic | 0.60% | ~5,567 |
 | Nerves of steel | 0.60% | ~5,567 |
 | Sorted | 0.60% | ~5,567 |
+| Healthy Obsession | 0.60% | ~5,567 |
 | Resurgence | 0.60% | ~5,567 |
 | The Grand Sacrifice | 0.50% | ~4,639 |
 | Agonizing Escape | 0.50% | ~4,639 |
@@ -26,27 +27,28 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bloody Millionaire | 0.50% | ~4,639 |
 | I | 0.50% | ~4,639 |
 | Engineer | 0.50% | ~4,639 |
-| Healthy Obsession | 0.50% | ~4,639 |
 | Preemptive Strike | 0.50% | ~4,639 |
 | Humanitarian | 0.50% | ~4,639 |
-| I've got your back | 0.40% | ~3,711 |
-| Perfect Killing | 0.40% | ~3,711 |
-| Apt Killer | 0.40% | ~3,711 |
-| Risk it all | 0.40% | ~3,711 |
-| II | 0.40% | ~3,711 |
-| Wounded Healer | 0.40% | ~3,711 |
-| Close Shave | 0.40% | ~3,711 |
-| Second Act | 0.40% | ~3,711 |
-| Made it out alive! | 0.30% | ~2,783 |
-| Vulture | 0.30% | ~2,783 |
-| III | 0.30% | ~2,783 |
-| Cherish your Life | 0.30% | ~2,783 |
-| First to the Punch | 0.30% | ~2,783 |
-| Old West Oasis | 0.30% | ~2,783 |
-| Every Last Drop | 0.30% | ~2,783 |
-| Raccoon City Recruit | 0.30% | ~2,783 |
-| With Scars to Show | 0.30% | ~2,783 |
-| Flight to Freedom | 0.30% | ~2,783 |
+| I've got your back | 0.40% | ~3,712 |
+| Perfect Killing | 0.40% | ~3,712 |
+| Apt Killer | 0.40% | ~3,712 |
+| Risk it all | 0.40% | ~3,712 |
+| II | 0.40% | ~3,712 |
+| Wounded Healer | 0.40% | ~3,712 |
+| Close Shave | 0.40% | ~3,712 |
+| Second Act | 0.40% | ~3,712 |
+| Made it out alive! | 0.30% | ~2,784 |
+| Vulture | 0.30% | ~2,784 |
+| III | 0.30% | ~2,784 |
+| Near-Death Experience | 0.30% | ~2,784 |
+| Cherish your Life | 0.30% | ~2,784 |
+| Unforgettable Getaway | 0.30% | ~2,784 |
+| First to the Punch | 0.30% | ~2,784 |
+| Old West Oasis | 0.30% | ~2,784 |
+| Every Last Drop | 0.30% | ~2,784 |
+| Raccoon City Recruit | 0.30% | ~2,784 |
+| With Scars to Show | 0.30% | ~2,784 |
+| Flight to Freedom | 0.30% | ~2,784 |
 | A bite for the Entity | 0.20% | ~1,856 |
 | Blood on your hands | 0.20% | ~1,856 |
 | Blood on your face | 0.20% | ~1,856 |
@@ -65,10 +67,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.20% | ~1,856 |
 | Holiday Get-Together | 0.20% | ~1,856 |
 | Game Over | 0.20% | ~1,856 |
-| Near-Death Experience | 0.20% | ~1,856 |
 | Campbell's Chapel Legacy | 0.20% | ~1,856 |
 | Ancestor's Rite | 0.20% | ~1,856 |
-| Unforgettable Getaway | 0.20% | ~1,856 |
 | Devoted Gatekeeping | 0.20% | ~1,856 |
 | Shrine Apparatus | 0.20% | ~1,856 |
 | Cutting Out | 0.20% | ~1,856 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927,792 (Ranked 14)  
+Progressed: 927,886 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 927,792 | 49 |
+| 2023-10-08 | 927,886 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,474 (Ranked 13)  

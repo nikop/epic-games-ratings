@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -414,9 +414,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2929,
+  "EOS_Progressed": 2930,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2023-10-08T18:07:54.3486978+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-08T22:07:13.6359125+00:00",
+      "NumProgressed": 2930,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3580,7 +3585,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3634,9 +3639,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 762
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3684,14 +3689,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2929,
+      "Progressed": 2930,
       "Completed": 121
     }
   ],
@@ -3699,8 +3704,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:06:40.0203913+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:07:13.635912+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:20.0712197+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:59:49.046442+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:06:40.0204297+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:59:45.9842132+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:07:13.6359366+00:00"
 }

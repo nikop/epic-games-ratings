@@ -2,10 +2,10 @@
   "ID": "c56dd8ab2daf431c9feacc0fc87b42fc",
   "Name": "SpasmsOfStupidity",
   "ProductSlug": "spasmsofstupidity-bae512",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T16:57:27.1783208+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:00:32.6927879+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:03:45.6525127+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:02:08.507048+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:03:50.3897001+00:00"
 }

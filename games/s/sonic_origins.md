@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.59 (Ranked 416)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 72.00% | ~387 |
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~387 |
 | Welcome to Sonic the Hedgehog 2 | 71.00% | ~381 |
-| Ring Collector | 67.00% | ~360 |
+| Ring Collector | 68.00% | ~365 |
 | Time Traveler | 66.00% | ~354 |
 | Everyone's Hero | 63.00% | ~338 |
 | Gallant Spin Dash | 60.00% | ~322 |
@@ -42,7 +42,7 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 13.00% | ~70 |
 | Sonic the Hedgehog 2 Mission Master | 12.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 266)  
+Progressed: 537 (Ranked 267)  
 Completed: 42 (7.82%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,8 +149,8 @@ Completed: 42 (7.82%) (Ranked 40)
 | 2023-10-08 | 537 | 42 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 318)  
-Sum: 128 (Ranked 413)  
-Diff (max vs sum): -95  
+Sum: 128 (Ranked 414)  
+Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 128 |

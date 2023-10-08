@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6442,9 +6442,9 @@
       "Count": 3758
     }
   ],
-  "EOS_Progressed": 137332,
+  "EOS_Progressed": 137334,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24022,6 +24022,11 @@
       "Time": "2023-10-08T21:05:19.6253789+00:00",
       "NumProgressed": 137332,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-08T22:05:14.429637+00:00",
+      "NumProgressed": 137334,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -24439,9 +24444,9 @@
       "ID": "furniture01",
       "SetID": "anfd17p",
       "Name": "Efficient Floor Space",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1236
     },
     {
       "ID": "furniture02",
@@ -24928,15 +24933,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137332,
+      "Progressed": 137334,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-08T20:58:26.5428073+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:05:19.6253782+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:05:14.4296367+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:58:26.542808+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:05:19.6256448+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:58:20.618034+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:05:14.4298443+00:00"
 }

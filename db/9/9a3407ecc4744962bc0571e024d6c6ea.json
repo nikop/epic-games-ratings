@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1925,9 +1925,9 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 488
     },
     {
       "ID": "Relic",
@@ -1988,8 +1988,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:05:06.8249586+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:05:01.3784617+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:59:30.3045466+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:05:06.8249865+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:59:25.8695397+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:05:01.3784828+00:00"
 }

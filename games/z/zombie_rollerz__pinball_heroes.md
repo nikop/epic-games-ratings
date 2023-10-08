@@ -12,8 +12,8 @@ Rating: 4.30 (Ranked 810)
 | Right in the kisser! | 60.00% | ~101 |
 | The Thrower | 49.00% | ~83 |
 | Duscot Steamcity | 48.00% | ~81 |
+| The Penguin | 46.00% | ~78 |
 | The Shaman | 46.00% | ~78 |
-| The Penguin | 45.00% | ~76 |
 | The Magician | 42.00% | ~71 |
 | The Tunneler | 40.00% | ~68 |
 | Level Up!! | 38.00% | ~64 |
@@ -28,12 +28,12 @@ Rating: 4.30 (Ranked 810)
 | 1 is all I need | 22.00% | ~37 |
 | The Slime | 22.00% | ~37 |
 | Untouchable | 21.00% | ~35 |
+| The Giant | 18.00% | ~30 |
 | The Blacksmith | 17.00% | ~29 |
 | The Flower | 17.00% | ~29 |
-| The Giant | 17.00% | ~29 |
 | Out of the Frying Pan... | 17.00% | ~29 |
+| Ember | 17.00% | ~29 |
 | The Ooze | 16.00% | ~27 |
-| Ember | 16.00% | ~27 |
 | The Assistant | 15.00% | ~25 |
 | The Steampunk | 14.00% | ~24 |
 | Turquoise | 14.00% | ~24 |

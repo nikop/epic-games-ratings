@@ -1,29 +1,29 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.28 (Ranked 827)  
+Rating: 4.28 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~148,112 |
-| Doubled Pawn | 56.00% | ~118,489 |
-| Check | 55.00% | ~116,373 |
-| Absolute pin | 47.00% | ~99,446 |
-| Promotion | 31.00% | ~65,592 |
-| Checkmate | 30.00% | ~63,476 |
-| O-O | 24.00% | ~50,781 |
-| Spanish Bishop | 21.00% | ~44,433 |
-| Queen Sacrifice | 20.00% | ~42,318 |
-| Stalemate | 18.00% | ~38,086 |
-| O-O-O | 13.00% | ~27,506 |
-| Octopus | 13.00% | ~27,506 |
-| Stranger Danger | 12.00% | ~25,391 |
-| En Passant | 9.00% | ~19,043 |
-| Double Check | 7.00% | ~14,811 |
-| Piece Collector | 6.00% | ~12,695 |
-| ELO | 5.00% | ~10,579 |
-| Family Fork | 5.00% | ~10,579 |
-| Friendly Fire | 5.00% | ~10,579 |
+| Chop Wood | 70.00% | ~148,118 |
+| Doubled Pawn | 56.00% | ~118,494 |
+| Check | 55.00% | ~116,378 |
+| Absolute pin | 47.00% | ~99,451 |
+| Promotion | 31.00% | ~65,595 |
+| Checkmate | 30.00% | ~63,479 |
+| O-O | 24.00% | ~50,783 |
+| Spanish Bishop | 21.00% | ~44,435 |
+| Queen Sacrifice | 20.00% | ~42,319 |
+| Stalemate | 18.00% | ~38,087 |
+| O-O-O | 13.00% | ~27,508 |
+| Octopus | 13.00% | ~27,508 |
+| Stranger Danger | 12.00% | ~25,392 |
+| En Passant | 9.00% | ~19,044 |
+| Double Check | 7.00% | ~14,812 |
+| Piece Collector | 6.00% | ~12,696 |
+| ELO | 5.00% | ~10,580 |
+| Family Fork | 5.00% | ~10,580 |
+| Friendly Fire | 5.00% | ~10,580 |
 | Underpromote | 4.00% | ~8,464 |
 | ELO ELO | 3.00% | ~6,348 |
 | Learner | 3.00% | ~6,348 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 827)
 | Tournament Master | 0.10% | ~212 |
 | Tournament Pro | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,588 (Ranked 62)  
+Progressed: 211,597 (Ranked 62)  
 Completed: 2 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 2 (0.00%) (Ranked 310)
 | 2023-10-05 | 211,013 | 2 |
 | 2023-10-06 | 211,171 | 2 |
 | 2023-10-07 | 211,396 | 2 |
-| 2023-10-08 | 211,588 | 2 |
+| 2023-10-08 | 211,597 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

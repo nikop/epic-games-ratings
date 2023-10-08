@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,10 +256,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18310,
+  "EOS_Progressed": 18311,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 73,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 74,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -11301,6 +11301,11 @@
       "Time": "2023-10-08T20:04:51.6922508+00:00",
       "NumProgressed": 18310,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-08T22:04:27.3360966+00:00",
+      "NumProgressed": 18311,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11528,7 +11533,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4212
     },
     {
       "ID": "0029",
@@ -11599,7 +11604,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18310,
+      "Progressed": 18311,
       "Completed": 4
     }
   ],
@@ -11607,8 +11612,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:04:33.0717226+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:04:27.3360962+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:59:38.1841531+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:04:33.0718194+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:59:35.0581238+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:04:27.3361832+00:00"
 }

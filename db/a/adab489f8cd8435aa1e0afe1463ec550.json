@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "20",
       "SetID": "6hl9l7f",
       "Name": "Jammer",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "21",
@@ -235,9 +235,9 @@
       "ID": "25",
       "SetID": "6hl9l7f",
       "Name": "Milestone Reached",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "26",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:08:21.7369264+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:08:14.1898254+00:00",
   "LastUpdate_AppInfo": "2023-10-08T11:57:14.9996087+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:00:02.3965408+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:08:21.7369603+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:59:58.4234016+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:08:14.1898526+00:00"
 }

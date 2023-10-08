@@ -2,10 +2,10 @@
   "ID": "10290198c6dc48d5aa24d45bca39215a",
   "Name": "Beach Invasion 1945 - Pacific",
   "ProductSlug": "beach-invasion-1945-pacific-dad6cf",
-  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T02:13:52.9374041+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:00:23.8614756+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:05:14.7866518+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:00:19.2072204+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:05:09.3246182+00:00"
 }

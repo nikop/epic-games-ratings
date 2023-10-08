@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257087,
+  "EOS_Progressed": 257090,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18055,6 +18055,11 @@
       "Time": "2023-10-08T21:08:04.329969+00:00",
       "NumProgressed": 257087,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-08T22:07:17.1064667+00:00",
+      "NumProgressed": 257090,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18074,7 +18079,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "Act3",
@@ -18114,7 +18119,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79697
+      "UsersEstimate": 79698
     },
     {
       "ID": "BackHomeNTimes",
@@ -18130,7 +18135,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "BreakNWindows",
@@ -18138,7 +18143,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -18354,7 +18359,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56559
+      "UsersEstimate": 56560
     },
     {
       "ID": "KillOthers2",
@@ -18434,7 +18439,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10283
+      "UsersEstimate": 10284
     },
     {
       "ID": "Patrimony2",
@@ -18513,7 +18518,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257087,
+      "Progressed": 257090,
       "Completed": 3
     }
   ],
@@ -18521,8 +18526,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-08T03:57:24.6530613+00:00",
-  "LastChanged_Achievements": "2023-10-08T21:08:04.3299683+00:00",
+  "LastChanged_Achievements": "2023-10-08T22:07:17.1064662+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-08T20:57:44.4879898+00:00",
-  "LastUpdate_Achievements": "2023-10-08T21:08:04.3301248+00:00"
+  "LastUpdate_Ratings": "2023-10-08T21:57:38.2163263+00:00",
+  "LastUpdate_Achievements": "2023-10-08T22:07:17.1065881+00:00"
 }

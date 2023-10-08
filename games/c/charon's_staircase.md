@@ -13,20 +13,20 @@
 | A lonely death | 39.00% | ~31 |
 | An ear for music | 38.00% | ~30 |
 | Agatha's favourite song | 35.00% | ~28 |
-| Lights and shadows | 33.00% | ~26 |
+| Lights and shadows | 34.00% | ~27 |
+| The threshold of horror | 32.00% | ~25 |
 | Second document retrieved | 30.00% | ~24 |
-| The threshold of horror | 30.00% | ~24 |
-| Third document retrieved | 28.00% | ~22 |
-| Deadly chase | 28.00% | ~22 |
+| Third document retrieved | 29.00% | ~23 |
+| Deadly chase | 29.00% | ~23 |
+| The lowest floor of the lift | 28.00% | ~22 |
 | Dara's home | 28.00% | ~22 |
-| The lowest floor of the lift | 27.00% | ~21 |
-| Charon's coin | 25.00% | ~20 |
+| Charon's coin | 27.00% | ~21 |
 | Until death do us part | 24.00% | ~19 |
 | The impatient one | 20.00% | ~16 |
 | Spectres from the past | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 403)  
-Completed: 3 (3.80%) (Ranked 72)  
+Completed: 3 (3.80%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

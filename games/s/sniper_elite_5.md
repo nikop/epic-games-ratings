@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,708 |
+| Meeting Resistance | 46.00% | ~1,709 |
 | Confirming Suspicions | 41.00% | ~1,523 |
 | The Kraken Wakes | 36.00% | ~1,337 |
 | It's Starting to Crack | 33.00% | ~1,226 |
@@ -14,14 +14,14 @@ Rating: 4.45 (Ranked 646)
 | Taking it back | 28.00% | ~1,040 |
 | Resourceful | 27.00% | ~1,003 |
 | Target America | 26.00% | ~966 |
-| The Kraken Sleeps | 24.00% | ~891 |
+| The Kraken Sleeps | 24.00% | ~892 |
 | Organ Grinder | 23.00% | ~854 |
 | Liberté | 22.00% | ~817 |
 | Sharpshooter | 22.00% | ~817 |
 | As Quiet as a Mouse | 22.00% | ~817 |
 | Explosive Efficiency | 19.00% | ~706 |
 | Gunslinger | 18.00% | ~669 |
-| Just a Flesh Wound | 17.00% | ~631 |
+| Just a Flesh Wound | 17.00% | ~632 |
 | Climbing the Ladder | 16.00% | ~594 |
 | Der Geist | 16.00% | ~594 |
 | Close Quarters | 16.00% | ~594 |
@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 646)
 | Skirmisher | 14.00% | ~520 |
 | Die Nussknacker Sweet! | 14.00% | ~520 |
 | Set Europe Ablaze | 13.00% | ~483 |
-| Precision Is Key | 10.00% | ~371 |
-| My Little Friend | 10.00% | ~371 |
+| Precision Is Key | 10.00% | ~372 |
+| My Little Friend | 10.00% | ~372 |
 | Rigged to Blow | 8.00% | ~297 |
 | Herr Today, Gone Tomorrow | 6.00% | ~220 |
 | The Long Game | 5.00% | ~186 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 646)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,714 (Ranked 178)  
+Progressed: 3,715 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 11 (0.30%) (Ranked 201)
 | 2023-10-05 | 3,700 | 11 |
 | 2023-10-06 | 3,703 | 11 |
 | 2023-10-07 | 3,708 | 11 |
-| 2023-10-08 | 3,714 | 11 |
+| 2023-10-08 | 3,715 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
