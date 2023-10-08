@@ -22,9 +22,9 @@ Rating: 4.48 (Ranked 608)
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,453 |
 | Where It All Begun | 40.00% | ~1,384 |
 | Recouped Investment | 39.00% | ~1,349 |
+| Living Nightmare | 34.00% | ~1,176 |
 | The More The Merrier | 34.00% | ~1,176 |
 | Omelette Du Fromage | 33.00% | ~1,142 |
-| Living Nightmare | 33.00% | ~1,142 |
 | The Darwin Era Was Here | 30.00% | ~1,038 |
 | Deep Into Insanity | 28.00% | ~969 |
 | The Passenger | 28.00% | ~969 |

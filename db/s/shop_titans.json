@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6368,10 +6368,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27357,
       "NumberOfAwardsMax": 4776
+    },
+    {
+      "Time": "2023-10-08T16:58:31.9049315+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27359,
+      "NumberOfAwardsMax": 4776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27357,
+  "NumberOfAwards": 27359,
   "NumberOfAwardsMax": 4776,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6385,7 +6391,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3909
+      "Count": 3910
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6397,7 +6403,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3698
+      "Count": 3699
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6424,9 +6430,9 @@
       "Count": 3758
     }
   ],
-  "EOS_Progressed": 137315,
+  "EOS_Progressed": 137317,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23979,6 +23985,11 @@
       "Time": "2023-10-08T16:05:53.1724158+00:00",
       "NumProgressed": 137315,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-08T17:05:20.6200872+00:00",
+      "NumProgressed": 137317,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -23996,9 +24007,9 @@
       "ID": "advlevel02",
       "SetID": "anfd17p",
       "Name": "On the Path to Greatness",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1236
     },
     {
       "ID": "advlevel03",
@@ -24158,7 +24169,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "chest02",
@@ -24222,7 +24233,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "commonres02",
@@ -24806,7 +24817,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "twinenchant01",
@@ -24885,15 +24896,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137315,
+      "Progressed": 137317,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-08T15:58:33.8635178+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:05:53.1724152+00:00",
+  "LastChanged": "2023-10-08T16:58:31.9049312+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:05:20.6200866+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:58:33.8635186+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:05:53.1726826+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:58:31.9049319+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:05:20.6203653+00:00"
 }

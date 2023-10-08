@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 509,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 10562,
+  "EOS_Progressed": 10563,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11219,6 +11219,11 @@
       "Time": "2023-10-08T14:05:23.848661+00:00",
       "NumProgressed": 10562,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-08T17:04:32.8384503+00:00",
+      "NumProgressed": 10563,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11278,7 +11283,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH08",
@@ -11286,7 +11291,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH09",
@@ -11398,7 +11403,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "ACH23",
@@ -11501,7 +11506,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10562,
+      "Progressed": 10563,
       "Completed": 60
     }
   ],
@@ -11509,8 +11514,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-07T12:59:54.5914419+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:04:51.9697285+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:04:32.8384498+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:58:09.9075267+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:04:51.9698189+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:58:13.9954103+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:04:32.8385475+00:00"
 }

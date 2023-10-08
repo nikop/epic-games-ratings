@@ -2016,9 +2016,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 661
     },
     {
       "ID": "AC03",
@@ -2224,9 +2224,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 446
     },
     {
       "ID": "AC29",
@@ -2377,8 +2377,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:07:50.7269937+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:06:54.3204505+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:01:19.1278951+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:07:50.7270449+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:38.1198906+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:06:54.3205021+00:00"
 }

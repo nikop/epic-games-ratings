@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.74,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-10-07T17:08:14.5096404+00:00",
       "NumProgressed": 89,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-08T17:07:04.1738544+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -531,7 +536,7 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -603,7 +608,7 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -611,7 +616,7 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -732,14 +737,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:08:13.0784424+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:07:04.1738538+00:00",
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.6075217+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:01:12.6607037+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:08:13.0784689+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:33.5630236+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:07:04.1738808+00:00"
 }

@@ -40,7 +40,7 @@
   "Tags": [],
   "EOS_Progressed": 6994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3773,9 +3773,9 @@
       "ID": "CEUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 420
     },
     {
       "ID": "CreditsEarned50000",
@@ -4045,9 +4045,9 @@
       "ID": "MaxCreditsSpent25000",
       "SetID": "12d07c7",
       "Name": "Spent 25000 Credits in a single match",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 560
     },
     {
       "ID": "MaxDamageDone30000",
@@ -4334,8 +4334,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:08:30.1870594+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:09:07.3670232+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:57:05.9117267+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:08:30.1871777+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:57:24.9517601+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:09:07.3671276+00:00"
 }

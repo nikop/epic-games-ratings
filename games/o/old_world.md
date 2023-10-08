@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
 | Mythology | 0.40% | ~58 |
+| Win a Single Player Game | 0.40% | ~58 |
 | Beloved | 0.30% | ~44 |
 | Intercessor | 0.30% | ~44 |
 | Mighty | 0.30% | ~44 |
@@ -86,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
 | Via Recta Souk | 0.30% | ~44 |
+| Babylonia | 0.30% | ~44 |
 | Greece | 0.30% | ~44 |
 | Power to the People | 0.30% | ~44 |
 | Persian Paganism | 0.30% | ~44 |
@@ -97,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.30% | ~44 |
 | Double Victory | 0.30% | ~44 |
 | Points Victory | 0.30% | ~44 |
-| Win a Single Player Game | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~29 |
 | Learn to Play 4 | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
-| Babylonia | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
 | Egypt | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,524 (Ranked 134)  
+Progressed: 14,525 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,524 | 5 |
+| 2023-10-08 | 14,525 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 208)  

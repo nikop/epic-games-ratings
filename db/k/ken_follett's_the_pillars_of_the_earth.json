@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15623,
+  "EOS_Progressed": 15624,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11620,6 +11620,11 @@
       "Time": "2023-10-08T16:07:48.6775055+00:00",
       "NumProgressed": 15623,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-08T17:06:52.7942559+00:00",
+      "NumProgressed": 15624,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11647,7 +11652,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "tpote_achievement_12",
@@ -11807,7 +11812,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "tpote_achievement_30",
@@ -11895,7 +11900,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "tpote_achievement_40",
@@ -11958,15 +11963,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15623,
+      "Progressed": 15624,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:07:48.6775048+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:06:52.7942549+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:00:34.0073557+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:07:48.6776065+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:04.8513478+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:06:52.7943645+00:00"
 }

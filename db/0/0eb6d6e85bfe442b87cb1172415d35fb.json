@@ -246,9 +246,9 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FiveThousand",
@@ -326,9 +326,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OrACEO",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:06:31.7421996+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:05:51.4811411+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.8106372+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:00:49.8032675+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:06:31.7422276+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:17.836332+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:05:51.4811668+00:00"
 }

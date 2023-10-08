@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3711,
+  "EOS_Progressed": 3714,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7115,6 +7115,11 @@
       "Time": "2023-10-08T12:04:37.8522209+00:00",
       "NumProgressed": 3711,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-08T17:04:24.4375656+00:00",
+      "NumProgressed": 3714,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7134,7 +7139,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7188,9 +7193,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 817
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7198,7 +7203,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -7206,7 +7211,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7246,7 +7251,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7262,7 +7267,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7278,7 +7283,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7294,7 +7299,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7326,7 +7331,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7334,7 +7339,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7350,7 +7355,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7366,15 +7371,15 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1337
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7428,17 +7433,17 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1226
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7454,7 +7459,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -7462,7 +7467,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7478,7 +7483,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -7494,7 +7499,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7518,7 +7523,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7614,7 +7619,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -7622,7 +7627,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -7630,7 +7635,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -7693,13 +7698,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3662,
+      "Progressed": 3665,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3711,
+      "Progressed": 3714,
       "Completed": 11
     }
   ],
@@ -7707,8 +7712,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:04:41.270374+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:04:24.4375651+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:01:07.356111+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:04:41.2704865+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:29.7121403+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:04:24.4376812+00:00"
 }

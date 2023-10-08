@@ -2,10 +2,10 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 24.91,
+  "EOS_Completed_Percentage": 24.82,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1431,6 +1431,11 @@
       "Time": "2023-10-07T19:03:49.9750792+00:00",
       "NumProgressed": 277,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-08T17:04:29.474919+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1451,15 +1456,15 @@
       "Name": "Batteries",
       "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "FallDeath",
@@ -1467,15 +1472,15 @@
       "Name": "Accident",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "FirstBox",
       "SetID": "7jbi7el",
       "Name": "Test Task",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 270
     },
     {
       "ID": "Floppy",
@@ -1489,9 +1494,9 @@
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 238
+      "UsersEstimate": 236
     },
     {
       "ID": "GameComplete",
@@ -1515,7 +1520,7 @@
       "Name": "Something is wrong here",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Hologram",
@@ -1554,14 +1559,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:04:47.8770999+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:04:29.4749184+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:14.7228421+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:01:11.730485+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:04:47.8771207+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:32.9395146+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:04:29.4749386+00:00"
 }

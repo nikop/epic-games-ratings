@@ -7,7 +7,7 @@
 | The Game is Starting! | 17.00% | ~4 |
 | First steps!! | 13.00% | ~3 |
 | Keep going!!! | 13.00% | ~3 |
-| There is always a first time!!! | 9.00% | ~2 |
+| There is always a first time!!! | 8.00% | ~2 |
 | I can do it more!!! | 4.00% | ~1 |
 | This is a a good day!!!! | 4.00% | ~1 |
 | Sometimes is better think twice!!!! | 4.00% | ~1 |
@@ -65,7 +65,7 @@
 | I will clean this world!!! | 0.00% | ~0 |
 | Break the rules!!! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 473)  
+Progressed: 24 (Ranked 472)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,3 +87,4 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-09-07 | 21 | 0 |
 | 2023-09-21 | 22 | 0 |
 | 2023-09-26 | 23 | 0 |
+| 2023-10-08 | 24 | 0 |

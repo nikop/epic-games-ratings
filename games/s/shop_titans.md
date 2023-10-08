@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,119 |
-| Basic in Bulk | 3.00% | ~4,119 |
-| Titan's First Steps | 3.00% | ~4,119 |
+| Sponsored by Argon | 3.00% | ~4,120 |
+| Basic in Bulk | 3.00% | ~4,120 |
+| Titan's First Steps | 3.00% | ~4,120 |
 | One Easy Payment | 2.00% | ~2,746 |
 | Some Assembly Required | 2.00% | ~2,746 |
 | Disintermediation | 2.00% | ~2,746 |
@@ -29,12 +29,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,373 |
 | Through Repetition, Perfection | 1.00% | ~1,373 |
 | Did we pack lunch? | 1.00% | ~1,373 |
+| On the Path to Greatness | 0.90% | ~1,236 |
 | Ascended | 0.90% | ~1,236 |
 | Blank Page Syndrome | 0.90% | ~1,236 |
 | Gem Expert | 0.90% | ~1,236 |
 | Accomplished Merchant | 0.90% | ~1,236 |
 | Arcane Industries | 0.90% | ~1,236 |
-| On the Path to Greatness | 0.80% | ~1,099 |
 | Research & Development | 0.80% | ~1,099 |
 | Vanity, Verily | 0.80% | ~1,099 |
 | Efficient Floor Space | 0.80% | ~1,099 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,315 (Ranked 73)  
+Progressed: 137,317 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,19 +290,19 @@ Completed: 167 (0.12%) (Ranked 236)
 | 2023-10-05 | 137,159 | 162 |
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
-| 2023-10-08 | 137,315 | 167 |
+| 2023-10-08 | 137,317 | 167 |
 ## Awards
 Max (Great for Beginners): 4,776  (Ranked 71)  
-Sum: 27,357 (Ranked 50)  
+Sum: 27,359 (Ranked 50)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,776 |
 | This game is Relaxing | 4,022 |
 | This game has Quickly Understood Controls | 4,011 |
-| This game has Diverse Characters | 3,909 |
+| This game has Diverse Characters | 3,910 |
 | This game is Highly Recommended | 3,758 |
-| This game has Easy Combat | 3,698 |
+| This game has Easy Combat | 3,699 |
 | This game has Playful Visuals | 3,183 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -561,4 +561,4 @@ Diff (max vs sum): 21
 | 2023-10-05 | 3.99 | - | 4,771 | 27,338 |
 | 2023-10-06 | 3.99 | - | 4,771 | 27,340 |
 | 2023-10-07 | 3.99 | - | 4,776 | 27,353 |
-| 2023-10-08 | 3.99 | - | 4,776 | 27,357 |
+| 2023-10-08 | 3.99 | - | 4,776 | 27,359 |

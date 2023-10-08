@@ -9,25 +9,25 @@
 | Welcome to the Tower | 6.00% | ~16 |
 | The great escape | 6.00% | ~16 |
 | A new dawn | 4.00% | ~11 |
+| Cable guy | 3.00% | ~8 |
 | True G3M4R | 3.00% | ~8 |
+| Scholar | 3.00% | ~8 |
 | I did it | 2.00% | ~5 |
 | In this together | 2.00% | ~5 |
 | Peace walker | 2.00% | ~5 |
-| Cable guy | 2.00% | ~5 |
 | A good beginning | 2.00% | ~5 |
 | Half the way | 2.00% | ~5 |
 | Open door | 2.00% | ~5 |
+| Free at last | 2.00% | ~5 |
 | Feels like springtime | 2.00% | ~5 |
+| For its own good | 2.00% | ~5 |
 | A Link to the Past | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
-| Scholar | 2.00% | ~5 |
 | The darkness | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
-| Free at last | 1.00% | ~3 |
-| For its own good | 1.00% | ~3 |
-| A great audience | 0.40% | ~1 |
+| A great audience | 0.80% | ~2 |
 | Fashion victim | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 322)  

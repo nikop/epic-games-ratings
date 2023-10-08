@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -456,9 +456,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -719,8 +719,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:05:15.6699131+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:04:51.4642838+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:00:16.6570239+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:05:15.6699989+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:59:49.8603241+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:04:51.4643575+00:00"
 }

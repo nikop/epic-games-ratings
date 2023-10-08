@@ -912,9 +912,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6783,
+  "EOS_Progressed": 6784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6787,6 +6787,11 @@
       "Time": "2023-10-08T15:07:05.2076869+00:00",
       "NumProgressed": 6783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T17:05:42.7434554+00:00",
+      "NumProgressed": 6784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6838,7 +6843,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "Control_All_Relics",
@@ -6854,7 +6859,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -6918,7 +6923,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "First_Stream_Travel",
@@ -6934,7 +6939,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6990,7 +6995,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Level_5_Ship",
@@ -7014,7 +7019,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "Play_1000_Hours",
@@ -7118,7 +7123,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7326,7 +7331,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Win_Influence",
@@ -7373,15 +7378,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6783,
+      "Progressed": 6784,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:06:20.8140014+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:05:42.7434549+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.8619869+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:58:05.4986163+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:06:20.814114+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:58:10.6686799+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:05:42.7435687+00:00"
 }

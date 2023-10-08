@@ -1,26 +1,26 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 644)  
+Rating: 4.45 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,707 |
-| Confirming Suspicions | 41.00% | ~1,522 |
-| The Kraken Wakes | 37.00% | ~1,373 |
-| It's Starting to Crack | 34.00% | ~1,262 |
-| Lord of War | 30.00% | ~1,113 |
-| Change the Channel | 30.00% | ~1,113 |
-| Taking it back | 28.00% | ~1,039 |
-| Resourceful | 27.00% | ~1,002 |
-| Target America | 26.00% | ~965 |
+| Meeting Resistance | 46.00% | ~1,708 |
+| Confirming Suspicions | 41.00% | ~1,523 |
+| The Kraken Wakes | 36.00% | ~1,337 |
+| It's Starting to Crack | 33.00% | ~1,226 |
+| Lord of War | 30.00% | ~1,114 |
+| Change the Channel | 30.00% | ~1,114 |
+| Taking it back | 28.00% | ~1,040 |
+| Resourceful | 27.00% | ~1,003 |
+| Target America | 26.00% | ~966 |
 | The Kraken Sleeps | 24.00% | ~891 |
-| Organ Grinder | 23.00% | ~854 |
-| Liberté | 22.00% | ~816 |
-| Sharpshooter | 22.00% | ~816 |
-| As Quiet as a Mouse | 22.00% | ~816 |
-| Explosive Efficiency | 19.00% | ~705 |
-| Gunslinger | 18.00% | ~668 |
+| Liberté | 22.00% | ~817 |
+| Organ Grinder | 22.00% | ~817 |
+| Sharpshooter | 22.00% | ~817 |
+| As Quiet as a Mouse | 22.00% | ~817 |
+| Explosive Efficiency | 19.00% | ~706 |
+| Gunslinger | 18.00% | ~669 |
 | Just a Flesh Wound | 17.00% | ~631 |
 | Climbing the Ladder | 16.00% | ~594 |
 | Der Geist | 16.00% | ~594 |
@@ -33,22 +33,22 @@ Rating: 4.45 (Ranked 644)
 | Fields of Glory | 14.00% | ~520 |
 | Skirmisher | 14.00% | ~520 |
 | Die Nussknacker Sweet! | 14.00% | ~520 |
-| Set Europe Ablaze | 13.00% | ~482 |
+| Set Europe Ablaze | 13.00% | ~483 |
 | Precision Is Key | 10.00% | ~371 |
 | My Little Friend | 10.00% | ~371 |
 | Rigged to Blow | 8.00% | ~297 |
 | Herr Today, Gone Tomorrow | 6.00% | ~220 |
 | The Long Game | 5.00% | ~186 |
-| Tinkerer | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
 | Don't hold your breath | 5.00% | ~186 |
 | Operation Foxley | 5.00% | ~183 |
-| Strategist | 4.00% | ~148 |
-| Locomotion Commotion | 4.00% | ~148 |
-| Road Rage | 4.00% | ~148 |
-| Last Resort | 4.00% | ~146 |
-| Siegebreaker | 4.00% | ~146 |
-| Ghost of Falaise | 4.00% | ~146 |
+| Strategist | 4.00% | ~149 |
+| Tinkerer | 4.00% | ~149 |
+| Locomotion Commotion | 4.00% | ~149 |
+| Road Rage | 4.00% | ~149 |
+| Last Resort | 4.00% | ~147 |
+| Siegebreaker | 4.00% | ~147 |
+| Ghost of Falaise | 4.00% | ~147 |
 | From Paris with Love | 3.00% | ~111 |
 | Burn after reading | 3.00% | ~111 |
 | Souvenir hunter | 3.00% | ~111 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,711 (Ranked 178)  
+Progressed: 3,714 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 11 (0.30%) (Ranked 201)
 | 2023-10-05 | 3,700 | 11 |
 | 2023-10-06 | 3,703 | 11 |
 | 2023-10-07 | 3,708 | 11 |
-| 2023-10-08 | 3,711 | 11 |
+| 2023-10-08 | 3,714 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

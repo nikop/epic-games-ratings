@@ -162,9 +162,9 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 59,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
@@ -402,9 +402,9 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_34_HAZELWOOD",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:05:15.1460848+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:04:50.9901095+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:02:09.1745058+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:05:15.1461201+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:44.5418791+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:04:50.9901414+00:00"
 }

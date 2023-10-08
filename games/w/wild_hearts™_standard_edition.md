@@ -18,13 +18,13 @@
 | Expert Conjuror | 60.00% | ~69 |
 | Master of the Skies | 59.00% | ~68 |
 | Distance Devourer | 58.00% | ~67 |
+| Flawless Crystal | 57.00% | ~66 |
 | Helpful Heart | 57.00% | ~66 |
-| Flawless Crystal | 56.00% | ~64 |
 | Counter Specialist | 54.00% | ~62 |
 | Bonds of Enmity | 53.00% | ~61 |
 | Axer of Auspice | 47.00% | ~54 |
-| Fair Means or Foul | 44.00% | ~51 |
-| Mighty Marmelizer | 43.00% | ~49 |
+| Fair Means or Foul | 45.00% | ~52 |
+| Mighty Marmelizer | 44.00% | ~51 |
 | Single Minded | 42.00% | ~48 |
 | Snare Specialist | 41.00% | ~47 |
 | Karakuri Trail | 39.00% | ~45 |

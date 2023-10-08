@@ -1,41 +1,41 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 508)  
+Rating: 4.54 (Ranked 509)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,786 |
-| Break A Leg | 3.00% | ~20,786 |
-| Coup de Grâce | 3.00% | ~20,786 |
-| Hazardous Materials | 3.00% | ~20,786 |
-| Friends Like These | 3.00% | ~20,786 |
-| Hotel California | 3.00% | ~20,786 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,786 |
-| Welcome To Hell-A | 3.00% | ~20,786 |
-| Dr. Reed, I Presume? | 2.00% | ~13,857 |
-| Anger Management | 2.00% | ~13,857 |
-| Perks of the Job | 2.00% | ~13,857 |
-| Bookworm | 2.00% | ~13,857 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,857 |
-| But Doctor, I am Butcho | 2.00% | ~13,857 |
-| Slayer Squad | 2.00% | ~13,857 |
-| Can't Handle the Truth | 2.00% | ~13,857 |
-| Like Riding a Bike | 2.00% | ~13,857 |
-| Apex Predator | 2.00% | ~13,857 |
-| Zombologist | 2.00% | ~13,857 |
-| Ooh, Shiny! | 2.00% | ~13,857 |
-| A Patton Emerges | 2.00% | ~13,857 |
-| I Am the Resurrection | 2.00% | ~13,857 |
-| Stacking the Deck | 2.00% | ~13,857 |
-| Our True Nature | 2.00% | ~13,857 |
-| This is My Weapon | 2.00% | ~13,857 |
-| Making Your Mark | 1.00% | ~6,928 |
-| Humanity Distilled | 1.00% | ~6,928 |
-| Down with the Sickness | 1.00% | ~6,928 |
-| Max Headroom | 1.00% | ~6,928 |
-| Go, Bobcats! | 1.00% | ~6,928 |
-| Rising Star | 1.00% | ~6,928 |
+| Git Gutte! | 3.00% | ~20,787 |
+| Break A Leg | 3.00% | ~20,787 |
+| Coup de Grâce | 3.00% | ~20,787 |
+| Hazardous Materials | 3.00% | ~20,787 |
+| Friends Like These | 3.00% | ~20,787 |
+| Hotel California | 3.00% | ~20,787 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,787 |
+| Welcome To Hell-A | 3.00% | ~20,787 |
+| Dr. Reed, I Presume? | 2.00% | ~13,858 |
+| Anger Management | 2.00% | ~13,858 |
+| Perks of the Job | 2.00% | ~13,858 |
+| Bookworm | 2.00% | ~13,858 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,858 |
+| But Doctor, I am Butcho | 2.00% | ~13,858 |
+| Slayer Squad | 2.00% | ~13,858 |
+| Can't Handle the Truth | 2.00% | ~13,858 |
+| Like Riding a Bike | 2.00% | ~13,858 |
+| Apex Predator | 2.00% | ~13,858 |
+| Zombologist | 2.00% | ~13,858 |
+| Ooh, Shiny! | 2.00% | ~13,858 |
+| A Patton Emerges | 2.00% | ~13,858 |
+| I Am the Resurrection | 2.00% | ~13,858 |
+| Stacking the Deck | 2.00% | ~13,858 |
+| Our True Nature | 2.00% | ~13,858 |
+| This is My Weapon | 2.00% | ~13,858 |
+| Making Your Mark | 1.00% | ~6,929 |
+| Humanity Distilled | 1.00% | ~6,929 |
+| Down with the Sickness | 1.00% | ~6,929 |
+| Max Headroom | 1.00% | ~6,929 |
+| Go, Bobcats! | 1.00% | ~6,929 |
+| Rising Star | 1.00% | ~6,929 |
 | Jumbo Keyring | 0.90% | ~6,236 |
 | Smorgasbord | 0.80% | ~5,543 |
 | Not Even My Final Form | 0.70% | ~4,850 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 508)
 | Variety is the Spice of Death | 0.60% | ~4,157 |
 | LA Influential | 0.50% | ~3,464 |
 | Gore Horse | 0.50% | ~3,464 |
-| Sole Survivor | 0.40% | ~2,771 |
-| Sharpest Tool in the Box | 0.40% | ~2,771 |
+| Sole Survivor | 0.40% | ~2,772 |
+| Sharpest Tool in the Box | 0.40% | ~2,772 |
 | Survival Skills | 0.30% | ~2,079 |
 | Donk! | 0.20% | ~1,386 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,850 (Ranked 22)  
+Progressed: 692,890 (Ranked 22)  
 Completed: 2,204 (0.32%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 2,204 (0.32%) (Ranked 196)
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
-| 2023-10-08 | 692,850 | 2,204 |
+| 2023-10-08 | 692,890 | 2,204 |
 ## Awards
 Max (Great Boss Battles): 6,366  (Ranked 58)  
 Sum: 9,496 (Ranked 91)  

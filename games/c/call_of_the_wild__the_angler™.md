@@ -6,20 +6,20 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,755 |
-| Hey Good Hookin | 69.00% | ~4,153 |
-| I'm on a Boat! | 60.00% | ~3,611 |
+| Fish Just Got Reel | 79.00% | ~4,756 |
+| Hey Good Hookin | 69.00% | ~4,154 |
+| I'm on a Boat! | 60.00% | ~3,612 |
 | Can you smell what the Rod is Hooking | 56.00% | ~3,371 |
 | Scaling up | 56.00% | ~3,371 |
-| More Fish in the Sea | 49.00% | ~2,949 |
+| More Fish in the Sea | 49.00% | ~2,950 |
 | Ready to Rod and Roll | 47.00% | ~2,829 |
 | Fish Out of Water | 36.00% | ~2,167 |
-| License to Gill | 33.00% | ~1,986 |
+| License to Gill | 33.00% | ~1,987 |
 | Things that go Splash in the Night | 31.00% | ~1,866 |
 | Goldfish? | 29.00% | ~1,746 |
 | Going for Gold | 26.00% | ~1,565 |
 | I'm Hooked! | 20.00% | ~1,204 |
-| Diamond in the Rough | 13.00% | ~782 |
+| Diamond in the Rough | 13.00% | ~783 |
 | More than a Tourist | 11.00% | ~662 |
 | School's Out for Summer | 10.00% | ~602 |
 | Hook, Line and Sinker | 8.00% | ~482 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,019 (Ranked 165)  
+Progressed: 6,020 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,18 +213,18 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 5,990 | 0 |
 | 2023-10-06 | 5,996 | 0 |
 | 2023-10-07 | 6,011 | 0 |
-| 2023-10-08 | 6,019 | 0 |
+| 2023-10-08 | 6,020 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 451)  
-Sum: 180 (Ranked 390)  
-Diff (max vs sum): 61  
+Sum: 181 (Ranked 389)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |
 | This game has Amazing Storytelling | 33 |
 | This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 30 |
-| This game is Extremely Fun | 28 |
+| This game is Extremely Fun | 29 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -306,3 +306,4 @@ Diff (max vs sum): 61
 | 2023-10-02 | 4.18 | - | 36 | 179 |
 | 2023-10-05 | 4.18 | - | 36 | 180 |
 | 2023-10-06 | 4.17 | - | 36 | 180 |
+| 2023-10-08 | 4.17 | - | 36 | 181 |

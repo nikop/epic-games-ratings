@@ -5355,17 +5355,17 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5395,9 +5395,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -5682,8 +5682,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:07:31.223735+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:06:38.7849477+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-08T15:57:23.656092+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:07:31.2238378+00:00"
+  "LastUpdate_Ratings": "2023-10-08T16:57:38.2514956+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:06:38.785019+00:00"
 }

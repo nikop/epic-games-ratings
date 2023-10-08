@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16795,
+  "EOS_Progressed": 16796,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5543,6 +5543,11 @@
       "Time": "2023-10-08T15:07:55.2418257+00:00",
       "NumProgressed": 16795,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T17:06:19.1029704+00:00",
+      "NumProgressed": 16796,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5554,7 +5559,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15955
+      "UsersEstimate": 15956
     },
     {
       "ID": "ACH001",
@@ -5562,7 +5567,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14444
+      "UsersEstimate": 14445
     },
     {
       "ID": "ACH0010",
@@ -5570,7 +5575,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH0011",
@@ -5650,7 +5655,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12092
+      "UsersEstimate": 12093
     },
     {
       "ID": "ACH0020",
@@ -5674,7 +5679,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "ACH0023",
@@ -5706,7 +5711,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9237
+      "UsersEstimate": 9238
     },
     {
       "ID": "ACH004",
@@ -5714,7 +5719,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14612
+      "UsersEstimate": 14613
     },
     {
       "ID": "ACH005",
@@ -5728,9 +5733,9 @@
       "ID": "ACH006",
       "SetID": "6749a6l",
       "Name": "... And Where Do the Stories Come From?",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6886
+      "UsersEstimate": 6718
     },
     {
       "ID": "ACH007",
@@ -5738,7 +5743,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACH008",
@@ -5761,7 +5766,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16795,
+      "Progressed": 16796,
       "Completed": 0
     }
   ],
@@ -5769,8 +5774,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-08T16:07:06.4477114+00:00",
+  "LastChanged_Achievements": "2023-10-08T17:06:19.1029698+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-08T16:00:41.3257835+00:00",
-  "LastUpdate_Achievements": "2023-10-08T16:07:06.4477652+00:00"
+  "LastUpdate_Ratings": "2023-10-08T17:00:11.0483002+00:00",
+  "LastUpdate_Achievements": "2023-10-08T17:06:19.1030263+00:00"
 }
