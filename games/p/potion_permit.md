@@ -30,7 +30,7 @@ Rating: 3.81 (Ranked 996)
 | Line Cook | 12.00% | ~194 |
 | Good Samaritan | 11.00% | ~178 |
 | Production Sorter | 11.00% | ~178 |
-| Acrobatic Adventurer | 9.00% | ~146 |
+| Acrobatic Adventurer | 10.00% | ~162 |
 | Animal Exterminator | 9.00% | ~146 |
 | Adolescent Love | 6.00% | ~97 |
 | Mail Carrier | 6.00% | ~97 |
@@ -45,7 +45,7 @@ Rating: 3.81 (Ranked 996)
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,620 (Ranked 212)  
-Completed: 9 (0.56%) (Ranked 166)  
+Completed: 10 (0.62%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 9 (0.56%) (Ranked 166)
 | 2023-10-01 | 1,615 | 9 |
 | 2023-10-02 | 1,617 | 9 |
 | 2023-10-07 | 1,619 | 9 |
-| 2023-10-08 | 1,620 | 9 |
+| 2023-10-08 | 1,620 | 10 |
 ## Awards
 Max (Character Customization): 69  (Ranked 389)  
 Sum: 69 (Ranked 452)  

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting somewhere | 61.00% | ~28 |
-| Poor things... | 57.00% | ~26 |
-| So far so good... | 48.00% | ~22 |
-| Slay it! | 37.00% | ~17 |
-| Top notch! | 37.00% | ~17 |
+| Getting somewhere | 60.00% | ~28 |
+| Poor things... | 55.00% | ~26 |
+| So far so good... | 47.00% | ~22 |
+| Slay it! | 36.00% | ~17 |
+| Top notch! | 36.00% | ~17 |
 | Bling bling! | 28.00% | ~13 |
-| Slaughter | 24.00% | ~11 |
-| Still alive! | 22.00% | ~10 |
-| Lives lost | 22.00% | ~10 |
+| Slaughter | 23.00% | ~11 |
+| Still alive! | 21.00% | ~10 |
+| Lives lost | 21.00% | ~10 |
 | Slay that one too! | 15.00% | ~7 |
 | Massive slaughter | 11.00% | ~5 |
 | ... And that one! | 9.00% | ~4 |
-| You monster! | 7.00% | ~3 |
+| You monster! | 6.00% | ~3 |
 | Endurance test! | 4.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 442)  
+Progressed: 47 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-08-19 | 44 | 0 |
 | 2023-09-19 | 45 | 0 |
 | 2023-09-28 | 46 | 0 |
+| 2023-10-08 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

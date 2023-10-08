@@ -7,8 +7,8 @@ Rating: 4.56 (Ranked 471)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 9.00% | ~1,239 |
 | Drug Gifter | 4.00% | ~551 |
+| The Pit and the Pirates | 3.00% | ~413 |
 | Bosmang | 3.00% | ~413 |
-| The Pit and the Pirates | 2.00% | ~275 |
 | Data Archivist | 2.00% | ~275 |
 | Martian Music | 2.00% | ~275 |
 | Drone Dodger | 2.00% | ~275 |
@@ -31,12 +31,12 @@ Rating: 4.56 (Ranked 471)
 | Debris Spree | 0.30% | ~41 |
 | Data Recoverer | 0.30% | ~41 |
 | Urshanabi Hoarder | 0.20% | ~28 |
+| Data Miner | 0.20% | ~28 |
 | Grave Robber | 0.20% | ~28 |
-| Data Miner | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,768 (Ranked 135)  
+Progressed: 13,771 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,768 | 18 |
+| 2023-10-08 | 13,771 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

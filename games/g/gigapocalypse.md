@@ -11,20 +11,20 @@
 | Power Up | 71.00% | ~133 |
 | Thick Skin | 69.00% | ~130 |
 | Math Wizard | 66.00% | ~124 |
-| Destroy Erase Improve | 65.00% | ~122 |
-| Power Overload | 62.00% | ~117 |
+| Destroy Erase Improve | 66.00% | ~124 |
+| Power Overload | 63.00% | ~118 |
 | Quite A Snack | 60.00% | ~113 |
 | Impenetrable Skin | 57.00% | ~107 |
 | Overwhelming Power | 55.00% | ~103 |
+| Supreme Power | 46.00% | ~86 |
 | Chomp Chomp! | 46.00% | ~86 |
-| Supreme Power | 45.00% | ~85 |
-| The Duelist | 43.00% | ~81 |
+| The Duelist | 44.00% | ~83 |
+| Glorious Battle | 43.00% | ~81 |
 | Diaper Time! | 43.00% | ~81 |
 | Target Practice | 43.00% | ~81 |
-| Glorious Battle | 42.00% | ~79 |
 | Meat Larder | 40.00% | ~75 |
 | Mutant And Proud | 39.00% | ~73 |
-| The Emperor's New Clothes | 33.00% | ~62 |
+| The Emperor's New Clothes | 34.00% | ~64 |
 | Happy Little Home | 32.00% | ~60 |
 | Final Evolution | 32.00% | ~60 |
 | You Shall Not Pass | 31.00% | ~58 |

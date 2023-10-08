@@ -5,10 +5,10 @@
   "Ranking_Rating": 260,
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 138,
-  "Ranking_EOS_Progress": 63,
+  "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1735,9 +1735,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 206832,
+  "EOS_Progressed": 206841,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21155,6 +21155,11 @@
       "Time": "2023-10-08T22:03:18.7926494+00:00",
       "NumProgressed": 206832,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-08T23:03:45.3105632+00:00",
+      "NumProgressed": 206841,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21166,7 +21171,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "AtheistOx",
@@ -21214,7 +21219,7 @@
       "Name": "Five Shadows",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "FlyingRocks",
@@ -21230,7 +21235,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "Genin",
@@ -21238,7 +21243,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24820
+      "UsersEstimate": 24821
     },
     {
       "ID": "HappyLittleAccidents",
@@ -21246,7 +21251,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "HappyPlanning",
@@ -21270,7 +21275,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "ItsRainingMen",
@@ -21286,7 +21291,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "Mercyful",
@@ -21398,7 +21403,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "Stoned",
@@ -21414,7 +21419,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "TanukiTime",
@@ -21454,7 +21459,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20683
+      "UsersEstimate": 20684
     },
     {
       "ID": "TimeParadox",
@@ -21494,7 +21499,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "WinnerWinner",
@@ -21510,22 +21515,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 206832,
+      "Progressed": 206841,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-08T14:58:01.2052959+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:03:18.7926489+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:03:45.3105628+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:57:33.3157847+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:03:18.7927687+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:57:50.7923665+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:03:45.3107043+00:00"
 }

@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
 | Judaism | 0.80% | ~116 |
+| Babylonian Paganism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~102 |
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
-| Babylonian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.20% | ~29 |
 | Egypt | 0.20% | ~29 |
 | Rome | 0.20% | ~29 |
+| Old World Order | 0.20% | ~29 |
 | One True Faith | 0.20% | ~29 |
 | Assyrian Paganism | 0.20% | ~29 |
 | Hittite Paganism | 0.20% | ~29 |
@@ -226,7 +227,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.10% | ~15 |
 | Hatti | 0.10% | ~15 |
 | Persia | 0.10% | ~15 |
-| Old World Order | 0.10% | ~15 |
 | Pantheon of Gods | 0.10% | ~15 |
 | Apadana in Parsa | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |

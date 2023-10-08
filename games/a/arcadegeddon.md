@@ -11,7 +11,7 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Gauntlet Jockey | 83.00% | ~7,688 |
 | Plug It In | 82.00% | ~7,596 |
 | Adventure Time | 78.00% | ~7,225 |
-| Playing With Power | 75.00% | ~6,947 |
+| Playing With Power | 76.00% | ~7,040 |
 | Coup d'Etat | 58.00% | ~5,373 |
 | You're Fired | 56.00% | ~5,187 |
 | Get Furious | 55.00% | ~5,095 |

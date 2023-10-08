@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2651,6 +2651,11 @@
       "Time": "2023-10-08T22:05:22.1822771+00:00",
       "NumProgressed": 695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T23:06:28.3168976+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2823,7 +2828,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_PEAK",
@@ -2863,7 +2868,7 @@
       "Name": "Power Glove",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_S5",
@@ -2894,15 +2899,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:05:22.1822767+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:06:28.3168969+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:57:28.0495553+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:05:22.1823059+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:57:43.7487389+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:06:28.3169305+00:00"
 }

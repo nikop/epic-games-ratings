@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -426,9 +426,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248499,
+  "EOS_Progressed": 248503,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19546,6 +19546,11 @@
       "Time": "2023-10-08T22:08:27.3838302+00:00",
       "NumProgressed": 248499,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-08T23:09:04.8653035+00:00",
+      "NumProgressed": 248503,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19557,7 +19562,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67095
+      "UsersEstimate": 67096
     },
     {
       "ID": "ACH_AON",
@@ -19605,7 +19610,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -19653,7 +19658,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -19701,7 +19706,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69580
+      "UsersEstimate": 69581
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -19773,7 +19778,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59640
+      "UsersEstimate": 59641
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -19845,7 +19850,7 @@
       "Name": "Memory 5",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_MINDREADER",
@@ -19877,7 +19882,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62125
+      "UsersEstimate": 62126
     },
     {
       "ID": "ACH_SOREAD",
@@ -19957,7 +19962,7 @@
       "Name": "Well-deserved reunion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_WHOTROLL",
@@ -19965,14 +19970,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248499,
+      "Progressed": 248503,
       "Completed": 7
     }
   ],
@@ -19980,8 +19985,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-08T20:58:55.4987227+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:08:27.3838299+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:09:04.865303+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:58:51.1592494+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:08:27.3839574+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:59:36.6675552+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:09:04.8654638+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2848,6 +2848,11 @@
       "Time": "2023-10-07T05:04:35.7406584+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-08T23:04:58.549761+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2865,9 +2870,9 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 897
     },
     {
       "ID": "Collect20Iron",
@@ -2883,7 +2888,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "CollectAllStatues",
@@ -2891,7 +2896,7 @@
       "Name": "Return the Statues",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2971,7 +2976,7 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -2987,7 +2992,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3003,7 +3008,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "GetTHWeapon",
@@ -3019,7 +3024,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "Kill25Frogs",
@@ -3027,7 +3032,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "Kill25Mozi",
@@ -3075,7 +3080,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "RescueBrothers",
@@ -3098,22 +3103,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 591,
-      "Completed": 591
+      "Progressed": 592,
+      "Completed": 592
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:04:12.9305403+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:04:58.5497605+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:58:12.4486164+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:04:12.9305732+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:58:45.5937258+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:04:58.5497969+00:00"
 }

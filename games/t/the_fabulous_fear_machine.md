@@ -7,9 +7,9 @@
 | You have three wishes left | 81.00% | ~17 |
 | Master trainee | 76.00% | ~16 |
 | Jung's dream | 62.00% | ~13 |
+| The battle of Great Britain | 57.00% | ~12 |
 | Giant | 52.00% | ~11 |
-| The battle of Great Britain | 52.00% | ~11 |
-| Pulp! Where Monsters Dwell | 38.00% | ~8 |
+| Pulp! Where Monsters Dwell | 43.00% | ~9 |
 | A continent with chemistry | 38.00% | ~8 |
 | The happy farmer girl | 38.00% | ~8 |
 | A rival with no options | 33.00% | ~7 |
@@ -23,12 +23,14 @@
 | Et in arcadia ego | 24.00% | ~5 |
 | The seer | 24.00% | ~5 |
 | Kirlian's best disciple | 24.00% | ~5 |
+| You've awakened the beast | 19.00% | ~4 |
+| Hate is... addictive | 19.00% | ~4 |
 | The barbarian invasions | 19.00% | ~4 |
-| You've awakened the beast | 14.00% | ~3 |
-| Hate is... addictive | 14.00% | ~3 |
-| Welcome to Hellville | 14.00% | ~3 |
+| Welcome to Hellville | 19.00% | ~4 |
+| The bully | 14.00% | ~3 |
 | You had one wish left | 10.00% | ~2 |
-| The bully | 10.00% | ~2 |
+| Pulp! True Adventures | 10.00% | ~2 |
+| Pulp! The Beyond | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
 | Blessed antennas | 5.00% | ~1 |
 | The beast in the Oval Office | 5.00% | ~1 |
@@ -37,8 +39,6 @@
 | Fanatacism is... poisonous | 5.00% | ~1 |
 | The scholar | 5.00% | ~1 |
 | The adventurer | 5.00% | ~1 |
-| Pulp! True Adventures | 5.00% | ~1 |
-| Pulp! The Beyond | 5.00% | ~1 |
 | Thirst for Oleum | 5.00% | ~1 |
 | America had no Faith | 5.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |

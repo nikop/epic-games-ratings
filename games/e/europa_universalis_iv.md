@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,047 |
-| Until death do us apart | 4.00% | ~17,047 |
-| That is mine! | 3.00% | ~12,785 |
-| Victorious! | 3.00% | ~12,785 |
+| That's a Grand Army | 4.00% | ~17,048 |
+| Until death do us apart | 4.00% | ~17,048 |
+| That is mine! | 3.00% | ~12,786 |
+| Victorious! | 3.00% | ~12,786 |
 | Brothers in Arms | 2.00% | ~8,524 |
 | For the Glory | 2.00% | ~8,524 |
 | That's a Grand Navy | 2.00% | ~8,524 |
@@ -22,9 +22,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,262 |
 | Truly Divine Ruler | 1.00% | ~4,262 |
 | It's all about luck | 0.90% | ~3,836 |
-| Blockader | 0.80% | ~3,409 |
-| Double the Love | 0.80% | ~3,409 |
-| Total Control | 0.80% | ~3,409 |
+| Blockader | 0.80% | ~3,410 |
+| Double the Love | 0.80% | ~3,410 |
+| Total Control | 0.80% | ~3,410 |
 | Royal Authority | 0.70% | ~2,983 |
 | My armies are invincible! | 0.60% | ~2,557 |
 | Agressive Expander | 0.50% | ~2,131 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,175 (Ranked 41)  
+Progressed: 426,194 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,10 +532,10 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-05 | 423,171 | 1 |
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
-| 2023-10-08 | 426,175 | 1 |
+| 2023-10-08 | 426,194 | 1 |
 ## Awards
 Max (Educational): 6,445  (Ranked 56)  
-Sum: 52,983 (Ranked 24)  
+Sum: 52,995 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -544,7 +544,7 @@ Diff (max vs sum): 32
 | This game has Diverse Characters | 6,102 |
 | This game has Challenging Combat | 6,086 |
 | This game is Extremely Fun | 6,069 |
-| This game is Relaxing | 5,954 |
+| This game is Relaxing | 5,966 |
 | This game has Competitive Players | 5,774 |
 | This game has Amazing Storytelling | 5,394 |
 | This game has Amazing Characters | 5,006 |
@@ -816,4 +816,4 @@ Diff (max vs sum): 32
 | 2023-10-05 | 4.69 | - | 6,400 | 52,626 |
 | 2023-10-06 | 4.69 | - | 6,412 | 52,738 |
 | 2023-10-07 | 4.69 | - | 6,432 | 52,874 |
-| 2023-10-08 | 4.69 | - | 6,445 | 52,983 |
+| 2023-10-08 | 4.69 | - | 6,445 | 52,995 |

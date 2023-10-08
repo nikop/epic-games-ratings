@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -472,9 +472,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achSponsor10",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:07:08.9261312+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:07:55.6853076+00:00",
   "LastUpdate_AppInfo": "2023-10-05T09:57:13.8606524+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:57:48.3856695+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:07:08.9261498+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:58:12.7304153+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:07:55.6853354+00:00"
 }

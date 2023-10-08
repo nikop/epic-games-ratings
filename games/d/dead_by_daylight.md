@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~9,279 |
-| Zealous | 0.90% | ~8,351 |
-| Skillful | 0.90% | ~8,351 |
-| Handyman | 0.70% | ~6,495 |
-| Not half bad | 0.70% | ~6,495 |
-| Apt Survivor | 0.70% | ~6,495 |
-| Survival Treasures | 0.70% | ~6,495 |
-| Make Some Noise | 0.70% | ~6,495 |
-| No one left behind | 0.60% | ~5,567 |
-| Medic | 0.60% | ~5,567 |
-| Nerves of steel | 0.60% | ~5,567 |
-| Sorted | 0.60% | ~5,567 |
-| Healthy Obsession | 0.60% | ~5,567 |
-| Resurgence | 0.60% | ~5,567 |
-| The Grand Sacrifice | 0.50% | ~4,639 |
-| Agonizing Escape | 0.50% | ~4,639 |
-| Backdoor Escape | 0.50% | ~4,639 |
-| Perfect Escape | 0.50% | ~4,639 |
-| Bloody Millionaire | 0.50% | ~4,639 |
-| I | 0.50% | ~4,639 |
-| Engineer | 0.50% | ~4,639 |
-| Preemptive Strike | 0.50% | ~4,639 |
-| Humanitarian | 0.50% | ~4,639 |
+| It wakes | 1.00% | ~9,280 |
+| Zealous | 0.90% | ~8,352 |
+| Skillful | 0.90% | ~8,352 |
+| Handyman | 0.70% | ~6,496 |
+| Not half bad | 0.70% | ~6,496 |
+| Apt Survivor | 0.70% | ~6,496 |
+| Survival Treasures | 0.70% | ~6,496 |
+| Make Some Noise | 0.70% | ~6,496 |
+| No one left behind | 0.60% | ~5,568 |
+| Medic | 0.60% | ~5,568 |
+| Nerves of steel | 0.60% | ~5,568 |
+| Sorted | 0.60% | ~5,568 |
+| Healthy Obsession | 0.60% | ~5,568 |
+| Resurgence | 0.60% | ~5,568 |
+| The Grand Sacrifice | 0.50% | ~4,640 |
+| Agonizing Escape | 0.50% | ~4,640 |
+| Backdoor Escape | 0.50% | ~4,640 |
+| Perfect Escape | 0.50% | ~4,640 |
+| Bloody Millionaire | 0.50% | ~4,640 |
+| I | 0.50% | ~4,640 |
+| Engineer | 0.50% | ~4,640 |
+| Preemptive Strike | 0.50% | ~4,640 |
+| Humanitarian | 0.50% | ~4,640 |
 | I've got your back | 0.40% | ~3,712 |
 | Perfect Killing | 0.40% | ~3,712 |
 | Apt Killer | 0.40% | ~3,712 |
@@ -49,6 +49,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.30% | ~2,784 |
 | With Scars to Show | 0.30% | ~2,784 |
 | Flight to Freedom | 0.30% | ~2,784 |
+| A Fast Death | 0.30% | ~2,784 |
+| Chorus of Chaos | 0.30% | ~2,784 |
 | A bite for the Entity | 0.20% | ~1,856 |
 | Blood on your hands | 0.20% | ~1,856 |
 | Blood on your face | 0.20% | ~1,856 |
@@ -81,10 +83,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.20% | ~1,856 |
 | Insult and Injury | 0.20% | ~1,856 |
 | Outrun the Overlap | 0.20% | ~1,856 |
-| A Fast Death | 0.20% | ~1,856 |
 | Rebuilding The Borgo | 0.20% | ~1,856 |
 | Lifting The Fog | 0.20% | ~1,856 |
-| Chorus of Chaos | 0.20% | ~1,856 |
 | Extraterrestrial | 0.20% | ~1,856 |
 | One More Step | 0.20% | ~1,856 |
 | MU/TH/UR Dearest | 0.20% | ~1,856 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927,886 (Ranked 14)  
+Progressed: 927,984 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 927,886 | 49 |
+| 2023-10-08 | 927,984 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,474 (Ranked 13)  

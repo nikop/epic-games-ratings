@@ -20,8 +20,8 @@
 | First Kiss | 38.00% | ~40 |
 | Symbiosis | 37.00% | ~38 |
 | A Bigger Band | 34.00% | ~35 |
-| Fuel | 31.00% | ~32 |
-| Alone Together | 30.00% | ~31 |
+| Fuel | 32.00% | ~33 |
+| Alone Together | 31.00% | ~32 |
 | Threatening Nature | 28.00% | ~29 |
 | Flat Tire | 26.00% | ~27 |
 | The Clash | 23.00% | ~24 |

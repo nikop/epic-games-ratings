@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1015,6 +1015,11 @@
       "Time": "2023-10-08T00:06:25.3765535+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-08T23:06:52.9787825+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1026,7 +1031,7 @@
       "Name": "Fashion Racer",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALLCHASSIS",
@@ -1050,7 +1055,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ALLMODULESS",
@@ -1058,7 +1063,7 @@
       "Name": "S-uper!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALLMODULESSIGNATURE",
@@ -1066,7 +1071,7 @@
       "Name": "Put a sign on it",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALLTRACKSBLACK",
@@ -1130,7 +1135,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1162,7 +1167,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "CAREERCLASSA",
@@ -1178,7 +1183,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1210,7 +1215,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1234,7 +1239,7 @@
       "Name": "Redout Champion",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETE10FRIENDS",
@@ -1242,7 +1247,7 @@
       "Name": "Everything is better with friends",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FINISHFAST",
@@ -1290,7 +1295,7 @@
       "Name": "Familiar Face",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "JOINONEFRIEND",
@@ -1306,7 +1311,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1322,7 +1327,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ONELIVERY",
@@ -1346,7 +1351,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ONEPLATINUM",
@@ -1370,7 +1375,7 @@
       "Name": "Eat dust my friend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PARMESANCHEESE",
@@ -1386,7 +1391,7 @@
       "Name": "Better than half the studio...",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WIN50ONLINE",
@@ -1410,7 +1415,7 @@
       "Name": "Grandslam",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WINLAST",
@@ -1441,7 +1446,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 0
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-08T22:05:40.8361126+00:00",
+  "LastChanged_Achievements": "2023-10-08T23:06:52.978782+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:33.6296431+00:00",
-  "LastUpdate_Ratings": "2023-10-08T21:58:57.1720829+00:00",
-  "LastUpdate_Achievements": "2023-10-08T22:05:40.8361669+00:00"
+  "LastUpdate_Ratings": "2023-10-08T22:59:44.7637396+00:00",
+  "LastUpdate_Achievements": "2023-10-08T23:06:52.9788286+00:00"
 }
