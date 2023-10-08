@@ -5,27 +5,27 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~2,863 |
-| On the Top Step | 88.00% | ~2,680 |
-| Setting up for Success | 77.00% | ~2,345 |
-| Team Orders | 75.00% | ~2,284 |
-| Engineer | 55.00% | ~1,675 |
-| Familiar Faces | 49.00% | ~1,493 |
-| Going the Extra Mile | 44.00% | ~1,340 |
-| Sharing the Love | 41.00% | ~1,249 |
+| Getting on the Step | 94.00% | ~2,865 |
+| On the Top Step | 88.00% | ~2,682 |
+| Setting up for Success | 78.00% | ~2,377 |
+| Team Orders | 75.00% | ~2,286 |
+| Engineer | 55.00% | ~1,676 |
+| Familiar Faces | 49.00% | ~1,494 |
+| Going the Extra Mile | 44.00% | ~1,341 |
+| Sharing the Love | 41.00% | ~1,250 |
 | Hitting a Season | 36.00% | ~1,097 |
 | Challenge Yourself | 34.00% | ~1,036 |
 | Making History | 32.00% | ~975 |
-| A Dozen Pieces | 31.00% | ~944 |
+| A Dozen Pieces | 31.00% | ~945 |
 | Network Success | 25.00% | ~762 |
 | Writing a new Chapter | 25.00% | ~762 |
-| Spring Cleaning | 24.00% | ~731 |
-| Ups and Downs | 20.00% | ~609 |
+| Spring Cleaning | 24.00% | ~732 |
+| Ups and Downs | 20.00% | ~610 |
 | Reduce | 19.00% | ~579 |
-| Crucial Combo | 18.00% | ~548 |
+| Crucial Combo | 18.00% | ~549 |
 | Reuse | 17.00% | ~518 |
 | One for the Book | 17.00% | ~518 |
-| Proving Them Wrong | 16.00% | ~487 |
+| Proving Them Wrong | 16.00% | ~488 |
 | Gathering Dust | 15.00% | ~457 |
 | Oil and Water | 15.00% | ~457 |
 | Eagle Eye | 13.00% | ~396 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,046 (Ranked 189)  
+Progressed: 3,048 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 309)
 | 2023-10-05 | 2,950 | 0 |
 | 2023-10-06 | 2,987 | 0 |
 | 2023-10-07 | 3,037 | 0 |
-| 2023-10-08 | 3,046 | 0 |
+| 2023-10-08 | 3,048 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

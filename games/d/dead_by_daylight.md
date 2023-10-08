@@ -6,7 +6,7 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 0.90% | ~8,335 |
+| It wakes | 0.90% | ~8,336 |
 | Zealous | 0.80% | ~7,409 |
 | Skillful | 0.80% | ~7,409 |
 | Handyman | 0.60% | ~5,557 |
@@ -14,6 +14,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Apt Survivor | 0.60% | ~5,557 |
 | Survival Treasures | 0.60% | ~5,557 |
 | Make Some Noise | 0.60% | ~5,557 |
+| The Grand Sacrifice | 0.50% | ~4,631 |
 | No one left behind | 0.50% | ~4,631 |
 | Medic | 0.50% | ~4,631 |
 | Nerves of steel | 0.50% | ~4,631 |
@@ -22,24 +23,24 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 0.50% | ~4,631 |
 | Healthy Obsession | 0.50% | ~4,631 |
 | Resurgence | 0.50% | ~4,631 |
-| The Grand Sacrifice | 0.40% | ~3,704 |
-| Agonizing Escape | 0.40% | ~3,704 |
-| Backdoor Escape | 0.40% | ~3,704 |
-| I've got your back | 0.40% | ~3,704 |
-| Perfect Escape | 0.40% | ~3,704 |
-| Perfect Killing | 0.40% | ~3,704 |
-| Engineer | 0.40% | ~3,704 |
-| Close Shave | 0.40% | ~3,704 |
-| Preemptive Strike | 0.40% | ~3,704 |
-| Humanitarian | 0.40% | ~3,704 |
-| Apt Killer | 0.30% | ~2,778 |
-| Risk it all | 0.30% | ~2,778 |
-| Vulture | 0.30% | ~2,778 |
-| II | 0.30% | ~2,778 |
-| III | 0.30% | ~2,778 |
-| Wounded Healer | 0.30% | ~2,778 |
-| With Scars to Show | 0.30% | ~2,778 |
-| Second Act | 0.30% | ~2,778 |
+| Agonizing Escape | 0.40% | ~3,705 |
+| Backdoor Escape | 0.40% | ~3,705 |
+| I've got your back | 0.40% | ~3,705 |
+| Perfect Escape | 0.40% | ~3,705 |
+| Perfect Killing | 0.40% | ~3,705 |
+| Engineer | 0.40% | ~3,705 |
+| Close Shave | 0.40% | ~3,705 |
+| Preemptive Strike | 0.40% | ~3,705 |
+| Humanitarian | 0.40% | ~3,705 |
+| Apt Killer | 0.30% | ~2,779 |
+| Risk it all | 0.30% | ~2,779 |
+| Vulture | 0.30% | ~2,779 |
+| II | 0.30% | ~2,779 |
+| III | 0.30% | ~2,779 |
+| Wounded Healer | 0.30% | ~2,779 |
+| First to the Punch | 0.30% | ~2,779 |
+| With Scars to Show | 0.30% | ~2,779 |
+| Second Act | 0.30% | ~2,779 |
 | A bite for the Entity | 0.20% | ~1,852 |
 | Blood on your hands | 0.20% | ~1,852 |
 | Blood on your face | 0.20% | ~1,852 |
@@ -63,7 +64,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Unforgettable Getaway | 0.20% | ~1,852 |
 | Cutting Out | 0.20% | ~1,852 |
 | Outrun Evil | 0.20% | ~1,852 |
-| First to the Punch | 0.20% | ~1,852 |
 | Operation: Survival | 0.20% | ~1,852 |
 | Grim Pilgrimage | 0.20% | ~1,852 |
 | Old West Oasis | 0.20% | ~1,852 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 926,117 (Ranked 14)  
+Progressed: 926,172 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 290)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 926,117 | 49 |
+| 2023-10-08 | 926,172 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,239 (Ranked 13)  

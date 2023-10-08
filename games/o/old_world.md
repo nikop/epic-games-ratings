@@ -7,12 +7,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 1.00% | ~145 |
+| Intrepid | 1.00% | ~145 |
 | Settler | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Play a Single Player Game | 1.00% | ~145 |
-| Intrepid | 0.90% | ~131 |
+| Kushite Paganism | 1.00% | ~145 |
 | Hanging Gardens | 0.90% | ~131 |
-| Kushite Paganism | 0.90% | ~131 |
 | Able | 0.80% | ~116 |
 | Architect | 0.80% | ~116 |
 | Good | 0.80% | ~116 |
@@ -25,11 +25,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.80% | ~116 |
 | Glorious | 0.70% | ~102 |
 | Just | 0.70% | ~102 |
+| Keystone | 0.70% | ~102 |
 | Judaism | 0.70% | ~102 |
 | Babylonian Paganism | 0.70% | ~102 |
 | Naming Landmarks | 0.70% | ~102 |
+| Ambitious | 0.60% | ~87 |
 | Enlightened | 0.60% | ~87 |
-| Keystone | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
@@ -39,22 +40,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
+| Carthaginian Paganism | 0.60% | ~87 |
 | Greek Paganism | 0.60% | ~87 |
 | Zoroastrianism | 0.60% | ~87 |
-| Ambitious | 0.50% | ~73 |
 | Brilliant | 0.50% | ~73 |
 | Fountainhead | 0.50% | ~73 |
+| Great | 0.50% | ~73 |
 | Able Difficulty | 0.50% | ~73 |
 | Great Ziggurat | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
 | Learn to Play 1 | 0.50% | ~73 |
-| Carthaginian Paganism | 0.50% | ~73 |
+| Egyptian Paganism | 0.50% | ~73 |
 | Roman Paganism | 0.50% | ~73 |
 | Kushite Pyramids | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
-| Great | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
 | Artisans | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
@@ -64,7 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 2 | 0.40% | ~58 |
 | Manichaeism | 0.40% | ~58 |
-| Egyptian Paganism | 0.40% | ~58 |
+| Mythology | 0.40% | ~58 |
 | Regicide | 0.30% | ~44 |
 | Beloved | 0.30% | ~44 |
 | Conqueror | 0.30% | ~44 |
@@ -78,17 +79,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
 | Learn to Play 3 | 0.30% | ~44 |
+| Greece | 0.30% | ~44 |
+| Power to the People | 0.30% | ~44 |
 | Persian Paganism | 0.30% | ~44 |
 | Building Wonders | 0.30% | ~44 |
 | Legalism | 0.30% | ~44 |
-| Mythology | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Cimmerian Archer | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
 | Double Victory | 0.30% | ~44 |
 | Points Victory | 0.30% | ~44 |
 | Win a Single Player Game | 0.30% | ~44 |
+| Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
+| Capable | 0.20% | ~29 |
 | Devout | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
@@ -111,10 +115,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.20% | ~29 |
 | Babylonia | 0.20% | ~29 |
 | Carthage | 0.20% | ~29 |
-| Greece | 0.20% | ~29 |
 | One True Faith | 0.20% | ~29 |
-| Power to the People | 0.20% | ~29 |
 | Assyrian Paganism | 0.20% | ~29 |
+| Hittite Paganism | 0.20% | ~29 |
 | Economic Reform | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
 | Military Prestige | 0.20% | ~29 |
@@ -130,7 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
-| Kmt Unified | 0.20% | ~29 |
+| Greater Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
 | Alliance Victory | 0.10% | ~15 |
@@ -162,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~15 |
 | Ancient | 0.10% | ~15 |
 | Avenger | 0.10% | ~15 |
-| Capable | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
 | Old | 0.10% | ~15 |
@@ -228,7 +230,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~15 |
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
 | Punic Wars | 0.10% | ~15 |
-| Hittite Paganism | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
 | Circus Maximus in Roma | 0.10% | ~15 |
 | Pantheon in Roma | 0.10% | ~15 |
@@ -259,7 +260,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.10% | ~15 |
 | Only Kem | 0.10% | ~15 |
 | Sepat Wase Forever | 0.10% | ~15 |
-| Greater Kmt Unified | 0.10% | ~15 |
 | Pharaonic Greater Kmt Unified | 0.10% | ~15 |
 | Pharaonic Kmt Unified | 0.10% | ~15 |
 | Golden Age-less | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,503 (Ranked 134)  
+Progressed: 14,505 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 278)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,503 | 5 |
+| 2023-10-08 | 14,505 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

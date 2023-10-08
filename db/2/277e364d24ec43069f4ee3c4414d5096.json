@@ -3,12 +3,12 @@
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_Rating": 371,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 528,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,10 +326,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110521,
+  "EOS_Progressed": 110523,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 818,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 819,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -13631,6 +13631,11 @@
       "Time": "2023-10-08T08:06:09.4484034+00:00",
       "NumProgressed": 110521,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-08T09:06:17.4529933+00:00",
+      "NumProgressed": 110523,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -13650,7 +13655,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85101
+      "UsersEstimate": 85103
     },
     {
       "ID": "EAwards_10",
@@ -13658,7 +13663,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12157
+      "UsersEstimate": 12158
     },
     {
       "ID": "EAwards_11",
@@ -13666,7 +13671,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 28735
+      "UsersEstimate": 28736
     },
     {
       "ID": "EAwards_12",
@@ -13706,7 +13711,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "EAwards_17",
@@ -13738,7 +13743,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53050
+      "UsersEstimate": 53051
     },
     {
       "ID": "EAwards_20",
@@ -13754,7 +13759,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "EAwards_22",
@@ -13778,7 +13783,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "EAwards_25",
@@ -13794,7 +13799,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12157
+      "UsersEstimate": 12158
     },
     {
       "ID": "EAwards_27",
@@ -13850,7 +13855,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "EAwards_33",
@@ -14010,7 +14015,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12157
+      "UsersEstimate": 12158
     },
     {
       "ID": "EAwards_8",
@@ -14033,7 +14038,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110521,
+      "Progressed": 110523,
       "Completed": 44
     }
   ],
@@ -14041,8 +14046,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:06:09.4484023+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:06:17.4529927+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:00:07.8961896+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:06:09.4485291+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:00:13.757327+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:06:17.4531162+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 107,
@@ -2176,9 +2176,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41433,
+  "EOS_Progressed": 41434,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20611,6 +20611,11 @@
       "Time": "2023-10-08T08:03:27.8040627+00:00",
       "NumProgressed": 41433,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-08T09:03:40.2774043+00:00",
+      "NumProgressed": 41434,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20686,7 +20691,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 11601
+      "UsersEstimate": 11602
     },
     {
       "ID": "achievements_2",
@@ -20734,7 +20739,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "achievements_25",
@@ -20742,7 +20747,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 11601
+      "UsersEstimate": 11602
     },
     {
       "ID": "achievements_26",
@@ -20790,7 +20795,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 12844
+      "UsersEstimate": 12845
     },
     {
       "ID": "achievements_31",
@@ -20806,7 +20811,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14087
+      "UsersEstimate": 14088
     },
     {
       "ID": "achievements_33",
@@ -20926,7 +20931,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 35218
+      "UsersEstimate": 35219
     },
     {
       "ID": "achievements_47",
@@ -20974,7 +20979,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 16573
+      "UsersEstimate": 16574
     },
     {
       "ID": "achievements_52",
@@ -20998,7 +21003,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "achievements_55",
@@ -21046,7 +21051,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14087
+      "UsersEstimate": 14088
     },
     {
       "ID": "achievements_61",
@@ -21198,7 +21203,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30246
+      "UsersEstimate": 30247
     },
     {
       "ID": "achievements_8",
@@ -21221,15 +21226,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41433,
+      "Progressed": 41434,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-07T03:58:14.4573738+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:03:27.8040621+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:03:40.2774037+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:49.6645514+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:58:11.9942604+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:03:27.804262+00:00"
+  "LastUpdate_Ratings": "2023-10-08T08:58:24.0948387+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:03:40.2776049+00:00"
 }

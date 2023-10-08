@@ -50,22 +50,22 @@
 | The Justicar | 32.00% | ~194 |
 | The Quarian | 32.00% | ~194 |
 | The Prodigal | 32.00% | ~194 |
+| A Personal Touch | 31.00% | ~188 |
 | Battlemaster | 31.00% | ~188 |
 | Ghost of the Father | 31.00% | ~188 |
 | The Cure | 31.00% | ~188 |
 | Big Game Hunter | 31.00% | ~188 |
 | Shopaholic | 31.00% | ~188 |
-| A Personal Touch | 30.00% | ~182 |
 | Catharsis | 30.00% | ~182 |
 | Fade Away | 30.00% | ~182 |
 | Revenge! | 30.00% | ~182 |
 | Heart of Darkness | 30.00% | ~182 |
 | Driven | 30.00% | ~182 |
 | Focused | 29.00% | ~176 |
+| Cat's in the Cradle | 29.00% | ~176 |
 | Treason | 29.00% | ~176 |
 | Agent | 29.00% | ~176 |
 | Digital Exorcist | 29.00% | ~176 |
-| Cat's in the Cradle | 28.00% | ~170 |
 | Doppelganger | 28.00% | ~170 |
 | Bringer of War | 28.00% | ~170 |
 | Friend or Foe | 27.00% | ~164 |

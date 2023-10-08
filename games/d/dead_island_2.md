@@ -13,23 +13,23 @@ Rating: 4.54 (Ranked 508)
 | Hotel California | 3.00% | ~20,777 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,777 |
 | Welcome To Hell-A | 3.00% | ~20,777 |
-| Dr. Reed, I Presume? | 2.00% | ~13,851 |
-| Anger Management | 2.00% | ~13,851 |
-| Perks of the Job | 2.00% | ~13,851 |
-| Bookworm | 2.00% | ~13,851 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,851 |
-| But Doctor, I am Butcho | 2.00% | ~13,851 |
-| Slayer Squad | 2.00% | ~13,851 |
-| Can't Handle the Truth | 2.00% | ~13,851 |
-| Like Riding a Bike | 2.00% | ~13,851 |
-| Apex Predator | 2.00% | ~13,851 |
-| Zombologist | 2.00% | ~13,851 |
-| Ooh, Shiny! | 2.00% | ~13,851 |
-| A Patton Emerges | 2.00% | ~13,851 |
-| I Am the Resurrection | 2.00% | ~13,851 |
-| Stacking the Deck | 2.00% | ~13,851 |
-| Our True Nature | 2.00% | ~13,851 |
-| This is My Weapon | 2.00% | ~13,851 |
+| Dr. Reed, I Presume? | 2.00% | ~13,852 |
+| Anger Management | 2.00% | ~13,852 |
+| Perks of the Job | 2.00% | ~13,852 |
+| Bookworm | 2.00% | ~13,852 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,852 |
+| But Doctor, I am Butcho | 2.00% | ~13,852 |
+| Slayer Squad | 2.00% | ~13,852 |
+| Can't Handle the Truth | 2.00% | ~13,852 |
+| Like Riding a Bike | 2.00% | ~13,852 |
+| Apex Predator | 2.00% | ~13,852 |
+| Zombologist | 2.00% | ~13,852 |
+| Ooh, Shiny! | 2.00% | ~13,852 |
+| A Patton Emerges | 2.00% | ~13,852 |
+| I Am the Resurrection | 2.00% | ~13,852 |
+| Stacking the Deck | 2.00% | ~13,852 |
+| Our True Nature | 2.00% | ~13,852 |
+| This is My Weapon | 2.00% | ~13,852 |
 | Making Your Mark | 1.00% | ~6,926 |
 | Humanity Distilled | 1.00% | ~6,926 |
 | Down with the Sickness | 1.00% | ~6,926 |
@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 508)
 | Go, Bobcats! | 1.00% | ~6,926 |
 | Rising Star | 1.00% | ~6,926 |
 | Jumbo Keyring | 0.90% | ~6,233 |
-| Smorgasbord | 0.80% | ~5,540 |
+| Smorgasbord | 0.80% | ~5,541 |
 | Not Even My Final Form | 0.70% | ~4,848 |
 | Internet Famous | 0.70% | ~4,848 |
 | Make it So | 0.60% | ~4,155 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 508)
 | Donk! | 0.10% | ~693 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,556 (Ranked 22)  
-Completed: 2,201 (0.32%) (Ranked 195)  
+Progressed: 692,575 (Ranked 22)  
+Completed: 2,202 (0.32%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,10 +222,10 @@ Completed: 2,201 (0.32%) (Ranked 195)
 | 2023-10-05 | 691,288 | 2,192 |
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
-| 2023-10-08 | 692,556 | 2,201 |
+| 2023-10-08 | 692,575 | 2,202 |
 ## Awards
 Max (Great Boss Battles): 6,348  (Ranked 58)  
-Sum: 9,477 (Ranked 91)  
+Sum: 9,478 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -236,7 +236,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 398 |
 | This game has Amazing Storytelling | 369 |
 | This game is Highly Recommended | 357 |
-| This game is Extremely Fun | 356 |
+| This game is Extremely Fun | 357 |
 | This game has Amazing Characters | 346 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -411,4 +411,4 @@ Diff (max vs sum): -33
 | 2023-10-05 | 4.54 | 6,327 | 9,439 |
 | 2023-10-06 | 4.54 | 6,339 | 9,463 |
 | 2023-10-07 | 4.54 | 6,348 | 9,476 |
-| 2023-10-08 | 4.54 | 6,348 | 9,477 |
+| 2023-10-08 | 4.54 | 6,348 | 9,478 |

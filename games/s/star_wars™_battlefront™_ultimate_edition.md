@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~456 |
-| Off to a good start | 67.00% | ~340 |
-| Do... or do not. There is no try | 53.00% | ~269 |
-| A good blaster at your side | 36.00% | ~183 |
+| New Recruit | 90.00% | ~459 |
+| Off to a good start | 67.00% | ~342 |
+| Do... or do not. There is no try | 53.00% | ~270 |
+| A good blaster at your side | 35.00% | ~178 |
 | Scrap collector | 22.00% | ~112 |
-| I suggest a new strategy | 20.00% | ~101 |
-| Great shot, kid! | 20.00% | ~101 |
-| All right, I'll give it a try | 19.00% | ~96 |
-| Shoot first | 18.00% | ~91 |
-| The power of the Force | 17.00% | ~86 |
-| Together we can rule the galaxy | 17.00% | ~86 |
-| Collector | 16.00% | ~81 |
+| I suggest a new strategy | 20.00% | ~102 |
+| Great shot, kid! | 20.00% | ~102 |
+| All right, I'll give it a try | 19.00% | ~97 |
+| Shoot first | 18.00% | ~92 |
+| The power of the Force | 17.00% | ~87 |
+| Together we can rule the galaxy | 17.00% | ~87 |
+| Collector | 16.00% | ~82 |
 | Tell Jabba that I've got his money | 13.00% | ~66 |
 | Best star-pilot in the galaxy | 13.00% | ~66 |
 | Survivor | 12.00% | ~61 |
@@ -28,14 +28,14 @@
 | Distinguished | 8.00% | ~41 |
 | A tremor in the Force | 8.00% | ~41 |
 | Support the troops | 8.00% | ~41 |
-| On the ball | 6.00% | ~30 |
-| Not bad for a little furball | 6.00% | ~30 |
-| Patience you must have | 6.00% | ~30 |
-| Don't underestimate the Force | 6.00% | ~30 |
-| I've been waiting for you | 5.00% | ~25 |
-| When 900 years old you reach... | 5.00% | ~25 |
-| Your journey has only started | 5.00% | ~25 |
-| That's no moon | 5.00% | ~25 |
+| Not bad for a little furball | 6.00% | ~31 |
+| Patience you must have | 6.00% | ~31 |
+| I've been waiting for you | 5.00% | ~26 |
+| When 900 years old you reach... | 5.00% | ~26 |
+| Your journey has only started | 5.00% | ~26 |
+| On the ball | 5.00% | ~26 |
+| That's no moon | 5.00% | ~26 |
+| Don't underestimate the Force | 5.00% | ~26 |
 | Determined | 4.00% | ~20 |
 | Precision shot | 4.00% | ~20 |
 | Safety ain't the point of a joyride | 4.00% | ~20 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507 (Ranked 273)  
+Progressed: 510 (Ranked 271)  
 Completed: 1 (0.20%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.20%) (Ranked 217)
 | 2023-10-05 | 450 | 1 |
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
-| 2023-10-08 | 507 | 1 |
+| 2023-10-08 | 510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

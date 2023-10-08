@@ -1,20 +1,20 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.56 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,098 |
 | Drug Gifter | 3.00% | ~412 |
 | Bosmang | 3.00% | ~412 |
-| The Pit and the Pirates | 2.00% | ~274 |
-| Data Archivist | 2.00% | ~274 |
-| Drone Dodger | 2.00% | ~274 |
-| Heal Thy Medic | 2.00% | ~274 |
-| Call it Even | 2.00% | ~274 |
-| Celebrations are in Order | 2.00% | ~274 |
-| Impossible Objects | 2.00% | ~274 |
+| The Pit and the Pirates | 2.00% | ~275 |
+| Data Archivist | 2.00% | ~275 |
+| Drone Dodger | 2.00% | ~275 |
+| Heal Thy Medic | 2.00% | ~275 |
+| Call it Even | 2.00% | ~275 |
+| Celebrations are in Order | 2.00% | ~275 |
+| Impossible Objects | 2.00% | ~275 |
 | Stogie for Fogey | 1.00% | ~137 |
 | Spore Taste | 1.00% | ~137 |
 | Martian Music | 1.00% | ~137 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 489)
 | Data Collector | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,724 (Ranked 135)  
+Progressed: 13,728 (Ranked 135)  
 Completed: 17 (0.12%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 17 (0.12%) (Ranked 235)
 | 2023-10-05 | 13,598 | 12 |
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
-| 2023-10-08 | 13,724 | 17 |
+| 2023-10-08 | 13,728 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -139,3 +139,4 @@ Completed: 17 (0.12%) (Ranked 235)
 | 2023-10-01 | 4.53 | 0 | 0 |
 | 2023-10-06 | 4.54 | 0 | 0 |
 | 2023-10-07 | 4.55 | 0 | 0 |
+| 2023-10-08 | 4.56 | 0 | 0 |

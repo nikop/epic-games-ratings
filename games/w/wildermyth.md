@@ -61,10 +61,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 1.00% | ~14 |
 | Overwhelming Monstrosity | 0.90% | ~13 |
 | We Call That Mortificient! | 0.90% | ~13 |
-| Peacemaker | 0.60% | ~8 |
+| Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,410 (Ranked 219)  
-Completed: 5 (0.35%) (Ranked 191)  
+Completed: 6 (0.43%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 5 (0.35%) (Ranked 191)
 | 2023-09-27 | 1,406 | 5 |
 | 2023-10-01 | 1,407 | 5 |
 | 2023-10-05 | 1,409 | 5 |
-| 2023-10-08 | 1,410 | 5 |
+| 2023-10-08 | 1,410 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 478)  
 Sum: 28 (Ranked 493)  

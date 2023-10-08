@@ -2,13 +2,13 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 489,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 528,
+  "Ranking_Rating": 490,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67304,
+  "EOS_Progressed": 67305,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17274,6 +17274,11 @@
       "Time": "2023-10-08T08:06:00.8401666+00:00",
       "NumProgressed": 67304,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-08T09:06:08.9218467+00:00",
+      "NumProgressed": 67305,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17389,7 +17394,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "15",
@@ -17397,7 +17402,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "16",
@@ -17517,7 +17522,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "31",
@@ -17533,7 +17538,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22210
+      "UsersEstimate": 22211
     },
     {
       "ID": "33",
@@ -17549,7 +17554,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "35",
@@ -17557,7 +17562,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23556
+      "UsersEstimate": 23557
     },
     {
       "ID": "36",
@@ -17685,7 +17690,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "52",
@@ -17820,21 +17825,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67304,
+      "Progressed": 67305,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30772,
+      "Progressed": 30773,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:06:00.8401654+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:06:08.9218455+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:57:42.4994563+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:06:00.8403374+00:00"
+  "LastUpdate_Ratings": "2023-10-08T08:57:53.9824907+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:06:08.9220209+00:00"
 }

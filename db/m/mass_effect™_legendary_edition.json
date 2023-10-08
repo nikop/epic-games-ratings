@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1366,9 +1366,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_101",
@@ -1958,9 +1958,9 @@
       "ID": "achievement_53",
       "SetID": "d252ncf",
       "Name": "Cat\u0027s in the Cradle",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_54",
@@ -2378,8 +2378,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:05:36.7631122+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:05:45.8273107+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:00:23.6402409+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:05:36.763309+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:00:36.1710075+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:05:45.8275445+00:00"
 }

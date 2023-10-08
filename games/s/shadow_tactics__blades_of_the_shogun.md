@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,802 |
-| A thief's beginning | 10.00% | ~20,668 |
-| Thorough | 10.00% | ~20,668 |
+| Genin | 12.00% | ~24,803 |
+| A thief's beginning | 10.00% | ~20,669 |
+| Thorough | 10.00% | ~20,669 |
 | Disguised | 8.00% | ~16,535 |
 | Rescue Takuma | 8.00% | ~16,535 |
 | Rollin' | 8.00% | ~16,535 |
@@ -25,12 +25,12 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,334 |
 | Prisoners | 5.00% | ~10,334 |
 | Too Early | 5.00% | ~10,334 |
-| Gear up | 4.00% | ~8,267 |
-| Happy little accidents | 4.00% | ~8,267 |
-| Still Rollin' | 4.00% | ~8,267 |
-| Noboru | 3.00% | ~6,200 |
-| Stoned | 3.00% | ~6,200 |
-| The Old Way | 3.00% | ~6,200 |
+| Gear up | 4.00% | ~8,268 |
+| Happy little accidents | 4.00% | ~8,268 |
+| Still Rollin' | 4.00% | ~8,268 |
+| Noboru | 3.00% | ~6,201 |
+| Stoned | 3.00% | ~6,201 |
+| The Old Way | 3.00% | ~6,201 |
 | Atheist Ox | 2.00% | ~4,134 |
 | It's raining men | 2.00% | ~4,134 |
 | No Gimmicks | 2.00% | ~4,134 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~2,067 |
 | Undeserved Honor | 1.00% | ~2,067 |
 | When Cut Across the Neck | 0.90% | ~1,860 |
-| High Five the Moon | 0.80% | ~1,653 |
-| The Cave | 0.80% | ~1,653 |
+| High Five the Moon | 0.80% | ~1,654 |
+| The Cave | 0.80% | ~1,654 |
 | Merciful | 0.50% | ~1,033 |
 | Time Paradox | 0.50% | ~1,033 |
 | Five Shadows | 0.30% | ~620 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~207 |
 | Release the Kraken | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,683 (Ranked 63)  
+Progressed: 206,689 (Ranked 63)  
 Completed: 90 (0.04%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 90 (0.04%) (Ranked 272)
 | 2023-10-05 | 206,213 | 89 |
 | 2023-10-06 | 206,402 | 89 |
 | 2023-10-07 | 206,614 | 90 |
-| 2023-10-08 | 206,683 | 90 |
+| 2023-10-08 | 206,689 | 90 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 194)  
 Sum: 4,785 (Ranked 138)  

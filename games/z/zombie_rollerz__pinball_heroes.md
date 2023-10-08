@@ -23,10 +23,10 @@ Rating: 4.30 (Ranked 810)
 | The Bird | 27.00% | ~45 |
 | The Ninja | 27.00% | ~45 |
 | The Idol | 26.00% | ~44 |
-| Inferno Ruins | 24.00% | ~40 |
+| Inferno Ruins | 25.00% | ~42 |
 | 1 is all I need | 23.00% | ~39 |
 | I'm Rich | 23.00% | ~39 |
-| The Slime | 22.00% | ~37 |
+| The Slime | 23.00% | ~39 |
 | Untouchable | 21.00% | ~35 |
 | The Blacksmith | 17.00% | ~29 |
 | The Flower | 17.00% | ~29 |

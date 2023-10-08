@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 75.00% | ~12 |
-| Master trainee | 69.00% | ~11 |
-| Jung's dream | 50.00% | ~8 |
-| The battle of Great Britain | 50.00% | ~8 |
-| Giant | 44.00% | ~7 |
-| The happy farmer girl | 38.00% | ~6 |
-| Pulp! Terror Tales in the Night | 31.00% | ~5 |
-| Pulp! Where Monsters Dwell | 31.00% | ~5 |
-| A continent with chemistry | 31.00% | ~5 |
-| Diagnosis: fear | 31.00% | ~5 |
-| Ambition is... blind | 31.00% | ~5 |
-| You have two wishes left | 31.00% | ~5 |
-| The artist | 25.00% | ~4 |
-| Pulp! Out of this World | 25.00% | ~4 |
-| Pulp! Adventures into the Unknown | 25.00% | ~4 |
-| Kirlian's best disciple | 25.00% | ~4 |
-| You've awakened the beast | 19.00% | ~3 |
-| Hate is... addictive | 19.00% | ~3 |
-| A rival with no options | 19.00% | ~3 |
-| Et in arcadia ego | 19.00% | ~3 |
-| The seer | 19.00% | ~3 |
-| You had one wish left | 13.00% | ~2 |
-| The bully | 13.00% | ~2 |
-| The barbarian invasions | 13.00% | ~2 |
-| Vaccine fans | 13.00% | ~2 |
-| Welcome to Hellville | 13.00% | ~2 |
+| You have three wishes left | 72.00% | ~13 |
+| Master trainee | 67.00% | ~12 |
+| Jung's dream | 44.00% | ~8 |
+| The battle of Great Britain | 44.00% | ~8 |
+| Giant | 39.00% | ~7 |
+| The happy farmer girl | 33.00% | ~6 |
+| Pulp! Terror Tales in the Night | 28.00% | ~5 |
+| Pulp! Where Monsters Dwell | 28.00% | ~5 |
+| A continent with chemistry | 28.00% | ~5 |
+| Diagnosis: fear | 28.00% | ~5 |
+| Ambition is... blind | 28.00% | ~5 |
+| You have two wishes left | 28.00% | ~5 |
+| The artist | 22.00% | ~4 |
+| Pulp! Out of this World | 22.00% | ~4 |
+| Pulp! Adventures into the Unknown | 22.00% | ~4 |
+| Kirlian's best disciple | 22.00% | ~4 |
+| You've awakened the beast | 17.00% | ~3 |
+| Hate is... addictive | 17.00% | ~3 |
+| A rival with no options | 17.00% | ~3 |
+| Et in arcadia ego | 17.00% | ~3 |
+| The seer | 17.00% | ~3 |
+| You had one wish left | 11.00% | ~2 |
+| The bully | 11.00% | ~2 |
+| The barbarian invasions | 11.00% | ~2 |
+| Vaccine fans | 11.00% | ~2 |
+| Welcome to Hellville | 11.00% | ~2 |
 | Blessed antennas | 6.00% | ~1 |
 | The beast in the Oval Office | 6.00% | ~1 |
 | Blood Red Island | 6.00% | ~1 |
@@ -52,7 +52,7 @@
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 495)  
+Progressed: 18 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,3 +62,4 @@ Completed: 0 (0.00%) (Ranked 309)
 | 2023-10-04 | 6 | 0 |
 | 2023-10-06 | 9 | 0 |
 | 2023-10-07 | 16 | 0 |
+| 2023-10-08 | 18 | 0 |

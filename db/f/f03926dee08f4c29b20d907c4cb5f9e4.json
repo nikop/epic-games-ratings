@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_26_BALLOON_PARTY",
@@ -418,9 +418,9 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:04:42.3442738+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:04:52.9267962+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:02:08.2098985+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:04:42.3443082+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:00:49.990045+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:04:52.9268308+00:00"
 }

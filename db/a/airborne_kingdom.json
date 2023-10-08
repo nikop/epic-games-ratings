@@ -3,8 +3,8 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 318,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 528,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 175,
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7304,
+  "EOS_Progressed": 7305,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -4824,6 +4824,11 @@
       "Time": "2023-10-08T07:03:43.2918254+00:00",
       "NumProgressed": 7304,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-08T09:03:23.4742469+00:00",
+      "NumProgressed": 7305,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4867,7 +4872,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4987,7 +4992,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5003,7 +5008,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5027,7 +5032,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5050,15 +5055,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7304,
+      "Progressed": 7305,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:03:10.6516323+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:03:23.4742464+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:11.1457517+00:00",
-  "LastUpdate_Ratings": "2023-10-08T08:02:05.594152+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:03:10.6516879+00:00"
+  "LastUpdate_Ratings": "2023-10-08T09:00:47.359343+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:03:23.474299+00:00"
 }

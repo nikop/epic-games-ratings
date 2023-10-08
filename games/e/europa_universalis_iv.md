@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,017 |
-| Until death do us apart | 4.00% | ~17,017 |
-| That is mine! | 3.00% | ~12,762 |
-| Victorious! | 3.00% | ~12,762 |
-| Brothers in Arms | 2.00% | ~8,508 |
-| For the Glory | 2.00% | ~8,508 |
-| That's a Grand Navy | 2.00% | ~8,508 |
-| Seriously?! | 2.00% | ~8,508 |
+| That's a Grand Army | 4.00% | ~17,018 |
+| Until death do us apart | 4.00% | ~17,018 |
+| That is mine! | 3.00% | ~12,763 |
+| Victorious! | 3.00% | ~12,763 |
+| Brothers in Arms | 2.00% | ~8,509 |
+| For the Glory | 2.00% | ~8,509 |
+| That's a Grand Navy | 2.00% | ~8,509 |
+| Seriously?! | 2.00% | ~8,509 |
 | Cold War | 1.00% | ~4,254 |
 | Defender of the Faith | 1.00% | ~4,254 |
 | It's all about the money | 1.00% | ~4,254 |
@@ -22,11 +22,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,254 |
 | Truly Divine Ruler | 1.00% | ~4,254 |
 | It's all about luck | 0.90% | ~3,829 |
-| Blockader | 0.80% | ~3,403 |
-| Double the Love | 0.80% | ~3,403 |
-| Total Control | 0.80% | ~3,403 |
+| Blockader | 0.80% | ~3,404 |
+| Double the Love | 0.80% | ~3,404 |
+| Total Control | 0.80% | ~3,404 |
 | Royal Authority | 0.70% | ~2,978 |
-| My armies are invincible! | 0.60% | ~2,552 |
+| My armies are invincible! | 0.60% | ~2,553 |
 | Agressive Expander | 0.50% | ~2,127 |
 | Azur semé de lis or | 0.50% | ~2,127 |
 | City of Cities | 0.50% | ~2,127 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,413 (Ranked 41)  
+Progressed: 425,446 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 1 (0.00%) (Ranked 309)
 | 2023-10-05 | 423,171 | 1 |
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
-| 2023-10-08 | 425,413 | 1 |
+| 2023-10-08 | 425,446 | 1 |
 ## Awards
 Max (Educational): 6,432  (Ranked 56)  
 Sum: 52,874 (Ranked 24)  

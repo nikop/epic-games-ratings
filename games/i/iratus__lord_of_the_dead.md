@@ -1,35 +1,35 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 751)  
+Rating: 4.37 (Ranked 752)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~35,218 |
-| Blood Moon | 73.00% | ~30,246 |
+| Improvement | 85.00% | ~35,219 |
+| Blood Moon | 73.00% | ~30,247 |
 | Path of the Necromancer | 66.00% | ~27,346 |
 | Chainbreaker - I | 60.00% | ~24,860 |
 | Cursed Creature | 57.00% | ~23,617 |
 | Extraction | 57.00% | ~23,617 |
-| Chainbreaker - II | 55.00% | ~22,788 |
+| Chainbreaker - II | 55.00% | ~22,789 |
 | Necromancer's Apprentice | 51.00% | ~21,131 |
 | Keeper of Keys | 47.00% | ~19,474 |
-| Distillation | 43.00% | ~17,816 |
+| Distillation | 43.00% | ~17,817 |
 | Mountain King - I | 42.00% | ~17,402 |
 | Transmutation | 42.00% | ~17,402 |
-| Prepared Necromancer | 40.00% | ~16,573 |
+| Prepared Necromancer | 40.00% | ~16,574 |
 | Mountain King - II | 39.00% | ~16,159 |
 | Blind Rage | 38.00% | ~15,745 |
 | Mad Genius | 35.00% | ~14,502 |
-| Cannon Fodder - I | 34.00% | ~14,087 |
-| Soul of Lies | 34.00% | ~14,087 |
+| Cannon Fodder - I | 34.00% | ~14,088 |
+| Soul of Lies | 34.00% | ~14,088 |
 | Bane of Mercenaries - I | 33.00% | ~13,673 |
-| Bane of Mercenaries - II | 31.00% | ~12,844 |
+| Bane of Mercenaries - II | 31.00% | ~12,845 |
 | Shadow Between Worlds | 30.00% | ~12,430 |
 | Cannon Fodder - II | 29.00% | ~12,016 |
-| Bane of Monsters | 28.00% | ~11,601 |
-| Chainbreaker - III | 28.00% | ~11,601 |
+| Bane of Monsters | 28.00% | ~11,602 |
+| Chainbreaker - III | 28.00% | ~11,602 |
 | Revealed Secrets - I | 27.00% | ~11,187 |
 | Revealed Secrets - II | 26.00% | ~10,773 |
 | Unholy Bones | 24.00% | ~9,944 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~207 |
 | Renowned Researcher | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,433 (Ranked 107)  
+Progressed: 41,434 (Ranked 107)  
 Completed: 23 (0.06%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 23 (0.06%) (Ranked 261)
 | 2023-10-05 | 41,272 | 23 |
 | 2023-10-06 | 41,336 | 23 |
 | 2023-10-07 | 41,412 | 23 |
-| 2023-10-08 | 41,433 | 23 |
+| 2023-10-08 | 41,434 | 23 |
 ## Awards
 Max (Character Customization): 2,151  (Ranked 108)  
 Sum: 4,174 (Ranked 145)  

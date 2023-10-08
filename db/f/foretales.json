@@ -458,9 +458,9 @@
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "thePolitician",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-10-08T08:06:01.4714056+00:00",
+  "LastChanged_Achievements": "2023-10-08T09:06:09.5425221+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:06.0117383+00:00",
-  "LastUpdate_Ratings": "2023-10-08T07:59:26.8251397+00:00",
-  "LastUpdate_Achievements": "2023-10-08T08:06:01.4714412+00:00"
+  "LastUpdate_Ratings": "2023-10-08T08:59:34.879974+00:00",
+  "LastUpdate_Achievements": "2023-10-08T09:06:09.5425548+00:00"
 }
