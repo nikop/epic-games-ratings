@@ -6222,9 +6222,9 @@
       "ID": "ACH_FIRE_POLICE",
       "SetID": "5nj1ea3",
       "Name": "New order",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_FLY",
@@ -6487,8 +6487,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:25:31.9191126+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:06:00.0782619+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.9846058+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:40.5262243+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:25:31.9191967+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:27.407318+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:06:00.0783408+00:00"
 }

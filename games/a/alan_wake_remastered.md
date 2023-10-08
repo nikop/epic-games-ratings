@@ -6,20 +6,20 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,932 |
-| Let There Be Light | 35.00% | ~23,549 |
+| Follow the Light | 43.00% | ~28,933 |
+| Let There Be Light | 35.00% | ~23,550 |
 | Float Like a Butterfly | 33.00% | ~22,204 |
 | Nordic Walking | 27.00% | ~18,167 |
 | Bright Falls' Finest | 26.00% | ~17,494 |
-| Under a Thin Layer of Skin | 23.00% | ~15,475 |
+| Under a Thin Layer of Skin | 23.00% | ~15,476 |
 | Park Ranger | 19.00% | ~12,784 |
 | Paging Mr. Wake | 19.00% | ~12,784 |
 | Back! Back, I Say! | 18.00% | ~12,111 |
 | Finders Keepers | 18.00% | ~12,111 |
-| Damn Good Cup of Coffee | 17.00% | ~11,438 |
-| They're Heeeeeere! | 16.00% | ~10,765 |
-| Sound and Fury | 16.00% | ~10,765 |
-| Missed by a Mile | 16.00% | ~10,765 |
+| Damn Good Cup of Coffee | 17.00% | ~11,439 |
+| They're Heeeeeere! | 16.00% | ~10,766 |
+| Sound and Fury | 16.00% | ~10,766 |
+| Missed by a Mile | 16.00% | ~10,766 |
 | Wheels Within Wheels | 15.00% | ~10,093 |
 | The Six-Gun Scribe | 15.00% | ~10,093 |
 | Heavy Metal | 14.00% | ~9,420 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 12.00% | ~8,074 |
 | Energized! | 12.00% | ~8,074 |
 | The Lady of the Light | 11.00% | ~7,401 |
-| What Light Through Yonder Window | 10.00% | ~6,728 |
-| Right of Way | 10.00% | ~6,728 |
+| What Light Through Yonder Window | 10.00% | ~6,729 |
+| Right of Way | 10.00% | ~6,729 |
 | Tornado Wrangler | 9.00% | ~6,056 |
 | A Friend in Need | 9.00% | ~2,768 |
 | Departure | 8.00% | ~5,383 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,284 (Ranked 93)  
+Progressed: 67,286 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 67 (0.10%) (Ranked 243)
 | 2023-10-05 | 67,064 | 67 |
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
-| 2023-10-08 | 67,284 | 67 |
+| 2023-10-08 | 67,286 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

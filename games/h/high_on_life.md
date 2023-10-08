@@ -7,6 +7,7 @@ Rating: 4.64 (Ranked 318)
 | ---- | ---------- | ----- |
 | First Bounty Down | 0.50% | ~121 |
 | Satisfied Gus-tomer | 0.40% | ~97 |
+| Are You Packin'? | 0.40% | ~97 |
 | Sweezy Like Sunday Morning | 0.40% | ~97 |
 | G3 Graduation | 0.40% | ~97 |
 | Cold-Blooded Driller | 0.40% | ~97 |
@@ -14,7 +15,6 @@ Rating: 4.64 (Ranked 318)
 | Don't Knife The Hand That Feeds | 0.40% | ~97 |
 | Bathe With A Giant Nude Alien | 0.40% | ~6 |
 | Creature Feature | 0.30% | ~72 |
-| Are You Packin'? | 0.30% | ~72 |
 | Bring A Knife to a Gun Fight | 0.30% | ~72 |
 | Lezduit! | 0.30% | ~72 |
 | RIP Davey Glutes | 0.30% | ~72 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,144 (Ranked 119)  
+Progressed: 24,146 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 13 (0.05%) (Ranked 265)
 | 2023-10-05 | 24,122 | 13 |
 | 2023-10-06 | 24,133 | 13 |
 | 2023-10-07 | 24,141 | 13 |
-| 2023-10-08 | 24,144 | 13 |
+| 2023-10-08 | 24,146 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

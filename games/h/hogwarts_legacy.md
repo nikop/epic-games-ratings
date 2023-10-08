@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,697 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,698 |
 | First Class Student | 13.00% | ~38,738 |
 | Troll with the Punches | 13.00% | ~38,738 |
 | A Keen Sense of Spell | 12.00% | ~35,758 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 119)
 | The Hero of Hogwarts | 10.00% | ~29,798 |
 | Challenge Accepted | 10.00% | ~29,798 |
 | Coasting Along | 10.00% | ~29,798 |
-| Followed the Butterflies | 9.00% | ~26,818 |
-| Rising From the Ashes | 9.00% | ~26,818 |
+| Followed the Butterflies | 9.00% | ~26,819 |
+| Rising From the Ashes | 9.00% | ~26,819 |
 | The Avenging Gazelle | 8.00% | ~23,839 |
 | A Sallow Grave | 8.00% | ~23,839 |
 | Flight the Good Flight | 8.00% | ~23,839 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | The Intrepid Explorer | 4.00% | ~11,919 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,919 |
 | The Wise Owl | 4.00% | ~11,919 |
-| Put Down Roots | 3.00% | ~8,939 |
-| The Auror's Apprentice | 3.00% | ~8,939 |
-| Floo Around the World | 3.00% | ~8,939 |
+| Put Down Roots | 3.00% | ~8,940 |
+| The Auror's Apprentice | 3.00% | ~8,940 |
+| Floo Around the World | 3.00% | ~8,940 |
 | The Good Samaritan | 2.00% | ~5,960 |
 | Rise to the Challenges | 2.00% | ~5,960 |
 | Finishing Touches | 2.00% | ~5,960 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,983 (Ranked 46)  
+Progressed: 297,984 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 482 (0.16%) (Ranked 224)
 | 2023-10-05 | 297,872 | 481 |
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
-| 2023-10-08 | 297,983 | 482 |
+| 2023-10-08 | 297,984 | 482 |
 ## Awards
 Max (Character Customization): 23,347  (Ranked 17)  
 Sum: 45,276 (Ranked 31)  

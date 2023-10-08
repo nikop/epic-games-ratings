@@ -13,7 +13,9 @@
 | Open door | 2.00% | ~5 |
 | Alchemists Express | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |
+| True G3M4R | 2.00% | ~5 |
 | Champollion | 2.00% | ~5 |
+| Scholar | 2.00% | ~5 |
 | A new dawn | 2.00% | ~5 |
 | One last step | 2.00% | ~5 |
 | I did it | 1.00% | ~3 |
@@ -24,8 +26,6 @@
 | A Link to the Past | 1.00% | ~3 |
 | Free at last | 0.80% | ~2 |
 | For its own good | 0.80% | ~2 |
-| True G3M4R | 0.80% | ~2 |
-| Scholar | 0.80% | ~2 |
 | The darkness | 0.80% | ~2 |
 | A great audience | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |

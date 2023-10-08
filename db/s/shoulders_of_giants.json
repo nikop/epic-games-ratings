@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2260,
+  "EOS_Progressed": 2261,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1702,6 +1702,11 @@
       "Time": "2023-10-08T01:50:02.2520888+00:00",
       "NumProgressed": 2260,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-08T03:03:37.7847107+00:00",
+      "NumProgressed": 2261,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1753,7 +1758,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "deal_damage",
@@ -1761,15 +1766,15 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1718
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1785,7 +1790,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "piercing_beam",
@@ -1817,7 +1822,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1833,7 +1838,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "stick_decoy",
@@ -1841,7 +1846,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "stun_enemies",
@@ -1864,7 +1869,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2260,
+      "Progressed": 2261,
       "Completed": 9
     }
   ],
@@ -1872,8 +1877,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:22:34.0060662+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:03:37.78471+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.8282628+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:40.0172017+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:22:34.0060933+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:27.041718+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:03:37.7847353+00:00"
 }

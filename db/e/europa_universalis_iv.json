@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
@@ -10440,9 +10440,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 425268,
+  "EOS_Progressed": 425281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6235,
+  "EOS_NewPlayers": 6234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29775,6 +29775,11 @@
       "Time": "2023-10-08T02:26:17.4523842+00:00",
       "NumProgressed": 425268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-08T03:08:06.4951218+00:00",
+      "NumProgressed": 425281,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30226,7 +30231,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8505
+      "UsersEstimate": 8506
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -30618,7 +30623,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8505
+      "UsersEstimate": 8506
     },
     {
       "ID": "achievement_forever_golden",
@@ -30810,7 +30815,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8505
+      "UsersEstimate": 8506
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -30994,7 +30999,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -31722,7 +31727,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -31786,7 +31791,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8505
+      "UsersEstimate": 8506
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -32617,21 +32622,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 425268,
+      "Progressed": 425281,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 425268,
+      "Progressed": 425281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-07T19:57:17.9689228+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:26:17.4523833+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:08:06.4951208+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:16:02.6633364+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:26:17.4536688+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:57:29.6458036+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:08:06.4963013+00:00"
 }

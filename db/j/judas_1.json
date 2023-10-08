@@ -4,7 +4,7 @@
   "ProductSlug": "judas",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:57:25.6559989+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:16:09.781944+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:21:47.1399724+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:57:34.8937376+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:03:09.1387466+00:00"
 }

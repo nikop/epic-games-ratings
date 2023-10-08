@@ -5,31 +5,31 @@ Rating: 4.39 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~752,860 |
-| The ABCs | 43.00% | ~660,673 |
-| Home Run | 41.00% | ~629,944 |
-| Keeps Coming Off | 41.00% | ~629,944 |
-| Guts | 20.00% | ~307,290 |
-| Meat Grinder | 19.00% | ~291,925 |
-| Burning Man | 16.00% | ~245,832 |
-| Lived to Tell the Tale | 12.00% | ~184,374 |
-| Highlander | 10.00% | ~153,645 |
-| Unstoppable | 10.00% | ~153,645 |
-| Just a Scratch | 9.00% | ~138,280 |
+| Justice from the Grave | 49.00% | ~752,863 |
+| The ABCs | 43.00% | ~660,676 |
+| Home Run | 41.00% | ~629,947 |
+| Keeps Coming Off | 41.00% | ~629,947 |
+| Guts | 20.00% | ~307,291 |
+| Meat Grinder | 19.00% | ~291,927 |
+| Burning Man | 16.00% | ~245,833 |
+| Lived to Tell the Tale | 12.00% | ~184,375 |
+| Highlander | 10.00% | ~153,646 |
+| Unstoppable | 10.00% | ~153,646 |
+| Just a Scratch | 9.00% | ~138,281 |
 | Tough Nut to Crack | 6.00% | ~92,187 |
 | Yoink | 6.00% | ~92,187 |
 | Long List of Names | 4.00% | ~61,458 |
 | Pyromaniac | 4.00% | ~61,458 |
 | The Queen of Weapons | 4.00% | ~61,458 |
-| This isn’t Sparta | 3.00% | ~46,093 |
+| This isn’t Sparta | 3.00% | ~46,094 |
 | Crybaby | 2.00% | ~30,729 |
 | Eagle Eye | 2.00% | ~30,729 |
 | I Know Kung Fu | 2.00% | ~30,729 |
 | Poacher | 2.00% | ~30,729 |
 | Put That Away | 2.00% | ~30,729 |
 | You’re Welcome | 2.00% | ~30,729 |
-| Chambermaid | 1.00% | ~15,364 |
-| Coming Through | 1.00% | ~15,364 |
+| Chambermaid | 1.00% | ~15,365 |
+| Coming Through | 1.00% | ~15,365 |
 | Boxer | 0.80% | ~12,292 |
 | Flyswatter | 0.80% | ~12,292 |
 | Training Accident | 0.80% | ~12,292 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 730)
 | That’s No Ordinary Cold | 0.10% | ~1,536 |
 | Stairway to Hell | 0.10% | ~1,536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,536,448 (Ranked 8)  
+Progressed: 1,536,456 (Ranked 8)  
 Completed: 60 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 60 (0.00%) (Ranked 308)
 | 2023-10-05 | 1,535,063 | 59 |
 | 2023-10-06 | 1,535,630 | 59 |
 | 2023-10-07 | 1,536,393 | 59 |
-| 2023-10-08 | 1,536,448 | 60 |
+| 2023-10-08 | 1,536,456 | 60 |
 ## Awards
 Max (Diverse Characters): 756  (Ranked 166)  
-Sum: 3,550 (Ranked 156)  
+Sum: 3,553 (Ranked 156)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): 10
 | This game is Highly Recommended | 629 |
 | This game is Extremely Fun | 524 |
 | This game has Amazing Characters | 523 |
-| This game has Competitive Players | 488 |
+| This game has Competitive Players | 491 |
 | This game has Amazing Storytelling | 421 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 10
 | 2023-10-05 | 4.39 | 748 | 3,946 |
 | 2023-10-06 | 4.39 | 753 | 3,951 |
 | 2023-10-07 | 4.39 | 756 | 3,550 |
+| 2023-10-08 | 4.39 | 756 | 3,553 |

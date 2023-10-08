@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 81,
@@ -3912,7 +3912,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88886,
+  "EOS_Progressed": 88887,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 2,
@@ -21547,6 +21547,11 @@
       "Time": "2023-10-08T01:50:32.1397003+00:00",
       "NumProgressed": 88886,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-08T03:04:07.1989866+00:00",
+      "NumProgressed": 88887,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21564,9 +21569,9 @@
       "ID": "ACH_0011",
       "SetID": "3kam13l",
       "Name": "Underworld Initiate",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_0012",
@@ -21885,13 +21890,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88886,
+      "Progressed": 88887,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17233,
+      "Progressed": 17234,
       "Completed": 15542
     }
   ],
@@ -21899,8 +21904,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-07T21:59:17.9091098+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:23:10.4273546+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:04:07.1989861+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:26.5977398+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:23:10.4275029+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:17.0232046+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:04:07.1991225+00:00"
 }

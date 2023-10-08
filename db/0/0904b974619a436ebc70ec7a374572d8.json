@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:24:26.4137752+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:05:07.8326745+00:00",
   "LastUpdate_AppInfo": "2023-10-04T02:14:33.4002098+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:05.6057677+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:24:26.4137786+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:02.1425313+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:05:07.8326783+00:00"
 }

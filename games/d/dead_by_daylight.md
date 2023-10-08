@@ -6,20 +6,20 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 0.80% | ~7,405 |
-| It wakes | 0.80% | ~7,405 |
+| It wakes | 0.90% | ~8,332 |
+| Zealous | 0.80% | ~7,406 |
 | Skillful | 0.70% | ~6,480 |
 | Handyman | 0.60% | ~5,554 |
 | Not half bad | 0.60% | ~5,554 |
 | Apt Survivor | 0.60% | ~5,554 |
 | Survival Treasures | 0.60% | ~5,554 |
 | Make Some Noise | 0.60% | ~5,554 |
-| No one left behind | 0.50% | ~4,628 |
-| Medic | 0.50% | ~4,628 |
-| Nerves of steel | 0.50% | ~4,628 |
-| Sorted | 0.50% | ~4,628 |
-| Healthy Obsession | 0.50% | ~4,628 |
-| Resurgence | 0.50% | ~4,628 |
+| No one left behind | 0.50% | ~4,629 |
+| Medic | 0.50% | ~4,629 |
+| Nerves of steel | 0.50% | ~4,629 |
+| Sorted | 0.50% | ~4,629 |
+| Healthy Obsession | 0.50% | ~4,629 |
+| Resurgence | 0.50% | ~4,629 |
 | The Grand Sacrifice | 0.40% | ~3,703 |
 | Agonizing Escape | 0.40% | ~3,703 |
 | Backdoor Escape | 0.40% | ~3,703 |
@@ -29,6 +29,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bloody Millionaire | 0.40% | ~3,703 |
 | I | 0.40% | ~3,703 |
 | Engineer | 0.40% | ~3,703 |
+| Close Shave | 0.40% | ~3,703 |
 | Preemptive Strike | 0.40% | ~3,703 |
 | Humanitarian | 0.40% | ~3,703 |
 | Apt Killer | 0.30% | ~2,777 |
@@ -37,11 +38,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.30% | ~2,777 |
 | III | 0.30% | ~2,777 |
 | Wounded Healer | 0.30% | ~2,777 |
-| Close Shave | 0.30% | ~2,777 |
 | With Scars to Show | 0.30% | ~2,777 |
 | Second Act | 0.30% | ~2,777 |
 | A bite for the Entity | 0.20% | ~1,851 |
 | Blood on your hands | 0.20% | ~1,851 |
+| Blood on your face | 0.20% | ~1,851 |
 | Escape Artist | 0.20% | ~1,851 |
 | Made it out alive! | 0.20% | ~1,851 |
 | Gifts for the Fog | 0.20% | ~1,851 |
@@ -76,7 +77,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.20% | ~1,851 |
 | MU/TH/UR Dearest | 0.20% | ~1,851 |
 | A feast for the Entity | 0.10% | ~926 |
-| Blood on your face | 0.10% | ~926 |
 | Blood in your mouth | 0.10% | ~926 |
 | Cripple them all | 0.10% | ~926 |
 | Jump Scares | 0.10% | ~926 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~926 |
 | Adept Ripley | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925,679 (Ranked 14)  
+Progressed: 925,740 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -407,7 +407,7 @@ Completed: 49 (0.01%) (Ranked 289)
 | 2023-10-05 | 920,923 | 49 |
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
-| 2023-10-08 | 925,679 | 49 |
+| 2023-10-08 | 925,740 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,210 (Ranked 13)  

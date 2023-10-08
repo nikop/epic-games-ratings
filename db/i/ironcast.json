@@ -2,12 +2,12 @@
   "ID": "8e56fc9fc0fb4f18af0592c74ad896ba",
   "Name": "Ironcast",
   "ProductSlug": "ironcast",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-07-08T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.95,
+  "Rating": 3.94,
   "NumberOfRatings": 238,
   "RatingHistory": [
     {
@@ -444,6 +444,12 @@
       "Rating": 3.95,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-08T02:59:04.3888929+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -468,8 +474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
-  "LastChanged": "2023-09-19T13:59:47.9104747+00:00",
+  "LastChanged": "2023-10-08T02:59:04.3888927+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:02.5357303+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:08.6720919+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:24:46.9449766+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:04.3888937+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:05:23.9810037+00:00"
 }

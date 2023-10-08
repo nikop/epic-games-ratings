@@ -5,31 +5,31 @@ Rating: 4.63 (Ranked 336)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,575 |
-| A Thorny Situation | 70.00% | ~4,387 |
-| ... And Spit Back Out | 59.00% | ~3,698 |
-| Break-Net Speed | 47.00% | ~2,945 |
-| Bramble Breaker | 45.00% | ~2,820 |
-| Miner 49er | 42.00% | ~2,632 |
-| Humble Collector | 41.00% | ~2,569 |
-| Calm Sailing | 35.00% | ~2,193 |
-| Open the Gate! | 31.00% | ~1,943 |
-| Mist Walker | 29.00% | ~1,817 |
-| Lumberjack | 25.00% | ~1,567 |
+| Azoria Beckons | 73.00% | ~4,577 |
+| A Thorny Situation | 70.00% | ~4,389 |
+| ... And Spit Back Out | 59.00% | ~3,699 |
+| Break-Net Speed | 47.00% | ~2,947 |
+| Bramble Breaker | 45.00% | ~2,822 |
+| Miner 49er | 42.00% | ~2,633 |
+| Humble Collector | 41.00% | ~2,571 |
+| Calm Sailing | 35.00% | ~2,194 |
+| Open the Gate! | 31.00% | ~1,944 |
+| Mist Walker | 29.00% | ~1,818 |
+| Lumberjack | 25.00% | ~1,568 |
 | Oui, Chef! | 22.00% | ~1,379 |
 | Clear the Air | 16.00% | ~1,003 |
 | Botanical Breakthrough | 15.00% | ~940 |
 | Beach Comber | 13.00% | ~815 |
 | Higher Tax Bracket | 12.00% | ~752 |
-| Search for the Hairy Grell | 11.00% | ~689 |
+| Search for the Hairy Grell | 11.00% | ~690 |
 | Rumble in the Jumble | 7.00% | ~439 |
 | Skilled | 7.00% | ~439 |
 | Flaming Hot Completos | 6.00% | ~376 |
 | Got to Catch Them All | 6.00% | ~376 |
 | Fanatical Farmer | 6.00% | ~376 |
-| Fae Farmer | 5.00% | ~313 |
-| Scattered Scroll Scrounger | 5.00% | ~313 |
-| Azorian Anniversary | 5.00% | ~313 |
+| Fae Farmer | 5.00% | ~314 |
+| Scattered Scroll Scrounger | 5.00% | ~314 |
+| Azorian Anniversary | 5.00% | ~314 |
 | I Now Pronounce You... | 4.00% | ~251 |
 | Chatty Neighbor | 3.00% | ~188 |
 | House Proud | 3.00% | ~188 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 336)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,267 (Ranked 163)  
+Progressed: 6,270 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 308)
 | 2023-10-05 | 6,080 | 0 |
 | 2023-10-06 | 6,152 | 0 |
 | 2023-10-07 | 6,255 | 0 |
-| 2023-10-08 | 6,267 | 0 |
+| 2023-10-08 | 6,270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

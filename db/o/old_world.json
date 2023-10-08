@@ -1809,7 +1809,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14495,
+  "EOS_Progressed": 14496,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -13274,6 +13274,11 @@
       "Time": "2023-10-08T02:22:34.1655099+00:00",
       "NumProgressed": 14495,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-08T03:03:38.3153423+00:00",
+      "NumProgressed": 14496,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13363,9 +13368,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -13699,9 +13704,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -13843,9 +13848,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -13979,9 +13984,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -14019,9 +14024,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -14115,9 +14120,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -16020,21 +16025,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14495,
+      "Progressed": 14496,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14495,
+      "Progressed": 14496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-07T20:01:15.9914179+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:22:34.1655095+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:03:38.3153415+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:19:38.7047084+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:22:34.166669+00:00"
+  "LastUpdate_Ratings": "2023-10-08T03:00:14.3420293+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:03:38.3165858+00:00"
 }

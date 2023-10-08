@@ -11081,9 +11081,9 @@
       "Count": 25168
     }
   ],
-  "EOS_Progressed": 925679,
+  "EOS_Progressed": 925740,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13689,
+  "EOS_NewPlayers": 13705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30426,6 +30426,11 @@
       "Time": "2023-10-08T02:22:24.6932267+00:00",
       "NumProgressed": 925679,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-08T03:03:30.7349195+00:00",
+      "NumProgressed": 925740,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30467,9 +30472,9 @@
       "ID": "ACH_005",
       "SetID": "bdmlp8o",
       "Name": "Blood on your face",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 1851
     },
     {
       "ID": "ACH_006",
@@ -30557,7 +30562,7 @@
       "Name": "No one left behind",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_017",
@@ -30565,7 +30570,7 @@
       "Name": "Medic",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_018",
@@ -30581,7 +30586,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_020",
@@ -30605,15 +30610,15 @@
       "Name": "Zealous",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     },
     {
       "ID": "ACH_023",
       "SetID": "bdmlp8o",
       "Name": "It wakes",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7405
+      "UsersEstimate": 8332
     },
     {
       "ID": "ACH_024",
@@ -31005,7 +31010,7 @@
       "Name": "Sorted",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_073",
@@ -31605,7 +31610,7 @@
       "Name": "Healthy Obsession",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_151",
@@ -31653,7 +31658,7 @@
       "Name": "Resurgence",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_157",
@@ -31747,9 +31752,9 @@
       "ID": "ACH_168",
       "SetID": "16jml5b",
       "Name": "Close Shave",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2777
+      "UsersEstimate": 3703
     },
     {
       "ID": "ACH_169",
@@ -32268,21 +32273,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 925679,
+      "Progressed": 925740,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 925679,
+      "Progressed": 925740,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-08T01:45:30.5313442+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:22:24.6932263+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:03:30.7349188+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:18:19.6762417+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:22:24.6939076+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:59:12.0380813+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:03:30.7356468+00:00"
 }

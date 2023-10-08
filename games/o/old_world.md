@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.60% | ~87 |
 | Keystone | 0.60% | ~87 |
 | Warrior | 0.60% | ~87 |
+| Developing Cities | 0.60% | ~87 |
 | Pyramids | 0.60% | ~87 |
 | Christianity | 0.60% | ~87 |
 | Babylonian Paganism | 0.60% | ~87 |
@@ -39,8 +40,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~72 |
 | Magnificent | 0.50% | ~72 |
 | Wise | 0.50% | ~72 |
-| Developing Cities | 0.50% | ~72 |
 | Strong Cities | 0.50% | ~72 |
+| Able Difficulty | 0.50% | ~72 |
 | Great Ziggurat | 0.50% | ~72 |
 | Ishtar Gate | 0.50% | ~72 |
 | Lighthouse | 0.50% | ~72 |
@@ -49,9 +50,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.50% | ~72 |
 | Zoroastrianism | 0.50% | ~72 |
 | Kushite Pyramids | 0.50% | ~72 |
+| Hanging Gardens in Babylon | 0.40% | ~58 |
 | Great | 0.40% | ~58 |
 | Legendary Cities | 0.40% | ~58 |
-| Able Difficulty | 0.40% | ~58 |
+| Artisans | 0.40% | ~58 |
 | Furious Family | 0.40% | ~58 |
 | Colossus | 0.40% | ~58 |
 | Musaeum | 0.40% | ~58 |
@@ -60,14 +62,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.40% | ~58 |
 | Egyptian Paganism | 0.40% | ~58 |
 | Regicide | 0.30% | ~43 |
-| Hanging Gardens in Babylon | 0.30% | ~43 |
 | Beloved | 0.30% | ~43 |
 | Drillmaster | 0.30% | ~43 |
 | Conqueror | 0.30% | ~43 |
 | Intercessor | 0.30% | ~43 |
+| Mighty | 0.30% | ~43 |
 | Valiant | 0.30% | ~43 |
 | Just Difficulty | 0.30% | ~43 |
-| Artisans | 0.30% | ~43 |
 | Champions | 0.30% | ~43 |
 | Patrons | 0.30% | ~43 |
 | Sages | 0.30% | ~43 |
@@ -83,9 +84,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.30% | ~43 |
 | Points Victory | 0.30% | ~43 |
 | Win a Single Player Game | 0.30% | ~43 |
+| Devout | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
 | Lion | 0.20% | ~29 |
-| Mighty | 0.20% | ~29 |
 | Subjugator | 0.20% | ~29 |
 | Victorious | 0.20% | ~29 |
 | Good Difficulty | 0.20% | ~29 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~14 |
 | Capable | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
-| Devout | 0.10% | ~14 |
 | Holy | 0.10% | ~14 |
 | Old | 0.10% | ~14 |
 | Peacemaker | 0.10% | ~14 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,495 (Ranked 134)  
+Progressed: 14,496 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 5 (0.03%) (Ranked 277)
 | 2023-10-05 | 14,384 | 5 |
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
-| 2023-10-08 | 14,495 | 5 |
+| 2023-10-08 | 14,496 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,830 (Ranked 208)  

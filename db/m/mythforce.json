@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3889,
+  "EOS_Progressed": 3892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6838,6 +6838,11 @@
       "Time": "2023-10-08T02:23:42.6972981+00:00",
       "NumProgressed": 3889,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-08T03:04:33.1094503+00:00",
+      "NumProgressed": 3892,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -6898,7 +6903,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -6906,7 +6911,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -6914,7 +6919,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -6930,7 +6935,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -6946,7 +6951,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -6978,7 +6983,7 @@
       "Name": "On this Episode!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -7002,7 +7007,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7033,15 +7038,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3889,
+      "Progressed": 3892,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:23:42.6972976+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:04:33.1094495+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:16:37.2741471+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:23:42.6973546+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:57:55.8734282+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:04:33.1095018+00:00"
 }

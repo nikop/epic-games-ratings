@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24144,
+  "EOS_Progressed": 24146,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5286,6 +5286,11 @@
       "Time": "2023-10-08T01:52:42.6773207+00:00",
       "NumProgressed": 24144,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-08T03:06:13.0556781+00:00",
+      "NumProgressed": 24146,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5351,9 +5356,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -5648,13 +5653,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24144,
+      "Progressed": 24146,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1437,
+      "Progressed": 1439,
       "Completed": 1373
     }
   ],
@@ -5662,8 +5667,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-08T02:25:48.2488905+00:00",
+  "LastChanged_Achievements": "2023-10-08T03:06:13.0556774+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-08T02:15:38.5806221+00:00",
-  "LastUpdate_Achievements": "2023-10-08T02:25:48.2489602+00:00"
+  "LastUpdate_Ratings": "2023-10-08T02:57:10.6335037+00:00",
+  "LastUpdate_Achievements": "2023-10-08T03:06:13.055757+00:00"
 }

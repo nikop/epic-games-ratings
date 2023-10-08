@@ -36,7 +36,7 @@
 | Operative | 41.00% | ~247 |
 | Scholar | 41.00% | ~247 |
 | Power Full | 39.00% | ~235 |
-| The Professor | 37.00% | ~223 |
+| The Professor | 38.00% | ~229 |
 | Completionist | 36.00% | ~217 |
 | The Archangel | 36.00% | ~217 |
 | Archivist | 35.00% | ~211 |

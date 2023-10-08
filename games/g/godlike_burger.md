@@ -5,36 +5,36 @@ Rating: 4.29 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 43.00% | ~72,510 |
-| FIRST BLOOD | 38.00% | ~64,078 |
-| KEVIN! | 28.00% | ~47,216 |
-| JACK OF ALL TRADES | 21.00% | ~35,412 |
-| CRIMINAL | 17.00% | ~28,667 |
-| GRANDMA WOULD BE PROUD | 8.00% | ~13,490 |
-| WITHOUT BREAKING A SWEAT | 5.00% | ~8,431 |
-| HONORS STUDENT | 4.00% | ~6,745 |
-| BUTCHER | 3.00% | ~5,059 |
-| INDIVIDUAL APPROACH | 3.00% | ~5,059 |
-| RAMBO | 3.00% | ~5,059 |
-| CELEBRITY | 1.00% | ~1,686 |
-| HELL'S KITCHEN | 1.00% | ~1,686 |
-| MARTYR | 0.60% | ~1,012 |
-| GRATITUDE | 0.30% | ~506 |
-| PATTY-KILLER | 0.30% | ~506 |
-| PRUDENT | 0.30% | ~506 |
-| EXPERIMENTALIST | 0.20% | ~337 |
-| GOURMET | 0.20% | ~337 |
-| CORRUPTIONIST | 0.10% | ~169 |
-| DEBTOR | 0.10% | ~169 |
-| HIGH TECHNOLOGIES | 0.10% | ~169 |
-| I'VE SEEN SOME… | 0.10% | ~169 |
-| LAW-ABIDING CITIZEN | 0.10% | ~169 |
-| MISTER ALL THUMBS | 0.10% | ~169 |
-| SCATTERBRAIN | 0.10% | ~169 |
-| TASTE UNTASTY | 0.10% | ~169 |
-| TRAVELER | 0.10% | ~169 |
+| MASTER CHEF | 43.00% | ~72,901 |
+| FIRST BLOOD | 38.00% | ~64,424 |
+| KEVIN! | 28.00% | ~47,471 |
+| JACK OF ALL TRADES | 21.00% | ~35,603 |
+| CRIMINAL | 17.00% | ~28,821 |
+| GRANDMA WOULD BE PROUD | 8.00% | ~13,563 |
+| WITHOUT BREAKING A SWEAT | 5.00% | ~8,477 |
+| HONORS STUDENT | 4.00% | ~6,782 |
+| BUTCHER | 3.00% | ~5,086 |
+| INDIVIDUAL APPROACH | 3.00% | ~5,086 |
+| RAMBO | 3.00% | ~5,086 |
+| CELEBRITY | 1.00% | ~1,695 |
+| HELL'S KITCHEN | 1.00% | ~1,695 |
+| MARTYR | 0.60% | ~1,017 |
+| GRATITUDE | 0.30% | ~509 |
+| PATTY-KILLER | 0.30% | ~509 |
+| PRUDENT | 0.30% | ~509 |
+| EXPERIMENTALIST | 0.20% | ~339 |
+| GOURMET | 0.20% | ~339 |
+| CORRUPTIONIST | 0.10% | ~170 |
+| DEBTOR | 0.10% | ~170 |
+| HIGH TECHNOLOGIES | 0.10% | ~170 |
+| I'VE SEEN SOME… | 0.10% | ~170 |
+| LAW-ABIDING CITIZEN | 0.10% | ~170 |
+| MISTER ALL THUMBS | 0.10% | ~170 |
+| SCATTERBRAIN | 0.10% | ~170 |
+| TASTE UNTASTY | 0.10% | ~170 |
+| TRAVELER | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,627 (Ranked 69)  
+Progressed: 169,538 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.00%) (Ranked 308)
 | 2023-10-05 | 37,942 | 2 |
 | 2023-10-06 | 108,126 | 2 |
 | 2023-10-07 | 164,102 | 3 |
-| 2023-10-08 | 168,627 | 3 |
+| 2023-10-08 | 169,538 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
