@@ -291,6 +291,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](../games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 34 | 1,000 |
 | [Gravitar Recharged](../games/g/gravitar_recharged.md) | 19 | 1,000 |
 | [Gravity Oddity](../games/b/bd49e68e53fc4da0b14d054354575cea.md) | 33 | 1,000 |
+| [Gray Dawn](../games/9/9704cc138a58450abe19bbb318866b1c.md) | 18 | 1,000 |
 | [greensheen Production](../games/g/greensheen_production.md) | 35 | 1,000 |
 | [Grim Nights](../games/g/grim_nights.md) | 15 | 1,000 |
 | [Grindstone](../games/g/grindstone.md) | 49 | 1,000 |
