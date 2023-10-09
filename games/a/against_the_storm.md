@@ -14,17 +14,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~843 |
 | Coral Forest | 5.00% | ~843 |
 | The Scarlet Orchard | 5.00% | ~843 |
-| Homesick | 4.00% | ~674 |
-| Bandit Camp | 4.00% | ~674 |
-| Barren Lands | 4.00% | ~674 |
-| Ancient Battleground | 4.00% | ~674 |
-| Sparkdew Crystals | 4.00% | ~674 |
-| Royal Outpost | 4.00% | ~674 |
-| Lost Colonies | 4.00% | ~674 |
-| Statue of the Forefathers | 4.00% | ~674 |
-| Watchtower | 4.00% | ~674 |
-| A Real Challenge | 4.00% | ~674 |
-| Trade Baron | 4.00% | ~674 |
+| Homesick | 4.00% | ~675 |
+| Bandit Camp | 4.00% | ~675 |
+| Barren Lands | 4.00% | ~675 |
+| Ancient Battleground | 4.00% | ~675 |
+| Sparkdew Crystals | 4.00% | ~675 |
+| Royal Outpost | 4.00% | ~675 |
+| Lost Colonies | 4.00% | ~675 |
+| Statue of the Forefathers | 4.00% | ~675 |
+| Watchtower | 4.00% | ~675 |
+| A Real Challenge | 4.00% | ~675 |
+| Trade Baron | 4.00% | ~675 |
 | Serving Ale | 3.00% | ~506 |
 | Against All Odds | 3.00% | ~506 |
 | Ruined Armory | 3.00% | ~506 |
@@ -36,13 +36,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~506 |
 | Like a Machine | 3.00% | ~506 |
 | Defying the Crown | 3.00% | ~506 |
+| Into the Forest | 3.00% | ~506 |
 | Refinery | 2.00% | ~337 |
 | Dangerous Lands | 2.00% | ~337 |
 | Fishmen Ritual Site | 2.00% | ~337 |
 | Forbidden Lands | 2.00% | ~337 |
 | Forsaken Gods Temple | 2.00% | ~337 |
 | Victory through Prosperity | 2.00% | ~337 |
-| Into the Forest | 2.00% | ~337 |
 | Feeding The People | 1.00% | ~169 |
 | Efficient Explorer | 1.00% | ~169 |
 | Prestigious Expedition | 1.00% | ~169 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,861 (Ranked 130)  
+Progressed: 16,865 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 52 (0.31%) (Ranked 199)
 | 2023-10-06 | 16,827 | 52 |
 | 2023-10-07 | 16,848 | 52 |
 | 2023-10-08 | 16,855 | 52 |
-| 2023-10-09 | 16,861 | 52 |
+| 2023-10-09 | 16,865 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 435  (Ranked 212)  
 Sum: 3,183 (Ranked 167)  

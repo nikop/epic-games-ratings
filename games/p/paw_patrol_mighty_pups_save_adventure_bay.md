@@ -22,9 +22,9 @@
 | Never Miss | 28.00% | ~9 |
 | Adventure Bay’s Citizen | 28.00% | ~9 |
 | Don’t Miss Any | 25.00% | ~8 |
+| In the Air | 22.00% | ~7 |
 | Animal Sighting | 22.00% | ~7 |
 | Mountain and Ice | 22.00% | ~7 |
-| In the Air | 19.00% | ~6 |
 | You Have Been Everywhere | 19.00% | ~6 |
 | Everything Under Control | 16.00% | ~5 |
 | A Great Explorer | 13.00% | ~4 |

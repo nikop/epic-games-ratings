@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13800,
+  "EOS_Progressed": 13801,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -8170,6 +8170,11 @@
       "Time": "2023-10-09T15:03:04.9819487+00:00",
       "NumProgressed": 13800,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T16:03:30.4361671+00:00",
+      "NumProgressed": 13801,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8220,9 +8225,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "15",
@@ -8421,7 +8426,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13800,
+      "Progressed": 13801,
       "Completed": 18
     }
   ],
@@ -8429,8 +8434,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:03:04.9819481+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:03:30.4361663+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:58:05.7775667+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:03:04.9820365+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:58:37.1895335+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:03:30.4362962+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.03 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Battlefields Have Memories | 90.00% | ~65 |
 | Unforeseen | 89.00% | ~64 |
-| Battlefields Have Memories | 89.00% | ~64 |
 | Enlisted | 86.00% | ~62 |
 | Maybe Engage a Little | 82.00% | ~59 |
 | No More Names | 71.00% | ~51 |
@@ -20,13 +20,13 @@ Rating: 4.03 (Ranked 958)
 | Socialite | 35.00% | ~25 |
 | The Means to Save It | 29.00% | ~21 |
 | Resilience to Sin | 26.00% | ~19 |
-| A Familiar Nest | 22.00% | ~16 |
+| A Familiar Nest | 24.00% | ~17 |
+| Periapt Alizarin | 24.00% | ~17 |
 | Geas Aristeya | 22.00% | ~16 |
-| Periapt Alizarin | 22.00% | ~16 |
 | Armsman | 21.00% | ~15 |
 | A Perfect Cycle | 19.00% | ~14 |
 | Recruit | 19.00% | ~14 |
-| Good Boy | 14.00% | ~10 |
+| Good Boy | 15.00% | ~11 |
 | Lights Army | 13.00% | ~9 |
 | Periapt Cerulean | 13.00% | ~9 |
 | Periapt Viridian | 11.00% | ~8 |

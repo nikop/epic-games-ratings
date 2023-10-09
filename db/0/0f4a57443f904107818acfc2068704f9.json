@@ -149,9 +149,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CompleteChapter10",
@@ -213,9 +213,9 @@
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -229,25 +229,25 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteChapter4",
@@ -395,8 +395,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:04:18.4238496+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:05:34.1506261+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:57:52.0797187+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:04:18.423879+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:58:21.1245097+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:05:34.1506731+00:00"
 }

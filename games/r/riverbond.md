@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,267 |
-| Now You're Talking | 62.00% | ~327,951 |
-| Steel Yourself | 62.00% | ~327,951 |
-| Window Dressing | 50.00% | ~264,476 |
-| Trigger Happy | 46.00% | ~243,318 |
-| Riverborn | 45.00% | ~238,029 |
-| Starry Eyed | 34.00% | ~179,844 |
-| Poking Around | 34.00% | ~179,844 |
+| First Step | 70.00% | ~370,268 |
+| Now You're Talking | 62.00% | ~327,952 |
+| Steel Yourself | 62.00% | ~327,952 |
+| Window Dressing | 50.00% | ~264,478 |
+| Trigger Happy | 46.00% | ~243,319 |
+| Riverborn | 45.00% | ~238,030 |
+| Starry Eyed | 34.00% | ~179,845 |
+| Poking Around | 34.00% | ~179,845 |
 | Talk of the Town | 24.00% | ~126,949 |
-| AAARR! | 23.00% | ~121,659 |
-| Hello Darkness | 23.00% | ~121,659 |
+| AAARR! | 23.00% | ~121,660 |
+| Hello Darkness | 23.00% | ~121,660 |
 | Wind At Our Backs | 22.00% | ~116,370 |
 | To the Beat | 20.00% | ~105,791 |
 | Sunny Shores | 17.00% | ~89,922 |
-| Sunday Best | 16.00% | ~84,632 |
+| Sunday Best | 16.00% | ~84,633 |
 | To Victory! | 15.00% | ~79,343 |
-| Two of a Kind | 14.00% | ~74,053 |
+| Two of a Kind | 14.00% | ~74,054 |
 | Keep On Trucking | 13.00% | ~68,764 |
 | Going on an Adventure | 11.00% | ~58,185 |
 | Make Peace, Not War | 11.00% | ~58,185 |
-| Walking The Line | 10.00% | ~52,895 |
-| Not So Cute Anymore | 10.00% | ~52,895 |
+| Walking The Line | 10.00% | ~52,896 |
+| Not So Cute Anymore | 10.00% | ~52,896 |
 | Road Less Travelled | 9.00% | ~47,606 |
 | Lost and Found | 9.00% | ~47,606 |
 | Under the Radar | 8.00% | ~42,316 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,587 |
 | Point Taken | 0.10% | ~529 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,953 (Ranked 34)  
+Progressed: 528,955 (Ranked 34)  
 Completed: 481 (0.09%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 481 (0.09%) (Ranked 250)
 | 2023-10-06 | 528,716 | 480 |
 | 2023-10-07 | 528,830 | 480 |
 | 2023-10-08 | 528,918 | 481 |
-| 2023-10-09 | 528,953 | 481 |
+| 2023-10-09 | 528,955 | 481 |
 ## Awards
 Max (Relaxing): 20  (Ranked 524)  
 Sum: 20 (Ranked 524)  

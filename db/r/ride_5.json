@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2583,9 +2583,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -2958,8 +2958,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:04:31.4237978+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:05:53.0240477+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:59:05.5266246+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:04:31.4238583+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:00:08.0842512+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:05:53.0241484+00:00"
 }

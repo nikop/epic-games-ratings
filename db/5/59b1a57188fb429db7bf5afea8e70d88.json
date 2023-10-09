@@ -135,9 +135,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -215,9 +215,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:05:12.6826949+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:06:51.98655+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1319997+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:02:17.5748149+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:05:12.6827136+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:03:16.9823566+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:06:51.9865799+00:00"
 }

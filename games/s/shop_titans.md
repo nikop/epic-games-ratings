@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 0.70% | ~962 |
 | Trash to Treasure | 0.70% | ~962 |
 | Royal Ransom | 0.70% | ~962 |
+| Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~824 |
 | Above the Norm | 0.60% | ~824 |
@@ -70,8 +71,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.60% | ~824 |
 | Miracle Alchemist | 0.60% | ~824 |
 | Laden with Loot | 0.60% | ~824 |
-| Seasoned Journeyman | 0.60% | ~824 |
 | Scourge of the Seas | 0.60% | ~824 |
+| Attrition Mission | 0.60% | ~824 |
 | Moment of Respite | 0.60% | ~824 |
 | Black Friday Special | 0.60% | ~824 |
 | Special Ingredient | 0.60% | ~824 |
@@ -92,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.50% | ~687 |
 | Bountiful Harvest | 0.50% | ~687 |
 | Precision Engineering | 0.50% | ~687 |
-| Attrition Mission | 0.50% | ~687 |
 | Glittering Collection | 0.50% | ~687 |
 | Treasure Trove | 0.50% | ~687 |
 | King's Shadow | 0.50% | ~687 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,365 (Ranked 73)  
+Progressed: 137,369 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,365 | 167 |
+| 2023-10-09 | 137,369 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

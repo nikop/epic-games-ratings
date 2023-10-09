@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -1180,9 +1180,9 @@
       "ID": "SilverMirrorBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Magic Silver mirror; on the wall",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SilverMissionsCompleted10Achievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:03:24.6534613+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:04:17.1904396+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:02.1415967+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:59:07.0450071+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:03:24.6536677+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:00:09.9977324+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:04:17.1907786+00:00"
 }

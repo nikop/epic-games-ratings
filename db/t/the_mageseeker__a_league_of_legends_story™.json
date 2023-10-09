@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 416
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -4247,8 +4247,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:03:13.7994672+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:03:42.1539462+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:12.8576871+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:58:22.886969+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:03:13.7995405+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:59:04.721534+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:03:42.1540657+00:00"
 }

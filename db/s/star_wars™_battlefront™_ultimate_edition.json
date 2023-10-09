@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1431,6 +1431,11 @@
       "Time": "2023-10-09T13:19:27.0361271+00:00",
       "NumProgressed": 554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T16:08:26.393851+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1475,7 +1480,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_14",
@@ -1547,7 +1552,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_22",
@@ -1619,7 +1624,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_30",
@@ -1635,7 +1640,7 @@
       "Name": "Scrap collector",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_32",
@@ -1659,7 +1664,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_35",
@@ -1667,7 +1672,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_36",
@@ -1691,7 +1696,7 @@
       "Name": "Survivor",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_39",
@@ -1946,13 +1951,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 1
     }
   ],
@@ -1960,8 +1965,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:06:19.1262418+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:08:26.39385+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:02:19.8959197+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:06:19.1263223+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:03:20.5839705+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:08:26.3939843+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.06,
+  "EOS_Completed_Percentage": 7.04,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1262,6 +1262,11 @@
       "Time": "2023-10-09T12:05:35.9780192+00:00",
       "NumProgressed": 269,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-09T16:07:46.4610748+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1449,7 +1454,7 @@
       "Name": "A new dawn",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PROGRESS_N4",
@@ -1472,14 +1477,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:05:51.1714888+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:07:46.4610739+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:59:08.9243387+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:05:51.1715454+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:00:12.6916368+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:07:46.4611183+00:00"
 }

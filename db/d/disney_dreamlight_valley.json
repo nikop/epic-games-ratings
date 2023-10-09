@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4038,7 +4038,7 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10674,
+  "EOS_Progressed": 10675,
   "EOS_Completed": 253,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 7,
@@ -15358,6 +15358,11 @@
       "Time": "2023-10-09T15:03:21.979982+00:00",
       "NumProgressed": 10674,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-10-09T16:04:13.50801+00:00",
+      "NumProgressed": 10675,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 15,
@@ -15393,7 +15398,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "Chit_Chatter",
@@ -15457,7 +15462,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "Renovator",
@@ -15488,7 +15493,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10674,
+      "Progressed": 10675,
       "Completed": 253
     }
   ],
@@ -15496,8 +15501,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-09T13:11:05.5485125+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:03:21.9799812+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:04:13.5080092+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:58:46.8782352+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:03:21.9800713+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:59:40.1416193+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:04:13.5081472+00:00"
 }

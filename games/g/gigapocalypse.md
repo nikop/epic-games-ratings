@@ -22,15 +22,15 @@
 | Glorious Battle | 43.00% | ~81 |
 | Diaper Time! | 43.00% | ~81 |
 | Target Practice | 43.00% | ~81 |
-| Meat Larder | 40.00% | ~75 |
+| Meat Larder | 41.00% | ~77 |
 | Mutant And Proud | 39.00% | ~73 |
 | The Emperor's New Clothes | 34.00% | ~64 |
+| Godlike Power | 32.00% | ~60 |
 | Happy Little Home | 32.00% | ~60 |
 | Final Evolution | 32.00% | ~60 |
 | You Shall Not Pass | 31.00% | ~58 |
-| Godlike Power | 31.00% | ~58 |
+| Animal Lover | 31.00% | ~58 |
 | Undying Skin | 31.00% | ~58 |
-| Animal Lover | 30.00% | ~56 |
 | Fight Me! | 30.00% | ~56 |
 | Mommy's Very Angry | 29.00% | ~55 |
 | Supremacy | 29.00% | ~55 |

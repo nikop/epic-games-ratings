@@ -2330,7 +2330,7 @@
   ],
   "EOS_Progressed": 26311,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14761,9 +14761,9 @@
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 105
     },
     {
       "ID": "Rift_Destroyer",
@@ -14873,9 +14873,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 263
     },
     {
       "ID": "Terrifying",
@@ -14954,8 +14954,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-08T11:59:22.2607376+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:03:19.4052088+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:04:09.9578787+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:59:50.7462246+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:03:19.4053264+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:01:16.7433017+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:04:09.9580771+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8730,9 +8730,9 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298079,
+  "EOS_Progressed": 298080,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27255,6 +27255,11 @@
       "Time": "2023-10-09T13:20:20.7197717+00:00",
       "NumProgressed": 298079,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-09T16:09:03.5991988+00:00",
+      "NumProgressed": 298080,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27386,7 +27391,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35769
+      "UsersEstimate": 35770
     },
     {
       "ID": "PFA_24",
@@ -27610,7 +27615,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35769
+      "UsersEstimate": 35770
     },
     {
       "ID": "PFA_9",
@@ -27625,7 +27630,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298079,
+      "Progressed": 298080,
       "Completed": 482
     }
   ],
@@ -27633,8 +27638,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-09T11:58:00.9930091+00:00",
-  "LastChanged_Achievements": "2023-10-09T15:08:05.7692719+00:00",
+  "LastChanged_Achievements": "2023-10-09T16:09:03.5991977+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:58:17.9711572+00:00",
-  "LastUpdate_Achievements": "2023-10-09T15:08:05.7694564+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:58:56.7733716+00:00",
+  "LastUpdate_Achievements": "2023-10-09T16:09:03.5994664+00:00"
 }

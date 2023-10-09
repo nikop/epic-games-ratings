@@ -20,13 +20,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 1.00% | ~146 |
 | Friendly Family | 1.00% | ~146 |
 | Hanging Gardens | 1.00% | ~146 |
+| Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
 | Glorious | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Oracle | 0.90% | ~131 |
 | Judaism | 0.90% | ~131 |
 | Naming Landmarks | 0.90% | ~131 |
-| Trade Caravan | 0.90% | ~131 |
 | Keystone | 0.80% | ~116 |
 | Pyramids | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.70% | ~102 |
 | Lighthouse | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
+| Carthaginian Paganism | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |
@@ -51,8 +52,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Manichaeism | 0.60% | ~87 |
-| Carthaginian Paganism | 0.60% | ~87 |
 | Egyptian Paganism | 0.60% | ~87 |
+| Drillmaster | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Valiant | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.50% | ~73 |
 | Regicide | 0.40% | ~58 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
-| Drillmaster | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |

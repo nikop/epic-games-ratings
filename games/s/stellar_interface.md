@@ -96,6 +96,7 @@
 | Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
+| Magic Silver mirror; on the wall | 2.00% | ~1 |
 | Galactic Captain | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
@@ -128,7 +129,6 @@
 | Usurper VI | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
-| Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |

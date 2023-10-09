@@ -38,7 +38,7 @@
 | Human Believer | 30.00% | ~35 |
 | Style Seeker | 29.00% | ~34 |
 | Threaded Harmony | 29.00% | ~34 |
-| Karakuri Minato | 28.00% | ~33 |
+| Karakuri Minato | 29.00% | ~34 |
 | Canyon of Karakuri | 26.00% | ~31 |
 | Karakuri Fortress | 26.00% | ~31 |
 | Jack of All Trades | 26.00% | ~31 |
