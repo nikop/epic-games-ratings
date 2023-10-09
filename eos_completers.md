@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.80% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.79% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -39,7 +39,7 @@
 | 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
 | 38 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 39 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
-| 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.82% |
+| 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.81% |
 | 41 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
@@ -64,8 +64,8 @@
 | 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.27% |
-| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
+| 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
+| 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.24% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.14% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
