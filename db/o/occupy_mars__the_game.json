@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4154,9 +4154,9 @@
       "ID": "NEW_ACHIEVEMENT_ITS",
       "SetID": "l546gc",
       "Name": "ITS crash site",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4315,8 +4315,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:04:09.4506951+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:04:28.6959668+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:07.1369242+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:01:15.0622231+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:04:09.4508044+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:01:32.2152978+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:04:28.6960341+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3099,
+  "EOS_Progressed": 3102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2494,6 +2494,11 @@
       "Time": "2023-10-09T15:04:35.3028528+00:00",
       "NumProgressed": 3099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T17:06:23.2921934+00:00",
+      "NumProgressed": 3102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -2546,7 +2551,7 @@
       "Name": "Setting up for Success",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2420
     },
     {
       "ID": "achievement_0007",
@@ -2554,7 +2559,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2947
     },
     {
       "ID": "achievement_0008",
@@ -2562,7 +2567,7 @@
       "Name": "On the Top Step",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_0009",
@@ -2578,7 +2583,7 @@
       "Name": "Network Success",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "achievement_0011",
@@ -2626,7 +2631,7 @@
       "Name": "Hitting a Season",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "achievement_0017",
@@ -2666,7 +2671,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2326
     },
     {
       "ID": "achievement_0022",
@@ -2674,7 +2679,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "achievement_0023",
@@ -2682,7 +2687,7 @@
       "Name": "Sharing the Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "achievement_0024",
@@ -2762,7 +2767,7 @@
       "Name": "Engineer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1737
     },
     {
       "ID": "achievement_0034",
@@ -2770,7 +2775,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "achievement_0035",
@@ -2834,7 +2839,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_0043",
@@ -2842,7 +2847,7 @@
       "Name": "Familiar Faces",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "achievement_0044",
@@ -2850,7 +2855,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "achievement_0045",
@@ -2858,7 +2863,7 @@
       "Name": "Making History",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "achievement_0046",
@@ -2866,7 +2871,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_0047",
@@ -2897,7 +2902,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3099,
+      "Progressed": 3102,
       "Completed": 0
     }
   ],
@@ -2905,8 +2910,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-04T16:01:01.4582433+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:05:58.3064056+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:06:23.2921927+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:10.4381265+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:58:16.5200829+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:05:58.3064753+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:58:33.0853021+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:06:23.2923434+00:00"
 }

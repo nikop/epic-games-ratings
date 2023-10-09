@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,7 +223,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57250,
+  "EOS_Progressed": 57251,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -10523,6 +10523,11 @@
       "Time": "2023-10-09T14:03:51.1616368+00:00",
       "NumProgressed": 57250,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-09T17:04:49.2446196+00:00",
+      "NumProgressed": 57251,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10582,7 +10587,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Explorer",
@@ -10606,7 +10611,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "FlyingPresentMaster",
@@ -10622,7 +10627,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "FoolMeTwice",
@@ -10630,7 +10635,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "FoundAllBackers",
@@ -10766,7 +10771,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "PacifistVictory",
@@ -10806,7 +10811,7 @@
       "Name": "Broken Present Risk Taker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Saint",
@@ -10846,7 +10851,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "Teamwork",
@@ -10894,7 +10899,7 @@
       "Name": "Truly Evil",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "WakeyWakey",
@@ -10902,7 +10907,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -10925,7 +10930,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57250,
+      "Progressed": 57251,
       "Completed": 6
     }
   ],
@@ -10933,8 +10938,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:04:29.7049788+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:04:49.2446191+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0987806+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:58:22.2579838+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:04:29.7052233+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:58:38.4071511+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:04:49.2447717+00:00"
 }

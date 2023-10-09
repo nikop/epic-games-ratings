@@ -8650,10 +8650,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45400,
       "NumberOfAwardsMax": 23384
+    },
+    {
+      "Time": "2023-10-09T16:59:14.626449+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45411,
+      "NumberOfAwardsMax": 23384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45400,
+  "NumberOfAwards": 45411,
   "NumberOfAwardsMax": 23384,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8679,7 +8685,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1069
+      "Count": 1074
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8721,7 +8727,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 993
+      "Count": 999
     },
     {
       "Text": "This game has a Creative Community",
@@ -8730,7 +8736,7 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298080,
+  "EOS_Progressed": 298081,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 3,
@@ -27260,6 +27266,11 @@
       "Time": "2023-10-09T16:09:03.5991988+00:00",
       "NumProgressed": 298080,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-09T17:09:33.1324087+00:00",
+      "NumProgressed": 298081,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27599,7 +27610,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38750
+      "UsersEstimate": 38751
     },
     {
       "ID": "PFA_7",
@@ -27607,7 +27618,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38750
+      "UsersEstimate": 38751
     },
     {
       "ID": "PFA_8",
@@ -27630,16 +27641,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298080,
+      "Progressed": 298081,
       "Completed": 482
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-09T11:58:00.9930091+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:09:03.5991977+00:00",
+  "LastChanged": "2023-10-09T16:59:14.6264488+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:09:33.1324082+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:58:56.7733716+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:09:03.5994664+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:59:14.6264495+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:09:33.1325705+00:00"
 }

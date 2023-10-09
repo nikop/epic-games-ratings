@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -11969,10 +11969,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 94035,
       "NumberOfAwardsMax": 11816
+    },
+    {
+      "Time": "2023-10-09T17:01:23.0586702+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 94043,
+      "NumberOfAwardsMax": 11816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94035,
+  "NumberOfAwards": 94043,
   "NumberOfAwardsMax": 11816,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11986,7 +11992,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 9928
+      "Count": 9936
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12054,8 +12060,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-10-09T14:59:43.4155959+00:00",
+  "LastChanged": "2023-10-09T17:01:23.05867+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.972455+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:01:05.8311594+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:09:40.0994988+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:01:23.0586708+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:10:10.6577085+00:00"
 }

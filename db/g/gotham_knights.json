@@ -3446,7 +3446,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73353,
+  "EOS_Progressed": 73354,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": -1,
@@ -18161,6 +18161,11 @@
       "Time": "2023-10-09T15:06:39.0178334+00:00",
       "NumProgressed": 73353,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-09T17:09:24.4391513+00:00",
+      "NumProgressed": 73354,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18292,7 +18297,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18396,7 +18401,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21272
+      "UsersEstimate": 21273
     },
     {
       "ID": "FREEZE_1_5",
@@ -18420,7 +18425,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18500,7 +18505,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11736
+      "UsersEstimate": 11737
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18612,7 +18617,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "MYSTERY_08",
@@ -18659,13 +18664,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73353,
+      "Progressed": 73354,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43633,
+      "Progressed": 43634,
       "Completed": 2666
     }
   ],
@@ -18673,8 +18678,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T14:59:31.6171307+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:08:55.393902+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:09:24.4391508+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:00:48.7964236+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:08:55.3941632+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:01:05.5106638+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:09:24.4393127+00:00"
 }

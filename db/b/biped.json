@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6505,
+  "EOS_Progressed": 6506,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -11201,6 +11201,11 @@
       "Time": "2023-10-09T16:03:31.3687865+00:00",
       "NumProgressed": 6505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T17:04:10.5491402+00:00",
+      "NumProgressed": 6506,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11228,7 +11233,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "12",
@@ -11268,7 +11273,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "3",
@@ -11331,7 +11336,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6505,
+      "Progressed": 6506,
       "Completed": 0
     }
   ],
@@ -11339,8 +11344,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:03:31.3687856+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:04:10.5491397+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:59:56.7419506+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:03:31.3689904+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:00:14.7233214+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:04:10.5492381+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12374,
+  "EOS_Progressed": 12375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11636,6 +11636,11 @@
       "Time": "2023-10-09T16:05:24.4140078+00:00",
       "NumProgressed": 12374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T17:05:48.1965073+00:00",
+      "NumProgressed": 12375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11831,7 +11836,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -11839,21 +11844,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12374,
+      "Progressed": 12375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:05:24.4140069+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:05:48.1965065+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:03:10.9457826+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:05:24.4141573+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:03:29.6126926+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:05:48.1966005+00:00"
 }

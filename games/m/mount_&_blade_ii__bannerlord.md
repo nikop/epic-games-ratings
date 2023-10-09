@@ -7,7 +7,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,561 |
-| Landlord | 33.00% | ~20,782 |
+| Landlord | 33.00% | ~20,783 |
 | Bannerlord | 23.00% | ~14,485 |
 | Horde breaker | 23.00% | ~14,485 |
 | Lawmaker | 23.00% | ~14,485 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,977 (Ranked 96)  
+Progressed: 62,978 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 62,814 | 0 |
 | 2023-10-07 | 62,881 | 0 |
 | 2023-10-08 | 62,927 | 0 |
-| 2023-10-09 | 62,977 | 0 |
+| 2023-10-09 | 62,978 | 0 |
 ## Awards
 Max (Character Customization): 7,202  (Ranked 52)  
-Sum: 14,795 (Ranked 66)  
+Sum: 14,796 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 829 |
 | This game is Relaxing | 828 |
 | This game has Quickly Understood Controls | 811 |
-| This game has a Creative Community | 603 |
+| This game has a Creative Community | 604 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -519,3 +519,4 @@ Diff (max vs sum): -14
 | 2023-10-06 | 4.74 | - | 7,185 | 14,748 |
 | 2023-10-07 | 4.74 | - | 7,194 | 14,760 |
 | 2023-10-08 | 4.74 | - | 7,202 | 14,795 |
+| 2023-10-09 | 4.74 | - | 7,202 | 14,796 |

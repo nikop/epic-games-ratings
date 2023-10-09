@@ -5,41 +5,41 @@ Rating: 4.03 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Battlefields Have Memories | 90.00% | ~65 |
-| Unforeseen | 89.00% | ~64 |
-| Enlisted | 86.00% | ~62 |
-| Maybe Engage a Little | 82.00% | ~59 |
-| No More Names | 71.00% | ~51 |
-| Initiate | 65.00% | ~47 |
-| Thrada-Kul | 60.00% | ~43 |
-| Gravity-Challenged Rocks | 50.00% | ~36 |
+| Battlefields Have Memories | 89.00% | ~65 |
+| Unforeseen | 88.00% | ~64 |
+| Enlisted | 86.00% | ~63 |
+| Maybe Engage a Little | 81.00% | ~59 |
+| No More Names | 70.00% | ~51 |
+| Initiate | 64.00% | ~47 |
+| Thrada-Kul | 59.00% | ~43 |
+| Gravity-Challenged Rocks | 49.00% | ~36 |
 | Soldier | 44.00% | ~32 |
-| All the Major Food Groups | 43.00% | ~31 |
+| All the Major Food Groups | 42.00% | ~31 |
 | Beggars Would Ride | 36.00% | ~26 |
-| Control is an Illusion | 35.00% | ~25 |
-| Socialite | 35.00% | ~25 |
+| Control is an Illusion | 34.00% | ~25 |
+| Socialite | 34.00% | ~25 |
 | The Means to Save It | 29.00% | ~21 |
 | Resilience to Sin | 26.00% | ~19 |
-| A Familiar Nest | 24.00% | ~17 |
-| Periapt Alizarin | 24.00% | ~17 |
+| A Familiar Nest | 23.00% | ~17 |
+| Periapt Alizarin | 23.00% | ~17 |
 | Geas Aristeya | 22.00% | ~16 |
 | Armsman | 21.00% | ~15 |
 | A Perfect Cycle | 19.00% | ~14 |
 | Recruit | 19.00% | ~14 |
 | Good Boy | 15.00% | ~11 |
-| Lights Army | 13.00% | ~9 |
-| Periapt Cerulean | 13.00% | ~9 |
+| Lights Army | 12.00% | ~9 |
+| Periapt Cerulean | 12.00% | ~9 |
 | Periapt Viridian | 11.00% | ~8 |
 | Shroudfane Explorer | 11.00% | ~8 |
 | Armaments Gules | 10.00% | ~7 |
 | Scholar | 8.00% | ~6 |
 | Armaments Azure | 8.00% | ~6 |
 | Veteran | 8.00% | ~6 |
-| Kitted Out | 6.00% | ~4 |
-| Best Dressed | 6.00% | ~4 |
-| Armaments Vert | 6.00% | ~4 |
-| Shroudfane Surveyor | 6.00% | ~4 |
-| Treasure Hunter | 6.00% | ~4 |
+| Kitted Out | 5.00% | ~4 |
+| Best Dressed | 5.00% | ~4 |
+| Armaments Vert | 5.00% | ~4 |
+| Shroudfane Surveyor | 5.00% | ~4 |
+| Treasure Hunter | 5.00% | ~4 |
 | Master of Ultramarine | 4.00% | ~3 |
 | Master of Carmine | 4.00% | ~3 |
 | Grand Magnus | 3.00% | ~2 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 958)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 409)  
+Progressed: 73 (Ranked 409)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 67 | 0 |
 | 2023-10-07 | 68 | 0 |
 | 2023-10-08 | 71 | 0 |
-| 2023-10-09 | 72 | 0 |
+| 2023-10-09 | 73 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

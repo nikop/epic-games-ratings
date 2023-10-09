@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,984 |
+| Follow the Light | 43.00% | ~28,985 |
 | Let There Be Light | 35.00% | ~23,592 |
 | Float Like a Butterfly | 33.00% | ~22,244 |
-| Nordic Walking | 27.00% | ~18,199 |
-| Bright Falls' Finest | 26.00% | ~17,525 |
-| Under a Thin Layer of Skin | 23.00% | ~15,503 |
+| Nordic Walking | 27.00% | ~18,200 |
+| Bright Falls' Finest | 26.00% | ~17,526 |
+| Under a Thin Layer of Skin | 23.00% | ~15,504 |
 | Paging Mr. Wake | 20.00% | ~13,481 |
 | Park Ranger | 19.00% | ~12,807 |
 | Back! Back, I Say! | 18.00% | ~12,133 |
@@ -33,11 +33,11 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 12.00% | ~8,089 |
 | Two For the Price of One | 12.00% | ~8,089 |
 | Energized! | 12.00% | ~8,089 |
-| What Light Through Yonder Window | 10.00% | ~6,740 |
-| Right of Way | 10.00% | ~6,740 |
-| Tornado Wrangler | 9.00% | ~6,066 |
+| What Light Through Yonder Window | 10.00% | ~6,741 |
+| Right of Way | 10.00% | ~6,741 |
+| Tornado Wrangler | 9.00% | ~6,067 |
 | A Friend in Need | 9.00% | ~2,779 |
-| Departure | 8.00% | ~5,392 |
+| Departure | 8.00% | ~5,393 |
 | Hardboiled Writer | 7.00% | ~4,718 |
 | A Friend Indeed | 7.00% | ~2,161 |
 | Children of the Elder God | 6.00% | ~4,044 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,348 |
 | An Idyllic Small Town | 2.00% | ~1,348 |
 | Couch Potato | 2.00% | ~1,348 |
-| Iron Will | 2.00% | ~617 |
+| Iron Will | 2.00% | ~618 |
 | Go Gentle Into That Good Light | 1.00% | ~309 |
 | Words Will Never Harm You | 0.70% | ~216 |
 | Cardboard Companions | 0.60% | ~185 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | Alan, Wake Up | 0.40% | ~270 |
 | Meet the Deadline | 0.40% | ~270 |
 | Picking Up After Yourself | 0.40% | ~270 |
-| Run-On Sentence | 0.40% | ~123 |
-| License Revoked | 0.40% | ~123 |
-| Whirlwind | 0.40% | ~123 |
+| Run-On Sentence | 0.40% | ~124 |
+| License Revoked | 0.40% | ~124 |
+| Whirlwind | 0.40% | ~124 |
 | Bright Falls Aficionado | 0.30% | ~202 |
 | Tick Tock | 0.30% | ~93 |
 | Gunless Wonder | 0.20% | ~135 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,405 (Ranked 93)  
+Progressed: 67,407 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 67 (0.10%) (Ranked 245)
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
-| 2023-10-09 | 67,405 | 67 |
+| 2023-10-09 | 67,407 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

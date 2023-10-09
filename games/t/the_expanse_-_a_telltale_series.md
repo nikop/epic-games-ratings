@@ -20,10 +20,10 @@ Rating: 4.56 (Ranked 471)
 | Celebrations are in Order | 2.00% | ~276 |
 | Impossible Objects | 2.00% | ~276 |
 | Stogie for Fogey | 1.00% | ~138 |
+| Thorston Mayer | 1.00% | ~138 |
 | Miraculous Maya | 1.00% | ~138 |
 | Doctor Approved | 0.90% | ~124 |
 | Bottoms up! | 0.90% | ~124 |
-| Thorston Mayer | 0.90% | ~124 |
 | Brother's Reaper | 0.60% | ~83 |
 | No Belter Left Behind | 0.60% | ~83 |
 | Data Logger | 0.50% | ~69 |

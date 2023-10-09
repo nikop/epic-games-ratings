@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75388,
+  "EOS_Progressed": 75390,
   "EOS_Completed": 787,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -19319,6 +19319,11 @@
       "Time": "2023-10-09T16:06:06.7149387+00:00",
       "NumProgressed": 75388,
       "NumCompleted": 787
+    },
+    {
+      "Time": "2023-10-09T17:06:31.8069703+00:00",
+      "NumProgressed": 75390,
+      "NumCompleted": 787
     }
   ],
   "TotalAchievements": 25,
@@ -19362,7 +19367,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16585
+      "UsersEstimate": 16586
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -19426,7 +19431,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "Master, Commander",
@@ -19482,7 +19487,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9800
+      "UsersEstimate": 9801
     },
     {
       "ID": "Sniper",
@@ -19529,7 +19534,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75388,
+      "Progressed": 75390,
       "Completed": 787
     }
   ],
@@ -19537,8 +19542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:06:06.7149379+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:06:31.8069695+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:57:20.3896647+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:06:06.71521+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:57:37.4663567+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:06:31.8071817+00:00"
 }

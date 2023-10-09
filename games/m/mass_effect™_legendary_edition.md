@@ -14,14 +14,14 @@
 | Honorarium of Corporate Service | 67.00% | ~419 |
 | Medal of Exploration II | 60.00% | ~375 |
 | Council Legion of Merit | 60.00% | ~375 |
+| Charismatic | 58.00% | ~362 |
 | Medal of Honor | 57.00% | ~356 |
 | Meritorious Service Medal | 57.00% | ~356 |
 | Turian Ally | 57.00% | ~356 |
-| Charismatic | 57.00% | ~356 |
 | Soldier | 53.00% | ~331 |
 | Medal of Exploration III | 53.00% | ~331 |
+| Principled | 53.00% | ~331 |
 | Asari Ally | 52.00% | ~325 |
-| Principled | 52.00% | ~325 |
 | Soldier Ally | 50.00% | ~312 |
 | Colonial Savior | 49.00% | ~306 |
 | Paramour I | 46.00% | ~288 |
@@ -40,9 +40,9 @@
 | Completionist | 36.00% | ~225 |
 | The Archangel | 36.00% | ~225 |
 | The Convict | 35.00% | ~219 |
+| The Krogan | 35.00% | ~219 |
 | Archivist | 34.00% | ~213 |
 | Colony Defense | 34.00% | ~213 |
-| The Krogan | 34.00% | ~213 |
 | Galactic Explorer | 34.00% | ~213 |
 | Broke, Blind, and Bedlam | 33.00% | ~206 |
 | Ghost Ship | 32.00% | ~200 |
@@ -55,11 +55,11 @@
 | Ghost of the Father | 31.00% | ~194 |
 | The Cure | 31.00% | ~194 |
 | Big Game Hunter | 31.00% | ~194 |
+| Revenge! | 31.00% | ~194 |
 | Heart of Darkness | 31.00% | ~194 |
 | Shopaholic | 31.00% | ~194 |
 | Catharsis | 30.00% | ~188 |
 | Fade Away | 30.00% | ~188 |
-| Revenge! | 30.00% | ~188 |
 | Cat's in the Cradle | 29.00% | ~181 |
 | Treason | 29.00% | ~181 |
 | Agent | 29.00% | ~181 |

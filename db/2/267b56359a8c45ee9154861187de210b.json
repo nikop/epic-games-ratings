@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -787,9 +787,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "rolldist_short",
@@ -906,8 +906,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:06:19.8534548+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:06:45.0178986+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.4295563+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:01:13.6623599+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:06:19.8535676+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:01:30.8858629+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:06:45.0181603+00:00"
 }

@@ -89,6 +89,7 @@
 | Merchant Prince III | 3.00% | ~2 |
 | Magic Bronze mirror; on the wall | 2.00% | ~1 |
 | Rambo VI | 2.00% | ~1 |
+| Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
@@ -117,7 +118,6 @@
 | Wrath of the Stars | 0.00% | ~0 |
 | Omicron Major | 0.00% | ~0 |
 | Omicron Gamma | 0.00% | ~0 |
-| Unbalanced | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |

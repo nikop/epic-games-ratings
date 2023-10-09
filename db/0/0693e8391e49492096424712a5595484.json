@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 490,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.55,
   "EosHistory": [
@@ -2010,17 +2010,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 353
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "BroomPistol",
@@ -2050,9 +2050,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "DwarDevil",
@@ -2258,9 +2258,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 88
     },
     {
       "ID": "SwordDiamond",
@@ -2297,8 +2297,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:05:05.6525404+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:05:25.7630277+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.4622609+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:58:05.5796018+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:05:05.6526226+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:58:21.6479578+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:05:25.7631028+00:00"
 }

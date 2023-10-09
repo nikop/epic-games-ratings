@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,122 |
-| Un-Lonely Island | 47.00% | ~2,583 |
-| The Beginning of a Servantship | 45.00% | ~2,473 |
+| Just One...More...Term... | 75.00% | ~4,124 |
+| Un-Lonely Island | 47.00% | ~2,584 |
+| The Beginning of a Servantship | 45.00% | ~2,474 |
 | Trade Is My Trait | 37.00% | ~2,034 |
-| Number 18 | 24.00% | ~1,319 |
-| We Don't Have Time For That | 19.00% | ~1,044 |
-| The Legend of Langostino | 17.00% | ~934 |
-| The Governator | 17.00% | ~934 |
-| Caribbean Comrade | 16.00% | ~879 |
-| The Dreamer of Dreams | 15.00% | ~824 |
+| Number 18 | 24.00% | ~1,320 |
+| We Don't Have Time For That | 19.00% | ~1,045 |
+| The Legend of Langostino | 17.00% | ~935 |
+| The Governator | 17.00% | ~935 |
+| Caribbean Comrade | 16.00% | ~880 |
+| The Dreamer of Dreams | 15.00% | ~825 |
 | Go Sovereigns! | 11.00% | ~605 |
 | For Science! | 11.00% | ~605 |
 | Happy Ending? | 10.00% | ~550 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,496 (Ranked 168)  
+Progressed: 5,498 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,10 @@ Completed: 2 (0.04%) (Ranked 273)
 | 2023-10-06 | 5,468 | 2 |
 | 2023-10-07 | 5,481 | 2 |
 | 2023-10-08 | 5,490 | 2 |
-| 2023-10-09 | 5,496 | 2 |
+| 2023-10-09 | 5,498 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 347)  
-Sum: 700 (Ranked 284)  
+Sum: 702 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): 63
 | This game has Amazing Storytelling | 90 |
 | This game has Amazing Characters | 87 |
 | This game is Extremely Fun | 86 |
-| This game is Educational | 84 |
+| This game is Educational | 86 |
 | This game has a Creative Community | 65 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -382,4 +382,4 @@ Diff (max vs sum): 63
 | 2023-10-02 | 4.65 | - | 99 | 697 |
 | 2023-10-05 | 4.65 | - | 99 | 698 |
 | 2023-10-07 | 4.65 | - | 99 | 699 |
-| 2023-10-09 | 4.65 | - | 99 | 700 |
+| 2023-10-09 | 4.65 | - | 99 | 702 |

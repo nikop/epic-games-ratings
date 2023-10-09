@@ -3,12 +3,12 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 834,
-  "Ranking_Popularity": 485,
+  "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2310,
+  "EOS_Progressed": 2311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2674,6 +2674,11 @@
       "Time": "2023-10-09T16:04:20.8335734+00:00",
       "NumProgressed": 2310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T17:04:40.1829759+00:00",
+      "NumProgressed": 2311,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2710,7 +2715,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "achievement_13",
@@ -2718,7 +2723,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "achievement_14",
@@ -2726,7 +2731,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "achievement_15",
@@ -2734,7 +2739,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "achievement_16",
@@ -2742,7 +2747,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "achievement_17",
@@ -2830,7 +2835,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_8",
@@ -2853,7 +2858,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2310,
+      "Progressed": 2311,
       "Completed": 0
     }
   ],
@@ -2861,8 +2866,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:04:20.8335726+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:04:40.1829754+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:00:05.7486048+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:04:20.8336185+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:00:24.1057664+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:04:40.1830194+00:00"
 }

@@ -28,12 +28,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.90% | ~131 |
 | Naming Landmarks | 0.90% | ~131 |
 | Keystone | 0.80% | ~116 |
+| Warrior | 0.80% | ~116 |
 | Pyramids | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
+| Fountainhead | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
-| Warrior | 0.70% | ~102 |
+| Wise | 0.70% | ~102 |
 | Developing Cities | 0.70% | ~102 |
 | Strong Cities | 0.70% | ~102 |
 | Ishtar Gate | 0.70% | ~102 |
@@ -45,11 +47,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
 | Brilliant | 0.60% | ~87 |
-| Fountainhead | 0.60% | ~87 |
-| Wise | 0.60% | ~87 |
 | Able Difficulty | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
+| Necropolis | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Manichaeism | 0.60% | ~87 |
 | Egyptian Paganism | 0.60% | ~87 |
@@ -62,13 +63,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
-| Necropolis | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
 | Regicide | 0.40% | ~58 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |
+| Victorious | 0.40% | ~58 |
+| Good Difficulty | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
 | Sages | 0.40% | ~58 |
@@ -76,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.40% | ~58 |
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
+| Greece | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
 | Mythology | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
@@ -84,8 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.30% | ~44 |
 | Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
-| Victorious | 0.30% | ~44 |
-| Good Difficulty | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
 | Landowners | 0.30% | ~44 |
 | Riders | 0.30% | ~44 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.30% | ~44 |
 | Learn to Play 4 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
-| Greece | 0.30% | ~44 |
 | Power to the People | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
 | Persian Paganism | 0.30% | ~44 |
@@ -169,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.10% | ~15 |
 | Carthage - Rise of Rome | 0.10% | ~15 |
 | Bronze Victory (Carthage 3) | 0.10% | ~15 |
+| Epic Victory (Carthage 3) | 0.10% | ~15 |
 | Gold Victory (Carthage 3) | 0.10% | ~15 |
 | Silver Victory (Carthage 3) | 0.10% | ~15 |
 | Carthage - Seizing Destiny | 0.10% | ~15 |
@@ -308,7 +309,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Epic Victory (Carthage 3) | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,551 (Ranked 134)  
+Progressed: 14,553 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,551 | 5 |
+| 2023-10-09 | 14,553 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

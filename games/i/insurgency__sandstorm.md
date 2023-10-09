@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,031 |
-| Wallbanger | 5.00% | ~23,031 |
+| Point Shooting | 5.00% | ~23,032 |
+| Wallbanger | 5.00% | ~23,032 |
 | Exploitative | 4.00% | ~18,425 |
 | High Speed Low Drag | 4.00% | ~18,425 |
 | Wet Feet | 4.00% | ~18,425 |
-| Checkpoint Victory | 3.00% | ~13,818 |
-| Lucky | 3.00% | ~13,818 |
-| Stylin' | 3.00% | ~13,818 |
-| Turf War | 3.00% | ~13,818 |
-| Banged | 2.00% | ~9,212 |
-| First Blood | 2.00% | ~9,212 |
-| Flaccid Paralysis | 2.00% | ~9,212 |
-| Push Victory | 2.00% | ~9,212 |
-| Self-destructive | 2.00% | ~9,212 |
+| Checkpoint Victory | 3.00% | ~13,819 |
+| Lucky | 3.00% | ~13,819 |
+| Stylin' | 3.00% | ~13,819 |
+| Turf War | 3.00% | ~13,819 |
+| Banged | 2.00% | ~9,213 |
+| First Blood | 2.00% | ~9,213 |
+| Flaccid Paralysis | 2.00% | ~9,213 |
+| Push Victory | 2.00% | ~9,213 |
+| Self-destructive | 2.00% | ~9,213 |
 | Blindfire | 1.00% | ~4,606 |
 | Efficient | 1.00% | ~4,606 |
 | Ruthless | 1.00% | ~4,606 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,224 |
 | Firefight Victory | 0.60% | ~2,764 |
 | Cinematic | 0.50% | ~2,303 |
-| Thanks Station! | 0.40% | ~1,842 |
+| Thanks Station! | 0.40% | ~1,843 |
 | Knock Knock | 0.30% | ~1,382 |
 | There For You | 0.30% | ~1,382 |
 | Hit and Run | 0.20% | ~921 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~461 |
 | Road Hazard | 0.10% | ~461 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,615 (Ranked 38)  
+Progressed: 460,632 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 2 (0.00%) (Ranked 310)
 | 2023-10-06 | 459,607 | 2 |
 | 2023-10-07 | 460,001 | 2 |
 | 2023-10-08 | 460,407 | 2 |
-| 2023-10-09 | 460,615 | 2 |
+| 2023-10-09 | 460,632 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 386  (Ranked 224)  
 Sum: 3,050 (Ranked 169)  

@@ -1741,9 +1741,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 206976,
+  "EOS_Progressed": 206982,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1374,
+  "EOS_NewPlayers": 1373,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21251,6 +21251,11 @@
       "Time": "2023-10-09T16:04:44.8124383+00:00",
       "NumProgressed": 206976,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-09T17:05:04.5751503+00:00",
+      "NumProgressed": 206982,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21302,7 +21307,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "FiveShadows",
@@ -21334,7 +21339,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 24837
+      "UsersEstimate": 24838
     },
     {
       "ID": "HappyLittleAccidents",
@@ -21366,7 +21371,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14489
     },
     {
       "ID": "ItsRainingMen",
@@ -21382,7 +21387,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14489
     },
     {
       "ID": "Mercyful",
@@ -21478,7 +21483,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "Rollin",
@@ -21486,7 +21491,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "StillRollin",
@@ -21510,7 +21515,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14489
     },
     {
       "ID": "TanukiTime",
@@ -21518,7 +21523,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "TheCave",
@@ -21606,22 +21611,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14489
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 206976,
+      "Progressed": 206982,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-09T15:58:45.0655765+00:00",
-  "LastChanged_Achievements": "2023-10-09T16:04:44.8124373+00:00",
+  "LastChanged_Achievements": "2023-10-09T17:05:04.5751497+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-09T15:58:45.0655776+00:00",
-  "LastUpdate_Achievements": "2023-10-09T16:04:44.8126556+00:00"
+  "LastUpdate_Ratings": "2023-10-09T16:59:01.1189541+00:00",
+  "LastUpdate_Achievements": "2023-10-09T17:05:04.5754511+00:00"
 }

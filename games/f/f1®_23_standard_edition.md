@@ -5,20 +5,20 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,944 |
-| On the Top Step | 89.00% | ~2,758 |
-| Setting up for Success | 78.00% | ~2,417 |
-| Team Orders | 75.00% | ~2,324 |
-| Engineer | 56.00% | ~1,735 |
-| Familiar Faces | 50.00% | ~1,550 |
-| Going the Extra Mile | 44.00% | ~1,364 |
-| Sharing the Love | 42.00% | ~1,302 |
-| Hitting a Season | 37.00% | ~1,147 |
-| Challenge Yourself | 34.00% | ~1,054 |
-| A Dozen Pieces | 32.00% | ~992 |
-| Making History | 32.00% | ~992 |
-| Writing a new Chapter | 26.00% | ~806 |
-| Network Success | 25.00% | ~775 |
+| Getting on the Step | 95.00% | ~2,947 |
+| On the Top Step | 89.00% | ~2,761 |
+| Setting up for Success | 78.00% | ~2,420 |
+| Team Orders | 75.00% | ~2,326 |
+| Engineer | 56.00% | ~1,737 |
+| Familiar Faces | 50.00% | ~1,551 |
+| Going the Extra Mile | 44.00% | ~1,365 |
+| Sharing the Love | 42.00% | ~1,303 |
+| Hitting a Season | 37.00% | ~1,148 |
+| Challenge Yourself | 34.00% | ~1,055 |
+| A Dozen Pieces | 32.00% | ~993 |
+| Making History | 32.00% | ~993 |
+| Writing a new Chapter | 26.00% | ~807 |
+| Network Success | 25.00% | ~776 |
 | Spring Cleaning | 24.00% | ~744 |
 | Reduce | 20.00% | ~620 |
 | Ups and Downs | 20.00% | ~620 |
@@ -50,12 +50,12 @@ Rating: 4.66 (Ranked 281)
 | Media Darling | 2.00% | ~62 |
 | Under the Microscope | 1.00% | ~31 |
 | Saturday Night Drama | 1.00% | ~31 |
-| Ultimate Collector | 0.50% | ~15 |
+| Ultimate Collector | 0.50% | ~16 |
 | Golden Touch | 0.40% | ~12 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,099 (Ranked 189)  
+Progressed: 3,102 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 2,987 | 0 |
 | 2023-10-07 | 3,037 | 0 |
 | 2023-10-08 | 3,083 | 0 |
-| 2023-10-09 | 3,099 | 0 |
+| 2023-10-09 | 3,102 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
