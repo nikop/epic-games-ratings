@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.75% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.71% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -25,8 +25,8 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 24 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
-| 26 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.07% |
-| 27 | [Remains](games/r/remains.md) | 12.00% |
+| 26 | [Remains](games/r/remains.md) | 12.00% |
+| 27 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.86% |
 | 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 29 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
 | 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -134,9 +134,9 @@
 | 132 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.23% |
 | 133 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 134 | [Trifox](games/t/trifox.md) | 1.09% |
-| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
-| 136 | [Infindustry](games/i/infindustry.md) | 1.06% |
-| 136 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
+| 135 | [Infindustry](games/i/infindustry.md) | 1.06% |
+| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 138 | [Adios](games/a/adios.md) | 1.04% |
 | 139 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 139 | [Sable](games/s/sable.md) | 1.01% |
@@ -200,11 +200,11 @@
 | 198 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 198 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 198 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 201 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 201 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 201 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 203 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 203 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
-| 203 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
+| 204 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 204 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.28% |
 | 206 | [The Devil's Face](games/t/the_devil's_face.md) | 0.28% |
 | 208 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.27% |
