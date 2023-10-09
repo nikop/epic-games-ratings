@@ -3,9 +3,9 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 68,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.29,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 11.76,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -346,6 +346,11 @@
       "Time": "2023-10-04T17:04:08.8460143+00:00",
       "NumProgressed": 68,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T05:05:37.2302211+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -508,9 +513,9 @@
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_laser_mine",
@@ -564,9 +569,9 @@
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_orbpack",
@@ -702,13 +707,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 68,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-09T04:06:50.6891205+00:00",
+  "LastChanged_Achievements": "2023-10-09T05:05:37.2302204+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:02:03.5291226+00:00",
-  "LastUpdate_Achievements": "2023-10-09T04:06:50.6891606+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:00:38.6790191+00:00",
+  "LastUpdate_Achievements": "2023-10-09T05:05:37.2302577+00:00"
 }

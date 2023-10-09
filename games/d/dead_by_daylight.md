@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~9,283 |
-| Zealous | 0.90% | ~8,355 |
-| Skillful | 0.90% | ~8,355 |
+| Zealous | 1.00% | ~9,284 |
+| It wakes | 1.00% | ~9,284 |
+| Skillful | 0.90% | ~8,356 |
 | Not half bad | 0.80% | ~7,427 |
 | Make Some Noise | 0.80% | ~7,427 |
-| Handyman | 0.70% | ~6,498 |
-| Apt Survivor | 0.70% | ~6,498 |
-| Survival Treasures | 0.70% | ~6,498 |
-| Sorted | 0.70% | ~6,498 |
+| Handyman | 0.70% | ~6,499 |
+| Apt Survivor | 0.70% | ~6,499 |
+| Survival Treasures | 0.70% | ~6,499 |
+| Sorted | 0.70% | ~6,499 |
 | No one left behind | 0.60% | ~5,570 |
 | Medic | 0.60% | ~5,570 |
 | Nerves of steel | 0.60% | ~5,570 |
@@ -30,19 +30,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Engineer | 0.50% | ~4,642 |
 | Preemptive Strike | 0.50% | ~4,642 |
 | Humanitarian | 0.50% | ~4,642 |
-| Perfect Killing | 0.40% | ~3,713 |
-| Apt Killer | 0.40% | ~3,713 |
-| Risk it all | 0.40% | ~3,713 |
-| Vulture | 0.40% | ~3,713 |
-| II | 0.40% | ~3,713 |
-| Wounded Healer | 0.40% | ~3,713 |
-| Close Shave | 0.40% | ~3,713 |
-| Second Act | 0.40% | ~3,713 |
+| Perfect Killing | 0.40% | ~3,714 |
+| Apt Killer | 0.40% | ~3,714 |
+| Risk it all | 0.40% | ~3,714 |
+| Vulture | 0.40% | ~3,714 |
+| II | 0.40% | ~3,714 |
+| Wounded Healer | 0.40% | ~3,714 |
+| Close Shave | 0.40% | ~3,714 |
+| Second Act | 0.40% | ~3,714 |
 | Blood on your hands | 0.30% | ~2,785 |
 | Made it out alive! | 0.30% | ~2,785 |
 | III | 0.30% | ~2,785 |
 | All Aboard | 0.30% | ~2,785 |
 | Item of Obsession | 0.30% | ~2,785 |
+| Holiday Get-Together | 0.30% | ~2,785 |
 | Near-Death Experience | 0.30% | ~2,785 |
 | Cherish your Life | 0.30% | ~2,785 |
 | Unforgettable Getaway | 0.30% | ~2,785 |
@@ -70,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cottage Owner | 0.20% | ~1,857 |
 | Serial Killer | 0.20% | ~1,857 |
 | Escaping the Nightmare | 0.20% | ~1,857 |
-| Holiday Get-Together | 0.20% | ~1,857 |
 | Game Over | 0.20% | ~1,857 |
 | Campbell's Chapel Legacy | 0.20% | ~1,857 |
 | Ancestor's Rite | 0.20% | ~1,857 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,349 (Ranked 14)  
+Progressed: 928,413 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,349 | 49 |
+| 2023-10-09 | 928,413 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,518 (Ranked 13)  

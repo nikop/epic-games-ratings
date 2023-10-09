@@ -38,13 +38,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.90% | ~1,236 |
 | Research & Development | 0.80% | ~1,099 |
 | Vanity, Verily | 0.80% | ~1,099 |
+| Power of Love | 0.80% | ~1,099 |
 | Flawless Fusion | 0.80% | ~1,099 |
 | Helping Hand | 0.80% | ~1,099 |
 | Natural 20 | 0.80% | ~1,099 |
 | Tax not Included | 0.70% | ~961 |
 | Fated Encounters | 0.70% | ~961 |
 | For the Hoard! | 0.70% | ~961 |
-| Power of Love | 0.70% | ~961 |
 | Trash to Treasure | 0.70% | ~961 |
 | Royal Ransom | 0.70% | ~961 |
 | Magical Harmony | 0.70% | ~961 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,343 (Ranked 73)  
+Progressed: 137,345 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,343 | 167 |
+| 2023-10-09 | 137,345 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

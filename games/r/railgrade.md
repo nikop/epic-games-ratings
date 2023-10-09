@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,094 |
-| Before the Downfall | 95.00% | ~18,139 |
-| Money like Water | 94.00% | ~17,948 |
+| Trevithick's Legacy | 100.00% | ~19,093 |
+| Before the Downfall | 95.00% | ~18,138 |
+| Money like Water | 94.00% | ~17,947 |
 | Minimalist | 92.00% | ~17,566 |
-| Builder | 85.00% | ~16,230 |
-| Eraser | 72.00% | ~13,748 |
-| Pocket of Trains | 67.00% | ~12,793 |
+| Builder | 85.00% | ~16,229 |
+| Eraser | 72.00% | ~13,747 |
+| Pocket of Trains | 67.00% | ~12,792 |
 | Inspector | 60.00% | ~11,456 |
-| Going the Distance | 55.00% | ~10,502 |
+| Going the Distance | 55.00% | ~10,501 |
 | Oil Baron | 43.00% | ~8,210 |
 | Loads-a-Money | 43.00% | ~8,210 |
-| Helper of the People | 40.00% | ~7,638 |
+| Helper of the People | 40.00% | ~7,637 |
 | Simplification | 35.00% | ~6,683 |
 | Box of Trains | 34.00% | ~6,492 |
 | Let There be Light | 33.00% | ~6,301 |
@@ -24,9 +24,9 @@ Rating: 4.55 (Ranked 490)
 | Indecisive | 30.00% | ~5,728 |
 | The scenic route | 28.00% | ~5,346 |
 | Industrialist | 26.00% | ~4,964 |
-| Perfectionist | 24.00% | ~4,583 |
-| Trains over Pipes | 24.00% | ~4,583 |
-| 8K is Enough for Everyone | 23.00% | ~4,392 |
+| Perfectionist | 24.00% | ~4,582 |
+| Trains over Pipes | 24.00% | ~4,582 |
+| 8K is Enough for Everyone | 23.00% | ~4,391 |
 | Man of Steel | 17.00% | ~3,246 |
 | Room Full of Trains | 13.00% | ~2,482 |
 | Investor | 10.00% | ~1,909 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 490)
 | Overdeer | 0.60% | ~115 |
 | Cloud Services | 0.30% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,094 (Ranked 126)  
+Progressed: 19,093 (Ranked 126)  
 Completed: 34 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,8 +215,8 @@ Completed: 34 (0.18%) (Ranked 222)
 | 2023-10-09 | 19,098 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 90  (Ranked 363)  
-Sum: 672 (Ranked 289)  
-Diff (max vs sum): 74  
+Sum: 672 (Ranked 290)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 90 |

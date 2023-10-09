@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~753,224 |
-| The ABCs | 43.00% | ~660,992 |
-| Home Run | 41.00% | ~630,248 |
-| Keeps Coming Off | 41.00% | ~630,248 |
-| Guts | 20.00% | ~307,438 |
-| Meat Grinder | 19.00% | ~292,066 |
-| Burning Man | 16.00% | ~245,951 |
-| Lived to Tell the Tale | 12.00% | ~184,463 |
-| Highlander | 10.00% | ~153,719 |
-| Unstoppable | 10.00% | ~153,719 |
-| Just a Scratch | 9.00% | ~138,347 |
-| Tough Nut to Crack | 6.00% | ~92,231 |
-| Yoink | 6.00% | ~92,231 |
+| Justice from the Grave | 49.00% | ~753,229 |
+| The ABCs | 43.00% | ~660,997 |
+| Home Run | 41.00% | ~630,253 |
+| Keeps Coming Off | 41.00% | ~630,253 |
+| Guts | 20.00% | ~307,440 |
+| Meat Grinder | 19.00% | ~292,068 |
+| Burning Man | 16.00% | ~245,952 |
+| Lived to Tell the Tale | 12.00% | ~184,464 |
+| Highlander | 10.00% | ~153,720 |
+| Unstoppable | 10.00% | ~153,720 |
+| Just a Scratch | 9.00% | ~138,348 |
+| Tough Nut to Crack | 6.00% | ~92,232 |
+| Yoink | 6.00% | ~92,232 |
 | Long List of Names | 4.00% | ~61,488 |
 | Pyromaniac | 4.00% | ~61,488 |
 | The Queen of Weapons | 4.00% | ~61,488 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 730)
 | That’s No Ordinary Cold | 0.10% | ~1,537 |
 | Stairway to Hell | 0.10% | ~1,537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,537,191 (Ranked 8)  
+Progressed: 1,537,202 (Ranked 8)  
 Completed: 60 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 60 (0.00%) (Ranked 310)
 | 2023-10-06 | 1,535,630 | 59 |
 | 2023-10-07 | 1,536,393 | 59 |
 | 2023-10-08 | 1,537,122 | 60 |
-| 2023-10-09 | 1,537,191 | 60 |
+| 2023-10-09 | 1,537,202 | 60 |
 ## Awards
 Max (Diverse Characters): 762  (Ranked 166)  
-Sum: 3,573 (Ranked 156)  
+Sum: 3,578 (Ranked 156)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 10
 | This game is Highly Recommended | 631 |
 | This game is Extremely Fun | 529 |
 | This game has Amazing Characters | 523 |
-| This game has Competitive Players | 491 |
+| This game has Competitive Players | 496 |
 | This game has Amazing Storytelling | 421 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -412,3 +412,4 @@ Diff (max vs sum): 10
 | 2023-10-06 | 4.39 | 753 | 3,951 |
 | 2023-10-07 | 4.39 | 756 | 3,550 |
 | 2023-10-08 | 4.39 | 762 | 3,573 |
+| 2023-10-09 | 4.39 | 762 | 3,578 |

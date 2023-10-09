@@ -12,10 +12,10 @@ Rating: 4.50 (Ranked 572)
 | Meticulously Efficient | 1.00% | ~263 |
 | Fully Upgraded | 1.00% | ~263 |
 | Solo Capture | 1.00% | ~263 |
+| Swift Rift Removers | 1.00% | ~263 |
 | Vaporous Expansion | 1.00% | ~263 |
 | Clutch Capture | 0.90% | ~237 |
 | Cultured | 0.90% | ~237 |
-| Swift Rift Removers | 0.90% | ~237 |
 | Teamwork | 0.90% | ~237 |
 | There you are! | 0.90% | ~237 |
 | Whoopsie | 0.90% | ~237 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,305 (Ranked 117)  
+Progressed: 26,308 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-10-06 | 26,251 | 58 |
 | 2023-10-07 | 26,270 | 58 |
 | 2023-10-08 | 26,296 | 58 |
-| 2023-10-09 | 26,305 | 58 |
+| 2023-10-09 | 26,308 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,370 (Ranked 189)  

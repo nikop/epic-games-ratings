@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 73.00% | ~11 |
-| Sea Legs | 67.00% | ~10 |
-| Frogs Legs | 27.00% | ~4 |
-| What?! | 27.00% | ~4 |
-| Mad Scientist | 20.00% | ~3 |
+| Shipwrecked! | 75.00% | ~12 |
+| Sea Legs | 69.00% | ~11 |
+| Frogs Legs | 31.00% | ~5 |
+| What?! | 31.00% | ~5 |
+| Mad Scientist | 19.00% | ~3 |
 | Socialite | 13.00% | ~2 |
 | Who Even Needs Keys | 13.00% | ~2 |
 | Couch-surfing | 13.00% | ~2 |
 | Hoist the Sails | 13.00% | ~2 |
 | Replace the Rudder | 13.00% | ~2 |
-| Shrub-Seeing: Townlife | 7.00% | ~1 |
-| Shrub-Seeing: Silly Birbs | 7.00% | ~1 |
-| Yeet! | 7.00% | ~1 |
-| Sailor Swift | 7.00% | ~1 |
-| No Evil | 7.00% | ~1 |
-| Safe Investment | 7.00% | ~1 |
-| Bank of Me | 7.00% | ~1 |
-| Secure the Sheets | 7.00% | ~1 |
-| Hands on the Helm | 7.00% | ~1 |
-| The Journey Continues | 7.00% | ~1 |
+| Shrub-Seeing: Townlife | 6.00% | ~1 |
+| Shrub-Seeing: Silly Birbs | 6.00% | ~1 |
+| Yeet! | 6.00% | ~1 |
+| Sailor Swift | 6.00% | ~1 |
+| No Evil | 6.00% | ~1 |
+| Safe Investment | 6.00% | ~1 |
+| Bank of Me | 6.00% | ~1 |
+| Secure the Sheets | 6.00% | ~1 |
+| Hands on the Helm | 6.00% | ~1 |
+| The Journey Continues | 6.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
 | One with the frogs | 0.00% | ~0 |
 | Shrub-Seeing: Lights in the sky | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 499)  
+Progressed: 16 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 12 | 0 |
 | 2023-10-07 | 14 | 0 |
 | 2023-10-08 | 15 | 0 |
+| 2023-10-09 | 16 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

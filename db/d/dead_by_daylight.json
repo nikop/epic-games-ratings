@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11135,9 +11135,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 928349,
+  "EOS_Progressed": 928413,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13898,
+  "EOS_NewPlayers": 13914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30610,6 +30610,11 @@
       "Time": "2023-10-09T04:05:22.9103338+00:00",
       "NumProgressed": 928349,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T05:04:22.9903362+00:00",
+      "NumProgressed": 928413,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30757,7 +30762,7 @@
       "Name": "Handyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6499
     },
     {
       "ID": "ACH_019",
@@ -30781,15 +30786,15 @@
       "Name": "Perfect Killing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_022",
       "SetID": "bdmlp8o",
       "Name": "Zealous",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8355
+      "UsersEstimate": 9284
     },
     {
       "ID": "ACH_023",
@@ -30797,7 +30802,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "ACH_024",
@@ -30829,7 +30834,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6499
     },
     {
       "ID": "ACH_028",
@@ -30837,7 +30842,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_029",
@@ -30845,7 +30850,7 @@
       "Name": "Risk it all",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_030",
@@ -30853,7 +30858,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6499
     },
     {
       "ID": "ACH_031",
@@ -30861,7 +30866,7 @@
       "Name": "Vulture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_032",
@@ -30925,7 +30930,7 @@
       "Name": "Skillful",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8355
+      "UsersEstimate": 8356
     },
     {
       "ID": "ACH_040",
@@ -30941,7 +30946,7 @@
       "Name": "II",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_042",
@@ -31189,7 +31194,7 @@
       "Name": "Sorted",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6499
     },
     {
       "ID": "ACH_073",
@@ -31275,9 +31280,9 @@
       "ID": "ACH_083",
       "SetID": "16jml5b",
       "Name": "Holiday Get-Together",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1857
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_084",
@@ -31517,7 +31522,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_114",
@@ -31933,7 +31938,7 @@
       "Name": "Close Shave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_169",
@@ -32381,7 +32386,7 @@
       "Name": "Second Act",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_225",
@@ -32452,21 +32457,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 928349,
+      "Progressed": 928413,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 928349,
+      "Progressed": 928413,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-09T03:01:10.8490701+00:00",
-  "LastChanged_Achievements": "2023-10-09T04:05:22.9103332+00:00",
+  "LastChanged_Achievements": "2023-10-09T05:04:22.9903356+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:01:45.7528338+00:00",
-  "LastUpdate_Achievements": "2023-10-09T04:05:22.911215+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:00:24.6220508+00:00",
+  "LastUpdate_Achievements": "2023-10-09T05:04:22.9910519+00:00"
 }
