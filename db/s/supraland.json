@@ -2986,9 +2986,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 728652,
+  "EOS_Progressed": 728653,
   "EOS_Completed": 745,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -22171,6 +22171,11 @@
       "Time": "2023-10-09T05:03:18.6042874+00:00",
       "NumProgressed": 728652,
       "NumCompleted": 745
+    },
+    {
+      "Time": "2023-10-09T06:03:20.6480334+00:00",
+      "NumProgressed": 728653,
+      "NumCompleted": 745
     }
   ],
   "TotalAchievements": 98,
@@ -22390,7 +22395,7 @@
       "Name": "Double Health",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 131157
+      "UsersEstimate": 131158
     },
     {
       "ID": "Doublejump",
@@ -22414,7 +22419,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 284174
+      "UsersEstimate": 284175
     },
     {
       "ID": "FliesBeam",
@@ -22550,7 +22555,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 342466
+      "UsersEstimate": 342467
     },
     {
       "ID": "HelpedAStar",
@@ -22622,7 +22627,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 269601
+      "UsersEstimate": 269602
     },
     {
       "ID": "MacGuffin",
@@ -22694,7 +22699,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 721365
+      "UsersEstimate": 721366
     },
     {
       "ID": "PanicLights",
@@ -22814,7 +22819,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 480910
+      "UsersEstimate": 480911
     },
     {
       "ID": "Strong",
@@ -22854,7 +22859,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 619354
+      "UsersEstimate": 619355
     },
     {
       "ID": "ThroughPipe",
@@ -22894,7 +22899,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 313320
+      "UsersEstimate": 313321
     },
     {
       "ID": "True_Holy_Spirit",
@@ -22965,15 +22970,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 728652,
+      "Progressed": 728653,
       "Completed": 745
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-10-03T15:00:08.0452522+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:03:18.6042867+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:03:20.6480329+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.6187756+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:57:38.9320794+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:03:18.6045946+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:57:47.5385061+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:03:20.6483049+00:00"
 }

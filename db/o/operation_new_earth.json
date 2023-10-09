@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1555,
+  "EOS_Progressed": 1556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5709,6 +5709,11 @@
       "Time": "2023-10-09T04:09:07.1773293+00:00",
       "NumProgressed": 1555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T06:07:35.4850337+00:00",
+      "NumProgressed": 1556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5830,9 +5835,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 249
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5918,9 +5923,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -5976,7 +5981,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6014,16 +6019,16 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1555,
+      "Progressed": 1556,
       "Completed": 1
     }
   ],
@@ -6031,8 +6036,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:07:31.9053966+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:07:35.4850332+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:01:02.8823206+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:07:31.9054659+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:01:14.7909307+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:07:35.4850982+00:00"
 }

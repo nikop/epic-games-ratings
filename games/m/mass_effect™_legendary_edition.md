@@ -56,11 +56,11 @@
 | A Personal Touch | 31.00% | ~192 |
 | Ghost of the Father | 31.00% | ~192 |
 | Big Game Hunter | 31.00% | ~192 |
+| Revenge! | 31.00% | ~192 |
 | Heart of Darkness | 31.00% | ~192 |
 | Catharsis | 30.00% | ~186 |
 | Fade Away | 30.00% | ~186 |
 | Agent | 30.00% | ~186 |
-| Revenge! | 30.00% | ~186 |
 | Driven | 30.00% | ~186 |
 | Focused | 29.00% | ~180 |
 | Cat's in the Cradle | 29.00% | ~180 |
@@ -75,10 +75,10 @@
 | Suicide Mission | 26.00% | ~161 |
 | Against All Odds | 26.00% | ~161 |
 | Untouchable | 25.00% | ~155 |
+| A House Divided | 25.00% | ~155 |
 | Weapon Specialist | 25.00% | ~155 |
 | Eye of the Hurricane | 24.00% | ~149 |
 | Giant Killer | 24.00% | ~149 |
-| A House Divided | 24.00% | ~149 |
 | World Shaker | 24.00% | ~149 |
 | Liberator | 24.00% | ~149 |
 | Pathfinder | 22.00% | ~136 |

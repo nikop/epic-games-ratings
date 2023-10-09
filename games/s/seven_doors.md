@@ -22,7 +22,7 @@
 | Survivor | 8.00% | ~1 |
 | Master of Riddles | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 512)  
+Progressed: 12 (Ranked 513)  
 Completed: 2 (16.67%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |

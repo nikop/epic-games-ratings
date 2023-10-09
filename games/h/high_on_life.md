@@ -11,14 +11,14 @@ Rating: 4.64 (Ranked 318)
 | G3 Graduation | 0.50% | ~121 |
 | Hardest Battle In The Game | 0.50% | ~121 |
 | Cold-Blooded Driller | 0.50% | ~121 |
+| Who's The Boss? | 0.50% | ~121 |
 | Don't Knife The Hand That Feeds | 0.50% | ~121 |
+| Bathe With A Giant Nude Alien | 0.50% | ~7 |
 | Creature Feature | 0.40% | ~97 |
 | Are You Packin'? | 0.40% | ~97 |
 | Bring A Knife to a Gun Fight | 0.40% | ~97 |
 | RIP Davey Glutes | 0.40% | ~97 |
 | We're All Very Impressed, Trust Me | 0.40% | ~97 |
-| Who's The Boss? | 0.40% | ~97 |
-| Bathe With A Giant Nude Alien | 0.40% | ~6 |
 | Eatin' Good in the Neighborhood | 0.30% | ~72 |
 | Lezduit! | 0.30% | ~72 |
 | Legendary Bounty Hunter | 0.30% | ~72 |

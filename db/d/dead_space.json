@@ -652,7 +652,7 @@
   ],
   "EOS_Progressed": 872,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2814,9 +2814,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_40",
@@ -2935,8 +2935,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:04:54.6515285+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:04:56.6390411+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:01:01.0404172+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:04:54.6515857+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:01:13.0795164+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:04:56.6391082+00:00"
 }

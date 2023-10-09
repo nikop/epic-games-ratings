@@ -6,39 +6,39 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~294,992 |
-| Full garage | 60.00% | ~242,459 |
-| To the eyeballs! | 51.00% | ~206,090 |
-| Individual delivery | 46.00% | ~185,885 |
-| Non-Stop | 44.00% | ~177,803 |
-| Juggler | 36.00% | ~145,475 |
-| Forgot something | 35.00% | ~141,434 |
-| Close call! | 30.00% | ~121,229 |
-| Get out my way | 28.00% | ~113,147 |
-| Common cause | 26.00% | ~105,065 |
-| Critical care | 26.00% | ~105,065 |
-| Mega-railroad | 23.00% | ~92,943 |
-| Upgrade complete | 23.00% | ~92,943 |
-| Just in time! | 18.00% | ~72,738 |
-| Builder | 17.00% | ~68,697 |
-| Long Haul | 17.00% | ~68,585 |
-| Steam Age | 16.00% | ~64,656 |
-| Bridgemania | 14.00% | ~56,574 |
-| Multilevel road | 14.00% | ~56,574 |
-| Need to think | 14.00% | ~56,574 |
-| The Tortoise | 12.00% | ~48,492 |
-| Without a lunch break | 11.00% | ~44,451 |
-| Beginner | 10.00% | ~40,410 |
-| One way | 10.00% | ~40,410 |
-| Relocation | 10.00% | ~40,410 |
-| Industrial Age | 9.00% | ~36,369 |
-| Just One More Valley | 9.00% | ~36,310 |
-| Prick of conscience | 8.00% | ~32,328 |
-| Missed it! | 7.00% | ~28,287 |
-| At the last moment! | 6.00% | ~24,246 |
-| Overseer | 6.00% | ~24,246 |
-| Jewelry accuracy | 5.00% | ~20,205 |
-| Stargazer | 5.00% | ~20,205 |
+| Dealmaker | 73.00% | ~295,000 |
+| Full garage | 60.00% | ~242,466 |
+| To the eyeballs! | 51.00% | ~206,096 |
+| Individual delivery | 46.00% | ~185,891 |
+| Non-Stop | 44.00% | ~177,808 |
+| Juggler | 36.00% | ~145,480 |
+| Forgot something | 35.00% | ~141,438 |
+| Close call! | 30.00% | ~121,233 |
+| Get out my way | 28.00% | ~113,151 |
+| Common cause | 26.00% | ~105,069 |
+| Critical care | 26.00% | ~105,069 |
+| Mega-railroad | 23.00% | ~92,945 |
+| Upgrade complete | 23.00% | ~92,945 |
+| Just in time! | 18.00% | ~72,740 |
+| Builder | 17.00% | ~68,699 |
+| Long Haul | 17.00% | ~68,587 |
+| Steam Age | 16.00% | ~64,658 |
+| Bridgemania | 14.00% | ~56,575 |
+| Multilevel road | 14.00% | ~56,575 |
+| Need to think | 14.00% | ~56,575 |
+| The Tortoise | 12.00% | ~48,493 |
+| Without a lunch break | 11.00% | ~44,452 |
+| Beginner | 10.00% | ~40,411 |
+| One way | 10.00% | ~40,411 |
+| Relocation | 10.00% | ~40,411 |
+| Industrial Age | 9.00% | ~36,370 |
+| Just One More Valley | 9.00% | ~36,311 |
+| Prick of conscience | 8.00% | ~32,329 |
+| Missed it! | 7.00% | ~28,288 |
+| At the last moment! | 6.00% | ~24,247 |
+| Overseer | 6.00% | ~24,247 |
+| Jewelry accuracy | 5.00% | ~20,206 |
+| Stargazer | 5.00% | ~20,206 |
 | Bridge builder | 4.00% | ~16,164 |
 | Electrical Age | 4.00% | ~16,164 |
 | Highlander | 4.00% | ~16,164 |
@@ -47,7 +47,7 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~12,123 |
 | Sabotage | 3.00% | ~12,123 |
 | Squander | 3.00% | ~12,123 |
-| Test Batch | 3.00% | ~12,103 |
+| Test Batch | 3.00% | ~12,104 |
 | Astronomer | 2.00% | ~8,082 |
 | Globalisation Age | 2.00% | ~8,082 |
 | Innovator | 2.00% | ~8,082 |
@@ -64,7 +64,7 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 0.90% | ~3,637 |
 | BBQ | 0.70% | ~2,829 |
 | Miscalculation | 0.70% | ~2,829 |
-| Voyager | 0.50% | ~2,020 |
+| Voyager | 0.50% | ~2,021 |
 | Railroad tycoon | 0.40% | ~1,616 |
 | It's no coincidence | 0.30% | ~1,212 |
 | The Hare with an espresso | 0.30% | ~1,212 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~403 |
 | World Zapper | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,098 (Ranked 42)  
+Progressed: 404,110 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 19 (0.00%) (Ranked 310)
 | 2023-10-06 | 403,057 | 19 |
 | 2023-10-07 | 403,539 | 19 |
 | 2023-10-08 | 404,042 | 19 |
-| 2023-10-09 | 404,098 | 19 |
+| 2023-10-09 | 404,110 | 19 |
 ## Awards
 Max (Challenging Puzzles): 741  (Ranked 170)  
-Sum: 1,496 (Ranked 226)  
+Sum: 1,458 (Ranked 226)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |

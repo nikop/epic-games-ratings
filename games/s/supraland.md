@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,365 |
-| The Blues | 85.00% | ~619,354 |
-| Fast | 66.00% | ~480,910 |
+| Out of bed | 99.00% | ~721,366 |
+| The Blues | 85.00% | ~619,355 |
+| Fast | 66.00% | ~480,911 |
 | Healthbar | 55.00% | ~400,759 |
 | Force Cube | 53.00% | ~386,186 |
 | Double Jump | 48.00% | ~349,753 |
-| Regeneration | 47.00% | ~342,466 |
-| Triple Jump | 43.00% | ~313,320 |
+| Regeneration | 47.00% | ~342,467 |
+| Triple Jump | 43.00% | ~313,321 |
 | Climb the hill | 42.00% | ~306,034 |
-| Through the fire pipe | 39.00% | ~284,174 |
+| Through the fire pipe | 39.00% | ~284,175 |
 | MacGuffin | 38.00% | ~276,888 |
-| Just once | 37.00% | ~269,601 |
+| Just once | 37.00% | ~269,602 |
 | Armor | 30.00% | ~218,596 |
 | True holy spirit | 28.00% | ~204,023 |
 | That's how electronics work obviously | 27.00% | ~196,736 |
@@ -26,7 +26,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Telefrag | 23.00% | ~167,590 |
 | Freed from prison | 21.00% | ~153,017 |
 | Stomp | 21.00% | ~153,017 |
-| Double Health | 18.00% | ~131,157 |
+| Double Health | 18.00% | ~131,158 |
 | Buckle | 17.00% | ~123,871 |
 | Green Keycard | 17.00% | ~123,871 |
 | Rattle Hag | 16.00% | ~116,584 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,652 (Ranked 19)  
+Progressed: 728,653 (Ranked 19)  
 Completed: 745 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 745 (0.10%) (Ranked 245)
 | 2023-10-06 | 728,361 | 744 |
 | 2023-10-07 | 728,508 | 744 |
 | 2023-10-08 | 728,636 | 745 |
-| 2023-10-09 | 728,652 | 745 |
+| 2023-10-09 | 728,653 | 745 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

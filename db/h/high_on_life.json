@@ -5511,9 +5511,9 @@
       "ID": "ACH_KILL_SKRENDELS",
       "SetID": "cdkbb11",
       "Name": "Who\u0027s The Boss?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -5679,9 +5679,9 @@
       "ID": "ACH_TOXXO_BATH",
       "SetID": "7fgbhpb",
       "Name": "Bathe With A Giant Nude Alien",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -5702,8 +5702,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:07:33.9910283+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:07:37.6093563+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:57:41.9576279+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:07:33.9910958+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:57:50.8078859+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:07:37.6094276+00:00"
 }

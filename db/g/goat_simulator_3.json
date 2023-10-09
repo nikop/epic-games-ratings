@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4294,7 +4294,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 246852,
+  "EOS_Progressed": 246853,
   "EOS_Completed": 851,
   "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 8,
@@ -22994,6 +22994,11 @@
       "Time": "2023-10-09T05:07:40.7114968+00:00",
       "NumProgressed": 246852,
       "NumCompleted": 851
+    },
+    {
+      "Time": "2023-10-09T06:08:04.2190781+00:00",
+      "NumProgressed": 246853,
+      "NumCompleted": 851
     }
   ],
   "TotalAchievements": 39,
@@ -23069,7 +23074,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 224635
+      "UsersEstimate": 224636
     },
     {
       "ID": "AchievementClownID",
@@ -23101,7 +23106,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44433
+      "UsersEstimate": 44434
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -23165,7 +23170,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111083
+      "UsersEstimate": 111084
     },
     {
       "ID": "AchievementIntroID",
@@ -23237,7 +23242,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182670
+      "UsersEstimate": 182671
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -23285,7 +23290,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116020
+      "UsersEstimate": 116021
     },
     {
       "ID": "AchievementTrinketID",
@@ -23316,7 +23321,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246852,
+      "Progressed": 246853,
       "Completed": 851
     }
   ],
@@ -23324,8 +23329,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-09T02:13:42.2839761+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:07:40.7114963+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:08:04.2190777+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.6967783+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:57:02.3659688+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:07:40.7116538+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:57:11.6269596+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:08:04.2192518+00:00"
 }

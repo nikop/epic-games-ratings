@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663094,
+  "EOS_Progressed": 663096,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
@@ -17188,6 +17188,11 @@
       "Time": "2023-10-09T04:07:19.7903747+00:00",
       "NumProgressed": 663094,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-09T06:06:04.5759821+00:00",
+      "NumProgressed": 663096,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17199,7 +17204,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477428
+      "UsersEstimate": 477429
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17207,7 +17212,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384595
+      "UsersEstimate": 384596
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17263,7 +17268,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66309
+      "UsersEstimate": 66310
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -17295,7 +17300,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66309
+      "UsersEstimate": 66310
     },
     {
       "ID": "Achievement_14_Magician",
@@ -17439,7 +17444,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79571
+      "UsersEstimate": 79572
     },
     {
       "ID": "Achievement_32_Karma",
@@ -17479,7 +17484,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59678
+      "UsersEstimate": 59679
     },
     {
       "ID": "Achievement_37_Champion",
@@ -17582,15 +17587,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663094,
+      "Progressed": 663096,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:06:02.0275664+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:06:04.5759817+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-09T04:58:10.4180593+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:06:02.0277216+00:00"
+  "LastUpdate_Ratings": "2023-10-09T05:58:20.0560598+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:06:04.5761519+00:00"
 }

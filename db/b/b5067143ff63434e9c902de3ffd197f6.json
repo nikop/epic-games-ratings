@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1322,
+  "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-10-09T05:05:02.4881739+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T06:05:04.6399581+00:00",
+      "NumProgressed": 1376,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1048,7 +1053,7 @@
       "Name": "MEG",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -1088,7 +1093,7 @@
       "Name": "End?",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -1104,7 +1109,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1144,7 +1149,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -1168,7 +1173,7 @@
       "Name": "Motion",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -1176,7 +1181,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -1192,21 +1197,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-09T05:05:02.4881734+00:00",
+  "LastChanged_Achievements": "2023-10-09T06:05:04.6399575+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.2776641+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:00:48.7858754+00:00",
-  "LastUpdate_Achievements": "2023-10-09T05:05:02.4882012+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:00:59.8324691+00:00",
+  "LastUpdate_Achievements": "2023-10-09T06:05:04.6399819+00:00"
 }

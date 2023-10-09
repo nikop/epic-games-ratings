@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,284 |
-| It wakes | 1.00% | ~9,284 |
+| Zealous | 1.00% | ~9,285 |
+| It wakes | 1.00% | ~9,285 |
 | Skillful | 0.90% | ~8,356 |
-| Not half bad | 0.80% | ~7,427 |
-| Make Some Noise | 0.80% | ~7,427 |
+| Not half bad | 0.80% | ~7,428 |
+| Make Some Noise | 0.80% | ~7,428 |
 | Handyman | 0.70% | ~6,499 |
 | Apt Survivor | 0.70% | ~6,499 |
 | Survival Treasures | 0.70% | ~6,499 |
 | Sorted | 0.70% | ~6,499 |
-| No one left behind | 0.60% | ~5,570 |
-| Medic | 0.60% | ~5,570 |
-| Nerves of steel | 0.60% | ~5,570 |
-| Bloody Millionaire | 0.60% | ~5,570 |
-| Healthy Obsession | 0.60% | ~5,570 |
-| Resurgence | 0.60% | ~5,570 |
+| No one left behind | 0.60% | ~5,571 |
+| Medic | 0.60% | ~5,571 |
+| Nerves of steel | 0.60% | ~5,571 |
+| Bloody Millionaire | 0.60% | ~5,571 |
+| Healthy Obsession | 0.60% | ~5,571 |
+| Resurgence | 0.60% | ~5,571 |
 | The Grand Sacrifice | 0.50% | ~4,642 |
 | Agonizing Escape | 0.50% | ~4,642 |
 | Backdoor Escape | 0.50% | ~4,642 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,413 (Ranked 14)  
+Progressed: 928,462 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,413 | 49 |
+| 2023-10-09 | 928,462 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,518 (Ranked 13)  
