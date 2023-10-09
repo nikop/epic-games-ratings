@@ -5,20 +5,20 @@ Rating: 4.47 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,499 |
-| A new Journey | 74.00% | ~1,479 |
-| Departure | 73.00% | ~1,459 |
-| From X to Y | 72.00% | ~1,439 |
-| Way of Iron | 70.00% | ~1,399 |
-| Mystery Tour | 68.00% | ~1,359 |
-| We brake for nobody | 67.00% | ~1,339 |
-| Brainstorm | 65.00% | ~1,299 |
-| Mind the Gap | 65.00% | ~1,299 |
-| Travel Company | 65.00% | ~1,299 |
-| All around the World | 62.00% | ~1,239 |
-| Right through the middle | 58.00% | ~1,159 |
-| Poor Devil | 54.00% | ~1,079 |
-| Facility Manager | 53.00% | ~1,059 |
+| Country Bumpkin | 75.00% | ~1,500 |
+| A new Journey | 74.00% | ~1,480 |
+| Departure | 73.00% | ~1,460 |
+| From X to Y | 72.00% | ~1,440 |
+| Way of Iron | 70.00% | ~1,400 |
+| Mystery Tour | 68.00% | ~1,360 |
+| We brake for nobody | 67.00% | ~1,340 |
+| Brainstorm | 65.00% | ~1,300 |
+| Mind the Gap | 65.00% | ~1,300 |
+| Travel Company | 65.00% | ~1,300 |
+| All around the World | 62.00% | ~1,240 |
+| Right through the middle | 58.00% | ~1,160 |
+| Poor Devil | 54.00% | ~1,080 |
+| Facility Manager | 53.00% | ~1,060 |
 | Producer | 50.00% | ~1,000 |
 | Bridge Builder | 42.00% | ~840 |
 | Apprentice | 41.00% | ~820 |
@@ -43,10 +43,10 @@ Rating: 4.47 (Ranked 619)
 | Networker | 17.00% | ~340 |
 | Assimilated | 16.00% | ~320 |
 | Locusts | 15.00% | ~300 |
-| Bold and beautiful | 15.00% | ~300 |
 | Settler | 15.00% | ~300 |
 | Go West | 14.00% | ~280 |
 | Max Power | 14.00% | ~280 |
+| Bold and beautiful | 14.00% | ~280 |
 | A new Hope | 11.00% | ~220 |
 | Tycoon | 11.00% | ~220 |
 | Unstoppable | 9.00% | ~180 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 619)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 203)  
+Progressed: 2,000 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 1,983 | 0 |
 | 2023-10-07 | 1,990 | 0 |
 | 2023-10-08 | 1,999 | 0 |
+| 2023-10-09 | 2,000 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,603 |
-| Powergamer | 27.00% | ~67,117 |
-| Barely scratched the surface | 25.00% | ~62,146 |
-| Write that down | 24.00% | ~59,660 |
+| I will finish what you started | 28.00% | ~69,605 |
+| Powergamer | 27.00% | ~67,119 |
+| Barely scratched the surface | 25.00% | ~62,147 |
+| Write that down | 24.00% | ~59,661 |
 | Guns, lots of guns | 13.00% | ~32,316 |
-| Collector | 12.00% | ~29,830 |
-| Elementary! | 9.00% | ~22,372 |
+| Collector | 12.00% | ~29,831 |
+| Elementary! | 9.00% | ~22,373 |
 | Griever | 8.00% | ~19,887 |
 | Pumpkin Jack | 8.00% | ~19,887 |
 | Wake up! | 8.00% | ~19,887 |
@@ -21,12 +21,12 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,915 |
 | Good listener | 5.00% | ~12,429 |
 | Valedictorian | 5.00% | ~12,429 |
-| BOY! | 4.00% | ~9,943 |
-| Ka-ching! | 4.00% | ~9,943 |
-| So you like to read? | 4.00% | ~9,943 |
-| Hoarder | 3.00% | ~7,457 |
-| I like to sniff around | 3.00% | ~7,457 |
-| Mind reader | 3.00% | ~7,457 |
+| BOY! | 4.00% | ~9,944 |
+| Ka-ching! | 4.00% | ~9,944 |
+| So you like to read? | 4.00% | ~9,944 |
+| Hoarder | 3.00% | ~7,458 |
+| I like to sniff around | 3.00% | ~7,458 |
+| Mind reader | 3.00% | ~7,458 |
 | Catnip | 2.00% | ~4,972 |
 | Gentleman's classic | 2.00% | ~4,972 |
 | Is that a rift? | 2.00% | ~4,972 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~497 |
 | Memory 5 | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,582 (Ranked 52)  
+Progressed: 248,588 (Ranked 52)  
 Completed: 7 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 7 (0.00%) (Ranked 310)
 | 2023-10-06 | 248,226 | 7 |
 | 2023-10-07 | 248,367 | 7 |
 | 2023-10-08 | 248,503 | 7 |
-| 2023-10-09 | 248,582 | 7 |
+| 2023-10-09 | 248,588 | 7 |
 ## Awards
 Max (Character Customization): 82  (Ranked 370)  
 Sum: 82 (Ranked 439)  

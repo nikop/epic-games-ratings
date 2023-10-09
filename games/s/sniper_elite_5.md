@@ -13,7 +13,7 @@ Rating: 4.45 (Ranked 645)
 | Change the Channel | 30.00% | ~1,115 |
 | Taking it back | 28.00% | ~1,041 |
 | Resourceful | 27.00% | ~1,004 |
-| Target America | 26.00% | ~966 |
+| Target America | 26.00% | ~967 |
 | The Kraken Sleeps | 24.00% | ~892 |
 | Organ Grinder | 23.00% | ~855 |
 | Liberté | 22.00% | ~818 |
@@ -27,16 +27,16 @@ Rating: 4.45 (Ranked 645)
 | Close Quarters | 16.00% | ~595 |
 | Snake in the Grass | 15.00% | ~558 |
 | Brains of the Operation | 15.00% | ~558 |
-| No Stone Unturned | 14.00% | ~520 |
-| Opposing Force | 14.00% | ~520 |
-| Enemy at the Gates | 14.00% | ~520 |
-| Fields of Glory | 14.00% | ~520 |
-| Skirmisher | 14.00% | ~520 |
-| Die Nussknacker Sweet! | 14.00% | ~520 |
+| No Stone Unturned | 14.00% | ~521 |
+| Opposing Force | 14.00% | ~521 |
+| Enemy at the Gates | 14.00% | ~521 |
+| Fields of Glory | 14.00% | ~521 |
+| Skirmisher | 14.00% | ~521 |
+| Die Nussknacker Sweet! | 14.00% | ~521 |
 | Set Europe Ablaze | 13.00% | ~483 |
 | Precision Is Key | 10.00% | ~372 |
 | My Little Friend | 10.00% | ~372 |
-| Rigged to Blow | 9.00% | ~335 |
+| Rigged to Blow | 8.00% | ~297 |
 | Herr Today, Gone Tomorrow | 6.00% | ~220 |
 | The Long Game | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 645)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,717 (Ranked 178)  
+Progressed: 3,718 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 11 (0.30%) (Ranked 202)
 | 2023-10-06 | 3,703 | 11 |
 | 2023-10-07 | 3,708 | 11 |
 | 2023-10-08 | 3,715 | 11 |
-| 2023-10-09 | 3,717 | 11 |
+| 2023-10-09 | 3,718 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

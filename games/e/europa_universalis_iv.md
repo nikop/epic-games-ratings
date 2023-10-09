@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,073 |
-| Until death do us apart | 4.00% | ~17,073 |
+| That's a Grand Army | 4.00% | ~17,074 |
+| Until death do us apart | 4.00% | ~17,074 |
 | That is mine! | 3.00% | ~12,805 |
 | Victorious! | 3.00% | ~12,805 |
-| Brothers in Arms | 2.00% | ~8,536 |
-| Cold War | 2.00% | ~8,536 |
-| For the Glory | 2.00% | ~8,536 |
-| That's a Grand Navy | 2.00% | ~8,536 |
-| Seriously?! | 2.00% | ~8,536 |
+| Brothers in Arms | 2.00% | ~8,537 |
+| Cold War | 2.00% | ~8,537 |
+| For the Glory | 2.00% | ~8,537 |
+| That's a Grand Navy | 2.00% | ~8,537 |
+| Seriously?! | 2.00% | ~8,537 |
 | Defender of the Faith | 1.00% | ~4,268 |
 | It's all about the money | 1.00% | ~4,268 |
 | Respected | 1.00% | ~4,268 |
 | The Princess is in this Castle | 1.00% | ~4,268 |
 | True Catholic | 1.00% | ~4,268 |
 | Truly Divine Ruler | 1.00% | ~4,268 |
-| It's all about luck | 0.90% | ~3,841 |
+| It's all about luck | 0.90% | ~3,842 |
 | Blockader | 0.80% | ~3,415 |
 | Double the Love | 0.80% | ~3,415 |
 | Total Control | 0.80% | ~3,415 |
@@ -38,13 +38,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.40% | ~1,707 |
 | Queen of Conquest | 0.40% | ~1,707 |
 | The Five Colonies | 0.40% | ~1,707 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,280 |
-| Down Under | 0.30% | ~1,280 |
-| The Emperors new clothes | 0.30% | ~1,280 |
-| A Golden Empire | 0.30% | ~1,280 |
-| Market Control | 0.30% | ~1,280 |
-| Populists in Government | 0.30% | ~1,280 |
-| Trustworthy | 0.30% | ~1,280 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,281 |
+| Down Under | 0.30% | ~1,281 |
+| The Emperors new clothes | 0.30% | ~1,281 |
+| A Golden Empire | 0.30% | ~1,281 |
+| Market Control | 0.30% | ~1,281 |
+| Populists in Government | 0.30% | ~1,281 |
+| Trustworthy | 0.30% | ~1,281 |
 | All belongs to Mother Russia | 0.20% | ~854 |
 | At every continent | 0.20% | ~854 |
 | Early-Modern Warfare | 0.20% | ~854 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,818 (Ranked 41)  
+Progressed: 426,848 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
 | 2023-10-08 | 426,194 | 1 |
-| 2023-10-09 | 426,818 | 1 |
+| 2023-10-09 | 426,848 | 1 |
 ## Awards
 Max (Educational): 6,454  (Ranked 56)  
 Sum: 53,071 (Ranked 24)  

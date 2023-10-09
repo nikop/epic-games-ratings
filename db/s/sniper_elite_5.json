@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3717,
+  "EOS_Progressed": 3718,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7135,6 +7135,11 @@
       "Time": "2023-10-09T19:05:06.2080551+00:00",
       "NumProgressed": 3717,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-09T21:05:06.8303056+00:00",
+      "NumProgressed": 3718,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7170,7 +7175,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7178,7 +7183,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7186,7 +7191,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7194,7 +7199,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7274,7 +7279,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7328,9 +7333,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 297
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -7362,7 +7367,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7538,7 +7543,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7713,13 +7718,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3668,
+      "Progressed": 3669,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3717,
+      "Progressed": 3718,
       "Completed": 11
     }
   ],
@@ -7727,8 +7732,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-09T20:05:52.3500763+00:00",
+  "LastChanged_Achievements": "2023-10-09T21:05:06.8303046+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:57:54.1236628+00:00",
-  "LastUpdate_Achievements": "2023-10-09T20:05:52.3502453+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:57:31.8755802+00:00",
+  "LastUpdate_Achievements": "2023-10-09T21:05:06.8304219+00:00"
 }

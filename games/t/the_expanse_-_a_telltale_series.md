@@ -20,15 +20,15 @@ Rating: 4.56 (Ranked 471)
 | Celebrations are in Order | 2.00% | ~276 |
 | Impossible Objects | 2.00% | ~276 |
 | Stogie for Fogey | 1.00% | ~138 |
+| Bottoms up! | 1.00% | ~138 |
 | Thorston Mayer | 1.00% | ~138 |
 | Miraculous Maya | 1.00% | ~138 |
 | Doctor Approved | 0.90% | ~124 |
-| Bottoms up! | 0.90% | ~124 |
 | No Belter Left Behind | 0.70% | ~97 |
 | Brother's Reaper | 0.60% | ~83 |
 | Data Logger | 0.50% | ~69 |
 | Data Master | 0.50% | ~69 |
-| Debris Spree | 0.30% | ~41 |
+| Debris Spree | 0.40% | ~55 |
 | Data Recoverer | 0.30% | ~41 |
 | Urshanabi Hoarder | 0.20% | ~28 |
 | Data Miner | 0.20% | ~28 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 471)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,809 (Ranked 135)  
+Progressed: 13,810 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
 | 2023-10-08 | 13,771 | 18 |
-| 2023-10-09 | 13,809 | 18 |
+| 2023-10-09 | 13,810 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

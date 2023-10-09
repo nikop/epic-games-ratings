@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 41984,
+  "EOS_Progressed": 41986,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10286,6 +10286,11 @@
       "Time": "2023-10-09T20:04:08.0717939+00:00",
       "NumProgressed": 41984,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-09T21:03:40.0609879+00:00",
+      "NumProgressed": 41986,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10345,7 +10350,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4198
+      "UsersEstimate": 4199
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10720,22 +10725,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41984,
+      "Progressed": 41986,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6821,
-      "Completed": 6821
+      "Progressed": 6823,
+      "Completed": 6823
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-09T20:04:08.0717933+00:00",
+  "LastChanged_Achievements": "2023-10-09T21:03:40.0609872+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:59:38.3101702+00:00",
-  "LastUpdate_Achievements": "2023-10-09T20:04:08.0719269+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:58:55.791601+00:00",
+  "LastUpdate_Achievements": "2023-10-09T21:03:40.0612197+00:00"
 }

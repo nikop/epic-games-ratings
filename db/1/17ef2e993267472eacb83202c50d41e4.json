@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7028,
+  "EOS_Progressed": 7031,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3818,6 +3818,11 @@
       "Time": "2023-10-09T20:09:38.6045019+00:00",
       "NumProgressed": 7028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T21:09:08.949772+00:00",
+      "NumProgressed": 7031,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3870,7 +3875,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CreditsEarned50000",
@@ -3950,7 +3955,7 @@
       "Name": "Played a Match",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "GamesPlayed10",
@@ -3974,7 +3979,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "GamesWon10",
@@ -4022,7 +4027,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "HAUpgraded1",
@@ -4054,7 +4059,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -4102,7 +4107,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "InhibitorKills30",
@@ -4126,7 +4131,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -4150,7 +4155,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MaxHealingDone30000",
@@ -4318,7 +4323,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "RSPurchased1",
@@ -4326,7 +4331,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "SEUpgraded1",
@@ -4366,7 +4371,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "SniperUpgraded1",
@@ -4414,14 +4419,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7028,
+      "Progressed": 7031,
       "Completed": 1
     }
   ],
@@ -4429,8 +4434,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-09T20:09:38.6045014+00:00",
+  "LastChanged_Achievements": "2023-10-09T21:09:08.9497709+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:12.802925+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:58:15.5337433+00:00",
-  "LastUpdate_Achievements": "2023-10-09T20:09:38.6046058+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:57:48.9180733+00:00",
+  "LastUpdate_Achievements": "2023-10-09T21:09:08.9498795+00:00"
 }

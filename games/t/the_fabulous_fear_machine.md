@@ -32,12 +32,12 @@
 | The beast in the Oval Office | 14.00% | ~3 |
 | Blood Red Island | 14.00% | ~3 |
 | The bully | 14.00% | ~3 |
+| The adventurer | 14.00% | ~3 |
 | Pulp! The Beyond | 14.00% | ~3 |
 | America had no Faith | 14.00% | ~3 |
 | Bread and bocaua | 9.00% | ~2 |
 | Fanatacism is... poisonous | 9.00% | ~2 |
 | The scholar | 9.00% | ~2 |
-| The adventurer | 9.00% | ~2 |
 | Pulp! True Adventures | 9.00% | ~2 |
 | Vaccine fans | 9.00% | ~2 |
 | Pulp! Tales from the Crypt | 5.00% | ~1 |

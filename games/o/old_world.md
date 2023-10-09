@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.40% | ~58 |
 | Acropolis | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
+| Pantheon | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
 | Greece | 0.40% | ~58 |
 | Power to the People | 0.40% | ~58 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~44 |
 | Hagia Sophia | 0.30% | ~44 |
 | Temple of Solomon | 0.30% | ~44 |
-| Pantheon | 0.30% | ~44 |
 | Via Recta Souk | 0.30% | ~44 |
 | Learn to Play 4 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,561 (Ranked 134)  
+Progressed: 14,562 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,561 | 5 |
+| 2023-10-09 | 14,562 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

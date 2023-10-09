@@ -6,30 +6,30 @@ Rating: 4.54 (Ranked 509)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 4.00% | ~27,737 |
-| Dr. Reed, I Presume? | 3.00% | ~20,802 |
-| Git Gutte! | 3.00% | ~20,802 |
-| Break A Leg | 3.00% | ~20,802 |
-| Coup de Grâce | 3.00% | ~20,802 |
-| Hazardous Materials | 3.00% | ~20,802 |
-| Friends Like These | 3.00% | ~20,802 |
-| Hotel California | 3.00% | ~20,802 |
-| Apex Predator | 3.00% | ~20,802 |
-| Stacking the Deck | 3.00% | ~20,802 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,802 |
-| Anger Management | 2.00% | ~13,868 |
-| Perks of the Job | 2.00% | ~13,868 |
-| Bookworm | 2.00% | ~13,868 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,868 |
-| But Doctor, I am Butcho | 2.00% | ~13,868 |
-| Slayer Squad | 2.00% | ~13,868 |
-| Can't Handle the Truth | 2.00% | ~13,868 |
-| Like Riding a Bike | 2.00% | ~13,868 |
-| Zombologist | 2.00% | ~13,868 |
-| Ooh, Shiny! | 2.00% | ~13,868 |
-| A Patton Emerges | 2.00% | ~13,868 |
-| I Am the Resurrection | 2.00% | ~13,868 |
-| Our True Nature | 2.00% | ~13,868 |
-| This is My Weapon | 2.00% | ~13,868 |
+| Dr. Reed, I Presume? | 3.00% | ~20,803 |
+| Git Gutte! | 3.00% | ~20,803 |
+| Break A Leg | 3.00% | ~20,803 |
+| Coup de Grâce | 3.00% | ~20,803 |
+| Hazardous Materials | 3.00% | ~20,803 |
+| Friends Like These | 3.00% | ~20,803 |
+| Hotel California | 3.00% | ~20,803 |
+| Apex Predator | 3.00% | ~20,803 |
+| Stacking the Deck | 3.00% | ~20,803 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,803 |
+| Anger Management | 2.00% | ~13,869 |
+| Perks of the Job | 2.00% | ~13,869 |
+| Bookworm | 2.00% | ~13,869 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,869 |
+| But Doctor, I am Butcho | 2.00% | ~13,869 |
+| Slayer Squad | 2.00% | ~13,869 |
+| Can't Handle the Truth | 2.00% | ~13,869 |
+| Like Riding a Bike | 2.00% | ~13,869 |
+| Zombologist | 2.00% | ~13,869 |
+| Ooh, Shiny! | 2.00% | ~13,869 |
+| A Patton Emerges | 2.00% | ~13,869 |
+| I Am the Resurrection | 2.00% | ~13,869 |
+| Our True Nature | 2.00% | ~13,869 |
+| This is My Weapon | 2.00% | ~13,869 |
 | Making Your Mark | 1.00% | ~6,934 |
 | Humanity Distilled | 1.00% | ~6,934 |
 | Down with the Sickness | 1.00% | ~6,934 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 509)
 | Smorgasbord | 0.80% | ~5,547 |
 | Not Even My Final Form | 0.70% | ~4,854 |
 | Internet Famous | 0.70% | ~4,854 |
-| Make it So | 0.60% | ~4,160 |
-| On Safari | 0.60% | ~4,160 |
-| Variety is the Spice of Death | 0.60% | ~4,160 |
+| Make it So | 0.60% | ~4,161 |
+| On Safari | 0.60% | ~4,161 |
+| Variety is the Spice of Death | 0.60% | ~4,161 |
 | LA Influential | 0.50% | ~3,467 |
 | Gore Horse | 0.50% | ~3,467 |
 | Sole Survivor | 0.40% | ~2,774 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,414 (Ranked 22)  
+Progressed: 693,435 (Ranked 22)  
 Completed: 2,206 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 2,206 (0.32%) (Ranked 197)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,414 | 2,206 |
+| 2023-10-09 | 693,435 | 2,206 |
 ## Awards
 Max (Great Boss Battles): 6,378  (Ranked 58)  
-Sum: 9,521 (Ranked 91)  
+Sum: 9,523 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -236,8 +236,8 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 418 |
 | This game is Relaxing | 400 |
 | This game has Amazing Storytelling | 373 |
+| This game is Highly Recommended | 359 |
 | This game is Extremely Fun | 359 |
-| This game is Highly Recommended | 357 |
 | This game has Amazing Characters | 347 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -413,4 +413,4 @@ Diff (max vs sum): -33
 | 2023-10-06 | 4.54 | 6,339 | 9,463 |
 | 2023-10-07 | 4.54 | 6,348 | 9,476 |
 | 2023-10-08 | 4.54 | 6,366 | 9,500 |
-| 2023-10-09 | 4.54 | 6,378 | 9,521 |
+| 2023-10-09 | 4.54 | 6,378 | 9,523 |

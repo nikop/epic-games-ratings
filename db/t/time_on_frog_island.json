@@ -122,9 +122,9 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a10",
@@ -146,9 +146,9 @@
       "ID": "a12",
       "SetID": "cdg65ol",
       "Name": "Who Even Needs Keys",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a13",
@@ -242,9 +242,9 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a24",
@@ -298,9 +298,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "a30",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-09T20:04:54.077279+00:00",
+  "LastChanged_Achievements": "2023-10-09T21:04:18.9756952+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:57:32.8748569+00:00",
-  "LastUpdate_Achievements": "2023-10-09T20:04:54.0773069+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:57:15.3078174+00:00",
+  "LastUpdate_Achievements": "2023-10-09T21:04:18.9757657+00:00"
 }

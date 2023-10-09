@@ -30,13 +30,13 @@
 | Time | 17.00% | ~18 |
 | The Fix | 16.00% | ~17 |
 | Bad Trip | 15.00% | ~16 |
+| Regrets | 14.00% | ~15 |
 | The Mountains, The Valleys | 14.00% | ~15 |
-| Regrets | 13.00% | ~14 |
 | Chase the Crow | 13.00% | ~14 |
-| Love | 12.00% | ~12 |
+| Love | 13.00% | ~14 |
+| Here we go again! | 12.00% | ~12 |
 | The Accident | 12.00% | ~12 |
 | The Awakening | 12.00% | ~12 |
-| Here we go again! | 11.00% | ~11 |
 | Flight of the Bumblebee | 10.00% | ~10 |
 | Milk and Alcohol | 8.00% | ~8 |
 | Under the Bridge | 7.00% | ~7 |

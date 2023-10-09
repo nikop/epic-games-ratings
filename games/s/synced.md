@@ -5,13 +5,13 @@ Rating: 4.16 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 29.00% | ~18,063 |
-| As Far Away As Possible | 16.00% | ~9,966 |
-| A Most Unstable Organism | 12.00% | ~7,474 |
-| No Time to Follow Protocol | 9.00% | ~5,606 |
-| Float Like a Butterfly... | 8.00% | ~4,983 |
-| Nano Connoisseur | 6.00% | ~3,737 |
-| In Two Places At Once | 6.00% | ~3,737 |
+| Your Lucky Day | 29.00% | ~18,066 |
+| As Far Away As Possible | 16.00% | ~9,967 |
+| A Most Unstable Organism | 12.00% | ~7,476 |
+| No Time to Follow Protocol | 9.00% | ~5,607 |
+| Float Like a Butterfly... | 8.00% | ~4,984 |
+| Nano Connoisseur | 6.00% | ~3,738 |
+| In Two Places At Once | 6.00% | ~3,738 |
 | Pulling Your Weight | 3.00% | ~1,869 |
 | Reaping Rivals | 3.00% | ~1,869 |
 | fifteenth Time's the Charm | 0.90% | ~561 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 905)
 | Runs for Your Money | 0.10% | ~62 |
 | Past Master | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,285 (Ranked 97)  
+Progressed: 62,296 (Ranked 97)  
 Completed: 9 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,16 +65,16 @@ Completed: 9 (0.01%) (Ranked 291)
 | 2023-10-06 | 61,484 | 7 |
 | 2023-10-07 | 61,839 | 7 |
 | 2023-10-08 | 62,135 | 9 |
-| 2023-10-09 | 62,285 | 9 |
+| 2023-10-09 | 62,296 | 9 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 400)  
-Sum: 205 (Ranked 378)  
-Diff (max vs sum): 22  
+Sum: 206 (Ranked 377)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 59 |
 | This game has Diverse Characters | 39 |
-| This game is Highly Recommended | 33 |
+| This game is Highly Recommended | 34 |
 | This game has a Competitive Community | 28 |
 | This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 22 |
@@ -112,4 +112,4 @@ Diff (max vs sum): 22
 | 2023-10-06 | 4.18 | 53 | 186 |
 | 2023-10-07 | 4.18 | 53 | 189 |
 | 2023-10-08 | 4.17 | 56 | 199 |
-| 2023-10-09 | 4.17 | 59 | 205 |
+| 2023-10-09 | 4.17 | 59 | 206 |

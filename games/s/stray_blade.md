@@ -13,13 +13,13 @@
 | Don't Cry Wolf | 25.00% | ~23 |
 | Freezing Cold | 20.00% | ~18 |
 | Expert | 18.00% | ~16 |
+| Searing Heat | 16.00% | ~15 |
 | Nothing but the Truth | 16.00% | ~15 |
-| Searing Heat | 15.00% | ~14 |
 | The Power of the Mountains | 14.00% | ~13 |
 | The Golden Flash | 13.00% | ~12 |
 | Locked and Loaded | 11.00% | ~10 |
+| Witch | 11.00% | ~10 |
 | Changing the World | 11.00% | ~10 |
-| Witch | 10.00% | ~9 |
 | The A-Team | 10.00% | ~9 |
 | Defeat Uskol | 9.00% | ~8 |
 | Finally! | 9.00% | ~8 |
