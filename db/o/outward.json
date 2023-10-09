@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5385,9 +5385,9 @@
       "ID": "ThePowerofFreedom_3",
       "SetID": "c4hee28",
       "Name": "The Power of Freedom",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 356
     },
     {
       "ID": "TheStuffOfLegends",
@@ -5457,8 +5457,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:04:26.1023149+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:04:19.2369085+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:58:01.4038266+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:04:26.1023643+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:58:07.4107557+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:04:19.2370409+00:00"
 }

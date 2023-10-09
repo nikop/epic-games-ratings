@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,145 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,674 |
-| Loose Ends | 34.00% | ~24,941 |
-| To the Victor Go the Spoils | 29.00% | ~21,273 |
-| Knighthood | 28.00% | ~20,539 |
-| Get ReQ'd | 25.00% | ~18,339 |
-| Whispered Words | 25.00% | ~18,339 |
+| First Step Into the Knight | 52.00% | ~38,146 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,675 |
+| Loose Ends | 34.00% | ~24,942 |
+| To the Victor Go the Spoils | 29.00% | ~21,274 |
+| Knighthood | 28.00% | ~20,540 |
+| Get ReQ'd | 25.00% | ~18,340 |
+| Whispered Words | 25.00% | ~18,340 |
 | The Batman Family | 23.00% | ~16,872 |
 | Lock and Key | 23.00% | ~16,872 |
 | Something in the Clay | 21.00% | ~15,405 |
 | Quartzer Life Crisis | 21.00% | ~15,405 |
-| Working Hard or Harley Working? | 20.00% | ~14,671 |
-| Unstoppable Force | 20.00% | ~14,671 |
-| Bad Apples in Every Orchard | 20.00% | ~14,671 |
-| Snow Problem | 19.00% | ~13,937 |
+| Working Hard or Harley Working? | 20.00% | ~14,672 |
+| Unstoppable Force | 20.00% | ~14,672 |
+| Bad Apples in Every Orchard | 20.00% | ~14,672 |
+| Snow Problem | 19.00% | ~13,938 |
 | The Show Mud Go On | 18.00% | ~13,204 |
 | From Inside Gotham's Walls | 18.00% | ~13,204 |
-| Protector of Gotham | 17.00% | ~12,470 |
+| Protector of Gotham | 17.00% | ~12,471 |
 | Universal Health Scare | 16.00% | ~11,737 |
-| In Your Element | 15.00% | ~11,003 |
-| Voiceless | 15.00% | ~11,003 |
+| In Your Element | 15.00% | ~11,004 |
+| Voiceless | 15.00% | ~11,004 |
 | Rock and a Hard Place | 14.00% | ~10,270 |
 | Cooldown | 14.00% | ~10,270 |
 | Seeking Asylum | 14.00% | ~10,270 |
-| Not On My Watch | 13.00% | ~9,536 |
-| Shock Til They Drop | 13.00% | ~9,536 |
+| Not On My Watch | 13.00% | ~9,537 |
+| Shock Til They Drop | 13.00% | ~9,537 |
 | End of an Era | 12.00% | ~8,803 |
 | Bulldozed | 12.00% | ~8,803 |
 | Gotham Knight | 12.00% | ~8,803 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 897)
 | Icebreaker | 0.80% | ~349 |
 | History Major | 0.80% | ~587 |
 | A Sophisticated Mallet | 0.80% | ~349 |
-| Read Owl About It | 0.70% | ~513 |
+| Read Owl About It | 0.70% | ~514 |
 | Gotham's Greatest Depths | 0.60% | ~262 |
 | Don't Mecha Big Deal About It | 0.60% | ~262 |
 | Confronting Your Demon | 0.60% | ~262 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,355 (Ranked 91)  
+Progressed: 73,358 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 120 (0.16%) (Ranked 227)
 | 2023-10-06 | 73,220 | 120 |
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
-| 2023-10-09 | 73,355 | 120 |
+| 2023-10-09 | 73,358 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,795  (Ranked 97)  
 Sum: 4,690 (Ranked 140)  

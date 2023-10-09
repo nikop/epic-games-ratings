@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1397,
+  "EOS_Progressed": 1398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-10-09T18:05:04.6002031+00:00",
       "NumProgressed": 1397,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T19:04:55.7932443+00:00",
+      "NumProgressed": 1398,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2603,7 +2608,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2625,9 +2630,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 266
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2643,7 +2648,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2659,7 +2664,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2675,7 +2680,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2747,7 +2752,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2859,7 +2864,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2875,7 +2880,7 @@
       "Name": "Champagne Spray",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2962,14 +2967,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1397,
+      "Progressed": 1398,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:05:04.6002023+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:04:55.7932436+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:59:17.6973459+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:05:04.6002609+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:59:17.7172439+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:04:55.7933144+00:00"
 }

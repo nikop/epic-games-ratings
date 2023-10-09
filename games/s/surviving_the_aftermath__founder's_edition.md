@@ -1,15 +1,15 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 608)  
+Rating: 4.48 (Ranked 607)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,839 |
-| Leader | 60.00% | ~5,699 |
-| Explorer | 53.00% | ~5,034 |
-| Healer | 52.00% | ~4,939 |
+| First Step | 72.00% | ~6,841 |
+| Leader | 60.00% | ~5,701 |
+| Explorer | 53.00% | ~5,036 |
+| Healer | 52.00% | ~4,941 |
 | Aspiring Inventor | 44.00% | ~4,180 |
 | Adventurer | 41.00% | ~3,895 |
 | Famous Healer | 38.00% | ~3,610 |
@@ -64,9 +64,9 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.40% | ~38 |
 | Fun and Games | 0.20% | ~19 |
 | Choo-choo! | 0.20% | ~19 |
-| Customized calamities | 0.10% | ~9 |
+| Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,499 (Ranked 148)  
+Progressed: 9,501 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 9,437 | 0 |
 | 2023-10-07 | 9,463 | 0 |
 | 2023-10-08 | 9,488 | 0 |
-| 2023-10-09 | 9,499 | 0 |
+| 2023-10-09 | 9,501 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 707 (Ranked 283)  

@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15649,
+  "EOS_Progressed": 15650,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11695,6 +11695,11 @@
       "Time": "2023-10-09T17:09:49.7718573+00:00",
       "NumProgressed": 15649,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-09T19:08:22.2367494+00:00",
+      "NumProgressed": 15650,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11706,7 +11711,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "tpote_achievement_10",
@@ -11722,7 +11727,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "tpote_achievement_12",
@@ -11754,7 +11759,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "tpote_achievement_16",
@@ -11826,7 +11831,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "tpote_achievement_24",
@@ -11834,7 +11839,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "tpote_achievement_25",
@@ -12010,7 +12015,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "tpote_achievement_8",
@@ -12033,15 +12038,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15649,
+      "Progressed": 15650,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:08:18.5829924+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:08:22.2367485+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:00:55.9416571+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:08:18.5830703+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:00:45.7925706+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:08:22.2369253+00:00"
 }

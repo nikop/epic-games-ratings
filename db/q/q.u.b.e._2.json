@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 250,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2701,6 +2701,11 @@
       "Time": "2023-10-09T18:06:22.7735119+00:00",
       "NumProgressed": 716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T19:06:10.5392658+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2711,9 +2716,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2849,7 +2854,7 @@
       "Name": "Infinity Loop",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_HUB1",
@@ -2857,7 +2862,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_HUB2",
@@ -2865,7 +2870,7 @@
       "Name": "Path to Salvation",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_OASIS",
@@ -2873,7 +2878,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_PEAK",
@@ -2881,7 +2886,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_PROPELL",
@@ -2897,7 +2902,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_S1",
@@ -2905,7 +2910,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_S4",
@@ -2913,7 +2918,7 @@
       "Name": "Power Glove",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_S5",
@@ -2921,7 +2926,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2929,7 +2934,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_STATUE",
@@ -2937,22 +2942,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 360
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:06:22.7735112+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:06:10.5392653+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:58:07.346791+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:06:22.7735436+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:58:13.098665+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:06:10.5393267+00:00"
 }

@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13801,
+  "EOS_Progressed": 13806,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -8175,6 +8175,11 @@
       "Time": "2023-10-09T16:03:30.4361671+00:00",
       "NumProgressed": 13801,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T19:03:28.8629182+00:00",
+      "NumProgressed": 13806,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -8219,7 +8224,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "14",
@@ -8369,9 +8374,9 @@
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 97
     },
     {
       "ID": "4",
@@ -8426,7 +8431,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 13801,
+      "Progressed": 13806,
       "Completed": 18
     }
   ],
@@ -8434,8 +8439,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-08T08:57:35.7928069+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:03:33.0474641+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:03:28.8629174+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.4622667+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:58:08.0752635+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:03:33.0475236+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:58:13.8201824+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:03:28.8631259+00:00"
 }

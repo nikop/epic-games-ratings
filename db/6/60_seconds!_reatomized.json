@@ -206,7 +206,7 @@
   "Tags": [],
   "EOS_Progressed": 5382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6205,9 +6205,9 @@
       "ID": "ACH_DEFEND_THREE",
       "SetID": "5nj1ea3",
       "Name": "Unbreakable",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1991
     },
     {
       "ID": "ACH_DISCO",
@@ -6542,8 +6542,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:03:35.5177555+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:03:31.2984135+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.9846058+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:00:52.302153+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:03:35.5178309+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:00:42.9876565+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:03:31.2985294+00:00"
 }

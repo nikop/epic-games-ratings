@@ -5,14 +5,14 @@ Rating: 4.45 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,709 |
+| Meeting Resistance | 46.00% | ~1,710 |
 | Confirming Suspicions | 41.00% | ~1,524 |
 | The Kraken Wakes | 36.00% | ~1,338 |
-| It's Starting to Crack | 34.00% | ~1,263 |
+| It's Starting to Crack | 34.00% | ~1,264 |
 | Lord of War | 30.00% | ~1,115 |
 | Change the Channel | 30.00% | ~1,115 |
-| Taking it back | 28.00% | ~1,040 |
-| Resourceful | 27.00% | ~1,003 |
+| Taking it back | 28.00% | ~1,041 |
+| Resourceful | 27.00% | ~1,004 |
 | Target America | 26.00% | ~966 |
 | The Kraken Sleeps | 24.00% | ~892 |
 | Organ Grinder | 23.00% | ~855 |
@@ -25,8 +25,8 @@ Rating: 4.45 (Ranked 645)
 | Climbing the Ladder | 16.00% | ~595 |
 | Der Geist | 16.00% | ~595 |
 | Close Quarters | 16.00% | ~595 |
-| Snake in the Grass | 15.00% | ~557 |
-| Brains of the Operation | 15.00% | ~557 |
+| Snake in the Grass | 15.00% | ~558 |
+| Brains of the Operation | 15.00% | ~558 |
 | No Stone Unturned | 14.00% | ~520 |
 | Opposing Force | 14.00% | ~520 |
 | Enemy at the Gates | 14.00% | ~520 |
@@ -36,7 +36,7 @@ Rating: 4.45 (Ranked 645)
 | Set Europe Ablaze | 13.00% | ~483 |
 | Precision Is Key | 10.00% | ~372 |
 | My Little Friend | 10.00% | ~372 |
-| Rigged to Blow | 9.00% | ~334 |
+| Rigged to Blow | 9.00% | ~335 |
 | Herr Today, Gone Tomorrow | 6.00% | ~220 |
 | The Long Game | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
@@ -49,10 +49,10 @@ Rating: 4.45 (Ranked 645)
 | Last Resort | 4.00% | ~147 |
 | Siegebreaker | 4.00% | ~147 |
 | Ghost of Falaise | 4.00% | ~147 |
-| From Paris with Love | 3.00% | ~111 |
-| Burn after reading | 3.00% | ~111 |
-| Souvenir hunter | 3.00% | ~111 |
-| Shoot for the Moon | 3.00% | ~111 |
+| From Paris with Love | 3.00% | ~112 |
+| Burn after reading | 3.00% | ~112 |
+| Souvenir hunter | 3.00% | ~112 |
+| Shoot for the Moon | 3.00% | ~112 |
 | If You Go Down To The Woods Today | 3.00% | ~110 |
 | Fight Another Day | 3.00% | ~110 |
 | Out of Scope | 2.00% | ~74 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 645)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,716 (Ranked 178)  
+Progressed: 3,717 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 11 (0.30%) (Ranked 202)
 | 2023-10-06 | 3,703 | 11 |
 | 2023-10-07 | 3,708 | 11 |
 | 2023-10-08 | 3,715 | 11 |
-| 2023-10-09 | 3,716 | 11 |
+| 2023-10-09 | 3,717 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250171,
+  "EOS_Progressed": 250172,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16094,6 +16094,11 @@
       "Time": "2023-10-09T17:07:12.8788908+00:00",
       "NumProgressed": 250171,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-09T19:05:34.0795017+00:00",
+      "NumProgressed": 250172,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16305,7 +16310,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65044
+      "UsersEstimate": 65045
     },
     {
       "ID": "justABit",
@@ -16465,14 +16470,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40027
+      "UsersEstimate": 40028
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250171,
+      "Progressed": 250172,
       "Completed": 6
     }
   ],
@@ -16480,8 +16485,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:05:45.082081+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:05:34.079501+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:00:01.400698+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:05:45.0821842+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:59:53.4943826+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:05:34.0796814+00:00"
 }

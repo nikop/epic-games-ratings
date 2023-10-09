@@ -30,9 +30,9 @@ Rating: 4.68 (Ranked 244)
 | Toxic | 3.00% | ~21 |
 | Entangled | 3.00% | ~21 |
 | Witch's cookbook | 3.00% | ~21 |
+| Bad apple | 2.00% | ~14 |
 | Gnowlledgeable | 2.00% | ~14 |
 | Always worth a try | 2.00% | ~14 |
-| Bad apple | 1.00% | ~7 |
 | Loremaster | 1.00% | ~7 |
 | Awards unwarded | 1.00% | ~7 |
 | Mushrooming enthusiast | 0.60% | ~4 |

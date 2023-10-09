@@ -15,7 +15,7 @@ Rating: 4.62 (Ranked 354)
 | Story Teller | 57.00% | ~503 |
 | True Believer | 57.00% | ~503 |
 | Raise the Stakes | 56.00% | ~494 |
-| Surgeon | 53.00% | ~467 |
+| Surgeon | 54.00% | ~476 |
 | Exterminator | 52.00% | ~459 |
 | Greenhouse Effect | 52.00% | ~459 |
 | Freeze | 51.00% | ~450 |
@@ -44,7 +44,7 @@ Rating: 4.62 (Ranked 354)
 | Marked | 20.00% | ~176 |
 | Eviscerator | 19.00% | ~168 |
 | Backbreaker | 14.00% | ~123 |
-| Wishbone | 7.00% | ~62 |
+| Wishbone | 8.00% | ~71 |
 | Trusted Contractor | 6.00% | ~53 |
 | Built To Order | 5.00% | ~44 |
 | Merchant | 5.00% | ~44 |

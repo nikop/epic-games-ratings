@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6442,9 +6442,9 @@
       "Count": 3758
     }
   ],
-  "EOS_Progressed": 137374,
+  "EOS_Progressed": 137375,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24122,6 +24122,11 @@
       "Time": "2023-10-09T18:06:16.5895356+00:00",
       "NumProgressed": 137374,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-10-09T19:06:04.6214458+00:00",
+      "NumProgressed": 137375,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 112,
@@ -24213,7 +24218,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "bigsale02",
@@ -24237,7 +24242,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "blueprint02",
@@ -24397,7 +24402,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "craft02",
@@ -24485,7 +24490,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "energy02",
@@ -24509,7 +24514,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "expansion02",
@@ -24525,7 +24530,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "fullmoon",
@@ -24579,9 +24584,9 @@
       "ID": "fuselegendary",
       "SetID": "anfd17p",
       "Name": "A Legend is Born",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 687
     },
     {
       "ID": "fuseuncommon",
@@ -24605,7 +24610,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "gold02",
@@ -24693,7 +24698,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "jackslot03",
@@ -24717,7 +24722,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "level02",
@@ -24909,7 +24914,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "sell02",
@@ -24965,7 +24970,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "uncommonres01",
@@ -24997,7 +25002,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "workers02",
@@ -25028,15 +25033,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137374,
+      "Progressed": 137375,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-08T20:58:26.5428073+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:06:16.5895349+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:06:04.6214453+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:59:08.1674679+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:06:16.5897659+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:59:09.7782352+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:06:04.6217756+00:00"
 }

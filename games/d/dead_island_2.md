@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,734 |
+| Welcome To Hell-A | 4.00% | ~27,735 |
 | Dr. Reed, I Presume? | 3.00% | ~20,801 |
 | Git Gutte! | 3.00% | ~20,801 |
 | Break A Leg | 3.00% | ~20,801 |
@@ -16,20 +16,20 @@ Rating: 4.54 (Ranked 509)
 | Apex Predator | 3.00% | ~20,801 |
 | Stacking the Deck | 3.00% | ~20,801 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,801 |
-| Anger Management | 2.00% | ~13,867 |
-| Perks of the Job | 2.00% | ~13,867 |
-| Bookworm | 2.00% | ~13,867 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,867 |
-| But Doctor, I am Butcho | 2.00% | ~13,867 |
-| Slayer Squad | 2.00% | ~13,867 |
-| Can't Handle the Truth | 2.00% | ~13,867 |
-| Like Riding a Bike | 2.00% | ~13,867 |
-| Zombologist | 2.00% | ~13,867 |
-| Ooh, Shiny! | 2.00% | ~13,867 |
-| A Patton Emerges | 2.00% | ~13,867 |
-| I Am the Resurrection | 2.00% | ~13,867 |
-| Our True Nature | 2.00% | ~13,867 |
-| This is My Weapon | 2.00% | ~13,867 |
+| Anger Management | 2.00% | ~13,868 |
+| Perks of the Job | 2.00% | ~13,868 |
+| Bookworm | 2.00% | ~13,868 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,868 |
+| But Doctor, I am Butcho | 2.00% | ~13,868 |
+| Slayer Squad | 2.00% | ~13,868 |
+| Can't Handle the Truth | 2.00% | ~13,868 |
+| Like Riding a Bike | 2.00% | ~13,868 |
+| Zombologist | 2.00% | ~13,868 |
+| Ooh, Shiny! | 2.00% | ~13,868 |
+| A Patton Emerges | 2.00% | ~13,868 |
+| I Am the Resurrection | 2.00% | ~13,868 |
+| Our True Nature | 2.00% | ~13,868 |
+| This is My Weapon | 2.00% | ~13,868 |
 | Making Your Mark | 1.00% | ~6,934 |
 | Humanity Distilled | 1.00% | ~6,934 |
 | Down with the Sickness | 1.00% | ~6,934 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 509)
 | Variety is the Spice of Death | 0.60% | ~4,160 |
 | LA Influential | 0.50% | ~3,467 |
 | Gore Horse | 0.50% | ~3,467 |
-| Sole Survivor | 0.40% | ~2,773 |
-| Sharpest Tool in the Box | 0.40% | ~2,773 |
+| Sole Survivor | 0.40% | ~2,774 |
+| Sharpest Tool in the Box | 0.40% | ~2,774 |
 | Survival Skills | 0.30% | ~2,080 |
 | Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,359 (Ranked 22)  
+Progressed: 693,380 (Ranked 22)  
 Completed: 2,206 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,14 +223,14 @@ Completed: 2,206 (0.32%) (Ranked 197)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,359 | 2,206 |
+| 2023-10-09 | 693,380 | 2,206 |
 ## Awards
-Max (Great Boss Battles): 6,366  (Ranked 58)  
-Sum: 9,509 (Ranked 91)  
+Max (Great Boss Battles): 6,378  (Ranked 58)  
+Sum: 9,521 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,366 |
+| This game has Great Boss Battles | 6,378 |
 | This game is Great for Beginners | 446 |
 | This game has Diverse Characters | 443 |
 | This game has Quickly Understood Controls | 418 |
@@ -413,4 +413,4 @@ Diff (max vs sum): -33
 | 2023-10-06 | 4.54 | 6,339 | 9,463 |
 | 2023-10-07 | 4.54 | 6,348 | 9,476 |
 | 2023-10-08 | 4.54 | 6,366 | 9,500 |
-| 2023-10-09 | 4.54 | 6,366 | 9,509 |
+| 2023-10-09 | 4.54 | 6,378 | 9,521 |

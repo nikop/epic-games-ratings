@@ -5,19 +5,19 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,950 |
-| On the Top Step | 89.00% | ~2,763 |
-| Setting up for Success | 78.00% | ~2,422 |
-| Team Orders | 75.00% | ~2,329 |
+| Getting on the Step | 95.00% | ~2,951 |
+| On the Top Step | 89.00% | ~2,764 |
+| Setting up for Success | 78.00% | ~2,423 |
+| Team Orders | 75.00% | ~2,330 |
 | Engineer | 56.00% | ~1,739 |
-| Familiar Faces | 50.00% | ~1,552 |
-| Going the Extra Mile | 44.00% | ~1,366 |
-| Sharing the Love | 42.00% | ~1,304 |
+| Familiar Faces | 50.00% | ~1,553 |
+| Going the Extra Mile | 44.00% | ~1,367 |
+| Sharing the Love | 42.00% | ~1,305 |
 | Hitting a Season | 37.00% | ~1,149 |
 | Challenge Yourself | 34.00% | ~1,056 |
 | A Dozen Pieces | 32.00% | ~994 |
 | Making History | 32.00% | ~994 |
-| Writing a new Chapter | 26.00% | ~807 |
+| Writing a new Chapter | 26.00% | ~808 |
 | Network Success | 25.00% | ~776 |
 | Spring Cleaning | 24.00% | ~745 |
 | Reduce | 20.00% | ~621 |
@@ -36,8 +36,8 @@ Rating: 4.66 (Ranked 281)
 | Recycle | 12.00% | ~373 |
 | Switcheroo | 11.00% | ~342 |
 | Tinkerer | 11.00% | ~342 |
-| Friendly Competition | 10.00% | ~310 |
-| Undisputed Winner | 9.00% | ~279 |
+| Friendly Competition | 10.00% | ~311 |
+| Undisputed Winner | 9.00% | ~280 |
 | For all Those Back at the Factory | 6.00% | ~186 |
 | Living up to Expectations | 6.00% | ~186 |
 | Smooth Operator | 6.00% | ~186 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,105 (Ranked 189)  
+Progressed: 3,106 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 2,987 | 0 |
 | 2023-10-07 | 3,037 | 0 |
 | 2023-10-08 | 3,083 | 0 |
-| 2023-10-09 | 3,105 | 0 |
+| 2023-10-09 | 3,106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

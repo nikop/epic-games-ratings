@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -226,17 +226,17 @@
       "ID": "ACH_11_GOOD_BOY",
       "SetID": "9loam6m",
       "Name": "Good boy!",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_12_PHOTO_SERIES",
       "SetID": "9loam6m",
       "Name": "Photo series",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_13_WINNER",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:05:43.5428557+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:05:32.6248821+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.6450488+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:57:23.2196195+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:05:43.5428822+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:57:27.8418946+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:05:32.6249403+00:00"
 }

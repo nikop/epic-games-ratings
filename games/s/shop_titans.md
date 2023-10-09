@@ -9,15 +9,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 3.00% | ~4,121 |
 | Basic in Bulk | 3.00% | ~4,121 |
 | Titan's First Steps | 3.00% | ~4,121 |
-| One Easy Payment | 2.00% | ~2,747 |
-| Some Assembly Required | 2.00% | ~2,747 |
-| Disintermediation | 2.00% | ~2,747 |
-| Another Satisfied Customer | 2.00% | ~2,747 |
-| It's Free Real Estate | 2.00% | ~2,747 |
-| Tinkle of Coins | 2.00% | ~2,747 |
-| Budding Merchant | 2.00% | ~2,747 |
-| Capitalism Ho! | 2.00% | ~2,747 |
-| Own the Means of Production | 2.00% | ~2,747 |
+| One Easy Payment | 2.00% | ~2,748 |
+| Some Assembly Required | 2.00% | ~2,748 |
+| Disintermediation | 2.00% | ~2,748 |
+| Another Satisfied Customer | 2.00% | ~2,748 |
+| It's Free Real Estate | 2.00% | ~2,748 |
+| Tinkle of Coins | 2.00% | ~2,748 |
+| Budding Merchant | 2.00% | ~2,748 |
+| Capitalism Ho! | 2.00% | ~2,748 |
+| Own the Means of Production | 2.00% | ~2,748 |
 | The Daily Grind | 1.00% | ~1,374 |
 | Bounty Hunters | 1.00% | ~1,374 |
 | Demand for Supplies | 1.00% | ~1,374 |
@@ -90,6 +90,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.50% | ~687 |
 | Ritualist | 0.50% | ~687 |
 | By Your Powers Combined... | 0.50% | ~687 |
+| A Legend is Born | 0.50% | ~687 |
 | Item of Renown | 0.50% | ~687 |
 | Bountiful Harvest | 0.50% | ~687 |
 | Precision Engineering | 0.50% | ~687 |
@@ -99,10 +100,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.50% | ~687 |
 | Exotic Commodities | 0.50% | ~687 |
 | Economy of Scarce | 0.50% | ~687 |
-| Thank You Tom Nook | 0.40% | ~549 |
-| A Legend is Born | 0.40% | ~549 |
-| Jackpot! | 0.40% | ~549 |
-| All Accounted For | 0.40% | ~549 |
+| Thank You Tom Nook | 0.40% | ~550 |
+| Jackpot! | 0.40% | ~550 |
+| All Accounted For | 0.40% | ~550 |
 | The Free Encyclopedia | 0.30% | ~412 |
 | All or Nothing! | 0.30% | ~412 |
 | Eternal Crusade | 0.30% | ~412 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,374 (Ranked 73)  
+Progressed: 137,375 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,374 | 167 |
+| 2023-10-09 | 137,375 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

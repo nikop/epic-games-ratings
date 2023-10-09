@@ -30,8 +30,8 @@ Number of Ratings: 53  (23.09.2022)
 | Conquistador | 14.00% | ~133 |
 | Panic buying | 11.00% | ~105 |
 | Just a scratch | 9.00% | ~86 |
+| All mine! | 9.00% | ~86 |
 | Your vessel, my vessel | 9.00% | ~86 |
-| All mine! | 8.00% | ~76 |
 | Paths of Glory | 8.00% | ~76 |
 | Panel of experts | 8.00% | ~76 |
 | Maker | 7.00% | ~67 |

@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,069 |
-| Until death do us apart | 4.00% | ~17,069 |
-| That is mine! | 3.00% | ~12,802 |
-| Victorious! | 3.00% | ~12,802 |
-| Brothers in Arms | 2.00% | ~8,535 |
-| For the Glory | 2.00% | ~8,535 |
-| That's a Grand Navy | 2.00% | ~8,535 |
-| Seriously?! | 2.00% | ~8,535 |
-| Cold War | 1.00% | ~4,267 |
-| Defender of the Faith | 1.00% | ~4,267 |
-| It's all about the money | 1.00% | ~4,267 |
-| Respected | 1.00% | ~4,267 |
-| The Princess is in this Castle | 1.00% | ~4,267 |
-| True Catholic | 1.00% | ~4,267 |
-| Truly Divine Ruler | 1.00% | ~4,267 |
+| That's a Grand Army | 4.00% | ~17,071 |
+| Until death do us apart | 4.00% | ~17,071 |
+| That is mine! | 3.00% | ~12,803 |
+| Victorious! | 3.00% | ~12,803 |
+| Brothers in Arms | 2.00% | ~8,536 |
+| Cold War | 2.00% | ~8,536 |
+| For the Glory | 2.00% | ~8,536 |
+| That's a Grand Navy | 2.00% | ~8,536 |
+| Seriously?! | 2.00% | ~8,536 |
+| Defender of the Faith | 1.00% | ~4,268 |
+| It's all about the money | 1.00% | ~4,268 |
+| Respected | 1.00% | ~4,268 |
+| The Princess is in this Castle | 1.00% | ~4,268 |
+| True Catholic | 1.00% | ~4,268 |
+| Truly Divine Ruler | 1.00% | ~4,268 |
 | It's all about luck | 0.90% | ~3,841 |
 | Blockader | 0.80% | ~3,414 |
 | Double the Love | 0.80% | ~3,414 |
 | Total Control | 0.80% | ~3,414 |
 | Royal Authority | 0.70% | ~2,987 |
-| My armies are invincible! | 0.60% | ~2,560 |
+| My armies are invincible! | 0.60% | ~2,561 |
 | Agressive Expander | 0.50% | ~2,134 |
 | Azur semé de lis or | 0.50% | ~2,134 |
 | City of Cities | 0.50% | ~2,134 |
@@ -45,22 +45,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.30% | ~1,280 |
 | Populists in Government | 0.30% | ~1,280 |
 | Trustworthy | 0.30% | ~1,280 |
-| All belongs to Mother Russia | 0.20% | ~853 |
-| At every continent | 0.20% | ~853 |
-| Early-Modern Warfare | 0.20% | ~853 |
-| Electable! | 0.20% | ~853 |
-| Grand Coalition | 0.20% | ~853 |
-| In the Name of the Father | 0.20% | ~853 |
-| Italian Ambition | 0.20% | ~853 |
-| Just a Little Patience | 0.20% | ~853 |
-| One Family to Rule them All | 0.20% | ~853 |
-| Ruina Imperii | 0.20% | ~853 |
-| The pen is mightier than the sword | 0.20% | ~853 |
-| This is My Faith | 0.20% | ~853 |
-| Time Bandit | 0.20% | ~853 |
-| Traditional Player | 0.20% | ~853 |
-| Trophy Hunter | 0.20% | ~853 |
-| Voting Streak | 0.20% | ~853 |
+| All belongs to Mother Russia | 0.20% | ~854 |
+| At every continent | 0.20% | ~854 |
+| Early-Modern Warfare | 0.20% | ~854 |
+| Electable! | 0.20% | ~854 |
+| Grand Coalition | 0.20% | ~854 |
+| In the Name of the Father | 0.20% | ~854 |
+| Italian Ambition | 0.20% | ~854 |
+| Just a Little Patience | 0.20% | ~854 |
+| One Family to Rule them All | 0.20% | ~854 |
+| Ruina Imperii | 0.20% | ~854 |
+| The pen is mightier than the sword | 0.20% | ~854 |
+| This is My Faith | 0.20% | ~854 |
+| Time Bandit | 0.20% | ~854 |
+| Traditional Player | 0.20% | ~854 |
+| Trophy Hunter | 0.20% | ~854 |
+| Voting Streak | 0.20% | ~854 |
 | The 52 Garhs | 0.10% | ~427 |
 | I don't like sand | 0.10% | ~427 |
 | A Blessed Nation | 0.10% | ~427 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,726 (Ranked 41)  
+Progressed: 426,776 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,21 +533,21 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
 | 2023-10-08 | 426,194 | 1 |
-| 2023-10-09 | 426,726 | 1 |
+| 2023-10-09 | 426,776 | 1 |
 ## Awards
 Max (Educational): 6,454  (Ranked 56)  
-Sum: 53,045 (Ranked 24)  
+Sum: 53,068 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,454 |
-| This game is Highly Recommended | 6,153 |
+| This game is Highly Recommended | 6,166 |
 | This game has Diverse Characters | 6,118 |
 | This game has Challenging Combat | 6,099 |
 | This game is Extremely Fun | 6,081 |
 | This game is Relaxing | 5,966 |
 | This game has Competitive Players | 5,774 |
-| This game has Amazing Storytelling | 5,394 |
+| This game has Amazing Storytelling | 5,404 |
 | This game has Amazing Characters | 5,006 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -818,4 +818,4 @@ Diff (max vs sum): 32
 | 2023-10-06 | 4.69 | - | 6,412 | 52,738 |
 | 2023-10-07 | 4.69 | - | 6,432 | 52,874 |
 | 2023-10-08 | 4.69 | - | 6,445 | 52,995 |
-| 2023-10-09 | 4.69 | - | 6,454 | 53,045 |
+| 2023-10-09 | 4.69 | - | 6,454 | 53,068 |

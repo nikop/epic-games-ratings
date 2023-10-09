@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 148,
@@ -1287,9 +1287,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9499,
+  "EOS_Progressed": 9501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14437,6 +14437,11 @@
       "Time": "2023-10-09T18:04:23.6519786+00:00",
       "NumProgressed": 9499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T19:04:16.8820892+00:00",
+      "NumProgressed": 9501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14448,7 +14453,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5699
+      "UsersEstimate": 5701
     },
     {
       "ID": "10",
@@ -14480,7 +14485,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5036
     },
     {
       "ID": "14",
@@ -14528,7 +14533,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4941
     },
     {
       "ID": "2",
@@ -14560,7 +14565,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6841
     },
     {
       "ID": "23",
@@ -14880,7 +14885,7 @@
       "Name": "Customized calamities",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "6",
@@ -14919,15 +14924,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9499,
+      "Progressed": 9501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-04T07:57:53.8002058+00:00",
-  "LastChanged_Achievements": "2023-10-09T18:04:23.6519781+00:00",
+  "LastChanged_Achievements": "2023-10-09T19:04:16.8820885+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:00:12.5647803+00:00",
-  "LastUpdate_Achievements": "2023-10-09T18:04:23.6520823+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:00:04.6387174+00:00",
+  "LastUpdate_Achievements": "2023-10-09T19:04:16.882446+00:00"
 }
