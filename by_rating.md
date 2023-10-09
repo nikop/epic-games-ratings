@@ -414,7 +414,7 @@
 | 398 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 259 | 257 |
 | 398 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 515 |
 | 398 | [Warframe](games/w/warframe.md) | 4.60 | 17,550 | 22 |
-| 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 481 | 206 |
+| 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 484 | 206 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 424 |
 | 416 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 169 | 297 |
 | 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 375 | 226 |
@@ -517,7 +517,7 @@
 | 509 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 515 |
 | 509 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 530 |
 | 509 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 460 |
-| 509 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 96 | 353 |
+| 509 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 351 |
 | 509 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.54 | 25 | 498 |
 | 509 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 530 |
 | 509 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 530 |
@@ -669,7 +669,7 @@
 | 658 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 588 | 189 |
 | 658 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 530 |
 | 658 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 349 |
-| 658 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 735 | 171 |
+| 658 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 741 | 170 |
 | 658 | [Tunche](games/t/tunche.md) | 4.44 | 24 | 504 |
 | 658 | [Wall World](games/w/wall_world.md) | 4.44 | 0 | 530 |
 | 658 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 27 | 486 |
@@ -814,7 +814,7 @@
 | 810 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 530 |
 | 810 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 530 |
 | 810 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 530 |
-| 810 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 740 | 170 |
+| 810 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 740 | 171 |
 | 810 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.30 | 45 | 424 |
 | 810 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 530 |
 | 818 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 530 |
@@ -898,7 +898,7 @@
 | 889 | [Wreckfest](games/w/wreckfest.md) | 4.19 | 0 | 530 |
 | 897 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 530 |
 | 897 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,795 | 97 |
-| 897 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 353 |
+| 897 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 354 |
 | 897 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 530 |
 | 901 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 451 |
 | 901 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 530 |

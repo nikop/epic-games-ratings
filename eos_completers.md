@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.84% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.82% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -27,12 +27,12 @@
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 26 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.07% |
 | 27 | [Remains](games/r/remains.md) | 12.00% |
-| 28 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
-| 29 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
-| 31 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
-| 32 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 10.29% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.76% |
+| 29 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
+| 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
+| 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
+| 33 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
 | 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
 | 35 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -63,15 +63,15 @@
 | 61 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.76% |
 | 61 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
+| 64 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.27% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.14% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.83% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
@@ -657,4 +657,4 @@
 | 310 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 310 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 310 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,363 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,364 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
