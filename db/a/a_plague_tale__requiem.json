@@ -6,9 +6,9 @@
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13503,
+  "EOS_Progressed": 13504,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9809,6 +9809,11 @@
       "Time": "2023-10-09T13:18:22.2553311+00:00",
       "NumProgressed": 13503,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T14:06:44.7525485+00:00",
+      "NumProgressed": 13504,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9820,7 +9825,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "ACH_02",
@@ -9828,7 +9833,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10667
+      "UsersEstimate": 10668
     },
     {
       "ID": "ACH_03",
@@ -9836,7 +9841,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9992
+      "UsersEstimate": 9993
     },
     {
       "ID": "ACH_04",
@@ -9844,7 +9849,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9452
+      "UsersEstimate": 9453
     },
     {
       "ID": "ACH_05",
@@ -9852,7 +9857,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "ACH_06",
@@ -9860,7 +9865,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8777
+      "UsersEstimate": 8778
     },
     {
       "ID": "ACH_07",
@@ -9900,7 +9905,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6616
+      "UsersEstimate": 6617
     },
     {
       "ID": "ACH_12",
@@ -9908,7 +9913,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 6211
+      "UsersEstimate": 6212
     },
     {
       "ID": "ACH_13",
@@ -9916,7 +9921,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "ACH_14",
@@ -10004,7 +10009,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "ACH_25",
@@ -10028,7 +10033,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "ACH_28",
@@ -10036,7 +10041,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9317
+      "UsersEstimate": 9318
     },
     {
       "ID": "ACH_29",
@@ -10099,7 +10104,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13503,
+      "Progressed": 13504,
       "Completed": 49
     }
   ],
@@ -10107,8 +10112,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-09T09:00:44.3348652+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:18:22.2553305+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:06:44.7525477+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:12:41.5985043+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:18:22.2554153+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:01:12.0670278+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:06:44.7526504+00:00"
 }

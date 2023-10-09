@@ -1375,9 +1375,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1478,8 +1478,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:18:52.8116144+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:07:21.306999+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:11:34.8937411+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:18:52.8116388+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:59:54.1097706+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:07:21.3070272+00:00"
 }

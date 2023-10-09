@@ -2,20 +2,20 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 572,
-  "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 279,
+  "Ranking_Rating": 551,
+  "Ranking_Popularity": 191,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -883,24 +883,30 @@
       "Rating": 4.5,
       "NumberOfAwards": 729,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-10-09T13:58:38.6901631+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 748,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 729,
-  "NumberOfAwardsMax": 563,
+  "NumberOfAwards": 748,
+  "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 563
+      "Count": 581
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -950,8 +956,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-10-08T17:57:57.9366855+00:00",
+  "LastChanged": "2023-10-09T13:58:38.6901629+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:19.4057078+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:10:28.6601714+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:16:32.0371184+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:58:38.6901639+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:04:34.3316119+00:00"
 }

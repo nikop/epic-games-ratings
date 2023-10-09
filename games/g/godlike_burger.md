@@ -5,36 +5,36 @@ Rating: 4.36 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 44.00% | ~97,255 |
-| FIRST BLOOD | 39.00% | ~86,203 |
-| KEVIN! | 29.00% | ~64,100 |
-| JACK OF ALL TRADES | 22.00% | ~48,627 |
-| CRIMINAL | 18.00% | ~39,786 |
-| GRANDMA WOULD BE PROUD | 9.00% | ~19,893 |
-| WITHOUT BREAKING A SWEAT | 7.00% | ~15,472 |
-| HONORS STUDENT | 6.00% | ~13,262 |
-| BUTCHER | 4.00% | ~8,841 |
-| INDIVIDUAL APPROACH | 3.00% | ~6,631 |
-| RAMBO | 3.00% | ~6,631 |
-| HELL'S KITCHEN | 2.00% | ~4,421 |
-| CELEBRITY | 1.00% | ~2,210 |
-| MARTYR | 1.00% | ~2,210 |
-| GRATITUDE | 0.60% | ~1,326 |
-| PATTY-KILLER | 0.40% | ~884 |
-| PRUDENT | 0.40% | ~884 |
-| EXPERIMENTALIST | 0.30% | ~663 |
-| GOURMET | 0.30% | ~663 |
-| LAW-ABIDING CITIZEN | 0.20% | ~442 |
-| CORRUPTIONIST | 0.10% | ~221 |
-| DEBTOR | 0.10% | ~221 |
-| HIGH TECHNOLOGIES | 0.10% | ~221 |
-| I'VE SEEN SOME… | 0.10% | ~221 |
-| MISTER ALL THUMBS | 0.10% | ~221 |
-| SCATTERBRAIN | 0.10% | ~221 |
-| TASTE UNTASTY | 0.10% | ~221 |
-| TRAVELER | 0.10% | ~221 |
+| MASTER CHEF | 44.00% | ~97,871 |
+| FIRST BLOOD | 39.00% | ~86,749 |
+| KEVIN! | 29.00% | ~64,506 |
+| JACK OF ALL TRADES | 22.00% | ~48,935 |
+| CRIMINAL | 18.00% | ~40,038 |
+| GRANDMA WOULD BE PROUD | 9.00% | ~20,019 |
+| WITHOUT BREAKING A SWEAT | 7.00% | ~15,570 |
+| HONORS STUDENT | 6.00% | ~13,346 |
+| BUTCHER | 4.00% | ~8,897 |
+| INDIVIDUAL APPROACH | 3.00% | ~6,673 |
+| RAMBO | 3.00% | ~6,673 |
+| HELL'S KITCHEN | 2.00% | ~4,449 |
+| CELEBRITY | 1.00% | ~2,224 |
+| MARTYR | 1.00% | ~2,224 |
+| GRATITUDE | 0.60% | ~1,335 |
+| PATTY-KILLER | 0.40% | ~890 |
+| PRUDENT | 0.40% | ~890 |
+| EXPERIMENTALIST | 0.30% | ~667 |
+| GOURMET | 0.30% | ~667 |
+| LAW-ABIDING CITIZEN | 0.20% | ~445 |
+| CORRUPTIONIST | 0.10% | ~222 |
+| DEBTOR | 0.10% | ~222 |
+| HIGH TECHNOLOGIES | 0.10% | ~222 |
+| I'VE SEEN SOME… | 0.10% | ~222 |
+| MISTER ALL THUMBS | 0.10% | ~222 |
+| SCATTERBRAIN | 0.10% | ~222 |
+| TASTE UNTASTY | 0.10% | ~222 |
+| TRAVELER | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,033 (Ranked 62)  
+Progressed: 222,433 (Ranked 62)  
 Completed: 3 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 3 (0.00%) (Ranked 310)
 | 2023-10-06 | 108,126 | 2 |
 | 2023-10-07 | 164,102 | 3 |
 | 2023-10-08 | 207,184 | 3 |
-| 2023-10-09 | 221,033 | 3 |
+| 2023-10-09 | 222,433 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

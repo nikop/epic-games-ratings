@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -208,9 +208,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ProtectedPower",
@@ -240,9 +240,9 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TimeManagement",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:18:22.4200635+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:06:44.9935973+00:00",
   "LastUpdate_AppInfo": "2023-10-09T06:57:11.9550048+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:11:44.7348293+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:18:22.4200807+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:00:05.301694+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:06:44.9936186+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663107,
+  "EOS_Progressed": 663108,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17213,6 +17213,11 @@
       "Time": "2023-10-09T13:18:35.0469158+00:00",
       "NumProgressed": 663107,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-09T14:07:00.1716256+00:00",
+      "NumProgressed": 663108,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17224,7 +17229,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477437
+      "UsersEstimate": 477438
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -17232,7 +17237,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384602
+      "UsersEstimate": 384603
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17296,7 +17301,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46417
+      "UsersEstimate": 46418
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -17456,7 +17461,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46417
+      "UsersEstimate": 46418
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -17536,7 +17541,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46417
+      "UsersEstimate": 46418
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -17607,15 +17612,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663107,
+      "Progressed": 663108,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:18:35.0469152+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:07:00.1716249+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:10:35.922045+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:18:35.0470556+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:58:48.0381752+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:07:00.1717984+00:00"
 }

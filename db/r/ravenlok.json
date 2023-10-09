@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2971,9 +2971,9 @@
       "ID": "1",
       "SetID": "d0g98p",
       "Name": "Once Upon a Time",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1071
     },
     {
       "ID": "10",
@@ -3380,8 +3380,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:20:38.5513714+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:09:02.6338157+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:09.9778709+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:10:02.6276781+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:20:38.5514341+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:58:07.2319078+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:09:02.6338814+00:00"
 }

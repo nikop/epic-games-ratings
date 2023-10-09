@@ -47,7 +47,7 @@ Rating: 4.76 (Ranked 120)
 | Merlin's Beard! | 1.00% | ~2,981 |
 | Demiguise Dread | 1.00% | ~2,981 |
 | A Forte for Achievement | 1.00% | ~2,981 |
-| Spilled Milk | 0.80% | ~2,385 |
+| Spilled Milk | 0.90% | ~2,683 |
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)

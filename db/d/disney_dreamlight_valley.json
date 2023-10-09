@@ -4038,7 +4038,7 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10672,
+  "EOS_Progressed": 10673,
   "EOS_Completed": 253,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 7,
@@ -15348,6 +15348,11 @@
       "Time": "2023-10-09T13:15:40.233451+00:00",
       "NumProgressed": 10672,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-10-09T14:03:35.2549502+00:00",
+      "NumProgressed": 10673,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 15,
@@ -15415,7 +15420,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "Generous",
@@ -15423,7 +15428,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "Goofys_Investor",
@@ -15431,7 +15436,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "Miner",
@@ -15439,7 +15444,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "Photographer",
@@ -15478,7 +15483,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10672,
+      "Progressed": 10673,
       "Completed": 253
     }
   ],
@@ -15486,8 +15491,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-09T13:11:05.5485125+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:15:40.2334504+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:03:35.2549495+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:11:05.5485135+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:15:40.2335346+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:59:21.3968627+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:03:35.2550339+00:00"
 }

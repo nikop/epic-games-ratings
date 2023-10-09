@@ -6,34 +6,34 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,083 |
+| First Steps | 96.00% | ~228,084 |
 | Uncharted Territory | 89.00% | ~211,452 |
-| Getting A Glimpse | 73.00% | ~173,438 |
-| A Quick Escape | 65.00% | ~154,431 |
-| Explorer | 62.00% | ~147,303 |
-| An Offering | 62.00% | ~147,303 |
-| Defeat The Dark | 61.00% | ~144,927 |
+| Getting A Glimpse | 73.00% | ~173,439 |
+| A Quick Escape | 65.00% | ~154,432 |
+| Explorer | 62.00% | ~147,304 |
+| An Offering | 62.00% | ~147,304 |
+| Defeat The Dark | 61.00% | ~144,928 |
 | Colorful Corpse | 58.00% | ~137,800 |
-| That Was Quick | 57.00% | ~135,424 |
-| A Donation | 57.00% | ~135,424 |
-| Goodbye, Frog Friend | 54.00% | ~128,296 |
+| That Was Quick | 57.00% | ~135,425 |
+| A Donation | 57.00% | ~135,425 |
+| Goodbye, Frog Friend | 54.00% | ~128,297 |
 | Heavy Hitter | 53.00% | ~125,921 |
 | Heartless | 46.00% | ~109,290 |
 | Spine Breaker | 46.00% | ~109,290 |
 | Deflection | 45.00% | ~106,914 |
 | Sneaky | 43.00% | ~102,162 |
-| Ambitious Intent | 42.00% | ~99,786 |
-| Delving Deeper | 42.00% | ~99,786 |
-| C-C-Combo | 42.00% | ~99,786 |
-| Nothing To Lose | 40.00% | ~95,034 |
-| The Bestiary | 40.00% | ~95,034 |
+| Ambitious Intent | 42.00% | ~99,787 |
+| Delving Deeper | 42.00% | ~99,787 |
+| C-C-Combo | 42.00% | ~99,787 |
+| Nothing To Lose | 40.00% | ~95,035 |
+| The Bestiary | 40.00% | ~95,035 |
 | What's Yours Is Mine | 39.00% | ~92,659 |
 | R.I.P | 37.00% | ~87,907 |
 | Shootout | 36.00% | ~85,531 |
 | I Am Overburdened | 35.00% | ~83,155 |
-| Cold Hearted | 34.00% | ~80,779 |
-| Dig Your Own Grave | 33.00% | ~78,403 |
-| Toxic | 33.00% | ~78,403 |
+| Cold Hearted | 34.00% | ~80,780 |
+| Dig Your Own Grave | 33.00% | ~78,404 |
+| Toxic | 33.00% | ~78,404 |
 | Who To Trust? | 32.00% | ~76,028 |
 | Flesh Wound | 29.00% | ~68,900 |
 | Walk It Off | 28.00% | ~66,524 |
@@ -43,13 +43,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 27.00% | ~64,148 |
 | New Perspectives | 27.00% | ~64,148 |
 | Shapeshifting | 27.00% | ~64,148 |
-| Destroy Your Fears | 26.00% | ~61,772 |
-| Save Our Souls | 25.00% | ~59,396 |
+| Destroy Your Fears | 26.00% | ~61,773 |
+| Save Our Souls | 25.00% | ~59,397 |
 | To The Death! | 20.00% | ~47,517 |
 | Well Prepared | 20.00% | ~47,517 |
 | Just Chilling | 20.00% | ~47,517 |
-| All Consuming | 19.00% | ~45,141 |
-| Stop Hitting Yourself | 19.00% | ~45,141 |
+| All Consuming | 19.00% | ~45,142 |
+| Stop Hitting Yourself | 19.00% | ~45,142 |
 | Shadow Spreads | 17.00% | ~40,390 |
 | Max Damage! | 17.00% | ~40,390 |
 | Don't Ignore Me! | 17.00% | ~40,390 |
@@ -61,7 +61,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 13.00% | ~30,886 |
 | Berzerker | 12.00% | ~28,510 |
 | Antivenom | 12.00% | ~28,510 |
-| Thank You, Friend | 11.00% | ~26,134 |
+| Thank You, Friend | 11.00% | ~26,135 |
 | Barbecue | 10.00% | ~23,759 |
 | Snake Sneak | 10.00% | ~23,759 |
 | Precious | 9.00% | ~21,383 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,188 |
 | Near Death Experience | 0.30% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,586 (Ranked 55)  
+Progressed: 237,587 (Ranked 55)  
 Completed: 281 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,17 +301,17 @@ Completed: 281 (0.12%) (Ranked 237)
 | 2023-10-06 | 237,424 | 278 |
 | 2023-10-07 | 237,493 | 278 |
 | 2023-10-08 | 237,565 | 279 |
-| 2023-10-09 | 237,586 | 281 |
+| 2023-10-09 | 237,587 | 281 |
 ## Awards
 Max (Quickly Understood Controls): 1,497  (Ranked 126)  
-Sum: 11,596 (Ranked 82)  
+Sum: 11,597 (Ranked 82)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,497 |
 | This game is Great for Beginners | 1,496 |
 | This game is Relaxing | 1,428 |
-| This game has Challenging Combat | 1,419 |
+| This game has Challenging Combat | 1,420 |
 | This game is Extremely Fun | 1,405 |
 | This game is Highly Recommended | 1,368 |
 | This game has Amazing Storytelling | 1,315 |
@@ -497,3 +497,4 @@ Diff (max vs sum): 44
 | 2023-10-06 | 4.58 | - | 1,497 | 11,592 |
 | 2023-10-07 | 4.58 | - | 1,497 | 11,595 |
 | 2023-10-08 | 4.58 | - | 1,497 | 11,596 |
+| 2023-10-09 | 4.58 | - | 1,497 | 11,597 |

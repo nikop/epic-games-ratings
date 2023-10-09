@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -181,33 +181,33 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter17",
@@ -395,8 +395,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:16:58.76848+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:05:06.3039818+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:09:57.9679081+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:16:58.7685083+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:58:01.3251378+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:05:06.3040129+00:00"
 }

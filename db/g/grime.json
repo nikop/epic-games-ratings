@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151439,
+  "EOS_Progressed": 151440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1789,
+  "EOS_NewPlayers": 1790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11064,6 +11064,11 @@
       "Time": "2023-10-09T13:18:28.4175097+00:00",
       "NumProgressed": 151439,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T14:06:52.139115+00:00",
+      "NumProgressed": 151440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11337,9 +11342,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 606
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -11442,21 +11447,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151022,
+      "Progressed": 151023,
       "Completed": 1149
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151439,
+      "Progressed": 151440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:18:28.4175092+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:06:52.1391143+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:09:45.0191926+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:18:28.4176103+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:57:44.3552008+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:06:52.1392215+00:00"
 }

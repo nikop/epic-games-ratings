@@ -78,7 +78,7 @@ Rating: 4.45 (Ranked 645)
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,716 (Ranked 178)  
-Completed: 11 (0.30%) (Ranked 201)  
+Completed: 11 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

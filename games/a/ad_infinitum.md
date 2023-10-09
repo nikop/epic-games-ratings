@@ -18,10 +18,10 @@
 | The shining | 11.00% | ~5 |
 | Health | 9.00% | ~4 |
 | Mayhem | 9.00% | ~4 |
+| Art critic | 6.00% | ~3 |
 | Lost | 6.00% | ~3 |
 | An act of mercy | 4.00% | ~2 |
 | Ad Infinitum | 4.00% | ~2 |
-| Art critic | 4.00% | ~2 |
 | Clarity | 4.00% | ~2 |
 | Jigsaw | 4.00% | ~2 |
 | Peace | 4.00% | ~2 |

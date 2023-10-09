@@ -23,10 +23,10 @@ Rating: 3.94 (Ranked 977)
 | Headhunter | 0.40% | ~356 |
 | True Player | 0.40% | ~356 |
 | Legend Looter | 0.30% | ~267 |
+| Imports and Exports | 0.30% | ~267 |
 | I Like Trains | 0.30% | ~267 |
 | Freebooter | 0.30% | ~267 |
 | Moneybags | 0.30% | ~267 |
-| Imports and Exports | 0.20% | ~178 |
 | Rockay Raider | 0.20% | ~178 |
 | Savvy Seeker | 0.20% | ~178 |
 | Foo Finder | 0.20% | ~178 |

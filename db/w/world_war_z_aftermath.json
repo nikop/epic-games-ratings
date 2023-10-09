@@ -2,13 +2,13 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 17073,
   "RatingHistory": [
     {
@@ -9425,10 +9425,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 29021,
       "NumberOfAwardsMax": 4606
+    },
+    {
+      "Time": "2023-10-09T13:58:37.7677988+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 29022,
+      "NumberOfAwardsMax": 4606
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29021,
+  "NumberOfAwards": 29022,
   "NumberOfAwardsMax": 4606,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9448,7 +9454,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3401
+      "Count": 3402
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9506,9 +9512,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-10-09T11:58:01.5908702+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:21:24.1280917+00:00",
+  "LastChanged": "2023-10-09T13:58:37.7677986+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:09:32.39583+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:00.9109236+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:10:28.0453618+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:21:24.1280957+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:58:37.7677994+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:09:32.3958335+00:00"
 }

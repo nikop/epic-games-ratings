@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
+| Roman Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |
 | Brilliant | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Egyptian Paganism | 0.60% | ~87 |
-| Roman Paganism | 0.60% | ~87 |
 | Kushite Pyramids | 0.60% | ~87 |
 | Great | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |

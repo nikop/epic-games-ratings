@@ -5,20 +5,20 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~4,660 |
-| A Thorny Situation | 70.00% | ~4,468 |
-| ... And Spit Back Out | 60.00% | ~3,830 |
-| Break-Net Speed | 48.00% | ~3,064 |
-| Bramble Breaker | 45.00% | ~2,872 |
-| Miner 49er | 42.00% | ~2,681 |
-| Humble Collector | 41.00% | ~2,617 |
-| Calm Sailing | 35.00% | ~2,234 |
+| Azoria Beckons | 73.00% | ~4,661 |
+| A Thorny Situation | 70.00% | ~4,470 |
+| ... And Spit Back Out | 60.00% | ~3,831 |
+| Break-Net Speed | 48.00% | ~3,065 |
+| Bramble Breaker | 45.00% | ~2,873 |
+| Miner 49er | 42.00% | ~2,682 |
+| Humble Collector | 41.00% | ~2,618 |
+| Calm Sailing | 35.00% | ~2,235 |
 | Open the Gate! | 32.00% | ~2,043 |
-| Mist Walker | 30.00% | ~1,915 |
+| Mist Walker | 30.00% | ~1,916 |
 | Lumberjack | 25.00% | ~1,596 |
-| Oui, Chef! | 22.00% | ~1,404 |
-| Clear the Air | 16.00% | ~1,021 |
-| Botanical Breakthrough | 16.00% | ~1,021 |
+| Oui, Chef! | 22.00% | ~1,405 |
+| Clear the Air | 16.00% | ~1,022 |
+| Botanical Breakthrough | 16.00% | ~1,022 |
 | Beach Comber | 13.00% | ~830 |
 | Search for the Hairy Grell | 12.00% | ~766 |
 | Higher Tax Bracket | 12.00% | ~766 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 318)
 | Scattered Scroll Scrounger | 5.00% | ~319 |
 | Azorian Anniversary | 5.00% | ~319 |
 | I Now Pronounce You... | 4.00% | ~255 |
-| Chatty Neighbor | 3.00% | ~191 |
-| House Proud | 3.00% | ~191 |
+| Chatty Neighbor | 3.00% | ~192 |
+| House Proud | 3.00% | ~192 |
 | Right Tool For the Job | 2.00% | ~128 |
 | Angling Authority | 1.00% | ~64 |
 | Captain of Cozy | 1.00% | ~64 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 318)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,383 (Ranked 162)  
+Progressed: 6,385 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 6,152 | 0 |
 | 2023-10-07 | 6,255 | 0 |
 | 2023-10-08 | 6,353 | 0 |
-| 2023-10-09 | 6,383 | 0 |
+| 2023-10-09 | 6,385 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

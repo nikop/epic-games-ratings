@@ -2,13 +2,13 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
-  "Ranking_Rating": 243,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5253,10 +5253,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 6220,
       "NumberOfAwardsMax": 3634
+    },
+    {
+      "Time": "2023-10-09T13:57:43.8607952+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 6223,
+      "NumberOfAwardsMax": 3634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6220,
+  "NumberOfAwards": 6223,
   "NumberOfAwardsMax": 3634,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5312,7 +5318,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 280
+      "Count": 283
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5344,8 +5350,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2023-10-08T18:57:03.8875404+00:00",
+  "LastChanged": "2023-10-09T13:57:43.860795+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.6840847+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:09:44.5870249+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:17:41.9928997+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:57:43.8607957+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:05:58.3150321+00:00"
 }

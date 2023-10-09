@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6500,
+  "EOS_Progressed": 6504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11191,6 +11191,11 @@
       "Time": "2023-10-09T10:09:24.5963317+00:00",
       "NumProgressed": 6500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T14:03:12.6040786+00:00",
+      "NumProgressed": 6504,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11202,7 +11207,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "10",
@@ -11210,7 +11215,7 @@
       "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "11",
@@ -11226,7 +11231,7 @@
       "Name": "Trend\u00A0hunters",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "13",
@@ -11234,7 +11239,7 @@
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "14",
@@ -11250,7 +11255,7 @@
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "2",
@@ -11258,7 +11263,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "3",
@@ -11266,7 +11271,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "4",
@@ -11321,7 +11326,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6500,
+      "Progressed": 6504,
       "Completed": 0
     }
   ],
@@ -11329,8 +11334,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-09T13:15:20.9253687+00:00",
+  "LastChanged_Achievements": "2023-10-09T14:03:12.6040779+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:11:21.8840062+00:00",
-  "LastUpdate_Achievements": "2023-10-09T13:15:20.9254547+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:59:38.9725082+00:00",
+  "LastUpdate_Achievements": "2023-10-09T14:03:12.6041949+00:00"
 }

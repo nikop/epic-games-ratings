@@ -15,21 +15,21 @@ Rating: 4.54 (Ranked 509)
 | Apex Predator | 3.00% | ~20,797 |
 | Stacking the Deck | 3.00% | ~20,797 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,797 |
-| Dr. Reed, I Presume? | 2.00% | ~13,864 |
-| Anger Management | 2.00% | ~13,864 |
-| Perks of the Job | 2.00% | ~13,864 |
-| Bookworm | 2.00% | ~13,864 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,864 |
-| But Doctor, I am Butcho | 2.00% | ~13,864 |
-| Slayer Squad | 2.00% | ~13,864 |
-| Can't Handle the Truth | 2.00% | ~13,864 |
-| Like Riding a Bike | 2.00% | ~13,864 |
-| Zombologist | 2.00% | ~13,864 |
-| Ooh, Shiny! | 2.00% | ~13,864 |
-| A Patton Emerges | 2.00% | ~13,864 |
-| I Am the Resurrection | 2.00% | ~13,864 |
-| Our True Nature | 2.00% | ~13,864 |
-| This is My Weapon | 2.00% | ~13,864 |
+| Dr. Reed, I Presume? | 2.00% | ~13,865 |
+| Anger Management | 2.00% | ~13,865 |
+| Perks of the Job | 2.00% | ~13,865 |
+| Bookworm | 2.00% | ~13,865 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,865 |
+| But Doctor, I am Butcho | 2.00% | ~13,865 |
+| Slayer Squad | 2.00% | ~13,865 |
+| Can't Handle the Truth | 2.00% | ~13,865 |
+| Like Riding a Bike | 2.00% | ~13,865 |
+| Zombologist | 2.00% | ~13,865 |
+| Ooh, Shiny! | 2.00% | ~13,865 |
+| A Patton Emerges | 2.00% | ~13,865 |
+| I Am the Resurrection | 2.00% | ~13,865 |
+| Our True Nature | 2.00% | ~13,865 |
+| This is My Weapon | 2.00% | ~13,865 |
 | Making Your Mark | 1.00% | ~6,932 |
 | Humanity Distilled | 1.00% | ~6,932 |
 | Down with the Sickness | 1.00% | ~6,932 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,386 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,218 (Ranked 22)  
-Completed: 2,206 (0.32%) (Ranked 196)  
+Progressed: 693,232 (Ranked 22)  
+Completed: 2,206 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 2,206 (0.32%) (Ranked 196)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,218 | 2,206 |
+| 2023-10-09 | 693,232 | 2,206 |
 ## Awards
 Max (Great Boss Battles): 6,366  (Ranked 58)  
 Sum: 9,507 (Ranked 91)  
