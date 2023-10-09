@@ -36,15 +36,15 @@ Rating: 4.62 (Ranked 354)
 | Whole Again | 28.00% | ~244 |
 | Set A Benchmark | 28.00% | ~244 |
 | Final Regeneration | 25.00% | ~218 |
+| Full Contact | 25.00% | ~218 |
 | Pack Rat | 25.00% | ~218 |
-| Full Contact | 24.00% | ~210 |
 | Full Clearance | 24.00% | ~210 |
 | Pusher | 23.00% | ~201 |
 | Z-Baller | 21.00% | ~183 |
 | Marked | 20.00% | ~175 |
 | Eviscerator | 19.00% | ~166 |
 | Backbreaker | 14.00% | ~122 |
-| Wishbone | 7.00% | ~61 |
+| Wishbone | 8.00% | ~70 |
 | Trusted Contractor | 6.00% | ~52 |
 | Built To Order | 5.00% | ~44 |
 | Merchant | 5.00% | ~44 |

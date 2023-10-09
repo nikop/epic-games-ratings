@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 65,
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544257,
+  "EOS_Progressed": 1544262,
   "EOS_Completed": 703,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -19854,6 +19854,11 @@
       "Time": "2023-10-09T08:05:08.9806978+00:00",
       "NumProgressed": 1544257,
       "NumCompleted": 703
+    },
+    {
+      "Time": "2023-10-09T09:06:01.7517721+00:00",
+      "NumProgressed": 1544262,
+      "NumCompleted": 703
     }
   ],
   "TotalAchievements": 20,
@@ -19913,7 +19918,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138983
+      "UsersEstimate": 138984
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -19977,7 +19982,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138983
+      "UsersEstimate": 138984
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -20024,15 +20029,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1544257,
+      "Progressed": 1544262,
       "Completed": 703
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:05:08.9806971+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:06:01.7517715+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:59:33.7569856+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:05:08.9808278+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:00:33.1249472+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:06:01.7520066+00:00"
 }

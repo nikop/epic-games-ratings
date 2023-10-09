@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -450,10 +450,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 657,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-10-09T09:00:44.3348654+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 657,
+  "NumberOfAwards": 658,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -467,7 +473,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
@@ -518,9 +524,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13500,
+  "EOS_Progressed": 13501,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9788,6 +9794,11 @@
       "Time": "2023-10-08T23:06:02.84812+00:00",
       "NumProgressed": 13500,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T09:06:20.306326+00:00",
+      "NumProgressed": 13501,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9799,7 +9810,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12420
+      "UsersEstimate": 12421
     },
     {
       "ID": "ACH_02",
@@ -9807,7 +9818,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10665
+      "UsersEstimate": 10666
     },
     {
       "ID": "ACH_03",
@@ -9815,7 +9826,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9991
     },
     {
       "ID": "ACH_04",
@@ -9823,7 +9834,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9450
+      "UsersEstimate": 9451
     },
     {
       "ID": "ACH_05",
@@ -9831,7 +9842,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9180
+      "UsersEstimate": 9181
     },
     {
       "ID": "ACH_06",
@@ -9839,7 +9850,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8775
+      "UsersEstimate": 8776
     },
     {
       "ID": "ACH_07",
@@ -9847,7 +9858,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8370
+      "UsersEstimate": 8371
     },
     {
       "ID": "ACH_08",
@@ -9855,7 +9866,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8235
+      "UsersEstimate": 8236
     },
     {
       "ID": "ACH_09",
@@ -9863,7 +9874,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7830
+      "UsersEstimate": 7831
     },
     {
       "ID": "ACH_10",
@@ -9871,7 +9882,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "ACH_11",
@@ -10015,7 +10026,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_29",
@@ -10078,16 +10089,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13500,
+      "Progressed": 13501,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-10-08T15:59:53.8605755+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:05:24.200388+00:00",
+  "LastChanged": "2023-10-09T09:00:44.3348652+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:06:20.3063252+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:59:42.7930915+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:05:24.2004728+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:00:44.334866+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:06:20.306471+00:00"
 }

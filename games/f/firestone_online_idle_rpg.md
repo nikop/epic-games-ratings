@@ -28,13 +28,13 @@ Rating: 4.06 (Ranked 946)
 | Superior | 14.00% | ~281 |
 | The Unstoppable | 14.00% | ~281 |
 | Scientist | 13.00% | ~261 |
+| Hunter | 12.00% | ~241 |
 | The power of Awakening | 12.00% | ~241 |
 | Challenger | 11.00% | ~221 |
 | Daily Quest Completionist | 11.00% | ~221 |
 | Doing My Part | 11.00% | ~221 |
 | Four Leaf Clover | 11.00% | ~221 |
 | Frostfire Liberator | 11.00% | ~221 |
-| Hunter | 11.00% | ~221 |
 | Mastery | 11.00% | ~221 |
 | Moving Up The Ladder | 11.00% | ~221 |
 | Relic Of The Past | 11.00% | ~221 |
@@ -250,9 +250,9 @@ Completed: 2 (0.10%) (Ranked 245)
 | 2023-10-07 | 2,003 | 2 |
 | 2023-10-08 | 2,005 | 2 |
 ## Awards
-Max (Great for Beginners): 25  (Ranked 498)  
+Max (Great for Beginners): 25  (Ranked 497)  
 Sum: 67 (Ranked 455)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 25 |

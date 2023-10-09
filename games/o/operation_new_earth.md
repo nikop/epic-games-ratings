@@ -12,11 +12,11 @@ Rating: 3.36 (Ranked 1,010)
 | Covert Operative | 13.00% | ~202 |
 | Sergeant | 12.00% | ~187 |
 | Lieutenant | 11.00% | ~171 |
+| Keeping Busy | 10.00% | ~156 |
 | Getting Deployment | 10.00% | ~156 |
 | Stocking Up | 10.00% | ~156 |
 | On Target | 10.00% | ~156 |
 | Infantry Reporting | 10.00% | ~156 |
-| Keeping Busy | 9.00% | ~140 |
 | Fighting for Survival | 8.00% | ~125 |
 | Silver Competitor | 8.00% | ~125 |
 | Captain | 8.00% | ~125 |

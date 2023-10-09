@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,285 |
-| It wakes | 1.00% | ~9,285 |
-| Skillful | 0.90% | ~8,357 |
-| Not half bad | 0.80% | ~7,428 |
-| Make Some Noise | 0.80% | ~7,428 |
+| Zealous | 1.00% | ~9,286 |
+| It wakes | 1.00% | ~9,286 |
+| Skillful | 1.00% | ~9,286 |
+| Not half bad | 0.80% | ~7,429 |
+| Survival Treasures | 0.80% | ~7,429 |
+| Make Some Noise | 0.80% | ~7,429 |
 | Handyman | 0.70% | ~6,500 |
 | Apt Survivor | 0.70% | ~6,500 |
-| Survival Treasures | 0.70% | ~6,500 |
 | Sorted | 0.70% | ~6,500 |
-| No one left behind | 0.60% | ~5,571 |
-| Medic | 0.60% | ~5,571 |
-| Nerves of steel | 0.60% | ~5,571 |
-| Bloody Millionaire | 0.60% | ~5,571 |
-| Healthy Obsession | 0.60% | ~5,571 |
-| Resurgence | 0.60% | ~5,571 |
+| No one left behind | 0.60% | ~5,572 |
+| Medic | 0.60% | ~5,572 |
+| Nerves of steel | 0.60% | ~5,572 |
+| Bloody Millionaire | 0.60% | ~5,572 |
+| Healthy Obsession | 0.60% | ~5,572 |
+| Resurgence | 0.60% | ~5,572 |
 | The Grand Sacrifice | 0.50% | ~4,643 |
 | Agonizing Escape | 0.50% | ~4,643 |
 | Backdoor Escape | 0.50% | ~4,643 |
@@ -50,6 +50,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | First to the Punch | 0.30% | ~2,786 |
 | Operation: Survival | 0.30% | ~2,786 |
 | Old West Oasis | 0.30% | ~2,786 |
+| Classy Act | 0.30% | ~2,786 |
 | Every Last Drop | 0.30% | ~2,786 |
 | Raccoon City Recruit | 0.30% | ~2,786 |
 | With Scars to Show | 0.30% | ~2,786 |
@@ -82,7 +83,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.20% | ~1,857 |
 | Grim Pilgrimage | 0.20% | ~1,857 |
 | Selfless Survival | 0.20% | ~1,857 |
-| Classy Act | 0.20% | ~1,857 |
 | End of Days | 0.20% | ~1,857 |
 | Insult and Injury | 0.20% | ~1,857 |
 | Outrun the Overlap | 0.20% | ~1,857 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,549 (Ranked 14)  
+Progressed: 928,592 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,549 | 49 |
+| 2023-10-09 | 928,592 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,551 (Ranked 13)  

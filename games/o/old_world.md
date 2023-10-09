@@ -6,29 +6,29 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 2.00% | ~291 |
 | Settler | 2.00% | ~291 |
 | Play a Single Player Game | 2.00% | ~291 |
 | Able | 1.00% | ~145 |
 | Architect | 1.00% | ~145 |
-| Explorer | 1.00% | ~145 |
 | Good | 1.00% | ~145 |
 | Intrepid | 1.00% | ~145 |
+| Learned | 1.00% | ~145 |
 | Mason | 1.00% | ~145 |
+| Pioneer | 1.00% | ~145 |
 | Strong | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Hanging Gardens | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
-| Learned | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
-| Pioneer | 0.90% | ~131 |
 | Oracle | 0.90% | ~131 |
 | Judaism | 0.90% | ~131 |
+| Naming Landmarks | 0.90% | ~131 |
 | Trade Caravan | 0.90% | ~131 |
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
 | Keystone | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
-| Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
@@ -84,8 +84,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
+| Landowners | 0.30% | ~44 |
 | Patrons | 0.30% | ~44 |
 | Riders | 0.30% | ~44 |
+| Statesmen | 0.30% | ~44 |
 | Traders | 0.30% | ~44 |
 | Hittite Iron | 0.30% | ~44 |
 | Hagia Sophia | 0.30% | ~44 |
@@ -118,8 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
 | Hunters | 0.20% | ~29 |
-| Landowners | 0.20% | ~29 |
-| Statesmen | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |
@@ -300,6 +300,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Greatest Pharaoh! | 0.10% | ~15 |
 | Pharaonic History Repeats | 0.10% | ~15 |
 | Egypt Campaign | 0.10% | ~15 |
+| The Hekau Khasut Slaves | 0.10% | ~15 |
 | Kush | 0.10% | ~15 |
 | Beja Archer | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
@@ -347,9 +348,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,544 (Ranked 134)  
+Progressed: 14,545 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,544 | 5 |
+| 2023-10-09 | 14,545 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

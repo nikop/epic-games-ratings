@@ -23,9 +23,9 @@
 | Anomaly Destroyer | 12.00% | ~6 |
 | Aquarian Champion | 12.00% | ~6 |
 | Astral Adventurer | 10.00% | ~5 |
+| Heart Gate | 10.00% | ~5 |
 | Unbeatable | 10.00% | ~5 |
 | Favored by the Cosmos | 8.00% | ~4 |
-| Heart Gate | 8.00% | ~4 |
 | Sadistic Plan | 8.00% | ~4 |
 | Star Killer | 8.00% | ~4 |
 | Stellar Haste | 8.00% | ~4 |
@@ -33,6 +33,7 @@
 | Astral Seeker | 6.00% | ~3 |
 | Can't touch this | 6.00% | ~3 |
 | Heavy Purger | 6.00% | ~3 |
+| The Abyssal Terror | 6.00% | ~3 |
 | The Corruption Goddess | 6.00% | ~3 |
 | The Goddes Avatar | 6.00% | ~3 |
 | Wave Bender | 6.00% | ~3 |
@@ -43,7 +44,6 @@
 | If I Had Failed... | 4.00% | ~2 |
 | Purification Avatar | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
-| The Abyssal Terror | 4.00% | ~2 |
 | The Dark Moon | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
 | Behenian Hero | 4.00% | ~2 |

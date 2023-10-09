@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 490,
-  "Ranking_Popularity": 453,
+  "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 364,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3562,
+  "EOS_Progressed": 3563,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5094,6 +5094,11 @@
       "Time": "2023-10-09T01:46:24.8910135+00:00",
       "NumProgressed": 3562,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T09:04:30.5656712+00:00",
+      "NumProgressed": 3563,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5121,7 +5126,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ApexPredator_27",
@@ -5145,7 +5150,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "CrowdPleaser",
@@ -5161,7 +5166,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Eureka_23",
@@ -5169,7 +5174,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5185,7 +5190,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -5265,7 +5270,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "PerfectDefense_31",
@@ -5289,7 +5294,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5297,7 +5302,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5321,7 +5326,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Tapped_22",
@@ -5361,7 +5366,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5425,7 +5430,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5440,15 +5445,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3562,
+      "Progressed": 3563,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:03:54.5999994+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:04:30.5656708+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:57:43.7185481+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:03:54.6000645+00:00"
+  "LastUpdate_Ratings": "2023-10-09T08:58:06.1029103+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:04:30.5657341+00:00"
 }

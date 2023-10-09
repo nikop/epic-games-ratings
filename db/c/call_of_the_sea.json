@@ -3,12 +3,12 @@
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
   "Ranking_Rating": 720,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123791,
+  "EOS_Progressed": 123792,
   "EOS_Completed": 1039,
-  "EOS_NewPlayers": 1259,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -19634,6 +19634,11 @@
       "Time": "2023-10-09T08:04:01.4524659+00:00",
       "NumProgressed": 123791,
       "NumCompleted": 1039
+    },
+    {
+      "Time": "2023-10-09T09:04:39.0096921+00:00",
+      "NumProgressed": 123792,
+      "NumCompleted": 1039
     }
   ],
   "TotalAchievements": 34,
@@ -19645,7 +19650,7 @@
       "Name": "Written in Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "ACH_GAME_END",
@@ -19661,7 +19666,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51992
+      "UsersEstimate": 51993
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -19669,7 +19674,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 35899
+      "UsersEstimate": 35900
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -19701,7 +19706,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 97795
+      "UsersEstimate": 97796
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -19717,7 +19722,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 69323
+      "UsersEstimate": 69324
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -19725,7 +19730,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34661
+      "UsersEstimate": 34662
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -19733,7 +19738,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 48278
+      "UsersEstimate": 48279
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -19757,7 +19762,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 37137
+      "UsersEstimate": 37138
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -19773,7 +19778,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 37137
+      "UsersEstimate": 37138
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -19821,7 +19826,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34661
+      "UsersEstimate": 34662
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -19829,7 +19834,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 21044
+      "UsersEstimate": 21045
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -19916,7 +19921,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 123791,
+      "Progressed": 123792,
       "Completed": 1039
     }
   ],
@@ -19924,8 +19929,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:04:01.4524652+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:04:39.0096915+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:39.2829487+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:59:21.7182949+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:04:01.4526074+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:00:17.9853962+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:04:39.0099445+00:00"
 }

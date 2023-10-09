@@ -14,9 +14,9 @@ Rating: 4.29 (Ranked 818)
 | Down Boy! | 2.00% | ~762 |
 | A Snowball's Chance in Hell | 2.00% | ~762 |
 | Enjoy The Silence | 1.00% | ~381 |
-| Sure Footed As A Goat | 0.90% | ~343 |
 | Backdoor Man | 0.90% | ~343 |
 | Thorn in My Herbicide | 0.80% | ~305 |
+| Sure Footed As A Goat | 0.80% | ~305 |
 | Red In Tooth And Claw | 0.80% | ~305 |
 | Death Becomes Her | 0.80% | ~305 |
 | The Sky Is Falling | 0.80% | ~305 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 818)
 | Heart Of Steel | 0.10% | ~38 |
 | Death or Glory | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,117 (Ranked 111)  
+Progressed: 38,118 (Ranked 111)  
 Completed: 25 (0.07%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 25 (0.07%) (Ranked 257)
 | 2023-10-06 | 37,945 | 25 |
 | 2023-10-07 | 38,019 | 25 |
 | 2023-10-08 | 38,100 | 25 |
-| 2023-10-09 | 38,117 | 25 |
+| 2023-10-09 | 38,118 | 25 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 319)  
 Sum: 127 (Ranked 415)  

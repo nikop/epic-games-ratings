@@ -25,9 +25,9 @@ Rating: 4.03 (Ranked 958)
 | Periapt Alizarin | 23.00% | ~16 |
 | Armsman | 21.00% | ~15 |
 | A Perfect Cycle | 20.00% | ~14 |
-| Recruit | 18.00% | ~13 |
+| Recruit | 20.00% | ~14 |
 | Good Boy | 14.00% | ~10 |
-| Lights Army | 11.00% | ~8 |
+| Lights Army | 13.00% | ~9 |
 | Periapt Cerulean | 11.00% | ~8 |
 | Periapt Viridian | 11.00% | ~8 |
 | Shroudfane Explorer | 11.00% | ~8 |

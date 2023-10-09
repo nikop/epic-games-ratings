@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,420 |
-| Newcomers | 79.00% | ~10,665 |
-| A Burden of Blood | 74.00% | ~9,990 |
-| Protector's Duty | 70.00% | ~9,450 |
-| Alchemist | 69.00% | ~9,315 |
-| In our Wake | 68.00% | ~9,180 |
-| Leaving all Behind | 65.00% | ~8,775 |
-| Felons | 62.00% | ~8,370 |
-| A Sea of Promises | 61.00% | ~8,235 |
-| Tales and Revelations | 58.00% | ~7,830 |
-| Bloodline | 53.00% | ~7,155 |
+| Under a New Sun | 92.00% | ~12,421 |
+| Newcomers | 79.00% | ~10,666 |
+| A Burden of Blood | 74.00% | ~9,991 |
+| Protector's Duty | 70.00% | ~9,451 |
+| Alchemist | 69.00% | ~9,316 |
+| In our Wake | 68.00% | ~9,181 |
+| Leaving all Behind | 65.00% | ~8,776 |
+| Felons | 62.00% | ~8,371 |
+| A Sea of Promises | 61.00% | ~8,236 |
+| Tales and Revelations | 58.00% | ~7,831 |
+| Bloodline | 53.00% | ~7,156 |
 | The Cradle of Centuries | 49.00% | ~6,615 |
 | The Life We Deserve | 46.00% | ~6,210 |
 | Night guard | 43.00% | ~5,805 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 163)
 | Old protector | 2.00% | ~270 |
 | Malignant | 1.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,500 (Ranked 136)  
+Progressed: 13,501 (Ranked 136)  
 Completed: 49 (0.36%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,14 +213,15 @@ Completed: 49 (0.36%) (Ranked 191)
 | 2023-10-06 | 13,486 | 49 |
 | 2023-10-07 | 13,493 | 49 |
 | 2023-10-08 | 13,500 | 49 |
+| 2023-10-09 | 13,501 | 49 |
 ## Awards
 Max (Great Boss Battles): 425  (Ranked 216)  
-Sum: 657 (Ranked 295)  
+Sum: 658 (Ranked 295)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 425 |
-| This game is Great for Beginners | 30 |
+| This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 30 |
 | This game has Diverse Characters | 29 |
 | This game is Relaxing | 27 |
@@ -295,3 +296,4 @@ Diff (max vs sum): -79
 | 2023-10-05 | 4.73 | 425 | 655 |
 | 2023-10-06 | 4.73 | 425 | 656 |
 | 2023-10-08 | 4.73 | 425 | 657 |
+| 2023-10-09 | 4.73 | 425 | 658 |

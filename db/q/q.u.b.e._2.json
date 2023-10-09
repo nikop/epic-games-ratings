@@ -3,12 +3,12 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2666,6 +2666,11 @@
       "Time": "2023-10-09T07:05:48.694426+00:00",
       "NumProgressed": 699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T09:06:42.9495662+00:00",
+      "NumProgressed": 700,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2838,7 +2843,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_PEAK",
@@ -2870,7 +2875,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_S4",
@@ -2878,7 +2883,7 @@
       "Name": "Power Glove",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_S5",
@@ -2894,7 +2899,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_STATUE",
@@ -2909,15 +2914,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:05:42.8271855+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:06:42.9495655+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:57:48.3795528+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:05:42.8272251+00:00"
+  "LastUpdate_Ratings": "2023-10-09T08:58:12.370896+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:06:42.9496266+00:00"
 }

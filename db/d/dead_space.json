@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -652,7 +652,7 @@
   ],
   "EOS_Progressed": 873,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2691,9 +2691,9 @@
       "ID": "achievement_25",
       "SetID": "222fo9l",
       "Name": "Full Contact",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_26",
@@ -2763,9 +2763,9 @@
       "ID": "achievement_33",
       "SetID": "222fo9l",
       "Name": "Wishbone",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_34",
@@ -2940,8 +2940,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-09T08:04:38.6557947+00:00",
+  "LastChanged_Achievements": "2023-10-09T09:05:24.4566633+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-09T08:00:23.3513031+00:00",
-  "LastUpdate_Achievements": "2023-10-09T08:04:38.65585+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:01:38.5896127+00:00",
+  "LastUpdate_Achievements": "2023-10-09T09:05:24.4567216+00:00"
 }
