@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 55.03% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.98% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -46,8 +46,8 @@
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
 | 45 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 47 | [Scorn](games/s/scorn.md) | 7.05% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.74% |
+| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.12% |
+| 48 | [Scorn](games/s/scorn.md) | 7.05% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.35% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.30% |
@@ -66,12 +66,12 @@
 | 64 | [ZZT!](games/z/zzt!.md) | 4.48% |
 | 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.27% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
+| 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.81% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.82% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
@@ -117,16 +117,16 @@
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |
-| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.69% |
+| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.67% |
 | 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 122 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
 | 123 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 124 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
-| 124 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
 | 124 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
-| 127 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
+| 126 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
+| 126 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 128 | [Chorus](games/c/chorus.md) | 1.37% |
 | 129 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 129 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
