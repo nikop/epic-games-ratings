@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.71% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.68% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -46,7 +46,7 @@
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
 | 45 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.09% |
+| 47 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.06% |
 | 48 | [Scorn](games/s/scorn.md) | 7.05% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.35% |
@@ -67,7 +67,7 @@
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
 | 65 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.24% |
 | 67 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.14% |
-| 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.13% |
+| 68 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.83% |
@@ -101,7 +101,7 @@
 | 99 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.42% |
 | 100 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 101 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.35% |
+| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.22% |
@@ -117,8 +117,8 @@
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |
-| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.64% |
-| 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
+| 118 | [Five Dates](games/f/five_dates.md) | 1.63% |
+| 119 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.61% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 122 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
@@ -183,13 +183,13 @@
 | 181 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
 | 182 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.39% |
+| 183 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 183 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 185 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
-| 185 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
-| 185 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 189 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 189 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 186 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 186 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
+| 186 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 190 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 191 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 193 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.34% |
