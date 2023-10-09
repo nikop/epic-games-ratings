@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,139 |
+| First Step Into the Knight | 52.00% | ~38,140 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,671 |
-| Loose Ends | 34.00% | ~24,937 |
+| Loose Ends | 34.00% | ~24,938 |
 | To the Victor Go the Spoils | 29.00% | ~21,270 |
 | Knighthood | 28.00% | ~20,537 |
 | Get ReQ'd | 25.00% | ~18,336 |
 | Whispered Words | 25.00% | ~18,336 |
-| The Batman Family | 23.00% | ~16,869 |
-| Lock and Key | 23.00% | ~16,869 |
-| Something in the Clay | 21.00% | ~15,402 |
-| Quartzer Life Crisis | 21.00% | ~15,402 |
+| The Batman Family | 23.00% | ~16,870 |
+| Lock and Key | 23.00% | ~16,870 |
+| Something in the Clay | 21.00% | ~15,403 |
+| Quartzer Life Crisis | 21.00% | ~15,403 |
 | Working Hard or Harley Working? | 20.00% | ~14,669 |
 | Unstoppable Force | 20.00% | ~14,669 |
 | Bad Apples in Every Orchard | 20.00% | ~14,669 |
@@ -31,11 +31,11 @@ Rating: 4.18 (Ranked 897)
 | Seeking Asylum | 14.00% | ~10,268 |
 | Not On My Watch | 13.00% | ~9,535 |
 | Shock Til They Drop | 13.00% | ~9,535 |
-| End of an Era | 12.00% | ~8,801 |
-| Bulldozed | 12.00% | ~8,801 |
-| Gotham Knight | 12.00% | ~8,801 |
+| End of an Era | 12.00% | ~8,802 |
+| Bulldozed | 12.00% | ~8,802 |
+| Gotham Knight | 12.00% | ~8,802 |
 | Gotham City Confidential | 11.00% | ~8,068 |
-| Drone You Out | 10.00% | ~7,334 |
+| Drone You Out | 10.00% | ~7,335 |
 | Out of Their League | 9.00% | ~6,601 |
 | Solid Alibi | 9.00% | ~6,601 |
 | Fusion Expert | 7.00% | ~5,134 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 897)
 | Don't Mecha Big Deal About It | 0.60% | ~262 |
 | Confronting Your Demon | 0.60% | ~262 |
 | That's Showbiz, Clayby | 0.50% | ~218 |
-| Hammer and Icicle | 0.40% | ~174 |
-| Renewable Enemy Source | 0.40% | ~174 |
-| Showdown Sovereign | 0.40% | ~174 |
+| Hammer and Icicle | 0.40% | ~175 |
+| Renewable Enemy Source | 0.40% | ~175 |
+| Showdown Sovereign | 0.40% | ~175 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~131 |
 | The Cold, the Bad and the Ugly | 0.30% | ~131 |
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,345 (Ranked 91)  
+Progressed: 73,346 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 120 (0.16%) (Ranked 227)
 | 2023-10-06 | 73,220 | 120 |
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
-| 2023-10-09 | 73,345 | 120 |
+| 2023-10-09 | 73,346 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,795  (Ranked 97)  
 Sum: 4,689 (Ranked 140)  

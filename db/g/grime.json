@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151427,
+  "EOS_Progressed": 151430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1777,
+  "EOS_NewPlayers": 1780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11049,6 +11049,11 @@
       "Time": "2023-10-09T09:06:26.1977238+00:00",
       "NumProgressed": 151427,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T10:07:46.0505444+00:00",
+      "NumProgressed": 151430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11274,9 +11279,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1514
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -11427,21 +11432,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151010,
+      "Progressed": 151013,
       "Completed": 1149
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151427,
+      "Progressed": 151430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:06:26.197723+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:07:46.0505437+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-09T08:57:46.1519784+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:06:26.1978991+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:58:21.8203717+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:07:46.0506329+00:00"
 }

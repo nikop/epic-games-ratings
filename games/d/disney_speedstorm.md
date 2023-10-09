@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.43 (Ranked 674)  
+Rating: 4.43 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~9,687 |
-| IT MAKES BOOM! | 3.00% | ~5,812 |
-| EXTRA BOOST | 2.00% | ~3,875 |
-| PROTECTED | 1.00% | ~1,937 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~1,937 |
+| ROOKIE | 5.00% | ~9,691 |
+| IT MAKES BOOM! | 3.00% | ~5,815 |
+| EXTRA BOOST | 2.00% | ~3,877 |
+| PROTECTED | 1.00% | ~1,938 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~1,938 |
 | AGGRESSIVE RACER | 0.90% | ~1,744 |
 | PRO | 0.90% | ~1,744 |
-| A TIGER'S FEAR | 0.80% | ~1,550 |
+| A TIGER'S FEAR | 0.80% | ~1,551 |
 | ACE SPEEDSTER | 0.50% | ~969 |
 | IT'S A LONG WAY TO THE TOP | 0.40% | ~775 |
 | DEFEAT OUR CHAMPION | 0.40% | ~775 |
@@ -27,10 +27,10 @@ Rating: 4.43 (Ranked 674)
 | FRIENDLY | 0.30% | ~581 |
 | ACE TRICKSTER | 0.30% | ~581 |
 | LEGENDARY HERO | 0.30% | ~581 |
-| EXPERIENCED CREW | 0.20% | ~387 |
-| FRAMED! | 0.20% | ~387 |
+| EXPERIENCED CREW | 0.20% | ~388 |
+| FRAMED! | 0.20% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,735 (Ranked 67)  
+Progressed: 193,828 (Ranked 67)  
 Completed: 227 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 227 (0.12%) (Ranked 237)
 | 2023-10-06 | 171,633 | 227 |
 | 2023-10-07 | 182,247 | 227 |
 | 2023-10-08 | 191,216 | 227 |
-| 2023-10-09 | 193,735 | 227 |
+| 2023-10-09 | 193,828 | 227 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

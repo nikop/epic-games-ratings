@@ -15,29 +15,29 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.70% | ~6,500 |
 | Apt Survivor | 0.70% | ~6,500 |
 | Sorted | 0.70% | ~6,500 |
+| The Grand Sacrifice | 0.60% | ~5,572 |
 | No one left behind | 0.60% | ~5,572 |
 | Medic | 0.60% | ~5,572 |
 | Nerves of steel | 0.60% | ~5,572 |
 | Bloody Millionaire | 0.60% | ~5,572 |
+| I | 0.60% | ~5,572 |
 | Healthy Obsession | 0.60% | ~5,572 |
 | Resurgence | 0.60% | ~5,572 |
-| The Grand Sacrifice | 0.50% | ~4,643 |
 | Agonizing Escape | 0.50% | ~4,643 |
 | Backdoor Escape | 0.50% | ~4,643 |
 | I've got your back | 0.50% | ~4,643 |
 | Perfect Escape | 0.50% | ~4,643 |
-| I | 0.50% | ~4,643 |
 | Engineer | 0.50% | ~4,643 |
 | Preemptive Strike | 0.50% | ~4,643 |
 | Humanitarian | 0.50% | ~4,643 |
-| Perfect Killing | 0.40% | ~3,714 |
-| Apt Killer | 0.40% | ~3,714 |
-| Risk it all | 0.40% | ~3,714 |
-| Vulture | 0.40% | ~3,714 |
-| II | 0.40% | ~3,714 |
-| Wounded Healer | 0.40% | ~3,714 |
-| Close Shave | 0.40% | ~3,714 |
-| Second Act | 0.40% | ~3,714 |
+| Perfect Killing | 0.40% | ~3,715 |
+| Apt Killer | 0.40% | ~3,715 |
+| Risk it all | 0.40% | ~3,715 |
+| Vulture | 0.40% | ~3,715 |
+| II | 0.40% | ~3,715 |
+| Wounded Healer | 0.40% | ~3,715 |
+| Close Shave | 0.40% | ~3,715 |
+| Second Act | 0.40% | ~3,715 |
 | Blood on your hands | 0.30% | ~2,786 |
 | Made it out alive! | 0.30% | ~2,786 |
 | III | 0.30% | ~2,786 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,592 (Ranked 14)  
+Progressed: 928,635 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,592 | 49 |
+| 2023-10-09 | 928,635 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,551 (Ranked 13)  

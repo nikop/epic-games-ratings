@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 509,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 76,
@@ -2780,11 +2780,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 3185,
       "NumberOfAwardsMax": 518
+    },
+    {
+      "Time": "2023-10-09T09:57:58.3236449+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3186,
+      "NumberOfAwardsMax": 519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3185,
-  "NumberOfAwardsMax": 518,
+  "NumberOfAwards": 3186,
+  "NumberOfAwardsMax": 519,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -2803,7 +2809,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 518
+      "Count": 519
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2842,9 +2848,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 78499,
+  "EOS_Progressed": 78500,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -21832,6 +21838,11 @@
       "Time": "2023-10-09T09:06:56.3707301+00:00",
       "NumProgressed": 78499,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-10-09T10:08:22.6855904+00:00",
+      "NumProgressed": 78500,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 30,
@@ -22082,15 +22093,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 78499,
+      "Progressed": 78500,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2023-10-08T16:02:07.9018177+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:06:56.3707295+00:00",
+  "LastChanged": "2023-10-09T09:57:58.3236448+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:08:22.6855898+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0539094+00:00",
-  "LastUpdate_Ratings": "2023-10-09T08:57:24.8415394+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:06:56.3709762+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:57:58.3236454+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:08:22.6858586+00:00"
 }

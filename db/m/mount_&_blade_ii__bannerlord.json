@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7821,9 +7821,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 62946,
+  "EOS_Progressed": 62947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26076,6 +26076,11 @@
       "Time": "2023-10-09T09:06:17.629152+00:00",
       "NumProgressed": 62946,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T10:07:35.8378118+00:00",
+      "NumProgressed": 62947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26255,7 +26260,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "I spit on your grave",
@@ -26311,7 +26316,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 20772
+      "UsersEstimate": 20773
     },
     {
       "ID": "Lawbringer",
@@ -26494,15 +26499,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 62946,
+      "Progressed": 62947,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-08T19:58:06.0832377+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:06:17.6291514+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:07:35.8378112+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-09T08:58:42.7033327+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:06:17.6294205+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:59:33.5188642+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:07:35.8379954+00:00"
 }

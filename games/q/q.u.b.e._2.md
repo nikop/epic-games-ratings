@@ -1,15 +1,15 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.42 (Ranked 692)  
+Rating: 4.42 (Ranked 691)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 66.00% | ~462 |
-| Quick Understanding of Block Extrusion | 64.00% | ~448 |
-| Nature or Nurture | 55.00% | ~385 |
-| Power Glove | 53.00% | ~371 |
+| Lost in Space | 66.00% | ~463 |
+| Quick Understanding of Block Extrusion | 64.00% | ~449 |
+| Nature or Nurture | 55.00% | ~386 |
+| Power Glove | 53.00% | ~372 |
 | Forgotten Memories | 50.00% | ~350 |
 | Cogs in the Machine | 45.00% | ~315 |
 | Mission Success | 28.00% | ~196 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.10% | ~1 |
 | Expert Collector | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 252)  
+Progressed: 701 (Ranked 252)  
 Completed: 1 (0.14%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.14%) (Ranked 231)
 | 2023-10-06 | 627 | 1 |
 | 2023-10-07 | 660 | 1 |
 | 2023-10-08 | 696 | 1 |
-| 2023-10-09 | 700 | 1 |
+| 2023-10-09 | 701 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

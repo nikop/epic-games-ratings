@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11141,9 +11141,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 928592,
+  "EOS_Progressed": 928635,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13914,
+  "EOS_NewPlayers": 13909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30641,6 +30641,11 @@
       "Time": "2023-10-09T09:04:53.7883962+00:00",
       "NumProgressed": 928592,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T10:05:55.8019814+00:00",
+      "NumProgressed": 928635,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30650,9 +30655,9 @@
       "ID": "ACH_001",
       "SetID": "bdmlp8o",
       "Name": "The Grand Sacrifice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4643
+      "UsersEstimate": 5572
     },
     {
       "ID": "ACH_002",
@@ -30812,7 +30817,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_022",
@@ -30868,7 +30873,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_029",
@@ -30876,7 +30881,7 @@
       "Name": "Risk it all",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_030",
@@ -30892,7 +30897,7 @@
       "Name": "Vulture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_032",
@@ -30962,9 +30967,9 @@
       "ID": "ACH_040",
       "SetID": "bdmlp8o",
       "Name": "I",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4643
+      "UsersEstimate": 5572
     },
     {
       "ID": "ACH_041",
@@ -30972,7 +30977,7 @@
       "Name": "II",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_042",
@@ -31548,7 +31553,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_114",
@@ -31964,7 +31969,7 @@
       "Name": "Close Shave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_169",
@@ -32412,7 +32417,7 @@
       "Name": "Second Act",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH_225",
@@ -32483,21 +32488,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 928592,
+      "Progressed": 928635,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 928592,
+      "Progressed": 928635,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-09T07:00:05.0571332+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:04:53.7883958+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:05:55.8019805+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:01:00.2347611+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:04:53.7892434+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:02:12.0039359+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:05:55.802808+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "7f1fa336313d48eca0a802170aa8dd8a",
   "Name": "Surgeon Simulator 2",
   "ProductSlug": "surgeon-simulator-2",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-08-27T16:00:00+00:00",
     "PcReleaseDate": "2020-08-27T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.42,
   "NumberOfRatings": 22,
   "RatingHistory": [
     {
@@ -90,6 +90,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-09T10:02:33.3383351+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -108,8 +114,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:35.9477941+00:00",
   "FirstSeenRating": "2022-08-10T16:30:22.2242938+00:00",
-  "LastChanged": "2023-07-27T04:58:06.6720694+00:00",
+  "LastChanged": "2023-10-09T10:02:33.3383349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.2536314+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:01:17.8281401+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:05:48.2197248+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:02:33.3383369+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:07:00.4119549+00:00"
 }

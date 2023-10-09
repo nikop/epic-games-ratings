@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,355 |
 | Opportunity | 3.00% | ~2,355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,499 (Ranked 86)  
+Progressed: 78,500 (Ranked 86)  
 Completed: 142 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,14 +209,14 @@ Completed: 142 (0.18%) (Ranked 222)
 | 2023-10-06 | 78,172 | 142 |
 | 2023-10-07 | 78,311 | 142 |
 | 2023-10-08 | 78,464 | 142 |
-| 2023-10-09 | 78,499 | 142 |
+| 2023-10-09 | 78,500 | 142 |
 ## Awards
-Max (Relaxing): 518  (Ranked 201)  
-Sum: 3,185 (Ranked 166)  
-Diff (max vs sum): 35  
+Max (Relaxing): 519  (Ranked 201)  
+Sum: 3,186 (Ranked 165)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 518 |
+| This game is Relaxing | 519 |
 | This game is Highly Recommended | 498 |
 | This game has Quickly Understood Controls | 462 |
 | This game has Competitive Players | 454 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 35
 | 2023-10-06 | 4.54 | - | 518 | 3,183 |
 | 2023-10-07 | 4.54 | - | 518 | 3,184 |
 | 2023-10-08 | 4.54 | - | 518 | 3,185 |
+| 2023-10-09 | 4.54 | - | 519 | 3,186 |

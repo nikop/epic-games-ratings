@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1281,9 +1281,9 @@
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 256
     },
     {
       "ID": "World4Boss",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:06:00.5404808+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:07:15.1401765+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.7361934+00:00",
-  "LastUpdate_Ratings": "2023-10-09T08:58:19.785415+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:06:00.5405506+00:00"
+  "LastUpdate_Ratings": "2023-10-09T09:59:02.6129271+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:07:15.1402216+00:00"
 }

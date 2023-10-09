@@ -20,7 +20,7 @@
 | Charismatic | 57.00% | ~353 |
 | Soldier | 54.00% | ~335 |
 | Medal of Exploration III | 53.00% | ~329 |
-| Asari Ally | 52.00% | ~322 |
+| Asari Ally | 53.00% | ~329 |
 | Principled | 52.00% | ~322 |
 | Soldier Ally | 50.00% | ~310 |
 | Colonial Savior | 49.00% | ~304 |

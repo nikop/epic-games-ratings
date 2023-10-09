@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 77.00% | ~17 |
-| Master trainee | 73.00% | ~16 |
+| You have three wishes left | 82.00% | ~18 |
+| Master trainee | 77.00% | ~17 |
 | Jung's dream | 59.00% | ~13 |
 | The battle of Great Britain | 55.00% | ~12 |
 | Giant | 50.00% | ~11 |
@@ -28,8 +28,8 @@
 | Hate is... addictive | 18.00% | ~4 |
 | You had one wish left | 18.00% | ~4 |
 | The barbarian invasions | 18.00% | ~4 |
+| Blessed antennas | 14.00% | ~3 |
 | The bully | 14.00% | ~3 |
-| Blessed antennas | 9.00% | ~2 |
 | The beast in the Oval Office | 9.00% | ~2 |
 | Blood Red Island | 9.00% | ~2 |
 | Bread and bocaua | 9.00% | ~2 |

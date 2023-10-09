@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -426,9 +426,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248526,
+  "EOS_Progressed": 248527,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19601,6 +19601,11 @@
       "Time": "2023-10-09T09:09:27.6721298+00:00",
       "NumProgressed": 248526,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T10:10:32.9157981+00:00",
+      "NumProgressed": 248527,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19676,7 +19681,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32308
+      "UsersEstimate": 32309
     },
     {
       "ID": "ACH_HATTRICK",
@@ -19756,7 +19761,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69587
+      "UsersEstimate": 69588
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -20027,7 +20032,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248526,
+      "Progressed": 248527,
       "Completed": 7
     }
   ],
@@ -20035,8 +20040,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-08T20:58:55.4987227+00:00",
-  "LastChanged_Achievements": "2023-10-09T09:09:27.6721291+00:00",
+  "LastChanged_Achievements": "2023-10-09T10:10:32.9157975+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:00:00.1623658+00:00",
-  "LastUpdate_Achievements": "2023-10-09T09:09:27.6724174+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:01:00.4985977+00:00",
+  "LastUpdate_Achievements": "2023-10-09T10:10:32.9160037+00:00"
 }
