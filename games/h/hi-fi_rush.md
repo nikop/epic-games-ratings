@@ -31,12 +31,11 @@ Rating: 4.85 (Ranked 43)
 | Does that say weakpoint? | 7.00% | ~289 |
 | NOW we got a kickass hideout! | 7.00% | ~186 |
 | I have to read these things? | 6.00% | ~248 |
-| Well that was a rush! | 5.00% | ~207 |
+| Well that was a rush! | 4.00% | ~165 |
 | Beat-hit mania | 4.00% | ~165 |
 | That's a lot of junk metal… | 4.00% | ~165 |
 | There's such a thing as TOO helpful | 4.00% | ~165 |
 | Chip-tuned | 3.00% | ~124 |
-| I think I found your calling, Macaron | 2.00% | ~83 |
 | We're Jammin' | 2.00% | ~83 |
 | I hit things with a guitar really well. | 2.00% | ~83 |
 | Wanna hear my playlist? | 2.00% | ~83 |
@@ -44,6 +43,7 @@ Rating: 4.85 (Ranked 43)
 | Check out my moves! | 2.00% | ~83 |
 | Call me Turbo Chai | 2.00% | ~53 |
 | I think I deserve some praise, here! | 1.00% | ~41 |
+| I think I found your calling, Macaron | 1.00% | ~41 |
 | This is a breeze! | 1.00% | ~41 |
 | I'm not done with you yet | 1.00% | ~41 |
 | First we parry, then we counter | 1.00% | ~41 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 43)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,133 (Ranked 176)  
+Progressed: 4,134 (Ranked 176)  
 Completed: 8 (0.19%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 8 (0.19%) (Ranked 219)
 | 2023-10-06 | 4,127 | 8 |
 | 2023-10-07 | 4,130 | 8 |
 | 2023-10-08 | 4,132 | 8 |
-| 2023-10-09 | 4,133 | 8 |
+| 2023-10-09 | 4,134 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

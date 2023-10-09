@@ -13,9 +13,9 @@
 | Hope | 23.00% | ~11 |
 | Rage | 21.00% | ~10 |
 | Path of Pain | 13.00% | ~6 |
+| An act of courage | 11.00% | ~5 |
 | Reflections | 11.00% | ~5 |
 | The shining | 11.00% | ~5 |
-| An act of courage | 9.00% | ~4 |
 | Health | 9.00% | ~4 |
 | Mayhem | 9.00% | ~4 |
 | Lost | 6.00% | ~3 |

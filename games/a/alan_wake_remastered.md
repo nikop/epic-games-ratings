@@ -1,14 +1,14 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.55 (Ranked 491)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 43.00% | ~28,980 |
-| Let There Be Light | 35.00% | ~23,588 |
-| Float Like a Butterfly | 33.00% | ~22,240 |
+| Let There Be Light | 35.00% | ~23,589 |
+| Float Like a Butterfly | 33.00% | ~22,241 |
 | Nordic Walking | 27.00% | ~18,197 |
 | Bright Falls' Finest | 26.00% | ~17,523 |
 | Under a Thin Layer of Skin | 23.00% | ~15,501 |
@@ -29,10 +29,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,435 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,761 |
 | Thunder and Lightning | 13.00% | ~8,761 |
-| Gatekeeper | 12.00% | ~8,087 |
-| The Lady of the Light | 12.00% | ~8,087 |
-| Two For the Price of One | 12.00% | ~8,087 |
-| Energized! | 12.00% | ~8,087 |
+| Gatekeeper | 12.00% | ~8,088 |
+| The Lady of the Light | 12.00% | ~8,088 |
+| Two For the Price of One | 12.00% | ~8,088 |
+| Energized! | 12.00% | ~8,088 |
 | What Light Through Yonder Window | 10.00% | ~6,740 |
 | Right of Way | 10.00% | ~6,740 |
 | Tornado Wrangler | 9.00% | ~6,066 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,395 (Ranked 93)  
+Progressed: 67,396 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 67 (0.10%) (Ranked 245)
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
-| 2023-10-09 | 67,395 | 67 |
+| 2023-10-09 | 67,396 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

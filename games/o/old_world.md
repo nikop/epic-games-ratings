@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
 | Keystone | 0.80% | ~116 |
+| Pyramids | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.70% | ~102 |
 | Ishtar Gate | 0.70% | ~102 |
 | Lighthouse | 0.70% | ~102 |
-| Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |

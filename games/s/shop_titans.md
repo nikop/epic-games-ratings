@@ -42,12 +42,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.80% | ~1,099 |
 | Helping Hand | 0.80% | ~1,099 |
 | Natural 20 | 0.80% | ~1,099 |
-| Tax not Included | 0.70% | ~961 |
-| Fated Encounters | 0.70% | ~961 |
-| For the Hoard! | 0.70% | ~961 |
-| Trash to Treasure | 0.70% | ~961 |
-| Royal Ransom | 0.70% | ~961 |
-| Magical Harmony | 0.70% | ~961 |
+| Tax not Included | 0.70% | ~962 |
+| Fated Encounters | 0.70% | ~962 |
+| For the Hoard! | 0.70% | ~962 |
+| Trash to Treasure | 0.70% | ~962 |
+| Royal Ransom | 0.70% | ~962 |
+| Magical Harmony | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~824 |
 | Above the Norm | 0.60% | ~824 |
 | A Ronin Reborn | 0.60% | ~824 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.20% | ~275 |
 | Unleashed Potential | 0.20% | ~275 |
 | JACKPOT!!! | 0.20% | ~275 |
+| Merchant Extraordinaire | 0.20% | ~275 |
 | Anything not Nailed Down | 0.20% | ~275 |
 | The Greatest Grind | 0.20% | ~275 |
 | Marvels from the World Over | 0.20% | ~275 |
 | Oligarch Monarch | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
-| Merchant Extraordinaire | 0.10% | ~137 |
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,357 (Ranked 73)  
+Progressed: 137,358 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,357 | 167 |
+| 2023-10-09 | 137,358 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

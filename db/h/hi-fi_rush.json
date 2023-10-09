@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4133,
+  "EOS_Progressed": 4134,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6935,6 +6935,11 @@
       "Time": "2023-10-09T00:05:35.2429601+00:00",
       "NumProgressed": 4133,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-09T12:05:09.2141138+00:00",
+      "NumProgressed": 4134,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7008,9 +7013,9 @@
       "ID": "Ach009",
       "SetID": "12n4k20",
       "Name": "Well that was a rush!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 165
     },
     {
       "ID": "Ach010",
@@ -7160,9 +7165,9 @@
       "ID": "Ach028",
       "SetID": "12n4k20",
       "Name": "I think I found your calling, Macaron",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach029",
@@ -7513,13 +7518,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4133,
+      "Progressed": 4134,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 1930
     }
   ],
@@ -7527,8 +7532,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:05:48.3925469+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:05:09.214113+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.6690541+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:58:46.1655445+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:05:48.392747+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:58:21.5725674+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:05:09.2142035+00:00"
 }

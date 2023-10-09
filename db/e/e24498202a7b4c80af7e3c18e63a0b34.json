@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5883,
+  "EOS_Progressed": 5884,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2896,6 +2896,11 @@
       "Time": "2023-10-09T10:05:21.1284984+00:00",
       "NumProgressed": 5883,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-09T12:03:33.4767484+00:00",
+      "NumProgressed": 5884,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2932,7 +2937,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "achievement_01_05",
@@ -2940,7 +2945,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "achievement_01_06",
@@ -2948,7 +2953,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     },
     {
       "ID": "achievement_01_07",
@@ -2980,7 +2985,7 @@
       "Name": "Beat the Clock",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "achievement_02_01",
@@ -3012,7 +3017,7 @@
       "Name": "Master Champion",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_02_05",
@@ -3052,7 +3057,7 @@
       "Name": "USA - Check!",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "achievement_03_02",
@@ -3084,7 +3089,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_03_06",
@@ -3116,7 +3121,7 @@
       "Name": "Golden Master Champion",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_03_10",
@@ -3132,7 +3137,7 @@
       "Name": "Japan - Check!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_04_01",
@@ -3196,7 +3201,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     },
     {
       "ID": "achievement_04_09",
@@ -3211,7 +3216,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5883,
+      "Progressed": 5884,
       "Completed": 23
     }
   ],
@@ -3219,8 +3224,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:04:11.7716102+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:03:33.476748+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:58:19.4568341+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:04:11.7716917+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:57:55.2524247+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:03:33.476787+00:00"
 }

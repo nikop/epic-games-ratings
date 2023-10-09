@@ -27,8 +27,8 @@ Rating: 4.60 (Ranked 398)
 | Right On Time | 18.00% | ~163 |
 | The Loose Cannon | 18.00% | ~163 |
 | Check Your Pulse | 18.00% | ~163 |
+| The Family Fortune | 18.00% | ~163 |
 | The Man Who Shattered Time | 17.00% | ~154 |
-| The Family Fortune | 17.00% | ~154 |
 | Street Style | 16.00% | ~145 |
 | Cartographer | 15.00% | ~136 |
 | Treasure Trove | 14.00% | ~127 |

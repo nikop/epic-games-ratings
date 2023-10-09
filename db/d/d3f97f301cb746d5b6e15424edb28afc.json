@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -1052,9 +1052,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1131,8 +1131,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:05:49.2639191+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:05:10.1359129+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:57:48.5067129+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:05:49.2640411+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:57:26.7571382+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:05:10.1359983+00:00"
 }

@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17687,
+  "EOS_Progressed": 17688,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -13407,6 +13407,11 @@
       "Time": "2023-10-09T11:05:50.9277201+00:00",
       "NumProgressed": 17687,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-10-09T12:05:11.7995327+00:00",
+      "NumProgressed": 17688,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 16,
@@ -13418,7 +13423,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "Burning_For_You",
@@ -13426,7 +13431,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "Deadline",
@@ -13442,7 +13447,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "Eyes_On_Fire",
@@ -13522,7 +13527,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "Still_Burning",
@@ -13545,15 +13550,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17687,
+      "Progressed": 17688,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:05:50.9277191+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:05:11.7995323+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.0224747+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:59:49.5810587+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:05:50.9278786+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:59:30.9672077+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:05:11.7996032+00:00"
 }

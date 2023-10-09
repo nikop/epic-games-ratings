@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1194,7 +1194,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5493,
+  "EOS_Progressed": 5494,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -10979,6 +10979,11 @@
       "Time": "2023-10-09T08:03:38.5971672+00:00",
       "NumProgressed": 5493,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-09T12:03:21.6455472+00:00",
+      "NumProgressed": 5494,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11006,7 +11011,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -11110,7 +11115,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11118,7 +11123,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -11262,7 +11267,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -11309,15 +11314,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5493,
+      "Progressed": 5494,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-09T08:00:35.8692775+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:03:59.8617753+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:03:21.6455469+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:03:15.1372982+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:03:59.8619357+00:00"
+  "LastUpdate_Ratings": "2023-10-09T12:02:05.1601936+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:03:21.6456167+00:00"
 }

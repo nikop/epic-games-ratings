@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,7 +326,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110672,
+  "EOS_Progressed": 110674,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
@@ -13761,6 +13761,11 @@
       "Time": "2023-10-09T10:09:16.4223747+00:00",
       "NumProgressed": 110672,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-09T12:06:18.8337171+00:00",
+      "NumProgressed": 110674,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -13780,7 +13785,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85217
+      "UsersEstimate": 85219
     },
     {
       "ID": "EAwards_10",
@@ -13844,7 +13849,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39842
+      "UsersEstimate": 39843
     },
     {
       "ID": "EAwards_18",
@@ -13852,7 +13857,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "EAwards_19",
@@ -13868,7 +13873,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53123
+      "UsersEstimate": 53124
     },
     {
       "ID": "EAwards_20",
@@ -13932,7 +13937,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "EAwards_28",
@@ -14124,7 +14129,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "EAwards_6",
@@ -14163,7 +14168,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110672,
+      "Progressed": 110674,
       "Completed": 44
     }
   ],
@@ -14171,8 +14176,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:06:58.1782328+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:06:18.8337167+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:03:07.075143+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:06:58.1784588+00:00"
+  "LastUpdate_Ratings": "2023-10-09T12:00:36.8667762+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:06:18.8338112+00:00"
 }

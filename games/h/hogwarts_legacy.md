@@ -14,11 +14,11 @@ Rating: 4.76 (Ranked 120)
 | The Defender of Dragons | 11.00% | ~32,788 |
 | Loom for Improvement | 11.00% | ~32,788 |
 | A Talent for Spending | 11.00% | ~32,788 |
-| Grappling with a Graphorn | 10.00% | ~29,807 |
-| The One Who Mastered Memories | 10.00% | ~29,807 |
-| The Hero of Hogwarts | 10.00% | ~29,807 |
-| Challenge Accepted | 10.00% | ~29,807 |
-| Coasting Along | 10.00% | ~29,807 |
+| Grappling with a Graphorn | 10.00% | ~29,808 |
+| The One Who Mastered Memories | 10.00% | ~29,808 |
+| The Hero of Hogwarts | 10.00% | ~29,808 |
+| Challenge Accepted | 10.00% | ~29,808 |
+| Coasting Along | 10.00% | ~29,808 |
 | Followed the Butterflies | 9.00% | ~26,827 |
 | The Spell Master | 9.00% | ~26,827 |
 | Rising From the Ashes | 9.00% | ~26,827 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 120)
 | Put Down Roots | 3.00% | ~8,942 |
 | The Auror's Apprentice | 3.00% | ~8,942 |
 | Floo Around the World | 3.00% | ~8,942 |
-| The Good Samaritan | 2.00% | ~5,961 |
-| Rise to the Challenges | 2.00% | ~5,961 |
-| Finishing Touches | 2.00% | ~5,961 |
+| The Good Samaritan | 2.00% | ~5,962 |
+| Rise to the Challenges | 2.00% | ~5,962 |
+| Finishing Touches | 2.00% | ~5,962 |
 | Savvy Spender | 1.00% | ~2,981 |
 | Merlin's Beard! | 1.00% | ~2,981 |
 | Demiguise Dread | 1.00% | ~2,981 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,074 (Ranked 46)  
+Progressed: 298,075 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 482 (0.16%) (Ranked 227)
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
-| 2023-10-09 | 298,074 | 482 |
+| 2023-10-09 | 298,075 | 482 |
 ## Awards
 Max (Character Customization): 23,384  (Ranked 17)  
-Sum: 45,386 (Ranked 31)  
+Sum: 45,400 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -234,13 +234,13 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 11,655 |
 | This game is Great for Beginners | 1,156 |
 | This game has Amazing Storytelling | 1,123 |
+| This game is Relaxing | 1,115 |
 | This game has Diverse Characters | 1,112 |
-| This game is Relaxing | 1,110 |
 | This game is Extremely Fun | 1,104 |
 | This game has Amazing Characters | 1,069 |
 | This game is Highly Recommended | 1,061 |
 | This game has Quickly Understood Controls | 993 |
-| This game has Beautiful Visuals | 921 |
+| This game has Beautiful Visuals | 930 |
 | This game has a Creative Community | 698 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -444,3 +444,4 @@ Diff (max vs sum): -14
 | 2023-10-06 | 4.76 | 23,322 | 45,198 |
 | 2023-10-07 | 4.76 | 23,347 | 45,276 |
 | 2023-10-08 | 4.76 | 23,384 | 45,386 |
+| 2023-10-09 | 4.76 | 23,384 | 45,400 |

@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1150,9 +1150,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13147,
+  "EOS_Progressed": 13148,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12520,6 +12520,11 @@
       "Time": "2023-10-09T10:10:07.6632976+00:00",
       "NumProgressed": 13147,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T12:08:15.4901048+00:00",
+      "NumProgressed": 13148,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12531,7 +12536,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "ACH02",
@@ -12579,7 +12584,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ACH08",
@@ -12810,7 +12815,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13147,
+      "Progressed": 13148,
       "Completed": 49
     }
   ],
@@ -12818,8 +12823,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-08T15:00:08.9585614+00:00",
-  "LastChanged_Achievements": "2023-10-09T11:09:06.9418729+00:00",
+  "LastChanged_Achievements": "2023-10-09T12:08:15.4901044+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:59:51.6245214+00:00",
-  "LastUpdate_Achievements": "2023-10-09T11:09:06.9420415+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:59:33.00453+00:00",
+  "LastUpdate_Achievements": "2023-10-09T12:08:15.4901765+00:00"
 }

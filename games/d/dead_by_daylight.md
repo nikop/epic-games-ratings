@@ -23,13 +23,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | I | 0.60% | ~5,572 |
 | Healthy Obsession | 0.60% | ~5,572 |
 | Resurgence | 0.60% | ~5,572 |
-| Agonizing Escape | 0.50% | ~4,643 |
-| Backdoor Escape | 0.50% | ~4,643 |
-| I've got your back | 0.50% | ~4,643 |
-| Perfect Escape | 0.50% | ~4,643 |
-| Engineer | 0.50% | ~4,643 |
-| Preemptive Strike | 0.50% | ~4,643 |
-| Humanitarian | 0.50% | ~4,643 |
+| Agonizing Escape | 0.50% | ~4,644 |
+| Backdoor Escape | 0.50% | ~4,644 |
+| I've got your back | 0.50% | ~4,644 |
+| Perfect Escape | 0.50% | ~4,644 |
+| Engineer | 0.50% | ~4,644 |
+| Preemptive Strike | 0.50% | ~4,644 |
+| Humanitarian | 0.50% | ~4,644 |
 | Perfect Killing | 0.40% | ~3,715 |
 | Apt Killer | 0.40% | ~3,715 |
 | Risk it all | 0.40% | ~3,715 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,699 (Ranked 14)  
+Progressed: 928,749 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,699 | 49 |
+| 2023-10-09 | 928,749 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,578 (Ranked 13)  
