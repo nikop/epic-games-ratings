@@ -1,22 +1,22 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 490)  
+Rating: 4.55 (Ranked 489)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,982 |
-| Let There Be Light | 35.00% | ~23,590 |
-| Float Like a Butterfly | 33.00% | ~22,242 |
-| Nordic Walking | 27.00% | ~18,198 |
-| Bright Falls' Finest | 26.00% | ~17,524 |
-| Under a Thin Layer of Skin | 23.00% | ~15,502 |
-| Paging Mr. Wake | 20.00% | ~13,480 |
-| Park Ranger | 19.00% | ~12,806 |
-| Back! Back, I Say! | 18.00% | ~12,132 |
-| Finders Keepers | 18.00% | ~12,132 |
-| Damn Good Cup of Coffee | 17.00% | ~11,458 |
+| Follow the Light | 43.00% | ~28,983 |
+| Let There Be Light | 35.00% | ~23,591 |
+| Float Like a Butterfly | 33.00% | ~22,243 |
+| Nordic Walking | 27.00% | ~18,199 |
+| Bright Falls' Finest | 26.00% | ~17,525 |
+| Under a Thin Layer of Skin | 23.00% | ~15,503 |
+| Paging Mr. Wake | 20.00% | ~13,481 |
+| Park Ranger | 19.00% | ~12,807 |
+| Back! Back, I Say! | 18.00% | ~12,133 |
+| Finders Keepers | 18.00% | ~12,133 |
+| Damn Good Cup of Coffee | 17.00% | ~11,459 |
 | Wheels Within Wheels | 16.00% | ~10,784 |
 | They're Heeeeeere! | 16.00% | ~10,784 |
 | Sound and Fury | 16.00% | ~10,784 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,399 (Ranked 93)  
+Progressed: 67,403 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 67 (0.10%) (Ranked 245)
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
-| 2023-10-09 | 67,399 | 67 |
+| 2023-10-09 | 67,403 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

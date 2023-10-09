@@ -5,8 +5,8 @@ Rating: 3.98 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~678 |
-| Electrician | 34.00% | ~562 |
+| I don't feel so good | 41.00% | ~679 |
+| Electrician | 34.00% | ~563 |
 | Fear my botany powers, Mars | 33.00% | ~546 |
 | Zero Waste | 30.00% | ~496 |
 | Bob The Builder | 30.00% | ~496 |
@@ -17,11 +17,11 @@ Rating: 3.98 (Ranked 968)
 | Houston we have a problem | 22.00% | ~364 |
 | Detective | 19.00% | ~314 |
 | The Collector | 18.00% | ~298 |
-| Get your hands dirty | 10.00% | ~165 |
+| Get your hands dirty | 10.00% | ~166 |
 | Space Forest | 9.00% | ~149 |
 | All Wheel Trouble | 7.00% | ~116 |
-| ITS crash site | 6.00% | ~99 |
 | DeDust | 5.00% | ~83 |
+| ITS crash site | 5.00% | ~83 |
 | “Aliens” | 4.00% | ~66 |
 | Hard Landing | 3.00% | ~50 |
 | Plumber | 3.00% | ~50 |
@@ -54,7 +54,7 @@ Rating: 3.98 (Ranked 968)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,654 (Ranked 210)  
+Progressed: 1,655 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 1,648 | 0 |
 | 2023-10-06 | 1,653 | 0 |
 | 2023-10-08 | 1,654 | 0 |
+| 2023-10-09 | 1,655 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

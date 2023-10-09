@@ -3372,10 +3372,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4689,
       "NumberOfAwardsMax": 2795
+    },
+    {
+      "Time": "2023-10-09T14:59:31.6171309+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4690,
+      "NumberOfAwardsMax": 2795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4689,
+  "NumberOfAwards": 4690,
   "NumberOfAwardsMax": 2795,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3425,7 +3431,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 240
+      "Count": 241
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3440,7 +3446,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73351,
+  "EOS_Progressed": 73353,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 307,
   "EOS_NewCompleters": -1,
@@ -18150,6 +18156,11 @@
       "Time": "2023-10-09T14:08:30.6423983+00:00",
       "NumProgressed": 73351,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-09T15:06:39.0178334+00:00",
+      "NumProgressed": 73353,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18273,7 +18284,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "CLAYFACE_3",
@@ -18465,7 +18476,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25673
+      "UsersEstimate": 25674
     },
     {
       "ID": "HARLEY_2",
@@ -18481,7 +18492,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14670
+      "UsersEstimate": 14671
     },
     {
       "ID": "HARLEY_4",
@@ -18505,7 +18516,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38143
+      "UsersEstimate": 38144
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18529,7 +18540,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14670
+      "UsersEstimate": 14671
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18537,7 +18548,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20538
+      "UsersEstimate": 20539
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18553,7 +18564,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24939
+      "UsersEstimate": 24940
     },
     {
       "ID": "MYSTERY_02",
@@ -18577,7 +18588,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14670
+      "UsersEstimate": 14671
     },
     {
       "ID": "MYSTERY_05",
@@ -18585,7 +18596,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "MYSTERY_06",
@@ -18648,22 +18659,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73351,
+      "Progressed": 73353,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43631,
+      "Progressed": 43633,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-09T01:41:52.1830629+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:08:30.6423976+00:00",
+  "LastChanged": "2023-10-09T14:59:31.6171307+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:06:39.0178329+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:00:28.3827654+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:08:30.6425793+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:59:31.6171315+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:06:39.0179942+00:00"
 }

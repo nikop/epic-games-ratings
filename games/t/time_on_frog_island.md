@@ -6,14 +6,15 @@
 | ---- | ---------- | ----- |
 | Shipwrecked! | 75.00% | ~12 |
 | Sea Legs | 69.00% | ~11 |
+| What?! | 38.00% | ~6 |
 | Frogs Legs | 31.00% | ~5 |
-| What?! | 31.00% | ~5 |
-| Mad Scientist | 19.00% | ~3 |
+| Mad Scientist | 25.00% | ~4 |
 | Socialite | 13.00% | ~2 |
 | Who Even Needs Keys | 13.00% | ~2 |
 | Shrub-Seeing: Silly Birbs | 13.00% | ~2 |
 | Couch-surfing | 13.00% | ~2 |
 | Hoist the Sails | 13.00% | ~2 |
+| Secure the Sheets | 13.00% | ~2 |
 | Replace the Rudder | 13.00% | ~2 |
 | Shrub-Seeing: Townlife | 6.00% | ~1 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~1 |
@@ -23,7 +24,6 @@
 | Caught Ya! | 6.00% | ~1 |
 | Safe Investment | 6.00% | ~1 |
 | Bank of Me | 6.00% | ~1 |
-| Secure the Sheets | 6.00% | ~1 |
 | Hands on the Helm | 6.00% | ~1 |
 | The Journey Continues | 6.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |

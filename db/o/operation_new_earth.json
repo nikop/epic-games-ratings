@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559,
+  "EOS_Progressed": 1560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5729,6 +5729,11 @@
       "Time": "2023-10-09T14:08:44.855868+00:00",
       "NumProgressed": 1559,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T15:08:08.3871093+00:00",
+      "NumProgressed": 1560,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5844,7 +5849,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -5852,7 +5857,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5868,7 +5873,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -5996,7 +6001,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6043,7 +6048,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1559,
+      "Progressed": 1560,
       "Completed": 1
     }
   ],
@@ -6051,8 +6056,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:08:44.8558671+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:08:08.3871087+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:57:04.8981589+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:08:44.8559514+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:57:13.4948171+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:08:08.3871756+00:00"
 }

@@ -24,10 +24,10 @@
 | Aquarian Champion | 12.00% | ~6 |
 | Astral Adventurer | 10.00% | ~5 |
 | Heart Gate | 10.00% | ~5 |
+| Sadistic Plan | 10.00% | ~5 |
 | Unbeatable | 10.00% | ~5 |
 | Astral Seeker | 8.00% | ~4 |
 | Favored by the Cosmos | 8.00% | ~4 |
-| Sadistic Plan | 8.00% | ~4 |
 | Star Killer | 8.00% | ~4 |
 | Stellar Haste | 8.00% | ~4 |
 | The Corruption Goddess | 8.00% | ~4 |

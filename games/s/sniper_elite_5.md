@@ -70,7 +70,7 @@ Rating: 4.45 (Ranked 645)
 | Alpha | 1.00% | ~37 |
 | Das Familienjuwel | 1.00% | ~37 |
 | Master of Secondaries | 0.90% | ~33 |
-| Master of Rifles | 0.80% | ~30 |
+| Master of Rifles | 0.90% | ~33 |
 | Operation Overlord | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~26 |
 | Master-at-arms | 0.60% | ~22 |

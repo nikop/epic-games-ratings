@@ -342,7 +342,7 @@
   "Tags": [],
   "EOS_Progressed": 2297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2196,9 +2196,9 @@
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 574
+      "UsersEstimate": 597
     },
     {
       "ID": "achievement_7",
@@ -2237,8 +2237,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-07T15:57:14.2140842+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:07:46.2248448+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:06:08.32042+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:58:41.035052+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:07:46.224875+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:58:20.2491801+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:06:08.3204483+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 69,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 11.59,
   "EosHistory": [
@@ -430,9 +430,9 @@
       "ID": "_cannon_sentinel",
       "SetID": "2d5739o",
       "Name": "Cannon sentinel",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "_destroyer",
@@ -717,8 +717,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:06:30.2848236+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:05:15.759995+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:01:50.4935368+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:06:30.2848679+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:00:25.046755+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:05:15.7600314+00:00"
 }

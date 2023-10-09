@@ -11079,10 +11079,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 260614,
       "NumberOfAwardsMax": 33640
+    },
+    {
+      "Time": "2023-10-09T15:00:12.7456421+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 260644,
+      "NumberOfAwardsMax": 33640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260614,
+  "NumberOfAwards": 260644,
   "NumberOfAwardsMax": 33640,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11108,7 +11114,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 29455
+      "Count": 29485
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11153,9 +11159,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 928933,
+  "EOS_Progressed": 929026,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13934,
+  "EOS_NewPlayers": 13924,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30678,6 +30684,11 @@
       "Time": "2023-10-09T14:05:02.8578573+00:00",
       "NumProgressed": 928933,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T15:04:16.1427895+00:00",
+      "NumProgressed": 929026,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30857,7 +30868,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9289
+      "UsersEstimate": 9290
     },
     {
       "ID": "ACH_023",
@@ -30865,7 +30876,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9289
+      "UsersEstimate": 9290
     },
     {
       "ID": "ACH_024",
@@ -30873,7 +30884,7 @@
       "Name": "Not half bad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ACH_025",
@@ -30897,7 +30908,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ACH_028",
@@ -30921,7 +30932,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ACH_031",
@@ -30993,7 +31004,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9289
+      "UsersEstimate": 9290
     },
     {
       "ID": "ACH_040",
@@ -31279,9 +31290,9 @@
       "ID": "ACH_075",
       "SetID": "16jml5b",
       "Name": "Texas BBQ",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 929
+      "UsersEstimate": 1858
     },
     {
       "ID": "ACH_076",
@@ -32457,7 +32468,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ACH_226",
@@ -32520,21 +32531,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 928933,
+      "Progressed": 929026,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 928933,
+      "Progressed": 929026,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-09T13:12:56.8829152+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:05:02.8578566+00:00",
+  "LastChanged": "2023-10-09T15:00:12.7456418+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:04:16.1427889+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:01:30.7465147+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:05:02.8586595+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:00:12.7456427+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:04:16.1434783+00:00"
 }

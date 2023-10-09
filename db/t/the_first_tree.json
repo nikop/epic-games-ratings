@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36559,
+  "EOS_Progressed": 36560,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15164,6 +15164,11 @@
       "Time": "2023-10-09T14:05:45.1721259+00:00",
       "NumProgressed": 36559,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-09T15:04:44.5526981+00:00",
+      "NumProgressed": 36560,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 14,
@@ -15191,7 +15196,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9505
+      "UsersEstimate": 9506
     },
     {
       "ID": "allItems",
@@ -15263,7 +15268,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28150
+      "UsersEstimate": 28151
     },
     {
       "ID": "roots",
@@ -15286,15 +15291,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36559,
+      "Progressed": 36560,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:05:45.172125+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:04:44.5526975+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.0981807+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:01:00.584645+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:05:45.1722516+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:59:53.2868916+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:04:44.5528078+00:00"
 }

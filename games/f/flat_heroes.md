@@ -12,11 +12,11 @@
 | Hit That Ball | 33.00% | ~196 |
 | Air Slash | 32.00% | ~190 |
 | Eat That Apple | 24.00% | ~143 |
-| Tornado Chaser | 13.00% | ~77 |
+| Tornado Chaser | 14.00% | ~83 |
 | Bomberman | 9.00% | ~54 |
 | Bubble Party | 7.00% | ~42 |
+| The Colossus | 7.00% | ~42 |
 | Floor is Lava | 6.00% | ~36 |
-| The Colossus | 6.00% | ~36 |
 | Pim Pam Pum | 5.00% | ~30 |
 | Dash Crash - Hero Edition | 4.00% | ~24 |
 | Ambush | 4.00% | ~24 |

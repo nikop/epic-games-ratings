@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3662,
+  "EOS_Progressed": 3663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-10-08T11:03:45.2723451+00:00",
       "NumProgressed": 3662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T15:03:51.7549134+00:00",
+      "NumProgressed": 3663,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1727,9 +1732,9 @@
       "ID": "GET_MONEY_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Rich Now!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 806
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1737,7 +1742,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1745,7 +1750,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1753,7 +1758,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1761,7 +1766,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1777,7 +1782,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -1785,7 +1790,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -1832,7 +1837,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3662,
+      "Progressed": 3663,
       "Completed": 0
     }
   ],
@@ -1840,8 +1845,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:04:27.7990105+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:03:51.7549129+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:58:11.4046659+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:04:27.7990445+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:58:00.7356032+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:03:51.75494+00:00"
 }

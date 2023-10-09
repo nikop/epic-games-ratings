@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2023-10-09T13:18:20.5018398+00:00",
       "NumProgressed": 815,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-09T15:05:24.5803979+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1882,9 +1887,9 @@
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 416
     },
     {
       "ID": "Cartographer",
@@ -1972,7 +1977,7 @@
       "Name": "Outpatient",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "Relic",
@@ -2020,21 +2025,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:06:42.8329484+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:05:24.5803973+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-09T14:01:14.5532587+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:06:42.8329749+00:00"
+  "LastUpdate_Ratings": "2023-10-09T15:00:02.2538624+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:05:24.5804259+00:00"
 }

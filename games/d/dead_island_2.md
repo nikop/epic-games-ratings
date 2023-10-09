@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,729 |
-| Git Gutte! | 3.00% | ~20,797 |
-| Break A Leg | 3.00% | ~20,797 |
-| Coup de Grâce | 3.00% | ~20,797 |
-| Hazardous Materials | 3.00% | ~20,797 |
-| Friends Like These | 3.00% | ~20,797 |
-| Hotel California | 3.00% | ~20,797 |
-| Apex Predator | 3.00% | ~20,797 |
-| Stacking the Deck | 3.00% | ~20,797 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,797 |
+| Welcome To Hell-A | 4.00% | ~27,731 |
+| Git Gutte! | 3.00% | ~20,798 |
+| Break A Leg | 3.00% | ~20,798 |
+| Coup de Grâce | 3.00% | ~20,798 |
+| Hazardous Materials | 3.00% | ~20,798 |
+| Friends Like These | 3.00% | ~20,798 |
+| Hotel California | 3.00% | ~20,798 |
+| Apex Predator | 3.00% | ~20,798 |
+| Stacking the Deck | 3.00% | ~20,798 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,798 |
 | Dr. Reed, I Presume? | 2.00% | ~13,865 |
 | Anger Management | 2.00% | ~13,865 |
 | Perks of the Job | 2.00% | ~13,865 |
@@ -30,28 +30,28 @@ Rating: 4.54 (Ranked 509)
 | I Am the Resurrection | 2.00% | ~13,865 |
 | Our True Nature | 2.00% | ~13,865 |
 | This is My Weapon | 2.00% | ~13,865 |
-| Making Your Mark | 1.00% | ~6,932 |
-| Humanity Distilled | 1.00% | ~6,932 |
-| Down with the Sickness | 1.00% | ~6,932 |
-| Max Headroom | 1.00% | ~6,932 |
-| Go, Bobcats! | 1.00% | ~6,932 |
-| Rising Star | 1.00% | ~6,932 |
+| Making Your Mark | 1.00% | ~6,933 |
+| Humanity Distilled | 1.00% | ~6,933 |
+| Down with the Sickness | 1.00% | ~6,933 |
+| Max Headroom | 1.00% | ~6,933 |
+| Go, Bobcats! | 1.00% | ~6,933 |
+| Rising Star | 1.00% | ~6,933 |
 | Jumbo Keyring | 0.90% | ~6,239 |
 | Smorgasbord | 0.80% | ~5,546 |
 | Not Even My Final Form | 0.70% | ~4,853 |
 | Internet Famous | 0.70% | ~4,853 |
-| Make it So | 0.60% | ~4,159 |
-| On Safari | 0.60% | ~4,159 |
-| Variety is the Spice of Death | 0.60% | ~4,159 |
+| Make it So | 0.60% | ~4,160 |
+| On Safari | 0.60% | ~4,160 |
+| Variety is the Spice of Death | 0.60% | ~4,160 |
 | LA Influential | 0.50% | ~3,466 |
 | Gore Horse | 0.50% | ~3,466 |
 | Sole Survivor | 0.40% | ~2,773 |
 | Sharpest Tool in the Box | 0.40% | ~2,773 |
 | Survival Skills | 0.30% | ~2,080 |
-| Donk! | 0.20% | ~1,386 |
+| Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,232 (Ranked 22)  
+Progressed: 693,263 (Ranked 22)  
 Completed: 2,206 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,15 +223,15 @@ Completed: 2,206 (0.32%) (Ranked 197)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,232 | 2,206 |
+| 2023-10-09 | 693,263 | 2,206 |
 ## Awards
 Max (Great Boss Battles): 6,366  (Ranked 58)  
-Sum: 9,507 (Ranked 91)  
+Sum: 9,508 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,366 |
-| This game is Great for Beginners | 445 |
+| This game is Great for Beginners | 446 |
 | This game has Diverse Characters | 443 |
 | This game has Quickly Understood Controls | 417 |
 | This game is Relaxing | 400 |
@@ -413,4 +413,4 @@ Diff (max vs sum): -33
 | 2023-10-06 | 4.54 | 6,339 | 9,463 |
 | 2023-10-07 | 4.54 | 6,348 | 9,476 |
 | 2023-10-08 | 4.54 | 6,366 | 9,500 |
-| 2023-10-09 | 4.54 | 6,366 | 9,507 |
+| 2023-10-09 | 4.54 | 6,366 | 9,508 |

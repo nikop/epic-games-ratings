@@ -7,10 +7,10 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~6,836 |
-| Leader | 60.00% | ~5,696 |
+| Leader | 60.00% | ~5,697 |
 | Explorer | 53.00% | ~5,032 |
 | Healer | 52.00% | ~4,937 |
-| Aspiring Inventor | 44.00% | ~4,177 |
+| Aspiring Inventor | 44.00% | ~4,178 |
 | Adventurer | 41.00% | ~3,893 |
 | Famous Healer | 38.00% | ~3,608 |
 | Local Leader | 35.00% | ~3,323 |
@@ -20,10 +20,10 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~3,133 |
 | Survivor | 32.00% | ~3,038 |
 | The Great Healer | 31.00% | ~2,943 |
-| Legendary Explorer | 28.00% | ~2,658 |
-| Cleaner | 28.00% | ~2,658 |
-| Catastrofan | 28.00% | ~2,658 |
-| Finders, Keepers | 26.00% | ~2,468 |
+| Legendary Explorer | 28.00% | ~2,659 |
+| Cleaner | 28.00% | ~2,659 |
+| Catastrofan | 28.00% | ~2,659 |
+| Finders, Keepers | 26.00% | ~2,469 |
 | Top Notch | 25.00% | ~2,374 |
 | Great Leader | 23.00% | ~2,184 |
 | Mentor | 23.00% | ~2,184 |
@@ -40,9 +40,9 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 14.00% | ~1,329 |
 | Prepared for Anything | 13.00% | ~1,234 |
 | Big Catastrofan | 13.00% | ~1,234 |
-| It's a Finnish Thing | 10.00% | ~949 |
-| Sky Burial | 10.00% | ~949 |
-| Trader | 9.00% | ~854 |
+| It's a Finnish Thing | 10.00% | ~950 |
+| Sky Burial | 10.00% | ~950 |
+| Trader | 9.00% | ~855 |
 | Bread and Circuses | 8.00% | ~760 |
 | New Eden | 7.00% | ~665 |
 | Tailored to fit | 7.00% | ~665 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,494 (Ranked 148)  
+Progressed: 9,495 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 9,437 | 0 |
 | 2023-10-07 | 9,463 | 0 |
 | 2023-10-08 | 9,488 | 0 |
-| 2023-10-09 | 9,494 | 0 |
+| 2023-10-09 | 9,495 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 707 (Ranked 283)  

@@ -341,9 +341,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Win100OnlineMatched",
@@ -365,9 +365,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Win50ConquestBattles",
@@ -395,8 +395,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:05:06.3039818+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:04:18.4238496+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:58:01.3251378+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:05:06.3040129+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:57:52.0797187+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:04:18.423879+00:00"
 }

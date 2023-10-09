@@ -13,8 +13,8 @@ Rating: 4.15 (Ranked 912)
 | Pilgrimage: Initiate | 6.00% | ~2,518 |
 | Hell of a Run | 6.00% | ~2,518 |
 | Call of the Fount: Baptized | 6.00% | ~2,518 |
-| No Mercy | 5.00% | ~2,098 |
-| Explorer: Seeker | 5.00% | ~2,098 |
+| No Mercy | 5.00% | ~2,099 |
+| Explorer: Seeker | 5.00% | ~2,099 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,679 |
 | Stuck | 4.00% | ~1,679 |
 | Help Me Out Here | 4.00% | ~1,679 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 912)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,966 (Ranked 106)  
+Progressed: 41,972 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 3 (0.01%) (Ranked 291)
 | 2023-10-06 | 41,858 | 3 |
 | 2023-10-07 | 41,898 | 3 |
 | 2023-10-08 | 41,942 | 3 |
-| 2023-10-09 | 41,966 | 3 |
+| 2023-10-09 | 41,972 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 479)  
 Sum: 28 (Ranked 494)  

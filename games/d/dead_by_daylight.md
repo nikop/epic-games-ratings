@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,289 |
-| It wakes | 1.00% | ~9,289 |
-| Skillful | 1.00% | ~9,289 |
-| Not half bad | 0.80% | ~7,431 |
-| Apt Survivor | 0.80% | ~7,431 |
-| Survival Treasures | 0.80% | ~7,431 |
-| Make Some Noise | 0.80% | ~7,431 |
+| Zealous | 1.00% | ~9,290 |
+| It wakes | 1.00% | ~9,290 |
+| Skillful | 1.00% | ~9,290 |
+| Not half bad | 0.80% | ~7,432 |
+| Apt Survivor | 0.80% | ~7,432 |
+| Survival Treasures | 0.80% | ~7,432 |
+| Make Some Noise | 0.80% | ~7,432 |
 | Handyman | 0.70% | ~6,503 |
 | Sorted | 0.70% | ~6,503 |
 | The Grand Sacrifice | 0.60% | ~5,574 |
@@ -73,6 +73,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Deep Cleansing | 0.20% | ~1,858 |
 | Leapfrog | 0.20% | ~1,858 |
 | Cottage Owner | 0.20% | ~1,858 |
+| Texas BBQ | 0.20% | ~1,858 |
 | Serial Killer | 0.20% | ~1,858 |
 | Escaping the Nightmare | 0.20% | ~1,858 |
 | Game Over | 0.20% | ~1,858 |
@@ -123,7 +124,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Huntress | 0.10% | ~929 |
 | Adept David | 0.10% | ~929 |
 | Butcherin' | 0.10% | ~929 |
-| Texas BBQ | 0.10% | ~929 |
 | Adept Cannibal | 0.10% | ~929 |
 | Dream Demon | 0.10% | ~929 |
 | Adept Nightmare | 0.10% | ~929 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,933 (Ranked 14)  
+Progressed: 929,026 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,16 +408,16 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,933 | 49 |
+| 2023-10-09 | 929,026 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
-Sum: 260,614 (Ranked 13)  
+Sum: 260,644 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,640 |
 | This game is Highly Recommended | 29,792 |
-| This game has Competitive Players | 29,455 |
+| This game has Competitive Players | 29,485 |
 | This game has Amazing Characters | 29,431 |
 | This game is Extremely Fun | 29,076 |
 | This game has Challenging Combat | 28,679 |
@@ -687,4 +687,4 @@ Diff (max vs sum): 2
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
-| 2023-10-09 | 4.52 | - | 33,640 | 260,614 |
+| 2023-10-09 | 4.52 | - | 33,640 | 260,644 |

@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 60,
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225053,
+  "EOS_Progressed": 225070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1852,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9185,6 +9185,11 @@
       "Time": "2023-10-09T14:08:27.8830017+00:00",
       "NumProgressed": 225053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T15:06:37.0792252+00:00",
+      "NumProgressed": 225070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9229,7 +9234,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -9253,7 +9258,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47261
+      "UsersEstimate": 47265
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -9261,7 +9266,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20255
+      "UsersEstimate": 20256
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -9269,7 +9274,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11253
+      "UsersEstimate": 11254
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -9277,7 +9282,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9002
+      "UsersEstimate": 9003
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -9381,7 +9386,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29257
+      "UsersEstimate": 29259
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -9389,7 +9394,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15754
+      "UsersEstimate": 15755
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -9421,7 +9426,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -9453,7 +9458,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56263
+      "UsersEstimate": 56268
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -9468,7 +9473,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225053,
+      "Progressed": 225070,
       "Completed": 0
     }
   ],
@@ -9476,8 +9481,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-08T17:00:23.5274986+00:00",
-  "LastChanged_Achievements": "2023-10-09T14:08:27.8830009+00:00",
+  "LastChanged_Achievements": "2023-10-09T15:06:37.0792247+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-09T13:57:13.9306521+00:00",
-  "LastUpdate_Achievements": "2023-10-09T14:08:27.8830965+00:00"
+  "LastUpdate_Ratings": "2023-10-09T14:57:20.1667142+00:00",
+  "LastUpdate_Achievements": "2023-10-09T15:06:37.0793035+00:00"
 }
