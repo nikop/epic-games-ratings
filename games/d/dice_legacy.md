@@ -5,8 +5,8 @@ Rating: 4.27 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 39.00% | ~434 |
-| The City | 10.00% | ~111 |
+| We made it | 39.00% | ~435 |
+| The City | 10.00% | ~112 |
 | Manipulating Fate | 9.00% | ~100 |
 | Full house | 6.00% | ~67 |
 | Burn and Pillage | 6.00% | ~67 |
@@ -20,8 +20,8 @@ Rating: 4.27 (Ranked 834)
 | Incredible Strength | 4.00% | ~45 |
 | Greedy | 4.00% | ~45 |
 | The Stranded King | 4.00% | ~45 |
-| Prophecy Fulfilled | 4.00% | ~45 |
 | The Greedy Ones | 3.00% | ~33 |
+| Prophecy Fulfilled | 3.00% | ~33 |
 | The First King | 2.00% | ~22 |
 | The Unruly Ones | 2.00% | ~22 |
 | The great fire | 1.00% | ~11 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 834)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,114 (Ranked 228)  
+Progressed: 1,115 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 1,109 | 0 |
 | 2023-10-07 | 1,110 | 0 |
 | 2023-10-08 | 1,113 | 0 |
-| 2023-10-09 | 1,114 | 0 |
+| 2023-10-09 | 1,115 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

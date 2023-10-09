@@ -6,16 +6,16 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,611 |
-| Having A Field Day | 75.00% | ~4,611 |
+| Get A Room | 75.00% | ~4,612 |
+| Having A Field Day | 75.00% | ~4,612 |
 | Reap What You Sow | 72.00% | ~4,427 |
-| The First Day | 69.00% | ~4,242 |
-| Green Thumb | 67.00% | ~4,119 |
-| Novice Researcher | 67.00% | ~4,119 |
-| Home Cooked Meal | 59.00% | ~3,627 |
-| Onward | 57.00% | ~3,504 |
-| The First Week | 55.00% | ~3,381 |
-| Putting Food on the Table | 53.00% | ~3,258 |
+| The First Day | 69.00% | ~4,243 |
+| Green Thumb | 67.00% | ~4,120 |
+| Novice Researcher | 67.00% | ~4,120 |
+| Home Cooked Meal | 59.00% | ~3,628 |
+| Onward | 57.00% | ~3,505 |
+| The First Week | 55.00% | ~3,382 |
+| Putting Food on the Table | 53.00% | ~3,259 |
 | Beam Me Up | 52.00% | ~3,197 |
 | Studious Researcher | 52.00% | ~3,197 |
 | Adept Researcher | 45.00% | ~2,767 |
@@ -23,9 +23,9 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 41.00% | ~2,521 |
 | ...And Don’t Come Back! | 41.00% | ~2,521 |
 | Fit For A King | 33.00% | ~2,029 |
-| Luminary Researcher | 32.00% | ~1,967 |
+| Luminary Researcher | 32.00% | ~1,968 |
 | Heating Up | 31.00% | ~1,906 |
-| Winter Is Coming | 28.00% | ~1,721 |
+| Winter Is Coming | 28.00% | ~1,722 |
 | Winter Is Here | 24.00% | ~1,476 |
 | Disassembled | 21.00% | ~1,291 |
 | A Party Now | 21.00% | ~1,291 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~123 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,148 (Ranked 164)  
+Progressed: 6,149 (Ranked 164)  
 Completed: 14 (0.23%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 14 (0.23%) (Ranked 213)
 | 2023-10-06 | 6,112 | 14 |
 | 2023-10-07 | 6,130 | 14 |
 | 2023-10-08 | 6,144 | 14 |
-| 2023-10-09 | 6,148 | 14 |
+| 2023-10-09 | 6,149 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 326)  
 Sum: 990 (Ranked 248)  

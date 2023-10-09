@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,7 +376,7 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1273,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -2796,6 +2796,11 @@
       "Time": "2023-10-09T11:05:57.039115+00:00",
       "NumProgressed": 1273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T13:18:31.1810306+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2863,7 +2868,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "EXPERT_1",
@@ -2959,7 +2964,7 @@
       "Name": "One HIT wonder",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2967,7 +2972,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "PACIFIST",
@@ -3094,15 +3099,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:05:17.9292572+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:18:31.1810301+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:59:41.2479047+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:05:17.9292899+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:12:27.7220482+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:18:31.1810685+00:00"
 }

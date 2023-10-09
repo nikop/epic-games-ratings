@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14546,
+  "EOS_Progressed": 14547,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13405,6 +13405,11 @@
       "Time": "2023-10-09T11:04:46.1210092+00:00",
       "NumProgressed": 14546,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-09T13:17:07.0316815+00:00",
+      "NumProgressed": 14547,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14206,9 +14211,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -14334,9 +14339,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -14990,9 +14995,9 @@
       "ID": "ACHIEVEMENT_MEMPHIS_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids in Menefer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_MERCHANTS_LEVANT",
@@ -16151,21 +16156,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14546,
+      "Progressed": 14547,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14546,
+      "Progressed": 14547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:04:08.1511555+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:17:07.031681+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-09T12:02:09.4215164+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:04:08.1521597+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:15:05.7969331+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:17:07.0329869+00:00"
 }

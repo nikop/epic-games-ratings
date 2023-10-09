@@ -26,7 +26,7 @@
 | Fair Means or Foul | 47.00% | ~55 |
 | Mighty Marmelizer | 46.00% | ~54 |
 | Single Minded | 43.00% | ~51 |
-| Snare Specialist | 42.00% | ~50 |
+| Snare Specialist | 43.00% | ~51 |
 | Karakuri Trail | 40.00% | ~47 |
 | Kemono at Heart | 39.00% | ~46 |
 | Team Hunter | 37.00% | ~44 |
@@ -39,9 +39,9 @@
 | Style Seeker | 29.00% | ~34 |
 | Threaded Harmony | 29.00% | ~34 |
 | Karakuri Minato | 28.00% | ~33 |
+| Canyon of Karakuri | 26.00% | ~31 |
 | Karakuri Fortress | 26.00% | ~31 |
 | Jack of All Trades | 26.00% | ~31 |
-| Canyon of Karakuri | 25.00% | ~30 |
 | Quintessence of Form | 25.00% | ~30 |
 | Volatile Vocation | 24.00% | ~28 |
 | Tender Touch | 22.00% | ~26 |

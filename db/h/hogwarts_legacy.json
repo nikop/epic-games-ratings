@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8730,9 +8730,9 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298075,
+  "EOS_Progressed": 298079,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27250,6 +27250,11 @@
       "Time": "2023-10-09T12:06:31.8927912+00:00",
       "NumProgressed": 298075,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-09T13:20:20.7197717+00:00",
+      "NumProgressed": 298079,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27261,7 +27266,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44711
+      "UsersEstimate": 44712
     },
     {
       "ID": "PFA_10",
@@ -27285,7 +27290,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32788
+      "UsersEstimate": 32789
     },
     {
       "ID": "PFA_13",
@@ -27301,7 +27306,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17884
+      "UsersEstimate": 17885
     },
     {
       "ID": "PFA_15",
@@ -27317,7 +27322,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32788
+      "UsersEstimate": 32789
     },
     {
       "ID": "PFA_17",
@@ -27325,7 +27330,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20865
+      "UsersEstimate": 20866
     },
     {
       "ID": "PFA_18",
@@ -27389,7 +27394,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32788
+      "UsersEstimate": 32789
     },
     {
       "ID": "PFA_25",
@@ -27397,7 +27402,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17884
+      "UsersEstimate": 17885
     },
     {
       "ID": "PFA_26",
@@ -27429,7 +27434,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17884
+      "UsersEstimate": 17885
     },
     {
       "ID": "PFA_3",
@@ -27445,7 +27450,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32788
+      "UsersEstimate": 32789
     },
     {
       "ID": "PFA_31",
@@ -27549,7 +27554,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17884
+      "UsersEstimate": 17885
     },
     {
       "ID": "PFA_43",
@@ -27620,7 +27625,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298075,
+      "Progressed": 298079,
       "Completed": 482
     }
   ],
@@ -27628,8 +27633,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-09T11:58:00.9930091+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:06:31.8927908+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:20:20.7197712+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:58:00.9930097+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:06:31.8929074+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:10:27.0310801+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:20:20.7199247+00:00"
 }

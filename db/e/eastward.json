@@ -3,12 +3,12 @@
   "Name": "Eastward",
   "ProductSlug": "eastward",
   "Ranking_Rating": 260,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-16T07:00:00+00:00",
     "PcReleaseDate": "2021-09-16T07:00:00+00:00",
@@ -149,6 +149,6 @@
   "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
   "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.4291419+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:58:35.7106467+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:03:16.0927574+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:11:07.9318369+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:16:04.6792697+00:00"
 }

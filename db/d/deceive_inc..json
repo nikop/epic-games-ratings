@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18312,
+  "EOS_Progressed": 18313,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11311,6 +11311,11 @@
       "Time": "2023-10-09T07:04:54.7652477+00:00",
       "NumProgressed": 18312,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T13:17:39.6283332+00:00",
+      "NumProgressed": 18313,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11322,7 +11327,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5310
+      "UsersEstimate": 5311
     },
     {
       "ID": "0002",
@@ -11362,7 +11367,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "0007",
@@ -11562,7 +11567,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "0032",
@@ -11586,7 +11591,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "0035",
@@ -11609,7 +11614,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18312,
+      "Progressed": 18313,
       "Completed": 4
     }
   ],
@@ -11617,8 +11622,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:04:35.3944646+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:17:39.6283325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-09T12:00:01.7744245+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:04:35.3945365+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:12:53.7040913+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:17:39.6284332+00:00"
 }

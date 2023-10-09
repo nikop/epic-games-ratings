@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,411 (Ranked 219)  
+Progressed: 1,411 (Ranked 220)  
 Completed: 6 (0.43%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |

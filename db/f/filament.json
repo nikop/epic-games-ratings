@@ -261,9 +261,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203131,
+  "EOS_Progressed": 203138,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -18836,6 +18836,11 @@
       "Time": "2023-10-09T12:08:12.8644806+00:00",
       "NumProgressed": 203131,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-10-09T13:20:32.5589751+00:00",
+      "NumProgressed": 203138,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 29,
@@ -18871,7 +18876,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 190943
+      "UsersEstimate": 190950
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19031,7 +19036,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20313
+      "UsersEstimate": 20314
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -19047,7 +19052,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16250
+      "UsersEstimate": 16251
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -19078,7 +19083,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203131,
+      "Progressed": 203138,
       "Completed": 513
     }
   ],
@@ -19086,8 +19091,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:08:12.86448+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:20:32.5589746+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9270429+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:59:35.3313439+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:08:12.8645859+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:12:21.5813029+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:20:32.559133+00:00"
 }

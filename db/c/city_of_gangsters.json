@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347015,
+  "EOS_Progressed": 347018,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20033,6 +20033,11 @@
       "Time": "2023-10-09T12:04:40.5044957+00:00",
       "NumProgressed": 347015,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T13:17:45.7364562+00:00",
+      "NumProgressed": 347018,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20044,7 +20049,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach002",
@@ -20076,7 +20081,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach006",
@@ -20148,7 +20153,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52052
+      "UsersEstimate": 52053
     },
     {
       "ID": "ach015",
@@ -20196,7 +20201,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach021",
@@ -20204,7 +20209,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach022",
@@ -20252,7 +20257,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159627
+      "UsersEstimate": 159628
     },
     {
       "ID": "ach028",
@@ -20460,7 +20465,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach054",
@@ -20468,7 +20473,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach055",
@@ -20500,7 +20505,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10410
+      "UsersEstimate": 10411
     },
     {
       "ID": "ach059",
@@ -20556,7 +20561,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48582
+      "UsersEstimate": 48583
     },
     {
       "ID": "ach067",
@@ -20572,7 +20577,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55522
+      "UsersEstimate": 55523
     },
     {
       "ID": "ach069",
@@ -20580,7 +20585,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48582
+      "UsersEstimate": 48583
     },
     {
       "ID": "ach070",
@@ -20683,7 +20688,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347015,
+      "Progressed": 347018,
       "Completed": 7
     }
   ],
@@ -20691,8 +20696,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:04:40.5044953+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:17:45.7364551+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:57:58.5283335+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:04:40.5046578+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:10:23.6012674+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:17:45.7366747+00:00"
 }

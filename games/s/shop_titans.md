@@ -108,18 +108,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.30% | ~412 |
 | Bane of Legends | 0.20% | ~275 |
 | Ultimate Collector | 0.20% | ~275 |
+| Oligarch Monarch | 0.20% | ~275 |
 | Unleashed Potential | 0.20% | ~275 |
 | JACKPOT!!! | 0.20% | ~275 |
 | Merchant Extraordinaire | 0.20% | ~275 |
 | Anything not Nailed Down | 0.20% | ~275 |
 | The Greatest Grind | 0.20% | ~275 |
 | Marvels from the World Over | 0.20% | ~275 |
-| Oligarch Monarch | 0.10% | ~137 |
 | Capitalist Camaraderie | 0.10% | ~137 |
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,358 (Ranked 73)  
+Progressed: 137,362 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,358 | 167 |
+| 2023-10-09 | 137,362 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

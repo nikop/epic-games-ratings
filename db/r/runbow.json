@@ -3,12 +3,12 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250160,
+  "EOS_Progressed": 250161,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16069,6 +16069,11 @@
       "Time": "2023-10-09T05:05:29.1905017+00:00",
       "NumProgressed": 250160,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-09T13:18:01.0765551+00:00",
+      "NumProgressed": 250161,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16447,7 +16452,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250160,
+      "Progressed": 250161,
       "Completed": 6
     }
   ],
@@ -16455,8 +16460,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:04:52.8750711+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:18:01.0765545+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:59:31.227912+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:04:52.8751742+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:12:15.4795336+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:18:01.0766952+00:00"
 }

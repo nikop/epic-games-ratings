@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
 | Able Difficulty | 0.60% | ~87 |
+| Furious Family | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.50% | ~73 |
 | Just Difficulty | 0.50% | ~73 |
 | Artisans | 0.50% | ~73 |
-| Furious Family | 0.50% | ~73 |
 | Apadana | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
 | Good Difficulty | 0.30% | ~44 |
+| Strong Difficulty | 0.30% | ~44 |
 | Landowners | 0.30% | ~44 |
 | Riders | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
-| Strong Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
 | Hunters | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
@@ -224,6 +224,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.10% | ~15 |
 | Macedonian Wars | 0.10% | ~15 |
 | Medo-Babylonian Conquest | 0.10% | ~15 |
+| Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
 | Assyria | 0.10% | ~15 |
 | Hatti | 0.10% | ~15 |
@@ -337,7 +338,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Great Ziggurat in Ur | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,546 (Ranked 134)  
+Progressed: 14,547 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,546 | 5 |
+| 2023-10-09 | 14,547 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

@@ -1364,7 +1364,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428396,
+  "EOS_Progressed": 428397,
   "EOS_Completed": 538,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 4,
@@ -12904,6 +12904,11 @@
       "Time": "2023-10-09T11:09:23.2355533+00:00",
       "NumProgressed": 428396,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-10-09T13:21:14.5497895+00:00",
+      "NumProgressed": 428397,
+      "NumCompleted": 538
     }
   ],
   "TotalAchievements": 41,
@@ -12915,7 +12920,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64259
+      "UsersEstimate": 64260
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -12923,7 +12928,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167074
+      "UsersEstimate": 167075
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -12955,7 +12960,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179926
+      "UsersEstimate": 179927
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -12979,7 +12984,7 @@
       "Name": "Piercing Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59975
+      "UsersEstimate": 59976
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -13051,7 +13056,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201346
+      "UsersEstimate": 201347
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -13083,7 +13088,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406976
+      "UsersEstimate": 406977
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -13099,7 +13104,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308445
+      "UsersEstimate": 308446
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -13115,7 +13120,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295593
+      "UsersEstimate": 295594
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -13131,7 +13136,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342717
+      "UsersEstimate": 342718
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -13155,7 +13160,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68543
+      "UsersEstimate": 68544
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -13163,7 +13168,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197062
+      "UsersEstimate": 197063
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -13203,7 +13208,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184210
+      "UsersEstimate": 184211
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -13242,15 +13247,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428396,
+      "Progressed": 428397,
       "Completed": 538
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-07T11:00:06.9931717+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:08:31.5783588+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:21:14.5497889+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:34.9909298+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:59:24.6058471+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:08:31.5784472+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:12:06.8483013+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:21:14.5499034+00:00"
 }

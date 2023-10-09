@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7566,
+  "EOS_Progressed": 7568,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7309,6 +7309,11 @@
       "Time": "2023-10-09T11:04:23.964407+00:00",
       "NumProgressed": 7566,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-09T13:16:40.1654307+00:00",
+      "NumProgressed": 7568,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7368,7 +7373,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7472,7 +7477,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "THING",
@@ -7487,7 +7492,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7566,
+      "Progressed": 7568,
       "Completed": 33
     }
   ],
@@ -7495,8 +7500,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:03:45.674452+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:16:40.1654302+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:50.7439963+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:57:37.0388847+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:03:45.6744971+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:09:57.5019657+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:16:40.16549+00:00"
 }

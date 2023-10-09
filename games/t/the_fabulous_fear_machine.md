@@ -30,6 +30,7 @@
 | The barbarian invasions | 18.00% | ~4 |
 | Blessed antennas | 14.00% | ~3 |
 | The bully | 14.00% | ~3 |
+| Pulp! The Beyond | 14.00% | ~3 |
 | The beast in the Oval Office | 9.00% | ~2 |
 | Blood Red Island | 9.00% | ~2 |
 | Bread and bocaua | 9.00% | ~2 |
@@ -37,7 +38,6 @@
 | The scholar | 9.00% | ~2 |
 | The adventurer | 9.00% | ~2 |
 | Pulp! True Adventures | 9.00% | ~2 |
-| Pulp! The Beyond | 9.00% | ~2 |
 | America had no Faith | 9.00% | ~2 |
 | Vaccine fans | 9.00% | ~2 |
 | Pulp! Tales from the Crypt | 5.00% | ~1 |

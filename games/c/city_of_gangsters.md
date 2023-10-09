@@ -5,11 +5,11 @@ Rating: 4.28 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,627 |
-| Copacetic Coordination | 16.00% | ~55,522 |
-| Fronting the Money | 15.00% | ~52,052 |
-| The Dawn of Automation | 14.00% | ~48,582 |
-| Extraordinary Logistics | 14.00% | ~48,582 |
+| Corner Clout | 46.00% | ~159,628 |
+| Copacetic Coordination | 16.00% | ~55,523 |
+| Fronting the Money | 15.00% | ~52,053 |
+| The Dawn of Automation | 14.00% | ~48,583 |
+| Extraordinary Logistics | 14.00% | ~48,583 |
 | Dirty Money | 13.00% | ~45,112 |
 | Family First | 13.00% | ~45,112 |
 | Cleaning House | 12.00% | ~41,642 |
@@ -41,13 +41,13 @@ Rating: 4.28 (Ranked 828)
 | An Affront to the Enemy | 4.00% | ~13,881 |
 | Friends from Back Home | 4.00% | ~13,881 |
 | Half Century Mark | 4.00% | ~13,881 |
-| Corner Opportunities | 3.00% | ~10,410 |
-| 2122 North Clark Street | 3.00% | ~10,410 |
-| Copious Cabbage | 3.00% | ~10,410 |
-| Sockdolager | 3.00% | ~10,410 |
-| Still Stalwart | 3.00% | ~10,410 |
-| Bees Knees Bootlegger | 3.00% | ~10,410 |
-| Tighten the Screws | 3.00% | ~10,410 |
+| Corner Opportunities | 3.00% | ~10,411 |
+| 2122 North Clark Street | 3.00% | ~10,411 |
+| Copious Cabbage | 3.00% | ~10,411 |
+| Sockdolager | 3.00% | ~10,411 |
+| Still Stalwart | 3.00% | ~10,411 |
+| Bees Knees Bootlegger | 3.00% | ~10,411 |
+| Tighten the Screws | 3.00% | ~10,411 |
 | One of Us | 2.00% | ~6,940 |
 | Baker’s Dozen | 2.00% | ~6,940 |
 | Dropping the Dime | 2.00% | ~6,940 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,015 (Ranked 43)  
+Progressed: 347,018 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 310)
 | 2023-10-06 | 346,599 | 7 |
 | 2023-10-07 | 346,774 | 7 |
 | 2023-10-08 | 346,961 | 7 |
-| 2023-10-09 | 347,015 | 7 |
+| 2023-10-09 | 347,018 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 443)  
 Sum: 176 (Ranked 392)  

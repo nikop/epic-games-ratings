@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1748,9 +1748,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60325,
+  "EOS_Progressed": 60326,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20593,6 +20593,11 @@
       "Time": "2023-10-09T12:04:19.8314611+00:00",
       "NumProgressed": 60325,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T13:17:21.1955505+00:00",
+      "NumProgressed": 60326,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20668,7 +20673,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -20796,7 +20801,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -20836,7 +20841,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15685
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -20948,7 +20953,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15081
+      "UsersEstimate": 15082
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -21068,22 +21073,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22320
+      "UsersEstimate": 22321
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60325,
+      "Progressed": 60326,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-09T12:04:19.8314608+00:00",
+  "LastChanged_Achievements": "2023-10-09T13:17:21.1955496+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.9532506+00:00",
-  "LastUpdate_Ratings": "2023-10-09T11:59:14.4818735+00:00",
-  "LastUpdate_Achievements": "2023-10-09T12:04:19.8315897+00:00"
+  "LastUpdate_Ratings": "2023-10-09T13:11:54.820608+00:00",
+  "LastUpdate_Achievements": "2023-10-09T13:17:21.19572+00:00"
 }
