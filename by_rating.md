@@ -278,7 +278,7 @@
 | 260 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 530 |
 | 260 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 192 | 282 |
 | 260 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 530 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,559 | 89 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,561 | 89 |
 | 260 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 530 |
 | 281 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 373 |
 | 281 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,685 | 66 |
@@ -417,7 +417,7 @@
 | 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 484 | 206 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 424 |
 | 416 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 169 | 297 |
-| 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 375 | 226 |
+| 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 380 | 226 |
 | 416 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 75 | 379 |
 | 416 | [DOOM 3](games/d/doom_3.md) | 4.59 | 69 | 389 |
 | 416 | [GRIME](games/g/grime.md) | 4.59 | 42 | 433 |
@@ -718,7 +718,7 @@
 | 699 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 70 | 386 |
 | 699 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 251 |
 | 699 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 530 |
-| 699 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,397 | 131 |
+| 699 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,400 | 131 |
 | 720 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 530 |
 | 720 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,039 | 143 |
 | 720 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 530 |
@@ -903,14 +903,14 @@
 | 901 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 451 |
 | 901 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 530 |
 | 901 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 356 |
+| 901 | [SYNCED](games/s/synced.md) | 4.17 | 56 | 401 |
 | 901 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 530 |
-| 905 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 530 |
-| 905 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 186 |
-| 905 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 530 |
-| 905 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 24 | 504 |
-| 905 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 291 |
-| 905 | [SYNCED](games/s/synced.md) | 4.16 | 56 | 401 |
-| 905 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 530 |
+| 906 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 530 |
+| 906 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 186 |
+| 906 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 530 |
+| 906 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 24 | 504 |
+| 906 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 291 |
+| 906 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 530 |
 | 912 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 530 |
 | 912 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 530 |
 | 912 | [Forspoken](games/f/forspoken.md) | 4.15 | 28 | 480 |

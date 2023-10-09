@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.79% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.78% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -27,7 +27,7 @@
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 26 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.07% |
 | 27 | [Remains](games/r/remains.md) | 12.00% |
-| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.76% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
 | 29 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
 | 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
@@ -657,4 +657,4 @@
 | 310 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 310 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 310 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,364 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,365 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

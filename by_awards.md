@@ -88,7 +88,7 @@
 | 86 | [Paladins](games/p/paladins.md) | 3,708 | 4.33 | 787 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,634 | 4.68 | 243 |
 | 88 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,618 | 4.46 | 628 |
-| 89 | [Trackmania](games/t/trackmania.md) | 3,559 | 4.67 | 260 |
+| 89 | [Trackmania](games/t/trackmania.md) | 3,561 | 4.67 | 260 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,545 | 4.47 | 620 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,363 | 4.68 | 243 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,353 | 4.76 | 120 |
@@ -130,7 +130,7 @@
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,477 | 4.86 | 28 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,466 | 4.53 | 524 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,460 | 4.87 | 22 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,397 | 4.41 | 699 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,400 | 4.41 | 699 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,328 | 4.70 | 203 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,301 | 4.55 | 490 |
 | 134 | [DOOM 64](games/d/doom_64.md) | 1,295 | 4.66 | 281 |
@@ -185,7 +185,7 @@
 | 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 666 | 4.24 | 855 |
 | 184 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 660 | 4.67 | 260 |
 | 185 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 646 | 4.50 | 572 |
-| 186 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 905 |
+| 186 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 906 |
 | 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 617 | 4.73 | 163 |
 | 188 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 612 | 4.63 | 336 |
 | 189 | [Star Trek Online](games/s/star_trek_online.md) | 588 | 4.44 | 658 |
@@ -225,7 +225,7 @@
 | 223 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 387 | 4.62 | 354 |
 | 224 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 386 | 4.62 | 354 |
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 382 | 4.76 | 120 |
-| 226 | [Brawlhalla](games/b/brawlhalla.md) | 375 | 4.59 | 416 |
+| 226 | [Brawlhalla](games/b/brawlhalla.md) | 380 | 4.59 | 416 |
 | 227 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 965 |
 | 228 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 364 | 4.32 | 797 |
 | 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 360 | 4.54 | 509 |
@@ -290,7 +290,7 @@
 | 288 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 181 | 4.22 | 869 |
 | 288 | [The Witness](games/t/the_witness.md) | 181 | 4.70 | 203 |
 | 290 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 180 | 4.66 | 281 |
-| 291 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 905 |
+| 291 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 906 |
 | 292 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 760 |
 | 292 | [Mothergunship](games/m/mothergunship.md) | 173 | 4.38 | 738 |
 | 292 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 828 |
@@ -401,7 +401,7 @@
 | 399 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 59 | 4.37 | 751 |
 | 399 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 658 |
 | 401 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 56 | 4.65 | 297 |
-| 401 | [SYNCED](games/s/synced.md) | 56 | 4.16 | 905 |
+| 401 | [SYNCED](games/s/synced.md) | 56 | 4.17 | 901 |
 | 403 | [Ranch Simulator](games/r/ranch_simulator.md) | 55 | 4.45 | 646 |
 | 404 | [Obduction](games/o/obduction.md) | 54 | 4.08 | 937 |
 | 404 | [Session: Skate Sim](games/s/session__skate_sim.md) | 54 | 4.70 | 203 |
@@ -504,7 +504,7 @@
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 25 | 4.54 | 509 |
 | 498 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 336 |
 | 504 | [ELEX](games/e/elex.md) | 24 | 4.46 | 628 |
-| 504 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 24 | 4.16 | 905 |
+| 504 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 24 | 4.16 | 906 |
 | 504 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 24 | 4.49 | 590 |
 | 504 | [RUINER](games/r/ruiner.md) | 24 | 4.53 | 524 |
 | 504 | [Sable](games/s/sable.md) | 24 | 4.52 | 536 |
