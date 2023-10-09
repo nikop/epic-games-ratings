@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 9.00% | ~1,239 |
+| Oyedang, Kopengs | 9.00% | ~1,240 |
 | Drug Gifter | 4.00% | ~551 |
 | The Pit and the Pirates | 3.00% | ~413 |
 | Bosmang | 3.00% | ~413 |
-| Data Archivist | 2.00% | ~275 |
-| Spore Taste | 2.00% | ~275 |
-| Martian Music | 2.00% | ~275 |
-| Drone Dodger | 2.00% | ~275 |
-| Heal Thy Medic | 2.00% | ~275 |
-| Khan's Revenge | 2.00% | ~275 |
-| Call it Even | 2.00% | ~275 |
-| Captain Drummer | 2.00% | ~275 |
-| Celebrations are in Order | 2.00% | ~275 |
-| Impossible Objects | 2.00% | ~275 |
+| Data Archivist | 2.00% | ~276 |
+| Spore Taste | 2.00% | ~276 |
+| Martian Music | 2.00% | ~276 |
+| Drone Dodger | 2.00% | ~276 |
+| Heal Thy Medic | 2.00% | ~276 |
+| Khan's Revenge | 2.00% | ~276 |
+| Call it Even | 2.00% | ~276 |
+| Captain Drummer | 2.00% | ~276 |
+| Celebrations are in Order | 2.00% | ~276 |
+| Impossible Objects | 2.00% | ~276 |
 | Stogie for Fogey | 1.00% | ~138 |
 | Miraculous Maya | 1.00% | ~138 |
+| Bottoms up! | 0.90% | ~124 |
 | Thorston Mayer | 0.90% | ~124 |
 | Doctor Approved | 0.80% | ~110 |
-| Bottoms up! | 0.80% | ~110 |
 | No Belter Left Behind | 0.60% | ~83 |
 | Data Logger | 0.50% | ~69 |
 | Brother's Reaper | 0.50% | ~69 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 471)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,772 (Ranked 135)  
+Progressed: 13,777 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
 | 2023-10-08 | 13,771 | 18 |
-| 2023-10-09 | 13,772 | 18 |
+| 2023-10-09 | 13,777 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

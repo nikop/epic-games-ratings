@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,542 |
-| Landlord | 33.00% | ~20,766 |
-| Bannerlord | 23.00% | ~14,473 |
-| Horde breaker | 23.00% | ~14,473 |
-| Lawmaker | 23.00% | ~14,473 |
-| Trained | 23.00% | ~14,473 |
-| The king is pleased | 19.00% | ~11,956 |
+| Lawbringer | 39.00% | ~24,543 |
+| Landlord | 33.00% | ~20,767 |
+| Bannerlord | 23.00% | ~14,474 |
+| Horde breaker | 23.00% | ~14,474 |
+| Lawmaker | 23.00% | ~14,474 |
+| Trained | 23.00% | ~14,474 |
+| The king is pleased | 19.00% | ~11,957 |
 | King Solomon | 17.00% | ~10,698 |
-| I can do it | 16.00% | ~10,068 |
-| Apple of my eye | 15.00% | ~9,439 |
+| I can do it | 16.00% | ~10,069 |
+| Apple of my eye | 15.00% | ~9,440 |
 | God of the Arena | 13.00% | ~8,181 |
-| Against all odds | 12.00% | ~7,551 |
-| This Is Our Land | 12.00% | ~7,551 |
+| Against all odds | 12.00% | ~7,552 |
+| This Is Our Land | 12.00% | ~7,552 |
 | Duelist | 10.00% | ~6,293 |
 | Dynasty | 10.00% | ~6,293 |
 | Swordbearer | 10.00% | ~6,293 |
@@ -38,7 +38,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~629 |
 | Crackshot | 0.90% | ~566 |
 | Undercover | 0.80% | ~503 |
-| Fat Cat | 0.70% | ~440 |
+| Fat Cat | 0.70% | ~441 |
 | Catch | 0.60% | ~378 |
 | Slice 'n dice | 0.50% | ~315 |
 | Ride it like you stole it | 0.40% | ~252 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,928 (Ranked 96)  
+Progressed: 62,930 (Ranked 96)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 62,814 | 0 |
 | 2023-10-07 | 62,881 | 0 |
 | 2023-10-08 | 62,927 | 0 |
-| 2023-10-09 | 62,928 | 0 |
+| 2023-10-09 | 62,930 | 0 |
 ## Awards
 Max (Character Customization): 7,202  (Ranked 52)  
 Sum: 14,795 (Ranked 66)  

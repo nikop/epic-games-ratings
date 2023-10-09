@@ -16,12 +16,12 @@
 | Peace walker | 3.00% | ~8 |
 | Cable guy | 3.00% | ~8 |
 | A good beginning | 3.00% | ~8 |
+| Half the way | 3.00% | ~8 |
 | Open door | 3.00% | ~8 |
 | Alchemists Express | 3.00% | ~8 |
 | Champollion | 3.00% | ~8 |
 | The darkness | 3.00% | ~8 |
 | One last step | 3.00% | ~8 |
-| Half the way | 2.00% | ~5 |
 | Free at last | 2.00% | ~5 |
 | Feels like springtime | 2.00% | ~5 |
 | For its own good | 2.00% | ~5 |
@@ -30,8 +30,8 @@
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 322)  
-Completed: 19 (7.12%) (Ranked 47)  
+Progressed: 268 (Ranked 322)  
+Completed: 19 (7.09%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,4 +111,4 @@ Completed: 19 (7.12%) (Ranked 47)
 | 2023-10-06 | 252 | 17 |
 | 2023-10-07 | 259 | 17 |
 | 2023-10-08 | 267 | 18 |
-| 2023-10-09 | 267 | 19 |
+| 2023-10-09 | 268 | 19 |

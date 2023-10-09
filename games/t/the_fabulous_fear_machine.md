@@ -29,18 +29,18 @@
 | Welcome to Hellville | 19.00% | ~4 |
 | You had one wish left | 14.00% | ~3 |
 | The bully | 14.00% | ~3 |
+| Blessed antennas | 10.00% | ~2 |
+| The beast in the Oval Office | 10.00% | ~2 |
+| The adventurer | 10.00% | ~2 |
 | Pulp! True Adventures | 10.00% | ~2 |
 | Pulp! The Beyond | 10.00% | ~2 |
+| America had no Faith | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
-| Blessed antennas | 5.00% | ~1 |
-| The beast in the Oval Office | 5.00% | ~1 |
 | Blood Red Island | 5.00% | ~1 |
 | Bread and bocaua | 5.00% | ~1 |
 | Fanatacism is... poisonous | 5.00% | ~1 |
 | The scholar | 5.00% | ~1 |
-| The adventurer | 5.00% | ~1 |
 | Thirst for Oleum | 5.00% | ~1 |
-| America had no Faith | 5.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |

@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 889)
 | Desperate Times | 3.00% | ~480 |
 | In Striking Distance | 2.00% | ~320 |
 | The Commonality | 2.00% | ~320 |
-| One Last Job | 2.00% | ~78 |
+| One Last Job | 2.00% | ~79 |
 | This Isn't About Escape | 1.00% | ~39 |
 | Armed to the Teeth | 0.70% | ~27 |
 | Parole Denied | 0.70% | ~27 |
@@ -42,7 +42,6 @@ Rating: 4.19 (Ranked 889)
 | Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
-| Hoard Mode | 0.20% | ~8 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
@@ -51,9 +50,10 @@ Rating: 4.19 (Ranked 889)
 | Lifer | 0.10% | ~4 |
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
+| Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,999 (Ranked 132)  
+Progressed: 16,000 (Ranked 132)  
 Completed: 74 (0.46%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 74 (0.46%) (Ranked 172)
 | 2023-10-06 | 15,993 | 74 |
 | 2023-10-07 | 15,995 | 74 |
 | 2023-10-08 | 15,999 | 74 |
+| 2023-10-09 | 16,000 | 74 |
 ## Awards
 Max (Amazing Storytelling): 75  (Ranked 379)  
 Sum: 438 (Ranked 321)  

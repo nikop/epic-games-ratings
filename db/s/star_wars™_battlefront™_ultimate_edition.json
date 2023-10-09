@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -1381,6 +1381,11 @@
       "Time": "2023-10-09T00:06:31.1905987+00:00",
       "NumProgressed": 539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T01:48:54.9731774+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1489,7 +1494,7 @@
       "Name": "Collector",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_21",
@@ -1583,9 +1588,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_32",
@@ -1617,7 +1622,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_36",
@@ -1633,7 +1638,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_38",
@@ -1665,7 +1670,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_41",
@@ -1873,7 +1878,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_8",
@@ -1896,13 +1901,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 541,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 539,
+      "Progressed": 541,
       "Completed": 1
     }
   ],
@@ -1910,8 +1915,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:06:31.1905982+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:48:54.973177+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-09T00:03:21.8872819+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:06:31.1906777+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:45:12.5752089+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:48:54.9732798+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15999,
+  "EOS_Progressed": 16000,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7341,6 +7341,11 @@
       "Time": "2023-10-08T20:04:27.6435272+00:00",
       "NumProgressed": 15999,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-09T01:47:06.8686835+00:00",
+      "NumProgressed": 16000,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 47,
@@ -7646,9 +7651,9 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -7696,7 +7701,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KILL_BIOBOT",
@@ -7727,13 +7732,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15999,
+      "Progressed": 16000,
       "Completed": 74
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3925,
+      "Progressed": 3926,
       "Completed": 29
     }
   ],
@@ -7741,8 +7746,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-08T14:02:05.2504973+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:04:37.4966661+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:47:06.8686832+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:42.1590556+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:57:17.6700128+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:04:37.4967334+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:39:55.9092757+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:47:06.8687701+00:00"
 }

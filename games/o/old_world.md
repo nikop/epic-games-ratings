@@ -7,6 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 2.00% | ~291 |
+| Able | 1.00% | ~145 |
 | Architect | 1.00% | ~145 |
 | Explorer | 1.00% | ~145 |
 | Good | 1.00% | ~145 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~145 |
 | Hanging Gardens | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
-| Able | 0.90% | ~131 |
 | Learned | 0.90% | ~131 |
 | Mason | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
 | Keystone | 0.70% | ~102 |
+| Magnificent | 0.70% | ~102 |
 | Warrior | 0.70% | ~102 |
 | Developing Cities | 0.70% | ~102 |
 | Strong Cities | 0.70% | ~102 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.70% | ~102 |
 | Brilliant | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
-| Magnificent | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
 | Able Difficulty | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.20% | ~29 |
 | Devout | 0.20% | ~29 |
 | Invincible | 0.20% | ~29 |
+| Old | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
 | Strong Difficulty | 0.20% | ~29 |
@@ -178,7 +179,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
-| Old | 0.10% | ~15 |
 | Peacemaker | 0.10% | ~15 |
 | Glorious Difficulty | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,536 (Ranked 134)  
+Progressed: 14,539 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,536 | 5 |
+| 2023-10-09 | 14,539 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

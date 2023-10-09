@@ -4,7 +4,7 @@
   "ProductSlug": "inspector-gadget-mad-time-party-1dc812",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T16:00:00+00:00",
@@ -133,8 +133,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-15T16:03:28.4278363+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:06:55.7395144+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:49:17.7554125+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:06.3004835+00:00",
-  "LastUpdate_Ratings": "2023-10-09T00:00:35.9305954+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:06:55.7395294+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:43:09.1215907+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:49:17.7554226+00:00"
 }

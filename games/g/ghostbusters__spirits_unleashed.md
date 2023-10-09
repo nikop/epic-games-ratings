@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 571)  
+Rating: 4.50 (Ranked 572)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,9 +30,9 @@ Rating: 4.50 (Ranked 571)
 | Ectoplasmic Entity | 0.60% | ~158 |
 | Side Hustle | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
-| Legions | 0.50% | ~131 |
-| Skilled | 0.50% | ~131 |
-| Stunner | 0.50% | ~131 |
+| Legions | 0.50% | ~132 |
+| Skilled | 0.50% | ~132 |
+| Stunner | 0.50% | ~132 |
 | We have the best insurance | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 571)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,296 (Ranked 117)  
+Progressed: 26,301 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-10-06 | 26,251 | 58 |
 | 2023-10-07 | 26,270 | 58 |
 | 2023-10-08 | 26,296 | 58 |
+| 2023-10-09 | 26,301 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,370 (Ranked 189)  

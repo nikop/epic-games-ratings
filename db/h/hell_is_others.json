@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257094,
+  "EOS_Progressed": 257095,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18070,6 +18070,11 @@
       "Time": "2023-10-09T00:08:13.0472856+00:00",
       "NumProgressed": 257094,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-09T01:50:13.8912328+00:00",
+      "NumProgressed": 257095,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18185,7 +18190,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25709
+      "UsersEstimate": 25710
     },
     {
       "ID": "CreditLevel2",
@@ -18473,7 +18478,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25709
+      "UsersEstimate": 25710
     },
     {
       "ID": "ReachNDays2",
@@ -18528,7 +18533,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257094,
+      "Progressed": 257095,
       "Completed": 3
     }
   ],
@@ -18536,8 +18541,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-08T03:57:24.6530613+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:08:13.0472852+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:50:13.8912325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:57:59.1251088+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:08:13.0474477+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:40:37.7635127+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:50:13.8914044+00:00"
 }

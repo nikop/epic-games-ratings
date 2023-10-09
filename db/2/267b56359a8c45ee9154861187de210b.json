@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-10-08T22:04:24.6834925+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T01:47:27.6615952+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -230,7 +235,7 @@
       "ID": "TOURN_PARTICIP_5",
       "SetID": "3448go",
       "Name": "Challenger",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -326,17 +331,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "beat_c1a_bronze",
@@ -398,7 +403,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -454,7 +459,7 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -462,7 +467,7 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -526,7 +531,7 @@
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -590,7 +595,7 @@
       "ID": "beat_c5_silver",
       "SetID": "3448go",
       "Name": "Symbiotic Relationship",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -790,7 +795,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -814,7 +819,7 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -822,7 +827,7 @@
       "ID": "soccer_mid",
       "SetID": "3448go",
       "Name": "Pretty Forward",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -895,14 +900,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:04:58.9418247+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:47:27.6615948+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.4295563+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:59:35.4314604+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:04:58.9419287+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:42:08.1131659+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:47:27.6617007+00:00"
 }

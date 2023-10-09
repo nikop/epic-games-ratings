@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3561,
+  "EOS_Progressed": 3562,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-10-08T21:03:25.753302+00:00",
       "NumProgressed": 3561,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T01:46:24.8910135+00:00",
+      "NumProgressed": 3562,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5204,7 +5209,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "HouseofCards_19",
@@ -5324,7 +5329,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5364,7 +5369,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5372,7 +5377,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "TheStuffOfLegends",
@@ -5420,7 +5425,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5435,15 +5440,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3561,
+      "Progressed": 3562,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:04:04.3766688+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:46:24.8910131+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:57:43.9559943+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:04:04.376729+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:40:21.7410706+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:46:24.8910813+00:00"
 }

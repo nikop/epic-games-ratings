@@ -156,9 +156,9 @@
       "ID": "Chapter06_NewExperience",
       "SetID": "c8fdd59",
       "Name": "New Experience",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter07_Reunion",
@@ -252,9 +252,9 @@
       "ID": "DroppedHard",
       "SetID": "c8fdd59",
       "Name": "Dropped Hard",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EnemySlain",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:05:56.0587753+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:48:21.2117218+00:00",
   "LastUpdate_AppInfo": "2023-10-02T10:57:11.2778371+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:58:37.4288492+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:05:56.0588107+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:41:11.4111933+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:48:21.2117573+00:00"
 }

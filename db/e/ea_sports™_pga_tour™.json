@@ -2,7 +2,7 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 115,
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
@@ -1062,6 +1062,11 @@
       "Time": "2023-10-08T22:05:25.2311707+00:00",
       "NumProgressed": 360,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-09T01:48:25.4363979+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1082,7 +1087,7 @@
       "Name": "Holey Moley",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_11",
@@ -1090,7 +1095,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_12",
@@ -1106,7 +1111,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_14",
@@ -1114,7 +1119,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_15",
@@ -1170,7 +1175,7 @@
       "Name": "From Many, One",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_5",
@@ -1217,13 +1222,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:06:00.3793113+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:48:25.4363975+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:15.0584503+00:00",
-  "LastUpdate_Ratings": "2023-10-09T00:00:03.8403392+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:06:00.3793286+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:42:37.3365537+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:48:25.4364208+00:00"
 }

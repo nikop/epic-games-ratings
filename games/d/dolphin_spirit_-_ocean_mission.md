@@ -9,6 +9,8 @@
 | New recruit | 20.00% | ~3 |
 | Amateur photographer | 13.00% | ~2 |
 | Interesting | 13.00% | ~2 |
+| Legend of the association | 7.00% | ~1 |
+| Picture of the island | 7.00% | ~1 |
 | Power of the turtle | 7.00% | ~1 |
 | Pro Photographer | 0.00% | ~0 |
 | Animal reporter | 0.00% | ~0 |
@@ -24,12 +26,10 @@
 | Island gardian angel | 0.00% | ~0 |
 | Rescuer | 0.00% | ~0 |
 | Heroic member | 0.00% | ~0 |
-| Legend of the association | 0.00% | ~0 |
 | Picture of the bay | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | Picture of the atoll | 0.00% | ~0 |
 | Picture of the reef | 0.00% | ~0 |
-| Picture of the island | 0.00% | ~0 |
 | In search of knowledge | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
 | Power of the dolphin | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "vivaion-0ae3ab",
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-02T08:56:59.993339+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:59:33.4666458+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:03:44.4287368+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:42:05.8259614+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:46:05.839889+00:00"
 }

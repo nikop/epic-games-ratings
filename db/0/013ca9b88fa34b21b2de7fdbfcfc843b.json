@@ -5,9 +5,9 @@
   "Ranking_Rating": 318,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6357,
+  "EOS_Progressed": 6358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3741,6 +3741,11 @@
       "Time": "2023-10-09T00:05:43.1186645+00:00",
       "NumProgressed": 6357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T01:48:09.3727032+00:00",
+      "NumProgressed": 6358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3761,7 +3766,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3777,7 +3782,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3841,7 +3846,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -3857,7 +3862,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3865,7 +3870,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -3889,7 +3894,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3905,7 +3910,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3814
+      "UsersEstimate": 3815
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3975,9 +3980,9 @@
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 954
+      "UsersEstimate": 1017
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -4032,7 +4037,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6357,
+      "Progressed": 6358,
       "Completed": 0
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-08T18:59:48.1670142+00:00",
-  "LastChanged_Achievements": "2023-10-09T00:05:43.1186639+00:00",
+  "LastChanged_Achievements": "2023-10-09T01:48:09.3727029+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:59:46.1002085+00:00",
-  "LastUpdate_Achievements": "2023-10-09T00:05:43.1187152+00:00"
+  "LastUpdate_Ratings": "2023-10-09T01:42:18.8602442+00:00",
+  "LastUpdate_Achievements": "2023-10-09T01:48:09.3727574+00:00"
 }

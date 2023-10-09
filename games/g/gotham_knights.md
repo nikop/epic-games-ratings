@@ -5,43 +5,43 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,130 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,664 |
-| Loose Ends | 34.00% | ~24,931 |
-| To the Victor Go the Spoils | 29.00% | ~21,265 |
-| Knighthood | 28.00% | ~20,531 |
-| Get ReQ'd | 25.00% | ~18,332 |
-| Whispered Words | 25.00% | ~18,332 |
-| The Batman Family | 23.00% | ~16,865 |
-| Lock and Key | 23.00% | ~16,865 |
-| Something in the Clay | 21.00% | ~15,398 |
-| Quartzer Life Crisis | 21.00% | ~15,398 |
-| Working Hard or Harley Working? | 20.00% | ~14,665 |
-| Unstoppable Force | 20.00% | ~14,665 |
-| Bad Apples in Every Orchard | 20.00% | ~14,665 |
-| Snow Problem | 19.00% | ~13,932 |
-| The Show Mud Go On | 18.00% | ~13,199 |
-| From Inside Gotham's Walls | 18.00% | ~13,199 |
-| Protector of Gotham | 17.00% | ~12,465 |
-| Universal Health Scare | 16.00% | ~11,732 |
-| In Your Element | 15.00% | ~10,999 |
-| Voiceless | 15.00% | ~10,999 |
+| First Step Into the Knight | 52.00% | ~38,133 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,666 |
+| Loose Ends | 34.00% | ~24,933 |
+| To the Victor Go the Spoils | 29.00% | ~21,266 |
+| Knighthood | 28.00% | ~20,533 |
+| Get ReQ'd | 25.00% | ~18,333 |
+| Whispered Words | 25.00% | ~18,333 |
+| The Batman Family | 23.00% | ~16,866 |
+| Lock and Key | 23.00% | ~16,866 |
+| Something in the Clay | 21.00% | ~15,400 |
+| Quartzer Life Crisis | 21.00% | ~15,400 |
+| Working Hard or Harley Working? | 20.00% | ~14,666 |
+| Unstoppable Force | 20.00% | ~14,666 |
+| Bad Apples in Every Orchard | 20.00% | ~14,666 |
+| Snow Problem | 19.00% | ~13,933 |
+| The Show Mud Go On | 18.00% | ~13,200 |
+| From Inside Gotham's Walls | 18.00% | ~13,200 |
+| Protector of Gotham | 17.00% | ~12,466 |
+| Universal Health Scare | 16.00% | ~11,733 |
+| In Your Element | 15.00% | ~11,000 |
+| Voiceless | 15.00% | ~11,000 |
 | Rock and a Hard Place | 14.00% | ~10,266 |
 | Cooldown | 14.00% | ~10,266 |
 | Seeking Asylum | 14.00% | ~10,266 |
-| Not On My Watch | 13.00% | ~9,532 |
-| Shock Til They Drop | 13.00% | ~9,532 |
-| End of an Era | 12.00% | ~8,799 |
-| Bulldozed | 12.00% | ~8,799 |
-| Gotham Knight | 12.00% | ~8,799 |
-| Gotham City Confidential | 11.00% | ~8,066 |
+| Not On My Watch | 13.00% | ~9,533 |
+| Shock Til They Drop | 13.00% | ~9,533 |
+| End of an Era | 12.00% | ~8,800 |
+| Bulldozed | 12.00% | ~8,800 |
+| Gotham Knight | 12.00% | ~8,800 |
+| Gotham City Confidential | 11.00% | ~8,067 |
 | Drone You Out | 10.00% | ~7,333 |
-| Out of Their League | 9.00% | ~6,599 |
-| Solid Alibi | 9.00% | ~6,599 |
+| Out of Their League | 9.00% | ~6,600 |
+| Solid Alibi | 9.00% | ~6,600 |
 | Fusion Expert | 7.00% | ~5,133 |
 | Family Meeting | 6.00% | ~4,400 |
 | A Worthy Successor | 6.00% | ~4,400 |
-| Expert Crime Fighter | 5.00% | ~3,666 |
+| Expert Crime Fighter | 5.00% | ~3,667 |
 | Dressed to Impress | 4.00% | ~2,933 |
 | A Momentum Occasion | 3.00% | ~2,200 |
 | Bat Out of Hell | 3.00% | ~2,200 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,326 (Ranked 91)  
+Progressed: 73,332 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 120 (0.16%) (Ranked 227)
 | 2023-10-06 | 73,220 | 120 |
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
-| 2023-10-09 | 73,326 | 120 |
+| 2023-10-09 | 73,332 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,795  (Ranked 97)  
-Sum: 4,688 (Ranked 140)  
+Sum: 4,689 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): -43
 | This game is Extremely Fun | 240 |
 | This game has Quickly Understood Controls | 239 |
 | This game is Great for Beginners | 238 |
-| This game has Diverse Characters | 236 |
+| This game has Diverse Characters | 237 |
 | This game has Amazing Characters | 233 |
 | This game has Amazing Storytelling | 232 |
 | This game is Highly Recommended | 232 |
@@ -485,3 +485,4 @@ Diff (max vs sum): -43
 | 2023-10-06 | 4.18 | 2,784 | 4,663 |
 | 2023-10-07 | 4.18 | 2,788 | 4,679 |
 | 2023-10-08 | 4.18 | 2,795 | 4,688 |
+| 2023-10-09 | 4.18 | 2,795 | 4,689 |

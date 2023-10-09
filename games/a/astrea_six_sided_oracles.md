@@ -4,64 +4,65 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 20.00% | ~10 |
+| Noctuan Champion | 22.00% | ~11 |
+| Apian Champion | 20.00% | ~10 |
 | Endless Tricks | 18.00% | ~9 |
 | Meissa's Savior | 18.00% | ~9 |
-| Apian Champion | 18.00% | ~9 |
+| Lacertian Champion | 18.00% | ~9 |
 | Dicesmithing Time! | 16.00% | ~8 |
+| Loyal Partner | 16.00% | ~8 |
 | Mechanical Buddy | 16.00% | ~8 |
 | Purification Pioneer | 16.00% | ~8 |
 | Sanctuary Guardian | 16.00% | ~8 |
+| Stellar Dismantler | 16.00% | ~8 |
 | Wild's Keeper | 16.00% | ~8 |
+| Eridanian Champion | 16.00% | ~8 |
 | Mind Illuminator | 14.00% | ~7 |
-| Stellar Dismantler | 14.00% | ~7 |
-| Eridanian Champion | 14.00% | ~7 |
-| Lacertian Champion | 14.00% | ~7 |
-| Loyal Partner | 12.00% | ~6 |
-| Shard Spender | 12.00% | ~6 |
-| Behenian Champion | 12.00% | ~6 |
+| Shard Spender | 14.00% | ~7 |
+| Behenian Champion | 14.00% | ~7 |
+| Anomaly Destroyer | 12.00% | ~6 |
+| Aquarian Champion | 12.00% | ~6 |
+| Astral Adventurer | 10.00% | ~5 |
 | Unbeatable | 10.00% | ~5 |
-| Aquarian Champion | 10.00% | ~5 |
-| Anomaly Destroyer | 8.00% | ~4 |
-| Astral Adventurer | 8.00% | ~4 |
+| Favored by the Cosmos | 8.00% | ~4 |
+| Heart Gate | 8.00% | ~4 |
 | Sadistic Plan | 8.00% | ~4 |
 | Star Killer | 8.00% | ~4 |
 | Stellar Haste | 8.00% | ~4 |
+| Anomaly Control | 6.00% | ~3 |
+| Astral Seeker | 6.00% | ~3 |
 | Can't touch this | 6.00% | ~3 |
-| Favored by the Cosmos | 6.00% | ~3 |
-| Heart Gate | 6.00% | ~3 |
+| Heavy Purger | 6.00% | ~3 |
 | The Corruption Goddess | 6.00% | ~3 |
+| The Goddes Avatar | 6.00% | ~3 |
 | Wave Bender | 6.00% | ~3 |
-| Anomaly Control | 4.00% | ~2 |
-| Astral Seeker | 4.00% | ~2 |
+| Apian Hero | 6.00% | ~3 |
+| Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | Denying Destiny | 4.00% | ~2 |
-| Heavy Purger | 4.00% | ~2 |
+| If I Had Failed... | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
-| The Goddes Avatar | 4.00% | ~2 |
-| Apian Hero | 4.00% | ~2 |
+| The Abyssal Terror | 4.00% | ~2 |
+| The Dark Moon | 4.00% | ~2 |
+| Aquarian Mastery | 4.00% | ~2 |
 | Behenian Hero | 4.00% | ~2 |
 | Behenian Mastery | 4.00% | ~2 |
+| Lacertian Hero | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
-| Artificer | 2.00% | ~1 |
 | Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
-| If I Had Failed... | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
 | Purification Avatar | 2.00% | ~1 |
 | Reflexive Mind | 2.00% | ~1 |
-| The Abyssal Terror | 2.00% | ~1 |
 | The Chaos Artisan | 2.00% | ~1 |
-| The Dark Moon | 2.00% | ~1 |
+| The Distorted Sage | 2.00% | ~1 |
 | The Raging Skies | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
-| Aquarian Mastery | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
-| Lacertian Hero | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
@@ -95,7 +96,6 @@
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 | The Ardent Prince | 0.00% | ~0 |
-| The Distorted Sage | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 | Virtuous Warrior | 0.00% | ~0 |
