@@ -12,6 +12,7 @@ Rating: 4.56 (Ranked 471)
 | Call it Even | 3.00% | ~414 |
 | Bosmang | 3.00% | ~414 |
 | Data Archivist | 2.00% | ~276 |
+| Stogie for Fogey | 2.00% | ~276 |
 | Spore Taste | 2.00% | ~276 |
 | Martian Music | 2.00% | ~276 |
 | Heal Thy Medic | 2.00% | ~276 |
@@ -19,14 +20,13 @@ Rating: 4.56 (Ranked 471)
 | Captain Drummer | 2.00% | ~276 |
 | Celebrations are in Order | 2.00% | ~276 |
 | Impossible Objects | 2.00% | ~276 |
-| Stogie for Fogey | 1.00% | ~138 |
 | Bottoms up! | 1.00% | ~138 |
 | Thorston Mayer | 1.00% | ~138 |
 | Miraculous Maya | 1.00% | ~138 |
 | Doctor Approved | 0.90% | ~124 |
 | No Belter Left Behind | 0.70% | ~97 |
+| Data Logger | 0.60% | ~83 |
 | Brother's Reaper | 0.60% | ~83 |
-| Data Logger | 0.50% | ~69 |
 | Data Master | 0.50% | ~69 |
 | Debris Spree | 0.40% | ~55 |
 | Data Recoverer | 0.30% | ~41 |

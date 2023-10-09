@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 3364,
+  "Ranking_EOS_NewCompleters": 3365,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3378,18 +3378,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4690,
       "NumberOfAwardsMax": 2795
+    },
+    {
+      "Time": "2023-10-09T21:59:33.7825616+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4697,
+      "NumberOfAwardsMax": 2802
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4690,
-  "NumberOfAwardsMax": 2795,
+  "NumberOfAwards": 4697,
+  "NumberOfAwardsMax": 2802,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2795
+      "Count": 2802
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3446,9 +3452,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73363,
+  "EOS_Progressed": 73364,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18186,6 +18192,11 @@
       "Time": "2023-10-09T21:07:04.7369797+00:00",
       "NumProgressed": 73363,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-09T22:06:47.1687806+00:00",
+      "NumProgressed": 73364,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18245,7 +18256,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16873
+      "UsersEstimate": 16874
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18285,7 +18296,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11004
+      "UsersEstimate": 11005
     },
     {
       "ID": "CHALLENGES_1",
@@ -18309,7 +18320,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13205
+      "UsersEstimate": 13206
     },
     {
       "ID": "CLAYFACE_3",
@@ -18421,7 +18432,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21275
+      "UsersEstimate": 21276
     },
     {
       "ID": "FREEZE_1_5",
@@ -18589,7 +18600,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24943
+      "UsersEstimate": 24944
     },
     {
       "ID": "MYSTERY_02",
@@ -18605,7 +18616,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16873
+      "UsersEstimate": 16874
     },
     {
       "ID": "MYSTERY_04",
@@ -18621,7 +18632,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13205
+      "UsersEstimate": 13206
     },
     {
       "ID": "MYSTERY_06",
@@ -18629,7 +18640,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11004
+      "UsersEstimate": 11005
     },
     {
       "ID": "MYSTERY_07",
@@ -18684,22 +18695,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73363,
+      "Progressed": 73364,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43643,
+      "Progressed": 43644,
       "Completed": 2666
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-09T14:59:31.6171307+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:07:04.736979+00:00",
+  "LastChanged": "2023-10-09T21:59:33.7825613+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:06:47.1687802+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-09T20:59:37.8236934+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:07:04.7371364+00:00"
+  "LastUpdate_Ratings": "2023-10-09T21:59:33.782562+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:06:47.1689007+00:00"
 }

@@ -20,18 +20,18 @@
 | The artist | 27.00% | ~6 |
 | Pulp! Out of this World | 27.00% | ~6 |
 | Pulp! Adventures into the Unknown | 27.00% | ~6 |
+| You've awakened the beast | 23.00% | ~5 |
+| Hate is... addictive | 23.00% | ~5 |
 | Et in arcadia ego | 23.00% | ~5 |
 | The seer | 23.00% | ~5 |
 | Kirlian's best disciple | 23.00% | ~5 |
 | The barbarian invasions | 23.00% | ~5 |
 | Welcome to Hellville | 23.00% | ~5 |
-| You've awakened the beast | 18.00% | ~4 |
-| Hate is... addictive | 18.00% | ~4 |
 | You had one wish left | 18.00% | ~4 |
+| The bully | 18.00% | ~4 |
 | Blessed antennas | 14.00% | ~3 |
 | The beast in the Oval Office | 14.00% | ~3 |
 | Blood Red Island | 14.00% | ~3 |
-| The bully | 14.00% | ~3 |
 | The adventurer | 14.00% | ~3 |
 | Pulp! The Beyond | 14.00% | ~3 |
 | America had no Faith | 14.00% | ~3 |

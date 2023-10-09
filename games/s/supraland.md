@@ -1,43 +1,43 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 372)  
+Rating: 4.61 (Ranked 373)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,441 |
-| The Blues | 85.00% | ~619,419 |
-| Fast | 66.00% | ~480,960 |
-| Healthbar | 55.00% | ~400,800 |
-| Force Cube | 53.00% | ~386,226 |
-| Double Jump | 48.00% | ~349,789 |
-| Regeneration | 47.00% | ~342,502 |
-| Triple Jump | 43.00% | ~313,353 |
-| Climb the hill | 42.00% | ~306,066 |
-| Through the fire pipe | 39.00% | ~284,204 |
+| Out of bed | 99.00% | ~721,443 |
+| The Blues | 85.00% | ~619,420 |
+| Fast | 66.00% | ~480,962 |
+| Healthbar | 55.00% | ~400,802 |
+| Force Cube | 53.00% | ~386,227 |
+| Double Jump | 48.00% | ~349,790 |
+| Regeneration | 47.00% | ~342,503 |
+| Triple Jump | 43.00% | ~313,354 |
+| Climb the hill | 42.00% | ~306,067 |
+| Through the fire pipe | 39.00% | ~284,205 |
 | MacGuffin | 38.00% | ~276,917 |
-| Just once | 37.00% | ~269,629 |
-| Armor | 30.00% | ~218,618 |
+| Just once | 37.00% | ~269,630 |
+| Armor | 30.00% | ~218,619 |
 | True holy spirit | 28.00% | ~204,044 |
 | That's how electronics work obviously | 27.00% | ~196,757 |
 | Force Cube Catapult | 25.00% | ~182,182 |
-| Holy Sword | 23.00% | ~167,607 |
-| Telefrag | 23.00% | ~167,607 |
+| Holy Sword | 23.00% | ~167,608 |
+| Telefrag | 23.00% | ~167,608 |
 | Freed from prison | 21.00% | ~153,033 |
 | Stomp | 21.00% | ~153,033 |
 | Double Health | 18.00% | ~131,171 |
 | Buckle | 17.00% | ~123,884 |
 | Green Keycard | 17.00% | ~123,884 |
-| Rattle Hag | 16.00% | ~116,596 |
-| All Shells | 15.00% | ~109,309 |
+| Rattle Hag | 16.00% | ~116,597 |
+| All Shells | 15.00% | ~109,310 |
 | Beam | 14.00% | ~102,022 |
 | Health Drink | 13.00% | ~94,735 |
 | Helped a star | 13.00% | ~94,735 |
 | 9 | 13.00% | ~94,735 |
 | Purple Cube | 13.00% | ~94,735 |
 | Supraball Noob | 13.00% | ~94,735 |
-| Strong | 12.00% | ~87,447 |
+| Strong | 12.00% | ~87,448 |
 | Blue King's lair | 11.00% | ~80,160 |
 | Payback | 11.00% | ~80,160 |
 | Got the coins back | 11.00% | ~80,160 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,728 (Ranked 19)  
+Progressed: 728,730 (Ranked 19)  
 Completed: 745 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 745 (0.10%) (Ranked 245)
 | 2023-10-06 | 728,361 | 744 |
 | 2023-10-07 | 728,508 | 744 |
 | 2023-10-08 | 728,636 | 745 |
-| 2023-10-09 | 728,728 | 745 |
+| 2023-10-09 | 728,730 | 745 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

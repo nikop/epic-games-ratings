@@ -2,13 +2,13 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 372,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -2986,9 +2986,9 @@
       "Count": 193
     }
   ],
-  "EOS_Progressed": 728728,
+  "EOS_Progressed": 728730,
   "EOS_Completed": 745,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -22251,6 +22251,11 @@
       "Time": "2023-10-09T21:03:44.45564+00:00",
       "NumProgressed": 728728,
       "NumCompleted": 745
+    },
+    {
+      "Time": "2023-10-09T22:03:24.941272+00:00",
+      "NumProgressed": 728730,
+      "NumCompleted": 745
     }
   ],
   "TotalAchievements": 98,
@@ -22286,7 +22291,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 109309
+      "UsersEstimate": 109310
     },
     {
       "ID": "Armor",
@@ -22294,7 +22299,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 218618
+      "UsersEstimate": 218619
     },
     {
       "ID": "BallShooter",
@@ -22326,7 +22331,7 @@
       "Name": "Rattle Hag",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 116596
+      "UsersEstimate": 116597
     },
     {
       "ID": "BirdsongCourier",
@@ -22478,7 +22483,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 349789
+      "UsersEstimate": 349790
     },
     {
       "ID": "FireFlies",
@@ -22494,7 +22499,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 284204
+      "UsersEstimate": 284205
     },
     {
       "ID": "FliesBeam",
@@ -22510,7 +22515,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 386226
+      "UsersEstimate": 386227
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -22622,7 +22627,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 400800
+      "UsersEstimate": 400802
     },
     {
       "ID": "Healthregen",
@@ -22630,7 +22635,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 342502
+      "UsersEstimate": 342503
     },
     {
       "ID": "HelpedAStar",
@@ -22646,7 +22651,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 306066
+      "UsersEstimate": 306067
     },
     {
       "ID": "Holy_Sword",
@@ -22654,7 +22659,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 167607
+      "UsersEstimate": 167608
     },
     {
       "ID": "Horticultural",
@@ -22702,7 +22707,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 269629
+      "UsersEstimate": 269630
     },
     {
       "ID": "MacGuffin",
@@ -22774,7 +22779,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 721441
+      "UsersEstimate": 721443
     },
     {
       "ID": "PanicLights",
@@ -22894,7 +22899,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 480960
+      "UsersEstimate": 480962
     },
     {
       "ID": "Strong",
@@ -22902,7 +22907,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 87447
+      "UsersEstimate": 87448
     },
     {
       "ID": "SuperSword",
@@ -22926,7 +22931,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 167607
+      "UsersEstimate": 167608
     },
     {
       "ID": "The_Blues",
@@ -22934,7 +22939,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 619419
+      "UsersEstimate": 619420
     },
     {
       "ID": "ThroughPipe",
@@ -22974,7 +22979,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 313353
+      "UsersEstimate": 313354
     },
     {
       "ID": "True_Holy_Spirit",
@@ -23045,15 +23050,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 728728,
+      "Progressed": 728730,
       "Completed": 745
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-10-03T15:00:08.0452522+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:03:44.4556384+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:03:24.9412716+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.6187756+00:00",
-  "LastUpdate_Ratings": "2023-10-09T20:58:00.6015696+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:03:44.4558931+00:00"
+  "LastUpdate_Ratings": "2023-10-09T21:58:01.3498803+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:03:24.9414592+00:00"
 }

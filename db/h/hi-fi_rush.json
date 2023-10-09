@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4135,
+  "EOS_Progressed": 4136,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6945,6 +6945,11 @@
       "Time": "2023-10-09T21:05:50.970169+00:00",
       "NumProgressed": 4135,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-09T22:05:33.5100839+00:00",
+      "NumProgressed": 4136,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -6988,7 +6993,7 @@
       "Name": "Headliner",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach006",
@@ -6996,7 +7001,7 @@
       "Name": "Time to pay up!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach007",
@@ -7004,7 +7009,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach008",
@@ -7156,7 +7161,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach027",
@@ -7204,7 +7209,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach033",
@@ -7372,7 +7377,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Ach054",
@@ -7523,13 +7528,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4135,
+      "Progressed": 4136,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2656,
+      "Progressed": 2657,
       "Completed": 1930
     }
   ],
@@ -7537,8 +7542,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:05:50.9701682+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:05:33.5100835+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:32.6690541+00:00",
-  "LastUpdate_Ratings": "2023-10-09T20:58:41.0608817+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:05:50.9702939+00:00"
+  "LastUpdate_Ratings": "2023-10-09T21:58:39.1231049+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:05:33.5101746+00:00"
 }

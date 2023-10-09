@@ -11171,9 +11171,9 @@
       "Count": 25242
     }
   ],
-  "EOS_Progressed": 929759,
+  "EOS_Progressed": 929831,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 14043,
+  "EOS_NewPlayers": 14032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30731,6 +30731,11 @@
       "Time": "2023-10-09T21:04:41.7541173+00:00",
       "NumProgressed": 929759,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T22:04:20.6071248+00:00",
+      "NumProgressed": 929831,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30870,7 +30875,7 @@
       "Name": "Medic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6508
+      "UsersEstimate": 6509
     },
     {
       "ID": "ACH_018",
@@ -30878,7 +30883,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "ACH_019",
@@ -30892,9 +30897,9 @@
       "ID": "ACH_020",
       "SetID": "bdmlp8o",
       "Name": "Perfect Escape",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4649
+      "UsersEstimate": 5579
     },
     {
       "ID": "ACH_021",
@@ -30926,7 +30931,7 @@
       "Name": "Not half bad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "ACH_025",
@@ -30950,7 +30955,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "ACH_028",
@@ -30974,7 +30979,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "ACH_031",
@@ -31204,9 +31209,9 @@
       "ID": "ACH_059",
       "SetID": "16jml5b",
       "Name": "Engineer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4649
+      "UsersEstimate": 5579
     },
     {
       "ID": "ACH_060",
@@ -31310,7 +31315,7 @@
       "Name": "Sorted",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6508
+      "UsersEstimate": 6509
     },
     {
       "ID": "ACH_073",
@@ -31958,7 +31963,7 @@
       "Name": "Resurgence",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6508
+      "UsersEstimate": 6509
     },
     {
       "ID": "ACH_157",
@@ -32573,21 +32578,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 929759,
+      "Progressed": 929831,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 929759,
+      "Progressed": 929831,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-09T20:01:23.747633+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:04:41.7541165+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:04:20.6071245+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:00:20.1239861+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:04:41.7547961+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:00:16.1286141+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:04:20.6076955+00:00"
 }

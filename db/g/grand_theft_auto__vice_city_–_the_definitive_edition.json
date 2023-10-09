@@ -754,9 +754,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 10575,
+  "EOS_Progressed": 10576,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11269,6 +11269,11 @@
       "Time": "2023-10-09T19:05:13.6419839+00:00",
       "NumProgressed": 10575,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-09T22:04:52.3674722+00:00",
+      "NumProgressed": 10576,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11368,7 +11373,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH13",
@@ -11440,7 +11445,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     },
     {
       "ID": "ACH22",
@@ -11551,7 +11556,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10575,
+      "Progressed": 10576,
       "Completed": 60
     }
   ],
@@ -11559,8 +11564,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-07T12:59:54.5914419+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:05:14.179168+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:04:52.3674718+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-09T20:58:42.5916436+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:05:14.1792628+00:00"
+  "LastUpdate_Ratings": "2023-10-09T21:58:40.6174535+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:04:52.3675378+00:00"
 }

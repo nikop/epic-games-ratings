@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 573)  
+Rating: 4.50 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,11 +23,11 @@ Rating: 4.50 (Ranked 573)
 | Back Off | 0.80% | ~211 |
 | Daily Dose | 0.80% | ~211 |
 | Icing on the Cake | 0.80% | ~211 |
+| Ectoplasmic Entity | 0.70% | ~184 |
 | Ghostbuster In Training | 0.70% | ~184 |
 | Right back at ya | 0.70% | ~184 |
 | Terrifying | 0.70% | ~184 |
 | Welcome to the Crew | 0.70% | ~184 |
-| Ectoplasmic Entity | 0.60% | ~158 |
 | Side Hustle | 0.60% | ~158 |
 | Skilled | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |

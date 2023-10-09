@@ -63,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.50% | ~73 |
 | Artisans | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
+| Sages | 0.50% | ~73 |
 | Apadana | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.40% | ~58 |
 | Good Difficulty | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
-| Sages | 0.40% | ~58 |
 | Acropolis | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
 | Pantheon | 0.40% | ~58 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
+| Hunters | 0.30% | ~44 |
 | Landowners | 0.30% | ~44 |
 | Riders | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
-| Hunters | 0.20% | ~29 |
 | Church of the Holy Sepulchre | 0.20% | ~29 |
 | Adur Burzen-Mihr | 0.20% | ~29 |
 | Learn to Play 5 | 0.20% | ~29 |

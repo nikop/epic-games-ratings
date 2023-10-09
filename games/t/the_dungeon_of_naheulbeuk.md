@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,843 |
+| Sowwy! | 33.00% | ~75,846 |
 | Alt+F4 | 6.00% | ~13,790 |
-| Déjà vu | 5.00% | ~11,491 |
-| Where's that freaking Dwarf? | 5.00% | ~11,491 |
+| Déjà vu | 5.00% | ~11,492 |
+| Where's that freaking Dwarf? | 5.00% | ~11,492 |
 | Sock! SOCK! | 4.00% | ~9,193 |
 | A beer, two curses, three companions | 3.00% | ~6,895 |
 | GG EZ | 3.00% | ~6,895 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~2,298 |
 | I am the night | 1.00% | ~2,298 |
 | Thieves' Guild Accreditation | 1.00% | ~2,298 |
-| Dead for good | 0.90% | ~2,068 |
-| Lust and Debauchery | 0.90% | ~2,068 |
-| Material Girl | 0.90% | ~2,068 |
+| Dead for good | 0.90% | ~2,069 |
+| Lust and Debauchery | 0.90% | ~2,069 |
+| Material Girl | 0.90% | ~2,069 |
 | Gargantua | 0.80% | ~1,839 |
 | In Navalu's footsteps | 0.70% | ~1,609 |
 | Lëgal Legend | 0.60% | ~1,379 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.50% | ~1,149 |
 | Scholar of the Lands of Fangh | 0.40% | ~919 |
 | Law and Order | 0.40% | ~919 |
-| Friendly fire | 0.30% | ~689 |
-| I'd rather... Just... Sing! | 0.30% | ~689 |
-| It's been a hard day's night | 0.30% | ~689 |
+| Friendly fire | 0.30% | ~690 |
+| I'd rather... Just... Sing! | 0.30% | ~690 |
+| It's been a hard day's night | 0.30% | ~690 |
 | The number of the counting shalt be 7 | 0.20% | ~460 |
 | 100% satisfaction guarantee | 0.20% | ~460 |
 | Death is for wimps | 0.20% | ~460 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~230 |
 | Dwarf Candy | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,828 (Ranked 60)  
+Progressed: 229,837 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 5 (0.00%) (Ranked 310)
 | 2023-10-06 | 229,103 | 5 |
 | 2023-10-07 | 229,368 | 5 |
 | 2023-10-08 | 229,641 | 5 |
-| 2023-10-09 | 229,828 | 5 |
+| 2023-10-09 | 229,837 | 5 |
 ## Awards
 Max (Character Customization): 210  (Ranked 274)  
 Sum: 414 (Ranked 324)  

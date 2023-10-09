@@ -7,25 +7,25 @@ Rating: 4.18 (Ranked 897)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~38,149 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,677 |
-| Loose Ends | 34.00% | ~24,943 |
-| To the Victor Go the Spoils | 29.00% | ~21,275 |
+| Loose Ends | 34.00% | ~24,944 |
+| To the Victor Go the Spoils | 29.00% | ~21,276 |
 | Knighthood | 28.00% | ~20,542 |
 | Get ReQ'd | 25.00% | ~18,341 |
 | Whispered Words | 25.00% | ~18,341 |
-| The Batman Family | 23.00% | ~16,873 |
-| Lock and Key | 23.00% | ~16,873 |
+| The Batman Family | 23.00% | ~16,874 |
+| Lock and Key | 23.00% | ~16,874 |
 | Something in the Clay | 21.00% | ~15,406 |
 | Quartzer Life Crisis | 21.00% | ~15,406 |
 | Working Hard or Harley Working? | 20.00% | ~14,673 |
 | Unstoppable Force | 20.00% | ~14,673 |
 | Bad Apples in Every Orchard | 20.00% | ~14,673 |
 | Snow Problem | 19.00% | ~13,939 |
-| The Show Mud Go On | 18.00% | ~13,205 |
-| From Inside Gotham's Walls | 18.00% | ~13,205 |
+| The Show Mud Go On | 18.00% | ~13,206 |
+| From Inside Gotham's Walls | 18.00% | ~13,206 |
 | Protector of Gotham | 17.00% | ~12,472 |
 | Universal Health Scare | 16.00% | ~11,738 |
-| In Your Element | 15.00% | ~11,004 |
-| Voiceless | 15.00% | ~11,004 |
+| In Your Element | 15.00% | ~11,005 |
+| Voiceless | 15.00% | ~11,005 |
 | Rock and a Hard Place | 14.00% | ~10,271 |
 | Cooldown | 14.00% | ~10,271 |
 | Seeking Asylum | 14.00% | ~10,271 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,363 (Ranked 91)  
+Progressed: 73,364 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,14 +239,14 @@ Completed: 120 (0.16%) (Ranked 227)
 | 2023-10-06 | 73,220 | 120 |
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
-| 2023-10-09 | 73,363 | 120 |
+| 2023-10-09 | 73,364 | 120 |
 ## Awards
-Max (Great Boss Battles): 2,795  (Ranked 97)  
-Sum: 4,690 (Ranked 140)  
+Max (Great Boss Battles): 2,802  (Ranked 97)  
+Sum: 4,697 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,795 |
+| This game has Great Boss Battles | 2,802 |
 | This game is Relaxing | 243 |
 | This game is Extremely Fun | 241 |
 | This game has Quickly Understood Controls | 239 |
@@ -485,4 +485,4 @@ Diff (max vs sum): -43
 | 2023-10-06 | 4.18 | 2,784 | 4,663 |
 | 2023-10-07 | 4.18 | 2,788 | 4,679 |
 | 2023-10-08 | 4.18 | 2,795 | 4,688 |
-| 2023-10-09 | 4.18 | 2,795 | 4,690 |
+| 2023-10-09 | 4.18 | 2,802 | 4,697 |

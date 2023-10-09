@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18318,
+  "EOS_Progressed": 18319,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -11336,6 +11336,11 @@
       "Time": "2023-10-09T21:05:16.905629+00:00",
       "NumProgressed": 18318,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T22:04:55.0250423+00:00",
+      "NumProgressed": 18319,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11347,7 +11352,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "0002",
@@ -11473,9 +11478,9 @@
       "ID": "0017",
       "SetID": "2n2feee",
       "Name": "Never Say Loser Again",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3297
     },
     {
       "ID": "0018",
@@ -11634,7 +11639,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18318,
+      "Progressed": 18319,
       "Completed": 4
     }
   ],
@@ -11642,8 +11647,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:05:16.9056283+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:04:55.0250419+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:00:18.0628769+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:05:16.9057317+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:00:14.4318283+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:04:55.0251177+00:00"
 }

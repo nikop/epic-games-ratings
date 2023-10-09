@@ -898,7 +898,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663130,
+  "EOS_Progressed": 663131,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
@@ -17253,6 +17253,11 @@
       "Time": "2023-10-09T21:06:02.8313931+00:00",
       "NumProgressed": 663130,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-09T22:05:44.8904347+00:00",
+      "NumProgressed": 663131,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17272,7 +17277,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384615
+      "UsersEstimate": 384616
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17352,7 +17357,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33156
+      "UsersEstimate": 33157
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -17440,7 +17445,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33156
+      "UsersEstimate": 33157
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -17528,7 +17533,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165782
+      "UsersEstimate": 165783
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17647,15 +17652,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663130,
+      "Progressed": 663131,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-09T21:06:02.8313919+00:00",
+  "LastChanged_Achievements": "2023-10-09T22:05:44.8904339+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-09T20:58:28.5746308+00:00",
-  "LastUpdate_Achievements": "2023-10-09T21:06:02.8315272+00:00"
+  "LastUpdate_Ratings": "2023-10-09T21:58:27.3650247+00:00",
+  "LastUpdate_Achievements": "2023-10-09T22:05:44.8905469+00:00"
 }
