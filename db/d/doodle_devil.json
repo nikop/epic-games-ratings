@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-devil-8e65af",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
     "PcReleaseDate": "2017-05-25T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 19.75,
+  "EOS_Completed_Percentage": 19.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -92,6 +92,11 @@
       "Time": "2023-09-29T14:05:34.4389386+00:00",
       "NumProgressed": 81,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-09T18:05:08.9322143+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 9,
@@ -101,7 +106,7 @@
       "ID": "701312",
       "SetID": "3n3mm3c",
       "Name": "Master of Sins",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 100,
       "UsersEstimate": 51
     },
@@ -109,7 +114,7 @@
       "ID": "701322",
       "SetID": "3n3mm3c",
       "Name": "Master of Warfare",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 150,
       "UsersEstimate": 28
     },
@@ -117,9 +122,9 @@
       "ID": "701332",
       "SetID": "3n3mm3c",
       "Name": "Lucky Strike",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "701382",
@@ -127,13 +132,13 @@
       "Name": "Paradise lost",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "701392",
       "SetID": "3n3mm3c",
       "Name": "Dark Kingdom Come",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 100,
       "UsersEstimate": 62
     },
@@ -174,7 +179,7 @@
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 16
     }
   ],
@@ -182,8 +187,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:06:24.0916528+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:05:08.9322138+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:45.9431112+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:58:19.6934861+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:06:24.0917002+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:57:43.2680282+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:05:08.9322214+00:00"
 }

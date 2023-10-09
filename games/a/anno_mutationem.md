@@ -23,7 +23,7 @@ Rating: 4.56 (Ranked 471)
 | The truth is out there | 16.00% | ~108 |
 | Annakin Skyscroller | 14.00% | ~95 |
 | In the smacker...I think | 11.00% | ~74 |
-| Arm Wrestlin' | 9.00% | ~61 |
+| Arm Wrestlin' | 10.00% | ~68 |
 | 1+1>2 | 9.00% | ~61 |
 | This can't be right… | 9.00% | ~61 |
 | I'm walking here! | 8.00% | ~54 |

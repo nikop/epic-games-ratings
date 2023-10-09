@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,570 |
-| Get Busy Living | 16.00% | ~29,165 |
-| Samuel Norton | 9.00% | ~16,405 |
-| Spare The Rod | 5.00% | ~9,114 |
-| Don't Put Me In The Dark | 3.00% | ~5,468 |
-| Wait and Hope | 3.00% | ~5,468 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,468 |
+| Stone Walls | 25.00% | ~45,574 |
+| Get Busy Living | 16.00% | ~29,168 |
+| Samuel Norton | 9.00% | ~16,407 |
+| Spare The Rod | 5.00% | ~9,115 |
+| Don't Put Me In The Dark | 3.00% | ~5,469 |
+| Wait and Hope | 3.00% | ~5,469 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,469 |
 | Throw The Book At Them | 2.00% | ~3,646 |
 | Iron Bars | 2.00% | ~3,646 |
 | D.B. Cooper | 1.00% | ~1,823 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~182 |
 | ... It's What You Can Prove | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,279 (Ranked 69)  
+Progressed: 182,298 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,15 +195,15 @@ Completed: 8 (0.00%) (Ranked 310)
 | 2023-10-06 | 181,431 | 8 |
 | 2023-10-07 | 181,770 | 8 |
 | 2023-10-08 | 182,108 | 8 |
-| 2023-10-09 | 182,279 | 8 |
+| 2023-10-09 | 182,298 | 8 |
 ## Awards
 Max (Extremely Fun): 524  (Ranked 200)  
-Sum: 4,523 (Ranked 141)  
+Sum: 4,525 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 524 |
-| This game is Great for Beginners | 519 |
+| This game is Great for Beginners | 521 |
 | This game is Highly Recommended | 500 |
 | This game has Quickly Understood Controls | 488 |
 | This game is Relaxing | 471 |
@@ -475,4 +475,4 @@ Diff (max vs sum): 59
 | 2023-10-06 | 4.61 | - | 522 | 4,500 |
 | 2023-10-07 | 4.61 | - | 523 | 4,505 |
 | 2023-10-08 | 4.61 | - | 524 | 4,519 |
-| 2023-10-09 | 4.61 | - | 524 | 4,523 |
+| 2023-10-09 | 4.61 | - | 524 | 4,525 |

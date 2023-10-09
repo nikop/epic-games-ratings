@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24160,
+  "EOS_Progressed": 24163,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5356,6 +5356,11 @@
       "Time": "2023-10-09T17:09:40.0755485+00:00",
       "NumProgressed": 24160,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-09T18:08:11.7462395+00:00",
+      "NumProgressed": 24163,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5429,9 +5434,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -5485,9 +5490,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -5557,9 +5562,9 @@
       "ID": "ACH_KNIFE_GENE",
       "SetID": "cdkbb11",
       "Name": "Don\u0027t Knife The Hand That Feeds",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -5718,13 +5723,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24160,
+      "Progressed": 24163,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1453,
+      "Progressed": 1456,
       "Completed": 1373
     }
   ],
@@ -5732,8 +5737,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:09:40.075548+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:08:11.746239+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:58:49.5131389+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:09:40.0756569+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:58:04.3568704+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:08:11.7462929+00:00"
 }

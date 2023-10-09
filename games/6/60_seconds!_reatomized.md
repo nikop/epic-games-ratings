@@ -5,25 +5,25 @@ Rating: 4.60 (Ranked 398)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,004 |
+| Prepper | 93.00% | ~5,005 |
 | All thumbs | 92.00% | ~4,951 |
 | I will survive! | 92.00% | ~4,951 |
-| Home, sweet home | 91.00% | ~4,897 |
-| Survivalist | 89.00% | ~4,789 |
-| One way ticket | 85.00% | ~4,574 |
-| Last man standing | 79.00% | ~4,251 |
-| Family guy | 77.00% | ~4,143 |
+| Home, sweet home | 91.00% | ~4,898 |
+| Survivalist | 89.00% | ~4,790 |
+| One way ticket | 85.00% | ~4,575 |
+| Last man standing | 79.00% | ~4,252 |
+| Family guy | 77.00% | ~4,144 |
 | Out of the Bag | 75.00% | ~4,036 |
 | The Dark Side | 70.00% | ~3,767 |
 | Duck and cover! | 65.00% | ~3,498 |
 | Souper! | 64.00% | ~3,444 |
 | Pacifist | 59.00% | ~3,175 |
-| 2-1-6 | 58.00% | ~3,121 |
+| 2-1-6 | 58.00% | ~3,122 |
 | A gift | 53.00% | ~2,852 |
 | Girl Power | 48.00% | ~2,583 |
 | What goes around... | 44.00% | ~2,368 |
 | Be Prepared | 38.00% | ~2,045 |
-| Unbreakable | 36.00% | ~1,937 |
+| Unbreakable | 36.00% | ~1,938 |
 | This is the end | 34.00% | ~1,830 |
 | Gotta get 'em all | 33.00% | ~1,776 |
 | Atomic drill | 32.00% | ~1,722 |
@@ -37,7 +37,7 @@ Rating: 4.60 (Ranked 398)
 | Challenger | 13.00% | ~700 |
 | No stone unturned | 12.00% | ~646 |
 | Men in Black | 12.00% | ~646 |
-| Unplugged | 8.00% | ~430 |
+| Unplugged | 8.00% | ~431 |
 | Holidays! | 7.00% | ~377 |
 | Mad Hatter | 7.00% | ~377 |
 | Yes Man | 6.00% | ~323 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 398)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,381 (Ranked 170)  
+Progressed: 5,382 (Ranked 170)  
 Completed: 1 (0.02%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 1 (0.02%) (Ranked 283)
 | 2023-10-06 | 5,364 | 1 |
 | 2023-10-07 | 5,370 | 1 |
 | 2023-10-08 | 5,378 | 1 |
-| 2023-10-09 | 5,381 | 1 |
+| 2023-10-09 | 5,382 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

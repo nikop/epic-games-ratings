@@ -6,15 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,293 |
-| It wakes | 1.00% | ~9,293 |
-| Skillful | 1.00% | ~9,293 |
-| Not half bad | 0.80% | ~7,434 |
-| Apt Survivor | 0.80% | ~7,434 |
-| Survival Treasures | 0.80% | ~7,434 |
-| Make Some Noise | 0.80% | ~7,434 |
-| Handyman | 0.70% | ~6,505 |
-| Sorted | 0.70% | ~6,505 |
+| Zealous | 1.00% | ~9,294 |
+| It wakes | 1.00% | ~9,294 |
+| Skillful | 1.00% | ~9,294 |
+| Handyman | 0.80% | ~7,435 |
+| Not half bad | 0.80% | ~7,435 |
+| Apt Survivor | 0.80% | ~7,435 |
+| Survival Treasures | 0.80% | ~7,435 |
+| Make Some Noise | 0.80% | ~7,435 |
+| Sorted | 0.70% | ~6,506 |
+| Resurgence | 0.70% | ~6,506 |
 | The Grand Sacrifice | 0.60% | ~5,576 |
 | No one left behind | 0.60% | ~5,576 |
 | Medic | 0.60% | ~5,576 |
@@ -22,22 +23,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bloody Millionaire | 0.60% | ~5,576 |
 | I | 0.60% | ~5,576 |
 | Healthy Obsession | 0.60% | ~5,576 |
-| Resurgence | 0.60% | ~5,576 |
 | Preemptive Strike | 0.60% | ~5,576 |
-| Agonizing Escape | 0.50% | ~4,646 |
-| Backdoor Escape | 0.50% | ~4,646 |
-| I've got your back | 0.50% | ~4,646 |
-| Perfect Escape | 0.50% | ~4,646 |
-| Perfect Killing | 0.50% | ~4,646 |
-| Engineer | 0.50% | ~4,646 |
-| Close Shave | 0.50% | ~4,646 |
-| Humanitarian | 0.50% | ~4,646 |
-| Apt Killer | 0.40% | ~3,717 |
-| Risk it all | 0.40% | ~3,717 |
-| Vulture | 0.40% | ~3,717 |
-| II | 0.40% | ~3,717 |
-| Wounded Healer | 0.40% | ~3,717 |
-| Second Act | 0.40% | ~3,717 |
+| Humanitarian | 0.60% | ~5,576 |
+| Agonizing Escape | 0.50% | ~4,647 |
+| Backdoor Escape | 0.50% | ~4,647 |
+| I've got your back | 0.50% | ~4,647 |
+| Perfect Escape | 0.50% | ~4,647 |
+| Perfect Killing | 0.50% | ~4,647 |
+| Engineer | 0.50% | ~4,647 |
+| Close Shave | 0.50% | ~4,647 |
+| Apt Killer | 0.40% | ~3,718 |
+| Risk it all | 0.40% | ~3,718 |
+| Vulture | 0.40% | ~3,718 |
+| II | 0.40% | ~3,718 |
+| Wounded Healer | 0.40% | ~3,718 |
+| Second Act | 0.40% | ~3,718 |
 | Blood on your hands | 0.30% | ~2,788 |
 | Made it out alive! | 0.30% | ~2,788 |
 | III | 0.30% | ~2,788 |
@@ -89,6 +89,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.20% | ~1,859 |
 | Outrun the Overlap | 0.20% | ~1,859 |
 | Rebuilding The Borgo | 0.20% | ~1,859 |
+| Hack the Mainframe | 0.20% | ~1,859 |
 | Extraterrestrial | 0.20% | ~1,859 |
 | Kitted Out | 0.20% | ~1,859 |
 | A feast for the Entity | 0.10% | ~929 |
@@ -223,7 +224,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Vittorio | 0.10% | ~929 |
 | Thrill of the Chase | 0.10% | ~929 |
 | Adept Skull Merchant | 0.10% | ~929 |
-| Hack the Mainframe | 0.10% | ~929 |
 | Adept Thalita | 0.10% | ~929 |
 | Adept Renato | 0.10% | ~929 |
 | Slip Into the Stream | 0.10% | ~929 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 929,271 (Ranked 14)  
+Progressed: 929,399 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 929,271 | 49 |
+| 2023-10-09 | 929,399 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,725 (Ranked 13)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "insane",
@@ -175,9 +175,9 @@
       "ID": "matrix",
       "SetID": "40o2ndb",
       "Name": "The virus database has been updated.",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "temple",
@@ -191,17 +191,17 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 85,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "world1insane",
@@ -294,8 +294,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:04:30.3880288+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:03:48.8780486+00:00",
   "LastUpdate_AppInfo": "2023-10-08T19:57:13.8488612+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:58:52.0166394+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:04:30.3880577+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:58:06.5721685+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:03:48.8780683+00:00"
 }

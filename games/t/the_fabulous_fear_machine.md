@@ -10,8 +10,8 @@
 | The battle of Great Britain | 55.00% | ~12 |
 | Giant | 50.00% | ~11 |
 | Pulp! Where Monsters Dwell | 41.00% | ~9 |
+| The happy farmer girl | 41.00% | ~9 |
 | A continent with chemistry | 36.00% | ~8 |
-| The happy farmer girl | 36.00% | ~8 |
 | A rival with no options | 32.00% | ~7 |
 | Pulp! Terror Tales in the Night | 32.00% | ~7 |
 | Diagnosis: fear | 32.00% | ~7 |
@@ -23,11 +23,11 @@
 | Et in arcadia ego | 23.00% | ~5 |
 | The seer | 23.00% | ~5 |
 | Kirlian's best disciple | 23.00% | ~5 |
+| The barbarian invasions | 23.00% | ~5 |
 | Welcome to Hellville | 23.00% | ~5 |
 | You've awakened the beast | 18.00% | ~4 |
 | Hate is... addictive | 18.00% | ~4 |
 | You had one wish left | 18.00% | ~4 |
-| The barbarian invasions | 18.00% | ~4 |
 | Blessed antennas | 14.00% | ~3 |
 | The beast in the Oval Office | 14.00% | ~3 |
 | Blood Red Island | 14.00% | ~3 |

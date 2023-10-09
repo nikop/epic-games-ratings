@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2082,9 +2082,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 333
     },
     {
       "ID": "HastrmanAcorn",
@@ -2297,8 +2297,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:05:25.7630277+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:04:29.3592546+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.4622609+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:58:21.6479578+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:05:25.7631028+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:57:44.6626385+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:04:29.3592928+00:00"
 }

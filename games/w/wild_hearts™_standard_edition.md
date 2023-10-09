@@ -34,11 +34,11 @@
 | Karakuri Isle | 34.00% | ~40 |
 | Artful Assister | 34.00% | ~40 |
 | Left Arm Leverager | 33.00% | ~39 |
-| Unrivaled in Arms | 31.00% | ~37 |
+| Unrivaled in Arms | 32.00% | ~38 |
 | Human Believer | 30.00% | ~36 |
+| Karakuri Minato | 30.00% | ~36 |
 | Style Seeker | 29.00% | ~35 |
 | Threaded Harmony | 29.00% | ~35 |
-| Karakuri Minato | 29.00% | ~35 |
 | Canyon of Karakuri | 27.00% | ~32 |
 | Karakuri Fortress | 27.00% | ~32 |
 | Jack of All Trades | 26.00% | ~31 |

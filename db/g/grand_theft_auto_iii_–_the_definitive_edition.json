@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -509,10 +509,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 8262,
-  "EOS_Completed": 53,
+  "EOS_Completed": 54,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -9893,6 +9893,11 @@
       "Time": "2023-10-09T15:04:48.5369327+00:00",
       "NumProgressed": 8262,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-09T18:05:22.5897909+00:00",
+      "NumProgressed": 8262,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 29,
@@ -10126,9 +10131,9 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
@@ -10136,15 +10141,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 8262,
-      "Completed": 53
+      "Completed": 54
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:06:42.6356962+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:05:22.5897904+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:58.9824672+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:03:37.5447708+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:06:42.6357861+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:03:23.0007551+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:05:22.5898503+00:00"
 }

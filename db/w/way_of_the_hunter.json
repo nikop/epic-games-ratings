@@ -2,13 +2,13 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -1076,10 +1076,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 314,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-10-09T17:59:05.8157776+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 314,
+  "NumberOfAwards": 315,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1117,7 +1123,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1174,8 +1180,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-10-09T01:41:17.3341359+00:00",
+  "LastChanged": "2023-10-09T17:59:05.8157774+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:51.3019886+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:00:10.6382431+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:06:56.9721038+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:59:05.8157779+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:05:33.0554276+00:00"
 }

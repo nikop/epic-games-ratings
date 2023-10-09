@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-10-09T03:07:37.9673397+00:00",
       "NumProgressed": 358,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T18:06:59.783809+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1643,17 +1648,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1677,7 +1682,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1708,14 +1713,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:08:56.2975196+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:06:59.7838085+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:03:23.9847924+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:08:56.2975431+00:00"
+  "LastUpdate_Ratings": "2023-10-09T18:03:10.8176257+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:06:59.7838252+00:00"
 }

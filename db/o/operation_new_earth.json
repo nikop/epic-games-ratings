@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1562,
+  "EOS_Progressed": 1563,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5739,6 +5739,11 @@
       "Time": "2023-10-09T17:09:37.1966926+00:00",
       "NumProgressed": 1562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T18:08:09.496086+00:00",
+      "NumProgressed": 1563,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5774,7 +5779,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -5870,7 +5875,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5894,7 +5899,7 @@
       "Name": "Major",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -6014,7 +6019,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -6053,7 +6058,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1562,
+      "Progressed": 1563,
       "Completed": 1
     }
   ],
@@ -6061,8 +6066,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:09:37.1966919+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:08:09.4960855+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:57:43.4039587+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:09:37.1968081+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:57:17.8525516+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:08:09.4961355+00:00"
 }

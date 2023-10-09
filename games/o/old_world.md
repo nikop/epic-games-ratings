@@ -27,12 +27,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.90% | ~131 |
 | Judaism | 0.90% | ~131 |
 | Naming Landmarks | 0.90% | ~131 |
+| Enlightened | 0.80% | ~116 |
 | Keystone | 0.80% | ~116 |
 | Warrior | 0.80% | ~116 |
 | Pyramids | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
-| Enlightened | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
 | Wise | 0.70% | ~102 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
 | Double Victory | 0.30% | ~44 |
+| The Clergy | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
-| The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,553 (Ranked 134)  
+Progressed: 14,554 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,553 | 5 |
+| 2023-10-09 | 14,554 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

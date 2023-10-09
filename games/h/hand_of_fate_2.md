@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,444 |
-| Apprentice | 58.00% | ~384,608 |
-| Close Shave | 25.00% | ~165,779 |
-| Mercenary | 23.00% | ~152,517 |
-| Ninja | 23.00% | ~152,517 |
-| Northern Scourge | 17.00% | ~112,730 |
-| Thief Bane | 14.00% | ~92,836 |
-| Master of Arms | 12.00% | ~79,574 |
+| The Fool | 72.00% | ~477,448 |
+| Apprentice | 58.00% | ~384,611 |
+| Close Shave | 25.00% | ~165,780 |
+| Mercenary | 23.00% | ~152,518 |
+| Ninja | 23.00% | ~152,518 |
+| Northern Scourge | 17.00% | ~112,731 |
+| Thief Bane | 14.00% | ~92,837 |
+| Master of Arms | 12.00% | ~79,575 |
 | Gambler | 10.00% | ~66,312 |
 | Dice Master | 10.00% | ~66,312 |
 | Swordsman | 9.00% | ~59,681 |
-| Knight | 8.00% | ~53,049 |
-| Cure for Corruption | 8.00% | ~53,049 |
-| Focused | 8.00% | ~53,049 |
-| Flurry of Fury | 8.00% | ~53,049 |
-| Long Shot | 7.00% | ~46,418 |
-| Devil Dice | 7.00% | ~46,418 |
-| Broken Heart | 7.00% | ~46,418 |
+| Knight | 8.00% | ~53,050 |
+| Cure for Corruption | 8.00% | ~53,050 |
+| Focused | 8.00% | ~53,050 |
+| Flurry of Fury | 8.00% | ~53,050 |
+| Long Shot | 7.00% | ~46,419 |
+| Devil Dice | 7.00% | ~46,419 |
+| Broken Heart | 7.00% | ~46,419 |
 | Adventurer | 6.00% | ~39,787 |
 | Empire's Bane | 6.00% | ~39,787 |
 | Jack of all Trades | 5.00% | ~33,156 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~663 |
 | Blood Pact | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,117 (Ranked 25)  
+Progressed: 663,122 (Ranked 25)  
 Completed: 170 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 170 (0.03%) (Ranked 279)
 | 2023-10-06 | 662,991 | 170 |
 | 2023-10-07 | 663,032 | 170 |
 | 2023-10-08 | 663,084 | 170 |
-| 2023-10-09 | 663,117 | 170 |
+| 2023-10-09 | 663,122 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 452)  
 Sum: 186 (Ranked 387)  

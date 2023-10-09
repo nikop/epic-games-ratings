@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -222,9 +222,9 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BehemothOfTheSkies",
@@ -485,8 +485,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:08:38.9809367+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:06:47.5185459+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.8106372+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:57:38.240427+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:08:38.9809658+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:57:13.2002439+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:06:47.5185676+00:00"
 }

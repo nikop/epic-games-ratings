@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 90.00% | ~500 |
-| Off to a good start | 66.00% | ~366 |
-| Do... or do not. There is no try | 53.00% | ~294 |
-| A good blaster at your side | 35.00% | ~194 |
+| Off to a good start | 67.00% | ~373 |
+| Do... or do not. There is no try | 53.00% | ~295 |
+| A good blaster at your side | 35.00% | ~195 |
 | Scrap collector | 21.00% | ~117 |
 | I suggest a new strategy | 20.00% | ~111 |
 | Great shot, kid! | 20.00% | ~111 |
 | All right, I'll give it a try | 18.00% | ~100 |
 | Shoot first | 18.00% | ~100 |
-| The power of the Force | 17.00% | ~94 |
-| Together we can rule the galaxy | 17.00% | ~94 |
+| The power of the Force | 17.00% | ~95 |
+| Together we can rule the galaxy | 17.00% | ~95 |
 | Collector | 16.00% | ~89 |
 | Tell Jabba that I've got his money | 12.00% | ~67 |
 | Best star-pilot in the galaxy | 12.00% | ~67 |
@@ -30,16 +30,16 @@
 | Support the troops | 8.00% | ~44 |
 | Not bad for a little furball | 6.00% | ~33 |
 | Patience you must have | 6.00% | ~33 |
-| I've been waiting for you | 5.00% | ~28 |
 | On the ball | 5.00% | ~28 |
 | Safety ain't the point of a joyride | 5.00% | ~28 |
-| That's no moon | 5.00% | ~28 |
 | Don't underestimate the Force | 5.00% | ~28 |
+| I've been waiting for you | 4.00% | ~22 |
 | When 900 years old you reach... | 4.00% | ~22 |
 | Determined | 4.00% | ~22 |
 | Your journey has only started | 4.00% | ~22 |
 | Precision shot | 4.00% | ~22 |
 | City in the Clouds | 4.00% | ~22 |
+| That's no moon | 4.00% | ~22 |
 | Disturbed tranquility | 4.00% | ~22 |
 | Hold the line! | 3.00% | ~17 |
 | The Force is strong with this one | 3.00% | ~17 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555 (Ranked 264)  
+Progressed: 556 (Ranked 264)  
 Completed: 1 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.18%) (Ranked 222)
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
 | 2023-10-08 | 538 | 1 |
-| 2023-10-09 | 555 | 1 |
+| 2023-10-09 | 556 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

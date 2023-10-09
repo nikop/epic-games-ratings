@@ -2661,7 +2661,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535043,
+  "EOS_Progressed": 535044,
   "EOS_Completed": 1567,
   "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 7,
@@ -21491,6 +21491,11 @@
       "Time": "2023-10-09T17:10:14.1947816+00:00",
       "NumProgressed": 535043,
       "NumCompleted": 1567
+    },
+    {
+      "Time": "2023-10-09T18:09:15.9337183+00:00",
+      "NumProgressed": 535044,
+      "NumCompleted": 1567
     }
   ],
   "TotalAchievements": 37,
@@ -21518,7 +21523,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165863
+      "UsersEstimate": 165864
     },
     {
       "ID": "DEVOTED",
@@ -21558,7 +21563,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 444086
+      "UsersEstimate": 444087
     },
     {
       "ID": "HONED",
@@ -21614,7 +21619,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214017
+      "UsersEstimate": 214018
     },
     {
       "ID": "THE_CASTLE",
@@ -21662,7 +21667,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80256
+      "UsersEstimate": 80257
     },
     {
       "ID": "THE_IMPOSTER",
@@ -21742,7 +21747,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42803
+      "UsersEstimate": 42804
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -21797,15 +21802,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535043,
+      "Progressed": 535044,
       "Completed": 1567
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-07T09:59:24.8106996+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:10:14.1947808+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:09:15.9337178+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.9112747+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:00:55.2791022+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:10:14.1950484+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:59:43.3496693+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:09:15.9338265+00:00"
 }

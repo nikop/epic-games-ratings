@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2157,9 +2157,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 474
     },
     {
       "ID": "AC20",
@@ -2382,8 +2382,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:09:51.3330987+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:08:19.6867494+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-09T16:57:44.5289508+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:09:51.333189+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:57:18.7631663+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:08:19.6867881+00:00"
 }

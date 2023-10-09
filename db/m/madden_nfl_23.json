@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -694,7 +694,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2311,
+  "EOS_Progressed": 2314,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -2679,6 +2679,11 @@
       "Time": "2023-10-09T17:04:40.1829759+00:00",
       "NumProgressed": 2311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T18:03:55.7572725+00:00",
+      "NumProgressed": 2314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2699,7 +2704,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1296
     },
     {
       "ID": "achievement_11",
@@ -2707,7 +2712,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_12",
@@ -2715,7 +2720,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "achievement_13",
@@ -2723,7 +2728,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_14",
@@ -2731,7 +2736,7 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_15",
@@ -2739,7 +2744,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1250
     },
     {
       "ID": "achievement_16",
@@ -2747,7 +2752,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "achievement_17",
@@ -2811,7 +2816,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_5",
@@ -2827,7 +2832,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "achievement_7",
@@ -2858,7 +2863,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2311,
+      "Progressed": 2314,
       "Completed": 0
     }
   ],
@@ -2866,8 +2871,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-09T17:04:40.1829754+00:00",
+  "LastChanged_Achievements": "2023-10-09T18:03:55.757272+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-09T17:00:24.1057664+00:00",
-  "LastUpdate_Achievements": "2023-10-09T17:04:40.1830194+00:00"
+  "LastUpdate_Ratings": "2023-10-09T17:59:15.9888691+00:00",
+  "LastUpdate_Achievements": "2023-10-09T18:03:55.7572944+00:00"
 }
