@@ -2,9 +2,9 @@
   "ID": "7a78425e9d094942bd44700957de54da",
   "Name": "Lucky Goal",
   "ProductSlug": "luckygoal-201ee6",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -101,6 +101,11 @@
       "Time": "2023-10-08T23:04:49.5680384+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T02:21:23.7654999+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-25T13:10:20.6476388+00:00",
@@ -111,7 +116,7 @@
       "ID": "ACHIEVEMENT_COOPTOURNAMENT",
       "SetID": "7ckmp1f",
       "Name": "COOP TOURNAMENT",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -344,14 +349,14 @@
     {
       "ID": "7ckmp1f",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T09:59:30.6826297+00:00",
   "FirstSeenAchievements": "2023-09-24T20:02:24.3206608+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:47:09.3951593+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:21:23.7654989+00:00",
   "LastUpdate_AppInfo": "2023-10-08T19:57:13.9969654+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:34.0382979+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:47:09.3951822+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:15:50.6802153+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:21:23.7655233+00:00"
 }

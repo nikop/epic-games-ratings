@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1150,9 +1150,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 13145,
+  "EOS_Progressed": 13146,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12510,6 +12510,11 @@
       "Time": "2023-10-09T01:50:22.4159646+00:00",
       "NumProgressed": 13145,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T02:25:04.043603+00:00",
+      "NumProgressed": 13146,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -12521,7 +12526,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10647
+      "UsersEstimate": 10648
     },
     {
       "ID": "ACH02",
@@ -12601,7 +12606,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACH12",
@@ -12800,7 +12805,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13145,
+      "Progressed": 13146,
       "Completed": 49
     }
   ],
@@ -12808,8 +12813,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-08T15:00:08.9585614+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:50:22.4159642+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:25:04.0436026+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:42:02.9794646+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:50:22.4160763+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:16:27.028174+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:25:04.0436983+00:00"
 }

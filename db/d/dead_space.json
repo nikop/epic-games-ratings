@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -652,7 +652,7 @@
   ],
   "EOS_Progressed": 867,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2708,9 +2708,9 @@
       "ID": "achievement_29",
       "SetID": "222fo9l",
       "Name": "Legend Teller",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_3",
@@ -2925,8 +2925,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:47:18.6717126+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:21:35.2897551+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:43:03.1123006+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:47:18.671771+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:17:39.7769518+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:21:35.28981+00:00"
 }

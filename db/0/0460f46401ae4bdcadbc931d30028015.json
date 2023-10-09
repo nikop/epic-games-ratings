@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2273,
+  "EOS_Progressed": 2274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2010,6 +2010,11 @@
       "Time": "2023-10-09T01:48:44.9860775+00:00",
       "NumProgressed": 2273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T02:23:23.0845562+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2052,9 +2057,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 659
+      "UsersEstimate": 637
     },
     {
       "ID": "achievement_14",
@@ -2118,7 +2123,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "achievement_21",
@@ -2182,14 +2187,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2273,
+      "Progressed": 2274,
       "Completed": 0
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-07T15:57:14.2140842+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:48:44.9860771+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:23:23.0845558+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:40:43.444175+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:48:44.9861045+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:14:44.1834241+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:23:23.0845847+00:00"
 }

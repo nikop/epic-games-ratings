@@ -22363,9 +22363,9 @@
       "ID": "05_Vengeance_H4",
       "SetID": "adcm20g",
       "Name": "Lady Wing Chun",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2147
     },
     {
       "ID": "06_Vengeance_H5",
@@ -22825,8 +22825,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-08T08:58:19.2997949+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:47:42.0455447+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:22:04.6529964+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.9664628+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:10.4370874+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:47:42.0457138+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:15:20.8259871+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:22:04.6531276+00:00"
 }

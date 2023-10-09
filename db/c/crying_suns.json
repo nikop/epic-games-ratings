@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -616,7 +616,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468753,
+  "EOS_Progressed": 468754,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -18566,6 +18566,11 @@
       "Time": "2023-10-09T01:48:41.9872266+00:00",
       "NumProgressed": 468753,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T02:23:19.4835982+00:00",
+      "NumProgressed": 468754,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18665,7 +18670,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309377
+      "UsersEstimate": 309378
     },
     {
       "ID": "achievement_story_landa",
@@ -19001,7 +19006,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206251
+      "UsersEstimate": 206252
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19208,21 +19213,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12687,
+      "Progressed": 12688,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468753,
+      "Progressed": 468754,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-08T20:58:44.1367341+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:48:41.9872263+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:23:19.4835973+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:36.8687842+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:48:41.9874293+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:15:53.2843564+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:23:19.4837869+00:00"
 }

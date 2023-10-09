@@ -1,7 +1,7 @@
 # Spirit of the Island
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-island)  
 [View Rawdata](../../db/s/spirit_of_the_island.json)  
-Rating: 4.38 (Ranked 738)  
+Rating: 4.36 (Ranked 760)  
 Number of Ratings: 25  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -19,3 +19,4 @@ Number of Ratings: 25  (23.09.2022)
 | 2023-03-31 | 4.40 | - | 0 | 0 |
 | 2023-08-06 | 4.35 | - | 0 | 0 |
 | 2023-10-06 | 4.38 | - | 0 | 0 |
+| 2023-10-09 | 4.36 | - | 0 | 0 |

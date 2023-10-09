@@ -3440,7 +3440,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73332,
+  "EOS_Progressed": 73333,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": -1,
@@ -18090,6 +18090,11 @@
       "Time": "2023-10-09T01:49:15.5007596+00:00",
       "NumProgressed": 73332,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-09T02:24:01.2325621+00:00",
+      "NumProgressed": 73333,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18149,7 +18154,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16866
+      "UsersEstimate": 16867
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18197,7 +18202,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12466
+      "UsersEstimate": 12467
     },
     {
       "ID": "CLAYFACE_1",
@@ -18221,7 +18226,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10266
+      "UsersEstimate": 10267
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -18325,7 +18330,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21266
+      "UsersEstimate": 21267
     },
     {
       "ID": "FREEZE_1_5",
@@ -18349,7 +18354,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10266
+      "UsersEstimate": 10267
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -18405,7 +18410,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25666
+      "UsersEstimate": 25667
     },
     {
       "ID": "HARLEY_2",
@@ -18421,7 +18426,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "HARLEY_4",
@@ -18469,7 +18474,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -18509,7 +18514,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16866
+      "UsersEstimate": 16867
     },
     {
       "ID": "MYSTERY_04",
@@ -18517,7 +18522,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "MYSTERY_05",
@@ -18541,7 +18546,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10266
+      "UsersEstimate": 10267
     },
     {
       "ID": "MYSTERY_08",
@@ -18588,13 +18593,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73332,
+      "Progressed": 73333,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43612,
+      "Progressed": 43613,
       "Completed": 2666
     }
   ],
@@ -18602,8 +18607,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T01:41:52.1830629+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:49:15.5007592+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:24:01.2325616+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:52.1830636+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:49:15.500924+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:16:12.7091449+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:24:01.2327066+00:00"
 }

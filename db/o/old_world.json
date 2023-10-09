@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14539,
+  "EOS_Progressed": 14540,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13375,6 +13375,11 @@
       "Time": "2023-10-09T01:46:51.3943038+00:00",
       "NumProgressed": 14539,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-09T02:21:14.3497245+00:00",
+      "NumProgressed": 14540,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13896,9 +13901,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -13936,9 +13941,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -15176,9 +15181,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -15208,9 +15213,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -16121,21 +16126,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14539,
+      "Progressed": 14540,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14539,
+      "Progressed": 14540,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:46:51.3943034+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:21:14.3497241+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:43:22.2560283+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:46:51.3954295+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:19:14.3970188+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:21:14.3508325+00:00"
 }

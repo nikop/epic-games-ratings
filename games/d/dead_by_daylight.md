@@ -11,13 +11,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 0.90% | ~8,354 |
 | Not half bad | 0.80% | ~7,426 |
 | Make Some Noise | 0.80% | ~7,426 |
-| Handyman | 0.70% | ~6,497 |
-| Apt Survivor | 0.70% | ~6,497 |
-| Survival Treasures | 0.70% | ~6,497 |
+| Handyman | 0.70% | ~6,498 |
+| Apt Survivor | 0.70% | ~6,498 |
+| Survival Treasures | 0.70% | ~6,498 |
+| Sorted | 0.70% | ~6,498 |
 | No one left behind | 0.60% | ~5,569 |
 | Medic | 0.60% | ~5,569 |
 | Nerves of steel | 0.60% | ~5,569 |
-| Sorted | 0.60% | ~5,569 |
 | Healthy Obsession | 0.60% | ~5,569 |
 | Resurgence | 0.60% | ~5,569 |
 | The Grand Sacrifice | 0.50% | ~4,641 |
@@ -41,10 +41,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Made it out alive! | 0.30% | ~2,785 |
 | III | 0.30% | ~2,785 |
 | All Aboard | 0.30% | ~2,785 |
+| Item of Obsession | 0.30% | ~2,785 |
 | Near-Death Experience | 0.30% | ~2,785 |
 | Cherish your Life | 0.30% | ~2,785 |
 | Unforgettable Getaway | 0.30% | ~2,785 |
 | First to the Punch | 0.30% | ~2,785 |
+| Operation: Survival | 0.30% | ~2,785 |
 | Old West Oasis | 0.30% | ~2,785 |
 | Every Last Drop | 0.30% | ~2,785 |
 | Raccoon City Recruit | 0.30% | ~2,785 |
@@ -63,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Hemophobia | 0.20% | ~1,856 |
 | Shock Therapy | 0.20% | ~1,856 |
 | Leapfrog | 0.20% | ~1,856 |
-| Item of Obsession | 0.20% | ~1,856 |
 | House of Pain | 0.20% | ~1,856 |
 | Cottage Owner | 0.20% | ~1,856 |
 | Serial Killer | 0.20% | ~1,856 |
@@ -76,7 +77,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.20% | ~1,856 |
 | Cutting Out | 0.20% | ~1,856 |
 | Outrun Evil | 0.20% | ~1,856 |
-| Operation: Survival | 0.20% | ~1,856 |
 | Broken Bodies | 0.20% | ~1,856 |
 | Grim Pilgrimage | 0.20% | ~1,856 |
 | Selfless Survival | 0.20% | ~1,856 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,203 (Ranked 14)  
+Progressed: 928,248 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,203 | 49 |
+| 2023-10-09 | 928,248 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,474 (Ranked 13)  

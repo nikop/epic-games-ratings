@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 606292,
+  "EOS_Progressed": 606293,
   "EOS_Completed": 531,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -19585,6 +19585,11 @@
       "Time": "2023-10-09T01:51:24.0120061+00:00",
       "NumProgressed": 606292,
       "NumCompleted": 531
+    },
+    {
+      "Time": "2023-10-09T02:25:28.3039077+00:00",
+      "NumProgressed": 606293,
+      "NumCompleted": 531
     }
   ],
   "TotalAchievements": 28,
@@ -19660,7 +19665,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 369838
+      "UsersEstimate": 369839
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19676,7 +19681,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 266768
+      "UsersEstimate": 266769
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -19708,7 +19713,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 291020
+      "UsersEstimate": 291021
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -19819,15 +19824,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 606292,
+      "Progressed": 606293,
       "Completed": 531
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:51:24.0120057+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:25:28.3039074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:59.5062529+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:26.8642451+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:51:24.012166+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:15:41.0725405+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:25:28.3040457+00:00"
 }

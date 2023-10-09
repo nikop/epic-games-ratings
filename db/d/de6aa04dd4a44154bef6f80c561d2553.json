@@ -316,9 +316,9 @@
       "ID": "PowerUp",
       "SetID": "c8fdd59",
       "Name": "Power Up",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Prologue_PeaceDisturbed",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:48:21.2117218+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:22:52.6711371+00:00",
   "LastUpdate_AppInfo": "2023-10-02T10:57:11.2778371+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:11.4111933+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:48:21.2117573+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:15:22.7880644+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:22:52.6711714+00:00"
 }

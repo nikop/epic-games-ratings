@@ -11,6 +11,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.30% | ~2,147 |
 | The Hateful Pole Fighter | 0.30% | ~2,147 |
 | A Lady's Blood in the Snow | 0.30% | ~2,147 |
+| Lady Wing Chun | 0.30% | ~2,147 |
 | Stuntmaster | 0.30% | ~2,147 |
 | Street Fighting | 0.30% | ~2,147 |
 | Life is your teacher | 0.30% | ~2,147 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 0.30% | ~75 |
 | Martial Hub | 0.30% | ~75 |
 | Fight the way you practice | 0.30% | ~75 |
-| Lady Wing Chun | 0.20% | ~1,431 |
 | Furious Fists | 0.20% | ~1,431 |
 | Scareless | 0.20% | ~1,431 |
 | Kill Nil | 0.20% | ~1,431 |

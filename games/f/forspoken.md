@@ -6,15 +6,15 @@ Rating: 4.15 (Ranked 912)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,195 |
-| Unlocked Potential | 9.00% | ~3,775 |
-| Tinkerer | 7.00% | ~2,936 |
-| Knock 'Em Dead | 7.00% | ~2,936 |
+| Unlocked Potential | 9.00% | ~3,776 |
+| Tinkerer | 7.00% | ~2,937 |
+| Knock 'Em Dead | 7.00% | ~2,937 |
 | Leapfrogger | 6.00% | ~2,517 |
 | Pilgrimage: Initiate | 6.00% | ~2,517 |
 | Hell of a Run | 6.00% | ~2,517 |
 | Call of the Fount: Baptized | 6.00% | ~2,517 |
-| No Mercy | 5.00% | ~2,097 |
-| Explorer: Seeker | 5.00% | ~2,097 |
+| No Mercy | 5.00% | ~2,098 |
+| Explorer: Seeker | 5.00% | ~2,098 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,678 |
 | Stuck | 4.00% | ~1,678 |
 | Help Me Out Here | 4.00% | ~1,678 |
@@ -28,12 +28,12 @@ Rating: 4.15 (Ranked 912)
 | Explorer: Pathfinder | 2.00% | ~839 |
 | Shocker | 2.00% | ~839 |
 | From Every Angle | 2.00% | ~839 |
-| The Hue of Blue | 1.00% | ~419 |
-| The Truth Will Out | 1.00% | ~419 |
-| Breaking Point | 1.00% | ~419 |
-| None the Wiser | 1.00% | ~419 |
-| Forspoken | 1.00% | ~419 |
-| Pilgrimage: Novice | 1.00% | ~419 |
+| The Hue of Blue | 1.00% | ~420 |
+| The Truth Will Out | 1.00% | ~420 |
+| Breaking Point | 1.00% | ~420 |
+| None the Wiser | 1.00% | ~420 |
+| Forspoken | 1.00% | ~420 |
+| Pilgrimage: Novice | 1.00% | ~420 |
 | Wildfire | 0.70% | ~294 |
 | Realized Potential | 0.70% | ~294 |
 | Awakening | 0.60% | ~252 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 912)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,948 (Ranked 106)  
+Progressed: 41,950 (Ranked 106)  
 Completed: 3 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 3 (0.01%) (Ranked 291)
 | 2023-10-06 | 41,858 | 3 |
 | 2023-10-07 | 41,898 | 3 |
 | 2023-10-08 | 41,942 | 3 |
-| 2023-10-09 | 41,948 | 3 |
+| 2023-10-09 | 41,950 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 480)  
 Sum: 28 (Ranked 495)  

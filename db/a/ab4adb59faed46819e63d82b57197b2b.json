@@ -181,9 +181,9 @@
       "ID": "DONT_KILL_AUDIENCE",
       "SetID": "dcng643",
       "Name": "For the fans",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DO_NOT_GET_HEALED",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:45:21.2455512+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:19:39.9239504+00:00",
   "LastUpdate_AppInfo": "2023-10-05T18:57:12.9442719+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:42:58.2857016+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:45:21.2456475+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:17:33.4775309+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:19:39.9240491+00:00"
 }

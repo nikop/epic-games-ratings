@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2192,9 +2192,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 241
     },
     {
       "ID": "AC25",
@@ -2377,8 +2377,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-07T03:02:43.9443136+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:50:22.2123344+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:25:03.7767371+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:15.0019813+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:43:21.6567693+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:50:22.212385+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:19:13.5913328+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:25:03.7767869+00:00"
 }

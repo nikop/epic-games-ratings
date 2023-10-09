@@ -12,13 +12,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 1.00% | ~145 |
 | Good | 1.00% | ~145 |
 | Intrepid | 1.00% | ~145 |
+| Mason | 1.00% | ~145 |
 | Settler | 1.00% | ~145 |
 | Strong | 1.00% | ~145 |
 | Friendly Family | 1.00% | ~145 |
 | Hanging Gardens | 1.00% | ~145 |
 | Kushite Paganism | 1.00% | ~145 |
 | Learned | 0.90% | ~131 |
-| Mason | 0.90% | ~131 |
 | Noble | 0.90% | ~131 |
 | Pioneer | 0.90% | ~131 |
 | Oracle | 0.90% | ~131 |
@@ -26,11 +26,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.90% | ~131 |
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
+| Keystone | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Enlightened | 0.70% | ~102 |
-| Keystone | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
 | Warrior | 0.70% | ~102 |
 | Developing Cities | 0.70% | ~102 |
@@ -47,7 +47,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.60% | ~87 |
 | Great Ziggurat | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
+| Manichaeism | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
+| Egyptian Paganism | 0.60% | ~87 |
 | Roman Paganism | 0.60% | ~87 |
 | Kushite Pyramids | 0.60% | ~87 |
 | Great | 0.50% | ~73 |
@@ -60,8 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
-| Manichaeism | 0.50% | ~73 |
-| Egyptian Paganism | 0.50% | ~73 |
 | Regicide | 0.40% | ~58 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Drillmaster | 0.40% | ~58 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,539 (Ranked 134)  
+Progressed: 14,540 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,539 | 5 |
+| 2023-10-09 | 14,540 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

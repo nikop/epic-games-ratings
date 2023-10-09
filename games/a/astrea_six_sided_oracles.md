@@ -41,6 +41,7 @@
 | Astrarium of Holding | 4.00% | ~2 |
 | Denying Destiny | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |
+| Purification Avatar | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
 | The Abyssal Terror | 4.00% | ~2 |
 | The Dark Moon | 4.00% | ~2 |
@@ -55,7 +56,6 @@
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Prestidigitation | 2.00% | ~1 |
-| Purification Avatar | 2.00% | ~1 |
 | Reflexive Mind | 2.00% | ~1 |
 | The Chaos Artisan | 2.00% | ~1 |
 | The Distorted Sage | 2.00% | ~1 |

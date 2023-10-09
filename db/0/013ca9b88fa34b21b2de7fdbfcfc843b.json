@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6358,
+  "EOS_Progressed": 6361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3746,6 +3746,11 @@
       "Time": "2023-10-09T01:48:09.3727032+00:00",
       "NumProgressed": 6358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T02:22:38.0511954+00:00",
+      "NumProgressed": 6361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3758,7 +3763,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4644
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3766,7 +3771,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4453
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3774,7 +3779,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3782,7 +3787,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3790,7 +3795,7 @@
       "Name": "Clear the Air",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -3806,7 +3811,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -3854,7 +3859,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2672
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -3862,7 +3867,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -3894,7 +3899,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -3910,7 +3915,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3817
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -3918,7 +3923,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -3934,7 +3939,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -3982,7 +3987,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -4037,7 +4042,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6358,
+      "Progressed": 6361,
       "Completed": 0
     }
   ],
@@ -4045,8 +4050,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-08T18:59:48.1670142+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:48:09.3727029+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:22:38.0511947+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:42:18.8602442+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:48:09.3727574+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:16:45.4656047+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:22:38.0512446+00:00"
 }

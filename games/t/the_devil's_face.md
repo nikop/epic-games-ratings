@@ -8,7 +8,7 @@
 | Is it merely a dream? | 19.00% | ~68 |
 | The path to enlightenment | 11.00% | ~39 |
 | Our efforts are finally yielding progress | 11.00% | ~39 |
-| This looks really bad | 10.00% | ~36 |
+| This looks really bad | 11.00% | ~39 |
 | Unholy lands | 9.00% | ~32 |
 | Unveiling the Magnitude of Sin | 6.00% | ~21 |
 | The court | 5.00% | ~18 |

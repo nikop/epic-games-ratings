@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-10-09T01:48:54.9731774+00:00",
       "NumProgressed": 541,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T02:23:35.5996727+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1598,7 +1603,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_33",
@@ -1622,7 +1627,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_36",
@@ -1638,7 +1643,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_38",
@@ -1686,7 +1691,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_43",
@@ -1702,7 +1707,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_45",
@@ -1718,7 +1723,7 @@
       "Name": "Patience you must have",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_47",
@@ -1750,7 +1755,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_50",
@@ -1901,13 +1906,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 1
     }
   ],
@@ -1915,8 +1920,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:48:54.973177+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:23:35.5996723+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:45:12.5752089+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:48:54.9732798+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:19:26.9279901+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:23:35.5997909+00:00"
 }

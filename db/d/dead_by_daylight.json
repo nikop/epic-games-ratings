@@ -11129,9 +11129,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 928203,
+  "EOS_Progressed": 928248,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13899,
+  "EOS_NewPlayers": 13888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30589,6 +30589,11 @@
       "Time": "2023-10-09T01:46:42.6971063+00:00",
       "NumProgressed": 928203,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T02:21:03.6405308+00:00",
+      "NumProgressed": 928248,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30736,7 +30741,7 @@
       "Name": "Handyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "ACH_019",
@@ -30808,7 +30813,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "ACH_028",
@@ -30832,7 +30837,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "ACH_031",
@@ -31110,9 +31115,9 @@
       "ID": "ACH_065",
       "SetID": "16jml5b",
       "Name": "Item of Obsession",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1856
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_066",
@@ -31166,9 +31171,9 @@
       "ID": "ACH_072",
       "SetID": "bdmlp8o",
       "Name": "Sorted",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5569
+      "UsersEstimate": 6498
     },
     {
       "ID": "ACH_073",
@@ -31614,9 +31619,9 @@
       "ID": "ACH_131",
       "SetID": "16jml5b",
       "Name": "Operation: Survival",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1856
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_132",
@@ -32431,21 +32436,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 928203,
+      "Progressed": 928248,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 928203,
+      "Progressed": 928248,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-08T19:59:49.1371924+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:46:42.6971058+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:21:03.6405304+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:42:34.1582702+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:46:42.6978946+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:17:02.9032244+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:21:03.641247+00:00"
 }

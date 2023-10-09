@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 3.00% | ~20,792 |
-| Break A Leg | 3.00% | ~20,792 |
-| Coup de Grâce | 3.00% | ~20,792 |
-| Hazardous Materials | 3.00% | ~20,792 |
-| Friends Like These | 3.00% | ~20,792 |
-| Hotel California | 3.00% | ~20,792 |
-| Apex Predator | 3.00% | ~20,792 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,792 |
-| Welcome To Hell-A | 3.00% | ~20,792 |
+| Git Gutte! | 3.00% | ~20,793 |
+| Break A Leg | 3.00% | ~20,793 |
+| Coup de Grâce | 3.00% | ~20,793 |
+| Hazardous Materials | 3.00% | ~20,793 |
+| Friends Like These | 3.00% | ~20,793 |
+| Hotel California | 3.00% | ~20,793 |
+| Apex Predator | 3.00% | ~20,793 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,793 |
+| Welcome To Hell-A | 3.00% | ~20,793 |
 | Dr. Reed, I Presume? | 2.00% | ~13,862 |
 | Anger Management | 2.00% | ~13,862 |
 | Perks of the Job | 2.00% | ~13,862 |
@@ -40,9 +40,9 @@ Rating: 4.54 (Ranked 509)
 | Smorgasbord | 0.80% | ~5,545 |
 | Not Even My Final Form | 0.70% | ~4,852 |
 | Internet Famous | 0.70% | ~4,852 |
-| Make it So | 0.60% | ~4,158 |
-| On Safari | 0.60% | ~4,158 |
-| Variety is the Spice of Death | 0.60% | ~4,158 |
+| Make it So | 0.60% | ~4,159 |
+| On Safari | 0.60% | ~4,159 |
+| Variety is the Spice of Death | 0.60% | ~4,159 |
 | LA Influential | 0.50% | ~3,465 |
 | Gore Horse | 0.50% | ~3,465 |
 | Sole Survivor | 0.40% | ~2,772 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,386 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,078 (Ranked 22)  
+Progressed: 693,088 (Ranked 22)  
 Completed: 2,205 (0.32%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 2,205 (0.32%) (Ranked 196)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,078 | 2,205 |
+| 2023-10-09 | 693,088 | 2,205 |
 ## Awards
 Max (Great Boss Battles): 6,366  (Ranked 58)  
 Sum: 9,500 (Ranked 91)  

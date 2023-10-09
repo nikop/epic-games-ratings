@@ -31,12 +31,12 @@
 | The bully | 14.00% | ~3 |
 | Blessed antennas | 10.00% | ~2 |
 | The beast in the Oval Office | 10.00% | ~2 |
+| Blood Red Island | 10.00% | ~2 |
 | The adventurer | 10.00% | ~2 |
 | Pulp! True Adventures | 10.00% | ~2 |
 | Pulp! The Beyond | 10.00% | ~2 |
 | America had no Faith | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
-| Blood Red Island | 5.00% | ~1 |
 | Bread and bocaua | 5.00% | ~1 |
 | Fanatacism is... poisonous | 5.00% | ~1 |
 | The scholar | 5.00% | ~1 |

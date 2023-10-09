@@ -18,12 +18,12 @@
 | A good beginning | 3.00% | ~8 |
 | Half the way | 3.00% | ~8 |
 | Open door | 3.00% | ~8 |
+| Feels like springtime | 3.00% | ~8 |
 | Alchemists Express | 3.00% | ~8 |
 | Champollion | 3.00% | ~8 |
 | The darkness | 3.00% | ~8 |
 | One last step | 3.00% | ~8 |
 | Free at last | 2.00% | ~5 |
-| Feels like springtime | 2.00% | ~5 |
 | For its own good | 2.00% | ~5 |
 | A Link to the Past | 2.00% | ~5 |
 | Rascal | 2.00% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -876,6 +876,11 @@
       "Time": "2023-10-08T07:04:08.826642+00:00",
       "NumProgressed": 263,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-09T02:20:40.3704472+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -886,9 +891,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -944,7 +949,7 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -968,7 +973,7 @@
       "Name": "Shelter Escape",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1032,7 +1037,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1046,9 +1051,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1087,14 +1092,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-09T01:46:24.3992593+00:00",
+  "LastChanged_Achievements": "2023-10-09T02:20:40.3704464+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-09T01:41:48.3528574+00:00",
-  "LastUpdate_Achievements": "2023-10-09T01:46:24.399283+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:16:07.8426032+00:00",
+  "LastUpdate_Achievements": "2023-10-09T02:20:40.3704718+00:00"
 }
