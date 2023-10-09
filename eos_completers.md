@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.68% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.65% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -101,7 +101,7 @@
 | 99 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.42% |
 | 100 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 101 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
+| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.22% |
@@ -156,10 +156,10 @@
 | 154 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
 | 154 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 156 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 156 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.62% |
 | 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.62% |
 | 156 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
-| 160 | [Haven](games/h/haven.md) | 0.61% |
+| 159 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.61% |
+| 159 | [Haven](games/h/haven.md) | 0.61% |
 | 161 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 161 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
 | 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
@@ -183,12 +183,12 @@
 | 181 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
 | 182 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.39% |
-| 183 | [It Takes Two](games/i/it_takes_two.md) | 0.39% |
 | 183 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 186 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 186 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
-| 186 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 185 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
+| 185 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.38% |
+| 185 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.38% |
+| 185 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 190 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 191 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
