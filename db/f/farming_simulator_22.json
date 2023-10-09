@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9921,9 +9921,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 49647,
+  "EOS_Progressed": 49648,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25286,6 +25286,11 @@
       "Time": "2023-10-09T10:05:37.8643801+00:00",
       "NumProgressed": 49647,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-09T11:04:23.5747935+00:00",
+      "NumProgressed": 49648,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -25377,7 +25382,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 31774
+      "UsersEstimate": 31775
     },
     {
       "ID": "CutTree",
@@ -25385,7 +25390,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "CutTreeFirst",
@@ -25433,7 +25438,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 29788
+      "UsersEstimate": 29789
     },
     {
       "ID": "Harvested",
@@ -25449,7 +25454,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37235
+      "UsersEstimate": 37236
     },
     {
       "ID": "HorseJumps",
@@ -25545,7 +25550,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "NumVehiclesSmall",
@@ -25553,7 +25558,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 28795
+      "UsersEstimate": 28796
     },
     {
       "ID": "PetDog",
@@ -25601,7 +25606,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 21348
+      "UsersEstimate": 21349
     },
     {
       "ID": "TruckDriving",
@@ -25640,15 +25645,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 49647,
+      "Progressed": 49648,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-09T09:00:34.2576896+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:05:37.8643795+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:04:23.5747926+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.7573988+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:01:41.390502+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:05:37.8645728+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:00:01.2177846+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:04:23.5750197+00:00"
 }

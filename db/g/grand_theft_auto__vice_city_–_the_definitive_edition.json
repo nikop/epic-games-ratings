@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -754,9 +754,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 10570,
+  "EOS_Progressed": 10571,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11249,6 +11249,11 @@
       "Time": "2023-10-09T06:05:07.2576023+00:00",
       "NumProgressed": 10570,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-09T11:05:11.2320102+00:00",
+      "NumProgressed": 10571,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11284,7 +11289,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH05",
@@ -11364,7 +11369,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     },
     {
       "ID": "ACH15",
@@ -11420,7 +11425,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4862
+      "UsersEstimate": 4863
     },
     {
       "ID": "ACH22",
@@ -11468,7 +11473,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH28",
@@ -11531,7 +11536,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10570,
+      "Progressed": 10571,
       "Completed": 60
     }
   ],
@@ -11539,8 +11544,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-07T12:59:54.5914419+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:06:44.9590104+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:05:11.2320087+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:59:47.6671495+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:06:44.9591552+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:58:47.6486908+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:05:11.2321669+00:00"
 }

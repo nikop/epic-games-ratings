@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~28,979 |
+| Follow the Light | 43.00% | ~28,980 |
 | Let There Be Light | 35.00% | ~23,588 |
 | Float Like a Butterfly | 33.00% | ~22,240 |
-| Nordic Walking | 27.00% | ~18,196 |
-| Bright Falls' Finest | 26.00% | ~17,522 |
+| Nordic Walking | 27.00% | ~18,197 |
+| Bright Falls' Finest | 26.00% | ~17,523 |
 | Under a Thin Layer of Skin | 23.00% | ~15,501 |
 | Paging Mr. Wake | 20.00% | ~13,479 |
 | Park Ranger | 19.00% | ~12,805 |
@@ -33,9 +33,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 12.00% | ~8,087 |
 | Two For the Price of One | 12.00% | ~8,087 |
 | Energized! | 12.00% | ~8,087 |
-| What Light Through Yonder Window | 10.00% | ~6,739 |
-| Right of Way | 10.00% | ~6,739 |
-| Tornado Wrangler | 9.00% | ~6,065 |
+| What Light Through Yonder Window | 10.00% | ~6,740 |
+| Right of Way | 10.00% | ~6,740 |
+| Tornado Wrangler | 9.00% | ~6,066 |
 | A Friend in Need | 9.00% | ~2,778 |
 | Departure | 8.00% | ~5,392 |
 | Hardboiled Writer | 7.00% | ~4,718 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 5.00% | ~3,370 |
 | If It Flies, It Burns | 5.00% | ~3,370 |
 | KBF-FM | 5.00% | ~3,370 |
-| Kill Your Darlings | 4.00% | ~1,234 |
-| Heartbreaker | 4.00% | ~1,234 |
+| Kill Your Darlings | 4.00% | ~1,235 |
+| Heartbreaker | 4.00% | ~1,235 |
 | Carny | 3.00% | ~2,022 |
 | Medical Opinions | 2.00% | ~1,348 |
 | Taken Season | 2.00% | ~1,348 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,394 (Ranked 93)  
+Progressed: 67,395 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 67 (0.10%) (Ranked 245)
 | 2023-10-06 | 67,139 | 67 |
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
-| 2023-10-09 | 67,394 | 67 |
+| 2023-10-09 | 67,395 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

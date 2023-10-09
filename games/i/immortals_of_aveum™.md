@@ -41,8 +41,8 @@ Rating: 4.03 (Ranked 958)
 | Shroudfane Surveyor | 6.00% | ~4 |
 | Treasure Hunter | 6.00% | ~4 |
 | Master of Ultramarine | 4.00% | ~3 |
+| Master of Carmine | 4.00% | ~3 |
 | Grand Magnus | 3.00% | ~2 |
-| Master of Carmine | 3.00% | ~2 |
 | Master of Malachite | 3.00% | ~2 |
 | Tip of the Spear | 3.00% | ~2 |
 | Backtracker | 3.00% | ~2 |

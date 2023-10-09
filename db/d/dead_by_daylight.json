@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11067,10 +11067,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 260551,
       "NumberOfAwardsMax": 33640
+    },
+    {
+      "Time": "2023-10-09T11:00:21.5963942+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 260578,
+      "NumberOfAwardsMax": 33640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260551,
+  "NumberOfAwards": 260578,
   "NumberOfAwardsMax": 33640,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11126,7 +11132,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28652
+      "Count": 28679
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11141,9 +11147,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 928635,
+  "EOS_Progressed": 928699,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13909,
+  "EOS_NewPlayers": 13917,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30646,6 +30652,11 @@
       "Time": "2023-10-09T10:05:55.8019814+00:00",
       "NumProgressed": 928635,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T11:04:36.6377662+00:00",
+      "NumProgressed": 928699,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30793,7 +30804,7 @@
       "Name": "Handyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ACH_019",
@@ -30825,7 +30836,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9286
+      "UsersEstimate": 9287
     },
     {
       "ID": "ACH_023",
@@ -30833,7 +30844,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9286
+      "UsersEstimate": 9287
     },
     {
       "ID": "ACH_024",
@@ -30841,7 +30852,7 @@
       "Name": "Not half bad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7429
+      "UsersEstimate": 7430
     },
     {
       "ID": "ACH_025",
@@ -30865,7 +30876,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ACH_028",
@@ -30889,7 +30900,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7429
+      "UsersEstimate": 7430
     },
     {
       "ID": "ACH_031",
@@ -30961,7 +30972,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9286
+      "UsersEstimate": 9287
     },
     {
       "ID": "ACH_040",
@@ -31225,7 +31236,7 @@
       "Name": "Sorted",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ACH_073",
@@ -32425,7 +32436,7 @@
       "Name": "Make Some Noise",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7429
+      "UsersEstimate": 7430
     },
     {
       "ID": "ACH_226",
@@ -32488,21 +32499,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 928635,
+      "Progressed": 928699,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 928635,
+      "Progressed": 928699,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-09T07:00:05.0571332+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:05:55.8019805+00:00",
+  "LastChanged": "2023-10-09T11:00:21.596394+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:04:36.6377653+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:02:12.0039359+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:05:55.802808+00:00"
+  "LastUpdate_Ratings": "2023-10-09T11:00:21.5963949+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:04:36.639064+00:00"
 }

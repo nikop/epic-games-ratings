@@ -8,7 +8,7 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 1.00% | ~1,514 |
 | Imprint | 1.00% | ~1,514 |
-| The Hunt | 0.80% | ~1,211 |
+| The Hunt | 0.80% | ~1,212 |
 | Weeper | 0.70% | ~1,060 |
 | Ravenous | 0.70% | ~1,060 |
 | Devourer | 0.50% | ~757 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,430 (Ranked 70)  
+Progressed: 151,438 (Ranked 70)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-06 | 150,744 | 1 |
 | 2023-10-07 | 151,066 | 1 |
 | 2023-10-08 | 151,373 | 1 |
-| 2023-10-09 | 151,430 | 1 |
+| 2023-10-09 | 151,438 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 433)  
 Sum: 272 (Ranked 360)  

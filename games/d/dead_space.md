@@ -25,7 +25,7 @@ Rating: 4.62 (Ranked 354)
 | Strange Transmissions | 43.00% | ~375 |
 | Live with the Hot Ones | 42.00% | ~367 |
 | Wreckage | 41.00% | ~358 |
-| Keeper of the Faith | 39.00% | ~340 |
+| Keeper of the Faith | 40.00% | ~349 |
 | Betrayed | 38.00% | ~332 |
 | Legend Teller | 37.00% | ~323 |
 | There's Always Peng! | 37.00% | ~323 |

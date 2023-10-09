@@ -897,17 +897,17 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_8",
@@ -935,8 +935,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:06:39.5062799+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:05:07.3699163+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.1602586+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:58:24.9826301+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:06:39.5063322+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:57:50.2837679+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:05:07.37+00:00"
 }

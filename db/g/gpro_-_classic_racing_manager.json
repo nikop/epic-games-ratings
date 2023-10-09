@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-10-07T19:05:04.345787+00:00",
       "NumProgressed": 406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T11:06:24.9255499+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1157,7 +1162,7 @@
       "Name": "Better than cake",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -2212,14 +2217,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:08:29.330208+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:06:24.9255489+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:03.1528407+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:59:29.8972819+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:08:29.3305675+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:58:36.5529575+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:06:24.9262076+00:00"
 }

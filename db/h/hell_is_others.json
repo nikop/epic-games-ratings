@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1066,9 +1066,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257106,
+  "EOS_Progressed": 257108,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18106,6 +18106,11 @@
       "Time": "2023-10-09T10:04:20.6002922+00:00",
       "NumProgressed": 257106,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-09T11:03:29.6075307+00:00",
+      "NumProgressed": 257108,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18117,7 +18122,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17997
+      "UsersEstimate": 17998
     },
     {
       "ID": "Act2",
@@ -18405,7 +18410,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56563
+      "UsersEstimate": 56564
     },
     {
       "ID": "KillOthers2",
@@ -18564,7 +18569,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257106,
+      "Progressed": 257108,
       "Completed": 3
     }
   ],
@@ -18572,8 +18577,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-09T02:14:37.5934862+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:04:20.6002915+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:03:29.6075297+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:59:08.678754+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:04:20.6005097+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:58:22.3029324+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:03:29.6076977+00:00"
 }

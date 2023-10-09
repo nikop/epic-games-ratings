@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,10 +524,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67394,
+  "EOS_Progressed": 67395,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 633,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -17389,6 +17389,11 @@
       "Time": "2023-10-09T09:07:30.3996971+00:00",
       "NumProgressed": 67394,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-09T11:06:49.0627928+00:00",
+      "NumProgressed": 67395,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17400,7 +17405,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 28979
+      "UsersEstimate": 28980
     },
     {
       "ID": "02",
@@ -17408,7 +17413,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18196
+      "UsersEstimate": 18197
     },
     {
       "ID": "03",
@@ -17416,7 +17421,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17522
+      "UsersEstimate": 17523
     },
     {
       "ID": "04",
@@ -17520,7 +17525,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "17",
@@ -17592,7 +17597,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "26",
@@ -17712,7 +17717,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "41",
@@ -17872,7 +17877,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "61",
@@ -17928,28 +17933,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67394,
+      "Progressed": 67395,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30862,
+      "Progressed": 30863,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:09:03.5244963+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:06:49.062792+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:59:24.213539+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:09:03.5247017+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:58:32.2879487+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:06:49.0630919+00:00"
 }

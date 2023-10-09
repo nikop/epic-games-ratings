@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Iro_BestEnding",
@@ -470,8 +470,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:05:57.8214497+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:04:37.8821125+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:56.152659+00:00",
-  "LastUpdate_Ratings": "2023-10-09T09:58:33.0829212+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:05:57.8214812+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:57:55.6321677+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:04:37.8821634+00:00"
 }

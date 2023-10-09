@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2791,6 +2791,11 @@
       "Time": "2023-10-09T09:06:29.0587277+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T11:05:57.039115+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2840,9 +2845,9 @@
       "ID": "COMRADE_YOGI",
       "SetID": "bf13m8j",
       "Name": "Comrade Yogi",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -2858,7 +2863,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "EXPERT_1",
@@ -2912,9 +2917,9 @@
       "ID": "KORALOV",
       "SetID": "bf13m8j",
       "Name": "Tourist Korallov",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "KRAINA_GRZYBOW_1",
@@ -2930,7 +2935,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3026,7 +3031,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "SECRET_ROOM",
@@ -3074,7 +3079,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "WISHMASTER_1",
@@ -3089,15 +3094,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-09T10:07:49.4150339+00:00",
+  "LastChanged_Achievements": "2023-10-09T11:05:57.0391142+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-09T10:01:35.934472+00:00",
-  "LastUpdate_Achievements": "2023-10-09T10:07:49.4151144+00:00"
+  "LastUpdate_Ratings": "2023-10-09T10:59:59.4007984+00:00",
+  "LastUpdate_Achievements": "2023-10-09T11:05:57.0391859+00:00"
 }

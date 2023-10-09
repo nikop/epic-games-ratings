@@ -6,58 +6,58 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~111,612 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,209 |
-| A Clear Conscience | 69.00% | ~82,809 |
-| Unleash Hell | 68.00% | ~81,609 |
-| Unfulfilled Desires | 68.00% | ~81,609 |
-| Funny Guy | 67.00% | ~80,409 |
-| Unshackled | 67.00% | ~80,409 |
-| Long Live the King | 66.00% | ~79,209 |
-| Resurrection | 62.00% | ~74,408 |
-| Wyrdly Reconstructed | 62.00% | ~74,408 |
-| Boxcar Kid | 60.00% | ~72,008 |
-| Rush Hour | 60.00% | ~72,008 |
-| To Grandmother's House | 60.00% | ~72,008 |
-| Serenity Now! | 53.00% | ~63,607 |
-| Hope Rekindled | 50.00% | ~60,006 |
-| Ramble On | 49.00% | ~58,806 |
-| Nope | 48.00% | ~57,606 |
-| This Looks Familiar | 38.00% | ~45,605 |
-| Now Stay Dead | 37.00% | ~44,405 |
-| Merry Time | 36.00% | ~43,205 |
-| Harvest Festival | 36.00% | ~43,205 |
-| Hot Air | 36.00% | ~43,205 |
-| Creep and Sleep | 33.00% | ~39,604 |
-| Overdue Notice | 32.00% | ~38,404 |
-| Banishment | 31.00% | ~37,204 |
-| Whale | 31.00% | ~37,204 |
-| FNG | 30.00% | ~36,004 |
-| Predator | 25.00% | ~30,003 |
-| Reverse Banditry | 25.00% | ~30,003 |
-| Autodidact | 25.00% | ~30,003 |
-| Meat and Greet | 23.00% | ~27,603 |
-| Road Trip | 22.00% | ~26,403 |
-| Spelunker | 21.00% | ~25,203 |
-| Eyes Up | 21.00% | ~25,203 |
-| It Rings a Bell | 20.00% | ~24,003 |
-| Escape from the Black Hole | 18.00% | ~21,602 |
-| Dissector | 17.00% | ~20,402 |
-| It Happens | 17.00% | ~20,402 |
-| This Belongs in a Museum | 16.00% | ~19,202 |
-| Handled | 16.00% | ~19,202 |
-| Catch and Decease | 14.00% | ~16,802 |
+| A Place to Lay Your Head | 93.00% | ~111,617 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,213 |
+| A Clear Conscience | 69.00% | ~82,812 |
+| Unleash Hell | 68.00% | ~81,612 |
+| Unfulfilled Desires | 68.00% | ~81,612 |
+| Funny Guy | 67.00% | ~80,412 |
+| Unshackled | 67.00% | ~80,412 |
+| Long Live the King | 66.00% | ~79,212 |
+| Resurrection | 62.00% | ~74,411 |
+| Wyrdly Reconstructed | 62.00% | ~74,411 |
+| Boxcar Kid | 60.00% | ~72,011 |
+| Rush Hour | 60.00% | ~72,011 |
+| To Grandmother's House | 60.00% | ~72,011 |
+| Serenity Now! | 53.00% | ~63,610 |
+| Hope Rekindled | 50.00% | ~60,009 |
+| Ramble On | 49.00% | ~58,809 |
+| Nope | 48.00% | ~57,609 |
+| This Looks Familiar | 38.00% | ~45,607 |
+| Now Stay Dead | 37.00% | ~44,407 |
+| Merry Time | 36.00% | ~43,206 |
+| Harvest Festival | 36.00% | ~43,206 |
+| Hot Air | 36.00% | ~43,206 |
+| Creep and Sleep | 33.00% | ~39,606 |
+| Overdue Notice | 32.00% | ~38,406 |
+| Banishment | 31.00% | ~37,206 |
+| Whale | 31.00% | ~37,206 |
+| FNG | 30.00% | ~36,005 |
+| Predator | 25.00% | ~30,004 |
+| Reverse Banditry | 25.00% | ~30,004 |
+| Autodidact | 25.00% | ~30,004 |
+| Meat and Greet | 23.00% | ~27,604 |
+| Road Trip | 22.00% | ~26,404 |
+| Spelunker | 21.00% | ~25,204 |
+| Eyes Up | 21.00% | ~25,204 |
+| It Rings a Bell | 20.00% | ~24,004 |
+| Escape from the Black Hole | 18.00% | ~21,603 |
+| Dissector | 17.00% | ~20,403 |
+| It Happens | 17.00% | ~20,403 |
+| This Belongs in a Museum | 16.00% | ~19,203 |
+| Handled | 16.00% | ~19,203 |
+| Catch and Decease | 14.00% | ~16,803 |
 | Not Today! | 13.00% | ~15,602 |
 | Deprogramming | 13.00% | ~15,602 |
 | Shrine of Reflection | 12.00% | ~14,402 |
-| When You Want Something Done Right | 11.00% | ~13,201 |
-| Body of Work | 10.00% | ~12,001 |
+| When You Want Something Done Right | 11.00% | ~13,202 |
+| Body of Work | 10.00% | ~12,002 |
 | Utopia | 8.00% | ~9,601 |
 | Hat Trick | 7.00% | ~8,401 |
 | Ichthyophobic | 6.00% | ~7,201 |
 | No More Mouths to Feed | 6.00% | ~7,201 |
 | The World As It Was | 4.00% | ~4,801 |
-| Triage | 3.00% | ~3,600 |
+| Triage | 3.00% | ~3,601 |
 | A Life Well Lived | 2.00% | ~2,400 |
 | Clearing the Ledger | 2.00% | ~2,400 |
 | Bacon Bits | 1.00% | ~1,200 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~120 |
 | No Gravestone Left Unturned | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,013 (Ranked 77)  
+Progressed: 120,018 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-06 | 119,747 | 1 |
 | 2023-10-07 | 119,869 | 1 |
 | 2023-10-08 | 119,979 | 1 |
-| 2023-10-09 | 120,013 | 1 |
+| 2023-10-09 | 120,018 | 1 |
 ## Awards
 Max (Character Customization): 7,447  (Ranked 50)  
 Sum: 19,491 (Ranked 57)  

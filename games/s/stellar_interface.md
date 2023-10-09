@@ -87,6 +87,8 @@
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
+| Magic Bronze mirror; on the wall | 2.00% | ~1 |
+| Rambo VI | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
@@ -97,9 +99,7 @@
 | Galactic Captain | 2.00% | ~1 |
 | Collateral Damage IV | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
-| Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
-| Rambo VI | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
