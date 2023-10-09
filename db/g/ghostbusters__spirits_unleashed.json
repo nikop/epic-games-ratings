@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2330,7 +2330,7 @@
   ],
   "EOS_Progressed": 26305,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14517,9 +14517,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 526
     },
     {
       "ID": "Animated",
@@ -14589,9 +14589,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 210
     },
     {
       "ID": "Diabolical",
@@ -14797,9 +14797,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 158
     },
     {
       "ID": "Solo_Capture",
@@ -14934,8 +14934,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-08T11:59:22.2607376+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:03:11.0223809+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:04:05.3386774+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-09T03:00:39.5721443+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:03:11.0225184+00:00"
+  "LastUpdate_Ratings": "2023-10-09T04:01:11.4103089+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:04:05.338845+00:00"
 }

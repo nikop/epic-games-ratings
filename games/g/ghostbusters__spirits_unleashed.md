@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 572)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Advancement | 2.00% | ~526 |
 | Stylish | 2.00% | ~526 |
-| Advancement | 1.00% | ~263 |
 | I collect Spores, Molds, and Fungi | 1.00% | ~263 |
 | Discovery | 1.00% | ~263 |
 | Meticulously Efficient | 1.00% | ~263 |
@@ -20,18 +20,18 @@ Rating: 4.50 (Ranked 572)
 | There you are! | 0.90% | ~237 |
 | Whoopsie | 0.90% | ~237 |
 | Back Off | 0.80% | ~210 |
+| Daily Dose | 0.80% | ~210 |
 | Icing on the Cake | 0.80% | ~210 |
 | Animated | 0.70% | ~184 |
-| Daily Dose | 0.70% | ~184 |
 | Ghostbuster In Training | 0.70% | ~184 |
 | Right back at ya | 0.70% | ~184 |
 | Terrifying | 0.70% | ~184 |
 | Welcome to the Crew | 0.70% | ~184 |
 | Ectoplasmic Entity | 0.60% | ~158 |
 | Side Hustle | 0.60% | ~158 |
+| Skilled | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
 | Legions | 0.50% | ~132 |
-| Skilled | 0.50% | ~132 |
 | Stunner | 0.50% | ~132 |
 | We have the best insurance | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |

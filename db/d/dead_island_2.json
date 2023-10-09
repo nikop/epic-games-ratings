@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5116,10 +5116,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9500,
       "NumberOfAwardsMax": 6366
+    },
+    {
+      "Time": "2023-10-09T04:00:18.2964226+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9502,
+      "NumberOfAwardsMax": 6366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9500,
+  "NumberOfAwards": 9502,
   "NumberOfAwardsMax": 6366,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5169,7 +5175,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 398
+      "Count": 400
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5178,10 +5184,10 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 693098,
-  "EOS_Completed": 2205,
-  "EOS_NewPlayers": 3585,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 693111,
+  "EOS_Completed": 2206,
+  "EOS_NewPlayers": 3584,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24598,6 +24604,11 @@
       "Time": "2023-10-09T03:08:29.4443794+00:00",
       "NumProgressed": 693098,
       "NumCompleted": 2205
+    },
+    {
+      "Time": "2023-10-09T04:09:13.9191013+00:00",
+      "NumProgressed": 693111,
+      "NumCompleted": 2206
     }
   ],
   "TotalAchievements": 45,
@@ -24649,7 +24660,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "ach_blueprinted",
@@ -24833,7 +24844,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "ach_metropolitan",
@@ -24943,9 +24954,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20793
+      "UsersEstimate": 27724
     },
     {
       "ID": "ach_well_known_survivor",
@@ -24968,22 +24979,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 693098,
-      "Completed": 2205
+      "Progressed": 693111,
+      "Completed": 2206
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 18640,
-      "Completed": 18640
+      "Progressed": 18653,
+      "Completed": 18653
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-08T22:59:20.3686797+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:08:29.4443787+00:00",
+  "LastChanged": "2023-10-09T04:00:18.2964224+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:09:13.9191006+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:59:45.9195844+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:08:29.444667+00:00"
+  "LastUpdate_Ratings": "2023-10-09T04:00:18.2964231+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:09:13.9192563+00:00"
 }

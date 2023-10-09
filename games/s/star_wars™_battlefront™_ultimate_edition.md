@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~489 |
+| New Recruit | 90.00% | ~490 |
 | Off to a good start | 67.00% | ~364 |
 | Do... or do not. There is no try | 53.00% | ~288 |
 | A good blaster at your side | 35.00% | ~190 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 9.00% | ~49 |
 | Impressive. Most impressive. | 9.00% | ~49 |
 | Judge me by my size, do you? | 9.00% | ~49 |
-| Distinguished | 8.00% | ~43 |
-| A tremor in the Force | 8.00% | ~43 |
-| Support the troops | 8.00% | ~43 |
+| Distinguished | 8.00% | ~44 |
+| A tremor in the Force | 8.00% | ~44 |
+| Support the troops | 8.00% | ~44 |
 | Not bad for a little furball | 6.00% | ~33 |
 | Patience you must have | 6.00% | ~33 |
 | I've been waiting for you | 5.00% | ~27 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543 (Ranked 266)  
+Progressed: 544 (Ranked 266)  
 Completed: 1 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.18%) (Ranked 222)
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
 | 2023-10-08 | 538 | 1 |
-| 2023-10-09 | 543 | 1 |
+| 2023-10-09 | 544 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

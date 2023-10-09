@@ -164,9 +164,9 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter08_UntimelyAdversity",
@@ -348,9 +348,9 @@
       "ID": "ScrollToWin",
       "SetID": "c8fdd59",
       "Name": "Scroll to Win",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SecretBase",
@@ -364,9 +364,9 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SuperBestFriends",
@@ -435,8 +435,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:06:46.2497901+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:07:30.2068582+00:00",
   "LastUpdate_AppInfo": "2023-10-02T10:57:11.2778371+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:59:09.0319064+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:06:46.2498471+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:59:42.2228405+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:07:30.2068963+00:00"
 }

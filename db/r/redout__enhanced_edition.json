@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233323,
+  "EOS_Progressed": 233324,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18419,6 +18419,11 @@
       "Time": "2023-10-09T03:03:49.2767525+00:00",
       "NumProgressed": 233323,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-09T04:04:43.1019037+00:00",
+      "NumProgressed": 233324,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18446,7 +18451,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65330
+      "UsersEstimate": 65331
     },
     {
       "ID": "CENTAUR",
@@ -18694,22 +18699,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 95662
+      "UsersEstimate": 95663
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233323,
+      "Progressed": 233324,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:03:49.2767517+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:04:43.1019023+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.8840873+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:59:38.1225183+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:03:49.2769993+00:00"
+  "LastUpdate_Ratings": "2023-10-09T04:00:09.9560429+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:04:43.1020622+00:00"
 }

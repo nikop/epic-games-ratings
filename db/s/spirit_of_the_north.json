@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 70962,
+  "EOS_Progressed": 70963,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19139,6 +19139,11 @@
       "Time": "2023-10-09T03:05:30.1205721+00:00",
       "NumProgressed": 70962,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-09T04:06:13.5157554+00:00",
+      "NumProgressed": 70963,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19166,7 +19171,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48254
+      "UsersEstimate": 48255
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19198,7 +19203,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19869
+      "UsersEstimate": 19870
     },
     {
       "ID": "FOXIN_AROUND",
@@ -19214,7 +19219,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -19326,7 +19331,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8515
+      "UsersEstimate": 8516
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -19341,7 +19346,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 70962,
+      "Progressed": 70963,
       "Completed": 377
     }
   ],
@@ -19349,8 +19354,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:05:30.1205711+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:06:13.5157545+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:59:19.6820178+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:05:30.1208096+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:59:52.4518529+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:06:13.5159174+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 264,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -891,9 +891,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:04:12.1525934+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:04:55.5902039+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-09T03:00:04.51985+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:04:12.1526331+00:00"
+  "LastUpdate_Ratings": "2023-10-09T04:00:37.2476298+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:04:55.5902292+00:00"
 }

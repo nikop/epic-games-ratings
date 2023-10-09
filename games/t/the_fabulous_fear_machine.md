@@ -33,13 +33,13 @@
 | The beast in the Oval Office | 10.00% | ~2 |
 | Blood Red Island | 10.00% | ~2 |
 | Bread and bocaua | 10.00% | ~2 |
+| Fanatacism is... poisonous | 10.00% | ~2 |
 | The scholar | 10.00% | ~2 |
 | The adventurer | 10.00% | ~2 |
 | Pulp! True Adventures | 10.00% | ~2 |
 | Pulp! The Beyond | 10.00% | ~2 |
 | America had no Faith | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
-| Fanatacism is... poisonous | 5.00% | ~1 |
 | Pulp! Tales from the Crypt | 5.00% | ~1 |
 | Thirst for Oleum | 5.00% | ~1 |
 | ECO mode | 5.00% | ~1 |

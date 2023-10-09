@@ -9,8 +9,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | It wakes | 1.00% | ~9,283 |
 | Zealous | 0.90% | ~8,355 |
 | Skillful | 0.90% | ~8,355 |
-| Not half bad | 0.80% | ~7,426 |
-| Make Some Noise | 0.80% | ~7,426 |
+| Not half bad | 0.80% | ~7,427 |
+| Make Some Noise | 0.80% | ~7,427 |
 | Handyman | 0.70% | ~6,498 |
 | Apt Survivor | 0.70% | ~6,498 |
 | Survival Treasures | 0.70% | ~6,498 |
@@ -18,18 +18,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | No one left behind | 0.60% | ~5,570 |
 | Medic | 0.60% | ~5,570 |
 | Nerves of steel | 0.60% | ~5,570 |
+| Bloody Millionaire | 0.60% | ~5,570 |
 | Healthy Obsession | 0.60% | ~5,570 |
 | Resurgence | 0.60% | ~5,570 |
-| The Grand Sacrifice | 0.50% | ~4,641 |
-| Agonizing Escape | 0.50% | ~4,641 |
-| Backdoor Escape | 0.50% | ~4,641 |
-| I've got your back | 0.50% | ~4,641 |
-| Perfect Escape | 0.50% | ~4,641 |
-| Bloody Millionaire | 0.50% | ~4,641 |
-| I | 0.50% | ~4,641 |
-| Engineer | 0.50% | ~4,641 |
-| Preemptive Strike | 0.50% | ~4,641 |
-| Humanitarian | 0.50% | ~4,641 |
+| The Grand Sacrifice | 0.50% | ~4,642 |
+| Agonizing Escape | 0.50% | ~4,642 |
+| Backdoor Escape | 0.50% | ~4,642 |
+| I've got your back | 0.50% | ~4,642 |
+| Perfect Escape | 0.50% | ~4,642 |
+| I | 0.50% | ~4,642 |
+| Engineer | 0.50% | ~4,642 |
+| Preemptive Strike | 0.50% | ~4,642 |
+| Humanitarian | 0.50% | ~4,642 |
 | Perfect Killing | 0.40% | ~3,713 |
 | Apt Killer | 0.40% | ~3,713 |
 | Risk it all | 0.40% | ~3,713 |
@@ -54,6 +54,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 0.30% | ~2,785 |
 | Flight to Freedom | 0.30% | ~2,785 |
 | A Fast Death | 0.30% | ~2,785 |
+| Lifting The Fog | 0.30% | ~2,785 |
 | Chorus of Chaos | 0.30% | ~2,785 |
 | One More Step | 0.30% | ~2,785 |
 | A bite for the Entity | 0.20% | ~1,857 |
@@ -85,7 +86,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.20% | ~1,857 |
 | Outrun the Overlap | 0.20% | ~1,857 |
 | Rebuilding The Borgo | 0.20% | ~1,857 |
-| Lifting The Fog | 0.20% | ~1,857 |
 | Extraterrestrial | 0.20% | ~1,857 |
 | MU/TH/UR Dearest | 0.20% | ~1,857 |
 | Kitted Out | 0.20% | ~1,857 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,297 (Ranked 14)  
+Progressed: 928,349 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,297 | 49 |
+| 2023-10-09 | 928,349 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,518 (Ranked 13)  

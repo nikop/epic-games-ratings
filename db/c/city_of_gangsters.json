@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 346979,
+  "EOS_Progressed": 346980,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19988,6 +19988,11 @@
       "Time": "2023-10-09T03:05:39.7262785+00:00",
       "NumProgressed": 346979,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T04:06:23.3508168+00:00",
+      "NumProgressed": 346980,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20015,7 +20020,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41637
+      "UsersEstimate": 41638
     },
     {
       "ID": "ach004",
@@ -20055,7 +20060,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41637
+      "UsersEstimate": 41638
     },
     {
       "ID": "ach009",
@@ -20207,7 +20212,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159610
+      "UsersEstimate": 159611
     },
     {
       "ID": "ach028",
@@ -20638,7 +20643,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 346979,
+      "Progressed": 346980,
       "Completed": 7
     }
   ],
@@ -20646,8 +20651,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-09T03:05:39.7262779+00:00",
+  "LastChanged_Achievements": "2023-10-09T04:06:23.3508162+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:58:17.6976921+00:00",
-  "LastUpdate_Achievements": "2023-10-09T03:05:39.7265642+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:58:51.6517839+00:00",
+  "LastUpdate_Achievements": "2023-10-09T04:06:23.351078+00:00"
 }

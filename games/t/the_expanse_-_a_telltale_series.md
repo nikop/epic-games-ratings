@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 9.00% | ~1,240 |
+| Oyedang, Kopengs | 9.00% | ~1,241 |
 | Drug Gifter | 4.00% | ~551 |
-| The Pit and the Pirates | 3.00% | ~413 |
-| Bosmang | 3.00% | ~413 |
+| The Pit and the Pirates | 3.00% | ~414 |
+| Bosmang | 3.00% | ~414 |
 | Data Archivist | 2.00% | ~276 |
 | Spore Taste | 2.00% | ~276 |
 | Martian Music | 2.00% | ~276 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 471)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,783 (Ranked 135)  
+Progressed: 13,785 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
 | 2023-10-08 | 13,771 | 18 |
-| 2023-10-09 | 13,783 | 18 |
+| 2023-10-09 | 13,785 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

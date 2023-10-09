@@ -6,7 +6,7 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 38.00% | ~2,735 |
+| Bye Bye | 38.00% | ~2,737 |
 | It's a good start | 9.00% | ~648 |
 | Bonjour! | 7.00% | ~504 |
 | Quack | 7.00% | ~504 |
@@ -32,13 +32,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Treasure of Roero | 0.70% | ~50 |
 | Knight of Langhe | 0.50% | ~36 |
 | King of red wines | 0.30% | ~22 |
-| King of white wines | 0.30% | ~22 |
+| King of white wines | 0.20% | ~14 |
 | Sales Expert | 0.20% | ~14 |
 | Big deals | 0.20% | ~14 |
 | Unsuitable Terroir | 0.20% | ~14 |
 | Master Winemaker | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,197 (Ranked 157)  
+Progressed: 7,202 (Ranked 157)  
 Completed: 7 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 7 (0.10%) (Ranked 245)
 | 2023-10-06 | 6,748 | 7 |
 | 2023-10-07 | 6,954 | 7 |
 | 2023-10-08 | 7,172 | 7 |
-| 2023-10-09 | 7,197 | 7 |
+| 2023-10-09 | 7,202 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 276)  
 Sum: 1,590 (Ranked 219)  
