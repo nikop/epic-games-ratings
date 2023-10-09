@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.82% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.80% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -33,7 +33,7 @@
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 33 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
+| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
 | 35 | [Smelter](games/s/smelter.md) | 10.00% |
 | 36 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.10% |
@@ -117,7 +117,7 @@
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |
-| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.67% |
+| 118 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.64% |
 | 119 | [Five Dates](games/f/five_dates.md) | 1.63% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
