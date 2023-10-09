@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 3362,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3440,7 +3440,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73333,
+  "EOS_Progressed": 73334,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": -1,
@@ -18095,6 +18095,11 @@
       "Time": "2023-10-09T02:24:01.2325621+00:00",
       "NumProgressed": 73333,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-09T03:08:05.7395375+00:00",
+      "NumProgressed": 73334,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18418,7 +18423,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18333
+      "UsersEstimate": 18334
     },
     {
       "ID": "HARLEY_3",
@@ -18450,7 +18455,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38133
+      "UsersEstimate": 38134
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18482,7 +18487,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20533
+      "UsersEstimate": 20534
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18498,7 +18503,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24933
+      "UsersEstimate": 24934
     },
     {
       "ID": "MYSTERY_02",
@@ -18506,7 +18511,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18333
+      "UsersEstimate": 18334
     },
     {
       "ID": "MYSTERY_03",
@@ -18593,13 +18598,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73333,
+      "Progressed": 73334,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43613,
+      "Progressed": 43614,
       "Completed": 2666
     }
   ],
@@ -18607,8 +18612,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T01:41:52.1830629+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:24:01.2325616+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:08:05.7395368+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:16:12.7091449+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:24:01.2327066+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:00:10.8949284+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:08:05.7397946+00:00"
 }

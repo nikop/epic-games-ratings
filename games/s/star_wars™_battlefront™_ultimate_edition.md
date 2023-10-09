@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~488 |
-| Off to a good start | 67.00% | ~363 |
-| Do... or do not. There is no try | 53.00% | ~287 |
+| New Recruit | 90.00% | ~489 |
+| Off to a good start | 67.00% | ~364 |
+| Do... or do not. There is no try | 53.00% | ~288 |
 | A good blaster at your side | 35.00% | ~190 |
 | Scrap collector | 21.00% | ~114 |
-| I suggest a new strategy | 20.00% | ~108 |
-| Great shot, kid! | 20.00% | ~108 |
+| I suggest a new strategy | 20.00% | ~109 |
+| Great shot, kid! | 20.00% | ~109 |
 | All right, I'll give it a try | 18.00% | ~98 |
 | Shoot first | 18.00% | ~98 |
 | The power of the Force | 17.00% | ~92 |
 | Together we can rule the galaxy | 17.00% | ~92 |
 | Collector | 16.00% | ~87 |
-| Best star-pilot in the galaxy | 13.00% | ~70 |
+| Best star-pilot in the galaxy | 13.00% | ~71 |
 | Tell Jabba that I've got his money | 12.00% | ~65 |
 | Survivor | 12.00% | ~65 |
 | A cunning warrior | 11.00% | ~60 |
@@ -39,11 +39,11 @@
 | Determined | 4.00% | ~22 |
 | Your journey has only started | 4.00% | ~22 |
 | Precision shot | 4.00% | ~22 |
-| This is a new day, a new beginning | 4.00% | ~22 |
 | City in the Clouds | 4.00% | ~22 |
 | Disturbed tranquility | 4.00% | ~22 |
 | The Force is strong with this one | 3.00% | ~16 |
 | Ackbar's Elite | 3.00% | ~16 |
+| This is a new day, a new beginning | 3.00% | ~16 |
 | Alternative solution | 3.00% | ~16 |
 | What will you become? | 3.00% | ~16 |
 | The circle is now complete | 3.00% | ~16 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542 (Ranked 266)  
+Progressed: 543 (Ranked 266)  
 Completed: 1 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.18%) (Ranked 222)
 | 2023-10-06 | 469 | 1 |
 | 2023-10-07 | 497 | 1 |
 | 2023-10-08 | 538 | 1 |
-| 2023-10-09 | 542 | 1 |
+| 2023-10-09 | 543 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

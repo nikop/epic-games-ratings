@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -471,17 +471,17 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -831,17 +831,17 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -1039,9 +1039,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1126,8 +1126,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:22:30.8450929+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:06:20.8515812+00:00",
   "LastUpdate_AppInfo": "2023-10-02T11:57:08.7771066+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:14:00.8458956+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:22:30.8452006+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:57:30.7582243+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:06:20.8517851+00:00"
 }

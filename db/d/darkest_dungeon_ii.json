@@ -8103,7 +8103,7 @@
       "Count": 947
     }
   ],
-  "EOS_Progressed": 119992,
+  "EOS_Progressed": 119993,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
@@ -25738,6 +25738,11 @@
       "Time": "2023-10-09T02:23:40.7858742+00:00",
       "NumProgressed": 119992,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T03:07:42.0253212+00:00",
+      "NumProgressed": 119993,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -25749,7 +25754,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 85194
+      "UsersEstimate": 85195
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -25765,7 +25770,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23998
+      "UsersEstimate": 23999
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -25781,7 +25786,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74395
+      "UsersEstimate": 74396
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -25813,7 +25818,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 74395
+      "UsersEstimate": 74396
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -25821,7 +25826,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 71995
+      "UsersEstimate": 71996
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -25909,7 +25914,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 39597
+      "UsersEstimate": 39598
     },
     {
       "ID": "combat_kill_fanatics",
@@ -25973,7 +25978,7 @@
       "Name": "Overdue Notice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 38397
+      "UsersEstimate": 38398
     },
     {
       "ID": "combat_kill_pillagers",
@@ -26029,7 +26034,7 @@
       "Name": "Hat Trick",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8399
+      "UsersEstimate": 8400
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -26037,7 +26042,7 @@
       "Name": "Spelunker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 25198
+      "UsersEstimate": 25199
     },
     {
       "ID": "driving_biome_clear_city",
@@ -26045,7 +26050,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 71995
+      "UsersEstimate": 71996
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -26069,7 +26074,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 71995
+      "UsersEstimate": 71996
     },
     {
       "ID": "driving_distance_easy",
@@ -26077,7 +26082,7 @@
       "Name": "Ramble On",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 58796
+      "UsersEstimate": 58797
     },
     {
       "ID": "driving_distance_hard",
@@ -26117,7 +26122,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 82794
+      "UsersEstimate": 82795
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -26197,7 +26202,7 @@
       "Name": "Nope",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 57596
+      "UsersEstimate": 57597
     },
     {
       "ID": "run_victory_act01",
@@ -26221,7 +26226,7 @@
       "Name": "Eyes Up",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 25198
+      "UsersEstimate": 25199
     },
     {
       "ID": "run_victory_act04",
@@ -26268,15 +26273,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 119992,
+      "Progressed": 119993,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-08T19:59:15.458271+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:23:40.7858737+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:07:42.0253202+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.9819842+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:16:22.0269176+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:23:40.7860227+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:00:22.4686325+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:07:42.0256266+00:00"
 }

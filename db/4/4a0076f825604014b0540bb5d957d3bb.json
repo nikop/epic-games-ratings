@@ -370,9 +370,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -426,9 +426,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -458,9 +458,9 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:21:38.3642166+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:05:20.2329629+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.3737632+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:14:11.6637501+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:21:38.3642362+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:57:44.1526278+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:05:20.2329951+00:00"
 }

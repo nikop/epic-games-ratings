@@ -8,8 +8,8 @@ Rating: 4.76 (Ranked 120)
 | The Sort Who Makes an Entrance | 15.00% | ~44,709 |
 | First Class Student | 13.00% | ~38,748 |
 | Troll with the Punches | 13.00% | ~38,748 |
-| A Keen Sense of Spell | 12.00% | ~35,767 |
-| That's a Keeper | 12.00% | ~35,767 |
+| A Keen Sense of Spell | 12.00% | ~35,768 |
+| That's a Keeper | 12.00% | ~35,768 |
 | The Hallowed Hero | 11.00% | ~32,787 |
 | The Defender of Dragons | 11.00% | ~32,787 |
 | Loom for Improvement | 11.00% | ~32,787 |
@@ -32,11 +32,11 @@ Rating: 4.76 (Ranked 120)
 | Raising Expectations | 6.00% | ~17,884 |
 | The Toast of the Town | 5.00% | ~14,903 |
 | The Ends Petrify the Means | 5.00% | ~14,903 |
-| Going Through the Potions | 4.00% | ~11,922 |
-| Room with a View | 4.00% | ~11,922 |
-| The Intrepid Explorer | 4.00% | ~11,922 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,922 |
-| The Wise Owl | 4.00% | ~11,922 |
+| Going Through the Potions | 4.00% | ~11,923 |
+| Room with a View | 4.00% | ~11,923 |
+| The Intrepid Explorer | 4.00% | ~11,923 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,923 |
+| The Wise Owl | 4.00% | ~11,923 |
 | Put Down Roots | 3.00% | ~8,942 |
 | The Auror's Apprentice | 3.00% | ~8,942 |
 | Floo Around the World | 3.00% | ~8,942 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 120)
 | Merlin's Beard! | 1.00% | ~2,981 |
 | Demiguise Dread | 1.00% | ~2,981 |
 | A Forte for Achievement | 1.00% | ~2,981 |
-| Spilled Milk | 0.80% | ~2,384 |
+| Spilled Milk | 0.80% | ~2,385 |
 | The Nature of the Beast | 0.70% | ~2,086 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,062 (Ranked 46)  
+Progressed: 298,063 (Ranked 46)  
 Completed: 482 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 482 (0.16%) (Ranked 227)
 | 2023-10-06 | 297,915 | 481 |
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
-| 2023-10-09 | 298,062 | 482 |
+| 2023-10-09 | 298,063 | 482 |
 ## Awards
 Max (Character Customization): 23,384  (Ranked 17)  
 Sum: 45,386 (Ranked 31)  

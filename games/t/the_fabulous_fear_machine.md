@@ -32,23 +32,23 @@
 | Blessed antennas | 10.00% | ~2 |
 | The beast in the Oval Office | 10.00% | ~2 |
 | Blood Red Island | 10.00% | ~2 |
+| Bread and bocaua | 10.00% | ~2 |
+| The scholar | 10.00% | ~2 |
 | The adventurer | 10.00% | ~2 |
 | Pulp! True Adventures | 10.00% | ~2 |
 | Pulp! The Beyond | 10.00% | ~2 |
 | America had no Faith | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |
-| Bread and bocaua | 5.00% | ~1 |
 | Fanatacism is... poisonous | 5.00% | ~1 |
-| The scholar | 5.00% | ~1 |
+| Pulp! Tales from the Crypt | 5.00% | ~1 |
 | Thirst for Oleum | 5.00% | ~1 |
+| ECO mode | 5.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| ECO mode | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

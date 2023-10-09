@@ -10,10 +10,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 4.00% | ~17,051 |
 | That is mine! | 3.00% | ~12,788 |
 | Victorious! | 3.00% | ~12,788 |
-| Brothers in Arms | 2.00% | ~8,525 |
-| For the Glory | 2.00% | ~8,525 |
-| That's a Grand Navy | 2.00% | ~8,525 |
-| Seriously?! | 2.00% | ~8,525 |
+| Brothers in Arms | 2.00% | ~8,526 |
+| For the Glory | 2.00% | ~8,526 |
+| That's a Grand Navy | 2.00% | ~8,526 |
+| Seriously?! | 2.00% | ~8,526 |
 | Cold War | 1.00% | ~4,263 |
 | Defender of the Faith | 1.00% | ~4,263 |
 | It's all about the money | 1.00% | ~4,263 |
@@ -21,7 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,263 |
 | True Catholic | 1.00% | ~4,263 |
 | Truly Divine Ruler | 1.00% | ~4,263 |
-| It's all about luck | 0.90% | ~3,836 |
+| It's all about luck | 0.90% | ~3,837 |
 | Blockader | 0.80% | ~3,410 |
 | Double the Love | 0.80% | ~3,410 |
 | Total Control | 0.80% | ~3,410 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,263 (Ranked 41)  
+Progressed: 426,279 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-06 | 424,114 | 1 |
 | 2023-10-07 | 425,203 | 1 |
 | 2023-10-08 | 426,194 | 1 |
-| 2023-10-09 | 426,263 | 1 |
+| 2023-10-09 | 426,279 | 1 |
 ## Awards
 Max (Educational): 6,445  (Ranked 56)  
 Sum: 52,995 (Ranked 24)  

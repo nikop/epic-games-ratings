@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -274,10 +274,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123762,
-  "EOS_Completed": 1038,
-  "EOS_NewPlayers": 1254,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 123764,
+  "EOS_Completed": 1039,
+  "EOS_NewPlayers": 1252,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
@@ -19604,6 +19604,11 @@
       "Time": "2023-10-09T02:20:49.376062+00:00",
       "NumProgressed": 123762,
       "NumCompleted": 1038
+    },
+    {
+      "Time": "2023-10-09T03:04:22.9817706+00:00",
+      "NumProgressed": 123764,
+      "NumCompleted": 1039
     }
   ],
   "TotalAchievements": 34,
@@ -19631,7 +19636,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 51980
+      "UsersEstimate": 51981
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -19639,7 +19644,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 35891
+      "UsersEstimate": 35892
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -19647,7 +19652,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -19671,7 +19676,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 97772
+      "UsersEstimate": 97774
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -19687,7 +19692,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 69307
+      "UsersEstimate": 69308
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -19695,7 +19700,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 34653
+      "UsersEstimate": 34654
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -19703,7 +19708,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 48267
+      "UsersEstimate": 48268
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -19767,7 +19772,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18564
+      "UsersEstimate": 18565
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -19791,7 +19796,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 34653
+      "UsersEstimate": 34654
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -19815,7 +19820,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18564
+      "UsersEstimate": 18565
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -19871,7 +19876,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 28465
+      "UsersEstimate": 28466
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -19879,23 +19884,23 @@
       "Name": "Candid Photo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 123762,
-      "Completed": 1038
+      "Progressed": 123764,
+      "Completed": 1039
     }
   ],
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-30T12:00:15.2854641+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:20:49.3760616+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:04:22.9817698+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:39.2829487+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:16:23.8592783+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:20:49.3762028+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:00:25.067558+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:04:22.9820324+00:00"
 }

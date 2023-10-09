@@ -52,11 +52,11 @@
 | Battlemaster | 32.00% | ~197 |
 | The Cure | 32.00% | ~197 |
 | The Prodigal | 32.00% | ~197 |
+| A Personal Touch | 31.00% | ~191 |
 | Ghost of the Father | 31.00% | ~191 |
 | Big Game Hunter | 31.00% | ~191 |
 | Heart of Darkness | 31.00% | ~191 |
 | Shopaholic | 31.00% | ~191 |
-| A Personal Touch | 30.00% | ~185 |
 | Catharsis | 30.00% | ~185 |
 | Fade Away | 30.00% | ~185 |
 | Agent | 30.00% | ~185 |

@@ -18,9 +18,9 @@ Rating: 4.50 (Ranked 572)
 | Swift Rift Removers | 0.90% | ~237 |
 | Teamwork | 0.90% | ~237 |
 | There you are! | 0.90% | ~237 |
+| Whoopsie | 0.90% | ~237 |
 | Back Off | 0.80% | ~210 |
 | Icing on the Cake | 0.80% | ~210 |
-| Whoopsie | 0.80% | ~210 |
 | Animated | 0.70% | ~184 |
 | Daily Dose | 0.70% | ~184 |
 | Ghostbuster In Training | 0.70% | ~184 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 572)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,301 (Ranked 117)  
+Progressed: 26,305 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 58 (0.22%) (Ranked 215)
 | 2023-10-06 | 26,251 | 58 |
 | 2023-10-07 | 26,270 | 58 |
 | 2023-10-08 | 26,296 | 58 |
-| 2023-10-09 | 26,301 | 58 |
+| 2023-10-09 | 26,305 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 260  (Ranked 256)  
 Sum: 2,370 (Ranked 189)  

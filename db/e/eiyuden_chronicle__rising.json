@@ -2,7 +2,7 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 253,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 48,
   "RatingHistory": [
     {
@@ -156,6 +156,12 @@
     {
       "Time": "2023-06-30T09:59:54.3990335+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-09T03:01:40.7583337+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -750,9 +756,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
-  "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:22:28.5520496+00:00",
+  "LastChanged": "2023-10-09T03:01:40.7583334+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:06:18.2900692+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:28.6139067+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:17:28.5074787+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:22:28.552096+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:01:40.7583343+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:06:18.2901129+00:00"
 }

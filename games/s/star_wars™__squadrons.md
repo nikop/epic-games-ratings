@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~8,099 |
-| A Better Idea | 25.00% | ~2,131 |
-| Safety in the Storm | 24.00% | ~2,046 |
-| Begin the Ceremony | 20.00% | ~1,705 |
-| Mission Accomplished | 20.00% | ~1,705 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,279 |
-| A Starfighter of Your Own | 14.00% | ~1,194 |
-| Asset Secured | 13.00% | ~1,108 |
-| Unkillable | 8.00% | ~682 |
+| Fracture at Fostar Haven | 95.00% | ~8,108 |
+| A Better Idea | 25.00% | ~2,134 |
+| Safety in the Storm | 24.00% | ~2,048 |
+| Begin the Ceremony | 20.00% | ~1,707 |
+| Mission Accomplished | 20.00% | ~1,707 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,280 |
+| A Starfighter of Your Own | 14.00% | ~1,195 |
+| Asset Secured | 13.00% | ~1,110 |
+| Unkillable | 8.00% | ~683 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~597 |
 | Sound Strategy | 7.00% | ~597 |
 | Together, Vanguard | 7.00% | ~597 |
 | Stomped | 6.00% | ~512 |
-| Great Shot, Kid | 5.00% | ~426 |
-| Fearless | 5.00% | ~426 |
-| Flames Over Mon Cala | 5.00% | ~426 |
-| A Promising Career | 5.00% | ~426 |
+| Great Shot, Kid | 5.00% | ~427 |
+| Fearless | 5.00% | ~427 |
+| Flames Over Mon Cala | 5.00% | ~427 |
+| A Promising Career | 5.00% | ~427 |
 | Back From the Brink | 4.00% | ~341 |
 | Temporary Guardian | 4.00% | ~341 |
 | Baited | 4.00% | ~341 |
@@ -28,8 +28,8 @@
 | Squadron Hunter | 3.00% | ~256 |
 | Punch It | 3.00% | ~256 |
 | Combat Pilot | 3.00% | ~256 |
-| Stun 'Em | 2.00% | ~170 |
-| Dressed for the Job You Want | 2.00% | ~170 |
+| Stun 'Em | 2.00% | ~171 |
+| Dressed for the Job You Want | 2.00% | ~171 |
 | I Have You Now | 1.00% | ~85 |
 | Against the Current | 1.00% | ~85 |
 | Denied | 0.90% | ~77 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~9 |
 | The Galaxy's Finest (Ace) | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,525 (Ranked 150)  
+Progressed: 8,535 (Ranked 150)  
 Completed: 1 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 1 (0.01%) (Ranked 291)
 | 2023-10-06 | 7,405 | 0 |
 | 2023-10-07 | 7,940 | 1 |
 | 2023-10-08 | 8,488 | 1 |
-| 2023-10-09 | 8,525 | 1 |
+| 2023-10-09 | 8,535 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

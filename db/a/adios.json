@@ -114,7 +114,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75358,
+  "EOS_Progressed": 75360,
   "EOS_Completed": 787,
   "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 5,
@@ -19259,6 +19259,11 @@
       "Time": "2023-10-09T02:21:36.8942635+00:00",
       "NumProgressed": 75358,
       "NumCompleted": 787
+    },
+    {
+      "Time": "2023-10-09T03:05:18.5373391+00:00",
+      "NumProgressed": 75360,
+      "NumCompleted": 787
     }
   ],
   "TotalAchievements": 25,
@@ -19286,7 +19291,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13564
+      "UsersEstimate": 13565
     },
     {
       "ID": "Audiophile",
@@ -19310,7 +19315,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13564
+      "UsersEstimate": 13565
     },
     {
       "ID": "Butcher",
@@ -19326,7 +19331,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4522
     },
     {
       "ID": "Fair\u0027sFair",
@@ -19398,7 +19403,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12057
+      "UsersEstimate": 12058
     },
     {
       "ID": "Nothing Left to Say",
@@ -19469,7 +19474,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75358,
+      "Progressed": 75360,
       "Completed": 787
     }
   ],
@@ -19477,8 +19482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:21:36.8942631+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:05:18.5373384+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:17:42.4330044+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:21:36.8943939+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:01:56.7969416+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:05:18.5375235+00:00"
 }

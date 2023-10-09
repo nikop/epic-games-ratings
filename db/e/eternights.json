@@ -1019,9 +1019,9 @@
       "ID": "ACHIEVEMENT_25_LoveAssistant",
       "SetID": "9bke6f1",
       "Name": "LOVEassistant",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:20:40.3704464+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:04:12.1525934+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:21.0883+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:16:07.8426032+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:20:40.3704718+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:00:04.51985+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:04:12.1526331+00:00"
 }

@@ -11,8 +11,8 @@ Rating: 4.49 (Ranked 590)
 | Can You Pet the Bogling? | 86.00% | ~4,029 |
 | The Past Made Present | 82.00% | ~3,842 |
 | Survivors, We Adapt | 78.00% | ~3,654 |
+| They Never Saw It Coming | 76.00% | ~3,561 |
 | Among the Masters | 76.00% | ~3,561 |
-| They Never Saw It Coming | 75.00% | ~3,514 |
 | Who Gives a Puck | 71.00% | ~3,326 |
 | Mirror Match | 63.00% | ~2,952 |
 | For the Path | 63.00% | ~2,952 |
@@ -26,11 +26,11 @@ Rating: 4.49 (Ranked 590)
 | Tragedy | 44.00% | ~2,061 |
 | Riposte | 44.00% | ~2,061 |
 | At the Precipice | 42.00% | ~1,968 |
-| Greezy Money | 41.00% | ~1,921 |
+| Greezy Money | 42.00% | ~1,968 |
 | Into the Abyss | 40.00% | ~1,874 |
 | Catch! | 39.00% | ~1,827 |
 | A Place You Could Call Home | 38.00% | ~1,780 |
-| They're Probably Fine | 37.00% | ~1,733 |
+| They're Probably Fine | 38.00% | ~1,780 |
 | Han Slowlo | 34.00% | ~1,593 |
 | There Is No Try | 34.00% | ~1,593 |
 | The Jedi Path | 28.00% | ~1,312 |

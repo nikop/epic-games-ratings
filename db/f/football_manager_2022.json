@@ -7781,9 +7781,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474307,
+  "EOS_Progressed": 474308,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25681,6 +25681,11 @@
       "Time": "2023-10-09T01:46:39.112446+00:00",
       "NumProgressed": 474307,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-09T03:04:33.8497355+00:00",
+      "NumProgressed": 474308,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -25892,7 +25897,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90118
+      "UsersEstimate": 90119
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -25988,7 +25993,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94861
+      "UsersEstimate": 94862
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -26116,7 +26121,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166007
+      "UsersEstimate": 166008
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -26124,7 +26129,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151778
+      "UsersEstimate": 151779
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -26132,7 +26137,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94861
+      "UsersEstimate": 94862
     },
     {
       "ID": "achievement_pick_feeder",
@@ -26196,7 +26201,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151778
+      "UsersEstimate": 151779
     },
     {
       "ID": "achievement_rushed_signing",
@@ -26236,7 +26241,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227667
+      "UsersEstimate": 227668
     },
     {
       "ID": "achievement_signed_a_player",
@@ -26475,15 +26480,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474307,
+      "Progressed": 474308,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-08T22:00:19.5820566+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:20:58.6145233+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:04:33.8497348+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.2597837+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:19:06.7748147+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:20:58.6147462+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:02:11.6381968+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:04:33.8501551+00:00"
 }

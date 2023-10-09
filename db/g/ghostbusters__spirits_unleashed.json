@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26301,
+  "EOS_Progressed": 26305,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14503,6 +14503,11 @@
       "Time": "2023-10-09T01:45:18.4472687+00:00",
       "NumProgressed": 26301,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-09T03:03:11.0223822+00:00",
+      "NumProgressed": 26305,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14912,16 +14917,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26301,
+      "Progressed": 26305,
       "Completed": 58
     }
   ],
@@ -14929,8 +14934,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-08T11:59:22.2607376+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:19:36.639191+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:03:11.0223809+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:16:36.1324062+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:19:36.6393165+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:00:39.5721443+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:03:11.0225184+00:00"
 }

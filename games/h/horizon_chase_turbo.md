@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~952,448 |
-| I Need a Bigger Garage | 63.00% | ~666,714 |
-| Pump my Ride | 47.00% | ~497,390 |
-| Ghostbuster | 33.00% | ~349,231 |
-| Call Roadside Assistance | 18.00% | ~190,490 |
-| That Was Close | 18.00% | ~190,490 |
-| Quickie | 11.00% | ~116,410 |
-| California Dreamer | 7.00% | ~74,079 |
+| The First of Many | 90.00% | ~952,458 |
+| I Need a Bigger Garage | 63.00% | ~666,721 |
+| Pump my Ride | 47.00% | ~497,395 |
+| Ghostbuster | 33.00% | ~349,235 |
+| Call Roadside Assistance | 18.00% | ~190,492 |
+| That Was Close | 18.00% | ~190,492 |
+| Quickie | 11.00% | ~116,412 |
+| California Dreamer | 7.00% | ~74,080 |
 | Can't Touch This | 5.00% | ~52,914 |
 | Carménère Taster | 4.00% | ~42,331 |
 | Comeback | 4.00% | ~42,331 |
-| Driver from Ipanema | 3.00% | ~31,748 |
-| Supersonic | 3.00% | ~31,748 |
-| Marathonist | 3.00% | ~31,748 |
-| Living Legend | 3.00% | ~31,748 |
+| Driver from Ipanema | 3.00% | ~31,749 |
+| Supersonic | 3.00% | ~31,749 |
+| Marathonist | 3.00% | ~31,749 |
+| Living Legend | 3.00% | ~31,749 |
 | God of Roads | 2.00% | ~21,166 |
 | Pathfinder | 2.00% | ~21,166 |
 | Go-Kart Champion | 2.00% | ~21,166 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,583 |
 | Golden Passport | 1.00% | ~10,583 |
 | Brave and Bold | 1.00% | ~10,583 |
-| Crocodile Hunter | 0.90% | ~9,524 |
-| Old Master | 0.90% | ~9,524 |
+| Crocodile Hunter | 0.90% | ~9,525 |
+| Old Master | 0.90% | ~9,525 |
 | Volcano Surfer | 0.80% | ~8,466 |
 | Otaku | 0.80% | ~8,466 |
 | Survivor | 0.60% | ~6,350 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,058 |
 | Look Mom, No Hands! | 0.10% | ~1,058 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,276 (Ranked 13)  
+Progressed: 1,058,287 (Ranked 13)  
 Completed: 450 (0.04%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 450 (0.04%) (Ranked 273)
 | 2023-10-06 | 1,056,865 | 447 |
 | 2023-10-07 | 1,057,545 | 449 |
 | 2023-10-08 | 1,058,209 | 450 |
-| 2023-10-09 | 1,058,276 | 450 |
+| 2023-10-09 | 1,058,287 | 450 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 305)  
 Sum: 1,302 (Ranked 232)  

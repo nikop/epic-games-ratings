@@ -5,29 +5,29 @@ Rating: 4.55 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~376 |
-| And again, and again, and... | 64.00% | ~276 |
-| Burn, Elysium, burn! | 63.00% | ~272 |
+| Huzza, he's back. | 87.00% | ~377 |
+| And again, and again, and... | 64.00% | ~277 |
+| Burn, Elysium, burn! | 63.00% | ~273 |
 | Kuvaq Minigame-Master | 62.00% | ~268 |
 | FunScore | 55.00% | ~238 |
 | Funtime's over | 53.00% | ~229 |
-| Chunky | 51.00% | ~220 |
-| Shall we play a game? | 48.00% | ~207 |
-| Boat of love, boat of love | 48.00% | ~207 |
+| Chunky | 51.00% | ~221 |
+| Shall we play a game? | 48.00% | ~208 |
+| Boat of love, boat of love | 48.00% | ~208 |
 | School's out | 43.00% | ~186 |
 | Scaffolding Expert | 37.00% | ~160 |
 | Elysian Minigame-Master | 37.00% | ~160 |
-| Sole Music | 35.00% | ~151 |
+| Sole Music | 35.00% | ~152 |
 | Portals come in packs | 30.00% | ~130 |
-| No man left behind! | 29.00% | ~125 |
-| Photo Friend | 26.00% | ~112 |
+| No man left behind! | 29.00% | ~126 |
+| Photo Friend | 26.00% | ~113 |
 | Brainfreeze | 21.00% | ~91 |
-| Masseltov | 20.00% | ~86 |
-| And everything comes full circle. | 20.00% | ~86 |
+| Masseltov | 20.00% | ~87 |
+| And everything comes full circle. | 20.00% | ~87 |
 | Quickdraw | 16.00% | ~69 |
 | Thuna...? | 15.00% | ~65 |
-| Monstrous Harassment | 14.00% | ~60 |
-| Heading the inverter | 14.00% | ~60 |
+| Monstrous Harassment | 14.00% | ~61 |
+| Heading the inverter | 14.00% | ~61 |
 | Blast from the Past | 13.00% | ~56 |
 | Play it again, Ronny | 12.00% | ~52 |
 | Goat Team | 10.00% | ~43 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 490)
 | Every man for himself! | 5.00% | ~22 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 282)  
+Progressed: 433 (Ranked 282)  
 Completed: 6 (1.39%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 6 (1.39%) (Ranked 124)
 | 2023-10-06 | 427 | 6 |
 | 2023-10-07 | 430 | 6 |
 | 2023-10-08 | 432 | 6 |
+| 2023-10-09 | 433 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

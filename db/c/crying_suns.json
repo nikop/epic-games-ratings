@@ -616,7 +616,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468754,
+  "EOS_Progressed": 468755,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -18571,6 +18571,11 @@
       "Time": "2023-10-09T02:23:19.4835982+00:00",
       "NumProgressed": 468754,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T03:07:16.7652669+00:00",
+      "NumProgressed": 468755,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18622,7 +18627,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46875
+      "UsersEstimate": 46876
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -18702,7 +18707,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117188
+      "UsersEstimate": 117189
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -18766,7 +18771,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159376
+      "UsersEstimate": 159377
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -19213,21 +19218,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12688,
+      "Progressed": 12689,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468754,
+      "Progressed": 468755,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-08T20:58:44.1367341+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:23:19.4835973+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:07:16.7652662+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:15:53.2843564+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:23:19.4837869+00:00"
+  "LastUpdate_Ratings": "2023-10-09T02:59:46.1024999+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:07:16.7656251+00:00"
 }

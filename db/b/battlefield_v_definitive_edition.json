@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12549,
+  "EOS_Progressed": 12552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2026,
+  "EOS_NewPlayers": 2016,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2190,6 +2190,11 @@
       "Time": "2023-10-09T02:25:30.7151197+00:00",
       "NumProgressed": 12549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T03:09:13.5418588+00:00",
+      "NumProgressed": 12552,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -2202,7 +2207,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "achievement_10",
@@ -2218,7 +2223,7 @@
       "Name": "Death from Above",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "achievement_12",
@@ -2234,7 +2239,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 9286
+      "UsersEstimate": 9288
     },
     {
       "ID": "achievement_14",
@@ -2242,7 +2247,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 5271
+      "UsersEstimate": 5272
     },
     {
       "ID": "achievement_15",
@@ -2250,7 +2255,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 6651
+      "UsersEstimate": 6653
     },
     {
       "ID": "achievement_16",
@@ -2258,7 +2263,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 9161
+      "UsersEstimate": 9163
     },
     {
       "ID": "achievement_17",
@@ -2266,7 +2271,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "achievement_18",
@@ -2274,7 +2279,7 @@
       "Name": "Eager Beaver",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 5773
+      "UsersEstimate": 5774
     },
     {
       "ID": "achievement_19",
@@ -2282,7 +2287,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3263
+      "UsersEstimate": 3264
     },
     {
       "ID": "achievement_2",
@@ -2290,7 +2295,7 @@
       "Name": "Veteran",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_20",
@@ -2298,7 +2303,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 11671
+      "UsersEstimate": 11673
     },
     {
       "ID": "achievement_21",
@@ -2306,7 +2311,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8786
     },
     {
       "ID": "achievement_3",
@@ -2322,7 +2327,7 @@
       "Name": "Lovely",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4643
+      "UsersEstimate": 4644
     },
     {
       "ID": "achievement_5",
@@ -2354,7 +2359,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9037
     },
     {
       "ID": "achievement_9",
@@ -2369,13 +2374,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 12549,
+      "Progressed": 12552,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-09T02:25:30.7151193+00:00",
+  "LastChanged_Achievements": "2023-10-09T03:09:13.5418581+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:34.5342785+00:00",
-  "LastUpdate_Ratings": "2023-10-09T02:17:49.9777403+00:00",
-  "LastUpdate_Achievements": "2023-10-09T02:25:30.715152+00:00"
+  "LastUpdate_Ratings": "2023-10-09T03:02:05.7331127+00:00",
+  "LastUpdate_Achievements": "2023-10-09T03:09:13.5419035+00:00"
 }
