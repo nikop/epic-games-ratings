@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,725 |
+| Welcome To Hell-A | 4.00% | ~27,726 |
 | Git Gutte! | 3.00% | ~20,794 |
 | Break A Leg | 3.00% | ~20,794 |
 | Coup de Grâce | 3.00% | ~20,794 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,386 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,127 (Ranked 22)  
+Progressed: 693,138 (Ranked 22)  
 Completed: 2,206 (0.32%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 2,206 (0.32%) (Ranked 196)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,127 | 2,206 |
+| 2023-10-09 | 693,138 | 2,206 |
 ## Awards
 Max (Great Boss Battles): 6,366  (Ranked 58)  
 Sum: 9,505 (Ranked 91)  

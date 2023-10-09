@@ -33,12 +33,12 @@ Rating: 4.06 (Ranked 946)
 | Daily Quest Completionist | 11.00% | ~221 |
 | Doing My Part | 11.00% | ~221 |
 | Four Leaf Clover | 11.00% | ~221 |
+| Frostfire Liberator | 11.00% | ~221 |
 | Hunter | 11.00% | ~221 |
 | Mastery | 11.00% | ~221 |
 | Moving Up The Ladder | 11.00% | ~221 |
 | Relic Of The Past | 11.00% | ~221 |
 | Scroll Master | 11.00% | ~221 |
-| Frostfire Liberator | 10.00% | ~200 |
 | Master Enchanter | 10.00% | ~200 |
 | The father of Dragons | 10.00% | ~200 |
 | Here We Go Again | 9.00% | ~180 |

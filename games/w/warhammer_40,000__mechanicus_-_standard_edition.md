@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,324 |
+| No aid from the Omnissiah | 26.00% | ~58,325 |
 | This is only the beginning | 19.00% | ~42,622 |
 | Knowledge is power | 12.00% | ~26,919 |
 | Power Ranger | 9.00% | ~20,189 |
@@ -13,17 +13,17 @@ Rating: 4.43 (Ranked 675)
 | Taser Goad | 9.00% | ~20,189 |
 | Radium Ready | 9.00% | ~20,189 |
 | Half a cog | 9.00% | ~20,189 |
-| Watch them crumble | 6.00% | ~13,459 |
+| Watch them crumble | 6.00% | ~13,460 |
 | Competent Cohort | 4.00% | ~8,973 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,973 |
 | One with the Machine | 4.00% | ~8,973 |
 | Legio Cybernetica | 3.00% | ~6,730 |
 | Fleshy Disposal | 3.00% | ~6,730 |
-| Battle Servitor | 2.00% | ~4,486 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,486 |
-| Impatient destruction | 2.00% | ~4,486 |
-| Vivisected Vizier | 2.00% | ~4,486 |
-| Architect Abortion | 2.00% | ~4,486 |
+| Battle Servitor | 2.00% | ~4,487 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,487 |
+| Impatient destruction | 2.00% | ~4,487 |
+| Vivisected Vizier | 2.00% | ~4,487 |
+| Architect Abortion | 2.00% | ~4,487 |
 | Cohortus Maximus | 0.80% | ~1,795 |
 | Mother of Xenarites | 0.40% | ~897 |
 | False God | 0.30% | ~673 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 675)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,324 (Ranked 61)  
+Progressed: 224,326 (Ranked 61)  
 Completed: 5 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 5 (0.00%) (Ranked 310)
 | 2023-10-06 | 224,102 | 5 |
 | 2023-10-07 | 224,204 | 5 |
 | 2023-10-08 | 224,310 | 5 |
-| 2023-10-09 | 224,324 | 5 |
+| 2023-10-09 | 224,326 | 5 |
 ## Awards
 Max (Highly Recommended): 285  (Ranked 246)  
 Sum: 2,161 (Ranked 198)  

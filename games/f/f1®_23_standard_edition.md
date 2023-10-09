@@ -22,7 +22,7 @@ Rating: 4.66 (Ranked 281)
 | Spring Cleaning | 24.00% | ~741 |
 | Reduce | 20.00% | ~617 |
 | Ups and Downs | 20.00% | ~617 |
-| Crucial Combo | 18.00% | ~556 |
+| Crucial Combo | 19.00% | ~587 |
 | One for the Book | 18.00% | ~556 |
 | Reuse | 17.00% | ~525 |
 | Gathering Dust | 16.00% | ~494 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1242,9 +1242,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19672,
+  "EOS_Progressed": 19673,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -19867,6 +19867,11 @@
       "Time": "2023-10-09T06:08:11.4295916+00:00",
       "NumProgressed": 19672,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-09T07:08:08.0898074+00:00",
+      "NumProgressed": 19673,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 45,
@@ -19966,7 +19971,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8852
+      "UsersEstimate": 8853
     },
     {
       "ID": "ICallItLuck",
@@ -20030,7 +20035,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "ObedientMachine",
@@ -20110,7 +20115,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "Scrapped",
@@ -20150,7 +20155,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12000
+      "UsersEstimate": 12001
     },
     {
       "ID": "SwordToAGunfight",
@@ -20166,7 +20171,7 @@
       "Name": "Triple A",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "UnstoppableForce",
@@ -20198,7 +20203,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 10426
+      "UsersEstimate": 10427
     },
     {
       "ID": "WaveOfMutilation",
@@ -20237,21 +20242,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19672,
+      "Progressed": 19673,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19672,
+      "Progressed": 19673,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-08T12:59:43.4919478+00:00",
-  "LastChanged_Achievements": "2023-10-09T06:08:11.4295911+00:00",
+  "LastChanged_Achievements": "2023-10-09T07:08:08.0898066+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:57:47.3832785+00:00",
-  "LastUpdate_Achievements": "2023-10-09T06:08:11.4297454+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:57:48.6614427+00:00",
+  "LastUpdate_Achievements": "2023-10-09T07:08:08.0899234+00:00"
 }

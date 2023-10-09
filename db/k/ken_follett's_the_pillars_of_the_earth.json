@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15635,
+  "EOS_Progressed": 15636,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11660,6 +11660,11 @@
       "Time": "2023-10-09T06:08:10.8443182+00:00",
       "NumProgressed": 15635,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-09T07:08:07.5875984+00:00",
+      "NumProgressed": 15636,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11775,7 +11780,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "tpote_achievement_22",
@@ -11847,7 +11852,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "tpote_achievement_30",
@@ -11959,7 +11964,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "tpote_achievement_6",
@@ -11967,7 +11972,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "tpote_achievement_7",
@@ -11975,7 +11980,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "tpote_achievement_8",
@@ -11998,15 +12003,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15635,
+      "Progressed": 15636,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-09T06:08:10.8443175+00:00",
+  "LastChanged_Achievements": "2023-10-09T07:08:07.5875981+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:01:00.1447455+00:00",
-  "LastUpdate_Achievements": "2023-10-09T06:08:10.8444287+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:00:24.0526498+00:00",
+  "LastUpdate_Achievements": "2023-10-09T07:08:07.587677+00:00"
 }

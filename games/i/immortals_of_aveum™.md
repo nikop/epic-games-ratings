@@ -16,25 +16,25 @@ Rating: 4.03 (Ranked 958)
 | Soldier | 45.00% | ~32 |
 | All the Major Food Groups | 44.00% | ~31 |
 | Beggars Would Ride | 37.00% | ~26 |
+| Control is an Illusion | 35.00% | ~25 |
 | Socialite | 35.00% | ~25 |
-| Control is an Illusion | 34.00% | ~24 |
 | The Means to Save It | 30.00% | ~21 |
 | Resilience to Sin | 27.00% | ~19 |
 | A Familiar Nest | 23.00% | ~16 |
-| Geas Aristeya | 21.00% | ~15 |
+| Geas Aristeya | 23.00% | ~16 |
+| Periapt Alizarin | 23.00% | ~16 |
 | Armsman | 21.00% | ~15 |
-| Periapt Alizarin | 21.00% | ~15 |
 | A Perfect Cycle | 18.00% | ~13 |
 | Recruit | 18.00% | ~13 |
-| Good Boy | 13.00% | ~9 |
+| Good Boy | 14.00% | ~10 |
 | Lights Army | 11.00% | ~8 |
 | Periapt Cerulean | 11.00% | ~8 |
 | Periapt Viridian | 11.00% | ~8 |
 | Shroudfane Explorer | 11.00% | ~8 |
 | Armaments Gules | 10.00% | ~7 |
 | Scholar | 8.00% | ~6 |
+| Armaments Azure | 8.00% | ~6 |
 | Veteran | 8.00% | ~6 |
-| Armaments Azure | 7.00% | ~5 |
 | Kitted Out | 6.00% | ~4 |
 | Best Dressed | 6.00% | ~4 |
 | Armaments Vert | 6.00% | ~4 |

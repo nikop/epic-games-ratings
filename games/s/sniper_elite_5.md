@@ -6,25 +6,25 @@ Rating: 4.45 (Ranked 646)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,709 |
-| Confirming Suspicions | 41.00% | ~1,523 |
-| The Kraken Wakes | 36.00% | ~1,337 |
+| Confirming Suspicions | 41.00% | ~1,524 |
+| The Kraken Wakes | 36.00% | ~1,338 |
 | It's Starting to Crack | 33.00% | ~1,226 |
-| Lord of War | 30.00% | ~1,114 |
-| Change the Channel | 30.00% | ~1,114 |
+| Lord of War | 30.00% | ~1,115 |
+| Change the Channel | 30.00% | ~1,115 |
 | Taking it back | 28.00% | ~1,040 |
 | Resourceful | 27.00% | ~1,003 |
 | Target America | 26.00% | ~966 |
 | The Kraken Sleeps | 24.00% | ~892 |
-| Organ Grinder | 23.00% | ~854 |
-| Liberté | 22.00% | ~817 |
-| Sharpshooter | 22.00% | ~817 |
-| As Quiet as a Mouse | 22.00% | ~817 |
+| Organ Grinder | 23.00% | ~855 |
+| Liberté | 22.00% | ~818 |
+| Sharpshooter | 22.00% | ~818 |
+| As Quiet as a Mouse | 22.00% | ~818 |
 | Explosive Efficiency | 19.00% | ~706 |
 | Gunslinger | 18.00% | ~669 |
 | Just a Flesh Wound | 17.00% | ~632 |
-| Climbing the Ladder | 16.00% | ~594 |
-| Der Geist | 16.00% | ~594 |
-| Close Quarters | 16.00% | ~594 |
+| Climbing the Ladder | 16.00% | ~595 |
+| Der Geist | 16.00% | ~595 |
+| Close Quarters | 16.00% | ~595 |
 | Snake in the Grass | 15.00% | ~557 |
 | Brains of the Operation | 15.00% | ~557 |
 | No Stone Unturned | 14.00% | ~520 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 646)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,715 (Ranked 178)  
+Progressed: 3,716 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 11 (0.30%) (Ranked 201)
 | 2023-10-06 | 3,703 | 11 |
 | 2023-10-07 | 3,708 | 11 |
 | 2023-10-08 | 3,715 | 11 |
+| 2023-10-09 | 3,716 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,15 +8,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,234 |
 | I read Shakespeare and stuff | 64.00% | ~31,773 |
-| Just a sprinkle | 63.00% | ~31,276 |
-| I'm stumped | 61.00% | ~30,283 |
-| Plant get enough | 60.00% | ~29,787 |
+| Just a sprinkle | 63.00% | ~31,277 |
+| I'm stumped | 61.00% | ~30,284 |
+| Plant get enough | 60.00% | ~29,788 |
 | It's just the beginning | 59.00% | ~29,291 |
-| This is just my weekend vehicle | 58.00% | ~28,794 |
+| This is just my weekend vehicle | 58.00% | ~28,795 |
 | Hard work pays off | 53.00% | ~26,312 |
-| It's never too late to farm | 50.00% | ~24,822 |
+| It's never too late to farm | 50.00% | ~24,823 |
 | All out of Land | 44.00% | ~21,844 |
-| Field Trip | 43.00% | ~21,347 |
+| Field Trip | 43.00% | ~21,348 |
 | I like to switch it up | 40.00% | ~19,858 |
 | Help me to help you | 38.00% | ~18,865 |
 | Ultimutt Pawesomeness | 28.00% | ~13,901 |
@@ -30,10 +30,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,447 |
 | That's a wrap | 15.00% | ~7,447 |
 | Fix me up | 13.00% | ~6,454 |
-| Rock on | 12.00% | ~5,957 |
+| Rock on | 12.00% | ~5,958 |
 | Highly cultivated | 11.00% | ~5,461 |
 | It's sow easy | 11.00% | ~5,461 |
-| Giddy-up! | 10.00% | ~4,964 |
+| Giddy-up! | 10.00% | ~4,965 |
 | Cowherd | 7.00% | ~3,475 |
 | Fluffyness | 6.00% | ~2,979 |
 | Road Trip | 6.00% | ~2,979 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~199 |
 | Raisin the stakes | 0.30% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,645 (Ranked 102)  
+Progressed: 49,646 (Ranked 102)  
 Completed: 6 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 6 (0.01%) (Ranked 291)
 | 2023-10-06 | 49,506 | 6 |
 | 2023-10-07 | 49,559 | 6 |
 | 2023-10-08 | 49,638 | 6 |
-| 2023-10-09 | 49,645 | 6 |
+| 2023-10-09 | 49,646 | 6 |
 ## Awards
 Max (Great for Beginners): 5,132  (Ranked 70)  
 Sum: 41,008 (Ranked 33)  

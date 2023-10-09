@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,120 |
-| Basic in Bulk | 3.00% | ~4,120 |
-| Titan's First Steps | 3.00% | ~4,120 |
+| Sponsored by Argon | 3.00% | ~4,121 |
+| Basic in Bulk | 3.00% | ~4,121 |
+| Titan's First Steps | 3.00% | ~4,121 |
 | One Easy Payment | 2.00% | ~2,747 |
 | Some Assembly Required | 2.00% | ~2,747 |
 | Disintermediation | 2.00% | ~2,747 |
@@ -18,17 +18,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,747 |
 | Capitalism Ho! | 2.00% | ~2,747 |
 | Own the Means of Production | 2.00% | ~2,747 |
-| The Daily Grind | 1.00% | ~1,373 |
-| Bounty Hunters | 1.00% | ~1,373 |
-| Demand for Supplies | 1.00% | ~1,373 |
-| Flooding the Market | 1.00% | ~1,373 |
-| Where it Hurts | 1.00% | ~1,373 |
-| Pretty Penny | 1.00% | ~1,373 |
-| Gild-Gotten Goods | 1.00% | ~1,373 |
-| One-Armed Bandit | 1.00% | ~1,373 |
-| Dungeon Imports | 1.00% | ~1,373 |
-| Through Repetition, Perfection | 1.00% | ~1,373 |
-| Did we pack lunch? | 1.00% | ~1,373 |
+| The Daily Grind | 1.00% | ~1,374 |
+| Bounty Hunters | 1.00% | ~1,374 |
+| Demand for Supplies | 1.00% | ~1,374 |
+| Flooding the Market | 1.00% | ~1,374 |
+| Where it Hurts | 1.00% | ~1,374 |
+| Pretty Penny | 1.00% | ~1,374 |
+| Gild-Gotten Goods | 1.00% | ~1,374 |
+| One-Armed Bandit | 1.00% | ~1,374 |
+| Dungeon Imports | 1.00% | ~1,374 |
+| Through Repetition, Perfection | 1.00% | ~1,374 |
+| Did we pack lunch? | 1.00% | ~1,374 |
 | On the Path to Greatness | 0.90% | ~1,236 |
 | Ascended | 0.90% | ~1,236 |
 | Blank Page Syndrome | 0.90% | ~1,236 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,348 (Ranked 73)  
+Progressed: 137,351 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-06 | 137,219 | 163 |
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
-| 2023-10-09 | 137,348 | 167 |
+| 2023-10-09 | 137,351 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,362 (Ranked 50)  

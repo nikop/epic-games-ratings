@@ -2870,9 +2870,9 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 917
     },
     {
       "ID": "Collect20Iron",
@@ -3117,8 +3117,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-09-01T13:58:15.7639305+00:00",
-  "LastChanged_Achievements": "2023-10-09T06:04:53.0968852+00:00",
+  "LastChanged_Achievements": "2023-10-09T07:04:40.4307667+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6337882+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:58:50.6942746+00:00",
-  "LastUpdate_Achievements": "2023-10-09T06:04:53.0969259+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:58:39.8702383+00:00",
+  "LastUpdate_Achievements": "2023-10-09T07:04:40.4307969+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.64 (Ranked 318)
 | Humble Collector | 41.00% | ~2,611 |
 | Calm Sailing | 35.00% | ~2,229 |
 | Open the Gate! | 32.00% | ~2,038 |
-| Mist Walker | 30.00% | ~1,910 |
+| Mist Walker | 30.00% | ~1,911 |
 | Lumberjack | 25.00% | ~1,592 |
 | Oui, Chef! | 22.00% | ~1,401 |
 | Clear the Air | 16.00% | ~1,019 |
@@ -27,7 +27,7 @@ Rating: 4.64 (Ranked 318)
 | Fanatical Farmer | 7.00% | ~446 |
 | Skilled | 7.00% | ~446 |
 | Flaming Hot Completos | 6.00% | ~382 |
-| Fae Farmer | 5.00% | ~318 |
+| Fae Farmer | 6.00% | ~382 |
 | Scattered Scroll Scrounger | 5.00% | ~318 |
 | Azorian Anniversary | 5.00% | ~318 |
 | I Now Pronounce You... | 4.00% | ~255 |
@@ -41,7 +41,7 @@ Rating: 4.64 (Ranked 318)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,368 (Ranked 162)  
+Progressed: 6,369 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 6,152 | 0 |
 | 2023-10-07 | 6,255 | 0 |
 | 2023-10-08 | 6,353 | 0 |
-| 2023-10-09 | 6,368 | 0 |
+| 2023-10-09 | 6,369 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

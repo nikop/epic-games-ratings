@@ -6,12 +6,12 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~5,033 |
+| I'm not dead yet | 43.00% | ~5,034 |
 | Overkill | 34.00% | ~3,980 |
 | A normal day in Gloomhaven | 34.00% | ~3,980 |
 | Vaccine Incoming | 33.00% | ~3,863 |
 | Spread the plague | 30.00% | ~3,512 |
-| Get over here! | 23.00% | ~2,692 |
+| Get over here! | 23.00% | ~2,693 |
 | Just when I thought I was out... | 19.00% | ~2,224 |
 | Mine... All Mine... | 17.00% | ~1,990 |
 | Precious! | 15.00% | ~1,756 |
@@ -22,10 +22,10 @@ Number of Ratings: 68  (23.09.2022)
 | Obstacle race | 13.00% | ~1,522 |
 | Grizzled veteran | 12.00% | ~1,405 |
 | Doom and gloom | 12.00% | ~1,405 |
-| Pack leader | 8.00% | ~936 |
-| Pain is your friend | 8.00% | ~936 |
-| Black death | 8.00% | ~936 |
-| Play it again, Sam | 8.00% | ~936 |
+| Pack leader | 8.00% | ~937 |
+| Pain is your friend | 8.00% | ~937 |
+| Black death | 8.00% | ~937 |
+| Play it again, Sam | 8.00% | ~937 |
 | Dungeon Veteran | 7.00% | ~819 |
 | Who's the Boss? | 7.00% | ~819 |
 | Quad damage | 6.00% | ~702 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~12 |
 | Murder Death Kill | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,705 (Ranked 141)  
+Progressed: 11,707 (Ranked 141)  
 Completed: 1 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.01%) (Ranked 291)
 | 2023-10-06 | 10,827 | 1 |
 | 2023-10-07 | 11,229 | 1 |
 | 2023-10-08 | 11,624 | 1 |
-| 2023-10-09 | 11,705 | 1 |
+| 2023-10-09 | 11,707 | 1 |
 ## Awards
 Max (Character Customization): 3,545  (Ranked 90)  
 Sum: 8,270 (Ranked 98)  

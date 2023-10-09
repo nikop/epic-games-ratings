@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -394,9 +394,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -474,9 +474,9 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -515,8 +515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-10-09T06:06:11.5069723+00:00",
+  "LastChanged_Achievements": "2023-10-09T07:05:45.7692829+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:48.3913984+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:58:54.9185438+00:00",
-  "LastUpdate_Achievements": "2023-10-09T06:06:11.5070005+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:58:44.1926631+00:00",
+  "LastUpdate_Achievements": "2023-10-09T07:05:45.7693022+00:00"
 }

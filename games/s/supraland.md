@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,366 |
-| The Blues | 85.00% | ~619,355 |
-| Fast | 66.00% | ~480,911 |
-| Healthbar | 55.00% | ~400,759 |
-| Force Cube | 53.00% | ~386,186 |
-| Double Jump | 48.00% | ~349,753 |
+| Out of bed | 99.00% | ~721,367 |
+| The Blues | 85.00% | ~619,356 |
+| Fast | 66.00% | ~480,912 |
+| Healthbar | 55.00% | ~400,760 |
+| Force Cube | 53.00% | ~386,187 |
+| Double Jump | 48.00% | ~349,754 |
 | Regeneration | 47.00% | ~342,467 |
 | Triple Jump | 43.00% | ~313,321 |
-| Climb the hill | 42.00% | ~306,034 |
+| Climb the hill | 42.00% | ~306,035 |
 | Through the fire pipe | 39.00% | ~284,175 |
-| MacGuffin | 38.00% | ~276,888 |
+| MacGuffin | 38.00% | ~276,889 |
 | Just once | 37.00% | ~269,602 |
 | Armor | 30.00% | ~218,596 |
 | True holy spirit | 28.00% | ~204,023 |
-| That's how electronics work obviously | 27.00% | ~196,736 |
-| Force Cube Catapult | 25.00% | ~182,163 |
+| That's how electronics work obviously | 27.00% | ~196,737 |
+| Force Cube Catapult | 25.00% | ~182,164 |
 | Holy Sword | 23.00% | ~167,590 |
 | Telefrag | 23.00% | ~167,590 |
 | Freed from prison | 21.00% | ~153,017 |
@@ -29,9 +29,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 18.00% | ~131,158 |
 | Buckle | 17.00% | ~123,871 |
 | Green Keycard | 17.00% | ~123,871 |
-| Rattle Hag | 16.00% | ~116,584 |
+| Rattle Hag | 16.00% | ~116,585 |
 | All Shells | 15.00% | ~109,298 |
-| Beam | 14.00% | ~102,011 |
+| Beam | 14.00% | ~102,012 |
 | Health Drink | 13.00% | ~94,725 |
 | Helped a star | 13.00% | ~94,725 |
 | 9 | 13.00% | ~94,725 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,653 (Ranked 19)  
+Progressed: 728,654 (Ranked 19)  
 Completed: 745 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 745 (0.10%) (Ranked 245)
 | 2023-10-06 | 728,361 | 744 |
 | 2023-10-07 | 728,508 | 744 |
 | 2023-10-08 | 728,636 | 745 |
-| 2023-10-09 | 728,653 | 745 |
+| 2023-10-09 | 728,654 | 745 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

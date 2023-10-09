@@ -6,47 +6,47 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~295,000 |
-| Full garage | 60.00% | ~242,466 |
-| To the eyeballs! | 51.00% | ~206,096 |
-| Individual delivery | 46.00% | ~185,891 |
-| Non-Stop | 44.00% | ~177,808 |
-| Juggler | 36.00% | ~145,480 |
-| Forgot something | 35.00% | ~141,438 |
-| Close call! | 30.00% | ~121,233 |
-| Get out my way | 28.00% | ~113,151 |
-| Common cause | 26.00% | ~105,069 |
-| Critical care | 26.00% | ~105,069 |
-| Mega-railroad | 23.00% | ~92,945 |
-| Upgrade complete | 23.00% | ~92,945 |
-| Just in time! | 18.00% | ~72,740 |
-| Builder | 17.00% | ~68,699 |
-| Long Haul | 17.00% | ~68,587 |
-| Steam Age | 16.00% | ~64,658 |
-| Bridgemania | 14.00% | ~56,575 |
-| Multilevel road | 14.00% | ~56,575 |
-| Need to think | 14.00% | ~56,575 |
-| The Tortoise | 12.00% | ~48,493 |
-| Without a lunch break | 11.00% | ~44,452 |
-| Beginner | 10.00% | ~40,411 |
-| One way | 10.00% | ~40,411 |
-| Relocation | 10.00% | ~40,411 |
-| Industrial Age | 9.00% | ~36,370 |
+| Dealmaker | 73.00% | ~295,007 |
+| Full garage | 60.00% | ~242,471 |
+| To the eyeballs! | 51.00% | ~206,101 |
+| Individual delivery | 46.00% | ~185,895 |
+| Non-Stop | 44.00% | ~177,812 |
+| Juggler | 36.00% | ~145,483 |
+| Forgot something | 35.00% | ~141,442 |
+| Close call! | 30.00% | ~121,236 |
+| Get out my way | 28.00% | ~113,153 |
+| Common cause | 26.00% | ~105,071 |
+| Critical care | 26.00% | ~105,071 |
+| Mega-railroad | 23.00% | ~92,947 |
+| Upgrade complete | 23.00% | ~92,947 |
+| Just in time! | 18.00% | ~72,741 |
+| Builder | 17.00% | ~68,700 |
+| Long Haul | 17.00% | ~68,588 |
+| Steam Age | 16.00% | ~64,659 |
+| Bridgemania | 14.00% | ~56,577 |
+| Multilevel road | 14.00% | ~56,577 |
+| Need to think | 14.00% | ~56,577 |
+| The Tortoise | 12.00% | ~48,494 |
+| Without a lunch break | 11.00% | ~44,453 |
+| Beginner | 10.00% | ~40,412 |
+| One way | 10.00% | ~40,412 |
+| Relocation | 10.00% | ~40,412 |
+| Industrial Age | 9.00% | ~36,371 |
 | Just One More Valley | 9.00% | ~36,311 |
-| Prick of conscience | 8.00% | ~32,329 |
+| Prick of conscience | 8.00% | ~32,330 |
 | Missed it! | 7.00% | ~28,288 |
 | At the last moment! | 6.00% | ~24,247 |
 | Overseer | 6.00% | ~24,247 |
 | Jewelry accuracy | 5.00% | ~20,206 |
 | Stargazer | 5.00% | ~20,206 |
-| Bridge builder | 4.00% | ~16,164 |
-| Electrical Age | 4.00% | ~16,164 |
-| Highlander | 4.00% | ~16,164 |
-| Large construction | 4.00% | ~16,164 |
-| Engineer | 3.00% | ~12,123 |
-| Living it large | 3.00% | ~12,123 |
-| Sabotage | 3.00% | ~12,123 |
-| Squander | 3.00% | ~12,123 |
+| Bridge builder | 4.00% | ~16,165 |
+| Electrical Age | 4.00% | ~16,165 |
+| Highlander | 4.00% | ~16,165 |
+| Large construction | 4.00% | ~16,165 |
+| Engineer | 3.00% | ~12,124 |
+| Living it large | 3.00% | ~12,124 |
+| Sabotage | 3.00% | ~12,124 |
+| Squander | 3.00% | ~12,124 |
 | Test Batch | 3.00% | ~12,104 |
 | Astronomer | 2.00% | ~8,082 |
 | Globalisation Age | 2.00% | ~8,082 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~403 |
 | World Zapper | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,110 (Ranked 42)  
+Progressed: 404,119 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 19 (0.00%) (Ranked 310)
 | 2023-10-06 | 403,057 | 19 |
 | 2023-10-07 | 403,539 | 19 |
 | 2023-10-08 | 404,042 | 19 |
-| 2023-10-09 | 404,110 | 19 |
+| 2023-10-09 | 404,119 | 19 |
 ## Awards
 Max (Challenging Puzzles): 741  (Ranked 170)  
-Sum: 1,458 (Ranked 226)  
+Sum: 1,459 (Ranked 226)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -243,7 +243,7 @@ Diff (max vs sum): -56
 | This game has Playful Visuals | 86 |
 | This game is Extremely Fun | 85 |
 | This game is Relaxing | 84 |
-| This game is Highly Recommended | 80 |
+| This game is Highly Recommended | 81 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 54 |
 | This game has Amazing Storytelling | 51 |

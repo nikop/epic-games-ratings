@@ -1024,9 +1024,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 151414,
+  "EOS_Progressed": 151418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1764,
+  "EOS_NewPlayers": 1768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11034,6 +11034,11 @@
       "Time": "2023-10-09T06:05:58.0472256+00:00",
       "NumProgressed": 151414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T07:05:34.5775925+00:00",
+      "NumProgressed": 151418,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11171,9 +11176,9 @@
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Hush",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 303
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -11412,21 +11417,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 150997,
+      "Progressed": 151001,
       "Completed": 1149
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151414,
+      "Progressed": 151418,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-07T06:03:30.4016252+00:00",
-  "LastChanged_Achievements": "2023-10-09T06:05:58.0472247+00:00",
+  "LastChanged_Achievements": "2023-10-09T07:05:34.5775922+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-09T05:57:28.9343886+00:00",
-  "LastUpdate_Achievements": "2023-10-09T06:05:58.0473471+00:00"
+  "LastUpdate_Ratings": "2023-10-09T06:57:32.7818753+00:00",
+  "LastUpdate_Achievements": "2023-10-09T07:05:34.5776683+00:00"
 }
