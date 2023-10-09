@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.20% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.18% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -16,10 +16,10 @@
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 16 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 20.00% |
-| 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.51% |
-| 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 20 | [Seven Doors](games/s/seven_doors.md) | 16.67% |
+| 17 | [Doodle Devil](games/d/doodle_devil.md) | 19.51% |
+| 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 19 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 16.67% |
+| 19 | [Seven Doors](games/s/seven_doors.md) | 16.67% |
 | 21 | [Island Cities](games/i/island_cities.md) | 16.53% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
@@ -65,13 +65,13 @@
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 66 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.20% |
+| 66 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.17% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
 | 68 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.08% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.82% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.81% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
@@ -117,7 +117,7 @@
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |
-| 118 | [Five Dates](games/f/five_dates.md) | 1.63% |
+| 118 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 119 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.52% |
 | 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -156,9 +156,9 @@
 | 154 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 155 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 156 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 156 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.62% |
 | 156 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
-| 159 | [Haven](games/h/haven.md) | 0.61% |
+| 158 | [Haven](games/h/haven.md) | 0.61% |
+| 158 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.61% |
 | 160 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.60% |
 | 161 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 161 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
@@ -237,18 +237,18 @@
 | 233 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.13% |
 | 237 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
-| 237 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.12% |
 | 237 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 237 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 237 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 242 | [Isonzo](games/i/isonzo.md) | 0.11% |
-| 242 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 242 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
-| 245 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 245 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 245 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 245 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
-| 245 | [Supraland](games/s/supraland.md) | 0.10% |
+| 241 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.11% |
+| 241 | [Isonzo](games/i/isonzo.md) | 0.11% |
+| 241 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 244 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 244 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 244 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 244 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
+| 244 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 244 | [Supraland](games/s/supraland.md) | 0.10% |
 | 250 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 250 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 250 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |

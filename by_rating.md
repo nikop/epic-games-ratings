@@ -37,7 +37,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 351 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 28 | 480 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 303 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,477 | 128 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,479 | 128 |
 | 28 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 530 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 515 | 202 |
 | 28 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.86 | 0 | 530 |
@@ -113,7 +113,7 @@
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 530 |
 | 100 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 480 |
 | 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 5,890 | 64 |
-| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,416 | 51 |
+| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,429 | 51 |
 | 113 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 530 |
 | 113 | [Quake](games/q/quake.md) | 4.77 | 49 | 414 |
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 530 |
@@ -791,7 +791,7 @@
 | 787 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 530 |
 | 787 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 530 |
 | 787 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 530 |
-| 787 | [Paladins](games/p/paladins.md) | 4.33 | 3,708 | 86 |
+| 787 | [Paladins](games/p/paladins.md) | 4.33 | 3,712 | 86 |
 | 787 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 530 |
 | 787 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 530 |
 | 787 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 514 |
@@ -926,12 +926,12 @@
 | 923 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 20 | 524 |
 | 923 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.13 | 0 | 530 |
 | 923 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 530 |
+| 923 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.13 | 0 | 530 |
 | 923 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.13 | 0 | 530 |
-| 928 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 530 |
-| 929 | [Model Builder](games/m/model_builder.md) | 4.11 | 0 | 530 |
-| 929 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.11 | 0 | 530 |
-| 931 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
-| 931 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
+| 929 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 530 |
+| 930 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
+| 930 | [Model Builder](games/m/model_builder.md) | 4.10 | 0 | 530 |
+| 930 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
 | 933 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 530 |
 | 933 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 530 |
 | 933 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 530 |
