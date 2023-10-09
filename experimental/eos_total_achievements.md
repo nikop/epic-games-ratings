@@ -474,6 +474,7 @@
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
+| [DESERTED](../games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 23 | 1,000 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |

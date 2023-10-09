@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.34% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.28% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -26,9 +26,9 @@
 | 24 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.27% |
 | 26 | [Remains](games/r/remains.md) | 12.00% |
-| 27 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.67% |
-| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
-| 29 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
+| 27 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.59% |
+| 28 | [Anna's Quest](games/a/anna's_quest.md) | 11.54% |
+| 29 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.48% |
 | 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
@@ -47,7 +47,7 @@
 | 45 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 46 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 47 | [Scorn](games/s/scorn.md) | 7.04% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.01% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.96% |
 | 49 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 50 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.35% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
@@ -104,7 +104,7 @@
 | 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.21% |
+| 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.20% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 107 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 108 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -131,7 +131,7 @@
 | 129 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 129 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 129 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
-| 132 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.23% |
+| 132 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.22% |
 | 133 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 134 | [Trifox](games/t/trifox.md) | 1.09% |
 | 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
@@ -224,8 +224,8 @@
 | 222 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
 | 222 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.18% |
 | 222 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 225 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 225 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.17% |
+| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.18% |
+| 226 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 227 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 227 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 227 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
