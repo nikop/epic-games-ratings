@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,253 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,254 |
 | ''I don't like you either!'' | 79.00% | ~40,928 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,301 |
-| ''Impressive, most impressive'' | 71.00% | ~36,783 |
-| The Phantom Menace | 59.00% | ~30,566 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,048 |
-| ''I can fly anything'' | 57.00% | ~29,530 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,302 |
+| ''Impressive, most impressive'' | 71.00% | ~36,784 |
+| The Phantom Menace | 59.00% | ~30,567 |
+| ''Aggressive Negotiations'' | 58.00% | ~30,049 |
+| ''I can fly anything'' | 57.00% | ~29,531 |
 | ''And who gave you permission...?'' | 53.00% | ~27,458 |
-| A New Hope | 48.00% | ~24,867 |
-| Attack of the Clones | 47.00% | ~24,349 |
+| A New Hope | 48.00% | ~24,868 |
+| Attack of the Clones | 47.00% | ~24,350 |
 | Revenge of the Sith | 40.00% | ~20,723 |
 | The Empire Strikes Back | 37.00% | ~19,169 |
 | ''A fine addition to my collection'' | 37.00% | ~19,169 |
-| Return of the Jedi | 32.00% | ~16,578 |
+| Return of the Jedi | 32.00% | ~16,579 |
 | The Force Awakens | 27.00% | ~13,988 |
 | The Last Jedi | 23.00% | ~11,916 |
-| The Rise of Skywalker | 20.00% | ~10,361 |
-| ''It's true... all of it'' | 19.00% | ~9,843 |
-| ''Get the crews to their fighters'' | 19.00% | ~9,843 |
+| The Rise of Skywalker | 20.00% | ~10,362 |
+| ''It's true... all of it'' | 19.00% | ~9,844 |
+| ''Get the crews to their fighters'' | 19.00% | ~9,844 |
 | ''Raw, untamed power'' | 8.00% | ~4,145 |
 | Rishi Maze | 5.00% | ~2,590 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,590 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~518 |
 | ''I've never seen a real one!'' | 1.00% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,807 (Ranked 101)  
+Progressed: 51,808 (Ranked 101)  
 Completed: 237 (0.46%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,14 +223,15 @@ Completed: 237 (0.46%) (Ranked 173)
 | 2023-10-05 | 51,793 | 237 |
 | 2023-10-07 | 51,800 | 237 |
 | 2023-10-08 | 51,807 | 237 |
+| 2023-10-09 | 51,808 | 237 |
 ## Awards
 Max (Great Boss Battles): 2,428  (Ranked 104)  
-Sum: 6,654 (Ranked 120)  
+Sum: 6,656 (Ranked 120)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,428 |
-| This game is Great for Beginners | 503 |
+| This game is Great for Beginners | 505 |
 | This game has Diverse Characters | 501 |
 | This game has Amazing Characters | 488 |
 | This game is Highly Recommended | 469 |
@@ -469,3 +470,4 @@ Diff (max vs sum): -16
 | 2023-10-06 | 4.78 | - | 2,421 | 6,646 |
 | 2023-10-07 | 4.78 | - | 2,423 | 6,648 |
 | 2023-10-08 | 4.78 | - | 2,428 | 6,654 |
+| 2023-10-09 | 4.78 | - | 2,428 | 6,656 |

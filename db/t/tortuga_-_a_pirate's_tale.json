@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16802,
+  "EOS_Progressed": 16803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5573,6 +5573,11 @@
       "Time": "2023-10-09T17:09:20.1662683+00:00",
       "NumProgressed": 16802,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T20:08:13.2687687+00:00",
+      "NumProgressed": 16803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5584,7 +5589,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACH001",
@@ -5592,7 +5597,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "ACH0010",
@@ -5624,7 +5629,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3864
+      "UsersEstimate": 3865
     },
     {
       "ID": "ACH0014",
@@ -5664,7 +5669,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "ACH0019",
@@ -5680,7 +5685,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12097
+      "UsersEstimate": 12098
     },
     {
       "ID": "ACH0020",
@@ -5736,7 +5741,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "ACH004",
@@ -5744,7 +5749,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "ACH005",
@@ -5791,7 +5796,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16802,
+      "Progressed": 16803,
       "Completed": 0
     }
   ],
@@ -5799,8 +5804,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:07:03.1364577+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:08:13.268768+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:00:50.5498876+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:07:03.1365672+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:03:07.2668451+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:08:13.2688409+00:00"
 }

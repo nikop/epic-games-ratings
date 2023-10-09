@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -286,7 +286,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24164,
+  "EOS_Progressed": 24165,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
@@ -5366,6 +5366,11 @@
       "Time": "2023-10-09T19:08:15.8328582+00:00",
       "NumProgressed": 24164,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-09T20:09:07.7313834+00:00",
+      "NumProgressed": 24165,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5455,17 +5460,17 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5511,17 +5516,17 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -5543,9 +5548,9 @@
       "ID": "ACH_KILL_NIPULON",
       "SetID": "cdkbb11",
       "Name": "Self-Actualization",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -5599,9 +5604,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5728,13 +5733,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24164,
+      "Progressed": 24165,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 1373
     }
   ],
@@ -5742,8 +5747,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:08:15.8328575+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:09:07.7313827+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:58:10.3867678+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:08:15.8329677+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:58:33.9596909+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:09:07.7314617+00:00"
 }

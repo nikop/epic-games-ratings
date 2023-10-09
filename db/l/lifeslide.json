@@ -4,7 +4,7 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -96,6 +96,11 @@
       "Time": "2023-10-05T06:06:45.5219547+00:00",
       "NumProgressed": 327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T20:09:25.2300555+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -121,9 +126,9 @@
       "ID": "ALL_PLANES _UNLOCKED",
       "SetID": "b6f796g",
       "Name": "All The Pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ALL_PLANES_PLAYED",
@@ -147,7 +152,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -171,7 +176,7 @@
       "Name": "Change of Heart",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "CHILDHOOD_REACHED",
@@ -179,7 +184,7 @@
       "Name": "Wonderful World",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "COLLECT_MATTER_10000",
@@ -187,7 +192,7 @@
       "Name": "Tangibility",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "END_REACHED",
@@ -195,7 +200,7 @@
       "Name": "Alive",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FIRST_IMPROVEMENT",
@@ -203,7 +208,7 @@
       "Name": "Road to Improvement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "FULL_IMPROVEMENTS",
@@ -211,7 +216,7 @@
       "Name": "Best Self",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "IN_LOVE",
@@ -299,7 +304,7 @@
       "Name": "What Are The Chances?",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SPRING_HIDDEN",
@@ -331,7 +336,7 @@
       "Name": "Chain of Events",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
@@ -339,7 +344,7 @@
       "Name": "Finding The Way",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ZEN_TRAVEL_10000",
@@ -354,7 +359,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 0
     }
   ],
@@ -362,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:09:10.3335094+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:09:25.2300546+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.8750117+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:59:03.9316156+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:09:10.3335339+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:59:39.4428802+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:09:25.2300813+00:00"
 }

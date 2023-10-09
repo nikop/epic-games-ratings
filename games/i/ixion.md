@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~900 |
+| Wakey Wakey | 28.00% | ~901 |
 | Sputnik 2049 | 24.00% | ~772 |
 | Infinite Growth... | 23.00% | ~740 |
 | Without Breaking Some Eggs... | 22.00% | ~708 |
@@ -35,11 +35,11 @@ Rating: 4.56 (Ranked 471)
 | What They Hide From Us | 4.00% | ~129 |
 | ...  in a finite world | 4.00% | ~129 |
 | What the Ruins Teach Us | 4.00% | ~129 |
-| Sustainable Energy | 3.00% | ~96 |
-| In Dolos We Trust | 3.00% | ~96 |
-| Delivery! | 3.00% | ~96 |
-| Pedal to the Metal | 3.00% | ~96 |
-| Pulsar Disciple | 3.00% | ~96 |
+| Sustainable Energy | 3.00% | ~97 |
+| In Dolos We Trust | 3.00% | ~97 |
+| Delivery! | 3.00% | ~97 |
+| Pedal to the Metal | 3.00% | ~97 |
+| Pulsar Disciple | 3.00% | ~97 |
 | Mutual Loyalty | 2.00% | ~64 |
 | Tiqqun Contender | 2.00% | ~64 |
 | Catastrophe Avoided | 2.00% | ~64 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 471)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,216 (Ranked 188)  
+Progressed: 3,217 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-05 | 3,214 | 0 |
 | 2023-10-06 | 3,215 | 0 |
 | 2023-10-08 | 3,216 | 0 |
+| 2023-10-09 | 3,217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

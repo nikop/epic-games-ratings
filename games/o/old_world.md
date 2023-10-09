@@ -33,30 +33,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.80% | ~116 |
 | Pyramids | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
+| Greek Paganism | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
 | Wise | 0.70% | ~102 |
 | Strong Cities | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
+| Great Ziggurat | 0.70% | ~102 |
 | Ishtar Gate | 0.70% | ~102 |
 | Lighthouse | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Carthaginian Paganism | 0.70% | ~102 |
-| Greek Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
 | Brilliant | 0.60% | ~87 |
+| Great | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
-| Great Ziggurat | 0.60% | ~87 |
 | Musaeum | 0.60% | ~87 |
 | Necropolis | 0.60% | ~87 |
 | Learn to Play 1 | 0.60% | ~87 |
 | Manichaeism | 0.60% | ~87 |
 | Egyptian Paganism | 0.60% | ~87 |
+| Regicide | 0.50% | ~73 |
 | Drillmaster | 0.50% | ~73 |
-| Great | 0.50% | ~73 |
 | Valiant | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |
 | Just Difficulty | 0.50% | ~73 |
@@ -66,8 +67,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
-| Regicide | 0.40% | ~58 |
+| Win a Single Player Game | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
+| Beloved | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |
@@ -79,11 +81,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
 | Greece | 0.40% | ~58 |
+| Power to the People | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
+| Legalism | 0.40% | ~58 |
 | Mythology | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
-| Win a Single Player Game | 0.40% | ~58 |
-| Beloved | 0.30% | ~44 |
+| Devout | 0.30% | ~44 |
 | Invincible | 0.30% | ~44 |
 | Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
@@ -99,12 +102,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.30% | ~44 |
 | Learn to Play 4 | 0.30% | ~44 |
 | Babylonia | 0.30% | ~44 |
-| Power to the People | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
 | Persian Paganism | 0.30% | ~44 |
+| Economic Reform | 0.30% | ~44 |
 | Military Prestige | 0.30% | ~44 |
 | Gnosticism | 0.30% | ~44 |
-| Legalism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Revelation | 0.30% | ~44 |
 | Cimmerian Archer | 0.30% | ~44 |
@@ -118,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Capable | 0.20% | ~29 |
-| Devout | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.20% | ~29 |
 | One True Faith | 0.20% | ~29 |
 | Hittite Paganism | 0.20% | ~29 |
-| Economic Reform | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
 | Dualism | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,556 (Ranked 134)  
+Progressed: 14,561 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,556 | 5 |
+| 2023-10-09 | 14,561 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

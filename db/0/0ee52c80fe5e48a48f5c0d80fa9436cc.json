@@ -25,9 +25,195 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-09T20:05:10.9041624+00:00",
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_COOP_2_PLAY",
+      "SetID": "bid411o",
+      "Name": "Better Together",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CRAFT_10_COMP",
+      "SetID": "bid411o",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_COMP_NAKUZU",
+      "SetID": "bid411o",
+      "Name": "SIC SEMPRE TYRANNIS",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFLECT_30_SWORD",
+      "SetID": "bid411o",
+      "Name": "Blade Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROY_30_MECHA",
+      "SetID": "bid411o",
+      "Name": "Unstoppable Force",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ESC_NO_HURT",
+      "SetID": "bid411o",
+      "Name": "Escape Artist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIND_ALL_KEYS",
+      "SetID": "bid411o",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIND_DR_SHARON",
+      "SetID": "bid411o",
+      "Name": "Trail of Breadcrumbs",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIND_DR_ZAVIER",
+      "SetID": "bid411o",
+      "Name": "The Trail Continues",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIND_SHIP_PARTS",
+      "SetID": "bid411o",
+      "Name": "Fixer Upper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_CAMP_PDA",
+      "SetID": "bid411o",
+      "Name": "Data Analyst",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FREE_ALL_PRSN",
+      "SetID": "bid411o",
+      "Name": "Liberator",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FREE_THE_AMIK",
+      "SetID": "bid411o",
+      "Name": "Amikwag",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GRENADE_3_KILLS",
+      "SetID": "bid411o",
+      "Name": "Grenadier",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GUN_10_KILLS",
+      "SetID": "bid411o",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PARRY_50_TIMES",
+      "SetID": "bid411o",
+      "Name": "Shield Master",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SUM_5_TIMES",
+      "SetID": "bid411o",
+      "Name": "Spirit Within",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SWORD_20_KILLS",
+      "SetID": "bid411o",
+      "Name": "Exterminator",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TALK_5_TIMES",
+      "SetID": "bid411o",
+      "Name": "Making Friends",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UPG_ATOM_DRONE",
+      "SetID": "bid411o",
+      "Name": "A.T.O.M.",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_ONE_GAME",
+      "SetID": "bid411o",
+      "Name": "Storm on the horizon",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_THREE_GAME",
+      "SetID": "bid411o",
+      "Name": "A New Dawn",
+      "Percentage": 0,
+      "XP": 105,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WIN_TWO_GAME",
+      "SetID": "bid411o",
+      "Name": "Darkness Falls",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bid411o",
@@ -37,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-06T15:03:12.0917617+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:04:32.2653981+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:05:10.9041612+00:00",
   "LastUpdate_AppInfo": "2023-10-06T14:57:16.3107728+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:58:26.9015047+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:04:32.2654023+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:58:52.4391929+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:05:10.953702+00:00"
 }

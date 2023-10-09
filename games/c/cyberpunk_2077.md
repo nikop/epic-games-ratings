@@ -6,40 +6,40 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,251 |
-| Right Back At Ya | 44.00% | ~391,818 |
-| The Lovers | 38.00% | ~338,388 |
-| Stanislavski's Method | 33.00% | ~293,863 |
-| The Wheel of Fortune | 32.00% | ~284,958 |
-| The Hermit | 30.00% | ~267,148 |
-| The High Priestess | 29.00% | ~258,244 |
-| True Soldier | 28.00% | ~249,339 |
-| Christmas Tree Attack | 25.00% | ~222,624 |
-| Full Body Conversion | 24.00% | ~213,719 |
-| Life of the Road | 23.00% | ~204,814 |
-| Ten out of Ten | 21.00% | ~187,004 |
-| The World | 21.00% | ~187,004 |
-| Master Crafter | 20.00% | ~178,099 |
-| True Warrior | 19.00% | ~169,194 |
-| Bushido and Chill | 18.00% | ~160,289 |
-| Gun Fu | 18.00% | ~160,289 |
-| I Am The Law | 16.00% | ~142,479 |
-| To Protect and Serve | 15.00% | ~133,574 |
-| The Quick and the Dead | 13.00% | ~115,764 |
-| Breathtaking | 13.00% | ~115,764 |
-| Rough Landing | 12.00% | ~106,859 |
-| The Wandering Fool | 11.00% | ~97,954 |
-| The Jungle | 11.00% | ~97,954 |
-| To Bad Decisions! | 10.00% | ~89,050 |
-| Gunslinger | 10.00% | ~89,050 |
-| Mean Streets | 9.00% | ~80,145 |
-| Temperance | 9.00% | ~80,145 |
-| The Star | 8.00% | ~71,240 |
-| The Sun | 8.00% | ~71,240 |
-| City Lights | 5.00% | ~44,525 |
-| Must Be Rats | 5.00% | ~44,525 |
-| The Devil | 5.00% | ~44,525 |
-| Greetings from Pacifica! | 5.00% | ~44,525 |
+| The Fool | 71.00% | ~632,264 |
+| Right Back At Ya | 44.00% | ~391,825 |
+| The Lovers | 38.00% | ~338,395 |
+| Stanislavski's Method | 33.00% | ~293,869 |
+| The Wheel of Fortune | 32.00% | ~284,964 |
+| The Hermit | 30.00% | ~267,154 |
+| The High Priestess | 29.00% | ~258,248 |
+| True Soldier | 28.00% | ~249,343 |
+| Christmas Tree Attack | 25.00% | ~222,628 |
+| Full Body Conversion | 24.00% | ~213,723 |
+| Life of the Road | 23.00% | ~204,818 |
+| Ten out of Ten | 21.00% | ~187,008 |
+| The World | 21.00% | ~187,008 |
+| Master Crafter | 20.00% | ~178,102 |
+| True Warrior | 19.00% | ~169,197 |
+| Bushido and Chill | 18.00% | ~160,292 |
+| Gun Fu | 18.00% | ~160,292 |
+| I Am The Law | 16.00% | ~142,482 |
+| To Protect and Serve | 15.00% | ~133,577 |
+| The Quick and the Dead | 13.00% | ~115,767 |
+| Breathtaking | 13.00% | ~115,767 |
+| Rough Landing | 12.00% | ~106,861 |
+| The Wandering Fool | 11.00% | ~97,956 |
+| The Jungle | 11.00% | ~97,956 |
+| To Bad Decisions! | 10.00% | ~89,051 |
+| Gunslinger | 10.00% | ~89,051 |
+| Mean Streets | 9.00% | ~80,146 |
+| Temperance | 9.00% | ~80,146 |
+| The Star | 8.00% | ~71,241 |
+| The Sun | 8.00% | ~71,241 |
+| City Lights | 5.00% | ~44,526 |
+| Must Be Rats | 5.00% | ~44,526 |
+| The Devil | 5.00% | ~44,526 |
+| Greetings from Pacifica! | 5.00% | ~44,526 |
 | Little Tokyo | 4.00% | ~35,620 |
 | Two Heads, One Bullet | 4.00% | ~35,620 |
 | Autojock | 3.00% | ~26,715 |
@@ -64,8 +64,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890,495 (Ranked 15)  
-Completed: 2,629 (0.30%) (Ranked 202)  
+Progressed: 890,512 (Ranked 15)  
+Completed: 2,632 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,10 +236,10 @@ Completed: 2,629 (0.30%) (Ranked 202)
 | 2023-10-06 | 889,452 | 2,608 |
 | 2023-10-07 | 889,866 | 2,618 |
 | 2023-10-08 | 890,268 | 2,624 |
-| 2023-10-09 | 890,495 | 2,629 |
+| 2023-10-09 | 890,512 | 2,632 |
 ## Awards
 Max (Character Customization): 95,294  (Ranked 9)  
-Sum: 284,871 (Ranked 11)  
+Sum: 285,141 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -247,9 +247,9 @@ Diff (max vs sum): -2
 | This game has Great Boss Battles | 65,731 |
 | This game is Great for Beginners | 15,114 |
 | This game has Diverse Characters | 15,058 |
+| This game has Amazing Storytelling | 14,538 |
 | This game is Extremely Fun | 14,411 |
 | This game is Highly Recommended | 14,343 |
-| This game has Amazing Storytelling | 14,268 |
 | This game has Amazing Characters | 14,004 |
 | This game is Relaxing | 13,717 |
 | This game has Quickly Understood Controls | 13,608 |
@@ -520,4 +520,4 @@ Diff (max vs sum): -2
 | 2023-10-06 | 4.63 | - | 93,194 | 273,478 |
 | 2023-10-07 | 4.63 | - | 93,914 | 277,942 |
 | 2023-10-08 | 4.64 | - | 94,679 | 282,115 |
-| 2023-10-09 | 4.64 | - | 95,294 | 284,871 |
+| 2023-10-09 | 4.64 | - | 95,294 | 285,141 |

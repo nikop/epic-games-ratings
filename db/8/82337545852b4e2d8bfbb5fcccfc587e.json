@@ -2,10 +2,10 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.67,
+  "EOS_Completed_Percentage": 11.48,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -331,6 +331,11 @@
       "Time": "2023-10-09T16:09:09.1642221+00:00",
       "NumProgressed": 60,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T20:09:06.5601459+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -341,7 +346,7 @@
       "ID": "EpicACHV_1",
       "SetID": "acn799d",
       "Name": "I am Deeeer.",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -349,7 +354,7 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 70,
       "UsersEstimate": 50
     },
@@ -357,7 +362,7 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 70,
       "UsersEstimate": 28
     },
@@ -365,7 +370,7 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 41
     },
@@ -373,7 +378,7 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 70,
       "UsersEstimate": 41
     },
@@ -381,7 +386,7 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 36
     },
@@ -389,7 +394,7 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -397,7 +402,7 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -415,13 +420,13 @@
       "Name": "Self-sacrifice",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 70,
       "UsersEstimate": 19
     },
@@ -437,7 +442,7 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 70,
       "UsersEstimate": 38
     },
@@ -445,15 +450,15 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 70,
       "UsersEstimate": 45
     },
@@ -461,7 +466,7 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 70,
       "UsersEstimate": 13
     },
@@ -469,7 +474,7 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 82,
+      "Percentage": 80,
       "XP": 30,
       "UsersEstimate": 49
     }
@@ -478,14 +483,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:08:14.8109099+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:09:06.5601447+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:11.1249179+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:03:18.8543554+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:08:14.8109297+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:03:29.1068654+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:09:06.5601685+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -508,9 +508,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8262,
+  "EOS_Progressed": 8263,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -9898,6 +9898,11 @@
       "Time": "2023-10-09T18:05:22.5897909+00:00",
       "NumProgressed": 8262,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-10-09T20:06:00.6493907+00:00",
+      "NumProgressed": 8263,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 29,
@@ -9909,7 +9914,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6857
+      "UsersEstimate": 6858
     },
     {
       "ID": "ACH02",
@@ -9981,7 +9986,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "ACH11",
@@ -10021,7 +10026,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH16",
@@ -10093,7 +10098,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH25",
@@ -10140,7 +10145,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8262,
+      "Progressed": 8263,
       "Completed": 54
     }
   ],
@@ -10148,8 +10153,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:05:13.1258481+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:06:00.6493899+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:58.9824672+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:03:18.3508545+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:05:13.1260233+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:03:28.5947721+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:06:00.6495651+00:00"
 }

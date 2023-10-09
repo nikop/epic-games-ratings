@@ -1,44 +1,44 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 536)  
+Rating: 4.52 (Ranked 537)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,295 |
-| It wakes | 1.00% | ~9,295 |
-| Skillful | 1.00% | ~9,295 |
-| Handyman | 0.80% | ~7,436 |
-| Not half bad | 0.80% | ~7,436 |
-| Apt Survivor | 0.80% | ~7,436 |
-| Survival Treasures | 0.80% | ~7,436 |
-| Make Some Noise | 0.80% | ~7,436 |
-| Medic | 0.70% | ~6,507 |
-| Sorted | 0.70% | ~6,507 |
-| Resurgence | 0.70% | ~6,507 |
-| The Grand Sacrifice | 0.60% | ~5,577 |
-| No one left behind | 0.60% | ~5,577 |
-| Nerves of steel | 0.60% | ~5,577 |
-| Bloody Millionaire | 0.60% | ~5,577 |
-| I | 0.60% | ~5,577 |
-| Healthy Obsession | 0.60% | ~5,577 |
-| Preemptive Strike | 0.60% | ~5,577 |
-| Humanitarian | 0.60% | ~5,577 |
+| Zealous | 1.00% | ~9,297 |
+| It wakes | 1.00% | ~9,297 |
+| Skillful | 1.00% | ~9,297 |
+| Handyman | 0.80% | ~7,437 |
+| Not half bad | 0.80% | ~7,437 |
+| Apt Survivor | 0.80% | ~7,437 |
+| Survival Treasures | 0.80% | ~7,437 |
+| Make Some Noise | 0.80% | ~7,437 |
+| Medic | 0.70% | ~6,508 |
+| Sorted | 0.70% | ~6,508 |
+| Resurgence | 0.70% | ~6,508 |
+| The Grand Sacrifice | 0.60% | ~5,578 |
+| No one left behind | 0.60% | ~5,578 |
+| Nerves of steel | 0.60% | ~5,578 |
+| Bloody Millionaire | 0.60% | ~5,578 |
+| I | 0.60% | ~5,578 |
+| Healthy Obsession | 0.60% | ~5,578 |
+| Preemptive Strike | 0.60% | ~5,578 |
+| Humanitarian | 0.60% | ~5,578 |
 | Agonizing Escape | 0.50% | ~4,648 |
 | Backdoor Escape | 0.50% | ~4,648 |
 | I've got your back | 0.50% | ~4,648 |
 | Perfect Escape | 0.50% | ~4,648 |
 | Perfect Killing | 0.50% | ~4,648 |
+| Risk it all | 0.50% | ~4,648 |
 | Engineer | 0.50% | ~4,648 |
 | Close Shave | 0.50% | ~4,648 |
-| Apt Killer | 0.40% | ~3,718 |
-| Risk it all | 0.40% | ~3,718 |
-| Vulture | 0.40% | ~3,718 |
-| II | 0.40% | ~3,718 |
-| Wounded Healer | 0.40% | ~3,718 |
-| With Scars to Show | 0.40% | ~3,718 |
-| Second Act | 0.40% | ~3,718 |
+| Apt Killer | 0.40% | ~3,719 |
+| Vulture | 0.40% | ~3,719 |
+| II | 0.40% | ~3,719 |
+| Wounded Healer | 0.40% | ~3,719 |
+| With Scars to Show | 0.40% | ~3,719 |
+| Second Act | 0.40% | ~3,719 |
 | Blood on your hands | 0.30% | ~2,789 |
 | Made it out alive! | 0.30% | ~2,789 |
 | III | 0.30% | ~2,789 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 929,531 (Ranked 14)  
+Progressed: 929,662 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,10 +408,10 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 929,531 | 49 |
+| 2023-10-09 | 929,662 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
-Sum: 260,725 (Ranked 13)  
+Sum: 260,754 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -422,7 +422,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 29,105 |
 | This game has Challenging Combat | 28,679 |
 | This game has Quickly Understood Controls | 28,626 |
-| This game has Amazing Storytelling | 26,703 |
+| This game has Amazing Storytelling | 26,732 |
 | This game has a Competitive Community | 25,242 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -687,4 +687,4 @@ Diff (max vs sum): 2
 | 2023-10-06 | 4.52 | - | 33,500 | 259,873 |
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
-| 2023-10-09 | 4.52 | - | 33,640 | 260,725 |
+| 2023-10-09 | 4.52 | - | 33,640 | 260,754 |

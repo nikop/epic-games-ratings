@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3966,
+  "EOS_Progressed": 3969,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6973,6 +6973,11 @@
       "Time": "2023-10-09T19:05:37.9874978+00:00",
       "NumProgressed": 3966,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-09T20:06:30.8656998+00:00",
+      "NumProgressed": 3969,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7009,7 +7014,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -7025,7 +7030,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7033,7 +7038,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7041,7 +7046,7 @@
       "Name": "First Strike",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7097,7 +7102,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7137,7 +7142,7 @@
       "Name": "Spending Spree",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -7145,7 +7150,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -7168,15 +7173,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3966,
+      "Progressed": 3969,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:05:37.9874971+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:06:30.8656989+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:59:01.6748278+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:05:37.9876133+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:59:37.1489479+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:06:30.8657713+00:00"
 }

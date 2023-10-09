@@ -10426,10 +10426,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 53068,
       "NumberOfAwardsMax": 6454
+    },
+    {
+      "Time": "2023-10-09T19:59:00.565184+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 53071,
+      "NumberOfAwardsMax": 6454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53068,
+  "NumberOfAwards": 53071,
   "NumberOfAwardsMax": 6454,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -10491,7 +10497,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5006
+      "Count": 5009
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10500,9 +10506,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 426776,
+  "EOS_Progressed": 426818,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6043,
+  "EOS_NewPlayers": 6032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30040,6 +30046,11 @@
       "Time": "2023-10-09T19:09:12.8736567+00:00",
       "NumProgressed": 426776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T20:09:28.7792171+00:00",
+      "NumProgressed": 426818,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30443,7 +30454,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -30707,7 +30718,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -31051,7 +31062,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17071
+      "UsersEstimate": 17073
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32003,7 +32014,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -32331,7 +32342,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12803
+      "UsersEstimate": 12805
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -32603,7 +32614,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -32715,7 +32726,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17071
+      "UsersEstimate": 17073
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -32747,7 +32758,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12803
+      "UsersEstimate": 12805
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -32882,21 +32893,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 426776,
+      "Progressed": 426818,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 426776,
+      "Progressed": 426818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-09T18:58:32.5042399+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:09:12.8736559+00:00",
+  "LastChanged": "2023-10-09T19:59:00.5651838+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:09:28.779216+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:58:32.5042413+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:09:12.8752275+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:59:00.5651849+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:09:28.7802971+00:00"
 }

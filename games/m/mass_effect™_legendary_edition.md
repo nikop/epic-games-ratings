@@ -23,7 +23,7 @@
 | Asari Ally | 52.00% | ~327 |
 | Principled | 52.00% | ~327 |
 | Soldier Ally | 50.00% | ~314 |
-| Colonial Savior | 48.00% | ~302 |
+| Colonial Savior | 49.00% | ~308 |
 | Paramour I | 46.00% | ~289 |
 | Krogan Ally | 45.00% | ~283 |
 | Merciless | 45.00% | ~283 |
@@ -36,9 +36,9 @@
 | Operative | 41.00% | ~258 |
 | Scholar | 40.00% | ~252 |
 | Power Full | 39.00% | ~245 |
-| The Professor | 37.00% | ~233 |
+| The Professor | 38.00% | ~239 |
+| Completionist | 36.00% | ~226 |
 | The Archangel | 36.00% | ~226 |
-| Completionist | 35.00% | ~220 |
 | The Convict | 35.00% | ~220 |
 | Archivist | 34.00% | ~214 |
 | Colony Defense | 34.00% | ~214 |
@@ -55,17 +55,17 @@
 | The Cure | 31.00% | ~195 |
 | The Prodigal | 31.00% | ~195 |
 | Big Game Hunter | 31.00% | ~195 |
+| Revenge! | 31.00% | ~195 |
 | Shopaholic | 31.00% | ~195 |
 | Catharsis | 30.00% | ~189 |
 | Fade Away | 30.00% | ~189 |
-| Revenge! | 30.00% | ~189 |
 | Heart of Darkness | 30.00% | ~189 |
+| Cat's in the Cradle | 29.00% | ~182 |
 | Treason | 29.00% | ~182 |
 | Agent | 29.00% | ~182 |
 | Digital Exorcist | 29.00% | ~182 |
 | Driven | 29.00% | ~182 |
 | Focused | 28.00% | ~176 |
-| Cat's in the Cradle | 28.00% | ~176 |
 | Doppelganger | 28.00% | ~176 |
 | Bringer of War | 28.00% | ~176 |
 | First Aid Specialist | 27.00% | ~170 |
@@ -89,12 +89,12 @@
 | Party Crasher | 20.00% | ~126 |
 | Lost and Found | 20.00% | ~126 |
 | No One Left Behind | 19.00% | ~120 |
+| Hard Target | 19.00% | ~120 |
 | Fact Finder | 19.00% | ~120 |
 | Problem Solver | 19.00% | ~120 |
 | Pyromaniac | 18.00% | ~113 |
 | Electronics Specialist | 18.00% | ~113 |
 | Sabotage Specialist | 18.00% | ~113 |
-| Hard Target | 18.00% | ~113 |
 | Saboteur | 18.00% | ~113 |
 | Under Pressure | 17.00% | ~107 |
 | Last Resort | 17.00% | ~107 |

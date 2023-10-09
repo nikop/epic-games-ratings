@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 71.00% | ~12 |
+| Shipwrecked! | 76.00% | ~13 |
 | Sea Legs | 65.00% | ~11 |
-| What?! | 35.00% | ~6 |
+| What?! | 41.00% | ~7 |
 | Frogs Legs | 29.00% | ~5 |
 | Mad Scientist | 24.00% | ~4 |
 | Socialite | 12.00% | ~2 |

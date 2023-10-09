@@ -616,9 +616,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 468796,
+  "EOS_Progressed": 468797,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18656,6 +18656,11 @@
       "Time": "2023-10-09T19:06:31.7477524+00:00",
       "NumProgressed": 468796,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T20:07:35.911641+00:00",
+      "NumProgressed": 468797,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18667,7 +18672,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70319
+      "UsersEstimate": 70320
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -18675,7 +18680,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70319
+      "UsersEstimate": 70320
     },
     {
       "ID": "achievement_first_death",
@@ -18699,7 +18704,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70319
+      "UsersEstimate": 70320
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -18755,7 +18760,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309405
+      "UsersEstimate": 309406
     },
     {
       "ID": "achievement_story_landa",
@@ -18835,7 +18840,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70319
+      "UsersEstimate": 70320
     },
     {
       "ID": "achievement_story_neon_child",
@@ -19091,7 +19096,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206270
+      "UsersEstimate": 206271
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19123,7 +19128,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182830
+      "UsersEstimate": 182831
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19298,21 +19303,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12730,
+      "Progressed": 12731,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468796,
+      "Progressed": 468797,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-08T20:58:44.1367341+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:06:31.7477517+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:07:35.9116402+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:59:27.1198719+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:06:31.7480089+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:00:11.5757827+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:07:35.9118401+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,735 |
-| Dr. Reed, I Presume? | 3.00% | ~20,801 |
-| Git Gutte! | 3.00% | ~20,801 |
-| Break A Leg | 3.00% | ~20,801 |
-| Coup de Grâce | 3.00% | ~20,801 |
-| Hazardous Materials | 3.00% | ~20,801 |
-| Friends Like These | 3.00% | ~20,801 |
-| Hotel California | 3.00% | ~20,801 |
-| Apex Predator | 3.00% | ~20,801 |
-| Stacking the Deck | 3.00% | ~20,801 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,801 |
+| Welcome To Hell-A | 4.00% | ~27,737 |
+| Dr. Reed, I Presume? | 3.00% | ~20,802 |
+| Git Gutte! | 3.00% | ~20,802 |
+| Break A Leg | 3.00% | ~20,802 |
+| Coup de Grâce | 3.00% | ~20,802 |
+| Hazardous Materials | 3.00% | ~20,802 |
+| Friends Like These | 3.00% | ~20,802 |
+| Hotel California | 3.00% | ~20,802 |
+| Apex Predator | 3.00% | ~20,802 |
+| Stacking the Deck | 3.00% | ~20,802 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,802 |
 | Anger Management | 2.00% | ~13,868 |
 | Perks of the Job | 2.00% | ~13,868 |
 | Bookworm | 2.00% | ~13,868 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 509)
 | Max Headroom | 1.00% | ~6,934 |
 | Go, Bobcats! | 1.00% | ~6,934 |
 | Rising Star | 1.00% | ~6,934 |
-| Jumbo Keyring | 0.90% | ~6,240 |
+| Jumbo Keyring | 0.90% | ~6,241 |
 | Smorgasbord | 0.80% | ~5,547 |
 | Not Even My Final Form | 0.70% | ~4,854 |
 | Internet Famous | 0.70% | ~4,854 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,380 (Ranked 22)  
+Progressed: 693,414 (Ranked 22)  
 Completed: 2,206 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 2,206 (0.32%) (Ranked 197)
 | 2023-10-06 | 691,763 | 2,193 |
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
-| 2023-10-09 | 693,380 | 2,206 |
+| 2023-10-09 | 693,414 | 2,206 |
 ## Awards
 Max (Great Boss Battles): 6,378  (Ranked 58)  
 Sum: 9,521 (Ranked 91)  

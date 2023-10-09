@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -2470,9 +2470,9 @@
       "ID": "MissionShipyard",
       "SetID": "a6c395p",
       "Name": "In the Eye of the Storm",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 470
     },
     {
       "ID": "MissionSlayingChimera",
@@ -2590,8 +2590,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:03:26.4887063+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:03:41.0430232+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.1216494+00:00",
-  "LastUpdate_Ratings": "2023-10-09T19:00:41.4032497+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:03:26.4888179+00:00"
+  "LastUpdate_Ratings": "2023-10-09T20:01:45.3553233+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:03:41.0430794+00:00"
 }

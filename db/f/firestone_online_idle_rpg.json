@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2006,
+  "EOS_Progressed": 2008,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-10-09T19:06:53.0936518+00:00",
       "NumProgressed": 2006,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-09T20:08:00.9774945+00:00",
+      "NumProgressed": 2008,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6020,7 +6025,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "cauldronliberator",
@@ -6052,7 +6057,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "dailyquestcompletionist",
@@ -6092,7 +6097,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ebonyjungleliberator",
@@ -6108,7 +6113,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "enchantingskillx5",
@@ -6124,7 +6129,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "enhancedwarmachines",
@@ -6148,7 +6153,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "fellowshippower",
@@ -6228,7 +6233,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "hunter",
@@ -6276,7 +6281,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "masterenchanter",
@@ -6316,7 +6321,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "movinguptheladder",
@@ -6364,7 +6369,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "prestigiousx10",
@@ -6372,7 +6377,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "relicofthepast",
@@ -6388,7 +6393,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "scientist",
@@ -6428,7 +6433,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1145
     },
     {
       "ID": "thealchemist",
@@ -6436,7 +6441,7 @@
       "Name": "The Alchemist",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "theexpeditioner",
@@ -6444,7 +6449,7 @@
       "Name": "The Expeditioner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "thefatherofdragons",
@@ -6460,7 +6465,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "thepowerofawakening",
@@ -6532,7 +6537,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "warmachinesarmy",
@@ -6548,7 +6553,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "whatliesbehindthebush",
@@ -6564,14 +6569,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2006,
+      "Progressed": 2008,
       "Completed": 2
     }
   ],
@@ -6579,8 +6584,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-06T14:03:16.1710301+00:00",
-  "LastChanged_Achievements": "2023-10-09T19:06:53.0936508+00:00",
+  "LastChanged_Achievements": "2023-10-09T20:08:00.9774934+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-09T18:58:15.4401027+00:00",
-  "LastUpdate_Achievements": "2023-10-09T19:06:53.0938715+00:00"
+  "LastUpdate_Ratings": "2023-10-09T19:58:39.22315+00:00",
+  "LastUpdate_Achievements": "2023-10-09T20:08:00.977654+00:00"
 }

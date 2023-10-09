@@ -5,26 +5,26 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sweezy Like Sunday Morning | 0.60% | ~145 |
 | First Bounty Down | 0.60% | ~145 |
+| G3 Graduation | 0.60% | ~145 |
 | Don't Knife The Hand That Feeds | 0.60% | ~145 |
 | Satisfied Gus-tomer | 0.50% | ~121 |
 | Are You Packin'? | 0.50% | ~121 |
 | Bring A Knife to a Gun Fight | 0.50% | ~121 |
-| Sweezy Like Sunday Morning | 0.50% | ~121 |
+| RIP Davey Glutes | 0.50% | ~121 |
 | We're All Very Impressed, Trust Me | 0.50% | ~121 |
-| G3 Graduation | 0.50% | ~121 |
 | Hardest Battle In The Game | 0.50% | ~121 |
 | Cold-Blooded Driller | 0.50% | ~121 |
 | Who's The Boss? | 0.50% | ~121 |
 | Bathe With A Giant Nude Alien | 0.50% | ~7 |
 | Creature Feature | 0.40% | ~97 |
-| RIP Davey Glutes | 0.40% | ~97 |
+| Legendary Bounty Hunter | 0.40% | ~97 |
+| Self-Actualization | 0.40% | ~97 |
+| Spent 15 Hours At The Alien Strip Club | 0.40% | ~97 |
 | Eatin' Good in the Neighborhood | 0.30% | ~72 |
 | Lezduit! | 0.30% | ~72 |
-| Legendary Bounty Hunter | 0.30% | ~72 |
-| Self-Actualization | 0.30% | ~72 |
 | Fallout Doesn't Let You Do This | 0.30% | ~72 |
-| Spent 15 Hours At The Alien Strip Club | 0.30% | ~72 |
 | Series Wrap on Suit-O | 0.30% | ~72 |
 | We Came, We Chainsaw, We Conquered | 0.30% | ~4 |
 | Eye Scream, You Scream | 0.20% | ~48 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,164 (Ranked 119)  
+Progressed: 24,165 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 13 (0.05%) (Ranked 267)
 | 2023-10-06 | 24,133 | 13 |
 | 2023-10-07 | 24,141 | 13 |
 | 2023-10-08 | 24,152 | 13 |
-| 2023-10-09 | 24,164 | 13 |
+| 2023-10-09 | 24,165 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

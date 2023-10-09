@@ -29,7 +29,7 @@ Number of Ratings: 58  (23.09.2022)
 | Origin | 40.00% | ~495 |
 | It Was An Accident | 39.00% | ~483 |
 | Set in Motion | 38.00% | ~470 |
-| In the Eye of the Storm | 37.00% | ~458 |
+| In the Eye of the Storm | 38.00% | ~470 |
 | The Crimson Void | 35.00% | ~433 |
 | The Nameless Dread | 34.00% | ~421 |
 | Time to Spear | 31.00% | ~384 |
