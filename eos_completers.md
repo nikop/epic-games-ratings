@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.78% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.76% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -71,14 +71,14 @@
 | 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.82% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
 | 76 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 77 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 78 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
-| 79 | [The Complex](games/t/the_complex.md) | 3.37% |
+| 79 | [The Complex](games/t/the_complex.md) | 3.36% |
 | 80 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 81 | [Doodle God](games/d/doodle_god.md) | 3.31% |
 | 82 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
@@ -87,7 +87,7 @@
 | 85 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.12% |
 | 85 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 85 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.09% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.08% |
 | 89 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 90 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
 | 90 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
