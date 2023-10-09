@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110664,
+  "EOS_Progressed": 110665,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13746,6 +13746,11 @@
       "Time": "2023-10-09T07:06:36.5038235+00:00",
       "NumProgressed": 110664,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-10-09T08:06:29.9730478+00:00",
+      "NumProgressed": 110665,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 49,
@@ -13765,7 +13770,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85211
+      "UsersEstimate": 85212
     },
     {
       "ID": "EAwards_10",
@@ -13821,7 +13826,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "EAwards_17",
@@ -13869,7 +13874,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "EAwards_22",
@@ -13893,7 +13898,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "EAwards_25",
@@ -13965,7 +13970,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "EAwards_33",
@@ -14148,7 +14153,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110664,
+      "Progressed": 110665,
       "Completed": 44
     }
   ],
@@ -14156,8 +14161,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:06:36.503823+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:06:29.973047+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:00:40.7262204+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:06:36.5039209+00:00"
+  "LastUpdate_Ratings": "2023-10-09T08:00:28.5229344+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:06:29.9731708+00:00"
 }

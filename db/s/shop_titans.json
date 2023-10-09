@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -24449,9 +24449,9 @@
       "ID": "energy03",
       "SetID": "anfd17p",
       "Name": "Supercharged",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 824
     },
     {
       "ID": "expansion01",
@@ -24985,8 +24985,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-08T20:58:26.5428073+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:05:41.6227218+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:05:36.1336946+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:48.4563678+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:05:41.6229181+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:58:39.1033385+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:05:36.133959+00:00"
 }

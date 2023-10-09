@@ -20,9 +20,9 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 19.00% | ~14,914 |
 | No Longer Red | 18.00% | ~14,129 |
 | Self-sufficient | 18.00% | ~14,129 |
-| Money money | 15.00% | ~11,774 |
-| Biggest Reward | 14.00% | ~10,989 |
-| Acquired knowledge | 13.00% | ~10,204 |
+| Money money | 15.00% | ~11,775 |
+| Biggest Reward | 14.00% | ~10,990 |
+| Acquired knowledge | 13.00% | ~10,205 |
 | First Journey | 12.00% | ~9,420 |
 | Hellenic Elysium | 12.00% | ~9,420 |
 | Grand champion | 12.00% | ~9,420 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,355 |
 | Opportunity | 3.00% | ~2,355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,496 (Ranked 86)  
+Progressed: 78,497 (Ranked 86)  
 Completed: 142 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 142 (0.18%) (Ranked 222)
 | 2023-10-06 | 78,172 | 142 |
 | 2023-10-07 | 78,311 | 142 |
 | 2023-10-08 | 78,464 | 142 |
-| 2023-10-09 | 78,496 | 142 |
+| 2023-10-09 | 78,497 | 142 |
 ## Awards
 Max (Relaxing): 518  (Ranked 201)  
 Sum: 3,185 (Ranked 166)  

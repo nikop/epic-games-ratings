@@ -2,9 +2,9 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 45,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -508,10 +508,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 199,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-10-09T07:58:32.1156751+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 202,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 199,
+  "NumberOfAwards": 202,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -543,7 +549,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -558,9 +564,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 62199,
+  "EOS_Progressed": 62203,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2249,
+  "EOS_NewPlayers": 2247,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4388,6 +4394,11 @@
       "Time": "2023-10-09T07:09:16.6283663+00:00",
       "NumProgressed": 62199,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-09T08:09:37.1975443+00:00",
+      "NumProgressed": 62203,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -4400,7 +4411,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18038
+      "UsersEstimate": 18039
     },
     {
       "ID": "10",
@@ -4527,16 +4538,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 62199,
+      "Progressed": 62203,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-08T16:58:24.9983298+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:09:16.6283658+00:00",
+  "LastChanged": "2023-10-09T07:58:32.115675+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:09:37.1975437+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.5160199+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:40.2636405+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:09:16.628395+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:58:32.1156754+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:09:37.197579+00:00"
 }

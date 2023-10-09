@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_16",
@@ -782,8 +782,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:05:13.3633289+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:05:08.0744161+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:07.3673574+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:05:13.3633621+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:57:59.5772491+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:05:08.0744858+00:00"
 }

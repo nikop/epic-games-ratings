@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.40% | ~58 |
 | Win a Single Player Game | 0.40% | ~58 |
 | Beloved | 0.30% | ~44 |
+| Invincible | 0.30% | ~44 |
 | Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Victorious | 0.30% | ~44 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Capable | 0.20% | ~29 |
 | Devout | 0.20% | ~29 |
-| Invincible | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | Ambition Victory | 0.20% | ~29 |
+| No Undo | 0.20% | ~29 |
 | The Clergy | 0.20% | ~29 |
 | The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
@@ -247,7 +248,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.10% | ~15 |
 | Conquest Victory | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
-| No Undo | 0.10% | ~15 |
 | Randomized Families | 0.10% | ~15 |
 | Randomized Leaders | 0.10% | ~15 |
 | Role-Playing | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,542 (Ranked 134)  
+Progressed: 14,544 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
-| 2023-10-09 | 14,542 | 5 |
+| 2023-10-09 | 14,544 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

@@ -3930,9 +3930,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 88924,
+  "EOS_Progressed": 88925,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21670,6 +21670,11 @@
       "Time": "2023-10-09T07:04:50.00267+00:00",
       "NumProgressed": 88924,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-09T08:04:45.0767268+00:00",
+      "NumProgressed": 88925,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 41,
@@ -21719,9 +21724,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_0016",
@@ -22008,13 +22013,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 88924,
+      "Progressed": 88925,
       "Completed": 48
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17271,
+      "Progressed": 17272,
       "Completed": 15542
     }
   ],
@@ -22022,8 +22027,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-08T16:59:49.5233476+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:04:50.0026695+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:04:45.076726+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:00:10.3578349+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:04:50.0027813+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:59:59.9252972+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:04:45.0768635+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -248,17 +248,17 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteChapter6",
@@ -390,8 +390,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:04:21.2210324+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:04:16.6999468+00:00",
   "LastUpdate_AppInfo": "2023-10-06T03:57:12.3370257+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:57:44.0129963+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:04:21.2210558+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:57:37.9017225+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:04:16.6999765+00:00"
 }

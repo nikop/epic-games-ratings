@@ -11,12 +11,12 @@
 | Aerosolized | 42.00% | ~33 |
 | Monstrosity Atrocity | 37.00% | ~29 |
 | Test of Faith | 35.00% | ~27 |
-| Reign of Terror | 32.00% | ~25 |
+| Reign of Terror | 33.00% | ~26 |
 | Crushing All Cars | 24.00% | ~19 |
 | Brain Chopper | 21.00% | ~16 |
 | Horror Show | 18.00% | ~14 |
 | Night Bird | 17.00% | ~13 |
-| Demolition Ambition | 12.00% | ~9 |
+| Demolition Ambition | 13.00% | ~10 |
 | Hindenburgerer | 9.00% | ~7 |
 | Punchy Wagon | 8.00% | ~6 |
 | Kill All Humans! | 6.00% | ~5 |

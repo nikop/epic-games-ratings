@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3410,
+  "EOS_Progressed": 3411,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -7741,6 +7741,11 @@
       "Time": "2023-10-09T04:08:37.3779042+00:00",
       "NumProgressed": 3410,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-09T08:06:27.6126724+00:00",
+      "NumProgressed": 3411,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 16,
@@ -7752,7 +7757,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -7800,7 +7805,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ach_bomb",
@@ -7824,7 +7829,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2762
+      "UsersEstimate": 2763
     },
     {
       "ID": "ach_food_completed",
@@ -7879,14 +7884,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3410,
+      "Progressed": 3411,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:06:34.1682428+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:06:27.6126718+00:00",
   "LastUpdate_AppInfo": "2023-10-06T16:57:09.8249462+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:00:33.7003896+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:06:34.1682865+00:00"
+  "LastUpdate_Ratings": "2023-10-09T08:00:22.7268093+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:06:27.6127308+00:00"
 }

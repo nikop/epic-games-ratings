@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225000,
+  "EOS_Progressed": 225003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1875,
+  "EOS_NewPlayers": 1870,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9150,6 +9150,11 @@
       "Time": "2023-10-09T07:06:40.6299636+00:00",
       "NumProgressed": 225000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T08:06:33.956191+00:00",
+      "NumProgressed": 225003,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9218,7 +9223,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47250
+      "UsersEstimate": 47251
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -9418,7 +9423,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56250
+      "UsersEstimate": 56251
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -9433,7 +9438,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225000,
+      "Progressed": 225003,
       "Completed": 0
     }
   ],
@@ -9441,8 +9446,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-08T17:00:23.5274986+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:06:40.6299629+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:06:33.9561901+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:57:12.102758+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:06:40.6300242+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:57:07.5932662+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:06:33.9562739+00:00"
 }

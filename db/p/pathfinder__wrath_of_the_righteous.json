@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3890,9 +3890,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11492,
+  "EOS_Progressed": 11493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13345,6 +13345,11 @@
       "Time": "2023-10-09T01:51:06.500239+00:00",
       "NumProgressed": 11492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T08:09:14.6169712+00:00",
+      "NumProgressed": 11493,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14228,7 +14233,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -14244,7 +14249,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -14283,21 +14288,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10274,
+      "Progressed": 10275,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11492,
+      "Progressed": 11493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-09T03:59:04.9576673+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:08:12.9809577+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:09:14.6169703+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:15.3465765+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:08:12.9811349+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:58:07.0380725+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:09:14.6171714+00:00"
 }

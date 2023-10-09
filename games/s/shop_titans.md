@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.60% | ~824 |
 | Master of Transmutation | 0.60% | ~824 |
 | Hidden Potential | 0.60% | ~824 |
+| Supercharged | 0.60% | ~824 |
 | Expansion in Session | 0.60% | ~824 |
 | Cranked up to 11 | 0.60% | ~824 |
 | Fit for a King | 0.60% | ~824 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.50% | ~687 |
 | Industrial Evolution | 0.50% | ~687 |
 | Omae wa Mou Shindeiru | 0.50% | ~687 |
-| Supercharged | 0.50% | ~687 |
 | Ritualist | 0.50% | ~687 |
 | By Your Powers Combined... | 0.50% | ~687 |
 | Item of Renown | 0.50% | ~687 |

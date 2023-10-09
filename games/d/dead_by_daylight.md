@@ -58,6 +58,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.30% | ~2,786 |
 | Chorus of Chaos | 0.30% | ~2,786 |
 | One More Step | 0.30% | ~2,786 |
+| MU/TH/UR Dearest | 0.30% | ~2,786 |
 | A bite for the Entity | 0.20% | ~1,857 |
 | Blood on your face | 0.20% | ~1,857 |
 | Jump Scares | 0.20% | ~1,857 |
@@ -87,7 +88,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.20% | ~1,857 |
 | Rebuilding The Borgo | 0.20% | ~1,857 |
 | Extraterrestrial | 0.20% | ~1,857 |
-| MU/TH/UR Dearest | 0.20% | ~1,857 |
 | Kitted Out | 0.20% | ~1,857 |
 | A feast for the Entity | 0.10% | ~929 |
 | Blood in your mouth | 0.10% | ~929 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~929 |
 | Adept Ripley | 0.10% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,503 (Ranked 14)  
+Progressed: 928,549 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 928,503 | 49 |
+| 2023-10-09 | 928,549 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,551 (Ranked 13)  

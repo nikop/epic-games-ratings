@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -715,9 +715,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38552,
+  "EOS_Progressed": 38553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18240,6 +18240,11 @@
       "Time": "2023-10-09T06:05:11.7136299+00:00",
       "NumProgressed": 38552,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-09T08:04:50.750054+00:00",
+      "NumProgressed": 38553,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -18603,7 +18608,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6939
+      "UsersEstimate": 6940
     },
     {
       "ID": "ach_terror100",
@@ -18682,15 +18687,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38552,
+      "Progressed": 38553,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:04:55.7847198+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:04:50.7500534+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:59:46.2173712+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:04:55.7848375+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:59:35.620821+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:04:50.7502072+00:00"
 }

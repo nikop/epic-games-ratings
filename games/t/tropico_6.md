@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,119 |
-| Un-Lonely Island | 47.00% | ~2,581 |
-| The Beginning of a Servantship | 45.00% | ~2,471 |
+| Just One...More...Term... | 75.00% | ~4,120 |
+| Un-Lonely Island | 47.00% | ~2,582 |
+| The Beginning of a Servantship | 45.00% | ~2,472 |
 | Trade Is My Trait | 37.00% | ~2,032 |
 | Number 18 | 24.00% | ~1,318 |
-| We Don't Have Time For That | 19.00% | ~1,043 |
+| We Don't Have Time For That | 19.00% | ~1,044 |
 | The Legend of Langostino | 17.00% | ~934 |
 | The Governator | 17.00% | ~934 |
 | Caribbean Comrade | 16.00% | ~879 |
@@ -23,9 +23,9 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~549 |
 | Double Trouble | 8.00% | ~439 |
 | Firestarter | 8.00% | ~439 |
-| I Owe You Nothing | 7.00% | ~384 |
-| Make Tropico Great Again! | 7.00% | ~384 |
-| French Connection | 7.00% | ~384 |
+| I Owe You Nothing | 7.00% | ~385 |
+| Make Tropico Great Again! | 7.00% | ~385 |
+| French Connection | 7.00% | ~385 |
 | Don't Panic! | 6.00% | ~330 |
 | Computer Says "No" | 6.00% | ~330 |
 | Beware The Betman | 6.00% | ~330 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~49 |
 | My Ways | 0.30% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,492 (Ranked 168)  
+Progressed: 5,493 (Ranked 168)  
 Completed: 2 (0.04%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,16 +219,16 @@ Completed: 2 (0.04%) (Ranked 273)
 | 2023-10-06 | 5,468 | 2 |
 | 2023-10-07 | 5,481 | 2 |
 | 2023-10-08 | 5,490 | 2 |
-| 2023-10-09 | 5,492 | 2 |
+| 2023-10-09 | 5,493 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 99  (Ranked 347)  
-Sum: 699 (Ranked 284)  
+Sum: 700 (Ranked 284)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 99 |
-| This game is Highly Recommended | 95 |
+| This game is Highly Recommended | 96 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 90 |
 | This game has Amazing Characters | 87 |
@@ -382,3 +382,4 @@ Diff (max vs sum): 63
 | 2023-10-02 | 4.65 | - | 99 | 697 |
 | 2023-10-05 | 4.65 | - | 99 | 698 |
 | 2023-10-07 | 4.65 | - | 99 | 699 |
+| 2023-10-09 | 4.65 | - | 99 | 700 |

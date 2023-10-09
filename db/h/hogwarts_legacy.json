@@ -8724,9 +8724,9 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298068,
+  "EOS_Progressed": 298070,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27219,6 +27219,11 @@
       "Time": "2023-10-09T06:07:30.413918+00:00",
       "NumProgressed": 298068,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-09T08:06:44.2137235+00:00",
+      "NumProgressed": 298070,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 45,
@@ -27254,7 +27259,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32787
+      "UsersEstimate": 32788
     },
     {
       "ID": "PFA_13",
@@ -27278,7 +27283,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23845
+      "UsersEstimate": 23846
     },
     {
       "ID": "PFA_16",
@@ -27286,7 +27291,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32787
+      "UsersEstimate": 32788
     },
     {
       "ID": "PFA_17",
@@ -27302,7 +27307,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23845
+      "UsersEstimate": 23846
     },
     {
       "ID": "PFA_19",
@@ -27310,7 +27315,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23845
+      "UsersEstimate": 23846
     },
     {
       "ID": "PFA_2",
@@ -27318,7 +27323,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14903
+      "UsersEstimate": 14904
     },
     {
       "ID": "PFA_20",
@@ -27358,7 +27363,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32787
+      "UsersEstimate": 32788
     },
     {
       "ID": "PFA_25",
@@ -27414,7 +27419,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32787
+      "UsersEstimate": 32788
     },
     {
       "ID": "PFA_31",
@@ -27510,7 +27515,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14903
+      "UsersEstimate": 14904
     },
     {
       "ID": "PFA_42",
@@ -27589,7 +27594,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298068,
+      "Progressed": 298070,
       "Completed": 482
     }
   ],
@@ -27597,8 +27602,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-08T19:57:55.3590672+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:06:50.9101598+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:06:44.2137229+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:08.7663035+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:06:50.9102743+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:58:00.95501+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:06:44.2138748+00:00"
 }

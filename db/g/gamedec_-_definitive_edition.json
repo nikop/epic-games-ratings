@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -426,9 +426,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248520,
+  "EOS_Progressed": 248521,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19591,6 +19591,11 @@
       "Time": "2023-10-09T07:09:06.7955423+00:00",
       "NumProgressed": 248520,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-09T08:09:27.5250025+00:00",
+      "NumProgressed": 248521,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19602,7 +19607,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67100
+      "UsersEstimate": 67101
     },
     {
       "ID": "ACH_AON",
@@ -19642,7 +19647,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29822
+      "UsersEstimate": 29823
     },
     {
       "ID": "ACH_ENJOY",
@@ -20017,7 +20022,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248520,
+      "Progressed": 248521,
       "Completed": 7
     }
   ],
@@ -20025,8 +20030,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-08T20:58:55.4987227+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:09:06.7955418+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:09:27.5250019+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:59:18.6180086+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:09:06.7956719+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:59:07.5707859+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:09:27.5251396+00:00"
 }

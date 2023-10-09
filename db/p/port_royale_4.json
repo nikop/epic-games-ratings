@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 951,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2310,6 +2310,11 @@
       "Time": "2023-10-08T14:04:06.2116541+00:00",
       "NumProgressed": 950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T08:03:52.5339753+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2329,7 +2334,7 @@
       "Name": "Seafarer",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH002",
@@ -2361,7 +2366,7 @@
       "Name": "Premier Ma\u00EEtre",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH006",
@@ -2369,7 +2374,7 @@
       "Name": "Supreme conqueror",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH007",
@@ -2377,7 +2382,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH008",
@@ -2385,7 +2390,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH009",
@@ -2417,7 +2422,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACH013",
@@ -2551,9 +2556,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH030",
@@ -2585,7 +2590,7 @@
       "Name": "A true pirate!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH034",
@@ -2593,7 +2598,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH035",
@@ -2609,7 +2614,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH037",
@@ -2625,7 +2630,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH039",
@@ -2673,7 +2678,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH045",
@@ -2720,15 +2725,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 951,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:03:56.4356845+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:03:52.5339746+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.9232291+00:00",
-  "LastUpdate_Ratings": "2023-10-09T06:58:26.2933253+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:03:56.4357247+00:00"
+  "LastUpdate_Ratings": "2023-10-09T07:58:18.0156075+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:03:52.5340297+00:00"
 }

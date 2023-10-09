@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14542,
+  "EOS_Progressed": 14544,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13390,6 +13390,11 @@
       "Time": "2023-10-09T07:04:26.7657951+00:00",
       "NumProgressed": 14542,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-09T08:04:22.4231277+00:00",
+      "NumProgressed": 14544,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13895,9 +13900,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -15551,9 +15556,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -16136,21 +16141,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14542,
+      "Progressed": 14544,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14542,
+      "Progressed": 14544,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-09T07:04:26.7657947+00:00",
+  "LastChanged_Achievements": "2023-10-09T08:04:22.423127+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-09T07:00:52.4615071+00:00",
-  "LastUpdate_Achievements": "2023-10-09T07:04:26.7667847+00:00"
+  "LastUpdate_Ratings": "2023-10-09T08:00:40.5877038+00:00",
+  "LastUpdate_Achievements": "2023-10-09T08:04:22.4243992+00:00"
 }
