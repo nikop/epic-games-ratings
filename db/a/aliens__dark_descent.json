@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5134,9 +5134,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1177
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5334,9 +5334,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 969
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_MISSION_09",
@@ -5455,8 +5455,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-08T21:57:23.5370073+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:17.9666663+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:19.3680526+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:06.8958078+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:58:01.5818348+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:17.966724+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:58:00.2779463+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:19.368119+00:00"
 }

@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24167,
+  "EOS_Progressed": 24168,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5376,6 +5376,11 @@
       "Time": "2023-10-09T22:02:19.6942073+00:00",
       "NumProgressed": 24167,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-09T23:03:04.3424806+00:00",
+      "NumProgressed": 24168,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5425,17 +5430,17 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -5738,13 +5743,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24167,
+      "Progressed": 24168,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1460,
+      "Progressed": 1461,
       "Completed": 1373
     }
   ],
@@ -5752,8 +5757,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:02:19.6942065+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:03:04.3424796+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:58:03.8922868+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:02:19.694323+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:58:02.5718434+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:03:04.3425593+00:00"
 }

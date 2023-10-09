@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12083,
+  "EOS_Progressed": 12084,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 2944,
+  "EOS_NewPlayers": 2942,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2300,6 +2300,11 @@
       "Time": "2023-10-09T22:04:17.5291276+00:00",
       "NumProgressed": 12083,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-09T23:04:20.4421081+00:00",
+      "NumProgressed": 12084,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2312,7 +2317,7 @@
       "Name": "It Took Two",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "achievement_10",
@@ -2344,7 +2349,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "achievement_14",
@@ -2384,7 +2389,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_19",
@@ -2400,7 +2405,7 @@
       "Name": "Minigame Megalomania",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_20",
@@ -2416,7 +2421,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10512
+      "UsersEstimate": 10513
     },
     {
       "ID": "achievement_4",
@@ -2424,7 +2429,7 @@
       "Name": "Struck A Pose",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10512
+      "UsersEstimate": 10513
     },
     {
       "ID": "achievement_5",
@@ -2448,7 +2453,7 @@
       "Name": "Look At Him Go",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 9304
+      "UsersEstimate": 9305
     },
     {
       "ID": "achievement_8",
@@ -2464,20 +2469,20 @@
       "Name": "A Daring Devil",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 12083,
+      "Progressed": 12084,
       "Completed": 46
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:04:17.5291271+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:04:20.4421069+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:57:21.8171431+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:04:17.5291501+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:57:21.1809949+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:04:20.4421395+00:00"
 }

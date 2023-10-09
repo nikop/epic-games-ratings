@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -462,9 +462,9 @@
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:08:38.2354171+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:08:41.9517418+00:00",
   "LastUpdate_AppInfo": "2023-10-03T03:57:18.6208963+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:57:39.4590166+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:08:38.2354512+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:57:39.4590475+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:08:41.9517923+00:00"
 }

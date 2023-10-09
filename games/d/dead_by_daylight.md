@@ -6,12 +6,12 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,298 |
-| It wakes | 1.00% | ~9,298 |
-| Skillful | 1.00% | ~9,298 |
-| Make Some Noise | 0.90% | ~8,368 |
+| Zealous | 1.00% | ~9,299 |
+| It wakes | 1.00% | ~9,299 |
+| Skillful | 1.00% | ~9,299 |
+| Not half bad | 0.90% | ~8,369 |
+| Make Some Noise | 0.90% | ~8,369 |
 | Handyman | 0.80% | ~7,439 |
-| Not half bad | 0.80% | ~7,439 |
 | Apt Survivor | 0.80% | ~7,439 |
 | Survival Treasures | 0.80% | ~7,439 |
 | Medic | 0.70% | ~6,509 |
@@ -27,50 +27,50 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.60% | ~5,579 |
 | Preemptive Strike | 0.60% | ~5,579 |
 | Humanitarian | 0.60% | ~5,579 |
-| Agonizing Escape | 0.50% | ~4,649 |
-| Backdoor Escape | 0.50% | ~4,649 |
-| I've got your back | 0.50% | ~4,649 |
-| Perfect Killing | 0.50% | ~4,649 |
-| Risk it all | 0.50% | ~4,649 |
-| Wounded Healer | 0.50% | ~4,649 |
-| Close Shave | 0.50% | ~4,649 |
-| Apt Killer | 0.40% | ~3,719 |
-| Vulture | 0.40% | ~3,719 |
-| II | 0.40% | ~3,719 |
-| With Scars to Show | 0.40% | ~3,719 |
-| Second Act | 0.40% | ~3,719 |
-| Blood on your hands | 0.30% | ~2,789 |
-| Escape Artist | 0.30% | ~2,789 |
-| Made it out alive! | 0.30% | ~2,789 |
-| III | 0.30% | ~2,789 |
-| III-50 | 0.30% | ~2,789 |
-| All Aboard | 0.30% | ~2,789 |
-| Item of Obsession | 0.30% | ~2,789 |
-| House of Pain | 0.30% | ~2,789 |
-| Holiday Get-Together | 0.30% | ~2,789 |
-| Near-Death Experience | 0.30% | ~2,789 |
-| Cherish your Life | 0.30% | ~2,789 |
-| Unforgettable Getaway | 0.30% | ~2,789 |
-| Cutting Out | 0.30% | ~2,789 |
-| Outrun Evil | 0.30% | ~2,789 |
-| First to the Punch | 0.30% | ~2,789 |
-| Operation: Survival | 0.30% | ~2,789 |
-| Old West Oasis | 0.30% | ~2,789 |
-| Classy Act | 0.30% | ~2,789 |
-| Every Last Drop | 0.30% | ~2,789 |
-| Raccoon City Recruit | 0.30% | ~2,789 |
-| Flight to Freedom | 0.30% | ~2,789 |
-| A Fast Death | 0.30% | ~2,789 |
-| Lifting The Fog | 0.30% | ~2,789 |
-| Chorus of Chaos | 0.30% | ~2,789 |
-| One More Step | 0.30% | ~2,789 |
-| MU/TH/UR Dearest | 0.30% | ~2,789 |
+| Agonizing Escape | 0.50% | ~4,650 |
+| Backdoor Escape | 0.50% | ~4,650 |
+| I've got your back | 0.50% | ~4,650 |
+| Perfect Killing | 0.50% | ~4,650 |
+| Risk it all | 0.50% | ~4,650 |
+| Wounded Healer | 0.50% | ~4,650 |
+| Close Shave | 0.50% | ~4,650 |
+| Apt Killer | 0.40% | ~3,720 |
+| Vulture | 0.40% | ~3,720 |
+| II | 0.40% | ~3,720 |
+| With Scars to Show | 0.40% | ~3,720 |
+| Second Act | 0.40% | ~3,720 |
+| Blood on your hands | 0.30% | ~2,790 |
+| Escape Artist | 0.30% | ~2,790 |
+| Made it out alive! | 0.30% | ~2,790 |
+| III | 0.30% | ~2,790 |
+| III-50 | 0.30% | ~2,790 |
+| Shock Therapy | 0.30% | ~2,790 |
+| All Aboard | 0.30% | ~2,790 |
+| Item of Obsession | 0.30% | ~2,790 |
+| House of Pain | 0.30% | ~2,790 |
+| Holiday Get-Together | 0.30% | ~2,790 |
+| Near-Death Experience | 0.30% | ~2,790 |
+| Cherish your Life | 0.30% | ~2,790 |
+| Unforgettable Getaway | 0.30% | ~2,790 |
+| Cutting Out | 0.30% | ~2,790 |
+| Outrun Evil | 0.30% | ~2,790 |
+| First to the Punch | 0.30% | ~2,790 |
+| Operation: Survival | 0.30% | ~2,790 |
+| Old West Oasis | 0.30% | ~2,790 |
+| Classy Act | 0.30% | ~2,790 |
+| Every Last Drop | 0.30% | ~2,790 |
+| Raccoon City Recruit | 0.30% | ~2,790 |
+| Flight to Freedom | 0.30% | ~2,790 |
+| A Fast Death | 0.30% | ~2,790 |
+| Lifting The Fog | 0.30% | ~2,790 |
+| Chorus of Chaos | 0.30% | ~2,790 |
+| One More Step | 0.30% | ~2,790 |
+| MU/TH/UR Dearest | 0.30% | ~2,790 |
 | A bite for the Entity | 0.20% | ~1,860 |
 | Blood on your face | 0.20% | ~1,860 |
 | Jump Scares | 0.20% | ~1,860 |
 | Gifts for the Fog | 0.20% | ~1,860 |
 | Hemophobia | 0.20% | ~1,860 |
-| Shock Therapy | 0.20% | ~1,860 |
 | Deep Cleansing | 0.20% | ~1,860 |
 | Leapfrog | 0.20% | ~1,860 |
 | Cottage Owner | 0.20% | ~1,860 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 929,831 (Ranked 14)  
+Progressed: 929,902 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,7 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
-| 2023-10-09 | 929,831 | 49 |
+| 2023-10-09 | 929,902 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,754 (Ranked 13)  

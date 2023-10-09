@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -1626,17 +1626,17 @@
       "ID": "PORTRAIT_5",
       "SetID": "2fge00i",
       "Name": "Portrait 5",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "PORTRAIT_6",
       "SetID": "2fge00i",
       "Name": "Portrait 6",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "PORTRAIT_7",
@@ -1673,8 +1673,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:38.4778646+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:35.2575221+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.2635957+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:57:12.2671981+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:38.4778837+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:57:11.038031+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:35.2575469+00:00"
 }

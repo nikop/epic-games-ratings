@@ -13,21 +13,21 @@ Rating: 4.50 (Ranked 574)
 | Fully Upgraded | 1.00% | ~263 |
 | Solo Capture | 1.00% | ~263 |
 | Swift Rift Removers | 1.00% | ~263 |
-| Teamwork | 1.00% | ~263 |
 | Vaporous Expansion | 1.00% | ~263 |
 | Clutch Capture | 0.90% | ~237 |
 | Cultured | 0.90% | ~237 |
+| Teamwork | 0.90% | ~237 |
 | There you are! | 0.90% | ~237 |
 | Whoopsie | 0.90% | ~237 |
 | Animated | 0.80% | ~211 |
 | Back Off | 0.80% | ~211 |
 | Daily Dose | 0.80% | ~211 |
 | Icing on the Cake | 0.80% | ~211 |
-| Ectoplasmic Entity | 0.70% | ~184 |
 | Ghostbuster In Training | 0.70% | ~184 |
 | Right back at ya | 0.70% | ~184 |
 | Terrifying | 0.70% | ~184 |
 | Welcome to the Crew | 0.70% | ~184 |
+| Ectoplasmic Entity | 0.60% | ~158 |
 | Side Hustle | 0.60% | ~158 |
 | Skilled | 0.60% | ~158 |
 | Summoner | 0.60% | ~158 |
@@ -36,13 +36,13 @@ Rating: 4.50 (Ranked 574)
 | We have the best insurance | 0.40% | ~105 |
 | Diabolical | 0.40% | ~105 |
 | Pesky Jerks | 0.40% | ~105 |
-| Reckless | 0.40% | ~105 |
 | Rift Destroyer | 0.40% | ~105 |
 | Seasoned | 0.40% | ~105 |
 | Tobin's Prodigy | 0.40% | ~105 |
 | Collector | 0.30% | ~79 |
 | Escape Artist | 0.30% | ~79 |
 | Fragile Panes | 0.30% | ~79 |
+| Reckless | 0.30% | ~79 |
 | Rivalry | 0.30% | ~79 |
 | Liability | 0.20% | ~53 |
 | Surprise! | 0.20% | ~53 |

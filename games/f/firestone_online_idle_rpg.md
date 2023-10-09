@@ -5,19 +5,19 @@ Rating: 4.06 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,867 |
-| World Map | 79.00% | ~1,586 |
+| Victor | 93.00% | ~1,868 |
+| World Map | 79.00% | ~1,587 |
 | Temple of Eternals | 57.00% | ~1,145 |
-| Prestigious | 54.00% | ~1,084 |
-| Fellowship Power | 42.00% | ~843 |
+| Prestigious | 54.00% | ~1,085 |
+| Fellowship Power | 42.00% | ~844 |
 | Guild Power | 26.00% | ~522 |
 | Prestigious x10 | 23.00% | ~462 |
 | The game is on | 21.00% | ~422 |
 | Exotic Merchant | 20.00% | ~402 |
-| Dragon Clicker | 18.00% | ~361 |
-| Full Party | 17.00% | ~341 |
-| Inspection | 17.00% | ~341 |
-| Miner Clicker | 17.00% | ~341 |
+| Dragon Clicker | 18.00% | ~362 |
+| Full Party | 17.00% | ~342 |
+| Inspection | 17.00% | ~342 |
+| Miner Clicker | 17.00% | ~342 |
 | Dragon Master | 16.00% | ~321 |
 | Enlightenment | 16.00% | ~321 |
 | Lieutenant | 16.00% | ~321 |
@@ -28,13 +28,13 @@ Rating: 4.06 (Ranked 946)
 | Superior | 14.00% | ~281 |
 | The Unstoppable | 14.00% | ~281 |
 | Scientist | 13.00% | ~261 |
-| Hunter | 12.00% | ~241 |
 | The power of Awakening | 12.00% | ~241 |
 | Challenger | 11.00% | ~221 |
 | Daily Quest Completionist | 11.00% | ~221 |
 | Doing My Part | 11.00% | ~221 |
 | Four Leaf Clover | 11.00% | ~221 |
 | Frostfire Liberator | 11.00% | ~221 |
+| Hunter | 11.00% | ~221 |
 | Mastery | 11.00% | ~221 |
 | Moving Up The Ladder | 11.00% | ~221 |
 | Relic Of The Past | 11.00% | ~221 |
@@ -55,9 +55,9 @@ Rating: 4.06 (Ranked 946)
 | Missions Dedication | 7.00% | ~141 |
 | Sailor | 7.00% | ~141 |
 | The Alchemist | 7.00% | ~141 |
-| Active Member | 6.00% | ~120 |
-| Ancient Knowledge | 6.00% | ~120 |
-| Legendary | 6.00% | ~120 |
+| Active Member | 6.00% | ~121 |
+| Ancient Knowledge | 6.00% | ~121 |
+| Legendary | 6.00% | ~121 |
 | Arena Challenger | 5.00% | ~100 |
 | Background Story | 5.00% | ~100 |
 | Ebony Jungle Liberator | 5.00% | ~100 |
@@ -81,8 +81,8 @@ Rating: 4.06 (Ranked 946)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,008 (Ranked 202)  
-Completed: 2 (0.10%) (Ranked 245)  
+Progressed: 2,009 (Ranked 202)  
+Completed: 2 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 2 (0.10%) (Ranked 245)
 | 2023-10-06 | 1,999 | 2 |
 | 2023-10-07 | 2,003 | 2 |
 | 2023-10-08 | 2,005 | 2 |
-| 2023-10-09 | 2,008 | 2 |
+| 2023-10-09 | 2,009 | 2 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 497)  
 Sum: 67 (Ranked 455)  

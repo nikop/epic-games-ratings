@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 628,
   "Ranking_Popularity": 147,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -934,10 +934,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 2523,
       "NumberOfAwardsMax": 1002
+    },
+    {
+      "Time": "2023-10-09T23:02:14.8251445+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 2532,
+      "NumberOfAwardsMax": 1002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2523,
+  "NumberOfAwards": 2532,
   "NumberOfAwardsMax": 1002,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1011,12 +1017,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 165
+      "Count": 174
     }
   ],
-  "EOS_Progressed": 7294,
+  "EOS_Progressed": 7295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3539,6 +3545,11 @@
       "Time": "2023-10-09T22:05:17.047772+00:00",
       "NumProgressed": 7294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T23:05:18.9326838+00:00",
+      "NumProgressed": 7295,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3567,7 +3578,7 @@
       "Name": "A New Timeline",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach04",
@@ -3679,7 +3690,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "ach18",
@@ -3735,7 +3746,7 @@
       "Name": "Ultimate Power",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "ach25",
@@ -3791,7 +3802,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "ach32",
@@ -3847,7 +3858,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach39",
@@ -3887,7 +3898,7 @@
       "Name": "Working Overtime",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach44",
@@ -3950,16 +3961,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7294,
+      "Progressed": 7295,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-09T22:02:12.1771591+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:17.0477715+00:00",
+  "LastChanged": "2023-10-09T23:02:14.8251442+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:18.9326831+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:02:12.1771596+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:17.0478273+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:02:14.825145+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:18.9327442+00:00"
 }

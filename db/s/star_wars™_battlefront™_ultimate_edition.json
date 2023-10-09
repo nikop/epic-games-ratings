@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -1701,9 +1701,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_38",
@@ -1980,8 +1980,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:06:27.8734157+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:06:23.5100498+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:02:16.3051526+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:06:27.8734767+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:02:19.3306913+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:06:23.5101263+00:00"
 }

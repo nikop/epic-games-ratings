@@ -4,8 +4,8 @@
   "ProductSlug": "get-together-176532",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -213,6 +213,11 @@
       "Time": "2023-10-01T19:08:29.6463528+00:00",
       "NumProgressed": 76,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T23:04:50.0885669+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -222,7 +227,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 100,
       "UsersEstimate": 48
     },
@@ -230,7 +235,7 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 100,
       "UsersEstimate": 64
     },
@@ -246,7 +251,7 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 15
     },
@@ -270,7 +275,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -294,7 +299,7 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 100,
       "UsersEstimate": 72
     }
@@ -303,7 +308,7 @@
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
@@ -311,8 +316,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:04:48.1024847+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:04:50.0885663+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:32.2693397+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:59:34.3518584+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:04:48.1024942+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:59:31.0730539+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:04:50.0885788+00:00"
 }

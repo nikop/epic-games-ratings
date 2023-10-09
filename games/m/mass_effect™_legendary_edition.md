@@ -101,7 +101,7 @@
 | Last Witness | 17.00% | ~107 |
 | Throw Mastery | 16.00% | ~101 |
 | Well Connected | 16.00% | ~101 |
-| Master and Commander | 15.00% | ~95 |
+| Master and Commander | 16.00% | ~101 |
 | Executioner | 14.00% | ~88 |
 | Mail Slot | 13.00% | ~82 |
 | Patriot | 13.00% | ~82 |

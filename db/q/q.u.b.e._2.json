@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -2711,6 +2711,11 @@
       "Time": "2023-10-09T20:07:10.0653608+00:00",
       "NumProgressed": 722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-09T23:05:49.4621177+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2859,7 +2864,7 @@
       "Name": "Infinity Loop",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_HUB1",
@@ -2875,15 +2880,15 @@
       "Name": "Path to Salvation",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_PEAK",
@@ -2915,7 +2920,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_S4",
@@ -2947,22 +2952,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:52.8625462+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:49.4621166+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:58:06.34041+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:52.8625727+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:58:04.9984809+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:49.4621551+00:00"
 }

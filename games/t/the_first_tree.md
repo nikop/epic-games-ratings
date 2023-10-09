@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Two Worlds | 77.00% | ~28,160 |
-| 50 Stars | 26.00% | ~9,508 |
+| Two Worlds | 77.00% | ~28,161 |
+| 50 Stars | 26.00% | ~9,509 |
 | Hare Today | 25.00% | ~9,143 |
 | The Way Forward | 17.00% | ~6,217 |
-| Joseph | 9.00% | ~3,291 |
+| Joseph | 9.00% | ~3,292 |
 | 100 Stars | 5.00% | ~1,829 |
 | Hummed of Mystery | 4.00% | ~1,463 |
 | Excavator | 2.00% | ~731 |
@@ -18,10 +18,10 @@ Number of Ratings: 56  (23.09.2022)
 | Easter Bunny | 0.50% | ~183 |
 | 150 Stars | 0.40% | ~146 |
 | No Stone Left Unturned | 0.40% | ~146 |
-| Completionist | 0.40% | ~146 |
 | Deja Vu | 0.40% | ~146 |
+| Completionist | 0.30% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,571 (Ranked 113)  
+Progressed: 36,573 (Ranked 113)  
 Completed: 113 (0.31%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 113 (0.31%) (Ranked 199)
 | 2023-10-06 | 36,433 | 112 |
 | 2023-10-07 | 36,484 | 112 |
 | 2023-10-08 | 36,536 | 112 |
-| 2023-10-09 | 36,571 | 113 |
+| 2023-10-09 | 36,573 | 113 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

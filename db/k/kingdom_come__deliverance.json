@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7672,10 +7672,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27947,
       "NumberOfAwardsMax": 7506
+    },
+    {
+      "Time": "2023-10-09T22:59:15.2579835+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27948,
+      "NumberOfAwardsMax": 7506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27947,
+  "NumberOfAwards": 27948,
   "NumberOfAwardsMax": 7506,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7731,7 +7737,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1704
+      "Count": 1705
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -7758,9 +7764,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804281,
+  "EOS_Progressed": 804284,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27008,6 +27014,11 @@
       "Time": "2023-10-09T22:05:35.1655878+00:00",
       "NumProgressed": 804281,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T23:05:32.0373709+00:00",
+      "NumProgressed": 804284,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -27051,7 +27062,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168899
+      "UsersEstimate": 168900
     },
     {
       "ID": "BadGirl",
@@ -27083,7 +27094,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24128
+      "UsersEstimate": 24129
     },
     {
       "ID": "Bastard",
@@ -27099,7 +27110,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257370
+      "UsersEstimate": 257371
     },
     {
       "ID": "Bookworm",
@@ -27107,7 +27118,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120642
+      "UsersEstimate": 120643
     },
     {
       "ID": "Buddy",
@@ -27131,7 +27142,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201070
+      "UsersEstimate": 201071
     },
     {
       "ID": "Chivalrous",
@@ -27171,7 +27182,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24128
+      "UsersEstimate": 24129
     },
     {
       "ID": "Convict",
@@ -27235,7 +27246,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120642
+      "UsersEstimate": 120643
     },
     {
       "ID": "Freud",
@@ -27291,7 +27302,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24128
+      "UsersEstimate": 24129
     },
     {
       "ID": "Haggler",
@@ -27299,7 +27310,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72385
+      "UsersEstimate": 72386
     },
     {
       "ID": "HardcoreHenry",
@@ -27363,7 +27374,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24128
+      "UsersEstimate": 24129
     },
     {
       "ID": "Knightrider",
@@ -27499,7 +27510,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160856
+      "UsersEstimate": 160857
     },
     {
       "ID": "RevenantOfLedechko",
@@ -27539,7 +27550,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160856
+      "UsersEstimate": 160857
     },
     {
       "ID": "SerialKiller",
@@ -27674,15 +27685,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804281,
+      "Progressed": 804284,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-09T20:59:20.3990933+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:35.1655872+00:00",
+  "LastChanged": "2023-10-09T22:59:15.2579834+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:32.0373701+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:59:18.9934418+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:35.165755+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:59:15.257984+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:32.0375566+00:00"
 }

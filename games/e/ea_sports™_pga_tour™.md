@@ -14,7 +14,7 @@
 | Perfect Round | 50.00% | ~183 |
 | Competitor's Spirit | 42.00% | ~154 |
 | The Strongest Field in Golf | 35.00% | ~128 |
-| Ace in the Hole | 31.00% | ~113 |
+| Ace in the Hole | 32.00% | ~117 |
 | From Many, One | 29.00% | ~106 |
 | A Tradition Unlike Any Other | 26.00% | ~95 |
 | A Passion for Excellence | 26.00% | ~95 |

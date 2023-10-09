@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225161,
+  "EOS_Progressed": 225169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1861,
+  "EOS_NewPlayers": 1857,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9220,6 +9220,11 @@
       "Time": "2023-10-09T22:02:22.091685+00:00",
       "NumProgressed": 225161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T23:03:06.6499294+00:00",
+      "NumProgressed": 225169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -9288,7 +9293,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47284
+      "UsersEstimate": 47285
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -9296,7 +9301,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20264
+      "UsersEstimate": 20265
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -9312,7 +9317,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9006
+      "UsersEstimate": 9007
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -9416,7 +9421,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29271
+      "UsersEstimate": 29272
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -9424,7 +9429,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15761
+      "UsersEstimate": 15762
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -9488,7 +9493,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56290
+      "UsersEstimate": 56292
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -9496,14 +9501,14 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 225161,
+      "Progressed": 225169,
       "Completed": 0
     }
   ],
@@ -9511,8 +9516,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-08T17:00:23.5274986+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:02:22.0916846+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:03:06.6499279+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:20.1324692+00:00",
-  "LastUpdate_Ratings": "2023-10-09T21:57:26.3150442+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:02:22.091764+00:00"
+  "LastUpdate_Ratings": "2023-10-09T22:57:25.9609335+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:03:06.6500199+00:00"
 }

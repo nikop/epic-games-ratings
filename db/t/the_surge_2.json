@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2081,
+  "EOS_Progressed": 2082,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2686,6 +2686,11 @@
       "Time": "2023-10-08T11:08:13.1468714+00:00",
       "NumProgressed": 2081,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-09T23:08:11.7360292+00:00",
+      "NumProgressed": 2082,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2697,7 +2702,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHV_02",
@@ -2705,7 +2710,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "ACHV_03",
@@ -2721,7 +2726,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACHV_05",
@@ -2745,7 +2750,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHV_08",
@@ -2825,7 +2830,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHV_18",
@@ -2897,7 +2902,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACHV_27",
@@ -2905,7 +2910,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACHV_28",
@@ -2913,7 +2918,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHV_29",
@@ -2969,7 +2974,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACHV_36",
@@ -3001,7 +3006,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACHV_40",
@@ -3152,7 +3157,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2081,
+      "Progressed": 2082,
       "Completed": 12
     }
   ],
@@ -3160,8 +3165,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:08:07.195552+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:08:11.7360284+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:22.4121657+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:00:38.7649732+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:08:07.1956049+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:00:32.439664+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:08:11.7360971+00:00"
 }

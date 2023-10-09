@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,841 |
-| A thief's beginning | 10.00% | ~20,701 |
-| Thorough | 10.00% | ~20,701 |
+| Genin | 12.00% | ~24,842 |
+| A thief's beginning | 10.00% | ~20,702 |
+| Thorough | 10.00% | ~20,702 |
 | Disguised | 8.00% | ~16,561 |
 | Rescue Takuma | 8.00% | ~16,561 |
 | Rollin' | 8.00% | ~16,561 |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,351 |
 | Prisoners | 5.00% | ~10,351 |
 | Too Early | 5.00% | ~10,351 |
-| Gear up | 4.00% | ~8,280 |
-| Happy little accidents | 4.00% | ~8,280 |
-| Still Rollin' | 4.00% | ~8,280 |
+| Gear up | 4.00% | ~8,281 |
+| Happy little accidents | 4.00% | ~8,281 |
+| Still Rollin' | 4.00% | ~8,281 |
 | Noboru | 3.00% | ~6,210 |
 | Stoned | 3.00% | ~6,210 |
 | The Old Way | 3.00% | ~6,210 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~207 |
 | Release the Kraken | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,012 (Ranked 64)  
+Progressed: 207,016 (Ranked 64)  
 Completed: 90 (0.04%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 90 (0.04%) (Ranked 273)
 | 2023-10-06 | 206,402 | 89 |
 | 2023-10-07 | 206,614 | 90 |
 | 2023-10-08 | 206,841 | 90 |
-| 2023-10-09 | 207,012 | 90 |
+| 2023-10-09 | 207,016 | 90 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 195)  
 Sum: 4,788 (Ranked 138)  

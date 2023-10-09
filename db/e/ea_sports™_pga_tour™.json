@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 366,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.19,
   "EosHistory": [
@@ -1233,9 +1233,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
@@ -1247,8 +1247,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-09T22:05:55.8344873+00:00",
+  "LastChanged_Achievements": "2023-10-09T23:05:52.4332896+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:15.0584503+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:00:20.6867154+00:00",
-  "LastUpdate_Achievements": "2023-10-09T22:05:55.8345037+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:00:13.8238721+00:00",
+  "LastUpdate_Achievements": "2023-10-09T23:05:52.4333122+00:00"
 }
