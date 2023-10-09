@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2842,9 +2842,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 78464,
+  "EOS_Progressed": 78465,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -21782,6 +21782,11 @@
       "Time": "2023-10-08T23:06:43.0714243+00:00",
       "NumProgressed": 78464,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-10-09T00:06:08.6505584+00:00",
+      "NumProgressed": 78465,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 30,
@@ -21889,7 +21894,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25108
+      "UsersEstimate": 25109
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -21921,7 +21926,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 18831
+      "UsersEstimate": 18832
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -21945,7 +21950,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 16477
+      "UsersEstimate": 16478
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -22032,15 +22037,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 78464,
+      "Progressed": 78465,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-08T16:02:07.9018177+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:06:43.0714238+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:06:08.650558+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0539094+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:02:23.0903646+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:06:43.0715516+00:00"
+  "LastUpdate_Ratings": "2023-10-09T00:03:12.8592241+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:06:08.6506918+00:00"
 }

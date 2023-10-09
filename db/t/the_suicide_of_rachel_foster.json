@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
@@ -2894,6 +2894,11 @@
       "Time": "2023-10-08T18:06:46.0862988+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-09T00:06:13.3583741+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -2945,7 +2950,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_FineGioco",
@@ -2953,7 +2958,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2961,7 +2966,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2969,7 +2974,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2992,15 +2997,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1534,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:06:49.1439062+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:06:13.3583734+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:50.9443853+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:00:11.8937899+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:06:49.1439325+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:59:40.8026164+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:06:13.3583984+00:00"
 }

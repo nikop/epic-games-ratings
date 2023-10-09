@@ -22,10 +22,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.90% | ~131 |
 | Pioneer | 0.90% | ~131 |
 | Oracle | 0.90% | ~131 |
+| Judaism | 0.90% | ~131 |
 | Trade Caravan | 0.90% | ~131 |
 | Glorious | 0.80% | ~116 |
 | Just | 0.80% | ~116 |
-| Judaism | 0.80% | ~116 |
 | Babylonian Paganism | 0.80% | ~116 |
 | Naming Landmarks | 0.80% | ~116 |
 | Ambitious | 0.70% | ~102 |
@@ -39,6 +39,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.70% | ~102 |
 | Christianity | 0.70% | ~102 |
 | Greek Paganism | 0.70% | ~102 |
+| Zoroastrianism | 0.70% | ~102 |
+| Brilliant | 0.60% | ~87 |
 | Fountainhead | 0.60% | ~87 |
 | Magnificent | 0.60% | ~87 |
 | Wise | 0.60% | ~87 |
@@ -47,13 +49,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.60% | ~87 |
 | Carthaginian Paganism | 0.60% | ~87 |
 | Roman Paganism | 0.60% | ~87 |
-| Zoroastrianism | 0.60% | ~87 |
 | Kushite Pyramids | 0.60% | ~87 |
-| Brilliant | 0.50% | ~73 |
 | Great | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |
+| Just Difficulty | 0.50% | ~73 |
 | Artisans | 0.50% | ~73 |
 | Furious Family | 0.50% | ~73 |
+| Apadana | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
 | Musaeum | 0.50% | ~73 |
 | Necropolis | 0.50% | ~73 |
@@ -67,11 +69,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |
 | Valiant | 0.40% | ~58 |
-| Just Difficulty | 0.40% | ~58 |
 | Champions | 0.40% | ~58 |
 | Sages | 0.40% | ~58 |
 | Acropolis | 0.40% | ~58 |
-| Apadana | 0.40% | ~58 |
+| Circus Maximus | 0.40% | ~58 |
 | Mausoleum | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.30% | ~44 |
 | Traders | 0.30% | ~44 |
 | Hittite Iron | 0.30% | ~44 |
-| Circus Maximus | 0.30% | ~44 |
 | Hagia Sophia | 0.30% | ~44 |
 | Temple of Solomon | 0.30% | ~44 |
 | Pantheon | 0.30% | ~44 |
@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
+| Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Capable | 0.20% | ~29 |
 | Devout | 0.20% | ~29 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.10% | ~15 |
 | Future Regicide | 0.10% | ~15 |
 | Acropolis in Athenai | 0.10% | ~15 |
-| Ishtar Gate in Babylon | 0.10% | ~15 |
 | Barbarian Horde | 0.10% | ~15 |
 | United Against The Horde | 0.10% | ~15 |
 | Battle of Opis | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,534 (Ranked 134)  
+Progressed: 14,536 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,6 +521,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-06 | 14,441 | 5 |
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
+| 2023-10-09 | 14,536 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

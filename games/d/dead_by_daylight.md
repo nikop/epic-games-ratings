@@ -6,14 +6,14 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 1.00% | ~9,280 |
-| Zealous | 0.90% | ~8,352 |
-| Skillful | 0.90% | ~8,352 |
+| It wakes | 1.00% | ~9,281 |
+| Zealous | 0.90% | ~8,353 |
+| Skillful | 0.90% | ~8,353 |
+| Not half bad | 0.80% | ~7,424 |
+| Make Some Noise | 0.80% | ~7,424 |
 | Handyman | 0.70% | ~6,496 |
-| Not half bad | 0.70% | ~6,496 |
 | Apt Survivor | 0.70% | ~6,496 |
 | Survival Treasures | 0.70% | ~6,496 |
-| Make Some Noise | 0.70% | ~6,496 |
 | No one left behind | 0.60% | ~5,568 |
 | Medic | 0.60% | ~5,568 |
 | Nerves of steel | 0.60% | ~5,568 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~928 |
 | Adept Ripley | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927,984 (Ranked 14)  
+Progressed: 928,061 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -408,6 +408,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-06 | 922,863 | 49 |
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
+| 2023-10-09 | 928,061 | 49 |
 ## Awards
 Max (Diverse Characters): 33,596  (Ranked 15)  
 Sum: 260,474 (Ranked 13)  

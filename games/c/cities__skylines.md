@@ -6,34 +6,34 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~776,455 |
-| Green Energy | 60.00% | ~656,159 |
-| Foggy Weather | 59.00% | ~645,223 |
-| Singing In The- | 59.00% | ~645,223 |
-| Unpopular Mayor | 40.00% | ~437,440 |
-| Power at Your Fingertips | 33.00% | ~360,888 |
-| City Planner | 23.00% | ~251,528 |
-| Rolling in Dough | 20.00% | ~218,720 |
-| Does My Bum Look Big In This? | 17.00% | ~185,912 |
-| Climbing the Social Ladder | 16.00% | ~174,976 |
-| Safe City | 14.00% | ~153,104 |
-| Quay-King | 11.00% | ~120,296 |
-| Lawmaker | 10.00% | ~109,360 |
-| With Canals You Can! | 10.00% | ~109,360 |
-| Nomen Est Omen | 7.00% | ~76,552 |
-| Well Informed | 6.00% | ~65,616 |
-| Fire Watch | 5.00% | ~54,680 |
-| Greenest City | 4.00% | ~43,744 |
-| Heavenly City | 3.00% | ~32,808 |
-| Reporting! | 3.00% | ~32,808 |
-| SIMulated City | 3.00% | ~32,808 |
-| The Safest Town | 3.00% | ~32,808 |
-| Professional Dumper | 2.00% | ~21,872 |
+| Pioneer | 71.00% | ~776,487 |
+| Green Energy | 60.00% | ~656,186 |
+| Foggy Weather | 59.00% | ~645,249 |
+| Singing In The- | 59.00% | ~645,249 |
+| Unpopular Mayor | 40.00% | ~437,457 |
+| Power at Your Fingertips | 33.00% | ~360,902 |
+| City Planner | 23.00% | ~251,538 |
+| Rolling in Dough | 20.00% | ~218,729 |
+| Does My Bum Look Big In This? | 17.00% | ~185,919 |
+| Climbing the Social Ladder | 16.00% | ~174,983 |
+| Safe City | 14.00% | ~153,110 |
+| Quay-King | 11.00% | ~120,301 |
+| Lawmaker | 10.00% | ~109,364 |
+| With Canals You Can! | 10.00% | ~109,364 |
+| Nomen Est Omen | 7.00% | ~76,555 |
+| Well Informed | 6.00% | ~65,619 |
+| Fire Watch | 5.00% | ~54,682 |
+| Greenest City | 4.00% | ~43,746 |
+| Heavenly City | 3.00% | ~32,809 |
+| Reporting! | 3.00% | ~32,809 |
+| SIMulated City | 3.00% | ~32,809 |
+| The Safest Town | 3.00% | ~32,809 |
+| Professional Dumper | 2.00% | ~21,873 |
 | City in Motion | 1.00% | ~10,936 |
 | Earthloving City | 1.00% | ~10,936 |
 | Metropolis | 1.00% | ~10,936 |
 | Higher Education | 0.80% | ~8,749 |
-| Beam Me Up | 0.70% | ~7,655 |
+| Beam Me Up | 0.70% | ~7,656 |
 | Full Capacity | 0.60% | ~6,562 |
 | Terraformer | 0.60% | ~6,562 |
 | Decorator | 0.50% | ~5,468 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~5,468 |
 | The Waters of Our Lives | 0.50% | ~5,468 |
 | Twist and shout | 0.50% | ~5,468 |
-| Airfield Expertise | 0.40% | ~4,374 |
-| Airlifter | 0.40% | ~4,374 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,374 |
-| Happy Town | 0.40% | ~4,374 |
-| I Want It All | 0.40% | ~4,374 |
-| Just Tolling | 0.40% | ~4,374 |
-| Thunder and Lightning | 0.40% | ~4,374 |
+| Airfield Expertise | 0.40% | ~4,375 |
+| Airlifter | 0.40% | ~4,375 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,375 |
+| Happy Town | 0.40% | ~4,375 |
+| I Want It All | 0.40% | ~4,375 |
+| Just Tolling | 0.40% | ~4,375 |
+| Thunder and Lightning | 0.40% | ~4,375 |
 | A Huge Hadron | 0.30% | ~3,281 |
 | Airport Architect | 0.30% | ~3,281 |
 | Are They Naked In There? | 0.30% | ~3,281 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,094 |
 | Z00 | 0.10% | ~1,094 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,093,599 (Ranked 11)  
+Progressed: 1,093,643 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 10 (0.00%) (Ranked 310)
 | 2023-10-06 | 1,089,919 | 10 |
 | 2023-10-07 | 1,091,722 | 10 |
 | 2023-10-08 | 1,093,599 | 10 |
+| 2023-10-09 | 1,093,643 | 10 |
 ## Awards
 Max (Great for Beginners): 5,685  (Ranked 66)  
 Sum: 42,820 (Ranked 32)  

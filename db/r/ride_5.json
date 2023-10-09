@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2519,6 +2519,11 @@
       "Time": "2023-10-08T21:04:12.4533013+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T00:04:40.8093471+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2555,7 +2560,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -2603,7 +2608,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2707,7 +2712,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2729,9 +2734,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "c7hf6a4",
       "Name": "Evangelist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2739,7 +2744,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2819,7 +2824,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -2827,7 +2832,7 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -2883,7 +2888,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2922,14 +2927,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:04:50.5803562+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:04:40.8093468+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:59:07.3236665+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:04:50.5804143+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:58:52.7215032+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:04:40.8094019+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "L12_FINISH",
       "SetID": "6finf64",
       "Name": "Threatening Nature",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "L12_PERFECT",
@@ -403,9 +403,9 @@
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "L13_PERFECT",
@@ -419,9 +419,9 @@
       "ID": "L14_FINISH",
       "SetID": "6finf64",
       "Name": "The Clash",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "L14_PERFECT",
@@ -435,9 +435,9 @@
       "ID": "L15_FINISH",
       "SetID": "6finf64",
       "Name": "Bad Trip",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "L15_PERFECT",
@@ -756,8 +756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:03:49.2309099+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:03:55.1381822+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.6049888+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:58:02.7169068+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:03:49.2309656+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:58:03.078914+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:03:55.1382307+00:00"
 }

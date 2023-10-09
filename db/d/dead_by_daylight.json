@@ -11129,9 +11129,9 @@
       "Count": 25212
     }
   ],
-  "EOS_Progressed": 927984,
+  "EOS_Progressed": 928061,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13897,
+  "EOS_NewPlayers": 13907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30579,6 +30579,11 @@
       "Time": "2023-10-08T23:04:26.0205079+00:00",
       "NumProgressed": 927984,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-09T00:04:22.7434735+00:00",
+      "NumProgressed": 928061,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30758,7 +30763,7 @@
       "Name": "Zealous",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8352
+      "UsersEstimate": 8353
     },
     {
       "ID": "ACH_023",
@@ -30766,15 +30771,15 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "ACH_024",
       "SetID": "bdmlp8o",
       "Name": "Not half bad",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 7424
     },
     {
       "ID": "ACH_025",
@@ -30894,7 +30899,7 @@
       "Name": "Skillful",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8352
+      "UsersEstimate": 8353
     },
     {
       "ID": "ACH_040",
@@ -32356,9 +32361,9 @@
       "ID": "ACH_225",
       "SetID": "16jml5b",
       "Name": "Make Some Noise",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6496
+      "UsersEstimate": 7424
     },
     {
       "ID": "ACH_226",
@@ -32421,21 +32426,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 927984,
+      "Progressed": 928061,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 927984,
+      "Progressed": 928061,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-08T19:59:49.1371924+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:04:26.0205074+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:04:22.7434728+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:00:37.1246042+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:04:26.0212781+00:00"
+  "LastUpdate_Ratings": "2023-10-09T00:00:00.5451332+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:04:22.7442148+00:00"
 }

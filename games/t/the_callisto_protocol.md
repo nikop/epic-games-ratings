@@ -17,6 +17,7 @@ Rating: 4.19 (Ranked 889)
 | Workplace Hazard | 4.00% | ~640 |
 | Reforged | 4.00% | ~640 |
 | The Outer Way | 4.00% | ~640 |
+| If the SHU Fits... | 4.00% | ~640 |
 | Without A Paddle | 4.00% | ~640 |
 | In the Pipe, Five by Five | 4.00% | ~640 |
 | What Lies Beneath | 4.00% | ~640 |
@@ -26,7 +27,6 @@ Rating: 4.19 (Ranked 889)
 | It's Time | 4.00% | ~157 |
 | Giving Back | 3.00% | ~480 |
 | Terminated | 3.00% | ~480 |
-| If the SHU Fits... | 3.00% | ~480 |
 | Desperate Times | 3.00% | ~480 |
 | In Striking Distance | 2.00% | ~320 |
 | The Commonality | 2.00% | ~320 |

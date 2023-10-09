@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 41942,
+  "EOS_Progressed": 41948,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10196,6 +10196,11 @@
       "Time": "2023-10-08T23:08:19.4381868+00:00",
       "NumProgressed": 41942,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-09T00:08:23.424662+00:00",
+      "NumProgressed": 41948,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10255,7 +10260,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10630,22 +10635,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 41942,
+      "Progressed": 41948,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6779,
-      "Completed": 6779
+      "Progressed": 6785,
+      "Completed": 6785
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:08:19.4381863+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:08:23.4246615+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:58:48.3589956+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:08:19.4382964+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:58:38.9878479+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:08:23.4247693+00:00"
 }

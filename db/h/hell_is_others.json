@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1060,9 +1060,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 257092,
+  "EOS_Progressed": 257094,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18065,6 +18065,11 @@
       "Time": "2023-10-08T23:08:06.286536+00:00",
       "NumProgressed": 257092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-09T00:08:13.0472856+00:00",
+      "NumProgressed": 257094,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -18076,7 +18081,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17996
+      "UsersEstimate": 17997
     },
     {
       "ID": "Act2",
@@ -18364,7 +18369,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56560
+      "UsersEstimate": 56561
     },
     {
       "ID": "KillOthers2",
@@ -18434,9 +18439,9 @@
       "ID": "OldCoinCollected",
       "SetID": "3l9dm1h",
       "Name": "Number 1",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1800
+      "UsersEstimate": 2057
     },
     {
       "ID": "Patrimony1",
@@ -18523,7 +18528,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257092,
+      "Progressed": 257094,
       "Completed": 3
     }
   ],
@@ -18531,8 +18536,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-08T03:57:24.6530613+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:08:06.2865351+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:08:13.0472852+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:56:59.9696715+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:57:58.4157199+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:08:06.2866738+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:57:59.1251088+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:08:13.0474477+00:00"
 }

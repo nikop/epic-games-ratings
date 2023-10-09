@@ -2,7 +2,7 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 115,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -206,6 +206,11 @@
       "Time": "2023-09-09T00:05:56.9532343+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T00:05:50.4111163+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -215,7 +220,7 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 95,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -231,7 +236,7 @@
       "ID": "COLLECTOR_ITEMS",
       "SetID": "63n2m0e",
       "Name": "Arsenal",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -263,7 +268,7 @@
       "ID": "DEFLECTOR",
       "SetID": "63n2m0e",
       "Name": "Deflector",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -271,7 +276,7 @@
       "ID": "DOOMSKULL",
       "SetID": "63n2m0e",
       "Name": "Doom Skull",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -303,7 +308,7 @@
       "ID": "NG",
       "SetID": "63n2m0e",
       "Name": "New Game\u002B\u002B",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -311,7 +316,7 @@
       "ID": "PALACE_BOSS",
       "SetID": "63n2m0e",
       "Name": "Deanimation",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -327,7 +332,7 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -367,7 +372,7 @@
       "ID": "TRAPPER",
       "SetID": "63n2m0e",
       "Name": "Trapper",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -384,14 +389,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:06:19.734335+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:05:50.4111158+00:00",
   "LastUpdate_AppInfo": "2023-10-04T08:57:21.6718934+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:59:50.2013979+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:06:19.7343535+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:59:25.4495657+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:05:50.4111314+00:00"
 }

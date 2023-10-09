@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -18,10 +18,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 267,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.74,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 7.12,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1247,6 +1247,11 @@
       "Time": "2023-10-08T20:05:51.2984505+00:00",
       "NumProgressed": 267,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-09T00:06:03.372984+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1256,17 +1261,17 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "META_ALL_LINK",
@@ -1288,9 +1293,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "META_HALF_LINK",
@@ -1304,9 +1309,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1336,9 +1341,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1384,9 +1389,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1432,9 +1437,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_N4",
@@ -1458,13 +1463,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 267,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:06:36.2921129+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:06:03.3729835+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:59:12.704017+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:06:36.2921398+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:58:56.6350971+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:06:03.3730105+00:00"
 }

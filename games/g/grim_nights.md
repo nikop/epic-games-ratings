@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting somewhere | 60.00% | ~28 |
-| Poor things... | 55.00% | ~26 |
+| Poor things... | 57.00% | ~27 |
 | So far so good... | 47.00% | ~22 |
 | Slay it! | 36.00% | ~17 |
 | Top notch! | 36.00% | ~17 |

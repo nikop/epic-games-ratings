@@ -10,6 +10,7 @@ Rating: 4.56 (Ranked 471)
 | The Pit and the Pirates | 3.00% | ~413 |
 | Bosmang | 3.00% | ~413 |
 | Data Archivist | 2.00% | ~275 |
+| Spore Taste | 2.00% | ~275 |
 | Martian Music | 2.00% | ~275 |
 | Drone Dodger | 2.00% | ~275 |
 | Heal Thy Medic | 2.00% | ~275 |
@@ -19,15 +20,14 @@ Rating: 4.56 (Ranked 471)
 | Celebrations are in Order | 2.00% | ~275 |
 | Impossible Objects | 2.00% | ~275 |
 | Stogie for Fogey | 1.00% | ~138 |
-| Spore Taste | 1.00% | ~138 |
 | Miraculous Maya | 1.00% | ~138 |
 | Thorston Mayer | 0.90% | ~124 |
 | Doctor Approved | 0.80% | ~110 |
 | Bottoms up! | 0.80% | ~110 |
 | No Belter Left Behind | 0.60% | ~83 |
+| Data Logger | 0.50% | ~69 |
 | Brother's Reaper | 0.50% | ~69 |
 | Data Master | 0.50% | ~69 |
-| Data Logger | 0.40% | ~55 |
 | Debris Spree | 0.30% | ~41 |
 | Data Recoverer | 0.30% | ~41 |
 | Urshanabi Hoarder | 0.20% | ~28 |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 471)
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,771 (Ranked 135)  
+Progressed: 13,772 (Ranked 135)  
 Completed: 18 (0.13%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 18 (0.13%) (Ranked 233)
 | 2023-10-06 | 13,653 | 13 |
 | 2023-10-07 | 13,709 | 17 |
 | 2023-10-08 | 13,771 | 18 |
+| 2023-10-09 | 13,772 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

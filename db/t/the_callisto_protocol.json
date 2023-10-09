@@ -7550,9 +7550,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 640
     },
     {
       "ID": "STORY_HABITAT",
@@ -7741,8 +7741,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-08T14:02:05.2504973+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:04:46.04568+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:04:37.4966661+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:42.1590556+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:57:01.7384733+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:04:46.0457496+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:57:17.6700128+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:04:37.4967334+00:00"
 }

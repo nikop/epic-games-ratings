@@ -745,7 +745,7 @@
   ],
   "EOS_Progressed": 3944,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7021,9 +7021,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 868
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -7125,8 +7125,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:05:45.5257019+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:05:23.9790166+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-08T22:58:46.7507133+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:05:45.5257623+00:00"
+  "LastUpdate_Ratings": "2023-10-08T23:58:37.8007859+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:05:23.9790705+00:00"
 }

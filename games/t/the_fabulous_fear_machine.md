@@ -27,8 +27,8 @@
 | Hate is... addictive | 19.00% | ~4 |
 | The barbarian invasions | 19.00% | ~4 |
 | Welcome to Hellville | 19.00% | ~4 |
+| You had one wish left | 14.00% | ~3 |
 | The bully | 14.00% | ~3 |
-| You had one wish left | 10.00% | ~2 |
 | Pulp! True Adventures | 10.00% | ~2 |
 | Pulp! The Beyond | 10.00% | ~2 |
 | Vaccine fans | 10.00% | ~2 |

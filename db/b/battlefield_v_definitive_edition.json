@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12535,
+  "EOS_Progressed": 12538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2033,
+  "EOS_NewPlayers": 2030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2175,6 +2175,11 @@
       "Time": "2023-10-08T23:09:08.7040465+00:00",
       "NumProgressed": 12535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-09T00:09:16.1081666+00:00",
+      "NumProgressed": 12538,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -2187,7 +2192,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "achievement_10",
@@ -2195,7 +2200,7 @@
       "Name": "Globetrotter",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "achievement_11",
@@ -2219,7 +2224,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 9276
+      "UsersEstimate": 9278
     },
     {
       "ID": "achievement_14",
@@ -2227,7 +2232,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5266
     },
     {
       "ID": "achievement_15",
@@ -2235,7 +2240,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "achievement_16",
@@ -2243,7 +2248,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 9151
+      "UsersEstimate": 9153
     },
     {
       "ID": "achievement_17",
@@ -2259,7 +2264,7 @@
       "Name": "Eager Beaver",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "achievement_19",
@@ -2267,7 +2272,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "achievement_2",
@@ -2283,7 +2288,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 11658
+      "UsersEstimate": 11660
     },
     {
       "ID": "achievement_21",
@@ -2291,7 +2296,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8777
     },
     {
       "ID": "achievement_3",
@@ -2307,7 +2312,7 @@
       "Name": "Lovely",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4638
+      "UsersEstimate": 4639
     },
     {
       "ID": "achievement_5",
@@ -2315,7 +2320,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "achievement_6",
@@ -2331,7 +2336,7 @@
       "Name": "Off-hand",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_8",
@@ -2339,7 +2344,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 9025
+      "UsersEstimate": 9027
     },
     {
       "ID": "achievement_9",
@@ -2354,13 +2359,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 12535,
+      "Progressed": 12538,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:09:08.7040459+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:09:16.1081659+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:34.5342785+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:01:30.1495775+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:09:08.7040769+00:00"
+  "LastUpdate_Ratings": "2023-10-09T00:00:38.2278341+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:09:16.1082112+00:00"
 }

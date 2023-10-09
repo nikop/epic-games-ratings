@@ -440,9 +440,9 @@
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "cheat",
@@ -488,9 +488,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "making_a_murderer",
@@ -561,8 +561,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-10-08T23:05:03.9771118+00:00",
+  "LastChanged_Achievements": "2023-10-09T00:04:51.1170871+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:24.5127067+00:00",
-  "LastUpdate_Ratings": "2023-10-08T23:00:57.3635049+00:00",
-  "LastUpdate_Achievements": "2023-10-08T23:05:03.9771254+00:00"
+  "LastUpdate_Ratings": "2023-10-09T00:00:14.7133378+00:00",
+  "LastUpdate_Achievements": "2023-10-09T00:04:51.1171017+00:00"
 }
