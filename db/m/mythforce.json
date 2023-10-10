@@ -743,7 +743,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3980,
+  "EOS_Progressed": 3982,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -7028,6 +7028,11 @@
       "Time": "2023-10-10T10:06:19.7195182+00:00",
       "NumProgressed": 3980,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T12:07:14.942548+00:00",
+      "NumProgressed": 3982,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7064,7 +7069,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -7080,7 +7085,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -7088,7 +7093,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -7223,15 +7228,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3980,
+      "Progressed": 3982,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:06:28.3561748+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:07:14.9425474+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:59:47.5639991+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:06:28.3562166+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:00:13.5417014+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:07:14.9426065+00:00"
 }

@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16803,
+  "EOS_Progressed": 16804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5578,6 +5578,11 @@
       "Time": "2023-10-09T20:08:13.2687687+00:00",
       "NumProgressed": 16803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T12:09:10.9308927+00:00",
+      "NumProgressed": 16804,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5589,7 +5594,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15963
+      "UsersEstimate": 15964
     },
     {
       "ID": "ACH001",
@@ -5621,7 +5626,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8233
+      "UsersEstimate": 8234
     },
     {
       "ID": "ACH0013",
@@ -5685,7 +5690,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "ACH0020",
@@ -5757,7 +5762,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH006",
@@ -5765,7 +5770,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6889
+      "UsersEstimate": 6890
     },
     {
       "ID": "ACH007",
@@ -5796,7 +5801,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16803,
+      "Progressed": 16804,
       "Completed": 0
     }
   ],
@@ -5804,8 +5809,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:08:15.0815553+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:09:10.9308921+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:03:16.5640439+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:08:15.0815952+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:03:10.0882639+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:09:10.9309836+00:00"
 }

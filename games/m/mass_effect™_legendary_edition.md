@@ -34,7 +34,7 @@
 | Head Hunter | 42.00% | ~268 |
 | Veteran | 41.00% | ~261 |
 | Operative | 41.00% | ~261 |
-| Scholar | 40.00% | ~255 |
+| Scholar | 41.00% | ~261 |
 | Power Full | 39.00% | ~248 |
 | The Professor | 37.00% | ~236 |
 | The Archangel | 36.00% | ~229 |
@@ -59,10 +59,10 @@
 | A Personal Touch | 30.00% | ~191 |
 | Catharsis | 30.00% | ~191 |
 | Fade Away | 30.00% | ~191 |
+| Agent | 30.00% | ~191 |
 | Heart of Darkness | 30.00% | ~191 |
 | Cat's in the Cradle | 29.00% | ~185 |
 | Treason | 29.00% | ~185 |
-| Agent | 29.00% | ~185 |
 | Digital Exorcist | 29.00% | ~185 |
 | Driven | 29.00% | ~185 |
 | Focused | 28.00% | ~178 |
@@ -82,10 +82,10 @@
 | Giant Killer | 23.00% | ~147 |
 | World Shaker | 23.00% | ~147 |
 | Tunnel Rat | 22.00% | ~140 |
+| Savior | 21.00% | ~134 |
 | Paramour II | 21.00% | ~134 |
 | Pathfinder | 21.00% | ~134 |
 | Arbiter | 21.00% | ~134 |
-| Savior | 20.00% | ~127 |
 | Party Crasher | 20.00% | ~127 |
 | Problem Solver | 20.00% | ~127 |
 | Lost and Found | 20.00% | ~127 |

@@ -11109,10 +11109,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 260803,
       "NumberOfAwardsMax": 33667
+    },
+    {
+      "Time": "2023-10-10T12:02:22.282032+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 260831,
+      "NumberOfAwardsMax": 33667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260803,
+  "NumberOfAwards": 260831,
   "NumberOfAwardsMax": 33667,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11168,7 +11174,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28679
+      "Count": 28707
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11183,9 +11189,9 @@
       "Count": 25242
     }
   ],
-  "EOS_Progressed": 930515,
+  "EOS_Progressed": 930579,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 14102,
+  "EOS_NewPlayers": 14086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30813,6 +30819,11 @@
       "Time": "2023-10-10T11:05:24.6963623+00:00",
       "NumProgressed": 930515,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T12:05:58.7062004+00:00",
+      "NumProgressed": 930579,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30960,7 +30971,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "ACH_019",
@@ -30992,7 +31003,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "ACH_023",
@@ -31000,7 +31011,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "ACH_024",
@@ -31032,7 +31043,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "ACH_028",
@@ -31128,7 +31139,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "ACH_040",
@@ -31392,7 +31403,7 @@
       "Name": "Sorted",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "ACH_073",
@@ -32655,21 +32666,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 930515,
+      "Progressed": 930579,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 930515,
+      "Progressed": 930579,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-10T08:00:26.4300721+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:05:24.6963619+00:00",
+  "LastChanged": "2023-10-10T12:02:22.2820318+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:05:58.7061998+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:01:32.2365401+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:05:24.6969634+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:02:22.2820325+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:05:58.7069857+00:00"
 }

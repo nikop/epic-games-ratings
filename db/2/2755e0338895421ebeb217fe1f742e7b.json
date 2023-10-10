@@ -3,9 +3,9 @@
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 469,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -166,6 +166,11 @@
       "Time": "2023-10-08T08:09:09.6368446+00:00",
       "NumProgressed": 27,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T12:10:09.66635+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 11,
@@ -175,7 +180,7 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 150,
       "UsersEstimate": 10
     },
@@ -191,7 +196,7 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 93,
+      "Percentage": 89,
       "XP": 25,
       "UsersEstimate": 25
     },
@@ -199,7 +204,7 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -207,7 +212,7 @@
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -215,7 +220,7 @@
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -223,7 +228,7 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -231,7 +236,7 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -239,7 +244,7 @@
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -247,7 +252,7 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -255,7 +260,7 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 150,
       "UsersEstimate": 16
     }
@@ -264,14 +269,14 @@
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:09:35.8801164+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:10:09.6663494+00:00",
   "LastUpdate_AppInfo": "2023-10-10T01:39:23.1913453+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:03:30.2890866+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:09:35.8801234+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:03:26.9140938+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:10:09.6663605+00:00"
 }

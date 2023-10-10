@@ -4,7 +4,7 @@
   "ProductSlug": "zerog-gunfight-6386d2",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-31T15:00:00+00:00",
@@ -158,8 +158,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0228511+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:06:23.1883639+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:07:08.9293437+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:08.9065493+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:58:01.7451844+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:06:23.1883725+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:58:06.4726859+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:07:08.9293597+00:00"
 }

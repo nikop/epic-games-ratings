@@ -35,7 +35,7 @@ Rating: 4.68 (Ranked 243)
 | Always worth a try | 2.00% | ~14 |
 | Loremaster | 1.00% | ~7 |
 | Awards unwarded | 1.00% | ~7 |
-| Mushrooming enthusiast | 0.60% | ~4 |
+| Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 705 (Ranked 252)  

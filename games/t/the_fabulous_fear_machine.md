@@ -30,22 +30,22 @@
 | The barbarian invasions | 22.00% | ~5 |
 | Welcome to Hellville | 22.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~4 |
+| Blood Red Island | 17.00% | ~4 |
 | The bully | 17.00% | ~4 |
 | The adventurer | 17.00% | ~4 |
 | Pulp! The Beyond | 17.00% | ~4 |
 | America had no Faith | 17.00% | ~4 |
-| Blood Red Island | 13.00% | ~3 |
-| Bread and bocaua | 9.00% | ~2 |
-| Fanatacism is... poisonous | 9.00% | ~2 |
-| The scholar | 9.00% | ~2 |
+| Bread and bocaua | 13.00% | ~3 |
+| Fanatacism is... poisonous | 13.00% | ~3 |
+| The scholar | 13.00% | ~3 |
+| Pulp! Tales from the Crypt | 9.00% | ~2 |
 | Pulp! True Adventures | 9.00% | ~2 |
 | Vaccine fans | 9.00% | ~2 |
-| Pulp! Tales from the Crypt | 4.00% | ~1 |
+| Pulp! Heart Throbs | 4.00% | ~1 |
 | Thirst for Oleum | 4.00% | ~1 |
 | ECO mode | 4.00% | ~1 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
-| Pulp! Heart Throbs | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |

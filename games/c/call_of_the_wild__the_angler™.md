@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,763 |
-| Hey Good Hookin | 69.00% | ~4,160 |
-| I'm on a Boat! | 60.00% | ~3,617 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,376 |
-| Scaling up | 56.00% | ~3,376 |
-| More Fish in the Sea | 49.00% | ~2,954 |
+| Fish Just Got Reel | 79.00% | ~4,764 |
+| Hey Good Hookin | 69.00% | ~4,161 |
+| I'm on a Boat! | 60.00% | ~3,618 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,377 |
+| Scaling up | 56.00% | ~3,377 |
+| More Fish in the Sea | 49.00% | ~2,955 |
 | Ready to Rod and Roll | 47.00% | ~2,834 |
-| Fish Out of Water | 36.00% | ~2,170 |
+| Fish Out of Water | 36.00% | ~2,171 |
 | License to Gill | 33.00% | ~1,990 |
 | Things that go Splash in the Night | 31.00% | ~1,869 |
-| Goldfish? | 29.00% | ~1,748 |
+| Goldfish? | 29.00% | ~1,749 |
 | Going for Gold | 26.00% | ~1,568 |
 | I'm Hooked! | 20.00% | ~1,206 |
 | Diamond in the Rough | 13.00% | ~784 |
@@ -25,7 +25,7 @@ Number of Ratings: 281  (23.09.2022)
 | Hook, Line and Sinker | 8.00% | ~482 |
 | Marathon | 8.00% | ~482 |
 | I'm the Captain Now | 6.00% | ~362 |
-| Big Fish Small Pond | 5.00% | ~301 |
+| Big Fish Small Pond | 5.00% | ~302 |
 | The Beetles | 3.00% | ~181 |
 | Gonna Need a Bigger Boat | 3.00% | ~181 |
 | No Fin left to give | 2.00% | ~121 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,029 (Ranked 165)  
+Progressed: 6,030 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,11 +215,11 @@ Completed: 0 (0.00%) (Ranked 311)
 | 2023-10-07 | 6,011 | 0 |
 | 2023-10-08 | 6,025 | 0 |
 | 2023-10-09 | 6,028 | 0 |
-| 2023-10-10 | 6,029 | 0 |
+| 2023-10-10 | 6,030 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 450)  
-Sum: 182 (Ranked 390)  
-Diff (max vs sum): 60  
+Sum: 182 (Ranked 391)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

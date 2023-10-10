@@ -14,7 +14,7 @@ Rating: 4.63 (Ranked 335)
 | Humble Collector | 41.00% | ~2,637 |
 | Calm Sailing | 35.00% | ~2,251 |
 | Open the Gate! | 32.00% | ~2,058 |
-| Mist Walker | 30.00% | ~1,929 |
+| Mist Walker | 30.00% | ~1,930 |
 | Lumberjack | 25.00% | ~1,608 |
 | Oui, Chef! | 22.00% | ~1,415 |
 | Clear the Air | 16.00% | ~1,029 |
@@ -41,7 +41,7 @@ Rating: 4.63 (Ranked 335)
 | Giving the People What They Want | 0.10% | ~6 |
 | Very Skilled | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,431 (Ranked 162)  
+Progressed: 6,432 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 311)
 | 2023-10-07 | 6,255 | 0 |
 | 2023-10-08 | 6,353 | 0 |
 | 2023-10-09 | 6,417 | 0 |
-| 2023-10-10 | 6,431 | 0 |
+| 2023-10-10 | 6,432 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

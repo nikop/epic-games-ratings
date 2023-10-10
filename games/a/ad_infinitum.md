@@ -13,14 +13,14 @@
 | Hope | 23.00% | ~11 |
 | Rage | 21.00% | ~10 |
 | Path of Pain | 15.00% | ~7 |
+| Reflections | 13.00% | ~6 |
 | The shining | 13.00% | ~6 |
 | An act of courage | 11.00% | ~5 |
+| Health | 11.00% | ~5 |
 | Mayhem | 11.00% | ~5 |
-| Reflections | 11.00% | ~5 |
-| Health | 9.00% | ~4 |
+| Lost | 9.00% | ~4 |
 | Art critic | 6.00% | ~3 |
 | Clarity | 6.00% | ~3 |
-| Lost | 6.00% | ~3 |
 | An act of mercy | 4.00% | ~2 |
 | Ad Infinitum | 4.00% | ~2 |
 | Jigsaw | 4.00% | ~2 |

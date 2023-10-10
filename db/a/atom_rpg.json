@@ -5,9 +5,9 @@
   "Ranking_Rating": 644,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 466,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2801,6 +2801,11 @@
       "Time": "2023-10-09T13:18:31.1810306+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T12:07:43.6305181+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2820,7 +2825,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -2868,7 +2873,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "EXPERT_1",
@@ -2884,7 +2889,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "GHOSTBUSTER",
@@ -2900,7 +2905,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2932,7 +2937,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3068,7 +3073,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "VVE",
@@ -3099,15 +3104,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-29T01:41:28.9416414+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:06:52.9226027+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:07:43.6305174+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:48.8446992+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:01:04.4482148+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:06:52.9226356+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:01:47.7476093+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:07:43.6305665+00:00"
 }

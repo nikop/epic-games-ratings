@@ -1606,9 +1606,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_115",
@@ -2206,9 +2206,9 @@
       "ID": "achievement_68",
       "SetID": "b9pe172",
       "Name": "Agent",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_69",
@@ -2254,9 +2254,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_74",
@@ -2498,8 +2498,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:07:31.2461464+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:08:30.032393+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:58:14.7798544+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:07:31.2463215+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:58:21.5423651+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:08:30.0327331+00:00"
 }

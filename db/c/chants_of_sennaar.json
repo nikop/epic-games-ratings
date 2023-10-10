@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 273,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
@@ -1398,9 +1398,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1478,9 +1478,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -1493,8 +1493,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-10T11:07:15.0676138+00:00",
+  "LastChanged_Achievements": "2023-10-10T12:08:10.8290579+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:00:10.3819847+00:00",
-  "LastUpdate_Achievements": "2023-10-10T11:07:15.0676345+00:00"
+  "LastUpdate_Ratings": "2023-10-10T12:00:41.6166427+00:00",
+  "LastUpdate_Achievements": "2023-10-10T12:08:10.8290849+00:00"
 }

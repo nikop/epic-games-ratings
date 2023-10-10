@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.80% | ~117 |
 | Christianity | 0.80% | ~117 |
 | Greek Paganism | 0.80% | ~117 |
+| Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
 | Wise | 0.70% | ~102 |
@@ -49,8 +50,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
-| Brilliant | 0.60% | ~87 |
 | Great | 0.60% | ~87 |
+| Artisans | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
 | Musaeum | 0.60% | ~87 |
 | Necropolis | 0.60% | ~87 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |
 | Just Difficulty | 0.50% | ~73 |
-| Artisans | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |

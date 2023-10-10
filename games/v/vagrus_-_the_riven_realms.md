@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 57.00% | ~89 |
-| Press-ganged | 42.00% | ~66 |
+| Press-ganged | 41.00% | ~64 |
 | The Package | 26.00% | ~41 |
 | Randomized | 17.00% | ~27 |
 | Conquered | 17.00% | ~27 |
 | Scribe | 10.00% | ~16 |
 | Tactician | 9.00% | ~14 |
-| Breached | 8.00% | ~12 |
-| Fight Another Day | 8.00% | ~12 |
+| Breached | 8.00% | ~13 |
+| Fight Another Day | 8.00% | ~13 |
 | Tail-wind | 7.00% | ~11 |
 | Conciliator | 6.00% | ~9 |
 | Scholar | 6.00% | ~9 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 354)  
+Progressed: 157 (Ranked 353)  
 Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 0 (0.00%) (Ranked 311)
 | 2023-09-21 | 153 | 0 |
 | 2023-09-22 | 154 | 0 |
 | 2023-09-30 | 156 | 0 |
+| 2023-10-10 | 157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
