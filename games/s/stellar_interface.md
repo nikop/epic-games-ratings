@@ -20,14 +20,14 @@
 | Galactic Cadet | 16.00% | ~10 |
 | Bronze Prince of Ball-air | 13.00% | ~8 |
 | Pacifist | 13.00% | ~8 |
+| 25Gb HDD | 13.00% | ~8 |
 | Collateral Damage I | 13.00% | ~8 |
+| Rambo II | 11.00% | ~7 |
 | Defrosted | 11.00% | ~7 |
-| 25Gb HDD | 11.00% | ~7 |
+| Unstoppable | 11.00% | ~7 |
 | Sectoral Ensign | 9.00% | ~6 |
-| Rambo II | 9.00% | ~6 |
 | Golden Prince of Ball-air | 9.00% | ~6 |
 | Space Surfer | 9.00% | ~6 |
-| Unstoppable | 9.00% | ~6 |
 | Silver Prince of Ball-air | 9.00% | ~6 |
 | Merchant Prince II | 9.00% | ~6 |
 | Hitchhiker | 8.00% | ~5 |

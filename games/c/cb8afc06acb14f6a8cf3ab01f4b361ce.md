@@ -5,29 +5,29 @@ Rating: 4.14 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 37.00% | ~94,599 |
-| May the Torchbearer light our way | 35.00% | ~89,486 |
-| A powerful aura was here | 22.00% | ~56,248 |
-| Let's raise the stakes!! | 10.00% | ~25,567 |
-| Rumors are true | 5.00% | ~12,784 |
-| Your wounds… They are healing so fast! | 5.00% | ~12,784 |
-| We'll be careful | 4.00% | ~10,227 |
-| Pride is a sin, young Knight | 4.00% | ~10,227 |
-| Bring it on! | 4.00% | ~10,227 |
-| Back to your senses | 2.00% | ~5,113 |
-| They tricked me | 2.00% | ~5,113 |
-| We need to talk | 2.00% | ~5,113 |
-| They won't last long | 2.00% | ~5,113 |
-| I feel drawn to it | 1.00% | ~2,557 |
-| I took a risk | 1.00% | ~2,557 |
-| Their fate is sealed | 0.80% | ~2,045 |
-| Here to stay | 0.70% | ~1,790 |
-| Counting on you | 0.70% | ~1,790 |
-| This is the end | 0.60% | ~1,534 |
-| We can choose to fight | 0.60% | ~1,534 |
+| The touch of Chaos | 37.00% | ~94,653 |
+| May the Torchbearer light our way | 35.00% | ~89,537 |
+| A powerful aura was here | 22.00% | ~56,280 |
+| Let's raise the stakes!! | 10.00% | ~25,582 |
+| Rumors are true | 5.00% | ~12,791 |
+| Your wounds… They are healing so fast! | 5.00% | ~12,791 |
+| We'll be careful | 4.00% | ~10,233 |
+| Pride is a sin, young Knight | 4.00% | ~10,233 |
+| Bring it on! | 4.00% | ~10,233 |
+| Back to your senses | 2.00% | ~5,116 |
+| They tricked me | 2.00% | ~5,116 |
+| We need to talk | 2.00% | ~5,116 |
+| They won't last long | 2.00% | ~5,116 |
+| I feel drawn to it | 1.00% | ~2,558 |
+| I took a risk | 1.00% | ~2,558 |
+| Their fate is sealed | 0.80% | ~2,047 |
+| Here to stay | 0.70% | ~1,791 |
+| Counting on you | 0.70% | ~1,791 |
+| This is the end | 0.60% | ~1,535 |
+| We can choose to fight | 0.60% | ~1,535 |
 | Not even from this world | 0.40% | ~1,023 |
 | You want more? I've got more! | 0.40% | ~1,023 |
-| No damsels in distress | 0.20% | ~511 |
+| No damsels in distress | 0.20% | ~512 |
 | The immortal is bound to reborn | 0.10% | ~256 |
 | A legend among Chimeras | 0.10% | ~256 |
 | It's only pain | 0.10% | ~256 |
@@ -46,7 +46,7 @@ Rating: 4.14 (Ranked 919)
 | We strike as one | 0.10% | ~256 |
 | Chaos be damned! | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,673 (Ranked 50)  
+Progressed: 255,819 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-07 | 245,139 | 1 |
 | 2023-10-08 | 251,611 | 1 |
 | 2023-10-09 | 255,673 | 1 |
+| 2023-10-10 | 255,819 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

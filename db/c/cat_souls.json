@@ -4,7 +4,7 @@
   "ProductSlug": "cat-souls-a2555e",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.4121696+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:59:23.1201727+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:06:09.9868716+00:00"
+  "LastUpdate_Ratings": "2023-10-10T00:00:07.7378016+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:07:22.655423+00:00"
 }

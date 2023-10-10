@@ -10512,9 +10512,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 426888,
+  "EOS_Progressed": 426903,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6017,
+  "EOS_NewPlayers": 6004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30072,6 +30072,11 @@
       "Time": "2023-10-09T23:08:27.2590893+00:00",
       "NumProgressed": 426888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T00:09:08.0832307+00:00",
+      "NumProgressed": 426903,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30211,7 +30216,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -30363,7 +30368,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -30595,7 +30600,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_cold_war",
@@ -30619,7 +30624,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -32587,7 +32592,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -32914,21 +32919,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 426888,
+      "Progressed": 426903,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 426888,
+      "Progressed": 426903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-09T21:58:22.889672+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:08:27.2590885+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:09:08.0832303+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:58:21.303626+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:08:27.2603433+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:58:43.292191+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:09:08.0843041+00:00"
 }

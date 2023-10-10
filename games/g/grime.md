@@ -14,6 +14,7 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 0.50% | ~757 |
 | Devourer | 0.50% | ~757 |
 | Harmless | 0.40% | ~606 |
+| Feast | 0.40% | ~606 |
 | Yank | 0.40% | ~606 |
 | Sharpened Vessel | 0.40% | ~606 |
 | Shapely | 0.30% | ~454 |
@@ -21,7 +22,6 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.30% | ~453 |
 | Jawcrab | 0.30% | ~454 |
 | Jawstag | 0.30% | ~454 |
-| Feast | 0.30% | ~454 |
 | Watcher | 0.30% | ~454 |
 | Assimilation | 0.20% | ~303 |
 | Hunt Down | 0.20% | ~303 |

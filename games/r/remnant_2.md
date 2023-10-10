@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,369 |
-| The Killing Jar | 8.00% | ~15,439 |
-| Expanding Horizons | 7.00% | ~13,509 |
-| Quest for Survival | 7.00% | ~13,509 |
-| Not Your Average Trait | 7.00% | ~13,509 |
-| Gleaming the Cube | 6.00% | ~11,579 |
-| Familiar Face | 6.00% | ~11,579 |
-| Duality | 6.00% | ~11,579 |
-| Boss'n Up | 6.00% | ~11,579 |
-| Trait Chaser | 6.00% | ~11,579 |
+| First of Many | 9.00% | ~17,370 |
+| The Killing Jar | 8.00% | ~15,440 |
+| Expanding Horizons | 7.00% | ~13,510 |
+| Quest for Survival | 7.00% | ~13,510 |
+| Not Your Average Trait | 7.00% | ~13,510 |
+| Gleaming the Cube | 6.00% | ~11,580 |
+| Familiar Face | 6.00% | ~11,580 |
+| Duality | 6.00% | ~11,580 |
+| Boss'n Up | 6.00% | ~11,580 |
+| Trait Chaser | 6.00% | ~11,580 |
 | Not So Special Now | 5.00% | ~9,650 |
 | Not a Janitor | 5.00% | ~9,650 |
 | Equal Measures | 5.00% | ~9,650 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 120)
 | Carnage in C-Minor | 2.00% | ~3,860 |
 | Maxed Out! | 2.00% | ~3,860 |
 | Transmutate | 2.00% | ~3,860 |
+| Ghost in the Machine | 1.00% | ~1,930 |
 | The Trigger | 1.00% | ~1,930 |
 | Cutting Edge | 1.00% | ~1,930 |
 | Proving Grounds | 1.00% | ~1,930 |
-| Ghost in the Machine | 0.90% | ~1,737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,990 (Ranked 68)  
+Progressed: 193,004 (Ranked 68)  
 Completed: 377 (0.20%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 377 (0.20%) (Ranked 218)
 | 2023-10-07 | 191,655 | 371 |
 | 2023-10-08 | 192,419 | 375 |
 | 2023-10-09 | 192,990 | 377 |
+| 2023-10-10 | 193,004 | 377 |
 ## Awards
 Max (Great Boss Battles): 1,815  (Ranked 114)  
 Sum: 3,880 (Ranked 150)  

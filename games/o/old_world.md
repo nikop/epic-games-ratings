@@ -27,13 +27,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.90% | ~131 |
 | Judaism | 0.90% | ~131 |
 | Naming Landmarks | 0.90% | ~131 |
-| Enlightened | 0.80% | ~116 |
-| Keystone | 0.80% | ~116 |
-| Warrior | 0.80% | ~116 |
-| Developing Cities | 0.80% | ~116 |
-| Pyramids | 0.80% | ~116 |
-| Babylonian Paganism | 0.80% | ~116 |
-| Greek Paganism | 0.80% | ~116 |
+| Enlightened | 0.80% | ~117 |
+| Keystone | 0.80% | ~117 |
+| Warrior | 0.80% | ~117 |
+| Developing Cities | 0.80% | ~117 |
+| Pyramids | 0.80% | ~117 |
+| Babylonian Paganism | 0.80% | ~117 |
+| Greek Paganism | 0.80% | ~117 |
 | Ambitious | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Magnificent | 0.70% | ~102 |
@@ -68,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
+| Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.40% | ~58 |
 | Beloved | 0.40% | ~58 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
 | Legalism | 0.40% | ~58 |
-| Mythology | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
 | Devout | 0.30% | ~44 |
 | Invincible | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,562 (Ranked 134)  
+Progressed: 14,563 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,6 +522,7 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
+| 2023-10-10 | 14,563 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 209)  

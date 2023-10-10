@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2716,6 +2716,11 @@
       "Time": "2023-10-09T23:05:49.4621177+00:00",
       "NumProgressed": 723,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T00:06:55.5013422+00:00",
+      "NumProgressed": 725,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2726,9 +2731,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2744,7 +2749,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2872,7 +2877,7 @@
       "Name": "Mission Success",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_HUB2",
@@ -2886,9 +2891,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_PEAK",
@@ -2920,7 +2925,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_S4",
@@ -2928,7 +2933,7 @@
       "Name": "Power Glove",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 390
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_S5",
@@ -2936,7 +2941,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -2944,7 +2949,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_STATUE",
@@ -2959,15 +2964,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 725,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:05:49.4621166+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:06:55.5013418+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:58:04.9984809+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:05:49.4621551+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:58:19.1980064+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:06:55.5013701+00:00"
 }

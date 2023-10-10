@@ -1254,9 +1254,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19718,
+  "EOS_Progressed": 19719,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19959,6 +19959,11 @@
       "Time": "2023-10-09T23:08:16.6477075+00:00",
       "NumProgressed": 19718,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-10T00:08:23.5191366+00:00",
+      "NumProgressed": 19719,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20058,7 +20063,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8874
     },
     {
       "ID": "ICallItLuck",
@@ -20242,7 +20247,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12028
+      "UsersEstimate": 12029
     },
     {
       "ID": "SwordToAGunfight",
@@ -20250,7 +20255,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5718
+      "UsersEstimate": 5719
     },
     {
       "ID": "TripleA",
@@ -20282,7 +20287,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5718
+      "UsersEstimate": 5719
     },
     {
       "ID": "Wallrunner",
@@ -20306,7 +20311,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7887
+      "UsersEstimate": 7888
     },
     {
       "ID": "WhereHeStood",
@@ -20322,28 +20327,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19718,
+      "Progressed": 19719,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19718,
+      "Progressed": 19719,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-09T16:58:44.980826+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:08:16.6477063+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:08:23.5191363+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:57:59.8572626+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:08:16.6478725+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:58:11.671138+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:08:23.5192526+00:00"
 }

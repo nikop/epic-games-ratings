@@ -22,16 +22,16 @@ Rating: 4.76 (Ranked 120)
 | Followed the Butterflies | 9.00% | ~26,830 |
 | The Spell Master | 9.00% | ~26,830 |
 | Rising From the Ashes | 9.00% | ~26,830 |
-| The Avenging Gazelle | 8.00% | ~23,848 |
-| A Sallow Grave | 8.00% | ~23,848 |
-| Flight the Good Flight | 8.00% | ~23,848 |
-| Beast Friends | 7.00% | ~20,867 |
-| The Seeker of Knowledge | 6.00% | ~17,886 |
-| The Root of the Problem | 6.00% | ~17,886 |
-| Third Time's a Charm | 6.00% | ~17,886 |
-| Raising Expectations | 6.00% | ~17,886 |
-| The Toast of the Town | 5.00% | ~14,905 |
-| The Ends Petrify the Means | 5.00% | ~14,905 |
+| The Avenging Gazelle | 8.00% | ~23,849 |
+| A Sallow Grave | 8.00% | ~23,849 |
+| Flight the Good Flight | 8.00% | ~23,849 |
+| Beast Friends | 7.00% | ~20,868 |
+| The Seeker of Knowledge | 6.00% | ~17,887 |
+| The Root of the Problem | 6.00% | ~17,887 |
+| Third Time's a Charm | 6.00% | ~17,887 |
+| Raising Expectations | 6.00% | ~17,887 |
+| The Toast of the Town | 5.00% | ~14,906 |
+| The Ends Petrify the Means | 5.00% | ~14,906 |
 | Going Through the Potions | 4.00% | ~11,924 |
 | Room with a View | 4.00% | ~11,924 |
 | The Intrepid Explorer | 4.00% | ~11,924 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,106 (Ranked 46)  
-Completed: 482 (0.16%) (Ranked 227)  
+Progressed: 298,110 (Ranked 46)  
+Completed: 483 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,6 +224,7 @@ Completed: 482 (0.16%) (Ranked 227)
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
+| 2023-10-10 | 298,110 | 483 |
 ## Awards
 Max (Character Customization): 23,405  (Ranked 17)  
 Sum: 45,477 (Ranked 31)  

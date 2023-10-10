@@ -530,9 +530,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 13508,
+  "EOS_Progressed": 13509,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9835,6 +9835,11 @@
       "Time": "2023-10-09T21:05:51.4615043+00:00",
       "NumProgressed": 13508,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T00:06:30.5024822+00:00",
+      "NumProgressed": 13509,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 35,
@@ -9846,7 +9851,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12427
+      "UsersEstimate": 12428
     },
     {
       "ID": "ACH_02",
@@ -9854,7 +9859,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "ACH_03",
@@ -9862,7 +9867,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "ACH_04",
@@ -9878,7 +9883,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "ACH_06",
@@ -9886,7 +9891,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8780
+      "UsersEstimate": 8781
     },
     {
       "ID": "ACH_07",
@@ -9894,7 +9899,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "ACH_08",
@@ -9918,7 +9923,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7159
+      "UsersEstimate": 7160
     },
     {
       "ID": "ACH_11",
@@ -9942,7 +9947,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "ACH_14",
@@ -10054,7 +10059,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "ACH_28",
@@ -10125,7 +10130,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13508,
+      "Progressed": 13509,
       "Completed": 49
     }
   ],
@@ -10133,8 +10138,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-09T20:01:08.9572395+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:05:30.7264527+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:06:30.5024817+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:58.3444981+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:59:57.8495725+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:05:30.7265495+00:00"
+  "LastUpdate_Ratings": "2023-10-10T00:00:59.7416025+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:06:30.5025439+00:00"
 }

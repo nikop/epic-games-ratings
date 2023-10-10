@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~824 |
+| Cream of the Crop | 0.60% | ~824 |
 | Above the Norm | 0.60% | ~824 |
 | A Ronin Reborn | 0.60% | ~824 |
 | The King's Caprice | 0.60% | ~824 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.60% | ~824 |
 | Complete Monopoly | 0.60% | ~824 |
 | King's Blade | 0.60% | ~824 |
-| Cream of the Crop | 0.50% | ~687 |
 | Top of the World | 0.50% | ~687 |
 | Proud Paladin | 0.50% | ~687 |
 | Constellated | 0.50% | ~687 |

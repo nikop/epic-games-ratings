@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -516,9 +516,9 @@
       "ID": "Cleared50LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo II",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ClearedAllLevels10TimesAchievement",
@@ -988,9 +988,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -1052,9 +1052,9 @@
       "ID": "PerksUnlocked25Achievement",
       "SetID": "a8djcgh",
       "Name": "25Gb HDD",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PerksUnlocked50Achievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:03:31.9302679+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:03:52.4030206+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:02.1415967+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:59:07.1571126+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:03:31.9305057+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:59:45.3726966+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:03:52.4031822+00:00"
 }

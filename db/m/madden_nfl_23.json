@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2709,6 +2709,11 @@
       "Time": "2023-10-09T23:03:33.335678+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T00:03:54.3178035+00:00",
+      "NumProgressed": 2339,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2729,7 +2734,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1310
     },
     {
       "ID": "achievement_11",
@@ -2737,7 +2742,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_12",
@@ -2745,7 +2750,7 @@
       "Name": "Stud Finder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1006
     },
     {
       "ID": "achievement_13",
@@ -2753,7 +2758,7 @@
       "Name": "Big Spender",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1263
     },
     {
       "ID": "achievement_14",
@@ -2761,15 +2766,15 @@
       "Name": "Dealmaker",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1286
     },
     {
       "ID": "achievement_16",
@@ -2777,7 +2782,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "achievement_17",
@@ -2809,7 +2814,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_20",
@@ -2833,7 +2838,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_4",
@@ -2841,15 +2846,15 @@
       "Name": "Lockdown Corner",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_5",
       "SetID": "c8fif6p",
       "Name": "Already in Progress",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_6",
@@ -2857,7 +2862,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_7",
@@ -2888,7 +2893,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2339,
       "Completed": 0
     }
   ],
@@ -2896,8 +2901,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:03:33.3356776+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:03:54.3178031+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:59:03.3205017+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:03:33.3357082+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:59:40.692639+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:03:54.317825+00:00"
 }

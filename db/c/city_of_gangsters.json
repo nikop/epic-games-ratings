@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347086,
+  "EOS_Progressed": 347088,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20088,6 +20088,11 @@
       "Time": "2023-10-09T23:05:02.1740455+00:00",
       "NumProgressed": 347086,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T00:05:52.3955606+00:00",
+      "NumProgressed": 347088,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20115,7 +20120,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41650
+      "UsersEstimate": 41651
     },
     {
       "ID": "ach004",
@@ -20155,7 +20160,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41650
+      "UsersEstimate": 41651
     },
     {
       "ID": "ach009",
@@ -20243,7 +20248,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ach020",
@@ -20315,7 +20320,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ach029",
@@ -20323,7 +20328,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38179
+      "UsersEstimate": 38180
     },
     {
       "ID": "ach030",
@@ -20347,7 +20352,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ach033",
@@ -20443,7 +20448,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ach045",
@@ -20499,7 +20504,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38179
+      "UsersEstimate": 38180
     },
     {
       "ID": "ach052",
@@ -20675,7 +20680,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13883
+      "UsersEstimate": 13884
     },
     {
       "ID": "ach075",
@@ -20738,7 +20743,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347086,
+      "Progressed": 347088,
       "Completed": 7
     }
   ],
@@ -20746,8 +20751,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-09T23:05:02.1740449+00:00",
+  "LastChanged_Achievements": "2023-10-10T00:05:52.3955602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-09T22:58:15.2463345+00:00",
-  "LastUpdate_Achievements": "2023-10-09T23:05:02.1742541+00:00"
+  "LastUpdate_Ratings": "2023-10-09T23:58:35.0341024+00:00",
+  "LastUpdate_Achievements": "2023-10-10T00:05:52.3957187+00:00"
 }
