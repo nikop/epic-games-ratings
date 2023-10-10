@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.78% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.75% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -65,30 +65,30 @@
 | 63 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.75% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 65 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
+| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
-| 68 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.10% |
-| 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
+| 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
+| 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.07% |
 | 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 76 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.57% |
-| 78 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
+| 77 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
+| 78 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.45% |
 | 79 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 80 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
 | 81 | [The Complex](games/t/the_complex.md) | 3.36% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 83 | [Doodle God](games/d/doodle_god.md) | 3.31% |
 | 84 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.27% |
-| 85 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
-| 86 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 87 | [HordeCore](games/h/hordecore.md) | 3.12% |
-| 87 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.07% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.21% |
+| 86 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.20% |
+| 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 88 | [HordeCore](games/h/hordecore.md) | 3.12% |
+| 88 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 90 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3.03% |
 | 91 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
@@ -103,12 +103,12 @@
 | 101 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 102 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 103 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.39% |
-| 104 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
+| 104 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 105 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 106 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 107 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
-| 108 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
-| 109 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
+| 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
+| 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
+| 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.13% |
 | 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 111 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.87% |
 | 112 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -161,9 +161,9 @@
 | 158 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 160 | [Haven](games/h/haven.md) | 0.61% |
 | 160 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.61% |
-| 162 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.60% |
-| 163 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
-| 163 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
+| 162 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
+| 162 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.59% |
+| 162 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.58% |
 | 165 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 165 | [The Surge 2](games/t/the_surge_2.md) | 0.58% |
