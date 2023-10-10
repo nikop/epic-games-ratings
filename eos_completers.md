@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.09% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.07% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -33,8 +33,8 @@
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.96% |
 | 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.85% |
 | 33 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.81% |
-| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
-| 35 | [Smelter](games/s/smelter.md) | 10.00% |
+| 34 | [Smelter](games/s/smelter.md) | 10.00% |
+| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 36 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
 | 38 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
@@ -65,7 +65,7 @@
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 66 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.17% |
+| 66 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.13% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
@@ -104,8 +104,8 @@
 | 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.18% |
-| 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
+| 105 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.17% |
+| 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 107 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 108 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 109 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
