@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.35% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.97% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.32% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.79% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
@@ -20,7 +20,7 @@
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 19 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 16.67% |
 | 19 | [Seven Doors](games/s/seven_doors.md) | 16.67% |
-| 21 | [Island Cities](games/i/island_cities.md) | 16.48% |
+| 21 | [Island Cities](games/i/island_cities.md) | 16.62% |
 | 22 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.38% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
@@ -48,7 +48,7 @@
 | 46 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 47 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 48 | [Scorn](games/s/scorn.md) | 7.03% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.93% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.91% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 52 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -65,7 +65,7 @@
 | 63 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.75% |
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 65 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
+| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.31% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
@@ -106,7 +106,7 @@
 | 104 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 105 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 106 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
+| 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.15% |
 | 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.08% |
 | 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
