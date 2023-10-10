@@ -33,7 +33,7 @@
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 439 |
 | 28 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.86 | 0 | 530 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 232 |
-| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,606 | 32 |
+| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,608 | 32 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 351 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 28 | 480 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 157 | 303 |
@@ -397,24 +397,24 @@
 | 374 | [Supraland](games/s/supraland.md) | 4.61 | 7,694 | 47 |
 | 374 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 530 |
 | 374 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 530 |
-| 398 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 530 |
-| 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 497 |
-| 398 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,199 | 27 |
-| 398 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 530 |
-| 398 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,722 | 73 |
-| 398 | [Control](games/c/control.md) | 4.60 | 8,580 | 42 |
-| 398 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 530 |
-| 398 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,824 | 28 |
-| 398 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 530 |
-| 398 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 326 |
-| 398 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 397 |
-| 398 | [RiME](games/r/rime.md) | 4.60 | 0 | 530 |
-| 398 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 530 |
-| 398 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 488 | 204 |
-| 398 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 261 | 256 |
-| 398 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 514 |
-| 398 | [Warframe](games/w/warframe.md) | 4.60 | 17,576 | 22 |
-| 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 484 | 206 |
+| 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 484 | 206 |
+| 399 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 530 |
+| 399 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 497 |
+| 399 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,199 | 27 |
+| 399 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 530 |
+| 399 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,722 | 73 |
+| 399 | [Control](games/c/control.md) | 4.60 | 8,580 | 42 |
+| 399 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 530 |
+| 399 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,824 | 28 |
+| 399 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 530 |
+| 399 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 326 |
+| 399 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 397 |
+| 399 | [RiME](games/r/rime.md) | 4.60 | 0 | 530 |
+| 399 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 530 |
+| 399 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 488 | 204 |
+| 399 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 261 | 256 |
+| 399 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 514 |
+| 399 | [Warframe](games/w/warframe.md) | 4.60 | 17,576 | 22 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 424 |
 | 416 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 170 | 296 |
 | 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 380 | 226 |
@@ -466,7 +466,7 @@
 | 453 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 530 |
 | 453 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 530 |
 | 453 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,043 | 82 |
-| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,800 | 20 |
+| 453 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,816 | 20 |
 | 453 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,782 | 117 |
 | 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 530 |
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 71 | 385 |
@@ -835,7 +835,7 @@
 | 828 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 292 |
 | 834 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 530 |
 | 834 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 530 |
-| 834 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,804 | 85 |
+| 834 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,805 | 85 |
 | 834 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 530 |
 | 834 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 27 | 486 |
 | 834 | [Out of Line](games/o/out_of_line.md) | 4.27 | 0 | 530 |
@@ -960,18 +960,18 @@
 | 958 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.03 | 0 | 530 |
 | 958 | [Lake](games/l/lake.md) | 4.03 | 0 | 530 |
 | 958 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 530 |
-| 961 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.01 | 0 | 530 |
-| 962 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.00 | 0 | 530 |
-| 962 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 530 |
-| 962 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 530 |
-| 962 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 530 |
-| 966 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 227 |
-| 966 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,778 | 71 |
+| 961 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.00 | 0 | 530 |
+| 961 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 530 |
+| 961 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 530 |
+| 961 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 530 |
+| 965 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 3.99 | 0 | 530 |
+| 965 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 227 |
+| 965 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,778 | 71 |
 | 968 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.98 | 0 | 530 |
 | 968 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 530 |
 | 968 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.98 | 0 | 530 |
 | 968 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.98 | 0 | 530 |
-| 968 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,980 | 83 |
+| 968 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,995 | 83 |
 | 968 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 530 |
 | 974 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 530 |
 | 975 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 424 |

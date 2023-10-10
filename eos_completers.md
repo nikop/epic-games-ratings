@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.02% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.00% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -93,21 +93,21 @@
 | 90 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 92 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 93 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 94 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.69% |
+| 94 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.67% |
 | 96 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 97 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 98 | [Lamentum](games/l/lamentum.md) | 2.47% |
-| 99 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
 | 99 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
-| 101 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
+| 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
+| 100 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
 | 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
 | 106 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
 | 107 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 108 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 108 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 109 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
 | 110 | [Night Book](games/n/night_book.md) | 1.86% |
 | 111 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -182,9 +182,9 @@
 | 180 | [Dead Space](games/d/dead_space.md) | 0.45% |
 | 181 | [Tchia](games/t/tchia.md) | 0.44% |
 | 182 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
-| 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.41% |
-| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
-| 184 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
+| 183 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
+| 183 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 186 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 187 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 187 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
