@@ -37,12 +37,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~506 |
 | Defying the Crown | 3.00% | ~506 |
 | Into the Forest | 3.00% | ~506 |
-| Refinery | 2.00% | ~337 |
-| Dangerous Lands | 2.00% | ~337 |
-| Fishmen Ritual Site | 2.00% | ~337 |
-| Forbidden Lands | 2.00% | ~337 |
-| Forsaken Gods Temple | 2.00% | ~337 |
-| Victory through Prosperity | 2.00% | ~337 |
+| Refinery | 2.00% | ~338 |
+| Dangerous Lands | 2.00% | ~338 |
+| Fishmen Ritual Site | 2.00% | ~338 |
+| Forbidden Lands | 2.00% | ~338 |
+| Forsaken Gods Temple | 2.00% | ~338 |
+| Victory through Prosperity | 2.00% | ~338 |
 | Feeding The People | 1.00% | ~169 |
 | Efficient Explorer | 1.00% | ~169 |
 | Prestigious Expedition | 1.00% | ~169 |
@@ -51,13 +51,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Beaver Utopia | 0.70% | ~118 |
 | Human Utopia | 0.70% | ~118 |
 | The Queen's Chosen | 0.60% | ~101 |
-| Harpy Utopia | 0.40% | ~67 |
-| Ruins | 0.40% | ~67 |
+| Harpy Utopia | 0.40% | ~68 |
+| Ruins | 0.40% | ~68 |
 | Treasure | 0.30% | ~51 |
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,874 (Ranked 130)  
+Progressed: 16,875 (Ranked 130)  
 Completed: 52 (0.31%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 52 (0.31%) (Ranked 201)
 | 2023-10-07 | 16,848 | 52 |
 | 2023-10-08 | 16,855 | 52 |
 | 2023-10-09 | 16,868 | 52 |
-| 2023-10-10 | 16,874 | 52 |
+| 2023-10-10 | 16,875 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 435  (Ranked 212)  
 Sum: 3,183 (Ranked 167)  

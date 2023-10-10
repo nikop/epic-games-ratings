@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1567,
+  "EOS_Progressed": 1568,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5764,6 +5764,11 @@
       "Time": "2023-10-10T12:03:44.8175038+00:00",
       "NumProgressed": 1567,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T14:03:39.1046325+00:00",
+      "NumProgressed": 1568,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5951,7 +5956,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6031,7 +6036,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6078,7 +6083,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1567,
+      "Progressed": 1568,
       "Completed": 1
     }
   ],
@@ -6086,8 +6091,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-06T19:00:19.5333933+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:09:28.0339214+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:03:39.1046316+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:03:34.7898656+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:09:28.0339928+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:57:53.3013873+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:03:39.1046933+00:00"
 }

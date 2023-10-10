@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -558,9 +558,9 @@
       "ID": "_minigun",
       "SetID": "2d5739o",
       "Name": "Minigun",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_missile",
@@ -717,8 +717,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:12:23.5162905+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:06:28.6489392+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:03:02.046555+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:12:23.5163272+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:57:20.855937+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:06:28.6489679+00:00"
 }

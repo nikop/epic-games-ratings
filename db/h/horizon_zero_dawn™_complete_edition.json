@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -6179,10 +6179,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10031,
       "NumberOfAwardsMax": 4675
+    },
+    {
+      "Time": "2023-10-10T13:58:19.1075012+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10033,
+      "NumberOfAwardsMax": 4675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10031,
+  "NumberOfAwards": 10033,
   "NumberOfAwardsMax": 4675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6256,7 +6262,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 250
+      "Count": 252
     }
   ],
   "EOS_Progressed": 0,
@@ -6270,8 +6276,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-10-10T08:57:45.92315+00:00",
+  "LastChanged": "2023-10-10T13:58:19.107501+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.9065734+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:04:02.6492397+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:12:05.9648281+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:58:19.1075016+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:06:11.5388609+00:00"
 }

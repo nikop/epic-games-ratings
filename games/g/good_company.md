@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 657)  
+Rating: 4.44 (Ranked 656)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Returning Home | 49.00% | ~2,687 |
 | Returning Home: Quick Learner | 26.00% | ~1,426 |
 | Level: Charlie's Circuits | 22.00% | ~1,206 |
-| Level: Rising Markets | 9.00% | ~493 |
+| Level: Rising Markets | 9.00% | ~494 |
 | Peddler | 8.00% | ~439 |
 | Level: Extra Life | 7.00% | ~384 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~384 |
@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | Extra Life: Wish Granted | 4.00% | ~219 |
 | High Five! | 4.00% | ~219 |
 | Modular Progress | 4.00% | ~219 |
-| Campaign: Lesson Learned | 3.00% | ~164 |
-| Level: Bet On Bots | 3.00% | ~164 |
-| Modular Performance | 3.00% | ~164 |
-| Salesperson | 3.00% | ~164 |
+| Campaign: Lesson Learned | 3.00% | ~165 |
+| Level: Bet On Bots | 3.00% | ~165 |
+| Modular Performance | 3.00% | ~165 |
+| Salesperson | 3.00% | ~165 |
 | Level: Merry-Go-Around | 2.00% | ~110 |
 | Charlies's Circuits: Artist | 2.00% | ~110 |
 | Modular Peak | 2.00% | ~110 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,483 (Ranked 169)  
+Progressed: 5,484 (Ranked 169)  
 Completed: 1 (0.02%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 1 (0.02%) (Ranked 285)
 | 2023-10-07 | 5,473 | 1 |
 | 2023-10-08 | 5,476 | 1 |
 | 2023-10-09 | 5,481 | 1 |
-| 2023-10-10 | 5,483 | 1 |
+| 2023-10-10 | 5,484 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

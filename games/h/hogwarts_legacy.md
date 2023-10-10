@@ -8,8 +8,8 @@ Rating: 4.76 (Ranked 120)
 | The Sort Who Makes an Entrance | 15.00% | ~44,721 |
 | First Class Student | 13.00% | ~38,758 |
 | Troll with the Punches | 13.00% | ~38,758 |
-| A Keen Sense of Spell | 12.00% | ~35,776 |
-| That's a Keeper | 12.00% | ~35,776 |
+| A Keen Sense of Spell | 12.00% | ~35,777 |
+| That's a Keeper | 12.00% | ~35,777 |
 | The Hallowed Hero | 11.00% | ~32,795 |
 | The Defender of Dragons | 11.00% | ~32,795 |
 | Loom for Improvement | 11.00% | ~32,795 |
@@ -32,11 +32,11 @@ Rating: 4.76 (Ranked 120)
 | Raising Expectations | 6.00% | ~17,888 |
 | The Toast of the Town | 5.00% | ~14,907 |
 | The Ends Petrify the Means | 5.00% | ~14,907 |
-| Going Through the Potions | 4.00% | ~11,925 |
-| Room with a View | 4.00% | ~11,925 |
-| The Intrepid Explorer | 4.00% | ~11,925 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,925 |
-| The Wise Owl | 4.00% | ~11,925 |
+| Going Through the Potions | 4.00% | ~11,926 |
+| Room with a View | 4.00% | ~11,926 |
+| The Intrepid Explorer | 4.00% | ~11,926 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,926 |
+| The Wise Owl | 4.00% | ~11,926 |
 | Put Down Roots | 3.00% | ~8,944 |
 | The Auror's Apprentice | 3.00% | ~8,944 |
 | Floo Around the World | 3.00% | ~8,944 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,137 (Ranked 46)  
+Progressed: 298,138 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 483 (0.16%) (Ranked 229)
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
-| 2023-10-10 | 298,137 | 483 |
+| 2023-10-10 | 298,138 | 483 |
 ## Awards
 Max (Character Customization): 23,405  (Ranked 17)  
 Sum: 45,492 (Ranked 31)  

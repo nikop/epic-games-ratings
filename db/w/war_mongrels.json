@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-10-09T16:05:01.5393853+00:00",
       "NumProgressed": 534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T14:04:52.1002658+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1832,7 +1837,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -1912,7 +1917,7 @@
       "Name": "Cowardice",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1952,7 +1957,7 @@
       "Name": "Opportunities",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2000,7 +2005,7 @@
       "Name": "Atonement",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_HARD_1",
@@ -2024,7 +2029,7 @@
       "Name": "Helping Hand",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2048,7 +2053,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2072,7 +2077,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2080,7 +2085,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2096,7 +2101,7 @@
       "Name": "Eat Lead!",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2104,7 +2109,7 @@
       "Name": "Food Massacre",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2159,15 +2164,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:10:43.2462954+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:04:52.1002653+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.9487079+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:05:00.8609976+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:10:43.246357+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:59:12.1477788+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:04:52.100313+00:00"
 }

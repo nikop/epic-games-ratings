@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2961,9 +2961,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 409
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3008,8 +3008,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:11:28.9370319+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:05:35.5636332+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:06:03.9384866+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:11:28.9370972+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:00:10.52593+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:05:35.5637115+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -524,9 +524,9 @@
       "ID": "ClearedAllLevels10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Odysseus",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClearedAllLevels1TimeAchievement",
@@ -908,9 +908,9 @@
       "ID": "Killed100000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Godlike",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Killed10000EnemiesAchievement",
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:10:07.6666605+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:04:17.35044+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:02.1415967+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:06:05.2160881+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:10:07.6668581+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:00:11.6395922+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:04:17.3505976+00:00"
 }

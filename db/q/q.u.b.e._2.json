@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -356,7 +356,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 730,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -2731,6 +2731,11 @@
       "Time": "2023-10-10T13:12:59.7284618+00:00",
       "NumProgressed": 729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T14:07:03.7183402+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2759,7 +2764,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -2893,17 +2898,17 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_PEAK",
@@ -2959,7 +2964,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_STATUE",
@@ -2967,22 +2972,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 730,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:12:59.7284614+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:07:03.7183397+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:04:38.9182343+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:12:59.7285058+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:58:51.2176609+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:07:03.7183812+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3068,9 +3068,9 @@
       "Count": 321
     }
   ],
-  "EOS_Progressed": 16874,
+  "EOS_Progressed": 16875,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -11778,6 +11778,11 @@
       "Time": "2023-10-10T11:05:04.1485243+00:00",
       "NumProgressed": 16874,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-10T14:05:00.2624213+00:00",
+      "NumProgressed": 16875,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -11829,7 +11834,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "HumanUtopia",
@@ -11861,7 +11866,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Win5Years",
@@ -11941,7 +11946,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WinNearFertile",
@@ -11957,7 +11962,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WinNearForbidden",
@@ -11965,7 +11970,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WinNearHaunted",
@@ -12029,7 +12034,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WinNearTorrent",
@@ -12133,7 +12138,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "WinWithRuins",
@@ -12141,7 +12146,7 @@
       "Name": "Ruins",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WinWithTimedOrders",
@@ -12188,15 +12193,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16874,
+      "Progressed": 16875,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-09T09:03:19.5331526+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:10:51.9148346+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:05:00.2624209+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.9609132+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:08:11.9330401+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:10:51.9149442+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:03:14.6644478+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:05:00.2624934+00:00"
 }

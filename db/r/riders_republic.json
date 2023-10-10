@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -8044,10 +8044,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 6374,
       "NumberOfAwardsMax": 691
+    },
+    {
+      "Time": "2023-10-10T14:00:18.9239718+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6382,
+      "NumberOfAwardsMax": 691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6374,
+  "NumberOfAwards": 6382,
   "NumberOfAwardsMax": 691,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -8121,7 +8127,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 601
+      "Count": 609
     },
     {
       "Text": "This game has a Creative Community",
@@ -8141,8 +8147,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-10-10T01:42:35.9065943+00:00",
+  "LastChanged": "2023-10-10T14:00:18.9239717+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.7179933+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:06:12.6904411+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:13:44.5063656+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:00:18.9239722+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:08:06.0633422+00:00"
 }

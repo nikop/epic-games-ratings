@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 443,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-10-05T21:08:38.9698543+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T14:04:21.7598955+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -306,7 +311,7 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -330,7 +335,7 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -338,7 +343,7 @@
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -378,7 +383,7 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -386,7 +391,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -394,7 +399,7 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -402,7 +407,7 @@
       "ID": "DANGEROUS_MEDUSA",
       "SetID": "e4de54",
       "Name": "Dangerous Medusa",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -426,7 +431,7 @@
       "ID": "GIFT_OF_THE_ANCIENTS",
       "SetID": "e4de54",
       "Name": "Gift of the ancients",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -466,7 +471,7 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -482,7 +487,7 @@
       "ID": "LABYRINTH_EXPLORER",
       "SetID": "e4de54",
       "Name": "Labyrinth explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -492,13 +497,13 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MEDUSA_GAZE",
       "SetID": "e4de54",
       "Name": "Medusa gaze",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -506,7 +511,7 @@
       "ID": "MEDUSA_SECRET",
       "SetID": "e4de54",
       "Name": "Medusa secret",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -514,7 +519,7 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -562,7 +567,7 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -586,7 +591,7 @@
       "ID": "THE_CUP_OF_HEBE",
       "SetID": "e4de54",
       "Name": "The cup of Hebe",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -595,14 +600,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:10:12.4155399+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:04:21.759895+00:00",
   "LastUpdate_AppInfo": "2023-10-07T02:12:11.3049242+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:03:19.6223492+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:10:12.4155739+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:57:36.6401344+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:04:21.7599223+00:00"
 }

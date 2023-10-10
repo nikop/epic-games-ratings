@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3768,9 +3768,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 74495,
+  "EOS_Progressed": 74496,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23213,6 +23213,11 @@
       "Time": "2023-10-10T13:11:44.9569077+00:00",
       "NumProgressed": 74495,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-10T14:05:51.0543067+00:00",
+      "NumProgressed": 74496,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23256,7 +23261,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8194
+      "UsersEstimate": 8195
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -23320,7 +23325,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23093
+      "UsersEstimate": 23094
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -23328,7 +23333,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23838
+      "UsersEstimate": 23839
     },
     {
       "ID": "complete_mission_1",
@@ -23344,7 +23349,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24583
+      "UsersEstimate": 24584
     },
     {
       "ID": "customize_a_weapon",
@@ -23352,7 +23357,7 @@
       "Name": "Optimized",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26818
+      "UsersEstimate": 26819
     },
     {
       "ID": "cutting_edge_materials",
@@ -23416,7 +23421,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8939
+      "UsersEstimate": 8940
     },
     {
       "ID": "empire_tier_5",
@@ -23432,7 +23437,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 23838
+      "UsersEstimate": 23839
     },
     {
       "ID": "fully_complete_a_building",
@@ -23472,7 +23477,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26818
+      "UsersEstimate": 26819
     },
     {
       "ID": "hit_max_level",
@@ -23520,7 +23525,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25328
+      "UsersEstimate": 25329
     },
     {
       "ID": "one_third_purple",
@@ -23647,22 +23652,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74495,
+      "Progressed": 74496,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46132,
-      "Completed": 4068
+      "Progressed": 46133,
+      "Completed": 4069
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-09T20:00:41.2088208+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:11:44.9569071+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:05:51.0543061+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:06:44.3352153+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:11:44.957112+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:00:49.8552205+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:05:51.0544352+00:00"
 }

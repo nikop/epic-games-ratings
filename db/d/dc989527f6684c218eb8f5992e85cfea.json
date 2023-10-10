@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12398,
+  "EOS_Progressed": 12401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11691,6 +11691,11 @@
       "Time": "2023-10-10T13:11:02.6103676+00:00",
       "NumProgressed": 12398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T14:05:10.6429697+00:00",
+      "NumProgressed": 12401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11732,9 +11737,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Shape Novice!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
@@ -11774,7 +11779,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5455
+      "UsersEstimate": 5456
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11901,14 +11906,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12398,
+      "Progressed": 12401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:11:02.6103671+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:05:10.6429689+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:03:17.3917718+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:11:02.6104505+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:57:16.1901198+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:05:10.6430344+00:00"
 }

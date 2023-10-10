@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1254,9 +1254,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19750,
+  "EOS_Progressed": 19751,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -20024,6 +20024,11 @@
       "Time": "2023-10-10T13:09:20.1702714+00:00",
       "NumProgressed": 19750,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-10T14:03:31.9216407+00:00",
+      "NumProgressed": 19751,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20075,7 +20080,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -20131,7 +20136,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8492
+      "UsersEstimate": 8493
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -20155,7 +20160,7 @@
       "Name": "Just A Man",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "LegacyDrivers",
@@ -20171,7 +20176,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15010
+      "UsersEstimate": 15011
     },
     {
       "ID": "MoreThanHuman",
@@ -20187,7 +20192,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "ObedientMachine",
@@ -20259,7 +20264,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10665
+      "UsersEstimate": 10666
     },
     {
       "ID": "RunningWild",
@@ -20267,7 +20272,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "Scrapped",
@@ -20394,21 +20399,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19750,
+      "Progressed": 19751,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19750,
+      "Progressed": 19751,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-09T16:58:44.980826+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:09:20.1702709+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:03:31.9216401+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:04:31.3050081+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:09:20.1704638+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:58:44.084903+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:03:31.9217614+00:00"
 }

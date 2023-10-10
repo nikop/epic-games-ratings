@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,430 |
+| The Shutdown | 66.00% | ~309,431 |
 | Jeef Skeejj | 44.00% | ~206,287 |
-| Careful planning | 39.00% | ~182,845 |
-| Second Coming | 34.00% | ~159,403 |
+| Careful planning | 39.00% | ~182,846 |
+| Second Coming | 34.00% | ~159,404 |
 | Jeef Skagg | 30.00% | ~140,650 |
-| Mother | 25.00% | ~117,208 |
+| Mother | 25.00% | ~117,209 |
 | In space, no one can hear you scream | 24.00% | ~112,520 |
-| Chapter I: Echoes | 22.00% | ~103,143 |
-| Excelsior Rule | 22.00% | ~103,143 |
+| Chapter I: Echoes | 22.00% | ~103,144 |
+| Excelsior Rule | 22.00% | ~103,144 |
 | Things persisted in not being what they seemed | 20.00% | ~93,767 |
 | Knightmare Frames | 15.00% | ~70,325 |
 | May His passing cleanse the world | 15.00% | ~70,325 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,325 |
 | Tetsuo | 11.00% | ~51,572 |
 | Plan for the worst | 11.00% | ~51,572 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,883 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,884 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,507 |
 | Through the mirror | 8.00% | ~37,507 |
 | General Vivar | 8.00% | ~37,507 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,688 |
 | A Frozen Lady | 1.00% | ~4,688 |
 | Void Rule | 1.00% | ~4,688 |
-| Excelsior Mastery | 0.90% | ~4,219 |
+| Excelsior Mastery | 0.90% | ~4,220 |
 | The greatest admiral of all time | 0.50% | ~2,344 |
 | Hand of the Emperor | 0.40% | ~51 |
 | Soldiers of Fortune | 0.30% | ~38 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,833 (Ranked 37)  
+Progressed: 468,835 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 18 (0.00%) (Ranked 312)
 | 2023-10-07 | 468,687 | 18 |
 | 2023-10-08 | 468,744 | 18 |
 | 2023-10-09 | 468,804 | 18 |
-| 2023-10-10 | 468,833 | 18 |
+| 2023-10-10 | 468,835 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 268)  
 Sum: 242 (Ranked 364)  

@@ -18,9 +18,9 @@
 | An act of courage | 11.00% | ~5 |
 | Health | 11.00% | ~5 |
 | Mayhem | 11.00% | ~5 |
+| Clarity | 9.00% | ~4 |
 | Lost | 9.00% | ~4 |
 | Art critic | 6.00% | ~3 |
-| Clarity | 6.00% | ~3 |
 | An act of mercy | 4.00% | ~2 |
 | Ad Infinitum | 4.00% | ~2 |
 | Jigsaw | 4.00% | ~2 |

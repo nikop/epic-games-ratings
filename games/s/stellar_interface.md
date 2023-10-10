@@ -89,9 +89,11 @@
 | Merchant Prince III | 3.00% | ~2 |
 | Magic Bronze mirror; on the wall | 2.00% | ~1 |
 | Rambo VI | 2.00% | ~1 |
+| Space Odysseus | 2.00% | ~1 |
 | Unbalanced | 2.00% | ~1 |
 | Golden Tovarish | 2.00% | ~1 |
 | Archer's Golden Fate | 2.00% | ~1 |
+| Godlike | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
@@ -103,7 +105,6 @@
 | Providence | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
-| Space Odysseus | 0.00% | ~0 |
 | Argonaut | 0.00% | ~0 |
 | Voyager 3 | 0.00% | ~0 |
 | Pedal to the Metal | 0.00% | ~0 |
@@ -125,7 +126,6 @@
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |
-| Godlike | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |

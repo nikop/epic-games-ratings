@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3988,10 +3988,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7680,
       "NumberOfAwardsMax": 999
+    },
+    {
+      "Time": "2023-10-10T13:59:44.0149423+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7681,
+      "NumberOfAwardsMax": 999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7680,
+  "NumberOfAwards": 7681,
   "NumberOfAwardsMax": 999,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4047,7 +4053,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 767
+      "Count": 768
     },
     {
       "Text": "This game has a Creative Community",
@@ -4062,11 +4068,11 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10699,
-  "EOS_Completed": 253,
+  "EOS_Progressed": 10700,
+  "EOS_Completed": 254,
   "EOS_NewPlayers": 185,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 2.36,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -15447,6 +15453,11 @@
       "Time": "2023-10-10T11:04:16.3341962+00:00",
       "NumProgressed": 10699,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-10-10T14:04:10.9932872+00:00",
+      "NumProgressed": 10700,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 15,
@@ -15498,7 +15509,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "Duty_Bound",
@@ -15530,7 +15541,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7489
+      "UsersEstimate": 7490
     },
     {
       "ID": "Miner",
@@ -15546,7 +15557,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7382
+      "UsersEstimate": 7383
     },
     {
       "ID": "Renovator",
@@ -15554,7 +15565,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "Thorn_Cleaner",
@@ -15570,23 +15581,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10699,
-      "Completed": 253
+      "Progressed": 10700,
+      "Completed": 254
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-10T12:00:08.6514375+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:10:01.2822488+00:00",
+  "LastChanged": "2023-10-10T13:59:44.014942+00:00",
+  "LastChanged_Achievements": "2023-10-10T14:04:10.9932868+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:05:35.3460431+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:10:01.282356+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:59:44.0149427+00:00",
+  "LastUpdate_Achievements": "2023-10-10T14:04:10.993346+00:00"
 }
