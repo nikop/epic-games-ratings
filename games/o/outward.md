@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Family | 17.00% | ~607 |
 | A Fortress Toppled! | 16.00% | ~571 |
 | Apex Predator | 16.00% | ~571 |
+| The Power of Faith | 13.00% | ~464 |
 | Strange amalgams | 12.00% | ~428 |
-| The Power of Faith | 12.00% | ~428 |
 | The Power of Freedom | 10.00% | ~357 |
 | Ace Detective | 8.00% | ~285 |
 | Gift from the Ancestors | 8.00% | ~285 |

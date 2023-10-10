@@ -306,9 +306,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -330,9 +330,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -370,9 +370,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -418,9 +418,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -449,8 +449,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:03:28.5505708+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:03:23.4384847+00:00",
   "LastUpdate_AppInfo": "2023-10-10T17:57:11.5504269+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:16.5746811+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:03:28.550586+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:10.7227346+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:03:23.438502+00:00"
 }

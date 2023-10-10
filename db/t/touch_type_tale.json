@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -4259,9 +4259,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2841
     },
     {
       "ID": "campaign20",
@@ -4396,8 +4396,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:05:19.9267102+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:05:19.0202568+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:08.2021033+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:58:15.3768507+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:05:19.9267612+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:58:08.4054543+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:05:19.0203094+00:00"
 }

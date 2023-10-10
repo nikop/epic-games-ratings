@@ -250,9 +250,9 @@
       "ID": "a24",
       "SetID": "cdg65ol",
       "Name": "Caught Ya!",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a25",
@@ -290,9 +290,9 @@
       "ID": "a29",
       "SetID": "cdg65ol",
       "Name": "Return to sender",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a3",
@@ -306,9 +306,9 @@
       "ID": "a30",
       "SetID": "cdg65ol",
       "Name": "Fantastic Fungi",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a31",
@@ -322,9 +322,9 @@
       "ID": "a32",
       "SetID": "cdg65ol",
       "Name": "Just Here for the Food",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a33",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:04:29.9034713+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:04:29.4025654+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:42.2130803+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:04:29.9035016+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:37.3404322+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:04:29.4025945+00:00"
 }

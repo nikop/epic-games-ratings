@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -1486,6 +1486,11 @@
       "Time": "2023-10-10T17:09:10.4387045+00:00",
       "NumProgressed": 568,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T19:02:29.3473916+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1610,7 +1615,7 @@
       "Name": "Distinguished",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_23",
@@ -1634,7 +1639,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_26",
@@ -1722,7 +1727,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_36",
@@ -1736,9 +1741,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_38",
@@ -1770,7 +1775,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_41",
@@ -1906,7 +1911,7 @@
       "Name": "Support the troops",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_57",
@@ -1978,7 +1983,7 @@
       "Name": "A cunning warrior",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_8",
@@ -2001,13 +2006,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 1
     }
   ],
@@ -2015,8 +2020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:09:10.438704+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:02:29.3473911+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:02:23.0175831+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:09:10.4388176+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:02:27.2254198+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:02:29.3480596+00:00"
 }

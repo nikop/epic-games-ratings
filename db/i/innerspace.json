@@ -2,13 +2,13 @@
   "ID": "387bc8d3398a40f7ae14de417b4acefc",
   "Name": "InnerSpace",
   "ProductSlug": "innerspace",
-  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
-    "ReleaseDate": "2018-01-16T16:00:00+00:00",
-    "PcReleaseDate": null,
+    "ReleaseDate": "2020-02-27T16:00:00+00:00",
+    "PcReleaseDate": "2018-01-16T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "{}"
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.7192229+00:00",
   "LastChanged": "2023-03-31T05:58:18.719223+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:07.4161422+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:00:48.4305454+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:04:43.7819148+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:00:42.5615533+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:04:42.4936165+00:00"
 }

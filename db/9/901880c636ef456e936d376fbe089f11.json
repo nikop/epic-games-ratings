@@ -416,9 +416,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -712,9 +712,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -791,8 +791,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:08:12.6600457+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:08:17.3647234+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:12.6757392+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:40.1399008+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:08:12.6600951+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:35.6129659+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:08:17.3647736+00:00"
 }

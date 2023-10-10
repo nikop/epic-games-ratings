@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -745,7 +745,7 @@
   ],
   "EOS_Progressed": 3990,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7239,9 +7239,9 @@
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
@@ -7255,8 +7255,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:05:47.8781514+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:05:46.0179748+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:59:22.7135813+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:05:47.8782012+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:59:15.2938155+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:05:46.0180322+00:00"
 }

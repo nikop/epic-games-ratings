@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 689)  
+Rating: 4.43 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~10,064 |
-| IT MAKES BOOM! | 3.00% | ~6,039 |
-| EXTRA BOOST | 2.00% | ~4,026 |
-| PROTECTED | 1.00% | ~2,013 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,013 |
-| PRO | 1.00% | ~2,013 |
-| AGGRESSIVE RACER | 0.90% | ~1,812 |
-| A TIGER'S FEAR | 0.80% | ~1,610 |
-| ACE SPEEDSTER | 0.50% | ~1,006 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~805 |
-| DEFEAT OUR CHAMPION | 0.40% | ~805 |
-| MASTER | 0.40% | ~805 |
-| PERFECTLY POISED | 0.30% | ~604 |
-| TRAINING HARD | 0.30% | ~604 |
-| RELEASE THE KRAKEN | 0.30% | ~604 |
-| BE OUR GUEST | 0.30% | ~604 |
-| ACE BRAWLER | 0.30% | ~604 |
-| ACE DEFENDER | 0.30% | ~604 |
-| THE EYE OF THE HUNTER | 0.30% | ~604 |
-| FRIENDLY | 0.30% | ~604 |
-| LEGENDARY HERO | 0.30% | ~604 |
+| ROOKIE | 5.00% | ~10,079 |
+| IT MAKES BOOM! | 3.00% | ~6,048 |
+| EXTRA BOOST | 2.00% | ~4,032 |
+| PROTECTED | 1.00% | ~2,016 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,016 |
+| PRO | 1.00% | ~2,016 |
+| AGGRESSIVE RACER | 0.90% | ~1,814 |
+| A TIGER'S FEAR | 0.80% | ~1,613 |
+| ACE SPEEDSTER | 0.50% | ~1,008 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~806 |
+| DEFEAT OUR CHAMPION | 0.40% | ~806 |
+| MASTER | 0.40% | ~806 |
+| PERFECTLY POISED | 0.30% | ~605 |
+| TRAINING HARD | 0.30% | ~605 |
+| RELEASE THE KRAKEN | 0.30% | ~605 |
+| BE OUR GUEST | 0.30% | ~605 |
+| ACE BRAWLER | 0.30% | ~605 |
+| ACE DEFENDER | 0.30% | ~605 |
+| THE EYE OF THE HUNTER | 0.30% | ~605 |
+| FRIENDLY | 0.30% | ~605 |
+| LEGENDARY HERO | 0.30% | ~605 |
 | EXPERIENCED CREW | 0.20% | ~403 |
 | FRAMED! | 0.20% | ~403 |
 | ACE TRICKSTER | 0.20% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,288 (Ranked 66)  
+Progressed: 201,584 (Ranked 66)  
 Completed: 227 (0.11%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 227 (0.11%) (Ranked 243)
 | 2023-10-07 | 182,247 | 227 |
 | 2023-10-08 | 191,216 | 227 |
 | 2023-10-09 | 197,568 | 227 |
-| 2023-10-10 | 201,288 | 227 |
+| 2023-10-10 | 201,584 | 227 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -213,4 +213,4 @@ Completed: 227 (0.11%) (Ranked 243)
 | 2023-10-07 | 4.40 | 0 | 0 |
 | 2023-10-08 | 4.42 | 0 | 0 |
 | 2023-10-09 | 4.43 | 0 | 0 |
-| 2023-10-10 | 4.42 | 0 | 0 |
+| 2023-10-10 | 4.43 | 0 | 0 |

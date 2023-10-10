@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.04,
+  "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -861,6 +861,11 @@
       "Time": "2023-10-10T10:09:06.5790489+00:00",
       "NumProgressed": 371,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-10T19:08:43.7454019+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -871,9 +876,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 140,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_CUBES",
@@ -881,7 +886,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_DONUTS",
@@ -889,7 +894,7 @@
       "Name": "Sweet tooth",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -897,7 +902,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -943,23 +948,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 65,
-      "UsersEstimate": 200
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:08:39.3933426+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:08:43.7454009+00:00",
   "LastUpdate_AppInfo": "2023-10-06T13:02:54.461472+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:55.2549064+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:08:39.3933591+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:49.9172663+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:08:43.7454156+00:00"
 }

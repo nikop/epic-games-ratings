@@ -5,12 +5,12 @@ Rating: 4.88 (Ranked 16)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 185,401  (Ranked 6)  
-Sum: 471,864 (Ranked 7)  
+Sum: 472,068 (Ranked 7)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 185,401 |
-| This game has Great Boss Battles | 102,275 |
+| This game has Great Boss Battles | 102,479 |
 | This game is Great for Beginners | 20,076 |
 | This game has Diverse Characters | 19,426 |
 | This game is Highly Recommended | 19,173 |
@@ -285,4 +285,4 @@ Diff (max vs sum): -1
 | 2023-10-07 | 4.88 | - | 184,460 | 468,957 |
 | 2023-10-08 | 4.88 | - | 184,830 | 470,186 |
 | 2023-10-09 | 4.88 | - | 185,145 | 471,079 |
-| 2023-10-10 | 4.88 | - | 185,401 | 471,864 |
+| 2023-10-10 | 4.88 | - | 185,401 | 472,068 |

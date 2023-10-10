@@ -15,13 +15,13 @@
 | A rival with no options | 39.00% | ~9 |
 | Pulp! Terror Tales in the Night | 35.00% | ~8 |
 | Pulp! Out of this World | 35.00% | ~8 |
+| Pulp! Adventures into the Unknown | 35.00% | ~8 |
+| The artist | 30.00% | ~7 |
 | The seer | 30.00% | ~7 |
-| Pulp! Adventures into the Unknown | 30.00% | ~7 |
 | Diagnosis: fear | 30.00% | ~7 |
 | Ambition is... blind | 30.00% | ~7 |
 | You have two wishes left | 30.00% | ~7 |
 | You had one wish left | 26.00% | ~6 |
-| The artist | 26.00% | ~6 |
 | Kirlian's best disciple | 26.00% | ~6 |
 | You've awakened the beast | 22.00% | ~5 |
 | Hate is... addictive | 22.00% | ~5 |

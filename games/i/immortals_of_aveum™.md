@@ -1,36 +1,36 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.03 (Ranked 958)  
+Rating: 4.03 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~68 |
-| Battlefields Have Memories | 89.00% | ~68 |
-| Enlisted | 87.00% | ~66 |
-| Maybe Engage a Little | 82.00% | ~62 |
+| Unforeseen | 88.00% | ~68 |
+| Battlefields Have Memories | 88.00% | ~68 |
+| Enlisted | 86.00% | ~66 |
+| Maybe Engage a Little | 81.00% | ~62 |
 | No More Names | 68.00% | ~52 |
-| Initiate | 62.00% | ~47 |
-| Thrada-Kul | 58.00% | ~44 |
+| Initiate | 61.00% | ~47 |
+| Thrada-Kul | 57.00% | ~44 |
 | Gravity-Challenged Rocks | 47.00% | ~36 |
 | Soldier | 42.00% | ~32 |
-| All the Major Food Groups | 41.00% | ~31 |
-| Beggars Would Ride | 36.00% | ~27 |
+| All the Major Food Groups | 40.00% | ~31 |
+| Beggars Would Ride | 35.00% | ~27 |
 | Control is an Illusion | 34.00% | ~26 |
 | Socialite | 34.00% | ~26 |
-| The Means to Save It | 28.00% | ~21 |
+| The Means to Save It | 27.00% | ~21 |
 | Resilience to Sin | 25.00% | ~19 |
 | A Familiar Nest | 22.00% | ~17 |
 | Periapt Alizarin | 22.00% | ~17 |
 | Geas Aristeya | 21.00% | ~16 |
-| Armsman | 20.00% | ~15 |
+| Armsman | 19.00% | ~15 |
 | A Perfect Cycle | 18.00% | ~14 |
 | Recruit | 18.00% | ~14 |
 | Good Boy | 14.00% | ~11 |
 | Lights Army | 12.00% | ~9 |
 | Periapt Cerulean | 12.00% | ~9 |
-| Periapt Viridian | 11.00% | ~8 |
-| Shroudfane Explorer | 11.00% | ~8 |
+| Periapt Viridian | 10.00% | ~8 |
+| Shroudfane Explorer | 10.00% | ~8 |
 | Armaments Gules | 9.00% | ~7 |
 | Scholar | 8.00% | ~6 |
 | Armaments Azure | 8.00% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.03 (Ranked 958)
 | Out of Time | 0.00% | ~0 |
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 408)  
+Progressed: 77 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-07 | 68 | 0 |
 | 2023-10-08 | 71 | 0 |
 | 2023-10-09 | 75 | 0 |
-| 2023-10-10 | 76 | 0 |
+| 2023-10-10 | 77 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 111,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -417,6 +417,11 @@
       "Time": "2023-10-10T12:04:11.0607312+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T19:03:26.3480463+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -485,7 +490,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achScoutMaxStar",
@@ -507,9 +512,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achSponsor10",
@@ -652,14 +657,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:03:31.5759006+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:03:26.3480456+00:00",
   "LastUpdate_AppInfo": "2023-10-05T09:57:13.8606524+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:58:57.6573171+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:03:31.5759225+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:58:48.5811739+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:03:26.3480687+00:00"
 }

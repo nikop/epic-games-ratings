@@ -2,7 +2,7 @@
   "ID": "7563789523404ae7ba52588adc99963a",
   "Name": "Next Up Hero",
   "ProductSlug": "next-up-hero",
-  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 111,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.4290069+00:00",
   "LastChanged": "2023-03-31T05:58:29.429007+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6385008+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:00:26.22343+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:08:09.4126655+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:00:22.6961126+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:08:14.0434662+00:00"
 }

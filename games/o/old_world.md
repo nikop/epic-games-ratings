@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.80% | ~117 |
 | Christianity | 0.80% | ~117 |
 | Greek Paganism | 0.80% | ~117 |
+| Zoroastrianism | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.70% | ~102 |
 | Carthaginian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
-| Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~87 |
 | Great | 0.60% | ~87 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,580 (Ranked 134)  
+Progressed: 14,582 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,580 | 5 |
+| 2023-10-10 | 14,582 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,832 (Ranked 210)  

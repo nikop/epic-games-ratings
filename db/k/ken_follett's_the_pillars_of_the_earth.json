@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 550,
   "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 137,
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15665,
+  "EOS_Progressed": 15666,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11750,6 +11750,11 @@
       "Time": "2023-10-10T18:08:27.2603333+00:00",
       "NumProgressed": 15665,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-10T19:08:31.929865+00:00",
+      "NumProgressed": 15666,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11801,7 +11806,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "tpote_achievement_15",
@@ -11849,7 +11854,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "tpote_achievement_20",
@@ -11905,7 +11910,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "tpote_achievement_27",
@@ -11945,7 +11950,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "tpote_achievement_31",
@@ -12073,7 +12078,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "tpote_achievement_9",
@@ -12088,15 +12093,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15665,
+      "Progressed": 15666,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:08:27.2603325+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:08:31.9298643+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:28.7905203+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:08:27.2604349+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:26.1439851+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:08:31.9299703+00:00"
 }

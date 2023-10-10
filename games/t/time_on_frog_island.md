@@ -14,6 +14,7 @@
 | Shrub-Seeing: Silly Birbs | 12.00% | ~2 |
 | Yeet! | 12.00% | ~2 |
 | Couch-surfing | 12.00% | ~2 |
+| Caught Ya! | 12.00% | ~2 |
 | Hoist the Sails | 12.00% | ~2 |
 | Secure the Sheets | 12.00% | ~2 |
 | Replace the Rudder | 12.00% | ~2 |
@@ -21,9 +22,11 @@
 | Shrub-Seeing: Ruins of old | 6.00% | ~1 |
 | Sailor Swift | 6.00% | ~1 |
 | No Evil | 6.00% | ~1 |
-| Caught Ya! | 6.00% | ~1 |
 | Safe Investment | 6.00% | ~1 |
 | Bank of Me | 6.00% | ~1 |
+| Return to sender | 6.00% | ~1 |
+| Fantastic Fungi | 6.00% | ~1 |
+| Just Here for the Food | 6.00% | ~1 |
 | Hands on the Helm | 6.00% | ~1 |
 | The Journey Continues | 6.00% | ~1 |
 | Crunch Time | 0.00% | ~0 |
@@ -32,10 +35,7 @@
 | Shrub-Seeing: Ancient Extractor | 0.00% | ~0 |
 | Shrub-Seeing: Seen it all! | 0.00% | ~0 |
 | Honey, I'm Home | 0.00% | ~0 |
-| Return to sender | 0.00% | ~0 |
-| Fantastic Fungi | 0.00% | ~0 |
 | Vandal | 0.00% | ~0 |
-| Just Here for the Food | 0.00% | ~0 |
 | Home Sweet Home | 0.00% | ~0 |
 | Falling with Style | 0.00% | ~0 |
 | Froggy Friendship | 0.00% | ~0 |

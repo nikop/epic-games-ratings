@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18721,
+  "EOS_Progressed": 18723,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -14182,6 +14182,11 @@
       "Time": "2023-10-10T18:03:11.1591502+00:00",
       "NumProgressed": 18721,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-10T19:03:06.5037775+00:00",
+      "NumProgressed": 18723,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -14193,7 +14198,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14602
+      "UsersEstimate": 14604
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14201,7 +14206,7 @@
       "Name": "After All",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -14233,7 +14238,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -14249,7 +14254,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9922
+      "UsersEstimate": 9923
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -14304,15 +14309,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18721,
+      "Progressed": 18723,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:03:11.1591496+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:03:06.503777+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:21.9661267+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:03:11.1592411+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:15.7387003+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:03:06.5038848+00:00"
 }

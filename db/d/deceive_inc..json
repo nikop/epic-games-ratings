@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18323,
+  "EOS_Progressed": 18324,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11351,6 +11351,11 @@
       "Time": "2023-10-10T18:05:26.9720064+00:00",
       "NumProgressed": 18323,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-10T19:05:25.5363744+00:00",
+      "NumProgressed": 18324,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11578,7 +11583,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4215
     },
     {
       "ID": "0029",
@@ -11649,7 +11654,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18323,
+      "Progressed": 18324,
       "Completed": 4
     }
   ],
@@ -11657,8 +11662,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:05:26.9720058+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:05:25.5363738+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
   "LastUpdate_Ratings": "2023-10-10T18:00:49.6395856+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:05:26.9720923+00:00"
+  "LastUpdate_Achievements": "2023-10-10T19:05:25.5364735+00:00"
 }

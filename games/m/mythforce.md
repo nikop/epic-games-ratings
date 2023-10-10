@@ -27,7 +27,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 3.00% | ~120 |
 | Season Finale | 3.00% | ~120 |
 | The Fourth Gate | 1.00% | ~40 |
-| Vexed Her | 0.30% | ~12 |
+| Vexed Her | 0.40% | ~16 |
 | Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,990 (Ranked 177)  

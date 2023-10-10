@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 170,
@@ -6431,9 +6431,9 @@
       "ID": "ACH_PRESENT",
       "SetID": "5nj1ea3",
       "Name": "A gift",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -6552,8 +6552,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-10T18:03:34.7561608+00:00",
+  "LastChanged_Achievements": "2023-10-10T19:03:29.4361538+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.9846058+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:57:19.7340201+00:00",
-  "LastUpdate_Achievements": "2023-10-10T18:03:34.7562551+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:57:13.7875249+00:00",
+  "LastUpdate_Achievements": "2023-10-10T19:03:29.4362515+00:00"
 }

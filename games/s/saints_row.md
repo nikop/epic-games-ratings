@@ -1,43 +1,43 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.79 (Ranked 999)  
+Rating: 3.79 (Ranked 1,000)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~34,279 |
-| To The Nines | 42.00% | ~31,298 |
-| Optimized | 36.00% | ~26,827 |
-| Performance Review | 36.00% | ~26,827 |
-| Making a Name | 34.00% | ~25,336 |
-| Tune Up | 33.00% | ~24,591 |
-| Wet Work | 32.00% | ~23,846 |
-| Landlord | 32.00% | ~23,846 |
-| The Side Job | 31.00% | ~23,101 |
-| Wrecking Ball | 28.00% | ~20,865 |
-| Food for Thought | 27.00% | ~20,120 |
-| Finders Keepers | 25.00% | ~18,630 |
-| A Young Empire | 25.00% | ~18,630 |
-| Work Ethic | 23.00% | ~17,139 |
-| Picking Fights | 20.00% | ~14,904 |
-| Power Players | 19.00% | ~14,159 |
-| Quality Time | 18.00% | ~13,413 |
-| Et tu? | 17.00% | ~12,668 |
-| Showdown | 16.00% | ~11,923 |
-| Took It to The Limit | 16.00% | ~11,923 |
-| Kitted Out | 14.00% | ~10,433 |
-| Masters of Santo Ileso | 12.00% | ~8,942 |
-| Hijacked | 11.00% | ~8,197 |
-| The Spins | 10.00% | ~7,452 |
-| The Mechanic | 10.00% | ~7,452 |
+| First F#@!ing Day | 46.00% | ~34,282 |
+| To The Nines | 42.00% | ~31,301 |
+| Optimized | 37.00% | ~27,575 |
+| Performance Review | 36.00% | ~26,830 |
+| Making a Name | 34.00% | ~25,339 |
+| Tune Up | 33.00% | ~24,594 |
+| Wet Work | 32.00% | ~23,849 |
+| Landlord | 32.00% | ~23,849 |
+| The Side Job | 31.00% | ~23,103 |
+| Wrecking Ball | 28.00% | ~20,868 |
+| Food for Thought | 27.00% | ~20,122 |
+| Finders Keepers | 25.00% | ~18,632 |
+| A Young Empire | 25.00% | ~18,632 |
+| Work Ethic | 23.00% | ~17,141 |
+| Picking Fights | 20.00% | ~14,905 |
+| Power Players | 19.00% | ~14,160 |
+| Quality Time | 18.00% | ~13,415 |
+| Et tu? | 17.00% | ~12,670 |
+| Showdown | 16.00% | ~11,924 |
+| Took It to The Limit | 16.00% | ~11,924 |
+| Kitted Out | 14.00% | ~10,434 |
+| Masters of Santo Ileso | 12.00% | ~8,943 |
+| Hijacked | 11.00% | ~8,198 |
+| The Spins | 10.00% | ~7,453 |
+| The Mechanic | 10.00% | ~7,453 |
 | Closet Space | 8.00% | ~5,962 |
-| We could go home, or… | 7.00% | ~5,216 |
-| Challenge Accepted | 7.00% | ~5,216 |
-| A Golden Age | 7.00% | ~5,216 |
+| We could go home, or… | 7.00% | ~5,217 |
+| Challenge Accepted | 7.00% | ~5,217 |
+| A Golden Age | 7.00% | ~5,217 |
 | Producer Credit | 7.00% | ~3,231 |
-| Chaos Tamer | 6.00% | ~4,471 |
-| Face Off | 6.00% | ~2,769 |
+| Chaos Tamer | 6.00% | ~4,472 |
+| Face Off | 6.00% | ~2,770 |
 | The Professional | 5.00% | ~3,726 |
 | Untouchable | 5.00% | ~3,726 |
 | Free Refills | 5.00% | ~3,726 |
@@ -49,7 +49,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Shopping Spree | 3.00% | ~2,236 |
 | Always Be Hustling | 3.00% | ~2,236 |
 | Community Outreach | 3.00% | ~2,236 |
-| Bonus Round | 2.00% | ~1,490 |
+| Bonus Round | 2.00% | ~1,491 |
 | It's a Bird! | 1.00% | ~745 |
 | The Collector | 1.00% | ~745 |
 | All Mine | 1.00% | ~745 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~149 |
 | Fiesta Time | 0.20% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,519 (Ranked 90)  
+Progressed: 74,527 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,14 +233,14 @@ Completed: 51 (0.07%) (Ranked 259)
 | 2023-10-07 | 74,141 | 51 |
 | 2023-10-08 | 74,308 | 51 |
 | 2023-10-09 | 74,444 | 51 |
-| 2023-10-10 | 74,519 | 51 |
+| 2023-10-10 | 74,527 | 51 |
 ## Awards
-Max (Extremely Fun): 1,068  (Ranked 142)  
-Sum: 8,671 (Ranked 97)  
+Max (Extremely Fun): 1,069  (Ranked 142)  
+Sum: 8,672 (Ranked 97)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 1,068 |
+| This game is Extremely Fun | 1,069 |
 | This game has Quickly Understood Controls | 1,040 |
 | This game is Highly Recommended | 1,009 |
 | This game is Great for Beginners | 1,004 |
@@ -446,3 +446,4 @@ Diff (max vs sum): 45
 | 2023-10-07 | 3.79 | - | 1,068 | 8,667 |
 | 2023-10-08 | 3.79 | - | 1,068 | 8,670 |
 | 2023-10-09 | 3.79 | - | 1,068 | 8,671 |
+| 2023-10-10 | 3.79 | - | 1,069 | 8,672 |
