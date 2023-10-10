@@ -4,8 +4,8 @@
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12864,
+  "EOS_Progressed": 12865,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1717,
+  "EOS_NewPlayers": 1715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2405,6 +2405,11 @@
       "Time": "2023-10-10T22:09:18.9656042+00:00",
       "NumProgressed": 12864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T23:09:36.6715928+00:00",
+      "NumProgressed": 12865,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -2417,7 +2422,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_10",
@@ -2449,7 +2454,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 9519
+      "UsersEstimate": 9520
     },
     {
       "ID": "achievement_14",
@@ -2489,7 +2494,7 @@
       "Name": "Eager Beaver",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 5917
+      "UsersEstimate": 5918
     },
     {
       "ID": "achievement_19",
@@ -2521,7 +2526,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9005
+      "UsersEstimate": 9006
     },
     {
       "ID": "achievement_3",
@@ -2535,9 +2540,9 @@
       "ID": "achievement_4",
       "SetID": "akc8324",
       "Name": "Lovely",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4760
     },
     {
       "ID": "achievement_5",
@@ -2569,7 +2574,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 9262
+      "UsersEstimate": 9263
     },
     {
       "ID": "achievement_9",
@@ -2584,13 +2589,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 12864,
+      "Progressed": 12865,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:09:18.9656037+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:09:36.6715922+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:34.5342785+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:57:32.9642191+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:09:18.9656349+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:57:45.9785315+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:09:36.6716302+00:00"
 }

@@ -25,13 +25,13 @@
 | Alchemists Express | 3.00% | ~8 |
 | Rascal | 3.00% | ~8 |
 | Champollion | 3.00% | ~8 |
-| Free at last | 2.00% | ~5 |
-| A Link to the Past | 2.00% | ~5 |
+| Free at last | 2.00% | ~6 |
+| A Link to the Past | 2.00% | ~6 |
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 319)  
-Completed: 19 (6.93%) (Ranked 49)  
+Progressed: 275 (Ranked 319)  
+Completed: 19 (6.91%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,4 +112,4 @@ Completed: 19 (6.93%) (Ranked 49)
 | 2023-10-07 | 259 | 17 |
 | 2023-10-08 | 267 | 18 |
 | 2023-10-09 | 273 | 19 |
-| 2023-10-10 | 274 | 19 |
+| 2023-10-10 | 275 | 19 |

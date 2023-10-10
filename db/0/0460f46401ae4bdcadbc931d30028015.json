@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -352,9 +352,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2177,6 +2177,11 @@
       "Time": "2023-10-10T22:07:32.9994461+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T23:08:10.0655088+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2213,7 +2218,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_13",
@@ -2229,7 +2234,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "achievement_15",
@@ -2285,7 +2290,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "achievement_21",
@@ -2325,7 +2330,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_7",
@@ -2341,7 +2346,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_9",
@@ -2356,7 +2361,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 0
     }
   ],
@@ -2364,8 +2369,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-10T18:58:43.9372112+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:07:32.9994456+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:08:10.0655082+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:59:13.7355797+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:07:32.999473+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:59:27.8271563+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:08:10.0655376+00:00"
 }

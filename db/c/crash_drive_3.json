@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -964,8 +964,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:05:42.0045968+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:06:05.824989+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:18.4317224+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:32.1924961+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:05:42.0046499+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:47.8400729+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:06:05.8250439+00:00"
 }

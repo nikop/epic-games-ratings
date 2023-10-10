@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -426,9 +426,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248675,
+  "EOS_Progressed": 248676,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19786,6 +19786,11 @@
       "Time": "2023-10-10T22:09:15.0676706+00:00",
       "NumProgressed": 248675,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T23:09:32.7879872+00:00",
+      "NumProgressed": 248676,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19797,7 +19802,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67142
+      "UsersEstimate": 67143
     },
     {
       "ID": "ACH_AON",
@@ -20077,7 +20082,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14920
+      "UsersEstimate": 14921
     },
     {
       "ID": "ACH_MEMORY5",
@@ -20165,7 +20170,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14920
+      "UsersEstimate": 14921
     },
     {
       "ID": "ACH_TROLLKING",
@@ -20212,7 +20217,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248675,
+      "Progressed": 248676,
       "Completed": 7
     }
   ],
@@ -20220,8 +20225,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-08T20:58:55.4987227+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:09:15.06767+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:09:32.7879864+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:41.0246667+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:09:15.0678362+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:56.7757256+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:09:32.7881815+00:00"
 }

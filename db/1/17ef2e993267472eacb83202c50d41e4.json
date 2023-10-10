@@ -3,12 +3,12 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 988,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7061,
+  "EOS_Progressed": 7063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3893,6 +3893,11 @@
       "Time": "2023-10-10T22:09:19.1007841+00:00",
       "NumProgressed": 7061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T23:09:36.9340581+00:00",
+      "NumProgressed": 7063,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -3913,7 +3918,7 @@
       "Name": "Upgraded Accelerated Reload to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ArachnidKills1",
@@ -3929,7 +3934,7 @@
       "Name": "Purchased Blink Dash",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BIUpgraded1",
@@ -3969,7 +3974,7 @@
       "Name": "Upgraded Deflector Helmet to Level 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EARUpgraded1",
@@ -4001,7 +4006,7 @@
       "Name": "Purchased Flameburst Grenade",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "FRUpgraded1",
@@ -4097,7 +4102,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "HAUpgraded1",
@@ -4161,7 +4166,7 @@
       "Name": "Upgraded Incoming Heal Boost to Level 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "IRPurchased1",
@@ -4241,7 +4246,7 @@
       "Name": "Destroyed 3 Inhibitors in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MaxMinionKills150",
@@ -4249,7 +4254,7 @@
       "Name": "Eliminated 150 Minions in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MaxNeutralKills150",
@@ -4385,7 +4390,7 @@
       "Name": "Purchased Rally Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "RFSPurchased1",
@@ -4409,7 +4414,7 @@
       "Name": "Upgraded Shield Enhancements to Level 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SMGUpgraded1",
@@ -4473,7 +4478,7 @@
       "Name": "Purchased Team Shield Ultimate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TowerKills11",
@@ -4489,14 +4494,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7061,
+      "Progressed": 7063,
       "Completed": 1
     }
   ],
@@ -4504,8 +4509,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:09:19.1007834+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:09:36.9340574+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:58:31.0909168+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:09:19.1008897+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:58:45.2175137+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:09:36.9341727+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -2885,9 +2885,9 @@
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_33",
@@ -3070,8 +3070,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:05:47.4099839+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:06:11.3577443+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:57:47.3995078+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:05:47.4100293+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:58:00.7539496+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:06:11.357816+00:00"
 }

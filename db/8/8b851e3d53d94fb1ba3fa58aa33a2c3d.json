@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "APHRODITE",
@@ -340,17 +340,17 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ATTENTIVENESS",
@@ -404,9 +404,9 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -420,9 +420,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -476,9 +476,9 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:04:24.1098641+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:04:43.7576505+00:00",
   "LastUpdate_AppInfo": "2023-10-07T02:12:11.3049242+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:57:38.2269576+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:04:24.1098941+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:57:50.7658067+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:04:43.7576836+00:00"
 }

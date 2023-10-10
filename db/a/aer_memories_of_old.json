@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 94,
@@ -410,7 +410,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21862,
+  "EOS_Progressed": 21863,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 9,
@@ -19045,6 +19045,11 @@
       "Time": "2023-10-10T22:06:00.6221672+00:00",
       "NumProgressed": 21862,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-10-10T23:06:25.5479921+00:00",
+      "NumProgressed": 21863,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 20,
@@ -19112,7 +19117,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -19168,7 +19173,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "INTRO_FINISHED",
@@ -19176,7 +19181,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16834
+      "UsersEstimate": 16835
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19184,7 +19189,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19215,15 +19220,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21862,
+      "Progressed": 21863,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:06:00.6221667+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:06:25.5479916+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:34.0727093+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:06:00.6222662+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:49.765281+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:06:25.5481536+00:00"
 }

@@ -18,8 +18,8 @@
 | Reconciliation | 20.00% | ~18 |
 | Always Watchful | 19.00% | ~17 |
 | Chapter 7 Complete | 19.00% | ~17 |
+| Bounty Hunter | 16.00% | ~15 |
 | The Terror | 16.00% | ~15 |
-| Bounty Hunter | 15.00% | ~14 |
 | Battle Ready | 14.00% | ~13 |
 | All Geared Up | 13.00% | ~12 |
 | The End | 13.00% | ~12 |

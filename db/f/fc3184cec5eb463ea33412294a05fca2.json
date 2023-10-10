@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1160,17 +1160,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1256,9 +1256,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1295,8 +1295,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:07:02.1574966+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:07:28.2784882+00:00",
   "LastUpdate_AppInfo": "2023-10-07T21:57:04.7269587+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:57:32.1700288+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:07:02.157513+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:57:45.1278838+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:07:28.2785082+00:00"
 }

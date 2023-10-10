@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 818,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 82,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
+  "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -473,9 +473,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88404,
+  "EOS_Progressed": 88410,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -19643,6 +19643,11 @@
       "Time": "2023-10-10T22:03:51.8472194+00:00",
       "NumProgressed": 88404,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-10-10T23:04:11.0274538+00:00",
+      "NumProgressed": 88410,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 10,
@@ -19710,7 +19715,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "Level00BowlingStrike",
@@ -19718,7 +19723,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30941
+      "UsersEstimate": 30943
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -19726,22 +19731,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9724
+      "UsersEstimate": 9725
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 88404,
+      "Progressed": 88410,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-07T14:00:09.8547199+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:03:51.8472189+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:04:11.0274529+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:19.5580373+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:57:18.5477615+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:03:51.8473239+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:57:31.4093005+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:04:11.0276251+00:00"
 }

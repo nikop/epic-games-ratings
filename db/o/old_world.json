@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13959,9 +13959,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -15071,9 +15071,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -16239,9 +16239,9 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -16285,8 +16285,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:05:35.9895518+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:05:59.553274+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:03:09.9553397+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:05:35.9905703+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:03:16.8394525+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:05:59.5545957+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~594 |
+| First Love | 42.00% | ~595 |
 | Clean Race | 40.00% | ~566 |
 | Eat My Dust | 40.00% | ~566 |
 | Hear That Roar! | 38.00% | ~538 |
@@ -17,7 +17,7 @@
 | Legendary!!! | 18.00% | ~255 |
 | Quick Pit Stop | 18.00% | ~255 |
 | I'm Here Too! | 18.00% | ~255 |
-| Go-Faster Stripes | 16.00% | ~226 |
+| Go-Faster Stripes | 16.00% | ~227 |
 | We've Just Begun | 9.00% | ~127 |
 | Stamina Star | 7.00% | ~99 |
 | Is It the Right Size? | 7.00% | ~99 |
@@ -34,9 +34,9 @@
 | Back in Blighty | 2.00% | ~28 |
 | Rounding Off | 2.00% | ~28 |
 | My Work Here Is Done | 2.00% | ~28 |
+| Overtaking the Master | 2.00% | ~28 |
 | I'll Be the Best! | 1.00% | ~14 |
 | I Don't Stop | 1.00% | ~14 |
-| Overtaking the Master | 1.00% | ~14 |
 | Next Level | 0.90% | ~13 |
 | Exhausted but Happy | 0.80% | ~11 |
 | In Search of Perfection | 0.60% | ~8 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,415 (Ranked 220)  
+Progressed: 1,416 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-07 | 1,355 | 0 |
 | 2023-10-08 | 1,381 | 0 |
 | 2023-10-09 | 1,401 | 0 |
-| 2023-10-10 | 1,415 | 0 |
+| 2023-10-10 | 1,416 | 0 |

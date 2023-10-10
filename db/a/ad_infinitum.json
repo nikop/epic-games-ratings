@@ -2,10 +2,10 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -252,6 +252,11 @@
       "Time": "2023-10-08T06:06:19.3115008+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T23:07:42.343408+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -270,7 +275,7 @@
       "ID": "ACH_ACTOFCOURAGE",
       "SetID": "88d7anj",
       "Name": "An act of courage",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -318,7 +323,7 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -326,7 +331,7 @@
       "ID": "ACH_CLARITY",
       "SetID": "88d7anj",
       "Name": "Clarity",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -350,7 +355,7 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -358,7 +363,7 @@
       "ID": "ACH_HOPE",
       "SetID": "88d7anj",
       "Name": "Hope",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -366,7 +371,7 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -382,7 +387,7 @@
       "ID": "ACH_LOST",
       "SetID": "88d7anj",
       "Name": "Lost",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -390,7 +395,7 @@
       "ID": "ACH_MAYHEM",
       "SetID": "88d7anj",
       "Name": "Mayhem",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -398,9 +403,9 @@
       "ID": "ACH_MORGENGRAUEN",
       "SetID": "88d7anj",
       "Name": "Morgengrauen",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -416,7 +421,7 @@
       "Name": "Not alone",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_PAIN",
@@ -430,7 +435,7 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -438,15 +443,15 @@
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_PATHOFPAIN",
       "SetID": "88d7anj",
       "Name": "Path of Pain",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -462,7 +467,7 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -470,7 +475,7 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -486,7 +491,7 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 6
     }
@@ -495,14 +500,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:07:15.6093554+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:07:42.3434074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:17.5744783+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:30.8856505+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:07:15.6093744+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:46.2130324+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:07:42.3434326+00:00"
 }

@@ -26,13 +26,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
+| Enlightened | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
 | Developing Cities | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
-| Enlightened | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.80% | ~117 |
 | Greek Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
+| Kushite Pyramids | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.70% | ~102 |
 | Carthaginian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
-| Kushite Pyramids | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~88 |
 | Great | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
+| Learn to Play 3 | 0.50% | ~73 |
 | Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Beloved | 0.40% | ~58 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.40% | ~58 |
 | Pantheon | 0.40% | ~58 |
 | Via Recta Souk | 0.40% | ~58 |
-| Learn to Play 3 | 0.40% | ~58 |
 | Greece | 0.40% | ~58 |
 | Power to the People | 0.40% | ~58 |
 | Persian Paganism | 0.40% | ~58 |

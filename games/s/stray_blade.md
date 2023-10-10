@@ -34,6 +34,7 @@
 | But what of the Acreans? | 4.00% | ~4 |
 | Unveiling the Truth | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
+| Wizard | 3.00% | ~3 |
 | Wayseeker | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
@@ -41,7 +42,6 @@
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
 | Knowledge is King | 2.00% | ~2 |
-| Wizard | 2.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Explorer by Heart | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |

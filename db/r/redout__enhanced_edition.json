@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 573,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233412,
+  "EOS_Progressed": 233413,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18599,6 +18599,11 @@
       "Time": "2023-10-10T22:04:42.780558+00:00",
       "NumProgressed": 233412,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-10T23:05:03.9808549+00:00",
+      "NumProgressed": 233413,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18626,7 +18631,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65355
+      "UsersEstimate": 65356
     },
     {
       "ID": "CENTAUR",
@@ -18698,7 +18703,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46682
+      "UsersEstimate": 46683
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -18826,7 +18831,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9336
+      "UsersEstimate": 9337
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -18850,7 +18855,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9336
+      "UsersEstimate": 9337
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -18881,15 +18886,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233412,
+      "Progressed": 233413,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:04:42.7805575+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:05:03.9808544+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.8840873+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:16.447564+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:04:42.7806866+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:34.1948013+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:05:03.9810198+00:00"
 }

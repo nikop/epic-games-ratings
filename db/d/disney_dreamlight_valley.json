@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3994,10 +3994,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7681,
       "NumberOfAwardsMax": 999
+    },
+    {
+      "Time": "2023-10-10T23:00:05.7127494+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7682,
+      "NumberOfAwardsMax": 999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7681,
+  "NumberOfAwards": 7682,
   "NumberOfAwardsMax": 999,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4059,7 +4065,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 638
+      "Count": 639
     },
     {
       "Text": "This game has Easy Combat",
@@ -4070,7 +4076,7 @@
   ],
   "EOS_Progressed": 10707,
   "EOS_Completed": 254,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -15620,9 +15626,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-10T13:59:44.014942+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:04:12.9424393+00:00",
+  "LastChanged": "2023-10-10T23:00:05.7127492+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:04:32.4377823+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:59:48.2678895+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:04:12.9425032+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:05.71275+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:04:32.4378629+00:00"
 }

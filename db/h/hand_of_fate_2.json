@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -898,9 +898,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 663162,
+  "EOS_Progressed": 663163,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17348,6 +17348,11 @@
       "Time": "2023-10-10T21:07:06.737153+00:00",
       "NumProgressed": 663162,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-10-10T23:07:22.1218958+00:00",
+      "NumProgressed": 663163,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -17367,7 +17372,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384634
+      "UsersEstimate": 384635
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -17599,7 +17604,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79579
+      "UsersEstimate": 79580
     },
     {
       "ID": "Achievement_32_Karma",
@@ -17623,7 +17628,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165790
+      "UsersEstimate": 165791
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -17742,15 +17747,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663162,
+      "Progressed": 663163,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:06:56.3684528+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:07:22.1218952+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.7193737+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:59:19.0849301+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:06:56.3685641+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:59:34.9619025+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:07:22.1220603+00:00"
 }

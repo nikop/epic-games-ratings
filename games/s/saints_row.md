@@ -8,7 +8,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~34,292 |
 | To The Nines | 42.00% | ~31,310 |
-| Optimized | 37.00% | ~27,582 |
+| Optimized | 37.00% | ~27,583 |
 | Performance Review | 36.00% | ~26,837 |
 | Making a Name | 34.00% | ~25,346 |
 | Tune Up | 33.00% | ~24,601 |
@@ -20,9 +20,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Finders Keepers | 25.00% | ~18,637 |
 | A Young Empire | 25.00% | ~18,637 |
 | Work Ethic | 23.00% | ~17,146 |
-| Picking Fights | 20.00% | ~14,909 |
+| Picking Fights | 20.00% | ~14,910 |
 | Power Players | 19.00% | ~14,164 |
-| Quality Time | 18.00% | ~13,418 |
+| Quality Time | 18.00% | ~13,419 |
 | Et tu? | 17.00% | ~12,673 |
 | Showdown | 16.00% | ~11,928 |
 | Took It to The Limit | 16.00% | ~11,928 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~149 |
 | Fiesta Time | 0.20% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,547 (Ranked 90)  
+Progressed: 74,548 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 51 (0.07%) (Ranked 259)
 | 2023-10-07 | 74,141 | 51 |
 | 2023-10-08 | 74,308 | 51 |
 | 2023-10-09 | 74,444 | 51 |
-| 2023-10-10 | 74,547 | 51 |
+| 2023-10-10 | 74,548 | 51 |
 ## Awards
 Max (Extremely Fun): 1,069  (Ranked 142)  
 Sum: 8,674 (Ranked 97)  

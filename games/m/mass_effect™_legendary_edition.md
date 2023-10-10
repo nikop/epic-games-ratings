@@ -35,7 +35,7 @@
 | Operative | 42.00% | ~272 |
 | Veteran | 41.00% | ~266 |
 | Scholar | 40.00% | ~259 |
-| Power Full | 39.00% | ~253 |
+| Power Full | 40.00% | ~259 |
 | The Professor | 37.00% | ~240 |
 | Completionist | 36.00% | ~233 |
 | The Archangel | 36.00% | ~233 |
@@ -56,19 +56,19 @@
 | The Prodigal | 31.00% | ~201 |
 | Big Game Hunter | 31.00% | ~201 |
 | Revenge! | 31.00% | ~201 |
+| Heart of Darkness | 31.00% | ~201 |
 | Shopaholic | 31.00% | ~201 |
 | Catharsis | 30.00% | ~194 |
 | Agent | 30.00% | ~194 |
-| Heart of Darkness | 30.00% | ~194 |
 | Focused | 29.00% | ~188 |
 | Cat's in the Cradle | 29.00% | ~188 |
 | Fade Away | 29.00% | ~188 |
 | Treason | 29.00% | ~188 |
 | Digital Exorcist | 29.00% | ~188 |
 | Driven | 29.00% | ~188 |
+| Bringer of War | 29.00% | ~188 |
 | Friend or Foe | 28.00% | ~181 |
 | Doppelganger | 28.00% | ~181 |
-| Bringer of War | 28.00% | ~181 |
 | First Aid Specialist | 27.00% | ~175 |
 | Mobilizer | 27.00% | ~175 |
 | Mission Accomplished | 26.00% | ~168 |
@@ -93,9 +93,9 @@
 | Hard Target | 19.00% | ~123 |
 | Fact Finder | 19.00% | ~123 |
 | Pyromaniac | 18.00% | ~117 |
+| Under Pressure | 18.00% | ~117 |
 | Electronics Specialist | 18.00% | ~117 |
 | Saboteur | 18.00% | ~117 |
-| Under Pressure | 17.00% | ~110 |
 | Last Resort | 17.00% | ~110 |
 | Sabotage Specialist | 17.00% | ~110 |
 | Last Witness | 17.00% | ~110 |

@@ -3,12 +3,12 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 490,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 531,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67529,
+  "EOS_Progressed": 67536,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17564,6 +17564,11 @@
       "Time": "2023-10-10T22:08:07.3560597+00:00",
       "NumProgressed": 67529,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T23:08:24.7754323+00:00",
+      "NumProgressed": 67536,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17575,7 +17580,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29037
+      "UsersEstimate": 29040
     },
     {
       "ID": "02",
@@ -17583,7 +17588,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18235
     },
     {
       "ID": "03",
@@ -17591,7 +17596,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18235
     },
     {
       "ID": "04",
@@ -17599,7 +17604,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "05",
@@ -17607,7 +17612,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16207
+      "UsersEstimate": 16209
     },
     {
       "ID": "06",
@@ -17615,7 +17620,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12831
+      "UsersEstimate": 12832
     },
     {
       "ID": "07",
@@ -17623,7 +17628,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "08",
@@ -17631,7 +17636,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "09",
@@ -17639,7 +17644,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "10",
@@ -17663,7 +17668,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "13",
@@ -17679,7 +17684,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "15",
@@ -17687,7 +17692,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "16",
@@ -17703,7 +17708,7 @@
       "Name": "Departure",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "18",
@@ -17711,7 +17716,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "19",
@@ -17727,7 +17732,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "21",
@@ -17735,7 +17740,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "22",
@@ -17743,7 +17748,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10130
     },
     {
       "ID": "23",
@@ -17759,7 +17764,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8779
+      "UsersEstimate": 8780
     },
     {
       "ID": "25",
@@ -17767,7 +17772,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "26",
@@ -17775,7 +17780,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8779
+      "UsersEstimate": 8780
     },
     {
       "ID": "27",
@@ -17783,7 +17788,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "28",
@@ -17791,7 +17796,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "29",
@@ -17799,7 +17804,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11481
     },
     {
       "ID": "30",
@@ -17807,7 +17812,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "31",
@@ -17815,15 +17820,15 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12155
+      "UsersEstimate": 12156
     },
     {
       "ID": "32",
       "SetID": "212770e",
       "Name": "Float Like a Butterfly",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22285
+      "UsersEstimate": 22962
     },
     {
       "ID": "33",
@@ -17831,7 +17836,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "34",
@@ -17839,7 +17844,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "35",
@@ -17847,7 +17852,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23635
+      "UsersEstimate": 23638
     },
     {
       "ID": "36",
@@ -17887,7 +17892,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "41",
@@ -17895,7 +17900,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12155
+      "UsersEstimate": 12156
     },
     {
       "ID": "42",
@@ -17911,7 +17916,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13506
+      "UsersEstimate": 13507
     },
     {
       "ID": "44",
@@ -17935,7 +17940,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11480
+      "UsersEstimate": 11481
     },
     {
       "ID": "47",
@@ -17951,7 +17956,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "49",
@@ -18110,21 +18115,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67529,
+      "Progressed": 67536,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30997,
+      "Progressed": 31004,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:08:07.356059+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:08:24.7754318+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:59:19.1393283+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:08:07.3562294+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:59:35.0925015+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:08:24.7755998+00:00"
 }

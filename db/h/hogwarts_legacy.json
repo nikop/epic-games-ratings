@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8722,10 +8722,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45538,
       "NumberOfAwardsMax": 23430
+    },
+    {
+      "Time": "2023-10-10T22:59:24.8426724+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45548,
+      "NumberOfAwardsMax": 23430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45538,
+  "NumberOfAwards": 45548,
   "NumberOfAwardsMax": 23430,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8757,13 +8763,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1165
+      "Count": 1171
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1110
+      "Count": 1114
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8802,9 +8808,9 @@
       "Count": 702
     }
   ],
-  "EOS_Progressed": 298148,
+  "EOS_Progressed": 298150,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27447,6 +27453,11 @@
       "Time": "2023-10-10T21:09:03.6853727+00:00",
       "NumProgressed": 298148,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-10T23:09:10.0723716+00:00",
+      "NumProgressed": 298150,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27522,7 +27533,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20870
+      "UsersEstimate": 20871
     },
     {
       "ID": "PFA_18",
@@ -27546,7 +27557,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14907
+      "UsersEstimate": 14908
     },
     {
       "ID": "PFA_20",
@@ -27650,7 +27661,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "PFA_32",
@@ -27682,7 +27693,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26833
+      "UsersEstimate": 26834
     },
     {
       "ID": "PFA_36",
@@ -27698,7 +27709,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "PFA_38",
@@ -27730,7 +27741,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "PFA_41",
@@ -27738,7 +27749,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14907
+      "UsersEstimate": 14908
     },
     {
       "ID": "PFA_42",
@@ -27762,7 +27773,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26833
+      "UsersEstimate": 26834
     },
     {
       "ID": "PFA_45",
@@ -27770,7 +27781,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "PFA_5",
@@ -27786,7 +27797,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38759
+      "UsersEstimate": 38760
     },
     {
       "ID": "PFA_7",
@@ -27794,7 +27805,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38759
+      "UsersEstimate": 38760
     },
     {
       "ID": "PFA_8",
@@ -27810,23 +27821,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26833
+      "UsersEstimate": 26834
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298148,
+      "Progressed": 298150,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-10T20:59:22.5995758+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:08:22.1643018+00:00",
+  "LastChanged": "2023-10-10T22:59:24.8426722+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:09:10.072371+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:59:11.085506+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:08:22.1644544+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:59:24.8426729+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:09:10.0725832+00:00"
 }

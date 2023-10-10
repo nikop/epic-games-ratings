@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.93,
+  "EOS_Completed_Percentage": 6.91,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1282,6 +1282,11 @@
       "Time": "2023-10-10T13:13:08.5225497+00:00",
       "NumProgressed": 274,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-10T23:07:40.3785558+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 25,
@@ -1349,7 +1354,7 @@
       "Name": "Free at last",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1381,7 +1386,7 @@
       "Name": "A Link to the Past",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1492,14 +1497,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:07:13.6458894+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:07:40.3785552+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:16.3036693+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:07:13.6459124+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:00:34.2007576+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:07:40.3785835+00:00"
 }

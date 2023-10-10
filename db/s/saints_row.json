@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3786,9 +3786,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74547,
+  "EOS_Progressed": 74548,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23276,6 +23276,11 @@
       "Time": "2023-10-10T22:05:52.5526674+00:00",
       "NumProgressed": 74547,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-10T23:06:17.2590366+00:00",
+      "NumProgressed": 74548,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23303,7 +23308,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13418
+      "UsersEstimate": 13419
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -23415,7 +23420,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27582
+      "UsersEstimate": 27583
     },
     {
       "ID": "cutting_edge_materials",
@@ -23559,7 +23564,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14909
+      "UsersEstimate": 14910
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -23710,13 +23715,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74547,
+      "Progressed": 74548,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46184,
+      "Progressed": 46185,
       "Completed": 4073
     }
   ],
@@ -23724,8 +23729,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-10T22:00:55.8126775+00:00",
-  "LastChanged_Achievements": "2023-10-10T22:05:52.5526669+00:00",
+  "LastChanged_Achievements": "2023-10-10T23:06:17.2590359+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-10T22:00:55.8126782+00:00",
-  "LastUpdate_Achievements": "2023-10-10T22:05:52.5528294+00:00"
+  "LastUpdate_Ratings": "2023-10-10T23:01:10.6651613+00:00",
+  "LastUpdate_Achievements": "2023-10-10T23:06:17.2592355+00:00"
 }

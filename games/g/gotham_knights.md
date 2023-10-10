@@ -5,39 +5,39 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,165 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,688 |
-| Loose Ends | 34.00% | ~24,954 |
-| To the Victor Go the Spoils | 29.00% | ~21,284 |
-| Knighthood | 28.00% | ~20,550 |
-| Get ReQ'd | 25.00% | ~18,348 |
-| Whispered Words | 25.00% | ~18,348 |
-| The Batman Family | 23.00% | ~16,881 |
-| Lock and Key | 23.00% | ~16,881 |
-| Something in the Clay | 21.00% | ~15,413 |
-| Quartzer Life Crisis | 21.00% | ~15,413 |
-| Working Hard or Harley Working? | 20.00% | ~14,679 |
-| Unstoppable Force | 20.00% | ~14,679 |
-| Bad Apples in Every Orchard | 20.00% | ~14,679 |
-| Snow Problem | 19.00% | ~13,945 |
-| The Show Mud Go On | 18.00% | ~13,211 |
-| From Inside Gotham's Walls | 18.00% | ~13,211 |
-| Protector of Gotham | 17.00% | ~12,477 |
-| Universal Health Scare | 16.00% | ~11,743 |
-| In Your Element | 15.00% | ~11,009 |
-| Voiceless | 15.00% | ~11,009 |
-| Rock and a Hard Place | 14.00% | ~10,275 |
-| Cooldown | 14.00% | ~10,275 |
-| Seeking Asylum | 14.00% | ~10,275 |
-| Not On My Watch | 13.00% | ~9,541 |
-| Shock Til They Drop | 13.00% | ~9,541 |
-| End of an Era | 12.00% | ~8,807 |
-| Bulldozed | 12.00% | ~8,807 |
-| Gotham Knight | 12.00% | ~8,807 |
-| Gotham City Confidential | 11.00% | ~8,073 |
-| Drone You Out | 10.00% | ~7,339 |
-| Out of Their League | 9.00% | ~6,605 |
-| Solid Alibi | 9.00% | ~6,605 |
+| First Step Into the Knight | 52.00% | ~38,167 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,689 |
+| Loose Ends | 34.00% | ~24,955 |
+| To the Victor Go the Spoils | 29.00% | ~21,285 |
+| Knighthood | 28.00% | ~20,551 |
+| Get ReQ'd | 25.00% | ~18,350 |
+| Whispered Words | 25.00% | ~18,350 |
+| The Batman Family | 23.00% | ~16,882 |
+| Lock and Key | 23.00% | ~16,882 |
+| Something in the Clay | 21.00% | ~15,414 |
+| Quartzer Life Crisis | 21.00% | ~15,414 |
+| Working Hard or Harley Working? | 20.00% | ~14,680 |
+| Unstoppable Force | 20.00% | ~14,680 |
+| Bad Apples in Every Orchard | 20.00% | ~14,680 |
+| Snow Problem | 19.00% | ~13,946 |
+| The Show Mud Go On | 18.00% | ~13,212 |
+| From Inside Gotham's Walls | 18.00% | ~13,212 |
+| Protector of Gotham | 17.00% | ~12,478 |
+| Universal Health Scare | 16.00% | ~11,744 |
+| In Your Element | 15.00% | ~11,010 |
+| Voiceless | 15.00% | ~11,010 |
+| Rock and a Hard Place | 14.00% | ~10,276 |
+| Cooldown | 14.00% | ~10,276 |
+| Seeking Asylum | 14.00% | ~10,276 |
+| Not On My Watch | 13.00% | ~9,542 |
+| Shock Til They Drop | 13.00% | ~9,542 |
+| End of an Era | 12.00% | ~8,808 |
+| Bulldozed | 12.00% | ~8,808 |
+| Gotham Knight | 12.00% | ~8,808 |
+| Gotham City Confidential | 11.00% | ~8,074 |
+| Drone You Out | 10.00% | ~7,340 |
+| Out of Their League | 9.00% | ~6,606 |
+| Solid Alibi | 9.00% | ~6,606 |
 | Fusion Expert | 7.00% | ~5,138 |
 | Expert Crime Fighter | 6.00% | ~4,404 |
 | Family Meeting | 6.00% | ~4,404 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,394 (Ranked 91)  
+Progressed: 73,398 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 120 (0.16%) (Ranked 229)
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
 | 2023-10-09 | 73,364 | 120 |
-| 2023-10-10 | 73,394 | 120 |
+| 2023-10-10 | 73,398 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,802  (Ranked 97)  
-Sum: 4,702 (Ranked 140)  
+Sum: 4,703 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -255,7 +255,7 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 237 |
 | This game has Amazing Storytelling | 235 |
 | This game has Amazing Characters | 233 |
-| This game is Highly Recommended | 232 |
+| This game is Highly Recommended | 233 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -487,4 +487,4 @@ Diff (max vs sum): -43
 | 2023-10-07 | 4.18 | 2,788 | 4,679 |
 | 2023-10-08 | 4.18 | 2,795 | 4,688 |
 | 2023-10-09 | 4.18 | 2,802 | 4,697 |
-| 2023-10-10 | 4.18 | 2,802 | 4,702 |
+| 2023-10-10 | 4.18 | 2,802 | 4,703 |
