@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -426,9 +426,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 248613,
+  "EOS_Progressed": 248616,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19691,6 +19691,11 @@
       "Time": "2023-10-10T03:09:38.7938889+00:00",
       "NumProgressed": 248613,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T04:10:21.1407281+00:00",
+      "NumProgressed": 248616,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -19918,7 +19923,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59667
+      "UsersEstimate": 59668
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -20022,7 +20027,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62153
+      "UsersEstimate": 62154
     },
     {
       "ID": "ACH_SOREAD",
@@ -20117,7 +20122,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 248613,
+      "Progressed": 248616,
       "Completed": 7
     }
   ],
@@ -20125,8 +20130,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-08T20:58:55.4987227+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:38.7938878+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:10:21.1407276+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:27.2552472+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:00:54.2419052+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:38.7941995+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:01:06.2135256+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:10:21.1408552+00:00"
 }

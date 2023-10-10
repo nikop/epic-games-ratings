@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1254,9 +1254,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19726,
+  "EOS_Progressed": 19727,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -19979,6 +19979,11 @@
       "Time": "2023-10-10T03:09:18.0340436+00:00",
       "NumProgressed": 19726,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-10T04:09:42.0894252+00:00",
+      "NumProgressed": 19727,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 45,
@@ -20006,7 +20011,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "BackToHell",
@@ -20022,7 +20027,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "DeadInTheAir",
@@ -20086,7 +20091,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -20094,7 +20099,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "Junkrunner",
@@ -20126,7 +20131,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "MoreThanHuman",
@@ -20174,7 +20179,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "Perfection",
@@ -20182,7 +20187,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     },
     {
       "ID": "PreempativeStrike",
@@ -20214,7 +20219,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 10652
+      "UsersEstimate": 10653
     },
     {
       "ID": "RunningWild",
@@ -20326,7 +20331,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7890
+      "UsersEstimate": 7891
     },
     {
       "ID": "WhereHeStood",
@@ -20349,21 +20354,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 19726,
+      "Progressed": 19727,
       "Completed": 47
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 19726,
+      "Progressed": 19727,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-09T16:58:44.980826+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:18.0340429+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:09:42.0894248+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.4275599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:58:43.5495835+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:18.0343401+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:59:05.1930616+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:09:42.0895436+00:00"
 }

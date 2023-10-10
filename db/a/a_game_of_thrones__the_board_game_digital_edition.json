@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25736,
+  "EOS_Progressed": 25737,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19805,6 +19805,11 @@
       "Time": "2023-10-10T03:07:31.2200567+00:00",
       "NumProgressed": 25736,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-10T04:07:43.485299+00:00",
+      "NumProgressed": 25737,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 22,
@@ -19920,7 +19925,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "1029",
@@ -19952,7 +19957,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10294
+      "UsersEstimate": 10295
     },
     {
       "ID": "1033",
@@ -19991,15 +19996,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25736,
+      "Progressed": 25737,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:07:31.2200561+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:07:43.4852986+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:57:25.7197309+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:07:31.2203111+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:57:53.879531+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:07:43.4853978+00:00"
 }

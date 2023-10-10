@@ -40,8 +40,8 @@
 | Terrifically Trashed | 13.00% | ~44 |
 | Thrilled Tenants | 13.00% | ~44 |
 | Swimming in Surplus | 12.00% | ~41 |
+| Aestheticly Pleased | 11.00% | ~38 |
 | 28 Days Later | 11.00% | ~38 |
-| Aestheticly Pleased | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
 | First 100 Days | 9.00% | ~31 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 300)  
+Progressed: 341 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |

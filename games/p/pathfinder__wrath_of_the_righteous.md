@@ -53,13 +53,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.90% | ~104 |
 | End of Eternal Guard | 0.90% | ~104 |
 | Truly Profane Gift | 0.90% | ~104 |
-| Masterful Charge | 0.70% | ~80 |
-| Playful Mood | 0.70% | ~80 |
-| Dreadful Dragon | 0.70% | ~80 |
+| Masterful Charge | 0.70% | ~81 |
+| Playful Mood | 0.70% | ~81 |
+| Dreadful Dragon | 0.70% | ~81 |
 | Prelate's Nemesis | 0.50% | ~58 |
 | Ashes to Ashes | 0.40% | ~46 |
-| Masterful Dispel | 0.30% | ~34 |
-| Just Pathetic | 0.30% | ~34 |
+| Masterful Dispel | 0.30% | ~35 |
+| Just Pathetic | 0.30% | ~35 |
 | Path of the Swarm | 0.20% | ~23 |
 | Equal to Aroden | 0.10% | ~12 |
 | Spirit of Adventure | 0.10% | ~12 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,500 (Ranked 142)  
+Progressed: 11,501 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-07 | 11,486 | 0 |
 | 2023-10-08 | 11,491 | 0 |
 | 2023-10-09 | 11,498 | 0 |
-| 2023-10-10 | 11,500 | 0 |
+| 2023-10-10 | 11,501 | 0 |
 ## Awards
 Max (Character Customization): 1,721  (Ranked 119)  
 Sum: 6,981 (Ranked 114)  

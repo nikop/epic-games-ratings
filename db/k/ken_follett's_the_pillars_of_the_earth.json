@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,7 +525,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15654,
+  "EOS_Progressed": 15655,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
@@ -11715,6 +11715,11 @@
       "Time": "2023-10-10T01:51:19.2641163+00:00",
       "NumProgressed": 15654,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-10T04:09:41.2220201+00:00",
+      "NumProgressed": 15655,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11742,7 +11747,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "tpote_achievement_12",
@@ -11798,7 +11803,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "tpote_achievement_19",
@@ -11886,7 +11891,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "tpote_achievement_29",
@@ -11902,7 +11907,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "tpote_achievement_30",
@@ -11910,7 +11915,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "tpote_achievement_31",
@@ -12046,22 +12051,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15654,
+      "Progressed": 15655,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:17.0207649+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:09:41.2220196+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:57:19.8005901+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:17.0209631+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:57:48.0610358+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:09:41.2220978+00:00"
 }

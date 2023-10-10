@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5208,
+  "EOS_Progressed": 5209,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6288,6 +6288,11 @@
       "Time": "2023-10-09T21:06:11.7454766+00:00",
       "NumProgressed": 5208,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T04:07:57.1207277+00:00",
+      "NumProgressed": 5209,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6443,7 +6448,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "27",
@@ -6467,7 +6472,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "3",
@@ -6491,7 +6496,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "32",
@@ -6507,7 +6512,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "34",
@@ -6571,7 +6576,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "41",
@@ -6683,7 +6688,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "50",
@@ -6698,13 +6703,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5208,
+      "Progressed": 5209,
       "Completed": 4763
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5208,
+      "Progressed": 5209,
       "Completed": 6
     }
   ],
@@ -6712,8 +6717,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-30T08:59:29.1729181+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:07:46.0056887+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:07:57.1207271+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:43.3200894+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:01:19.0414803+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:07:46.0058725+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:01:30.2211683+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:07:57.1208008+00:00"
 }

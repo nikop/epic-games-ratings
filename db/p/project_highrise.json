@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_consultants_b",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:07:13.4468915+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:07:27.0915825+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:00.2561542+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:58:42.6818273+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:07:13.4470098+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:59:04.1882579+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:07:27.0916749+00:00"
 }

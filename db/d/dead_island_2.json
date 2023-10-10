@@ -5220,9 +5220,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 693539,
+  "EOS_Progressed": 693551,
   "EOS_Completed": 2208,
-  "EOS_NewPlayers": 3516,
+  "EOS_NewPlayers": 3520,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24760,6 +24760,11 @@
       "Time": "2023-10-10T03:09:12.4603974+00:00",
       "NumProgressed": 693539,
       "NumCompleted": 2208
+    },
+    {
+      "Time": "2023-10-10T04:09:36.9950568+00:00",
+      "NumProgressed": 693551,
+      "NumCompleted": 2208
     }
   ],
   "TotalAchievements": 45,
@@ -24771,7 +24776,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -24779,7 +24784,7 @@
       "Name": "Making Your Mark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_ammo_ran",
@@ -24787,7 +24792,7 @@
       "Name": "Git Gutte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_anger_management",
@@ -24835,7 +24840,7 @@
       "Name": "Break A Leg",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_contender",
@@ -24891,7 +24896,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -24915,7 +24920,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -24923,7 +24928,7 @@
       "Name": "Friends Like These",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_hotel_california",
@@ -24931,7 +24936,7 @@
       "Name": "Hotel California",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_impressive_aim",
@@ -24971,7 +24976,7 @@
       "Name": "Apex Predator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_knowledgeable",
@@ -25011,7 +25016,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_revival_tour",
@@ -25027,7 +25032,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_secrets_of_la",
@@ -25043,7 +25048,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_star_performance",
@@ -25051,7 +25056,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20806
+      "UsersEstimate": 20807
     },
     {
       "ID": "ach_survival_expert",
@@ -25067,7 +25072,7 @@
       "Name": "Max Headroom",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_the_vcla",
@@ -25075,7 +25080,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_thesacrifice",
@@ -25115,7 +25120,7 @@
       "Name": "Rising Star",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "ach_well_trained",
@@ -25130,22 +25135,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 693539,
+      "Progressed": 693551,
       "Completed": 2208
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 19081,
-      "Completed": 19081
+      "Progressed": 19093,
+      "Completed": 19093
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-09T20:59:19.4122818+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:12.4603968+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:09:36.9950563+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:00:36.2403876+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:12.46063+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:00:49.7436555+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:09:36.995194+00:00"
 }

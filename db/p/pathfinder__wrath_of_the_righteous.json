@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3902,7 +3902,7 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11500,
+  "EOS_Progressed": 11501,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -13397,6 +13397,11 @@
       "Time": "2023-10-10T02:24:14.3443357+00:00",
       "NumProgressed": 11500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T04:10:07.4535317+00:00",
+      "NumProgressed": 11501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13584,7 +13589,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "24_Legacy",
@@ -13600,7 +13605,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "27_VictorySeige",
@@ -13720,7 +13725,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "42_JustPathetic",
@@ -13728,7 +13733,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "43_DreadfulDragon",
@@ -13736,7 +13741,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "44_AshesToAshes",
@@ -14335,21 +14340,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10282,
+      "Progressed": 10283,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11500,
+      "Progressed": 11501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-09T19:59:03.7061495+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:23.8376154+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:10:07.4535309+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:59:19.9184873+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:23.8379284+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:59:39.6225287+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:10:07.4537302+00:00"
 }

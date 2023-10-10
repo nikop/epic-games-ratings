@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,339 |
+| No aid from the Omnissiah | 26.00% | ~58,340 |
 | This is only the beginning | 19.00% | ~42,633 |
 | Knowledge is power | 12.00% | ~26,926 |
-| Power Ranger | 9.00% | ~20,194 |
-| Galvanic Rifle | 9.00% | ~20,194 |
-| Taser Goad | 9.00% | ~20,194 |
-| Radium Ready | 9.00% | ~20,194 |
-| Half a cog | 9.00% | ~20,194 |
+| Power Ranger | 9.00% | ~20,195 |
+| Galvanic Rifle | 9.00% | ~20,195 |
+| Taser Goad | 9.00% | ~20,195 |
+| Radium Ready | 9.00% | ~20,195 |
+| Half a cog | 9.00% | ~20,195 |
 | Watch them crumble | 6.00% | ~13,463 |
 | Competent Cohort | 4.00% | ~8,975 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,975 |
 | One with the Machine | 4.00% | ~8,975 |
-| Legio Cybernetica | 3.00% | ~6,731 |
-| Fleshy Disposal | 3.00% | ~6,731 |
+| Legio Cybernetica | 3.00% | ~6,732 |
+| Fleshy Disposal | 3.00% | ~6,732 |
 | Battle Servitor | 2.00% | ~4,488 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,488 |
 | Impatient destruction | 2.00% | ~4,488 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 673)
 | Perma-live | 0.10% | ~224 |
 | Purge the Heretek | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,382 (Ranked 62)  
+Progressed: 224,384 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,16 +213,16 @@ Completed: 5 (0.00%) (Ranked 310)
 | 2023-10-07 | 224,204 | 5 |
 | 2023-10-08 | 224,310 | 5 |
 | 2023-10-09 | 224,376 | 5 |
-| 2023-10-10 | 224,382 | 5 |
+| 2023-10-10 | 224,384 | 5 |
 ## Awards
 Max (Highly Recommended): 285  (Ranked 246)  
-Sum: 2,161 (Ranked 198)  
+Sum: 2,162 (Ranked 198)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 285 |
 | This game has Quickly Understood Controls | 279 |
-| This game is Extremely Fun | 275 |
+| This game is Extremely Fun | 276 |
 | This game has Diverse Characters | 265 |
 | This game has Amazing Characters | 262 |
 | This game has Amazing Storytelling | 246 |
@@ -304,3 +304,4 @@ Diff (max vs sum): 48
 | 2023-10-05 | 4.43 | 283 | 2,156 |
 | 2023-10-06 | 4.43 | 285 | 2,160 |
 | 2023-10-07 | 4.43 | 285 | 2,161 |
+| 2023-10-10 | 4.43 | 285 | 2,162 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -802,9 +802,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 529908,
+  "EOS_Progressed": 529910,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1669,
+  "EOS_NewPlayers": 1667,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20122,6 +20122,11 @@
       "Time": "2023-10-10T03:04:15.7603042+00:00",
       "NumProgressed": 529908,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T04:04:42.6034356+00:00",
+      "NumProgressed": 529910,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -20133,7 +20138,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 143075
+      "UsersEstimate": 143076
     },
     {
       "ID": "Backdoor",
@@ -20141,7 +20146,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 132477
+      "UsersEstimate": 132478
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -20229,7 +20234,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 206664
+      "UsersEstimate": 206665
     },
     {
       "ID": "DeadlyAssassin",
@@ -20261,7 +20266,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31794
+      "UsersEstimate": 31795
     },
     {
       "ID": "GoForIt",
@@ -20285,7 +20290,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 217262
+      "UsersEstimate": 217263
     },
     {
       "ID": "HoldingYourOwn",
@@ -20381,7 +20386,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 402730
+      "UsersEstimate": 402732
     },
     {
       "ID": "ProPlayer",
@@ -20461,7 +20466,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95383
+      "UsersEstimate": 95384
     },
     {
       "ID": "TopDog",
@@ -20492,7 +20497,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 529908,
+      "Progressed": 529910,
       "Completed": 2
     }
   ],
@@ -20500,8 +20505,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-08T13:02:04.2753311+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:04:15.7603035+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:04:42.6034349+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:35.5604126+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:01:05.9704682+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:04:15.7605377+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:01:17.2739265+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:04:42.6035568+00:00"
 }

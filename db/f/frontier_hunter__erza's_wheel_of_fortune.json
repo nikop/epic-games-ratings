@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -733,57 +733,57 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "7pimpda",
       "Name": "Blade Mantis Challenge",
-      "Percentage": 3,
-      "XP": 30,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "ACHIEVEMENT_34",
-      "SetID": "7pimpda",
-      "Name": "Big Face Goalkeeper Challenge",
       "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 4
     },
     {
+      "ID": "ACHIEVEMENT_34",
+      "SetID": "7pimpda",
+      "Name": "Big Face Goalkeeper Challenge",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
       "ID": "ACHIEVEMENT_35",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_36",
       "SetID": "7pimpda",
       "Name": "Giant Claw Spider Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_37",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_38",
       "SetID": "7pimpda",
       "Name": "Silver Moon Wolf King Challenge",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_39",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -797,9 +797,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "7pimpda",
       "Name": "Mermaid Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -837,17 +837,17 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "7pimpda",
       "Name": "Giantess Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_46",
       "SetID": "7pimpda",
       "Name": "Warden Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -902,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:09:52.2953328+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:10:33.7932589+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.3139167+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:01:59.2157461+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:09:52.2954078+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:02:08.3084137+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:10:33.7932935+00:00"
 }

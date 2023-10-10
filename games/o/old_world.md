@@ -26,13 +26,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Judaism | 0.90% | ~131 |
+| Babylonian Paganism | 0.90% | ~131 |
 | Naming Landmarks | 0.90% | ~131 |
 | Enlightened | 0.80% | ~117 |
 | Keystone | 0.80% | ~117 |
 | Warrior | 0.80% | ~117 |
 | Developing Cities | 0.80% | ~117 |
 | Pyramids | 0.80% | ~117 |
-| Babylonian Paganism | 0.80% | ~117 |
 | Greek Paganism | 0.80% | ~117 |
 | Ambitious | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |

@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 220,
+  "Ranking_Rating": 221,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -9959,7 +9959,7 @@
   ],
   "EOS_Progressed": 49684,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25753,8 +25753,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-09T20:59:58.3435975+00:00",
-  "LastChanged_Achievements": "2023-10-10T03:05:20.2446688+00:00",
+  "LastChanged_Achievements": "2023-10-10T04:05:42.5050955+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.7573988+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:01:32.499091+00:00",
-  "LastUpdate_Achievements": "2023-10-10T03:05:20.2449173+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:01:42.2714692+00:00",
+  "LastUpdate_Achievements": "2023-10-10T04:05:42.5052016+00:00"
 }
