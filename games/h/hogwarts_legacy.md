@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 120)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,719 |
-| First Class Student | 13.00% | ~38,756 |
-| Troll with the Punches | 13.00% | ~38,756 |
+| First Class Student | 13.00% | ~38,757 |
+| Troll with the Punches | 13.00% | ~38,757 |
 | A Keen Sense of Spell | 12.00% | ~35,775 |
 | That's a Keeper | 12.00% | ~35,775 |
 | The Hallowed Hero | 11.00% | ~32,794 |
@@ -15,10 +15,10 @@ Rating: 4.76 (Ranked 120)
 | Loom for Improvement | 11.00% | ~32,794 |
 | A Talent for Spending | 11.00% | ~32,794 |
 | Coasting Along | 11.00% | ~32,794 |
-| Grappling with a Graphorn | 10.00% | ~29,812 |
-| The One Who Mastered Memories | 10.00% | ~29,812 |
-| The Hero of Hogwarts | 10.00% | ~29,812 |
-| Challenge Accepted | 10.00% | ~29,812 |
+| Grappling with a Graphorn | 10.00% | ~29,813 |
+| The One Who Mastered Memories | 10.00% | ~29,813 |
+| The Hero of Hogwarts | 10.00% | ~29,813 |
+| Challenge Accepted | 10.00% | ~29,813 |
 | Followed the Butterflies | 9.00% | ~26,831 |
 | The Spell Master | 9.00% | ~26,831 |
 | Rising From the Ashes | 9.00% | ~26,831 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 120)
 | A Sallow Grave | 8.00% | ~23,850 |
 | Flight the Good Flight | 8.00% | ~23,850 |
 | Beast Friends | 7.00% | ~20,869 |
-| The Seeker of Knowledge | 6.00% | ~17,887 |
-| The Root of the Problem | 6.00% | ~17,887 |
-| Third Time's a Charm | 6.00% | ~17,887 |
-| Raising Expectations | 6.00% | ~17,887 |
+| The Seeker of Knowledge | 6.00% | ~17,888 |
+| The Root of the Problem | 6.00% | ~17,888 |
+| Third Time's a Charm | 6.00% | ~17,888 |
+| Raising Expectations | 6.00% | ~17,888 |
 | The Toast of the Town | 5.00% | ~14,906 |
 | The Ends Petrify the Means | 5.00% | ~14,906 |
 | Going Through the Potions | 4.00% | ~11,925 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 120)
 | Put Down Roots | 3.00% | ~8,944 |
 | The Auror's Apprentice | 3.00% | ~8,944 |
 | Floo Around the World | 3.00% | ~8,944 |
-| The Good Samaritan | 2.00% | ~5,962 |
-| Rise to the Challenges | 2.00% | ~5,962 |
-| Finishing Touches | 2.00% | ~5,962 |
+| The Good Samaritan | 2.00% | ~5,963 |
+| Rise to the Challenges | 2.00% | ~5,963 |
+| Finishing Touches | 2.00% | ~5,963 |
 | Savvy Spender | 1.00% | ~2,981 |
 | Merlin's Beard! | 1.00% | ~2,981 |
 | Demiguise Dread | 1.00% | ~2,981 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,124 (Ranked 46)  
+Progressed: 298,127 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 483 (0.16%) (Ranked 227)
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
-| 2023-10-10 | 298,124 | 483 |
+| 2023-10-10 | 298,127 | 483 |
 ## Awards
 Max (Character Customization): 23,405  (Ranked 17)  
-Sum: 45,477 (Ranked 31)  
+Sum: 45,485 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -235,8 +235,8 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 11,677 |
 | This game is Great for Beginners | 1,165 |
 | This game has Amazing Storytelling | 1,129 |
+| This game has Diverse Characters | 1,120 |
 | This game is Relaxing | 1,115 |
-| This game has Diverse Characters | 1,112 |
 | This game is Extremely Fun | 1,110 |
 | This game has Amazing Characters | 1,074 |
 | This game is Highly Recommended | 1,063 |
@@ -446,3 +446,4 @@ Diff (max vs sum): -14
 | 2023-10-07 | 4.76 | 23,347 | 45,276 |
 | 2023-10-08 | 4.76 | 23,384 | 45,386 |
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
+| 2023-10-10 | 4.76 | 23,405 | 45,485 |

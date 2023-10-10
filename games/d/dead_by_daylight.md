@@ -6,9 +6,9 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,302 |
-| It wakes | 1.00% | ~9,302 |
-| Skillful | 1.00% | ~9,302 |
+| Zealous | 1.00% | ~9,303 |
+| It wakes | 1.00% | ~9,303 |
+| Skillful | 1.00% | ~9,303 |
 | Not half bad | 0.90% | ~8,372 |
 | Make Some Noise | 0.90% | ~8,372 |
 | Handyman | 0.80% | ~7,442 |
@@ -19,16 +19,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.70% | ~6,512 |
 | Sorted | 0.70% | ~6,512 |
 | Resurgence | 0.70% | ~6,512 |
-| The Grand Sacrifice | 0.60% | ~5,581 |
-| Agonizing Escape | 0.60% | ~5,581 |
-| Backdoor Escape | 0.60% | ~5,581 |
-| Perfect Escape | 0.60% | ~5,581 |
-| Bloody Millionaire | 0.60% | ~5,581 |
-| I | 0.60% | ~5,581 |
-| Engineer | 0.60% | ~5,581 |
-| Healthy Obsession | 0.60% | ~5,581 |
-| Preemptive Strike | 0.60% | ~5,581 |
-| Humanitarian | 0.60% | ~5,581 |
+| The Grand Sacrifice | 0.60% | ~5,582 |
+| Agonizing Escape | 0.60% | ~5,582 |
+| Backdoor Escape | 0.60% | ~5,582 |
+| Perfect Escape | 0.60% | ~5,582 |
+| Bloody Millionaire | 0.60% | ~5,582 |
+| I | 0.60% | ~5,582 |
+| Engineer | 0.60% | ~5,582 |
+| Healthy Obsession | 0.60% | ~5,582 |
+| Preemptive Strike | 0.60% | ~5,582 |
+| Humanitarian | 0.60% | ~5,582 |
 | I've got your back | 0.50% | ~4,651 |
 | Perfect Killing | 0.50% | ~4,651 |
 | Risk it all | 0.50% | ~4,651 |
@@ -67,31 +67,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.30% | ~2,791 |
 | One More Step | 0.30% | ~2,791 |
 | MU/TH/UR Dearest | 0.30% | ~2,791 |
-| A bite for the Entity | 0.20% | ~1,860 |
-| Blood on your face | 0.20% | ~1,860 |
-| Jump Scares | 0.20% | ~1,860 |
-| Gifts for the Fog | 0.20% | ~1,860 |
-| Hemophobia | 0.20% | ~1,860 |
-| Deep Cleansing | 0.20% | ~1,860 |
-| Leapfrog | 0.20% | ~1,860 |
-| Cottage Owner | 0.20% | ~1,860 |
-| Texas BBQ | 0.20% | ~1,860 |
-| Serial Killer | 0.20% | ~1,860 |
-| Escaping the Nightmare | 0.20% | ~1,860 |
-| Game Over | 0.20% | ~1,860 |
-| Ancestor's Rite | 0.20% | ~1,860 |
-| Devoted Gatekeeping | 0.20% | ~1,860 |
-| Shrine Apparatus | 0.20% | ~1,860 |
-| Broken Bodies | 0.20% | ~1,860 |
-| Grim Pilgrimage | 0.20% | ~1,860 |
-| Selfless Survival | 0.20% | ~1,860 |
-| End of Days | 0.20% | ~1,860 |
-| Insult and Injury | 0.20% | ~1,860 |
-| Outrun the Overlap | 0.20% | ~1,860 |
-| Rebuilding The Borgo | 0.20% | ~1,860 |
-| Hack the Mainframe | 0.20% | ~1,860 |
-| Extraterrestrial | 0.20% | ~1,860 |
-| Kitted Out | 0.20% | ~1,860 |
+| A bite for the Entity | 0.20% | ~1,861 |
+| Blood on your face | 0.20% | ~1,861 |
+| Jump Scares | 0.20% | ~1,861 |
+| Gifts for the Fog | 0.20% | ~1,861 |
+| Hemophobia | 0.20% | ~1,861 |
+| Deep Cleansing | 0.20% | ~1,861 |
+| Leapfrog | 0.20% | ~1,861 |
+| Cottage Owner | 0.20% | ~1,861 |
+| Texas BBQ | 0.20% | ~1,861 |
+| Serial Killer | 0.20% | ~1,861 |
+| Escaping the Nightmare | 0.20% | ~1,861 |
+| Game Over | 0.20% | ~1,861 |
+| Ancestor's Rite | 0.20% | ~1,861 |
+| Devoted Gatekeeping | 0.20% | ~1,861 |
+| Shrine Apparatus | 0.20% | ~1,861 |
+| Broken Bodies | 0.20% | ~1,861 |
+| Grim Pilgrimage | 0.20% | ~1,861 |
+| Selfless Survival | 0.20% | ~1,861 |
+| End of Days | 0.20% | ~1,861 |
+| Insult and Injury | 0.20% | ~1,861 |
+| Outrun the Overlap | 0.20% | ~1,861 |
+| Rebuilding The Borgo | 0.20% | ~1,861 |
+| Hack the Mainframe | 0.20% | ~1,861 |
+| Extraterrestrial | 0.20% | ~1,861 |
+| Kitted Out | 0.20% | ~1,861 |
 | A feast for the Entity | 0.10% | ~930 |
 | Blood in your mouth | 0.10% | ~930 |
 | Cripple them all | 0.10% | ~930 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,233 (Ranked 14)  
+Progressed: 930,272 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,233 | 49 |
+| 2023-10-10 | 930,272 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 260,781 (Ranked 13)  

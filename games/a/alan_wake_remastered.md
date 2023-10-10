@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 43.00% | ~29,012 |
-| Let There Be Light | 35.00% | ~23,614 |
+| Follow the Light | 43.00% | ~29,013 |
+| Let There Be Light | 35.00% | ~23,615 |
 | Float Like a Butterfly | 33.00% | ~22,265 |
 | Nordic Walking | 27.00% | ~18,217 |
 | Bright Falls' Finest | 26.00% | ~17,542 |
 | Under a Thin Layer of Skin | 23.00% | ~15,518 |
 | Paging Mr. Wake | 20.00% | ~13,494 |
 | Park Ranger | 19.00% | ~12,819 |
-| Back! Back, I Say! | 18.00% | ~12,144 |
-| Finders Keepers | 18.00% | ~12,144 |
+| Back! Back, I Say! | 18.00% | ~12,145 |
+| Finders Keepers | 18.00% | ~12,145 |
 | Sound and Fury | 17.00% | ~11,470 |
 | Damn Good Cup of Coffee | 17.00% | ~11,470 |
 | Wheels Within Wheels | 16.00% | ~10,795 |
 | They're Heeeeeere! | 16.00% | ~10,795 |
 | Missed by a Mile | 16.00% | ~10,795 |
-| The Six-Gun Scribe | 15.00% | ~10,120 |
+| The Six-Gun Scribe | 15.00% | ~10,121 |
 | Heavy Metal | 14.00% | ~9,446 |
 | Iron Horse | 14.00% | ~9,446 |
 | Perchance to Dream | 14.00% | ~9,446 |
@@ -29,25 +29,25 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,446 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,771 |
 | Thunder and Lightning | 13.00% | ~8,771 |
-| Gatekeeper | 12.00% | ~8,096 |
-| The Lady of the Light | 12.00% | ~8,096 |
-| Two For the Price of One | 12.00% | ~8,096 |
-| Energized! | 12.00% | ~8,096 |
+| Gatekeeper | 12.00% | ~8,097 |
+| The Lady of the Light | 12.00% | ~8,097 |
+| Two For the Price of One | 12.00% | ~8,097 |
+| Energized! | 12.00% | ~8,097 |
 | What Light Through Yonder Window | 10.00% | ~6,747 |
 | Right of Way | 10.00% | ~6,747 |
 | Tornado Wrangler | 9.00% | ~6,072 |
-| A Friend in Need | 9.00% | ~2,784 |
+| A Friend in Need | 9.00% | ~2,785 |
 | Departure | 8.00% | ~5,398 |
 | Hardboiled Writer | 7.00% | ~4,723 |
 | A Friend Indeed | 7.00% | ~2,166 |
 | Children of the Elder God | 6.00% | ~4,048 |
 | Drink 'Em Both Up | 6.00% | ~4,048 |
 | Ding! | 6.00% | ~1,856 |
-| Boob Tube | 5.00% | ~3,373 |
-| If It Flies, It Burns | 5.00% | ~3,373 |
-| KBF-FM | 5.00% | ~3,373 |
-| Kill Your Darlings | 4.00% | ~1,237 |
-| Heartbreaker | 4.00% | ~1,237 |
+| Boob Tube | 5.00% | ~3,374 |
+| If It Flies, It Burns | 5.00% | ~3,374 |
+| KBF-FM | 5.00% | ~3,374 |
+| Kill Your Darlings | 4.00% | ~1,238 |
+| Heartbreaker | 4.00% | ~1,238 |
 | Carny | 3.00% | ~2,024 |
 | Medical Opinions | 2.00% | ~1,349 |
 | Taken Season | 2.00% | ~1,349 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,469 (Ranked 93)  
+Progressed: 67,471 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 67 (0.10%) (Ranked 244)
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
 | 2023-10-09 | 67,450 | 67 |
-| 2023-10-10 | 67,469 | 67 |
+| 2023-10-10 | 67,471 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

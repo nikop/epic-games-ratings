@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67469,
+  "EOS_Progressed": 67471,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17479,6 +17479,11 @@
       "Time": "2023-10-10T04:09:08.0834073+00:00",
       "NumProgressed": 67469,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T05:08:13.9100792+00:00",
+      "NumProgressed": 67471,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17490,7 +17495,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29012
+      "UsersEstimate": 29013
     },
     {
       "ID": "02",
@@ -17514,7 +17519,7 @@
       "Name": "Boob Tube",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "05",
@@ -17594,7 +17599,7 @@
       "Name": "Gatekeeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8097
     },
     {
       "ID": "15",
@@ -17602,7 +17607,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8097
     },
     {
       "ID": "16",
@@ -17642,7 +17647,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "21",
@@ -17658,7 +17663,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10120
+      "UsersEstimate": 10121
     },
     {
       "ID": "23",
@@ -17722,7 +17727,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8097
     },
     {
       "ID": "31",
@@ -17730,7 +17735,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "32",
@@ -17754,7 +17759,7 @@
       "Name": "Energized!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8097
     },
     {
       "ID": "35",
@@ -17762,7 +17767,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23614
+      "UsersEstimate": 23615
     },
     {
       "ID": "36",
@@ -17810,7 +17815,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "42",
@@ -17866,7 +17871,7 @@
       "Name": "KBF-FM",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "49",
@@ -17890,7 +17895,7 @@
       "Name": "A Friend in Need",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "52",
@@ -17962,7 +17967,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "61",
@@ -18018,28 +18023,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67469,
+      "Progressed": 67471,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30937,
+      "Progressed": 30939,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T04:09:08.0834068+00:00",
+  "LastChanged_Achievements": "2023-10-10T05:08:13.9100786+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T03:59:41.3304272+00:00",
-  "LastUpdate_Achievements": "2023-10-10T04:09:08.0835375+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:58:54.7102607+00:00",
+  "LastUpdate_Achievements": "2023-10-10T05:08:13.9102497+00:00"
 }

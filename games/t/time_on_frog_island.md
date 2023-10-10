@@ -12,13 +12,13 @@
 | Who Even Needs Keys | 18.00% | ~3 |
 | Socialite | 12.00% | ~2 |
 | Shrub-Seeing: Silly Birbs | 12.00% | ~2 |
+| Yeet! | 12.00% | ~2 |
 | Couch-surfing | 12.00% | ~2 |
 | Hoist the Sails | 12.00% | ~2 |
 | Secure the Sheets | 12.00% | ~2 |
 | Replace the Rudder | 12.00% | ~2 |
 | Shrub-Seeing: Townlife | 6.00% | ~1 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~1 |
-| Yeet! | 6.00% | ~1 |
 | Sailor Swift | 6.00% | ~1 |
 | No Evil | 6.00% | ~1 |
 | Caught Ya! | 6.00% | ~1 |

@@ -18,16 +18,16 @@
 | Medal of Honor | 57.00% | ~362 |
 | Meritorious Service Medal | 57.00% | ~362 |
 | Turian Ally | 57.00% | ~362 |
-| Soldier | 53.00% | ~337 |
+| Soldier | 54.00% | ~343 |
 | Medal of Exploration III | 53.00% | ~337 |
 | Asari Ally | 52.00% | ~330 |
 | Principled | 52.00% | ~330 |
 | Soldier Ally | 50.00% | ~318 |
 | Colonial Savior | 49.00% | ~311 |
 | Paramour I | 46.00% | ~292 |
+| Scientist | 46.00% | ~292 |
 | Krogan Ally | 45.00% | ~286 |
 | Merciless | 45.00% | ~286 |
-| Scientist | 45.00% | ~286 |
 | Sentinel Ally | 44.00% | ~279 |
 | Missing in Action | 42.00% | ~267 |
 | Very Elusive | 42.00% | ~267 |

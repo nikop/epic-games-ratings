@@ -5,11 +5,11 @@ Rating: 4.66 (Ranked 281)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,960 |
-| On the Top Step | 89.00% | ~2,773 |
-| Setting up for Success | 78.00% | ~2,430 |
-| Team Orders | 75.00% | ~2,337 |
-| Engineer | 56.00% | ~1,745 |
+| Getting on the Step | 95.00% | ~2,961 |
+| On the Top Step | 89.00% | ~2,774 |
+| Setting up for Success | 78.00% | ~2,431 |
+| Team Orders | 75.00% | ~2,338 |
+| Engineer | 56.00% | ~1,746 |
 | Familiar Faces | 50.00% | ~1,558 |
 | Going the Extra Mile | 44.00% | ~1,371 |
 | Sharing the Love | 42.00% | ~1,309 |
@@ -27,7 +27,7 @@ Rating: 4.66 (Ranked 281)
 | Reuse | 17.00% | ~530 |
 | Gathering Dust | 16.00% | ~499 |
 | Proving Them Wrong | 16.00% | ~499 |
-| Oil and Water | 15.00% | ~467 |
+| Oil and Water | 15.00% | ~468 |
 | Eagle Eye | 13.00% | ~405 |
 | Lightning Round the World | 13.00% | ~405 |
 | Hitting a Bullseye | 13.00% | ~405 |
@@ -37,15 +37,15 @@ Rating: 4.66 (Ranked 281)
 | Switcheroo | 11.00% | ~343 |
 | Tinkerer | 11.00% | ~343 |
 | Friendly Competition | 10.00% | ~312 |
-| Undisputed Winner | 9.00% | ~280 |
+| Undisputed Winner | 9.00% | ~281 |
 | For all Those Back at the Factory | 6.00% | ~187 |
 | Living up to Expectations | 6.00% | ~187 |
 | Smooth Operator | 6.00% | ~187 |
 | Loyal Bond | 5.00% | ~156 |
 | Peak Performance | 5.00% | ~156 |
-| Seasoned Rookie | 3.00% | ~93 |
-| Hitting a Century | 3.00% | ~93 |
-| Wait, I know you? | 3.00% | ~93 |
+| Seasoned Rookie | 3.00% | ~94 |
+| Hitting a Century | 3.00% | ~94 |
+| Wait, I know you? | 3.00% | ~94 |
 | Filling in the Gaps | 2.00% | ~62 |
 | Media Darling | 2.00% | ~62 |
 | Under the Microscope | 1.00% | ~31 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 281)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,116 (Ranked 189)  
+Progressed: 3,117 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-07 | 3,037 | 0 |
 | 2023-10-08 | 3,083 | 0 |
 | 2023-10-09 | 3,114 | 0 |
-| 2023-10-10 | 3,116 | 0 |
+| 2023-10-10 | 3,117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

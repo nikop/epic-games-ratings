@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.69,
+  "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -393,6 +393,11 @@
       "Time": "2023-10-08T20:03:33.4221823+00:00",
       "NumProgressed": 223,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T05:04:15.8748627+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -404,7 +409,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "02",
@@ -523,7 +528,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 6
     }
   ],
@@ -531,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-10-10T04:05:06.364822+00:00",
+  "LastChanged_Achievements": "2023-10-10T05:04:15.8748622+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.3282653+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:00:12.344608+00:00",
-  "LastUpdate_Achievements": "2023-10-10T04:05:06.3648337+00:00"
+  "LastUpdate_Ratings": "2023-10-10T04:59:22.1737593+00:00",
+  "LastUpdate_Achievements": "2023-10-10T05:04:15.8748752+00:00"
 }
