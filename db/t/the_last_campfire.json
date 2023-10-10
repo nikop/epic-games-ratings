@@ -2,7 +2,7 @@
   "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
   "Name": "The Last Campfire",
   "ProductSlug": "the-last-campfire",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 660,
@@ -180,6 +180,6 @@
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
   "LastChanged": "2023-07-31T13:10:55.0658011+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:50.5547185+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:14:59.4319252+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:22:10.0276633+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:00:07.2737929+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:07:51.9502771+00:00"
 }

@@ -2060,9 +2060,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 11938,
+  "EOS_Progressed": 11943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2235,
+  "EOS_NewPlayers": 2231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4655,6 +4655,11 @@
       "Time": "2023-10-10T02:21:51.2874915+00:00",
       "NumProgressed": 11938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T03:07:24.908272+00:00",
+      "NumProgressed": 11943,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -4849,9 +4854,9 @@
       "ID": "Achievement_Trophy24",
       "SetID": "724h0m0",
       "Name": "I\u0027m not dead yet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5255
     },
     {
       "ID": "Achievement_Trophy25",
@@ -4859,7 +4864,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "Achievement_Trophy26",
@@ -4867,7 +4872,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4061
     },
     {
       "ID": "Achievement_Trophy27",
@@ -4883,7 +4888,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "Achievement_Trophy29",
@@ -4897,9 +4902,9 @@
       "ID": "Achievement_Trophy30",
       "SetID": "724h0m0",
       "Name": "Spread the plague",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3702
     },
     {
       "ID": "Achievement_Trophy31",
@@ -4907,7 +4912,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4061
     },
     {
       "ID": "Achievement_Trophy32",
@@ -4931,7 +4936,7 @@
       "Name": "Augmented rat",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "Achievement_Trophy35",
@@ -4955,7 +4960,7 @@
       "Name": "Get over here!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "Achievement_Trophy38",
@@ -4963,7 +4968,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "Achievement_Trophy39",
@@ -4971,7 +4976,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "Achievement_Trophy40",
@@ -4987,7 +4992,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "Achievement_Trophy42",
@@ -5011,7 +5016,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "Achievement_Trophy45",
@@ -5154,7 +5159,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 11938,
+      "Progressed": 11943,
       "Completed": 1
     }
   ],
@@ -5162,8 +5167,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-09T17:57:13.337021+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:21:51.2874909+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:07:24.9082713+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.4779784+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:13:22.4611361+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:21:51.2875632+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:57:37.1349927+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:07:24.9084127+00:00"
 }

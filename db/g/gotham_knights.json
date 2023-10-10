@@ -3452,9 +3452,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73376,
+  "EOS_Progressed": 73377,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18212,6 +18212,11 @@
       "Time": "2023-10-10T02:22:57.6242692+00:00",
       "NumProgressed": 73376,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-10T03:09:00.902298+00:00",
+      "NumProgressed": 73377,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18271,7 +18276,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16876
+      "UsersEstimate": 16877
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18311,7 +18316,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11006
+      "UsersEstimate": 11007
     },
     {
       "ID": "CHALLENGES_1",
@@ -18463,7 +18468,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13942
     },
     {
       "ID": "FREEZE_3",
@@ -18599,7 +18604,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20545
+      "UsersEstimate": 20546
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18631,7 +18636,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16876
+      "UsersEstimate": 16877
     },
     {
       "ID": "MYSTERY_04",
@@ -18655,7 +18660,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11006
+      "UsersEstimate": 11007
     },
     {
       "ID": "MYSTERY_07",
@@ -18710,13 +18715,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73376,
+      "Progressed": 73377,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43656,
+      "Progressed": 43657,
       "Completed": 2666
     }
   ],
@@ -18724,8 +18729,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T21:59:33.7825613+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:22:57.6242686+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:09:00.9022973+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:15:36.1788323+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:22:57.6244166+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:01:01.2249887+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:09:00.9025839+00:00"
 }

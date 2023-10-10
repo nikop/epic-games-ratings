@@ -1,16 +1,16 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 537)  
+Rating: 4.51 (Ranked 550)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,301 |
-| It wakes | 1.00% | ~9,301 |
-| Skillful | 1.00% | ~9,301 |
-| Not half bad | 0.90% | ~8,371 |
-| Make Some Noise | 0.90% | ~8,371 |
+| Zealous | 1.00% | ~9,302 |
+| It wakes | 1.00% | ~9,302 |
+| Skillful | 1.00% | ~9,302 |
+| Not half bad | 0.90% | ~8,372 |
+| Make Some Noise | 0.90% | ~8,372 |
 | Handyman | 0.80% | ~7,441 |
 | Apt Survivor | 0.80% | ~7,441 |
 | Survival Treasures | 0.80% | ~7,441 |
@@ -34,39 +34,39 @@ Number of Ratings: 70,340  (23.09.2022)
 | Risk it all | 0.50% | ~4,651 |
 | Wounded Healer | 0.50% | ~4,651 |
 | Close Shave | 0.50% | ~4,651 |
-| Apt Killer | 0.40% | ~3,720 |
-| Vulture | 0.40% | ~3,720 |
-| II | 0.40% | ~3,720 |
-| With Scars to Show | 0.40% | ~3,720 |
-| Second Act | 0.40% | ~3,720 |
-| Blood on your hands | 0.30% | ~2,790 |
-| Escape Artist | 0.30% | ~2,790 |
-| Made it out alive! | 0.30% | ~2,790 |
-| III | 0.30% | ~2,790 |
-| III-50 | 0.30% | ~2,790 |
-| Shock Therapy | 0.30% | ~2,790 |
-| All Aboard | 0.30% | ~2,790 |
-| Item of Obsession | 0.30% | ~2,790 |
-| House of Pain | 0.30% | ~2,790 |
-| Holiday Get-Together | 0.30% | ~2,790 |
-| Near-Death Experience | 0.30% | ~2,790 |
-| Cherish your Life | 0.30% | ~2,790 |
-| Campbell's Chapel Legacy | 0.30% | ~2,790 |
-| Unforgettable Getaway | 0.30% | ~2,790 |
-| Cutting Out | 0.30% | ~2,790 |
-| Outrun Evil | 0.30% | ~2,790 |
-| First to the Punch | 0.30% | ~2,790 |
-| Operation: Survival | 0.30% | ~2,790 |
-| Old West Oasis | 0.30% | ~2,790 |
-| Classy Act | 0.30% | ~2,790 |
-| Every Last Drop | 0.30% | ~2,790 |
-| Raccoon City Recruit | 0.30% | ~2,790 |
-| Flight to Freedom | 0.30% | ~2,790 |
-| A Fast Death | 0.30% | ~2,790 |
-| Lifting The Fog | 0.30% | ~2,790 |
-| Chorus of Chaos | 0.30% | ~2,790 |
-| One More Step | 0.30% | ~2,790 |
-| MU/TH/UR Dearest | 0.30% | ~2,790 |
+| Apt Killer | 0.40% | ~3,721 |
+| Vulture | 0.40% | ~3,721 |
+| II | 0.40% | ~3,721 |
+| III | 0.40% | ~3,721 |
+| With Scars to Show | 0.40% | ~3,721 |
+| Second Act | 0.40% | ~3,721 |
+| Blood on your hands | 0.30% | ~2,791 |
+| Escape Artist | 0.30% | ~2,791 |
+| Made it out alive! | 0.30% | ~2,791 |
+| III-50 | 0.30% | ~2,791 |
+| Shock Therapy | 0.30% | ~2,791 |
+| All Aboard | 0.30% | ~2,791 |
+| Item of Obsession | 0.30% | ~2,791 |
+| House of Pain | 0.30% | ~2,791 |
+| Holiday Get-Together | 0.30% | ~2,791 |
+| Near-Death Experience | 0.30% | ~2,791 |
+| Cherish your Life | 0.30% | ~2,791 |
+| Campbell's Chapel Legacy | 0.30% | ~2,791 |
+| Unforgettable Getaway | 0.30% | ~2,791 |
+| Cutting Out | 0.30% | ~2,791 |
+| Outrun Evil | 0.30% | ~2,791 |
+| First to the Punch | 0.30% | ~2,791 |
+| Operation: Survival | 0.30% | ~2,791 |
+| Old West Oasis | 0.30% | ~2,791 |
+| Classy Act | 0.30% | ~2,791 |
+| Every Last Drop | 0.30% | ~2,791 |
+| Raccoon City Recruit | 0.30% | ~2,791 |
+| Flight to Freedom | 0.30% | ~2,791 |
+| A Fast Death | 0.30% | ~2,791 |
+| Lifting The Fog | 0.30% | ~2,791 |
+| Chorus of Chaos | 0.30% | ~2,791 |
+| One More Step | 0.30% | ~2,791 |
+| MU/TH/UR Dearest | 0.30% | ~2,791 |
 | A bite for the Entity | 0.20% | ~1,860 |
 | Blood on your face | 0.20% | ~1,860 |
 | Jump Scares | 0.20% | ~1,860 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,124 (Ranked 14)  
+Progressed: 930,181 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,14 +409,14 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,124 | 49 |
+| 2023-10-10 | 930,181 | 49 |
 ## Awards
-Max (Diverse Characters): 33,640  (Ranked 15)  
-Sum: 260,754 (Ranked 13)  
+Max (Diverse Characters): 33,667  (Ranked 15)  
+Sum: 260,781 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33,640 |
+| This game has Diverse Characters | 33,667 |
 | This game is Highly Recommended | 29,792 |
 | This game has Competitive Players | 29,485 |
 | This game has Amazing Characters | 29,453 |
@@ -689,3 +689,4 @@ Diff (max vs sum): 2
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
+| 2023-10-10 | 4.51 | - | 33,667 | 260,781 |

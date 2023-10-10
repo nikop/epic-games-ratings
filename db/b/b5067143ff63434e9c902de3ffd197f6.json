@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556,
+  "EOS_Progressed": 1559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1479,
+  "EOS_NewPlayers": 1475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-10-10T02:21:07.05625+00:00",
       "NumProgressed": 1556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T03:06:21.8934154+00:00",
+      "NumProgressed": 1559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -1151,9 +1156,9 @@
       "ID": "ACH_MEGLAB",
       "SetID": "1lo1k0a",
       "Name": "MEG",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -1191,9 +1196,9 @@
       "ID": "ACH_THEEND",
       "SetID": "1lo1k0a",
       "Name": "End?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -1209,7 +1214,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -1304,14 +1309,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 1556,
+      "Progressed": 1559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:21:07.0562495+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:06:21.8934148+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.4900137+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:16:36.0900492+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:21:07.0562726+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:02:31.2879246+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:06:21.8934462+00:00"
 }

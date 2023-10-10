@@ -14,7 +14,7 @@ Rating: 4.62 (Ranked 354)
 | Autofire | 60.00% | ~535 |
 | True Believer | 58.00% | ~517 |
 | Story Teller | 57.00% | ~508 |
-| Raise the Stakes | 56.00% | ~500 |
+| Raise the Stakes | 57.00% | ~508 |
 | Surgeon | 53.00% | ~473 |
 | Exterminator | 52.00% | ~464 |
 | Greenhouse Effect | 52.00% | ~464 |
@@ -24,7 +24,7 @@ Rating: 4.62 (Ranked 354)
 | Get Off My Ship! | 44.00% | ~392 |
 | Strange Transmissions | 43.00% | ~384 |
 | Live with the Hot Ones | 42.00% | ~375 |
-| Wreckage | 41.00% | ~366 |
+| Wreckage | 42.00% | ~375 |
 | Keeper of the Faith | 40.00% | ~357 |
 | Betrayed | 38.00% | ~339 |
 | Legend Teller | 37.00% | ~330 |

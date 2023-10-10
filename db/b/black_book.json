@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -534,9 +534,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 40502,
+  "EOS_Progressed": 40506,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 3619,
+  "EOS_NewPlayers": 3613,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5279,6 +5279,11 @@
       "Time": "2023-10-10T02:22:41.539581+00:00",
       "NumProgressed": 40502,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-10T03:08:37.2948359+00:00",
+      "NumProgressed": 40506,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -5315,7 +5320,7 @@
       "Name": "Aspen Tree",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5266
     },
     {
       "ID": "BAD_END",
@@ -5363,7 +5368,7 @@
       "Name": "Cow Level",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "DEAD_MAN",
@@ -5395,7 +5400,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -5403,7 +5408,7 @@
       "Name": "Student",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8100
+      "UsersEstimate": 8101
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -5411,7 +5416,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -5467,7 +5472,7 @@
       "Name": "Healer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5266
     },
     {
       "ID": "HERBS_2",
@@ -5475,7 +5480,7 @@
       "Name": "Herbalist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "HERBS_3",
@@ -5491,7 +5496,7 @@
       "Name": "Initiation",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10531
+      "UsersEstimate": 10532
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -5531,7 +5536,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -5539,7 +5544,7 @@
       "Name": "Soldier",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "NORMAL_END",
@@ -5611,7 +5616,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "TALES_2",
@@ -5643,7 +5648,7 @@
       "Name": "Water",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "WOLF",
@@ -5667,7 +5672,7 @@
       "Name": "Knower",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 6075
+      "UsersEstimate": 6076
     },
     {
       "ID": "ZNATKOST_2",
@@ -5690,15 +5695,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 40502,
+      "Progressed": 40506,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-10-07T15:57:28.936311+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:22:41.5395805+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:08:37.2948352+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:29.9616795+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:14:38.4069423+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:22:41.5396499+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:59:34.1551099+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:08:37.2949676+00:00"
 }

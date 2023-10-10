@@ -1028,7 +1028,7 @@
   ],
   "EOS_Progressed": 7308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3957,9 +3957,9 @@
       "ID": "ach48",
       "SetID": "47in8n6",
       "Name": "Total Disrespect",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1389
     },
     {
       "ID": "ach49",
@@ -3990,8 +3990,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-10T00:02:20.6066369+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:21:34.9213918+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:07:01.3259861+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:13:11.5088203+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:21:34.9214492+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:57:19.4090693+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:07:01.3260932+00:00"
 }

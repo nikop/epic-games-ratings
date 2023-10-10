@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~753,467 |
-| The ABCs | 43.00% | ~661,206 |
-| Home Run | 41.00% | ~630,452 |
-| Keeps Coming Off | 41.00% | ~630,452 |
+| Justice from the Grave | 49.00% | ~753,469 |
+| The ABCs | 43.00% | ~661,208 |
+| Home Run | 41.00% | ~630,454 |
+| Keeps Coming Off | 41.00% | ~630,454 |
 | Guts | 20.00% | ~307,538 |
 | Meat Grinder | 19.00% | ~292,161 |
-| Burning Man | 16.00% | ~246,030 |
+| Burning Man | 16.00% | ~246,031 |
 | Lived to Tell the Tale | 12.00% | ~184,523 |
 | Highlander | 10.00% | ~153,769 |
 | Unstoppable | 10.00% | ~153,769 |
 | Just a Scratch | 9.00% | ~138,392 |
-| Tough Nut to Crack | 6.00% | ~92,261 |
-| Yoink | 6.00% | ~92,261 |
+| Tough Nut to Crack | 6.00% | ~92,262 |
+| Yoink | 6.00% | ~92,262 |
 | Long List of Names | 4.00% | ~61,508 |
 | Pyromaniac | 4.00% | ~61,508 |
 | The Queen of Weapons | 4.00% | ~61,508 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 729)
 | That’s No Ordinary Cold | 0.10% | ~1,538 |
 | Stairway to Hell | 0.10% | ~1,538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,537,688 (Ranked 8)  
+Progressed: 1,537,692 (Ranked 8)  
 Completed: 62 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,16 +217,16 @@ Completed: 62 (0.00%) (Ranked 310)
 | 2023-10-07 | 1,536,393 | 59 |
 | 2023-10-08 | 1,537,122 | 60 |
 | 2023-10-09 | 1,537,644 | 62 |
-| 2023-10-10 | 1,537,688 | 62 |
+| 2023-10-10 | 1,537,692 | 62 |
 ## Awards
 Max (Diverse Characters): 766  (Ranked 166)  
-Sum: 3,593 (Ranked 156)  
+Sum: 3,597 (Ranked 156)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 766 |
 | This game has Challenging Combat | 642 |
-| This game is Highly Recommended | 631 |
+| This game is Highly Recommended | 635 |
 | This game is Extremely Fun | 532 |
 | This game has Amazing Characters | 526 |
 | This game has Competitive Players | 496 |
@@ -414,3 +414,4 @@ Diff (max vs sum): 10
 | 2023-10-07 | 4.39 | 756 | 3,550 |
 | 2023-10-08 | 4.39 | 762 | 3,573 |
 | 2023-10-09 | 4.39 | 766 | 3,593 |
+| 2023-10-10 | 4.39 | 766 | 3,597 |

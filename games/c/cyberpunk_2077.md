@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,295 |
-| Right Back At Ya | 44.00% | ~391,845 |
-| The Lovers | 38.00% | ~338,412 |
-| Stanislavski's Method | 33.00% | ~293,884 |
-| The Wheel of Fortune | 32.00% | ~284,978 |
-| The Hermit | 30.00% | ~267,167 |
-| The High Priestess | 29.00% | ~258,262 |
-| True Soldier | 28.00% | ~249,356 |
-| Christmas Tree Attack | 25.00% | ~222,639 |
-| Full Body Conversion | 24.00% | ~213,734 |
-| Life of the Road | 23.00% | ~204,828 |
-| Ten out of Ten | 21.00% | ~187,017 |
-| The World | 21.00% | ~187,017 |
-| Master Crafter | 20.00% | ~178,111 |
-| True Warrior | 19.00% | ~169,206 |
-| Bushido and Chill | 18.00% | ~160,300 |
-| Gun Fu | 18.00% | ~160,300 |
-| I Am The Law | 16.00% | ~142,489 |
+| The Fool | 71.00% | ~632,298 |
+| Right Back At Ya | 44.00% | ~391,847 |
+| The Lovers | 38.00% | ~338,413 |
+| Stanislavski's Method | 33.00% | ~293,885 |
+| The Wheel of Fortune | 32.00% | ~284,980 |
+| The Hermit | 30.00% | ~267,168 |
+| The High Priestess | 29.00% | ~258,263 |
+| True Soldier | 28.00% | ~249,357 |
+| Christmas Tree Attack | 25.00% | ~222,640 |
+| Full Body Conversion | 24.00% | ~213,735 |
+| Life of the Road | 23.00% | ~204,829 |
+| Ten out of Ten | 21.00% | ~187,018 |
+| The World | 21.00% | ~187,018 |
+| Master Crafter | 20.00% | ~178,112 |
+| True Warrior | 19.00% | ~169,207 |
+| Bushido and Chill | 18.00% | ~160,301 |
+| Gun Fu | 18.00% | ~160,301 |
+| I Am The Law | 16.00% | ~142,490 |
 | To Protect and Serve | 15.00% | ~133,584 |
-| The Quick and the Dead | 13.00% | ~115,772 |
-| Breathtaking | 13.00% | ~115,772 |
+| The Quick and the Dead | 13.00% | ~115,773 |
+| Breathtaking | 13.00% | ~115,773 |
 | Rough Landing | 12.00% | ~106,867 |
-| The Wandering Fool | 11.00% | ~97,961 |
-| The Jungle | 11.00% | ~97,961 |
+| The Wandering Fool | 11.00% | ~97,962 |
+| The Jungle | 11.00% | ~97,962 |
 | To Bad Decisions! | 10.00% | ~89,056 |
 | Gunslinger | 10.00% | ~89,056 |
 | Mean Streets | 9.00% | ~80,150 |
 | Temperance | 9.00% | ~80,150 |
 | The Star | 8.00% | ~71,245 |
 | The Sun | 8.00% | ~71,245 |
-| City Lights | 6.00% | ~53,433 |
+| City Lights | 6.00% | ~53,434 |
 | Must Be Rats | 5.00% | ~44,528 |
 | The Devil | 5.00% | ~44,528 |
 | Greetings from Pacifica! | 5.00% | ~44,528 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890,557 (Ranked 15)  
+Progressed: 890,561 (Ranked 15)  
 Completed: 2,633 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 2,633 (0.30%) (Ranked 202)
 | 2023-10-07 | 889,866 | 2,618 |
 | 2023-10-08 | 890,268 | 2,624 |
 | 2023-10-09 | 890,533 | 2,633 |
-| 2023-10-10 | 890,557 | 2,633 |
+| 2023-10-10 | 890,561 | 2,633 |
 ## Awards
 Max (Character Customization): 95,294  (Ranked 9)  
-Sum: 286,487 (Ranked 11)  
+Sum: 286,725 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -252,8 +252,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 14,538 |
 | This game is Extremely Fun | 14,411 |
 | This game has Amazing Characters | 14,286 |
+| This game is Relaxing | 13,955 |
 | This game has Quickly Understood Controls | 13,811 |
-| This game is Relaxing | 13,717 |
 | This game has a Creative Community | 9,323 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): -2
 | 2023-10-07 | 4.63 | - | 93,914 | 277,942 |
 | 2023-10-08 | 4.64 | - | 94,679 | 282,115 |
 | 2023-10-09 | 4.64 | - | 95,294 | 285,902 |
-| 2023-10-10 | 4.64 | - | 95,294 | 286,487 |
+| 2023-10-10 | 4.64 | - | 95,294 | 286,725 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -2931,9 +2931,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 406
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -2978,8 +2978,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:20:52.7961631+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:06:01.4625545+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:15:10.1162202+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:20:52.7962128+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:00:22.8606534+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:06:01.4626166+00:00"
 }

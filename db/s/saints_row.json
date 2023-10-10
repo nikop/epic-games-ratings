@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3768,9 +3768,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 74461,
+  "EOS_Progressed": 74462,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23158,6 +23158,11 @@
       "Time": "2023-10-10T02:21:04.6738966+00:00",
       "NumProgressed": 74461,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-10T03:06:18.6290407+00:00",
+      "NumProgressed": 74462,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23217,7 +23222,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18615
+      "UsersEstimate": 18616
     },
     {
       "ID": "complet_epilogue_mission",
@@ -23281,7 +23286,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34252
+      "UsersEstimate": 34253
     },
     {
       "ID": "customize_a_vehicle",
@@ -23345,7 +23350,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18615
+      "UsersEstimate": 18616
     },
     {
       "ID": "empire_tier_3",
@@ -23409,7 +23414,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12658
+      "UsersEstimate": 12659
     },
     {
       "ID": "get_fired",
@@ -23521,7 +23526,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20104
+      "UsersEstimate": 20105
     },
     {
       "ID": "two_thirds_purple",
@@ -23592,13 +23597,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74461,
+      "Progressed": 74462,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46098,
+      "Progressed": 46099,
       "Completed": 4065
     }
   ],
@@ -23606,8 +23611,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-09T20:00:41.2088208+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:21:04.6738963+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:06:18.62904+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:15:42.4282287+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:21:04.674053+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:01:10.0609655+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:06:18.6293585+00:00"
 }

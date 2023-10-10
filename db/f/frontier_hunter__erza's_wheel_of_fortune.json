@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -829,9 +829,9 @@
       "ID": "ACHIEVEMENT_44",
       "SetID": "7pimpda",
       "Name": "Berserker Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -902,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:25:14.8178381+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:09:52.2953328+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.3139167+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:16:14.3830881+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:25:14.8178796+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:01:59.2157461+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:09:52.2954078+00:00"
 }

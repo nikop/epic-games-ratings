@@ -8,13 +8,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 3.00% | ~4,122 |
 | Basic in Bulk | 3.00% | ~4,122 |
+| Tinkle of Coins | 3.00% | ~4,122 |
 | Titan's First Steps | 3.00% | ~4,122 |
 | One Easy Payment | 2.00% | ~2,748 |
 | Some Assembly Required | 2.00% | ~2,748 |
 | Disintermediation | 2.00% | ~2,748 |
 | Another Satisfied Customer | 2.00% | ~2,748 |
 | It's Free Real Estate | 2.00% | ~2,748 |
-| Tinkle of Coins | 2.00% | ~2,748 |
 | Budding Merchant | 2.00% | ~2,748 |
 | Capitalism Ho! | 2.00% | ~2,748 |
 | Own the Means of Production | 2.00% | ~2,748 |
@@ -29,13 +29,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,374 |
 | Through Repetition, Perfection | 1.00% | ~1,374 |
 | Did we pack lunch? | 1.00% | ~1,374 |
-| On the Path to Greatness | 0.90% | ~1,236 |
-| Ascended | 0.90% | ~1,236 |
-| Blank Page Syndrome | 0.90% | ~1,236 |
-| Efficient Floor Space | 0.90% | ~1,236 |
-| Gem Expert | 0.90% | ~1,236 |
-| Accomplished Merchant | 0.90% | ~1,236 |
-| Arcane Industries | 0.90% | ~1,236 |
+| On the Path to Greatness | 0.90% | ~1,237 |
+| Ascended | 0.90% | ~1,237 |
+| Blank Page Syndrome | 0.90% | ~1,237 |
+| Efficient Floor Space | 0.90% | ~1,237 |
+| Gem Expert | 0.90% | ~1,237 |
+| Accomplished Merchant | 0.90% | ~1,237 |
+| Arcane Industries | 0.90% | ~1,237 |
 | Research & Development | 0.80% | ~1,099 |
 | Vanity, Verily | 0.80% | ~1,099 |
 | Power of Love | 0.80% | ~1,099 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,387 (Ranked 73)  
+Progressed: 137,390 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 167 (0.12%) (Ranked 237)
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
-| 2023-10-10 | 137,387 | 167 |
+| 2023-10-10 | 137,390 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,363 (Ranked 50)  

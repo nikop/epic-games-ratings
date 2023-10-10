@@ -9,23 +9,23 @@ Rating: 4.18 (Ranked 897)
 | Har, Har, Har, Very Funny | 35.00% | ~25,682 |
 | Loose Ends | 34.00% | ~24,948 |
 | To the Victor Go the Spoils | 29.00% | ~21,279 |
-| Knighthood | 28.00% | ~20,545 |
+| Knighthood | 28.00% | ~20,546 |
 | Get ReQ'd | 25.00% | ~18,344 |
 | Whispered Words | 25.00% | ~18,344 |
-| The Batman Family | 23.00% | ~16,876 |
-| Lock and Key | 23.00% | ~16,876 |
+| The Batman Family | 23.00% | ~16,877 |
+| Lock and Key | 23.00% | ~16,877 |
 | Something in the Clay | 21.00% | ~15,409 |
 | Quartzer Life Crisis | 21.00% | ~15,409 |
 | Working Hard or Harley Working? | 20.00% | ~14,675 |
 | Unstoppable Force | 20.00% | ~14,675 |
 | Bad Apples in Every Orchard | 20.00% | ~14,675 |
-| Snow Problem | 19.00% | ~13,941 |
+| Snow Problem | 19.00% | ~13,942 |
 | The Show Mud Go On | 18.00% | ~13,208 |
 | From Inside Gotham's Walls | 18.00% | ~13,208 |
 | Protector of Gotham | 17.00% | ~12,474 |
 | Universal Health Scare | 16.00% | ~11,740 |
-| In Your Element | 15.00% | ~11,006 |
-| Voiceless | 15.00% | ~11,006 |
+| In Your Element | 15.00% | ~11,007 |
+| Voiceless | 15.00% | ~11,007 |
 | Rock and a Hard Place | 14.00% | ~10,273 |
 | Cooldown | 14.00% | ~10,273 |
 | Seeking Asylum | 14.00% | ~10,273 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,376 (Ranked 91)  
+Progressed: 73,377 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 120 (0.16%) (Ranked 227)
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
 | 2023-10-09 | 73,364 | 120 |
-| 2023-10-10 | 73,376 | 120 |
+| 2023-10-10 | 73,377 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,802  (Ranked 97)  
 Sum: 4,697 (Ranked 140)  

@@ -4816,10 +4816,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3593,
       "NumberOfAwardsMax": 766
+    },
+    {
+      "Time": "2023-10-10T03:02:01.7881614+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3597,
+      "NumberOfAwardsMax": 766
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3593,
+  "NumberOfAwards": 3597,
   "NumberOfAwardsMax": 766,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4827,7 +4833,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 631
+      "Count": 635
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4878,9 +4884,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1537688,
+  "EOS_Progressed": 1537692,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 4187,
+  "EOS_NewPlayers": 4184,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24408,6 +24414,11 @@
       "Time": "2023-10-10T02:20:22.0758153+00:00",
       "NumProgressed": 1537688,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-10T03:05:17.5756332+00:00",
+      "NumProgressed": 1537692,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 38,
@@ -24427,7 +24438,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 246030
+      "UsersEstimate": 246031
     },
     {
       "ID": "Chambermaid",
@@ -24515,7 +24526,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 630452
+      "UsersEstimate": 630454
     },
     {
       "ID": "JustScratch",
@@ -24531,7 +24542,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 753467
+      "UsersEstimate": 753469
     },
     {
       "ID": "KeepsComingOff",
@@ -24539,7 +24550,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 630452
+      "UsersEstimate": 630454
     },
     {
       "ID": "KungFu",
@@ -24651,7 +24662,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 661206
+      "UsersEstimate": 661208
     },
     {
       "ID": "ToughNut",
@@ -24659,7 +24670,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 92261
+      "UsersEstimate": 92262
     },
     {
       "ID": "TrainingAccident",
@@ -24707,7 +24718,7 @@
       "Name": "Yoink",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 92261
+      "UsersEstimate": 92262
     },
     {
       "ID": "YoureWelcome",
@@ -24722,16 +24733,16 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1537688,
+      "Progressed": 1537692,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2023-10-09T20:01:23.6614626+00:00",
-  "LastChanged_Achievements": "2023-10-10T02:20:22.0758147+00:00",
+  "LastChanged": "2023-10-10T03:02:01.788161+00:00",
+  "LastChanged_Achievements": "2023-10-10T03:05:17.5756325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.4032735+00:00",
-  "LastUpdate_Ratings": "2023-10-10T02:16:15.6808958+00:00",
-  "LastUpdate_Achievements": "2023-10-10T02:20:22.0759591+00:00"
+  "LastUpdate_Ratings": "2023-10-10T03:02:01.788162+00:00",
+  "LastUpdate_Achievements": "2023-10-10T03:05:17.5759146+00:00"
 }
