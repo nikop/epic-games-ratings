@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7038,
+  "EOS_Progressed": 7039,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6068,6 +6068,11 @@
       "Time": "2023-10-09T19:06:34.4923946+00:00",
       "NumProgressed": 7038,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-10T16:06:41.0164504+00:00",
+      "NumProgressed": 7039,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -6095,7 +6100,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6143,7 +6148,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -6167,7 +6172,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -6247,7 +6252,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -6383,7 +6388,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6399,7 +6404,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -6423,7 +6428,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -6438,7 +6443,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7038,
+      "Progressed": 7039,
       "Completed": 8
     }
   ],
@@ -6446,8 +6451,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:08:50.583306+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:06:41.0164499+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.1752865+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:00:24.3166932+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:08:50.583432+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:07.7141216+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:06:41.0165198+00:00"
 }

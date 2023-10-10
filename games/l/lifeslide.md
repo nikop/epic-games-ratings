@@ -8,7 +8,7 @@
 | Road to Improvement | 72.00% | ~236 |
 | Wonderful World | 59.00% | ~194 |
 | Second Wind | 58.00% | ~190 |
-| Chain of Events | 57.00% | ~187 |
+| Chain of Events | 58.00% | ~190 |
 | Change of Heart | 56.00% | ~184 |
 | Turbulence | 37.00% | ~121 |
 | Endless Possibilities | 37.00% | ~121 |

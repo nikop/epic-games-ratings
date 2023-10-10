@@ -4,8 +4,8 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -902,17 +902,17 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -1141,8 +1141,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:07:49.7218683+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:05:57.309558+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:58:50.3181377+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:07:49.721981+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:57:59.4254623+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:05:57.3096672+00:00"
 }

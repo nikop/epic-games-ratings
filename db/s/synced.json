@@ -532,10 +532,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-10-10T15:59:11.0083218+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -579,13 +585,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 62393,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 2049,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 62398,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 2038,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -4572,6 +4578,11 @@
       "Time": "2023-10-10T15:10:09.2720106+00:00",
       "NumProgressed": 62393,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-10T16:09:06.4836804+00:00",
+      "NumProgressed": 62398,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -4584,7 +4595,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18094
+      "UsersEstimate": 18095
     },
     {
       "ID": "10",
@@ -4648,7 +4659,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 9983
+      "UsersEstimate": 9984
     },
     {
       "ID": "3",
@@ -4656,7 +4667,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "4",
@@ -4664,7 +4675,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5615
+      "UsersEstimate": 5616
     },
     {
       "ID": "5",
@@ -4672,7 +4683,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "6",
@@ -4711,16 +4722,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 62393,
-      "Completed": 11
+      "Progressed": 62398,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-09T20:58:54.0123962+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:10:09.27201+00:00",
+  "LastChanged": "2023-10-10T15:59:11.0083216+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:09:06.48368+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:18.5160199+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:00:27.4464459+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:10:09.2720492+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:11.0083222+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:09:06.483718+00:00"
 }

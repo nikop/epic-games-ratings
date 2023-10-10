@@ -1,36 +1,36 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 188)  
+Rating: 4.71 (Ranked 187)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,388 |
-| Cavalier | 25.00% | ~201,084 |
+| Blacksmith's Son | 32.00% | ~257,389 |
+| Cavalier | 25.00% | ~201,085 |
 | Fatso | 23.00% | ~184,998 |
-| Awakening | 21.00% | ~168,911 |
-| Ranger | 20.00% | ~160,867 |
-| Scrooge | 20.00% | ~160,867 |
-| Anorectic | 16.00% | ~128,694 |
+| Awakening | 21.00% | ~168,912 |
+| Ranger | 20.00% | ~160,868 |
+| Scrooge | 20.00% | ~160,868 |
+| Anorectic | 16.00% | ~128,695 |
 | Bookworm | 15.00% | ~120,651 |
 | Firestarter | 15.00% | ~120,651 |
 | Insomniac | 13.00% | ~104,564 |
-| Buddy | 12.00% | ~96,520 |
-| Thief | 12.00% | ~96,520 |
-| Sinner | 11.00% | ~88,477 |
-| Traveller | 11.00% | ~88,477 |
+| Buddy | 12.00% | ~96,521 |
+| Thief | 12.00% | ~96,521 |
+| Sinner | 11.00% | ~88,478 |
+| Traveller | 11.00% | ~88,478 |
 | Convict | 10.00% | ~80,434 |
-| Haggler | 9.00% | ~72,390 |
+| Haggler | 9.00% | ~72,391 |
 | McLovin | 7.00% | ~56,304 |
 | Runt | 7.00% | ~56,304 |
 | Casanova | 6.00% | ~48,260 |
 | Bad Trip | 5.00% | ~40,217 |
 | Monk | 5.00% | ~40,217 |
 | Serial Killer | 5.00% | ~40,217 |
-| Bastard | 4.00% | ~32,173 |
-| Hunter | 4.00% | ~32,173 |
-| Plague Doctor | 4.00% | ~32,173 |
+| Bastard | 4.00% | ~32,174 |
+| Hunter | 4.00% | ~32,174 |
+| Plague Doctor | 4.00% | ~32,174 |
 | Bard | 3.00% | ~24,130 |
 | Conqueror | 3.00% | ~24,130 |
 | Ginger in a Pickle | 3.00% | ~24,130 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~804 |
 | Wingman | 0.10% | ~804 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804,337 (Ranked 17)  
+Progressed: 804,341 (Ranked 17)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-07 | 804,007 | 49 |
 | 2023-10-08 | 804,172 | 49 |
 | 2023-10-09 | 804,284 | 49 |
-| 2023-10-10 | 804,337 | 49 |
+| 2023-10-10 | 804,341 | 49 |
 ## Awards
 Max (Character Customization): 7,506  (Ranked 48)  
 Sum: 27,953 (Ranked 49)  

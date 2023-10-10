@@ -32,8 +32,8 @@
 | Missing in Action | 42.00% | ~269 |
 | Very Elusive | 42.00% | ~269 |
 | Head Hunter | 42.00% | ~269 |
+| Operative | 42.00% | ~269 |
 | Veteran | 41.00% | ~262 |
-| Operative | 41.00% | ~262 |
 | Scholar | 41.00% | ~262 |
 | Power Full | 39.00% | ~250 |
 | The Professor | 38.00% | ~243 |

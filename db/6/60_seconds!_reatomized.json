@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5384,
+  "EOS_Progressed": 5385,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6049,6 +6049,11 @@
       "Time": "2023-10-09T22:03:11.4493338+00:00",
       "NumProgressed": 5384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T16:03:36.4758165+00:00",
+      "NumProgressed": 5385,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -6124,7 +6129,7 @@
       "Name": "A New Hope",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_BROKEN",
@@ -6132,7 +6137,7 @@
       "Name": "All thumbs",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -6148,7 +6153,7 @@
       "Name": "Out of the Bag",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACH_CATDOM",
@@ -6188,7 +6193,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4576
+      "UsersEstimate": 4577
     },
     {
       "ID": "ACH_DEEDEE",
@@ -6196,7 +6201,7 @@
       "Name": "Dawkins Residence",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACH_DEFEND",
@@ -6244,7 +6249,7 @@
       "Name": "Girl Power",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "ACH_EASY",
@@ -6260,7 +6265,7 @@
       "Name": "Enigma",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_EXPLORE_SHELTER",
@@ -6356,7 +6361,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "ACH_MADHATTER",
@@ -6434,9 +6439,9 @@
       "ID": "ACH_PRO_GAMER",
       "SetID": "5nj1ea3",
       "Name": "Pro gamer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_RESCUE",
@@ -6476,7 +6481,7 @@
       "Name": "I will survive!",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -6492,7 +6497,7 @@
       "Name": "Survivalist",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 4792
+      "UsersEstimate": 4793
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -6500,7 +6505,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -6508,7 +6513,7 @@
       "Name": "Prepper",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -6539,7 +6544,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5384,
+      "Progressed": 5385,
       "Completed": 1
     }
   ],
@@ -6547,8 +6552,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:04:29.4118389+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:03:36.475816+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:00.9846058+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:57:29.8825853+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:04:29.4119322+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:57:03.7162099+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:03:36.4759105+00:00"
 }

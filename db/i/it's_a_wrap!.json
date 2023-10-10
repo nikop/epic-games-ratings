@@ -4,8 +4,8 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "1_85_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Secret of the Mines",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "1_90_SECRET",
@@ -610,8 +610,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:07:47.8849013+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:05:55.9192298+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:20.0038611+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:00:59.1604373+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:07:47.8849156+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:36.0327109+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:05:55.9192439+00:00"
 }

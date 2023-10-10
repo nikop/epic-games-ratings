@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-10-10T00:08:20.8471418+00:00",
       "NumProgressed": 682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T16:08:24.6211539+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -673,7 +678,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "AhoyTrophy",
@@ -745,7 +750,7 @@
       "Name": "Bug Fixer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "DreadTrophy",
@@ -753,7 +758,7 @@
       "Name": "Existential dread",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "DropBallTrophy",
@@ -769,7 +774,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "Ext4Trophy",
@@ -905,7 +910,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "MaxPriceTrophy",
@@ -945,7 +950,7 @@
       "Name": "Taking the plunge",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "RacerTrophy",
@@ -1033,7 +1038,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "YouthTrophy",
@@ -1056,7 +1061,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 0
     }
   ],
@@ -1064,8 +1069,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-09-04T18:59:06.3867769+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:09:38.320646+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:08:24.6211533+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.2197773+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:59:21.3571347+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:09:38.3207014+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:58:23.3663531+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:08:24.6212076+00:00"
 }

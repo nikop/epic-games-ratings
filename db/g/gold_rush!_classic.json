@@ -4,8 +4,8 @@
   "ProductSlug": "gold-rush-classic-34d7d5",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
     "PcReleaseDate": "2014-07-25T12:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-29T02:58:22.0765944+00:00",
   "LastChanged": "2023-04-29T02:58:22.0765945+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:23.5845149+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:03:03.6903348+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:08:29.2116021+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:02:08.9237839+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:06:25.3134844+00:00"
 }

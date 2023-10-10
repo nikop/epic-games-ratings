@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -237,6 +237,11 @@
       "Time": "2023-10-05T04:06:01.4306472+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T16:03:49.2495324+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -272,7 +277,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -288,7 +293,7 @@
       "Name": "Let the boot talk",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "0000_achv_noskip",
@@ -360,7 +365,7 @@
       "Name": "Shadow on the wall",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "1004_achv_farts",
@@ -374,9 +379,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "1006_achv_chapter1",
@@ -384,7 +389,7 @@
       "Name": "Chapter I",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "1006_achv_demoliton",
@@ -422,7 +427,7 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -430,9 +435,9 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     },
     {
       "ID": "2002_achv_feedfish",
@@ -488,15 +493,15 @@
       "Name": "Master of Thermodynamics",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -615,7 +620,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -623,8 +628,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:04:47.6163529+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:03:49.249532+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:02:18.1922558+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:04:47.616395+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:00:24.6445014+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:03:49.2495788+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21837,
+  "EOS_Progressed": 21839,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -19010,6 +19010,11 @@
       "Time": "2023-10-10T15:06:59.7213412+00:00",
       "NumProgressed": 21837,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-10-10T16:05:21.2542364+00:00",
+      "NumProgressed": 21839,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 20,
@@ -19021,7 +19026,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -19045,7 +19050,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -19077,7 +19082,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -19133,7 +19138,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "INTRO_FINISHED",
@@ -19141,7 +19146,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 16814
+      "UsersEstimate": 16816
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -19149,7 +19154,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5897
     },
     {
       "ID": "NORTH_FINISHED",
@@ -19180,15 +19185,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 21837,
+      "Progressed": 21839,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:06:59.7213405+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:05:21.254236+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:20.9828053+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:01:15.4665766+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:06:59.721519+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:45.972754+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:05:21.2543633+00:00"
 }

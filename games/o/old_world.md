@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 2.00% | ~291 |
-| Settler | 2.00% | ~291 |
-| Play a Single Player Game | 2.00% | ~291 |
+| Explorer | 2.00% | ~292 |
+| Settler | 2.00% | ~292 |
+| Play a Single Player Game | 2.00% | ~292 |
 | Able | 1.00% | ~146 |
 | Architect | 1.00% | ~146 |
 | Good | 1.00% | ~146 |
@@ -22,15 +22,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 1.00% | ~146 |
 | Oracle | 1.00% | ~146 |
 | Judaism | 1.00% | ~146 |
+| Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
 | Glorious | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
-| Naming Landmarks | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
 | Enlightened | 0.80% | ~117 |
+| Magnificent | 0.80% | ~117 |
 | Warrior | 0.80% | ~117 |
 | Developing Cities | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
-| Magnificent | 0.70% | ~102 |
 | Wise | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
@@ -54,8 +54,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
 | Apadana | 0.60% | ~87 |
+| Colossus | 0.60% | ~87 |
 | Musaeum | 0.60% | ~87 |
 | Necropolis | 0.60% | ~87 |
+| Learn to Play 2 | 0.60% | ~87 |
 | Manichaeism | 0.60% | ~87 |
 | Egyptian Paganism | 0.60% | ~87 |
 | Regicide | 0.50% | ~73 |
@@ -68,9 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~73 |
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
-| Colossus | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
-| Learn to Play 2 | 0.50% | ~73 |
 | Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Beloved | 0.40% | ~58 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
+| Hagia Sophia | 0.40% | ~58 |
 | Pantheon | 0.40% | ~58 |
 | Via Recta Souk | 0.40% | ~58 |
 | Learn to Play 3 | 0.40% | ~58 |
@@ -92,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.40% | ~58 |
 | Double Victory | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
+| Capable | 0.30% | ~44 |
 | Devout | 0.30% | ~44 |
 | Invincible | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
@@ -102,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.30% | ~44 |
 | Traders | 0.30% | ~44 |
 | Hittite Iron | 0.30% | ~44 |
-| Hagia Sophia | 0.30% | ~44 |
 | Church of the Holy Sepulchre | 0.30% | ~44 |
 | Temple of Solomon | 0.30% | ~44 |
 | Learn to Play 4 | 0.30% | ~44 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.20% | ~29 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
-| Capable | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,574 (Ranked 134)  
+Progressed: 14,576 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,574 | 5 |
+| 2023-10-10 | 14,576 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 210)  

@@ -1,7 +1,7 @@
 # FUSER™
 [Store](https://store.epicgames.com/en-US/p/fuser)  
 [View Rawdata](../../db/f/fuser™.json)  
-Rating: 4.71 (Ranked 188)  
+Rating: 4.71 (Ranked 187)  
 Number of Ratings: 86  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 35  (Ranked 452)  

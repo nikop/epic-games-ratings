@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14574,
+  "EOS_Progressed": 14576,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13490,6 +13490,11 @@
       "Time": "2023-10-10T15:06:27.0317012+00:00",
       "NumProgressed": 14574,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T16:04:58.5057102+00:00",
+      "NumProgressed": 14576,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -13891,9 +13896,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -13933,7 +13938,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -14043,9 +14048,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -14125,7 +14130,7 @@
       "Name": "Settler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -14843,9 +14848,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -14859,9 +14864,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -15027,9 +15032,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -15253,7 +15258,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -15419,9 +15424,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -16236,21 +16241,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14574,
+      "Progressed": 14576,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14574,
+      "Progressed": 14576,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:06:27.0317007+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:04:58.5057097+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:03:18.7190528+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:06:27.0330194+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:02:19.5256245+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:04:58.507025+00:00"
 }

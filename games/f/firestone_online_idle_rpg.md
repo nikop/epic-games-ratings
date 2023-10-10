@@ -28,13 +28,13 @@ Rating: 4.06 (Ranked 946)
 | Superior | 14.00% | ~282 |
 | The Unstoppable | 14.00% | ~282 |
 | Scientist | 13.00% | ~261 |
+| Hunter | 12.00% | ~241 |
 | The power of Awakening | 12.00% | ~241 |
 | Challenger | 11.00% | ~221 |
 | Daily Quest Completionist | 11.00% | ~221 |
 | Doing My Part | 11.00% | ~221 |
 | Four Leaf Clover | 11.00% | ~221 |
 | Frostfire Liberator | 11.00% | ~221 |
-| Hunter | 11.00% | ~221 |
 | Mastery | 11.00% | ~221 |
 | Moving Up The Ladder | 11.00% | ~221 |
 | Relic Of The Past | 11.00% | ~221 |

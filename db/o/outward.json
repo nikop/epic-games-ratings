@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5437,9 +5437,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -5477,8 +5477,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:05:35.9970132+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:04:22.8504635+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:59:12.3208446+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:05:35.9970761+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:58:14.5472309+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:04:22.8505251+00:00"
 }

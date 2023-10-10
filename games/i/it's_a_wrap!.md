@@ -12,10 +12,10 @@
 | Extra Life | 4.00% | ~4 |
 | In the Can | 4.00% | ~4 |
 | What's my line again? | 3.00% | ~3 |
+| Secret of the Mines | 3.00% | ~3 |
 | Who's gonna pay for that? | 3.00% | ~3 |
 | Meet Your Makers | 3.00% | ~3 |
 | O' Captain! My Captain! | 2.00% | ~2 |
-| Secret of the Mines | 2.00% | ~2 |
 | Unboxing Video | 2.00% | ~2 |
 | Mise-en-scènester | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

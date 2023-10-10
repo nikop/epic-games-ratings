@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1293,9 +1293,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9507,
+  "EOS_Progressed": 9508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14478,6 +14478,11 @@
       "Time": "2023-10-10T15:05:33.7070731+00:00",
       "NumProgressed": 9507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T16:04:21.2438435+00:00",
+      "NumProgressed": 9508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -14489,7 +14494,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "10",
@@ -14529,7 +14534,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "15",
@@ -14577,7 +14582,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "20",
@@ -14601,7 +14606,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "23",
@@ -14609,7 +14614,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "24",
@@ -14641,7 +14646,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "28",
@@ -14713,7 +14718,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "36",
@@ -14737,7 +14742,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "39",
@@ -14745,7 +14750,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "4",
@@ -14769,7 +14774,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "42",
@@ -14817,7 +14822,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "48",
@@ -14913,7 +14918,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "59",
@@ -14937,7 +14942,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "8",
@@ -14960,15 +14965,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9507,
+      "Progressed": 9508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-09T20:59:58.2616403+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:05:33.7070725+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:04:21.243843+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.8010243+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:02:09.288206+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:05:33.7072157+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:00:18.6258075+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:04:21.2439791+00:00"
 }

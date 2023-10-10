@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71064,
+  "EOS_Progressed": 71065,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -19304,6 +19304,11 @@
       "Time": "2023-10-10T15:06:55.5095732+00:00",
       "NumProgressed": 71064,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-10T16:05:18.2231676+00:00",
+      "NumProgressed": 71065,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19355,7 +19360,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "FETCH",
@@ -19363,7 +19368,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19187
+      "UsersEstimate": 19188
     },
     {
       "ID": "FOXIN_AROUND",
@@ -19427,7 +19432,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "OLD_COMPANION",
@@ -19459,7 +19464,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "SPIRIT_DASH",
@@ -19506,7 +19511,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71064,
+      "Progressed": 71065,
       "Completed": 377
     }
   ],
@@ -19514,8 +19519,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:06:55.5095726+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:05:18.2231671+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:00:37.6944066+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:06:55.5097071+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:19.5908414+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:05:18.2233018+00:00"
 }

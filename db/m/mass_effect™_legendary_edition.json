@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2240,9 +2240,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_71",
@@ -2508,8 +2508,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:08:44.2179387+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:06:36.318608+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:58:38.0351861+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:08:44.2182085+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:57:49.9959288+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:06:36.318816+00:00"
 }

@@ -44,7 +44,7 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~36 |
 | They'll Tell Stories About This | 1.00% | ~36 |
 | Vanquisher of nightmares | 1.00% | ~36 |
-| Through fire and flame. | 0.70% | ~25 |
+| Through fire and flame. | 0.80% | ~29 |
 | Legacy of a master hunter | 0.40% | ~14 |
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |

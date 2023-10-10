@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1409,
+  "EOS_Progressed": 1410,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -2599,6 +2599,11 @@
       "Time": "2023-10-10T13:11:28.9370323+00:00",
       "NumProgressed": 1409,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T16:05:00.7742804+00:00",
+      "NumProgressed": 1410,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2619,7 +2624,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2627,7 +2632,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3002,14 +3007,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1409,
+      "Progressed": 1410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-10T15:06:30.5035928+00:00",
+  "LastChanged_Achievements": "2023-10-10T16:05:00.77428+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:00:51.353+00:00",
-  "LastUpdate_Achievements": "2023-10-10T15:06:30.5036968+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:59:30.6524067+00:00",
+  "LastUpdate_Achievements": "2023-10-10T16:05:00.7743393+00:00"
 }

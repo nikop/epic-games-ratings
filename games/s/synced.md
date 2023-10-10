@@ -5,11 +5,11 @@ Rating: 4.16 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 29.00% | ~18,094 |
-| As Far Away As Possible | 16.00% | ~9,983 |
-| A Most Unstable Organism | 12.00% | ~7,487 |
-| No Time to Follow Protocol | 9.00% | ~5,615 |
-| Float Like a Butterfly... | 8.00% | ~4,991 |
+| Your Lucky Day | 29.00% | ~18,095 |
+| As Far Away As Possible | 16.00% | ~9,984 |
+| A Most Unstable Organism | 12.00% | ~7,488 |
+| No Time to Follow Protocol | 9.00% | ~5,616 |
+| Float Like a Butterfly... | 8.00% | ~4,992 |
 | Nano Connoisseur | 6.00% | ~3,744 |
 | In Two Places At Once | 6.00% | ~3,744 |
 | Pulling Your Weight | 3.00% | ~1,872 |
@@ -22,8 +22,8 @@ Rating: 4.16 (Ranked 905)
 | Runs for Your Money | 0.10% | ~62 |
 | Past Master | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,393 (Ranked 98)  
-Completed: 11 (0.02%) (Ranked 285)  
+Progressed: 62,398 (Ranked 98)  
+Completed: 12 (0.02%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,10 +66,10 @@ Completed: 11 (0.02%) (Ranked 285)
 | 2023-10-07 | 61,839 | 7 |
 | 2023-10-08 | 62,135 | 9 |
 | 2023-10-09 | 62,315 | 9 |
-| 2023-10-10 | 62,393 | 11 |
+| 2023-10-10 | 62,398 | 12 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 400)  
-Sum: 206 (Ranked 377)  
+Sum: 208 (Ranked 377)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -78,7 +78,7 @@ Diff (max vs sum): 23
 | This game is Highly Recommended | 34 |
 | This game has a Competitive Community | 28 |
 | This game has Amazing Storytelling | 24 |
-| This game has Quickly Understood Controls | 22 |
+| This game has Quickly Understood Controls | 24 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -114,3 +114,4 @@ Diff (max vs sum): 23
 | 2023-10-07 | 4.18 | 53 | 189 |
 | 2023-10-08 | 4.17 | 56 | 199 |
 | 2023-10-09 | 4.17 | 59 | 206 |
+| 2023-10-10 | 4.16 | 59 | 208 |

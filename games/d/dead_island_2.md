@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,748 |
-| Dr. Reed, I Presume? | 3.00% | ~20,811 |
-| Git Gutte! | 3.00% | ~20,811 |
-| Break A Leg | 3.00% | ~20,811 |
-| Coup de Grâce | 3.00% | ~20,811 |
-| Hazardous Materials | 3.00% | ~20,811 |
-| Friends Like These | 3.00% | ~20,811 |
-| Hotel California | 3.00% | ~20,811 |
-| Apex Predator | 3.00% | ~20,811 |
-| Stacking the Deck | 3.00% | ~20,811 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,811 |
+| Welcome To Hell-A | 4.00% | ~27,749 |
+| Dr. Reed, I Presume? | 3.00% | ~20,812 |
+| Git Gutte! | 3.00% | ~20,812 |
+| Break A Leg | 3.00% | ~20,812 |
+| Coup de Grâce | 3.00% | ~20,812 |
+| Hazardous Materials | 3.00% | ~20,812 |
+| Friends Like These | 3.00% | ~20,812 |
+| Hotel California | 3.00% | ~20,812 |
+| Apex Predator | 3.00% | ~20,812 |
+| Stacking the Deck | 3.00% | ~20,812 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,812 |
 | Anger Management | 2.00% | ~13,874 |
 | Perks of the Job | 2.00% | ~13,874 |
 | Bookworm | 2.00% | ~13,874 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 509)
 | Make it So | 0.60% | ~4,162 |
 | On Safari | 0.60% | ~4,162 |
 | Variety is the Spice of Death | 0.60% | ~4,162 |
-| LA Influential | 0.50% | ~3,468 |
-| Gore Horse | 0.50% | ~3,468 |
+| LA Influential | 0.50% | ~3,469 |
+| Gore Horse | 0.50% | ~3,469 |
 | Sole Survivor | 0.40% | ~2,775 |
 | Sharpest Tool in the Box | 0.40% | ~2,775 |
 | Survival Skills | 0.30% | ~2,081 |
 | Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,697 (Ranked 22)  
+Progressed: 693,719 (Ranked 22)  
 Completed: 2,208 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2,208 (0.32%) (Ranked 199)
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
-| 2023-10-10 | 693,697 | 2,208 |
+| 2023-10-10 | 693,719 | 2,208 |
 ## Awards
 Max (Great Boss Battles): 6,378  (Ranked 58)  
 Sum: 9,526 (Ranked 91)  

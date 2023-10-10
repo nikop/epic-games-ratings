@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 52.00% | ~67 |
+| Chapter I | 52.00% | ~68 |
 | Fire in the... nevermind | 51.00% | ~66 |
 | Haute cuisine | 47.00% | ~61 |
-| I didn't do it! | 40.00% | ~52 |
+| I didn't do it! | 39.00% | ~51 |
 | Demolition expert | 38.00% | ~49 |
 | Wooooooow! | 38.00% | ~49 |
-| Keep away from children | 36.00% | ~46 |
+| Keep away from children | 35.00% | ~46 |
 | Artistic fool | 33.00% | ~43 |
-| Open up wide | 33.00% | ~43 |
-| Let the boot talk | 32.00% | ~41 |
+| Let the boot talk | 32.00% | ~42 |
+| Open up wide | 32.00% | ~42 |
 | Chapter II | 28.00% | ~36 |
 | Achoo!! | 25.00% | ~32 |
 | Handyman | 24.00% | ~31 |
 | Bubblekillerfamily | 23.00% | ~30 |
 | Chapter III | 23.00% | ~30 |
 | Like a moth in the Wind | 23.00% | ~30 |
-| Quite a buggy game | 22.00% | ~28 |
-| Shadow on the wall | 22.00% | ~28 |
+| Quite a buggy game | 22.00% | ~29 |
+| Shadow on the wall | 22.00% | ~29 |
 | Mirror mirror on the wall... | 20.00% | ~26 |
 | Pacifist | 19.00% | ~25 |
 | Fastidious Clown | 19.00% | ~25 |
 | It's not easy being green! | 18.00% | ~23 |
 | Home is where the heart is | 18.00% | ~23 |
-| Death is a part of life | 16.00% | ~21 |
-| Master of Thermodynamics | 15.00% | ~19 |
+| Master of Thermodynamics | 15.00% | ~20 |
+| Death is a part of life | 15.00% | ~20 |
 | Unfullfilled dreams | 13.00% | ~17 |
 | To err is human... | 11.00% | ~14 |
 | Useless but beautiful | 10.00% | ~13 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.80% | ~1 |
 | Do not feed the fish! | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 362)  
+Progressed: 130 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-09-28 | 127 | 0 |
 | 2023-09-30 | 128 | 0 |
 | 2023-10-05 | 129 | 0 |
+| 2023-10-10 | 130 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

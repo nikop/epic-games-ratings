@@ -5,20 +5,20 @@ Rating: 4.47 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,500 |
-| A new Journey | 74.00% | ~1,480 |
-| Departure | 73.00% | ~1,460 |
-| From X to Y | 72.00% | ~1,440 |
-| Way of Iron | 70.00% | ~1,400 |
-| Mystery Tour | 69.00% | ~1,380 |
-| We brake for nobody | 67.00% | ~1,340 |
-| Brainstorm | 66.00% | ~1,320 |
-| Mind the Gap | 65.00% | ~1,300 |
-| Travel Company | 65.00% | ~1,300 |
-| All around the World | 62.00% | ~1,240 |
-| Right through the middle | 58.00% | ~1,160 |
-| Poor Devil | 54.00% | ~1,080 |
-| Facility Manager | 53.00% | ~1,060 |
+| Country Bumpkin | 75.00% | ~1,501 |
+| A new Journey | 74.00% | ~1,481 |
+| Departure | 73.00% | ~1,461 |
+| From X to Y | 72.00% | ~1,441 |
+| Way of Iron | 70.00% | ~1,401 |
+| Mystery Tour | 69.00% | ~1,381 |
+| We brake for nobody | 67.00% | ~1,341 |
+| Brainstorm | 66.00% | ~1,321 |
+| Mind the Gap | 65.00% | ~1,301 |
+| Travel Company | 65.00% | ~1,301 |
+| All around the World | 62.00% | ~1,241 |
+| Right through the middle | 58.00% | ~1,161 |
+| Poor Devil | 54.00% | ~1,081 |
+| Facility Manager | 53.00% | ~1,061 |
 | Producer | 50.00% | ~1,000 |
 | Bridge Builder | 42.00% | ~840 |
 | Apprentice | 41.00% | ~820 |
@@ -38,7 +38,7 @@ Rating: 4.47 (Ranked 619)
 | Trailblazer | 21.00% | ~420 |
 | Traffic Junction | 21.00% | ~420 |
 | Breaking Ground | 21.00% | ~420 |
-| Traffic Jam | 20.00% | ~400 |
+| Traffic Jam | 19.00% | ~380 |
 | Resistance is futile | 17.00% | ~340 |
 | Networker | 17.00% | ~340 |
 | Assimilated | 16.00% | ~320 |
@@ -58,10 +58,10 @@ Rating: 4.47 (Ranked 619)
 | Accurate | 4.00% | ~80 |
 | European Union | 0.70% | ~14 |
 | Three Cheers for Progress | 0.70% | ~14 |
-| United States | 0.70% | ~14 |
+| United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 203)  
+Progressed: 2,001 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-07 | 1,990 | 0 |
 | 2023-10-08 | 1,999 | 0 |
 | 2023-10-09 | 2,000 | 0 |
+| 2023-10-10 | 2,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
