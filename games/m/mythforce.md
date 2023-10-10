@@ -18,7 +18,7 @@ Number of Ratings: 285  (23.09.2022)
 | Everything Must Go! | 14.00% | ~556 |
 | Ten Steps from the Grave | 14.00% | ~556 |
 | Next Time on MythForce... | 12.00% | ~477 |
-| Cold-Blooded Critters | 10.00% | ~397 |
+| Cold-Blooded Critters | 10.00% | ~398 |
 | Death Becomes You | 8.00% | ~318 |
 | Flawless Victory | 6.00% | ~238 |
 | The Harder They Fall | 6.00% | ~238 |
@@ -28,9 +28,9 @@ Number of Ratings: 285  (23.09.2022)
 | Season Finale | 3.00% | ~119 |
 | The Fourth Gate | 1.00% | ~40 |
 | Vexed Her | 0.30% | ~12 |
-| Deadalus and Loving It | 0.10% | ~4 |
+| Deadalus and Loving It | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,974 (Ranked 177)  
+Progressed: 3,975 (Ranked 177)  
 Completed: 2 (0.05%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.05%) (Ranked 267)
 | 2023-10-07 | 3,881 | 2 |
 | 2023-10-08 | 3,944 | 2 |
 | 2023-10-09 | 3,973 | 2 |
-| 2023-10-10 | 3,974 | 2 |
+| 2023-10-10 | 3,975 | 2 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 459)  
 Sum: 282 (Ranked 354)  

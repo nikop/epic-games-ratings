@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1016,7 +1016,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8222,
+  "EOS_Progressed": 8223,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
@@ -4896,6 +4896,11 @@
       "Time": "2023-10-10T00:06:20.4167955+00:00",
       "NumProgressed": 8222,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-10T01:49:08.4316121+00:00",
+      "NumProgressed": 8223,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -4995,7 +5000,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "LeoniasFall",
@@ -5027,7 +5032,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "SavedElderEnt",
@@ -5067,7 +5072,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5091,22 +5096,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8222,
+      "Progressed": 8223,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-06T03:58:18.2786084+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:06:20.4167951+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:49:08.4316115+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:59:53.5644426+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:06:20.4168275+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:42:35.7167248+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:49:08.4316524+00:00"
 }

@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.30% | ~44 |
 | Economic Reform | 0.30% | ~44 |
 | Military Prestige | 0.30% | ~44 |
+| Dualism | 0.30% | ~44 |
 | Gnosticism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Revelation | 0.30% | ~44 |
@@ -116,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.30% | ~44 |
 | Double Victory | 0.30% | ~44 |
 | The Clergy | 0.30% | ~44 |
+| The Great Mage | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
@@ -135,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~29 |
 | Hittite Paganism | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
-| Dualism | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
-| The Great Mage | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
@@ -525,8 +525,8 @@ Completed: 5 (0.03%) (Ranked 279)
 | 2023-10-10 | 14,563 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
-Sum: 1,831 (Ranked 209)  
-Diff (max vs sum): 56  
+Sum: 1,831 (Ranked 210)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |

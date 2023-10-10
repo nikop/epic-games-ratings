@@ -6,8 +6,8 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -715,7 +715,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38597,
+  "EOS_Progressed": 38599,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 1,
@@ -18325,6 +18325,11 @@
       "Time": "2023-10-10T00:05:46.8490067+00:00",
       "NumProgressed": 38597,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-10T01:48:32.6684055+00:00",
+      "NumProgressed": 38599,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -18352,7 +18357,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "ach_antiquarian10",
@@ -18456,7 +18461,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13895
+      "UsersEstimate": 13896
     },
     {
       "ID": "ach_die10",
@@ -18688,7 +18693,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_terror100",
@@ -18767,15 +18772,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38597,
+      "Progressed": 38599,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:05:46.8490063+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:48:32.6684048+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-10T00:00:50.1835927+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:05:46.8491251+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:43:37.4759149+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:48:32.6685518+00:00"
 }

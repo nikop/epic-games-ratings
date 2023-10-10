@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 80.00% | ~247 |
-| First Blood | 61.00% | ~188 |
-| Triple Kill | 60.00% | ~185 |
-| Aspairagus | 60.00% | ~155 |
-| No Asperascope | 57.00% | ~176 |
-| Survivor | 56.00% | ~145 |
+| Seeds of War | 80.00% | ~248 |
+| First Blood | 61.00% | ~189 |
+| Triple Kill | 60.00% | ~186 |
+| Aspairagus | 59.00% | ~153 |
+| No Asperascope | 56.00% | ~174 |
+| Survivor | 55.00% | ~143 |
 | Cornivore | 52.00% | ~161 |
-| I Believe I Can Fly | 49.00% | ~151 |
-| No Diggity | 43.00% | ~111 |
+| I Believe I Can Fly | 49.00% | ~152 |
+| No Diggity | 43.00% | ~112 |
 | Early Survivor | 40.00% | ~104 |
-| Bouncemato | 31.00% | ~80 |
+| Bouncemato | 31.00% | ~81 |
 | 10K | 29.00% | ~90 |
 | Amateur Survivor | 29.00% | ~75 |
-| 15K | 28.00% | ~87 |
+| 15K | 27.00% | ~84 |
 | Quick-Draw Pod | 24.00% | ~62 |
 | Drinking Problem | 22.00% | ~68 |
 | Grave Digger | 22.00% | ~57 |
-| Professional Survivor | 21.00% | ~54 |
+| Professional Survivor | 21.00% | ~55 |
 | Pork Chop Express | 18.00% | ~56 |
-| Skin Of Your Teeth | 17.00% | ~53 |
 | Carrocketeer | 17.00% | ~53 |
 | This Is My Boomstick | 17.00% | ~44 |
-| Getting Started | 16.00% | ~49 |
+| Getting Started | 16.00% | ~50 |
+| Skin Of Your Teeth | 16.00% | ~50 |
 | Eggtraordinary | 15.00% | ~46 |
 | Oh My Gourd | 15.00% | ~39 |
 | Quit Horsin' Around | 12.00% | ~37 |
 | Summers Here | 12.00% | ~31 |
-| Perfect | 11.00% | ~28 |
+| Perfect | 11.00% | ~29 |
 | Fresh Pancake | 10.00% | ~31 |
 | Quadsparagus | 10.00% | ~26 |
 | Expert Survivor | 9.00% | ~23 |
 | Bring Home The Bacon | 8.00% | ~25 |
 | Early Bird | 6.00% | ~19 |
 | Pyromaniac | 6.00% | ~16 |
-| Chick Magnet | 5.00% | ~15 |
-| I Have The High Ground | 5.00% | ~15 |
+| Chick Magnet | 5.00% | ~16 |
+| I Have The High Ground | 5.00% | ~16 |
 | Master Survivor | 3.00% | ~8 |
 | Heart Breaker | 3.00% | ~8 |
 | 15 Days | 2.00% | ~6 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 307)  
+Progressed: 310 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-04 | 306 | 0 |
 | 2023-10-06 | 308 | 0 |
 | 2023-10-07 | 309 | 0 |
+| 2023-10-10 | 310 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

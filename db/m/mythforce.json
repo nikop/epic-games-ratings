@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3974,
+  "EOS_Progressed": 3975,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6998,6 +6998,11 @@
       "Time": "2023-10-10T00:06:13.5170967+00:00",
       "NumProgressed": 3974,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T01:49:01.0457733+00:00",
+      "NumProgressed": 3975,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7010,15 +7015,15 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
       "SetID": "9b9n573",
       "Name": "Deadalus and Loving It",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_Deadication",
@@ -7193,15 +7198,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 3974,
+      "Progressed": 3975,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:06:13.5170964+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:49:01.0457726+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:59:23.1235342+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:06:13.5171386+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:42:01.1061252+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:49:01.0458437+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,11 +98,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2078,6 +2078,11 @@
       "Time": "2023-10-09T14:06:24.0050565+00:00",
       "NumProgressed": 715,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-10T01:48:58.0910391+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2090,7 +2095,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2098,15 +2103,15 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 379
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2130,7 +2135,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "_07_FinishAct3",
@@ -2146,7 +2151,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "_09_Completion_20",
@@ -2216,9 +2221,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 294
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2242,7 +2247,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2297,7 +2302,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 22
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:06:10.8589326+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:48:58.0910383+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:58:44.8438232+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:06:10.8589555+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:41:20.5751691+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:48:58.0910744+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,300 |
-| It wakes | 1.00% | ~9,300 |
-| Skillful | 1.00% | ~9,300 |
-| Not half bad | 0.90% | ~8,370 |
-| Make Some Noise | 0.90% | ~8,370 |
-| Handyman | 0.80% | ~7,440 |
-| Apt Survivor | 0.80% | ~7,440 |
-| Survival Treasures | 0.80% | ~7,440 |
-| No one left behind | 0.70% | ~6,510 |
-| Medic | 0.70% | ~6,510 |
-| Sorted | 0.70% | ~6,510 |
-| Resurgence | 0.70% | ~6,510 |
-| The Grand Sacrifice | 0.60% | ~5,580 |
-| Backdoor Escape | 0.60% | ~5,580 |
-| Nerves of steel | 0.60% | ~5,580 |
-| Perfect Escape | 0.60% | ~5,580 |
-| Bloody Millionaire | 0.60% | ~5,580 |
-| I | 0.60% | ~5,580 |
-| Engineer | 0.60% | ~5,580 |
-| Healthy Obsession | 0.60% | ~5,580 |
-| Preemptive Strike | 0.60% | ~5,580 |
-| Humanitarian | 0.60% | ~5,580 |
-| Agonizing Escape | 0.50% | ~4,650 |
+| Zealous | 1.00% | ~9,301 |
+| It wakes | 1.00% | ~9,301 |
+| Skillful | 1.00% | ~9,301 |
+| Not half bad | 0.90% | ~8,371 |
+| Make Some Noise | 0.90% | ~8,371 |
+| Handyman | 0.80% | ~7,441 |
+| Apt Survivor | 0.80% | ~7,441 |
+| Survival Treasures | 0.80% | ~7,441 |
+| No one left behind | 0.70% | ~6,511 |
+| Medic | 0.70% | ~6,511 |
+| Sorted | 0.70% | ~6,511 |
+| Resurgence | 0.70% | ~6,511 |
+| The Grand Sacrifice | 0.60% | ~5,581 |
+| Agonizing Escape | 0.60% | ~5,581 |
+| Backdoor Escape | 0.60% | ~5,581 |
+| Nerves of steel | 0.60% | ~5,581 |
+| Perfect Escape | 0.60% | ~5,581 |
+| Bloody Millionaire | 0.60% | ~5,581 |
+| I | 0.60% | ~5,581 |
+| Engineer | 0.60% | ~5,581 |
+| Healthy Obsession | 0.60% | ~5,581 |
+| Preemptive Strike | 0.60% | ~5,581 |
+| Humanitarian | 0.60% | ~5,581 |
 | I've got your back | 0.50% | ~4,650 |
 | Perfect Killing | 0.50% | ~4,650 |
 | Risk it all | 0.50% | ~4,650 |
@@ -51,6 +51,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Holiday Get-Together | 0.30% | ~2,790 |
 | Near-Death Experience | 0.30% | ~2,790 |
 | Cherish your Life | 0.30% | ~2,790 |
+| Campbell's Chapel Legacy | 0.30% | ~2,790 |
 | Unforgettable Getaway | 0.30% | ~2,790 |
 | Cutting Out | 0.30% | ~2,790 |
 | Outrun Evil | 0.30% | ~2,790 |
@@ -78,7 +79,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.20% | ~1,860 |
 | Escaping the Nightmare | 0.20% | ~1,860 |
 | Game Over | 0.20% | ~1,860 |
-| Campbell's Chapel Legacy | 0.20% | ~1,860 |
 | Ancestor's Rite | 0.20% | ~1,860 |
 | Devoted Gatekeeping | 0.20% | ~1,860 |
 | Shrine Apparatus | 0.20% | ~1,860 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 929,970 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 291)  
+Progressed: 930,096 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 291)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 929,970 | 49 |
+| 2023-10-10 | 930,096 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,754 (Ranked 13)  

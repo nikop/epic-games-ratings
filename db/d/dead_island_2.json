@@ -5220,9 +5220,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 693486,
+  "EOS_Progressed": 693512,
   "EOS_Completed": 2208,
-  "EOS_NewPlayers": 3516,
+  "EOS_NewPlayers": 3508,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -24745,6 +24745,11 @@
       "Time": "2023-10-10T00:08:18.2774035+00:00",
       "NumProgressed": 693486,
       "NumCompleted": 2208
+    },
+    {
+      "Time": "2023-10-10T01:51:14.6738626+00:00",
+      "NumProgressed": 693512,
+      "NumCompleted": 2208
     }
   ],
   "TotalAchievements": 45,
@@ -24796,7 +24801,7 @@
       "Name": "LA Influential",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "ach_blueprinted",
@@ -24892,7 +24897,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "ach_hazardous_materials",
@@ -24932,7 +24937,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "ach_investigator",
@@ -24948,7 +24953,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6241
+      "UsersEstimate": 6242
     },
     {
       "ID": "ach_knock_down",
@@ -24980,7 +24985,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "ach_metropolitan",
@@ -25044,7 +25049,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -25092,7 +25097,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27739
+      "UsersEstimate": 27740
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25108,29 +25113,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 693486,
+      "Progressed": 693512,
       "Completed": 2208
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 19028,
-      "Completed": 19028
+      "Progressed": 19054,
+      "Completed": 19054
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-09T20:59:19.4122818+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:08:18.2774027+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:51:14.6738618+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:59:55.3292036+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:08:18.2775413+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:42:38.8193453+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:51:14.6741836+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12088,
-  "EOS_Completed": 46,
-  "EOS_NewPlayers": 2942,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Progressed": 12094,
+  "EOS_Completed": 48,
+  "EOS_NewPlayers": 2930,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-09-20T21:06:26.7864731+00:00",
@@ -2310,6 +2310,11 @@
       "Time": "2023-10-10T00:04:56.5858724+00:00",
       "NumProgressed": 12088,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-10-10T01:47:37.8805192+00:00",
+      "NumProgressed": 12094,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2322,7 +2327,7 @@
       "Name": "It Took Two",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4714
+      "UsersEstimate": 4717
     },
     {
       "ID": "achievement_10",
@@ -2330,7 +2335,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "achievement_11",
@@ -2346,7 +2351,7 @@
       "Name": "On Rails Experience",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6652
     },
     {
       "ID": "achievement_13",
@@ -2378,7 +2383,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "achievement_17",
@@ -2394,7 +2399,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "achievement_19",
@@ -2402,7 +2407,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "achievement_2",
@@ -2426,7 +2431,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10517
+      "UsersEstimate": 10522
     },
     {
       "ID": "achievement_4",
@@ -2434,7 +2439,7 @@
       "Name": "Struck A Pose",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10517
+      "UsersEstimate": 10522
     },
     {
       "ID": "achievement_5",
@@ -2442,7 +2447,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "achievement_6",
@@ -2458,7 +2463,7 @@
       "Name": "Look At Him Go",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 9308
+      "UsersEstimate": 9312
     },
     {
       "ID": "achievement_8",
@@ -2466,7 +2471,7 @@
       "Name": "Break the Bank",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5079
     },
     {
       "ID": "achievement_9",
@@ -2474,20 +2479,20 @@
       "Name": "A Daring Devil",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6165
+      "UsersEstimate": 6168
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 12088,
-      "Completed": 46
+      "Progressed": 12094,
+      "Completed": 48
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:04:56.5858721+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:47:37.8805185+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:57:15.7129726+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:04:56.5858942+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:39:45.7727133+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:47:37.8805562+00:00"
 }

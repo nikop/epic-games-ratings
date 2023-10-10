@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -458,9 +458,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -729,8 +729,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:06:08.3669112+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:48:55.5632418+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-10T00:01:25.308407+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:06:08.3669739+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:44:14.1457121+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:48:55.5634235+00:00"
 }

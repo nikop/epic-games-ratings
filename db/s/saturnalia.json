@@ -258,7 +258,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67070,
+  "EOS_Progressed": 67072,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
@@ -12083,6 +12083,11 @@
       "Time": "2023-10-10T00:06:50.046577+00:00",
       "NumProgressed": 67070,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-10T01:49:39.9311852+00:00",
+      "NumProgressed": 67072,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -12150,7 +12155,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -12198,7 +12203,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_READCLUES",
@@ -12214,7 +12219,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -12253,7 +12258,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67070,
+      "Progressed": 67072,
       "Completed": 16
     }
   ],
@@ -12261,8 +12266,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-10T00:06:50.0465766+00:00",
+  "LastChanged_Achievements": "2023-10-10T01:49:39.9311846+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:13.3017963+00:00",
-  "LastUpdate_Ratings": "2023-10-09T23:58:28.203265+00:00",
-  "LastUpdate_Achievements": "2023-10-10T00:06:50.0466425+00:00"
+  "LastUpdate_Ratings": "2023-10-10T01:41:03.390046+00:00",
+  "LastUpdate_Achievements": "2023-10-10T01:49:39.9312983+00:00"
 }
