@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741714,
+  "EOS_Progressed": 741718,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19869,6 +19869,11 @@
       "Time": "2023-10-10T08:09:05.2228211+00:00",
       "NumProgressed": 741714,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-10T09:08:17.2880648+00:00",
+      "NumProgressed": 741718,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -19944,7 +19949,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 274434
+      "UsersEstimate": 274436
     },
     {
       "ID": "ach_demolish_trees",
@@ -19952,7 +19957,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 126091
+      "UsersEstimate": 126092
     },
     {
       "ID": "ach_free_cam_mode",
@@ -20008,7 +20013,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 356023
+      "UsersEstimate": 356025
     },
     {
       "ID": "ach_produced",
@@ -20024,7 +20029,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 118674
+      "UsersEstimate": 118675
     },
     {
       "ID": "ach_raise_money",
@@ -20040,7 +20045,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22251
+      "UsersEstimate": 22252
     },
     {
       "ID": "ach_sell_to_state",
@@ -20095,7 +20100,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 741714,
+      "Progressed": 741718,
       "Completed": 4
     }
   ],
@@ -20103,8 +20108,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:09:05.2228206+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:08:17.2880643+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:38.4284644+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:59:53.993307+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:09:05.2229675+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:59:52.2985714+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:08:17.2882213+00:00"
 }

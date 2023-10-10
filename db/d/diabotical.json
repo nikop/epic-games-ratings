@@ -4,7 +4,7 @@
   "ProductSlug": "diabotical",
   "Ranking_Rating": 139,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 401,
@@ -1464,10 +1464,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 2413,
       "NumberOfAwardsMax": 284
+    },
+    {
+      "Time": "2023-10-10T08:59:38.5328458+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2657,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2413,
+  "NumberOfAwards": 2657,
   "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1475,7 +1481,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 240
+      "Count": 244
     },
     {
       "Text": "This game has Competitive Players",
@@ -1555,8 +1561,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-10-09T16:00:40.8017376+00:00",
+  "LastChanged": "2023-10-10T08:59:38.5328456+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:26.8553559+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:59:41.2147056+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:04:16.1822564+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:59:38.5328464+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:04:04.9164147+00:00"
 }

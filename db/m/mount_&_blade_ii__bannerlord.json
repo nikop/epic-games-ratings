@@ -7845,9 +7845,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63005,
+  "EOS_Progressed": 63007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26195,6 +26195,11 @@
       "Time": "2023-10-10T08:05:52.4482467+00:00",
       "NumProgressed": 63005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T09:05:44.0086855+00:00",
+      "NumProgressed": 63007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26222,7 +26227,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14491
+      "UsersEstimate": 14492
     },
     {
       "ID": "Best served cold",
@@ -26246,7 +26251,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "Catch",
@@ -26286,7 +26291,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "Dynasty",
@@ -26294,7 +26299,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "Entrepreneur",
@@ -26366,7 +26371,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14491
+      "UsersEstimate": 14492
     },
     {
       "ID": "I can do it",
@@ -26382,7 +26387,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5670
+      "UsersEstimate": 5671
     },
     {
       "ID": "Jack of All Trades",
@@ -26438,7 +26443,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24572
+      "UsersEstimate": 24573
     },
     {
       "ID": "Lawmaker",
@@ -26446,7 +26451,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14491
+      "UsersEstimate": 14492
     },
     {
       "ID": "Long live the Empire",
@@ -26550,7 +26555,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "The king is pleased",
@@ -26582,7 +26587,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14491
+      "UsersEstimate": 14492
     },
     {
       "ID": "Undercover",
@@ -26606,22 +26611,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63005,
+      "Progressed": 63007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-10T05:58:31.3087915+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:05:52.4482463+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:05:44.008685+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:58:42.2071285+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:05:52.4484043+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:58:39.5342418+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:05:44.0088545+00:00"
 }

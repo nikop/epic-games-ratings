@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,385 |
-| Finding Your Footing | 26.00% | ~10,963 |
-| Nomad | 17.00% | ~7,168 |
-| Picking Up Speed | 16.00% | ~6,747 |
-| Welcome Maya | 15.00% | ~6,325 |
-| Scout | 11.00% | ~4,638 |
-| Sightseer | 11.00% | ~4,638 |
+| Rookie | 27.00% | ~11,386 |
+| Finding Your Footing | 26.00% | ~10,965 |
+| Nomad | 17.00% | ~7,169 |
+| Picking Up Speed | 16.00% | ~6,748 |
+| Welcome Maya | 15.00% | ~6,326 |
+| Scout | 11.00% | ~4,639 |
+| Sightseer | 11.00% | ~4,639 |
 | Amateur | 9.00% | ~3,795 |
-| Unlock Maya | 8.00% | ~3,373 |
-| Enter Paz | 8.00% | ~3,373 |
-| Wanderer | 8.00% | ~3,373 |
+| Unlock Maya | 8.00% | ~3,374 |
+| Enter Paz | 8.00% | ~3,374 |
+| Wanderer | 8.00% | ~3,374 |
 | Aviator | 6.00% | ~2,530 |
-| My Little Friend | 5.00% | ~2,108 |
-| One With The Board | 5.00% | ~2,108 |
-| Voyager | 5.00% | ~2,108 |
+| My Little Friend | 5.00% | ~2,109 |
+| One With The Board | 5.00% | ~2,109 |
+| Voyager | 5.00% | ~2,109 |
 | Izel Has Arrived | 4.00% | ~1,687 |
 | Junkie | 3.00% | ~1,265 |
 | Traveler | 3.00% | ~1,265 |
@@ -39,14 +39,14 @@ Number of Ratings: 332  (23.09.2022)
 | Adventurer | 0.80% | ~337 |
 | Unlock Felipe | 0.80% | ~337 |
 | Unlock Tupa | 0.50% | ~211 |
-| Master Of The Sands | 0.30% | ~126 |
+| Master Of The Sands | 0.30% | ~127 |
 | Master | 0.20% | ~84 |
 | Life Aquatic | 0.10% | ~42 |
 | Survivalist | 0.10% | ~42 |
 | The Ultimate Challenge | 0.10% | ~42 |
 | Windswept | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,166 (Ranked 105)  
+Progressed: 42,172 (Ranked 105)  
 Completed: 5 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,11 +219,11 @@ Completed: 5 (0.01%) (Ranked 292)
 | 2023-10-07 | 41,899 | 5 |
 | 2023-10-08 | 42,030 | 5 |
 | 2023-10-09 | 42,133 | 5 |
-| 2023-10-10 | 42,166 | 5 |
+| 2023-10-10 | 42,172 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 48  (Ranked 417)  
+Max (Great for Quick Sessions): 48  (Ranked 418)  
 Sum: 365 (Ranked 334)  
-Diff (max vs sum): 83  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |

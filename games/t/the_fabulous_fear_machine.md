@@ -6,35 +6,35 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 83.00% | ~19 |
 | Master trainee | 78.00% | ~18 |
-| Jung's dream | 61.00% | ~14 |
-| The battle of Great Britain | 52.00% | ~12 |
+| Jung's dream | 65.00% | ~15 |
+| The battle of Great Britain | 57.00% | ~13 |
 | Giant | 48.00% | ~11 |
 | Pulp! Where Monsters Dwell | 43.00% | ~10 |
 | A continent with chemistry | 43.00% | ~10 |
 | The happy farmer girl | 43.00% | ~10 |
-| A rival with no options | 35.00% | ~8 |
+| A rival with no options | 39.00% | ~9 |
 | Pulp! Terror Tales in the Night | 35.00% | ~8 |
 | Pulp! Out of this World | 30.00% | ~7 |
+| Pulp! Adventures into the Unknown | 30.00% | ~7 |
 | Diagnosis: fear | 30.00% | ~7 |
 | Ambition is... blind | 30.00% | ~7 |
 | You have two wishes left | 30.00% | ~7 |
 | You had one wish left | 26.00% | ~6 |
 | The artist | 26.00% | ~6 |
-| Pulp! Adventures into the Unknown | 26.00% | ~6 |
+| The seer | 26.00% | ~6 |
 | Kirlian's best disciple | 26.00% | ~6 |
 | You've awakened the beast | 22.00% | ~5 |
 | Hate is... addictive | 22.00% | ~5 |
+| Blessed antennas | 22.00% | ~5 |
 | Et in arcadia ego | 22.00% | ~5 |
-| The seer | 22.00% | ~5 |
 | The barbarian invasions | 22.00% | ~5 |
 | Welcome to Hellville | 22.00% | ~5 |
-| Blessed antennas | 17.00% | ~4 |
+| The beast in the Oval Office | 17.00% | ~4 |
 | The bully | 17.00% | ~4 |
-| The beast in the Oval Office | 13.00% | ~3 |
+| Pulp! The Beyond | 17.00% | ~4 |
+| America had no Faith | 17.00% | ~4 |
 | Blood Red Island | 13.00% | ~3 |
 | The adventurer | 13.00% | ~3 |
-| Pulp! The Beyond | 13.00% | ~3 |
-| America had no Faith | 13.00% | ~3 |
 | Bread and bocaua | 9.00% | ~2 |
 | Fanatacism is... poisonous | 9.00% | ~2 |
 | The scholar | 9.00% | ~2 |

@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Bounty Down | 0.70% | ~169 |
 | Satisfied Gus-tomer | 0.60% | ~145 |
 | Are You Packin'? | 0.60% | ~145 |
 | Sweezy Like Sunday Morning | 0.60% | ~145 |
-| First Bounty Down | 0.60% | ~145 |
 | G3 Graduation | 0.60% | ~145 |
 | Cold-Blooded Driller | 0.60% | ~145 |
+| Who's The Boss? | 0.60% | ~145 |
 | Don't Knife The Hand That Feeds | 0.60% | ~145 |
 | Creature Feature | 0.50% | ~121 |
 | Bring A Knife to a Gun Fight | 0.50% | ~121 |
 | RIP Davey Glutes | 0.50% | ~121 |
 | We're All Very Impressed, Trust Me | 0.50% | ~121 |
 | Hardest Battle In The Game | 0.50% | ~121 |
-| Who's The Boss? | 0.50% | ~121 |
 | Bathe With A Giant Nude Alien | 0.50% | ~7 |
 | Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Lezduit! | 0.40% | ~97 |

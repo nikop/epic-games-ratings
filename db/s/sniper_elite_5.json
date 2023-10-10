@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3718,
+  "EOS_Progressed": 3719,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7140,6 +7140,11 @@
       "Time": "2023-10-09T21:05:06.8303056+00:00",
       "NumProgressed": 3718,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-10T09:05:02.3015138+00:00",
+      "NumProgressed": 3719,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7231,7 +7236,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7319,7 +7324,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7351,7 +7356,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7359,7 +7364,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7399,7 +7404,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7559,7 +7564,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7623,7 +7628,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7718,13 +7723,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3718,
+      "Progressed": 3719,
       "Completed": 11
     }
   ],
@@ -7732,8 +7737,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:05:11.5826791+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:05:02.3015133+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:57:42.076172+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:05:11.582793+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:57:37.7995774+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:05:02.3016355+00:00"
 }

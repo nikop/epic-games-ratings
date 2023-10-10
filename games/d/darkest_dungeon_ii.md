@@ -1,38 +1,38 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 244)  
+Rating: 4.68 (Ranked 243)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~111,697 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~85,274 |
+| A Place to Lay Your Head | 93.00% | ~111,698 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~85,275 |
 | A Clear Conscience | 69.00% | ~82,872 |
 | Unleash Hell | 68.00% | ~81,671 |
 | Unfulfilled Desires | 68.00% | ~81,671 |
 | Funny Guy | 67.00% | ~80,470 |
 | Unshackled | 67.00% | ~80,470 |
 | Long Live the King | 66.00% | ~79,269 |
-| Resurrection | 62.00% | ~74,464 |
-| Wyrdly Reconstructed | 62.00% | ~74,464 |
-| Boxcar Kid | 60.00% | ~72,062 |
-| Rush Hour | 60.00% | ~72,062 |
-| To Grandmother's House | 60.00% | ~72,062 |
-| Serenity Now! | 53.00% | ~63,655 |
+| Resurrection | 62.00% | ~74,465 |
+| Wyrdly Reconstructed | 62.00% | ~74,465 |
+| Boxcar Kid | 60.00% | ~72,063 |
+| Rush Hour | 60.00% | ~72,063 |
+| To Grandmother's House | 60.00% | ~72,063 |
+| Serenity Now! | 53.00% | ~63,656 |
 | Hope Rekindled | 50.00% | ~60,052 |
 | Ramble On | 49.00% | ~58,851 |
 | Nope | 48.00% | ~57,650 |
 | This Looks Familiar | 38.00% | ~45,640 |
-| Now Stay Dead | 37.00% | ~44,438 |
-| Merry Time | 36.00% | ~43,237 |
-| Harvest Festival | 36.00% | ~43,237 |
-| Hot Air | 36.00% | ~43,237 |
-| Creep and Sleep | 33.00% | ~39,634 |
-| Overdue Notice | 32.00% | ~38,433 |
-| Banishment | 31.00% | ~37,232 |
-| Whale | 31.00% | ~37,232 |
-| FNG | 30.00% | ~36,031 |
+| Now Stay Dead | 37.00% | ~44,439 |
+| Merry Time | 36.00% | ~43,238 |
+| Harvest Festival | 36.00% | ~43,238 |
+| Hot Air | 36.00% | ~43,238 |
+| Creep and Sleep | 33.00% | ~39,635 |
+| Overdue Notice | 32.00% | ~38,434 |
+| Banishment | 31.00% | ~37,233 |
+| Whale | 31.00% | ~37,233 |
+| FNG | 30.00% | ~36,032 |
 | Predator | 25.00% | ~30,026 |
 | Reverse Banditry | 25.00% | ~30,026 |
 | Autodidact | 25.00% | ~30,026 |
@@ -49,8 +49,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 14.00% | ~16,815 |
 | Not Today! | 13.00% | ~15,614 |
 | Deprogramming | 13.00% | ~15,614 |
-| Shrine of Reflection | 12.00% | ~14,412 |
-| When You Want Something Done Right | 11.00% | ~13,211 |
+| Shrine of Reflection | 12.00% | ~14,413 |
+| When You Want Something Done Right | 11.00% | ~13,212 |
 | Body of Work | 10.00% | ~12,010 |
 | Utopia | 8.00% | ~9,608 |
 | Hat Trick | 7.00% | ~8,407 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~120 |
 | No Gravestone Left Unturned | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,104 (Ranked 77)  
+Progressed: 120,105 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-07 | 119,869 | 1 |
 | 2023-10-08 | 119,979 | 1 |
 | 2023-10-09 | 120,074 | 1 |
-| 2023-10-10 | 120,104 | 1 |
+| 2023-10-10 | 120,105 | 1 |
 ## Awards
 Max (Character Customization): 7,450  (Ranked 50)  
 Sum: 19,499 (Ranked 57)  

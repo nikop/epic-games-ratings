@@ -47,9 +47,9 @@
 | Broke, Blind, and Bedlam | 34.00% | ~216 |
 | Ghost Ship | 32.00% | ~204 |
 | The Assassin | 32.00% | ~204 |
+| The Justicar | 32.00% | ~204 |
 | The Quarian | 32.00% | ~204 |
 | The Prodigal | 32.00% | ~204 |
-| The Justicar | 31.00% | ~197 |
 | Battlemaster | 31.00% | ~197 |
 | Ghost of the Father | 31.00% | ~197 |
 | The Cure | 31.00% | ~197 |

@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,710 |
-| Confirming Suspicions | 41.00% | ~1,524 |
-| The Kraken Wakes | 36.00% | ~1,338 |
+| Meeting Resistance | 46.00% | ~1,711 |
+| Confirming Suspicions | 41.00% | ~1,525 |
+| The Kraken Wakes | 36.00% | ~1,339 |
 | It's Starting to Crack | 34.00% | ~1,264 |
 | Change the Channel | 31.00% | ~1,153 |
-| Lord of War | 30.00% | ~1,115 |
+| Lord of War | 30.00% | ~1,116 |
 | Taking it back | 28.00% | ~1,041 |
 | Resourceful | 27.00% | ~1,004 |
 | Target America | 26.00% | ~967 |
-| The Kraken Sleeps | 24.00% | ~892 |
+| The Kraken Sleeps | 24.00% | ~893 |
 | Organ Grinder | 23.00% | ~855 |
 | Liberté | 22.00% | ~818 |
 | Sharpshooter | 22.00% | ~818 |
 | As Quiet as a Mouse | 22.00% | ~818 |
-| Explosive Efficiency | 19.00% | ~706 |
+| Explosive Efficiency | 19.00% | ~707 |
 | Gunslinger | 18.00% | ~669 |
 | Just a Flesh Wound | 17.00% | ~632 |
 | Climbing the Ladder | 16.00% | ~595 |
@@ -41,7 +41,7 @@ Rating: 4.45 (Ranked 644)
 | The Long Game | 5.00% | ~186 |
 | It'll Buff Right Out | 5.00% | ~186 |
 | Don't hold your breath | 5.00% | ~186 |
-| Operation Foxley | 5.00% | ~183 |
+| Operation Foxley | 5.00% | ~184 |
 | Strategist | 4.00% | ~149 |
 | Tinkerer | 4.00% | ~149 |
 | Locomotion Commotion | 4.00% | ~149 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 644)
 | Going Overboard | 0.60% | ~22 |
 | Stroll in the Woods | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,718 (Ranked 178)  
+Progressed: 3,719 (Ranked 178)  
 Completed: 11 (0.30%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 11 (0.30%) (Ranked 202)
 | 2023-10-07 | 3,708 | 11 |
 | 2023-10-08 | 3,715 | 11 |
 | 2023-10-09 | 3,718 | 11 |
+| 2023-10-10 | 3,719 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -173,17 +173,17 @@
       "ID": "13",
       "SetID": "d37idgg",
       "Name": "Blessed antennas",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
       "SetID": "d37idgg",
       "Name": "The beast in the Oval Office",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "15",
@@ -213,9 +213,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "19",
@@ -237,9 +237,9 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "21",
@@ -261,9 +261,9 @@
       "ID": "23",
       "SetID": "d37idgg",
       "Name": "The seer",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "24",
@@ -317,9 +317,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "30",
@@ -381,9 +381,9 @@
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "38",
@@ -397,9 +397,9 @@
       "ID": "39",
       "SetID": "d37idgg",
       "Name": "Pulp! The Beyond",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4",
@@ -445,9 +445,9 @@
       "ID": "44",
       "SetID": "d37idgg",
       "Name": "America had no Faith",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "45",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:03:50.9408358+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:03:38.5715463+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:58:11.8725596+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:03:50.9408795+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:58:08.2847215+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:03:38.5715873+00:00"
 }

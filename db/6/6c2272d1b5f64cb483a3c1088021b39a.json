@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3761,6 +3761,11 @@
       "Time": "2023-10-09T20:06:40.2904311+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T09:05:40.7810156+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3772,7 +3777,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "adventurous_2",
@@ -3820,7 +3825,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "call_of_mana_2",
@@ -3964,7 +3969,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "elite_deck_2",
@@ -3988,7 +3993,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "from_day_to_day_2",
@@ -4156,7 +4161,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "punctual_2",
@@ -4299,14 +4304,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:05:49.3279776+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:05:40.781015+00:00",
   "LastUpdate_AppInfo": "2023-10-03T10:57:13.2515449+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:59:13.3696013+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:05:49.3280639+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:59:12.4343387+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:05:40.7811091+00:00"
 }

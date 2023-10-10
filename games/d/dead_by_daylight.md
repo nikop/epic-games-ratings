@@ -9,8 +9,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Zealous | 1.00% | ~9,304 |
 | It wakes | 1.00% | ~9,304 |
 | Skillful | 1.00% | ~9,304 |
-| Not half bad | 0.90% | ~8,373 |
-| Make Some Noise | 0.90% | ~8,373 |
+| Not half bad | 0.90% | ~8,374 |
+| Make Some Noise | 0.90% | ~8,374 |
 | Handyman | 0.80% | ~7,443 |
 | Apt Survivor | 0.80% | ~7,443 |
 | Survival Treasures | 0.80% | ~7,443 |
@@ -79,6 +79,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.20% | ~1,861 |
 | Escaping the Nightmare | 0.20% | ~1,861 |
 | Game Over | 0.20% | ~1,861 |
+| Party Crasher | 0.20% | ~1,861 |
 | Ancestor's Rite | 0.20% | ~1,861 |
 | Devoted Gatekeeping | 0.20% | ~1,861 |
 | Shrine Apparatus | 0.20% | ~1,861 |
@@ -136,7 +137,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | I Want to Play a Game | 0.10% | ~930 |
 | Adept Pig | 0.10% | ~930 |
 | Adept Tapp | 0.10% | ~930 |
-| Party Crasher | 0.10% | ~930 |
 | Smoked | 0.10% | ~930 |
 | Adept Clown | 0.10% | ~930 |
 | Whiffing to Success | 0.10% | ~930 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,378 (Ranked 14)  
+Progressed: 930,412 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,378 | 49 |
+| 2023-10-10 | 930,412 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 260,803 (Ranked 13)  

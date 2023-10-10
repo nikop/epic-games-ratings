@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1027,9 +1027,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_eou6",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-10T08:09:07.2036528+00:00",
+  "LastChanged_Achievements": "2023-10-10T09:08:19.3499811+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:57:09.5339188+00:00",
-  "LastUpdate_Achievements": "2023-10-10T08:09:07.2036707+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:57:03.9502807+00:00",
+  "LastUpdate_Achievements": "2023-10-10T09:08:19.3500008+00:00"
 }
