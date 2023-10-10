@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,066 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,576 | 4.60 | 399 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,557 | 4.21 | 872 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,545 | 4.76 | 120 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,550 | 4.76 | 120 |
 | 25 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 15,005 | 4.74 | 149 |
 | 26 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,522 | 4.58 | 436 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,210 | 4.60 | 399 |
@@ -150,7 +150,7 @@
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 997 | 4.76 | 120 |
 | 148 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 997 | 4.79 | 91 |
 | 150 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 993 | 4.69 | 221 |
-| 151 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 972 | 4.31 | 807 |
+| 151 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 972 | 4.31 | 806 |
 | 152 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 954 | 4.55 | 489 |
 | 153 | [Sonic Mania](games/s/sonic_mania.md) | 951 | 4.78 | 100 |
 | 154 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 885 | 4.45 | 644 |
@@ -201,7 +201,7 @@
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 547 | 4.07 | 945 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 526 | 4.61 | 374 |
 | 201 | [Terraforming Mars](games/t/terraforming_mars.md) | 519 | 4.54 | 509 |
-| 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 515 | 4.86 | 28 |
+| 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 516 | 4.86 | 28 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 505 | 4.72 | 179 |
 | 204 | [Surviving Mars](games/s/surviving_mars.md) | 488 | 4.60 | 399 |
 | 205 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 486 | 4.61 | 374 |
@@ -227,13 +227,13 @@
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 382 | 4.76 | 120 |
 | 226 | [Brawlhalla](games/b/brawlhalla.md) | 380 | 4.59 | 416 |
 | 227 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 966 |
-| 228 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 364 | 4.32 | 797 |
+| 228 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 364 | 4.31 | 806 |
 | 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 360 | 4.54 | 509 |
 | 230 | [Dungeons 3](games/d/dungeons_3.md) | 357 | 4.65 | 297 |
 | 231 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 348 | 4.59 | 416 |
-| 232 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 28 |
-| 232 | [The Messenger](games/t/the_messenger.md) | 339 | 4.81 | 75 |
-| 234 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 338 | 4.55 | 489 |
+| 232 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 343 | 4.55 | 489 |
+| 233 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 28 |
+| 233 | [The Messenger](games/t/the_messenger.md) | 339 | 4.81 | 75 |
 | 235 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 335 | 4.72 | 179 |
 | 236 | [Tannenberg](games/t/tannenberg.md) | 334 | 4.39 | 729 |
 | 237 | [Severed Steel](games/s/severed_steel.md) | 332 | 4.69 | 221 |
@@ -354,9 +354,9 @@
 | 351 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 509 |
 | 351 | [Verdun](games/v/verdun.md) | 97 | 4.53 | 524 |
 | 354 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 897 |
+| 355 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 95 | 4.54 | 509 |
 | 355 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 698 |
-| 356 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 902 |
-| 356 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 94 | 4.54 | 509 |
+| 357 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 902 |
 | 358 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 93 | 4.55 | 489 |
 | 358 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 93 | 4.83 | 57 |
 | 360 | [Armored Warfare](games/a/armored_warfare.md) | 91 | 4.10 | 930 |
@@ -367,10 +367,10 @@
 | 364 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.59 | 416 |
 | 366 | [Barony](games/b/barony.md) | 85 | 4.71 | 188 |
 | 367 | [Solitairica](games/s/solitairica.md) | 84 | 4.50 | 574 |
-| 368 | [Returnal™](games/r/returnal™.md) | 83 | 4.62 | 354 |
-| 368 | [This War of Mine](games/t/this_war_of_mine.md) | 83 | 4.74 | 149 |
-| 370 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 82 | 4.29 | 818 |
-| 370 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 82 | 3.81 | 997 |
+| 367 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 84 | 3.81 | 997 |
+| 369 | [Returnal™](games/r/returnal™.md) | 83 | 4.62 | 354 |
+| 369 | [This War of Mine](games/t/this_war_of_mine.md) | 83 | 4.74 | 149 |
+| 371 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 82 | 4.29 | 818 |
 | 372 | [Super Meat Boy](games/s/super_meat_boy.md) | 81 | 4.71 | 188 |
 | 373 | [Carcassonne](games/c/carcassonne.md) | 79 | 4.66 | 281 |
 | 373 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 79 | 4.55 | 489 |
