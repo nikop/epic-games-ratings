@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.87% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.83% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -64,12 +64,12 @@
 | 62 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.75% |
 | 63 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 64 | [ZZT!](games/z/zzt!.md) | 4.47% |
-| 65 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 4.35% |
-| 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
-| 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
-| 68 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.10% |
-| 69 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
+| 65 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.24% |
+| 66 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
+| 67 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.10% |
+| 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
+| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
+| 70 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 4.00% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
@@ -109,7 +109,7 @@
 | 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
 | 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 109 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 110 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
+| 110 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.87% |
 | 111 | [Night Book](games/n/night_book.md) | 1.86% |
 | 112 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 113 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
@@ -180,8 +180,8 @@
 | 174 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 174 | [Them and Us](games/t/them_and_us.md) | 0.46% |
-| 181 | [Dead Space](games/d/dead_space.md) | 0.45% |
-| 182 | [Tchia](games/t/tchia.md) | 0.44% |
+| 181 | [Dead Space](games/d/dead_space.md) | 0.44% |
+| 181 | [Tchia](games/t/tchia.md) | 0.44% |
 | 183 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 184 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |

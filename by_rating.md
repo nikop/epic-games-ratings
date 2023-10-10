@@ -94,7 +94,7 @@
 | 91 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 162 | 302 |
 | 91 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 530 |
 | 91 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.79 | 0 | 530 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 997 | 148 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 997 | 149 |
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 776 | 164 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,037 | 60 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 390 | 222 |
@@ -123,7 +123,7 @@
 | 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,550 | 24 |
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 530 |
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,354 | 92 |
-| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 997 | 148 |
+| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 999 | 148 |
 | 120 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 876 | 155 |
 | 120 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,405 | 17 |
 | 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,675 | 75 |
@@ -252,7 +252,7 @@
 | 243 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,970 | 84 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,691 | 74 |
 | 243 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 309,488 | 3 |
-| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 239,411 | 4 |
+| 243 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 239,837 | 4 |
 | 243 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 530 |
 | 243 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 530 |
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 570 | 193 |
@@ -377,7 +377,7 @@
 | 374 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 530 |
 | 374 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 133 | 316 |
 | 374 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.61 | 0 | 530 |
-| 374 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 787 | 163 |
+| 374 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 794 | 163 |
 | 374 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 530 |
 | 374 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 220 | 269 |
 | 374 | [Darkwood](games/d/darkwood.md) | 4.61 | 324 | 238 |
@@ -460,7 +460,7 @@
 | 453 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 530 |
 | 453 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 530 |
 | 453 | [Minit](games/m/minit.md) | 4.57 | 0 | 530 |
-| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,989 | 45 |
+| 453 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,992 | 45 |
 | 453 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,306 | 93 |
 | 453 | [Risen](games/r/risen.md) | 4.57 | 0 | 530 |
 | 453 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 530 |
@@ -846,14 +846,14 @@
 | 844 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,150 | 19 |
 | 844 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 530 |
 | 844 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 530 |
-| 844 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 530 |
 | 844 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 242 |
-| 849 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.25 | 0 | 530 |
-| 849 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
-| 849 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 530 |
-| 849 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 530 |
-| 849 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 530 |
-| 849 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 530 |
+| 848 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.25 | 0 | 530 |
+| 848 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,086 | 139 |
+| 848 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 530 |
+| 848 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 530 |
+| 848 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 530 |
+| 848 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 530 |
+| 848 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 530 |
 | 855 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 530 |
 | 855 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 467 |
 | 855 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 514 |
