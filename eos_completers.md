@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.38% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.35% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.97% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.14% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 28.46% |
+| 9 | [Volley Pals](games/v/volley_pals.md) | 28.23% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -68,8 +68,8 @@
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
 | 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
+| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -108,7 +108,7 @@
 | 106 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.16% |
 | 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
-| 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.13% |
+| 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.08% |
 | 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 111 | [Night Book](games/n/night_book.md) | 1.86% |
 | 112 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
@@ -160,7 +160,7 @@
 | 158 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 158 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 160 | [Haven](games/h/haven.md) | 0.61% |
-| 160 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.61% |
+| 161 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.60% |
 | 162 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.59% |
 | 162 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.59% |
 | 162 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.59% |
