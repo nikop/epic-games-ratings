@@ -5818,11 +5818,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4527,
       "NumberOfAwardsMax": 524
+    },
+    {
+      "Time": "2023-10-10T06:59:30.4886213+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4529,
+      "NumberOfAwardsMax": 526
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4527,
-  "NumberOfAwardsMax": 524,
+  "NumberOfAwards": 4529,
+  "NumberOfAwardsMax": 526,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -5841,7 +5847,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 524
+      "Count": 526
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5892,9 +5898,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 182411,
+  "EOS_Progressed": 182416,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2007,
+  "EOS_NewPlayers": 2004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25352,6 +25358,11 @@
       "Time": "2023-10-10T06:06:35.399817+00:00",
       "NumProgressed": 182411,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-10T07:08:06.5490851+00:00",
+      "NumProgressed": 182416,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -25395,7 +25406,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29186
+      "UsersEstimate": 29187
     },
     {
       "ID": "Achievement_13",
@@ -25443,7 +25454,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 45603
+      "UsersEstimate": 45604
     },
     {
       "ID": "Achievement_5",
@@ -25490,15 +25501,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 182411,
+      "Progressed": 182416,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-09T19:59:30.4001574+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:06:35.3998166+00:00",
+  "LastChanged": "2023-10-10T06:59:30.4886212+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:08:06.5490847+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:39.436814+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:46.738234+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:06:35.3999627+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:59:30.4886221+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:08:06.5491845+00:00"
 }

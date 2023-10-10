@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6428,
+  "EOS_Progressed": 6429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3862,6 +3862,11 @@
       "Time": "2023-10-10T06:05:42.4048145+00:00",
       "NumProgressed": 6428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T07:06:42.0613556+00:00",
+      "NumProgressed": 6429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3874,7 +3879,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3906,7 +3911,7 @@
       "Name": "Clear the Air",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -3978,7 +3983,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4010,7 +4015,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4034,7 +4039,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4098,7 +4103,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -4153,7 +4158,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6428,
+      "Progressed": 6429,
       "Completed": 0
     }
   ],
@@ -4161,8 +4166,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-09T19:00:11.1644039+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:05:42.4048133+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:06:42.0613552+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:00:00.1869974+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:05:42.4048651+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:01:11.6599308+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:06:42.0613945+00:00"
 }

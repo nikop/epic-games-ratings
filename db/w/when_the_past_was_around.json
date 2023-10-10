@@ -4,7 +4,7 @@
   "ProductSlug": "when-the-past-was-around-3071e0",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-17T14:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.8360151+00:00",
   "LastChanged": "2023-03-31T05:58:21.8360153+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:04.1282169+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:32.368535+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:08:14.6580796+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:59:08.6397281+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:08:28.4773724+00:00"
 }

@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67472,
+  "EOS_Progressed": 67473,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17489,6 +17489,11 @@
       "Time": "2023-10-10T06:06:33.8297166+00:00",
       "NumProgressed": 67472,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T07:08:04.636959+00:00",
+      "NumProgressed": 67473,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17508,7 +17513,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18217
+      "UsersEstimate": 18218
     },
     {
       "ID": "03",
@@ -17620,7 +17625,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "17",
@@ -17772,7 +17777,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23615
+      "UsersEstimate": 23616
     },
     {
       "ID": "36",
@@ -17836,7 +17841,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13494
+      "UsersEstimate": 13495
     },
     {
       "ID": "44",
@@ -18035,21 +18040,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67472,
+      "Progressed": 67473,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30940,
+      "Progressed": 30941,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:06:33.8297162+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:08:04.6369583+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:27.8899413+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:06:33.8299192+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:59:02.1843865+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:08:04.6370892+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-monkey-island-f4af79",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-18T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-19T16:56:58.337343+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:29.5998582+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:59:55.1210488+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:05:58.8335137+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:01:05.6961273+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:07:02.0399327+00:00"
 }

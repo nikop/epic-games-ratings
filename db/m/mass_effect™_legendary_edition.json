@@ -1868,9 +1868,9 @@
       "ID": "achievement_30",
       "SetID": "b9pe172",
       "Name": "Principled",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 330
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_31",
@@ -1948,9 +1948,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 381
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_40",
@@ -2488,8 +2488,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:06:13.8305173+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:07:20.7852072+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:57:40.762831+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:06:13.8307525+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:58:01.8541701+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:07:20.785388+00:00"
 }

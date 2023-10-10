@@ -11,9 +11,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skillful | 1.00% | ~9,303 |
 | Not half bad | 0.90% | ~8,373 |
 | Make Some Noise | 0.90% | ~8,373 |
-| Handyman | 0.80% | ~7,442 |
-| Apt Survivor | 0.80% | ~7,442 |
-| Survival Treasures | 0.80% | ~7,442 |
+| Handyman | 0.80% | ~7,443 |
+| Apt Survivor | 0.80% | ~7,443 |
+| Survival Treasures | 0.80% | ~7,443 |
 | No one left behind | 0.70% | ~6,512 |
 | Medic | 0.70% | ~6,512 |
 | Nerves of steel | 0.70% | ~6,512 |
@@ -90,6 +90,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.20% | ~1,861 |
 | Rebuilding The Borgo | 0.20% | ~1,861 |
 | Hack the Mainframe | 0.20% | ~1,861 |
+| Complete the Evolution | 0.20% | ~1,861 |
 | Extraterrestrial | 0.20% | ~1,861 |
 | Kitted Out | 0.20% | ~1,861 |
 | A feast for the Entity | 0.10% | ~930 |
@@ -227,7 +228,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Thalita | 0.10% | ~930 |
 | Adept Renato | 0.10% | ~930 |
 | Slip Into the Stream | 0.10% | ~930 |
-| Complete the Evolution | 0.10% | ~930 |
 | Adept Singularity | 0.10% | ~930 |
 | Adept Gabriel | 0.10% | ~930 |
 | Adept Cage | 0.10% | ~930 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,304 (Ranked 14)  
+Progressed: 930,336 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,304 | 49 |
+| 2023-10-10 | 930,336 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 260,781 (Ranked 13)  

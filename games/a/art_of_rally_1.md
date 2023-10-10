@@ -26,8 +26,8 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 14.00% | ~1,438 |
 | the artist | 14.00% | ~1,438 |
 | perkele | 13.00% | ~1,335 |
+| where is the stage? | 13.00% | ~1,335 |
 | snorkel | 13.00% | ~1,335 |
-| where is the stage? | 12.00% | ~1,232 |
 | maximum attack | 11.00% | ~1,130 |
 | espresso | 10.00% | ~1,027 |
 | parallel universe | 10.00% | ~1,027 |

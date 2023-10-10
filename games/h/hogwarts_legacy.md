@@ -30,8 +30,8 @@ Rating: 4.76 (Ranked 120)
 | The Root of the Problem | 6.00% | ~17,888 |
 | Third Time's a Charm | 6.00% | ~17,888 |
 | Raising Expectations | 6.00% | ~17,888 |
-| The Toast of the Town | 5.00% | ~14,906 |
-| The Ends Petrify the Means | 5.00% | ~14,906 |
+| The Toast of the Town | 5.00% | ~14,907 |
+| The Ends Petrify the Means | 5.00% | ~14,907 |
 | Going Through the Potions | 4.00% | ~11,925 |
 | Room with a View | 4.00% | ~11,925 |
 | The Intrepid Explorer | 4.00% | ~11,925 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,130 (Ranked 46)  
+Progressed: 298,131 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 483 (0.16%) (Ranked 227)
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
-| 2023-10-10 | 298,130 | 483 |
+| 2023-10-10 | 298,131 | 483 |
 ## Awards
 Max (Character Customization): 23,405  (Ranked 17)  
 Sum: 45,485 (Ranked 31)  

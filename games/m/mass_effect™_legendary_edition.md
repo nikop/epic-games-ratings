@@ -12,7 +12,7 @@
 | Quarian Ally | 69.00% | ~438 |
 | Medal of Heroism | 67.00% | ~425 |
 | Honorarium of Corporate Service | 67.00% | ~425 |
-| Council Legion of Merit | 60.00% | ~381 |
+| Council Legion of Merit | 61.00% | ~387 |
 | Medal of Exploration II | 59.00% | ~375 |
 | Charismatic | 58.00% | ~368 |
 | Medal of Honor | 57.00% | ~362 |
@@ -20,8 +20,8 @@
 | Turian Ally | 57.00% | ~362 |
 | Soldier | 54.00% | ~343 |
 | Medal of Exploration III | 53.00% | ~337 |
+| Principled | 53.00% | ~337 |
 | Asari Ally | 52.00% | ~330 |
-| Principled | 52.00% | ~330 |
 | Soldier Ally | 50.00% | ~318 |
 | Colonial Savior | 49.00% | ~311 |
 | Paramour I | 46.00% | ~292 |

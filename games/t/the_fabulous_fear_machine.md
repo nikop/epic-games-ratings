@@ -12,8 +12,8 @@
 | Pulp! Where Monsters Dwell | 45.00% | ~10 |
 | A continent with chemistry | 41.00% | ~9 |
 | The happy farmer girl | 41.00% | ~9 |
+| Pulp! Terror Tales in the Night | 36.00% | ~8 |
 | A rival with no options | 32.00% | ~7 |
-| Pulp! Terror Tales in the Night | 32.00% | ~7 |
 | Diagnosis: fear | 32.00% | ~7 |
 | Ambition is... blind | 32.00% | ~7 |
 | You have two wishes left | 32.00% | ~7 |

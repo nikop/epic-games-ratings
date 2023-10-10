@@ -1747,9 +1747,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 207055,
+  "EOS_Progressed": 207057,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -21327,6 +21327,11 @@
       "Time": "2023-10-10T06:03:55.5001173+00:00",
       "NumProgressed": 207055,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-10-10T07:04:23.0294867+00:00",
+      "NumProgressed": 207057,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 44,
@@ -21378,7 +21383,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "FiveShadows",
@@ -21554,7 +21559,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "Rollin",
@@ -21562,7 +21567,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "StillRollin",
@@ -21594,7 +21599,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "TheCave",
@@ -21666,7 +21671,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "WinnerWinner",
@@ -21689,15 +21694,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 207055,
+      "Progressed": 207057,
       "Completed": 90
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-09T23:58:27.37616+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:03:55.5001167+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:04:23.0294863+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:03.7364002+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:12.5003534+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:03:55.5002641+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:58:43.2636838+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:04:23.0296021+00:00"
 }

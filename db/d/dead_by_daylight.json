@@ -11177,9 +11177,9 @@
       "Count": 25242
     }
   ],
-  "EOS_Progressed": 930304,
+  "EOS_Progressed": 930336,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 14090,
+  "EOS_NewPlayers": 14080,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30782,6 +30782,11 @@
       "Time": "2023-10-10T06:04:30.4655965+00:00",
       "NumProgressed": 930304,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T07:05:04.8980792+00:00",
+      "NumProgressed": 930336,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30929,7 +30934,7 @@
       "Name": "Handyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7442
+      "UsersEstimate": 7443
     },
     {
       "ID": "ACH_019",
@@ -31001,7 +31006,7 @@
       "Name": "Apt Survivor",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7442
+      "UsersEstimate": 7443
     },
     {
       "ID": "ACH_028",
@@ -31025,7 +31030,7 @@
       "Name": "Survival Treasures",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7442
+      "UsersEstimate": 7443
     },
     {
       "ID": "ACH_031",
@@ -32511,9 +32516,9 @@
       "ID": "ACH_219",
       "SetID": "16jml5b",
       "Name": "Complete the Evolution",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 930
+      "UsersEstimate": 1861
     },
     {
       "ID": "ACH_220",
@@ -32624,21 +32629,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 930304,
+      "Progressed": 930336,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 930304,
+      "Progressed": 930336,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-10T03:02:01.6174703+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:04:30.465596+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:05:04.8980786+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:00:13.1605051+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:04:30.4663625+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:01:28.959572+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:05:04.8986534+00:00"
 }

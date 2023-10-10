@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6506,
+  "EOS_Progressed": 6507,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -11206,6 +11206,11 @@
       "Time": "2023-10-09T17:04:10.5491402+00:00",
       "NumProgressed": 6506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T07:03:38.5785605+00:00",
+      "NumProgressed": 6507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11281,7 +11286,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "4",
@@ -11297,7 +11302,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "6",
@@ -11336,7 +11341,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6506,
+      "Progressed": 6507,
       "Completed": 0
     }
   ],
@@ -11344,8 +11349,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:03:18.0455248+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:03:38.5785602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:19.3582319+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:58.756466+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:03:18.045614+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:59:47.759172+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:03:38.5786213+00:00"
 }

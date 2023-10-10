@@ -4,7 +4,7 @@
   "ProductSlug": "stop-dead-c31d0b",
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T02:13:50.11704+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:59:38.6173902+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:03:47.4746655+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:00:45.2821404+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:04:13.2317708+00:00"
 }

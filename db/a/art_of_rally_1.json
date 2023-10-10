@@ -1837,9 +1837,9 @@
       "ID": "ACH_FOG",
       "SetID": "9002fpg",
       "Name": "where is the stage?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1997,8 +1997,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-10T06:03:42.3877525+00:00",
+  "LastChanged_Achievements": "2023-10-10T07:04:07.0584864+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:05.6929685+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:58:45.2955479+00:00",
-  "LastUpdate_Achievements": "2023-10-10T06:03:42.3877971+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:59:28.5814374+00:00",
+  "LastUpdate_Achievements": "2023-10-10T07:04:07.0585211+00:00"
 }
