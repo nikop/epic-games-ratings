@@ -706,6 +706,7 @@
 | [Workshop Simulator](../games/e/eb3087d303e243ff92b3dd0ee3b3fb3f.md) | 22 | 1,000 |
 | [World of Contraptions](../games/w/world_of_contraptions.md) | 30 | 1,000 |
 | [World of Warships](../games/w/world_of_warships.md) | 44 | 1,000 |
+| [WrestleQuest](../games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 122 | 1,000 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [Wunderling DX](../games/w/wunderling_dx.md) | 41 | 1,000 |
 | [Xuan-Yuan Sword VII](../games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 44 | 1,000 |

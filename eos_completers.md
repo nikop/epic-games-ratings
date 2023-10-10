@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.64% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.61% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -47,7 +47,7 @@
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 46 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 47 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 48 | [Scorn](games/s/scorn.md) | 7.04% |
+| 48 | [Scorn](games/s/scorn.md) | 7.03% |
 | 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.93% |
 | 50 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 51 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
@@ -68,10 +68,10 @@
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.07% |
-| 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
+| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
+| 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
@@ -183,8 +183,8 @@
 | 175 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 182 | [Dead Space](games/d/dead_space.md) | 0.44% |
 | 182 | [Tchia](games/t/tchia.md) | 0.44% |
-| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 184 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 186 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 188 | [Train Valley](games/t/train_valley.md) | 0.39% |
@@ -659,4 +659,4 @@
 | 312 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 312 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 312 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,370 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,371 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

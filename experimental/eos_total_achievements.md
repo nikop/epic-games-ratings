@@ -11,6 +11,7 @@
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |
+| [WrestleQuest](../games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 122 | 1,000 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
