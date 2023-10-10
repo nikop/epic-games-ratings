@@ -414,7 +414,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2941,
+  "EOS_Progressed": 2942,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
@@ -3609,6 +3609,11 @@
       "Time": "2023-10-10T21:03:43.2414706+00:00",
       "NumProgressed": 2941,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-10T22:03:34.3795951+00:00",
+      "NumProgressed": 2942,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3628,7 +3633,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3644,7 +3649,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -3674,9 +3679,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 765
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3700,7 +3705,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -3708,7 +3713,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3731,7 +3736,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2941,
+      "Progressed": 2942,
       "Completed": 121
     }
   ],
@@ -3739,8 +3744,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-06T14:00:50.47481+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:03:43.2414702+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:03:34.3795946+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:20.0712197+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:57:30.7262954+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:03:43.2414936+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:57:19.137436+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:03:34.3796187+00:00"
 }

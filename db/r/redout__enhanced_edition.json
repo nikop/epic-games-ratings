@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 57,
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233411,
+  "EOS_Progressed": 233412,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18594,6 +18594,11 @@
       "Time": "2023-10-10T21:04:52.5587559+00:00",
       "NumProgressed": 233411,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-10T22:04:42.780558+00:00",
+      "NumProgressed": 233412,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -18829,7 +18834,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51350
+      "UsersEstimate": 51351
     },
     {
       "ID": "TACTICIAN",
@@ -18853,7 +18858,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51350
+      "UsersEstimate": 51351
     },
     {
       "ID": "TUNINGMANIAC",
@@ -18876,15 +18881,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 233411,
+      "Progressed": 233412,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:04:52.5587556+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:04:42.7805575+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.8840873+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:00:26.8779254+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:04:52.5588588+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:00:16.447564+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:04:42.7806866+00:00"
 }

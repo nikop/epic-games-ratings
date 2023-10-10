@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -797,9 +797,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28442,
+  "EOS_Progressed": 28443,
   "EOS_Completed": 1360,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -5932,6 +5932,11 @@
       "Time": "2023-10-10T11:06:01.9257871+00:00",
       "NumProgressed": 28442,
       "NumCompleted": 1360
+    },
+    {
+      "Time": "2023-10-10T22:05:59.5145214+00:00",
+      "NumProgressed": 28443,
+      "NumCompleted": 1360
     }
   ],
   "TotalAchievements": 30,
@@ -5975,7 +5980,7 @@
       "Name": "Bossy Bugs",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 13083
+      "UsersEstimate": 13084
     },
     {
       "ID": "ACH_BROKEN_TOOTH",
@@ -5991,7 +5996,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -6007,7 +6012,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21900
+      "UsersEstimate": 21901
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -6039,7 +6044,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27589
+      "UsersEstimate": 27590
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -6047,7 +6052,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19625
+      "UsersEstimate": 19626
     },
     {
       "ID": "ACH_GOLEM",
@@ -6095,7 +6100,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 15074
+      "UsersEstimate": 15075
     },
     {
       "ID": "ACH_PUZZLE",
@@ -6135,7 +6140,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26451
+      "UsersEstimate": 26452
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -6182,15 +6187,15 @@
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28442,
+      "Progressed": 28443,
       "Completed": 1360
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:06:10.7349846+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:05:59.5145207+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:45.023216+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:01:13.3186864+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:06:10.7350256+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:01:05.6940977+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:05:59.5145755+00:00"
 }

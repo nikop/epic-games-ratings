@@ -17,16 +17,16 @@
 | Big City Music | 49.00% | ~51 |
 | Sound of Noise | 49.00% | ~51 |
 | Love at First Sight | 45.00% | ~47 |
+| Symbiosis | 38.00% | ~40 |
 | First Kiss | 38.00% | ~40 |
-| Symbiosis | 37.00% | ~38 |
 | A Bigger Band | 34.00% | ~35 |
 | Fuel | 32.00% | ~33 |
 | Alone Together | 31.00% | ~32 |
 | Threatening Nature | 29.00% | ~30 |
 | Flat Tire | 27.00% | ~28 |
 | The Clash | 24.00% | ~25 |
-| TV Dreams | 23.00% | ~24 |
-| Dreamers | 19.00% | ~20 |
+| TV Dreams | 24.00% | ~25 |
+| Dreamers | 20.00% | ~21 |
 | Time | 17.00% | ~18 |
 | The Fix | 16.00% | ~17 |
 | Bad Trip | 15.00% | ~16 |
@@ -43,11 +43,11 @@
 | As the Crow Flies | 7.00% | ~7 |
 | Gasoline | 5.00% | ~5 |
 | On the Road Again | 5.00% | ~5 |
+| Hospital Flowers | 5.00% | ~5 |
 | Unintended | 5.00% | ~5 |
 | Riders on the Storm | 4.00% | ~4 |
 | Under my Wheels | 4.00% | ~4 |
 | The Fight Song | 4.00% | ~4 |
-| Hospital Flowers | 4.00% | ~4 |
 | Voodoo Child | 2.00% | ~2 |
 | Purple Haze | 2.00% | ~2 |
 | All Apologies | 2.00% | ~2 |

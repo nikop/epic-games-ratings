@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4068,7 +4068,7 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10706,
+  "EOS_Progressed": 10707,
   "EOS_Completed": 254,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 6,
@@ -15478,6 +15478,11 @@
       "Time": "2023-10-10T20:04:54.6045636+00:00",
       "NumProgressed": 10706,
       "NumCompleted": 254
+    },
+    {
+      "Time": "2023-10-10T22:04:12.9424397+00:00",
+      "NumProgressed": 10707,
+      "NumCompleted": 254
     }
   ],
   "TotalAchievements": 15,
@@ -15497,7 +15502,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "Bestest_Friend",
@@ -15529,7 +15534,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "Duty_Bound",
@@ -15553,7 +15558,7 @@
       "Name": "Generous",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "Goofys_Investor",
@@ -15561,7 +15566,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7494
+      "UsersEstimate": 7495
     },
     {
       "ID": "Miner",
@@ -15577,7 +15582,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7387
+      "UsersEstimate": 7388
     },
     {
       "ID": "Renovator",
@@ -15585,7 +15590,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "Thorn_Cleaner",
@@ -15608,7 +15613,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10706,
+      "Progressed": 10707,
       "Completed": 254
     }
   ],
@@ -15616,8 +15621,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-10T13:59:44.014942+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:04:21.7716238+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:04:12.9424393+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:00:00.9792825+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:04:21.7716848+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:59:48.2678895+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:04:12.9425032+00:00"
 }

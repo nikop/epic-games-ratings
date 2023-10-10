@@ -26,6 +26,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 1.00% | ~1,374 |
 | Gild-Gotten Goods | 1.00% | ~1,374 |
 | One-Armed Bandit | 1.00% | ~1,374 |
+| Accomplished Merchant | 1.00% | ~1,374 |
 | Dungeon Imports | 1.00% | ~1,374 |
 | Through Repetition, Perfection | 1.00% | ~1,374 |
 | Did we pack lunch? | 1.00% | ~1,374 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.90% | ~1,237 |
 | Efficient Floor Space | 0.90% | ~1,237 |
 | Gem Expert | 0.90% | ~1,237 |
-| Accomplished Merchant | 0.90% | ~1,237 |
 | Arcane Industries | 0.90% | ~1,237 |
 | Research & Development | 0.80% | ~1,099 |
 | Fated Encounters | 0.80% | ~1,099 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,419 (Ranked 73)  
+Progressed: 137,420 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 167 (0.12%) (Ranked 239)
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
-| 2023-10-10 | 137,419 | 167 |
+| 2023-10-10 | 137,420 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,367 (Ranked 50)  

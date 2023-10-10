@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 79.00% | ~19 |
+| You have three wishes left | 83.00% | ~20 |
 | Master trainee | 75.00% | ~18 |
 | Jung's dream | 63.00% | ~15 |
 | The battle of Great Britain | 54.00% | ~13 |
@@ -22,13 +22,13 @@
 | The artist | 29.00% | ~7 |
 | The seer | 29.00% | ~7 |
 | You had one wish left | 25.00% | ~6 |
+| Et in arcadia ego | 25.00% | ~6 |
 | Kirlian's best disciple | 25.00% | ~6 |
+| Welcome to Hellville | 25.00% | ~6 |
 | You've awakened the beast | 21.00% | ~5 |
 | Hate is... addictive | 21.00% | ~5 |
 | Blessed antennas | 21.00% | ~5 |
-| Et in arcadia ego | 21.00% | ~5 |
 | The barbarian invasions | 21.00% | ~5 |
-| Welcome to Hellville | 21.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~4 |
 | Blood Red Island | 17.00% | ~4 |
 | The bully | 17.00% | ~4 |

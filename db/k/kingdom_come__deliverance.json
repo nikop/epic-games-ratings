@@ -7794,9 +7794,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804373,
+  "EOS_Progressed": 804375,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27149,6 +27149,11 @@
       "Time": "2023-10-10T21:06:55.5104576+00:00",
       "NumProgressed": 804373,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T22:06:45.0541321+00:00",
+      "NumProgressed": 804375,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -27192,7 +27197,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168918
+      "UsersEstimate": 168919
     },
     {
       "ID": "BadGirl",
@@ -27240,7 +27245,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257399
+      "UsersEstimate": 257400
     },
     {
       "ID": "Bookworm",
@@ -27272,7 +27277,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201093
+      "UsersEstimate": 201094
     },
     {
       "ID": "Chivalrous",
@@ -27304,7 +27309,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "Conqueror",
@@ -27320,7 +27325,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80437
+      "UsersEstimate": 80438
     },
     {
       "ID": "DavidHorak",
@@ -27336,7 +27341,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "EdwardKelly",
@@ -27480,7 +27485,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104568
+      "UsersEstimate": 104569
     },
     {
       "ID": "Judas",
@@ -27496,7 +27501,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "KingdomDidNotCome",
@@ -27512,7 +27517,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "LevelCap",
@@ -27520,7 +27525,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "LikeGhost",
@@ -27552,7 +27557,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "McLovin",
@@ -27656,7 +27661,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "Runt",
@@ -27720,7 +27725,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "TheEnd",
@@ -27728,7 +27733,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16087
+      "UsersEstimate": 16088
     },
     {
       "ID": "Thief",
@@ -27815,15 +27820,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804373,
+      "Progressed": 804375,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-10T17:01:12.7157538+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:06:55.5104573+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:06:45.0541316+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:00:35.8983995+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:06:55.510619+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:00:27.2839221+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:06:45.0543404+00:00"
 }

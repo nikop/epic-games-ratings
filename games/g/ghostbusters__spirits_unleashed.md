@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advancement | 2.00% | ~526 |
-| Stylish | 2.00% | ~526 |
+| Advancement | 2.00% | ~527 |
+| Stylish | 2.00% | ~527 |
 | I collect Spores, Molds, and Fungi | 1.00% | ~263 |
 | Discovery | 1.00% | ~263 |
 | Meticulously Efficient | 1.00% | ~263 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Therapeutic | 0.10% | ~26 |
 | Ultimate Defense | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,324 (Ranked 117)  
+Progressed: 26,326 (Ranked 117)  
 Completed: 58 (0.22%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 58 (0.22%) (Ranked 217)
 | 2023-10-07 | 26,270 | 58 |
 | 2023-10-08 | 26,296 | 58 |
 | 2023-10-09 | 26,315 | 58 |
-| 2023-10-10 | 26,324 | 58 |
+| 2023-10-10 | 26,326 | 58 |
 ## Awards
 Max (Great for Quick Sessions): 261  (Ranked 257)  
 Sum: 2,373 (Ranked 189)  

@@ -35,7 +35,7 @@ Rating: 4.62 (Ranked 354)
 | Front Toward Enemy | 34.00% | ~310 |
 | Whole Again | 28.00% | ~255 |
 | Set A Benchmark | 28.00% | ~255 |
-| Final Regeneration | 25.00% | ~228 |
+| Final Regeneration | 26.00% | ~237 |
 | Pack Rat | 25.00% | ~228 |
 | Full Contact | 24.00% | ~219 |
 | Full Clearance | 24.00% | ~219 |

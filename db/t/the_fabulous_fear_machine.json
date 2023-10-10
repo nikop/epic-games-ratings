@@ -234,9 +234,9 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 79,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "20",
@@ -250,9 +250,9 @@
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "22",
@@ -514,9 +514,9 @@
       "ID": "9",
       "SetID": "d37idgg",
       "Name": "Welcome to Hellville",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:04:19.4759439+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:04:10.41896+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:58:59.021413+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:04:19.4759758+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:58:44.925801+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:04:10.4189939+00:00"
 }

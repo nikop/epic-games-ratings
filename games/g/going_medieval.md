@@ -13,19 +13,19 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 67.00% | ~4,129 |
 | Novice Researcher | 67.00% | ~4,129 |
 | Home Cooked Meal | 59.00% | ~3,636 |
-| Onward | 57.00% | ~3,512 |
-| The First Week | 55.00% | ~3,389 |
-| Beam Me Up | 52.00% | ~3,204 |
-| Putting Food on the Table | 52.00% | ~3,204 |
-| Studious Researcher | 52.00% | ~3,204 |
+| Onward | 57.00% | ~3,513 |
+| The First Week | 55.00% | ~3,390 |
+| Beam Me Up | 52.00% | ~3,205 |
+| Putting Food on the Table | 52.00% | ~3,205 |
+| Studious Researcher | 52.00% | ~3,205 |
 | Adept Researcher | 45.00% | ~2,773 |
 | Feast or Famine | 43.00% | ~2,650 |
 | Retribution | 42.00% | ~2,588 |
 | ...And Don’t Come Back! | 42.00% | ~2,588 |
-| Fit For A King | 33.00% | ~2,033 |
+| Fit For A King | 33.00% | ~2,034 |
 | Luminary Researcher | 32.00% | ~1,972 |
-| Heating Up | 31.00% | ~1,910 |
-| Winter Is Coming | 28.00% | ~1,725 |
+| Heating Up | 31.00% | ~1,911 |
+| Winter Is Coming | 28.00% | ~1,726 |
 | Winter Is Here | 24.00% | ~1,479 |
 | Disassembled | 21.00% | ~1,294 |
 | A Party Now | 21.00% | ~1,294 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~123 |
 | Wabbit Season | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,162 (Ranked 164)  
+Progressed: 6,163 (Ranked 164)  
 Completed: 14 (0.23%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 14 (0.23%) (Ranked 215)
 | 2023-10-07 | 6,130 | 14 |
 | 2023-10-08 | 6,144 | 14 |
 | 2023-10-09 | 6,154 | 14 |
-| 2023-10-10 | 6,162 | 14 |
+| 2023-10-10 | 6,163 | 14 |
 ## Awards
 Max (Relaxing): 122  (Ranked 326)  
 Sum: 991 (Ranked 248)  

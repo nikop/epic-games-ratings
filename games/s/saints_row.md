@@ -6,31 +6,31 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~34,291 |
-| To The Nines | 42.00% | ~31,309 |
+| First F#@!ing Day | 46.00% | ~34,292 |
+| To The Nines | 42.00% | ~31,310 |
 | Optimized | 37.00% | ~27,582 |
-| Performance Review | 36.00% | ~26,836 |
-| Making a Name | 34.00% | ~25,345 |
-| Tune Up | 33.00% | ~24,600 |
-| Wet Work | 32.00% | ~23,854 |
-| Landlord | 32.00% | ~23,854 |
-| The Side Job | 31.00% | ~23,109 |
+| Performance Review | 36.00% | ~26,837 |
+| Making a Name | 34.00% | ~25,346 |
+| Tune Up | 33.00% | ~24,601 |
+| Wet Work | 32.00% | ~23,855 |
+| Landlord | 32.00% | ~23,855 |
+| The Side Job | 31.00% | ~23,110 |
 | Wrecking Ball | 28.00% | ~20,873 |
-| Food for Thought | 27.00% | ~20,127 |
-| Finders Keepers | 25.00% | ~18,636 |
-| A Young Empire | 25.00% | ~18,636 |
-| Work Ethic | 23.00% | ~17,145 |
+| Food for Thought | 27.00% | ~20,128 |
+| Finders Keepers | 25.00% | ~18,637 |
+| A Young Empire | 25.00% | ~18,637 |
+| Work Ethic | 23.00% | ~17,146 |
 | Picking Fights | 20.00% | ~14,909 |
 | Power Players | 19.00% | ~14,164 |
 | Quality Time | 18.00% | ~13,418 |
 | Et tu? | 17.00% | ~12,673 |
-| Showdown | 16.00% | ~11,927 |
-| Took It to The Limit | 16.00% | ~11,927 |
-| Kitted Out | 14.00% | ~10,436 |
-| Masters of Santo Ileso | 12.00% | ~8,945 |
+| Showdown | 16.00% | ~11,928 |
+| Took It to The Limit | 16.00% | ~11,928 |
+| Kitted Out | 14.00% | ~10,437 |
+| Masters of Santo Ileso | 12.00% | ~8,946 |
 | Hijacked | 11.00% | ~8,200 |
-| The Spins | 10.00% | ~7,454 |
-| The Mechanic | 10.00% | ~7,454 |
+| The Spins | 10.00% | ~7,455 |
+| The Mechanic | 10.00% | ~7,455 |
 | Closet Space | 8.00% | ~5,964 |
 | We could go home, or… | 7.00% | ~5,218 |
 | Challenge Accepted | 7.00% | ~5,218 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~149 |
 | Fiesta Time | 0.20% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,545 (Ranked 90)  
+Progressed: 74,547 (Ranked 90)  
 Completed: 51 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 51 (0.07%) (Ranked 259)
 | 2023-10-07 | 74,141 | 51 |
 | 2023-10-08 | 74,308 | 51 |
 | 2023-10-09 | 74,444 | 51 |
-| 2023-10-10 | 74,545 | 51 |
+| 2023-10-10 | 74,547 | 51 |
 ## Awards
 Max (Extremely Fun): 1,069  (Ranked 142)  
-Sum: 8,673 (Ranked 97)  
+Sum: 8,674 (Ranked 97)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 1,009 |
 | This game is Great for Beginners | 1,004 |
 | This game has Diverse Characters | 998 |
-| This game has Amazing Characters | 989 |
+| This game has Amazing Characters | 990 |
 | This game is Relaxing | 984 |
 | This game has Amazing Storytelling | 974 |
 | This game has Playful Visuals | 777 |
@@ -446,4 +446,4 @@ Diff (max vs sum): 45
 | 2023-10-07 | 3.79 | - | 1,068 | 8,667 |
 | 2023-10-08 | 3.79 | - | 1,068 | 8,670 |
 | 2023-10-09 | 3.79 | - | 1,068 | 8,671 |
-| 2023-10-10 | 3.79 | - | 1,069 | 8,673 |
+| 2023-10-10 | 3.79 | - | 1,069 | 8,674 |

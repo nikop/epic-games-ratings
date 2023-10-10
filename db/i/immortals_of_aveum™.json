@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_41",
@@ -812,8 +812,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:06:34.332121+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:06:23.6644952+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:59:21.4075119+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:06:34.3321637+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:59:07.8460044+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:06:23.6645327+00:00"
 }

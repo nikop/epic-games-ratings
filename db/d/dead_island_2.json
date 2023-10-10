@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -5232,10 +5232,10 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 693852,
-  "EOS_Completed": 2208,
-  "EOS_NewPlayers": 3443,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 693864,
+  "EOS_Completed": 2209,
+  "EOS_NewPlayers": 3436,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -24862,6 +24862,11 @@
       "Time": "2023-10-10T21:09:08.3079534+00:00",
       "NumProgressed": 693852,
       "NumCompleted": 2208
+    },
+    {
+      "Time": "2023-10-10T22:08:26.6876872+00:00",
+      "NumProgressed": 693864,
+      "NumCompleted": 2209
     }
   ],
   "TotalAchievements": 45,
@@ -25209,7 +25214,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27754
+      "UsersEstimate": 27755
     },
     {
       "ID": "ach_well_known_survivor",
@@ -25232,22 +25237,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 693852,
-      "Completed": 2208
+      "Progressed": 693864,
+      "Completed": 2209
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 19394,
-      "Completed": 19394
+      "Progressed": 19406,
+      "Completed": 19406
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-10T20:01:14.4982152+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:09:08.307953+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:08:26.6876866+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.9143544+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:00:33.7893255+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:09:08.3080718+00:00"
+  "LastUpdate_Ratings": "2023-10-10T22:00:25.8800913+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:08:26.6878285+00:00"
 }

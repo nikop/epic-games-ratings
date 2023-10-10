@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3721,
+  "EOS_Progressed": 3722,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7155,6 +7155,11 @@
       "Time": "2023-10-10T18:05:17.794864+00:00",
       "NumProgressed": 3721,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-10T22:05:50.1595331+00:00",
+      "NumProgressed": 3722,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7166,7 +7171,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7374,7 +7379,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7398,7 +7403,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7422,7 +7427,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7558,7 +7563,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7733,13 +7738,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3672,
+      "Progressed": 3673,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3721,
+      "Progressed": 3722,
       "Completed": 11
     }
   ],
@@ -7747,8 +7752,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:06:01.0111139+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:05:50.1595325+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:58:22.0862216+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:06:01.0112028+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:58:09.1088154+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:05:50.1596195+00:00"
 }

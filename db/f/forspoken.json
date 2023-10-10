@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42013,
+  "EOS_Progressed": 42017,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10376,6 +10376,11 @@
       "Time": "2023-10-10T21:04:17.8991192+00:00",
       "NumProgressed": 42013,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-10T22:04:08.8476557+00:00",
+      "NumProgressed": 42017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10403,7 +10408,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -10435,7 +10440,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -10451,7 +10456,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -10563,7 +10568,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "JUSTCOUNTER",
@@ -10691,7 +10696,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "PARKOUR_TIME",
@@ -10723,7 +10728,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "SPRING_ALL",
@@ -10810,22 +10815,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42013,
+      "Progressed": 42017,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6850,
-      "Completed": 6850
+      "Progressed": 6854,
+      "Completed": 6854
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-10T21:04:17.8991188+00:00",
+  "LastChanged_Achievements": "2023-10-10T22:04:08.8476551+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-10T21:00:06.1844508+00:00",
-  "LastUpdate_Achievements": "2023-10-10T21:04:17.8992019+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:59:52.3722657+00:00",
+  "LastUpdate_Achievements": "2023-10-10T22:04:08.8477612+00:00"
 }

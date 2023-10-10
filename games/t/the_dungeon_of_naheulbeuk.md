@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,904 |
+| Sowwy! | 33.00% | ~75,906 |
 | Alt+F4 | 6.00% | ~13,801 |
 | Déjà vu | 5.00% | ~11,501 |
 | Where's that freaking Dwarf? | 5.00% | ~11,501 |
-| Sock! SOCK! | 4.00% | ~9,200 |
-| A beer, two curses, three companions | 3.00% | ~6,900 |
-| GG EZ | 3.00% | ~6,900 |
-| DM intervention | 3.00% | ~6,900 |
-| Speedrun | 3.00% | ~6,900 |
-| Fireproof Wizardess | 3.00% | ~6,900 |
+| Sock! SOCK! | 4.00% | ~9,201 |
+| A beer, two curses, three companions | 3.00% | ~6,901 |
+| GG EZ | 3.00% | ~6,901 |
+| DM intervention | 3.00% | ~6,901 |
+| Speedrun | 3.00% | ~6,901 |
+| Fireproof Wizardess | 3.00% | ~6,901 |
 | Livin' in a dwarven paradise | 2.00% | ~4,600 |
 | Way of the Wimp | 2.00% | ~4,600 |
 | The plot thickens... At the tavern | 2.00% | ~4,600 |
@@ -27,6 +27,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 2.00% | ~4,600 |
 | The Woman in the High Castle | 2.00% | ~4,600 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,600 |
+| I am the night | 2.00% | ~4,600 |
 | Team Building Exercise | 2.00% | ~4,600 |
 | Oh, when I'll be level 10... | 2.00% | ~4,600 |
 | Shiny and Crôm | 1.00% | ~2,300 |
@@ -38,7 +39,6 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 1.00% | ~2,300 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,300 |
 | The Ranger of Chaos | 1.00% | ~2,300 |
-| I am the night | 1.00% | ~2,300 |
 | Thieves' Guild Accreditation | 1.00% | ~2,300 |
 | Dead for good | 0.90% | ~2,070 |
 | Lust and Debauchery | 0.90% | ~2,070 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~230 |
 | Dwarf Candy | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,012 (Ranked 60)  
+Progressed: 230,017 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 5 (0.00%) (Ranked 312)
 | 2023-10-07 | 229,368 | 5 |
 | 2023-10-08 | 229,641 | 5 |
 | 2023-10-09 | 229,845 | 5 |
-| 2023-10-10 | 230,012 | 5 |
+| 2023-10-10 | 230,017 | 5 |
 ## Awards
 Max (Character Customization): 210  (Ranked 275)  
 Sum: 415 (Ranked 324)  
