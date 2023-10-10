@@ -257,6 +257,7 @@
 | [Football Manager 2023](../games/f/football_manager_2023.md) | 100 | 1,000 |
 | [FORECLOSED](../games/f/foreclosed.md) | 24 | 1,000 |
 | [Forest Fire](../games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 34 | 1,000 |
+| [Forest Grove](../games/1/172112126caf448aa6e069b16a9f0118.md) | 12 | 1,000 |
 | [Foretales](../games/f/foretales.md) | 41 | 1,000 |
 | [Forklift Extreme - Deluxe Edition](../games/f/forklift_extreme_-_deluxe_edition.md) | 13 | 1,000 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 |
