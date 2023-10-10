@@ -6,9 +6,9 @@
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 3366,
+  "Ranking_EOS_NewCompleters": 3367,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3452,9 +3452,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73380,
+  "EOS_Progressed": 73381,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18232,6 +18232,11 @@
       "Time": "2023-10-10T09:08:05.412103+00:00",
       "NumProgressed": 73380,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-10T10:08:08.0534693+00:00",
+      "NumProgressed": 73381,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18291,7 +18296,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16877
+      "UsersEstimate": 16878
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18355,7 +18360,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13208
+      "UsersEstimate": 13209
     },
     {
       "ID": "CLAYFACE_3",
@@ -18403,7 +18408,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9539
+      "UsersEstimate": 9540
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -18451,7 +18456,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9539
+      "UsersEstimate": 9540
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -18619,7 +18624,7 @@
       "Name": "Knighthood",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20546
+      "UsersEstimate": 20547
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -18635,7 +18640,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24949
+      "UsersEstimate": 24950
     },
     {
       "ID": "MYSTERY_02",
@@ -18651,7 +18656,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16877
+      "UsersEstimate": 16878
     },
     {
       "ID": "MYSTERY_04",
@@ -18667,7 +18672,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13208
+      "UsersEstimate": 13209
     },
     {
       "ID": "MYSTERY_06",
@@ -18730,13 +18735,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73380,
+      "Progressed": 73381,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43660,
+      "Progressed": 43661,
       "Completed": 2666
     }
   ],
@@ -18744,8 +18749,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T21:59:33.7825613+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:08:05.4121021+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:08:08.0534686+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:59:44.1281382+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:08:05.4122714+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:00:33.5553102+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:08:08.053645+00:00"
 }

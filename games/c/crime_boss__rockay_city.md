@@ -10,8 +10,8 @@ Rating: 3.94 (Ranked 977)
 | Downed but Not Outed | 1.00% | ~890 |
 | Underworld Initiate | 0.90% | ~801 |
 | Too Old for This | 0.90% | ~801 |
+| Fancy Pants | 0.80% | ~712 |
 | Roid Ranger | 0.70% | ~623 |
-| Fancy Pants | 0.70% | ~623 |
 | Off the Rocks | 0.70% | ~623 |
 | Case Closed | 0.60% | ~534 |
 | King of the Hill | 0.60% | ~534 |
@@ -48,7 +48,7 @@ Rating: 3.94 (Ranked 977)
 | Now You See Me | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88,954 (Ranked 81)  
-Completed: 48 (0.05%) (Ranked 267)  
+Completed: 48 (0.05%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

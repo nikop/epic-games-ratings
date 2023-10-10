@@ -14,7 +14,7 @@ Number of Ratings: 94  (23.09.2022)
 | Cogs in the Machine | 45.00% | ~327 |
 | Mission Success | 28.00% | ~203 |
 | There's No Place Like Home | 27.00% | ~196 |
-| Green Cube Killer | 22.00% | ~160 |
+| Green Cube Killer | 23.00% | ~167 |
 | Infinity Loop | 20.00% | ~145 |
 | Path to Salvation | 20.00% | ~145 |
 | Descendants | 19.00% | ~138 |
@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 726 (Ranked 249)  
-Completed: 1 (0.14%) (Ranked 231)  
+Completed: 1 (0.14%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "probo-rush-b3ee54",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-25T17:00:00+00:00",
     "PcReleaseDate": "2023-07-25T17:00:00+00:00",
@@ -187,8 +187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T15:07:13.1424827+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:06:51.5651368+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:08:04.228487+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:16.1343194+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:58:51.6619485+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:06:51.5651514+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:59:26.7232669+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:08:04.2285077+00:00"
 }

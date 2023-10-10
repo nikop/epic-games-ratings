@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | Noctuan Champion | 26.00% | ~13 |
 | Apian Champion | 24.00% | ~12 |
+| Endless Tricks | 20.00% | ~10 |
 | Meissa's Savior | 20.00% | ~10 |
 | Eridanian Champion | 20.00% | ~10 |
 | Lacertian Champion | 20.00% | ~10 |
 | Dicesmithing Time! | 18.00% | ~9 |
-| Endless Tricks | 18.00% | ~9 |
+| Loyal Partner | 18.00% | ~9 |
 | Mechanical Buddy | 18.00% | ~9 |
 | Purification Pioneer | 18.00% | ~9 |
+| Sanctuary Guardian | 18.00% | ~9 |
+| Shard Spender | 18.00% | ~9 |
 | Stellar Dismantler | 18.00% | ~9 |
 | Wild's Keeper | 18.00% | ~9 |
-| Loyal Partner | 16.00% | ~8 |
-| Sanctuary Guardian | 16.00% | ~8 |
-| Shard Spender | 16.00% | ~8 |
+| Mind Illuminator | 16.00% | ~8 |
 | Behenian Champion | 16.00% | ~8 |
 | Anomaly Destroyer | 14.00% | ~7 |
-| Mind Illuminator | 14.00% | ~7 |
 | Aquarian Champion | 14.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Heart Gate | 12.00% | ~6 |
@@ -104,7 +104,7 @@
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 436)  
-Completed: 0 (0.00%) (Ranked 310)  
+Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

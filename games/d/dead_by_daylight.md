@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,304 |
-| It wakes | 1.00% | ~9,304 |
-| Skillful | 1.00% | ~9,304 |
+| Zealous | 1.00% | ~9,305 |
+| It wakes | 1.00% | ~9,305 |
+| Skillful | 1.00% | ~9,305 |
 | Not half bad | 0.90% | ~8,374 |
+| Survival Treasures | 0.90% | ~8,374 |
 | Make Some Noise | 0.90% | ~8,374 |
-| Handyman | 0.80% | ~7,443 |
-| Apt Survivor | 0.80% | ~7,443 |
-| Survival Treasures | 0.80% | ~7,443 |
-| Sorted | 0.80% | ~7,443 |
+| Handyman | 0.80% | ~7,444 |
+| Apt Survivor | 0.80% | ~7,444 |
+| Sorted | 0.80% | ~7,444 |
 | No one left behind | 0.70% | ~6,513 |
 | Medic | 0.70% | ~6,513 |
 | Nerves of steel | 0.70% | ~6,513 |
 | Healthy Obsession | 0.70% | ~6,513 |
 | Resurgence | 0.70% | ~6,513 |
-| The Grand Sacrifice | 0.60% | ~5,582 |
-| Agonizing Escape | 0.60% | ~5,582 |
-| Backdoor Escape | 0.60% | ~5,582 |
-| Perfect Escape | 0.60% | ~5,582 |
-| Bloody Millionaire | 0.60% | ~5,582 |
-| I | 0.60% | ~5,582 |
-| Engineer | 0.60% | ~5,582 |
-| Preemptive Strike | 0.60% | ~5,582 |
-| Humanitarian | 0.60% | ~5,582 |
+| The Grand Sacrifice | 0.60% | ~5,583 |
+| Agonizing Escape | 0.60% | ~5,583 |
+| Backdoor Escape | 0.60% | ~5,583 |
+| Perfect Escape | 0.60% | ~5,583 |
+| Bloody Millionaire | 0.60% | ~5,583 |
+| I | 0.60% | ~5,583 |
+| Engineer | 0.60% | ~5,583 |
+| Preemptive Strike | 0.60% | ~5,583 |
+| Humanitarian | 0.60% | ~5,583 |
 | I've got your back | 0.50% | ~4,652 |
 | Perfect Killing | 0.50% | ~4,652 |
 | Risk it all | 0.50% | ~4,652 |
@@ -43,6 +43,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood on your hands | 0.30% | ~2,791 |
 | Escape Artist | 0.30% | ~2,791 |
 | Made it out alive! | 0.30% | ~2,791 |
+| Gifts for the Fog | 0.30% | ~2,791 |
 | III-50 | 0.30% | ~2,791 |
 | Shock Therapy | 0.30% | ~2,791 |
 | All Aboard | 0.30% | ~2,791 |
@@ -70,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A bite for the Entity | 0.20% | ~1,861 |
 | Blood on your face | 0.20% | ~1,861 |
 | Jump Scares | 0.20% | ~1,861 |
-| Gifts for the Fog | 0.20% | ~1,861 |
 | Hemophobia | 0.20% | ~1,861 |
 | Deep Cleansing | 0.20% | ~1,861 |
 | Leapfrog | 0.20% | ~1,861 |
@@ -89,6 +89,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.20% | ~1,861 |
 | Insult and Injury | 0.20% | ~1,861 |
 | Outrun the Overlap | 0.20% | ~1,861 |
+| High Speed Pursuit | 0.20% | ~1,861 |
 | Rebuilding The Borgo | 0.20% | ~1,861 |
 | Hack the Mainframe | 0.20% | ~1,861 |
 | Complete the Evolution | 0.20% | ~1,861 |
@@ -215,7 +216,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Hiding Seeker | 0.10% | ~930 |
 | Adept Haddie | 0.10% | ~930 |
 | Collision Course | 0.10% | ~930 |
-| High Speed Pursuit | 0.10% | ~930 |
 | Adept Mastermind | 0.10% | ~930 |
 | Outbreak Breakout | 0.10% | ~930 |
 | Adept Ada | 0.10% | ~930 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,412 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 292)  
+Progressed: 930,459 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,412 | 49 |
+| 2023-10-10 | 930,459 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 260,803 (Ranked 13)  

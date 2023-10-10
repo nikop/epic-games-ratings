@@ -6,9 +6,9 @@
   "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347128,
+  "EOS_Progressed": 347131,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20138,6 +20138,11 @@
       "Time": "2023-10-10T09:05:17.6202063+00:00",
       "NumProgressed": 347128,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T10:06:01.4681639+00:00",
+      "NumProgressed": 347131,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20165,7 +20170,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41655
+      "UsersEstimate": 41656
     },
     {
       "ID": "ach004",
@@ -20189,7 +20194,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach007",
@@ -20205,7 +20210,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41655
+      "UsersEstimate": 41656
     },
     {
       "ID": "ach009",
@@ -20229,7 +20234,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach012",
@@ -20253,7 +20258,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52069
+      "UsersEstimate": 52070
     },
     {
       "ID": "ach015",
@@ -20261,7 +20266,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach016",
@@ -20357,7 +20362,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 159679
+      "UsersEstimate": 159680
     },
     {
       "ID": "ach028",
@@ -20461,7 +20466,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach041",
@@ -20477,7 +20482,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach043",
@@ -20541,7 +20546,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach051",
@@ -20677,7 +20682,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55540
+      "UsersEstimate": 55541
     },
     {
       "ID": "ach069",
@@ -20701,7 +20706,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "ach072",
@@ -20788,7 +20793,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347128,
+      "Progressed": 347131,
       "Completed": 7
     }
   ],
@@ -20796,8 +20801,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:05:17.6202057+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:06:01.4681633+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:58:24.2113614+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:05:17.6204332+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:58:55.51418+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:06:01.4683782+00:00"
 }

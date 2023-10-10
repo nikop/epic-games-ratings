@@ -3,9 +3,9 @@
   "Name": "Farsiders",
   "ProductSlug": "farsiders-52d626",
   "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-09T05:03:09.5392137+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:03:18.1439355+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:03:29.0239648+00:00",
   "LastUpdate_AppInfo": "2023-10-09T04:56:58.6847175+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:57:33.5920582+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:03:18.1439393+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:57:52.4260209+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:03:29.0239692+00:00"
 }

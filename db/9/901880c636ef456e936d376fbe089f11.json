@@ -3,9 +3,9 @@
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -472,9 +472,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -791,8 +791,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:06:49.0866201+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:07:51.293458+00:00",
   "LastUpdate_AppInfo": "2023-10-03T13:56:55.2584905+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:57:20.3045084+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:06:49.0866737+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:57:36.7526453+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:07:51.2935051+00:00"
 }

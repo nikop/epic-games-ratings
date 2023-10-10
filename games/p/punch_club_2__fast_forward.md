@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~100 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 333 (Ranked 302)  
-Completed: 8 (2.40%) (Ranked 100)  
+Completed: 8 (2.40%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

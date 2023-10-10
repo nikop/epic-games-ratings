@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,257 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 310)  
+Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,8 +236,8 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-09 | 3,257 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 269)  
-Sum: 474 (Ranked 313)  
-Diff (max vs sum): -44  
+Sum: 474 (Ranked 314)  
+Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 220 |

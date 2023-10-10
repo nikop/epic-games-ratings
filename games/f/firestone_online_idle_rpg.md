@@ -76,13 +76,13 @@ Rating: 4.06 (Ranked 946)
 | Tree of Life | 1.00% | ~20 |
 | Beast War Machines | 0.90% | ~18 |
 | Angel Power | 0.80% | ~16 |
-| Silverwood liberator | 0.50% | ~10 |
+| Silverwood liberator | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,011 (Ranked 202)  
-Completed: 2 (0.10%) (Ranked 244)  
+Completed: 2 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

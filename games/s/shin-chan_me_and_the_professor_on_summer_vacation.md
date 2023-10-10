@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 29.00% | ~11 |
-| Greengrocer | 29.00% | ~11 |
-| Seven Days of Endless Adventure | 24.00% | ~9 |
+| Cabbage in the Baggage | 28.00% | ~11 |
+| Greengrocer | 28.00% | ~11 |
+| Seven Days of Endless Adventure | 23.00% | ~9 |
 | Masu-ter Angler | 18.00% | ~7 |
 | Go-Getter | 18.00% | ~7 |
 | River Cleaner | 18.00% | ~7 |
-| Handyman Extraordinaire | 16.00% | ~6 |
+| Handyman Extraordinaire | 15.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~5 |
 | Just Hoverin' Along | 13.00% | ~5 |
 | What's That Smell? | 13.00% | ~5 |
 | It's Alive! | 13.00% | ~5 |
-| Farm Life! | 11.00% | ~4 |
-| Did Someone Order Ramen? | 11.00% | ~4 |
-| Ptera Pal | 11.00% | ~4 |
-| DJ Superstar | 11.00% | ~4 |
+| Farm Life! | 10.00% | ~4 |
+| Did Someone Order Ramen? | 10.00% | ~4 |
+| Ptera Pal | 10.00% | ~4 |
+| DJ Superstar | 10.00% | ~4 |
 | My Fair Ladybug | 8.00% | ~3 |
 | The Holly Grail | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 455)  
-Completed: 0 (0.00%) (Ranked 310)  
+Progressed: 39 (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-09-05 | 36 | 0 |
 | 2023-09-17 | 37 | 0 |
 | 2023-09-23 | 38 | 0 |
+| 2023-10-10 | 39 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

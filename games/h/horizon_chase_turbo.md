@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~952,945 |
-| I Need a Bigger Garage | 63.00% | ~667,062 |
-| Pump my Ride | 47.00% | ~497,649 |
-| Ghostbuster | 33.00% | ~349,413 |
-| Call Roadside Assistance | 18.00% | ~190,589 |
-| That Was Close | 18.00% | ~190,589 |
-| Quickie | 11.00% | ~116,471 |
-| California Dreamer | 7.00% | ~74,118 |
-| Can't Touch This | 5.00% | ~52,941 |
-| Carménère Taster | 4.00% | ~42,353 |
-| Comeback | 4.00% | ~42,353 |
+| The First of Many | 90.00% | ~952,960 |
+| I Need a Bigger Garage | 63.00% | ~667,072 |
+| Pump my Ride | 47.00% | ~497,657 |
+| Ghostbuster | 33.00% | ~349,419 |
+| Call Roadside Assistance | 18.00% | ~190,592 |
+| That Was Close | 18.00% | ~190,592 |
+| Quickie | 11.00% | ~116,473 |
+| California Dreamer | 7.00% | ~74,119 |
+| Can't Touch This | 5.00% | ~52,942 |
+| Carménère Taster | 4.00% | ~42,354 |
+| Comeback | 4.00% | ~42,354 |
 | Driver from Ipanema | 3.00% | ~31,765 |
 | Supersonic | 3.00% | ~31,765 |
 | Marathonist | 3.00% | ~31,765 |
@@ -32,20 +32,20 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,588 |
 | Golden Passport | 1.00% | ~10,588 |
 | Brave and Bold | 1.00% | ~10,588 |
-| Crocodile Hunter | 0.90% | ~9,529 |
-| Old Master | 0.90% | ~9,529 |
+| Crocodile Hunter | 0.90% | ~9,530 |
+| Old Master | 0.90% | ~9,530 |
 | Volcano Surfer | 0.80% | ~8,471 |
 | Otaku | 0.80% | ~8,471 |
 | Survivor | 0.60% | ~6,353 |
 | King of the World | 0.60% | ~6,353 |
 | Getting Famous | 0.50% | ~5,294 |
-| Now Go Play Outside | 0.30% | ~3,176 |
+| Now Go Play Outside | 0.30% | ~3,177 |
 | Master of the Racetrack | 0.20% | ~2,118 |
 | Transporter | 0.10% | ~1,059 |
 | Look Mom, No Hands! | 0.10% | ~1,059 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058,828 (Ranked 13)  
-Completed: 453 (0.04%) (Ranked 273)  
+Progressed: 1,058,844 (Ranked 13)  
+Completed: 453 (0.04%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,7 +217,7 @@ Completed: 453 (0.04%) (Ranked 273)
 | 2023-10-07 | 1,057,545 | 449 |
 | 2023-10-08 | 1,058,209 | 450 |
 | 2023-10-09 | 1,058,679 | 453 |
-| 2023-10-10 | 1,058,828 | 453 |
+| 2023-10-10 | 1,058,844 | 453 |
 ## Awards
 Max (Great for Beginners): 156  (Ranked 305)  
 Sum: 1,302 (Ranked 232)  

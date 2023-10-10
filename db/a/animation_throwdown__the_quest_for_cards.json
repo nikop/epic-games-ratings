@@ -2,13 +2,13 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1943,10 +1943,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 2759,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-10-10T09:57:58.3244487+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2760,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2759,
+  "NumberOfAwards": 2760,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1960,7 +1966,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 306
+      "Count": 307
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2022,8 +2028,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-10-07T21:02:11.9031634+00:00",
+  "LastChanged": "2023-10-10T09:57:58.3244484+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:34.0054416+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:57:38.5472439+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:06:48.8826544+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:57:58.3244491+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:07:51.0665248+00:00"
 }

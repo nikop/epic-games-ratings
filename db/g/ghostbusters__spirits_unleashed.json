@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2334,9 +2334,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26319,
+  "EOS_Progressed": 26320,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -14569,6 +14569,11 @@
       "Time": "2023-10-10T09:03:39.4797979+00:00",
       "NumProgressed": 26319,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-10-10T10:04:04.953058+00:00",
+      "NumProgressed": 26320,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 51,
@@ -14682,9 +14687,9 @@
       "ID": "Ectoplasmic_Entity",
       "SetID": "819popo",
       "Name": "Ectoplasmic Entity",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 184
     },
     {
       "ID": "Efficient",
@@ -14987,7 +14992,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26319,
+      "Progressed": 26320,
       "Completed": 58
     }
   ],
@@ -14995,8 +15000,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-10T00:00:44.7517868+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:03:39.4797974+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:04:04.9530575+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:00:04.7756716+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:03:39.4799346+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:00:57.5237219+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:04:04.9531778+00:00"
 }

@@ -3,10 +3,10 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 356,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -740,23 +740,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 94,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-10-10T09:59:23.5158925+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 95,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94,
-  "NumberOfAwardsMax": 94,
+  "NumberOfAwards": 95,
+  "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 94
+      "Count": 95
     }
   ],
-  "EOS_Progressed": 10576,
+  "EOS_Progressed": 10577,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11274,6 +11280,11 @@
       "Time": "2023-10-09T22:04:52.3674722+00:00",
       "NumProgressed": 10576,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-10T10:05:51.7115215+00:00",
+      "NumProgressed": 10577,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11469,7 +11480,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH25",
@@ -11477,7 +11488,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH26",
@@ -11485,7 +11496,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH27",
@@ -11556,16 +11567,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10576,
+      "Progressed": 10577,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-10-07T12:59:54.5914419+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:05:08.9885376+00:00",
+  "LastChanged": "2023-10-10T09:59:23.5158922+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:05:51.7115209+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:33.9086955+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:58:49.6241529+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:05:08.9886409+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:59:23.5158929+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:05:51.7116145+00:00"
 }

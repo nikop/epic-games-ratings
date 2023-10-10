@@ -3,9 +3,9 @@
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -417,9 +417,9 @@
       "ID": "achFire1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Fired!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achMaxCage",
@@ -473,9 +473,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achScoutMaxStar",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:03:24.9368431+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:03:37.6273442+00:00",
   "LastUpdate_AppInfo": "2023-10-05T09:57:13.8606524+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:58:36.4354763+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:03:24.9368682+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:59:08.11715+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:03:37.6273676+00:00"
 }

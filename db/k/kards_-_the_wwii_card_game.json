@@ -4,11 +4,11 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 738,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2020-04-15T11:18:00+00:00",
@@ -2556,10 +2556,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 3824,
       "NumberOfAwardsMax": 587
+    },
+    {
+      "Time": "2023-10-10T09:59:46.3566528+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3825,
+      "NumberOfAwardsMax": 587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3824,
+  "NumberOfAwards": 3825,
   "NumberOfAwardsMax": 587,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2615,7 +2621,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 407
+      "Count": 408
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2635,8 +2641,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-10-09T10:59:04.6758561+00:00",
+  "LastChanged": "2023-10-10T09:59:46.3566526+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:51.2390592+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:59:07.1804109+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:05:51.0806407+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:59:46.3566532+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:06:41.3326494+00:00"
 }

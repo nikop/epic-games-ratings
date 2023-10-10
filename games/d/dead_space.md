@@ -5,20 +5,20 @@ Rating: 4.62 (Ranked 354)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~852 |
-| Welcome Aboard | 87.00% | ~780 |
+| Marksman | 95.00% | ~853 |
+| Welcome Aboard | 87.00% | ~781 |
 | Lab Rat | 76.00% | ~682 |
-| All Systems Go | 67.00% | ~601 |
-| Brute Force | 67.00% | ~601 |
-| Cannon Fodder | 62.00% | ~556 |
-| Autofire | 60.00% | ~538 |
-| True Believer | 58.00% | ~520 |
-| Story Teller | 57.00% | ~511 |
-| Raise the Stakes | 57.00% | ~511 |
-| Surgeon | 54.00% | ~484 |
-| Exterminator | 52.00% | ~466 |
-| Greenhouse Effect | 52.00% | ~466 |
-| Freeze | 51.00% | ~457 |
+| All Systems Go | 67.00% | ~602 |
+| Brute Force | 66.00% | ~593 |
+| Cannon Fodder | 62.00% | ~557 |
+| Autofire | 60.00% | ~539 |
+| True Believer | 58.00% | ~521 |
+| Story Teller | 57.00% | ~512 |
+| Raise the Stakes | 57.00% | ~512 |
+| Surgeon | 53.00% | ~476 |
+| Exterminator | 52.00% | ~467 |
+| Greenhouse Effect | 52.00% | ~467 |
+| Freeze | 51.00% | ~458 |
 | Full Arsenal | 46.00% | ~413 |
 | S.O.S. | 46.00% | ~413 |
 | Get Off My Ship! | 43.00% | ~386 |
@@ -37,12 +37,12 @@ Rating: 4.62 (Ranked 354)
 | Set A Benchmark | 28.00% | ~251 |
 | Final Regeneration | 25.00% | ~224 |
 | Pack Rat | 25.00% | ~224 |
-| Full Contact | 24.00% | ~215 |
-| Full Clearance | 24.00% | ~215 |
-| Pusher | 22.00% | ~197 |
-| Z-Baller | 22.00% | ~197 |
-| Marked | 20.00% | ~179 |
-| Eviscerator | 19.00% | ~170 |
+| Full Contact | 24.00% | ~216 |
+| Full Clearance | 24.00% | ~216 |
+| Pusher | 22.00% | ~198 |
+| Z-Baller | 22.00% | ~198 |
+| Marked | 20.00% | ~180 |
+| Eviscerator | 19.00% | ~171 |
 | Backbreaker | 14.00% | ~126 |
 | Wishbone | 8.00% | ~72 |
 | Trusted Contractor | 7.00% | ~63 |
@@ -53,8 +53,8 @@ Rating: 4.62 (Ranked 354)
 | One Gun | 2.00% | ~18 |
 | Maxed Out | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897 (Ranked 238)  
-Completed: 4 (0.45%) (Ranked 180)  
+Progressed: 898 (Ranked 238)  
+Completed: 4 (0.45%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 4 (0.45%) (Ranked 180)
 | 2023-10-07 | 837 | 4 |
 | 2023-10-08 | 864 | 4 |
 | 2023-10-09 | 886 | 4 |
-| 2023-10-10 | 897 | 4 |
+| 2023-10-10 | 898 | 4 |
 ## Awards
 Max (Great Boss Battles): 102  (Ranked 344)  
 Sum: 102 (Ranked 428)  

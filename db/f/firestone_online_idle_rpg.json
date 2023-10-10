@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6436,9 +6436,9 @@
       "ID": "silverwoodliberator",
       "SetID": "3nl4bcg",
       "Name": "Silverwood liberator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "superior",
@@ -6605,8 +6605,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-10T07:58:19.281773+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:06:45.5585687+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:07:47.1062295+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.0347276+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:58:15.1906317+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:06:45.5586731+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:58:44.8299455+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:07:47.1063667+00:00"
 }

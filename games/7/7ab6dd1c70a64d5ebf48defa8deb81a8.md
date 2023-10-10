@@ -42,7 +42,7 @@
 | Flawless Victory | -6.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 464)  
-Completed: 1 (3.03%) (Ranked 88)  
+Completed: 1 (3.03%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

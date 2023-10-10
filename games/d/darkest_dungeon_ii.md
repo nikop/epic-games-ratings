@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~111,698 |
+| A Place to Lay Your Head | 93.00% | ~111,699 |
 | Don't Make Me Turn This Coach Around | 71.00% | ~85,275 |
-| A Clear Conscience | 69.00% | ~82,872 |
-| Unleash Hell | 68.00% | ~81,671 |
-| Unfulfilled Desires | 68.00% | ~81,671 |
-| Funny Guy | 67.00% | ~80,470 |
-| Unshackled | 67.00% | ~80,470 |
-| Long Live the King | 66.00% | ~79,269 |
-| Resurrection | 62.00% | ~74,465 |
-| Wyrdly Reconstructed | 62.00% | ~74,465 |
-| Boxcar Kid | 60.00% | ~72,063 |
-| Rush Hour | 60.00% | ~72,063 |
-| To Grandmother's House | 60.00% | ~72,063 |
+| A Clear Conscience | 69.00% | ~82,873 |
+| Unleash Hell | 68.00% | ~81,672 |
+| Unfulfilled Desires | 68.00% | ~81,672 |
+| Funny Guy | 67.00% | ~80,471 |
+| Unshackled | 67.00% | ~80,471 |
+| Long Live the King | 66.00% | ~79,270 |
+| Resurrection | 62.00% | ~74,466 |
+| Wyrdly Reconstructed | 62.00% | ~74,466 |
+| Boxcar Kid | 60.00% | ~72,064 |
+| Rush Hour | 60.00% | ~72,064 |
+| To Grandmother's House | 60.00% | ~72,064 |
 | Serenity Now! | 53.00% | ~63,656 |
-| Hope Rekindled | 50.00% | ~60,052 |
-| Ramble On | 49.00% | ~58,851 |
-| Nope | 48.00% | ~57,650 |
+| Hope Rekindled | 50.00% | ~60,053 |
+| Ramble On | 49.00% | ~58,852 |
+| Nope | 48.00% | ~57,651 |
 | This Looks Familiar | 38.00% | ~45,640 |
 | Now Stay Dead | 37.00% | ~44,439 |
 | Merry Time | 36.00% | ~43,238 |
@@ -51,7 +51,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 13.00% | ~15,614 |
 | Shrine of Reflection | 12.00% | ~14,413 |
 | When You Want Something Done Right | 11.00% | ~13,212 |
-| Body of Work | 10.00% | ~12,010 |
+| Body of Work | 10.00% | ~12,011 |
 | Utopia | 8.00% | ~9,608 |
 | Hat Trick | 7.00% | ~8,407 |
 | Ichthyophobic | 6.00% | ~7,206 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~120 |
 | No Gravestone Left Unturned | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,105 (Ranked 77)  
-Completed: 1 (0.00%) (Ranked 310)  
+Progressed: 120,106 (Ranked 77)  
+Completed: 1 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 310)
 | 2023-10-07 | 119,869 | 1 |
 | 2023-10-08 | 119,979 | 1 |
 | 2023-10-09 | 120,074 | 1 |
-| 2023-10-10 | 120,105 | 1 |
+| 2023-10-10 | 120,106 | 1 |
 ## Awards
 Max (Character Customization): 7,450  (Ranked 50)  
 Sum: 19,499 (Ranked 57)  

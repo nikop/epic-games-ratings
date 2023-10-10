@@ -63,7 +63,7 @@ Rating: 4.40 (Ranked 718)
 | Hell Is You | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 257,142 (Ranked 49)  
-Completed: 3 (0.00%) (Ranked 310)  
+Completed: 3 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

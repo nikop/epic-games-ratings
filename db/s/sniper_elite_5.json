@@ -6,9 +6,9 @@
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7402,9 +7402,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1376
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7737,8 +7737,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-10T09:05:02.3015133+00:00",
+  "LastChanged_Achievements": "2023-10-10T10:05:43.1831939+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-10T08:57:37.7995774+00:00",
-  "LastUpdate_Achievements": "2023-10-10T09:05:02.3016355+00:00"
+  "LastUpdate_Ratings": "2023-10-10T09:57:57.2345871+00:00",
+  "LastUpdate_Achievements": "2023-10-10T10:05:43.1833276+00:00"
 }
