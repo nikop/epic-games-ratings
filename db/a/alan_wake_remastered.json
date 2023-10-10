@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67471,
+  "EOS_Progressed": 67472,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17484,6 +17484,11 @@
       "Time": "2023-10-10T05:08:13.9100792+00:00",
       "NumProgressed": 67471,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T06:06:33.8297166+00:00",
+      "NumProgressed": 67472,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17511,7 +17516,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "04",
@@ -17527,7 +17532,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15518
+      "UsersEstimate": 15519
     },
     {
       "ID": "06",
@@ -17535,7 +17540,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12819
+      "UsersEstimate": 12820
     },
     {
       "ID": "07",
@@ -17559,7 +17564,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10795
+      "UsersEstimate": 10796
     },
     {
       "ID": "10",
@@ -17655,7 +17660,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10795
+      "UsersEstimate": 10796
     },
     {
       "ID": "22",
@@ -17743,7 +17748,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22265
+      "UsersEstimate": 22266
     },
     {
       "ID": "33",
@@ -17751,7 +17756,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10795
+      "UsersEstimate": 10796
     },
     {
       "ID": "34",
@@ -18030,21 +18035,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67471,
+      "Progressed": 67472,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30939,
+      "Progressed": 30940,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:08:13.9100786+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:06:33.8297162+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:58:54.7102607+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:08:13.9102497+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:58:27.8899413+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:06:33.8299192+00:00"
 }

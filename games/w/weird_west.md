@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 656)  
+Rating: 4.44 (Ranked 657)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -191,9 +191,9 @@ Completed: 7 (0.38%) (Ranked 187)
 | 2023-10-05 | 1,846 | 7 |
 | 2023-10-07 | 1,847 | 7 |
 ## Awards
-Max (Impact the Story): 27  (Ranked 486)  
+Max (Impact the Story): 27  (Ranked 487)  
 Sum: 27 (Ranked 499)  
-Diff (max vs sum): -13  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 27 |

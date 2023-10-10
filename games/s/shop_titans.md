@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 965)  
+Rating: 3.99 (Ranked 966)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,13 +31,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,374 |
 | On the Path to Greatness | 0.90% | ~1,237 |
 | Ascended | 0.90% | ~1,237 |
+| Vanity, Verily | 0.90% | ~1,237 |
 | Blank Page Syndrome | 0.90% | ~1,237 |
 | Efficient Floor Space | 0.90% | ~1,237 |
 | Gem Expert | 0.90% | ~1,237 |
 | Accomplished Merchant | 0.90% | ~1,237 |
 | Arcane Industries | 0.90% | ~1,237 |
 | Research & Development | 0.80% | ~1,099 |
-| Vanity, Verily | 0.80% | ~1,099 |
 | Power of Love | 0.80% | ~1,099 |
 | Flawless Fusion | 0.80% | ~1,099 |
 | Helping Hand | 0.80% | ~1,099 |

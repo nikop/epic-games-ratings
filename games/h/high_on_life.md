@@ -6,28 +6,30 @@ Rating: 4.64 (Ranked 318)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 0.60% | ~145 |
+| Are You Packin'? | 0.60% | ~145 |
 | Sweezy Like Sunday Morning | 0.60% | ~145 |
 | First Bounty Down | 0.60% | ~145 |
 | G3 Graduation | 0.60% | ~145 |
 | Cold-Blooded Driller | 0.60% | ~145 |
 | Don't Knife The Hand That Feeds | 0.60% | ~145 |
 | Creature Feature | 0.50% | ~121 |
-| Are You Packin'? | 0.50% | ~121 |
 | Bring A Knife to a Gun Fight | 0.50% | ~121 |
 | RIP Davey Glutes | 0.50% | ~121 |
 | We're All Very Impressed, Trust Me | 0.50% | ~121 |
 | Hardest Battle In The Game | 0.50% | ~121 |
 | Who's The Boss? | 0.50% | ~121 |
 | Bathe With A Giant Nude Alien | 0.50% | ~7 |
+| Eatin' Good in the Neighborhood | 0.40% | ~97 |
 | Lezduit! | 0.40% | ~97 |
 | Legendary Bounty Hunter | 0.40% | ~97 |
 | Self-Actualization | 0.40% | ~97 |
 | Fallout Doesn't Let You Do This | 0.40% | ~97 |
 | Spent 15 Hours At The Alien Strip Club | 0.40% | ~97 |
 | Series Wrap on Suit-O | 0.40% | ~97 |
-| Eatin' Good in the Neighborhood | 0.30% | ~73 |
 | Eye Scream, You Scream | 0.30% | ~73 |
 | We Came, We Chainsaw, We Conquered | 0.30% | ~4 |
+| Sequel-Bait | 0.20% | ~48 |
+| Gunning For Your Job | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |
 | Fall In Love With A Parasite | 0.20% | ~3 |
@@ -36,8 +38,6 @@ Rating: 4.64 (Ranked 318)
 | Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
-| Sequel-Bait | 0.10% | ~24 |
-| Gunning For Your Job | 0.10% | ~24 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
 | Carried Stan's Load To Completion | 0.10% | ~24 |

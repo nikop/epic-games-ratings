@@ -5,9 +5,9 @@ Rating: 4.28 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~159,673 |
-| Copacetic Coordination | 16.00% | ~55,538 |
-| Fronting the Money | 15.00% | ~52,067 |
+| Corner Clout | 46.00% | ~159,674 |
+| Copacetic Coordination | 16.00% | ~55,539 |
+| Fronting the Money | 15.00% | ~52,068 |
 | The Dawn of Automation | 14.00% | ~48,596 |
 | Extraordinary Logistics | 14.00% | ~48,596 |
 | Dirty Money | 13.00% | ~45,125 |
@@ -41,13 +41,13 @@ Rating: 4.28 (Ranked 828)
 | An Affront to the Enemy | 4.00% | ~13,885 |
 | Friends from Back Home | 4.00% | ~13,885 |
 | Half Century Mark | 4.00% | ~13,885 |
-| Corner Opportunities | 3.00% | ~10,413 |
-| 2122 North Clark Street | 3.00% | ~10,413 |
-| Copious Cabbage | 3.00% | ~10,413 |
-| Sockdolager | 3.00% | ~10,413 |
-| Still Stalwart | 3.00% | ~10,413 |
-| Bees Knees Bootlegger | 3.00% | ~10,413 |
-| Tighten the Screws | 3.00% | ~10,413 |
+| Corner Opportunities | 3.00% | ~10,414 |
+| 2122 North Clark Street | 3.00% | ~10,414 |
+| Copious Cabbage | 3.00% | ~10,414 |
+| Sockdolager | 3.00% | ~10,414 |
+| Still Stalwart | 3.00% | ~10,414 |
+| Bees Knees Bootlegger | 3.00% | ~10,414 |
+| Tighten the Screws | 3.00% | ~10,414 |
 | One of Us | 2.00% | ~6,942 |
 | Baker’s Dozen | 2.00% | ~6,942 |
 | Dropping the Dime | 2.00% | ~6,942 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,115 (Ranked 43)  
+Progressed: 347,117 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 7 (0.00%) (Ranked 310)
 | 2023-10-07 | 346,774 | 7 |
 | 2023-10-08 | 346,961 | 7 |
 | 2023-10-09 | 347,086 | 7 |
-| 2023-10-10 | 347,115 | 7 |
+| 2023-10-10 | 347,117 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 443)  
 Sum: 176 (Ranked 393)  

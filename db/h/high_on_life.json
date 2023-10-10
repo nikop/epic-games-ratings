@@ -5432,9 +5432,9 @@
       "ID": "ACH_APPLEBEES_BILL",
       "SetID": "cdkbb11",
       "Name": "Eatin\u0027 Good in the Neighborhood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -5456,9 +5456,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -5512,9 +5512,9 @@
       "ID": "ACH_HUMAN_HAVEN",
       "SetID": "cdkbb11",
       "Name": "Sequel-Bait",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -5600,9 +5600,9 @@
       "ID": "ACH_MOPLET_BOSS",
       "SetID": "cdkbb11",
       "Name": "Gunning For Your Job",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -5767,8 +5767,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:03:30.7474934+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:03:09.52846+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:58:25.6489851+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:03:30.7475609+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:58:04.5109177+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:03:09.5285389+00:00"
 }

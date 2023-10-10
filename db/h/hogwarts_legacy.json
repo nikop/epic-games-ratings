@@ -8766,9 +8766,9 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298127,
+  "EOS_Progressed": 298130,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27351,6 +27351,11 @@
       "Time": "2023-10-10T05:09:05.4174593+00:00",
       "NumProgressed": 298127,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-10T06:08:10.6371755+00:00",
+      "NumProgressed": 298130,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27362,7 +27367,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44719
+      "UsersEstimate": 44720
     },
     {
       "ID": "PFA_10",
@@ -27482,7 +27487,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35775
+      "UsersEstimate": 35776
     },
     {
       "ID": "PFA_24",
@@ -27586,7 +27591,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26831
+      "UsersEstimate": 26832
     },
     {
       "ID": "PFA_36",
@@ -27666,7 +27671,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26831
+      "UsersEstimate": 26832
     },
     {
       "ID": "PFA_45",
@@ -27706,7 +27711,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35775
+      "UsersEstimate": 35776
     },
     {
       "ID": "PFA_9",
@@ -27714,14 +27719,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26831
+      "UsersEstimate": 26832
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298127,
+      "Progressed": 298130,
       "Completed": 483
     }
   ],
@@ -27729,8 +27734,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-10T04:58:45.7617402+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:09:05.4174587+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:08:10.6371745+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:58:45.7617412+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:09:05.4175925+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:58:20.8259381+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:08:10.6373225+00:00"
 }

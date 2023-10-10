@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 24.82,
+  "EOS_Completed_Percentage": 24.73,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1436,6 +1436,11 @@
       "Time": "2023-10-08T17:04:29.474919+00:00",
       "NumProgressed": 278,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-10-10T06:04:56.3055376+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1448,7 +1453,7 @@
       "Name": "Safe Cracker",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Batteries",
@@ -1456,7 +1461,7 @@
       "Name": "Batteries",
       "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Compiling",
@@ -1464,7 +1469,7 @@
       "Name": "Job completed!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FallDeath",
@@ -1480,7 +1485,7 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Floppy",
@@ -1488,7 +1493,7 @@
       "Name": "Additional Data",
       "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Fusses",
@@ -1496,15 +1501,15 @@
       "Name": "Beginner Electrician",
       "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "GasDeath",
@@ -1512,7 +1517,7 @@
       "Name": "Contract Termination",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GasFound",
@@ -1528,7 +1533,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 53,
       "XP": 70,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Screwdriver",
@@ -1536,7 +1541,7 @@
       "Name": "Screwdriver",
       "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "SecretRoom",
@@ -1544,29 +1549,29 @@
       "Name": "Researcher",
       "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:05:42.6492777+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:04:56.3055369+00:00",
   "LastUpdate_AppInfo": "2023-10-03T20:57:14.7228421+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:57:49.5711906+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:05:42.6492966+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:57:36.1380062+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:04:56.3055598+00:00"
 }

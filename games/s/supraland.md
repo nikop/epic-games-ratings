@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,463 |
-| The Blues | 85.00% | ~619,438 |
-| Fast | 66.00% | ~480,976 |
-| Healthbar | 55.00% | ~400,813 |
-| Force Cube | 53.00% | ~386,238 |
-| Double Jump | 48.00% | ~349,800 |
-| Regeneration | 47.00% | ~342,513 |
-| Triple Jump | 43.00% | ~313,363 |
-| Climb the hill | 42.00% | ~306,075 |
-| Through the fire pipe | 39.00% | ~284,213 |
-| MacGuffin | 38.00% | ~276,925 |
-| Just once | 37.00% | ~269,638 |
-| Armor | 30.00% | ~218,625 |
-| True holy spirit | 28.00% | ~204,050 |
-| That's how electronics work obviously | 27.00% | ~196,763 |
+| Out of bed | 99.00% | ~721,466 |
+| The Blues | 85.00% | ~619,441 |
+| Fast | 66.00% | ~480,978 |
+| Healthbar | 55.00% | ~400,815 |
+| Force Cube | 53.00% | ~386,240 |
+| Double Jump | 48.00% | ~349,802 |
+| Regeneration | 47.00% | ~342,514 |
+| Triple Jump | 43.00% | ~313,364 |
+| Climb the hill | 42.00% | ~306,077 |
+| Through the fire pipe | 39.00% | ~284,214 |
+| MacGuffin | 38.00% | ~276,927 |
+| Just once | 37.00% | ~269,639 |
+| Armor | 30.00% | ~218,626 |
+| True holy spirit | 28.00% | ~204,051 |
+| That's how electronics work obviously | 27.00% | ~196,764 |
 | Force Cube Catapult | 25.00% | ~182,188 |
 | Holy Sword | 23.00% | ~167,613 |
 | Telefrag | 23.00% | ~167,613 |
 | Freed from prison | 21.00% | ~153,038 |
 | Stomp | 21.00% | ~153,038 |
-| Double Health | 18.00% | ~131,175 |
+| Double Health | 18.00% | ~131,176 |
 | Buckle | 17.00% | ~123,888 |
 | Green Keycard | 17.00% | ~123,888 |
-| Rattle Hag | 16.00% | ~116,600 |
+| Rattle Hag | 16.00% | ~116,601 |
 | All Shells | 15.00% | ~109,313 |
-| Beam | 14.00% | ~102,025 |
+| Beam | 14.00% | ~102,026 |
 | Health Drink | 13.00% | ~94,738 |
 | Helped a star | 13.00% | ~94,738 |
 | 9 | 13.00% | ~94,738 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,751 (Ranked 19)  
-Completed: 745 (0.10%) (Ranked 244)  
+Progressed: 728,754 (Ranked 19)  
+Completed: 746 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 745 (0.10%) (Ranked 244)
 | 2023-10-07 | 728,508 | 744 |
 | 2023-10-08 | 728,636 | 745 |
 | 2023-10-09 | 728,732 | 745 |
-| 2023-10-10 | 728,751 | 745 |
+| 2023-10-10 | 728,754 | 746 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
+| Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
 | Musaeum in Alexandria | 0.10% | ~15 |
 | Alliance Victory | 0.10% | ~15 |
@@ -306,7 +307,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.10% | ~15 |
 | Beja Archer | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
-| Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Epic Victory (Carthage 4) | 0.00% | ~0 |

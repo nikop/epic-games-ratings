@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1817,7 +1817,7 @@
   ],
   "EOS_Progressed": 14565,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13480,9 +13480,9 @@
       "ID": "ACHIEVEMENT_ALEXANDER_THE_WHO",
       "SetID": "9201eeb",
       "Name": "Alexander the who?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE",
@@ -16214,8 +16214,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:05:21.0386023+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:04:39.3019988+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:03:13.0278702+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:05:21.0399279+00:00"
+  "LastUpdate_Ratings": "2023-10-10T06:02:13.8383617+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:04:39.3031212+00:00"
 }

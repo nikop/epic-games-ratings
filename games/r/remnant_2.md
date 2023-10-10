@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,378 |
-| The Killing Jar | 8.00% | ~15,448 |
-| Expanding Horizons | 7.00% | ~13,517 |
-| Quest for Survival | 7.00% | ~13,517 |
-| Not Your Average Trait | 7.00% | ~13,517 |
-| Gleaming the Cube | 6.00% | ~11,586 |
-| Familiar Face | 6.00% | ~11,586 |
-| Duality | 6.00% | ~11,586 |
-| Boss'n Up | 6.00% | ~11,586 |
-| Trait Chaser | 6.00% | ~11,586 |
+| First of Many | 9.00% | ~17,380 |
+| The Killing Jar | 8.00% | ~15,449 |
+| Expanding Horizons | 7.00% | ~13,518 |
+| Quest for Survival | 7.00% | ~13,518 |
+| Not Your Average Trait | 7.00% | ~13,518 |
+| Gleaming the Cube | 6.00% | ~11,587 |
+| Familiar Face | 6.00% | ~11,587 |
+| Duality | 6.00% | ~11,587 |
+| Boss'n Up | 6.00% | ~11,587 |
+| Trait Chaser | 6.00% | ~11,587 |
 | Not So Special Now | 5.00% | ~9,655 |
 | Not a Janitor | 5.00% | ~9,655 |
 | Equal Measures | 5.00% | ~9,655 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Proving Grounds | 1.00% | ~1,931 |
 | Ghost in the Machine | 0.90% | ~1,738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,094 (Ranked 68)  
+Progressed: 193,109 (Ranked 68)  
 Completed: 377 (0.20%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 377 (0.20%) (Ranked 218)
 | 2023-10-07 | 191,655 | 371 |
 | 2023-10-08 | 192,419 | 375 |
 | 2023-10-09 | 192,990 | 377 |
-| 2023-10-10 | 193,094 | 377 |
+| 2023-10-10 | 193,109 | 377 |
 ## Awards
 Max (Great Boss Battles): 1,815  (Ranked 114)  
 Sum: 3,889 (Ranked 150)  

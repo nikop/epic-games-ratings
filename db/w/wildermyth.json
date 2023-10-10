@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -157,11 +157,11 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1411,
+  "EOS_Progressed": 1412,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -1562,6 +1562,11 @@
       "Time": "2023-10-08T12:05:08.9713311+00:00",
       "NumProgressed": 1411,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T06:05:22.6732531+00:00",
+      "NumProgressed": 1412,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1579,9 +1584,9 @@
       "ID": "achievement_150Calamities",
       "SetID": "95dc8p",
       "Name": "Overwhelming Monstrosity",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_1petReceived",
@@ -1589,7 +1594,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1645,7 +1650,7 @@
       "Name": "Passing Shadow",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1765,7 +1770,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2020,15 +2025,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1411,
+      "Progressed": 1412,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:06:15.368494+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:05:22.6732526+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.0384854+00:00",
-  "LastUpdate_Ratings": "2023-10-10T05:00:30.4615661+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:06:15.3685558+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:59:40.0861963+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:05:22.6733171+00:00"
 }

@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211783,
+  "EOS_Progressed": 211784,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19880,6 +19880,11 @@
       "Time": "2023-10-10T05:07:07.542258+00:00",
       "NumProgressed": 211783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T06:06:04.8435531+00:00",
+      "NumProgressed": 211784,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -19963,7 +19968,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 148248
+      "UsersEstimate": 148249
     },
     {
       "ID": "DoubleCheck",
@@ -19979,7 +19984,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 118598
+      "UsersEstimate": 118599
     },
     {
       "ID": "Elo",
@@ -19995,7 +20000,7 @@
       "Name": "ELO ELO",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "EloEloElo",
@@ -20011,7 +20016,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19060
+      "UsersEstimate": 19061
     },
     {
       "ID": "EpauletteMate",
@@ -20051,7 +20056,7 @@
       "Name": "Learner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "O-O",
@@ -20131,7 +20136,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 44474
+      "UsersEstimate": 44475
     },
     {
       "ID": "Stalemate",
@@ -20194,7 +20199,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 211783,
+      "Progressed": 211784,
       "Completed": 2
     }
   ],
@@ -20202,8 +20207,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-10-03T08:01:19.7986988+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:07:07.5422576+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:06:04.8435523+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:22.1223709+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:59:25.9124786+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:07:07.5424026+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:58:51.2656874+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:06:04.843711+00:00"
 }

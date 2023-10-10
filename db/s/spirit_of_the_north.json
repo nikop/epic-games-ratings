@@ -3,7 +3,7 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 494,
+  "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 169,
@@ -324,7 +324,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71044,
+  "EOS_Progressed": 71045,
   "EOS_Completed": 377,
   "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 4,
@@ -19259,6 +19259,11 @@
       "Time": "2023-10-10T05:05:47.2668151+00:00",
       "NumProgressed": 71044,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2023-10-10T06:04:59.9117307+00:00",
+      "NumProgressed": 71045,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 24,
@@ -19286,7 +19291,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48310
+      "UsersEstimate": 48311
     },
     {
       "ID": "BEST_FRIENDS",
@@ -19302,7 +19307,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18471
+      "UsersEstimate": 18472
     },
     {
       "ID": "ERADICATE",
@@ -19318,7 +19323,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 19892
+      "UsersEstimate": 19893
     },
     {
       "ID": "FOXIN_AROUND",
@@ -19350,7 +19355,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 37653
+      "UsersEstimate": 37654
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -19461,7 +19466,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71044,
+      "Progressed": 71045,
       "Completed": 377
     }
   ],
@@ -19469,8 +19474,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-10T05:05:47.2668145+00:00",
+  "LastChanged_Achievements": "2023-10-10T06:04:59.9117293+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.3980127+00:00",
-  "LastUpdate_Ratings": "2023-10-10T04:59:34.421303+00:00",
-  "LastUpdate_Achievements": "2023-10-10T05:05:47.2669454+00:00"
+  "LastUpdate_Ratings": "2023-10-10T05:58:57.7351975+00:00",
+  "LastUpdate_Achievements": "2023-10-10T06:04:59.911858+00:00"
 }

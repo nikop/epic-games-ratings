@@ -6,27 +6,27 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~5,260 |
-| Overkill | 34.00% | ~4,064 |
-| A normal day in Gloomhaven | 34.00% | ~4,064 |
-| Vaccine Incoming | 33.00% | ~3,945 |
-| Spread the plague | 31.00% | ~3,706 |
-| Get over here! | 23.00% | ~2,749 |
-| Just when I thought I was out... | 19.00% | ~2,271 |
-| Mine... All Mine... | 17.00% | ~2,032 |
-| Precious! | 15.00% | ~1,793 |
-| Light of my life | 15.00% | ~1,793 |
-| Anatomy Lesson | 15.00% | ~1,793 |
-| You activated my trap card! | 13.00% | ~1,554 |
-| Augmented rat | 13.00% | ~1,554 |
-| Obstacle race | 13.00% | ~1,554 |
-| Grizzled veteran | 12.00% | ~1,434 |
-| Doom and gloom | 12.00% | ~1,434 |
-| Who's the Boss? | 8.00% | ~956 |
-| Pack leader | 8.00% | ~956 |
-| Pain is your friend | 8.00% | ~956 |
-| Black death | 8.00% | ~956 |
-| Play it again, Sam | 8.00% | ~956 |
+| I'm not dead yet | 44.00% | ~5,262 |
+| Overkill | 34.00% | ~4,066 |
+| A normal day in Gloomhaven | 34.00% | ~4,066 |
+| Vaccine Incoming | 33.00% | ~3,946 |
+| Spread the plague | 31.00% | ~3,707 |
+| Get over here! | 23.00% | ~2,750 |
+| Just when I thought I was out... | 19.00% | ~2,272 |
+| Mine... All Mine... | 17.00% | ~2,033 |
+| Precious! | 15.00% | ~1,794 |
+| Light of my life | 15.00% | ~1,794 |
+| Anatomy Lesson | 15.00% | ~1,794 |
+| You activated my trap card! | 13.00% | ~1,555 |
+| Augmented rat | 13.00% | ~1,555 |
+| Obstacle race | 13.00% | ~1,555 |
+| Grizzled veteran | 12.00% | ~1,435 |
+| Doom and gloom | 12.00% | ~1,435 |
+| Who's the Boss? | 8.00% | ~957 |
+| Pack leader | 8.00% | ~957 |
+| Pain is your friend | 8.00% | ~957 |
+| Black death | 8.00% | ~957 |
+| Play it again, Sam | 8.00% | ~957 |
 | Dungeon Veteran | 7.00% | ~837 |
 | Quad damage | 6.00% | ~717 |
 | The Pro from Dover | 5.00% | ~598 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~12 |
 | Murder Death Kill | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,954 (Ranked 141)  
+Progressed: 11,958 (Ranked 141)  
 Completed: 1 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.01%) (Ranked 292)
 | 2023-10-07 | 11,229 | 1 |
 | 2023-10-08 | 11,624 | 1 |
 | 2023-10-09 | 11,901 | 1 |
-| 2023-10-10 | 11,954 | 1 |
+| 2023-10-10 | 11,958 | 1 |
 ## Awards
 Max (Character Customization): 3,548  (Ranked 90)  
 Sum: 8,273 (Ranked 98)  
