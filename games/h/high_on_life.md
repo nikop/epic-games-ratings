@@ -25,9 +25,9 @@ Rating: 4.64 (Ranked 318)
 | Spent 15 Hours At The Alien Strip Club | 0.40% | ~97 |
 | Series Wrap on Suit-O | 0.40% | ~97 |
 | Eatin' Good in the Neighborhood | 0.30% | ~73 |
+| Eye Scream, You Scream | 0.30% | ~73 |
 | Fallout Doesn't Let You Do This | 0.30% | ~73 |
 | We Came, We Chainsaw, We Conquered | 0.30% | ~4 |
-| Eye Scream, You Scream | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
 | Mux Ado About Shipping | 0.20% | ~3 |
 | Fall In Love With A Parasite | 0.20% | ~3 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,170 (Ranked 119)  
+Progressed: 24,171 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 13 (0.05%) (Ranked 267)
 | 2023-10-07 | 24,141 | 13 |
 | 2023-10-08 | 24,152 | 13 |
 | 2023-10-09 | 24,168 | 13 |
-| 2023-10-10 | 24,170 | 13 |
+| 2023-10-10 | 24,171 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -673,7 +673,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 347099,
+  "EOS_Progressed": 347101,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 0,
@@ -20098,6 +20098,11 @@
       "Time": "2023-10-10T01:48:38.5279741+00:00",
       "NumProgressed": 347099,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T02:21:17.7141168+00:00",
+      "NumProgressed": 347101,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -20725,7 +20730,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ach080",
@@ -20748,7 +20753,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 347099,
+      "Progressed": 347101,
       "Completed": 7
     }
   ],
@@ -20756,8 +20761,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-06T22:57:01.637596+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:48:38.527953+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:21:17.7141163+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:17.3375259+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:41:09.8648919+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:48:38.5282537+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:21.460802+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:21:17.7243899+00:00"
 }

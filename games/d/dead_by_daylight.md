@@ -16,12 +16,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Survival Treasures | 0.80% | ~7,441 |
 | No one left behind | 0.70% | ~6,511 |
 | Medic | 0.70% | ~6,511 |
+| Nerves of steel | 0.70% | ~6,511 |
 | Sorted | 0.70% | ~6,511 |
 | Resurgence | 0.70% | ~6,511 |
 | The Grand Sacrifice | 0.60% | ~5,581 |
 | Agonizing Escape | 0.60% | ~5,581 |
 | Backdoor Escape | 0.60% | ~5,581 |
-| Nerves of steel | 0.60% | ~5,581 |
 | Perfect Escape | 0.60% | ~5,581 |
 | Bloody Millionaire | 0.60% | ~5,581 |
 | I | 0.60% | ~5,581 |
@@ -29,11 +29,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Healthy Obsession | 0.60% | ~5,581 |
 | Preemptive Strike | 0.60% | ~5,581 |
 | Humanitarian | 0.60% | ~5,581 |
-| I've got your back | 0.50% | ~4,650 |
-| Perfect Killing | 0.50% | ~4,650 |
-| Risk it all | 0.50% | ~4,650 |
-| Wounded Healer | 0.50% | ~4,650 |
-| Close Shave | 0.50% | ~4,650 |
+| I've got your back | 0.50% | ~4,651 |
+| Perfect Killing | 0.50% | ~4,651 |
+| Risk it all | 0.50% | ~4,651 |
+| Wounded Healer | 0.50% | ~4,651 |
+| Close Shave | 0.50% | ~4,651 |
 | Apt Killer | 0.40% | ~3,720 |
 | Vulture | 0.40% | ~3,720 |
 | II | 0.40% | ~3,720 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,096 (Ranked 14)  
+Progressed: 930,124 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,096 | 49 |
+| 2023-10-10 | 930,124 | 49 |
 ## Awards
 Max (Diverse Characters): 33,640  (Ranked 15)  
 Sum: 260,754 (Ranked 13)  

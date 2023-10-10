@@ -608,9 +608,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 672312,
+  "EOS_Progressed": 672318,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 3044,
+  "EOS_NewPlayers": 3039,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20118,6 +20118,11 @@
       "Time": "2023-10-10T01:49:42.9411094+00:00",
       "NumProgressed": 672312,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-10T02:22:02.8996906+00:00",
+      "NumProgressed": 672318,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 52,
@@ -20137,7 +20142,7 @@
       "Name": "100 KILLS",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 201694
+      "UsersEstimate": 201695
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -20145,7 +20150,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 114293
+      "UsersEstimate": 114294
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -20153,7 +20158,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 188247
+      "UsersEstimate": 188249
     },
     {
       "ID": "BIGUPS",
@@ -20193,7 +20198,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 174801
+      "UsersEstimate": 174803
     },
     {
       "ID": "CHAPTER2",
@@ -20201,7 +20206,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 127739
+      "UsersEstimate": 127740
     },
     {
       "ID": "CHAPTER3",
@@ -20209,7 +20214,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 107570
+      "UsersEstimate": 107571
     },
     {
       "ID": "CHAPTER4",
@@ -20217,7 +20222,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 94124
+      "UsersEstimate": 94125
     },
     {
       "ID": "CHAPTER5",
@@ -20225,7 +20230,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 73954
+      "UsersEstimate": 73955
     },
     {
       "ID": "CHAPTER6",
@@ -20233,7 +20238,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67231
+      "UsersEstimate": 67232
     },
     {
       "ID": "CHURCH",
@@ -20257,7 +20262,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 67231
+      "UsersEstimate": 67232
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -20265,7 +20270,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26892
+      "UsersEstimate": 26893
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -20281,7 +20286,7 @@
       "Name": "FIREFIGHT LEVEL 30",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "FIREFIGHT40 LEVEL (0-40)",
@@ -20505,7 +20510,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 181524
+      "UsersEstimate": 181526
     },
     {
       "ID": "SOUL",
@@ -20544,7 +20549,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 672312,
+      "Progressed": 672318,
       "Completed": 72
     }
   ],
@@ -20552,8 +20557,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-10T01:42:03.7631975+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:49:42.9411087+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:22:02.8996901+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:47.1373293+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:42:03.7631981+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:49:42.941271+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:56.6486634+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:22:02.8998464+00:00"
 }

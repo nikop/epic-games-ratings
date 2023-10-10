@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.03,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1536,6 +1536,11 @@
       "Time": "2023-10-09T06:06:03.927854+00:00",
       "NumProgressed": 329,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-10T02:21:56.0506187+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 6,
@@ -1545,9 +1550,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 197
+      "UsersEstimate": 195
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1555,7 +1560,7 @@
       "Name": "File-cutter",
       "Percentage": 63,
       "XP": 165,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1579,7 +1584,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1594,14 +1599,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:49:33.2167062+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:21:56.050618+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.7662144+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:39:45.1858583+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:49:33.2167391+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:13:26.1383028+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:21:56.0506352+00:00"
 }

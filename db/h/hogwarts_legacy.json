@@ -8760,7 +8760,7 @@
       "Count": 698
     }
   ],
-  "EOS_Progressed": 298122,
+  "EOS_Progressed": 298123,
   "EOS_Completed": 483,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 4,
@@ -27330,6 +27330,11 @@
       "Time": "2023-10-10T01:51:07.1021245+00:00",
       "NumProgressed": 298122,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-10T02:23:01.2453758+00:00",
+      "NumProgressed": 298123,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27365,7 +27370,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "PFA_13",
@@ -27397,7 +27402,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "PFA_17",
@@ -27469,7 +27474,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "PFA_25",
@@ -27525,7 +27530,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "PFA_31",
@@ -27597,7 +27602,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32793
+      "UsersEstimate": 32794
     },
     {
       "ID": "PFA_4",
@@ -27700,7 +27705,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298122,
+      "Progressed": 298123,
       "Completed": 483
     }
   ],
@@ -27708,8 +27713,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-09T20:58:20.727574+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:51:07.102124+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:23:01.2453753+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:41:13.4402499+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:51:07.1022872+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:23.6532673+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:23:01.2455187+00:00"
 }

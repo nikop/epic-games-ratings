@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~721,455 |
-| The Blues | 85.00% | ~619,431 |
+| Out of bed | 99.00% | ~721,456 |
+| The Blues | 85.00% | ~619,432 |
 | Fast | 66.00% | ~480,970 |
-| Healthbar | 55.00% | ~400,808 |
-| Force Cube | 53.00% | ~386,233 |
-| Double Jump | 48.00% | ~349,796 |
+| Healthbar | 55.00% | ~400,809 |
+| Force Cube | 53.00% | ~386,234 |
+| Double Jump | 48.00% | ~349,797 |
 | Regeneration | 47.00% | ~342,509 |
 | Triple Jump | 43.00% | ~313,359 |
 | Climb the hill | 42.00% | ~306,072 |
-| Through the fire pipe | 39.00% | ~284,209 |
+| Through the fire pipe | 39.00% | ~284,210 |
 | MacGuffin | 38.00% | ~276,922 |
 | Just once | 37.00% | ~269,635 |
 | Armor | 30.00% | ~218,623 |
 | True holy spirit | 28.00% | ~204,048 |
-| That's how electronics work obviously | 27.00% | ~196,760 |
+| That's how electronics work obviously | 27.00% | ~196,761 |
 | Force Cube Catapult | 25.00% | ~182,186 |
 | Holy Sword | 23.00% | ~167,611 |
 | Telefrag | 23.00% | ~167,611 |
@@ -32,11 +32,11 @@ Number of Ratings: 25,175  (23.09.2022)
 | Rattle Hag | 16.00% | ~116,599 |
 | All Shells | 15.00% | ~109,311 |
 | Beam | 14.00% | ~102,024 |
-| Health Drink | 13.00% | ~94,736 |
-| Helped a star | 13.00% | ~94,736 |
-| 9 | 13.00% | ~94,736 |
-| Purple Cube | 13.00% | ~94,736 |
-| Supraball Noob | 13.00% | ~94,736 |
+| Health Drink | 13.00% | ~94,737 |
+| Helped a star | 13.00% | ~94,737 |
+| 9 | 13.00% | ~94,737 |
+| Purple Cube | 13.00% | ~94,737 |
+| Supraball Noob | 13.00% | ~94,737 |
 | Strong | 12.00% | ~87,449 |
 | Blue King's lair | 11.00% | ~80,162 |
 | Payback | 11.00% | ~80,162 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~729 |
 | DLC: Top of the world | 0.10% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,742 (Ranked 19)  
+Progressed: 728,743 (Ranked 19)  
 Completed: 745 (0.10%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 745 (0.10%) (Ranked 244)
 | 2023-10-07 | 728,508 | 744 |
 | 2023-10-08 | 728,636 | 745 |
 | 2023-10-09 | 728,732 | 745 |
-| 2023-10-10 | 728,742 | 745 |
+| 2023-10-10 | 728,743 | 745 |
 ## Awards
 Max (Challenging Puzzles): 7,694  (Ranked 47)  
 Sum: 10,032 (Ranked 89)  

@@ -64,7 +64,7 @@ Rating: 4.28 (Ranked 828)
 | Boots in the Ground | 0.80% | ~2,777 |
 | Getting Fancy | 0.80% | ~2,777 |
 | Crossing Over | 0.80% | ~2,777 |
-| Social Butterfly | 0.50% | ~1,735 |
+| Social Butterfly | 0.50% | ~1,736 |
 | Homemade Hooch | 0.40% | ~1,388 |
 | Still Dreaming | 0.40% | ~1,388 |
 | High End Booze | 0.40% | ~1,388 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 828)
 | High Pillow | 0.10% | ~347 |
 | Station Master | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,099 (Ranked 43)  
+Progressed: 347,101 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 7 (0.00%) (Ranked 310)
 | 2023-10-07 | 346,774 | 7 |
 | 2023-10-08 | 346,961 | 7 |
 | 2023-10-09 | 347,086 | 7 |
-| 2023-10-10 | 347,099 | 7 |
+| 2023-10-10 | 347,101 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 443)  
 Sum: 176 (Ranked 393)  

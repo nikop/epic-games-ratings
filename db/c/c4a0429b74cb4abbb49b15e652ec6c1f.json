@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1771,6 +1771,11 @@
       "Time": "2023-10-09T19:09:18.7149096+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T02:25:03.6692254+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1934,14 +1939,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:51:39.9163493+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:25:03.6692249+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:28.6631125+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:40:59.0302352+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:51:39.9163975+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:14.2805269+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:25:03.6692482+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~502 |
-| Off to a good start | 67.00% | ~374 |
+| New Recruit | 90.00% | ~503 |
+| Off to a good start | 67.00% | ~375 |
 | Do... or do not. There is no try | 53.00% | ~296 |
-| A good blaster at your side | 35.00% | ~195 |
+| A good blaster at your side | 35.00% | ~196 |
 | Scrap collector | 21.00% | ~117 |
 | I suggest a new strategy | 20.00% | ~112 |
-| Great shot, kid! | 20.00% | ~112 |
-| All right, I'll give it a try | 18.00% | ~100 |
-| Shoot first | 18.00% | ~100 |
+| Great shot, kid! | 19.00% | ~106 |
+| All right, I'll give it a try | 18.00% | ~101 |
+| Shoot first | 18.00% | ~101 |
 | The power of the Force | 17.00% | ~95 |
 | Together we can rule the galaxy | 17.00% | ~95 |
 | Collector | 16.00% | ~89 |
@@ -28,8 +28,8 @@
 | Distinguished | 8.00% | ~45 |
 | A tremor in the Force | 8.00% | ~45 |
 | Support the troops | 8.00% | ~45 |
-| Not bad for a little furball | 6.00% | ~33 |
-| Patience you must have | 6.00% | ~33 |
+| Not bad for a little furball | 6.00% | ~34 |
+| Patience you must have | 6.00% | ~34 |
 | On the ball | 5.00% | ~28 |
 | Safety ain't the point of a joyride | 5.00% | ~28 |
 | Don't underestimate the Force | 5.00% | ~28 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.40% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558 (Ranked 264)  
+Progressed: 559 (Ranked 264)  
 Completed: 1 (0.18%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 1 (0.18%) (Ranked 222)
 | 2023-10-07 | 497 | 1 |
 | 2023-10-08 | 538 | 1 |
 | 2023-10-09 | 558 | 1 |
+| 2023-10-10 | 559 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

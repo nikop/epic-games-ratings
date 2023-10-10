@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67464,
+  "EOS_Progressed": 67465,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17464,6 +17464,11 @@
       "Time": "2023-10-10T01:50:42.3578868+00:00",
       "NumProgressed": 67464,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T02:22:44.1642182+00:00",
+      "NumProgressed": 67465,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17483,7 +17488,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18215
+      "UsersEstimate": 18216
     },
     {
       "ID": "03",
@@ -17611,7 +17616,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "19",
@@ -17747,7 +17752,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23612
+      "UsersEstimate": 23613
     },
     {
       "ID": "36",
@@ -18010,21 +18015,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67464,
+      "Progressed": 67465,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30932,
+      "Progressed": 30933,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:50:42.3578862+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:22:44.1642177+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:41:23.7760555+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:50:42.3581923+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:30.4914709+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:22:44.1643867+00:00"
 }

@@ -78,9 +78,9 @@
 | A House Divided | 25.00% | ~158 |
 | Eye of the Hurricane | 24.00% | ~152 |
 | Weapon Specialist | 24.00% | ~152 |
+| World Shaker | 24.00% | ~152 |
 | Liberator | 24.00% | ~152 |
 | Giant Killer | 23.00% | ~146 |
-| World Shaker | 23.00% | ~146 |
 | Tunnel Rat | 22.00% | ~139 |
 | Paramour II | 21.00% | ~133 |
 | Pathfinder | 21.00% | ~133 |

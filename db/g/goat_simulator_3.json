@@ -4300,9 +4300,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 246945,
+  "EOS_Progressed": 246946,
   "EOS_Completed": 853,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -23085,6 +23085,11 @@
       "Time": "2023-10-10T01:45:38.8048526+00:00",
       "NumProgressed": 246945,
       "NumCompleted": 853
+    },
+    {
+      "Time": "2023-10-10T02:19:34.0531332+00:00",
+      "NumProgressed": 246946,
+      "NumCompleted": 853
     }
   ],
   "TotalAchievements": 39,
@@ -23112,7 +23117,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 29633
+      "UsersEstimate": 29634
     },
     {
       "ID": "AchievementBaywatchID",
@@ -23160,7 +23165,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 224720
+      "UsersEstimate": 224721
     },
     {
       "ID": "AchievementClownID",
@@ -23256,7 +23261,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111125
+      "UsersEstimate": 111126
     },
     {
       "ID": "AchievementIntroID",
@@ -23328,7 +23333,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 182739
+      "UsersEstimate": 182740
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -23344,7 +23349,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 123472
+      "UsersEstimate": 123473
     },
     {
       "ID": "AchievementStreakingID",
@@ -23376,7 +23381,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116064
+      "UsersEstimate": 116065
     },
     {
       "ID": "AchievementTrinketID",
@@ -23392,7 +23397,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 160514
+      "UsersEstimate": 160515
     },
     {
       "ID": "AchievementWhaleID",
@@ -23407,7 +23412,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 246945,
+      "Progressed": 246946,
       "Completed": 853
     }
   ],
@@ -23415,8 +23420,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-09T20:57:29.814853+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:45:38.8048521+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:19:34.0531328+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.6967783+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:40:01.7156814+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:45:38.8050861+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:13:36.7823671+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:19:34.0532535+00:00"
 }

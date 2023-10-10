@@ -1026,9 +1026,9 @@
       "Count": 174
     }
   ],
-  "EOS_Progressed": 7307,
+  "EOS_Progressed": 7308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3566,6 +3566,11 @@
       "Time": "2023-10-10T01:49:02.5469042+00:00",
       "NumProgressed": 7307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T02:21:34.9213924+00:00",
+      "NumProgressed": 7308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3578,7 +3583,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "ach02",
@@ -3586,7 +3591,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "ach03",
@@ -3618,7 +3623,7 @@
       "Name": "Titan",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5334
+      "UsersEstimate": 5335
     },
     {
       "ID": "ach07",
@@ -3658,7 +3663,7 @@
       "Name": "Karnage",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ach12",
@@ -3714,7 +3719,7 @@
       "Name": "Adventure Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "ach19",
@@ -3762,7 +3767,7 @@
       "Name": "Ultimate Power",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "ach25",
@@ -3770,7 +3775,7 @@
       "Name": "Talis-Mania",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "ach26",
@@ -3794,7 +3799,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "ach29",
@@ -3912,9 +3917,9 @@
       "ID": "ach43",
       "SetID": "47in8n6",
       "Name": "Working Overtime",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3142
     },
     {
       "ID": "ach44",
@@ -3977,7 +3982,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7307,
+      "Progressed": 7308,
       "Completed": 0
     }
   ],
@@ -3985,8 +3990,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-10T00:02:20.6066369+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:49:02.5469035+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:21:34.9213918+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-10T00:02:20.6066374+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:49:02.5469728+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:13:11.5088203+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:21:34.9214492+00:00"
 }

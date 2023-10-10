@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3902,9 +3902,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11499,
+  "EOS_Progressed": 11500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13392,6 +13392,11 @@
       "Time": "2023-10-10T01:51:26.1119917+00:00",
       "NumProgressed": 11499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T02:24:14.3443357+00:00",
+      "NumProgressed": 11500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13515,7 +13520,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "16_PathOfLegend",
@@ -13547,7 +13552,7 @@
       "Name": "Equal to Aroden",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "20_SpiritOfAdventures",
@@ -13555,7 +13560,7 @@
       "Name": "Spirit of Adventure",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "21_TestOfStarstone",
@@ -13563,7 +13568,7 @@
       "Name": "Test of the Starstone",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "22_MasterfulCraftsmanship",
@@ -13571,7 +13576,7 @@
       "Name": "Masterful Craftsmanship",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "23_MasterfulCharge",
@@ -13691,7 +13696,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "39_Blight of Drezen",
@@ -13707,7 +13712,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "41_PlayfulMood",
@@ -13811,7 +13816,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "54_DeathByColumn",
@@ -14330,21 +14335,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10281,
+      "Progressed": 10282,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11499,
+      "Progressed": 11500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-09T19:59:03.7061495+00:00",
-  "LastChanged_Achievements": "2023-10-10T01:51:26.1119911+00:00",
+  "LastChanged_Achievements": "2023-10-10T02:24:14.3443351+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-10T01:41:22.0805429+00:00",
-  "LastUpdate_Achievements": "2023-10-10T01:51:26.1122345+00:00"
+  "LastUpdate_Ratings": "2023-10-10T02:14:29.2481937+00:00",
+  "LastUpdate_Achievements": "2023-10-10T02:24:14.3445591+00:00"
 }
