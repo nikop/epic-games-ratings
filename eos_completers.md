@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.75% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.70% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -9,9 +9,9 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.14% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.46% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.09% |
-| 11 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 11 | [Overloop](games/o/overloop.md) | 25.00% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
+| 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
@@ -39,10 +39,10 @@
 | 37 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 38 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 39 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
-| 40 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
-| 41 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
-| 42 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
-| 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
+| 41 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
+| 42 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 42 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 7.69% |
 | 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 46 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
@@ -71,9 +71,9 @@
 | 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.07% |
 | 70 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
 | 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -183,8 +183,8 @@
 | 175 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 182 | [Dead Space](games/d/dead_space.md) | 0.44% |
 | 182 | [Tchia](games/t/tchia.md) | 0.44% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 184 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 186 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 188 | [Train Valley](games/t/train_valley.md) | 0.39% |

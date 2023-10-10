@@ -420,6 +420,7 @@
 | [Mega City Police](../games/m/mega_city_police.md) | 27 | 1,050 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |
+| [RoboCop: Rogue City](../games/r/robocop__rogue_city.md) | 27 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
 | [Children of Silentown](../games/c/children_of_silentown.md) | 26 | 1,000 |

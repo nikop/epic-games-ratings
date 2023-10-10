@@ -503,6 +503,7 @@
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |
 | [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
+| [RoboCop: Rogue City](../games/r/robocop__rogue_city.md) | 27 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
