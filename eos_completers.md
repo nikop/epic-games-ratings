@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.56% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.51% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -68,8 +68,8 @@
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
-| 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
+| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
+| 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
 | 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -110,8 +110,8 @@
 | 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.13% |
 | 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
-| 111 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.87% |
-| 112 | [Night Book](games/n/night_book.md) | 1.86% |
+| 111 | [Night Book](games/n/night_book.md) | 1.86% |
+| 112 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 114 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
 | 115 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
@@ -136,10 +136,10 @@
 | 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.22% |
 | 135 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 136 | [Trifox](games/t/trifox.md) | 1.09% |
-| 137 | [Infindustry](games/i/infindustry.md) | 1.06% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
 | 137 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
-| 140 | [Adios](games/a/adios.md) | 1.05% |
+| 138 | [Adios](games/a/adios.md) | 1.05% |
+| 138 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 141 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 142 | [Sable](games/s/sable.md) | 1.00% |
 | 143 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
@@ -183,8 +183,8 @@
 | 175 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 182 | [Dead Space](games/d/dead_space.md) | 0.44% |
 | 182 | [Tchia](games/t/tchia.md) | 0.44% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 184 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
-| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 186 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 188 | [Train Valley](games/t/train_valley.md) | 0.39% |
@@ -233,11 +233,11 @@
 | 229 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 232 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 233 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 233 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.14% |
-| 235 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 235 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 235 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 235 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.13% |
+| 234 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 234 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 234 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
+| 234 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.13% |
 | 239 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 239 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 239 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
@@ -654,6 +654,7 @@
 | 312 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
 | 312 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 312 | [World of Warships](games/w/world_of_warships.md) | 0.00% |
+| 312 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 0.00% |
 | 312 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 312 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 0.00% |
 | 312 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
