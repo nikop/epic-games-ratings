@@ -3,7 +3,7 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -255,9 +255,9 @@
       "ID": "ACH_ALL_DEAD",
       "SetID": "ca3jj1k",
       "Name": "All Dead, All Dead",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -367,9 +367,9 @@
       "ID": "ACH_THE_MIRACLE",
       "SetID": "ca3jj1k",
       "Name": "The Miracle",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -392,8 +392,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:06:05.3166025+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:11:19.8006522+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:14.8626828+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:59:13.8732318+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:06:05.3166192+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:47.80235+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:11:19.8006689+00:00"
 }

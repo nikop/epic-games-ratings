@@ -5,9 +5,9 @@
   "Ranking_Rating": 243,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
-  "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -12330,10 +12330,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1406466,
       "NumberOfAwardsMax": 309488
+    },
+    {
+      "Time": "2023-10-10T13:04:04.5473552+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1406494,
+      "NumberOfAwardsMax": 309488
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1406466,
+  "NumberOfAwards": 1406494,
   "NumberOfAwardsMax": 309488,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12389,7 +12395,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 112206
+      "Count": 112234
     },
     {
       "Text": "This game is Relaxing",
@@ -12415,8 +12421,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-10-10T08:57:47.4604082+00:00",
+  "LastChanged": "2023-10-10T13:04:04.547355+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.8193958+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:58:24.8140675+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:05:13.6281937+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:04.5473557+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:10:35.0256779+00:00"
 }

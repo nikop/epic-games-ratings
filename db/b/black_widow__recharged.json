@@ -6,7 +6,7 @@
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18715,
+  "EOS_Progressed": 18716,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14157,6 +14157,11 @@
       "Time": "2023-10-10T11:03:33.041201+00:00",
       "NumProgressed": 18715,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-10T13:09:16.2551371+00:00",
+      "NumProgressed": 18716,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -14208,7 +14213,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -14279,15 +14284,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18715,
+      "Progressed": 18716,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:03:31.3438149+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:09:16.2551366+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:57:18.073514+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:03:31.3449905+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:03:05.5472548+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:09:16.2552662+00:00"
 }

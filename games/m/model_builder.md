@@ -1,7 +1,7 @@
 # Model Builder
 [Store](https://store.epicgames.com/en-US/p/model-builder-f9b456)  
 [View Rawdata](../../db/m/model_builder.json)  
-Rating: 4.10 (Ranked 930)  
+Rating: 4.11 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -76,8 +76,8 @@ Rating: 4.10 (Ranked 930)
 | The Model Builder | 0.00% | ~0 |
 | Powerup! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 606)  
-Completed: 0 (0.00%) (Ranked 311)  
+Progressed: 1 (Ranked 607)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 311)
 | 2023-10-07 | 4.15 | 0 | 0 |
 | 2023-10-08 | 4.12 | 0 | 0 |
 | 2023-10-09 | 4.11 | 0 | 0 |
+| 2023-10-10 | 4.11 | 0 | 0 |

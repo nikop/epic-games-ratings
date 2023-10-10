@@ -18,8 +18,8 @@ Rating: 4.73 (Ranked 163)
 | Buccaneer | 25.00% | ~179 |
 | Fishy Fish | 22.00% | ~158 |
 | All Good Things | 20.00% | ~143 |
+| Persistent Parasite | 19.00% | ~136 |
 | Seadog | 18.00% | ~129 |
-| Persistent Parasite | 18.00% | ~129 |
 | Jaded Judge | 13.00% | ~93 |
 | Privateer | 12.00% | ~86 |
 | Rustic Recipe | 12.00% | ~86 |
@@ -33,7 +33,7 @@ Rating: 4.73 (Ranked 163)
 | Welcome Back Jester | 4.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 717 (Ranked 251)  
-Completed: 22 (3.07%) (Ranked 88)  
+Completed: 22 (3.07%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

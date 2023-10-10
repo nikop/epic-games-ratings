@@ -6,43 +6,43 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~295,327 |
-| Full garage | 60.00% | ~242,734 |
-| To the eyeballs! | 51.00% | ~206,324 |
-| Individual delivery | 46.00% | ~186,096 |
-| Non-Stop | 44.00% | ~178,005 |
-| Juggler | 36.00% | ~145,641 |
-| Forgot something | 35.00% | ~141,595 |
-| Close call! | 30.00% | ~121,367 |
-| Get out my way | 28.00% | ~113,276 |
-| Common cause | 26.00% | ~105,185 |
-| Critical care | 26.00% | ~105,185 |
-| Mega-railroad | 23.00% | ~93,048 |
-| Upgrade complete | 23.00% | ~93,048 |
-| Just in time! | 18.00% | ~72,820 |
-| Builder | 17.00% | ~68,775 |
-| Long Haul | 17.00% | ~68,663 |
-| Steam Age | 16.00% | ~64,729 |
-| Bridgemania | 14.00% | ~56,638 |
-| Multilevel road | 14.00% | ~56,638 |
-| Need to think | 14.00% | ~56,638 |
-| The Tortoise | 12.00% | ~48,547 |
-| Without a lunch break | 11.00% | ~44,501 |
-| Beginner | 10.00% | ~40,456 |
-| One way | 10.00% | ~40,456 |
-| Relocation | 10.00% | ~40,456 |
-| Industrial Age | 9.00% | ~36,410 |
-| Just One More Valley | 9.00% | ~36,351 |
-| Prick of conscience | 8.00% | ~32,365 |
-| Missed it! | 7.00% | ~28,319 |
-| At the last moment! | 6.00% | ~24,273 |
-| Overseer | 6.00% | ~24,273 |
-| Jewelry accuracy | 5.00% | ~20,228 |
-| Stargazer | 5.00% | ~20,228 |
-| Bridge builder | 4.00% | ~16,182 |
-| Electrical Age | 4.00% | ~16,182 |
-| Highlander | 4.00% | ~16,182 |
-| Large construction | 4.00% | ~16,182 |
+| Dealmaker | 73.00% | ~295,339 |
+| Full garage | 60.00% | ~242,744 |
+| To the eyeballs! | 51.00% | ~206,333 |
+| Individual delivery | 46.00% | ~186,104 |
+| Non-Stop | 44.00% | ~178,013 |
+| Juggler | 36.00% | ~145,647 |
+| Forgot something | 35.00% | ~141,601 |
+| Close call! | 30.00% | ~121,372 |
+| Get out my way | 28.00% | ~113,281 |
+| Common cause | 26.00% | ~105,189 |
+| Critical care | 26.00% | ~105,189 |
+| Mega-railroad | 23.00% | ~93,052 |
+| Upgrade complete | 23.00% | ~93,052 |
+| Just in time! | 18.00% | ~72,823 |
+| Builder | 17.00% | ~68,778 |
+| Long Haul | 17.00% | ~68,666 |
+| Steam Age | 16.00% | ~64,732 |
+| Bridgemania | 14.00% | ~56,640 |
+| Multilevel road | 14.00% | ~56,640 |
+| Need to think | 14.00% | ~56,640 |
+| The Tortoise | 12.00% | ~48,549 |
+| Without a lunch break | 11.00% | ~44,503 |
+| Beginner | 10.00% | ~40,457 |
+| One way | 10.00% | ~40,457 |
+| Relocation | 10.00% | ~40,457 |
+| Industrial Age | 9.00% | ~36,412 |
+| Just One More Valley | 9.00% | ~36,352 |
+| Prick of conscience | 8.00% | ~32,366 |
+| Missed it! | 7.00% | ~28,320 |
+| At the last moment! | 6.00% | ~24,274 |
+| Overseer | 6.00% | ~24,274 |
+| Jewelry accuracy | 5.00% | ~20,229 |
+| Stargazer | 5.00% | ~20,229 |
+| Bridge builder | 4.00% | ~16,183 |
+| Electrical Age | 4.00% | ~16,183 |
+| Highlander | 4.00% | ~16,183 |
+| Large construction | 4.00% | ~16,183 |
 | Engineer | 3.00% | ~12,137 |
 | Living it large | 3.00% | ~12,137 |
 | Sabotage | 3.00% | ~12,137 |
@@ -96,8 +96,8 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~404 |
 | World Zapper | 0.10% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,557 (Ranked 42)  
-Completed: 19 (0.00%) (Ranked 311)  
+Progressed: 404,574 (Ranked 42)  
+Completed: 19 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,14 +231,14 @@ Completed: 19 (0.00%) (Ranked 311)
 | 2023-10-07 | 403,539 | 19 |
 | 2023-10-08 | 404,042 | 19 |
 | 2023-10-09 | 404,414 | 19 |
-| 2023-10-10 | 404,557 | 19 |
+| 2023-10-10 | 404,574 | 19 |
 ## Awards
-Max (Challenging Puzzles): 741  (Ranked 170)  
-Sum: 1,503 (Ranked 226)  
+Max (Challenging Puzzles): 744  (Ranked 170)  
+Sum: 1,506 (Ranked 226)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 741 |
+| This game features Challenging Puzzles | 744 |
 | This game is Great for Beginners | 124 |
 | This game has Quickly Understood Controls | 89 |
 | This game has Playful Visuals | 86 |
@@ -392,4 +392,4 @@ Diff (max vs sum): -56
 | 2023-10-07 | 4.44 | - | 731 | 1,476 |
 | 2023-10-08 | 4.44 | - | 735 | 1,487 |
 | 2023-10-09 | 4.44 | - | 741 | 1,496 |
-| 2023-10-10 | 4.44 | - | 741 | 1,503 |
+| 2023-10-10 | 4.44 | - | 744 | 1,506 |

@@ -23,8 +23,8 @@ Number of Ratings: 180  (23.09.2022)
 | Sculpturer | 50.00% | ~862 |
 | Settled down | 49.00% | ~845 |
 | First electric train arrived | 47.00% | ~811 |
+| First ship arrived | 46.00% | ~794 |
 | Now what? | 46.00% | ~794 |
-| First ship arrived | 45.00% | ~776 |
 | High speed | 43.00% | ~742 |
 | Exemplary student | 42.00% | ~724 |
 | Transport shark | 41.00% | ~707 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,725 (Ranked 209)  
-Completed: 1 (0.06%) (Ranked 263)  
+Completed: 1 (0.06%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

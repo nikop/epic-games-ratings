@@ -6,8 +6,8 @@
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18319,
+  "EOS_Progressed": 18320,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11341,6 +11341,11 @@
       "Time": "2023-10-09T22:04:55.0250423+00:00",
       "NumProgressed": 18319,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-10T13:11:54.1528338+00:00",
+      "NumProgressed": 18320,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11408,7 +11413,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "0009",
@@ -11480,7 +11485,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "0018",
@@ -11568,7 +11573,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "0029",
@@ -11576,7 +11581,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "0030",
@@ -11584,7 +11589,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "0031",
@@ -11639,7 +11644,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18319,
+      "Progressed": 18320,
       "Completed": 4
     }
   ],
@@ -11647,8 +11652,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:06:44.6800555+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:11:54.1528334+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:02:19.1365037+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:06:44.6801963+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:07:25.394667+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:11:54.1529318+00:00"
 }

@@ -78,9 +78,9 @@
 | A House Divided | 25.00% | ~159 |
 | Eye of the Hurricane | 24.00% | ~153 |
 | Weapon Specialist | 24.00% | ~153 |
+| World Shaker | 24.00% | ~153 |
 | Liberator | 24.00% | ~153 |
 | Giant Killer | 23.00% | ~147 |
-| World Shaker | 23.00% | ~147 |
 | Tunnel Rat | 22.00% | ~140 |
 | Savior | 21.00% | ~134 |
 | Paramour II | 21.00% | ~134 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 637 (Ranked 258)  
-Completed: 0 (0.00%) (Ranked 311)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

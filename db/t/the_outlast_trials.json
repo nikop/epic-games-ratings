@@ -4,10 +4,10 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 297,
   "Ranking_Popularity": 326,
-  "Ranking_PopularitySum": 268,
-  "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_PopularitySum": 259,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -2260,10 +2260,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 829,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-10-10T13:03:44.7897369+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 916,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 829,
+  "NumberOfAwards": 916,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2319,7 +2325,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 85
+      "Count": 87
     },
     {
       "Text": "This game is Relaxing",
@@ -2340,8 +2346,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-10-09T23:57:22.7190288+00:00",
+  "LastChanged": "2023-10-10T13:03:44.7897366+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:25.3636804+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:58:01.8595353+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:09:16.0953921+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:03:44.7897375+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:14:04.3086097+00:00"
 }

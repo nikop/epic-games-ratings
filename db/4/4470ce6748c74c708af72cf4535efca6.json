@@ -3,8 +3,8 @@
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -528,25 +528,25 @@
       "ID": "42",
       "SetID": "5e3maia",
       "Name": "Winner",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "43",
       "SetID": "5e3maia",
       "Name": "Emperor",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "44",
       "SetID": "5e3maia",
       "Name": "Fan",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "45",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:05:44.8870322+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:11:02.1941361+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.0672584+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:58:22.1191183+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:05:44.8871606+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:02.3337578+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:11:02.1942054+00:00"
 }

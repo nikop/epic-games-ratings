@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.60% | ~87 |
 | Artisans | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
+| Apadana | 0.60% | ~87 |
 | Musaeum | 0.60% | ~87 |
 | Necropolis | 0.60% | ~87 |
 | Manichaeism | 0.60% | ~87 |
@@ -60,13 +61,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Drillmaster | 0.50% | ~73 |
+| Mighty | 0.50% | ~73 |
 | Valiant | 0.50% | ~73 |
 | Legendary Cities | 0.50% | ~73 |
 | Just Difficulty | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
-| Apadana | 0.50% | ~73 |
 | Colossus | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
 | Learn to Play 2 | 0.50% | ~73 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
-| Mighty | 0.40% | ~58 |
 | Victorious | 0.40% | ~58 |
 | Good Difficulty | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,571 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 280)  
+Progressed: 14,572 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 280)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,571 | 5 |
+| 2023-10-10 | 14,572 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 210)  

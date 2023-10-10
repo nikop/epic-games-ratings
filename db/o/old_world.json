@@ -6,7 +6,7 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14571,
+  "EOS_Progressed": 14572,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13475,6 +13475,11 @@
       "Time": "2023-10-10T11:05:35.6141564+00:00",
       "NumProgressed": 14571,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T13:11:25.522978+00:00",
+      "NumProgressed": 14572,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14044,9 +14049,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -14812,9 +14817,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -16221,21 +16226,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14571,
+      "Progressed": 14572,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14571,
+      "Progressed": 14572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:06:11.7768741+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:11:25.5229775+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:03:18.7142313+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:06:11.7788203+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:09:04.3010353+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:11:25.5242348+00:00"
 }

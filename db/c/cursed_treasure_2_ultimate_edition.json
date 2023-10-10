@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -586,9 +586,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:09:48.3558922+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:15:11.178157+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:56.4749461+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:00:30.8319694+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:09:48.3559745+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:05:58.7702568+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:15:11.1782068+00:00"
 }

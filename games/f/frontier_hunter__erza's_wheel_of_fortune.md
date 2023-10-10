@@ -51,7 +51,7 @@
 | Berserker Challenge | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 102 (Ranked 385)  
-Completed: 0 (0.00%) (Ranked 311)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

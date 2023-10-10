@@ -6,8 +6,8 @@
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -561,9 +561,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_36",
@@ -649,9 +649,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_49",
@@ -802,8 +802,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-03T16:00:12.6154231+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:07:11.0239664+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:12:16.6610293+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.0204012+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:59:21.0433197+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:07:11.0240298+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:55.4001924+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:12:16.6610723+00:00"
 }

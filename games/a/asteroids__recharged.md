@@ -8,9 +8,9 @@
 | Now I'm Here | 67.00% | ~68 |
 | The Hitman | 53.00% | ~54 |
 | Keep Yourself Alive | 49.00% | ~50 |
-| All Dead, All Dead | 39.00% | ~40 |
+| All Dead, All Dead | 40.00% | ~41 |
 | Misfire | 39.00% | ~40 |
-| The Miracle | 35.00% | ~36 |
+| The Miracle | 36.00% | ~37 |
 | The Invisible Man | 33.00% | ~34 |
 | We Will Rock You | 28.00% | ~29 |
 | Rock It | 24.00% | ~24 |
@@ -22,7 +22,7 @@
 | Good Company | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 102 (Ranked 385)  
-Completed: 1 (0.98%) (Ranked 144)  
+Completed: 1 (0.98%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

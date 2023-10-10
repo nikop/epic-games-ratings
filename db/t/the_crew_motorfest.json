@@ -3,11 +3,11 @@
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 260,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 228,
-  "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -966,11 +966,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 1425,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-10-10T13:04:39.8591895+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1443,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1425,
-  "NumberOfAwardsMax": 205,
+  "NumberOfAwards": 1443,
+  "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -983,7 +989,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 205
+      "Count": 213
     },
     {
       "Text": "This game is Extremely Fun",
@@ -995,7 +1001,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 179
+      "Count": 189
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1052,8 +1058,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-10T11:59:04.6249568+00:00",
+  "LastChanged": "2023-10-10T13:04:39.8591893+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:56.63609+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:59:04.6249577+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:03:38.2956829+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:39.8591899+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:09:22.2097704+00:00"
 }

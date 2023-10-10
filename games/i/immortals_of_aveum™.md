@@ -7,8 +7,8 @@ Rating: 4.03 (Ranked 958)
 | ---- | ---------- | ----- |
 | Battlefields Have Memories | 91.00% | ~68 |
 | Unforeseen | 89.00% | ~67 |
-| Enlisted | 87.00% | ~65 |
-| Maybe Engage a Little | 81.00% | ~61 |
+| Enlisted | 88.00% | ~66 |
+| Maybe Engage a Little | 83.00% | ~62 |
 | No More Names | 68.00% | ~51 |
 | Initiate | 63.00% | ~47 |
 | Thrada-Kul | 59.00% | ~44 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 958)
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 409)  
-Completed: 0 (0.00%) (Ranked 311)  
+Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

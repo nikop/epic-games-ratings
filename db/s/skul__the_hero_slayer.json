@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 179,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 260,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -5110,8 +5110,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-06T03:58:18.2786084+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:07:22.5686921+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:12:26.689961+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:00:48.5677655+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:07:22.5687389+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:06:13.0169777+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:12:26.6900075+00:00"
 }

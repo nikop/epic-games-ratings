@@ -11,7 +11,7 @@ Number of Ratings: 71  (23.09.2022)
 | Is she really dead? | 47.00% | ~723 |
 | Screwdriver | 45.00% | ~692 |
 | Cutepie | 42.00% | ~646 |
-| Someone was here | 41.00% | ~631 |
+| Someone was here | 42.00% | ~646 |
 | Ghost Hunters | 41.00% | ~631 |
 | Alone | 40.00% | ~615 |
 | Pack Rat | 40.00% | ~615 |
@@ -19,7 +19,7 @@ Number of Ratings: 71  (23.09.2022)
 | Spicy | 5.00% | ~77 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,538 (Ranked 215)  
-Completed: 73 (4.75%) (Ranked 62)  
+Completed: 73 (4.75%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

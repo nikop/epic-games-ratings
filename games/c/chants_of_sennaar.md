@@ -9,15 +9,15 @@
 | The Preacher's fate | 7.00% | ~19 |
 | The great escape | 7.00% | ~19 |
 | True G3M4R | 5.00% | ~14 |
+| Scholar | 5.00% | ~14 |
 | A new dawn | 5.00% | ~14 |
 | Cable guy | 4.00% | ~11 |
-| Scholar | 4.00% | ~11 |
+| A good beginning | 4.00% | ~11 |
 | The darkness | 4.00% | ~11 |
 | One last step | 4.00% | ~11 |
 | I did it | 3.00% | ~8 |
 | In this together | 3.00% | ~8 |
 | Peace walker | 3.00% | ~8 |
-| A good beginning | 3.00% | ~8 |
 | Half the way | 3.00% | ~8 |
 | Open door | 3.00% | ~8 |
 | Feels like springtime | 3.00% | ~8 |
@@ -30,8 +30,8 @@
 | A great audience | 1.00% | ~3 |
 | Fashion victim | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 319)  
-Completed: 19 (6.96%) (Ranked 48)  
+Progressed: 274 (Ranked 319)  
+Completed: 19 (6.93%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Completed: 19 (6.96%) (Ranked 48)
 | 2023-10-07 | 259 | 17 |
 | 2023-10-08 | 267 | 18 |
 | 2023-10-09 | 273 | 19 |
+| 2023-10-10 | 274 | 19 |

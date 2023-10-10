@@ -3,8 +3,8 @@
   "Name": "Geometric Sniper - Z",
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "ACHIEVEMENT_AV_06",
       "SetID": "b50kim2",
       "Name": "MISSION 06",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_AV_07",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:10:10.4314129+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:15:21.3705888+00:00",
   "LastUpdate_AppInfo": "2023-10-10T03:57:43.5730075+00:00",
-  "LastUpdate_Ratings": "2023-10-10T11:58:22.0413176+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:10:10.4314612+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:04:02.1832675+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:15:21.370634+00:00"
 }

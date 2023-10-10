@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 111,
-  "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_PopularitySum": 110,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -7079,10 +7079,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 7251,
       "NumberOfAwardsMax": 1982
+    },
+    {
+      "Time": "2023-10-10T13:09:12.2295814+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 7256,
+      "NumberOfAwardsMax": 1982
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7251,
+  "NumberOfAwards": 7256,
   "NumberOfAwardsMax": 1982,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7126,7 +7132,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 527
+      "Count": 531
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7144,7 +7150,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 427
+      "Count": 428
     },
     {
       "Text": "This game has a Creative Community",
@@ -7176,8 +7182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-10-10T09:03:04.283324+00:00",
+  "LastChanged": "2023-10-10T13:09:12.2295811+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:04.0706322+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:03:27.3907096+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:07:21.8075226+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:09:12.2295822+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:12:26.0327285+00:00"
 }

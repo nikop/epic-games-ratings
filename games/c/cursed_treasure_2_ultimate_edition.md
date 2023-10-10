@@ -32,7 +32,7 @@
 | Thunderstorm | 63.00% | ~108 |
 | Clean Forests | 61.00% | ~105 |
 | Starry: Meadowshire | 58.00% | ~100 |
-| Lieutenant of the Evil | 56.00% | ~96 |
+| Lieutenant of the Evil | 57.00% | ~98 |
 | Avada Kedavra | 55.00% | ~95 |
 | Brilliant: Tanglewood | 54.00% | ~93 |
 | Starry: Holy Mountain | 53.00% | ~91 |

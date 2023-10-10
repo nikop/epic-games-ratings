@@ -6,7 +6,7 @@
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 51,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250196,
+  "EOS_Progressed": 250197,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16169,6 +16169,11 @@
       "Time": "2023-10-10T12:07:09.6745957+00:00",
       "NumProgressed": 250196,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T13:12:15.4348112+00:00",
+      "NumProgressed": 250197,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16252,7 +16257,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37529
+      "UsersEstimate": 37530
     },
     {
       "ID": "clearCut",
@@ -16412,7 +16417,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37529
+      "UsersEstimate": 37530
     },
     {
       "ID": "myFirstRunbow",
@@ -16500,7 +16505,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32525
+      "UsersEstimate": 32526
     },
     {
       "ID": "treeMedalist",
@@ -16540,14 +16545,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40031
+      "UsersEstimate": 40032
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250196,
+      "Progressed": 250197,
       "Completed": 6
     }
   ],
@@ -16555,8 +16560,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-10T12:07:09.6745951+00:00",
+  "LastChanged_Achievements": "2023-10-10T13:12:15.4348107+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-10T12:01:34.147179+00:00",
-  "LastUpdate_Achievements": "2023-10-10T12:07:09.6747854+00:00"
+  "LastUpdate_Ratings": "2023-10-10T13:06:49.6602573+00:00",
+  "LastUpdate_Achievements": "2023-10-10T13:12:15.4349671+00:00"
 }
