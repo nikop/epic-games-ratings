@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,122 |
-| Basic in Bulk | 3.00% | ~4,122 |
-| Tinkle of Coins | 3.00% | ~4,122 |
-| Titan's First Steps | 3.00% | ~4,122 |
+| Sponsored by Argon | 3.00% | ~4,123 |
+| Basic in Bulk | 3.00% | ~4,123 |
+| Tinkle of Coins | 3.00% | ~4,123 |
+| Titan's First Steps | 3.00% | ~4,123 |
 | One Easy Payment | 2.00% | ~2,748 |
 | Some Assembly Required | 2.00% | ~2,748 |
 | Disintermediation | 2.00% | ~2,748 |
@@ -49,38 +49,38 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.70% | ~962 |
 | Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
-| A Notch Above the Rest | 0.60% | ~824 |
-| Cream of the Crop | 0.60% | ~824 |
-| Above the Norm | 0.60% | ~824 |
-| A Ronin Reborn | 0.60% | ~824 |
-| The King's Caprice | 0.60% | ~824 |
-| Big Game Hunting | 0.60% | ~824 |
-| Scrapbooker | 0.60% | ~824 |
-| Locally Sourced | 0.60% | ~824 |
-| Flying off the Shelves | 0.60% | ~824 |
-| This Power Level...! | 0.60% | ~824 |
-| Master of Transmutation | 0.60% | ~824 |
-| Hidden Potential | 0.60% | ~824 |
-| Supercharged | 0.60% | ~824 |
-| Expansion in Session | 0.60% | ~824 |
-| Cranked up to 11 | 0.60% | ~824 |
-| Fit for a King | 0.60% | ~824 |
-| Mammonite | 0.60% | ~824 |
-| Wealth Beyond Measure | 0.60% | ~824 |
-| Fat Cat Tag Team | 0.60% | ~824 |
-| Necromancer Queen | 0.60% | ~824 |
-| Master Merchant | 0.60% | ~824 |
-| Miracle Alchemist | 0.60% | ~824 |
-| Laden with Loot | 0.60% | ~824 |
-| Scourge of the Seas | 0.60% | ~824 |
-| Attrition Mission | 0.60% | ~824 |
-| Glittering Collection | 0.60% | ~824 |
-| Moment of Respite | 0.60% | ~824 |
-| Black Friday Special | 0.60% | ~824 |
-| Special Ingredient | 0.60% | ~824 |
-| Exotic Commodities | 0.60% | ~824 |
-| Complete Monopoly | 0.60% | ~824 |
-| King's Blade | 0.60% | ~824 |
+| A Notch Above the Rest | 0.60% | ~825 |
+| Cream of the Crop | 0.60% | ~825 |
+| Above the Norm | 0.60% | ~825 |
+| A Ronin Reborn | 0.60% | ~825 |
+| The King's Caprice | 0.60% | ~825 |
+| Big Game Hunting | 0.60% | ~825 |
+| Scrapbooker | 0.60% | ~825 |
+| Locally Sourced | 0.60% | ~825 |
+| Flying off the Shelves | 0.60% | ~825 |
+| This Power Level...! | 0.60% | ~825 |
+| Master of Transmutation | 0.60% | ~825 |
+| Hidden Potential | 0.60% | ~825 |
+| Supercharged | 0.60% | ~825 |
+| Expansion in Session | 0.60% | ~825 |
+| Cranked up to 11 | 0.60% | ~825 |
+| Fit for a King | 0.60% | ~825 |
+| Mammonite | 0.60% | ~825 |
+| Wealth Beyond Measure | 0.60% | ~825 |
+| Fat Cat Tag Team | 0.60% | ~825 |
+| Necromancer Queen | 0.60% | ~825 |
+| Master Merchant | 0.60% | ~825 |
+| Miracle Alchemist | 0.60% | ~825 |
+| Laden with Loot | 0.60% | ~825 |
+| Scourge of the Seas | 0.60% | ~825 |
+| Attrition Mission | 0.60% | ~825 |
+| Glittering Collection | 0.60% | ~825 |
+| Moment of Respite | 0.60% | ~825 |
+| Black Friday Special | 0.60% | ~825 |
+| Special Ingredient | 0.60% | ~825 |
+| Exotic Commodities | 0.60% | ~825 |
+| Complete Monopoly | 0.60% | ~825 |
+| King's Blade | 0.60% | ~825 |
 | Top of the World | 0.50% | ~687 |
 | Proud Paladin | 0.50% | ~687 |
 | Constellated | 0.50% | ~687 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,415 (Ranked 73)  
+Progressed: 137,417 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 167 (0.12%) (Ranked 239)
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
-| 2023-10-10 | 137,415 | 167 |
+| 2023-10-10 | 137,417 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,367 (Ranked 50)  

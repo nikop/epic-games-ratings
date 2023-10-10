@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -286,9 +286,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1961,6 +1961,11 @@
       "Time": "2023-10-09T20:06:19.4198288+00:00",
       "NumProgressed": 623,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T20:07:00.7254181+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2012,7 +2017,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "hire-lieutenant",
@@ -2020,7 +2025,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "kill-lieutenants",
@@ -2076,7 +2081,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "sell-variety",
@@ -2084,7 +2089,7 @@
       "Name": "Spread",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "send-smuggling",
@@ -2092,7 +2097,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "unlock-residences",
@@ -2100,7 +2105,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "upgrade-building",
@@ -2108,7 +2113,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "use-submarine",
@@ -2123,15 +2128,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:05:36.8237455+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:07:00.7254173+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:54.7554745+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:00:27.1125023+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:05:36.8237715+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:02:12.1312215+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:07:00.725444+00:00"
 }

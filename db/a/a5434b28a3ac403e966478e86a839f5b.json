@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
@@ -997,6 +997,11 @@
       "Time": "2023-10-10T18:08:30.4349835+00:00",
       "NumProgressed": 389,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T20:09:23.8684337+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1023,9 +1028,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_eou3",
@@ -1049,7 +1054,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou6",
@@ -1065,7 +1070,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou8",
@@ -1081,7 +1086,7 @@
       "Name": "Disc Collector",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_n64",
@@ -1095,9 +1100,9 @@
       "ID": "ACH_rogue",
       "SetID": "51of0eo",
       "Name": "Anti-Gravity",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_xatrix",
@@ -1112,14 +1117,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:08:35.0284519+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:09:23.8684333+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:57:18.6646422+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:08:35.0284704+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:58:12.7590567+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:09:23.8684516+00:00"
 }

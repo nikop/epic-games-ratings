@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -7100,10 +7100,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 10384,
       "NumberOfAwardsMax": 2850
+    },
+    {
+      "Time": "2023-10-10T20:00:26.7828068+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 10386,
+      "NumberOfAwardsMax": 2850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10384,
+  "NumberOfAwards": 10386,
   "NumberOfAwardsMax": 2850,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7183,7 +7189,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 524
+      "Count": 526
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -7204,8 +7210,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-10-10T08:58:50.6502935+00:00",
+  "LastChanged": "2023-10-10T20:00:26.7828067+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:35.072535+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:59:02.0656475+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:05:28.0624596+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:00:26.7828073+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:06:49.6652372+00:00"
 }

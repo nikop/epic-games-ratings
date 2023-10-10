@@ -8,9 +8,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 2.00% | ~292 |
 | Settler | 2.00% | ~292 |
+| Friendly Family | 2.00% | ~292 |
 | Play a Single Player Game | 2.00% | ~292 |
 | Able | 1.00% | ~146 |
 | Architect | 1.00% | ~146 |
+| Glorious | 1.00% | ~146 |
 | Good | 1.00% | ~146 |
 | Intrepid | 1.00% | ~146 |
 | Learned | 1.00% | ~146 |
@@ -18,23 +20,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 1.00% | ~146 |
 | Pioneer | 1.00% | ~146 |
 | Strong | 1.00% | ~146 |
-| Friendly Family | 1.00% | ~146 |
 | Hanging Gardens | 1.00% | ~146 |
 | Oracle | 1.00% | ~146 |
 | Judaism | 1.00% | ~146 |
 | Naming Landmarks | 1.00% | ~146 |
 | Trade Caravan | 1.00% | ~146 |
 | Kushite Paganism | 1.00% | ~146 |
-| Glorious | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
+| Developing Cities | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
 | Enlightened | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
 | Wise | 0.80% | ~117 |
-| Developing Cities | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
 | Ishtar Gate | 0.80% | ~117 |
 | Lighthouse | 0.80% | ~117 |
@@ -50,19 +50,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
-| Drillmaster | 0.60% | ~87 |
-| Great | 0.60% | ~87 |
-| Legendary Cities | 0.60% | ~87 |
-| Just Difficulty | 0.60% | ~87 |
-| Artisans | 0.60% | ~87 |
-| Furious Family | 0.60% | ~87 |
-| Apadana | 0.60% | ~87 |
-| Colossus | 0.60% | ~87 |
-| Musaeum | 0.60% | ~87 |
-| Necropolis | 0.60% | ~87 |
-| Learn to Play 2 | 0.60% | ~87 |
-| Manichaeism | 0.60% | ~87 |
-| Egyptian Paganism | 0.60% | ~87 |
+| Drillmaster | 0.60% | ~88 |
+| Great | 0.60% | ~88 |
+| Legendary Cities | 0.60% | ~88 |
+| Just Difficulty | 0.60% | ~88 |
+| Artisans | 0.60% | ~88 |
+| Furious Family | 0.60% | ~88 |
+| Apadana | 0.60% | ~88 |
+| Colossus | 0.60% | ~88 |
+| Musaeum | 0.60% | ~88 |
+| Necropolis | 0.60% | ~88 |
+| Learn to Play 2 | 0.60% | ~88 |
+| Manichaeism | 0.60% | ~88 |
+| Egyptian Paganism | 0.60% | ~88 |
 | Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.30% | ~44 |
 | The Clergy | 0.30% | ~44 |
 | The Great Mage | 0.30% | ~44 |
+| Poetic Leader | 0.30% | ~44 |
 | Kmt Unified | 0.30% | ~44 |
 | Bad Heir Day | 0.20% | ~29 |
 | Ishtar Gate in Babylon | 0.20% | ~29 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
-| Poetic Leader | 0.20% | ~29 |
 | Rmt n Kmt Buhen | 0.20% | ~29 |
 | Greater Kmt Unified | 0.20% | ~29 |
 | Centenarian | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,582 (Ranked 134)  
+Progressed: 14,585 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,11 +522,11 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,582 | 5 |
+| 2023-10-10 | 14,585 | 5 |
 ## Awards
-Max (Relaxing): 224  (Ranked 265)  
+Max (Relaxing): 224  (Ranked 266)  
 Sum: 1,832 (Ranked 210)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |

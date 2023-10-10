@@ -7794,7 +7794,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804365,
+  "EOS_Progressed": 804368,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 0,
@@ -27139,6 +27139,11 @@
       "Time": "2023-10-10T19:06:00.7686236+00:00",
       "NumProgressed": 804365,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T20:07:30.999078+00:00",
+      "NumProgressed": 804368,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -27174,7 +27179,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128698
+      "UsersEstimate": 128699
     },
     {
       "ID": "Awakening",
@@ -27230,7 +27235,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257397
+      "UsersEstimate": 257398
     },
     {
       "ID": "Bookworm",
@@ -27262,7 +27267,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201091
+      "UsersEstimate": 201092
     },
     {
       "ID": "Chivalrous",
@@ -27310,7 +27315,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80436
+      "UsersEstimate": 80437
     },
     {
       "ID": "DavidHorak",
@@ -27350,7 +27355,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185004
+      "UsersEstimate": 185005
     },
     {
       "ID": "Fighter",
@@ -27470,7 +27475,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104567
+      "UsersEstimate": 104568
     },
     {
       "ID": "Judas",
@@ -27630,7 +27635,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160873
+      "UsersEstimate": 160874
     },
     {
       "ID": "RevenantOfLedechko",
@@ -27670,7 +27675,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160873
+      "UsersEstimate": 160874
     },
     {
       "ID": "SerialKiller",
@@ -27805,15 +27810,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804365,
+      "Progressed": 804368,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-10T17:01:12.7157538+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:06:00.768623+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:07:30.9990776+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:59:44.7497548+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:06:00.7688386+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:01:16.4229537+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:07:30.9993038+00:00"
 }

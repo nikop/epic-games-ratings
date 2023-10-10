@@ -5,11 +5,11 @@ Rating: 4.64 (Ranked 318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sweezy Like Sunday Morning | 0.70% | ~169 |
 | First Bounty Down | 0.70% | ~169 |
+| G3 Graduation | 0.70% | ~169 |
 | Satisfied Gus-tomer | 0.60% | ~145 |
 | Are You Packin'? | 0.60% | ~145 |
-| Sweezy Like Sunday Morning | 0.60% | ~145 |
-| G3 Graduation | 0.60% | ~145 |
 | Hardest Battle In The Game | 0.60% | ~145 |
 | Cold-Blooded Driller | 0.60% | ~145 |
 | Who's The Boss? | 0.60% | ~145 |
@@ -28,10 +28,10 @@ Rating: 4.64 (Ranked 318)
 | Series Wrap on Suit-O | 0.40% | ~97 |
 | We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
 | Eye Scream, You Scream | 0.30% | ~73 |
+| Mux Ado About Shipping | 0.30% | ~4 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |
-| Mux Ado About Shipping | 0.20% | ~3 |
 | Fall In Love With A Parasite | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |

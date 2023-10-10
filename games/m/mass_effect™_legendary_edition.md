@@ -48,6 +48,7 @@
 | Ghost Ship | 32.00% | ~207 |
 | The Assassin | 32.00% | ~207 |
 | The Quarian | 32.00% | ~207 |
+| A Personal Touch | 31.00% | ~200 |
 | The Justicar | 31.00% | ~200 |
 | Battlemaster | 31.00% | ~200 |
 | Ghost of the Father | 31.00% | ~200 |
@@ -56,7 +57,6 @@
 | Big Game Hunter | 31.00% | ~200 |
 | Revenge! | 31.00% | ~200 |
 | Shopaholic | 31.00% | ~200 |
-| A Personal Touch | 30.00% | ~194 |
 | Catharsis | 30.00% | ~194 |
 | Agent | 30.00% | ~194 |
 | Heart of Darkness | 30.00% | ~194 |

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -2911,6 +2911,11 @@
       "Time": "2023-10-10T09:08:35.9775917+00:00",
       "NumProgressed": 783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T20:09:42.9879251+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2954,7 +2959,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Calculated",
@@ -2986,7 +2991,7 @@
       "Name": "Debtor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -3010,7 +3015,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "First",
@@ -3106,7 +3111,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Millionaire",
@@ -3122,7 +3127,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NoTimeForModernization",
@@ -3194,7 +3199,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Restructuring",
@@ -3218,7 +3223,7 @@
       "Name": "Scenario Amateur",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ScenarioExpert",
@@ -3242,7 +3247,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "TransportHub",
@@ -3257,14 +3262,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:08:50.447814+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:09:42.9879243+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:57:57.0807093+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:08:50.4478696+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:59:03.9840524+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:09:42.9879795+00:00"
 }

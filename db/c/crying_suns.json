@@ -622,7 +622,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 468850,
+  "EOS_Progressed": 468852,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
@@ -18757,6 +18757,11 @@
       "Time": "2023-10-10T19:06:38.5636918+00:00",
       "NumProgressed": 468850,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-10T20:08:19.2466942+00:00",
+      "NumProgressed": 468852,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18832,7 +18837,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -18840,7 +18845,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -18848,7 +18853,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -18856,7 +18861,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309441
+      "UsersEstimate": 309442
     },
     {
       "ID": "achievement_story_landa",
@@ -18864,7 +18869,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -18872,7 +18877,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -18888,7 +18893,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117212
+      "UsersEstimate": 117213
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -18952,7 +18957,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159409
+      "UsersEstimate": 159410
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -18968,7 +18973,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -19192,7 +19197,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206294
+      "UsersEstimate": 206295
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -19200,7 +19205,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140655
+      "UsersEstimate": 140656
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -19248,7 +19253,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -19264,7 +19269,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -19399,21 +19404,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12784,
+      "Progressed": 12786,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468850,
+      "Progressed": 468852,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:06:38.5636913+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:08:19.2466935+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:59:44.1545716+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:06:38.5638958+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:01:15.7995436+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:08:19.246911+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15666,
+  "EOS_Progressed": 15667,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11755,6 +11755,11 @@
       "Time": "2023-10-10T19:08:31.929865+00:00",
       "NumProgressed": 15666,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-10T20:09:20.1110207+00:00",
+      "NumProgressed": 15667,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11836,9 +11841,9 @@
       "ID": "tpote_achievement_18",
       "SetID": "3jcf6c3",
       "Name": "Friar Tuck",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1567
     },
     {
       "ID": "tpote_achievement_19",
@@ -12030,7 +12035,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "tpote_achievement_40",
@@ -12093,15 +12098,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15666,
+      "Progressed": 15667,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:08:31.9298643+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:09:20.1110202+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:57:26.1439851+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:08:31.9299703+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:58:19.5216906+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:09:20.1111253+00:00"
 }

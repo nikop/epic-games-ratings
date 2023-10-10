@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -652,7 +652,7 @@
   ],
   "EOS_Progressed": 911,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2904,9 +2904,9 @@
       "ID": "achievement_35",
       "SetID": "222fo9l",
       "Name": "Freeze",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_36",
@@ -3065,8 +3065,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-08T19:00:42.2138843+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:05:14.6597661+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:06:32.4981814+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.1853957+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:57:35.1741608+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:05:14.6598248+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:58:30.9850996+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:06:32.4982445+00:00"
 }

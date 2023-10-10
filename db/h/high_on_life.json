@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -288,7 +288,7 @@
   "Tags": [],
   "EOS_Progressed": 24177,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5513,9 +5513,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -5561,9 +5561,9 @@
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5697,9 +5697,9 @@
       "ID": "ACH_DEFEAT_MUX",
       "SetID": "7fgbhpb",
       "Name": "Mux Ado About Shipping",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIND_ALL_LANDMARKS",
@@ -5792,8 +5792,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:03:19.0664352+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:04:26.7042326+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:58:23.7836261+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:03:19.0665111+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:59:36.2436602+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:04:26.7043118+00:00"
 }

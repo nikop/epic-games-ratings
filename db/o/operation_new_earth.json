@@ -50,7 +50,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1570,
+  "EOS_Progressed": 1571,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5785,6 +5785,11 @@
       "Time": "2023-10-10T18:03:20.2108012+00:00",
       "NumProgressed": 1570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T20:04:21.6055823+00:00",
+      "NumProgressed": 1571,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5796,7 +5801,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -5868,7 +5873,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "objective_headquarters_10",
@@ -5884,7 +5889,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "objective_headquarters_20",
@@ -5916,7 +5921,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -5972,7 +5977,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6099,7 +6104,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 1
     }
   ],
@@ -6107,8 +6112,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-10T18:57:39.1996757+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:03:15.2578329+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:04:21.6055816+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:57:39.1996763+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:03:15.2578993+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:58:36.663951+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:04:21.6056553+00:00"
 }

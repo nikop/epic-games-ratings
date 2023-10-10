@@ -12,7 +12,7 @@ Rating: 4.56 (Ranked 471)
 | Ready for a New World | 17.00% | ~547 |
 | Space Society | 16.00% | ~515 |
 | A Thousand Strong | 16.00% | ~515 |
-| Permanent Redesigns | 14.00% | ~450 |
+| Permanent Redesigns | 14.00% | ~451 |
 | Fully Recycled | 13.00% | ~418 |
 | The Ship of Theseus | 13.00% | ~418 |
 | Guy de Borderlands | 12.00% | ~386 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 471)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,217 (Ranked 188)  
+Progressed: 3,218 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-06 | 3,215 | 0 |
 | 2023-10-08 | 3,216 | 0 |
 | 2023-10-09 | 3,217 | 0 |
+| 2023-10-10 | 3,218 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

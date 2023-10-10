@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,441 |
-| Jeef Skeejj | 44.00% | ~206,294 |
+| The Shutdown | 66.00% | ~309,442 |
+| Jeef Skeejj | 44.00% | ~206,295 |
 | Careful planning | 39.00% | ~182,852 |
-| Second Coming | 34.00% | ~159,409 |
-| Jeef Skagg | 30.00% | ~140,655 |
-| Mother | 25.00% | ~117,212 |
+| Second Coming | 34.00% | ~159,410 |
+| Jeef Skagg | 30.00% | ~140,656 |
+| Mother | 25.00% | ~117,213 |
 | In space, no one can hear you scream | 24.00% | ~112,524 |
 | Chapter I: Echoes | 22.00% | ~103,147 |
 | Excelsior Rule | 22.00% | ~103,147 |
@@ -45,17 +45,17 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,131 |
 | The Crazy Repairman | 6.00% | ~28,131 |
 | The Weasel | 6.00% | ~28,131 |
-| Kill the Doctor | 5.00% | ~23,442 |
-| Forsaken | 5.00% | ~23,442 |
-| Mercy | 5.00% | ~23,442 |
-| Jericho Rule | 5.00% | ~23,442 |
+| Kill the Doctor | 5.00% | ~23,443 |
+| Forsaken | 5.00% | ~23,443 |
+| Mercy | 5.00% | ~23,443 |
+| Jericho Rule | 5.00% | ~23,443 |
 | Geno Rule | 3.00% | ~14,066 |
 | Hammer Rule | 3.00% | ~14,066 |
 | Survivor | 2.00% | ~9,377 |
-| A Rock in the Dark | 1.00% | ~4,688 |
-| Emperor of Misery | 1.00% | ~4,688 |
-| A Frozen Lady | 1.00% | ~4,688 |
-| Void Rule | 1.00% | ~4,688 |
+| A Rock in the Dark | 1.00% | ~4,689 |
+| Emperor of Misery | 1.00% | ~4,689 |
+| A Frozen Lady | 1.00% | ~4,689 |
+| Void Rule | 1.00% | ~4,689 |
 | Excelsior Mastery | 0.90% | ~4,220 |
 | The greatest admiral of all time | 0.50% | ~2,344 |
 | Hand of the Emperor | 0.40% | ~51 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~13 |
 | Kronos Rule | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,850 (Ranked 37)  
+Progressed: 468,852 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 18 (0.00%) (Ranked 312)
 | 2023-10-07 | 468,687 | 18 |
 | 2023-10-08 | 468,744 | 18 |
 | 2023-10-09 | 468,804 | 18 |
-| 2023-10-10 | 468,850 | 18 |
+| 2023-10-10 | 468,852 | 18 |
 ## Awards
 Max (Character Customization): 221  (Ranked 268)  
 Sum: 242 (Ranked 364)  

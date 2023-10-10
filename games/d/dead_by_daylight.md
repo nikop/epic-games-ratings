@@ -6,41 +6,42 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,312 |
-| It wakes | 1.00% | ~9,312 |
-| Skillful | 1.00% | ~9,312 |
-| Not half bad | 0.90% | ~8,381 |
-| Apt Survivor | 0.90% | ~8,381 |
-| Survival Treasures | 0.90% | ~8,381 |
-| Make Some Noise | 0.90% | ~8,381 |
-| Handyman | 0.80% | ~7,450 |
+| Zealous | 1.00% | ~9,313 |
+| It wakes | 1.00% | ~9,313 |
+| Skillful | 1.00% | ~9,313 |
+| Handyman | 0.90% | ~8,382 |
+| Not half bad | 0.90% | ~8,382 |
+| Apt Survivor | 0.90% | ~8,382 |
+| Survival Treasures | 0.90% | ~8,382 |
+| Make Some Noise | 0.90% | ~8,382 |
 | Sorted | 0.80% | ~7,450 |
-| The Grand Sacrifice | 0.70% | ~6,518 |
-| No one left behind | 0.70% | ~6,518 |
-| Medic | 0.70% | ~6,518 |
-| Nerves of steel | 0.70% | ~6,518 |
-| Bloody Millionaire | 0.70% | ~6,518 |
-| I | 0.70% | ~6,518 |
-| Healthy Obsession | 0.70% | ~6,518 |
-| Resurgence | 0.70% | ~6,518 |
-| Agonizing Escape | 0.60% | ~5,587 |
-| Backdoor Escape | 0.60% | ~5,587 |
-| Perfect Escape | 0.60% | ~5,587 |
-| Engineer | 0.60% | ~5,587 |
-| Preemptive Strike | 0.60% | ~5,587 |
-| Humanitarian | 0.60% | ~5,587 |
-| I've got your back | 0.50% | ~4,656 |
-| Perfect Killing | 0.50% | ~4,656 |
-| Apt Killer | 0.50% | ~4,656 |
-| Risk it all | 0.50% | ~4,656 |
-| II | 0.50% | ~4,656 |
-| Wounded Healer | 0.50% | ~4,656 |
-| Close Shave | 0.50% | ~4,656 |
+| The Grand Sacrifice | 0.70% | ~6,519 |
+| No one left behind | 0.70% | ~6,519 |
+| Medic | 0.70% | ~6,519 |
+| Nerves of steel | 0.70% | ~6,519 |
+| Bloody Millionaire | 0.70% | ~6,519 |
+| I | 0.70% | ~6,519 |
+| Healthy Obsession | 0.70% | ~6,519 |
+| Resurgence | 0.70% | ~6,519 |
+| Agonizing Escape | 0.60% | ~5,588 |
+| Backdoor Escape | 0.60% | ~5,588 |
+| Perfect Escape | 0.60% | ~5,588 |
+| Engineer | 0.60% | ~5,588 |
+| Preemptive Strike | 0.60% | ~5,588 |
+| Humanitarian | 0.60% | ~5,588 |
+| I've got your back | 0.50% | ~4,657 |
+| Perfect Killing | 0.50% | ~4,657 |
+| Apt Killer | 0.50% | ~4,657 |
+| Risk it all | 0.50% | ~4,657 |
+| II | 0.50% | ~4,657 |
+| Wounded Healer | 0.50% | ~4,657 |
+| Close Shave | 0.50% | ~4,657 |
 | Vulture | 0.40% | ~3,725 |
 | III | 0.40% | ~3,725 |
 | First to the Punch | 0.40% | ~3,725 |
 | Every Last Drop | 0.40% | ~3,725 |
 | With Scars to Show | 0.40% | ~3,725 |
+| Flight to Freedom | 0.40% | ~3,725 |
 | Second Act | 0.40% | ~3,725 |
 | Blood on your hands | 0.30% | ~2,794 |
 | Escape Artist | 0.30% | ~2,794 |
@@ -65,37 +66,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | Old West Oasis | 0.30% | ~2,794 |
 | Classy Act | 0.30% | ~2,794 |
 | Raccoon City Recruit | 0.30% | ~2,794 |
-| Flight to Freedom | 0.30% | ~2,794 |
 | A Fast Death | 0.30% | ~2,794 |
 | Lifting The Fog | 0.30% | ~2,794 |
 | Chorus of Chaos | 0.30% | ~2,794 |
 | One More Step | 0.30% | ~2,794 |
 | MU/TH/UR Dearest | 0.30% | ~2,794 |
-| A bite for the Entity | 0.20% | ~1,862 |
-| Blood on your face | 0.20% | ~1,862 |
-| Jump Scares | 0.20% | ~1,862 |
-| Hemophobia | 0.20% | ~1,862 |
-| Deep Cleansing | 0.20% | ~1,862 |
-| Leapfrog | 0.20% | ~1,862 |
-| Texas BBQ | 0.20% | ~1,862 |
-| Serial Killer | 0.20% | ~1,862 |
-| Game Over | 0.20% | ~1,862 |
-| Party Crasher | 0.20% | ~1,862 |
-| Outrage | 0.20% | ~1,862 |
-| Devoted Gatekeeping | 0.20% | ~1,862 |
-| Shrine Apparatus | 0.20% | ~1,862 |
-| Broken Bodies | 0.20% | ~1,862 |
-| Grim Pilgrimage | 0.20% | ~1,862 |
-| Selfless Survival | 0.20% | ~1,862 |
-| End of Days | 0.20% | ~1,862 |
-| Insult and Injury | 0.20% | ~1,862 |
-| Outrun the Overlap | 0.20% | ~1,862 |
-| High Speed Pursuit | 0.20% | ~1,862 |
-| Rebuilding The Borgo | 0.20% | ~1,862 |
-| Hack the Mainframe | 0.20% | ~1,862 |
-| Complete the Evolution | 0.20% | ~1,862 |
-| Extraterrestrial | 0.20% | ~1,862 |
-| Kitted Out | 0.20% | ~1,862 |
+| A bite for the Entity | 0.20% | ~1,863 |
+| Blood on your face | 0.20% | ~1,863 |
+| Jump Scares | 0.20% | ~1,863 |
+| Hemophobia | 0.20% | ~1,863 |
+| Deep Cleansing | 0.20% | ~1,863 |
+| Leapfrog | 0.20% | ~1,863 |
+| Texas BBQ | 0.20% | ~1,863 |
+| Serial Killer | 0.20% | ~1,863 |
+| Game Over | 0.20% | ~1,863 |
+| Party Crasher | 0.20% | ~1,863 |
+| Outrage | 0.20% | ~1,863 |
+| Devoted Gatekeeping | 0.20% | ~1,863 |
+| Shrine Apparatus | 0.20% | ~1,863 |
+| Broken Bodies | 0.20% | ~1,863 |
+| Grim Pilgrimage | 0.20% | ~1,863 |
+| Selfless Survival | 0.20% | ~1,863 |
+| End of Days | 0.20% | ~1,863 |
+| Insult and Injury | 0.20% | ~1,863 |
+| Triage | 0.20% | ~1,863 |
+| Outrun the Overlap | 0.20% | ~1,863 |
+| High Speed Pursuit | 0.20% | ~1,863 |
+| Rebuilding The Borgo | 0.20% | ~1,863 |
+| Hack the Mainframe | 0.20% | ~1,863 |
+| Complete the Evolution | 0.20% | ~1,863 |
+| Extraterrestrial | 0.20% | ~1,863 |
+| Kitted Out | 0.20% | ~1,863 |
 | A feast for the Entity | 0.10% | ~931 |
 | Blood in your mouth | 0.10% | ~931 |
 | Cripple them all | 0.10% | ~931 |
@@ -208,7 +209,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ghost in the Machine | 0.10% | ~931 |
 | Adept Onryō | 0.10% | ~931 |
 | Fleet of Foot | 0.10% | ~931 |
-| Triage | 0.10% | ~931 |
 | Adept Yoichi | 0.10% | ~931 |
 | Bump in the Night | 0.10% | ~931 |
 | From the Deep | 0.10% | ~931 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~931 |
 | Adept Ripley | 0.10% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,199 (Ranked 14)  
+Progressed: 931,303 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,10 +409,10 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 931,199 | 49 |
+| 2023-10-10 | 931,303 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
-Sum: 260,963 (Ranked 13)  
+Sum: 261,003 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -423,7 +423,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 29,132 |
 | This game has Challenging Combat | 28,707 |
 | This game has Quickly Understood Controls | 28,648 |
-| This game has Amazing Storytelling | 26,732 |
+| This game has Amazing Storytelling | 26,772 |
 | This game has a Competitive Community | 25,275 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 2
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
-| 2023-10-10 | 4.51 | - | 33,667 | 260,963 |
+| 2023-10-10 | 4.51 | - | 33,667 | 261,003 |

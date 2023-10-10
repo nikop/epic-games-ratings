@@ -4,10 +4,10 @@
   "ProductSlug": "celeste",
   "Ranking_Rating": 4,
   "Ranking_Popularity": 121,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-01-05T15:00:00+00:00",
@@ -3610,10 +3610,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 3189,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-10-10T19:59:12.9536899+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 3190,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3189,
+  "NumberOfAwards": 3190,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3663,7 +3669,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3695,8 +3701,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-10-10T01:40:22.8041123+00:00",
+  "LastChanged": "2023-10-10T19:59:12.9536898+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.1915371+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:58:04.1471647+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:06:26.266575+00:00"
+  "LastUpdate_Ratings": "2023-10-10T19:59:12.9536912+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:08:03.1072131+00:00"
 }

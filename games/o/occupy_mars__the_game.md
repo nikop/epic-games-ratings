@@ -5,22 +5,22 @@ Rating: 3.98 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~680 |
+| I don't feel so good | 41.00% | ~681 |
 | Electrician | 34.00% | ~564 |
-| Fear my botany powers, Mars | 33.00% | ~547 |
-| Zero Waste | 30.00% | ~497 |
-| Bob The Builder | 30.00% | ~497 |
+| Fear my botany powers, Mars | 33.00% | ~548 |
+| Zero Waste | 30.00% | ~498 |
+| Bob The Builder | 30.00% | ~498 |
 | I am the greatest botanist on this planet. | 29.00% | ~481 |
-| Occupy Mars! | 28.00% | ~464 |
-| Gardener | 26.00% | ~431 |
-| Miner | 26.00% | ~431 |
+| Occupy Mars! | 28.00% | ~465 |
+| Gardener | 25.00% | ~415 |
+| Miner | 25.00% | ~415 |
 | Houston we have a problem | 22.00% | ~365 |
 | Detective | 19.00% | ~315 |
-| The Collector | 18.00% | ~298 |
+| The Collector | 18.00% | ~299 |
 | Get your hands dirty | 10.00% | ~166 |
 | Space Forest | 9.00% | ~149 |
 | All Wheel Trouble | 7.00% | ~116 |
-| ITS crash site | 6.00% | ~99 |
+| ITS crash site | 6.00% | ~100 |
 | DeDust | 5.00% | ~83 |
 | “Aliens” | 4.00% | ~66 |
 | Hard Landing | 3.00% | ~50 |
@@ -54,7 +54,7 @@ Rating: 3.98 (Ranked 968)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,658 (Ranked 211)  
+Progressed: 1,660 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-06 | 1,653 | 0 |
 | 2023-10-08 | 1,654 | 0 |
 | 2023-10-09 | 1,657 | 0 |
-| 2023-10-10 | 1,658 | 0 |
+| 2023-10-10 | 1,660 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

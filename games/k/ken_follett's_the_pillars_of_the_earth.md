@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,266 |
+| Tattletale | 40.00% | ~6,267 |
 | Man of politics | 35.00% | ~5,483 |
 | Friends of sorts | 33.00% | ~5,170 |
 | Yet another secret | 33.00% | ~5,170 |
@@ -26,8 +26,8 @@ Number of Ratings: 368  (23.09.2022)
 | Exterminator | 13.00% | ~2,037 |
 | Whodunnit | 12.00% | ~1,880 |
 | Good midwife | 11.00% | ~1,723 |
-| Friar Tuck | 11.00% | ~1,723 |
 | First profit | 11.00% | ~1,723 |
+| Friar Tuck | 10.00% | ~1,567 |
 | Team player | 10.00% | ~1,567 |
 | Skilled merchant | 9.00% | ~1,410 |
 | Nothing but make-believe | 9.00% | ~1,410 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~470 |
 | Boy of mystery | 2.00% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,666 (Ranked 133)  
+Progressed: 15,667 (Ranked 133)  
 Completed: 113 (0.72%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 113 (0.72%) (Ranked 153)
 | 2023-10-07 | 15,602 | 113 |
 | 2023-10-08 | 15,632 | 113 |
 | 2023-10-09 | 15,653 | 113 |
-| 2023-10-10 | 15,666 | 113 |
+| 2023-10-10 | 15,667 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 387)  

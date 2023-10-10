@@ -2539,9 +2539,9 @@
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-10T19:08:32.3702825+00:00",
+  "LastChanged_Achievements": "2023-10-10T20:09:20.6336605+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:59.2420233+00:00",
-  "LastUpdate_Ratings": "2023-10-10T18:59:31.5966485+00:00",
-  "LastUpdate_Achievements": "2023-10-10T19:08:32.3703113+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:01:01.2496886+00:00",
+  "LastUpdate_Achievements": "2023-10-10T20:09:20.633692+00:00"
 }
