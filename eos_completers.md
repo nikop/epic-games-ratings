@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.93% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.90% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -101,7 +101,7 @@
 | 99 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 100 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 100 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
+| 102 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 103 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 104 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.17% |
@@ -118,8 +118,8 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |
 | 118 | [Five Dates](games/f/five_dates.md) | 1.62% |
-| 119 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.52% |
-| 120 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
+| 119 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
+| 120 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.49% |
 | 121 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 122 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
 | 123 | [Late Shift](games/l/late_shift.md) | 1.41% |
