@@ -278,7 +278,7 @@
 | 260 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 530 |
 | 260 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.67 | 205 | 276 |
 | 260 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 530 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,574 | 89 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,577 | 89 |
 | 260 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 530 |
 | 281 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 373 |
 | 281 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,697 | 66 |
@@ -414,7 +414,7 @@
 | 399 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 488 | 204 |
 | 399 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 261 | 256 |
 | 399 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 514 |
-| 399 | [Warframe](games/w/warframe.md) | 4.60 | 17,576 | 22 |
+| 399 | [Warframe](games/w/warframe.md) | 4.60 | 17,588 | 22 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 424 |
 | 416 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 170 | 296 |
 | 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 380 | 226 |
@@ -454,7 +454,7 @@
 | 436 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,522 | 26 |
 | 453 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 530 |
 | 453 | [Among Us](games/a/among_us.md) | 4.57 | 2,717 | 98 |
-| 453 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,462 | 40 |
+| 453 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,473 | 40 |
 | 453 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 530 |
 | 453 | [Hob](games/h/hob.md) | 4.57 | 0 | 530 |
 | 453 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 530 |
@@ -525,7 +525,7 @@
 | 509 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 360 | 229 |
 | 524 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 530 |
 | 524 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 498 |
-| 524 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,630 | 18 |
+| 524 | [Dauntless](games/d/dauntless.md) | 4.53 | 22,651 | 18 |
 | 524 | [Everything](games/e/everything.md) | 4.53 | 0 | 530 |
 | 524 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 530 |
 | 524 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,466 | 129 |
@@ -666,7 +666,7 @@
 | 657 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 530 |
 | 657 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 530 |
 | 657 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 530 |
-| 657 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 588 | 189 |
+| 657 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 589 | 189 |
 | 657 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 530 |
 | 657 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 349 |
 | 657 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 741 | 170 |
@@ -682,13 +682,13 @@
 | 673 | [Predecessor](games/p/predecessor.md) | 4.43 | 185 | 284 |
 | 673 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 530 |
 | 673 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 530 |
-| 673 | [SMITE](games/s/smite.md) | 4.43 | 4,413 | 79 |
+| 673 | [SMITE](games/s/smite.md) | 4.43 | 4,422 | 79 |
 | 673 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 530 |
 | 673 | [STG Football](games/s/stg_football.md) | 4.43 | 45 | 424 |
 | 673 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 474 |
 | 673 | [Wall World](games/w/wall_world.md) | 4.43 | 0 | 530 |
 | 673 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 285 | 246 |
-| 689 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 238 | 263 |
+| 689 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 238 | 264 |
 | 689 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 530 |
 | 689 | [Othercide](games/o/othercide.md) | 4.42 | 0 | 530 |
 | 689 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.42 | 0 | 530 |
@@ -746,7 +746,7 @@
 | 738 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 42 | 433 |
 | 738 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 381 |
 | 738 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 530 |
-| 738 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 236 | 264 |
+| 738 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 241 | 262 |
 | 738 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 530 |
 | 738 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 530 |
 | 750 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 530 |
@@ -876,7 +876,7 @@
 | 872 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 467 |
 | 872 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 530 |
 | 872 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 530 |
-| 872 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 16,557 | 23 |
+| 872 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 16,577 | 23 |
 | 872 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 530 |
 | 872 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 375 |
 | 880 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 126 | 321 |

@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.83% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.80% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -69,13 +69,13 @@
 | 67 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.10% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.04% |
-| 70 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 4.00% |
-| 71 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
-| 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
-| 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
+| 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
+| 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
+| 74 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.70% |
+| 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
+| 76 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 77 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 78 | [The Bunker](games/t/the_bunker.md) | 3.42% |
 | 79 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.39% |
@@ -183,9 +183,9 @@
 | 181 | [Dead Space](games/d/dead_space.md) | 0.44% |
 | 181 | [Tchia](games/t/tchia.md) | 0.44% |
 | 183 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
-| 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
-| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
-| 184 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
+| 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
+| 185 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 187 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 188 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 188 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
