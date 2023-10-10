@@ -4,7 +4,7 @@
   "ProductSlug": "robocop-rogue-city",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-11-02T08:00:00+00:00",
@@ -23,9 +23,227 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "FindSkillBook",
+      "SetID": "80nhi4a",
+      "Name": "I\u0027d Buy That For a Dollar!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishCSI",
+      "SetID": "80nhi4a",
+      "Name": "Hard Boiled",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GiveTicket",
+      "SetID": "80nhi4a",
+      "Name": "Uphold the Law",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HackTurret",
+      "SetID": "80nhi4a",
+      "Name": "May Be Used Against You",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HighRatedEvaluation",
+      "SetID": "80nhi4a",
+      "Name": "Officer of the month",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill3WithExplosion",
+      "SetID": "80nhi4a",
+      "Name": "Nukem!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillBikerWithHisBike",
+      "SetID": "80nhi4a",
+      "Name": "Live by the bike...",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillEnemyWithThrowable",
+      "SetID": "80nhi4a",
+      "Name": "Strikeout!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "L15Efficiency",
+      "SetID": "80nhi4a",
+      "Name": "There Can Only Be One",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ModifyAuto9",
+      "SetID": "80nhi4a",
+      "Name": "All Adds Up",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql01station",
+      "SetID": "80nhi4a",
+      "Name": "Night Has Just Begun",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql04soot",
+      "SetID": "80nhi4a",
+      "Name": "Dead or Alive",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql06ED",
+      "SetID": "80nhi4a",
+      "Name": "Twenty Seconds to Comply",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql09bank",
+      "SetID": "80nhi4a",
+      "Name": "Don\u0027t Mess With the Money!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql12mall",
+      "SetID": "80nhi4a",
+      "Name": "Book Him!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql17prisonbreak",
+      "SetID": "80nhi4a",
+      "Name": "Let\u0027s Talk",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql21ocphq",
+      "SetID": "80nhi4a",
+      "Name": "Cashing Out",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql25wendel",
+      "SetID": "80nhi4a",
+      "Name": "Not Arresting You Anymore",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ql27ENDGAME",
+      "SetID": "80nhi4a",
+      "Name": "\u0022Nice shooting, son\u0022",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SaveCat",
+      "SetID": "80nhi4a",
+      "Name": "A Real Hero",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecretArcadeRoom",
+      "SetID": "80nhi4a",
+      "Name": "No stone unturned",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecretAuto9Board",
+      "SetID": "80nhi4a",
+      "Name": "Good eyes, Murphy!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShootInTheBalls",
+      "SetID": "80nhi4a",
+      "Name": "Zip This Up",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShootingRangeBronze",
+      "SetID": "80nhi4a",
+      "Name": "Dead-On",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShootingRangeGold",
+      "SetID": "80nhi4a",
+      "Name": "SuperCop",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShootingRangeSilver",
+      "SetID": "80nhi4a",
+      "Name": "\u0022This Guy Is Really Good\u0022",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SkillBranchMax",
+      "SetID": "80nhi4a",
+      "Name": "Practice Makes Perfect",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "80nhi4a",
@@ -35,8 +253,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:05:05.1201973+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:05:52.8911881+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:06.3339839+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:59:58.1225031+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:05:05.1202001+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:00:37.4590694+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:05:52.9402454+00:00"
 }

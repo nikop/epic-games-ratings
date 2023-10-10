@@ -4,7 +4,7 @@
   "ProductSlug": "the-crackpet-show-0bf5c4",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DIE_N_TIMES_IN_ROOM",
@@ -218,9 +218,9 @@
       "ID": "DO_N_RUNS_1",
       "SetID": "dcng643",
       "Name": "Rookie",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DO_N_RUNS_2",
@@ -738,9 +738,9 @@
       "ID": "USE_N_SPECIALS",
       "SetID": "dcng643",
       "Name": "MacGyver",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 105,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "USE_SKIN_PERKS",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:04:12.7364829+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:04:49.2263273+00:00",
   "LastUpdate_AppInfo": "2023-10-05T18:57:12.9442719+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:57:48.846998+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:04:12.7365543+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:58:02.9796877+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:04:49.2264877+00:00"
 }

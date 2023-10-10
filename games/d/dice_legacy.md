@@ -20,14 +20,14 @@ Rating: 4.27 (Ranked 834)
 | Incredible Strength | 4.00% | ~45 |
 | Greedy | 4.00% | ~45 |
 | The Stranded King | 4.00% | ~45 |
+| Prophecy Fulfilled | 4.00% | ~45 |
 | The Greedy Ones | 3.00% | ~33 |
-| Prophecy Fulfilled | 3.00% | ~33 |
 | The First King | 2.00% | ~22 |
 | The Unruly Ones | 2.00% | ~22 |
 | The great fire | 1.00% | ~11 |
 | The Council | 1.00% | ~11 |
 | The Mad | 1.00% | ~11 |
-| Like the dream | 0.80% | ~9 |
+| Like the dream | 0.90% | ~10 |
 | Charismatic Leader | 0.60% | ~7 |
 | Metropolis | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |

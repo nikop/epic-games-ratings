@@ -5,33 +5,33 @@ Rating: 3.55 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,598 |
-| Hard Worker | 20.00% | ~15,089 |
-| Master, Commander | 20.00% | ~15,089 |
-| Mechanic | 19.00% | ~14,335 |
-| Adios, Friendo | 18.00% | ~13,580 |
-| Bottom's Up | 18.00% | ~13,580 |
-| Nice Try | 16.00% | ~12,071 |
-| Right On Target | 13.00% | ~9,808 |
-| Piano Man | 10.00% | ~7,544 |
-| Lazy Bones | 9.00% | ~6,790 |
+| Be Seeing You | 22.00% | ~16,599 |
+| Hard Worker | 20.00% | ~15,090 |
+| Master, Commander | 20.00% | ~15,090 |
+| Mechanic | 19.00% | ~14,336 |
+| Adios, Friendo | 18.00% | ~13,581 |
+| Bottom's Up | 18.00% | ~13,581 |
+| Nice Try | 16.00% | ~12,072 |
+| Right On Target | 13.00% | ~9,809 |
+| Piano Man | 10.00% | ~7,545 |
+| Lazy Bones | 9.00% | ~6,791 |
 | Vinyl Vibes | 8.00% | ~6,036 |
-| Nothing Left to Say | 7.00% | ~5,281 |
-| Sniper | 7.00% | ~5,281 |
+| Nothing Left to Say | 7.00% | ~5,282 |
+| Sniper | 7.00% | ~5,282 |
 | Cut Call | 6.00% | ~4,527 |
-| Magnetic Miracles | 5.00% | ~3,772 |
+| Magnetic Miracles | 5.00% | ~3,773 |
 | Butcher | 4.00% | ~3,018 |
 | Spicy | 4.00% | ~3,018 |
-| A Man Of Taste | 3.00% | ~2,263 |
-| Ace in the Hole | 3.00% | ~2,263 |
-| Fair's Fair | 3.00% | ~2,263 |
-| Hearty | 3.00% | ~2,263 |
-| Meaty | 3.00% | ~2,263 |
-| Taco Toto | 3.00% | ~2,263 |
+| A Man Of Taste | 3.00% | ~2,264 |
+| Ace in the Hole | 3.00% | ~2,264 |
+| Fair's Fair | 3.00% | ~2,264 |
+| Hearty | 3.00% | ~2,264 |
+| Meaty | 3.00% | ~2,264 |
+| Taco Toto | 3.00% | ~2,264 |
 | Audiophile | 2.00% | ~1,509 |
 | Tape Head | 2.00% | ~1,509 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,445 (Ranked 89)  
+Progressed: 75,451 (Ranked 89)  
 Completed: 788 (1.04%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 788 (1.04%) (Ranked 140)
 | 2023-10-07 | 75,255 | 784 |
 | 2023-10-08 | 75,348 | 786 |
 | 2023-10-09 | 75,416 | 787 |
-| 2023-10-10 | 75,445 | 788 |
+| 2023-10-10 | 75,451 | 788 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

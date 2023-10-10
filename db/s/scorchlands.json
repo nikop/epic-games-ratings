@@ -4,7 +4,7 @@
   "ProductSlug": "scorchlands-823596",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-07T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.3418723+00:00",
   "LastChanged": "2023-03-31T05:57:53.3418725+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:07.4561985+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:03:22.1144601+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:06:43.7351367+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:03:27.485329+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:07:52.1494982+00:00"
 }

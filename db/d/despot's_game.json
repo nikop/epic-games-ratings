@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -652,9 +652,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "win-first-biom",
@@ -733,8 +733,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:05:49.8436536+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:06:47.5703074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:36.8000109+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:59:38.3077788+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:05:49.8436763+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:00:16.2359787+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:06:47.5703377+00:00"
 }

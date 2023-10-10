@@ -4,7 +4,7 @@
   "ProductSlug": "popucom-3b79ee",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T19:57:04.3510971+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:02:09.3875058+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:03:35.7621896+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:02:48.9389419+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:04:04.595055+00:00"
 }

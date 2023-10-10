@@ -3,11 +3,11 @@
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 139,
-  "Ranking_Popularity": 178,
+  "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -8050,11 +8050,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 6382,
       "NumberOfAwardsMax": 691
+    },
+    {
+      "Time": "2023-10-10T15:01:02.7796352+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 6404,
+      "NumberOfAwardsMax": 695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6382,
-  "NumberOfAwardsMax": 691,
+  "NumberOfAwards": 6404,
+  "NumberOfAwardsMax": 695,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -8103,13 +8109,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 639
+      "Count": 652
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 691
+      "Count": 695
     },
     {
       "Text": "This game is Educational",
@@ -8121,7 +8127,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 668
+      "Count": 673
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8147,8 +8153,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-10-10T14:00:18.9239717+00:00",
+  "LastChanged": "2023-10-10T15:01:02.7796348+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.7179933+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:00:18.9239722+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:08:06.0633422+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:01:02.7796359+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:09:05.9655326+00:00"
 }

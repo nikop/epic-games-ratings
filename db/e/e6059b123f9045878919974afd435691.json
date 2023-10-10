@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2071,6 +2071,11 @@
       "Time": "2023-10-10T08:04:40.9460717+00:00",
       "NumProgressed": 860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T15:05:59.8659614+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2082,7 +2087,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2098,7 +2103,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2122,7 +2127,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2362,15 +2367,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 293
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2402,7 +2407,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2506,7 +2511,7 @@
       "Name": "Buy A Book",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2520,9 +2525,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 95
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2609,14 +2614,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:05:10.9853297+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:05:59.8659608+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:58:47.8391525+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:05:10.9853914+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:59:15.6343741+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:05:59.8660449+00:00"
 }

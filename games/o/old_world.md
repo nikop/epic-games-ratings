@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.30% | ~44 |
 | Carthage | 0.30% | ~44 |
 | Assyrian Paganism | 0.30% | ~44 |
+| Hittite Paganism | 0.30% | ~44 |
 | Economic Reform | 0.30% | ~44 |
 | Military Prestige | 0.30% | ~44 |
 | Dualism | 0.30% | ~44 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.20% | ~29 |
 | Old World Order | 0.20% | ~29 |
 | One True Faith | 0.20% | ~29 |
-| Hittite Paganism | 0.20% | ~29 |
 | Industrial Progress | 0.20% | ~29 |
 | Enlightenment | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,573 (Ranked 134)  
+Progressed: 14,574 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,573 | 5 |
+| 2023-10-10 | 14,574 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 210)  

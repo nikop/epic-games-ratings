@@ -1343,9 +1343,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129539,
+  "EOS_Progressed": 129541,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18658,6 +18658,11 @@
       "Time": "2023-10-10T14:05:57.5047505+00:00",
       "NumProgressed": 129539,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-10T15:06:56.9604338+00:00",
+      "NumProgressed": 129541,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18725,7 +18730,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31089
+      "UsersEstimate": 31090
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -18773,7 +18778,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20726
+      "UsersEstimate": 20727
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -18781,7 +18786,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27203
+      "UsersEstimate": 27204
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -18805,7 +18810,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20726
+      "UsersEstimate": 20727
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -18813,7 +18818,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14249
+      "UsersEstimate": 14250
     },
     {
       "ID": "ACH_CUNO",
@@ -18885,7 +18890,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18135
+      "UsersEstimate": 18136
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -18949,7 +18954,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18135
+      "UsersEstimate": 18136
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -18988,15 +18993,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129539,
+      "Progressed": 129541,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-06T18:58:57.1340203+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:05:57.5047501+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:06:56.9604332+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:00:48.8295089+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:05:57.5048531+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:01:43.6932419+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:06:56.9605689+00:00"
 }

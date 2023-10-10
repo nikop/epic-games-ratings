@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,307 |
-| It wakes | 1.00% | ~9,307 |
-| Skillful | 1.00% | ~9,307 |
-| Not half bad | 0.90% | ~8,376 |
-| Survival Treasures | 0.90% | ~8,376 |
-| Make Some Noise | 0.90% | ~8,376 |
-| Handyman | 0.80% | ~7,446 |
-| Apt Survivor | 0.80% | ~7,446 |
-| Sorted | 0.80% | ~7,446 |
-| No one left behind | 0.70% | ~6,515 |
-| Medic | 0.70% | ~6,515 |
-| Nerves of steel | 0.70% | ~6,515 |
-| Healthy Obsession | 0.70% | ~6,515 |
-| Resurgence | 0.70% | ~6,515 |
-| The Grand Sacrifice | 0.60% | ~5,584 |
-| Agonizing Escape | 0.60% | ~5,584 |
-| Backdoor Escape | 0.60% | ~5,584 |
-| Perfect Escape | 0.60% | ~5,584 |
-| Bloody Millionaire | 0.60% | ~5,584 |
-| I | 0.60% | ~5,584 |
-| Engineer | 0.60% | ~5,584 |
-| Preemptive Strike | 0.60% | ~5,584 |
-| Humanitarian | 0.60% | ~5,584 |
+| Zealous | 1.00% | ~9,308 |
+| It wakes | 1.00% | ~9,308 |
+| Skillful | 1.00% | ~9,308 |
+| Not half bad | 0.90% | ~8,377 |
+| Apt Survivor | 0.90% | ~8,377 |
+| Survival Treasures | 0.90% | ~8,377 |
+| Make Some Noise | 0.90% | ~8,377 |
+| Handyman | 0.80% | ~7,447 |
+| Sorted | 0.80% | ~7,447 |
+| No one left behind | 0.70% | ~6,516 |
+| Medic | 0.70% | ~6,516 |
+| Nerves of steel | 0.70% | ~6,516 |
+| Healthy Obsession | 0.70% | ~6,516 |
+| Resurgence | 0.70% | ~6,516 |
+| The Grand Sacrifice | 0.60% | ~5,585 |
+| Agonizing Escape | 0.60% | ~5,585 |
+| Backdoor Escape | 0.60% | ~5,585 |
+| Perfect Escape | 0.60% | ~5,585 |
+| Bloody Millionaire | 0.60% | ~5,585 |
+| I | 0.60% | ~5,585 |
+| Engineer | 0.60% | ~5,585 |
+| Preemptive Strike | 0.60% | ~5,585 |
+| Humanitarian | 0.60% | ~5,585 |
 | I've got your back | 0.50% | ~4,654 |
 | Perfect Killing | 0.50% | ~4,654 |
 | Risk it all | 0.50% | ~4,654 |
@@ -50,6 +50,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | All Aboard | 0.30% | ~2,792 |
 | Item of Obsession | 0.30% | ~2,792 |
 | House of Pain | 0.30% | ~2,792 |
+| Cottage Owner | 0.30% | ~2,792 |
 | Holiday Get-Together | 0.30% | ~2,792 |
 | Near-Death Experience | 0.30% | ~2,792 |
 | Cherish your Life | 0.30% | ~2,792 |
@@ -69,32 +70,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.30% | ~2,792 |
 | One More Step | 0.30% | ~2,792 |
 | MU/TH/UR Dearest | 0.30% | ~2,792 |
-| A bite for the Entity | 0.20% | ~1,861 |
-| Blood on your face | 0.20% | ~1,861 |
-| Jump Scares | 0.20% | ~1,861 |
-| Hemophobia | 0.20% | ~1,861 |
-| Deep Cleansing | 0.20% | ~1,861 |
-| Leapfrog | 0.20% | ~1,861 |
-| Cottage Owner | 0.20% | ~1,861 |
-| Texas BBQ | 0.20% | ~1,861 |
-| Serial Killer | 0.20% | ~1,861 |
-| Escaping the Nightmare | 0.20% | ~1,861 |
-| Game Over | 0.20% | ~1,861 |
-| Party Crasher | 0.20% | ~1,861 |
-| Devoted Gatekeeping | 0.20% | ~1,861 |
-| Shrine Apparatus | 0.20% | ~1,861 |
-| Broken Bodies | 0.20% | ~1,861 |
-| Grim Pilgrimage | 0.20% | ~1,861 |
-| Selfless Survival | 0.20% | ~1,861 |
-| End of Days | 0.20% | ~1,861 |
-| Insult and Injury | 0.20% | ~1,861 |
-| Outrun the Overlap | 0.20% | ~1,861 |
-| High Speed Pursuit | 0.20% | ~1,861 |
-| Rebuilding The Borgo | 0.20% | ~1,861 |
-| Hack the Mainframe | 0.20% | ~1,861 |
-| Complete the Evolution | 0.20% | ~1,861 |
-| Extraterrestrial | 0.20% | ~1,861 |
-| Kitted Out | 0.20% | ~1,861 |
+| A bite for the Entity | 0.20% | ~1,862 |
+| Blood on your face | 0.20% | ~1,862 |
+| Jump Scares | 0.20% | ~1,862 |
+| Hemophobia | 0.20% | ~1,862 |
+| Deep Cleansing | 0.20% | ~1,862 |
+| Leapfrog | 0.20% | ~1,862 |
+| Texas BBQ | 0.20% | ~1,862 |
+| Serial Killer | 0.20% | ~1,862 |
+| Escaping the Nightmare | 0.20% | ~1,862 |
+| Game Over | 0.20% | ~1,862 |
+| Party Crasher | 0.20% | ~1,862 |
+| Devoted Gatekeeping | 0.20% | ~1,862 |
+| Shrine Apparatus | 0.20% | ~1,862 |
+| Broken Bodies | 0.20% | ~1,862 |
+| Grim Pilgrimage | 0.20% | ~1,862 |
+| Selfless Survival | 0.20% | ~1,862 |
+| End of Days | 0.20% | ~1,862 |
+| Insult and Injury | 0.20% | ~1,862 |
+| Outrun the Overlap | 0.20% | ~1,862 |
+| High Speed Pursuit | 0.20% | ~1,862 |
+| Rebuilding The Borgo | 0.20% | ~1,862 |
+| Hack the Mainframe | 0.20% | ~1,862 |
+| Complete the Evolution | 0.20% | ~1,862 |
+| Extraterrestrial | 0.20% | ~1,862 |
+| Kitted Out | 0.20% | ~1,862 |
 | A feast for the Entity | 0.10% | ~931 |
 | Blood in your mouth | 0.10% | ~931 |
 | Cripple them all | 0.10% | ~931 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~931 |
 | Adept Ripley | 0.10% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,722 (Ranked 14)  
+Progressed: 930,821 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,16 +409,16 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,722 | 49 |
+| 2023-10-10 | 930,821 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
-Sum: 260,831 (Ranked 13)  
+Sum: 260,876 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33,667 |
-| This game is Highly Recommended | 29,792 |
-| This game has Competitive Players | 29,485 |
+| This game is Highly Recommended | 29,816 |
+| This game has Competitive Players | 29,506 |
 | This game has Amazing Characters | 29,453 |
 | This game is Extremely Fun | 29,105 |
 | This game has Challenging Combat | 28,707 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 2
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
-| 2023-10-10 | 4.51 | - | 33,667 | 260,831 |
+| 2023-10-10 | 4.51 | - | 33,667 | 260,876 |

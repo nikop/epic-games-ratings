@@ -2259,9 +2259,9 @@
       "ID": "WINMATCH_DIFF_LEGACY",
       "SetID": "6ohhfoc",
       "Name": "Like the dream",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -2275,9 +2275,9 @@
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
@@ -2292,8 +2292,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:09:05.9970782+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:09:28.6995394+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:34.3329425+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:58:43.9278136+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:09:05.9971154+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:59:11.4108424+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:09:28.6995891+00:00"
 }

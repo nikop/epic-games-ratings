@@ -1122,9 +1122,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 229937,
+  "EOS_Progressed": 229949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1512,
+  "EOS_NewPlayers": 1515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14152,6 +14152,11 @@
       "Time": "2023-10-10T14:06:23.5185781+00:00",
       "NumProgressed": 229937,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T15:07:27.9517501+00:00",
+      "NumProgressed": 229949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14595,7 +14600,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9197
+      "UsersEstimate": 9198
     },
     {
       "ID": "ElfEpic",
@@ -14611,7 +14616,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75879
+      "UsersEstimate": 75883
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -14659,7 +14664,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13796
+      "UsersEstimate": 13797
     },
     {
       "ID": "FollowBraztok",
@@ -14691,7 +14696,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "KillGolbargh",
@@ -14715,7 +14720,7 @@
       "Name": "Gargantua",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "Orktobearfest",
@@ -14779,7 +14784,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "RangerEpic",
@@ -14851,7 +14856,7 @@
       "Name": "Material Girl",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "WizardResistBurn",
@@ -14866,21 +14871,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 229937,
+      "Progressed": 229949,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 229937,
+      "Progressed": 229949,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-09T18:59:03.5218449+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:06:23.5185777+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:07:27.9517488+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.3182894+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:59:51.6734074+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:06:23.5187181+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:00:30.3202309+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:07:27.9519377+00:00"
 }

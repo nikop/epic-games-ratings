@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 3368,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3452,9 +3452,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 73384,
+  "EOS_Progressed": 73386,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18252,6 +18252,11 @@
       "Time": "2023-10-10T13:14:02.0933251+00:00",
       "NumProgressed": 73384,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-10-10T15:03:30.1323574+00:00",
+      "NumProgressed": 73386,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 61,
@@ -18311,7 +18316,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16878
+      "UsersEstimate": 16879
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -18359,7 +18364,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12475
+      "UsersEstimate": 12476
     },
     {
       "ID": "CLAYFACE_1",
@@ -18479,7 +18484,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7338
+      "UsersEstimate": 7339
     },
     {
       "ID": "FREEZE_1",
@@ -18487,7 +18492,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21281
+      "UsersEstimate": 21282
     },
     {
       "ID": "FREEZE_1_5",
@@ -18567,7 +18572,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25684
+      "UsersEstimate": 25685
     },
     {
       "ID": "HARLEY_2",
@@ -18591,7 +18596,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11741
+      "UsersEstimate": 11742
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -18607,7 +18612,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38160
+      "UsersEstimate": 38161
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -18671,7 +18676,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16878
+      "UsersEstimate": 16879
     },
     {
       "ID": "MYSTERY_04",
@@ -18750,13 +18755,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 73384,
+      "Progressed": 73386,
       "Completed": 120
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 43664,
+      "Progressed": 43666,
       "Completed": 2666
     }
   ],
@@ -18764,8 +18769,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-09T21:59:33.7825613+00:00",
-  "LastChanged_Achievements": "2023-10-10T13:14:02.0933246+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:03:30.1323555+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:31.3761181+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:00:42.4366842+00:00",
-  "LastUpdate_Achievements": "2023-10-10T13:14:02.0934877+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:01:34.8582679+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:03:30.132647+00:00"
 }

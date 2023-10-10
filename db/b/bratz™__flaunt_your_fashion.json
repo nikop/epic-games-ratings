@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -193,6 +193,11 @@
       "Time": "2023-10-01T06:03:05.1171042+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T15:08:31.2618697+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -204,7 +209,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "10",
@@ -290,7 +295,7 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 37
     },
@@ -330,7 +335,7 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -338,7 +343,7 @@
       "ID": "8",
       "SetID": "41h3j82",
       "Name": "Hoverboard Race",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -346,7 +351,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 70,
       "UsersEstimate": 38
     }
@@ -355,7 +360,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
@@ -363,8 +368,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:07:16.7515688+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:08:31.261869+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:19.899861+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:00:31.0029968+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:07:16.7515815+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:01:15.9432005+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:08:31.2618852+00:00"
 }

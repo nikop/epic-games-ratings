@@ -15,6 +15,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 2.00% | ~2,748 |
 | Another Satisfied Customer | 2.00% | ~2,748 |
 | It's Free Real Estate | 2.00% | ~2,748 |
+| Pretty Penny | 2.00% | ~2,748 |
 | Budding Merchant | 2.00% | ~2,748 |
 | Capitalism Ho! | 2.00% | ~2,748 |
 | Own the Means of Production | 2.00% | ~2,748 |
@@ -23,7 +24,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 1.00% | ~1,374 |
 | Flooding the Market | 1.00% | ~1,374 |
 | Where it Hurts | 1.00% | ~1,374 |
-| Pretty Penny | 1.00% | ~1,374 |
 | Gild-Gotten Goods | 1.00% | ~1,374 |
 | One-Armed Bandit | 1.00% | ~1,374 |
 | Dungeon Imports | 1.00% | ~1,374 |
@@ -38,12 +38,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.90% | ~1,237 |
 | Arcane Industries | 0.90% | ~1,237 |
 | Research & Development | 0.80% | ~1,099 |
+| Fated Encounters | 0.80% | ~1,099 |
 | Power of Love | 0.80% | ~1,099 |
 | Flawless Fusion | 0.80% | ~1,099 |
 | Helping Hand | 0.80% | ~1,099 |
 | Natural 20 | 0.80% | ~1,099 |
 | Tax not Included | 0.70% | ~962 |
-| Fated Encounters | 0.70% | ~962 |
 | For the Hoard! | 0.70% | ~962 |
 | Trash to Treasure | 0.70% | ~962 |
 | Royal Ransom | 0.70% | ~962 |
@@ -74,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.60% | ~824 |
 | Scourge of the Seas | 0.60% | ~824 |
 | Attrition Mission | 0.60% | ~824 |
+| Glittering Collection | 0.60% | ~824 |
 | Moment of Respite | 0.60% | ~824 |
 | Black Friday Special | 0.60% | ~824 |
 | Special Ingredient | 0.60% | ~824 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.50% | ~687 |
 | Bountiful Harvest | 0.50% | ~687 |
 | Precision Engineering | 0.50% | ~687 |
-| Glittering Collection | 0.50% | ~687 |
 | Treasure Trove | 0.50% | ~687 |
 | King's Shadow | 0.50% | ~687 |
 | Master Recycler | 0.50% | ~687 |

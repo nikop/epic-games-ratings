@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6441,
+  "EOS_Progressed": 6444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3892,6 +3892,11 @@
       "Time": "2023-10-10T14:06:48.5102293+00:00",
       "NumProgressed": 6441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T15:07:57.812104+00:00",
+      "NumProgressed": 6444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3904,7 +3909,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4704
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3912,7 +3917,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4511
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3920,7 +3925,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3928,7 +3933,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -3952,7 +3957,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -3960,7 +3965,7 @@
       "Name": "Fae Farmer",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -3992,7 +3997,7 @@
       "Name": "Lumberjack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4000,7 +4005,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4008,7 +4013,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4016,7 +4021,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -4040,7 +4045,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4056,7 +4061,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4064,7 +4069,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4080,7 +4085,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2900
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4120,7 +4125,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -4183,7 +4188,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6441,
+      "Progressed": 6444,
       "Completed": 0
     }
   ],
@@ -4191,8 +4196,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-09T19:00:11.1644039+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:06:48.5102288+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:07:57.8121034+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:01:14.807629+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:06:48.5102692+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:02:17.802295+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:07:57.8121528+00:00"
 }

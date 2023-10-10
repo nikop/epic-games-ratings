@@ -2633,9 +2633,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -3008,8 +3008,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:05:35.5636332+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:06:30.5035928+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-10T14:00:10.52593+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:05:35.5637115+00:00"
+  "LastUpdate_Ratings": "2023-10-10T15:00:51.353+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:06:30.5036968+00:00"
 }

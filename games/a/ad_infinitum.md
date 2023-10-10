@@ -21,10 +21,10 @@
 | Clarity | 9.00% | ~4 |
 | Lost | 9.00% | ~4 |
 | Art critic | 6.00% | ~3 |
+| Jigsaw | 6.00% | ~3 |
+| Peace | 6.00% | ~3 |
 | An act of mercy | 4.00% | ~2 |
 | Ad Infinitum | 4.00% | ~2 |
-| Jigsaw | 4.00% | ~2 |
-| Peace | 4.00% | ~2 |
 | An act of compassion | 2.00% | ~1 |
 | Corruption | 2.00% | ~1 |
 | Despair | 2.00% | ~1 |

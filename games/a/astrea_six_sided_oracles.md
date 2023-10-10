@@ -37,13 +37,13 @@
 | Wave Bender | 8.00% | ~4 |
 | Apian Hero | 8.00% | ~4 |
 | Can't touch this | 6.00% | ~3 |
+| Denying Destiny | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |
 | The Dark Moon | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
 | Lacertian Hero | 6.00% | ~3 |
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
-| Denying Destiny | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |
 | Purification Avatar | 4.00% | ~2 |
 | Reflexive Mind | 4.00% | ~2 |

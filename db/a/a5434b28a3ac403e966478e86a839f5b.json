@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 72,
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
@@ -982,6 +982,11 @@
       "Time": "2023-10-10T11:09:13.338105+00:00",
       "NumProgressed": 386,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T15:09:43.8643631+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1000,9 +1005,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_eou2",
@@ -1026,15 +1031,15 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_eou6",
@@ -1088,23 +1093,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-10T14:09:18.6166712+00:00",
+  "LastChanged_Achievements": "2023-10-10T15:09:43.8643625+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-10T13:57:26.1055178+00:00",
-  "LastUpdate_Achievements": "2023-10-10T14:09:18.6166849+00:00"
+  "LastUpdate_Ratings": "2023-10-10T14:57:35.1264647+00:00",
+  "LastUpdate_Achievements": "2023-10-10T15:09:43.8643805+00:00"
 }

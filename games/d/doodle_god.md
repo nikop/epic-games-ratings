@@ -10,7 +10,7 @@
 | Creator of Diversity | 71.00% | ~172 |
 | Similar to Similar | 69.00% | ~167 |
 | Creator of Humanity | 64.00% | ~155 |
-| Creator of Civilization | 38.00% | ~92 |
+| Creator of Civilization | 39.00% | ~94 |
 | Creator of Technology | 24.00% | ~58 |
 | Honorable Santa | 21.00% | ~51 |
 | God of Fun | 18.00% | ~44 |

@@ -11,13 +11,13 @@
 | True G3M4R | 5.00% | ~14 |
 | Scholar | 5.00% | ~14 |
 | A new dawn | 5.00% | ~14 |
+| The darkness | 5.00% | ~14 |
 | I did it | 4.00% | ~11 |
+| In this together | 4.00% | ~11 |
 | Peace walker | 4.00% | ~11 |
 | Cable guy | 4.00% | ~11 |
 | A good beginning | 4.00% | ~11 |
-| The darkness | 4.00% | ~11 |
 | One last step | 4.00% | ~11 |
-| In this together | 3.00% | ~8 |
 | Half the way | 3.00% | ~8 |
 | Open door | 3.00% | ~8 |
 | Feels like springtime | 3.00% | ~8 |

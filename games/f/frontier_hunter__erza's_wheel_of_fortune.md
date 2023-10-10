@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~95 |
-| Training Simulation | 80.00% | ~82 |
-| Kuku Bird Hunter | 72.00% | ~73 |
+| Travel Streamer | 94.00% | ~96 |
+| Training Simulation | 81.00% | ~83 |
+| Kuku Bird Hunter | 73.00% | ~74 |
+| Storm Traveller | 69.00% | ~70 |
 | Fashion Connoisseur | 68.00% | ~69 |
-| Storm Traveller | 68.00% | ~69 |
 | Wolf King Killer | 67.00% | ~68 |
 | Arms Mechanic | 61.00% | ~62 |
 | Flower Thief | 58.00% | ~59 |
@@ -39,13 +39,13 @@
 | Giantess Slayer | 13.00% | ~13 |
 | Silver Moon Wolf King Challenge | 6.00% | ~6 |
 | Big Face Goalkeeper Challenge | 5.00% | ~5 |
+| Rebellious | 4.00% | ~4 |
 | Blade Mantis Challenge | 4.00% | ~4 |
 | Giant Claw Spider Challenge | 4.00% | ~4 |
 | Furious Scorpion Challenge | 4.00% | ~4 |
 | Mermaid Challenge | 4.00% | ~4 |
 | Giantess Challenge | 4.00% | ~4 |
 | Warden Challenge | 4.00% | ~4 |
-| Rebellious | 3.00% | ~3 |
 | Flying Kobold Challenge | 3.00% | ~3 |
 | Giant Lizard Challenge | 3.00% | ~3 |
 | Berserker Challenge | 3.00% | ~3 |
