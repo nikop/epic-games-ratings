@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.96% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.93% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -9,9 +9,9 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 32.14% |
 | 8 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.46% |
-| 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.73% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.09% |
+| 11 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
@@ -134,11 +134,11 @@
 | 132 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.22% |
 | 133 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 134 | [Trifox](games/t/trifox.md) | 1.09% |
-| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
-| 136 | [Infindustry](games/i/infindustry.md) | 1.06% |
-| 136 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
+| 135 | [Infindustry](games/i/infindustry.md) | 1.06% |
+| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 135 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
 | 138 | [Adios](games/a/adios.md) | 1.04% |
-| 139 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
+| 139 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 140 | [Sable](games/s/sable.md) | 1.00% |
 | 141 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
 | 141 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
