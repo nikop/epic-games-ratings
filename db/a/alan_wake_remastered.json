@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 93,
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67510,
+  "EOS_Progressed": 67512,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17539,6 +17539,11 @@
       "Time": "2023-10-10T17:09:16.1583431+00:00",
       "NumProgressed": 67510,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-10T18:08:07.6551968+00:00",
+      "NumProgressed": 67512,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17550,7 +17555,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29029
+      "UsersEstimate": 29030
     },
     {
       "ID": "02",
@@ -17582,7 +17587,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15527
+      "UsersEstimate": 15528
     },
     {
       "ID": "06",
@@ -17598,7 +17603,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "08",
@@ -17606,7 +17611,7 @@
       "Name": "Iron Horse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "09",
@@ -17638,7 +17643,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "13",
@@ -17718,7 +17723,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10126
+      "UsersEstimate": 10127
     },
     {
       "ID": "23",
@@ -17734,7 +17739,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8776
+      "UsersEstimate": 8777
     },
     {
       "ID": "25",
@@ -17750,7 +17755,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8776
+      "UsersEstimate": 8777
     },
     {
       "ID": "27",
@@ -17758,7 +17763,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "28",
@@ -17766,7 +17771,7 @@
       "Name": "Come One, Come All",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "29",
@@ -17798,7 +17803,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 22278
+      "UsersEstimate": 22279
     },
     {
       "ID": "33",
@@ -17822,7 +17827,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23628
+      "UsersEstimate": 23629
     },
     {
       "ID": "36",
@@ -17958,7 +17963,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "53",
@@ -18085,21 +18090,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67510,
+      "Progressed": 67512,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 30978,
+      "Progressed": 30980,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:09:16.1583426+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:08:07.6551963+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:59:47.5040309+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:09:16.158625+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:58:57.2638582+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:08:07.6553657+00:00"
 }

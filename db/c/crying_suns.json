@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 468847,
+  "EOS_Progressed": 468848,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18747,6 +18747,11 @@
       "Time": "2023-10-10T17:08:42.7155263+00:00",
       "NumProgressed": 468847,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-10T18:06:41.5915569+00:00",
+      "NumProgressed": 468848,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -18774,7 +18779,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112523
+      "UsersEstimate": 112524
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -18782,7 +18787,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103146
+      "UsersEstimate": 103147
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -18846,7 +18851,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309439
+      "UsersEstimate": 309440
     },
     {
       "ID": "achievement_story_landa",
@@ -18934,7 +18939,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93769
+      "UsersEstimate": 93770
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -19214,7 +19219,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182850
+      "UsersEstimate": 182851
     },
     {
       "ID": "achievement_win_run_hard",
@@ -19270,7 +19275,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103146
+      "UsersEstimate": 103147
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -19389,21 +19394,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 12781,
+      "Progressed": 12782,
       "Completed": 2357
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 468847,
+      "Progressed": 468848,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:08:42.7155259+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:06:41.5915563+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:12.2439016+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:01:10.581078+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:08:42.7157407+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:59:48.2879607+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:06:41.5917538+00:00"
 }

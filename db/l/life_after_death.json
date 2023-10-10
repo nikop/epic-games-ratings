@@ -4,7 +4,7 @@
   "ProductSlug": "life-after-death-b4e964",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -141,6 +141,11 @@
       "Time": "2023-10-08T18:03:37.7211411+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T18:03:19.0357278+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -158,7 +163,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -246,7 +251,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -334,7 +339,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "c98563l",
       "Name": "There is always a first time!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -631,14 +636,14 @@
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T22:59:29.6745505+00:00",
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:04.0176835+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:19.0357272+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:01.2801804+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:02:28.9312549+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:04.0177464+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:00:37.5239428+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:19.0357895+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -1732,9 +1732,9 @@
       "ID": "GET_MONEY_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Rich Now!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 842
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1845,8 +1845,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:05:28.8536115+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:04:26.8795334+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:54.3101384+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:59:10.0259838+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:05:28.8536379+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:58:30.1334745+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:04:26.8795627+00:00"
 }

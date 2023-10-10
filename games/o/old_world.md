@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 297)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,11 +28,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.90% | ~131 |
 | Just | 0.90% | ~131 |
 | Keystone | 0.90% | ~131 |
+| Warrior | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
 | Enlightened | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
-| Warrior | 0.80% | ~117 |
+| Wise | 0.80% | ~117 |
 | Developing Cities | 0.80% | ~117 |
 | Strong Cities | 0.80% | ~117 |
 | Ishtar Gate | 0.80% | ~117 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
 | Fountainhead | 0.70% | ~102 |
-| Wise | 0.70% | ~102 |
 | Able Difficulty | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.70% | ~102 |
 | Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
+| Drillmaster | 0.60% | ~87 |
 | Great | 0.60% | ~87 |
 | Legendary Cities | 0.60% | ~87 |
 | Just Difficulty | 0.60% | ~87 |
@@ -64,7 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.60% | ~87 |
 | Regicide | 0.50% | ~73 |
 | Hanging Gardens in Babylon | 0.50% | ~73 |
-| Drillmaster | 0.50% | ~73 |
+| Conqueror | 0.50% | ~73 |
 | Mighty | 0.50% | ~73 |
 | Valiant | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
@@ -74,12 +75,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Beloved | 0.40% | ~58 |
-| Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
 | Lion | 0.40% | ~58 |
 | Victorious | 0.40% | ~58 |
 | Good Difficulty | 0.40% | ~58 |
 | Patrons | 0.40% | ~58 |
+| Hittite Iron | 0.40% | ~58 |
 | Circus Maximus | 0.40% | ~58 |
 | Hagia Sophia | 0.40% | ~58 |
 | Pantheon | 0.40% | ~58 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.30% | ~44 |
 | Statesmen | 0.30% | ~44 |
 | Traders | 0.30% | ~44 |
-| Hittite Iron | 0.30% | ~44 |
 | Church of the Holy Sepulchre | 0.30% | ~44 |
 | Temple of Solomon | 0.30% | ~44 |
 | Learn to Play 4 | 0.30% | ~44 |
@@ -120,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.30% | ~44 |
 | Legionary | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
+| Turreted Elephant | 0.30% | ~44 |
 | Ambition Victory | 0.30% | ~44 |
 | The Clergy | 0.30% | ~44 |
 | The Great Mage | 0.30% | ~44 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.20% | ~29 |
 | Veneration | 0.20% | ~29 |
 | Cataphract Archer | 0.20% | ~29 |
-| Turreted Elephant | 0.20% | ~29 |
 | All Nations | 0.20% | ~29 |
 | No Undo | 0.20% | ~29 |
 | Poetic Leader | 0.20% | ~29 |
@@ -196,6 +196,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.10% | ~15 |
 | Nenikekamen | 0.10% | ~15 |
 | Get the Hellas Out | 0.10% | ~15 |
+| Not a Chance | 0.10% | ~15 |
 | The Turning Point | 0.10% | ~15 |
 | A Good Start | 0.10% | ~15 |
 | Like a Lion | 0.10% | ~15 |
@@ -322,7 +323,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Not a Chance | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,578 (Ranked 134)  
+Progressed: 14,580 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,578 | 5 |
+| 2023-10-10 | 14,580 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,832 (Ranked 210)  

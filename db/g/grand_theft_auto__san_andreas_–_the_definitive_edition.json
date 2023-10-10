@@ -2,9 +2,9 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 313,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 156,
@@ -1118,10 +1118,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 478,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-10-10T18:00:17.5416262+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 499,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 478,
+  "NumberOfAwards": 499,
   "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1160,11 +1166,17 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 13155,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12864,9 +12876,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-10T10:00:47.4508102+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:14.4185251+00:00",
+  "LastChanged": "2023-10-10T18:00:17.5416261+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:26.2480287+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:41.6586777+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:01:57.3352617+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:14.4186624+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:00:17.5416265+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:26.2481254+00:00"
 }

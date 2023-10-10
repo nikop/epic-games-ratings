@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.64,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -291,6 +291,11 @@
       "Time": "2023-10-08T19:07:08.9924999+00:00",
       "NumProgressed": 55,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-10T18:03:28.5505714+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -301,7 +306,7 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 60,
       "UsersEstimate": 24
     },
@@ -311,7 +316,7 @@
       "Name": "Laser Beam",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -325,7 +330,7 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 60,
       "UsersEstimate": 31
     },
@@ -335,7 +340,7 @@
       "Name": "Murderer",
       "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -343,7 +348,7 @@
       "Name": "Killer",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -357,15 +362,15 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 60,
       "UsersEstimate": 17
     },
@@ -373,7 +378,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 60,
       "UsersEstimate": 13
     },
@@ -413,7 +418,7 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 60,
       "UsersEstimate": 26
     },
@@ -421,7 +426,7 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 110,
       "UsersEstimate": 18
     },
@@ -431,21 +436,21 @@
       "Name": "Strong",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:17.7747283+00:00",
-  "LastUpdate_AppInfo": "2023-10-03T16:58:04.8127332+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:57:23.8086542+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:17.7747446+00:00"
+  "LastChanged_Achievements": "2023-10-10T18:03:28.5505708+00:00",
+  "LastUpdate_AppInfo": "2023-10-10T17:57:11.5504269+00:00",
+  "LastUpdate_Ratings": "2023-10-10T17:57:16.5746811+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:28.550586+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -974,10 +974,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 274,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-10T17:58:11.2216629+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 274,
+  "NumberOfAwards": 275,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -997,7 +1003,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has a Creative Community",
@@ -1036,9 +1042,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151460,
+  "EOS_Progressed": 151462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1659,
+  "EOS_NewPlayers": 1641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11146,6 +11152,11 @@
       "Time": "2023-10-10T17:07:52.2221675+00:00",
       "NumProgressed": 151460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T18:06:06.5437729+00:00",
+      "NumProgressed": 151462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11524,21 +11535,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151043,
+      "Progressed": 151045,
       "Completed": 1153
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151460,
+      "Progressed": 151462,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-10T10:58:22.1492085+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:07:52.2221669+00:00",
+  "LastChanged": "2023-10-10T17:58:11.2216628+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:06:06.5437722+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:58:43.844374+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:07:52.2222814+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:58:11.2216633+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:06:06.5438731+00:00"
 }

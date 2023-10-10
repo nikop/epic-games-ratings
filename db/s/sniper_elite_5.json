@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3720,
+  "EOS_Progressed": 3721,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7150,6 +7150,11 @@
       "Time": "2023-10-10T11:05:52.3145489+00:00",
       "NumProgressed": 3720,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-10T18:05:17.794864+00:00",
+      "NumProgressed": 3721,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7169,7 +7174,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7217,7 +7222,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7241,7 +7246,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7297,7 +7302,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7329,7 +7334,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7385,7 +7390,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7401,7 +7406,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7409,7 +7414,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7497,7 +7502,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7728,13 +7733,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3671,
+      "Progressed": 3672,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3720,
+      "Progressed": 3721,
       "Completed": 11
     }
   ],
@@ -7742,8 +7747,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:06:42.2934748+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:05:17.7948628+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:58:24.9230969+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:06:42.2936034+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:57:57.9649738+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:05:17.7949766+00:00"
 }

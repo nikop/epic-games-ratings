@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1479,
+  "EOS_Progressed": 1480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3000,6 +3000,11 @@
       "Time": "2023-10-10T08:05:02.5210224+00:00",
       "NumProgressed": 1479,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T18:05:08.5419227+00:00",
+      "NumProgressed": 1480,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3035,7 +3040,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Boy",
@@ -3091,7 +3096,7 @@
       "Name": "E1M1",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "Everyone_is_here",
@@ -3139,7 +3144,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "High_noon",
@@ -3163,7 +3168,7 @@
       "Name": "Spice It Up",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "KillAllM2",
@@ -3227,7 +3232,7 @@
       "Name": "War Never Changes",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "We_were_not_here",
@@ -3250,15 +3255,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1479,
+      "Progressed": 1480,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:06:28.570244+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:05:08.5419214+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:37.6923731+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:01:49.4524323+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:06:28.5702858+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:00:12.530224+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:05:08.5419619+00:00"
 }

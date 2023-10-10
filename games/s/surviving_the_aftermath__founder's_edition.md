@@ -6,13 +6,13 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,846 |
-| Leader | 60.00% | ~5,705 |
+| First Step | 72.00% | ~6,847 |
+| Leader | 60.00% | ~5,706 |
 | Explorer | 53.00% | ~5,040 |
 | Healer | 52.00% | ~4,945 |
 | Aspiring Inventor | 44.00% | ~4,184 |
 | Adventurer | 41.00% | ~3,899 |
-| Famous Healer | 38.00% | ~3,613 |
+| Famous Healer | 38.00% | ~3,614 |
 | Local Leader | 35.00% | ~3,328 |
 | Famous Explorer | 34.00% | ~3,233 |
 | New Opportunities | 34.00% | ~3,233 |
@@ -23,8 +23,8 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,663 |
 | Cleaner | 28.00% | ~2,663 |
 | Catastrofan | 28.00% | ~2,663 |
-| Finders, Keepers | 26.00% | ~2,472 |
-| Top Notch | 25.00% | ~2,377 |
+| Finders, Keepers | 26.00% | ~2,473 |
+| Top Notch | 25.00% | ~2,378 |
 | Great Leader | 23.00% | ~2,187 |
 | Mentor | 23.00% | ~2,187 |
 | Merchant | 22.00% | ~2,092 |
@@ -48,7 +48,7 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~666 |
 | Really Friendly | 6.00% | ~571 |
 | Amped Up | 6.00% | ~571 |
-| Look, no Hands! | 5.00% | ~475 |
+| Look, no Hands! | 5.00% | ~476 |
 | Luxurious Living | 4.00% | ~380 |
 | Mogul | 3.00% | ~285 |
 | Ranch Hand | 3.00% | ~285 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~19 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,509 (Ranked 148)  
+Progressed: 9,510 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-07 | 9,463 | 0 |
 | 2023-10-08 | 9,488 | 0 |
 | 2023-10-09 | 9,502 | 0 |
-| 2023-10-10 | 9,509 | 0 |
+| 2023-10-10 | 9,510 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 341)  
 Sum: 708 (Ranked 283)  

@@ -4,10 +4,10 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 797,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -261,7 +261,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203212,
+  "EOS_Progressed": 203215,
   "EOS_Completed": 514,
   "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 2,
@@ -18961,6 +18961,11 @@
       "Time": "2023-10-10T17:09:42.8533561+00:00",
       "NumProgressed": 203212,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-10-10T18:08:26.1545296+00:00",
+      "NumProgressed": 203215,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 29,
@@ -18996,7 +19001,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191019
+      "UsersEstimate": 191022
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19004,7 +19009,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -19068,7 +19073,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -19156,7 +19161,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20321
+      "UsersEstimate": 20322
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -19203,7 +19208,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203212,
+      "Progressed": 203215,
       "Completed": 514
     }
   ],
@@ -19211,8 +19216,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:09:42.8533555+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:08:26.1545287+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9270429+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:02:00.1925651+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:09:42.8535128+00:00"
+  "LastUpdate_Ratings": "2023-10-10T18:00:19.2366453+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:08:26.1546661+00:00"
 }

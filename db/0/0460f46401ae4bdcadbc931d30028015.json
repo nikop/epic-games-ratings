@@ -346,9 +346,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2339,
+  "EOS_Progressed": 2340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2146,6 +2146,11 @@
       "Time": "2023-10-10T17:08:44.9744779+00:00",
       "NumProgressed": 2339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T18:06:43.0745897+00:00",
+      "NumProgressed": 2340,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2190,7 +2195,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "achievement_14",
@@ -2254,7 +2259,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "achievement_21",
@@ -2286,7 +2291,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_6",
@@ -2316,16 +2321,16 @@
       "ID": "achievement_9",
       "SetID": "aiin7da",
       "Name": "Future of the Franchise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 328
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2339,
+      "Progressed": 2340,
       "Completed": 0
     }
   ],
@@ -2333,8 +2338,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-09T17:58:27.4858381+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:08:44.9744771+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:06:43.0745891+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:59:40.7738643+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:08:44.9745084+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:58:52.3367195+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:06:43.0746182+00:00"
 }

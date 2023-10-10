@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.5,
+  "EOS_NewPlayers": 5,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 16.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3043,6 +3043,11 @@
       "Time": "2023-10-10T04:04:23.7175328+00:00",
       "NumProgressed": 721,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-10-10T18:03:27.3300406+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 22,
@@ -3054,7 +3059,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "LEVEL_002",
@@ -3062,7 +3067,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "LEVEL_003",
@@ -3070,7 +3075,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "LEVEL_004",
@@ -3086,7 +3091,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "LEVEL_006",
@@ -3118,7 +3123,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_010",
@@ -3150,7 +3155,7 @@
       "Name": "Elevated ring",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_014",
@@ -3212,24 +3217,24 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 119
     }
   ],
@@ -3237,8 +3242,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:16.024036+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:27.33004+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:26.9478051+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:57:30.2506494+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:16.024083+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:57:20.7912934+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:27.3300726+00:00"
 }

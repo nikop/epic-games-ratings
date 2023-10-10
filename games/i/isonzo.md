@@ -23,9 +23,9 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 19.00% | ~1,337 |
 | The Lion of the Isonzo | 18.00% | ~1,267 |
 | Luigi Cadorna | 15.00% | ~1,056 |
+| Uomo Universale | 15.00% | ~1,056 |
 | Dirty Dozen | 14.00% | ~985 |
 | Shaken, Not Stirred | 14.00% | ~985 |
-| Uomo Universale | 14.00% | ~985 |
 | Die Bosniaken Kommen! | 13.00% | ~915 |
 | Machiavelli | 13.00% | ~915 |
 | Thus With A Kiss | 13.00% | ~915 |
@@ -222,8 +222,8 @@ Completed: 8 (0.11%) (Ranked 243)
 | 2023-10-10 | 7,039 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 450)  
-Sum: 274 (Ranked 357)  
-Diff (max vs sum): 93  
+Sum: 274 (Ranked 358)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

@@ -668,10 +668,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-10-10T17:59:35.6472223+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
+  "NumberOfAwards": 73,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -685,7 +691,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
@@ -694,9 +700,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2759,6 +2765,11 @@
       "Time": "2023-10-10T13:10:07.4328309+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T18:03:52.289352+00:00",
+      "NumProgressed": 2359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -2779,7 +2790,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "achievement_11",
@@ -2819,7 +2830,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_16",
@@ -2907,7 +2918,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_7",
@@ -2938,16 +2949,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-10-07T22:57:57.6340507+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:51.8226775+00:00",
+  "LastChanged": "2023-10-10T17:59:35.6472222+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:52.289351+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.3611516+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:00:52.4297646+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:51.8227074+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:59:35.6472228+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:52.2893827+00:00"
 }

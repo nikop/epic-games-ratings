@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -2609,6 +2609,11 @@
       "Time": "2023-10-10T17:06:26.8087458+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T18:05:07.3067683+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2661,7 +2666,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2773,7 +2778,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2845,7 +2850,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -2973,7 +2978,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3012,14 +3017,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:06:26.8087453+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:05:07.3067675+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-10T17:00:56.1454704+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:06:26.8088457+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:59:38.0913185+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:05:07.3068285+00:00"
 }

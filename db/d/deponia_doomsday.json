@@ -2,12 +2,12 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -77,11 +77,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -457,6 +457,11 @@
       "Time": "2023-10-09T03:02:42.9216657+00:00",
       "NumProgressed": 433,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T18:03:41.823873+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -468,7 +473,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "dep4_achievement_10",
@@ -538,9 +543,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 217
     },
     {
       "ID": "dep4_achievement_19",
@@ -548,7 +553,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "dep4_achievement_2",
@@ -556,7 +561,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "dep4_achievement_20",
@@ -578,9 +583,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "dep4_achievement_23",
@@ -612,7 +617,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "dep4_achievement_27",
@@ -628,7 +633,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "dep4_achievement_29",
@@ -652,7 +657,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "dep4_achievement_31",
@@ -708,7 +713,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "dep4_achievement_5",
@@ -716,7 +721,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "dep4_achievement_6",
@@ -724,7 +729,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_7",
@@ -755,7 +760,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 6
     }
   ],
@@ -763,8 +768,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:04:36.9938815+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:41.8238722+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.4850367+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:58:02.9670794+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:04:36.9939129+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:57:42.8947914+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:41.8239075+00:00"
 }

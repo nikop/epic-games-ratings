@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18720,
+  "EOS_Progressed": 18721,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14177,6 +14177,11 @@
       "Time": "2023-10-10T16:03:12.7384375+00:00",
       "NumProgressed": 18720,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-10T18:03:11.1591502+00:00",
+      "NumProgressed": 18721,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -14204,7 +14209,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -14212,7 +14217,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -14252,7 +14257,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -14299,15 +14304,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18720,
+      "Progressed": 18721,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:03:52.5124032+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:03:11.1591496+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:57:32.3649453+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:03:52.5125833+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:57:21.9661267+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:03:11.1592411+00:00"
 }

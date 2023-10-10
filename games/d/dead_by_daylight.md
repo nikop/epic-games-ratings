@@ -6,39 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,310 |
-| It wakes | 1.00% | ~9,310 |
-| Skillful | 1.00% | ~9,310 |
-| Not half bad | 0.90% | ~8,379 |
-| Apt Survivor | 0.90% | ~8,379 |
-| Survival Treasures | 0.90% | ~8,379 |
-| Make Some Noise | 0.90% | ~8,379 |
-| Handyman | 0.80% | ~7,448 |
-| Sorted | 0.80% | ~7,448 |
-| No one left behind | 0.70% | ~6,517 |
-| Medic | 0.70% | ~6,517 |
-| Nerves of steel | 0.70% | ~6,517 |
-| Bloody Millionaire | 0.70% | ~6,517 |
-| Healthy Obsession | 0.70% | ~6,517 |
-| Resurgence | 0.70% | ~6,517 |
-| The Grand Sacrifice | 0.60% | ~5,586 |
-| Agonizing Escape | 0.60% | ~5,586 |
-| Backdoor Escape | 0.60% | ~5,586 |
-| Perfect Escape | 0.60% | ~5,586 |
-| I | 0.60% | ~5,586 |
-| Engineer | 0.60% | ~5,586 |
-| Preemptive Strike | 0.60% | ~5,586 |
-| Humanitarian | 0.60% | ~5,586 |
-| I've got your back | 0.50% | ~4,655 |
-| Perfect Killing | 0.50% | ~4,655 |
-| Risk it all | 0.50% | ~4,655 |
-| II | 0.50% | ~4,655 |
-| Wounded Healer | 0.50% | ~4,655 |
-| Close Shave | 0.50% | ~4,655 |
-| Apt Killer | 0.40% | ~3,724 |
+| Zealous | 1.00% | ~9,311 |
+| It wakes | 1.00% | ~9,311 |
+| Skillful | 1.00% | ~9,311 |
+| Not half bad | 0.90% | ~8,380 |
+| Apt Survivor | 0.90% | ~8,380 |
+| Survival Treasures | 0.90% | ~8,380 |
+| Make Some Noise | 0.90% | ~8,380 |
+| Handyman | 0.80% | ~7,449 |
+| Sorted | 0.80% | ~7,449 |
+| The Grand Sacrifice | 0.70% | ~6,518 |
+| No one left behind | 0.70% | ~6,518 |
+| Medic | 0.70% | ~6,518 |
+| Nerves of steel | 0.70% | ~6,518 |
+| Bloody Millionaire | 0.70% | ~6,518 |
+| Healthy Obsession | 0.70% | ~6,518 |
+| Resurgence | 0.70% | ~6,518 |
+| Agonizing Escape | 0.60% | ~5,587 |
+| Backdoor Escape | 0.60% | ~5,587 |
+| Perfect Escape | 0.60% | ~5,587 |
+| I | 0.60% | ~5,587 |
+| Engineer | 0.60% | ~5,587 |
+| Preemptive Strike | 0.60% | ~5,587 |
+| Humanitarian | 0.60% | ~5,587 |
+| I've got your back | 0.50% | ~4,656 |
+| Perfect Killing | 0.50% | ~4,656 |
+| Apt Killer | 0.50% | ~4,656 |
+| Risk it all | 0.50% | ~4,656 |
+| II | 0.50% | ~4,656 |
+| Wounded Healer | 0.50% | ~4,656 |
+| Close Shave | 0.50% | ~4,656 |
 | Vulture | 0.40% | ~3,724 |
 | III | 0.40% | ~3,724 |
 | First to the Punch | 0.40% | ~3,724 |
+| Every Last Drop | 0.40% | ~3,724 |
 | With Scars to Show | 0.40% | ~3,724 |
 | Second Act | 0.40% | ~3,724 |
 | Blood on your hands | 0.30% | ~2,793 |
@@ -62,7 +63,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Operation: Survival | 0.30% | ~2,793 |
 | Old West Oasis | 0.30% | ~2,793 |
 | Classy Act | 0.30% | ~2,793 |
-| Every Last Drop | 0.30% | ~2,793 |
 | Raccoon City Recruit | 0.30% | ~2,793 |
 | Flight to Freedom | 0.30% | ~2,793 |
 | A Fast Death | 0.30% | ~2,793 |
@@ -81,6 +81,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.20% | ~1,862 |
 | Game Over | 0.20% | ~1,862 |
 | Party Crasher | 0.20% | ~1,862 |
+| Outrage | 0.20% | ~1,862 |
 | Devoted Gatekeeping | 0.20% | ~1,862 |
 | Shrine Apparatus | 0.20% | ~1,862 |
 | Broken Bodies | 0.20% | ~1,862 |
@@ -142,7 +143,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Clown | 0.10% | ~931 |
 | Whiffing to Success | 0.10% | ~931 |
 | Adept Kate | 0.10% | ~931 |
-| Outrage | 0.10% | ~931 |
 | Conniption | 0.10% | ~931 |
 | Adept Spirit | 0.10% | ~931 |
 | Not Today | 0.10% | ~931 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~931 |
 | Adept Ripley | 0.10% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,001 (Ranked 14)  
+Progressed: 931,108 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,10 +409,10 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 931,001 | 49 |
+| 2023-10-10 | 931,108 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
-Sum: 260,936 (Ranked 13)  
+Sum: 260,963 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -420,7 +420,7 @@ Diff (max vs sum): 2
 | This game is Highly Recommended | 29,816 |
 | This game has Competitive Players | 29,506 |
 | This game has Amazing Characters | 29,480 |
-| This game is Extremely Fun | 29,105 |
+| This game is Extremely Fun | 29,132 |
 | This game has Challenging Combat | 28,707 |
 | This game has Quickly Understood Controls | 28,648 |
 | This game has Amazing Storytelling | 26,732 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 2
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
-| 2023-10-10 | 4.51 | - | 33,667 | 260,936 |
+| 2023-10-10 | 4.51 | - | 33,667 | 260,963 |

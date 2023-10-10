@@ -1,32 +1,32 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 100.00% | ~19,078 |
-| Before the Downfall | 95.00% | ~18,124 |
-| Money like Water | 94.00% | ~17,933 |
-| Minimalist | 92.00% | ~17,552 |
-| Builder | 85.00% | ~16,216 |
-| Eraser | 72.00% | ~13,736 |
-| Pocket of Trains | 67.00% | ~12,782 |
-| Inspector | 60.00% | ~11,447 |
-| Going the Distance | 55.00% | ~10,493 |
-| Oil Baron | 43.00% | ~8,204 |
-| Loads-a-Money | 43.00% | ~8,204 |
-| Helper of the People | 40.00% | ~7,631 |
+| Trevithick's Legacy | 100.00% | ~19,076 |
+| Before the Downfall | 95.00% | ~18,122 |
+| Money like Water | 94.00% | ~17,931 |
+| Minimalist | 92.00% | ~17,550 |
+| Builder | 85.00% | ~16,215 |
+| Eraser | 72.00% | ~13,735 |
+| Pocket of Trains | 67.00% | ~12,781 |
+| Inspector | 61.00% | ~11,636 |
+| Going the Distance | 55.00% | ~10,492 |
+| Oil Baron | 43.00% | ~8,203 |
+| Loads-a-Money | 43.00% | ~8,203 |
+| Helper of the People | 40.00% | ~7,630 |
 | Simplification | 35.00% | ~6,677 |
-| Box of Trains | 34.00% | ~6,487 |
-| Let There be Light | 33.00% | ~6,296 |
-| Hot Water | 32.00% | ~6,105 |
+| Box of Trains | 34.00% | ~6,486 |
+| Let There be Light | 33.00% | ~6,295 |
+| Hot Water | 32.00% | ~6,104 |
 | Indecisive | 30.00% | ~5,723 |
-| The scenic route | 28.00% | ~5,342 |
+| The scenic route | 28.00% | ~5,341 |
 | Industrialist | 26.00% | ~4,960 |
-| Perfectionist | 24.00% | ~4,579 |
-| Trains over Pipes | 24.00% | ~4,579 |
-| 8K is Enough for Everyone | 23.00% | ~4,388 |
+| Perfectionist | 24.00% | ~4,578 |
+| Trains over Pipes | 24.00% | ~4,578 |
+| 8K is Enough for Everyone | 23.00% | ~4,387 |
 | Man of Steel | 17.00% | ~3,243 |
 | Room Full of Trains | 13.00% | ~2,480 |
 | Investor | 10.00% | ~1,908 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 489)
 | Overdeer | 0.60% | ~114 |
 | Cloud Services | 0.30% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,078 (Ranked 126)  
+Progressed: 19,076 (Ranked 126)  
 Completed: 34 (0.18%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |

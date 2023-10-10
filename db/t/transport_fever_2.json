@@ -4186,9 +4186,9 @@
       "ID": "achEpec",
       "SetID": "dgl390n",
       "Name": "E.P.E.C.",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 104
     },
     {
       "ID": "achFirstAircraftArrived",
@@ -4490,8 +4490,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-09T03:01:23.2061764+00:00",
-  "LastChanged_Achievements": "2023-10-10T17:08:51.3046098+00:00",
+  "LastChanged_Achievements": "2023-10-10T18:06:47.6410172+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:19.9284245+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:57:24.5727567+00:00",
-  "LastUpdate_Achievements": "2023-10-10T17:08:51.3047207+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:57:17.0432285+00:00",
+  "LastUpdate_Achievements": "2023-10-10T18:06:47.6410869+00:00"
 }

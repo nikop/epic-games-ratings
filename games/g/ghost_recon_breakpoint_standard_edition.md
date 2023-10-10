@@ -1,17 +1,17 @@
 # Ghost Recon Breakpoint Standard Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-breakpoint)  
 [View Rawdata](../../db/g/ghost_recon_breakpoint_standard_edition.json)  
-Rating: 4.55 (Ranked 489)  
+Rating: 4.55 (Ranked 490)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,518  (Ranked 125)  
-Sum: 11,746 (Ranked 80)  
+Sum: 11,751 (Ranked 80)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,518 |
 | This game has Quickly Understood Controls | 1,384 |
-| This game is Relaxing | 1,362 |
+| This game is Relaxing | 1,367 |
 | This game has Amazing Storytelling | 1,317 |
 | This game is Extremely Fun | 1,310 |
 | This game is Highly Recommended | 1,301 |
@@ -290,4 +290,4 @@ Diff (max vs sum): 45
 | 2023-10-07 | 4.55 | - | 1,507 | 11,612 |
 | 2023-10-08 | 4.55 | - | 1,507 | 11,675 |
 | 2023-10-09 | 4.55 | - | 1,514 | 11,726 |
-| 2023-10-10 | 4.55 | - | 1,518 | 11,746 |
+| 2023-10-10 | 4.55 | - | 1,518 | 11,751 |

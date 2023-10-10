@@ -9,29 +9,29 @@
 | Lacertian Champion | 22.00% | ~11 |
 | Endless Tricks | 20.00% | ~10 |
 | Meissa's Savior | 20.00% | ~10 |
+| Shard Spender | 20.00% | ~10 |
 | Eridanian Champion | 20.00% | ~10 |
 | Dicesmithing Time! | 18.00% | ~9 |
 | Loyal Partner | 18.00% | ~9 |
 | Mechanical Buddy | 18.00% | ~9 |
 | Purification Pioneer | 18.00% | ~9 |
 | Sanctuary Guardian | 18.00% | ~9 |
-| Shard Spender | 18.00% | ~9 |
 | Stellar Dismantler | 18.00% | ~9 |
 | Wild's Keeper | 18.00% | ~9 |
 | Anomaly Destroyer | 16.00% | ~8 |
 | Mind Illuminator | 16.00% | ~8 |
 | Aquarian Champion | 16.00% | ~8 |
 | Behenian Champion | 16.00% | ~8 |
+| Heart Gate | 14.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
-| Heart Gate | 12.00% | ~6 |
+| Astral Seeker | 12.00% | ~6 |
+| The Corruption Goddess | 12.00% | ~6 |
+| The Goddes Avatar | 12.00% | ~6 |
 | Unbeatable | 12.00% | ~6 |
-| Astral Seeker | 10.00% | ~5 |
 | Favored by the Cosmos | 10.00% | ~5 |
 | Sadistic Plan | 10.00% | ~5 |
 | Star Killer | 10.00% | ~5 |
 | Stellar Haste | 10.00% | ~5 |
-| The Corruption Goddess | 10.00% | ~5 |
-| The Goddes Avatar | 10.00% | ~5 |
 | Anomaly Control | 8.00% | ~4 |
 | Heavy Purger | 8.00% | ~4 |
 | Wave Bender | 8.00% | ~4 |
@@ -41,6 +41,7 @@
 | Purification Avatar | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |
 | The Dark Moon | 6.00% | ~3 |
+| The Distorted Sage | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
 | Lacertian Hero | 6.00% | ~3 |
 | Artificer | 4.00% | ~2 |
@@ -48,7 +49,6 @@
 | If I Had Failed... | 4.00% | ~2 |
 | Reflexive Mind | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
-| The Distorted Sage | 4.00% | ~2 |
 | Aquarian Mastery | 4.00% | ~2 |
 | Behenian Mastery | 4.00% | ~2 |
 | Lacertian Mastery | 4.00% | ~2 |
@@ -64,6 +64,7 @@
 | This is Fine | 2.00% | ~1 |
 | Aquarian Hero | 2.00% | ~1 |
 | Eridanian Mastery | 2.00% | ~1 |
+| Noctuan Hero | 2.00% | ~1 |
 | Noctuan Mastery | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
@@ -101,7 +102,6 @@
 | Virtuous Warrior | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
-| Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 312)  
