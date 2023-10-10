@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~513 |
-| Off to a good start | 67.00% | ~382 |
-| Do... or do not. There is no try | 53.00% | ~302 |
+| New Recruit | 90.00% | ~515 |
+| Off to a good start | 67.00% | ~383 |
+| Do... or do not. There is no try | 53.00% | ~303 |
 | A good blaster at your side | 34.00% | ~194 |
 | Scrap collector | 21.00% | ~120 |
 | I suggest a new strategy | 20.00% | ~114 |
-| Great shot, kid! | 19.00% | ~108 |
+| Great shot, kid! | 19.00% | ~109 |
 | All right, I'll give it a try | 18.00% | ~103 |
 | Shoot first | 18.00% | ~103 |
 | The power of the Force | 17.00% | ~97 |
-| Collector | 16.00% | ~91 |
-| Together we can rule the galaxy | 16.00% | ~91 |
-| Tell Jabba that I've got his money | 12.00% | ~68 |
-| Best star-pilot in the galaxy | 12.00% | ~68 |
-| Survivor | 12.00% | ~68 |
+| Together we can rule the galaxy | 17.00% | ~97 |
+| Collector | 16.00% | ~92 |
+| Tell Jabba that I've got his money | 12.00% | ~69 |
+| Best star-pilot in the galaxy | 12.00% | ~69 |
+| Survivor | 12.00% | ~69 |
 | A cunning warrior | 11.00% | ~63 |
 | What's the cargo? | 10.00% | ~57 |
 | Never tell me the odds! | 10.00% | ~57 |
@@ -30,20 +30,20 @@
 | Support the troops | 8.00% | ~46 |
 | Not bad for a little furball | 6.00% | ~34 |
 | Patience you must have | 6.00% | ~34 |
-| On the ball | 5.00% | ~28 |
-| Safety ain't the point of a joyride | 5.00% | ~28 |
-| Don't underestimate the Force | 5.00% | ~28 |
+| On the ball | 5.00% | ~29 |
+| Safety ain't the point of a joyride | 5.00% | ~29 |
+| Don't underestimate the Force | 5.00% | ~29 |
 | I've been waiting for you | 4.00% | ~23 |
 | When 900 years old you reach... | 4.00% | ~23 |
 | Determined | 4.00% | ~23 |
 | Your journey has only started | 4.00% | ~23 |
 | Precision shot | 4.00% | ~23 |
-| City in the Clouds | 4.00% | ~23 |
 | That's no moon | 4.00% | ~23 |
 | Disturbed tranquility | 4.00% | ~23 |
 | Hold the line! | 3.00% | ~17 |
 | The Force is strong with this one | 3.00% | ~17 |
 | This is a new day, a new beginning | 3.00% | ~17 |
+| City in the Clouds | 3.00% | ~17 |
 | Alternative solution | 3.00% | ~17 |
 | What will you become? | 3.00% | ~17 |
 | Playing the objective | 2.00% | ~11 |
@@ -64,12 +64,12 @@
 | Don't get cocky | 0.50% | ~3 |
 | Master | 0.50% | ~3 |
 | Greed can be a very powerful ally | 0.50% | ~3 |
-| Stay in attack formation | 0.40% | ~2 |
-| I never doubted you! | 0.40% | ~2 |
+| Stay in attack formation | 0.30% | ~2 |
+| I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 263)  
-Completed: 1 (0.18%) (Ranked 224)  
+Progressed: 572 (Ranked 263)  
+Completed: 1 (0.17%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 1 (0.18%) (Ranked 224)
 | 2023-10-07 | 497 | 1 |
 | 2023-10-08 | 538 | 1 |
 | 2023-10-09 | 558 | 1 |
-| 2023-10-10 | 570 | 1 |
+| 2023-10-10 | 572 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

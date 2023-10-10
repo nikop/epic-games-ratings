@@ -1042,9 +1042,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 151464,
+  "EOS_Progressed": 151466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1601,
+  "EOS_NewPlayers": 1588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11167,6 +11167,11 @@
       "Time": "2023-10-10T20:07:35.8910556+00:00",
       "NumProgressed": 151464,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T21:07:00.1306448+00:00",
+      "NumProgressed": 151466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -11264,9 +11269,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 303
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -11545,21 +11550,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 151047,
+      "Progressed": 151049,
       "Completed": 1153
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 151464,
+      "Progressed": 151466,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-10T17:58:11.2216628+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:07:35.8910547+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:07:00.1306444+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:46.4911319+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:59:12.9621016+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:07:35.8911703+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:58:38.6491384+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:07:00.1307257+00:00"
 }

@@ -2448,10 +2448,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2462,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-10-10T21:00:11.5786553+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2463,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2462,
+  "NumberOfAwards": 2463,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2501,7 +2507,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2539,8 +2545,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-10-09T14:58:55.4425157+00:00",
+  "LastChanged": "2023-10-10T21:00:11.5786552+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:51.8526602+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:00:48.9892032+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:06:22.8899013+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:00:11.5786556+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:05:48.4415252+00:00"
 }

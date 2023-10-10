@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -453,8 +453,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:06:47.6628232+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:06:13.229287+00:00",
   "LastUpdate_AppInfo": "2023-10-09T15:57:19.3391414+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:59:18.4902179+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:06:47.6628525+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:58:44.2749501+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:06:13.2293083+00:00"
 }

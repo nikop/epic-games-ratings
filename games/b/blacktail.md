@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 243)  
+Rating: 4.65 (Ranked 297)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,13 +16,13 @@ Rating: 4.68 (Ranked 243)
 | Gold rush | 7.00% | ~49 |
 | Liar Liar | 6.00% | ~42 |
 | A friend in need... | 6.00% | ~42 |
+| Extensive retelling | 5.00% | ~35 |
 | Sneak peek | 5.00% | ~35 |
 | Fishing fanatic | 5.00% | ~35 |
 | The word around is... | 5.00% | ~35 |
 | The cycle acknowledged | 5.00% | ~35 |
 | Queen | 5.00% | ~35 |
 | Baba Yaga | 5.00% | ~35 |
-| Extensive retelling | 4.00% | ~28 |
 | Favorite | 4.00% | ~28 |
 | Specialist | 4.00% | ~28 |
 | Goal! | 3.00% | ~21 |
@@ -197,3 +197,4 @@ Completed: 1 (0.14%) (Ranked 233)
 | 2023-04-23 | 4.65 | 0 | 0 |
 | 2023-05-01 | 4.67 | 0 | 0 |
 | 2023-06-17 | 4.68 | 0 | 0 |
+| 2023-10-10 | 4.65 | 0 | 0 |

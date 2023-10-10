@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529029,
+  "EOS_Progressed": 529031,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 3,
@@ -18994,6 +18994,11 @@
       "Time": "2023-10-10T20:07:36.8748462+00:00",
       "NumProgressed": 529029,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-10-10T21:07:01.0361901+00:00",
+      "NumProgressed": 529031,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 57,
@@ -19013,7 +19018,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238063
+      "UsersEstimate": 238064
     },
     {
       "ID": "11",
@@ -19021,7 +19026,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370320
+      "UsersEstimate": 370322
     },
     {
       "ID": "12",
@@ -19029,7 +19034,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116386
+      "UsersEstimate": 116387
     },
     {
       "ID": "13",
@@ -19077,7 +19082,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79354
+      "UsersEstimate": 79355
     },
     {
       "ID": "19",
@@ -19085,7 +19090,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 327998
+      "UsersEstimate": 327999
     },
     {
       "ID": "2",
@@ -19213,7 +19218,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26451
+      "UsersEstimate": 26452
     },
     {
       "ID": "34",
@@ -19229,7 +19234,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264514
+      "UsersEstimate": 264516
     },
     {
       "ID": "36",
@@ -19261,7 +19266,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179870
+      "UsersEstimate": 179871
     },
     {
       "ID": "4",
@@ -19277,7 +19282,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26451
+      "UsersEstimate": 26452
     },
     {
       "ID": "41",
@@ -19333,7 +19338,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 327998
+      "UsersEstimate": 327999
     },
     {
       "ID": "48",
@@ -19349,7 +19354,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179870
+      "UsersEstimate": 179871
     },
     {
       "ID": "5",
@@ -19381,7 +19386,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243353
+      "UsersEstimate": 243354
     },
     {
       "ID": "53",
@@ -19405,7 +19410,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26451
+      "UsersEstimate": 26452
     },
     {
       "ID": "56",
@@ -19460,15 +19465,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529029,
+      "Progressed": 529031,
       "Completed": 482
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:07:36.8748457+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:07:01.0361897+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.4810618+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:58:39.8573195+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:07:36.8750228+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:58:09.3180533+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:07:01.0363182+00:00"
 }

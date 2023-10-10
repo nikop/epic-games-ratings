@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7058,
+  "EOS_Progressed": 7059,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
@@ -3883,6 +3883,11 @@
       "Time": "2023-10-10T20:09:39.4037232+00:00",
       "NumProgressed": 7058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T21:09:30.560695+00:00",
+      "NumProgressed": 7059,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4149,9 +4154,9 @@
       "ID": "IHBUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Incoming Heal Boost to Level 3",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 56
     },
     {
       "ID": "IRPurchased1",
@@ -4423,7 +4428,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -4439,7 +4444,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "TGPurchased1",
@@ -4486,7 +4491,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7058,
+      "Progressed": 7059,
       "Completed": 1
     }
   ],
@@ -4494,8 +4499,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-09-28T09:00:22.5097709+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:09:39.4037228+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:09:30.5606945+00:00",
   "LastUpdate_AppInfo": "2023-10-10T10:57:15.6695599+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:59:18.8329787+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:09:39.4038329+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:58:44.6225985+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:09:30.5607757+00:00"
 }

@@ -515,9 +515,9 @@
       "ID": "L19_FINISH",
       "SetID": "6finf64",
       "Name": "The Accident",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "L19_PERFECT",
@@ -563,9 +563,9 @@
       "ID": "L20_FINISH",
       "SetID": "6finf64",
       "Name": "The Awakening",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "L20_PERFECT",
@@ -756,8 +756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:05:26.8785832+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:04:53.897731+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:18.6049888+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:59:57.476737+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:05:26.8786394+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:59:22.7463683+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:04:53.8977736+00:00"
 }

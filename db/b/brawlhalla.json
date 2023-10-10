@@ -3,7 +3,7 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 417,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
@@ -7146,11 +7146,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 3409,
       "NumberOfAwardsMax": 380
+    },
+    {
+      "Time": "2023-10-10T21:01:52.1042009+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 3416,
+      "NumberOfAwardsMax": 383
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3409,
-  "NumberOfAwardsMax": 380,
+  "NumberOfAwards": 3416,
+  "NumberOfAwardsMax": 383,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -7169,13 +7175,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 343
+      "Count": 347
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 380
+      "Count": 383
     },
     {
       "Text": "This game is Relaxing",
@@ -7238,8 +7244,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-10-10T20:03:04.4049644+00:00",
+  "LastChanged": "2023-10-10T21:01:52.1042008+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:17.4356346+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:03:04.4049652+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:06:18.262403+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:01:52.1042013+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:05:43.990961+00:00"
 }

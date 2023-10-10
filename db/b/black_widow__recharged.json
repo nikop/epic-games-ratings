@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18724,
+  "EOS_Progressed": 18725,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
@@ -14192,6 +14192,11 @@
       "Time": "2023-10-10T20:04:10.5426676+00:00",
       "NumProgressed": 18724,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-10T21:03:38.5865613+00:00",
+      "NumProgressed": 18725,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 14,
@@ -14203,7 +14208,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14605
+      "UsersEstimate": 14606
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14227,7 +14232,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -14251,7 +14256,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -14307,22 +14312,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18724,
+      "Progressed": 18725,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:04:10.5426671+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:03:38.5865606+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-10T19:58:10.1734478+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:04:10.5427771+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:57:37.4034845+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:03:38.5866338+00:00"
 }

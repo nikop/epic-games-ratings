@@ -2,7 +2,7 @@
   "ID": "0f7039ef44ad4ee18f16f19d96cf2a6b",
   "Name": "The Textorcist: The Story of Ray Bibbia",
   "ProductSlug": "the-textorcist",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 662,
@@ -310,6 +310,6 @@
   "FirstSeen": "2022-07-22T20:21:57.7786659+00:00",
   "LastChanged": "2023-09-09T10:01:31.0928796+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:44.0885079+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:01:54.8736369+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:09:32.5424891+00:00"
+  "LastUpdate_Ratings": "2023-10-10T21:01:12.0588272+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:09:23.7449752+00:00"
 }

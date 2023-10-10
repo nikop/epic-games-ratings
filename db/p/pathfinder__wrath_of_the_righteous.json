@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3902,9 +3902,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 11504,
+  "EOS_Progressed": 11505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13417,6 +13417,11 @@
       "Time": "2023-10-10T20:09:25.5509938+00:00",
       "NumProgressed": 11504,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T21:09:16.63778+00:00",
+      "NumProgressed": 11505,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13628,7 +13633,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "28_GreatUpstart",
@@ -14355,21 +14360,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10286,
+      "Progressed": 10287,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11504,
+      "Progressed": 11505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-09T19:59:03.7061495+00:00",
-  "LastChanged_Achievements": "2023-10-10T20:09:25.5509933+00:00",
+  "LastChanged_Achievements": "2023-10-10T21:09:16.6377796+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.9873596+00:00",
-  "LastUpdate_Ratings": "2023-10-10T20:00:05.878876+00:00",
-  "LastUpdate_Achievements": "2023-10-10T20:09:25.5512355+00:00"
+  "LastUpdate_Ratings": "2023-10-10T20:59:30.3151173+00:00",
+  "LastUpdate_Achievements": "2023-10-10T21:09:16.6379561+00:00"
 }

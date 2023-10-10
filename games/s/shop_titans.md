@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.70% | ~962 |
 | Seasoned Journeyman | 0.70% | ~962 |
 | Magical Harmony | 0.70% | ~962 |
+| Special Ingredient | 0.70% | ~962 |
 | A Notch Above the Rest | 0.60% | ~825 |
 | Cream of the Crop | 0.60% | ~825 |
 | Above the Norm | 0.60% | ~825 |
@@ -77,7 +78,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.60% | ~825 |
 | Moment of Respite | 0.60% | ~825 |
 | Black Friday Special | 0.60% | ~825 |
-| Special Ingredient | 0.60% | ~825 |
 | Exotic Commodities | 0.60% | ~825 |
 | Complete Monopoly | 0.60% | ~825 |
 | King's Blade | 0.60% | ~825 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,417 (Ranked 73)  
+Progressed: 137,419 (Ranked 73)  
 Completed: 167 (0.12%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 167 (0.12%) (Ranked 239)
 | 2023-10-07 | 137,277 | 167 |
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
-| 2023-10-10 | 137,417 | 167 |
+| 2023-10-10 | 137,419 | 167 |
 ## Awards
 Max (Great for Beginners): 4,778  (Ranked 71)  
 Sum: 27,367 (Ranked 50)  

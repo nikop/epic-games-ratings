@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,313 |
-| It wakes | 1.00% | ~9,313 |
-| Skillful | 1.00% | ~9,313 |
+| Zealous | 1.00% | ~9,314 |
+| It wakes | 1.00% | ~9,314 |
+| Skillful | 1.00% | ~9,314 |
 | Handyman | 0.90% | ~8,382 |
 | Not half bad | 0.90% | ~8,382 |
 | Apt Survivor | 0.90% | ~8,382 |
 | Survival Treasures | 0.90% | ~8,382 |
 | Make Some Noise | 0.90% | ~8,382 |
-| Sorted | 0.80% | ~7,450 |
-| The Grand Sacrifice | 0.70% | ~6,519 |
-| No one left behind | 0.70% | ~6,519 |
-| Medic | 0.70% | ~6,519 |
-| Nerves of steel | 0.70% | ~6,519 |
-| Bloody Millionaire | 0.70% | ~6,519 |
-| I | 0.70% | ~6,519 |
-| Healthy Obsession | 0.70% | ~6,519 |
-| Resurgence | 0.70% | ~6,519 |
+| Sorted | 0.80% | ~7,451 |
+| The Grand Sacrifice | 0.70% | ~6,520 |
+| No one left behind | 0.70% | ~6,520 |
+| Medic | 0.70% | ~6,520 |
+| Nerves of steel | 0.70% | ~6,520 |
+| Bloody Millionaire | 0.70% | ~6,520 |
+| I | 0.70% | ~6,520 |
+| Healthy Obsession | 0.70% | ~6,520 |
+| Resurgence | 0.70% | ~6,520 |
+| Preemptive Strike | 0.70% | ~6,520 |
 | Agonizing Escape | 0.60% | ~5,588 |
 | Backdoor Escape | 0.60% | ~5,588 |
 | Perfect Escape | 0.60% | ~5,588 |
 | Engineer | 0.60% | ~5,588 |
-| Preemptive Strike | 0.60% | ~5,588 |
 | Humanitarian | 0.60% | ~5,588 |
 | I've got your back | 0.50% | ~4,657 |
 | Perfect Killing | 0.50% | ~4,657 |
@@ -36,13 +36,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.50% | ~4,657 |
 | Wounded Healer | 0.50% | ~4,657 |
 | Close Shave | 0.50% | ~4,657 |
-| Vulture | 0.40% | ~3,725 |
-| III | 0.40% | ~3,725 |
-| First to the Punch | 0.40% | ~3,725 |
-| Every Last Drop | 0.40% | ~3,725 |
-| With Scars to Show | 0.40% | ~3,725 |
-| Flight to Freedom | 0.40% | ~3,725 |
-| Second Act | 0.40% | ~3,725 |
+| Vulture | 0.40% | ~3,726 |
+| III | 0.40% | ~3,726 |
+| First to the Punch | 0.40% | ~3,726 |
+| Every Last Drop | 0.40% | ~3,726 |
+| With Scars to Show | 0.40% | ~3,726 |
+| Flight to Freedom | 0.40% | ~3,726 |
+| Second Act | 0.40% | ~3,726 |
 | Blood on your hands | 0.30% | ~2,794 |
 | Escape Artist | 0.30% | ~2,794 |
 | Made it out alive! | 0.30% | ~2,794 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~931 |
 | Adept Ripley | 0.10% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,303 (Ranked 14)  
+Progressed: 931,387 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 931,303 | 49 |
+| 2023-10-10 | 931,387 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 261,003 (Ranked 13)  

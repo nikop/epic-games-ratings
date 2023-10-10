@@ -34,9 +34,9 @@
 | The Mountains, The Valleys | 14.00% | ~15 |
 | Chase the Crow | 13.00% | ~14 |
 | Love | 13.00% | ~14 |
+| The Accident | 13.00% | ~14 |
+| The Awakening | 13.00% | ~14 |
 | Here we go again! | 12.00% | ~12 |
-| The Accident | 12.00% | ~12 |
-| The Awakening | 12.00% | ~12 |
 | Flight of the Bumblebee | 10.00% | ~10 |
 | Milk and Alcohol | 8.00% | ~8 |
 | Under the Bridge | 7.00% | ~7 |

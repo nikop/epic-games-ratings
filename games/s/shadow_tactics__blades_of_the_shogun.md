@@ -1,18 +1,18 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 260)  
+Rating: 4.67 (Ranked 259)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~24,860 |
+| Genin | 12.00% | ~24,861 |
 | A thief's beginning | 10.00% | ~20,717 |
 | Thorough | 10.00% | ~20,717 |
-| Disguised | 8.00% | ~16,573 |
-| Rescue Takuma | 8.00% | ~16,573 |
-| Rollin' | 8.00% | ~16,573 |
-| Tanuki Time | 8.00% | ~16,573 |
+| Disguised | 8.00% | ~16,574 |
+| Rescue Takuma | 8.00% | ~16,574 |
+| Rollin' | 8.00% | ~16,574 |
+| Tanuki Time | 8.00% | ~16,574 |
 | Ice Ice Yuki | 7.00% | ~14,502 |
 | Jonin | 7.00% | ~14,502 |
 | Stoned Ox | 7.00% | ~14,502 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,430 |
 | Mugen Unchained | 6.00% | ~12,430 |
 | Warzone | 6.00% | ~12,430 |
-| Okkoto | 5.00% | ~10,358 |
-| Prisoners | 5.00% | ~10,358 |
-| Too Early | 5.00% | ~10,358 |
+| Okkoto | 5.00% | ~10,359 |
+| Prisoners | 5.00% | ~10,359 |
+| Too Early | 5.00% | ~10,359 |
 | Gear up | 4.00% | ~8,287 |
 | Happy little accidents | 4.00% | ~8,287 |
 | Still Rollin' | 4.00% | ~8,287 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~207 |
 | Release the Kraken | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,167 (Ranked 64)  
+Progressed: 207,172 (Ranked 64)  
 Completed: 90 (0.04%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 90 (0.04%) (Ranked 275)
 | 2023-10-07 | 206,614 | 90 |
 | 2023-10-08 | 206,841 | 90 |
 | 2023-10-09 | 207,016 | 90 |
-| 2023-10-10 | 207,167 | 90 |
+| 2023-10-10 | 207,172 | 90 |
 ## Awards
 Max (Great for Beginners): 566  (Ranked 196)  
 Sum: 4,789 (Ranked 138)  

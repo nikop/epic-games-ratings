@@ -19,7 +19,7 @@ Rating: 4.73 (Ranked 163)
 | The Cradle of Centuries | 49.00% | ~6,622 |
 | The Life We Deserve | 46.00% | ~6,217 |
 | Night guard | 43.00% | ~5,811 |
-| Nothing Left | 39.00% | ~5,271 |
+| Nothing Left | 40.00% | ~5,406 |
 | Healing our Wounds | 37.00% | ~5,001 |
 | Dying Sun | 33.00% | ~4,460 |
 | Improved crossbow | 27.00% | ~3,649 |

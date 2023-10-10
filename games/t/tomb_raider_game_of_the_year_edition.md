@@ -1,11 +1,11 @@
 # Tomb Raider GAME OF THE YEAR EDITION
 [Store](https://store.epicgames.com/en-US/p/tomb-raider)  
 [View Rawdata](../../db/t/tomb_raider_game_of_the_year_edition.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.66 (Ranked 280)  
 Number of Ratings: 20,961  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 5,907  (Ranked 62)  
-Sum: 6,963 (Ranked 116)  
+Max (Great Boss Battles): 5,907  (Ranked 63)  
+Sum: 6,963 (Ranked 117)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |

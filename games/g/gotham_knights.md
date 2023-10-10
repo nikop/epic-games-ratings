@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,164 |
+| First Step Into the Knight | 52.00% | ~38,165 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,688 |
 | Loose Ends | 34.00% | ~24,954 |
 | To the Victor Go the Spoils | 29.00% | ~21,284 |
 | Knighthood | 28.00% | ~20,550 |
 | Get ReQ'd | 25.00% | ~18,348 |
 | Whispered Words | 25.00% | ~18,348 |
-| The Batman Family | 23.00% | ~16,880 |
-| Lock and Key | 23.00% | ~16,880 |
+| The Batman Family | 23.00% | ~16,881 |
+| Lock and Key | 23.00% | ~16,881 |
 | Something in the Clay | 21.00% | ~15,413 |
 | Quartzer Life Crisis | 21.00% | ~15,413 |
 | Working Hard or Harley Working? | 20.00% | ~14,679 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,393 (Ranked 91)  
+Progressed: 73,394 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,21 +240,21 @@ Completed: 120 (0.16%) (Ranked 229)
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
 | 2023-10-09 | 73,364 | 120 |
-| 2023-10-10 | 73,393 | 120 |
+| 2023-10-10 | 73,394 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,802  (Ranked 97)  
-Sum: 4,697 (Ranked 140)  
+Sum: 4,702 (Ranked 140)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,802 |
-| This game is Relaxing | 243 |
+| This game is Relaxing | 245 |
 | This game is Extremely Fun | 241 |
 | This game has Quickly Understood Controls | 239 |
 | This game is Great for Beginners | 238 |
 | This game has Diverse Characters | 237 |
+| This game has Amazing Storytelling | 235 |
 | This game has Amazing Characters | 233 |
-| This game has Amazing Storytelling | 232 |
 | This game is Highly Recommended | 232 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -487,3 +487,4 @@ Diff (max vs sum): -43
 | 2023-10-07 | 4.18 | 2,788 | 4,679 |
 | 2023-10-08 | 4.18 | 2,795 | 4,688 |
 | 2023-10-09 | 4.18 | 2,802 | 4,697 |
+| 2023-10-10 | 4.18 | 2,802 | 4,702 |

@@ -25,6 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.30% | ~454 |
 | Assimilation | 0.20% | ~303 |
 | Hunt Down | 0.20% | ~303 |
+| Artisan | 0.20% | ~303 |
 | Host | 0.20% | ~302 |
 | Hush | 0.20% | ~303 |
 | Celebration | 0.20% | ~303 |
@@ -38,7 +39,6 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.10% | ~151 |
 | Zygote | 0.10% | ~151 |
 | Breath | 0.10% | ~151 |
-| Artisan | 0.10% | ~151 |
 | Kinship | 0.10% | ~151 |
 | Weakness | 0.10% | ~151 |
 | Breathsmith | 0.10% | ~151 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~151 |
 | Intensify | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,464 (Ranked 71)  
+Progressed: 151,466 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 1 (0.00%) (Ranked 312)
 | 2023-10-07 | 151,066 | 1 |
 | 2023-10-08 | 151,373 | 1 |
 | 2023-10-09 | 151,449 | 1 |
-| 2023-10-10 | 151,464 | 1 |
+| 2023-10-10 | 151,466 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 433)  
 Sum: 275 (Ranked 357)  
