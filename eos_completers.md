@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.99% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.96% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
 | 6 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 33.33% |
@@ -36,7 +36,7 @@
 | 34 | [Smelter](games/s/smelter.md) | 10.00% |
 | 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 36 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
+| 37 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
 | 38 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 39 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 8.33% |
 | 40 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
@@ -70,7 +70,7 @@
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
+| 70 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.85% |
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
 | 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
@@ -111,9 +111,9 @@
 | 109 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.89% |
 | 110 | [Night Book](games/n/night_book.md) | 1.86% |
 | 111 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 112 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.82% |
 | 112 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
-| 114 | [Sifu](games/s/sifu.md) | 1.80% |
+| 113 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
+| 113 | [Sifu](games/s/sifu.md) | 1.80% |
 | 115 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.72% |
 | 117 | [Somerville](games/s/somerville.md) | 1.70% |

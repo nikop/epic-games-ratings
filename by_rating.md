@@ -143,7 +143,7 @@
 | 139 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 749 | 169 |
 | 139 | [Haven](games/h/haven.md) | 4.75 | 0 | 530 |
 | 139 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 530 |
-| 139 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 691 | 177 |
+| 139 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 691 | 178 |
 | 139 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 530 |
 | 139 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 530 |
 | 139 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 530 |
@@ -221,7 +221,7 @@
 | 203 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 530 |
 | 203 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 530 |
 | 221 | [Black Book](games/b/black_book.md) | 4.69 | 70 | 387 |
-| 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,378 | 8 |
+| 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 118,432 | 8 |
 | 221 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 530 |
 | 221 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,454 | 56 |
 | 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,141 | 70 |
@@ -257,7 +257,7 @@
 | 244 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 530 |
 | 244 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 530 |
 | 244 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 570 | 193 |
-| 244 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 691 | 177 |
+| 244 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 693 | 177 |
 | 244 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 530 |
 | 260 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 530 |
 | 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 678 | 179 |
@@ -390,7 +390,7 @@
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 530 |
 | 374 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 702 | 176 |
 | 374 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 339 |
-| 374 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 524 | 200 |
+| 374 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 526 | 200 |
 | 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,222 | 39 |
 | 374 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,085 | 140 |
 | 374 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 284 | 247 |
@@ -400,7 +400,7 @@
 | 374 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 484 | 206 |
 | 399 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 530 |
 | 399 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 497 |
-| 399 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,199 | 27 |
+| 399 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,210 | 27 |
 | 399 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 530 |
 | 399 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,722 | 73 |
 | 399 | [Control](games/c/control.md) | 4.60 | 8,580 | 42 |
@@ -761,7 +761,7 @@
 | 750 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 467 |
 | 760 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 530 |
 | 760 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 530 |
-| 760 | [Core](games/c/core.md) | 4.36 | 755 | 168 |
+| 760 | [Core](games/c/core.md) | 4.36 | 756 | 168 |
 | 760 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 292 |
 | 760 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,701 | 31 |
 | 760 | [Godlike Burger](games/g/godlike_burger.md) | 4.36 | 0 | 530 |
@@ -924,11 +924,11 @@
 | 919 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.14 | 0 | 530 |
 | 923 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 530 |
 | 923 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 20 | 524 |
-| 923 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.13 | 0 | 530 |
 | 923 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 530 |
 | 923 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.13 | 0 | 530 |
 | 923 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.13 | 0 | 530 |
-| 929 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 530 |
+| 928 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 0 | 530 |
+| 928 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 530 |
 | 930 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 91 | 360 |
 | 930 | [Model Builder](games/m/model_builder.md) | 4.10 | 0 | 530 |
 | 930 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
@@ -994,10 +994,10 @@
 | 992 | [Poker Club](games/p/poker_club.md) | 3.83 | 48 | 417 |
 | 992 | [Spelldrifter](games/s/spelldrifter.md) | 3.83 | 0 | 530 |
 | 994 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 530 |
+| 994 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 390 |
 | 994 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 530 |
-| 996 | [Potion Permit](games/p/potion_permit.md) | 3.81 | 69 | 390 |
-| 996 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.81 | 0 | 530 |
-| 996 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 82 | 370 |
+| 997 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.81 | 0 | 530 |
+| 997 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 82 | 370 |
 | 999 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,068 | 142 |
 | 999 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.79 | 0 | 530 |
 | 1,001 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.77 | 0 | 530 |
