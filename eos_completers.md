@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.44% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.38% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.59% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -38,7 +38,7 @@
 | 35 | [Smelter](games/s/smelter.md) | 10.00% |
 | 35 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 38 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 39 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.08% |
+| 39 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
 | 40 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.67% |
 | 41 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
@@ -66,7 +66,7 @@
 | 64 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 65 | [ZZT!](games/z/zzt!.md) | 4.47% |
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.23% |
-| 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.12% |
+| 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.03% |
 | 69 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.03% |
@@ -113,10 +113,10 @@
 | 111 | [Night Book](games/n/night_book.md) | 1.86% |
 | 112 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.85% |
 | 113 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 114 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.82% |
+| 114 | [Sifu](games/s/sifu.md) | 1.81% |
 | 115 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.80% |
-| 115 | [Sifu](games/s/sifu.md) | 1.80% |
-| 117 | [Frogun](games/f/frogun.md) | 1.79% |
+| 116 | [Frogun](games/f/frogun.md) | 1.79% |
+| 116 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 118 | [Somerville](games/s/somerville.md) | 1.70% |
 | 119 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.69% |
 | 120 | [Five Dates](games/f/five_dates.md) | 1.62% |
@@ -224,10 +224,10 @@
 | 222 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 222 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 224 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 224 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.18% |
 | 224 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.18% |
-| 228 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 227 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 227 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.17% |
 | 229 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 229 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 229 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
@@ -660,4 +660,4 @@
 | 312 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 312 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 312 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,371 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,372 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

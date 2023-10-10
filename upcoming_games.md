@@ -193,7 +193,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 63,034 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 63,110 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -412,6 +412,7 @@
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [Splitgate](games/s/splitgate.md) | 2099-01-01 | - |  | - | - |
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
+| [StarSim](games/5/5eb69318a2c84bc3905cd67ae6d74835.md) | 2099-01-01 | - |  | - | - |
 | [Stop Dead](games/4/45e3bbb127e5483e928f646f137e561c.md) | 2099-01-01 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2099-01-01 | - |  | - | - |
 | [Subterrain Mines of Titan](games/s/subterrain_mines_of_titan.md) | 2099-01-01 | - |  | - | - |
