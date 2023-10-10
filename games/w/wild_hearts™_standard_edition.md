@@ -47,7 +47,7 @@
 | Tender Touch | 23.00% | ~28 |
 | Superlative View | 22.00% | ~27 |
 | Haven Hunter | 21.00% | ~25 |
-| Relentless Kemono Hunter | 18.00% | ~22 |
+| Relentless Kemono Hunter | 19.00% | ~23 |
 | Vanquisher of the Volatile | 16.00% | ~19 |
 | Bewitched by Bathing | 15.00% | ~18 |
 | Big Spender | 12.00% | ~15 |

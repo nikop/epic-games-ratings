@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -76,10 +76,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5928,
+  "EOS_Progressed": 5929,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 428,
-  "EOS_NewCompleters": 8,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -2986,6 +2986,11 @@
       "Time": "2023-10-10T07:04:31.3539291+00:00",
       "NumProgressed": 5928,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-10T08:04:21.8687543+00:00",
+      "NumProgressed": 5929,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -2998,7 +3003,7 @@
       "Name": "First of Many",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "achievement_01_02",
@@ -3014,7 +3019,7 @@
       "Name": "Brand New Ride",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "achievement_01_04",
@@ -3022,7 +3027,7 @@
       "Name": "Bzzzt",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "achievement_01_05",
@@ -3054,7 +3059,7 @@
       "Name": "Trophy Collector",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "achievement_01_09",
@@ -3126,7 +3131,7 @@
       "Name": "Whale of a Time",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "achievement_02_08",
@@ -3150,7 +3155,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_03_03",
@@ -3246,7 +3251,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "achievement_04_04",
@@ -3254,7 +3259,7 @@
       "Name": "Flawless Racer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_04_05",
@@ -3262,7 +3267,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "achievement_04_06",
@@ -3278,7 +3283,7 @@
       "Name": "Nitro Saver",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "achievement_04_08",
@@ -3301,7 +3306,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 5928,
+      "Progressed": 5929,
       "Completed": 24
     }
   ],
@@ -3309,8 +3314,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:04:31.3539287+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:04:21.8687539+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:58:46.4359795+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:04:31.3539667+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:58:26.1330783+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:04:21.8688041+00:00"
 }

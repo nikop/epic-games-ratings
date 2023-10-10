@@ -14,9 +14,9 @@
 | Artistic fool | 33.00% | ~43 |
 | Open up wide | 33.00% | ~43 |
 | Let the boot talk | 32.00% | ~41 |
-| Chapter II | 27.00% | ~35 |
+| Chapter II | 28.00% | ~36 |
+| Achoo!! | 25.00% | ~32 |
 | Handyman | 24.00% | ~31 |
-| Achoo!! | 24.00% | ~31 |
 | Bubblekillerfamily | 23.00% | ~30 |
 | Chapter III | 23.00% | ~30 |
 | Like a moth in the Wind | 23.00% | ~30 |

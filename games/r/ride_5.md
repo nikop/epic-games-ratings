@@ -9,14 +9,14 @@
 | Eat My Dust | 40.00% | ~561 |
 | Hear That Roar! | 38.00% | ~533 |
 | Rivals to the End | 29.00% | ~407 |
-| We're Going to Need a Bigger Garage | 24.00% | ~336 |
-| Bitter Rivalry | 24.00% | ~336 |
-| Champagne Spray | 21.00% | ~294 |
-| I Want One Too! | 19.00% | ~266 |
-| Restored and Ready | 18.00% | ~252 |
-| Legendary!!! | 18.00% | ~252 |
-| Quick Pit Stop | 18.00% | ~252 |
-| I'm Here Too! | 18.00% | ~252 |
+| We're Going to Need a Bigger Garage | 24.00% | ~337 |
+| Bitter Rivalry | 24.00% | ~337 |
+| Champagne Spray | 21.00% | ~295 |
+| I Want One Too! | 19.00% | ~267 |
+| Restored and Ready | 18.00% | ~253 |
+| Legendary!!! | 18.00% | ~253 |
+| Quick Pit Stop | 18.00% | ~253 |
+| I'm Here Too! | 18.00% | ~253 |
 | Go-Faster Stripes | 16.00% | ~224 |
 | We've Just Begun | 9.00% | ~126 |
 | Stamina Star | 7.00% | ~98 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,402 (Ranked 221)  
+Progressed: 1,403 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-07 | 1,355 | 0 |
 | 2023-10-08 | 1,381 | 0 |
 | 2023-10-09 | 1,401 | 0 |
-| 2023-10-10 | 1,402 | 0 |
+| 2023-10-10 | 1,403 | 0 |

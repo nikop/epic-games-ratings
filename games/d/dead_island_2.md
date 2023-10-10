@@ -16,20 +16,20 @@ Rating: 4.54 (Ranked 509)
 | Apex Predator | 3.00% | ~20,807 |
 | Stacking the Deck | 3.00% | ~20,807 |
 | Personal Assistant Personally Assisted | 3.00% | ~20,807 |
-| Anger Management | 2.00% | ~13,871 |
-| Perks of the Job | 2.00% | ~13,871 |
-| Bookworm | 2.00% | ~13,871 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,871 |
-| But Doctor, I am Butcho | 2.00% | ~13,871 |
-| Slayer Squad | 2.00% | ~13,871 |
-| Can't Handle the Truth | 2.00% | ~13,871 |
-| Like Riding a Bike | 2.00% | ~13,871 |
-| Zombologist | 2.00% | ~13,871 |
-| Ooh, Shiny! | 2.00% | ~13,871 |
-| A Patton Emerges | 2.00% | ~13,871 |
-| I Am the Resurrection | 2.00% | ~13,871 |
-| Our True Nature | 2.00% | ~13,871 |
-| This is My Weapon | 2.00% | ~13,871 |
+| Anger Management | 2.00% | ~13,872 |
+| Perks of the Job | 2.00% | ~13,872 |
+| Bookworm | 2.00% | ~13,872 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,872 |
+| But Doctor, I am Butcho | 2.00% | ~13,872 |
+| Slayer Squad | 2.00% | ~13,872 |
+| Can't Handle the Truth | 2.00% | ~13,872 |
+| Like Riding a Bike | 2.00% | ~13,872 |
+| Zombologist | 2.00% | ~13,872 |
+| Ooh, Shiny! | 2.00% | ~13,872 |
+| A Patton Emerges | 2.00% | ~13,872 |
+| I Am the Resurrection | 2.00% | ~13,872 |
+| Our True Nature | 2.00% | ~13,872 |
+| This is My Weapon | 2.00% | ~13,872 |
 | Making Your Mark | 1.00% | ~6,936 |
 | Humanity Distilled | 1.00% | ~6,936 |
 | Down with the Sickness | 1.00% | ~6,936 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,387 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,573 (Ranked 22)  
+Progressed: 693,578 (Ranked 22)  
 Completed: 2,208 (0.32%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2,208 (0.32%) (Ranked 197)
 | 2023-10-07 | 692,386 | 2,200 |
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
-| 2023-10-10 | 693,573 | 2,208 |
+| 2023-10-10 | 693,578 | 2,208 |
 ## Awards
 Max (Great Boss Battles): 6,378  (Ranked 58)  
 Sum: 9,523 (Ranked 91)  

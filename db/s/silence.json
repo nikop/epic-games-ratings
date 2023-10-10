@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -470,9 +470,9 @@
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "2008_achv_bubble",
@@ -542,9 +542,9 @@
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -623,8 +623,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:03:56.3770224+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:03:53.2083156+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:56.7643629+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:01:11.8292567+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:03:56.3770532+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:00:13.5979039+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:03:53.2083859+00:00"
 }

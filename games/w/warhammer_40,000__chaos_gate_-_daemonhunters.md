@@ -26,11 +26,11 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 2.00% | ~65 |
 | Hive Exterminator | 2.00% | ~65 |
 | Daemonkeeper | 1.00% | ~33 |
+| Exterminator | 1.00% | ~33 |
 | Efficient Killer | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
 | A Gift Spurned | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
-| Exterminator | 0.90% | ~29 |
 | Long Distance Call | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
 | Tactical Sabotage | 0.90% | ~29 |

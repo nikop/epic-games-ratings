@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7770,9 +7770,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 804300,
+  "EOS_Progressed": 804303,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27055,6 +27055,11 @@
       "Time": "2023-10-10T07:06:36.3976246+00:00",
       "NumProgressed": 804300,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T08:05:55.5835935+00:00",
+      "NumProgressed": 804303,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 82,
@@ -27098,7 +27103,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168903
+      "UsersEstimate": 168904
     },
     {
       "ID": "BadGirl",
@@ -27146,7 +27151,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257376
+      "UsersEstimate": 257377
     },
     {
       "ID": "Bookworm",
@@ -27178,7 +27183,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201075
+      "UsersEstimate": 201076
     },
     {
       "ID": "Chivalrous",
@@ -27266,7 +27271,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184989
+      "UsersEstimate": 184990
     },
     {
       "ID": "Fighter",
@@ -27546,7 +27551,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160860
+      "UsersEstimate": 160861
     },
     {
       "ID": "RevenantOfLedechko",
@@ -27586,7 +27591,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160860
+      "UsersEstimate": 160861
     },
     {
       "ID": "SerialKiller",
@@ -27721,15 +27726,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 804300,
+      "Progressed": 804303,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-10T05:59:15.9946542+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:06:36.3976241+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:05:55.5835929+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:13.5383314+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:00:09.5084062+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:06:36.397786+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:59:28.0041325+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:05:55.583807+00:00"
 }

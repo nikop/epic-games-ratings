@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 27.00% | ~13 |
+| Noctuan Champion | 26.00% | ~13 |
 | Apian Champion | 24.00% | ~12 |
 | Eridanian Champion | 20.00% | ~10 |
 | Lacertian Champion | 20.00% | ~10 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 437)  
+Progressed: 50 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,3 +122,4 @@ Completed: 0 (0.00%) (Ranked 310)
 | 2023-10-06 | 44 | 0 |
 | 2023-10-07 | 46 | 0 |
 | 2023-10-08 | 49 | 0 |
+| 2023-10-10 | 50 | 0 |

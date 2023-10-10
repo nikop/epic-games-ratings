@@ -5,10 +5,10 @@
   "Ranking_Rating": 644,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 179,
-  "Ranking_EOS_Progress": 157,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1038,9 +1038,9 @@
       "Count": 174
     }
   ],
-  "EOS_Progressed": 7317,
+  "EOS_Progressed": 7318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3603,6 +3603,11 @@
       "Time": "2023-10-10T07:06:20.6852385+00:00",
       "NumProgressed": 7317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T08:05:42.6957978+00:00",
+      "NumProgressed": 7318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -3631,7 +3636,7 @@
       "Name": "A New Timeline",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "ach04",
@@ -3655,7 +3660,7 @@
       "Name": "Titan",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "ach07",
@@ -3679,7 +3684,7 @@
       "Name": "Kontender",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach10",
@@ -3711,7 +3716,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ach14",
@@ -3743,7 +3748,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     },
     {
       "ID": "ach18",
@@ -3791,7 +3796,7 @@
       "Name": "Take And Deny",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ach24",
@@ -3831,7 +3836,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "ach29",
@@ -3879,7 +3884,7 @@
       "Name": "Always Accessorize",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "ach35",
@@ -3903,7 +3908,7 @@
       "Name": "ABACABB",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ach38",
@@ -3911,7 +3916,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "ach39",
@@ -3919,7 +3924,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "ach40",
@@ -3951,7 +3956,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "ach44",
@@ -4007,14 +4012,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7317,
+      "Progressed": 7318,
       "Completed": 0
     }
   ],
@@ -4022,8 +4027,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-10T06:57:17.7509017+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:06:20.6852381+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:05:42.6957972+00:00",
   "LastUpdate_AppInfo": "2023-10-07T06:57:30.1408327+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:57:17.7509021+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:06:20.6852836+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:57:13.8129949+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:05:42.6958605+00:00"
 }

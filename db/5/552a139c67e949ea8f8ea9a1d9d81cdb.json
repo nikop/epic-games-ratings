@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-19T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -75,9 +75,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -425,8 +425,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:08:29.427642+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:08:21.1325015+00:00",
   "LastUpdate_AppInfo": "2023-10-04T22:57:18.8486094+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:58:27.5375824+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:08:29.4276704+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:58:09.3315042+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:08:21.1325368+00:00"
 }

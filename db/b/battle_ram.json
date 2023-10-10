@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:09:08.4684884+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:09:07.9664085+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:52.5657749+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:58:41.5473142+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:09:08.4685072+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:58:22.7771851+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:09:07.9664299+00:00"
 }

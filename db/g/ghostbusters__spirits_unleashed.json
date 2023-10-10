@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -14909,9 +14909,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 263
     },
     {
       "ID": "Terrifying",
@@ -14990,8 +14990,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-10T00:00:44.7517868+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:03:54.511001+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:03:51.8439636+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.2013042+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:01:01.5843395+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:03:54.5110944+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:00:05.7371926+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:03:51.8440907+00:00"
 }

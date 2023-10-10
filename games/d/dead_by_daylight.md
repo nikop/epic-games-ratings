@@ -6,19 +6,20 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,303 |
-| It wakes | 1.00% | ~9,303 |
-| Skillful | 1.00% | ~9,303 |
+| Zealous | 1.00% | ~9,304 |
+| It wakes | 1.00% | ~9,304 |
+| Skillful | 1.00% | ~9,304 |
 | Not half bad | 0.90% | ~8,373 |
 | Make Some Noise | 0.90% | ~8,373 |
 | Handyman | 0.80% | ~7,443 |
 | Apt Survivor | 0.80% | ~7,443 |
 | Survival Treasures | 0.80% | ~7,443 |
-| No one left behind | 0.70% | ~6,512 |
-| Medic | 0.70% | ~6,512 |
-| Nerves of steel | 0.70% | ~6,512 |
-| Sorted | 0.70% | ~6,512 |
-| Resurgence | 0.70% | ~6,512 |
+| Sorted | 0.80% | ~7,443 |
+| No one left behind | 0.70% | ~6,513 |
+| Medic | 0.70% | ~6,513 |
+| Nerves of steel | 0.70% | ~6,513 |
+| Healthy Obsession | 0.70% | ~6,513 |
+| Resurgence | 0.70% | ~6,513 |
 | The Grand Sacrifice | 0.60% | ~5,582 |
 | Agonizing Escape | 0.60% | ~5,582 |
 | Backdoor Escape | 0.60% | ~5,582 |
@@ -26,7 +27,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Bloody Millionaire | 0.60% | ~5,582 |
 | I | 0.60% | ~5,582 |
 | Engineer | 0.60% | ~5,582 |
-| Healthy Obsession | 0.60% | ~5,582 |
 | Preemptive Strike | 0.60% | ~5,582 |
 | Humanitarian | 0.60% | ~5,582 |
 | I've got your back | 0.50% | ~4,652 |
@@ -34,12 +34,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Risk it all | 0.50% | ~4,652 |
 | Wounded Healer | 0.50% | ~4,652 |
 | Close Shave | 0.50% | ~4,652 |
-| Apt Killer | 0.40% | ~3,721 |
-| Vulture | 0.40% | ~3,721 |
-| II | 0.40% | ~3,721 |
-| III | 0.40% | ~3,721 |
-| With Scars to Show | 0.40% | ~3,721 |
-| Second Act | 0.40% | ~3,721 |
+| Apt Killer | 0.40% | ~3,722 |
+| Vulture | 0.40% | ~3,722 |
+| II | 0.40% | ~3,722 |
+| III | 0.40% | ~3,722 |
+| With Scars to Show | 0.40% | ~3,722 |
+| Second Act | 0.40% | ~3,722 |
 | Blood on your hands | 0.30% | ~2,791 |
 | Escape Artist | 0.30% | ~2,791 |
 | Made it out alive! | 0.30% | ~2,791 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~930 |
 | Adept Ripley | 0.10% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930,336 (Ranked 14)  
+Progressed: 930,378 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,10 +409,10 @@ Completed: 49 (0.01%) (Ranked 292)
 | 2023-10-07 | 925,403 | 49 |
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
-| 2023-10-10 | 930,336 | 49 |
+| 2023-10-10 | 930,378 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
-Sum: 260,781 (Ranked 13)  
+Sum: 260,803 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -422,7 +422,7 @@ Diff (max vs sum): 2
 | This game has Amazing Characters | 29,453 |
 | This game is Extremely Fun | 29,105 |
 | This game has Challenging Combat | 28,679 |
-| This game has Quickly Understood Controls | 28,626 |
+| This game has Quickly Understood Controls | 28,648 |
 | This game has Amazing Storytelling | 26,732 |
 | This game has a Competitive Community | 25,242 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -689,4 +689,4 @@ Diff (max vs sum): 2
 | 2023-10-07 | 4.52 | - | 33,543 | 260,157 |
 | 2023-10-08 | 4.52 | - | 33,596 | 260,474 |
 | 2023-10-09 | 4.52 | - | 33,640 | 260,754 |
-| 2023-10-10 | 4.51 | - | 33,667 | 260,781 |
+| 2023-10-10 | 4.51 | - | 33,667 | 260,803 |

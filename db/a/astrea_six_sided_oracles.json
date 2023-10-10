@@ -2,10 +2,10 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -255,6 +255,11 @@
     {
       "Time": "2023-10-08T19:09:11.7688455+00:00",
       "NumProgressed": 49,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T08:09:22.331772+00:00",
+      "NumProgressed": 50,
       "NumCompleted": 0
     }
   ],
@@ -1026,7 +1031,7 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -1051,14 +1056,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:09:25.8546493+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:09:22.3317713+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:58:03.8821119+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:09:25.8547426+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:57:51.156759+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:09:22.331869+00:00"
 }

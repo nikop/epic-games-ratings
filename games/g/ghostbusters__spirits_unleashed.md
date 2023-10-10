@@ -13,10 +13,10 @@ Rating: 4.50 (Ranked 574)
 | Fully Upgraded | 1.00% | ~263 |
 | Solo Capture | 1.00% | ~263 |
 | Swift Rift Removers | 1.00% | ~263 |
+| Teamwork | 1.00% | ~263 |
 | Vaporous Expansion | 1.00% | ~263 |
 | Clutch Capture | 0.90% | ~237 |
 | Cultured | 0.90% | ~237 |
-| Teamwork | 0.90% | ~237 |
 | There you are! | 0.90% | ~237 |
 | Whoopsie | 0.90% | ~237 |
 | Animated | 0.80% | ~211 |

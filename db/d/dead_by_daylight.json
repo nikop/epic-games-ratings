@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11103,10 +11103,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 260781,
       "NumberOfAwardsMax": 33667
+    },
+    {
+      "Time": "2023-10-10T08:00:26.4300722+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 260803,
+      "NumberOfAwardsMax": 33667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260781,
+  "NumberOfAwards": 260803,
   "NumberOfAwardsMax": 33667,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11156,7 +11162,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28626
+      "Count": 28648
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11177,9 +11183,9 @@
       "Count": 25242
     }
   ],
-  "EOS_Progressed": 930336,
+  "EOS_Progressed": 930378,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 14080,
+  "EOS_NewPlayers": 14093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30787,6 +30793,11 @@
       "Time": "2023-10-10T07:05:04.8980792+00:00",
       "NumProgressed": 930336,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-10T08:04:49.2437568+00:00",
+      "NumProgressed": 930378,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -30918,7 +30929,7 @@
       "Name": "No one left behind",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "ACH_017",
@@ -30926,7 +30937,7 @@
       "Name": "Medic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "ACH_018",
@@ -30942,7 +30953,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "ACH_020",
@@ -30966,7 +30977,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9303
+      "UsersEstimate": 9304
     },
     {
       "ID": "ACH_023",
@@ -30974,7 +30985,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9303
+      "UsersEstimate": 9304
     },
     {
       "ID": "ACH_024",
@@ -31014,7 +31025,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_029",
@@ -31038,7 +31049,7 @@
       "Name": "Vulture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_032",
@@ -31102,7 +31113,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9303
+      "UsersEstimate": 9304
     },
     {
       "ID": "ACH_040",
@@ -31118,7 +31129,7 @@
       "Name": "II",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_042",
@@ -31126,7 +31137,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_043",
@@ -31364,9 +31375,9 @@
       "ID": "ACH_072",
       "SetID": "bdmlp8o",
       "Name": "Sorted",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6512
+      "UsersEstimate": 7443
     },
     {
       "ID": "ACH_073",
@@ -31964,9 +31975,9 @@
       "ID": "ACH_150",
       "SetID": "16jml5b",
       "Name": "Healthy Obsession",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5582
+      "UsersEstimate": 6513
     },
     {
       "ID": "ACH_151",
@@ -32014,7 +32025,7 @@
       "Name": "Resurgence",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6513
     },
     {
       "ID": "ACH_157",
@@ -32246,7 +32257,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_186",
@@ -32558,7 +32569,7 @@
       "Name": "Second Act",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "ACH_225",
@@ -32629,21 +32640,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 930336,
+      "Progressed": 930378,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 930336,
+      "Progressed": 930378,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2023-10-10T03:02:01.6174703+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:05:04.8980786+00:00",
+  "LastChanged": "2023-10-10T08:00:26.4300721+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:04:49.2437563+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-10T07:01:28.959572+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:05:04.8986534+00:00"
+  "LastUpdate_Ratings": "2023-10-10T08:00:26.4300727+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:04:49.2444988+00:00"
 }

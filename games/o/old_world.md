@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.40% | ~58 |
 | Conqueror | 0.40% | ~58 |
 | Intercessor | 0.40% | ~58 |
+| Lion | 0.40% | ~58 |
 | Mighty | 0.40% | ~58 |
 | Victorious | 0.40% | ~58 |
 | Good Difficulty | 0.40% | ~58 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.40% | ~58 |
 | Devout | 0.30% | ~44 |
 | Invincible | 0.30% | ~44 |
-| Lion | 0.30% | ~44 |
 | Subjugator | 0.30% | ~44 |
 | Strong Difficulty | 0.30% | ~44 |
 | Hunters | 0.30% | ~44 |

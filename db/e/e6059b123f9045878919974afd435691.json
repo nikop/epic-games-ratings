@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 860,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-10-09T17:05:46.4577502+00:00",
       "NumProgressed": 859,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T08:04:40.9460717+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2085,7 +2090,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2101,7 +2106,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2149,7 +2154,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2197,7 +2202,7 @@
       "Name": "Burnt Smell",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2277,7 +2282,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2309,7 +2314,7 @@
       "Name": "End of Rest",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2317,7 +2322,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2325,7 +2330,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2509,7 +2514,7 @@
       "Name": "The Last of Us",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2604,14 +2609,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 860,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:04:54.8190965+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:04:40.9460713+00:00",
   "LastUpdate_AppInfo": "2023-10-05T20:57:12.9487142+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:58:32.890984+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:04:54.8191596+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:58:14.1243627+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:04:40.9461538+00:00"
 }

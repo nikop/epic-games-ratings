@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110753,
+  "EOS_Progressed": 110754,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13856,6 +13856,11 @@
       "Time": "2023-10-10T07:08:14.9453773+00:00",
       "NumProgressed": 110753,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-10-10T08:08:09.282617+00:00",
+      "NumProgressed": 110754,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 49,
@@ -13875,7 +13880,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85280
+      "UsersEstimate": 85281
     },
     {
       "ID": "EAwards_10",
@@ -13963,7 +13968,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53161
+      "UsersEstimate": 53162
     },
     {
       "ID": "EAwards_20",
@@ -14258,7 +14263,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110753,
+      "Progressed": 110754,
       "Completed": 45
     }
   ],
@@ -14266,8 +14271,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:08:14.9453769+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:08:09.2826165+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:57:27.0000422+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:08:14.9454751+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:57:21.597044+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:08:09.2827505+00:00"
 }

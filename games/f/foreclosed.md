@@ -20,7 +20,7 @@
 | Full and Final Settlement | 17.00% | ~18 |
 | Unstoppable | 17.00% | ~18 |
 | One Click Away | 17.00% | ~18 |
-| Cyborg | 10.00% | ~10 |
+| Cyborg | 11.00% | ~12 |
 | Lifter | 10.00% | ~10 |
 | Brain-hacker | 9.00% | ~9 |
 | Gravity Bender | 8.00% | ~8 |

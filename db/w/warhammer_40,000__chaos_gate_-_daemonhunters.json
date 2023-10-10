@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3821,9 +3821,9 @@
       "ID": "Kills_Exterminator",
       "SetID": "3jha1np",
       "Name": "Exterminator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -4179,8 +4179,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-10T07:04:35.3350492+00:00",
+  "LastChanged_Achievements": "2023-10-10T08:04:25.1187004+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:01.1215159+00:00",
-  "LastUpdate_Ratings": "2023-10-10T06:59:58.1324456+00:00",
-  "LastUpdate_Achievements": "2023-10-10T07:04:35.3351186+00:00"
+  "LastUpdate_Ratings": "2023-10-10T07:59:19.6033404+00:00",
+  "LastUpdate_Achievements": "2023-10-10T08:04:25.1187869+00:00"
 }
