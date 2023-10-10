@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 54.00% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.99% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.77% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -11,7 +11,7 @@
 | 9 | [Volley Pals](games/v/volley_pals.md) | 28.46% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.82% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.73% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.51% |
@@ -71,8 +71,8 @@
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
 | 70 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.84% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.81% |
-| 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.80% |
+| 72 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.70% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.64% |
 | 76 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -181,16 +181,16 @@
 | 173 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 180 | [Dead Space](games/d/dead_space.md) | 0.45% |
 | 181 | [Tchia](games/t/tchia.md) | 0.44% |
-| 182 | [Wildermyth](games/w/wildermyth.md) | 0.43% |
+| 182 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 183 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 183 | [It Takes Two](games/i/it_takes_two.md) | 0.40% |
 | 183 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 186 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 187 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
-| 187 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 187 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 190 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
+| 189 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 189 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.37% |
 | 192 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 192 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 194 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
