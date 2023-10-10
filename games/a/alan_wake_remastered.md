@@ -9,15 +9,15 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 43.00% | ~29,016 |
 | Let There Be Light | 35.00% | ~23,618 |
 | Float Like a Butterfly | 33.00% | ~22,268 |
-| Nordic Walking | 27.00% | ~18,219 |
-| Bright Falls' Finest | 27.00% | ~18,219 |
+| Nordic Walking | 27.00% | ~18,220 |
+| Bright Falls' Finest | 27.00% | ~18,220 |
 | Under a Thin Layer of Skin | 23.00% | ~15,520 |
 | Paging Mr. Wake | 20.00% | ~13,496 |
 | Park Ranger | 19.00% | ~12,821 |
 | Back! Back, I Say! | 18.00% | ~12,146 |
 | Finders Keepers | 18.00% | ~12,146 |
-| Sound and Fury | 17.00% | ~11,471 |
-| Damn Good Cup of Coffee | 17.00% | ~11,471 |
+| Sound and Fury | 17.00% | ~11,472 |
+| Damn Good Cup of Coffee | 17.00% | ~11,472 |
 | Wheels Within Wheels | 16.00% | ~10,797 |
 | They're Heeeeeere! | 16.00% | ~10,797 |
 | Missed by a Mile | 16.00% | ~10,797 |
@@ -29,10 +29,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 14.00% | ~9,447 |
 | It's Not Just a Typewriter Brand | 13.00% | ~8,772 |
 | Thunder and Lightning | 13.00% | ~8,772 |
-| Gatekeeper | 12.00% | ~8,097 |
-| The Lady of the Light | 12.00% | ~8,097 |
-| Two For the Price of One | 12.00% | ~8,097 |
-| Energized! | 12.00% | ~8,097 |
+| Gatekeeper | 12.00% | ~8,098 |
+| The Lady of the Light | 12.00% | ~8,098 |
+| Two For the Price of One | 12.00% | ~8,098 |
+| Energized! | 12.00% | ~8,098 |
 | What Light Through Yonder Window | 10.00% | ~6,748 |
 | Right of Way | 10.00% | ~6,748 |
 | Tornado Wrangler | 9.00% | ~6,073 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~67 |
 | No Punctuation | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,479 (Ranked 93)  
+Progressed: 67,480 (Ranked 93)  
 Completed: 67 (0.10%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 67 (0.10%) (Ranked 245)
 | 2023-10-07 | 67,272 | 67 |
 | 2023-10-08 | 67,368 | 67 |
 | 2023-10-09 | 67,450 | 67 |
-| 2023-10-10 | 67,479 | 67 |
+| 2023-10-10 | 67,480 | 67 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

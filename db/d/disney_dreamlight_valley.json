@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3976,11 +3976,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7677,
       "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-10-10T10:59:42.8351029+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7679,
+      "NumberOfAwardsMax": 999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7677,
-  "NumberOfAwardsMax": 997,
+  "NumberOfAwards": 7679,
+  "NumberOfAwardsMax": 999,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3993,7 +3999,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 997
+      "Count": 999
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4050,9 +4056,9 @@
       "Count": 516
     }
   ],
-  "EOS_Progressed": 10698,
+  "EOS_Progressed": 10699,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -15430,6 +15436,11 @@
       "Time": "2023-10-10T09:03:41.0969357+00:00",
       "NumProgressed": 10698,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2023-10-10T11:04:16.3341962+00:00",
+      "NumProgressed": 10699,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 15,
@@ -15449,7 +15460,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "Bestest_Friend",
@@ -15457,7 +15468,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "Chef_Cook",
@@ -15497,7 +15508,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "Generous",
@@ -15560,16 +15571,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10698,
+      "Progressed": 10699,
       "Completed": 253
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-10T08:58:58.4017846+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:04:06.8217604+00:00",
+  "LastChanged": "2023-10-10T10:59:42.8351028+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:04:16.3341957+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:41.0939363+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:59:35.3065011+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:04:06.8218398+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:59:42.8351033+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:04:16.3342599+00:00"
 }

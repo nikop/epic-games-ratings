@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -414,9 +414,9 @@
       "ID": "_bomb_m3",
       "SetID": "2d5739o",
       "Name": "Bomb m3",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_cannon",
@@ -630,9 +630,9 @@
       "ID": "_shield",
       "SetID": "2d5739o",
       "Name": "Shield",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_shotgun",
@@ -717,8 +717,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:06:22.9239976+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:06:31.6765658+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:56:59.7936382+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:57:09.8257338+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:06:22.9240592+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:57:18.8370398+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:06:31.6765943+00:00"
 }

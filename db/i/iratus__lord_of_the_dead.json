@@ -2194,9 +2194,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 41610,
+  "EOS_Progressed": 41611,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -20874,6 +20874,11 @@
       "Time": "2023-10-10T10:04:45.5894653+00:00",
       "NumProgressed": 41610,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-10T11:04:54.6244531+00:00",
+      "NumProgressed": 41611,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -20893,7 +20898,7 @@
       "Name": "Unholy Bones",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9986
+      "UsersEstimate": 9987
     },
     {
       "ID": "achievements_11",
@@ -20909,7 +20914,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9986
+      "UsersEstimate": 9987
     },
     {
       "ID": "achievements_13",
@@ -20941,7 +20946,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14563
+      "UsersEstimate": 14564
     },
     {
       "ID": "achievements_19",
@@ -20965,7 +20970,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     },
     {
       "ID": "achievements_21",
@@ -20989,7 +20994,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24966
+      "UsersEstimate": 24967
     },
     {
       "ID": "achievements_24",
@@ -21013,7 +21018,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17476
+      "UsersEstimate": 17477
     },
     {
       "ID": "achievements_27",
@@ -21037,7 +21042,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "achievements_3",
@@ -21069,7 +21074,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14147
+      "UsersEstimate": 14148
     },
     {
       "ID": "achievements_33",
@@ -21101,7 +21106,7 @@
       "Name": "Grand Arena",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5826
     },
     {
       "ID": "achievements_37",
@@ -21165,7 +21170,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9570
+      "UsersEstimate": 9571
     },
     {
       "ID": "achievements_44",
@@ -21189,7 +21194,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 35368
+      "UsersEstimate": 35369
     },
     {
       "ID": "achievements_47",
@@ -21221,7 +21226,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 21221
+      "UsersEstimate": 21222
     },
     {
       "ID": "achievements_50",
@@ -21245,7 +21250,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17476
+      "UsersEstimate": 17477
     },
     {
       "ID": "achievements_53",
@@ -21261,7 +21266,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17892
+      "UsersEstimate": 17893
     },
     {
       "ID": "achievements_55",
@@ -21309,7 +21314,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14147
+      "UsersEstimate": 14148
     },
     {
       "ID": "achievements_61",
@@ -21461,7 +21466,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30375
+      "UsersEstimate": 30376
     },
     {
       "ID": "achievements_8",
@@ -21484,15 +21489,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 41610,
+      "Progressed": 41611,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-10-09T13:59:32.3507329+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:04:45.5894646+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:04:54.6244527+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:49.6645514+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:59:44.1672145+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:04:45.5898194+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:59:52.9933472+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:04:54.6246088+00:00"
 }

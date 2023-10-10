@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -530,9 +530,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3719,
+  "EOS_Progressed": 3720,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -7145,6 +7145,11 @@
       "Time": "2023-10-10T09:05:02.3015138+00:00",
       "NumProgressed": 3719,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-10T11:05:52.3145489+00:00",
+      "NumProgressed": 3720,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7220,7 +7225,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7276,7 +7281,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7308,7 +7313,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7468,7 +7473,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7524,7 +7529,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7723,13 +7728,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3670,
+      "Progressed": 3671,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3719,
+      "Progressed": 3720,
       "Completed": 11
     }
   ],
@@ -7737,8 +7742,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-30T02:10:59.0113899+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:05:43.1831939+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:05:52.3145484+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.5324772+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:57:57.2345871+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:05:43.1833276+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:58:06.003048+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:05:52.3146409+00:00"
 }

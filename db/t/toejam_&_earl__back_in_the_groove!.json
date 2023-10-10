@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57258,
+  "EOS_Progressed": 57259,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10553,6 +10553,11 @@
       "Time": "2023-10-10T10:04:21.172962+00:00",
       "NumProgressed": 57258,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-10T11:04:30.5298553+00:00",
+      "NumProgressed": 57259,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -10708,7 +10713,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "HarshLove",
@@ -10900,7 +10905,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "TimelySplash",
@@ -10955,7 +10960,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57258,
+      "Progressed": 57259,
       "Completed": 6
     }
   ],
@@ -10963,8 +10968,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:04:21.1729609+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:04:30.5298548+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:49.0987806+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:58:28.3827674+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:04:21.1731467+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:58:36.8546771+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:04:30.5299398+00:00"
 }

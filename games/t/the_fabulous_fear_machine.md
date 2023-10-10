@@ -31,10 +31,10 @@
 | Welcome to Hellville | 22.00% | ~5 |
 | The beast in the Oval Office | 17.00% | ~4 |
 | The bully | 17.00% | ~4 |
+| The adventurer | 17.00% | ~4 |
 | Pulp! The Beyond | 17.00% | ~4 |
 | America had no Faith | 17.00% | ~4 |
 | Blood Red Island | 13.00% | ~3 |
-| The adventurer | 13.00% | ~3 |
 | Bread and bocaua | 9.00% | ~2 |
 | Fanatacism is... poisonous | 9.00% | ~2 |
 | The scholar | 9.00% | ~2 |
@@ -52,7 +52,7 @@
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 474)  
+Progressed: 23 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |

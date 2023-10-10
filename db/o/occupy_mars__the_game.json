@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1657,
+  "EOS_Progressed": 1658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3923,6 +3923,11 @@
       "Time": "2023-10-09T21:03:41.6639774+00:00",
       "NumProgressed": 1657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T11:04:13.1823626+00:00",
+      "NumProgressed": 1658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4110,7 +4115,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4188,9 +4193,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 680
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4317,7 +4322,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1657,
+      "Progressed": 1658,
       "Completed": 0
     }
   ],
@@ -4325,8 +4330,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:04:03.5847125+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:04:13.1823621+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:07.1369242+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:00:55.7381603+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:04:03.5848198+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:01:02.8998619+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:04:13.1824131+00:00"
 }

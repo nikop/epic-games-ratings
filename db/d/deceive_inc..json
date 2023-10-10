@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -11534,9 +11534,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3847
+      "UsersEstimate": 4030
     },
     {
       "ID": "0025",
@@ -11647,8 +11647,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:05:54.8443264+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:06:03.5681812+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:01:22.8237337+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:05:54.844437+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:01:30.1244067+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:06:03.5682536+00:00"
 }

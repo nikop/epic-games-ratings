@@ -2,12 +2,12 @@
   "ID": "f401d7e187e349138380d22e991b29ca",
   "Name": "The Vanishing of Ethan Carter",
   "ProductSlug": "the-vanishing-of-ethan-carter",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-12-19T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "NumberOfRatings": 490,
   "RatingHistory": [
     {
@@ -443,6 +443,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-10T11:01:32.5523414+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -460,8 +466,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:30.7974201+00:00",
-  "LastChanged": "2023-08-30T23:59:59.1453695+00:00",
+  "LastChanged": "2023-10-10T11:01:32.5523412+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.596745+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:01:25.3513681+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:05:01.4708112+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:01:32.552342+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:05:10.0192699+00:00"
 }

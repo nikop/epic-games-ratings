@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 26.00% | ~13 |
+| Noctuan Champion | 28.00% | ~14 |
 | Apian Champion | 24.00% | ~12 |
+| Lacertian Champion | 22.00% | ~11 |
 | Endless Tricks | 20.00% | ~10 |
 | Meissa's Savior | 20.00% | ~10 |
 | Eridanian Champion | 20.00% | ~10 |
-| Lacertian Champion | 20.00% | ~10 |
 | Dicesmithing Time! | 18.00% | ~9 |
 | Loyal Partner | 18.00% | ~9 |
 | Mechanical Buddy | 18.00% | ~9 |
@@ -18,10 +18,10 @@
 | Shard Spender | 18.00% | ~9 |
 | Stellar Dismantler | 18.00% | ~9 |
 | Wild's Keeper | 18.00% | ~9 |
+| Anomaly Destroyer | 16.00% | ~8 |
 | Mind Illuminator | 16.00% | ~8 |
+| Aquarian Champion | 16.00% | ~8 |
 | Behenian Champion | 16.00% | ~8 |
-| Anomaly Destroyer | 14.00% | ~7 |
-| Aquarian Champion | 14.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Heart Gate | 12.00% | ~6 |
 | Unbeatable | 12.00% | ~6 |

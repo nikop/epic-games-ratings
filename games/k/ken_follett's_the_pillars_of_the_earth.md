@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,264 |
-| Man of politics | 34.00% | ~5,324 |
+| Man of politics | 35.00% | ~5,481 |
 | Friends of sorts | 33.00% | ~5,168 |
 | Yet another secret | 33.00% | ~5,168 |
 | Let there be darkness | 32.00% | ~5,011 |

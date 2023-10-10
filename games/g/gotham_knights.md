@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,158 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,683 |
+| First Step Into the Knight | 52.00% | ~38,159 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,684 |
 | Loose Ends | 34.00% | ~24,950 |
-| To the Victor Go the Spoils | 29.00% | ~21,280 |
+| To the Victor Go the Spoils | 29.00% | ~21,281 |
 | Knighthood | 28.00% | ~20,547 |
-| Get ReQ'd | 25.00% | ~18,345 |
-| Whispered Words | 25.00% | ~18,345 |
+| Get ReQ'd | 25.00% | ~18,346 |
+| Whispered Words | 25.00% | ~18,346 |
 | The Batman Family | 23.00% | ~16,878 |
 | Lock and Key | 23.00% | ~16,878 |
 | Something in the Clay | 21.00% | ~15,410 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 897)
 | Working Hard or Harley Working? | 20.00% | ~14,676 |
 | Unstoppable Force | 20.00% | ~14,676 |
 | Bad Apples in Every Orchard | 20.00% | ~14,676 |
-| Snow Problem | 19.00% | ~13,942 |
+| Snow Problem | 19.00% | ~13,943 |
 | The Show Mud Go On | 18.00% | ~13,209 |
 | From Inside Gotham's Walls | 18.00% | ~13,209 |
 | Protector of Gotham | 17.00% | ~12,475 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,381 (Ranked 91)  
+Progressed: 73,382 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 120 (0.16%) (Ranked 228)
 | 2023-10-07 | 73,267 | 120 |
 | 2023-10-08 | 73,323 | 120 |
 | 2023-10-09 | 73,364 | 120 |
-| 2023-10-10 | 73,381 | 120 |
+| 2023-10-10 | 73,382 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,802  (Ranked 97)  
 Sum: 4,697 (Ranked 140)  

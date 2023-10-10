@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AnomalyMaster",
@@ -935,9 +935,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AquarianHero",
@@ -1007,9 +1007,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LacertianHero",
@@ -1031,9 +1031,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NoctuanHero",
@@ -1062,8 +1062,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:09:13.1064444+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:09:31.4351163+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:02.1495418+00:00",
-  "LastUpdate_Ratings": "2023-10-10T09:58:08.5956289+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:09:13.1066402+00:00"
+  "LastUpdate_Ratings": "2023-10-10T10:58:17.0580695+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:09:31.4352034+00:00"
 }

@@ -1815,9 +1815,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14570,
+  "EOS_Progressed": 14571,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13470,6 +13470,11 @@
       "Time": "2023-10-10T10:05:26.7567143+00:00",
       "NumProgressed": 14570,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T11:05:35.6141564+00:00",
+      "NumProgressed": 14571,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15527,9 +15532,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -16216,21 +16221,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14570,
+      "Progressed": 14571,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14570,
+      "Progressed": 14571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-10T10:05:26.7567137+00:00",
+  "LastChanged_Achievements": "2023-10-10T11:05:35.614156+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T10:03:03.8325432+00:00",
-  "LastUpdate_Achievements": "2023-10-10T10:05:26.7580401+00:00"
+  "LastUpdate_Ratings": "2023-10-10T11:03:21.907146+00:00",
+  "LastUpdate_Achievements": "2023-10-10T11:05:35.6151655+00:00"
 }

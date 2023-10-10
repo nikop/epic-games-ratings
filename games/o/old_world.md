@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.40% | ~58 |
 | Building Wonders | 0.40% | ~58 |
 | Legalism | 0.40% | ~58 |
+| Cimmerian Archer | 0.40% | ~58 |
 | Double Victory | 0.40% | ~58 |
 | Points Victory | 0.40% | ~58 |
 | Devout | 0.30% | ~44 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.30% | ~44 |
 | Redemption | 0.30% | ~44 |
 | Revelation | 0.30% | ~44 |
-| Cimmerian Archer | 0.30% | ~44 |
 | Mounted Lancer | 0.30% | ~44 |
 | Legionary | 0.30% | ~44 |
 | Phalangite | 0.30% | ~44 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,570 (Ranked 134)  
+Progressed: 14,571 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 5 (0.03%) (Ranked 280)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,570 | 5 |
+| 2023-10-10 | 14,571 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
 Sum: 1,831 (Ranked 210)  
