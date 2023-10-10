@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 38.00% | ~2,820 |
-| It's a good start | 9.00% | ~668 |
+| Bye Bye | 38.00% | ~2,823 |
+| It's a good start | 9.00% | ~669 |
 | Bonjour! | 7.00% | ~520 |
 | Quack | 7.00% | ~520 |
-| The Assistant | 6.00% | ~445 |
-| The Blue Marl | 6.00% | ~445 |
+| The Assistant | 6.00% | ~446 |
+| The Blue Marl | 6.00% | ~446 |
 | Ostinata | 5.00% | ~371 |
 | Better than nothing? | 5.00% | ~371 |
 | A long journey | 4.00% | ~297 |
@@ -19,12 +19,12 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~223 |
 | Surprise of Langhe | 3.00% | ~223 |
 | Famous | 3.00% | ~223 |
-| What is that? A castle? | 2.00% | ~148 |
-| A lot of space | 2.00% | ~148 |
-| A big garage | 2.00% | ~148 |
-| Millionaire | 2.00% | ~148 |
-| Exotic | 2.00% | ~148 |
-| Very Important Winemaker | 2.00% | ~148 |
+| What is that? A castle? | 2.00% | ~149 |
+| A lot of space | 2.00% | ~149 |
+| A big garage | 2.00% | ~149 |
+| Millionaire | 2.00% | ~149 |
+| Exotic | 2.00% | ~149 |
+| Very Important Winemaker | 2.00% | ~149 |
 | Pastry Chef | 1.00% | ~74 |
 | Welcome to the club | 1.00% | ~74 |
 | King of Langhe | 1.00% | ~74 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~15 |
 | Master Winemaker | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,422 (Ranked 155)  
+Progressed: 7,429 (Ranked 155)  
 Completed: 7 (0.09%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,10 +84,10 @@ Completed: 7 (0.09%) (Ranked 251)
 | 2023-10-07 | 6,954 | 7 |
 | 2023-10-08 | 7,172 | 7 |
 | 2023-10-09 | 7,326 | 7 |
-| 2023-10-10 | 7,422 | 7 |
+| 2023-10-10 | 7,429 | 7 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
-Sum: 1,590 (Ranked 219)  
+Sum: 1,591 (Ranked 219)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -96,7 +96,7 @@ Diff (max vs sum): 58
 | This game has Quickly Understood Controls | 201 |
 | This game is Great for Beginners | 200 |
 | This game is Highly Recommended | 193 |
-| This game is Educational | 177 |
+| This game is Educational | 178 |
 | This game has Amazing Storytelling | 175 |
 | This game has Easy Combat | 127 |
 | This game has Amazing Characters | 126 |
@@ -162,3 +162,4 @@ Diff (max vs sum): 58
 | 2023-09-15 | 4.35 | - | 205 | 1,590 |
 | 2023-09-27 | 4.34 | - | 205 | 1,590 |
 | 2023-09-29 | 4.35 | - | 205 | 1,590 |
+| 2023-10-10 | 4.35 | - | 205 | 1,591 |

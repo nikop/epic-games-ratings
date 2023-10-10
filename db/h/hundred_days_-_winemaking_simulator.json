@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -944,10 +944,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1590,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-10-10T16:59:22.7446865+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1591,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1590,
+  "NumberOfAwards": 1591,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -955,7 +961,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1012,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7422,
+  "EOS_Progressed": 7429,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5892,6 +5898,11 @@
       "Time": "2023-10-10T16:03:36.08285+00:00",
       "NumProgressed": 7422,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-10T17:04:26.1199415+00:00",
+      "NumProgressed": 7429,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -5904,7 +5915,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "a_10",
@@ -5912,7 +5923,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "a_11",
@@ -5920,7 +5931,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "a_12",
@@ -5928,7 +5939,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "a_15",
@@ -5944,7 +5955,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "a_18",
@@ -5952,7 +5963,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2823
     },
     {
       "ID": "a_19",
@@ -5976,7 +5987,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "a_21",
@@ -5984,7 +5995,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "a_22",
@@ -6016,7 +6027,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "a_27",
@@ -6144,23 +6155,23 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7422,
+      "Progressed": 7429,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-29T19:57:35.6066845+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:03:36.0828495+00:00",
+  "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:04:26.119941+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:26.9757123+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:03:36.0829035+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:59:22.744687+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:04:26.1200068+00:00"
 }

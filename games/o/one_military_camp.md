@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~93 |
+| First Step | 53.00% | ~94 |
 | The 4 Pillars | 51.00% | ~90 |
 | Capitalism | 21.00% | ~37 |
 | Great Producer | 12.00% | ~21 |
@@ -12,9 +12,9 @@
 | Indebted | 11.00% | ~19 |
 | Green Energy | 11.00% | ~19 |
 | Desert Power | 10.00% | ~18 |
-| Health Care | 9.00% | ~16 |
 | Desert Rat | 9.00% | ~16 |
 | Perfect Soldier | 8.00% | ~14 |
+| Health Care | 8.00% | ~14 |
 | Ammo Tycoon | 8.00% | ~14 |
 | Healing | 7.00% | ~12 |
 | Good payer | 7.00% | ~12 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 347)  
+Progressed: 177 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-02 | 174 | 0 |
 | 2023-10-05 | 175 | 0 |
 | 2023-10-07 | 176 | 0 |
+| 2023-10-10 | 177 | 0 |

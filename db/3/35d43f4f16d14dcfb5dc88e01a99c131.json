@@ -4,7 +4,7 @@
   "ProductSlug": "wrestlequest-324fb5",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-29T16:00:00+00:00",
@@ -27,9 +27,987 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-10T17:04:08.8462962+00:00",
+  "TotalAchievements": 122,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALLTHEPOTS",
+      "SetID": "aopl79b",
+      "Name": "ALL THE POTS",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AWiseManHasManyAdvisors",
+      "SetID": "aopl79b",
+      "Name": "A Wise Man Has Many Advisors",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllAboard",
+      "SetID": "aopl79b",
+      "Name": "All Aboard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllTreasureAllPleasure",
+      "SetID": "aopl79b",
+      "Name": "All Treasure, All Pleasure",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AndrtheGiant",
+      "SetID": "aopl79b",
+      "Name": "Andr\u00E9 the Giant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArcadeHero",
+      "SetID": "aopl79b",
+      "Name": "Arcade Hero",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BabyFace",
+      "SetID": "aopl79b",
+      "Name": "Baby Face",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BlairWouldBeProud",
+      "SetID": "aopl79b",
+      "Name": "Blair Would Be Proud",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BookerTandSharmell",
+      "SetID": "aopl79b",
+      "Name": "Booker T and Sharmell",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BoxwoodsGoldenBoy",
+      "SetID": "aopl79b",
+      "Name": "Boxwood\u0027s Golden Boy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BrainbusterTrust",
+      "SetID": "aopl79b",
+      "Name": "Brainbuster Trust",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BreakthePots",
+      "SetID": "aopl79b",
+      "Name": "Break the Pots",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BszokuGirl",
+      "SetID": "aopl79b",
+      "Name": "B\u014Ds\u014Dzoku Girl",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CagesandMiddleAges",
+      "SetID": "aopl79b",
+      "Name": "Cages and Middle Ages",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CainandAbel",
+      "SetID": "aopl79b",
+      "Name": "Cain and Abel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CaptainLouAlbano",
+      "SetID": "aopl79b",
+      "Name": "Captain Lou Albano",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CatBurglar",
+      "SetID": "aopl79b",
+      "Name": "Cat Burglar",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chaptastic",
+      "SetID": "aopl79b",
+      "Name": "Chaptastic",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chatterbox",
+      "SetID": "aopl79b",
+      "Name": "Chatterbox",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConstructionInc",
+      "SetID": "aopl79b",
+      "Name": "Construction Inc.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Contingency",
+      "SetID": "aopl79b",
+      "Name": "Contingency",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CountonYourCornerman",
+      "SetID": "aopl79b",
+      "Name": "Count on Your Cornerman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CozyEnoughforYou",
+      "SetID": "aopl79b",
+      "Name": "Cozy Enough for You?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DangerousMinds",
+      "SetID": "aopl79b",
+      "Name": "Dangerous Minds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DaveyBoySmith",
+      "SetID": "aopl79b",
+      "Name": "Davey Boy Smith",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DiamondDallasPage",
+      "SetID": "aopl79b",
+      "Name": "Diamond Dallas Page",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DownfortheThreeCount",
+      "SetID": "aopl79b",
+      "Name": "Down for the Three Count!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DragonBackBusted",
+      "SetID": "aopl79b",
+      "Name": "Dragon Back Busted",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DramaPrincess",
+      "SetID": "aopl79b",
+      "Name": "Drama Princess",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DramaQueen",
+      "SetID": "aopl79b",
+      "Name": "Drama Queen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinalAssault",
+      "SetID": "aopl79b",
+      "Name": "Final Assault",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FlyingFish",
+      "SetID": "aopl79b",
+      "Name": "Flying Fish",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ForecastVictory",
+      "SetID": "aopl79b",
+      "Name": "Forecast? Victory.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GirlsNight",
+      "SetID": "aopl79b",
+      "Name": "Girl\u0027s Night",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gladiator",
+      "SetID": "aopl79b",
+      "Name": "Gladiator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gossiper",
+      "SetID": "aopl79b",
+      "Name": "Gossiper",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HighPower",
+      "SetID": "aopl79b",
+      "Name": "High Power",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HoofPuck",
+      "SetID": "aopl79b",
+      "Name": "Hoof Puck",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HypeRollercoaster",
+      "SetID": "aopl79b",
+      "Name": "Hype Rollercoaster",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HypeTypeStripes",
+      "SetID": "aopl79b",
+      "Name": "Hype Type Stripes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IPrefertheTermTreasureHunter",
+      "SetID": "aopl79b",
+      "Name": "I Prefer the Term \u0022Treasure Hunter\u0022",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IamElectrified",
+      "SetID": "aopl79b",
+      "Name": "I am Electrified",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IconicGearAfficianado",
+      "SetID": "aopl79b",
+      "Name": "Iconic Gear Aficionado",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IconicGearCollector",
+      "SetID": "aopl79b",
+      "Name": "Iconic Gear Collector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ImpeccableTiming",
+      "SetID": "aopl79b",
+      "Name": "Impeccable Timing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IronSights",
+      "SetID": "aopl79b",
+      "Name": "Iron Sights",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ItsTransmorphingTime",
+      "SetID": "aopl79b",
+      "Name": "It\u0027s Transmorphing Time!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JaketheSnake",
+      "SetID": "aopl79b",
+      "Name": "Jake the Snake",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JeffJarret",
+      "SetID": "aopl79b",
+      "Name": "Jeff Jarret",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JunkyardBrawl",
+      "SetID": "aopl79b",
+      "Name": "Junkyard Brawl",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JunkyardDog",
+      "SetID": "aopl79b",
+      "Name": "Junkyard Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KokoBWare",
+      "SetID": "aopl79b",
+      "Name": "Koko B. Ware",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LAPark",
+      "SetID": "aopl79b",
+      "Name": "L. A. Park",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LadyApache",
+      "SetID": "aopl79b",
+      "Name": "Lady Apache",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LadyV6",
+      "SetID": "aopl79b",
+      "Name": "Lady V6",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LaserSight",
+      "SetID": "aopl79b",
+      "Name": "Laser Sight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LawoftheJungle",
+      "SetID": "aopl79b",
+      "Name": "Law of the Jungle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LittleSis",
+      "SetID": "aopl79b",
+      "Name": "Little Sis",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LunaVachon",
+      "SetID": "aopl79b",
+      "Name": "Luna Vachon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MadeitMyselfDidntI",
+      "SetID": "aopl79b",
+      "Name": "Made it Myself, Didn\u0027t I?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MajorBump",
+      "SetID": "aopl79b",
+      "Name": "Major Bump",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterThief",
+      "SetID": "aopl79b",
+      "Name": "Master Thief",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MoneytoBurn",
+      "SetID": "aopl79b",
+      "Name": "Money to Burn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonsterHeel",
+      "SetID": "aopl79b",
+      "Name": "Monster Heel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mugger",
+      "SetID": "aopl79b",
+      "Name": "Mugger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Multikill",
+      "SetID": "aopl79b",
+      "Name": "Multikill!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NailedIt",
+      "SetID": "aopl79b",
+      "Name": "Nailed It!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Necromantic",
+      "SetID": "aopl79b",
+      "Name": "Nec-romantic",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoAgenda",
+      "SetID": "aopl79b",
+      "Name": "No Agenda",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OHYEAH1",
+      "SetID": "aopl79b",
+      "Name": "OH YEAH!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OOOOOHHHYEAAAHH",
+      "SetID": "aopl79b",
+      "Name": "OOOOOHHH YEAAAHH!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ohyeah",
+      "SetID": "aopl79b",
+      "Name": "Oh yeah!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PAWHeavyweightChampion",
+      "SetID": "aopl79b",
+      "Name": "PAW Heavyweight Champion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PMCPTSD",
+      "SetID": "aopl79b",
+      "Name": "PMC PTSD",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PersonalInvestment",
+      "SetID": "aopl79b",
+      "Name": "Personal Investment",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Punked",
+      "SetID": "aopl79b",
+      "Name": "Punked",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PurseSnatcher",
+      "SetID": "aopl79b",
+      "Name": "Purse Snatcher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RareForm",
+      "SetID": "aopl79b",
+      "Name": "Rare Form",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ReallyOK",
+      "SetID": "aopl79b",
+      "Name": "Really? OK...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RingsideSupport",
+      "SetID": "aopl79b",
+      "Name": "Ringside Support",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RoadWarriors",
+      "SetID": "aopl79b",
+      "Name": "Road Warriors",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RockyJohnson",
+      "SetID": "aopl79b",
+      "Name": "Rocky Johnson",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SantaisMissinganElf",
+      "SetID": "aopl79b",
+      "Name": "Santa is Missing an Elf",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SchoolsOut",
+      "SetID": "aopl79b",
+      "Name": "School\u0027s Out",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SgtSlaughter",
+      "SetID": "aopl79b",
+      "Name": "Sgt. Slaughter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SharpDressedMan",
+      "SetID": "aopl79b",
+      "Name": "Sharp Dressed Man",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SignatureMove",
+      "SetID": "aopl79b",
+      "Name": "Signature Move",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SignatureMoveSmorgasbord",
+      "SetID": "aopl79b",
+      "Name": "Signature Move Smorgasbord",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SlamSlamSLAM",
+      "SetID": "aopl79b",
+      "Name": "Slam, Slam, SLAM",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SmackTalker",
+      "SetID": "aopl79b",
+      "Name": "Smack Talker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SniperScope",
+      "SetID": "aopl79b",
+      "Name": "Sniper Scope",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Spike",
+      "SetID": "aopl79b",
+      "Name": "Spike!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StillHungry",
+      "SetID": "aopl79b",
+      "Name": "Still Hungry?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stylin",
+      "SetID": "aopl79b",
+      "Name": "Stylin\u0027 ...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SuckIt",
+      "SetID": "aopl79b",
+      "Name": "Suck It!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SuperSlamBros",
+      "SetID": "aopl79b",
+      "Name": "Super Slam Bros",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SuperSleuth",
+      "SetID": "aopl79b",
+      "Name": "Super Sleuth",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TagOnMyToe",
+      "SetID": "aopl79b",
+      "Name": "Tag On My Toe",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TagTeamTitan",
+      "SetID": "aopl79b",
+      "Name": "Tag Team Titan",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TagTeamToughGuy",
+      "SetID": "aopl79b",
+      "Name": "Tag Team Tough Guy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Taps",
+      "SetID": "aopl79b",
+      "Name": "Taps",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TempusSlimus",
+      "SetID": "aopl79b",
+      "Name": "Tempus Slimus",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheLCWChampionis",
+      "SetID": "aopl79b",
+      "Name": "The LCW Champion is...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheThrillofVictory",
+      "SetID": "aopl79b",
+      "Name": "The Thrill of Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThirdTimesaCharm",
+      "SetID": "aopl79b",
+      "Name": "Third Time\u0027s a Charm",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThreesaCrowd",
+      "SetID": "aopl79b",
+      "Name": "Threes a Crowd",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TopplingTowers",
+      "SetID": "aopl79b",
+      "Name": "Toppling Towers",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TotheFarReachesofSlamdom",
+      "SetID": "aopl79b",
+      "Name": "To the Far Reaches of Slamdom",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ToyCraftsman",
+      "SetID": "aopl79b",
+      "Name": "Toy Craftsman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ToyHealer",
+      "SetID": "aopl79b",
+      "Name": "Toy Healer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ToysDontBleedonMyWatch",
+      "SetID": "aopl79b",
+      "Name": "Toys Don\u0027t Bleed on My Watch!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TripleDream",
+      "SetID": "aopl79b",
+      "Name": "Triple Dream",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Triumph",
+      "SetID": "aopl79b",
+      "Name": "Triumph",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Vegedelic",
+      "SetID": "aopl79b",
+      "Name": "Vegedelic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WalkOnCollector",
+      "SetID": "aopl79b",
+      "Name": "Walk On Collector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Warlord",
+      "SetID": "aopl79b",
+      "Name": "Warlord",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Warrior",
+      "SetID": "aopl79b",
+      "Name": "Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watchagonnado",
+      "SetID": "aopl79b",
+      "Name": "Watcha gonna do?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Whatalunker",
+      "SetID": "aopl79b",
+      "Name": "What a lunker!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WrestlerPilgrim",
+      "SetID": "aopl79b",
+      "Name": "Wrestler Pilgrim",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YouSunkMy",
+      "SetID": "aopl79b",
+      "Name": "You Sunk My...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "andprofilin",
+      "SetID": "aopl79b",
+      "Name": "...And Profilin\u0027",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "aopl79b",
@@ -40,8 +1018,8 @@
   ],
   "FirstSeen": "2023-09-30T06:58:30.8750394+00:00",
   "FirstSeenAchievements": "2023-09-27T20:03:04.5443053+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:03:23.7369292+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:04:08.8462942+00:00",
   "LastUpdate_AppInfo": "2023-10-04T19:57:13.684189+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:56.4966478+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:03:23.7369325+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:00:06.3561604+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:04:08.8500834+00:00"
 }

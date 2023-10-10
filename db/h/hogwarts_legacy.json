@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8698,10 +8698,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45492,
       "NumberOfAwardsMax": 23405
+    },
+    {
+      "Time": "2023-10-10T16:59:36.7671277+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45495,
+      "NumberOfAwardsMax": 23405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45492,
+  "NumberOfAwards": 45495,
   "NumberOfAwardsMax": 23405,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8751,7 +8757,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1115
+      "Count": 1118
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8778,10 +8784,10 @@
       "Count": 702
     }
   ],
-  "EOS_Progressed": 298140,
+  "EOS_Progressed": 298142,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 380,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 379,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -27398,6 +27404,11 @@
       "Time": "2023-10-10T15:09:29.9884311+00:00",
       "NumProgressed": 298140,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-10T17:09:35.5294725+00:00",
+      "NumProgressed": 298142,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27433,7 +27444,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32795
+      "UsersEstimate": 32796
     },
     {
       "ID": "PFA_13",
@@ -27449,7 +27460,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "PFA_15",
@@ -27465,7 +27476,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32795
+      "UsersEstimate": 32796
     },
     {
       "ID": "PFA_17",
@@ -27537,7 +27548,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32795
+      "UsersEstimate": 32796
     },
     {
       "ID": "PFA_25",
@@ -27545,7 +27556,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "PFA_26",
@@ -27577,7 +27588,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "PFA_3",
@@ -27593,7 +27604,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32795
+      "UsersEstimate": 32796
     },
     {
       "ID": "PFA_31",
@@ -27665,7 +27676,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32795
+      "UsersEstimate": 32796
     },
     {
       "ID": "PFA_4",
@@ -27697,7 +27708,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "PFA_43",
@@ -27768,16 +27779,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298140,
+      "Progressed": 298142,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-10T13:04:56.8316888+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:08:18.7529634+00:00",
+  "LastChanged": "2023-10-10T16:59:36.7671275+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:09:35.5294719+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:37.015985+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:08:18.7531152+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:59:36.7671284+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:09:35.5297154+00:00"
 }

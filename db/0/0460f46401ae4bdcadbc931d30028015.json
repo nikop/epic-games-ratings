@@ -346,9 +346,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2337,
+  "EOS_Progressed": 2339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2023-10-10T16:06:39.9495291+00:00",
       "NumProgressed": 2337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T17:08:44.9744779+00:00",
+      "NumProgressed": 2339,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -2161,7 +2166,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "achievement_11",
@@ -2193,7 +2198,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "achievement_15",
@@ -2249,7 +2254,7 @@
       "Name": "Saw It Coming",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "achievement_21",
@@ -2257,7 +2262,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_3",
@@ -2320,7 +2325,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2337,
+      "Progressed": 2339,
       "Completed": 0
     }
   ],
@@ -2328,8 +2333,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-09T17:58:27.4858381+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:06:39.9495286+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:08:44.9744771+00:00",
   "LastUpdate_AppInfo": "2023-10-05T02:16:09.7048749+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:40.3587494+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:06:39.9495536+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:59:40.7738643+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:08:44.9745084+00:00"
 }

@@ -7851,9 +7851,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63035,
+  "EOS_Progressed": 63036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26241,6 +26241,11 @@
       "Time": "2023-10-10T16:05:54.5886251+00:00",
       "NumProgressed": 63035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-10T17:07:41.3865605+00:00",
+      "NumProgressed": 63036,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26460,7 +26465,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "Lance-a-lot",
@@ -26508,7 +26513,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "Minor Clan",
@@ -26659,15 +26664,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63035,
+      "Progressed": 63036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-10T15:58:49.2448088+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:05:54.5886246+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:07:41.38656+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:49.2448094+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:05:54.5887787+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:59:54.5446134+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:07:41.3867325+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2325,6 +2325,11 @@
       "Time": "2023-10-09T23:04:00.0458068+00:00",
       "NumProgressed": 953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-10T17:05:32.6057475+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2336,7 +2341,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH001",
@@ -2352,7 +2357,7 @@
       "Name": "Conquistador",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH003",
@@ -2392,7 +2397,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH008",
@@ -2424,7 +2429,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH012",
@@ -2432,7 +2437,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH013",
@@ -2504,7 +2509,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH022",
@@ -2518,9 +2523,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH024",
@@ -2552,7 +2557,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH028",
@@ -2624,7 +2629,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH037",
@@ -2735,15 +2740,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:04:21.8959008+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:05:32.605747+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.9232291+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:58:55.1025246+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:04:21.8959588+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:00:03.6027947+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:05:32.605803+00:00"
 }

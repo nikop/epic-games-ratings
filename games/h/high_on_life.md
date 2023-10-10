@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 318)
 | Fallout Doesn't Let You Do This | 0.40% | ~97 |
 | Spent 15 Hours At The Alien Strip Club | 0.40% | ~97 |
 | Series Wrap on Suit-O | 0.40% | ~97 |
+| We Came, We Chainsaw, We Conquered | 0.40% | ~6 |
 | Eye Scream, You Scream | 0.30% | ~73 |
-| We Came, We Chainsaw, We Conquered | 0.30% | ~4 |
 | Sequel-Bait | 0.20% | ~48 |
 | Gunning For Your Job | 0.20% | ~48 |
 | Playing Favorites | 0.20% | ~48 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Noctuan Champion | 28.00% | ~14 |
+| Noctuan Champion | 27.00% | ~14 |
 | Apian Champion | 24.00% | ~12 |
 | Lacertian Champion | 22.00% | ~11 |
 | Endless Tricks | 20.00% | ~10 |
@@ -38,6 +38,7 @@
 | Apian Hero | 8.00% | ~4 |
 | Can't touch this | 6.00% | ~3 |
 | Denying Destiny | 6.00% | ~3 |
+| Purification Avatar | 6.00% | ~3 |
 | The Abyssal Terror | 6.00% | ~3 |
 | The Dark Moon | 6.00% | ~3 |
 | Behenian Hero | 6.00% | ~3 |
@@ -45,7 +46,6 @@
 | Artificer | 4.00% | ~2 |
 | Astrarium of Holding | 4.00% | ~2 |
 | If I Had Failed... | 4.00% | ~2 |
-| Purification Avatar | 4.00% | ~2 |
 | Reflexive Mind | 4.00% | ~2 |
 | Sentinelphobic | 4.00% | ~2 |
 | The Distorted Sage | 4.00% | ~2 |
@@ -103,7 +103,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 436)  
+Progressed: 51 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,4 +122,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-06 | 44 | 0 |
 | 2023-10-07 | 46 | 0 |
 | 2023-10-08 | 49 | 0 |
-| 2023-10-10 | 50 | 0 |
+| 2023-10-10 | 51 | 0 |

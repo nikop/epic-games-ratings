@@ -34,6 +34,7 @@ Rating: 3.51 (Ranked 1,009)
 | Block Party | 0.30% | ~5 |
 | Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
+| Nice Try | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~4 |
 | Sisterhood | 0.20% | ~4 |
@@ -41,7 +42,6 @@ Rating: 3.51 (Ranked 1,009)
 | Check, Please! | 0.20% | ~4 |
 | Starve the Beast | 0.20% | ~4 |
 | So Anyway I Started Blasting | 0.20% | ~4 |
-| Nice Try | 0.20% | ~4 |
 | Blacklight Down | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Dexterity Save | 0.20% | ~4 |

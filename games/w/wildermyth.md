@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 32.00% | ~452 |
 | Passing Shadow | 31.00% | ~438 |
 | Cutthroat Competitors | 31.00% | ~438 |
+| How Romantic! | 29.00% | ~409 |
 | Daybreak | 29.00% | ~409 |
-| How Romantic! | 28.00% | ~395 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~367 |
 | Completing the Look | 15.00% | ~212 |
 | War Endured | 15.00% | ~212 |
@@ -30,10 +30,10 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 7.00% | ~99 |
 | Legends Never Die | 6.00% | ~85 |
 | In Soil, In Smoke | 6.00% | ~85 |
+| A Hunger, Sated | 6.00% | ~85 |
 | Wingknight's Prowess | 6.00% | ~85 |
 | All My Birds, Safely Home | 6.00% | ~85 |
 | Turncoat | 6.00% | ~85 |
-| A Hunger, Sated | 5.00% | ~71 |
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |

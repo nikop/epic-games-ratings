@@ -51,6 +51,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.70% | ~102 |
 | Kushite Pyramids | 0.70% | ~102 |
 | Great | 0.60% | ~87 |
+| Legendary Cities | 0.60% | ~87 |
+| Just Difficulty | 0.60% | ~87 |
 | Artisans | 0.60% | ~87 |
 | Furious Family | 0.60% | ~87 |
 | Apadana | 0.60% | ~87 |
@@ -65,8 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.50% | ~73 |
 | Mighty | 0.50% | ~73 |
 | Valiant | 0.50% | ~73 |
-| Legendary Cities | 0.50% | ~73 |
-| Just Difficulty | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,576 (Ranked 134)  
+Progressed: 14,578 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,15 +522,15 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-07 | 14,492 | 5 |
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
-| 2023-10-10 | 14,576 | 5 |
+| 2023-10-10 | 14,578 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 265)  
-Sum: 1,831 (Ranked 210)  
+Sum: 1,832 (Ranked 210)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 224 |
-| This game has Diverse Characters | 212 |
+| This game has Diverse Characters | 213 |
 | This game is Extremely Fun | 211 |
 | This game is Highly Recommended | 211 |
 | This game is Educational | 209 |
@@ -683,3 +683,4 @@ Diff (max vs sum): 55
 | 2023-10-05 | 4.65 | - | 223 | 1,827 |
 | 2023-10-07 | 4.65 | - | 224 | 1,830 |
 | 2023-10-08 | 4.65 | - | 224 | 1,831 |
+| 2023-10-10 | 4.65 | - | 224 | 1,832 |

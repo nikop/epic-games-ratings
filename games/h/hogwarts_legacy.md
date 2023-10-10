@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,11 +10,11 @@ Rating: 4.76 (Ranked 120)
 | Troll with the Punches | 13.00% | ~38,758 |
 | A Keen Sense of Spell | 12.00% | ~35,777 |
 | That's a Keeper | 12.00% | ~35,777 |
-| The Hallowed Hero | 11.00% | ~32,795 |
-| The Defender of Dragons | 11.00% | ~32,795 |
-| Loom for Improvement | 11.00% | ~32,795 |
-| A Talent for Spending | 11.00% | ~32,795 |
-| Coasting Along | 11.00% | ~32,795 |
+| The Hallowed Hero | 11.00% | ~32,796 |
+| The Defender of Dragons | 11.00% | ~32,796 |
+| Loom for Improvement | 11.00% | ~32,796 |
+| A Talent for Spending | 11.00% | ~32,796 |
+| Coasting Along | 11.00% | ~32,796 |
 | Grappling with a Graphorn | 10.00% | ~29,814 |
 | The One Who Mastered Memories | 10.00% | ~29,814 |
 | The Hero of Hogwarts | 10.00% | ~29,814 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 120)
 | A Sallow Grave | 8.00% | ~23,851 |
 | Flight the Good Flight | 8.00% | ~23,851 |
 | Beast Friends | 7.00% | ~20,870 |
-| The Seeker of Knowledge | 6.00% | ~17,888 |
-| The Root of the Problem | 6.00% | ~17,888 |
-| Third Time's a Charm | 6.00% | ~17,888 |
-| Raising Expectations | 6.00% | ~17,888 |
+| The Seeker of Knowledge | 6.00% | ~17,889 |
+| The Root of the Problem | 6.00% | ~17,889 |
+| Third Time's a Charm | 6.00% | ~17,889 |
+| Raising Expectations | 6.00% | ~17,889 |
 | The Toast of the Town | 5.00% | ~14,907 |
 | The Ends Petrify the Means | 5.00% | ~14,907 |
 | Going Through the Potions | 4.00% | ~11,926 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,140 (Ranked 46)  
+Progressed: 298,142 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 483 (0.16%) (Ranked 229)
 | 2023-10-07 | 297,974 | 482 |
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
-| 2023-10-10 | 298,140 | 483 |
+| 2023-10-10 | 298,142 | 483 |
 ## Awards
 Max (Character Customization): 23,405  (Ranked 17)  
-Sum: 45,492 (Ranked 31)  
+Sum: 45,495 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -236,7 +236,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,165 |
 | This game has Amazing Storytelling | 1,129 |
 | This game has Diverse Characters | 1,120 |
-| This game is Relaxing | 1,115 |
+| This game is Relaxing | 1,118 |
 | This game is Extremely Fun | 1,110 |
 | This game has Amazing Characters | 1,074 |
 | This game is Highly Recommended | 1,063 |
@@ -446,4 +446,4 @@ Diff (max vs sum): -14
 | 2023-10-07 | 4.76 | 23,347 | 45,276 |
 | 2023-10-08 | 4.76 | 23,384 | 45,386 |
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
-| 2023-10-10 | 4.76 | 23,405 | 45,492 |
+| 2023-10-10 | 4.76 | 23,405 | 45,495 |

@@ -1343,9 +1343,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 129542,
+  "EOS_Progressed": 129543,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18668,6 +18668,11 @@
       "Time": "2023-10-10T16:05:19.2011171+00:00",
       "NumProgressed": 129542,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-10T17:06:52.6927196+00:00",
+      "NumProgressed": 129543,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -18807,7 +18812,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16840
+      "UsersEstimate": 16841
     },
     {
       "ID": "ACH_COP_STAR",
@@ -18998,15 +19003,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129542,
+      "Progressed": 129543,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-06T18:58:57.1340203+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:05:19.2011166+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:06:52.6927191+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8908498+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:00:03.4575887+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:05:19.2012549+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:01:46.2765486+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:06:52.6928701+00:00"
 }

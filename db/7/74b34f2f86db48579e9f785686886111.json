@@ -4,7 +4,7 @@
   "ProductSlug": "buff-f1dc4f",
   "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T23:57:00.7943524+00:00",
-  "LastUpdate_Ratings": "2023-10-10T15:57:45.805384+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:06:21.6772733+00:00"
+  "LastUpdate_Ratings": "2023-10-10T16:58:27.6092464+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:08:19.9530966+00:00"
 }

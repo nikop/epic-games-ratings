@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1931,6 +1931,11 @@
       "Time": "2023-10-10T16:05:55.047171+00:00",
       "NumProgressed": 842,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T17:07:41.8681601+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1943,7 +1948,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "BostonHayDay",
@@ -1951,7 +1956,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "BoxingClever",
@@ -1959,7 +1964,7 @@
       "Name": "Boxing Clever",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "Cartographer",
@@ -1967,7 +1972,7 @@
       "Name": "Cartographer",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Causality",
@@ -1983,7 +1988,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2015,7 +2020,7 @@
       "Name": "Everything is Dust",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LightsOut",
@@ -2039,15 +2044,15 @@
       "Name": "Once more into the Breach",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 505
+      "UsersEstimate": 514
     },
     {
       "ID": "Relic",
@@ -2055,7 +2060,7 @@
       "Name": "Relic",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "SkeletonCrew",
@@ -2079,7 +2084,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "TragedyDocumented",
@@ -2102,14 +2107,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:05:55.0471587+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:07:41.8681595+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:19.6676694+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:00:28.6586748+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:05:55.0471964+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:02:28.7398447+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:07:41.8682077+00:00"
 }

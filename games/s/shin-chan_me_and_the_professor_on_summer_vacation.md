@@ -19,13 +19,13 @@
 | Did Someone Order Ramen? | 10.00% | ~4 |
 | Ptera Pal | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
+| A New Time | 8.00% | ~3 |
 | My Fair Ladybug | 8.00% | ~3 |
 | The Holly Grail | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
 | Top-Notch Journalist | 8.00% | ~3 |
 | Stego Stooge | 8.00% | ~3 |
 | Asso Bridge Enthusiast | 8.00% | ~3 |
-| A New Time | 5.00% | ~2 |
 | Beetle Savant | 5.00% | ~2 |
 | Cicada Connoisseur | 5.00% | ~2 |
 | Dragonfly Whiz | 5.00% | ~2 |

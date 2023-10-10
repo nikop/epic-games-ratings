@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1735,10 +1735,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1831,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-10T17:03:34.400855+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1832,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1831,
+  "NumberOfAwards": 1832,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1746,7 +1752,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1815,9 +1821,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14576,
+  "EOS_Progressed": 14578,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13495,6 +13501,11 @@
       "Time": "2023-10-10T16:04:58.5057102+00:00",
       "NumProgressed": 14576,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-10T17:06:23.8834383+00:00",
+      "NumProgressed": 14578,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14208,9 +14219,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -14272,9 +14283,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -16241,21 +16252,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14576,
+      "Progressed": 14578,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14576,
+      "Progressed": 14578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-08T16:02:04.9149247+00:00",
-  "LastChanged_Achievements": "2023-10-10T16:04:58.5057097+00:00",
+  "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
+  "LastChanged_Achievements": "2023-10-10T17:06:23.8834375+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-10T16:02:19.5256245+00:00",
-  "LastUpdate_Achievements": "2023-10-10T16:04:58.507025+00:00"
+  "LastUpdate_Ratings": "2023-10-10T17:03:34.4008554+00:00",
+  "LastUpdate_Achievements": "2023-10-10T17:06:23.884753+00:00"
 }
