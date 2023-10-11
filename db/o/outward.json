@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5394,9 +5394,9 @@
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 464
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5482,8 +5482,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:06:15.9482706+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:05:06.0661931+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:59:54.0890492+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:06:15.9483366+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:58:58.0218794+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:05:06.0662586+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 381,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-10-10T11:05:59.5634713+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T11:05:59.1658472+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -547,9 +552,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -635,7 +640,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "ap8553i",
       "Name": "Master of Unlocking",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -709,15 +714,15 @@
       "Name": "Burn, Baby, Burn!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -803,15 +808,15 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_35",
       "SetID": "ap8553i",
       "Name": "Not Part of the Job Description",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -827,7 +832,7 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "ap8553i",
       "Name": "I Don\u0027t Have Time for This!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -867,7 +872,7 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "8ddjaeg",
       "Name": "Prank Call",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -875,7 +880,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "8ddjaeg",
       "Name": "Clutch!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -915,7 +920,7 @@
       "ID": "ACHIEVEMENT_48",
       "SetID": "8ddjaeg",
       "Name": "Doctor\u0027s Notes",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -923,7 +928,7 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "8ddjaeg",
       "Name": "A Piece of My Past",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -931,7 +936,7 @@
       "ID": "ACHIEVEMENT_50",
       "SetID": "8ddjaeg",
       "Name": "A Warning",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -939,7 +944,7 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "8ddjaeg",
       "Name": "Not Afraid of the Dark",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -947,7 +952,7 @@
       "ID": "ACHIEVEMENT_52",
       "SetID": "8ddjaeg",
       "Name": "Fumbling in the Dark",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -979,7 +984,7 @@
       "ID": "ACHIEVEMENT_56",
       "SetID": "8ddjaeg",
       "Name": "Things Fall Apart",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -987,7 +992,7 @@
       "ID": "ACHIEVEMENT_57",
       "SetID": "8ddjaeg",
       "Name": "Where Do We Go From Here?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1003,7 +1008,7 @@
       "ID": "ACHIEVEMENT_59",
       "SetID": "8ddjaeg",
       "Name": "Becoming an Agent",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1027,7 +1032,7 @@
       "ID": "ACHIEVEMENT_62",
       "SetID": "8ddjaeg",
       "Name": "Nosy Parent",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1051,7 +1056,7 @@
       "ID": "ACHIEVEMENT_65",
       "SetID": "8ddjaeg",
       "Name": "Krimson Chainsaw Massacre",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1108,20 +1113,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:07:31.094095+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:05:59.1658465+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.2165637+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:57:31.5190427+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:07:31.0941844+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:57:17.0821794+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:05:59.166001+00:00"
 }

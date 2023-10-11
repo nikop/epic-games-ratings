@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,173 |
+| First Step Into the Knight | 52.00% | ~38,174 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,694 |
-| Loose Ends | 34.00% | ~24,959 |
+| Loose Ends | 34.00% | ~24,960 |
 | To the Victor Go the Spoils | 29.00% | ~21,289 |
 | Knighthood | 28.00% | ~20,555 |
-| Get ReQ'd | 25.00% | ~18,352 |
-| Whispered Words | 25.00% | ~18,352 |
-| The Batman Family | 23.00% | ~16,884 |
-| Lock and Key | 23.00% | ~16,884 |
+| Get ReQ'd | 25.00% | ~18,353 |
+| Whispered Words | 25.00% | ~18,353 |
+| The Batman Family | 23.00% | ~16,885 |
+| Lock and Key | 23.00% | ~16,885 |
 | Something in the Clay | 21.00% | ~15,416 |
 | Quartzer Life Crisis | 21.00% | ~15,416 |
 | Working Hard or Harley Working? | 20.00% | ~14,682 |
@@ -26,9 +26,9 @@ Rating: 4.18 (Ranked 897)
 | Universal Health Scare | 16.00% | ~11,746 |
 | In Your Element | 15.00% | ~11,012 |
 | Voiceless | 15.00% | ~11,012 |
-| Rock and a Hard Place | 14.00% | ~10,277 |
-| Cooldown | 14.00% | ~10,277 |
-| Seeking Asylum | 14.00% | ~10,277 |
+| Rock and a Hard Place | 14.00% | ~10,278 |
+| Cooldown | 14.00% | ~10,278 |
+| Seeking Asylum | 14.00% | ~10,278 |
 | Not On My Watch | 13.00% | ~9,543 |
 | Shock Til They Drop | 13.00% | ~9,543 |
 | End of an Era | 12.00% | ~8,809 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 897)
 | Element of Surprise | 0.20% | ~87 |
 | It's Nice to Be Wanted | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,410 (Ranked 91)  
+Progressed: 73,411 (Ranked 91)  
 Completed: 120 (0.16%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 120 (0.16%) (Ranked 229)
 | 2023-10-08 | 73,323 | 120 |
 | 2023-10-09 | 73,364 | 120 |
 | 2023-10-10 | 73,398 | 120 |
-| 2023-10-11 | 73,410 | 120 |
+| 2023-10-11 | 73,411 | 120 |
 ## Awards
 Max (Great Boss Battles): 2,802  (Ranked 97)  
 Sum: 4,703 (Ranked 140)  

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~10,915 |
-| Fried Friendship | 87.00% | ~10,791 |
-| Look At Him Go | 77.00% | ~9,550 |
-| On Rails Experience | 56.00% | ~6,946 |
-| A Daring Devil | 51.00% | ~6,326 |
-| Break the Bank | 42.00% | ~5,209 |
-| It Took Two | 39.00% | ~4,837 |
-| Bug Sized Relaxation | 19.00% | ~2,357 |
-| Plastic Prison Breakers | 17.00% | ~2,109 |
-| Terror Of The Seven Seas | 15.00% | ~1,860 |
-| Realize Your Art | 12.00% | ~1,488 |
-| Force Triangulated | 11.00% | ~1,364 |
-| Meditation Maestro | 11.00% | ~1,364 |
-| Lost And Found | 10.00% | ~1,240 |
-| Something Fishy | 10.00% | ~1,240 |
-| Platforming Prodigy | 9.00% | ~1,116 |
-| Snackosaurus | 8.00% | ~992 |
-| Mood Swing | 7.00% | ~868 |
-| Faraway Frequencies | 4.00% | ~496 |
+| Struck A Pose | 88.00% | ~10,926 |
+| Fried Friendship | 87.00% | ~10,802 |
+| Look At Him Go | 77.00% | ~9,560 |
+| On Rails Experience | 56.00% | ~6,953 |
+| A Daring Devil | 51.00% | ~6,332 |
+| Break the Bank | 42.00% | ~5,215 |
+| It Took Two | 39.00% | ~4,842 |
+| Bug Sized Relaxation | 19.00% | ~2,359 |
+| Plastic Prison Breakers | 17.00% | ~2,111 |
+| Terror Of The Seven Seas | 15.00% | ~1,862 |
+| Realize Your Art | 12.00% | ~1,490 |
+| Force Triangulated | 11.00% | ~1,366 |
+| Meditation Maestro | 11.00% | ~1,366 |
+| Lost And Found | 10.00% | ~1,242 |
+| Something Fishy | 10.00% | ~1,242 |
+| Platforming Prodigy | 9.00% | ~1,117 |
+| Snackosaurus | 8.00% | ~993 |
+| Mood Swing | 7.00% | ~869 |
+| Faraway Frequencies | 4.00% | ~497 |
 | Minigame Megalomania | 3.00% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,403 (Ranked 140)  
+Progressed: 12,416 (Ranked 140)  
 Completed: 52 (0.42%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 52 (0.42%) (Ranked 184)
 | 2023-10-08 | 11,793 | 45 |
 | 2023-10-09 | 12,084 | 46 |
 | 2023-10-10 | 12,330 | 52 |
-| 2023-10-11 | 12,403 | 52 |
+| 2023-10-11 | 12,416 | 52 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7863,9 +7863,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63069,
+  "EOS_Progressed": 63070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26333,6 +26333,11 @@
       "Time": "2023-10-11T10:08:20.9392198+00:00",
       "NumProgressed": 63069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T11:06:34.5404159+00:00",
+      "NumProgressed": 63070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26400,7 +26405,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "Crackshot",
@@ -26416,7 +26421,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "Duelist",
@@ -26624,7 +26629,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "Real Estate",
@@ -26751,15 +26756,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63069,
+      "Progressed": 63070,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-11T07:59:05.460475+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:08:20.9392192+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:06:34.540415+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:00:41.3683633+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:08:20.9393716+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:59:28.7176337+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:06:34.5405824+00:00"
 }

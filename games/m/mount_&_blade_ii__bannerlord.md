@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~5,046 |
 | Know your enemy | 7.00% | ~4,415 |
 | Mastery | 7.00% | ~4,415 |
-| Crowdfunded | 5.00% | ~3,153 |
-| Crush your enemies | 5.00% | ~3,153 |
-| My way | 5.00% | ~3,153 |
+| Crowdfunded | 5.00% | ~3,154 |
+| Crush your enemies | 5.00% | ~3,154 |
+| My way | 5.00% | ~3,154 |
 | Veni vidi vici | 4.00% | ~2,523 |
 | Freedom! | 3.00% | ~1,892 |
 | Long live the Empire! | 3.00% | ~1,892 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,069 (Ranked 97)  
+Progressed: 63,070 (Ranked 97)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 62,927 | 0 |
 | 2023-10-09 | 62,994 | 0 |
 | 2023-10-10 | 63,051 | 0 |
-| 2023-10-11 | 63,069 | 0 |
+| 2023-10-11 | 63,070 | 0 |
 ## Awards
 Max (Character Customization): 7,209  (Ranked 52)  
 Sum: 14,815 (Ranked 66)  

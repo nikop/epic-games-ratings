@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 93,
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67571,
+  "EOS_Progressed": 67573,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17619,6 +17619,11 @@
       "Time": "2023-10-11T10:09:31.2551563+00:00",
       "NumProgressed": 67571,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-11T11:08:33.3943503+00:00",
+      "NumProgressed": 67573,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17638,7 +17643,7 @@
       "Name": "Nordic Walking",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18245
     },
     {
       "ID": "03",
@@ -17646,7 +17651,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18245
     },
     {
       "ID": "04",
@@ -17662,7 +17667,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16217
+      "UsersEstimate": 16218
     },
     {
       "ID": "06",
@@ -17670,7 +17675,7 @@
       "Name": "Park Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12838
+      "UsersEstimate": 12839
     },
     {
       "ID": "07",
@@ -17694,7 +17699,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "10",
@@ -17750,7 +17755,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "17",
@@ -17790,7 +17795,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "22",
@@ -17878,7 +17883,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22974
+      "UsersEstimate": 22975
     },
     {
       "ID": "33",
@@ -17886,7 +17891,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10811
+      "UsersEstimate": 10812
     },
     {
       "ID": "34",
@@ -17902,7 +17907,7 @@
       "Name": "Let There Be Light",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23650
+      "UsersEstimate": 23651
     },
     {
       "ID": "36",
@@ -17966,7 +17971,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13514
+      "UsersEstimate": 13515
     },
     {
       "ID": "44",
@@ -18165,21 +18170,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67571,
+      "Progressed": 67573,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31039,
+      "Progressed": 31041,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:09:31.2551557+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:08:33.3943497+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:00:34.0416984+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:09:31.2553266+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:59:24.636476+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:08:33.3946548+00:00"
 }

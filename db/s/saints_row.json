@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3786,9 +3786,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74580,
+  "EOS_Progressed": 74581,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23336,6 +23336,11 @@
       "Time": "2023-10-11T10:07:25.5711132+00:00",
       "NumProgressed": 74580,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-11T11:05:55.1463776+00:00",
+      "NumProgressed": 74581,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23363,7 +23368,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13424
+      "UsersEstimate": 13425
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -23467,7 +23472,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24611
+      "UsersEstimate": 24612
     },
     {
       "ID": "customize_a_weapon",
@@ -23563,7 +23568,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17153
+      "UsersEstimate": 17154
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -23627,7 +23632,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20882
+      "UsersEstimate": 20883
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -23643,7 +23648,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25357
+      "UsersEstimate": 25358
     },
     {
       "ID": "one_third_purple",
@@ -23770,22 +23775,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74580,
+      "Progressed": 74581,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46217,
-      "Completed": 4073
+      "Progressed": 46218,
+      "Completed": 4074
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-10T22:00:55.8126775+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:07:25.5711107+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:05:55.1463769+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:02:30.059256+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:07:25.5713195+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:00:43.0793713+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:05:55.1466729+00:00"
 }

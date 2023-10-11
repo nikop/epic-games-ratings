@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1018,9 +1018,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 7508,
+  "EOS_Progressed": 7516,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1152,
+  "EOS_NewPlayers": 1153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5983,6 +5983,11 @@
       "Time": "2023-10-11T10:05:10.8060114+00:00",
       "NumProgressed": 7508,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-11T11:04:20.6527871+00:00",
+      "NumProgressed": 7516,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -6043,7 +6048,7 @@
       "Name": "Bye Bye",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2856
     },
     {
       "ID": "a_19",
@@ -6059,7 +6064,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "a_20",
@@ -6067,7 +6072,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "a_21",
@@ -6075,7 +6080,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "a_22",
@@ -6083,7 +6088,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "a_23",
@@ -6099,7 +6104,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "a_26",
@@ -6177,9 +6182,9 @@
       "ID": "a_35",
       "SetID": "daiie3o",
       "Name": "Welcome to the club",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 75
+      "UsersEstimate": 150
     },
     {
       "ID": "a_36",
@@ -6242,7 +6247,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 7508,
+      "Progressed": 7516,
       "Completed": 7
     }
   ],
@@ -6250,8 +6255,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-10T16:59:22.7446864+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:05:10.8060107+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:04:20.6527866+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:33.0848409+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:00:08.2814831+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:05:10.8060664+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:59:08.6930684+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:04:20.6528421+00:00"
 }

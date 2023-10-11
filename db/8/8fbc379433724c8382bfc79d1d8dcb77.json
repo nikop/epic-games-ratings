@@ -4,7 +4,7 @@
   "ProductSlug": "vlad-circus-descend-into-madness-9d1ed2",
   "Ranking_EOS_Progress": 610,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-16T13:00:00+00:00",
@@ -141,8 +141,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-26T15:04:26.955299+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:04:41.9520887+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:04:00.458028+00:00",
   "LastUpdate_AppInfo": "2023-10-10T16:57:15.7152447+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:01:11.1771168+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:04:41.9520988+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:59:47.8055231+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:04:00.4580383+00:00"
 }

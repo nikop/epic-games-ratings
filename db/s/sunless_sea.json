@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -715,9 +715,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 38652,
+  "EOS_Progressed": 38654,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18460,6 +18460,11 @@
       "Time": "2023-10-11T09:06:53.8189563+00:00",
       "NumProgressed": 38652,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T11:06:03.3924432+00:00",
+      "NumProgressed": 38654,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -18679,7 +18684,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "ach_legacysalvager",
@@ -18717,9 +18722,9 @@
       "ID": "ach_portbones",
       "SetID": "ammcm",
       "Name": "His bones in whispers",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 387
     },
     {
       "ID": "ach_portdeep",
@@ -18789,9 +18794,9 @@
       "ID": "ach_portunder",
       "SetID": "ammcm",
       "Name": "Under the zee",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 387
     },
     {
       "ID": "ach_scion",
@@ -18823,7 +18828,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     },
     {
       "ID": "ach_terror100",
@@ -18902,15 +18907,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 38652,
+      "Progressed": 38654,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-06T01:41:28.0525782+00:00",
-  "LastChanged_Achievements": "2023-10-11T10:07:37.1286683+00:00",
+  "LastChanged_Achievements": "2023-10-11T11:06:03.3924426+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.283431+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:02:52.6150646+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:07:37.128824+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:03:07.8242917+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:06:03.3925983+00:00"
 }

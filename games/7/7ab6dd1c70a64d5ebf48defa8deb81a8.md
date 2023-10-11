@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 18.00% | ~6 |
+| Essence Blow | 15.00% | ~5 |
 | Scholar | 15.00% | ~5 |
 | Find Allies | 12.00% | ~4 |
 | A Taste of Wrath | 12.00% | ~4 |
 | Trinity | 12.00% | ~4 |
 | Adventurer | 12.00% | ~4 |
-| Essence Blow | 12.00% | ~4 |
 | Shatter Them All | 12.00% | ~4 |
 | The Collector | 12.00% | ~4 |
 | Break Out | 9.00% | ~3 |
@@ -19,8 +19,8 @@
 | Godslayer | 9.00% | ~3 |
 | Geared Up | 9.00% | ~3 |
 | Fashion Victim | 9.00% | ~3 |
+| Miner | 9.00% | ~3 |
 | The Mentor | 6.00% | ~2 |
-| Miner | 6.00% | ~2 |
 | A Queen's Tale | 6.00% | ~2 |
 | Airborne | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |

@@ -4,7 +4,7 @@
   "ProductSlug": "recompile",
   "Ranking_EOS_Progress": 663,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-19T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:36.8058295+00:00",
   "LastChanged": "2023-03-31T05:58:36.8058296+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:19.8826029+00:00",
-  "LastUpdate_Ratings": "2023-10-11T09:58:08.8263885+00:00",
-  "LastUpdate_Achievements": "2023-10-11T10:04:59.444413+00:00"
+  "LastUpdate_Ratings": "2023-10-11T10:57:41.9118197+00:00",
+  "LastUpdate_Achievements": "2023-10-11T11:04:12.6702581+00:00"
 }
