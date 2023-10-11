@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.65% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.61% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.90% |
@@ -53,7 +53,7 @@
 | 51 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.59% |
 | 52 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.29% |
 | 53 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 54 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.15% |
+| 54 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.06% |
 | 55 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 55 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 57 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
@@ -142,7 +142,7 @@
 | 140 | [Adios](games/a/adios.md) | 1.05% |
 | 140 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 142 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
-| 143 | [Sable](games/s/sable.md) | 1.00% |
+| 143 | [Sable](games/s/sable.md) | 1.01% |
 | 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
 | 144 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 146 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.98% |
@@ -384,6 +384,7 @@
 | 313 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 313 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
 | 313 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 0.00% |
+| 313 | [Demon Turf Neon Splash](games/7/7184be55b899413ba25cf1f77e89ac82.md) | 0.00% |
 | 313 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 0.00% |
 | 313 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 313 | [Dinobreak](games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 0.00% |
