@@ -5,9 +5,9 @@
   "Ranking_Rating": 690,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2831,6 +2831,11 @@
       "Time": "2023-10-11T17:04:18.3714969+00:00",
       "NumProgressed": 759,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T19:04:14.6786016+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -2843,7 +2848,7 @@
       "Name": "Descendants",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_BLUEEND",
@@ -2979,7 +2984,7 @@
       "Name": "Infinity Loop",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_HUB1",
@@ -2995,7 +3000,7 @@
       "Name": "Path to Salvation",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_OASIS",
@@ -3003,7 +3008,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_PEAK",
@@ -3035,7 +3040,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_S4",
@@ -3043,7 +3048,7 @@
       "Name": "Power Glove",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_S5",
@@ -3059,7 +3064,7 @@
       "Name": "Lost in Space",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_STATUE",
@@ -3074,15 +3079,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 761,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:03:34.6243064+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:04:14.6786009+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:59:43.6220119+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:03:34.62434+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:00:20.2721344+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:04:14.6786445+00:00"
 }

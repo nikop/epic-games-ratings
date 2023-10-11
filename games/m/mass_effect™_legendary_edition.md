@@ -32,8 +32,8 @@
 | Missing in Action | 42.00% | ~274 |
 | Very Elusive | 42.00% | ~274 |
 | Head Hunter | 42.00% | ~274 |
+| Operative | 42.00% | ~274 |
 | Veteran | 41.00% | ~268 |
-| Operative | 41.00% | ~268 |
 | Scholar | 41.00% | ~268 |
 | Power Full | 40.00% | ~261 |
 | The Professor | 38.00% | ~248 |
@@ -69,15 +69,15 @@
 | Friend or Foe | 28.00% | ~183 |
 | Doppelganger | 28.00% | ~183 |
 | Bringer of War | 28.00% | ~183 |
+| Mobilizer | 28.00% | ~183 |
 | First Aid Specialist | 27.00% | ~176 |
-| Mobilizer | 27.00% | ~176 |
 | Mission Accomplished | 26.00% | ~170 |
 | Suicide Mission | 26.00% | ~170 |
 | Against All Odds | 26.00% | ~170 |
 | Untouchable | 25.00% | ~163 |
+| Eye of the Hurricane | 25.00% | ~163 |
 | A House Divided | 25.00% | ~163 |
 | Weapon Specialist | 25.00% | ~163 |
-| Eye of the Hurricane | 24.00% | ~157 |
 | Giant Killer | 24.00% | ~157 |
 | World Shaker | 24.00% | ~157 |
 | Liberator | 24.00% | ~157 |

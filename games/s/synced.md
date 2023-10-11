@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 906)  
+Rating: 4.16 (Ranked 907)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 29.00% | ~18,138 |
-| As Far Away As Possible | 16.00% | ~10,007 |
-| A Most Unstable Organism | 12.00% | ~7,506 |
-| No Time to Follow Protocol | 9.00% | ~5,629 |
-| Float Like a Butterfly... | 8.00% | ~5,004 |
-| Nano Connoisseur | 6.00% | ~3,753 |
-| In Two Places At Once | 6.00% | ~3,753 |
-| Pulling Your Weight | 3.00% | ~1,876 |
-| Reaping Rivals | 3.00% | ~1,876 |
-| fifteenth Time's the Charm | 1.00% | ~625 |
+| Your Lucky Day | 29.00% | ~18,143 |
+| As Far Away As Possible | 16.00% | ~10,010 |
+| A Most Unstable Organism | 12.00% | ~7,508 |
+| No Time to Follow Protocol | 9.00% | ~5,631 |
+| Float Like a Butterfly... | 8.00% | ~5,005 |
+| Nano Connoisseur | 6.00% | ~3,754 |
+| In Two Places At Once | 6.00% | ~3,754 |
+| Pulling Your Weight | 3.00% | ~1,877 |
+| Reaping Rivals | 3.00% | ~1,877 |
+| fifteenth Time's the Charm | 1.00% | ~626 |
 | More Power to You | 0.70% | ~438 |
+| Gone Rogue | 0.30% | ~188 |
 | Memory Keeper | 0.20% | ~125 |
-| Gone Rogue | 0.20% | ~125 |
 | Completely Customizable | 0.20% | ~125 |
 | Runs for Your Money | 0.10% | ~63 |
 | Past Master | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,546 (Ranked 98)  
+Progressed: 62,563 (Ranked 98)  
 Completed: 13 (0.02%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,16 +67,16 @@ Completed: 13 (0.02%) (Ranked 286)
 | 2023-10-08 | 62,135 | 9 |
 | 2023-10-09 | 62,315 | 9 |
 | 2023-10-10 | 62,448 | 12 |
-| 2023-10-11 | 62,546 | 13 |
+| 2023-10-11 | 62,563 | 13 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 397)  
-Sum: 186 (Ranked 390)  
+Sum: 187 (Ranked 390)  
 Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |
 | This game has Diverse Characters | 41 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game has a Competitive Community | 28 |
 | This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 24 |
@@ -116,4 +116,4 @@ Diff (max vs sum): 7
 | 2023-10-08 | 4.17 | 56 | 199 |
 | 2023-10-09 | 4.17 | 59 | 206 |
 | 2023-10-10 | 4.16 | 63 | 212 |
-| 2023-10-11 | 4.16 | 63 | 186 |
+| 2023-10-11 | 4.16 | 63 | 187 |

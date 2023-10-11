@@ -1072,10 +1072,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 417,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-10-11T19:01:44.540306+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 419,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 417,
+  "NumberOfAwards": 419,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1089,7 +1095,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1134,9 +1140,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230149,
+  "EOS_Progressed": 230155,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1495,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14304,6 +14310,11 @@
       "Time": "2023-10-11T18:07:38.5590317+00:00",
       "NumProgressed": 230149,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T19:08:32.996308+00:00",
+      "NumProgressed": 230155,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14339,7 +14350,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -14363,7 +14374,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11507
+      "UsersEstimate": 11508
     },
     {
       "ID": "Chapter2",
@@ -14371,7 +14382,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "Chapter3",
@@ -14459,7 +14470,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "CompanionPriestress",
@@ -14667,7 +14678,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -14715,7 +14726,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11507
+      "UsersEstimate": 11508
     },
     {
       "ID": "DwarfElf15Support",
@@ -14731,7 +14742,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "DwarfInsultWin",
@@ -14739,7 +14750,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "DwarfLevel2",
@@ -14755,7 +14766,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -14763,7 +14774,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75949
+      "UsersEstimate": 75951
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -14779,7 +14790,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "EndCombatOneHp",
@@ -14787,7 +14798,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "EndGameCursed",
@@ -14819,7 +14830,7 @@
       "Name": "The beards of change",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "FollowNarzatok",
@@ -14835,7 +14846,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "KillDungeonLich",
@@ -14939,7 +14950,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "Rogue30Backstab",
@@ -14955,7 +14966,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "Speedrun",
@@ -14963,7 +14974,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "SupportCount4",
@@ -15011,28 +15022,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230149,
+      "Progressed": 230155,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230149,
+      "Progressed": 230155,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-10-11T06:59:30.2862032+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:07:38.5590313+00:00",
+  "LastChanged": "2023-10-11T19:01:44.5403059+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:08:32.9963074+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.3182894+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:00:58.5038964+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:07:38.5591764+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:01:44.5403064+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:08:32.9964925+00:00"
 }

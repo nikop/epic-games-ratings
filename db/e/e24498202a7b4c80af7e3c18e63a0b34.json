@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 5974,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -3349,9 +3349,9 @@
       "ID": "achievement_04_03",
       "SetID": "4f1m94d",
       "Name": "Consolation Trophy",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2927
     },
     {
       "ID": "achievement_04_04",
@@ -3414,8 +3414,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-07T17:57:03.0045577+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:05:49.0892392+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:06:32.5859163+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:07.1711191+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:59:57.0519097+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:05:49.0892761+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:00:34.8321091+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:06:32.5859663+00:00"
 }

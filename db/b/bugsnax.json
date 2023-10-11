@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -797,9 +797,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28447,
+  "EOS_Progressed": 28448,
   "EOS_Completed": 1360,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -5952,6 +5952,11 @@
       "Time": "2023-10-11T18:07:09.0666937+00:00",
       "NumProgressed": 28447,
       "NumCompleted": 1360
+    },
+    {
+      "Time": "2023-10-11T19:08:00.4831294+00:00",
+      "NumProgressed": 28448,
+      "NumCompleted": 1360
     }
   ],
   "TotalAchievements": 30,
@@ -5963,7 +5968,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12801
+      "UsersEstimate": 12802
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -6019,7 +6024,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18775
+      "UsersEstimate": 18776
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -6027,7 +6032,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21904
+      "UsersEstimate": 21905
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -6059,7 +6064,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27594
+      "UsersEstimate": 27595
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -6067,7 +6072,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19628
+      "UsersEstimate": 19629
     },
     {
       "ID": "ACH_GOLEM",
@@ -6075,7 +6080,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "ACH_HATS",
@@ -6107,7 +6112,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -6123,7 +6128,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12232
+      "UsersEstimate": 12233
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -6155,7 +6160,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26456
+      "UsersEstimate": 26457
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -6163,7 +6168,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "ACH_SUNDAE",
@@ -6187,7 +6192,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21335
+      "UsersEstimate": 21336
     },
     {
       "ID": "ACH_WATERFALL",
@@ -6195,22 +6200,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24749
+      "UsersEstimate": 24750
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28447,
+      "Progressed": 28448,
       "Completed": 1360
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-10-04T20:57:51.7359398+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:07:09.0666928+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:08:00.4831285+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:45.023216+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:57:12.909451+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:07:09.0667343+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:57:23.4382645+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:08:00.4831827+00:00"
 }

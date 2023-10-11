@@ -318,9 +318,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198215,
+  "EOS_Progressed": 198219,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18943,6 +18943,11 @@
       "Time": "2023-10-11T18:06:48.6325471+00:00",
       "NumProgressed": 198215,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T19:07:37.9020841+00:00",
+      "NumProgressed": 198219,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -18954,7 +18959,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15857
+      "UsersEstimate": 15858
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -18962,7 +18967,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 140733
+      "UsersEstimate": 140735
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -18978,7 +18983,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5946
+      "UsersEstimate": 5947
     },
     {
       "ID": "ACH_INITIATION",
@@ -19081,7 +19086,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 198215,
+      "Progressed": 198219,
       "Completed": 4
     }
   ],
@@ -19089,8 +19094,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-09T18:00:39.8598773+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:06:48.6325468+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:07:37.9020836+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.4039+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:57:44.0543624+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:06:48.6326415+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:57:56.9033965+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:07:37.9021916+00:00"
 }

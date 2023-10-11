@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,725 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,726 |
 | First Class Student | 13.00% | ~38,762 |
 | Troll with the Punches | 13.00% | ~38,762 |
-| A Keen Sense of Spell | 12.00% | ~35,780 |
-| That's a Keeper | 12.00% | ~35,780 |
+| A Keen Sense of Spell | 12.00% | ~35,781 |
+| That's a Keeper | 12.00% | ~35,781 |
 | The Hallowed Hero | 11.00% | ~32,799 |
 | The Defender of Dragons | 11.00% | ~32,799 |
 | Loom for Improvement | 11.00% | ~32,799 |
@@ -30,8 +30,8 @@ Rating: 4.76 (Ranked 120)
 | The Root of the Problem | 6.00% | ~17,890 |
 | Third Time's a Charm | 6.00% | ~17,890 |
 | Raising Expectations | 6.00% | ~17,890 |
-| The Toast of the Town | 5.00% | ~14,908 |
-| The Ends Petrify the Means | 5.00% | ~14,908 |
+| The Toast of the Town | 5.00% | ~14,909 |
+| The Ends Petrify the Means | 5.00% | ~14,909 |
 | Going Through the Potions | 4.00% | ~11,927 |
 | Room with a View | 4.00% | ~11,927 |
 | The Intrepid Explorer | 4.00% | ~11,927 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,169 (Ranked 46)  
+Progressed: 298,172 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,19 +225,19 @@ Completed: 483 (0.16%) (Ranked 230)
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
 | 2023-10-10 | 298,150 | 483 |
-| 2023-10-11 | 298,169 | 483 |
+| 2023-10-11 | 298,172 | 483 |
 ## Awards
-Max (Character Customization): 23,430  (Ranked 17)  
-Sum: 45,575 (Ranked 31)  
+Max (Character Customization): 23,447  (Ranked 17)  
+Sum: 45,595 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,430 |
+| This game has Inclusive Character Customization | 23,447 |
 | This game has Great Boss Battles | 11,692 |
 | This game is Great for Beginners | 1,171 |
 | This game has Amazing Storytelling | 1,132 |
 | This game has Diverse Characters | 1,128 |
-| This game is Relaxing | 1,118 |
+| This game is Relaxing | 1,121 |
 | This game is Extremely Fun | 1,114 |
 | This game has Amazing Characters | 1,081 |
 | This game is Highly Recommended | 1,065 |
@@ -448,4 +448,4 @@ Diff (max vs sum): -14
 | 2023-10-08 | 4.76 | 23,384 | 45,386 |
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
-| 2023-10-11 | 4.76 | 23,430 | 45,575 |
+| 2023-10-11 | 4.76 | 23,447 | 45,595 |

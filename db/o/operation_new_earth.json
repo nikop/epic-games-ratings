@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.35,
+  "Rating": 3.38,
   "RatingHistory": [
     {
       "Time": "2023-10-02T15:57:56.3745228+00:00",
@@ -44,15 +44,21 @@
       "Rating": 3.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-11T18:58:57.4158617+00:00",
+      "Rating": 3.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1576,
+  "EOS_Progressed": 1578,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5815,6 +5821,11 @@
       "Time": "2023-10-11T15:04:17.3618328+00:00",
       "NumProgressed": 1576,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T19:05:08.9844583+00:00",
+      "NumProgressed": 1578,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5938,7 +5949,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -5954,7 +5965,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6002,7 +6013,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6129,16 +6140,16 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1576,
+      "Progressed": 1578,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged": "2023-10-10T18:57:39.1996757+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:04:33.303923+00:00",
+  "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:05:08.9844574+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:58:32.9379942+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:04:33.3039728+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:58:57.4158628+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:05:08.9845137+00:00"
 }

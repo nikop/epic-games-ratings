@@ -1602,9 +1602,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_108",
@@ -2290,9 +2290,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_71",
@@ -2386,9 +2386,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_82",
@@ -2558,8 +2558,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:08:41.7976136+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:09:42.4576055+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:59:03.5065095+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:08:41.7977943+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:59:34.0422873+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:09:42.457809+00:00"
 }

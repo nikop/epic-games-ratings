@@ -16,30 +16,30 @@
 | Pulp! Terror Tales in the Night | 36.00% | ~9 |
 | Pulp! Out of this World | 32.00% | ~8 |
 | Pulp! Adventures into the Unknown | 32.00% | ~8 |
+| Kirlian's best disciple | 32.00% | ~8 |
 | Diagnosis: fear | 32.00% | ~8 |
 | Ambition is... blind | 32.00% | ~8 |
 | You have two wishes left | 32.00% | ~8 |
 | The artist | 28.00% | ~7 |
 | The seer | 28.00% | ~7 |
-| Kirlian's best disciple | 28.00% | ~7 |
 | You had one wish left | 24.00% | ~6 |
 | Et in arcadia ego | 24.00% | ~6 |
 | Welcome to Hellville | 24.00% | ~6 |
 | You've awakened the beast | 20.00% | ~5 |
 | Hate is... addictive | 20.00% | ~5 |
 | Blessed antennas | 20.00% | ~5 |
+| The beast in the Oval Office | 20.00% | ~5 |
+| Pulp! The Beyond | 20.00% | ~5 |
 | The barbarian invasions | 20.00% | ~5 |
-| The beast in the Oval Office | 16.00% | ~4 |
+| America had no Faith | 20.00% | ~5 |
 | Blood Red Island | 16.00% | ~4 |
 | Bread and bocaua | 16.00% | ~4 |
 | Fanatacism is... poisonous | 16.00% | ~4 |
 | The bully | 16.00% | ~4 |
 | The adventurer | 16.00% | ~4 |
-| Pulp! The Beyond | 16.00% | ~4 |
-| America had no Faith | 16.00% | ~4 |
 | The scholar | 12.00% | ~3 |
+| Pulp! True Adventures | 12.00% | ~3 |
 | Pulp! Tales from the Crypt | 8.00% | ~2 |
-| Pulp! True Adventures | 8.00% | ~2 |
 | ECO mode | 8.00% | ~2 |
 | Vaccine fans | 8.00% | ~2 |
 | Pulp! Heart Throbs | 4.00% | ~1 |

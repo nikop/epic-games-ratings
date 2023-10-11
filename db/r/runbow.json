@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250236,
+  "EOS_Progressed": 250238,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16274,6 +16274,11 @@
       "Time": "2023-10-11T18:07:34.3736021+00:00",
       "NumProgressed": 250236,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-11T19:08:28.2373744+00:00",
+      "NumProgressed": 250238,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -16357,7 +16362,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37536
     },
     {
       "ID": "clearCut",
@@ -16381,7 +16386,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45042
+      "UsersEstimate": 45043
     },
     {
       "ID": "curator",
@@ -16389,7 +16394,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50047
+      "UsersEstimate": 50048
     },
     {
       "ID": "didYourTime",
@@ -16461,7 +16466,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132625
+      "UsersEstimate": 132626
     },
     {
       "ID": "indegestible",
@@ -16485,7 +16490,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65061
+      "UsersEstimate": 65062
     },
     {
       "ID": "justABit",
@@ -16517,7 +16522,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37536
     },
     {
       "ID": "myFirstRunbow",
@@ -16525,7 +16530,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125118
+      "UsersEstimate": 125119
     },
     {
       "ID": "notScared",
@@ -16652,7 +16657,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250236,
+      "Progressed": 250238,
       "Completed": 6
     }
   ],
@@ -16660,8 +16665,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:07:34.3736018+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:08:28.2373739+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:40.5346177+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:02:20.8729833+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:07:34.3737079+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:03:16.7597519+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:08:28.2375104+00:00"
 }

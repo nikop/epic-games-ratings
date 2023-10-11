@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.42,
+  "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -182,6 +182,11 @@
       "Time": "2023-09-24T12:03:16.2988534+00:00",
       "NumProgressed": 117,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T19:07:16.3078464+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 28,
@@ -207,9 +212,9 @@
       "ID": "ALL_COMPUTERS",
       "SetID": "bho0i1h",
       "Name": "Floppy Disk Finder",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "ALL_DOCUMENTS",
@@ -233,7 +238,7 @@
       "Name": "Last Goodbye",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -241,7 +246,7 @@
       "Name": "The Routine",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
@@ -249,21 +254,21 @@
       "Name": "Failure",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Replace Fuse",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
       "UsersEstimate": 77
     },
@@ -273,7 +278,7 @@
       "Name": "Air Filtration",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
@@ -287,7 +292,7 @@
       "ID": "CHAPTER_09_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Radiation",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 71
     },
@@ -295,7 +300,7 @@
       "ID": "CHAPTER_10_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Descent",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
       "UsersEstimate": 70
     },
@@ -303,17 +308,17 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "LEAVE",
@@ -321,7 +326,7 @@
       "Name": "Leave",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MISSING_PIECE",
@@ -351,9 +356,9 @@
       "ID": "PEG_DOCTOR",
       "SetID": "bho0i1h",
       "Name": "Doctor",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "PEG_ENGINEER",
@@ -369,15 +374,15 @@
       "Name": "General",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "PEG_MOTHER",
       "SetID": "bho0i1h",
       "Name": "Mother",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "PEG_NURSE",
@@ -391,7 +396,7 @@
       "ID": "PEG_SAM",
       "SetID": "bho0i1h",
       "Name": "Sam",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -399,7 +404,7 @@
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -416,7 +421,7 @@
     {
       "ID": "bho0i1h",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 4
     }
   ],
@@ -424,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:06:28.7143958+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:07:16.3078459+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:37.6798431+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:00:44.4192069+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:06:28.7144134+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:01:30.3840617+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:07:16.3078676+00:00"
 }

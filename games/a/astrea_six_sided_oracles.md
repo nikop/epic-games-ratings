@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Noctuan Champion | 29.00% | ~15 |
 | Apian Champion | 25.00% | ~13 |
+| Lacertian Champion | 23.00% | ~12 |
 | Endless Tricks | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
-| Lacertian Champion | 21.00% | ~11 |
 | Dicesmithing Time! | 19.00% | ~10 |
 | Loyal Partner | 19.00% | ~10 |
 | Mechanical Buddy | 19.00% | ~10 |

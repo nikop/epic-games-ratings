@@ -9,6 +9,8 @@
 | The Preacher's fate | 8.00% | ~22 |
 | The great escape | 8.00% | ~22 |
 | A new dawn | 6.00% | ~17 |
+| I did it | 5.00% | ~14 |
+| In this together | 5.00% | ~14 |
 | Peace walker | 5.00% | ~14 |
 | Cable guy | 5.00% | ~14 |
 | A good beginning | 5.00% | ~14 |
@@ -17,8 +19,6 @@
 | Scholar | 5.00% | ~14 |
 | The darkness | 5.00% | ~14 |
 | One last step | 5.00% | ~14 |
-| I did it | 4.00% | ~11 |
-| In this together | 4.00% | ~11 |
 | Open door | 4.00% | ~11 |
 | Feels like springtime | 4.00% | ~11 |
 | Alchemists Express | 4.00% | ~11 |

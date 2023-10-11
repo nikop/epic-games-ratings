@@ -11,13 +11,13 @@
 | Snitch | 22.00% | ~14 |
 | Explosive End | 21.00% | ~13 |
 | A Box of Tricks | 19.00% | ~12 |
-| Backstory Buff | 17.00% | ~11 |
+| Backstory Buff | 19.00% | ~12 |
 | Codebreaker | 17.00% | ~11 |
 | Finger-Lickin' Bad | 17.00% | ~11 |
+| Flying High | 17.00% | ~11 |
 | Set Sail | 17.00% | ~11 |
 | Bathroom Brawler | 16.00% | ~10 |
 | Breathless End | 16.00% | ~10 |
-| Flying High | 16.00% | ~10 |
 | Key Keeper's Curse | 5.00% | ~3 |
 | Fool's Gold | 3.00% | ~2 |
 | Freedum Fighter | 3.00% | ~2 |

@@ -9,13 +9,13 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 61.00% | ~199 |
 | Cartographer | 54.00% | ~176 |
 | A Strange Artefact | 50.00% | ~163 |
-| Insomnia | 45.00% | ~147 |
+| Insomnia | 46.00% | ~150 |
 | From Whence we Came | 41.00% | ~134 |
 | Lost & Found & Lost Again | 40.00% | ~130 |
 | Fire and Flood | 38.00% | ~124 |
 | Spooky! | 36.00% | ~117 |
 | Shennong Herbalist | 33.00% | ~108 |
-| Treasure Hunt | 32.00% | ~104 |
+| Treasure Hunt | 33.00% | ~108 |
 | Good Mama | 31.00% | ~101 |
 | O Captain My Captain | 30.00% | ~98 |
 | Taxonomist | 27.00% | ~88 |
@@ -27,10 +27,10 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 20.00% | ~65 |
 | Red Flag Pirate | 19.00% | ~62 |
 | Iron Man | 17.00% | ~55 |
+| Shortening of the Way | 16.00% | ~52 |
 | A Gentle Beast | 16.00% | ~52 |
 | Practical Palaeontology | 16.00% | ~52 |
 | For the Club! | 15.00% | ~49 |
-| Shortening of the Way | 15.00% | ~49 |
 | Dapper | 15.00% | ~49 |
 | The New Director | 14.00% | ~46 |
 | Adventurer | 14.00% | ~46 |

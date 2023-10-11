@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 418,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 6.15,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -356,6 +356,11 @@
       "Time": "2023-10-09T22:04:48.9441411+00:00",
       "NumProgressed": 64,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T19:07:52.4207295+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -365,7 +370,7 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -413,7 +418,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -453,7 +458,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -485,7 +490,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -493,7 +498,7 @@
       "ID": "Moon_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to make you dream... (fragile)",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -517,7 +522,7 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -525,7 +530,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -574,14 +579,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:07:01.826517+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:07:52.4207288+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:03.8373292+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:59:32.503382+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:07:01.8265341+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:00:05.7620169+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:07:52.4207514+00:00"
 }

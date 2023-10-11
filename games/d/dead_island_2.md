@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,766 |
-| Dr. Reed, I Presume? | 3.00% | ~20,824 |
-| Git Gutte! | 3.00% | ~20,824 |
-| Break A Leg | 3.00% | ~20,824 |
-| Coup de Grâce | 3.00% | ~20,824 |
-| Hazardous Materials | 3.00% | ~20,824 |
-| Friends Like These | 3.00% | ~20,824 |
-| Hotel California | 3.00% | ~20,824 |
-| Apex Predator | 3.00% | ~20,824 |
-| Stacking the Deck | 3.00% | ~20,824 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,824 |
+| Welcome To Hell-A | 4.00% | ~27,767 |
+| Dr. Reed, I Presume? | 3.00% | ~20,825 |
+| Git Gutte! | 3.00% | ~20,825 |
+| Break A Leg | 3.00% | ~20,825 |
+| Coup de Grâce | 3.00% | ~20,825 |
+| Hazardous Materials | 3.00% | ~20,825 |
+| Friends Like These | 3.00% | ~20,825 |
+| Hotel California | 3.00% | ~20,825 |
+| Apex Predator | 3.00% | ~20,825 |
+| Stacking the Deck | 3.00% | ~20,825 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,825 |
 | Anger Management | 2.00% | ~13,883 |
 | Perks of the Job | 2.00% | ~13,883 |
 | Bookworm | 2.00% | ~13,883 |
@@ -31,13 +31,13 @@ Rating: 4.54 (Ranked 509)
 | I Am the Resurrection | 2.00% | ~13,883 |
 | Our True Nature | 2.00% | ~13,883 |
 | This is My Weapon | 2.00% | ~13,883 |
-| Making Your Mark | 1.00% | ~6,941 |
-| Jumbo Keyring | 1.00% | ~6,941 |
-| Down with the Sickness | 1.00% | ~6,941 |
-| Max Headroom | 1.00% | ~6,941 |
-| Go, Bobcats! | 1.00% | ~6,941 |
-| Rising Star | 1.00% | ~6,941 |
-| Smorgasbord | 0.90% | ~6,247 |
+| Making Your Mark | 1.00% | ~6,942 |
+| Jumbo Keyring | 1.00% | ~6,942 |
+| Down with the Sickness | 1.00% | ~6,942 |
+| Max Headroom | 1.00% | ~6,942 |
+| Go, Bobcats! | 1.00% | ~6,942 |
+| Rising Star | 1.00% | ~6,942 |
+| Smorgasbord | 0.90% | ~6,248 |
 | On Safari | 0.70% | ~4,859 |
 | Not Even My Final Form | 0.70% | ~4,859 |
 | Internet Famous | 0.70% | ~4,859 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 509)
 | Gore Horse | 0.50% | ~3,471 |
 | Sole Survivor | 0.40% | ~2,777 |
 | Sharpest Tool in the Box | 0.40% | ~2,777 |
-| Survival Skills | 0.30% | ~2,082 |
+| Survival Skills | 0.30% | ~2,083 |
 | Donk! | 0.20% | ~1,388 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,141 (Ranked 22)  
+Progressed: 694,172 (Ranked 22)  
 Completed: 2,210 (0.32%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 2,210 (0.32%) (Ranked 200)
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
-| 2023-10-11 | 694,141 | 2,210 |
+| 2023-10-11 | 694,172 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,385  (Ranked 58)  
 Sum: 9,542 (Ranked 91)  

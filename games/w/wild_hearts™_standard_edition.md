@@ -28,7 +28,7 @@
 | Single Minded | 45.00% | ~58 |
 | Snare Specialist | 45.00% | ~58 |
 | Karakuri Trail | 41.00% | ~52 |
-| Kemono at Heart | 39.00% | ~50 |
+| Kemono at Heart | 40.00% | ~51 |
 | Team Hunter | 38.00% | ~49 |
 | Reincarnation Cycle Stopper | 38.00% | ~49 |
 | Artful Assister | 35.00% | ~45 |

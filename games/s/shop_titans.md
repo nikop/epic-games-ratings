@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,749 |
 | Capitalism Ho! | 2.00% | ~2,749 |
 | Own the Means of Production | 2.00% | ~2,749 |
-| The Daily Grind | 1.00% | ~1,374 |
-| Bounty Hunters | 1.00% | ~1,374 |
-| Demand for Supplies | 1.00% | ~1,374 |
-| Flooding the Market | 1.00% | ~1,374 |
-| Where it Hurts | 1.00% | ~1,374 |
-| Gild-Gotten Goods | 1.00% | ~1,374 |
-| One-Armed Bandit | 1.00% | ~1,374 |
-| Accomplished Merchant | 1.00% | ~1,374 |
-| Dungeon Imports | 1.00% | ~1,374 |
-| Through Repetition, Perfection | 1.00% | ~1,374 |
-| Did we pack lunch? | 1.00% | ~1,374 |
-| Arcane Industries | 1.00% | ~1,374 |
+| The Daily Grind | 1.00% | ~1,375 |
+| Bounty Hunters | 1.00% | ~1,375 |
+| Demand for Supplies | 1.00% | ~1,375 |
+| Flooding the Market | 1.00% | ~1,375 |
+| Where it Hurts | 1.00% | ~1,375 |
+| Gild-Gotten Goods | 1.00% | ~1,375 |
+| One-Armed Bandit | 1.00% | ~1,375 |
+| Accomplished Merchant | 1.00% | ~1,375 |
+| Dungeon Imports | 1.00% | ~1,375 |
+| Through Repetition, Perfection | 1.00% | ~1,375 |
+| Did we pack lunch? | 1.00% | ~1,375 |
+| Arcane Industries | 1.00% | ~1,375 |
 | On the Path to Greatness | 0.90% | ~1,237 |
 | Ascended | 0.90% | ~1,237 |
 | Vanity, Verily | 0.90% | ~1,237 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,450 (Ranked 73)  
+Progressed: 137,452 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
-| 2023-10-11 | 137,450 | 168 |
+| 2023-10-11 | 137,452 | 168 |
 ## Awards
 Max (Great for Beginners): 4,779  (Ranked 71)  
-Sum: 27,369 (Ranked 51)  
+Sum: 27,370 (Ranked 51)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): 20
 | This game is Relaxing | 4,022 |
 | This game has Quickly Understood Controls | 4,012 |
 | This game has Diverse Characters | 3,911 |
-| This game is Highly Recommended | 3,758 |
+| This game is Highly Recommended | 3,759 |
 | This game has Easy Combat | 3,703 |
 | This game has Playful Visuals | 3,184 |
 | This game has Inclusive Character Customization | 22 |
@@ -567,4 +567,4 @@ Diff (max vs sum): 20
 | 2023-10-08 | 3.99 | - | 4,778 | 27,362 |
 | 2023-10-09 | 3.99 | - | 4,778 | 27,363 |
 | 2023-10-10 | 3.99 | - | 4,779 | 27,368 |
-| 2023-10-11 | 3.99 | - | 4,779 | 27,369 |
+| 2023-10-11 | 3.99 | - | 4,779 | 27,370 |

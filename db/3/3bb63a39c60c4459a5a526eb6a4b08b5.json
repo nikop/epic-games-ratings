@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2921,6 +2921,11 @@
       "Time": "2023-10-11T06:09:33.3351047+00:00",
       "NumProgressed": 785,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T19:10:39.6936828+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2980,7 +2985,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Creator",
@@ -3066,9 +3071,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 102
     },
     {
       "ID": "LargeTerritories",
@@ -3132,7 +3137,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NoTimeForModernization",
@@ -3260,21 +3265,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 786,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:09:34.6539533+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:10:39.6936821+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:59:01.3003802+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:09:34.6539932+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:59:32.2756793+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:10:39.6937336+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -551,9 +551,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-learn-traits",
@@ -615,9 +615,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "ach-pacifist-goals",
@@ -719,9 +719,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -760,8 +760,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:04:14.1817397+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:04:47.4912428+00:00",
   "LastUpdate_AppInfo": "2023-10-07T08:57:03.7720322+00:00",
-  "LastUpdate_Ratings": "2023-10-11T17:57:14.4643727+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:04:14.1817825+00:00"
+  "LastUpdate_Ratings": "2023-10-11T18:57:25.3900589+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:04:47.4912983+00:00"
 }

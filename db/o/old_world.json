@@ -1827,9 +1827,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14599,
+  "EOS_Progressed": 14600,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13592,6 +13592,11 @@
       "Time": "2023-10-11T18:06:46.6546105+00:00",
       "NumProgressed": 14599,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T19:07:35.9058478+00:00",
+      "NumProgressed": 14600,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14081,9 +14086,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -14441,9 +14446,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -14481,9 +14486,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -15673,9 +15678,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -16338,21 +16343,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14599,
+      "Progressed": 14600,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14599,
+      "Progressed": 14600,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-11T16:03:25.094605+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:06:46.6546102+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:07:35.9058473+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:03:17.6808467+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:06:46.6556674+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:03:57.6300313+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:07:35.9071473+00:00"
 }

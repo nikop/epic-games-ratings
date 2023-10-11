@@ -747,9 +747,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224495,
+  "EOS_Progressed": 224498,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19727,6 +19727,11 @@
       "Time": "2023-10-11T18:04:41.3210171+00:00",
       "NumProgressed": 224495,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T19:05:18.1720066+00:00",
+      "NumProgressed": 224498,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19738,7 +19743,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42654
+      "UsersEstimate": 42655
     },
     {
       "ID": "ACH_BASE_10",
@@ -19986,7 +19991,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26939
+      "UsersEstimate": 26940
     },
     {
       "ID": "ACH_BASE_8",
@@ -20009,7 +20014,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224495,
+      "Progressed": 224498,
       "Completed": 5
     }
   ],
@@ -20017,8 +20022,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-11T15:59:54.4942762+00:00",
-  "LastChanged_Achievements": "2023-10-11T18:04:41.3210167+00:00",
+  "LastChanged_Achievements": "2023-10-11T19:05:18.1720061+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:00:47.7792849+00:00",
-  "LastUpdate_Achievements": "2023-10-11T18:04:41.3211312+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:01:34.1147276+00:00",
+  "LastUpdate_Achievements": "2023-10-11T19:05:18.1721486+00:00"
 }
