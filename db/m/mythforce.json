@@ -743,9 +743,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4007,
+  "EOS_Progressed": 4008,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7088,6 +7088,11 @@
       "Time": "2023-10-11T05:05:41.7993513+00:00",
       "NumProgressed": 4007,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T06:06:16.0668832+00:00",
+      "NumProgressed": 4008,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7212,7 +7217,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -7283,15 +7288,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4007,
+      "Progressed": 4008,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-07T19:57:55.3513461+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:05:41.7993509+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:06:16.0668828+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:44.063019+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:59:28.4530315+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:05:41.7993935+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:59:41.2630832+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:06:16.0669398+00:00"
 }

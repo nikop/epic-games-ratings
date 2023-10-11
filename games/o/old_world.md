@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.50% | ~73 |
 | Mausoleum | 0.50% | ~73 |
 | Learn to Play 3 | 0.50% | ~73 |
+| Building Wonders | 0.50% | ~73 |
 | Mythology | 0.50% | ~73 |
 | Win a Single Player Game | 0.50% | ~73 |
 | Beloved | 0.40% | ~58 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.40% | ~58 |
 | Power to the People | 0.40% | ~58 |
 | Persian Paganism | 0.40% | ~58 |
-| Building Wonders | 0.40% | ~58 |
 | Legalism | 0.40% | ~58 |
 | Cimmerian Archer | 0.40% | ~58 |
 | Double Victory | 0.40% | ~58 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,589 (Ranked 134)  
+Progressed: 14,590 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,589 | 5 |
+| 2023-10-11 | 14,590 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 266)  
 Sum: 1,832 (Ranked 210)  

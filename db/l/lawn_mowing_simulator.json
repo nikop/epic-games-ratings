@@ -2149,9 +2149,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 671805,
+  "EOS_Progressed": 671809,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1718,
+  "EOS_NewPlayers": 1716,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21784,6 +21784,11 @@
       "Time": "2023-10-11T05:04:29.3091888+00:00",
       "NumProgressed": 671805,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-11T06:05:03.3844667+00:00",
+      "NumProgressed": 671809,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -21795,7 +21800,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 537444
+      "UsersEstimate": 537447
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -21883,7 +21888,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 241850
+      "UsersEstimate": 241851
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -22035,7 +22040,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 208260
+      "UsersEstimate": 208261
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -22067,7 +22072,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40308
+      "UsersEstimate": 40309
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -22155,7 +22160,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47026
+      "UsersEstimate": 47027
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -22195,7 +22200,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120925
+      "UsersEstimate": 120926
     },
     {
       "ID": "RP_TRUSTED",
@@ -22211,7 +22216,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 60462
+      "UsersEstimate": 60463
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -22226,15 +22231,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 671805,
+      "Progressed": 671809,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:04:29.3091885+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:03.3844664+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:45.928373+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:59:29.6869516+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:04:29.3093156+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:59:42.402109+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:03.3846342+00:00"
 }

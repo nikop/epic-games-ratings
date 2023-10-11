@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 95.00% | ~618 |
-| Spectre Inductee | 84.00% | ~547 |
+| Spectre Inductee | 85.00% | ~553 |
 | Medal of Exploration I | 76.00% | ~495 |
 | Recruit | 72.00% | ~469 |
 | Search and Rescue | 72.00% | ~469 |
@@ -81,11 +81,11 @@
 | Giant Killer | 24.00% | ~156 |
 | World Shaker | 24.00% | ~156 |
 | Liberator | 24.00% | ~156 |
+| Pathfinder | 22.00% | ~143 |
 | Tunnel Rat | 22.00% | ~143 |
 | Arbiter | 22.00% | ~143 |
 | Savior | 21.00% | ~137 |
 | Paramour II | 21.00% | ~137 |
-| Pathfinder | 21.00% | ~137 |
 | Party Crasher | 20.00% | ~130 |
 | Problem Solver | 20.00% | ~130 |
 | Lost and Found | 20.00% | ~130 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12420,
+  "EOS_Progressed": 12422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11741,6 +11741,11 @@
       "Time": "2023-10-11T00:04:48.1723775+00:00",
       "NumProgressed": 12420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T06:05:13.6703686+00:00",
+      "NumProgressed": 12422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -11752,7 +11757,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -11824,7 +11829,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5465
+      "UsersEstimate": 5466
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -11838,9 +11843,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -11951,14 +11956,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12420,
+      "Progressed": 12422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:04:39.6419646+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:13.670368+00:00",
   "LastUpdate_AppInfo": "2023-10-07T01:38:10.3444399+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:57:15.6112827+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:04:39.642033+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:57:30.4618709+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:13.6705222+00:00"
 }

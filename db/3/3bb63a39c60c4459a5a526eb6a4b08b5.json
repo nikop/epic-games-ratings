@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2916,6 +2916,11 @@
       "Time": "2023-10-10T20:09:42.9879251+00:00",
       "NumProgressed": 784,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T06:09:33.3351047+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2943,7 +2948,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "BigPlane",
@@ -3143,7 +3148,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "NotPlanned",
@@ -3262,14 +3267,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:08:19.3419664+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:09:33.3351042+00:00",
   "LastUpdate_AppInfo": "2023-10-10T13:57:13.1433164+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:58:10.2260222+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:08:19.3420799+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:58:19.6518524+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:09:33.335158+00:00"
 }

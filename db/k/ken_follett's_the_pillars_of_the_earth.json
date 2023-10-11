@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15671,
+  "EOS_Progressed": 15672,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -11775,6 +11775,11 @@
       "Time": "2023-10-11T05:07:21.4108128+00:00",
       "NumProgressed": 15671,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-11T06:09:15.6211044+00:00",
+      "NumProgressed": 15672,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -11802,7 +11807,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "tpote_achievement_12",
@@ -11826,7 +11831,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "tpote_achievement_15",
@@ -11874,7 +11879,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "tpote_achievement_20",
@@ -11890,7 +11895,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "tpote_achievement_22",
@@ -12050,7 +12055,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6268
+      "UsersEstimate": 6269
     },
     {
       "ID": "tpote_achievement_40",
@@ -12113,15 +12118,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15671,
+      "Progressed": 15672,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-26T12:00:19.7408959+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:07:21.4108121+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:09:15.6211037+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:27.8730623+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:57:32.0095573+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:07:21.4108917+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:57:44.8331469+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:09:15.6212831+00:00"
 }

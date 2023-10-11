@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110841,
+  "EOS_Progressed": 110842,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13961,6 +13961,11 @@
       "Time": "2023-10-11T05:07:12.4144202+00:00",
       "NumProgressed": 110841,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-10-11T06:09:06.429425+00:00",
+      "NumProgressed": 110842,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 49,
@@ -14060,7 +14065,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "EAwards_2",
@@ -14092,7 +14097,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "EAwards_23",
@@ -14363,7 +14368,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110841,
+      "Progressed": 110842,
       "Completed": 45
     }
   ],
@@ -14371,8 +14376,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:07:12.41442+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:09:06.4294244+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:57:41.2478855+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:07:12.4145179+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:57:52.5773594+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:09:06.4295571+00:00"
 }

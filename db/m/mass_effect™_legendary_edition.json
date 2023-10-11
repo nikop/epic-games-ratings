@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1936,9 +1936,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 553
     },
     {
       "ID": "achievement_32",
@@ -2392,9 +2392,9 @@
       "ID": "achievement_83",
       "SetID": "d252ncf",
       "Name": "Pathfinder",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_84",
@@ -2548,8 +2548,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:06:33.3411223+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:08:17.8106323+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:58:10.9733883+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:06:33.3413092+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:58:21.2243143+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:08:17.8111241+00:00"
 }

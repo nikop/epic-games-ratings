@@ -10560,9 +10560,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 427680,
+  "EOS_Progressed": 427691,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5901,
+  "EOS_NewPlayers": 5896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30270,6 +30270,11 @@
       "Time": "2023-10-11T05:08:14.8528844+00:00",
       "NumProgressed": 427680,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T06:09:28.9382487+00:00",
+      "NumProgressed": 427691,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -30673,7 +30678,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -30937,7 +30942,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -31281,7 +31286,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17108
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32233,7 +32238,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -32561,7 +32566,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12830
+      "UsersEstimate": 12831
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -32833,7 +32838,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -32945,7 +32950,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17108
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -32977,7 +32982,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12830
+      "UsersEstimate": 12831
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -33112,21 +33117,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 427680,
+      "Progressed": 427691,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 427680,
+      "Progressed": 427691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-11T01:41:39.6641051+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:08:14.8528841+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:09:28.9382479+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:58:56.5088353+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:08:14.8539886+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:59:07.1713671+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:09:28.9402235+00:00"
 }

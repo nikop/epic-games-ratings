@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -539,9 +539,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -715,9 +715,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -747,9 +747,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "ap8553i",
       "Name": "Bloody Bar Brawl",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:05:18.2433948+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:52.3073076+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.2165637+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:00:28.6277558+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:05:18.2434604+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:00:37.8363861+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:52.3074394+00:00"
 }

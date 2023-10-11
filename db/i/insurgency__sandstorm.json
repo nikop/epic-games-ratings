@@ -3631,9 +3631,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 461114,
+  "EOS_Progressed": 461119,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2283,
+  "EOS_NewPlayers": 2279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23256,6 +23256,11 @@
       "Time": "2023-10-11T05:05:20.5657607+00:00",
       "NumProgressed": 461114,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T06:05:54.6895826+00:00",
+      "NumProgressed": 461119,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -23291,7 +23296,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13833
+      "UsersEstimate": 13834
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -23395,7 +23400,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13833
+      "UsersEstimate": 13834
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -23499,7 +23504,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13833
+      "UsersEstimate": 13834
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -23523,7 +23528,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13833
+      "UsersEstimate": 13834
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -23546,15 +23551,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 461114,
+      "Progressed": 461119,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-10T15:59:21.1272273+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:05:20.5657603+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:54.6895818+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:53.2662514+00:00",
-  "LastUpdate_Ratings": "2023-10-11T04:59:38.9008363+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:05:20.5658714+00:00"
+  "LastUpdate_Ratings": "2023-10-11T05:59:48.5785192+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:54.6897284+00:00"
 }

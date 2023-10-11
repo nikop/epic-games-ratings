@@ -11219,9 +11219,9 @@
       "Count": 25275
     }
   ],
-  "EOS_Progressed": 931858,
+  "EOS_Progressed": 931885,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13972,
+  "EOS_NewPlayers": 13952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30939,6 +30939,11 @@
       "Time": "2023-10-11T05:04:52.0945285+00:00",
       "NumProgressed": 931858,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T06:05:26.3710321+00:00",
+      "NumProgressed": 931885,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31190,7 +31195,7 @@
       "Name": "Vulture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_032",
@@ -31278,7 +31283,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_043",
@@ -31660,9 +31665,9 @@
       "ID": "ACH_090",
       "SetID": "16jml5b",
       "Name": "Cherish your Life",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2796
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_091",
@@ -31950,7 +31955,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_130",
@@ -32158,7 +32163,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_156",
@@ -32398,7 +32403,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_186",
@@ -32406,7 +32411,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH_187",
@@ -32781,21 +32786,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 931858,
+      "Progressed": 931885,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 931858,
+      "Progressed": 931885,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-11T03:03:05.617261+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:04:52.094528+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:26.3710315+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:00:49.689385+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:04:52.0951062+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:03:10.7626599+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:26.3718399+00:00"
 }

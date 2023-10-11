@@ -37,12 +37,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Wounded Healer | 0.50% | ~4,659 |
 | Close Shave | 0.50% | ~4,659 |
 | Second Act | 0.50% | ~4,659 |
-| Vulture | 0.40% | ~3,727 |
-| III | 0.40% | ~3,727 |
-| First to the Punch | 0.40% | ~3,727 |
-| Every Last Drop | 0.40% | ~3,727 |
-| With Scars to Show | 0.40% | ~3,727 |
-| Flight to Freedom | 0.40% | ~3,727 |
+| Vulture | 0.40% | ~3,728 |
+| III | 0.40% | ~3,728 |
+| Cherish your Life | 0.40% | ~3,728 |
+| First to the Punch | 0.40% | ~3,728 |
+| Every Last Drop | 0.40% | ~3,728 |
+| With Scars to Show | 0.40% | ~3,728 |
+| Flight to Freedom | 0.40% | ~3,728 |
 | Blood on your hands | 0.30% | ~2,796 |
 | Escape Artist | 0.30% | ~2,796 |
 | Made it out alive! | 0.30% | ~2,796 |
@@ -56,7 +57,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.30% | ~2,796 |
 | Holiday Get-Together | 0.30% | ~2,796 |
 | Near-Death Experience | 0.30% | ~2,796 |
-| Cherish your Life | 0.30% | ~2,796 |
 | Campbell's Chapel Legacy | 0.30% | ~2,796 |
 | Ancestor's Rite | 0.30% | ~2,796 |
 | Unforgettable Getaway | 0.30% | ~2,796 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,858 (Ranked 14)  
+Progressed: 931,885 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,858 | 49 |
+| 2023-10-11 | 931,885 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,070 (Ranked 13)  

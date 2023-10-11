@@ -1821,9 +1821,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14589,
+  "EOS_Progressed": 14590,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13541,6 +13541,11 @@
       "Time": "2023-10-11T04:06:02.2817187+00:00",
       "NumProgressed": 14589,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T06:05:35.2933167+00:00",
+      "NumProgressed": 14590,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15454,9 +15459,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -16287,21 +16292,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14589,
+      "Progressed": 14590,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14589,
+      "Progressed": 14590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-10T17:03:34.4008549+00:00",
-  "LastChanged_Achievements": "2023-10-11T05:05:01.1840469+00:00",
+  "LastChanged_Achievements": "2023-10-11T06:05:35.2933162+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T05:02:12.1062494+00:00",
-  "LastUpdate_Achievements": "2023-10-11T05:05:01.1851195+00:00"
+  "LastUpdate_Ratings": "2023-10-11T06:03:22.7927185+00:00",
+  "LastUpdate_Achievements": "2023-10-11T06:05:35.2946754+00:00"
 }
