@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.89% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.82% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -68,12 +68,12 @@
 | 66 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.31% |
 | 67 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.11% |
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
-| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
+| 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.01% |
 | 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.91% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.86% |
 | 72 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.78% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.77% |
 | 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 75 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.57% |
 | 77 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
@@ -102,8 +102,8 @@
 | 100 | [Lamentum](games/l/lamentum.md) | 2.47% |
 | 101 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 102 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.40% |
-| 103 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.39% |
-| 104 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 103 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 103 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.38% |
 | 105 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 106 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
 | 107 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
@@ -183,8 +183,8 @@
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 176 | [Them and Us](games/t/them_and_us.md) | 0.46% |
 | 183 | [Tchia](games/t/tchia.md) | 0.44% |
-| 184 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 184 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 185 | [It Takes Two](games/i/it_takes_two.md) | 0.41% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.40% |
 | 186 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 188 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.39% |
@@ -233,11 +233,11 @@
 | 229 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 232 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 233 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 234 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 234 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
-| 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 234 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
-| 234 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.13% |
+| 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.14% |
+| 235 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 235 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.13% |
+| 235 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 235 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
 | 239 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 239 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 239 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
@@ -663,4 +663,4 @@
 | 312 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 312 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 312 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,379 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,380 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
