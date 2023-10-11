@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.93% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 52.89% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -71,7 +71,7 @@
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
 | 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.91% |
 | 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
-| 72 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 72 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.78% |
 | 75 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
@@ -89,10 +89,10 @@
 | 87 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 88 | [HordeCore](games/h/hordecore.md) | 3.12% |
 | 88 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 90 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.94% |
-| 91 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 92 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
-| 92 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 90 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 91 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
+| 91 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
+| 91 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 94 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 95 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 96 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.68% |
@@ -136,10 +136,10 @@
 | 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.19% |
 | 135 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 136 | [Trifox](games/t/trifox.md) | 1.09% |
-| 137 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
-| 138 | [Adios](games/a/adios.md) | 1.05% |
-| 138 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
+| 138 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
+| 139 | [Adios](games/a/adios.md) | 1.05% |
+| 139 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 141 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 142 | [Sable](games/s/sable.md) | 1.00% |
 | 143 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.99% |
@@ -549,6 +549,7 @@
 | 312 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
 | 312 | [Redfall](games/r/redfall.md) | 0.00% |
 | 312 | [Redout 2](games/r/redout_2.md) | 0.00% |
+| 312 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 0.00% |
 | 312 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
 | 312 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 0.00% |
 | 312 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 0.00% |
