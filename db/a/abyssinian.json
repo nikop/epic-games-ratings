@@ -2,9 +2,9 @@
   "ID": "10a33fa48e9747b9883b411b0d9097ee",
   "Name": "Abyssinian",
   "Ranking_EOS_Progress": 665,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:29.9116287+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:00:22.7648321+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:03:40.2409851+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:02:22.3760111+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:04:26.8722005+00:00"
 }

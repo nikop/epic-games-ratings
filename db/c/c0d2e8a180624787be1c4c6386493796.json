@@ -3,9 +3,9 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -364,9 +364,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -452,9 +452,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -532,9 +532,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:06:25.4903718+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:08:34.6635733+00:00",
   "LastUpdate_AppInfo": "2023-10-05T14:57:18.2729846+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:57:23.0484849+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:06:25.4904594+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:57:58.8443785+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:08:34.663701+00:00"
 }

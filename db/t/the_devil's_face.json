@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -1687,9 +1687,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1734,8 +1734,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:03:56.5511798+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:04:50.0181667+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:07.3971588+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:57:08.2626976+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:03:56.5512071+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:57:37.0508732+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:04:50.0181891+00:00"
 }

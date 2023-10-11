@@ -3,9 +3,9 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -519,9 +519,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -543,9 +543,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -623,9 +623,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -647,9 +647,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -799,17 +799,17 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -863,9 +863,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -879,9 +879,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -903,9 +903,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -999,17 +999,17 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:06:42.1342049+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:08:58.8896078+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:58:44.4843284+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:06:42.1343145+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:59:58.498202+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:08:58.8897189+00:00"
 }

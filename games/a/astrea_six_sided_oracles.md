@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Noctuan Champion | 29.00% | ~15 |
 | Apian Champion | 23.00% | ~12 |
+| Endless Tricks | 21.00% | ~11 |
 | Meissa's Savior | 21.00% | ~11 |
 | Lacertian Champion | 21.00% | ~11 |
 | Dicesmithing Time! | 19.00% | ~10 |
-| Endless Tricks | 19.00% | ~10 |
 | Loyal Partner | 19.00% | ~10 |
 | Mechanical Buddy | 19.00% | ~10 |
 | Purification Pioneer | 19.00% | ~10 |
@@ -104,7 +104,7 @@
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 312)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,7 +7,7 @@ Rating: 4.62 (Ranked 354)
 | ---- | ---------- | ----- |
 | Marksman | 95.00% | ~876 |
 | Welcome Aboard | 87.00% | ~802 |
-| Lab Rat | 75.00% | ~692 |
+| Lab Rat | 76.00% | ~701 |
 | All Systems Go | 67.00% | ~618 |
 | Brute Force | 66.00% | ~609 |
 | Cannon Fodder | 62.00% | ~572 |
@@ -25,7 +25,7 @@ Rating: 4.62 (Ranked 354)
 | Strange Transmissions | 43.00% | ~396 |
 | Live with the Hot Ones | 42.00% | ~387 |
 | Wreckage | 42.00% | ~387 |
-| Keeper of the Faith | 39.00% | ~360 |
+| Keeper of the Faith | 40.00% | ~369 |
 | Betrayed | 37.00% | ~341 |
 | Legend Teller | 37.00% | ~341 |
 | There's Always Peng! | 37.00% | ~341 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 354)
 | Maxed Out | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 922 (Ranked 237)  
-Completed: 5 (0.54%) (Ranked 172)  
+Completed: 5 (0.54%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -33,7 +33,7 @@ Rating: 4.73 (Ranked 163)
 | Welcome Back Jester | 4.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 719 (Ranked 251)  
-Completed: 23 (3.20%) (Ranked 85)  
+Completed: 23 (3.20%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

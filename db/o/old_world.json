@@ -6,9 +6,9 @@
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1827,9 +1827,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14596,
+  "EOS_Progressed": 14598,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13582,6 +13582,11 @@
       "Time": "2023-10-11T16:05:48.9321872+00:00",
       "NumProgressed": 14596,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T17:07:42.1882595+00:00",
+      "NumProgressed": 14598,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14175,9 +14180,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -14239,9 +14244,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -15367,9 +15372,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -15407,9 +15412,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -16328,21 +16333,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14596,
+      "Progressed": 14598,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14596,
+      "Progressed": 14598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-11T16:03:25.094605+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:05:48.9321865+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:07:42.1882592+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:48.3987129+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:03:25.0946057+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:05:48.9334807+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:04:02.6148728+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:07:42.1894031+00:00"
 }

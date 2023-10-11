@@ -3,9 +3,9 @@
   "Name": "Crimsonland",
   "ProductSlug": "crimsonland-c62b81",
   "Ranking_EOS_Progress": 665,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-20T00:00:00+00:00",
     "PcReleaseDate": "2014-06-10T23:00:00+00:00",
@@ -214,8 +214,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-20T11:00:31.2800821+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:08:11.1498373+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:09:25.7838112+00:00",
   "LastUpdate_AppInfo": "2023-10-10T19:57:51.5386934+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:58:17.9907275+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:08:11.1498549+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:59:19.891257+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:09:25.7838252+00:00"
 }

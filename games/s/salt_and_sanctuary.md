@@ -45,7 +45,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Fading Fast | 1.00% | ~5,352 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 535,184 (Ranked 32)  
-Completed: 1,569 (0.29%) (Ranked 208)  
+Completed: 1,569 (0.29%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

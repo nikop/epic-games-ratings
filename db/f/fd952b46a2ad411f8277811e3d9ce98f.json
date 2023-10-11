@@ -3,9 +3,9 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 63945,
+  "EOS_Progressed": 64014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46373,
+  "EOS_NewPlayers": 46431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4424,6 +4424,11 @@
       "Time": "2023-10-11T16:03:38.3556107+00:00",
       "NumProgressed": 63945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T17:04:24.1733216+00:00",
+      "NumProgressed": 64014,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -4532,7 +4537,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 30694
+      "UsersEstimate": 30727
     },
     {
       "ID": "kills_100",
@@ -4588,7 +4593,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5121
     },
     {
       "ID": "revives_25",
@@ -4683,13 +4688,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 63945,
+      "Progressed": 64014,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:03:38.3556101+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:04:24.1733213+00:00",
   "LastUpdate_AppInfo": "2023-10-11T13:57:09.9976611+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:59:28.2435208+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:03:38.3556986+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:00:59.7826289+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:04:24.1733791+00:00"
 }

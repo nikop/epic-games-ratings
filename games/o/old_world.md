@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
 | Developing Cities | 0.90% | ~131 |
+| Christianity | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
 | Ambitious | 0.80% | ~117 |
 | Magnificent | 0.80% | ~117 |
@@ -40,7 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.80% | ~117 |
 | Lighthouse | 0.80% | ~117 |
 | Pyramids | 0.80% | ~117 |
-| Christianity | 0.80% | ~117 |
+| Carthaginian Paganism | 0.80% | ~117 |
 | Greek Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
@@ -50,11 +51,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.70% | ~102 |
 | Learn to Play 1 | 0.70% | ~102 |
 | Manichaeism | 0.70% | ~102 |
-| Carthaginian Paganism | 0.70% | ~102 |
 | Egyptian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~88 |
 | Great | 0.60% | ~88 |
+| Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
 | Artisans | 0.60% | ~88 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.50% | ~73 |
 | Conqueror | 0.50% | ~73 |
 | Mighty | 0.50% | ~73 |
-| Valiant | 0.50% | ~73 |
 | Champions | 0.50% | ~73 |
 | Sages | 0.50% | ~73 |
 | Acropolis | 0.50% | ~73 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.20% | ~29 |
 | Carthage - Ox Hide | 0.20% | ~29 |
 | Old | 0.20% | ~29 |
+| Peacemaker | 0.20% | ~29 |
 | Ready | 0.20% | ~29 |
 | Noble Difficulty | 0.20% | ~29 |
 | Clerics | 0.20% | ~29 |
@@ -184,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
-| Peacemaker | 0.10% | ~15 |
 | Glorious Difficulty | 0.10% | ~15 |
 | Great Difficulty | 0.10% | ~15 |
 | Magnificent Difficulty | 0.10% | ~15 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,596 (Ranked 134)  
-Completed: 5 (0.03%) (Ranked 281)  
+Progressed: 14,598 (Ranked 134)  
+Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -523,7 +523,7 @@ Completed: 5 (0.03%) (Ranked 281)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,596 | 5 |
+| 2023-10-11 | 14,598 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,833 (Ranked 210)  

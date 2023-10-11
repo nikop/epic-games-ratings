@@ -11,8 +11,8 @@ Rating: 4.03 (Ranked 959)
 | Maybe Engage a Little | 82.00% | ~67 |
 | No More Names | 68.00% | ~56 |
 | Initiate | 61.00% | ~50 |
-| Thrada-Kul | 56.00% | ~46 |
-| Gravity-Challenged Rocks | 45.00% | ~37 |
+| Thrada-Kul | 57.00% | ~47 |
+| Gravity-Challenged Rocks | 46.00% | ~38 |
 | Soldier | 40.00% | ~33 |
 | All the Major Food Groups | 39.00% | ~32 |
 | Socialite | 34.00% | ~28 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 959)
 | Fowl Play | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 312)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

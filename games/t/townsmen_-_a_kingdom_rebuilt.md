@@ -18,12 +18,12 @@ Number of Ratings: 37  (23.09.2022)
 | An honorable Governor I | 7.00% | ~302 |
 | Full-time job I | 7.00% | ~302 |
 | Researcher | 7.00% | ~302 |
-| Bread for the people I | 6.00% | ~258 |
-| I like to build stuff... II | 6.00% | ~258 |
-| Completionist I | 6.00% | ~258 |
-| Full-time job II | 6.00% | ~258 |
-| A time consuming game II | 6.00% | ~258 |
-| Knee deep in snow | 6.00% | ~258 |
+| Bread for the people I | 6.00% | ~259 |
+| I like to build stuff... II | 6.00% | ~259 |
+| Completionist I | 6.00% | ~259 |
+| Full-time job II | 6.00% | ~259 |
+| A time consuming game II | 6.00% | ~259 |
+| Knee deep in snow | 6.00% | ~259 |
 | Not a small trader anymore | 5.00% | ~215 |
 | I like to build stuff... III | 5.00% | ~215 |
 | The King's new clothes I | 5.00% | ~215 |
@@ -108,8 +108,8 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,308 (Ranked 175)  
-Completed: 3 (0.07%) (Ranked 259)  
+Progressed: 4,309 (Ranked 175)  
+Completed: 3 (0.07%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 3 (0.07%) (Ranked 259)
 | 2023-10-06 | 4,305 | 3 |
 | 2023-10-07 | 4,306 | 3 |
 | 2023-10-10 | 4,307 | 3 |
-| 2023-10-11 | 4,308 | 3 |
+| 2023-10-11 | 4,309 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

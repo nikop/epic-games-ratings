@@ -41,9 +41,9 @@
 | The Archangel | 36.00% | ~235 |
 | The Convict | 35.00% | ~229 |
 | The Krogan | 35.00% | ~229 |
+| Galactic Explorer | 35.00% | ~229 |
 | Archivist | 34.00% | ~222 |
 | Colony Defense | 34.00% | ~222 |
-| Galactic Explorer | 34.00% | ~222 |
 | Broke, Blind, and Bedlam | 34.00% | ~222 |
 | Ghost Ship | 32.00% | ~209 |
 | The Assassin | 32.00% | ~209 |
@@ -55,14 +55,14 @@
 | Ghost of the Father | 31.00% | ~202 |
 | The Cure | 31.00% | ~202 |
 | Big Game Hunter | 31.00% | ~202 |
+| Revenge! | 31.00% | ~202 |
 | Heart of Darkness | 31.00% | ~202 |
 | Shopaholic | 31.00% | ~202 |
 | Catharsis | 30.00% | ~196 |
 | Fade Away | 30.00% | ~196 |
+| Treason | 30.00% | ~196 |
 | Agent | 30.00% | ~196 |
-| Revenge! | 30.00% | ~196 |
 | Cat's in the Cradle | 29.00% | ~189 |
-| Treason | 29.00% | ~189 |
 | Digital Exorcist | 29.00% | ~189 |
 | Driven | 29.00% | ~189 |
 | Focused | 28.00% | ~183 |
@@ -103,8 +103,8 @@
 | Throw Mastery | 16.00% | ~104 |
 | Executioner | 15.00% | ~98 |
 | Master and Commander | 15.00% | ~98 |
+| Mail Slot | 14.00% | ~91 |
 | Patriot | 14.00% | ~91 |
-| Mail Slot | 13.00% | ~85 |
 | Legend | 13.00% | ~85 |
 | Long Service Medal | 12.00% | ~78 |
 | Barrier Mastery | 11.00% | ~72 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 653 (Ranked 258)  
-Completed: 0 (0.00%) (Ranked 312)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

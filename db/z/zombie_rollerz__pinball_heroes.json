@@ -6,9 +6,9 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -1138,9 +1138,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1243,8 +1243,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:06:28.0906956+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:08:38.6694984+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7022117+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:57:45.1538688+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:06:28.0907849+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:58:30.4760174+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:08:38.6695743+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6481,
+  "EOS_Progressed": 6485,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
@@ -3957,6 +3957,11 @@
       "Time": "2023-10-11T16:06:47.4095639+00:00",
       "NumProgressed": 6481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T17:09:06.7185502+00:00",
+      "NumProgressed": 6485,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -3969,7 +3974,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4734
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -3977,7 +3982,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4540
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -3985,7 +3990,7 @@
       "Name": "Calm Sailing",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2270
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -3993,7 +3998,7 @@
       "Name": "Open the Gate!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -4057,7 +4062,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -4065,7 +4070,7 @@
       "Name": "Miner 49er",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2724
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -4073,7 +4078,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3113
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -4105,7 +4110,7 @@
       "Name": "Humble Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2659
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -4121,7 +4126,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3891
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -4129,7 +4134,7 @@
       "Name": "Mist Walker",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1946
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -4145,7 +4150,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2918
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -4177,7 +4182,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -4185,7 +4190,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -4193,7 +4198,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -4217,7 +4222,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -4233,7 +4238,7 @@
       "Name": "House Proud",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -4248,7 +4253,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 6481,
+      "Progressed": 6485,
       "Completed": 0
     }
   ],
@@ -4256,8 +4261,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-09T19:00:11.1644039+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:06:47.4095633+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:09:06.7185499+00:00",
   "LastUpdate_AppInfo": "2023-10-06T05:57:20.0812213+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:03:06.553737+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:06:47.4096148+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:03:38.9675698+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:09:06.7185932+00:00"
 }

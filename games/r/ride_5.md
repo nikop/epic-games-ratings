@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~598 |
+| First Love | 42.00% | ~599 |
 | Clean Race | 40.00% | ~570 |
 | Eat My Dust | 40.00% | ~570 |
-| Hear That Roar! | 38.00% | ~541 |
+| Hear That Roar! | 38.00% | ~542 |
 | Rivals to the End | 28.00% | ~399 |
 | We're Going to Need a Bigger Garage | 24.00% | ~342 |
 | Bitter Rivalry | 24.00% | ~342 |
 | Champagne Spray | 21.00% | ~299 |
 | Restored and Ready | 19.00% | ~271 |
 | I Want One Too! | 19.00% | ~271 |
-| Legendary!!! | 18.00% | ~256 |
-| Quick Pit Stop | 18.00% | ~256 |
-| I'm Here Too! | 18.00% | ~256 |
+| Legendary!!! | 18.00% | ~257 |
+| Quick Pit Stop | 18.00% | ~257 |
+| I'm Here Too! | 18.00% | ~257 |
 | Go-Faster Stripes | 16.00% | ~228 |
 | We've Just Begun | 9.00% | ~128 |
 | Is It the Right Size? | 8.00% | ~114 |
@@ -30,11 +30,11 @@
 | La Dolce Vita | 3.00% | ~43 |
 | Romantic Races | 3.00% | ~43 |
 | Still Here | 3.00% | ~43 |
-| Iconic! | 2.00% | ~28 |
-| Back in Blighty | 2.00% | ~28 |
-| Rounding Off | 2.00% | ~28 |
-| My Work Here Is Done | 2.00% | ~28 |
-| Overtaking the Master | 2.00% | ~28 |
+| Iconic! | 2.00% | ~29 |
+| Back in Blighty | 2.00% | ~29 |
+| Rounding Off | 2.00% | ~29 |
+| My Work Here Is Done | 2.00% | ~29 |
+| Overtaking the Master | 2.00% | ~29 |
 | I'll Be the Best! | 1.00% | ~14 |
 | Next Level | 1.00% | ~14 |
 | I Don't Stop | 1.00% | ~14 |
@@ -54,8 +54,8 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 312)  
+Progressed: 1,426 (Ranked 220)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 1,381 | 0 |
 | 2023-10-09 | 1,401 | 0 |
 | 2023-10-10 | 1,416 | 0 |
-| 2023-10-11 | 1,424 | 0 |
+| 2023-10-11 | 1,426 | 0 |

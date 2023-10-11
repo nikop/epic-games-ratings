@@ -10,9 +10,9 @@
 | Champion of Kalevala | 8.00% | ~22 |
 | Death is Merely a Setback | 8.00% | ~22 |
 | Ring of Fire! | 8.00% | ~22 |
+| Third Shard | 8.00% | ~22 |
 | Berry Nice | 7.00% | ~19 |
 | Keyu Exterminator | 7.00% | ~19 |
-| Third Shard | 7.00% | ~19 |
 | Fourth Shard | 6.00% | ~17 |
 | Big Fish | 5.00% | ~14 |
 | Tastes Like Chicken | 5.00% | ~14 |
@@ -28,8 +28,8 @@
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276 (Ranked 318)  
-Completed: 4 (1.45%) (Ranked 123)  
+Progressed: 276 (Ranked 319)  
+Completed: 4 (1.45%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

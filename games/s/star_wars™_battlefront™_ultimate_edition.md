@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~523 |
-| Off to a good start | 67.00% | ~389 |
+| New Recruit | 90.00% | ~524 |
+| Off to a good start | 66.00% | ~384 |
 | Do... or do not. There is no try | 53.00% | ~308 |
 | A good blaster at your side | 34.00% | ~198 |
 | Scrap collector | 20.00% | ~116 |
@@ -14,8 +14,8 @@
 | All right, I'll give it a try | 18.00% | ~105 |
 | Shoot first | 18.00% | ~105 |
 | The power of the Force | 17.00% | ~99 |
-| Together we can rule the galaxy | 17.00% | ~99 |
 | Collector | 16.00% | ~93 |
+| Together we can rule the galaxy | 16.00% | ~93 |
 | Tell Jabba that I've got his money | 12.00% | ~70 |
 | Best star-pilot in the galaxy | 12.00% | ~70 |
 | Survivor | 12.00% | ~70 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 9.00% | ~52 |
 | Impressive. Most impressive. | 9.00% | ~52 |
 | Judge me by my size, do you? | 9.00% | ~52 |
-| Distinguished | 8.00% | ~46 |
-| A tremor in the Force | 8.00% | ~46 |
-| Support the troops | 8.00% | ~46 |
+| Distinguished | 8.00% | ~47 |
+| A tremor in the Force | 8.00% | ~47 |
+| Support the troops | 8.00% | ~47 |
 | Not bad for a little furball | 6.00% | ~35 |
 | Patience you must have | 6.00% | ~35 |
 | On the ball | 5.00% | ~29 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581 (Ranked 263)  
-Completed: 1 (0.17%) (Ranked 227)  
+Progressed: 582 (Ranked 263)  
+Completed: 1 (0.17%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 1 (0.17%) (Ranked 227)
 | 2023-10-08 | 538 | 1 |
 | 2023-10-09 | 558 | 1 |
 | 2023-10-10 | 572 | 1 |
-| 2023-10-11 | 581 | 1 |
+| 2023-10-11 | 582 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

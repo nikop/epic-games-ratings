@@ -2,9 +2,9 @@
   "ID": "battalion",
   "Name": "Battalion",
   "Ranking_EOS_Progress": 665,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:16.4340977+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:59:48.1563262+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:03:49.6962614+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:01:30.1482441+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:04:40.0949448+00:00"
 }

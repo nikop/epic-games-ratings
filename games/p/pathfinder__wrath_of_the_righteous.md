@@ -6,23 +6,23 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,877 |
-| A Spark | 18.00% | ~2,071 |
-| Burning City | 17.00% | ~1,956 |
+| Devoured by Darkness | 25.00% | ~2,878 |
+| A Spark | 18.00% | ~2,072 |
+| Burning City | 17.00% | ~1,957 |
 | Defender's Heart | 15.00% | ~1,726 |
 | Mythic Choices | 14.00% | ~1,611 |
 | Banner over the Citadel | 13.00% | ~1,496 |
 | Queen's Gratitude | 12.00% | ~1,381 |
 | Fifth Crusade | 8.00% | ~921 |
-| Embrace of the Abyss | 6.00% | ~690 |
-| Path of the Angel | 6.00% | ~690 |
-| Demonic and Divine | 6.00% | ~690 |
-| Path of the Azata | 5.00% | ~575 |
-| Transformation | 5.00% | ~575 |
-| Great Upstart | 5.00% | ~575 |
-| Voice from Your Dreams | 5.00% | ~575 |
-| All Paths Open | 5.00% | ~575 |
-| Next-Door Play | 5.00% | ~575 |
+| Embrace of the Abyss | 6.00% | ~691 |
+| Path of the Angel | 6.00% | ~691 |
+| Demonic and Divine | 6.00% | ~691 |
+| Path of the Azata | 5.00% | ~576 |
+| Transformation | 5.00% | ~576 |
+| Great Upstart | 5.00% | ~576 |
+| Voice from Your Dreams | 5.00% | ~576 |
+| All Paths Open | 5.00% | ~576 |
+| Next-Door Play | 5.00% | ~576 |
 | Heart of the Fallen Land | 4.00% | ~460 |
 | The Legacy | 4.00% | ~460 |
 | Divide and Rule | 4.00% | ~460 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,508 (Ranked 142)  
-Completed: 0 (0.00%) (Ranked 312)  
+Progressed: 11,510 (Ranked 142)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 11,491 | 0 |
 | 2023-10-09 | 11,498 | 0 |
 | 2023-10-10 | 11,505 | 0 |
-| 2023-10-11 | 11,508 | 0 |
+| 2023-10-11 | 11,510 | 0 |
 ## Awards
 Max (Character Customization): 1,721  (Ranked 119)  
 Sum: 6,982 (Ranked 115)  

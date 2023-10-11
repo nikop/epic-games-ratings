@@ -4,11 +4,11 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 665,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -1194,6 +1194,6 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "LastChanged": "2023-10-10T15:59:17.7121409+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:51.3019886+00:00",
-  "LastUpdate_Ratings": "2023-10-11T16:00:04.5011644+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:06:12.0308915+00:00"
+  "LastUpdate_Ratings": "2023-10-11T17:01:57.4170853+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:08:14.7643256+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1200,9 +1200,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5518,
+  "EOS_Progressed": 5519,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11085,6 +11085,11 @@
       "Time": "2023-10-11T16:04:55.4211904+00:00",
       "NumProgressed": 5518,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T17:06:24.6190594+00:00",
+      "NumProgressed": 5519,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11112,7 +11117,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -11192,7 +11197,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -11216,7 +11221,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -11224,7 +11229,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -11256,7 +11261,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11280,7 +11285,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -11352,7 +11357,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11415,15 +11420,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5518,
+      "Progressed": 5519,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-09T17:03:26.5989294+00:00",
-  "LastChanged_Achievements": "2023-10-11T16:04:55.4211897+00:00",
+  "LastChanged_Achievements": "2023-10-11T17:06:24.6190591+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:39.4137332+00:00",
-  "LastUpdate_Ratings": "2023-10-11T15:58:00.6163985+00:00",
-  "LastUpdate_Achievements": "2023-10-11T16:04:55.4213167+00:00"
+  "LastUpdate_Ratings": "2023-10-11T16:58:51.3964763+00:00",
+  "LastUpdate_Achievements": "2023-10-11T17:06:24.6191513+00:00"
 }
