@@ -7,28 +7,28 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,270 |
-| Man of politics | 35.00% | ~5,486 |
-| Friends of sorts | 33.00% | ~5,172 |
-| Yet another secret | 33.00% | ~5,172 |
+| Man of politics | 35.00% | ~5,487 |
+| Friends of sorts | 33.00% | ~5,173 |
+| Yet another secret | 33.00% | ~5,173 |
 | Let there be darkness | 32.00% | ~5,016 |
-| End of Book One | 30.00% | ~4,702 |
+| End of Book One | 30.00% | ~4,703 |
 | Garden of Eden | 24.00% | ~3,762 |
 | Full house | 24.00% | ~3,762 |
 | Wannabe knight | 23.00% | ~3,605 |
-| Help an old friend | 22.00% | ~3,448 |
+| Help an old friend | 22.00% | ~3,449 |
 | Two of us | 20.00% | ~3,135 |
-| Negotiation skills | 18.00% | ~2,821 |
-| Workers' union | 18.00% | ~2,821 |
-| End of Book Two | 18.00% | ~2,821 |
+| Negotiation skills | 18.00% | ~2,822 |
+| Workers' union | 18.00% | ~2,822 |
+| End of Book Two | 18.00% | ~2,822 |
 | Everything's in order | 17.00% | ~2,665 |
-| Twist of Fate | 14.00% | ~2,194 |
-| Jack was here! | 14.00% | ~2,194 |
+| Twist of Fate | 14.00% | ~2,195 |
+| Jack was here! | 14.00% | ~2,195 |
 | Exterminator | 13.00% | ~2,038 |
 | Whodunnit | 12.00% | ~1,881 |
 | Good midwife | 11.00% | ~1,724 |
 | Friar Tuck | 11.00% | ~1,724 |
 | First profit | 11.00% | ~1,724 |
-| Team player | 10.00% | ~1,567 |
+| Team player | 10.00% | ~1,568 |
 | Skilled merchant | 9.00% | ~1,411 |
 | Nothing but make-believe | 9.00% | ~1,411 |
 | Brother Marcus | 9.00% | ~1,411 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,411 |
 | A cry for help | 8.00% | ~1,254 |
 | Silentium est aureum | 7.00% | ~1,097 |
-| Rebel without a cause | 6.00% | ~940 |
+| Rebel without a cause | 6.00% | ~941 |
 | Staring contest champion | 5.00% | ~784 |
 | Lone wolf | 5.00% | ~784 |
 | Vox Populi | 5.00% | ~784 |
@@ -46,10 +46,10 @@ Number of Ratings: 368  (23.09.2022)
 | Countess Aliena | 4.00% | ~627 |
 | Care, like a brother cares | 3.00% | ~470 |
 | A brush with death | 3.00% | ~470 |
-| Boy of mystery | 2.00% | ~313 |
+| Boy of mystery | 2.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,674 (Ranked 133)  
-Completed: 113 (0.72%) (Ranked 153)  
+Progressed: 15,676 (Ranked 133)  
+Completed: 113 (0.72%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 113 (0.72%) (Ranked 153)
 | 2023-10-08 | 15,632 | 113 |
 | 2023-10-09 | 15,653 | 113 |
 | 2023-10-10 | 15,670 | 113 |
-| 2023-10-11 | 15,674 | 113 |
+| 2023-10-11 | 15,676 | 113 |
 ## Awards
 Max (Easy Puzzles): 151  (Ranked 307)  
 Sum: 193 (Ranked 386)  

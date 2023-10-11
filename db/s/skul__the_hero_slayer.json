@@ -6,9 +6,9 @@
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -4916,9 +4916,9 @@
       "ID": "BrainPoolOperation",
       "SetID": "97dk767",
       "Name": "Brain at Full Throttle",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1974
     },
     {
       "ID": "Chatterbox",
@@ -5116,8 +5116,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-11T09:01:11.2841956+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:06:27.2959708+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:06:52.8297121+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:10.5338223+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:00:18.2565197+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:06:27.2960379+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:01:02.2461509+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:06:52.8297451+00:00"
 }

@@ -18,7 +18,7 @@
 | Medal of Honor | 57.00% | ~372 |
 | Meritorious Service Medal | 57.00% | ~372 |
 | Turian Ally | 57.00% | ~372 |
-| Soldier | 54.00% | ~352 |
+| Soldier | 55.00% | ~359 |
 | Medal of Exploration III | 52.00% | ~339 |
 | Asari Ally | 52.00% | ~339 |
 | Principled | 52.00% | ~339 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 652 (Ranked 258)  
-Completed: 0 (0.00%) (Ranked 312)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

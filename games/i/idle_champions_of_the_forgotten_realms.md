@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.20% | ~463 |
+| A Brief Tour of the Realms | 0.30% | ~695 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.00% | ~0 |
 | Time Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,512 (Ranked 58)  
-Completed: 2,351 (1.02%) (Ranked 141)  
+Progressed: 231,515 (Ranked 58)  
+Completed: 2,351 (1.02%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -709,7 +709,7 @@ Completed: 2,351 (1.02%) (Ranked 141)
 | 2023-10-08 | 231,326 | 2,342 |
 | 2023-10-09 | 231,404 | 2,348 |
 | 2023-10-10 | 231,484 | 2,351 |
-| 2023-10-11 | 231,512 | 2,351 |
+| 2023-10-11 | 231,515 | 2,351 |
 ## Awards
 Max (Great for Beginners): 5,381  (Ranked 69)  
 Sum: 31,977 (Ranked 41)  

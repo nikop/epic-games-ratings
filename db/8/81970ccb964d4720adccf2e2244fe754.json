@@ -3,9 +3,9 @@
   "Name": "Haunted House",
   "ProductSlug": "haunted-house-c5a71b",
   "Ranking_EOS_Progress": 663,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-12T07:00:00+00:00",
     "PcReleaseDate": "2023-10-12T07:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T18:03:06.981062+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:03:54.8088174+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:03:43.1929323+00:00",
   "LastUpdate_AppInfo": "2023-10-04T17:57:00.1526836+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:03:30.0570364+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:03:54.8088209+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:03:07.8469921+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:03:43.1929347+00:00"
 }

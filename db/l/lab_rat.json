@@ -3,9 +3,9 @@
   "Name": "Lab Rat",
   "ProductSlug": "lab-rat-d2b044",
   "Ranking_EOS_Progress": 663,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T13:57:25.6980412+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:03:05.9747435+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:08:21.0840169+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:01:51.5109498+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:08:15.5697642+00:00"
 }

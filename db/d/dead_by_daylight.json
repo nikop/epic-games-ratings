@@ -6,9 +6,9 @@
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -11225,9 +11225,9 @@
       "Count": 25275
     }
   ],
-  "EOS_Progressed": 932092,
+  "EOS_Progressed": 932151,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13954,
+  "EOS_NewPlayers": 13961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30975,6 +30975,11 @@
       "Time": "2023-10-11T11:05:34.6289203+00:00",
       "NumProgressed": 932092,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T12:05:47.7479431+00:00",
+      "NumProgressed": 932151,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31154,7 +31159,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_023",
@@ -31162,7 +31167,7 @@
       "Name": "It wakes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_024",
@@ -31170,7 +31175,7 @@
       "Name": "Not half bad",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_025",
@@ -31202,7 +31207,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_029",
@@ -31210,7 +31215,7 @@
       "Name": "Risk it all",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_030",
@@ -31226,7 +31231,7 @@
       "Name": "Vulture",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_032",
@@ -31290,7 +31295,7 @@
       "Name": "Skillful",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_040",
@@ -31306,7 +31311,7 @@
       "Name": "II",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_042",
@@ -31314,7 +31319,7 @@
       "Name": "III",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_043",
@@ -31698,7 +31703,7 @@
       "Name": "Cherish your Life",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_091",
@@ -31882,7 +31887,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_114",
@@ -31986,7 +31991,7 @@
       "Name": "First to the Punch",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_130",
@@ -32194,7 +32199,7 @@
       "Name": "Every Last Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_156",
@@ -32338,7 +32343,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_174",
@@ -32434,7 +32439,7 @@
       "Name": "With Scars to Show",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_186",
@@ -32442,7 +32447,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_187",
@@ -32746,7 +32751,7 @@
       "Name": "Second Act",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ACH_225",
@@ -32754,7 +32759,7 @@
       "Name": "Make Some Noise",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     },
     {
       "ID": "ACH_226",
@@ -32817,21 +32822,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 932092,
+      "Progressed": 932151,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 932092,
+      "Progressed": 932151,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-11T09:02:21.873+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:05:34.6289198+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:05:47.7479423+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:03:18.4215153+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:05:34.6297371+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:02:10.5461493+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:05:47.7485406+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1748,7 +1748,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 60457,
+  "EOS_Progressed": 60458,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
@@ -20813,6 +20813,11 @@
       "Time": "2023-10-11T11:05:47.8086144+00:00",
       "NumProgressed": 60457,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T12:06:03.8509604+00:00",
+      "NumProgressed": 60458,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -20824,7 +20829,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -21080,7 +21085,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19346
+      "UsersEstimate": 19347
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -21112,7 +21117,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38088
+      "UsersEstimate": 38089
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -21192,7 +21197,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47156
+      "UsersEstimate": 47157
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -21240,7 +21245,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -21295,15 +21300,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 60457,
+      "Progressed": 60458,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:05:47.8086138+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:06:03.8509602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:23.9532506+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:00:31.1960362+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:05:47.808789+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:01:22.2985907+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:06:03.8510872+00:00"
 }

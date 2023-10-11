@@ -6,11 +6,11 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,321 |
-| It wakes | 1.00% | ~9,321 |
-| Not half bad | 1.00% | ~9,321 |
-| Skillful | 1.00% | ~9,321 |
-| Make Some Noise | 1.00% | ~9,321 |
+| Zealous | 1.00% | ~9,322 |
+| It wakes | 1.00% | ~9,322 |
+| Not half bad | 1.00% | ~9,322 |
+| Skillful | 1.00% | ~9,322 |
+| Make Some Noise | 1.00% | ~9,322 |
 | Handyman | 0.90% | ~8,389 |
 | Apt Survivor | 0.90% | ~8,389 |
 | Survival Treasures | 0.90% | ~8,389 |
@@ -32,19 +32,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Killing | 0.60% | ~5,593 |
 | Engineer | 0.60% | ~5,593 |
 | Close Shave | 0.60% | ~5,593 |
-| Apt Killer | 0.50% | ~4,660 |
-| Risk it all | 0.50% | ~4,660 |
-| Vulture | 0.50% | ~4,660 |
-| II | 0.50% | ~4,660 |
-| Wounded Healer | 0.50% | ~4,660 |
-| Second Act | 0.50% | ~4,660 |
-| III | 0.40% | ~3,728 |
-| Cherish your Life | 0.40% | ~3,728 |
-| First to the Punch | 0.40% | ~3,728 |
-| Every Last Drop | 0.40% | ~3,728 |
-| Raccoon City Recruit | 0.40% | ~3,728 |
-| With Scars to Show | 0.40% | ~3,728 |
-| Flight to Freedom | 0.40% | ~3,728 |
+| Apt Killer | 0.50% | ~4,661 |
+| Risk it all | 0.50% | ~4,661 |
+| Vulture | 0.50% | ~4,661 |
+| II | 0.50% | ~4,661 |
+| Wounded Healer | 0.50% | ~4,661 |
+| Second Act | 0.50% | ~4,661 |
+| III | 0.40% | ~3,729 |
+| Cherish your Life | 0.40% | ~3,729 |
+| First to the Punch | 0.40% | ~3,729 |
+| Every Last Drop | 0.40% | ~3,729 |
+| Raccoon City Recruit | 0.40% | ~3,729 |
+| With Scars to Show | 0.40% | ~3,729 |
+| Flight to Freedom | 0.40% | ~3,729 |
 | A bite for the Entity | 0.30% | ~2,796 |
 | Blood on your hands | 0.30% | ~2,796 |
 | Escape Artist | 0.30% | ~2,796 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 932,092 (Ranked 14)  
-Completed: 49 (0.01%) (Ranked 294)  
+Progressed: 932,151 (Ranked 14)  
+Completed: 49 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 932,092 | 49 |
+| 2023-10-11 | 932,151 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,100 (Ranked 13)  

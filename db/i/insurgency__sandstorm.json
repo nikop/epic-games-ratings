@@ -6,9 +6,9 @@
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3557,10 +3557,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3054,
       "NumberOfAwardsMax": 387
+    },
+    {
+      "Time": "2023-10-11T12:00:40.4492531+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3056,
+      "NumberOfAwardsMax": 387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3054,
+  "NumberOfAwards": 3056,
   "NumberOfAwardsMax": 387,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3616,7 +3622,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 288
+      "Count": 290
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3631,9 +3637,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 461153,
+  "EOS_Progressed": 461165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2272,
+  "EOS_NewPlayers": 2277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23286,6 +23292,11 @@
       "Time": "2023-10-11T11:06:01.684913+00:00",
       "NumProgressed": 461153,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T12:06:20.7464491+00:00",
+      "NumProgressed": 461165,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -23353,7 +23364,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18446
+      "UsersEstimate": 18447
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -23401,7 +23412,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18446
+      "UsersEstimate": 18447
     },
     {
       "ID": "ACH_JR_50",
@@ -23569,22 +23580,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18446
+      "UsersEstimate": 18447
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 461153,
+      "Progressed": 461165,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-10T15:59:21.1272273+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:06:01.6849123+00:00",
+  "LastChanged": "2023-10-11T12:00:40.449253+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:06:20.7464487+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:53.2662514+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:59:58.4532755+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:06:01.6850626+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:00:40.4492534+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:06:20.7465588+00:00"
 }

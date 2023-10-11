@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~8,767 |
-| A Better Idea | 25.00% | ~2,307 |
-| Safety in the Storm | 24.00% | ~2,215 |
-| Begin the Ceremony | 20.00% | ~1,846 |
-| Mission Accomplished | 20.00% | ~1,846 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,384 |
-| A Starfighter of Your Own | 14.00% | ~1,292 |
-| Asset Secured | 13.00% | ~1,200 |
-| Unkillable | 8.00% | ~738 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~646 |
-| Sound Strategy | 7.00% | ~646 |
-| Together, Vanguard | 7.00% | ~646 |
+| Fracture at Fostar Haven | 95.00% | ~8,778 |
+| A Better Idea | 25.00% | ~2,310 |
+| Safety in the Storm | 24.00% | ~2,218 |
+| Begin the Ceremony | 20.00% | ~1,848 |
+| Mission Accomplished | 20.00% | ~1,848 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,386 |
+| A Starfighter of Your Own | 14.00% | ~1,294 |
+| Asset Secured | 13.00% | ~1,201 |
+| Unkillable | 8.00% | ~739 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~647 |
+| Sound Strategy | 7.00% | ~647 |
+| Together, Vanguard | 7.00% | ~647 |
 | Stomped | 6.00% | ~554 |
-| Fearless | 5.00% | ~461 |
-| Flames Over Mon Cala | 5.00% | ~461 |
-| A Promising Career | 5.00% | ~461 |
-| Great Shot, Kid | 4.00% | ~369 |
-| Back From the Brink | 4.00% | ~369 |
-| Temporary Guardian | 4.00% | ~369 |
-| Baited | 4.00% | ~369 |
+| Fearless | 5.00% | ~462 |
+| Flames Over Mon Cala | 5.00% | ~462 |
+| A Promising Career | 5.00% | ~462 |
+| Great Shot, Kid | 4.00% | ~370 |
+| Back From the Brink | 4.00% | ~370 |
+| Temporary Guardian | 4.00% | ~370 |
+| Baited | 4.00% | ~370 |
 | Stronger Together | 3.00% | ~277 |
 | Squadron Hunter | 3.00% | ~277 |
 | Punch It | 3.00% | ~277 |
@@ -52,8 +52,8 @@
 | Fully Decorated | 0.10% | ~9 |
 | The Galaxy's Finest (Ace) | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,228 (Ranked 150)  
-Completed: 1 (0.01%) (Ranked 294)  
+Progressed: 9,240 (Ranked 150)  
+Completed: 1 (0.01%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 1 (0.01%) (Ranked 294)
 | 2023-10-08 | 8,488 | 1 |
 | 2023-10-09 | 8,828 | 1 |
 | 2023-10-10 | 9,128 | 1 |
-| 2023-10-11 | 9,228 | 1 |
+| 2023-10-11 | 9,240 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

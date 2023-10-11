@@ -19,7 +19,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Hero Killer | 29.00% | ~2,385 |
 | The Final Battle of the First Hero | 28.00% | ~2,302 |
 | Go Home... | 28.00% | ~2,302 |
-| Brain at Full Throttle | 23.00% | ~1,891 |
+| Brain at Full Throttle | 24.00% | ~1,974 |
 | Rookies Welcome | 20.00% | ~1,645 |
 | Deadly Power | 17.00% | ~1,398 |
 | Castle Restoration Plans | 15.00% | ~1,233 |
@@ -32,7 +32,7 @@ Number of Ratings: 546  (23.09.2022)
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,223 (Ranked 153)  
-Completed: 14 (0.17%) (Ranked 227)  
+Completed: 14 (0.17%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

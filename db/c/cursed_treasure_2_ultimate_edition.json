@@ -3,9 +3,9 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 348,
-  "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -402,9 +402,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Starry: Arcania",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
@@ -659,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:09:18.3801633+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:09:20.8329871+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:56.4749461+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:00:02.7621652+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:09:18.3802108+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:00:46.7331063+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:09:20.8330263+00:00"
 }

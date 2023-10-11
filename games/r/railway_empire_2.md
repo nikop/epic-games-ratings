@@ -10,9 +10,9 @@ Rating: 4.47 (Ranked 619)
 | Departure | 73.00% | ~1,461 |
 | From X to Y | 72.00% | ~1,441 |
 | Way of Iron | 70.00% | ~1,401 |
-| Mystery Tour | 68.00% | ~1,361 |
+| Mystery Tour | 69.00% | ~1,381 |
 | We brake for nobody | 67.00% | ~1,341 |
-| Brainstorm | 65.00% | ~1,301 |
+| Brainstorm | 66.00% | ~1,321 |
 | Mind the Gap | 65.00% | ~1,301 |
 | Travel Company | 65.00% | ~1,301 |
 | All around the World | 62.00% | ~1,241 |
@@ -20,8 +20,8 @@ Rating: 4.47 (Ranked 619)
 | Poor Devil | 54.00% | ~1,081 |
 | Facility Manager | 53.00% | ~1,061 |
 | Producer | 50.00% | ~1,001 |
+| Apprentice | 42.00% | ~841 |
 | Bridge Builder | 42.00% | ~841 |
-| Apprentice | 41.00% | ~821 |
 | Access granted | 35.00% | ~701 |
 | Going once, going twice, sold | 35.00% | ~701 |
 | Stoker | 33.00% | ~661 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 619)
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,002 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 312)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

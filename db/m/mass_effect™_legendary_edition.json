@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1757,9 +1757,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_126",
@@ -2553,8 +2553,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:08:22.3887825+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:08:17.1763918+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:58:31.114179+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:08:22.3890225+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:58:39.2401521+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:08:17.1765756+00:00"
 }

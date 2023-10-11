@@ -6,9 +6,9 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18736,
+  "EOS_Progressed": 18737,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -14242,6 +14242,11 @@
       "Time": "2023-10-11T10:04:39.0834439+00:00",
       "NumProgressed": 18736,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-11T12:03:47.6655079+00:00",
+      "NumProgressed": 18737,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 14,
@@ -14253,7 +14258,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14614
+      "UsersEstimate": 14615
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -14309,7 +14314,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9930
+      "UsersEstimate": 9931
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -14341,7 +14346,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -14364,15 +14369,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18736,
+      "Progressed": 18737,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:03:58.4018845+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:03:47.6655075+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:01.6945085+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:57:46.6276385+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:03:58.4020503+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:57:44.7667816+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:03:47.6655808+00:00"
 }

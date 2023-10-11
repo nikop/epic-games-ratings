@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~45,668 |
-| Get Busy Living | 16.00% | ~29,228 |
-| Samuel Norton | 9.00% | ~16,441 |
+| Stone Walls | 25.00% | ~45,671 |
+| Get Busy Living | 16.00% | ~29,230 |
+| Samuel Norton | 9.00% | ~16,442 |
 | Spare The Rod | 5.00% | ~9,134 |
-| Don't Put Me In The Dark | 3.00% | ~5,480 |
-| Wait and Hope | 3.00% | ~5,480 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,480 |
-| Throw The Book At Them | 2.00% | ~3,653 |
-| Iron Bars | 2.00% | ~3,653 |
+| Don't Put Me In The Dark | 3.00% | ~5,481 |
+| Wait and Hope | 3.00% | ~5,481 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,481 |
+| Throw The Book At Them | 2.00% | ~3,654 |
+| Iron Bars | 2.00% | ~3,654 |
 | D.B. Cooper | 1.00% | ~1,827 |
 | Reformation | 0.60% | ~1,096 |
 | Crowd Control | 0.50% | ~913 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~183 |
 | ... It's What You Can Prove | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,674 (Ranked 69)  
-Completed: 8 (0.00%) (Ranked 312)  
+Progressed: 182,685 (Ranked 69)  
+Completed: 8 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,23 +197,23 @@ Completed: 8 (0.00%) (Ranked 312)
 | 2023-10-08 | 182,108 | 8 |
 | 2023-10-09 | 182,365 | 8 |
 | 2023-10-10 | 182,598 | 8 |
-| 2023-10-11 | 182,674 | 8 |
+| 2023-10-11 | 182,685 | 8 |
 ## Awards
-Max (Extremely Fun): 526  (Ranked 200)  
-Sum: 4,534 (Ranked 141)  
+Max (Extremely Fun): 527  (Ranked 200)  
+Sum: 4,538 (Ranked 141)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 526 |
+| This game is Extremely Fun | 527 |
 | This game is Great for Beginners | 522 |
-| This game is Highly Recommended | 500 |
+| This game is Highly Recommended | 501 |
 | This game has Quickly Understood Controls | 489 |
 | This game is Relaxing | 471 |
 | This game has Amazing Storytelling | 448 |
 | This game has Diverse Characters | 439 |
 | This game is Educational | 429 |
 | This game has Amazing Characters | 397 |
-| This game has a Creative Community | 313 |
+| This game has a Creative Community | 315 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -479,4 +479,4 @@ Diff (max vs sum): 59
 | 2023-10-08 | 4.61 | - | 524 | 4,519 |
 | 2023-10-09 | 4.61 | - | 524 | 4,527 |
 | 2023-10-10 | 4.61 | - | 526 | 4,531 |
-| 2023-10-11 | 4.61 | - | 526 | 4,534 |
+| 2023-10-11 | 4.61 | - | 527 | 4,538 |

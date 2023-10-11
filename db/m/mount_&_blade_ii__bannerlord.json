@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7783,10 +7783,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14815,
       "NumberOfAwardsMax": 7209
+    },
+    {
+      "Time": "2023-10-11T11:59:59.685404+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14816,
+      "NumberOfAwardsMax": 7209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14815,
+  "NumberOfAwards": 14816,
   "NumberOfAwardsMax": 7209,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7848,7 +7854,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 828
+      "Count": 829
     },
     {
       "Text": "This game has a Creative Community",
@@ -7863,9 +7869,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63070,
+  "EOS_Progressed": 63071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26338,6 +26344,11 @@
       "Time": "2023-10-11T11:06:34.5404159+00:00",
       "NumProgressed": 63070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T12:07:11.5882227+00:00",
+      "NumProgressed": 63071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26349,7 +26360,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "Apple of my eye",
@@ -26357,7 +26368,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9460
+      "UsersEstimate": 9461
     },
     {
       "ID": "Bannerlord",
@@ -26581,7 +26592,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24597
+      "UsersEstimate": 24598
     },
     {
       "ID": "Lawmaker",
@@ -26709,7 +26720,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "This is Sparta",
@@ -26756,15 +26767,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63070,
+      "Progressed": 63071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-11T07:59:05.460475+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:06:34.540415+00:00",
+  "LastChanged": "2023-10-11T11:59:59.6854039+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:07:11.5882223+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:59:28.7176337+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:06:34.5405824+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:59:59.6854044+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:07:11.5883413+00:00"
 }

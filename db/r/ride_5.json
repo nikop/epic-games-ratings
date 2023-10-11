@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2649,6 +2649,11 @@
       "Time": "2023-10-11T11:05:42.3324582+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T12:05:57.0092977+00:00",
+      "NumProgressed": 1424,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2717,7 +2722,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2869,7 +2874,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2957,15 +2962,15 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 299
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3013,7 +3018,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3052,14 +3057,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:05:42.3324576+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:05:57.0092972+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:00:07.1701494+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:05:42.3325341+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:00:51.9807213+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:05:57.009345+00:00"
 }

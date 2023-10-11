@@ -3,9 +3,9 @@
   "Name": "Dust to the End",
   "ProductSlug": "dust-to-the-end-4297b0",
   "Ranking_EOS_Progress": 582,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-21T07:00:00+00:00",
     "PcReleaseDate": "2021-08-11T07:00:00+00:00",
@@ -429,8 +429,8 @@
   ],
   "FirstSeen": "2023-08-23T03:57:18.1724654+00:00",
   "FirstSeenAchievements": "2023-08-21T02:14:13.1182057+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:03:38.821607+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:03:23.6258446+00:00",
   "LastUpdate_AppInfo": "2023-10-09T03:57:37.436552+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:00:46.3927251+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:03:38.8216777+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:01:41.6334895+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:03:23.6258815+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452668,
+  "EOS_Progressed": 452713,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 14006,
+  "EOS_NewPlayers": 13962,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2023-10-11T11:04:01.4220182+00:00",
       "NumProgressed": 452668,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-11T12:03:51.374899+00:00",
+      "NumProgressed": 452713,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -3439,7 +3444,7 @@
       "Name": "Advanced Certification Medal",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 31687
+      "UsersEstimate": 31690
     },
     {
       "ID": "achiv_community",
@@ -3447,7 +3452,7 @@
       "Name": "Community Policing Medal",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 27160
+      "UsersEstimate": 27163
     },
     {
       "ID": "achiv_driving",
@@ -3455,7 +3460,7 @@
       "Name": "Safe Driving Medal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 49793
+      "UsersEstimate": 49798
     },
     {
       "ID": "achiv_field",
@@ -3463,7 +3468,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 330448
+      "UsersEstimate": 330480
     },
     {
       "ID": "achiv_fires",
@@ -3471,7 +3476,7 @@
       "Name": "Exemplary Fire Service Medal",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 72427
+      "UsersEstimate": 72434
     },
     {
       "ID": "achiv_heart",
@@ -3479,7 +3484,7 @@
       "Name": "Purple Heart",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 158434
+      "UsersEstimate": 158450
     },
     {
       "ID": "achiv_honor",
@@ -3487,7 +3492,7 @@
       "Name": "Medal of Honor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 31687
+      "UsersEstimate": 31690
     },
     {
       "ID": "achiv_honorary",
@@ -3495,7 +3500,7 @@
       "Name": "Honorary Citizenship",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13580
+      "UsersEstimate": 13581
     },
     {
       "ID": "achiv_intern",
@@ -3511,7 +3516,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 176541
+      "UsersEstimate": 176558
     },
     {
       "ID": "achiv_meds",
@@ -3519,7 +3524,7 @@
       "Name": "Exemplary Medical Service Medal",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 104114
+      "UsersEstimate": 104124
     },
     {
       "ID": "achiv_meritorius",
@@ -3527,7 +3532,7 @@
       "Name": "Medal of Meritorious Service",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13580
+      "UsersEstimate": 13581
     },
     {
       "ID": "achiv_overtime",
@@ -3535,7 +3540,7 @@
       "Name": "Perfect Time Manager",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 9053
+      "UsersEstimate": 9054
     },
     {
       "ID": "achiv_sacrefice",
@@ -3543,7 +3548,7 @@
       "Name": "Sacrifice Medal",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 27160
+      "UsersEstimate": 27163
     },
     {
       "ID": "achiv_smile",
@@ -3551,7 +3556,7 @@
       "Name": "Order of Smile",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 31687
+      "UsersEstimate": 31690
     },
     {
       "ID": "achiv_tactical",
@@ -3559,7 +3564,7 @@
       "Name": "Tactical Squad Service Medal",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 63374
+      "UsersEstimate": 63380
     },
     {
       "ID": "achiv_valor",
@@ -3567,14 +3572,14 @@
       "Name": "Medal of Valor",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 49793
+      "UsersEstimate": 49798
     }
   ],
   "AchievementSets": [
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 452668,
+      "Progressed": 452713,
       "Completed": 47
     }
   ],
@@ -3582,8 +3587,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2023-10-03T13:04:15.9497935+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:04:01.4220174+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:03:51.3748986+00:00",
   "LastUpdate_AppInfo": "2023-10-05T17:57:05.9990266+00:00",
-  "LastUpdate_Ratings": "2023-10-11T11:03:04.9078705+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:04:01.4220514+00:00"
+  "LastUpdate_Ratings": "2023-10-11T12:01:50.4172026+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:03:51.3749248+00:00"
 }

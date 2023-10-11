@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,597 |
+| Lawbringer | 39.00% | ~24,598 |
 | Landlord | 33.00% | ~20,813 |
 | Bannerlord | 23.00% | ~14,506 |
 | Horde breaker | 23.00% | ~14,506 |
@@ -15,10 +15,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | The king is pleased | 19.00% | ~11,983 |
 | King Solomon | 17.00% | ~10,722 |
 | I can do it | 16.00% | ~10,091 |
-| Apple of my eye | 15.00% | ~9,460 |
+| Apple of my eye | 15.00% | ~9,461 |
 | God of the Arena | 13.00% | ~8,199 |
-| Against all odds | 12.00% | ~7,568 |
-| This Is Our Land | 12.00% | ~7,568 |
+| Against all odds | 12.00% | ~7,569 |
+| This Is Our Land | 12.00% | ~7,569 |
 | Duelist | 10.00% | ~6,307 |
 | Dynasty | 10.00% | ~6,307 |
 | Swordbearer | 10.00% | ~6,307 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,070 (Ranked 97)  
-Completed: 0 (0.00%) (Ranked 312)  
+Progressed: 63,071 (Ranked 97)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,10 +232,10 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 62,927 | 0 |
 | 2023-10-09 | 62,994 | 0 |
 | 2023-10-10 | 63,051 | 0 |
-| 2023-10-11 | 63,070 | 0 |
+| 2023-10-11 | 63,071 | 0 |
 ## Awards
 Max (Character Customization): 7,209  (Ranked 52)  
-Sum: 14,815 (Ranked 66)  
+Sum: 14,816 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): -14
 | This game is Extremely Fun | 847 |
 | This game has Amazing Storytelling | 838 |
 | This game has Amazing Characters | 832 |
-| This game is Relaxing | 828 |
+| This game is Relaxing | 829 |
 | This game has Quickly Understood Controls | 811 |
 | This game has a Creative Community | 604 |
 | This game has Obsessive Gameplay | 376 |
@@ -523,4 +523,4 @@ Diff (max vs sum): -14
 | 2023-10-08 | 4.74 | - | 7,202 | 14,795 |
 | 2023-10-09 | 4.74 | - | 7,209 | 14,806 |
 | 2023-10-10 | 4.74 | - | 7,209 | 14,812 |
-| 2023-10-11 | 4.74 | - | 7,209 | 14,815 |
+| 2023-10-11 | 4.74 | - | 7,209 | 14,816 |

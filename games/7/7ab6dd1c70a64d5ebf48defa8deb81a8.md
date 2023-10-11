@@ -23,13 +23,13 @@
 | The Mentor | 6.00% | ~2 |
 | A Queen's Tale | 6.00% | ~2 |
 | Airborne | 3.00% | ~1 |
+| Tributes of Caladrias | 3.00% | ~1 |
 | I Found It | 3.00% | ~1 |
 | Alchemist | 3.00% | ~1 |
 | Stone Collection | 3.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -3.00% | ~-1 |
-| Flawless Victory | -3.00% | ~-1 |
-| Big Bazar | -3.00% | ~-1 |
+| Shatterer | -2.90% | ~-1 |
+| Flawless Victory | -2.90% | ~-1 |
+| Big Bazar | -2.90% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 464)  
-Completed: 1 (3.03%) (Ranked 90)  
+Progressed: 34 (Ranked 462)  
+Completed: 1 (2.94%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,3 +63,4 @@ Completed: 1 (3.03%) (Ranked 90)
 | 2023-09-27 | 31 | 1 |
 | 2023-10-03 | 32 | 1 |
 | 2023-10-09 | 33 | 1 |
+| 2023-10-11 | 34 | 1 |

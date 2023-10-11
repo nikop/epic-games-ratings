@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Noctuan Champion | 27.00% | ~14 |
-| Apian Champion | 24.00% | ~12 |
-| Lacertian Champion | 22.00% | ~11 |
-| Endless Tricks | 20.00% | ~10 |
-| Meissa's Savior | 20.00% | ~10 |
-| Shard Spender | 20.00% | ~10 |
-| Eridanian Champion | 20.00% | ~10 |
-| Dicesmithing Time! | 18.00% | ~9 |
-| Loyal Partner | 18.00% | ~9 |
-| Mechanical Buddy | 18.00% | ~9 |
-| Purification Pioneer | 18.00% | ~9 |
-| Sanctuary Guardian | 18.00% | ~9 |
-| Stellar Dismantler | 18.00% | ~9 |
-| Wild's Keeper | 18.00% | ~9 |
-| Anomaly Destroyer | 16.00% | ~8 |
-| Mind Illuminator | 16.00% | ~8 |
-| Aquarian Champion | 16.00% | ~8 |
-| Behenian Champion | 16.00% | ~8 |
-| Heart Gate | 14.00% | ~7 |
+| Apian Champion | 23.00% | ~12 |
+| Meissa's Savior | 21.00% | ~11 |
+| Lacertian Champion | 21.00% | ~11 |
+| Endless Tricks | 19.00% | ~10 |
+| Mechanical Buddy | 19.00% | ~10 |
+| Purification Pioneer | 19.00% | ~10 |
+| Shard Spender | 19.00% | ~10 |
+| Eridanian Champion | 19.00% | ~10 |
+| Dicesmithing Time! | 17.00% | ~9 |
+| Loyal Partner | 17.00% | ~9 |
+| Sanctuary Guardian | 17.00% | ~9 |
+| Stellar Dismantler | 17.00% | ~9 |
+| Wild's Keeper | 17.00% | ~9 |
+| Anomaly Destroyer | 15.00% | ~8 |
+| Mind Illuminator | 15.00% | ~8 |
+| Aquarian Champion | 15.00% | ~8 |
+| Behenian Champion | 15.00% | ~8 |
+| Heart Gate | 13.00% | ~7 |
 | Astral Adventurer | 12.00% | ~6 |
 | Astral Seeker | 12.00% | ~6 |
 | The Corruption Goddess | 12.00% | ~6 |
@@ -103,8 +103,8 @@
 | Apian Mastery | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 434)  
-Completed: 0 (0.00%) (Ranked 312)  
+Progressed: 52 (Ranked 432)  
+Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,3 +123,4 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-07 | 46 | 0 |
 | 2023-10-08 | 49 | 0 |
 | 2023-10-10 | 51 | 0 |
+| 2023-10-11 | 52 | 0 |

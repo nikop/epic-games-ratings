@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,112 |
-| Until death do us apart | 4.00% | ~17,112 |
-| That is mine! | 3.00% | ~12,834 |
-| Victorious! | 3.00% | ~12,834 |
+| That's a Grand Army | 4.00% | ~17,113 |
+| Until death do us apart | 4.00% | ~17,113 |
+| That is mine! | 3.00% | ~12,835 |
+| Victorious! | 3.00% | ~12,835 |
 | Brothers in Arms | 2.00% | ~8,556 |
 | Cold War | 2.00% | ~8,556 |
 | For the Glory | 2.00% | ~8,556 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,278 |
 | Truly Divine Ruler | 1.00% | ~4,278 |
 | It's all about luck | 0.90% | ~3,850 |
-| Blockader | 0.80% | ~3,422 |
-| Double the Love | 0.80% | ~3,422 |
-| Royal Authority | 0.80% | ~3,422 |
-| Total Control | 0.80% | ~3,422 |
+| Blockader | 0.80% | ~3,423 |
+| Double the Love | 0.80% | ~3,423 |
+| Royal Authority | 0.80% | ~3,423 |
+| Total Control | 0.80% | ~3,423 |
 | My armies are invincible! | 0.70% | ~2,995 |
 | Agressive Expander | 0.50% | ~2,139 |
 | Azur semé de lis or | 0.50% | ~2,139 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,792 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 312)  
+Progressed: 427,821 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -535,7 +535,7 @@ Completed: 1 (0.00%) (Ranked 312)
 | 2023-10-08 | 426,194 | 1 |
 | 2023-10-09 | 426,888 | 1 |
 | 2023-10-10 | 427,588 | 1 |
-| 2023-10-11 | 427,792 | 1 |
+| 2023-10-11 | 427,821 | 1 |
 ## Awards
 Max (Educational): 6,464  (Ranked 55)  
 Sum: 53,209 (Ranked 24)  

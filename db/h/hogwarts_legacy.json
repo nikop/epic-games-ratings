@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
@@ -8826,9 +8826,9 @@
       "Count": 702
     }
   ],
-  "EOS_Progressed": 298162,
+  "EOS_Progressed": 298163,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27516,6 +27516,11 @@
       "Time": "2023-10-11T11:03:42.0386359+00:00",
       "NumProgressed": 298162,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T12:03:27.6558988+00:00",
+      "NumProgressed": 298163,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27647,7 +27652,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35779
+      "UsersEstimate": 35780
     },
     {
       "ID": "PFA_24",
@@ -27679,7 +27684,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "PFA_28",
@@ -27727,7 +27732,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "PFA_33",
@@ -27775,7 +27780,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "PFA_39",
@@ -27791,7 +27796,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "PFA_40",
@@ -27847,7 +27852,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "PFA_6",
@@ -27871,7 +27876,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35779
+      "UsersEstimate": 35780
     },
     {
       "ID": "PFA_9",
@@ -27886,7 +27891,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298162,
+      "Progressed": 298163,
       "Completed": 483
     }
   ],
@@ -27894,8 +27899,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-11T10:00:23.9353342+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:03:42.0386355+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:03:27.655898+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:59:18.8697265+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:03:42.0388162+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:59:41.8254839+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:03:27.6560242+00:00"
 }

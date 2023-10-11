@@ -23,7 +23,7 @@
 | Master of Riddles | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 516)  
-Completed: 2 (16.67%) (Ranked 19)  
+Completed: 2 (16.67%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -524,9 +524,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 67573,
+  "EOS_Progressed": 67575,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17624,6 +17624,11 @@
       "Time": "2023-10-11T11:08:33.3943503+00:00",
       "NumProgressed": 67573,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-10-11T12:08:30.5716555+00:00",
+      "NumProgressed": 67575,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 67,
@@ -17635,7 +17640,7 @@
       "Name": "Follow the Light",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 29056
+      "UsersEstimate": 29057
     },
     {
       "ID": "02",
@@ -17707,7 +17712,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "11",
@@ -17811,7 +17816,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "24",
@@ -17819,7 +17824,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "25",
@@ -17827,7 +17832,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6757
+      "UsersEstimate": 6758
     },
     {
       "ID": "26",
@@ -17835,7 +17840,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8784
+      "UsersEstimate": 8785
     },
     {
       "ID": "27",
@@ -17859,7 +17864,7 @@
       "Name": "Sound and Fury",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11487
+      "UsersEstimate": 11488
     },
     {
       "ID": "30",
@@ -17875,7 +17880,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12163
+      "UsersEstimate": 12164
     },
     {
       "ID": "32",
@@ -17883,7 +17888,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22975
+      "UsersEstimate": 22976
     },
     {
       "ID": "33",
@@ -17931,7 +17936,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "39",
@@ -17947,7 +17952,7 @@
       "Name": "Right of Way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6757
+      "UsersEstimate": 6758
     },
     {
       "ID": "41",
@@ -17955,7 +17960,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12163
+      "UsersEstimate": 12164
     },
     {
       "ID": "42",
@@ -17995,7 +18000,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 11487
+      "UsersEstimate": 11488
     },
     {
       "ID": "47",
@@ -18019,7 +18024,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "50",
@@ -18099,7 +18104,7 @@
       "Name": "Ding!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "60",
@@ -18170,21 +18175,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 67573,
+      "Progressed": 67575,
       "Completed": 67
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 31041,
+      "Progressed": 31043,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-09-26T11:01:48.1926095+00:00",
-  "LastChanged_Achievements": "2023-10-11T11:08:33.3943497+00:00",
+  "LastChanged_Achievements": "2023-10-11T12:08:30.5716551+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:13.3553682+00:00",
-  "LastUpdate_Ratings": "2023-10-11T10:59:24.636476+00:00",
-  "LastUpdate_Achievements": "2023-10-11T11:08:33.3946548+00:00"
+  "LastUpdate_Ratings": "2023-10-11T11:59:51.0950733+00:00",
+  "LastUpdate_Achievements": "2023-10-11T12:08:30.5717908+00:00"
 }
