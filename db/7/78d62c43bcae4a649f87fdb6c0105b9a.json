@@ -4,7 +4,7 @@
   "ProductSlug": "enchanted-portals-65ca68",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "temple",
       "SetID": "40o2ndb",
       "Name": "It Belongs In A Museum!",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ufo",
@@ -304,8 +304,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:46.1989262+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:33.9195345+00:00",
   "LastUpdate_AppInfo": "2023-10-08T19:57:13.8488612+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:00:19.7721235+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:46.1989486+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:59:24.7696538+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:33.9195533+00:00"
 }

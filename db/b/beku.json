@@ -2,7 +2,7 @@
   "ID": "b7898e56fd624636ad56220ed8a7ee67",
   "Name": "Beku",
   "ProductSlug": "beku-6423fb",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0212722+00:00",
   "LastChanged": "2023-03-31T05:58:23.0212723+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:30.0947482+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:58:47.8919435+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:07:32.9056458+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:58:16.4123879+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:05:48.8958338+00:00"
 }

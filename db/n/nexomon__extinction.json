@@ -2,10 +2,10 @@
   "ID": "d06b7cb31f224a42b8433f7348cee5d3",
   "Name": "Nexomon: Extinction",
   "ProductSlug": "nexomon-extinction",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -108,6 +108,6 @@
   "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
   "LastChanged": "2023-09-28T11:58:42.9691855+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:35.4021507+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:03:05.5732676+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:04:46.2502083+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:01:20.8598707+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:03:41.9138455+00:00"
 }

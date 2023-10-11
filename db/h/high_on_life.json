@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -5505,9 +5505,9 @@
       "ID": "ACH_GET_CREATURE",
       "SetID": "cdkbb11",
       "Name": "Creature Feature",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_GET_GUS",
@@ -5832,8 +5832,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:14.6204861+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:11.6667725+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:51.1168375+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:00:16.2219649+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:14.620558+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:59:22.7168635+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:11.6668678+00:00"
 }

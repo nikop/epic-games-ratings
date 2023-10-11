@@ -3,9 +3,9 @@
   "Name": "Rogue Legacy",
   "ProductSlug": "rogue-legacy",
   "Ranking_Rating": 373,
-  "Ranking_Popularity": 140,
+  "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 218,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -1293,18 +1293,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 1602,
       "NumberOfAwardsMax": 1085
+    },
+    {
+      "Time": "2023-10-11T20:00:24.8821472+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1603,
+      "NumberOfAwardsMax": 1086
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1602,
-  "NumberOfAwardsMax": 1085,
+  "NumberOfAwards": 1603,
+  "NumberOfAwardsMax": 1086,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1085
+      "Count": 1086
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1378,8 +1384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
-  "LastChanged": "2023-10-08T09:58:55.7527428+00:00",
+  "LastChanged": "2023-10-11T20:00:24.8821471+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:43.6911798+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:01:39.9403157+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:09:02.5221338+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:00:24.8821476+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:07:11.2243297+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 376,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -802,6 +802,6 @@
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
   "LastChanged": "2023-10-09T13:58:43.6225726+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:21.4484833+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:00:53.7035458+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:06:35.8242963+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:59:49.0069293+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:05:08.498426+00:00"
 }

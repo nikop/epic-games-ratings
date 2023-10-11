@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -8764,10 +8764,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 45595,
       "NumberOfAwardsMax": 23447
+    },
+    {
+      "Time": "2023-10-11T19:59:45.2127972+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45597,
+      "NumberOfAwardsMax": 23447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45595,
+  "NumberOfAwards": 45597,
   "NumberOfAwardsMax": 23447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8787,7 +8793,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 933
+      "Count": 935
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8844,9 +8850,9 @@
       "Count": 705
     }
   ],
-  "EOS_Progressed": 298172,
+  "EOS_Progressed": 298174,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27564,6 +27570,11 @@
       "Time": "2023-10-11T19:04:32.0335575+00:00",
       "NumProgressed": 298172,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-10-11T20:03:31.9274075+00:00",
+      "NumProgressed": 298174,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 45,
@@ -27799,7 +27810,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26835
+      "UsersEstimate": 26836
     },
     {
       "ID": "PFA_36",
@@ -27879,7 +27890,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26835
+      "UsersEstimate": 26836
     },
     {
       "ID": "PFA_45",
@@ -27903,7 +27914,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38762
+      "UsersEstimate": 38763
     },
     {
       "ID": "PFA_7",
@@ -27911,7 +27922,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38762
+      "UsersEstimate": 38763
     },
     {
       "ID": "PFA_8",
@@ -27927,23 +27938,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26835
+      "UsersEstimate": 26836
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298172,
+      "Progressed": 298174,
       "Completed": 483
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-11T19:00:46.6715202+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:04:32.0335569+00:00",
+  "LastChanged": "2023-10-11T19:59:45.2127971+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:03:31.927407+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:01.0338203+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:00:46.6715209+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:04:32.0337131+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:59:45.212798+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:03:31.9275531+00:00"
 }

@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2026,9 +2026,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_41",
@@ -2122,9 +2122,9 @@
       "ID": "achievement_51",
       "SetID": "d252ncf",
       "Name": "A House Divided",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_52",
@@ -2434,9 +2434,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_88",
@@ -2558,8 +2558,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:09:42.4576055+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:08:09.7781377+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:59:34.0422873+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:09:42.457809+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:58:50.1188459+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:08:09.7783731+00:00"
 }

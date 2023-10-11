@@ -71,12 +71,12 @@
 | Bringer of War | 28.00% | ~183 |
 | Mobilizer | 28.00% | ~183 |
 | First Aid Specialist | 27.00% | ~176 |
+| Suicide Mission | 27.00% | ~176 |
 | Mission Accomplished | 26.00% | ~170 |
-| Suicide Mission | 26.00% | ~170 |
 | Against All Odds | 26.00% | ~170 |
+| A House Divided | 26.00% | ~170 |
 | Untouchable | 25.00% | ~163 |
 | Eye of the Hurricane | 25.00% | ~163 |
-| A House Divided | 25.00% | ~163 |
 | Weapon Specialist | 25.00% | ~163 |
 | Giant Killer | 24.00% | ~157 |
 | World Shaker | 24.00% | ~157 |
@@ -91,11 +91,11 @@
 | Lost and Found | 20.00% | ~131 |
 | No One Left Behind | 19.00% | ~124 |
 | Hard Target | 19.00% | ~124 |
+| Saboteur | 19.00% | ~124 |
 | Fact Finder | 19.00% | ~124 |
 | Pyromaniac | 18.00% | ~118 |
 | Under Pressure | 18.00% | ~118 |
 | Electronics Specialist | 18.00% | ~118 |
-| Saboteur | 18.00% | ~118 |
 | Last Resort | 17.00% | ~111 |
 | Sabotage Specialist | 17.00% | ~111 |
 | Last Witness | 17.00% | ~111 |

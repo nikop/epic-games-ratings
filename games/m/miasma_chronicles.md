@@ -13,9 +13,9 @@ Rating: 4.43 (Ranked 672)
 | Lumberjack | 54.00% | ~796 |
 | Croaked | 49.00% | ~722 |
 | Limp Richard | 49.00% | ~722 |
+| Editor Adept | 48.00% | ~708 |
 | Exorcist | 48.00% | ~708 |
 | From Darkness to Light | 48.00% | ~708 |
-| Editor Adept | 47.00% | ~693 |
 | Giant Killer | 46.00% | ~678 |
 | Sensei | 44.00% | ~649 |
 | Firestarter | 42.00% | ~619 |

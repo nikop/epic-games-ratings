@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -261,7 +261,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203253,
+  "EOS_Progressed": 203255,
   "EOS_Completed": 515,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 3,
@@ -19061,6 +19061,11 @@
       "Time": "2023-10-11T19:10:13.5531827+00:00",
       "NumProgressed": 203253,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-10-11T20:08:31.3793742+00:00",
+      "NumProgressed": 203255,
+      "NumCompleted": 515
     }
   ],
   "TotalAchievements": 29,
@@ -19096,7 +19101,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191058
+      "UsersEstimate": 191060
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -19256,7 +19261,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20325
+      "UsersEstimate": 20326
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -19303,7 +19308,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203253,
+      "Progressed": 203255,
       "Completed": 515
     }
   ],
@@ -19311,8 +19316,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-05T02:17:05.6678867+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:10:13.553182+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:08:31.3793735+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:23.9270429+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:57:24.3802877+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:10:13.5533185+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:57:14.4699069+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:08:31.3795399+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1578,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5826,6 +5826,11 @@
       "Time": "2023-10-11T19:05:08.9844583+00:00",
       "NumProgressed": 1578,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T20:04:07.8155016+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -5845,7 +5850,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_defeat_players_10",
@@ -5941,7 +5946,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6093,7 +6098,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6115,9 +6120,9 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -6140,7 +6145,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1578,
+      "Progressed": 1579,
       "Completed": 1
     }
   ],
@@ -6148,8 +6153,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:08.9844574+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:07.8155008+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:57:03.7604863+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:58:57.4158628+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:08.9845137+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:58:23.5445486+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:07.8155906+00:00"
 }

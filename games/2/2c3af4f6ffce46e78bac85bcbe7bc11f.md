@@ -31,8 +31,8 @@
 | Something more... (fragile) | 8.00% | ~5 |
 | Something more... | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 416)  
-Completed: 4 (6.15%) (Ranked 54)  
+Progressed: 66 (Ranked 415)  
+Completed: 4 (6.06%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 4 (6.15%) (Ranked 54)
 | 2023-10-06 | 58 | 4 |
 | 2023-10-08 | 63 | 4 |
 | 2023-10-09 | 64 | 4 |
-| 2023-10-11 | 65 | 4 |
+| 2023-10-11 | 66 | 4 |

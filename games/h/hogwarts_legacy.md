@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 120)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,726 |
-| First Class Student | 13.00% | ~38,762 |
-| Troll with the Punches | 13.00% | ~38,762 |
+| First Class Student | 13.00% | ~38,763 |
+| Troll with the Punches | 13.00% | ~38,763 |
 | A Keen Sense of Spell | 12.00% | ~35,781 |
 | That's a Keeper | 12.00% | ~35,781 |
 | The Hallowed Hero | 11.00% | ~32,799 |
@@ -19,9 +19,9 @@ Rating: 4.76 (Ranked 120)
 | The One Who Mastered Memories | 10.00% | ~29,817 |
 | The Hero of Hogwarts | 10.00% | ~29,817 |
 | Challenge Accepted | 10.00% | ~29,817 |
-| Followed the Butterflies | 9.00% | ~26,835 |
-| The Spell Master | 9.00% | ~26,835 |
-| Rising From the Ashes | 9.00% | ~26,835 |
+| Followed the Butterflies | 9.00% | ~26,836 |
+| The Spell Master | 9.00% | ~26,836 |
+| Rising From the Ashes | 9.00% | ~26,836 |
 | The Avenging Gazelle | 8.00% | ~23,854 |
 | A Sallow Grave | 8.00% | ~23,854 |
 | Flight the Good Flight | 8.00% | ~23,854 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,087 |
 | Collector's Edition | 0.30% | ~895 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,172 (Ranked 46)  
+Progressed: 298,174 (Ranked 46)  
 Completed: 483 (0.16%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,10 +225,10 @@ Completed: 483 (0.16%) (Ranked 230)
 | 2023-10-08 | 298,055 | 482 |
 | 2023-10-09 | 298,106 | 482 |
 | 2023-10-10 | 298,150 | 483 |
-| 2023-10-11 | 298,172 | 483 |
+| 2023-10-11 | 298,174 | 483 |
 ## Awards
 Max (Character Customization): 23,447  (Ranked 17)  
-Sum: 45,595 (Ranked 31)  
+Sum: 45,597 (Ranked 31)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 1,081 |
 | This game is Highly Recommended | 1,065 |
 | This game has Quickly Understood Controls | 1,006 |
-| This game has Beautiful Visuals | 933 |
+| This game has Beautiful Visuals | 935 |
 | This game has a Creative Community | 705 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -448,4 +448,4 @@ Diff (max vs sum): -14
 | 2023-10-08 | 4.76 | 23,384 | 45,386 |
 | 2023-10-09 | 4.76 | 23,405 | 45,477 |
 | 2023-10-10 | 4.76 | 23,430 | 45,548 |
-| 2023-10-11 | 4.76 | 23,447 | 45,595 |
+| 2023-10-11 | 4.76 | 23,447 | 45,597 |

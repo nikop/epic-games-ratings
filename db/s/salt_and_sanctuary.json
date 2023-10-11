@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2685,9 +2685,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535189,
+  "EOS_Progressed": 535191,
   "EOS_Completed": 1569,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -21725,6 +21725,11 @@
       "Time": "2023-10-11T19:05:06.0200724+00:00",
       "NumProgressed": 535189,
       "NumCompleted": 1569
+    },
+    {
+      "Time": "2023-10-11T20:04:05.6424555+00:00",
+      "NumProgressed": 535191,
+      "NumCompleted": 1569
     }
   ],
   "TotalAchievements": 37,
@@ -21792,7 +21797,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 444207
+      "UsersEstimate": 444209
     },
     {
       "ID": "HONED",
@@ -21840,7 +21845,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26759
+      "UsersEstimate": 26760
     },
     {
       "ID": "THE_BANQUET",
@@ -21896,7 +21901,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80278
+      "UsersEstimate": 80279
     },
     {
       "ID": "THE_IMPOSTER",
@@ -21920,7 +21925,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74926
+      "UsersEstimate": 74927
     },
     {
       "ID": "THE_LAKE",
@@ -21952,7 +21957,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26759
+      "UsersEstimate": 26760
     },
     {
       "ID": "THE_RED_HALL",
@@ -21992,7 +21997,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 342521
+      "UsersEstimate": 342522
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -22031,15 +22036,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535189,
+      "Progressed": 535191,
       "Completed": 1569
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-11T19:02:45.7444298+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:06.0200717+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:05.6424549+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:24.9112747+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:02:45.7444304+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:06.0201963+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:01:07.7308569+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:05.642627+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a83aedcdb7304b51802d41c5ca308ef2",
   "Name": "Farmer\u0027s Dynasty",
   "ProductSlug": "farmers-dynasty",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -324,6 +324,6 @@
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
   "LastChanged": "2023-08-19T03:59:32.7578986+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:26.6593751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:58:50.8682901+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:07:28.6631745+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:58:19.4853064+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:05:45.8772298+00:00"
 }

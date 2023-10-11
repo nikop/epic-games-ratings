@@ -2,7 +2,7 @@
   "ID": "88f877d800874f1d8a503ef29d919e38",
   "Name": "Paradise Killer",
   "ProductSlug": "paradise-killer-c3ea1c",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.3080567+00:00",
   "LastChanged": "2023-03-31T05:57:23.3080568+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.7923555+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:03:45.1353548+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:32.9970382+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:02:20.476982+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:24.6350647+00:00"
 }

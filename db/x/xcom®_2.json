@@ -2,10 +2,10 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
-  "Ranking_Rating": 491,
+  "Ranking_Rating": 492,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 85,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -7777,6 +7777,6 @@
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
   "LastChanged": "2023-10-11T13:07:00.8400319+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:57.7484278+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:02:05.8869094+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:08:41.9990365+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:00:40.3291845+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:06:46.7471326+00:00"
 }

@@ -6,40 +6,40 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 71.00% | ~632,601 |
-| Right Back At Ya | 44.00% | ~392,035 |
-| The Lovers | 39.00% | ~347,485 |
-| Stanislavski's Method | 33.00% | ~294,026 |
-| The Wheel of Fortune | 32.00% | ~285,116 |
-| The Hermit | 30.00% | ~267,296 |
-| The High Priestess | 29.00% | ~258,387 |
-| True Soldier | 28.00% | ~249,477 |
-| Christmas Tree Attack | 25.00% | ~222,747 |
-| Full Body Conversion | 24.00% | ~213,837 |
-| Life of the Road | 23.00% | ~204,927 |
-| Ten out of Ten | 21.00% | ~187,107 |
-| The World | 21.00% | ~187,107 |
-| Master Crafter | 20.00% | ~178,198 |
-| True Warrior | 19.00% | ~169,288 |
-| Bushido and Chill | 18.00% | ~160,378 |
-| Gun Fu | 18.00% | ~160,378 |
-| I Am The Law | 16.00% | ~142,558 |
-| To Protect and Serve | 15.00% | ~133,648 |
-| The Quick and the Dead | 13.00% | ~115,828 |
-| Breathtaking | 13.00% | ~115,828 |
-| Rough Landing | 12.00% | ~106,919 |
-| To Bad Decisions! | 11.00% | ~98,009 |
-| The Wandering Fool | 11.00% | ~98,009 |
-| The Jungle | 11.00% | ~98,009 |
-| Gunslinger | 10.00% | ~89,099 |
-| Mean Streets | 9.00% | ~80,189 |
-| Temperance | 9.00% | ~80,189 |
-| The Star | 8.00% | ~71,279 |
-| The Sun | 8.00% | ~71,279 |
-| City Lights | 6.00% | ~53,459 |
-| Must Be Rats | 5.00% | ~44,549 |
-| The Devil | 5.00% | ~44,549 |
-| Greetings from Pacifica! | 5.00% | ~44,549 |
+| The Fool | 71.00% | ~632,610 |
+| Right Back At Ya | 44.00% | ~392,040 |
+| The Lovers | 39.00% | ~347,490 |
+| Stanislavski's Method | 33.00% | ~294,030 |
+| The Wheel of Fortune | 32.00% | ~285,120 |
+| The Hermit | 30.00% | ~267,300 |
+| The High Priestess | 29.00% | ~258,390 |
+| True Soldier | 28.00% | ~249,480 |
+| Christmas Tree Attack | 25.00% | ~222,750 |
+| Full Body Conversion | 24.00% | ~213,840 |
+| Life of the Road | 23.00% | ~204,930 |
+| Ten out of Ten | 21.00% | ~187,110 |
+| The World | 21.00% | ~187,110 |
+| Master Crafter | 20.00% | ~178,200 |
+| True Warrior | 19.00% | ~169,290 |
+| Bushido and Chill | 18.00% | ~160,380 |
+| Gun Fu | 18.00% | ~160,380 |
+| I Am The Law | 16.00% | ~142,560 |
+| To Protect and Serve | 15.00% | ~133,650 |
+| The Quick and the Dead | 13.00% | ~115,830 |
+| Breathtaking | 13.00% | ~115,830 |
+| Rough Landing | 12.00% | ~106,920 |
+| To Bad Decisions! | 11.00% | ~98,010 |
+| The Wandering Fool | 11.00% | ~98,010 |
+| The Jungle | 11.00% | ~98,010 |
+| Gunslinger | 10.00% | ~89,100 |
+| Mean Streets | 9.00% | ~80,190 |
+| Temperance | 9.00% | ~80,190 |
+| The Star | 8.00% | ~71,280 |
+| The Sun | 8.00% | ~71,280 |
+| City Lights | 6.00% | ~53,460 |
+| Must Be Rats | 5.00% | ~44,550 |
+| The Devil | 5.00% | ~44,550 |
+| Greetings from Pacifica! | 5.00% | ~44,550 |
 | Little Tokyo | 4.00% | ~35,640 |
 | Two Heads, One Bullet | 4.00% | ~35,640 |
 | Autojock | 3.00% | ~26,730 |
@@ -64,7 +64,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890,988 (Ranked 15)  
+Progressed: 891,000 (Ranked 15)  
 Completed: 2,640 (0.30%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 2,640 (0.30%) (Ranked 205)
 | 2023-10-08 | 890,268 | 2,624 |
 | 2023-10-09 | 890,533 | 2,633 |
 | 2023-10-10 | 890,786 | 2,639 |
-| 2023-10-11 | 890,988 | 2,640 |
+| 2023-10-11 | 891,000 | 2,640 |
 ## Awards
 Max (Character Customization): 96,295  (Ranked 9)  
-Sum: 291,188 (Ranked 11)  
+Sum: 291,419 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -249,9 +249,9 @@ Diff (max vs sum): -2
 | This game has Great Boss Battles | 66,834 |
 | This game is Great for Beginners | 15,655 |
 | This game has Diverse Characters | 15,577 |
+| This game has Amazing Storytelling | 14,992 |
 | This game is Highly Recommended | 14,857 |
 | This game is Extremely Fun | 14,832 |
-| This game has Amazing Storytelling | 14,761 |
 | This game has Amazing Characters | 14,513 |
 | This game is Relaxing | 14,168 |
 | This game has Quickly Understood Controls | 14,048 |
@@ -524,4 +524,4 @@ Diff (max vs sum): -2
 | 2023-10-08 | 4.64 | - | 94,679 | 282,115 |
 | 2023-10-09 | 4.64 | - | 95,294 | 285,902 |
 | 2023-10-10 | 4.64 | - | 95,835 | 288,877 |
-| 2023-10-11 | 4.64 | - | 96,295 | 291,188 |
+| 2023-10-11 | 4.64 | - | 96,295 | 291,419 |

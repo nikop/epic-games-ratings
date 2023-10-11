@@ -747,9 +747,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 224498,
+  "EOS_Progressed": 224500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19732,6 +19732,11 @@
       "Time": "2023-10-11T19:05:18.1720066+00:00",
       "NumProgressed": 224498,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T20:04:14.2150887+00:00",
+      "NumProgressed": 224500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -19751,7 +19756,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58369
+      "UsersEstimate": 58370
     },
     {
       "ID": "ACH_BASE_11",
@@ -19759,7 +19764,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_BASE_12",
@@ -19789,9 +19794,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "880fehc",
       "Name": "Galvanic Rifle",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 20205
+      "UsersEstimate": 22450
     },
     {
       "ID": "ACH_BASE_17",
@@ -20014,7 +20019,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 224498,
+      "Progressed": 224500,
       "Completed": 5
     }
   ],
@@ -20022,8 +20027,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-11T15:59:54.4942762+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:18.1720061+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:14.2150879+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:40.0692082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:01:34.1147276+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:18.1721486+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:00:21.1768425+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:14.215265+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f4962a68cb2a46e295f690e592655ec0",
   "Name": null,
   "ProductSlug": "ariokan-536e54",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:42.9835664+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:05:31.8734166+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:04:23.9411327+00:00",
   "LastUpdate_AppInfo": "2023-10-07T08:57:03.7281847+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:57:42.7272357+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:05:31.8734196+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:57:30.2062724+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:23.9411365+00:00"
 }

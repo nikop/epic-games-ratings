@@ -3502,9 +3502,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 708
     },
     {
       "ID": "ENDGAME",
@@ -3775,8 +3775,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:09:30.2474799+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:07:31.1320879+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.6393775+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:02:14.8944962+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:09:30.2475515+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:00:47.1097892+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:07:31.1321533+00:00"
 }

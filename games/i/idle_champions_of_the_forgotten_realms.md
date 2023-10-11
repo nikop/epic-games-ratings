@@ -530,12 +530,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~198 |
 | The Arena of Blood | 0.10% | ~198 |
 | Entrance of the Gladiators | 0.10% | ~198 |
-| Foul Play | 0.00% | ~0 |
-| Fowl Play | 0.00% | ~0 |
-| Spelljammers in Training | 0.00% | ~0 |
-| Time Out | 0.00% | ~0 |
+| Foul Play | 0.10% | ~198 |
+| Fowl Play | 0.10% | ~198 |
+| Spelljammers in Training | 0.10% | ~198 |
+| Time Out | 0.10% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,545 (Ranked 58)  
+Progressed: 231,550 (Ranked 58)  
 Completed: 2,352 (1.02%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -709,7 +709,7 @@ Completed: 2,352 (1.02%) (Ranked 142)
 | 2023-10-08 | 231,326 | 2,342 |
 | 2023-10-09 | 231,404 | 2,348 |
 | 2023-10-10 | 231,484 | 2,351 |
-| 2023-10-11 | 231,545 | 2,352 |
+| 2023-10-11 | 231,550 | 2,352 |
 ## Awards
 Max (Great for Beginners): 5,385  (Ranked 69)  
 Sum: 31,990 (Ranked 41)  

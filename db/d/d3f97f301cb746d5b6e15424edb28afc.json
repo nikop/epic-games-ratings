@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -431,9 +431,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -471,9 +471,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_FISH",
@@ -487,9 +487,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -751,9 +751,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -791,9 +791,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -887,9 +887,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -1087,9 +1087,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-11T19:08:54.315163+00:00",
+  "LastChanged_Achievements": "2023-10-11T20:07:05.3629823+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-11T18:59:46.5174556+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:08:54.3152721+00:00"
+  "LastUpdate_Ratings": "2023-10-11T19:58:58.822844+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:07:05.3631595+00:00"
 }

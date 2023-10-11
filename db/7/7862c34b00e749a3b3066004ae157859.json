@@ -2,7 +2,7 @@
   "ID": "7862c34b00e749a3b3066004ae157859",
   "Name": "DAY_000",
   "ProductSlug": "day_000-fe3b5e",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-05T07:57:52.2882501+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:03:26.6911364+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:06:31.9142426+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:02:07.8652248+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:05:05.5258722+00:00"
 }

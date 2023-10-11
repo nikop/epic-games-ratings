@@ -10,7 +10,7 @@
 | Summer Day | 66.00% | ~21 |
 | Mr. Porter | 56.00% | ~18 |
 | Risky Rescue | 53.00% | ~17 |
-| Carlos Is Tangled | 47.00% | ~15 |
+| Carlos Is Tangled | 50.00% | ~16 |
 | Mandy Family | 44.00% | ~14 |
 | Break Time | 34.00% | ~11 |
 | Paw patrol member | 34.00% | ~11 |

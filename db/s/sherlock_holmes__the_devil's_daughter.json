@@ -2,10 +2,10 @@
   "ID": "cinnamon",
   "Name": "Sherlock Holmes: The Devil\u0027s Daughter",
   "ProductSlug": "sherlock-holmes-the-devils-daughter",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
@@ -286,6 +286,6 @@
   "FirstSeen": "2022-07-22T20:27:15.2288345+00:00",
   "LastChanged": "2023-09-10T15:01:08.5952816+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:30.3731162+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:01:17.9680748+00:00",
-  "LastUpdate_Achievements": "2023-10-11T19:06:05.9185484+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:00:05.2029748+00:00",
+  "LastUpdate_Achievements": "2023-10-11T20:04:47.5677831+00:00"
 }
