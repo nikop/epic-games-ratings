@@ -454,7 +454,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1544513,
+  "EOS_Progressed": 1544516,
   "EOS_Completed": 705,
   "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 7,
@@ -20064,6 +20064,11 @@
       "Time": "2023-10-11T03:06:03.5245466+00:00",
       "NumProgressed": 1544513,
       "NumCompleted": 705
+    },
+    {
+      "Time": "2023-10-11T04:06:47.6988507+00:00",
+      "NumProgressed": 1544516,
+      "NumCompleted": 705
     }
   ],
   "TotalAchievements": 20,
@@ -20171,7 +20176,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154451
+      "UsersEstimate": 154452
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -20234,15 +20239,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1544513,
+      "Progressed": 1544516,
       "Completed": 705
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:06:03.5245462+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:06:47.6988496+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:49.6102489+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:00:47.2603432+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:06:03.5247138+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:01:36.1396558+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:06:47.6989843+00:00"
 }

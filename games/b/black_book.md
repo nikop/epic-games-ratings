@@ -1,24 +1,24 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.69 (Ranked 221)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 26.00% | ~10,632 |
-| Student | 20.00% | ~8,179 |
-| Knower | 15.00% | ~6,134 |
-| Listener | 14.00% | ~5,725 |
-| Aspen Tree | 13.00% | ~5,316 |
-| Healer | 13.00% | ~5,316 |
-| Scientist | 11.00% | ~4,498 |
-| Soldier | 11.00% | ~4,498 |
-| Cow Level | 10.00% | ~4,089 |
-| Old Friend | 9.00% | ~3,680 |
-| Herbalist | 9.00% | ~3,680 |
-| New Spirits | 9.00% | ~3,680 |
-| Water | 9.00% | ~3,680 |
+| Initiation | 26.00% | ~10,635 |
+| Student | 20.00% | ~8,181 |
+| Knower | 15.00% | ~6,135 |
+| Listener | 14.00% | ~5,726 |
+| Aspen Tree | 13.00% | ~5,317 |
+| Healer | 13.00% | ~5,317 |
+| Scientist | 11.00% | ~4,499 |
+| Soldier | 11.00% | ~4,499 |
+| Cow Level | 10.00% | ~4,090 |
+| Old Friend | 9.00% | ~3,681 |
+| Herbalist | 9.00% | ~3,681 |
+| New Spirits | 9.00% | ~3,681 |
+| Water | 9.00% | ~3,681 |
 | Card Player | 8.00% | ~3,272 |
 | Pine Tree | 8.00% | ~3,272 |
 | Voipel | 8.00% | ~3,272 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~409 |
 | Word Master | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,894 (Ranked 109)  
+Progressed: 40,903 (Ranked 109)  
 Completed: 29 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 29 (0.07%) (Ranked 259)
 | 2023-10-08 | 40,063 | 28 |
 | 2023-10-09 | 40,467 | 28 |
 | 2023-10-10 | 40,846 | 29 |
-| 2023-10-11 | 40,894 | 29 |
+| 2023-10-11 | 40,903 | 29 |
 ## Awards
 Max (Character Customization): 72  (Ranked 385)  
 Sum: 72 (Ranked 449)  

@@ -26,6 +26,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.70% | ~45 |
 | Amy: Scavenger Hunt | 0.60% | ~38 |
 | It Smells Like Roses | 0.60% | ~20 |
+| Now It's a Party! | 0.60% | ~38 |
 | Stephanie | 0.60% | ~38 |
 | The Magic Number | 0.60% | ~38 |
 | Vickie | 0.60% | ~38 |
@@ -34,7 +35,6 @@ Number of Ratings: 177  (23.09.2022)
 | I'll Be Back | 0.50% | ~32 |
 | Casanova | 0.50% | ~32 |
 | Love Conquers All | 0.50% | ~32 |
-| Now It's a Party! | 0.50% | ~32 |
 | Ashley | 0.40% | ~25 |
 | Deck the Balls | 0.40% | ~14 |
 | The Bride | 0.30% | ~19 |

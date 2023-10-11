@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-08T16:00:00+00:00",
     "PcReleaseDate": "2013-08-20T00:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 468
     }
   ],
-  "EOS_Progressed": 282395,
+  "EOS_Progressed": 282402,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4120,
+  "EOS_NewPlayers": 4109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20224,6 +20224,11 @@
       "Time": "2023-10-11T03:04:23.6280641+00:00",
       "NumProgressed": 282395,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-11T04:04:38.1361773+00:00",
+      "NumProgressed": 282402,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 72,
@@ -20291,7 +20296,7 @@
       "Name": "All Too Easy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 42359
+      "UsersEstimate": 42360
     },
     {
       "ID": "And I Ran...",
@@ -20387,7 +20392,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 160965
+      "UsersEstimate": 160969
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -20395,7 +20400,7 @@
       "Name": "Didn\u0027t Need to See Him Naked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 39535
+      "UsersEstimate": 39536
     },
     {
       "ID": "Don\u0027t Look Down",
@@ -20403,7 +20408,7 @@
       "Name": "Don\u0027t Look Down",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 81895
+      "UsersEstimate": 81897
     },
     {
       "ID": "Don\u0027t Panic",
@@ -20411,7 +20416,7 @@
       "Name": "Don\u0027t Panic",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 79071
+      "UsersEstimate": 79073
     },
     {
       "ID": "Double Team",
@@ -20451,7 +20456,7 @@
       "Name": "First of Many",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 118606
+      "UsersEstimate": 118609
     },
     {
       "ID": "Fist Meet Ground",
@@ -20491,7 +20496,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 50831
+      "UsersEstimate": 50832
     },
     {
       "ID": "Half Way Home",
@@ -20627,7 +20632,7 @@
       "Name": "Ooo A Piece of Candy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 64951
+      "UsersEstimate": 64952
     },
     {
       "ID": "Our Gift to You",
@@ -20747,7 +20752,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 152493
+      "UsersEstimate": 152497
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -20779,7 +20784,7 @@
       "Name": "Woah.",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 104486
+      "UsersEstimate": 104489
     },
     {
       "ID": "You Chose... Poorly",
@@ -20795,7 +20800,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 177909
+      "UsersEstimate": 177913
     },
     {
       "ID": "Zoo Keeper",
@@ -20810,7 +20815,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 282395,
+      "Progressed": 282402,
       "Completed": 15
     }
   ],
@@ -20818,8 +20823,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2023-10-09T05:58:45.790251+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:04:23.6280636+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:04:38.1361768+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:39.8854136+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:59:36.2099449+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:04:23.6282645+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:00:05.6890042+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:04:38.1363751+00:00"
 }

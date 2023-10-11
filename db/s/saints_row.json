@@ -3786,9 +3786,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74563,
+  "EOS_Progressed": 74564,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23301,6 +23301,11 @@
       "Time": "2023-10-11T03:05:38.9858694+00:00",
       "NumProgressed": 74563,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-11T04:06:18.2663799+00:00",
+      "NumProgressed": 74564,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23328,7 +23333,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13421
+      "UsersEstimate": 13422
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -23440,7 +23445,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27588
+      "UsersEstimate": 27589
     },
     {
       "ID": "cutting_edge_materials",
@@ -23528,7 +23533,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17149
+      "UsersEstimate": 17150
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -23608,7 +23613,7 @@
       "Name": "Making a Name",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 25351
+      "UsersEstimate": 25352
     },
     {
       "ID": "one_third_purple",
@@ -23696,7 +23701,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31316
+      "UsersEstimate": 31317
     },
     {
       "ID": "whole_map_purple",
@@ -23735,13 +23740,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74563,
+      "Progressed": 74564,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46200,
+      "Progressed": 46201,
       "Completed": 4073
     }
   ],
@@ -23749,8 +23754,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-10T22:00:55.8126775+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:05:38.9858689+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:06:18.2663794+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:00:32.6720469+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:05:38.986037+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:01:18.0409223+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:06:18.2665468+00:00"
 }

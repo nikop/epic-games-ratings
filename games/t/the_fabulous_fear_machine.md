@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | You have three wishes left | 83.00% | ~20 |
 | Master trainee | 75.00% | ~18 |
-| Jung's dream | 63.00% | ~15 |
+| Jung's dream | 67.00% | ~16 |
 | The battle of Great Britain | 58.00% | ~14 |
 | Giant | 46.00% | ~11 |
-| Pulp! Where Monsters Dwell | 42.00% | ~10 |
+| Pulp! Where Monsters Dwell | 46.00% | ~11 |
 | A continent with chemistry | 42.00% | ~10 |
 | The happy farmer girl | 42.00% | ~10 |
 | A rival with no options | 38.00% | ~9 |
-| Pulp! Terror Tales in the Night | 33.00% | ~8 |
+| Pulp! Terror Tales in the Night | 38.00% | ~9 |
 | Pulp! Out of this World | 33.00% | ~8 |
 | Pulp! Adventures into the Unknown | 33.00% | ~8 |
 | Diagnosis: fear | 33.00% | ~8 |

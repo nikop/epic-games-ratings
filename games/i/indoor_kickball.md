@@ -23,9 +23,9 @@
 | Grand Slam! | 26.00% | ~25 |
 | Angry Dad | 24.00% | ~23 |
 | Save some water for the fishies | 23.00% | ~22 |
+| Bathroom Secret Spot | 23.00% | ~22 |
 | Living Room Secret Spot | 22.00% | ~21 |
 | Have Mercy | 22.00% | ~21 |
-| Bathroom Secret Spot | 22.00% | ~21 |
 | Angry Mom | 20.00% | ~19 |
 | Hi Hungry, I'm Dad | 18.00% | ~17 |
 | Just how we drew it up | 13.00% | ~12 |

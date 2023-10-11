@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~656 |
+| Pushing a pull door | 96.00% | ~657 |
 | Fetch Quest Complete | 91.00% | ~622 |
-| I can't wait! | 83.00% | ~567 |
-| Swish | 57.00% | ~389 |
-| Clean up on Aisle 9 | 41.00% | ~280 |
+| I can't wait! | 83.00% | ~568 |
+| Swish | 57.00% | ~390 |
+| Clean up on Aisle 9 | 40.00% | ~274 |
 | Machine Maxed | 30.00% | ~205 |
 | Bug Fixer | 26.00% | ~178 |
 | Existential dread | 26.00% | ~178 |
 | Gerald of Riviera | 26.00% | ~178 |
 | Goal | 22.00% | ~150 |
-| I ran the numbers | 15.00% | ~102 |
+| I ran the numbers | 15.00% | ~103 |
 | Taking the plunge | 14.00% | ~96 |
 | Hidden Packages | 11.00% | ~75 |
 | GOOOAAAL | 10.00% | ~68 |
@@ -30,9 +30,9 @@ Rating: 4.56 (Ranked 471)
 | GoldGuy Jr | 4.00% | ~27 |
 | Nose to the Grindstone | 4.00% | ~27 |
 | Waking nightmare | 4.00% | ~27 |
-| To do. Done! | 3.00% | ~20 |
-| We come in peace | 3.00% | ~20 |
-| Hammer time | 3.00% | ~20 |
+| To do. Done! | 3.00% | ~21 |
+| We come in peace | 3.00% | ~21 |
+| Hammer time | 3.00% | ~21 |
 | 1CC | 2.00% | ~14 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~14 |
 | Modern Gorefare | 2.00% | ~14 |
@@ -60,7 +60,7 @@ Rating: 4.56 (Ranked 471)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 255)  
+Progressed: 684 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-09-22 | 679 | 0 |
 | 2023-10-06 | 680 | 0 |
 | 2023-10-10 | 683 | 0 |
+| 2023-10-11 | 684 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

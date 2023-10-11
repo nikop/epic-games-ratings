@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7857,9 +7857,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63058,
+  "EOS_Progressed": 63059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26297,6 +26297,11 @@
       "Time": "2023-10-11T03:06:18.3831765+00:00",
       "NumProgressed": 63058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T04:07:05.3773392+00:00",
+      "NumProgressed": 63059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -26324,7 +26329,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "Best served cold",
@@ -26468,7 +26473,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "I can do it",
@@ -26548,7 +26553,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "Long live the Empire",
@@ -26684,7 +26689,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "Undercover",
@@ -26715,15 +26720,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63058,
+      "Progressed": 63059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-10T18:58:51.7212994+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:06:18.383176+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:07:05.3773387+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:27.1626185+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:59:19.6397399+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:06:18.3833403+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:59:44.2851195+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:07:05.3774752+00:00"
 }

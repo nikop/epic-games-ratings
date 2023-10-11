@@ -2,7 +2,7 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 109,
@@ -540,9 +540,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 40894,
+  "EOS_Progressed": 40903,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 3512,
+  "EOS_NewPlayers": 3510,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5400,6 +5400,11 @@
       "Time": "2023-10-11T03:03:31.0147816+00:00",
       "NumProgressed": 40894,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-10-11T04:03:36.2610173+00:00",
+      "NumProgressed": 40903,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -5436,7 +5441,7 @@
       "Name": "Aspen Tree",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "BAD_END",
@@ -5484,7 +5489,7 @@
       "Name": "Cow Level",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "DEAD_MAN",
@@ -5516,7 +5521,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -5524,7 +5529,7 @@
       "Name": "Student",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8179
+      "UsersEstimate": 8181
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -5532,7 +5537,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -5588,7 +5593,7 @@
       "Name": "Healer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "HERBS_2",
@@ -5596,7 +5601,7 @@
       "Name": "Herbalist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "HERBS_3",
@@ -5612,7 +5617,7 @@
       "Name": "Initiation",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10632
+      "UsersEstimate": 10635
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -5652,7 +5657,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -5660,7 +5665,7 @@
       "Name": "Soldier",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "NORMAL_END",
@@ -5732,7 +5737,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "TALES_2",
@@ -5764,7 +5769,7 @@
       "Name": "Water",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3681
     },
     {
       "ID": "WOLF",
@@ -5788,7 +5793,7 @@
       "Name": "Knower",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "ZNATKOST_2",
@@ -5811,15 +5816,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 40894,
+      "Progressed": 40903,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-10-10T17:00:01.3190318+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:03:31.0147809+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:03:36.2610163+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:29.9616795+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:59:23.8038335+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:03:31.0148624+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:59:49.3268452+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:03:36.2611134+00:00"
 }

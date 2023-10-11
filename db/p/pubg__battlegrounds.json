@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -4946,10 +4946,16 @@
       "Rating": 3.97,
       "NumberOfAwards": 13107,
       "NumberOfAwardsMax": 3995
+    },
+    {
+      "Time": "2023-10-11T04:00:41.2999889+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 13123,
+      "NumberOfAwardsMax": 3995
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13107,
+  "NumberOfAwards": 13123,
   "NumberOfAwardsMax": 3995,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4957,7 +4963,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3269
+      "Count": 3285
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5008,9 +5014,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 641619,
+  "EOS_Progressed": 641620,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12677,
+  "EOS_NewPlayers": 12639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24658,6 +24664,11 @@
       "Time": "2023-10-11T03:08:18.3585615+00:00",
       "NumProgressed": 641619,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-11T04:08:23.1569607+00:00",
+      "NumProgressed": 641620,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -24749,7 +24760,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 468382
+      "UsersEstimate": 468383
     },
     {
       "ID": "2",
@@ -24893,7 +24904,7 @@
       "Name": "You Complete Me",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 243815
+      "UsersEstimate": 243816
     },
     {
       "ID": "36",
@@ -24964,16 +24975,16 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 641619,
+      "Progressed": 641620,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2023-10-10T18:59:38.6605921+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:08:18.3585604+00:00",
+  "LastChanged": "2023-10-11T04:00:41.2999888+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:08:23.1569602+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:09.5729082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:00:05.4539555+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:08:18.358718+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:00:41.2999893+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:08:23.1571093+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1511,6 +1511,11 @@
       "Time": "2023-10-11T02:19:27.8570348+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T04:03:41.0574817+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -1555,7 +1560,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_14",
@@ -1563,7 +1568,7 @@
       "Name": "Playing the objective",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_15",
@@ -1577,9 +1582,9 @@
       "ID": "achievement_16",
       "SetID": "271ol84",
       "Name": "I\u0027ve been waiting for you",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_17",
@@ -1699,7 +1704,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_30",
@@ -1723,7 +1728,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_33",
@@ -1747,7 +1752,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_36",
@@ -1779,7 +1784,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_4",
@@ -1795,7 +1800,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_41",
@@ -1827,7 +1832,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_45",
@@ -1857,9 +1862,9 @@
       "ID": "achievement_48",
       "SetID": "cemm4l8",
       "Name": "No such thing as luck",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_49",
@@ -1867,7 +1872,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_5",
@@ -1875,7 +1880,7 @@
       "Name": "Shoot first",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_50",
@@ -1891,7 +1896,7 @@
       "Name": "You have your moments",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_52",
@@ -1899,7 +1904,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_53",
@@ -1923,7 +1928,7 @@
       "Name": "Stop that Droid",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_56",
@@ -1955,7 +1960,7 @@
       "Name": "Onwards!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_6",
@@ -1979,7 +1984,7 @@
       "Name": "The circle is now complete",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_62",
@@ -2026,13 +2031,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 1
     }
   ],
@@ -2040,8 +2045,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:03:35.1937839+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:03:41.0574811+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:04.2927905+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:03:22.3588029+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:03:35.1938513+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:03:23.9284973+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:03:41.0575514+00:00"
 }

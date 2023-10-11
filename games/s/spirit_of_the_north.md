@@ -6,16 +6,16 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~48,348 |
-| INFUSED WITH LIGHT | 53.00% | ~37,683 |
-| FOXIN' AROUND | 29.00% | ~20,619 |
-| FETCH | 27.00% | ~19,197 |
-| BLOOMS OF LIGHT | 26.00% | ~18,486 |
-| AWAKEN | 22.00% | ~15,642 |
-| BEST FRIENDS | 22.00% | ~15,642 |
-| ERADICATE | 21.00% | ~14,931 |
-| SPIRIT BARK | 21.00% | ~14,931 |
-| GARDEN OF LIGHT | 18.00% | ~12,798 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~48,350 |
+| INFUSED WITH LIGHT | 53.00% | ~37,685 |
+| FOXIN' AROUND | 29.00% | ~20,620 |
+| FETCH | 27.00% | ~19,198 |
+| BLOOMS OF LIGHT | 26.00% | ~18,487 |
+| AWAKEN | 22.00% | ~15,643 |
+| BEST FRIENDS | 22.00% | ~15,643 |
+| ERADICATE | 21.00% | ~14,932 |
+| SPIRIT BARK | 21.00% | ~14,932 |
+| GARDEN OF LIGHT | 18.00% | ~12,799 |
 | SPIRIT FORM | 16.00% | ~11,376 |
 | WRITTEN IN STONE | 16.00% | ~11,376 |
 | UPROOTING DARKNESS | 15.00% | ~10,665 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,422 |
 | KINDRED SPIRITS | 0.60% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,100 (Ranked 92)  
+Progressed: 71,103 (Ranked 92)  
 Completed: 377 (0.53%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 377 (0.53%) (Ranked 171)
 | 2023-10-08 | 70,949 | 377 |
 | 2023-10-09 | 71,028 | 377 |
 | 2023-10-10 | 71,090 | 377 |
-| 2023-10-11 | 71,100 | 377 |
+| 2023-10-11 | 71,103 | 377 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 495)  
 Sum: 114 (Ranked 422)  

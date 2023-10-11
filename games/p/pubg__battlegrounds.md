@@ -5,9 +5,9 @@ Rating: 3.97 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 73.00% | ~468,382 |
+| Blood on My Hands | 73.00% | ~468,383 |
 | Health Junkie | 40.00% | ~256,648 |
-| You Complete Me | 38.00% | ~243,815 |
+| You Complete Me | 38.00% | ~243,816 |
 | Guardian Angel | 35.00% | ~224,567 |
 | Devil Inside Me | 27.00% | ~173,237 |
 | Fantastic Four | 20.00% | ~128,324 |
@@ -43,7 +43,7 @@ Rating: 3.97 (Ranked 973)
 | Nade King Master | 0.10% | ~642 |
 | Shoot the Knee | 0.10% | ~642 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 641,619 (Ranked 27)  
+Progressed: 641,620 (Ranked 27)  
 Completed: 10 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,17 +217,17 @@ Completed: 10 (0.00%) (Ranked 312)
 | 2023-10-08 | 638,298 | 10 |
 | 2023-10-09 | 639,984 | 10 |
 | 2023-10-10 | 641,565 | 10 |
-| 2023-10-11 | 641,619 | 10 |
+| 2023-10-11 | 641,620 | 10 |
 ## Awards
 Max (Competitive Players): 3,995  (Ranked 83)  
-Sum: 13,107 (Ranked 74)  
+Sum: 13,123 (Ranked 74)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 3,995 |
 | This game has Challenging Combat | 3,555 |
 | This game has Quickly Understood Controls | 3,335 |
-| This game is Highly Recommended | 3,269 |
+| This game is Highly Recommended | 3,285 |
 | This game has a Competitive Community | 2,288 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -461,3 +461,4 @@ Diff (max vs sum): 9
 | 2023-10-08 | 3.98 | 3,980 | 13,016 |
 | 2023-10-09 | 3.98 | 3,980 | 13,059 |
 | 2023-10-10 | 3.98 | 3,995 | 13,107 |
+| 2023-10-11 | 3.97 | 3,995 | 13,123 |

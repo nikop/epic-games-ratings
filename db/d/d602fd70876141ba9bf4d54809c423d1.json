@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -819,9 +819,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "ap8553i",
       "Name": "Everybody Gets One",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:05:43.1448955+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:06:23.2458858+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.2165637+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:00:41.1973797+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:05:43.1449752+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:01:27.8570204+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:06:23.2459764+00:00"
 }

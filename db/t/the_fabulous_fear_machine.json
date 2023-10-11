@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "19",
@@ -362,17 +362,17 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "36",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:04:14.6202627+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:04:27.5541006+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.043787+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:58:46.4223894+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:04:14.6203082+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:59:04.7094384+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:04:27.5541427+00:00"
 }

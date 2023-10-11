@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -6064,9 +6064,9 @@
       "ID": "NowItsAParty",
       "SetID": "bmkn7o4",
       "Name": "Now It\u0027s a Party!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "Pat_Relentless",
@@ -6318,8 +6318,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:09:12.7644944+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:09:30.8097474+00:00",
   "LastUpdate_AppInfo": "2023-10-07T11:57:06.486161+00:00",
-  "LastUpdate_Ratings": "2023-10-11T03:03:15.0149064+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:09:12.7645985+00:00"
+  "LastUpdate_Ratings": "2023-10-11T04:03:15.2557883+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:09:30.8098754+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 471,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-10-10T16:08:24.6211539+00:00",
       "NumProgressed": 683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T04:09:26.8827618+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -670,7 +675,7 @@
       "Name": "To do. Done!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "4HopperTrophy",
@@ -694,7 +699,7 @@
       "Name": "We come in peace",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AllGoalTrophy",
@@ -774,7 +779,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "Ext4Trophy",
@@ -846,7 +851,7 @@
       "Name": "Hammer time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "HexaTrophy",
@@ -878,7 +883,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "KKBossTrophy",
@@ -910,7 +915,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "MaxPriceTrophy",
@@ -998,7 +1003,7 @@
       "Name": "Swish",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "TerrorTrophy",
@@ -1028,9 +1033,9 @@
       "ID": "TrashTrophy",
       "SetID": "32aeje8",
       "Name": "Clean up on Aisle 9",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 274
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1061,7 +1066,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 0
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-09-04T18:59:06.3867769+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:09:09.3101189+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:09:26.882761+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:57.2197773+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:58:54.7346178+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:09:09.3101735+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:59:13.9748044+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:09:26.8828162+00:00"
 }

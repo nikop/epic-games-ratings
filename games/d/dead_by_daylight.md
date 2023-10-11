@@ -14,16 +14,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.90% | ~8,386 |
 | Apt Survivor | 0.90% | ~8,386 |
 | Survival Treasures | 0.90% | ~8,386 |
-| Medic | 0.80% | ~7,454 |
-| Sorted | 0.80% | ~7,454 |
-| Resurgence | 0.80% | ~7,454 |
-| The Grand Sacrifice | 0.70% | ~6,522 |
-| No one left behind | 0.70% | ~6,522 |
-| Nerves of steel | 0.70% | ~6,522 |
-| Bloody Millionaire | 0.70% | ~6,522 |
-| I | 0.70% | ~6,522 |
-| Healthy Obsession | 0.70% | ~6,522 |
-| Preemptive Strike | 0.70% | ~6,522 |
+| Medic | 0.80% | ~7,455 |
+| Sorted | 0.80% | ~7,455 |
+| Resurgence | 0.80% | ~7,455 |
+| The Grand Sacrifice | 0.70% | ~6,523 |
+| No one left behind | 0.70% | ~6,523 |
+| Nerves of steel | 0.70% | ~6,523 |
+| Bloody Millionaire | 0.70% | ~6,523 |
+| I | 0.70% | ~6,523 |
+| Healthy Obsession | 0.70% | ~6,523 |
+| Preemptive Strike | 0.70% | ~6,523 |
 | Agonizing Escape | 0.60% | ~5,591 |
 | Backdoor Escape | 0.60% | ~5,591 |
 | I've got your back | 0.60% | ~5,591 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,762 (Ranked 14)  
+Progressed: 931,813 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,762 | 49 |
+| 2023-10-11 | 931,813 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,070 (Ranked 13)  

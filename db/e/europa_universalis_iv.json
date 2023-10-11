@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -10560,9 +10560,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 427651,
+  "EOS_Progressed": 427667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5904,
+  "EOS_NewPlayers": 5902,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30260,6 +30260,11 @@
       "Time": "2023-10-11T03:09:22.8224626+00:00",
       "NumProgressed": 427651,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T04:09:42.6987144+00:00",
+      "NumProgressed": 427667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31271,7 +31276,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17106
+      "UsersEstimate": 17107
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32935,7 +32940,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17106
+      "UsersEstimate": 17107
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -33102,21 +33107,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 427651,
+      "Progressed": 427667,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 427651,
+      "Progressed": 427667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-11T01:41:39.6641051+00:00",
-  "LastChanged_Achievements": "2023-10-11T03:09:22.8224623+00:00",
+  "LastChanged_Achievements": "2023-10-11T04:09:42.6987138+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-11T02:59:11.2347024+00:00",
-  "LastUpdate_Achievements": "2023-10-11T03:09:22.8237182+00:00"
+  "LastUpdate_Ratings": "2023-10-11T03:59:33.8467898+00:00",
+  "LastUpdate_Achievements": "2023-10-11T04:09:42.6999828+00:00"
 }
