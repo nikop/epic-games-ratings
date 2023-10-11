@@ -2,10 +2,10 @@
   "ID": "ed29b31eb15546d1803598fd2264ea1e",
   "Name": "A Rats Quest - The Way Back Home",
   "ProductSlug": "a-rats-quest-f610d5",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-06T19:57:04.395781+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:57:41.5217164+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:06:17.9367829+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:57:32.1361173+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:05:43.2363475+00:00"
 }

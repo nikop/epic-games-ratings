@@ -6,38 +6,38 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,087 |
-| Say goodbye, creep! | 66.00% | ~28,779 |
-| Blood splattered | 65.00% | ~28,343 |
-| Groovy | 62.00% | ~27,035 |
-| Choo choo! | 62.00% | ~27,035 |
-| Cleanup on aisle 4! | 57.00% | ~24,855 |
-| Gold | 50.00% | ~21,802 |
-| The boat can leave now...tell the crew | 49.00% | ~21,366 |
-| Give me something to shoot! | 47.00% | ~20,494 |
-| Stand back boy! | 47.00% | ~20,494 |
-| Chain reaction | 45.00% | ~19,622 |
-| Weird science | 44.00% | ~19,186 |
-| What did you say, Blain? | 42.00% | ~18,314 |
-| Look mummy! A shark! | 41.00% | ~17,878 |
-| In the dark dark woods... | 39.00% | ~17,006 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,570 |
-| Double tap | 37.00% | ~16,134 |
-| All of this has happened before… | 36.00% | ~15,698 |
-| Cranial blowout! | 36.00% | ~15,698 |
-| Zombie killin' machine | 36.00% | ~15,698 |
-| Every bullet counts | 36.00% | ~15,698 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,089 |
+| Say goodbye, creep! | 66.00% | ~28,781 |
+| Blood splattered | 65.00% | ~28,345 |
+| Groovy | 62.00% | ~27,036 |
+| Choo choo! | 62.00% | ~27,036 |
+| Cleanup on aisle 4! | 57.00% | ~24,856 |
+| Gold | 50.00% | ~21,804 |
+| The boat can leave now...tell the crew | 49.00% | ~21,367 |
+| Give me something to shoot! | 47.00% | ~20,495 |
+| Stand back boy! | 47.00% | ~20,495 |
+| Chain reaction | 45.00% | ~19,623 |
+| Weird science | 44.00% | ~19,187 |
+| What did you say, Blain? | 42.00% | ~18,315 |
+| Look mummy! A shark! | 41.00% | ~17,879 |
+| In the dark dark woods... | 39.00% | ~17,007 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,571 |
+| Double tap | 37.00% | ~16,135 |
+| All of this has happened before… | 36.00% | ~15,699 |
+| Cranial blowout! | 36.00% | ~15,699 |
+| Zombie killin' machine | 36.00% | ~15,699 |
+| Every bullet counts | 36.00% | ~15,699 |
 | All roads lead to Rome | 34.00% | ~14,826 |
 | You've got red on you | 34.00% | ~14,826 |
 | You're all going to die down here | 32.00% | ~13,954 |
 | He did Nazi that coming | 32.00% | ~13,954 |
 | Kill of the week | 31.00% | ~13,518 |
 | I never liked them anyway | 30.00% | ~13,082 |
-| Is it over? | 28.00% | ~12,209 |
-| Got your back | 27.00% | ~11,773 |
-| Gore soaked | 24.00% | ~10,465 |
-| Shock therapy | 23.00% | ~10,029 |
-| Leave the limbs you've lost | 23.00% | ~10,029 |
+| Is it over? | 28.00% | ~12,210 |
+| Got your back | 27.00% | ~11,774 |
+| Gore soaked | 24.00% | ~10,466 |
+| Shock therapy | 23.00% | ~10,030 |
+| Leave the limbs you've lost | 23.00% | ~10,030 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,285 |
 | Take them down screaming | 18.00% | ~7,849 |
 | Bad Blood | 17.00% | ~7,413 |
@@ -46,10 +46,10 @@ Number of Ratings: 743  (23.09.2022)
 | I'm going deeper underground | 14.00% | ~6,105 |
 | Well equipped | 13.00% | ~5,669 |
 | Into the deep | 12.00% | ~5,233 |
-| Damnedbusters | 9.00% | ~3,924 |
-| Plane sailing | 8.00% | ~3,488 |
-| I can do anything I want. I got guns | 8.00% | ~3,488 |
-| Send me an angel | 8.00% | ~3,488 |
+| Damnedbusters | 9.00% | ~3,925 |
+| Plane sailing | 8.00% | ~3,489 |
+| I can do anything I want. I got guns | 8.00% | ~3,489 |
+| Send me an angel | 8.00% | ~3,489 |
 | This is no Sunday School picnic! | 7.00% | ~3,052 |
 | I never redoubted you! | 7.00% | ~3,052 |
 | Not today you won't | 7.00% | ~3,052 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~436 |
 | None more hard | 0.50% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,605 (Ranked 103)  
+Progressed: 43,607 (Ranked 103)  
 Completed: 25 (0.06%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 25 (0.06%) (Ranked 264)
 | 2023-10-08 | 43,591 | 25 |
 | 2023-10-09 | 43,600 | 25 |
 | 2023-10-10 | 43,601 | 25 |
-| 2023-10-11 | 43,605 | 25 |
+| 2023-10-11 | 43,607 | 25 |
 ## Awards
 Max (Great Boss Battles): 833  (Ranked 159)  
 Sum: 2,514 (Ranked 182)  

@@ -5,10 +5,10 @@
   "Ranking_Rating": 834,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1929,6 +1929,11 @@
       "Time": "2023-10-11T13:15:32.142794+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T15:08:31.2981104+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2098,9 +2103,9 @@
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 22
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -2164,7 +2169,7 @@
       "Name": "We made it",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2299,7 +2304,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1121,
       "Completed": 0
     }
   ],
@@ -2307,8 +2312,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:09:39.702394+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:08:31.2981099+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:34.3329425+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:59:46.316243+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:09:39.7024391+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:59:22.247318+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:08:31.2981511+00:00"
 }

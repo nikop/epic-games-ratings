@@ -28,7 +28,7 @@
 | Guns Blazing | 0.00% | ~0 |
 | Knee Deep in the Walking Dead | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 611)  
+Progressed: 1 (Ranked 612)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |

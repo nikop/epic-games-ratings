@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -1634,9 +1634,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_111",
@@ -2186,9 +2186,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_6",
@@ -2506,9 +2506,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_96",
@@ -2558,8 +2558,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:09:12.661106+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:08:09.0589984+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:59:10.7111237+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:09:12.6613217+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:58:51.5475851+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:08:09.059229+00:00"
 }

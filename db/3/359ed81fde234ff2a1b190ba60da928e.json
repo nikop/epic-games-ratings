@@ -2,10 +2,10 @@
   "ID": "359ed81fde234ff2a1b190ba60da928e",
   "Name": "KOMPETE",
   "ProductSlug": "kompete-73c94a",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-16T07:00:00+00:00",
     "PcReleaseDate": "2023-09-01T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-05T15:57:17.2206272+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:00:42.8936088+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:06:44.1712191+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:00:11.5163797+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:06:04.4855723+00:00"
 }

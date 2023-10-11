@@ -6,50 +6,50 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,329 |
-| First cargo item on board | 71.00% | ~1,225 |
-| First cargo item waiting | 71.00% | ~1,225 |
-| First bus stop | 70.00% | ~1,208 |
-| First passenger on board | 67.00% | ~1,156 |
-| First passenger waiting | 67.00% | ~1,156 |
-| First bus arrived | 66.00% | ~1,139 |
-| First train station | 64.00% | ~1,105 |
-| First steam train arrived | 60.00% | ~1,036 |
-| First industry upgraded | 57.00% | ~984 |
-| Transport millionaire | 56.00% | ~967 |
-| Cadet | 54.00% | ~932 |
-| Cargo hub | 54.00% | ~932 |
-| Transport master | 53.00% | ~915 |
-| Sculpturer | 50.00% | ~863 |
-| Settled down | 49.00% | ~846 |
-| First electric train arrived | 47.00% | ~811 |
-| First ship arrived | 46.00% | ~794 |
-| Now what? | 46.00% | ~794 |
-| High speed | 43.00% | ~742 |
-| Exemplary student | 42.00% | ~725 |
+| First line | 77.00% | ~1,331 |
+| First cargo item on board | 71.00% | ~1,227 |
+| First cargo item waiting | 71.00% | ~1,227 |
+| First bus stop | 70.00% | ~1,210 |
+| First passenger on board | 67.00% | ~1,158 |
+| First passenger waiting | 67.00% | ~1,158 |
+| First bus arrived | 66.00% | ~1,140 |
+| First train station | 64.00% | ~1,106 |
+| First steam train arrived | 60.00% | ~1,037 |
+| First industry upgraded | 57.00% | ~985 |
+| Transport millionaire | 55.00% | ~950 |
+| Cadet | 54.00% | ~933 |
+| Cargo hub | 54.00% | ~933 |
+| Transport master | 53.00% | ~916 |
+| Sculpturer | 50.00% | ~864 |
+| Settled down | 49.00% | ~847 |
+| First electric train arrived | 47.00% | ~812 |
+| First ship arrived | 46.00% | ~795 |
+| Now what? | 46.00% | ~795 |
+| High speed | 43.00% | ~743 |
+| Exemplary student | 42.00% | ~726 |
 | Transport shark | 41.00% | ~708 |
 | First aircraft arrived | 41.00% | ~708 |
-| Mass production | 35.00% | ~604 |
-| Aircraft entrepreneur | 34.00% | ~587 |
-| Crowd in a train | 31.00% | ~535 |
-| The future is now, old man | 31.00% | ~535 |
+| Mass production | 35.00% | ~605 |
+| Aircraft entrepreneur | 34.00% | ~588 |
+| Crowd in a train | 31.00% | ~536 |
+| The future is now, old man | 31.00% | ~536 |
 | Not in my backyard | 30.00% | ~518 |
 | The king of the sea | 29.00% | ~501 |
-| City | 28.00% | ~483 |
-| Transport tycoon | 24.00% | ~414 |
+| City | 28.00% | ~484 |
+| Transport tycoon | 24.00% | ~415 |
 | The ugly smell of success | 23.00% | ~397 |
 | Climate change | 22.00% | ~380 |
 | Old timer | 22.00% | ~380 |
-| Heavily loaded | 21.00% | ~362 |
+| Heavily loaded | 21.00% | ~363 |
 | Bob Ross | 16.00% | ~276 |
 | Campaign expert | 11.00% | ~190 |
 | Truck Fever | 11.00% | ~190 |
 | No free seats | 10.00% | ~173 |
-| Penny pincher | 10.00% | ~173 |
-| Back to the future | 9.00% | ~155 |
-| Transport belt | 9.00% | ~155 |
-| E.P.E.C. | 6.00% | ~104 |
+| Back to the future | 9.00% | ~156 |
+| Transport belt | 9.00% | ~156 |
+| Penny pincher | 9.00% | ~156 |
 | Campaign shark | 5.00% | ~86 |
+| E.P.E.C. | 5.00% | ~86 |
 | Transport shark (Hard mode) | 4.00% | ~69 |
 | Antique | 4.00% | ~69 |
 | Cannot get enough | 4.00% | ~69 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,726 (Ranked 210)  
+Progressed: 1,728 (Ranked 210)  
 Completed: 1 (0.06%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 1 (0.06%) (Ranked 264)
 | 2023-10-07 | 1,721 | 1 |
 | 2023-10-08 | 1,723 | 1 |
 | 2023-10-09 | 1,725 | 1 |
-| 2023-10-11 | 1,726 | 1 |
+| 2023-10-11 | 1,728 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 434)  
 Sum: 293 (Ranked 349)  

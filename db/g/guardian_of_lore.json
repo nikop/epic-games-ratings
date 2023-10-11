@@ -2,10 +2,10 @@
   "ID": "f7f47b2772ea436e903df64707ef4048",
   "Name": "Guardian of Lore",
   "ProductSlug": "guardian-of-lore-25e67a",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-02T00:00:00+00:00",
     "PcReleaseDate": "2021-05-21T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.9627858+00:00",
   "LastChanged": "2023-03-31T05:57:15.9627859+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:24.774084+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:00:32.3047795+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:03:43.0095244+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:00:01.6108573+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:03:33.4369466+00:00"
 }

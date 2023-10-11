@@ -7,6 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.50% | ~125 |
+| Project Arena | 0.40% | ~100 |
 | The Old Grandmaster | 0.30% | ~2,147 |
 | The Assault | 0.30% | ~2,147 |
 | The Hateful Pole Fighter | 0.30% | ~2,147 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.30% | ~2,147 |
 | Path of the Prospect | 0.30% | ~2,147 |
 | Rumble in the Hangar | 0.30% | ~2,147 |
-| Project Arena | 0.30% | ~75 |
 | Martial Hub | 0.30% | ~75 |
 | Fight the way you practice | 0.30% | ~75 |
 | Furious Fists | 0.20% | ~1,431 |

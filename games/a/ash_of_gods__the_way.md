@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 150.00% | ~3 |
+| First success | 200.00% | ~4 |
 | First blood | 100.00% | ~2 |
 | By own strength | 50.00% | ~1 |
 | A solo player | 50.00% | ~1 |

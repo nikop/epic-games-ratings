@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2082,9 +2082,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 547
+      "UsersEstimate": 556
     },
     {
       "ID": "AC08",
@@ -2258,9 +2258,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 287
     },
     {
       "ID": "AC30",
@@ -2403,8 +2403,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-10T02:57:43.7078143+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:04:26.5258682+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:04:11.039299+00:00",
   "LastUpdate_AppInfo": "2023-10-10T20:57:16.6962643+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:58:39.5805803+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:04:26.5259247+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:58:23.4726081+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:04:11.03935+00:00"
 }

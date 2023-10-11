@@ -49,11 +49,11 @@
 | The Assassin | 32.00% | ~209 |
 | The Justicar | 32.00% | ~209 |
 | The Quarian | 32.00% | ~209 |
+| The Prodigal | 32.00% | ~209 |
 | A Personal Touch | 31.00% | ~202 |
 | Battlemaster | 31.00% | ~202 |
 | Ghost of the Father | 31.00% | ~202 |
 | The Cure | 31.00% | ~202 |
-| The Prodigal | 31.00% | ~202 |
 | Big Game Hunter | 31.00% | ~202 |
 | Shopaholic | 31.00% | ~202 |
 | Catharsis | 30.00% | ~196 |
@@ -78,9 +78,9 @@
 | A House Divided | 25.00% | ~163 |
 | Weapon Specialist | 25.00% | ~163 |
 | Eye of the Hurricane | 24.00% | ~157 |
+| Giant Killer | 24.00% | ~157 |
 | World Shaker | 24.00% | ~157 |
 | Liberator | 24.00% | ~157 |
-| Giant Killer | 23.00% | ~150 |
 | Tunnel Rat | 22.00% | ~144 |
 | Arbiter | 22.00% | ~144 |
 | Savior | 21.00% | ~137 |
@@ -103,8 +103,8 @@
 | Throw Mastery | 16.00% | ~104 |
 | Executioner | 15.00% | ~98 |
 | Master and Commander | 15.00% | ~98 |
+| Patriot | 14.00% | ~91 |
 | Mail Slot | 13.00% | ~85 |
-| Patriot | 13.00% | ~85 |
 | Legend | 13.00% | ~85 |
 | Long Service Medal | 12.00% | ~78 |
 | Barrier Mastery | 11.00% | ~72 |

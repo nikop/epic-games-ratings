@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Seven Doors | 54.00% | ~7 |
+| A Cautious Man Is Worth Two of His Kind | 38.00% | ~5 |
 | Kill the Dead Man | 38.00% | ~5 |
 | Diogenes Syndrome | 38.00% | ~5 |
 | Egyptologist | 38.00% | ~5 |
-| A Cautious Man Is Worth Two of His Kind | 31.00% | ~4 |
 | No Fear of the Dark | 23.00% | ~3 |
+| The Witch’s Haunt | 23.00% | ~3 |
 | They’re Watching | 23.00% | ~3 |
 | The Last Skull | 23.00% | ~3 |
 | Thanksgiving Day | 15.00% | ~2 |
-| The Witch’s Haunt | 15.00% | ~2 |
+| Trapped in Time | 15.00% | ~2 |
+| A Cabin Boy with Potential | 15.00% | ~2 |
 | Art Connoisseur | 15.00% | ~2 |
 | Survivor | 15.00% | ~2 |
 | Master of Riddles | 15.00% | ~2 |
-| Trapped in Time | 8.00% | ~1 |
-| A Cabin Boy with Potential | 8.00% | ~1 |
 | Don’t Touch the Rum! | 8.00% | ~1 |
 | Oh... You didn't think to bring it? | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -6,25 +6,25 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,323 |
-| It wakes | 1.00% | ~9,323 |
-| Not half bad | 1.00% | ~9,323 |
-| Skillful | 1.00% | ~9,323 |
-| Make Some Noise | 1.00% | ~9,323 |
-| Handyman | 0.90% | ~8,391 |
-| Apt Survivor | 0.90% | ~8,391 |
-| Survival Treasures | 0.90% | ~8,391 |
+| Zealous | 1.00% | ~9,324 |
+| It wakes | 1.00% | ~9,324 |
+| Not half bad | 1.00% | ~9,324 |
+| Survival Treasures | 1.00% | ~9,324 |
+| Skillful | 1.00% | ~9,324 |
+| Make Some Noise | 1.00% | ~9,324 |
+| Handyman | 0.90% | ~8,392 |
+| Apt Survivor | 0.90% | ~8,392 |
 | No one left behind | 0.80% | ~7,459 |
 | Medic | 0.80% | ~7,459 |
 | Sorted | 0.80% | ~7,459 |
 | Resurgence | 0.80% | ~7,459 |
-| The Grand Sacrifice | 0.70% | ~6,526 |
-| Nerves of steel | 0.70% | ~6,526 |
-| Bloody Millionaire | 0.70% | ~6,526 |
-| I | 0.70% | ~6,526 |
-| Healthy Obsession | 0.70% | ~6,526 |
-| Preemptive Strike | 0.70% | ~6,526 |
-| Humanitarian | 0.70% | ~6,526 |
+| The Grand Sacrifice | 0.70% | ~6,527 |
+| Nerves of steel | 0.70% | ~6,527 |
+| Bloody Millionaire | 0.70% | ~6,527 |
+| I | 0.70% | ~6,527 |
+| Healthy Obsession | 0.70% | ~6,527 |
+| Preemptive Strike | 0.70% | ~6,527 |
+| Humanitarian | 0.70% | ~6,527 |
 | Agonizing Escape | 0.60% | ~5,594 |
 | Backdoor Escape | 0.60% | ~5,594 |
 | I've got your back | 0.60% | ~5,594 |
@@ -38,13 +38,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | II | 0.50% | ~4,662 |
 | Wounded Healer | 0.50% | ~4,662 |
 | Second Act | 0.50% | ~4,662 |
-| III | 0.40% | ~3,729 |
-| Cherish your Life | 0.40% | ~3,729 |
-| First to the Punch | 0.40% | ~3,729 |
-| Every Last Drop | 0.40% | ~3,729 |
-| Raccoon City Recruit | 0.40% | ~3,729 |
-| With Scars to Show | 0.40% | ~3,729 |
-| Flight to Freedom | 0.40% | ~3,729 |
+| III | 0.40% | ~3,730 |
+| Cherish your Life | 0.40% | ~3,730 |
+| First to the Punch | 0.40% | ~3,730 |
+| Every Last Drop | 0.40% | ~3,730 |
+| Raccoon City Recruit | 0.40% | ~3,730 |
+| With Scars to Show | 0.40% | ~3,730 |
+| Flight to Freedom | 0.40% | ~3,730 |
 | A bite for the Entity | 0.30% | ~2,797 |
 | Blood on your hands | 0.30% | ~2,797 |
 | Escape Artist | 0.30% | ~2,797 |
@@ -89,6 +89,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shrine Apparatus | 0.20% | ~1,865 |
 | Broken Bodies | 0.20% | ~1,865 |
 | Selfless Survival | 0.20% | ~1,865 |
+| I See You | 0.20% | ~1,865 |
 | End of Days | 0.20% | ~1,865 |
 | Insult and Injury | 0.20% | ~1,865 |
 | Triage | 0.20% | ~1,865 |
@@ -180,7 +181,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Executioner | 0.10% | ~932 |
 | Adept Cheryl | 0.10% | ~932 |
 | Speed Kills | 0.10% | ~932 |
-| I See You | 0.10% | ~932 |
 | Adept Blight | 0.10% | ~932 |
 | Adept Felix | 0.10% | ~932 |
 | Tag Team | 0.10% | ~932 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 932,314 (Ranked 14)  
+Progressed: 932,410 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 932,314 | 49 |
+| 2023-10-11 | 932,410 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,148 (Ranked 13)  

@@ -2,10 +2,10 @@
   "ID": "042c79543dd84f6dbf27b129c55a0798",
   "Name": "Gearhead Karting - Mechanic \u0026 Racing",
   "ProductSlug": "gearhead-karting-414429",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-11T09:57:28.6634958+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:57:15.889448+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:03:33.9953635+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:57:09.0419467+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:03:25.9184839+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_eou5",
@@ -1133,8 +1133,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:03:51.9392242+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:03:40.937593+00:00",
   "LastUpdate_AppInfo": "2023-10-05T21:57:19.832691+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:58:05.9361799+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:03:51.9392428+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:57:54.8703958+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:03:40.9376087+00:00"
 }

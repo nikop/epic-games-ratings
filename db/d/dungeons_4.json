@@ -2,10 +2,10 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:05:49.3190371+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:05:19.4367097+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:12.6083225+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:58:41.8376148+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:05:49.3190409+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:58:26.0538579+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:05:19.4367132+00:00"
 }

@@ -3910,10 +3910,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2321,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-10-11T14:57:37.6682467+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2324,
+      "NumberOfAwardsMax": 488
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2321,
+  "NumberOfAwards": 2324,
   "NumberOfAwardsMax": 488,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3933,7 +3939,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 445
+      "Count": 448
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3968,7 +3974,7 @@
   ],
   "EOS_Progressed": 88988,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21904,9 +21910,9 @@
       "ID": "ACH_0013",
       "SetID": "3kam13l",
       "Name": "Hidden Sonata",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_0014",
@@ -22222,9 +22228,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-11T06:57:20.5635432+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:07:27.731848+00:00",
+  "LastChanged": "2023-10-11T14:57:37.6682465+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:06:32.100777+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:16.9897613+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:57:48.1491513+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:07:27.7320358+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:57:37.668247+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:06:32.1009148+00:00"
 }

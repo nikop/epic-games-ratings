@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 4.00% | ~27,762 |
-| Dr. Reed, I Presume? | 3.00% | ~20,821 |
-| Git Gutte! | 3.00% | ~20,821 |
-| Break A Leg | 3.00% | ~20,821 |
-| Coup de Grâce | 3.00% | ~20,821 |
-| Hazardous Materials | 3.00% | ~20,821 |
-| Friends Like These | 3.00% | ~20,821 |
-| Hotel California | 3.00% | ~20,821 |
-| Apex Predator | 3.00% | ~20,821 |
-| Stacking the Deck | 3.00% | ~20,821 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,821 |
+| Welcome To Hell-A | 4.00% | ~27,763 |
+| Dr. Reed, I Presume? | 3.00% | ~20,822 |
+| Git Gutte! | 3.00% | ~20,822 |
+| Break A Leg | 3.00% | ~20,822 |
+| Coup de Grâce | 3.00% | ~20,822 |
+| Hazardous Materials | 3.00% | ~20,822 |
+| Friends Like These | 3.00% | ~20,822 |
+| Hotel California | 3.00% | ~20,822 |
+| Apex Predator | 3.00% | ~20,822 |
+| Stacking the Deck | 3.00% | ~20,822 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,822 |
 | Anger Management | 2.00% | ~13,881 |
 | Perks of the Job | 2.00% | ~13,881 |
 | Bookworm | 2.00% | ~13,881 |
@@ -31,13 +31,13 @@ Rating: 4.54 (Ranked 509)
 | I Am the Resurrection | 2.00% | ~13,881 |
 | Our True Nature | 2.00% | ~13,881 |
 | This is My Weapon | 2.00% | ~13,881 |
-| Making Your Mark | 1.00% | ~6,940 |
-| Jumbo Keyring | 1.00% | ~6,940 |
-| Down with the Sickness | 1.00% | ~6,940 |
-| Max Headroom | 1.00% | ~6,940 |
-| Go, Bobcats! | 1.00% | ~6,940 |
-| Rising Star | 1.00% | ~6,940 |
-| Smorgasbord | 0.90% | ~6,246 |
+| Making Your Mark | 1.00% | ~6,941 |
+| Jumbo Keyring | 1.00% | ~6,941 |
+| Down with the Sickness | 1.00% | ~6,941 |
+| Max Headroom | 1.00% | ~6,941 |
+| Go, Bobcats! | 1.00% | ~6,941 |
+| Rising Star | 1.00% | ~6,941 |
+| Smorgasbord | 0.90% | ~6,247 |
 | Not Even My Final Form | 0.70% | ~4,858 |
 | Internet Famous | 0.70% | ~4,858 |
 | Make it So | 0.60% | ~4,164 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,388 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694,046 (Ranked 22)  
-Completed: 2,209 (0.32%) (Ranked 199)  
+Progressed: 694,066 (Ranked 22)  
+Completed: 2,210 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 2,209 (0.32%) (Ranked 199)
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
-| 2023-10-11 | 694,046 | 2,209 |
+| 2023-10-11 | 694,066 | 2,210 |
 ## Awards
 Max (Great Boss Battles): 6,385  (Ranked 58)  
 Sum: 9,541 (Ranked 91)  

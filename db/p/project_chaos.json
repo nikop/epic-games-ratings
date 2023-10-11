@@ -2,10 +2,10 @@
   "ID": "07a20a4f5ae84d9c82f6b9b83fca212d",
   "Name": "Project Chaos",
   "ProductSlug": "project-chaos-58eac5",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:58:30.0788039+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:02:19.4880333+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:09:25.2940124+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:01:34.6649004+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:08:19.383679+00:00"
 }

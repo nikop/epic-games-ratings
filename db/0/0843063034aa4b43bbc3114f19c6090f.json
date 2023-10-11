@@ -2,10 +2,10 @@
   "ID": "0843063034aa4b43bbc3114f19c6090f",
   "Name": "Zombie Watch",
   "ProductSlug": "zombie-watch-facb90",
-  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-13T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T23:00:00+00:00",
@@ -229,8 +229,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-06T06:05:58.7924459+00:00",
-  "LastChanged_Achievements": "2023-10-11T14:05:07.9040395+00:00",
+  "LastChanged_Achievements": "2023-10-11T15:04:45.2378749+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:27.6018594+00:00",
-  "LastUpdate_Ratings": "2023-10-11T13:58:51.018588+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:05:07.9040569+00:00"
+  "LastUpdate_Ratings": "2023-10-11T14:58:33.493233+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:04:45.2378902+00:00"
 }

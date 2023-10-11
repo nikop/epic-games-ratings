@@ -2,10 +2,10 @@
   "ID": "c0cc45f56a4f4cb0aeeee11e630def55",
   "Name": "Prehistorik 2",
   "ProductSlug": "prehistorik-2-0c6998",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.8947875+00:00",
   "LastChanged": "2023-03-31T05:58:12.8947876+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:58.6827918+00:00",
-  "LastUpdate_Ratings": "2023-10-11T14:01:35.6783493+00:00",
-  "LastUpdate_Achievements": "2023-10-11T14:05:23.3382595+00:00"
+  "LastUpdate_Ratings": "2023-10-11T15:00:56.1824719+00:00",
+  "LastUpdate_Achievements": "2023-10-11T15:04:58.1601618+00:00"
 }
