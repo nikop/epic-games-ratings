@@ -1,27 +1,27 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.83 (Ranked 992)  
+Rating: 3.83 (Ranked 993)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~402,916 |
-| Handy | 41.00% | ~217,363 |
-| Cold Caller | 39.00% | ~206,760 |
-| A Bit On The Side | 27.00% | ~143,141 |
-| Backdoor | 25.00% | ~132,538 |
-| Rank Amateur | 21.00% | ~111,332 |
+| Pro Creation | 76.00% | ~402,920 |
+| Handy | 41.00% | ~217,365 |
+| Cold Caller | 39.00% | ~206,762 |
+| A Bit On The Side | 27.00% | ~143,143 |
+| Backdoor | 25.00% | ~132,540 |
+| Rank Amateur | 21.00% | ~111,333 |
 | Three Way | 18.00% | ~95,428 |
-| Deadly Assassin | 15.00% | ~79,523 |
-| Gutshot | 14.00% | ~74,221 |
-| Risk It For A Biscuit | 14.00% | ~74,221 |
-| Showoff | 13.00% | ~68,920 |
+| Deadly Assassin | 15.00% | ~79,524 |
+| Gutshot | 14.00% | ~74,222 |
+| Risk It For A Biscuit | 14.00% | ~74,222 |
+| Showoff | 13.00% | ~68,921 |
 | W.H.I.P. | 11.00% | ~58,317 |
-| Bet Bet Bet | 10.00% | ~53,015 |
+| Bet Bet Bet | 10.00% | ~53,016 |
 | Blindman's Bluff | 9.00% | ~47,714 |
 | Poker Joker | 9.00% | ~47,714 |
-| Never Give Up | 8.00% | ~42,412 |
-| Total Knock Out | 8.00% | ~42,412 |
+| Never Give Up | 8.00% | ~42,413 |
+| Total Knock Out | 8.00% | ~42,413 |
 | Dog Eat Dog | 7.00% | ~37,111 |
 | Quack Quack | 7.00% | ~37,111 |
 | The Bigger They Are | 7.00% | ~37,111 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 992)
 | Rounder | 0.10% | ~530 |
 | Top Dog | 0.10% | ~530 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,153 (Ranked 33)  
+Progressed: 530,158 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2 (0.00%) (Ranked 312)
 | 2023-10-08 | 529,683 | 2 |
 | 2023-10-09 | 529,884 | 2 |
 | 2023-10-10 | 530,095 | 2 |
-| 2023-10-11 | 530,153 | 2 |
+| 2023-10-11 | 530,158 | 2 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 414)  
 Sum: 126 (Ranked 417)  

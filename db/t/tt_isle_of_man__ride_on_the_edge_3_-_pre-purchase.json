@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 152,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -1080,8 +1080,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:04:50.2360278+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:04:40.3543803+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:14.7854089+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:59:08.0515946+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:04:50.2360655+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:59:06.928137+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:04:40.3544183+00:00"
 }

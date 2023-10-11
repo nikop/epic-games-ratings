@@ -15,9 +15,9 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man II | 8.00% | ~345 |
 | A time consuming game I | 8.00% | ~345 |
 | Time for some trade | 8.00% | ~345 |
-| An honorable Governor I | 7.00% | ~301 |
-| Full-time job I | 7.00% | ~301 |
-| Researcher | 7.00% | ~301 |
+| An honorable Governor I | 7.00% | ~302 |
+| Full-time job I | 7.00% | ~302 |
+| Researcher | 7.00% | ~302 |
 | Bread for the people I | 6.00% | ~258 |
 | I like to build stuff... II | 6.00% | ~258 |
 | Completionist I | 6.00% | ~258 |
@@ -75,11 +75,11 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VI | 0.80% | ~34 |
 | Last man standing | 0.70% | ~30 |
 | Builder V | 0.70% | ~30 |
-| Buried | 0.70% | ~30 |
 | Ten-Hut! | 0.70% | ~30 |
-| Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
 | The wood shortage | 0.70% | ~30 |
+| Buried | 0.60% | ~26 |
+| Craftsmen challenge | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
 | I've been everywhere IV | 0.50% | ~22 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,307 (Ranked 175)  
+Progressed: 4,308 (Ranked 175)  
 Completed: 3 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 3 (0.07%) (Ranked 259)
 | 2023-10-06 | 4,305 | 3 |
 | 2023-10-07 | 4,306 | 3 |
 | 2023-10-10 | 4,307 | 3 |
+| 2023-10-11 | 4,308 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

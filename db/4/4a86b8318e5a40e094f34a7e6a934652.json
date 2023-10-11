@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -736,6 +736,11 @@
       "Time": "2023-10-11T01:48:35.5069993+00:00",
       "NumProgressed": 165,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-11T08:05:40.1893183+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -748,15 +753,15 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "BRING_MARY",
@@ -764,7 +769,7 @@
       "Name": "Retro Diva",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "BRING_PROSPERO",
@@ -772,7 +777,7 @@
       "Name": "Amusement Park",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -788,7 +793,7 @@
       "Name": "Fisherman",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -804,7 +809,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -812,15 +817,15 @@
       "Name": "Farmer",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "LUNCH_LEECH",
@@ -882,9 +887,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "TAKE_LEECH",
@@ -892,7 +897,7 @@
       "Name": "Uppies!",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -900,21 +905,21 @@
       "Name": "Strong Signal",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:05:51.7389274+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:05:40.1893178+00:00",
   "LastUpdate_AppInfo": "2023-10-04T14:57:20.3007319+00:00",
   "LastUpdate_Ratings": "2023-10-11T07:03:11.2828304+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:05:51.7389442+00:00"
+  "LastUpdate_Achievements": "2023-10-11T08:05:40.1893376+00:00"
 }

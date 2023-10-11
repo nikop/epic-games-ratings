@@ -1472,9 +1472,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "PROGRESS_N4",
@@ -1503,8 +1503,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:06:44.4451439+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:07:10.3903767+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:05.0979362+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:59:48.0415768+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:06:44.4451675+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:59:48.0693737+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:07:10.3904025+00:00"
 }

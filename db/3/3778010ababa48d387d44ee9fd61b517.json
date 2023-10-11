@@ -2,9 +2,9 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-10-06T10:06:52.4716215+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T08:03:31.8009525+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "A_ALL_UPGRADES",
       "SetID": "324h56e",
       "Name": "Researcher",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -47,7 +52,7 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -55,7 +60,7 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "A_DNA",
       "SetID": "324h56e",
       "Name": "Evolution",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "A_LEVEL",
       "SetID": "324h56e",
       "Name": "Ding!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "A_MEDIC_HEAL",
       "SetID": "324h56e",
       "Name": "Always Blame the Healer",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "A_NOFISH",
       "SetID": "324h56e",
       "Name": "Fish Lover",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "A_POPULATION",
       "SetID": "324h56e",
       "Name": "Full Hive",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "ID": "A_SHIP",
       "SetID": "324h56e",
       "Name": "What\u0027s this?",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -303,7 +308,7 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -311,7 +316,7 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -319,7 +324,7 @@
       "ID": "A_TURTLES",
       "SetID": "324h56e",
       "Name": "Turtle Beach",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -343,7 +348,7 @@
       "ID": "A_WRAITH",
       "SetID": "324h56e",
       "Name": "So Bright It Burns",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     }
@@ -352,13 +357,13 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:03:39.3213505+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:03:31.8009521+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:04.2517692+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:58:37.7901102+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:03:39.3213848+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:58:36.4318418+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:03:31.8009828+00:00"
 }

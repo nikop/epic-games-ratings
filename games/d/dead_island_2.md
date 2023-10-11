@@ -37,7 +37,7 @@ Rating: 4.54 (Ranked 509)
 | Max Headroom | 1.00% | ~6,939 |
 | Go, Bobcats! | 1.00% | ~6,939 |
 | Rising Star | 1.00% | ~6,939 |
-| Smorgasbord | 0.90% | ~6,245 |
+| Smorgasbord | 0.90% | ~6,246 |
 | Not Even My Final Form | 0.70% | ~4,858 |
 | Internet Famous | 0.70% | ~4,858 |
 | Make it So | 0.60% | ~4,164 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 509)
 | Donk! | 0.20% | ~1,388 |
 | Bucket List | 0.10% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,942 (Ranked 22)  
+Progressed: 693,949 (Ranked 22)  
 Completed: 2,209 (0.32%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,16 +225,16 @@ Completed: 2,209 (0.32%) (Ranked 199)
 | 2023-10-08 | 693,041 | 2,205 |
 | 2023-10-09 | 693,470 | 2,208 |
 | 2023-10-10 | 693,868 | 2,209 |
-| 2023-10-11 | 693,942 | 2,209 |
+| 2023-10-11 | 693,949 | 2,209 |
 ## Awards
 Max (Great Boss Battles): 6,385  (Ranked 58)  
-Sum: 9,533 (Ranked 91)  
+Sum: 9,536 (Ranked 91)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,385 |
+| This game has Diverse Characters | 446 |
 | This game is Great for Beginners | 446 |
-| This game has Diverse Characters | 443 |
 | This game has Quickly Understood Controls | 418 |
 | This game is Relaxing | 400 |
 | This game has Amazing Storytelling | 376 |
@@ -417,3 +417,4 @@ Diff (max vs sum): -33
 | 2023-10-08 | 4.54 | 6,366 | 9,500 |
 | 2023-10-09 | 4.54 | 6,378 | 9,523 |
 | 2023-10-10 | 4.54 | 6,385 | 9,533 |
+| 2023-10-11 | 4.54 | 6,385 | 9,536 |

@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -402,9 +402,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EpicACHV_17",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:09:08.9598821+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:08:22.5793871+00:00",
   "LastUpdate_AppInfo": "2023-10-04T07:57:11.1249179+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:57:20.9449453+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:09:08.9598971+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:57:22.5419097+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:08:22.5794031+00:00"
 }

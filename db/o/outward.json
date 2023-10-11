@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3568,
+  "EOS_Progressed": 3569,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5124,6 +5124,11 @@
       "Time": "2023-10-10T10:04:46.6265636+00:00",
       "NumProgressed": 3568,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T08:04:37.6997982+00:00",
+      "NumProgressed": 3569,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5143,7 +5148,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "AncestorsPride_13",
@@ -5199,7 +5204,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5223,7 +5228,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -5279,7 +5284,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "MasterofAurai_20",
@@ -5319,7 +5324,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5327,7 +5332,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5335,7 +5340,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5389,9 +5394,9 @@
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 428
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5405,9 +5410,9 @@
       "ID": "ThePowerofFreedom_3",
       "SetID": "c4hee28",
       "Name": "The Power of Freedom",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 321
     },
     {
       "ID": "TheStuffOfLegends",
@@ -5470,15 +5475,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3568,
+      "Progressed": 3569,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:04:47.4601137+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:04:37.6997978+00:00",
   "LastUpdate_AppInfo": "2023-10-07T15:00:05.8735773+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:58:35.8340856+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:04:47.4601759+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:58:34.4784091+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:04:37.6998635+00:00"
 }

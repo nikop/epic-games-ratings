@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12372,
+  "EOS_Progressed": 12378,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 2577,
+  "EOS_NewPlayers": 2548,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2460,6 +2460,11 @@
       "Time": "2023-10-11T07:05:07.0919689+00:00",
       "NumProgressed": 12372,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-11T08:04:56.8416811+00:00",
+      "NumProgressed": 12378,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -2470,9 +2475,9 @@
       "ID": "achievement_1",
       "SetID": "2bk7oji",
       "Name": "It Took Two",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4951
     },
     {
       "ID": "achievement_10",
@@ -2496,7 +2501,7 @@
       "Name": "On Rails Experience",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6808
     },
     {
       "ID": "achievement_13",
@@ -2504,7 +2509,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "achievement_14",
@@ -2512,7 +2517,7 @@
       "Name": "Force Triangulated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "achievement_15",
@@ -2520,7 +2525,7 @@
       "Name": "Lost And Found",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "achievement_16",
@@ -2536,7 +2541,7 @@
       "Name": "Something Fishy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "achievement_18",
@@ -2544,7 +2549,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "achievement_19",
@@ -2552,7 +2557,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "achievement_2",
@@ -2568,7 +2573,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "achievement_3",
@@ -2576,7 +2581,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10764
+      "UsersEstimate": 10769
     },
     {
       "ID": "achievement_4",
@@ -2584,7 +2589,7 @@
       "Name": "Struck A Pose",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 10764
+      "UsersEstimate": 10769
     },
     {
       "ID": "achievement_5",
@@ -2592,7 +2597,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "achievement_6",
@@ -2608,7 +2613,7 @@
       "Name": "Look At Him Go",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 9526
+      "UsersEstimate": 9531
     },
     {
       "ID": "achievement_8",
@@ -2616,7 +2621,7 @@
       "Name": "Break the Bank",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5199
     },
     {
       "ID": "achievement_9",
@@ -2624,20 +2629,20 @@
       "Name": "A Daring Devil",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6310
+      "UsersEstimate": 6313
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 12372,
+      "Progressed": 12378,
       "Completed": 52
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:05:07.0919684+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:04:56.8416806+00:00",
   "LastUpdate_AppInfo": "2023-10-07T13:57:28.0662391+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:57:52.4686653+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:05:07.0919973+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:57:53.5044293+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:04:56.841713+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2708,9 +2708,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 653080,
+  "EOS_Progressed": 653083,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2468,
+  "EOS_NewPlayers": 2458,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22323,6 +22323,11 @@
       "Time": "2023-10-11T07:05:33.9062339+00:00",
       "NumProgressed": 653080,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-11T08:05:22.8660628+00:00",
+      "NumProgressed": 653083,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -22382,7 +22387,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84900
+      "UsersEstimate": 84901
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -22454,7 +22459,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84900
+      "UsersEstimate": 84901
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -22749,15 +22754,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 653080,
+      "Progressed": 653083,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-09T17:02:40.4221354+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:05:33.9062334+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:05:22.8660624+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:08.7369498+00:00",
-  "LastUpdate_Ratings": "2023-10-11T06:03:16.3534528+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:05:33.9063929+00:00"
+  "LastUpdate_Ratings": "2023-10-11T07:57:05.8379895+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:05:22.8662232+00:00"
 }

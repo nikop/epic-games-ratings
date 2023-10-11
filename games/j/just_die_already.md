@@ -5,7 +5,7 @@ Rating: 4.52 (Ranked 537)
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 105  (Ranked 340)  
-Sum: 834 (Ranked 268)  
+Sum: 835 (Ranked 268)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 72
 | This game has Diverse Characters | 98 |
 | This game is Great for Beginners | 88 |
 | This game is Extremely Fun | 86 |
-| This game has a Silly Community | 81 |
+| This game has a Silly Community | 82 |
 | This game is Great for Quick Sessions | 80 |
 | This game has Amazing Storytelling | 79 |
 | This game is Relaxing | 78 |
@@ -143,3 +143,4 @@ Diff (max vs sum): 72
 | 2023-10-06 | 4.52 | - | 104 | 830 |
 | 2023-10-07 | 4.52 | - | 105 | 832 |
 | 2023-10-08 | 4.52 | - | 105 | 834 |
+| 2023-10-11 | 4.52 | - | 105 | 835 |

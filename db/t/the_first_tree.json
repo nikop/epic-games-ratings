@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36610,
+  "EOS_Progressed": 36611,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -15304,6 +15304,11 @@
       "Time": "2023-10-11T06:05:47.2999142+00:00",
       "NumProgressed": 36610,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-11T08:05:25.1017923+00:00",
+      "NumProgressed": 36611,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -15315,7 +15320,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "150stars",
@@ -15395,7 +15400,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9152
+      "UsersEstimate": 9153
     },
     {
       "ID": "firstItem",
@@ -15426,15 +15431,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36610,
+      "Progressed": 36611,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-10-11T07:05:36.2927952+00:00",
+  "LastChanged_Achievements": "2023-10-11T08:05:25.101792+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:51.0981807+00:00",
-  "LastUpdate_Ratings": "2023-10-11T07:00:35.973825+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:05:36.2928969+00:00"
+  "LastUpdate_Ratings": "2023-10-11T08:02:11.6675249+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:05:25.1018946+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "magic-leap",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:58:46.7293756+00:00",
-  "LastUpdate_Ratings": "2023-10-11T07:00:30.4684383+00:00",
-  "LastUpdate_Achievements": "2023-10-11T07:06:01.0863886+00:00"
+  "LastUpdate_Ratings": "2023-10-11T08:02:05.6801223+00:00",
+  "LastUpdate_Achievements": "2023-10-11T08:05:49.0782412+00:00"
 }

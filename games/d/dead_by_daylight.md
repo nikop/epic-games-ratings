@@ -6,32 +6,32 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 1.00% | ~9,319 |
-| It wakes | 1.00% | ~9,319 |
-| Not half bad | 1.00% | ~9,319 |
-| Skillful | 1.00% | ~9,319 |
-| Make Some Noise | 1.00% | ~9,319 |
-| Handyman | 0.90% | ~8,387 |
-| Apt Survivor | 0.90% | ~8,387 |
-| Survival Treasures | 0.90% | ~8,387 |
-| Medic | 0.80% | ~7,455 |
-| Sorted | 0.80% | ~7,455 |
-| Resurgence | 0.80% | ~7,455 |
-| The Grand Sacrifice | 0.70% | ~6,523 |
-| No one left behind | 0.70% | ~6,523 |
-| Nerves of steel | 0.70% | ~6,523 |
-| Bloody Millionaire | 0.70% | ~6,523 |
-| I | 0.70% | ~6,523 |
-| Healthy Obsession | 0.70% | ~6,523 |
-| Preemptive Strike | 0.70% | ~6,523 |
-| Humanitarian | 0.70% | ~6,523 |
+| Zealous | 1.00% | ~9,320 |
+| It wakes | 1.00% | ~9,320 |
+| Not half bad | 1.00% | ~9,320 |
+| Skillful | 1.00% | ~9,320 |
+| Make Some Noise | 1.00% | ~9,320 |
+| Handyman | 0.90% | ~8,388 |
+| Apt Survivor | 0.90% | ~8,388 |
+| Survival Treasures | 0.90% | ~8,388 |
+| Medic | 0.80% | ~7,456 |
+| Sorted | 0.80% | ~7,456 |
+| Resurgence | 0.80% | ~7,456 |
+| The Grand Sacrifice | 0.70% | ~6,524 |
+| No one left behind | 0.70% | ~6,524 |
+| Nerves of steel | 0.70% | ~6,524 |
+| Bloody Millionaire | 0.70% | ~6,524 |
+| I | 0.70% | ~6,524 |
+| Healthy Obsession | 0.70% | ~6,524 |
+| Preemptive Strike | 0.70% | ~6,524 |
+| Humanitarian | 0.70% | ~6,524 |
 | Agonizing Escape | 0.60% | ~5,592 |
 | Backdoor Escape | 0.60% | ~5,592 |
 | I've got your back | 0.60% | ~5,592 |
 | Perfect Escape | 0.60% | ~5,592 |
+| Perfect Killing | 0.60% | ~5,592 |
 | Engineer | 0.60% | ~5,592 |
 | Close Shave | 0.60% | ~5,592 |
-| Perfect Killing | 0.50% | ~4,660 |
 | Apt Killer | 0.50% | ~4,660 |
 | Risk it all | 0.50% | ~4,660 |
 | II | 0.50% | ~4,660 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,921 (Ranked 14)  
+Progressed: 931,961 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,921 | 49 |
+| 2023-10-11 | 931,961 | 49 |
 ## Awards
 Max (Diverse Characters): 33,734  (Ranked 15)  
 Sum: 261,070 (Ranked 13)  

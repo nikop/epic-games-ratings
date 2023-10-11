@@ -16,7 +16,7 @@ Rating: 4.18 (Ranked 897)
 | Lock and Key | 23.00% | ~16,884 |
 | Something in the Clay | 21.00% | ~15,416 |
 | Quartzer Life Crisis | 21.00% | ~15,416 |
-| Working Hard or Harley Working? | 20.00% | ~14,682 |
+| Working Hard or Harley Working? | 21.00% | ~15,416 |
 | Unstoppable Force | 20.00% | ~14,682 |
 | Bad Apples in Every Orchard | 20.00% | ~14,682 |
 | Snow Problem | 19.00% | ~13,948 |
