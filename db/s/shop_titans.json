@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6472,9 +6472,9 @@
       "Count": 3759
     }
   ],
-  "EOS_Progressed": 137453,
+  "EOS_Progressed": 137454,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24337,6 +24337,11 @@
       "Time": "2023-10-11T20:07:20.8160428+00:00",
       "NumProgressed": 137453,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-10-11T21:09:20.1002078+00:00",
+      "NumProgressed": 137454,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 112,
@@ -25074,9 +25079,9 @@
       "ID": "quest03",
       "SetID": "anfd17p",
       "Name": "Eternal Crusade",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 550
     },
     {
       "ID": "quest04",
@@ -25243,15 +25248,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137453,
+      "Progressed": 137454,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-11T19:01:56.6933267+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:07:20.8160421+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:09:20.1002072+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:52.7124415+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:33.094002+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:07:20.8163444+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:11.3897408+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:09:20.1004424+00:00"
 }

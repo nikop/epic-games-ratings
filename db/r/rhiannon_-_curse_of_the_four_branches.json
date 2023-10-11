@@ -2,10 +2,10 @@
   "ID": "9585c813d62c4ce48ad329d5a731f4f4",
   "Name": "Rhiannon - Curse of the Four Branches",
   "ProductSlug": "rhiannon-curse-of-the-four-branches-ae93f9",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-20T16:00:00+00:00",
     "PcReleaseDate": "2008-10-06T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.7808654+00:00",
   "LastChanged": "2023-03-31T05:57:54.7808655+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:23.0749035+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:58:36.0589774+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:06:39.0483551+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:59:29.6096936+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:08:36.8374909+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 3381,
-  "Ranking_EOS_NewCompleters": 3381,
+  "Ranking_EOS_NewPlayers": 3382,
+  "Ranking_EOS_NewCompleters": 3382,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -564,7 +564,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19057,
+  "EOS_Progressed": 19056,
   "EOS_Completed": 34,
   "EOS_NewPlayers": -109,
   "EOS_NewCompleters": -1,
@@ -7539,6 +7539,11 @@
       "Time": "2023-10-11T20:04:49.1413405+00:00",
       "NumProgressed": 19057,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-11T21:06:11.2984435+00:00",
+      "NumProgressed": 19056,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -7558,7 +7563,7 @@
       "Name": "Helper of the People",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7622
     },
     {
       "ID": "ach.030.deertastic",
@@ -7606,7 +7611,7 @@
       "Name": "Eraser",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 13721
+      "UsersEstimate": 13720
     },
     {
       "ID": "ach.090.perfectionist",
@@ -7614,7 +7619,7 @@
       "Name": "Perfectionist",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4573
     },
     {
       "ID": "ach.100.indecisive",
@@ -7654,7 +7659,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 100,
       "XP": 60,
-      "UsersEstimate": 19057
+      "UsersEstimate": 19056
     },
     {
       "ID": "ach.150.pocket",
@@ -7686,7 +7691,7 @@
       "Name": "Inspector",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 11625
+      "UsersEstimate": 11624
     },
     {
       "ID": "ach.190.scenic",
@@ -7702,7 +7707,7 @@
       "Name": "Let There be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6288
     },
     {
       "ID": "ach.210.baron",
@@ -7710,7 +7715,7 @@
       "Name": "Oil Baron",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8195
+      "UsersEstimate": 8194
     },
     {
       "ID": "ach.220.hot",
@@ -7734,7 +7739,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 8195
+      "UsersEstimate": 8194
     },
     {
       "ID": "ach.250.downfall",
@@ -7742,7 +7747,7 @@
       "Name": "Before the Downfall",
       "Percentage": 96,
       "XP": 60,
-      "UsersEstimate": 18295
+      "UsersEstimate": 18294
     },
     {
       "ID": "ach.260.investor",
@@ -7758,7 +7763,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1524
     },
     {
       "ID": "ach.280.metropolis",
@@ -7806,7 +7811,7 @@
       "Name": "Money like Water",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 17914
+      "UsersEstimate": 17913
     },
     {
       "ID": "ach.340.steel",
@@ -7822,7 +7827,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4574
+      "UsersEstimate": 4573
     },
     {
       "ID": "ach.360.lightning",
@@ -7845,7 +7850,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19057,
+      "Progressed": 19056,
       "Completed": 34
     }
   ],
@@ -7853,8 +7858,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-06T13:57:39.9280558+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:04:49.1413398+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:06:11.2984428+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:26.6773402+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:59:57.3349242+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:04:49.1414592+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:01:24.1442823+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:06:11.2985281+00:00"
 }

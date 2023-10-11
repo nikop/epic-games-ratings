@@ -2,10 +2,10 @@
   "ID": "4732e5016d91415892b020ad0594b47a",
   "Name": "Duck Life 8 - Adventure",
   "ProductSlug": "duck-life-8-adventure-2d24dd",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-25T00:00:00+00:00",
     "PcReleaseDate": "2020-06-22T11:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-07T14:59:04.5425892+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:57:19.7950385+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:06:09.8766206+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:57:58.2080994+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:07:47.4617808+00:00"
 }

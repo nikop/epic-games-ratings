@@ -1,46 +1,46 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 279)  
+Rating: 4.66 (Ranked 280)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~2,997 |
-| On the Top Step | 89.00% | ~2,808 |
-| Setting up for Success | 78.00% | ~2,461 |
-| Team Orders | 76.00% | ~2,398 |
-| Engineer | 56.00% | ~1,767 |
-| Familiar Faces | 50.00% | ~1,578 |
-| Going the Extra Mile | 44.00% | ~1,388 |
-| Sharing the Love | 42.00% | ~1,325 |
-| Hitting a Season | 38.00% | ~1,199 |
-| Challenge Yourself | 35.00% | ~1,104 |
-| A Dozen Pieces | 33.00% | ~1,041 |
-| Making History | 33.00% | ~1,041 |
-| Network Success | 26.00% | ~820 |
-| Writing a new Chapter | 26.00% | ~820 |
-| Spring Cleaning | 24.00% | ~757 |
-| Reduce | 20.00% | ~631 |
-| Ups and Downs | 20.00% | ~631 |
-| Crucial Combo | 19.00% | ~599 |
-| One for the Book | 18.00% | ~568 |
-| Reuse | 17.00% | ~536 |
-| Proving Them Wrong | 17.00% | ~536 |
+| Getting on the Step | 95.00% | ~3,001 |
+| On the Top Step | 89.00% | ~2,812 |
+| Setting up for Success | 78.00% | ~2,464 |
+| Team Orders | 76.00% | ~2,401 |
+| Engineer | 56.00% | ~1,769 |
+| Familiar Faces | 50.00% | ~1,580 |
+| Going the Extra Mile | 44.00% | ~1,390 |
+| Sharing the Love | 42.00% | ~1,327 |
+| Hitting a Season | 38.00% | ~1,200 |
+| Challenge Yourself | 35.00% | ~1,106 |
+| A Dozen Pieces | 33.00% | ~1,042 |
+| Making History | 33.00% | ~1,042 |
+| Network Success | 26.00% | ~821 |
+| Writing a new Chapter | 26.00% | ~821 |
+| Spring Cleaning | 24.00% | ~758 |
+| Reduce | 20.00% | ~632 |
+| Ups and Downs | 20.00% | ~632 |
+| Crucial Combo | 19.00% | ~600 |
+| One for the Book | 18.00% | ~569 |
+| Reuse | 17.00% | ~537 |
+| Proving Them Wrong | 17.00% | ~537 |
 | Gathering Dust | 16.00% | ~505 |
 | Oil and Water | 16.00% | ~505 |
 | Hitting a Bullseye | 14.00% | ~442 |
-| Eagle Eye | 13.00% | ~410 |
-| Lightning Round the World | 13.00% | ~410 |
-| Recycle | 13.00% | ~410 |
+| Eagle Eye | 13.00% | ~411 |
+| Lightning Round the World | 13.00% | ~411 |
+| Recycle | 13.00% | ~411 |
 | All in a Weekend's Work | 12.00% | ~379 |
 | Spinning Around | 12.00% | ~379 |
 | Switcheroo | 11.00% | ~347 |
 | Tinkerer | 11.00% | ~347 |
 | Friendly Competition | 10.00% | ~316 |
 | Undisputed Winner | 9.00% | ~284 |
-| For all Those Back at the Factory | 6.00% | ~189 |
-| Living up to Expectations | 6.00% | ~189 |
-| Smooth Operator | 6.00% | ~189 |
+| For all Those Back at the Factory | 6.00% | ~190 |
+| Living up to Expectations | 6.00% | ~190 |
+| Smooth Operator | 6.00% | ~190 |
 | Loyal Bond | 5.00% | ~158 |
 | Peak Performance | 5.00% | ~158 |
 | Seasoned Rookie | 3.00% | ~95 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 279)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,155 (Ranked 189)  
+Progressed: 3,159 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 313)
 | 2023-10-08 | 3,083 | 0 |
 | 2023-10-09 | 3,114 | 0 |
 | 2023-10-10 | 3,132 | 0 |
-| 2023-10-11 | 3,155 | 0 |
+| 2023-10-11 | 3,159 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

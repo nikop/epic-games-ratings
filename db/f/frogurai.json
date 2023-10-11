@@ -2,10 +2,10 @@
   "ID": "9814b5f0d1a44f839e6f94d3dd9aa9d2",
   "Name": "Frogurai",
   "ProductSlug": "frogurai-a8d2df",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-23T11:00:00+00:00",
     "PcReleaseDate": "2023-03-10T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-31T21:00:16.7034674+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:04.0503712+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:02:15.9381387+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:07:08.2500656+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:03:49.5843051+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:09:02.792659+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 690,
-  "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 531,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2990,9 +2990,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_HUB2",
@@ -3086,8 +3086,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-05T15:02:30.1081746+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:03:19.8370877+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:04:25.0403514+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:14.9821566+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:59:25.0638154+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:03:19.8371424+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:00:39.1617997+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:04:25.0403912+00:00"
 }

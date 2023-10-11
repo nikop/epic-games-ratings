@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1428,
+  "EOS_Progressed": 1430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2664,6 +2664,11 @@
       "Time": "2023-10-11T20:05:48.6160042+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T21:07:32.0355892+00:00",
+      "NumProgressed": 1430,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -2676,7 +2681,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2692,7 +2697,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2706,9 +2711,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 272
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2732,7 +2737,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2826,9 +2831,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "c7hf6a4",
       "Name": "The Road to Liberty",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 43
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2884,7 +2889,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -2972,7 +2977,7 @@
       "Name": "Eat My Dust",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3067,14 +3072,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1428,
+      "Progressed": 1430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:05:48.6160036+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:07:32.0355885+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:00.8071833+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:43.6490473+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:05:48.6160643+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:27.8508626+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:07:32.0356631+00:00"
 }

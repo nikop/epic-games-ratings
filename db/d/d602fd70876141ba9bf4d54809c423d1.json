@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -1130,8 +1130,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:06:16.3676807+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:08:06.120809+00:00",
   "LastUpdate_AppInfo": "2023-10-04T21:57:01.2165637+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:57:14.3360651+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:06:16.3678348+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:57:48.5160865+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:08:06.1209012+00:00"
 }

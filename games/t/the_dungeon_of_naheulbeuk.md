@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~75,953 |
+| Sowwy! | 33.00% | ~75,957 |
 | Alt+F4 | 6.00% | ~13,810 |
-| Déjà vu | 5.00% | ~11,508 |
-| Where's that freaking Dwarf? | 5.00% | ~11,508 |
-| Sock! SOCK! | 4.00% | ~9,206 |
+| Déjà vu | 5.00% | ~11,509 |
+| Where's that freaking Dwarf? | 5.00% | ~11,509 |
+| Sock! SOCK! | 4.00% | ~9,207 |
 | A beer, two curses, three companions | 3.00% | ~6,905 |
 | GG EZ | 3.00% | ~6,905 |
 | DM intervention | 3.00% | ~6,905 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,302 |
 | The Ranger of Chaos | 1.00% | ~2,302 |
 | Thieves' Guild Accreditation | 1.00% | ~2,302 |
-| Dead for good | 0.90% | ~2,071 |
-| Lust and Debauchery | 0.90% | ~2,071 |
-| Material Girl | 0.90% | ~2,071 |
+| Dead for good | 0.90% | ~2,072 |
+| Lust and Debauchery | 0.90% | ~2,072 |
+| Material Girl | 0.90% | ~2,072 |
 | Gargantua | 0.80% | ~1,841 |
 | In Navalu's footsteps | 0.70% | ~1,611 |
 | Lëgal Legend | 0.60% | ~1,381 |
@@ -51,9 +51,9 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.50% | ~1,151 |
 | Scholar of the Lands of Fangh | 0.40% | ~921 |
 | Law and Order | 0.40% | ~921 |
-| Friendly fire | 0.30% | ~690 |
-| I'd rather... Just... Sing! | 0.30% | ~690 |
-| It's been a hard day's night | 0.30% | ~690 |
+| Friendly fire | 0.30% | ~691 |
+| I'd rather... Just... Sing! | 0.30% | ~691 |
+| It's been a hard day's night | 0.30% | ~691 |
 | The number of the counting shalt be 7 | 0.20% | ~460 |
 | 100% satisfaction guarantee | 0.20% | ~460 |
 | Death is for wimps | 0.20% | ~460 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~230 |
 | Dwarf Candy | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,162 (Ranked 60)  
+Progressed: 230,173 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 5 (0.00%) (Ranked 313)
 | 2023-10-08 | 229,641 | 5 |
 | 2023-10-09 | 229,845 | 5 |
 | 2023-10-10 | 230,022 | 5 |
-| 2023-10-11 | 230,162 | 5 |
+| 2023-10-11 | 230,173 | 5 |
 ## Awards
 Max (Character Customization): 212  (Ranked 275)  
 Sum: 419 (Ranked 324)  

@@ -102,10 +102,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.50% | ~687 |
 | Thank You Tom Nook | 0.40% | ~550 |
 | Jackpot! | 0.40% | ~550 |
+| Eternal Crusade | 0.40% | ~550 |
 | All Accounted For | 0.40% | ~550 |
 | The Free Encyclopedia | 0.30% | ~412 |
 | All or Nothing! | 0.30% | ~412 |
-| Eternal Crusade | 0.30% | ~412 |
 | Bane of Legends | 0.20% | ~275 |
 | Ultimate Collector | 0.20% | ~275 |
 | Oligarch Monarch | 0.20% | ~275 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~137 |
 | Cash Only Please | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,453 (Ranked 73)  
+Progressed: 137,454 (Ranked 73)  
 Completed: 168 (0.12%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 168 (0.12%) (Ranked 240)
 | 2023-10-08 | 137,336 | 167 |
 | 2023-10-09 | 137,384 | 167 |
 | 2023-10-10 | 137,421 | 168 |
-| 2023-10-11 | 137,453 | 168 |
+| 2023-10-11 | 137,454 | 168 |
 ## Awards
 Max (Great for Beginners): 4,779  (Ranked 71)  
 Sum: 27,370 (Ranked 51)  

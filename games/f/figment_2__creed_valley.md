@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Hog Down | 35.00% | ~7 |
+| Ouch, that hurt! | 30.00% | ~6 |
 | Remembering of the past | 30.00% | ~6 |
-| Ouch, that hurt! | 25.00% | ~5 |
 | Slam-KABAM | 20.00% | ~4 |
 | A heavy thinker | 20.00% | ~4 |
+| Fight like an idiot | 20.00% | ~4 |
 | Repair the Mind Validation Machine | 20.00% | ~4 |
 | Heavy Thoughts | 15.00% | ~3 |
-| Fight like an idiot | 15.00% | ~3 |
 | Dance like an idiot | 15.00% | ~3 |
 | Flee like an idiot | 15.00% | ~3 |
 | I'm Back at the Surface now | 10.00% | ~2 |

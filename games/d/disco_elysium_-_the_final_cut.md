@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,282 |
-| Biggest Communism Builder | 24.00% | ~31,099 |
+| Goodest Of The Good Cops | 28.00% | ~36,283 |
+| Biggest Communism Builder | 24.00% | ~31,100 |
 | The World's Most Laughable Centrist | 21.00% | ~27,212 |
-| Il Coppo Del'Arte! | 18.00% | ~23,324 |
+| Il Coppo Del'Arte! | 18.00% | ~23,325 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,733 |
 | Hyperstellar Law Official | 16.00% | ~20,733 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,141 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,141 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,845 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,142 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,142 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,846 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,254 |
 | Unbelievably Boring **** | 9.00% | ~11,662 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,662 |
-| Enemy Of The Physical Realm | 8.00% | ~10,366 |
+| Enemy Of The Physical Realm | 8.00% | ~10,367 |
 | Hardie's Heroes | 6.00% | ~7,775 |
 | The Lawbringer | 4.00% | ~5,183 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,183 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,580 (Ranked 75)  
+Progressed: 129,583 (Ranked 75)  
 Completed: 28 (0.02%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,14 +221,14 @@ Completed: 28 (0.02%) (Ranked 286)
 | 2023-10-08 | 129,493 | 28 |
 | 2023-10-09 | 129,519 | 28 |
 | 2023-10-10 | 129,557 | 28 |
-| 2023-10-11 | 129,580 | 28 |
+| 2023-10-11 | 129,583 | 28 |
 ## Awards
-Max (Character Customization): 728  (Ranked 172)  
-Sum: 1,096 (Ranked 241)  
+Max (Character Customization): 732  (Ranked 172)  
+Sum: 1,100 (Ranked 241)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 728 |
+| This game has Inclusive Character Customization | 732 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 43 |
@@ -377,3 +377,4 @@ Diff (max vs sum): -69
 | 2023-09-27 | 4.87 | - | 726 | 1,093 |
 | 2023-10-02 | 4.87 | - | 728 | 1,095 |
 | 2023-10-06 | 4.87 | - | 728 | 1,096 |
+| 2023-10-11 | 4.87 | - | 732 | 1,100 |

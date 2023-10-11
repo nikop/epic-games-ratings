@@ -3,12 +3,12 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 40,
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -9040,11 +9040,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 33434,
       "NumberOfAwardsMax": 6005
+    },
+    {
+      "Time": "2023-10-11T21:01:55.3290534+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33503,
+      "NumberOfAwardsMax": 6048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33434,
-  "NumberOfAwardsMax": 6005,
+  "NumberOfAwards": 33503,
+  "NumberOfAwardsMax": 6048,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -9075,7 +9081,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3231
+      "Count": 3257
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9087,7 +9093,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6005
+      "Count": 6048
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9138,8 +9144,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-10-11T20:00:22.8609797+00:00",
+  "LastChanged": "2023-10-11T21:01:55.3290532+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:39.1478876+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:22.8609804+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:08:36.3666891+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:01:55.3290544+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:10:21.395065+00:00"
 }

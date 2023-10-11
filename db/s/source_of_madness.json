@@ -2,10 +2,10 @@
   "ID": "4775f296567c401cae87f51f0d1698e1",
   "Name": "Source of Madness",
   "ProductSlug": "source-of-madness-287857",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-11T15:00:00+00:00",
     "PcReleaseDate": "2022-05-11T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.0278193+00:00",
   "LastChanged": "2023-03-31T05:57:57.0278194+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:06.0707674+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:48.6109429+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:05:01.6820238+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:36.2679565+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:06:28.4683347+00:00"
 }

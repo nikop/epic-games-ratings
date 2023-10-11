@@ -2,10 +2,10 @@
   "ID": "7b65870a995e41339f9fa75744afb23d",
   "Name": "Dungeon No Dungeon_Tyrant\u0027s Endgame",
   "ProductSlug": "dungeon-no-dungeon_tyrants-endgame-a34d66",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-09T07:57:05.4991651+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:58:32.9819055+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:04:22.6218277+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:59:24.4336157+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:05:35.8224599+00:00"
 }

@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 318)  
+Rating: 4.64 (Ranked 319)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 318)
 | It's Like The Santa Clause | 0.10% | ~1 |
 | That's B.A.L.L., Folks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,187 (Ranked 119)  
+Progressed: 24,189 (Ranked 119)  
 Completed: 13 (0.05%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 13 (0.05%) (Ranked 270)
 | 2023-10-08 | 24,152 | 13 |
 | 2023-10-09 | 24,168 | 13 |
 | 2023-10-10 | 24,177 | 13 |
-| 2023-10-11 | 24,187 | 13 |
+| 2023-10-11 | 24,189 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

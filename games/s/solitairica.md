@@ -4,9 +4,9 @@
 Rating: 4.50 (Ranked 572)  
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 84  (Ranked 367)  
+Max (Quickly Understood Controls): 84  (Ranked 368)  
 Sum: 584 (Ranked 302)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 84 |

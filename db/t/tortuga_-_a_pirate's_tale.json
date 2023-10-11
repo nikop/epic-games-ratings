@@ -3,12 +3,12 @@
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
   "Ranking_Rating": 1002,
-  "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 531,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16812,
+  "EOS_Progressed": 16813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5613,6 +5613,11 @@
       "Time": "2023-10-11T18:03:51.0046575+00:00",
       "NumProgressed": 16812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-11T21:04:42.4824736+00:00",
+      "NumProgressed": 16813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5624,7 +5629,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15971
+      "UsersEstimate": 15972
     },
     {
       "ID": "ACH001",
@@ -5632,7 +5637,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14458
+      "UsersEstimate": 14459
     },
     {
       "ID": "ACH0010",
@@ -5744,7 +5749,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5884
+      "UsersEstimate": 5885
     },
     {
       "ID": "ACH0023",
@@ -5760,7 +5765,7 @@
       "Name": "Pirate King",
       "Percentage": 0.8,
       "XP": 110,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH0025",
@@ -5784,7 +5789,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14626
+      "UsersEstimate": 14627
     },
     {
       "ID": "ACH005",
@@ -5808,7 +5813,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACH008",
@@ -5816,7 +5821,7 @@
       "Name": "Oooh, We\u0027re Half Way There",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH009",
@@ -5831,7 +5836,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16812,
+      "Progressed": 16813,
       "Completed": 0
     }
   ],
@@ -5839,8 +5844,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-04T01:42:23.3161505+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:03:32.6495805+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:04:42.482473+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:31.092943+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:03:05.9611709+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:03:32.6496708+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:04:01.1457272+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:04:42.4825231+00:00"
 }

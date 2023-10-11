@@ -5,15 +5,15 @@ Rating: 4.29 (Ranked 818)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~8,032 |
+| Man 'O War | 21.00% | ~8,033 |
 | A Good Day To Die | 15.00% | ~5,738 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,295 |
 | Right Back Atcha | 6.00% | ~2,295 |
-| Killed by Death | 5.00% | ~1,912 |
+| Killed by Death | 5.00% | ~1,913 |
 | Kill 'Em All | 4.00% | ~1,530 |
 | Down Boy! | 2.00% | ~765 |
 | A Snowball's Chance in Hell | 2.00% | ~765 |
-| Enjoy The Silence | 1.00% | ~382 |
+| Enjoy The Silence | 1.00% | ~383 |
 | Sure Footed As A Goat | 0.90% | ~344 |
 | Backdoor Man | 0.90% | ~344 |
 | Thorn in My Herbicide | 0.80% | ~306 |
@@ -30,12 +30,12 @@ Rating: 4.29 (Ranked 818)
 | Smack My Imp Up | 0.40% | ~153 |
 | Vroll With It | 0.30% | ~115 |
 | Swift of Foot, Keen of Blade | 0.30% | ~115 |
-| Flame Retardant | 0.20% | ~76 |
+| Flame Retardant | 0.20% | ~77 |
 | Too Metal For Magic | 0.10% | ~38 |
 | Heart Of Steel | 0.10% | ~38 |
 | Death or Glory | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,250 (Ranked 111)  
+Progressed: 38,253 (Ranked 111)  
 Completed: 25 (0.07%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 25 (0.07%) (Ranked 260)
 | 2023-10-08 | 38,100 | 25 |
 | 2023-10-09 | 38,147 | 25 |
 | 2023-10-10 | 38,215 | 25 |
-| 2023-10-11 | 38,250 | 25 |
+| 2023-10-11 | 38,253 | 25 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 320)  
 Sum: 127 (Ranked 416)  

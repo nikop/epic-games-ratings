@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,370 |
+| No aid from the Omnissiah | 26.00% | ~58,371 |
 | This is only the beginning | 19.00% | ~42,655 |
 | Knowledge is power | 12.00% | ~26,940 |
 | Galvanic Rifle | 10.00% | ~22,450 |
@@ -30,17 +30,17 @@ Rating: 4.43 (Ranked 672)
 | Hard | 0.20% | ~449 |
 | Sensory overload | 0.20% | ~449 |
 | Transonic Blur | 0.20% | ~449 |
-| Sterile Perfection | 0.10% | ~224 |
-| Impossible | 0.10% | ~224 |
-| Melee Machine | 0.10% | ~224 |
-| AoE-phobia | 0.10% | ~224 |
-| Zero to Hero | 0.10% | ~224 |
-| No Omnissian Guidance | 0.10% | ~224 |
-| Not the Men-of-Iron | 0.10% | ~224 |
-| Perma-live | 0.10% | ~224 |
-| Purge the Heretek | 0.10% | ~224 |
+| Sterile Perfection | 0.10% | ~225 |
+| Impossible | 0.10% | ~225 |
+| Melee Machine | 0.10% | ~225 |
+| AoE-phobia | 0.10% | ~225 |
+| Zero to Hero | 0.10% | ~225 |
+| No Omnissian Guidance | 0.10% | ~225 |
+| Not the Men-of-Iron | 0.10% | ~225 |
+| Perma-live | 0.10% | ~225 |
+| Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,500 (Ranked 62)  
+Progressed: 224,502 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 5 (0.00%) (Ranked 313)
 | 2023-10-08 | 224,310 | 5 |
 | 2023-10-09 | 224,376 | 5 |
 | 2023-10-10 | 224,445 | 5 |
-| 2023-10-11 | 224,500 | 5 |
+| 2023-10-11 | 224,502 | 5 |
 ## Awards
 Max (Highly Recommended): 285  (Ranked 247)  
 Sum: 2,163 (Ranked 198)  

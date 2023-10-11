@@ -2,10 +2,10 @@
   "ID": "8c73bcc38bd4440f945d81ac7774b418",
   "Name": "Amnesia: The Bunker",
   "ProductSlug": "amnesia-the-bunker-9d5799",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-06T07:00:00+00:00",
     "PcReleaseDate": "2023-06-06T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-06T15:59:13.5155782+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:02.9071782+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:02:15.1808519+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:08:23.8351068+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:03:48.3589464+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:10:04.0343273+00:00"
 }

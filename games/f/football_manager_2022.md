@@ -1,35 +1,35 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 81)  
+Rating: 4.80 (Ranked 82)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,200 |
-| He's Signed! | 50.00% | ~237,200 |
-| First Victory | 50.00% | ~237,200 |
-| He's Sold! | 48.00% | ~227,712 |
-| I'm The Boss! | 42.00% | ~199,248 |
-| Hat-trick | 41.00% | ~194,504 |
-| Scoring Streak | 38.00% | ~180,272 |
-| Unbeatable! | 37.00% | ~175,528 |
-| Thumping | 37.00% | ~175,528 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,040 |
-| Total Support | 32.00% | ~151,808 |
-| Record Signing | 32.00% | ~151,808 |
-| He's a Natural | 31.00% | ~147,064 |
-| Millionaire's Club | 31.00% | ~147,064 |
-| Team Performance | 30.00% | ~142,320 |
-| Parked The Bus | 29.00% | ~137,576 |
-| Shrewd Spender | 29.00% | ~137,576 |
-| Star Man | 29.00% | ~137,576 |
-| Attack! | 28.00% | ~132,832 |
-| You're On Fire | 27.00% | ~128,088 |
-| Tremendous Trio | 27.00% | ~128,088 |
-| Record Sale | 27.00% | ~128,088 |
-| On A Roll | 26.00% | ~123,344 |
-| Unstoppable Force | 26.00% | ~123,344 |
+| Clean Sheet | 50.00% | ~237,201 |
+| He's Signed! | 50.00% | ~237,201 |
+| First Victory | 50.00% | ~237,201 |
+| He's Sold! | 48.00% | ~227,713 |
+| I'm The Boss! | 42.00% | ~199,249 |
+| Hat-trick | 41.00% | ~194,505 |
+| Scoring Streak | 38.00% | ~180,273 |
+| Unbeatable! | 37.00% | ~175,529 |
+| Thumping | 37.00% | ~175,529 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,041 |
+| Total Support | 32.00% | ~151,809 |
+| Record Signing | 32.00% | ~151,809 |
+| He's a Natural | 31.00% | ~147,065 |
+| Millionaire's Club | 31.00% | ~147,065 |
+| Team Performance | 30.00% | ~142,321 |
+| Parked The Bus | 29.00% | ~137,577 |
+| Shrewd Spender | 29.00% | ~137,577 |
+| Star Man | 29.00% | ~137,577 |
+| Attack! | 28.00% | ~132,833 |
+| You're On Fire | 27.00% | ~128,089 |
+| Tremendous Trio | 27.00% | ~128,089 |
+| Record Sale | 27.00% | ~128,089 |
+| On A Roll | 26.00% | ~123,345 |
+| Unstoppable Force | 26.00% | ~123,345 |
 | Armchair Expert | 25.00% | ~118,600 |
 | Fantastic Five | 24.00% | ~113,856 |
 | Full Faith | 24.00% | ~113,856 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~474 |
 | Shoestring Budget | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,401 (Ranked 36)  
+Progressed: 474,402 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 22 (0.00%) (Ranked 313)
 | 2023-10-08 | 474,304 | 22 |
 | 2023-10-09 | 474,338 | 22 |
 | 2023-10-10 | 474,374 | 22 |
-| 2023-10-11 | 474,401 | 22 |
+| 2023-10-11 | 474,402 | 22 |
 ## Awards
 Max (Relaxing): 6,459  (Ranked 56)  
 Sum: 50,853 (Ranked 27)  

@@ -2,10 +2,10 @@
   "ID": "178581eea2254939b03212df69dd8021",
   "Name": "Earthblade",
   "ProductSlug": "earthblade-74c470",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-11T02:57:18.8717095+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:58:15.0775834+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:05:41.4453675+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:59:05.8623705+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:07:22.0611902+00:00"
 }

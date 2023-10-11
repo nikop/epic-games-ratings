@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25835,
+  "EOS_Progressed": 25836,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -19980,6 +19980,11 @@
       "Time": "2023-10-11T20:07:13.2287039+00:00",
       "NumProgressed": 25835,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-11T21:09:09.4365283+00:00",
+      "NumProgressed": 25836,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 22,
@@ -19999,7 +20004,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "1017",
@@ -20023,7 +20028,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "1020",
@@ -20079,7 +20084,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "1027",
@@ -20143,7 +20148,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "1035",
@@ -20166,15 +20171,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 25835,
+      "Progressed": 25836,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:07:13.2287034+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:09:09.4365276+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:37.0739283+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:58:08.8141753+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:07:13.2288592+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:58:59.0653594+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:09:09.4366888+00:00"
 }

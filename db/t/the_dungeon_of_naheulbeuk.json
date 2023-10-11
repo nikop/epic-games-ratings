@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1140,9 +1140,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 230162,
+  "EOS_Progressed": 230173,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1491,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14320,6 +14320,11 @@
       "Time": "2023-10-11T20:06:40.5169122+00:00",
       "NumProgressed": 230162,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-11T21:08:38.7727803+00:00",
+      "NumProgressed": 230173,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 88,
@@ -14379,7 +14384,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11508
+      "UsersEstimate": 11509
     },
     {
       "ID": "Chapter2",
@@ -14451,7 +14456,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "CompanionMinstrel",
@@ -14459,7 +14464,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "CompanionNone",
@@ -14731,7 +14736,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11508
+      "UsersEstimate": 11509
     },
     {
       "ID": "DwarfElf15Support",
@@ -14763,7 +14768,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9206
+      "UsersEstimate": 9207
     },
     {
       "ID": "ElfEpic",
@@ -14779,7 +14784,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75953
+      "UsersEstimate": 75957
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -14859,7 +14864,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "KillGolbargh",
@@ -14923,7 +14928,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "QuestMinstrel",
@@ -14947,7 +14952,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "RangerEpic",
@@ -15019,7 +15024,7 @@
       "Name": "Material Girl",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "WizardResistBurn",
@@ -15034,21 +15039,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 230162,
+      "Progressed": 230173,
       "Completed": 5
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 230162,
+      "Progressed": 230173,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-11T19:01:44.5403059+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:06:40.5169114+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:08:38.7727796+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.3182894+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:27.4071541+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:06:40.5172352+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:02.5863933+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:08:38.7729526+00:00"
 }

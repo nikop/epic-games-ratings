@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.90% | ~131 |
 | Warrior | 0.90% | ~131 |
 | Developing Cities | 0.90% | ~131 |
+| Pyramids | 0.90% | ~131 |
 | Christianity | 0.90% | ~131 |
 | Babylonian Paganism | 0.90% | ~131 |
 | Greek Paganism | 0.90% | ~131 |
@@ -42,11 +43,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.80% | ~117 |
 | Ishtar Gate | 0.80% | ~117 |
 | Lighthouse | 0.80% | ~117 |
-| Pyramids | 0.80% | ~117 |
 | Carthaginian Paganism | 0.80% | ~117 |
 | Zoroastrianism | 0.80% | ~117 |
 | Kushite Pyramids | 0.80% | ~117 |
 | Brilliant | 0.70% | ~102 |
+| Great | 0.70% | ~102 |
 | Furious Family | 0.70% | ~102 |
 | Great Ziggurat | 0.70% | ~102 |
 | Musaeum | 0.70% | ~102 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.70% | ~102 |
 | Roman Paganism | 0.70% | ~102 |
 | Drillmaster | 0.60% | ~88 |
-| Great | 0.60% | ~88 |
 | Valiant | 0.60% | ~88 |
 | Legendary Cities | 0.60% | ~88 |
 | Just Difficulty | 0.60% | ~88 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,601 (Ranked 134)  
+Progressed: 14,603 (Ranked 134)  
 Completed: 5 (0.03%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -523,7 +523,7 @@ Completed: 5 (0.03%) (Ranked 282)
 | 2023-10-08 | 14,534 | 5 |
 | 2023-10-09 | 14,562 | 5 |
 | 2023-10-10 | 14,586 | 5 |
-| 2023-10-11 | 14,601 | 5 |
+| 2023-10-11 | 14,603 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,833 (Ranked 210)  

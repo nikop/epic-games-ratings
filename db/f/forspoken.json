@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -406,9 +406,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42038,
+  "EOS_Progressed": 42040,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10446,6 +10446,11 @@
       "Time": "2023-10-11T20:04:32.3653887+00:00",
       "NumProgressed": 42038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-11T21:05:48.8950306+00:00",
+      "NumProgressed": 42040,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -10793,7 +10798,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "SPRING_ALL",
@@ -10880,22 +10885,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42038,
+      "Progressed": 42040,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 6875,
-      "Completed": 6875
+      "Progressed": 6877,
+      "Completed": 6877
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-06T21:58:13.2562711+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:04:32.3653881+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:05:48.89503+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:46.5200946+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:00:26.7034633+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:04:32.3655162+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:01.1866284+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:05:48.8951536+00:00"
 }

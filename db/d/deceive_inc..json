@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 531,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18330,
+  "EOS_Progressed": 18331,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -11376,6 +11376,11 @@
       "Time": "2023-10-11T10:07:34.9271665+00:00",
       "NumProgressed": 18330,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-11T21:08:09.5501459+00:00",
+      "NumProgressed": 18331,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11395,7 +11400,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "0003",
@@ -11443,7 +11448,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "0009",
@@ -11619,15 +11624,15 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "0031",
       "SetID": "2n2feee",
       "Name": "Private Collection",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2016
     },
     {
       "ID": "0032",
@@ -11674,7 +11679,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18330,
+      "Progressed": 18331,
       "Completed": 4
     }
   ],
@@ -11682,8 +11687,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-11T20:06:18.9754153+00:00",
+  "LastChanged_Achievements": "2023-10-11T21:08:09.5501451+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:09.6905795+00:00",
-  "LastUpdate_Ratings": "2023-10-11T19:57:37.090261+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:06:18.9755129+00:00"
+  "LastUpdate_Ratings": "2023-10-11T20:58:18.6253621+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:08:09.5502443+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 537,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 268,
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
     "PcReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1563,10 +1563,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 835,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-10-11T21:02:56.8526163+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 836,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 835,
+  "NumberOfAwards": 836,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1628,7 +1634,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1654,8 +1660,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-10-11T08:00:02.8889371+00:00",
+  "LastChanged": "2023-10-11T21:02:56.8526161+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:22.1723086+00:00",
-  "LastUpdate_Ratings": "2023-10-11T20:01:05.5692527+00:00",
-  "LastUpdate_Achievements": "2023-10-11T20:03:21.4465424+00:00"
+  "LastUpdate_Ratings": "2023-10-11T21:02:56.8526166+00:00",
+  "LastUpdate_Achievements": "2023-10-11T21:04:27.054928+00:00"
 }
