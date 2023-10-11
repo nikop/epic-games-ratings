@@ -794,9 +794,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -1161,8 +1161,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:49:08.6307829+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:22:13.9244984+00:00",
   "LastUpdate_AppInfo": "2023-10-09T13:09:09.0618232+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:52.6898133+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:49:08.6308662+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:14:32.3398136+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:22:13.9245828+00:00"
 }

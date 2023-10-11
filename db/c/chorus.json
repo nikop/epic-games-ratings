@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -2234,6 +2234,11 @@
       "Time": "2023-10-10T17:04:20.26099+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-11T02:19:52.4878652+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2245,7 +2250,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "DieInPermadeath",
@@ -2261,7 +2266,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "Finish5SideMissions",
@@ -2269,7 +2274,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2277,7 +2282,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "GatlingVsArmor",
@@ -2285,7 +2290,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2309,7 +2314,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "MasteryOfCombat",
@@ -2373,7 +2378,7 @@
       "Name": "Payback",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2405,7 +2410,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -2419,9 +2424,9 @@
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 496
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -2437,7 +2442,7 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "MissionOldFriend",
@@ -2469,7 +2474,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "MissionShipyard",
@@ -2541,7 +2546,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "RiteOfTheStar",
@@ -2557,15 +2562,15 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 533
     },
     {
       "ID": "VisitAllLocations",
@@ -2573,7 +2578,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "WinARace",
@@ -2588,15 +2593,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:46:19.9108464+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:19:52.4878647+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:25.1216494+00:00",
-  "LastUpdate_Ratings": "2023-10-11T00:02:20.0949259+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:46:19.9109227+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:13:25.2095903+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:19:52.4878984+00:00"
 }

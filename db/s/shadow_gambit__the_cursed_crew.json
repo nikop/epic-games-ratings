@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -98,9 +98,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -2098,6 +2098,11 @@
       "Time": "2023-10-10T16:05:40.3337698+00:00",
       "NumProgressed": 718,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-11T02:21:58.069366+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2108,17 +2113,17 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 216
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 475
     },
     {
       "ID": "_03_FinishAct1",
@@ -2150,7 +2155,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "_07_FinishAct3",
@@ -2180,9 +2185,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 173
     },
     {
       "ID": "_11_Completion_40",
@@ -2238,7 +2243,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2252,9 +2257,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 129
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2317,7 +2322,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 23
     }
   ],
@@ -2325,8 +2330,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-02T00:00:41.2116731+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:48:49.432425+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:58.0693655+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:22.4303238+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:41:41.2275185+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:49.4324497+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:15:13.0258652+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:58.0693897+00:00"
 }

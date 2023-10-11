@@ -162,9 +162,9 @@
       "ID": "a14",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Lights in the sky",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a15",
@@ -178,33 +178,33 @@
       "ID": "a16",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Ruins of old",
-      "Percentage": 6,
-      "XP": 20,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "a17",
-      "SetID": "cdg65ol",
-      "Name": "Shrub-Seeing: Silly Birbs",
       "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 2
     },
     {
+      "ID": "a17",
+      "SetID": "cdg65ol",
+      "Name": "Shrub-Seeing: Silly Birbs",
+      "Percentage": 18,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "a18",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Ancient Extractor",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a19",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Seen it all!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a2",
@@ -346,9 +346,9 @@
       "ID": "a35",
       "SetID": "cdg65ol",
       "Name": "Froggy Friendship",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "a4",
@@ -370,9 +370,9 @@
       "ID": "a6",
       "SetID": "cdg65ol",
       "Name": "Secure the Sheets",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a7",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:47:18.5056738+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:20:41.4210776+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:38.4592564+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:16.2282271+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:47:18.5056988+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:14:00.5979089+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:20:41.421103+00:00"
 }

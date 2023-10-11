@@ -114,9 +114,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75481,
+  "EOS_Progressed": 75483,
   "EOS_Completed": 791,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -19469,6 +19469,11 @@
       "Time": "2023-10-11T01:48:12.9307185+00:00",
       "NumProgressed": 75481,
       "NumCompleted": 791
+    },
+    {
+      "Time": "2023-10-11T02:21:26.6413877+00:00",
+      "NumProgressed": 75483,
+      "NumCompleted": 791
     }
   ],
   "TotalAchievements": 25,
@@ -19552,7 +19557,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "Hearty",
@@ -19584,7 +19589,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "Meaty",
@@ -19600,7 +19605,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14341
+      "UsersEstimate": 14342
     },
     {
       "ID": "Nice Try",
@@ -19672,14 +19677,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6039
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 75481,
+      "Progressed": 75483,
       "Completed": 791
     }
   ],
@@ -19687,8 +19692,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:48:12.930718+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:26.6413871+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:32.9396838+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:12.1468546+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:12.9308457+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:13:58.4262519+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:26.641487+00:00"
 }

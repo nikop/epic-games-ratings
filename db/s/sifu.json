@@ -6888,9 +6888,9 @@
       "Count": 395
     }
   ],
-  "EOS_Progressed": 715604,
+  "EOS_Progressed": 715605,
   "EOS_Completed": 12917,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -22483,6 +22483,11 @@
       "Time": "2023-10-11T01:48:43.4043696+00:00",
       "NumProgressed": 715604,
       "NumCompleted": 12917
+    },
+    {
+      "Time": "2023-10-11T02:21:52.9464063+00:00",
+      "NumProgressed": 715605,
+      "NumCompleted": 12917
     }
   ],
   "TotalAchievements": 60,
@@ -22596,9 +22601,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2147
     },
     {
       "ID": "15_Detective_H1",
@@ -22973,21 +22978,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24905,
+      "Progressed": 24906,
       "Completed": 10698
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715604,
+      "Progressed": 715605,
       "Completed": 12917
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-10T21:00:02.0842778+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:48:43.4043691+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:52.9464057+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:57:42.9664628+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:42:13.2873119+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:43.4045494+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:15:39.3782586+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:52.9465357+00:00"
 }

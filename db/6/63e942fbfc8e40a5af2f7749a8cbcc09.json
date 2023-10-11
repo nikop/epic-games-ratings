@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:50:25.1986435+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:25:07.9717862+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:28.3587764+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:41:14.6775907+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:50:25.1986673+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:14:51.6566293+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:25:07.9718079+00:00"
 }

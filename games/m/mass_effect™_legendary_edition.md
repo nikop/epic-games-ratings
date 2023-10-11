@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 95.00% | ~616 |
-| Spectre Inductee | 84.00% | ~544 |
+| Spectre Inductee | 85.00% | ~551 |
 | Medal of Exploration I | 76.00% | ~492 |
 | Recruit | 72.00% | ~467 |
 | Search and Rescue | 72.00% | ~467 |
-| Quarian Ally | 69.00% | ~447 |
+| Quarian Ally | 70.00% | ~454 |
 | Medal of Heroism | 67.00% | ~434 |
 | Honorarium of Corporate Service | 67.00% | ~434 |
 | Council Legion of Merit | 61.00% | ~395 |
@@ -82,10 +82,10 @@
 | Giant Killer | 23.00% | ~149 |
 | World Shaker | 23.00% | ~149 |
 | Tunnel Rat | 22.00% | ~143 |
+| Arbiter | 22.00% | ~143 |
 | Savior | 21.00% | ~136 |
 | Paramour II | 21.00% | ~136 |
 | Pathfinder | 21.00% | ~136 |
-| Arbiter | 21.00% | ~136 |
 | Lost and Found | 21.00% | ~136 |
 | Party Crasher | 20.00% | ~130 |
 | Problem Solver | 20.00% | ~130 |

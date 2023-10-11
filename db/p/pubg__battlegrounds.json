@@ -5008,9 +5008,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 641615,
+  "EOS_Progressed": 641617,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12724,
+  "EOS_NewPlayers": 12708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24648,6 +24648,11 @@
       "Time": "2023-10-11T01:50:05.0761186+00:00",
       "NumProgressed": 641615,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-11T02:23:01.4721019+00:00",
+      "NumProgressed": 641617,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -24667,7 +24672,7 @@
       "Name": "Marksman Master",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 19248
+      "UsersEstimate": 19249
     },
     {
       "ID": "11",
@@ -24731,7 +24736,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 173236
+      "UsersEstimate": 173237
     },
     {
       "ID": "19",
@@ -24739,7 +24744,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 468379
+      "UsersEstimate": 468380
     },
     {
       "ID": "2",
@@ -24835,7 +24840,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 19248
+      "UsersEstimate": 19249
     },
     {
       "ID": "30",
@@ -24851,7 +24856,7 @@
       "Name": "Guardian Angel",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 224565
+      "UsersEstimate": 224566
     },
     {
       "ID": "32",
@@ -24899,7 +24904,7 @@
       "Name": "Health Junkie",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 256646
+      "UsersEstimate": 256647
     },
     {
       "ID": "4",
@@ -24954,7 +24959,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 641615,
+      "Progressed": 641617,
       "Completed": 10
     }
   ],
@@ -24962,8 +24967,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-10-10T18:59:38.6605921+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:50:05.076118+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:23:01.4721013+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:09.5729082+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:42:42.8432011+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:50:05.0763326+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:16:03.4339191+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:23:01.4722206+00:00"
 }

@@ -326,9 +326,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110829,
+  "EOS_Progressed": 110830,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13941,6 +13941,11 @@
       "Time": "2023-10-11T01:50:17.8881258+00:00",
       "NumProgressed": 110829,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-10-11T02:23:12.3565543+00:00",
+      "NumProgressed": 110830,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 49,
@@ -13960,7 +13965,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 85338
+      "UsersEstimate": 85339
     },
     {
       "ID": "EAwards_10",
@@ -14024,7 +14029,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39898
+      "UsersEstimate": 39899
     },
     {
       "ID": "EAwards_18",
@@ -14224,7 +14229,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "EAwards_40",
@@ -14320,7 +14325,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "EAwards_8",
@@ -14328,7 +14333,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "EAwards_9",
@@ -14343,7 +14348,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 110829,
+      "Progressed": 110830,
       "Completed": 45
     }
   ],
@@ -14351,8 +14356,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:50:17.8881252+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:23:12.3565531+00:00",
   "LastUpdate_AppInfo": "2023-10-06T01:39:33.4628061+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:08.4143147+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:50:17.8882278+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:13:55.4013095+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:23:12.3566513+00:00"
 }

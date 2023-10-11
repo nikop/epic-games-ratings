@@ -10560,9 +10560,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 427636,
+  "EOS_Progressed": 427642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5916,
+  "EOS_NewPlayers": 5911,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30250,6 +30250,11 @@
       "Time": "2023-10-11T01:51:06.7818536+00:00",
       "NumProgressed": 427636,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-11T02:25:26.3553587+00:00",
+      "NumProgressed": 427642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -31261,7 +31266,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17105
+      "UsersEstimate": 17106
     },
     {
       "ID": "achievement_grand_coalition",
@@ -32925,7 +32930,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17105
+      "UsersEstimate": 17106
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -33092,21 +33097,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 427636,
+      "Progressed": 427642,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 427636,
+      "Progressed": 427642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-11T01:41:39.6641051+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:51:06.7818529+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:25:26.3553581+00:00",
   "LastUpdate_AppInfo": "2023-10-07T12:59:02.2822326+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:41:39.6641061+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:51:06.7829777+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:15:11.6738372+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:25:26.3564209+00:00"
 }

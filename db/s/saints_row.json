@@ -3786,9 +3786,9 @@
       "Count": 1069
     }
   ],
-  "EOS_Progressed": 74558,
+  "EOS_Progressed": 74560,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -23291,6 +23291,11 @@
       "Time": "2023-10-11T01:48:18.540379+00:00",
       "NumProgressed": 74558,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-11T02:21:31.4351847+00:00",
+      "NumProgressed": 74560,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -23318,7 +23323,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13420
+      "UsersEstimate": 13421
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -23334,7 +23339,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8201
+      "UsersEstimate": 8202
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -23390,7 +23395,7 @@
       "Name": "Showdown",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11929
+      "UsersEstimate": 11930
     },
     {
       "ID": "complete_first_side_hustle",
@@ -23398,7 +23403,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -23414,7 +23419,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34297
+      "UsersEstimate": 34298
     },
     {
       "ID": "customize_a_vehicle",
@@ -23422,7 +23427,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 24604
+      "UsersEstimate": 24605
     },
     {
       "ID": "customize_a_weapon",
@@ -23430,7 +23435,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 27586
+      "UsersEstimate": 27587
     },
     {
       "ID": "cutting_edge_materials",
@@ -23446,7 +23451,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -23518,7 +23523,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17148
+      "UsersEstimate": 17149
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -23550,7 +23555,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 26841
+      "UsersEstimate": 26842
     },
     {
       "ID": "hit_max_level",
@@ -23558,7 +23563,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11929
+      "UsersEstimate": 11930
     },
     {
       "ID": "infinite_boost_refill",
@@ -23582,7 +23587,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20876
+      "UsersEstimate": 20877
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -23686,7 +23691,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31314
+      "UsersEstimate": 31315
     },
     {
       "ID": "whole_map_purple",
@@ -23725,13 +23730,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 74558,
+      "Progressed": 74560,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 46195,
+      "Progressed": 46197,
       "Completed": 4073
     }
   ],
@@ -23739,8 +23744,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-10T22:00:55.8126775+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:48:18.5403784+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:31.4351842+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:36.8950193+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:43:15.1933543+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:18.540555+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:16:27.6831464+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:31.4353094+00:00"
 }

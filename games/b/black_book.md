@@ -6,33 +6,33 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 26.00% | ~10,628 |
-| Student | 20.00% | ~8,175 |
-| Knower | 15.00% | ~6,131 |
+| Initiation | 26.00% | ~10,629 |
+| Student | 20.00% | ~8,176 |
+| Knower | 15.00% | ~6,132 |
 | Listener | 14.00% | ~5,723 |
-| Aspen Tree | 13.00% | ~5,314 |
-| Healer | 13.00% | ~5,314 |
-| Scientist | 11.00% | ~4,496 |
-| Soldier | 11.00% | ~4,496 |
+| Aspen Tree | 13.00% | ~5,315 |
+| Healer | 13.00% | ~5,315 |
+| Scientist | 11.00% | ~4,497 |
+| Soldier | 11.00% | ~4,497 |
 | Cow Level | 10.00% | ~4,088 |
 | Old Friend | 9.00% | ~3,679 |
 | Herbalist | 9.00% | ~3,679 |
 | New Spirits | 9.00% | ~3,679 |
 | Water | 9.00% | ~3,679 |
-| Card Player | 8.00% | ~3,270 |
-| Pine Tree | 8.00% | ~3,270 |
-| Voipel | 8.00% | ~3,270 |
-| Collector | 8.00% | ~3,270 |
-| Wolf | 8.00% | ~3,270 |
-| Black Mage | 8.00% | ~3,270 |
-| Worthy | 7.00% | ~2,861 |
-| Black Book | 7.00% | ~2,861 |
-| Dead Man | 7.00% | ~2,861 |
-| Fern | 7.00% | ~2,861 |
-| 100 Friends | 7.00% | ~2,861 |
-| Dead Friend | 7.00% | ~2,861 |
-| Researcher | 7.00% | ~2,861 |
-| Savvy | 7.00% | ~2,861 |
+| Card Player | 8.00% | ~3,271 |
+| Pine Tree | 8.00% | ~3,271 |
+| Voipel | 8.00% | ~3,271 |
+| Collector | 8.00% | ~3,271 |
+| Wolf | 8.00% | ~3,271 |
+| Black Mage | 8.00% | ~3,271 |
+| Worthy | 7.00% | ~2,862 |
+| Black Book | 7.00% | ~2,862 |
+| Dead Man | 7.00% | ~2,862 |
+| Fern | 7.00% | ~2,862 |
+| 100 Friends | 7.00% | ~2,862 |
+| Dead Friend | 7.00% | ~2,862 |
+| Researcher | 7.00% | ~2,862 |
+| Savvy | 7.00% | ~2,862 |
 | Black Sorcerer | 6.00% | ~2,453 |
 | Encyclopedist | 6.00% | ~2,453 |
 | Witch | 6.00% | ~2,453 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~409 |
 | Word Master | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,876 (Ranked 109)  
+Progressed: 40,882 (Ranked 109)  
 Completed: 29 (0.07%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 29 (0.07%) (Ranked 259)
 | 2023-10-08 | 40,063 | 28 |
 | 2023-10-09 | 40,467 | 28 |
 | 2023-10-10 | 40,846 | 29 |
-| 2023-10-11 | 40,876 | 29 |
+| 2023-10-11 | 40,882 | 29 |
 ## Awards
 Max (Character Customization): 72  (Ranked 385)  
 Sum: 72 (Ranked 449)  

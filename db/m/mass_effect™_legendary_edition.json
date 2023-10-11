@@ -1889,9 +1889,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_29",
@@ -1921,9 +1921,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_32",
@@ -2417,9 +2417,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_89",
@@ -2533,8 +2533,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:49:54.1802832+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:22:52.5617821+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:40.7255751+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:42.1216185+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:49:54.1804602+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:14:24.6363631+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:22:52.5619641+00:00"
 }

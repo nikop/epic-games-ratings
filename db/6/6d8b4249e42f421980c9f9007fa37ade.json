@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -841,8 +841,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:47:00.6633208+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:20:26.8580502+00:00",
   "LastUpdate_AppInfo": "2023-10-05T11:57:28.1707106+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:40:30.7523017+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:47:00.6633575+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:14:15.77246+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:20:26.8580847+00:00"
 }

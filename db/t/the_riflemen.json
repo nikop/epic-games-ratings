@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22087,
+  "EOS_Progressed": 22088,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 3317,
+  "EOS_NewPlayers": 3315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 53.24,
   "EosHistory": [
@@ -5026,6 +5026,11 @@
       "Time": "2023-10-11T01:48:34.1437149+00:00",
       "NumProgressed": 22087,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-11T02:21:44.7828928+00:00",
+      "NumProgressed": 22088,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -5062,7 +5067,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "headshots1000",
@@ -5149,14 +5154,14 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 22087,
+      "Progressed": 22088,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:48:34.1437143+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:44.7828924+00:00",
   "LastUpdate_AppInfo": "2023-10-07T09:57:22.1549513+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:42:51.588636+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:34.1437603+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:16:10.1480794+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:44.7829266+00:00"
 }

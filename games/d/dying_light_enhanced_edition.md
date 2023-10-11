@@ -6,44 +6,44 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 91.00% | ~3,640,354 |
-| Little Craftsman | 89.00% | ~3,560,346 |
-| Flight of the Crane | 86.00% | ~3,440,335 |
-| My left or your left? | 52.00% | ~2,080,202 |
-| Prom Night | 45.00% | ~1,800,175 |
-| Mouths Wide Open | 38.00% | ~1,520,148 |
-| Can't Touch This | 37.00% | ~1,480,144 |
-| I've Got Your Back | 37.00% | ~1,480,144 |
-| Open Sesame | 36.00% | ~1,440,140 |
-| Strong | 36.00% | ~1,440,140 |
-| Harran Shooting Club | 32.00% | ~1,280,124 |
-| Agile | 31.00% | ~1,240,121 |
-| Snake in the grass | 30.00% | ~1,200,117 |
-| Everybody Knows Kyle | 30.00% | ~1,200,117 |
-| Trade Company | 29.00% | ~1,160,113 |
-| Sightseeing | 29.00% | ~1,160,113 |
-| Hush, Hush Now | 25.00% | ~1,000,097 |
-| Making Faces | 25.00% | ~1,000,097 |
-| Tied loose end | 23.00% | ~920,089 |
-| Vertigo | 22.00% | ~880,086 |
-| Now You Can Come In | 21.00% | ~840,082 |
-| The Legend of Harran | 20.00% | ~800,078 |
-| Bittersweet | 19.00% | ~760,074 |
-| Pheidippides | 17.00% | ~680,066 |
-| Everybody Dance Now | 14.00% | ~560,054 |
-| Afraid to get wet? | 14.00% | ~560,054 |
-| BBQ | 10.00% | ~400,039 |
-| Disaster Recovery | 8.00% | ~320,031 |
-| Pearls in the Mud | 8.00% | ~320,031 |
-| I felt your presence | 8.00% | ~320,031 |
-| Mount Everest | 7.00% | ~280,027 |
-| A Game of Catch | 7.00% | ~280,027 |
-| Master Crafter | 7.00% | ~280,027 |
-| I was waiting for you for so long | 7.00% | ~280,027 |
-| Now It's Safe | 6.00% | ~240,023 |
-| Gabriel's Sword | 5.00% | ~200,019 |
-| And you liked him, didn't you? | 5.00% | ~200,019 |
-| What if you picked the other one? | 5.00% | ~200,019 |
+| Is It Really Necessary? | 91.00% | ~3,640,374 |
+| Little Craftsman | 89.00% | ~3,560,366 |
+| Flight of the Crane | 86.00% | ~3,440,353 |
+| My left or your left? | 52.00% | ~2,080,214 |
+| Prom Night | 45.00% | ~1,800,185 |
+| Mouths Wide Open | 38.00% | ~1,520,156 |
+| Can't Touch This | 37.00% | ~1,480,152 |
+| I've Got Your Back | 37.00% | ~1,480,152 |
+| Open Sesame | 36.00% | ~1,440,148 |
+| Strong | 36.00% | ~1,440,148 |
+| Harran Shooting Club | 32.00% | ~1,280,132 |
+| Agile | 31.00% | ~1,240,127 |
+| Snake in the grass | 30.00% | ~1,200,123 |
+| Everybody Knows Kyle | 30.00% | ~1,200,123 |
+| Trade Company | 29.00% | ~1,160,119 |
+| Sightseeing | 29.00% | ~1,160,119 |
+| Hush, Hush Now | 25.00% | ~1,000,103 |
+| Making Faces | 25.00% | ~1,000,103 |
+| Tied loose end | 23.00% | ~920,095 |
+| Vertigo | 22.00% | ~880,090 |
+| Now You Can Come In | 21.00% | ~840,086 |
+| The Legend of Harran | 20.00% | ~800,082 |
+| Bittersweet | 19.00% | ~760,078 |
+| Pheidippides | 17.00% | ~680,070 |
+| Everybody Dance Now | 14.00% | ~560,058 |
+| Afraid to get wet? | 14.00% | ~560,058 |
+| BBQ | 10.00% | ~400,041 |
+| Disaster Recovery | 8.00% | ~320,033 |
+| Pearls in the Mud | 8.00% | ~320,033 |
+| I felt your presence | 8.00% | ~320,033 |
+| Mount Everest | 7.00% | ~280,029 |
+| A Game of Catch | 7.00% | ~280,029 |
+| Master Crafter | 7.00% | ~280,029 |
+| I was waiting for you for so long | 7.00% | ~280,029 |
+| Now It's Safe | 6.00% | ~240,025 |
+| Gabriel's Sword | 5.00% | ~200,021 |
+| And you liked him, didn't you? | 5.00% | ~200,021 |
+| What if you picked the other one? | 5.00% | ~200,021 |
 | We're All In This Together | 4.00% | ~160,016 |
 | A Long Way Down | 4.00% | ~160,016 |
 | Bolter Hunting | 3.00% | ~120,012 |
@@ -85,7 +85,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~4,000 |
 | Into the lava | 0.10% | ~4,000 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,000,389 (Ranked 3)  
+Progressed: 4,000,411 (Ranked 3)  
 Completed: 46 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 46 (0.00%) (Ranked 312)
 | 2023-10-08 | 3,997,284 | 46 |
 | 2023-10-09 | 3,998,760 | 46 |
 | 2023-10-10 | 4,000,269 | 46 |
-| 2023-10-11 | 4,000,389 | 46 |
+| 2023-10-11 | 4,000,411 | 46 |
 ## Awards
 Max (Character Customization): 46,434  (Ranked 12)  
 Sum: 87,823 (Ranked 19)  

@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.30% | ~2,147 |
 | A Lady's Blood in the Snow | 0.30% | ~2,147 |
 | Lady Wing Chun | 0.30% | ~2,147 |
+| Kill Nil | 0.30% | ~2,147 |
 | Stuntmaster | 0.30% | ~2,147 |
 | Street Fighting | 0.30% | ~2,147 |
 | Life is your teacher | 0.30% | ~2,147 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.30% | ~75 |
 | Furious Fists | 0.20% | ~1,431 |
 | Scareless | 0.20% | ~1,431 |
-| Kill Nil | 0.20% | ~1,431 |
 | Dance of the Praying Mantis | 0.20% | ~1,431 |
 | Qi Gong: Mind | 0.20% | ~1,431 |
 | I know Kung-Fu | 0.20% | ~1,431 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,604 (Ranked 20)  
+Progressed: 715,605 (Ranked 20)  
 Completed: 12,917 (1.81%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 12,917 (1.81%) (Ranked 114)
 | 2023-10-08 | 715,575 | 12,915 |
 | 2023-10-09 | 715,589 | 12,915 |
 | 2023-10-10 | 715,602 | 12,917 |
-| 2023-10-11 | 715,604 | 12,917 |
+| 2023-10-11 | 715,605 | 12,917 |
 ## Awards
 Max (Great Boss Battles): 6,662  (Ranked 54)  
 Sum: 11,545 (Ranked 83)  

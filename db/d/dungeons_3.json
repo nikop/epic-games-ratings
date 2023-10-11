@@ -2794,9 +2794,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 33152,
+  "EOS_Progressed": 33154,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 912,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -21764,6 +21764,11 @@
       "Time": "2023-10-11T01:47:44.5285049+00:00",
       "NumProgressed": 33152,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-11T02:21:03.3710975+00:00",
+      "NumProgressed": 33154,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 60,
@@ -21775,7 +21780,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 19228
+      "UsersEstimate": 19229
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -21783,7 +21788,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -21791,7 +21796,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 18897
+      "UsersEstimate": 18898
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -21815,7 +21820,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 7293
+      "UsersEstimate": 7294
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -21871,7 +21876,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5967
+      "UsersEstimate": 5968
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -21887,7 +21892,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 16244
+      "UsersEstimate": 16245
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -21911,7 +21916,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10277
+      "UsersEstimate": 10278
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -21919,7 +21924,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7957
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -21935,7 +21940,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12266
+      "UsersEstimate": 12267
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -21943,7 +21948,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7957
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -21959,7 +21964,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7957
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -21967,7 +21972,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 12266
+      "UsersEstimate": 12267
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -21983,7 +21988,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 14255
+      "UsersEstimate": 14256
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -21991,7 +21996,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 13261
+      "UsersEstimate": 13262
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -22007,7 +22012,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 13592
+      "UsersEstimate": 13593
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -22015,7 +22020,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8951
+      "UsersEstimate": 8952
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -22031,7 +22036,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8951
+      "UsersEstimate": 8952
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -22135,7 +22140,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 10277
+      "UsersEstimate": 10278
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -22151,7 +22156,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10940
+      "UsersEstimate": 10941
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -22159,7 +22164,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -22167,7 +22172,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9614
+      "UsersEstimate": 9615
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -22175,7 +22180,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 22875
+      "UsersEstimate": 22876
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -22199,7 +22204,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -22254,15 +22259,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 33152,
+      "Progressed": 33154,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-10T17:59:44.4776675+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:47:44.5285044+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:03.371097+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:58:08.7087735+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:42:41.6226704+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:47:44.5286754+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:16:02.3112845+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:03.3712261+00:00"
 }

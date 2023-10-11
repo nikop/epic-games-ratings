@@ -14,8 +14,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Handyman | 0.90% | ~8,385 |
 | Apt Survivor | 0.90% | ~8,385 |
 | Survival Treasures | 0.90% | ~8,385 |
-| Sorted | 0.80% | ~7,453 |
-| Resurgence | 0.80% | ~7,453 |
+| Sorted | 0.80% | ~7,454 |
+| Resurgence | 0.80% | ~7,454 |
 | The Grand Sacrifice | 0.70% | ~6,522 |
 | No one left behind | 0.70% | ~6,522 |
 | Medic | 0.70% | ~6,522 |
@@ -30,12 +30,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Perfect Escape | 0.60% | ~5,590 |
 | Engineer | 0.60% | ~5,590 |
 | Humanitarian | 0.60% | ~5,590 |
-| Perfect Killing | 0.50% | ~4,658 |
-| Apt Killer | 0.50% | ~4,658 |
-| Risk it all | 0.50% | ~4,658 |
-| II | 0.50% | ~4,658 |
-| Wounded Healer | 0.50% | ~4,658 |
-| Close Shave | 0.50% | ~4,658 |
+| Perfect Killing | 0.50% | ~4,659 |
+| Apt Killer | 0.50% | ~4,659 |
+| Risk it all | 0.50% | ~4,659 |
+| II | 0.50% | ~4,659 |
+| Wounded Healer | 0.50% | ~4,659 |
+| Close Shave | 0.50% | ~4,659 |
 | Vulture | 0.40% | ~3,727 |
 | III | 0.40% | ~3,727 |
 | First to the Punch | 0.40% | ~3,727 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~932 |
 | Adept Ripley | 0.10% | ~932 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 931,682 (Ranked 14)  
+Progressed: 931,719 (Ranked 14)  
 Completed: 49 (0.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -410,7 +410,7 @@ Completed: 49 (0.01%) (Ranked 294)
 | 2023-10-08 | 927,984 | 49 |
 | 2023-10-09 | 929,902 | 49 |
 | 2023-10-10 | 931,511 | 49 |
-| 2023-10-11 | 931,682 | 49 |
+| 2023-10-11 | 931,719 | 49 |
 ## Awards
 Max (Diverse Characters): 33,667  (Ranked 15)  
 Sum: 261,003 (Ranked 13)  

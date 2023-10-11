@@ -11213,9 +11213,9 @@
       "Count": 25275
     }
   ],
-  "EOS_Progressed": 931682,
+  "EOS_Progressed": 931719,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 13970,
+  "EOS_NewPlayers": 13969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30913,6 +30913,11 @@
       "Time": "2023-10-11T01:47:51.2497677+00:00",
       "NumProgressed": 931682,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-11T02:21:09.2332295+00:00",
+      "NumProgressed": 931719,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 229,
@@ -31084,7 +31089,7 @@
       "Name": "Perfect Killing",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_022",
@@ -31140,7 +31145,7 @@
       "Name": "Apt Killer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_029",
@@ -31148,7 +31153,7 @@
       "Name": "Risk it all",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_030",
@@ -31244,7 +31249,7 @@
       "Name": "II",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_042",
@@ -31492,7 +31497,7 @@
       "Name": "Sorted",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7453
+      "UsersEstimate": 7454
     },
     {
       "ID": "ACH_073",
@@ -31820,7 +31825,7 @@
       "Name": "Wounded Healer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_114",
@@ -32140,7 +32145,7 @@
       "Name": "Resurgence",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7453
+      "UsersEstimate": 7454
     },
     {
       "ID": "ACH_157",
@@ -32236,7 +32241,7 @@
       "Name": "Close Shave",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "ACH_169",
@@ -32755,21 +32760,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 931682,
+      "Progressed": 931719,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 931682,
+      "Progressed": 931719,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-10T20:02:29.9846643+00:00",
-  "LastChanged_Achievements": "2023-10-11T01:47:51.2497672+00:00",
+  "LastChanged_Achievements": "2023-10-11T02:21:09.2332291+00:00",
   "LastUpdate_AppInfo": "2023-10-07T14:59:11.5924675+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:43:55.8699473+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:47:51.2504825+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:17:00.5130249+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:09.2338187+00:00"
 }

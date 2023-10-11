@@ -5,24 +5,24 @@ Rating: 4.40 (Ranked 718)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~99,241 |
-| 74 miles East of Otaheité | 56.00% | ~69,469 |
-| Interesting... | 42.00% | ~52,101 |
-| The Everhart Expedition | 39.00% | ~48,380 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,215 |
-| Seaside Serenade | 30.00% | ~37,215 |
-| Halfway there | 29.00% | ~35,975 |
-| A brigantine, a brig and a barque | 28.00% | ~34,734 |
-| 506 East Hampden Avenue | 28.00% | ~34,734 |
-| Weekend at Walakea's | 27.00% | ~33,494 |
-| Quite a Show | 27.00% | ~33,494 |
-| Dark Water Ride | 24.00% | ~29,772 |
-| Sunken | 24.00% | ~29,772 |
-| Deep Cut | 24.00% | ~29,772 |
+| A Family Heirloom | 80.00% | ~99,243 |
+| 74 miles East of Otaheité | 56.00% | ~69,470 |
+| Interesting... | 42.00% | ~52,103 |
+| The Everhart Expedition | 39.00% | ~48,381 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,216 |
+| Seaside Serenade | 30.00% | ~37,216 |
+| Halfway there | 29.00% | ~35,976 |
+| A brigantine, a brig and a barque | 28.00% | ~34,735 |
+| 506 East Hampden Avenue | 28.00% | ~34,735 |
+| Weekend at Walakea's | 27.00% | ~33,495 |
+| Quite a Show | 27.00% | ~33,495 |
+| Dark Water Ride | 24.00% | ~29,773 |
+| Sunken | 24.00% | ~29,773 |
+| Deep Cut | 24.00% | ~29,773 |
 | FHALGOF'N' | 23.00% | ~28,532 |
 | Marsh Cannery | 21.00% | ~26,051 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,089 |
-| The only thing I have now | 16.00% | ~19,848 |
+| The only thing I have now | 16.00% | ~19,849 |
 | Not Another Boring Slideshow! | 15.00% | ~18,608 |
 | Naacalvision | 15.00% | ~18,608 |
 | I'll make a note of that... | 9.00% | ~11,165 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 718)
 | Gently down the stream... | 1.00% | ~1,241 |
 | Meta-reference | 1.00% | ~1,241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,051 (Ranked 76)  
+Progressed: 124,054 (Ranked 76)  
 Completed: 1,042 (0.84%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 1,042 (0.84%) (Ranked 150)
 | 2023-10-08 | 123,738 | 1,038 |
 | 2023-10-09 | 123,912 | 1,042 |
 | 2023-10-10 | 124,040 | 1,042 |
-| 2023-10-11 | 124,051 | 1,042 |
+| 2023-10-11 | 124,054 | 1,042 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "arco-03eeb3",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-10T19:57:52.4658393+00:00",
-  "LastUpdate_Ratings": "2023-10-11T01:41:26.2199885+00:00",
-  "LastUpdate_Achievements": "2023-10-11T01:48:26.8845576+00:00"
+  "LastUpdate_Ratings": "2023-10-11T02:15:02.368861+00:00",
+  "LastUpdate_Achievements": "2023-10-11T02:21:38.731895+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~359 |
+| Explorer | 67.00% | ~360 |
 | Cowardice | 60.00% | ~322 |
-| NO LIFE IS WORTH SAVING... | 51.00% | ~273 |
-| Eat Lead! | 48.00% | ~257 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~268 |
+| Eat Lead! | 48.00% | ~258 |
 | The Breaking Point | 46.00% | ~247 |
-| Prospector | 45.00% | ~241 |
+| Prospector | 45.00% | ~242 |
 | Here Comes the Boom | 44.00% | ~236 |
 | Treasure Hunter | 41.00% | ~220 |
 | Sniper Wolf | 41.00% | ~220 |
-| The Motivation | 40.00% | ~214 |
-| Heroism | 38.00% | ~204 |
-| Missing in Action | 37.00% | ~198 |
+| The Motivation | 40.00% | ~215 |
+| Heroism | 37.00% | ~199 |
+| Missing in Action | 37.00% | ~199 |
 | Collectibles of Chapter I | 35.00% | ~188 |
-| Consequences | 34.00% | ~182 |
-| King of Knives | 34.00% | ~182 |
+| Consequences | 34.00% | ~183 |
+| King of Knives | 34.00% | ~183 |
 | Opportunities | 33.00% | ~177 |
 | The Horror | 31.00% | ~166 |
 | The Difference | 28.00% | ~150 |
 | Vengeance | 27.00% | ~145 |
 | Collectibles of Chapter II | 24.00% | ~129 |
 | Broken Hopes | 24.00% | ~129 |
-| Bullseye! | 24.00% | ~129 |
+| Bullseye! | 23.00% | ~124 |
 | It's Just an Accident | 22.00% | ~118 |
 | Sorrow | 21.00% | ~113 |
 | Atonement | 19.00% | ~102 |
@@ -35,7 +35,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 16.00% | ~86 |
 | Helping Hand | 16.00% | ~86 |
 | Without a Second Thought | 16.00% | ~86 |
-| Collectibles of Chapter IV | 15.00% | ~80 |
+| Collectibles of Chapter IV | 15.00% | ~81 |
 | Collectibles of Chapter V | 11.00% | ~59 |
 | Such is War! | 9.00% | ~48 |
 | Tiptoe Around | 9.00% | ~48 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536 (Ranked 269)  
+Progressed: 537 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 312)
 | 2023-10-08 | 533 | 0 |
 | 2023-10-09 | 534 | 0 |
 | 2023-10-10 | 535 | 0 |
-| 2023-10-11 | 536 | 0 |
+| 2023-10-11 | 537 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
