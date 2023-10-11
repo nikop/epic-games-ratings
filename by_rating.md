@@ -9,7 +9,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 531 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,912 | 112 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 531 |
-| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,391 | 43 |
+| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,395 | 43 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 531 |
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 531 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 440 | 211 |
@@ -66,7 +66,7 @@
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 531 |
 | 61 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 531 |
 | 61 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 459 |
-| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 758 | 167 |
+| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 765 | 167 |
 | 61 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 271 | 252 |
 | 61 | [Sifu](games/s/sifu.md) | 4.82 | 6,662 | 54 |
 | 61 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 418 | 219 |
@@ -385,7 +385,7 @@
 | 374 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 531 |
 | 374 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 531 |
 | 374 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,260 | 135 |
-| 374 | [MudRunner](games/m/mudrunner.md) | 4.61 | 267 | 253 |
+| 374 | [MudRunner](games/m/mudrunner.md) | 4.61 | 268 | 253 |
 | 374 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 531 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 531 |
 | 374 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 703 | 176 |
@@ -401,7 +401,7 @@
 | 398 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 498 |
 | 398 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,210 | 27 |
 | 398 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 531 |
-| 398 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,722 | 73 |
+| 398 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,726 | 73 |
 | 398 | [Control](games/c/control.md) | 4.60 | 8,583 | 42 |
 | 398 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 531 |
 | 398 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 76 | 379 |
@@ -415,7 +415,7 @@
 | 398 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 262 | 255 |
 | 398 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 514 |
 | 398 | [Warframe](games/w/warframe.md) | 4.60 | 17,588 | 22 |
-| 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 486 | 205 |
+| 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 486 | 206 |
 | 417 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 170 | 296 |
 | 417 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 531 |
 | 417 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 383 | 225 |
@@ -427,9 +427,9 @@
 | 417 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 531 |
 | 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.59 | 128 | 318 |
 | 417 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 77 | 377 |
-| 417 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 210 | 275 |
+| 417 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 212 | 275 |
 | 417 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.59 | 45 | 424 |
-| 417 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 348 | 231 |
+| 417 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 349 | 231 |
 | 417 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,038 | 144 |
 | 417 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 531 |
 | 417 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 716 | 173 |
@@ -976,7 +976,7 @@
 | 973 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,010 | 83 |
 | 975 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 424 |
 | 975 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.95 | 0 | 531 |
-| 977 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 485 | 206 |
+| 977 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 488 | 205 |
 | 977 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 531 |
 | 977 | [Patron](games/p/patron.md) | 3.94 | 0 | 531 |
 | 980 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 475 |
