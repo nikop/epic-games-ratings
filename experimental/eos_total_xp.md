@@ -94,6 +94,7 @@
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Arto](../games/a/arto.md) | 18 | 1,000 |
+| [Ash of Gods: Redemption](../games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 50 | 1,000 |
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
 | [Asterix and Obelix Heroes](../games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 22 | 1,000 |

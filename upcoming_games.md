@@ -65,6 +65,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | - |  | - | - |
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-11-09 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2023-11-14 | - |  | - | - |
+| [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | - |  | - | - |
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 29 | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-11-22 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
@@ -79,7 +80,7 @@
 | [Tiki Tandems Full Game](games/b/b40c9a6594ec42518376f7899c4daa22.md) | 2023-11-30 | - |  | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | - |  | - | - |
-| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 69 | - | - |
+| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 70 | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-12-12 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | - |  | - | - |
@@ -191,7 +192,7 @@
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 63,678 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 63,698 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -240,6 +241,7 @@
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
 | [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
 | [33 Immortals](games/0/059c9bf09df94e09b059eefaea025de1.md) | 2099-01-01 | - |  | - | - |
+| [3D PrintMaster Simulator](games/9/996ae60e3cd84c7fb374489c1b9a8d88.md) | 2099-01-01 | - |  | - | - |
 | [A Frog's Job](games/a/a_frog's_job.md) | 2099-01-01 | - |  | - | - |
 | [A Rats Quest - The Way Back Home](games/e/ed29b31eb15546d1803598fd2264ea1e.md) | 2099-01-01 | - |  | - | - |
 | [Acceptance](games/a/acceptance.md) | 2099-01-01 | - |  | - | - |
@@ -320,6 +322,7 @@
 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 2099-01-01 | 8 (1,000 XP) | 1 | - | - |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2099-01-01 | - |  | - | - |
 | [Gastro Force](games/g/gastro_force.md) | 2099-01-01 | - |  | - | - |
+| [Gearhead Karting - Mechanic & Racing](games/0/042c79543dd84f6dbf27b129c55a0798.md) | 2099-01-01 | - |  | - | - |
 | [Gematombe](games/g/gematombe.md) | 2099-01-01 | - |  | - | - |
 | [Geppetto's Workshop](games/4/4701ddf3a9714750b30e7935bec28744.md) | 2099-01-01 | - |  | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |
@@ -338,6 +341,7 @@
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
+| [Kanjozoku Game レーサー Online Street Racing & Drift](games/5/54a196da2d224953aa49aada4f6ce465.md) | 2099-01-01 | - |  | - | - |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | - |  | - | - |
 | [KIBORG](games/d/d53159b0a47c43d08a92968a6fd9cd78.md) | 2099-01-01 | - |  | - | - |
@@ -370,7 +374,6 @@
 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 2099-01-01 | - |  | - | - |
 | [Munlay Online](games/c/c1c4ebf44f4e46c0be20c5741ddccade.md) | 2099-01-01 | - |  | - | - |
 | [Mutus Meteora](games/0/06a3d76750a1495d853e3067de19c377.md) | 2099-01-01 | - |  | - | - |
-| [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2099-01-01 | - |  | - | - |
 | [New Arc Line](games/8/8d86c6965e66438d89f062a09a273782.md) | 2099-01-01 | - |  | - | - |
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |

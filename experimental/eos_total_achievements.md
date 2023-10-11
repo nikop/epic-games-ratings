@@ -144,6 +144,7 @@
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
+| [Ash of Gods: Redemption](../games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 50 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |
 | [Circus Electrique](../games/c/circus_electrique.md) | 50 | 1,000 |
 | [EBOLA 3](../games/e/ebola_3.md) | 50 | 1,000 |

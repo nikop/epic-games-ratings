@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.08% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.06% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -70,7 +70,7 @@
 | 68 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.08% |
 | 69 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.02% |
 | 70 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 4.00% |
-| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.87% |
+| 71 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 3.86% |
 | 72 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
 | 73 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.78% |
@@ -123,7 +123,7 @@
 | 121 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 122 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 123 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
-| 123 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.45% |
+| 124 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.43% |
 | 125 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 126 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
 | 127 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
@@ -328,6 +328,7 @@
 | 312 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 0.00% |
 | 312 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
 | 312 | [Arto](games/a/arto.md) | 0.00% |
+| 312 | [Ash of Gods: Redemption](games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 0.00% |
 | 312 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
 | 312 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 0.00% |
 | 312 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 0.00% |
@@ -660,4 +661,4 @@
 | 312 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 312 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 312 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,375 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,379 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
