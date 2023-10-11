@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
-| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.29% |
+| 2 | [The Riflemen](games/t/the_riflemen.md) | 53.24% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.17% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.12% |
@@ -43,7 +43,7 @@
 | 41 | [Sonic Origins](games/s/sonic_origins.md) | 7.75% |
 | 42 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
+| 44 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 46 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.43% |
 | 47 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -121,8 +121,8 @@
 | 119 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.69% |
 | 120 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 121 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
-| 122 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.49% |
-| 123 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 122 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 123 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 1.47% |
 | 124 | [Iron Danger](games/i/iron_danger.md) | 1.45% |
 | 125 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 126 | [Ten Dates](games/t/ten_dates.md) | 1.39% |
@@ -133,7 +133,7 @@
 | 131 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 131 | [Lemon Cake](games/l/lemon_cake.md) | 1.32% |
 | 131 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.32% |
-| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.22% |
+| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.21% |
 | 135 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.13% |
 | 136 | [Trifox](games/t/trifox.md) | 1.09% |
 | 137 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.06% |
@@ -222,10 +222,10 @@
 | 220 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
 | 220 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 222 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 222 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.19% |
 | 222 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
-| 224 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 224 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.18% |
+| 225 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 225 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 227 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 227 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.17% |
 | 229 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
