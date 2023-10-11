@@ -150,7 +150,7 @@
 | 139 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 531 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 531 |
 | 149 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 822 | 160 |
-| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,005 | 25 |
+| 149 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 15,231 | 25 |
 | 149 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 713 | 175 |
 | 149 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 531 |
 | 149 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,209 | 52 |
@@ -728,6 +728,7 @@
 | 718 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 531 |
 | 718 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.40 | 568 | 194 |
 | 718 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 114 | 332 |
+| 729 | [Godlike Burger](games/g/godlike_burger.md) | 4.39 | 0 | 531 |
 | 729 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 531 |
 | 729 | [MORDHAU](games/m/mordhau.md) | 4.39 | 771 | 165 |
 | 729 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,770 | 35 |
@@ -737,28 +738,27 @@
 | 729 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.39 | 0 | 531 |
 | 729 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 0 | 531 |
 | 729 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 531 |
-| 738 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 0 | 531 |
-| 738 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 531 |
-| 738 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 531 |
-| 738 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 587 | 191 |
-| 738 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
-| 738 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 292 |
-| 738 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 42 | 433 |
-| 738 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 381 |
-| 738 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 531 |
-| 738 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 241 | 262 |
-| 738 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 531 |
-| 738 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 531 |
-| 750 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 531 |
-| 750 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.37 | 34 | 459 |
-| 750 | [Godlike Burger](games/g/godlike_burger.md) | 4.37 | 0 | 531 |
-| 750 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 531 |
-| 750 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,151 | 108 |
-| 750 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 531 |
-| 750 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 71 | 386 |
-| 750 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.37 | 0 | 531 |
-| 750 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 531 |
-| 750 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 467 |
+| 739 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.38 | 0 | 531 |
+| 739 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 531 |
+| 739 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 531 |
+| 739 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 587 | 191 |
+| 739 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 301 |
+| 739 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 173 | 292 |
+| 739 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 42 | 433 |
+| 739 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 74 | 381 |
+| 739 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.38 | 0 | 531 |
+| 739 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 241 | 262 |
+| 739 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 531 |
+| 739 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 531 |
+| 751 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 531 |
+| 751 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.37 | 34 | 459 |
+| 751 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.37 | 0 | 531 |
+| 751 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,151 | 108 |
+| 751 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 531 |
+| 751 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 71 | 386 |
+| 751 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.37 | 0 | 531 |
+| 751 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 531 |
+| 751 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 467 |
 | 760 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 531 |
 | 760 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 531 |
 | 760 | [Core](games/c/core.md) | 4.36 | 756 | 168 |

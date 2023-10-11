@@ -106,8 +106,8 @@
 | 104 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 105 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 106 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.27% |
-| 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.15% |
-| 108 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
+| 107 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
+| 107 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2.14% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.08% |
 | 110 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 111 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -118,7 +118,7 @@
 | 116 | [Frogun](games/f/frogun.md) | 1.79% |
 | 116 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.79% |
 | 118 | [Somerville](games/s/somerville.md) | 1.70% |
-| 119 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.69% |
+| 119 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.67% |
 | 120 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 121 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 122 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
